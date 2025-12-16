@@ -3,84 +3,54 @@ created: <% tp.file.creation_date("YYYY-MM-DD") %>
 tags: vocabulary, flashcard
 type: word
 mastery: 🔴 New
-difficulty: <% tp.system.suggester(["⭐ Easy", "⭐⭐ Medium", "⭐⭐⭐ Hard"], ["easy", "medium", "hard"]) %>
-reviewed: 0
-source: [[<% tp.system.prompt("Nguồn (tên bài báo/video)?") %>]]
 ---
 
 # <% tp.file.title %>
 
-## 🔊 Pronunciation & IPA
-**IPA:** /<% tp.file.cursor(1) %>/
-**Audio:** (dùng Dictionary plugin để nghe)
+## 🔊 Pronunciation
+**IPA:** /  /
 
 ---
 
-## 💡 Definition & Meaning
+## 💡 Definition
 
-**Meaning (English):** <% tp.file.cursor(2) %>
+**English:** 
 
-**Nghĩa (Tiếng Việt):** <% tp.file.cursor(3) %>
+**Vietnamese:** 
 
-**Word type:** <% tp.system.suggester(["noun", "verb", "adjective", "adverb", "preposition", "conjunction"], ["noun", "verb", "adjective", "adverb", "preposition", "conjunction"]) %>
+**Word type:** 
 
 ---
 
-## 🧩 Context (Ngữ cảnh gốc)
+## 🧩 Context
 
 > [!quote] Original Sentence
-> <% tp.file.cursor(4) %>
->
-> — From: [[<% tp.system.prompt("Tên nguồn?") %>]]
-
-**Giải thích ngữ cảnh:**
-<% tp.file.cursor(5) %>
+> 
+> — From: [[]]
 
 ---
 
-## 🎯 Example Sentences (Tự tạo)
+## 🎯 Examples
 
-1. <% tp.file.cursor(6) %>
-2.
-3.
-
----
-
-## 🕸️ Connections & Relationships
-
-### Related Words
-- **Synonym (Đồng nghĩa):** [[ ]]
-- **Antonym (Trái nghĩa):** [[ ]]
-- **Word Family:** [[ ]] → [[ ]] → [[ ]]
-- **Collocation:** [[ ]] + [[ ]]
+1. 
+2. 
+3. 
 
 ---
 
-## 🧠 Spaced Repetition Cards
+## 🕸️ Related Words
 
-### Card 1: Recognition
+- **Synonym:** [[]]
+- **Antonym:** [[]]
+- **Word Family:** [[]] → [[]] → [[]]
+
+---
+
+## 🧠 Flashcard
+
 Question:: What does **<% tp.file.title %>** mean?
-Answer:: <% tp.file.cursor(7) %>
-
-### Card 2: Production
-Question:: How do you say "..." in English? (context)
-Answer:: **<% tp.file.title %>**
-
-### Card 3: Usage
-Question:: Complete: "Yesterday, I ___ (verb) to the store"
-Answer:: <% tp.file.title %> (với giải thích)
+Answer:: 
 
 ---
 
-## 📈 Learning Progress
-
-**Lần gặp:** 1
-**Lần ôn tập:** 0
-**Độ tự tin:** 🔴 Chưa nhớ
-
----
-
-## 💭 Personal Notes & Mnemonic
-> Thủ thuật ghi nhớ cá nhân, hình ảnh liên tưởng, câu chuyện...
-
-<% tp.file.cursor(8) %>
+## 💭 Notes

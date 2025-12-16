@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8fae1eca70032cbf",
+        "id": "1aafade24969ec67",
         "type": "tabs",
         "children": [
           {
-            "id": "57578396b7c8ecda",
+            "id": "43cf973b926ca83c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "834c620098708824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/something.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "something"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "20_Vocabulary/something.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for something"
             }
           },
           {
@@ -109,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "20_Vocabulary/something.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from something"
             }
           },
           {
@@ -152,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "20_Vocabulary/something.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of something"
             }
           },
           {
@@ -196,10 +215,16 @@
   },
   "active": "5c98256179590bd2",
   "lastOpenFiles": [
+    "Welcome.md",
+    "20_Vocabulary/something.md",
+    "99_Templates/tpl_Vocabulary.md.bak",
+    "99_Templates/tpl_Vocabulary copy.md",
+    "99_Templates/tpl_Vocabulary.md",
+    "20_Vocabulary/delete.md",
+    "20_Vocabulary/ready.md",
     "README.md",
     "99_System/Dashboard.md",
     "99_Templates/tpl_Structure.md",
-    "99_Templates/tpl_Vocabulary.md",
     "99_Templates/tpl_Source_Input.md",
     "99_System",
     "99_Templates",
@@ -208,7 +233,6 @@
     "10_Sources/Videos",
     "10_Sources/Articles",
     "10_Sources",
-    "00_Inbox",
-    "Welcome.md"
+    "00_Inbox"
   ]
 }
