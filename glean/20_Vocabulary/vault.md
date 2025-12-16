@@ -5,6 +5,7 @@ category: word
 confidence:
 mastery: 🔴 New
 ---
+
 vault
 # vault
 
@@ -29,18 +30,18 @@ vault
 **Suffix:** (Không có hậu tố đặc biệt)
 
 ### Word Family (Họ từ cùng gốc)
-- **Noun:** vault, vaulting
-- **Verb:** vault
-- **Adjective:** vaulted
-- **Adverb:** (Không có)
+- **Noun:** [[vault]], [[vaulting]]
+- **Verb:** [[vault]]
+- **Adjective:** [[vaulted]]
+- **Adverb:** [[]]
 
 ### Related Words (Same Root)
 > Các từ khác cùng gốc:
 - [[involve]] - bao gồm, liên quan đến (in- + volvere)
-- **revolve** - xoay vòng, quay quanh (re- + volvere)
-- **volume** - thể tích, cuốn sách (vol- + ume, từ "roll" - cuộn)
-- **convoluted** - phức tạp, rối rắm (con- + voluted)
-- **devolve** - chuyển giao, ủy thác (de- + volvere)
+- [[revolve]] - xoay vòng, quay quanh (re- + volvere)
+- [[volume]] - thể tích, cuốn sách (vol- + ume, từ "roll" - cuộn)
+- [[convoluted]] - phức tạp, rối rắm (con- + voluted)
+- [[devolve]] - chuyển giao, ủy thác (de- + volvere)
 
 ---
 
@@ -60,7 +61,7 @@ vault
 - **Danh từ:** hầm, két sắt, kho, mái vòm, trần vòm
 - **Động từ:** nhảy qua, vượt qua (bằng cách bật lên)
 
-### Nuances (Sắc thái nghĩa)
+### Nuances
 > Các nghĩa khác nhau tuỳ ngữ cảnh:
 - **Storage vault:** Két sắt, kho chứa (cho tiền, tài liệu, đồ giá trị)
 - **Cathedral vault:** Mái vòm (trong kiến trúc nhà thờ Gothic)
@@ -72,46 +73,46 @@ vault
 
 ## 🔗 Relations
 
-### Synonyms (Đồng nghĩa)
+### Synonyms
 
 | Word | Meaning | Usage Difference |
 |------|---------|------------------|
-| **safe** | két sắt, an toàn | Thường nhỏ hơn vault, dùng trong nhà, cá nhân |
-| **strongroom** | phòng bảo mật | Tương tự vault nhưng thường trong ngân hàng |
-| **chamber** | phòng, buồng | Tổng quát hơn, không nhất thiết để chứa đồ giá trị |
-| **arch** | vòm | Chỉ cấu trúc vòm, không phải không gian bên dưới |
-| **leap** | nhảy | Tổng quát hơn vault, không cần dùng tay hoặc xà |
-| **jump** | nhảy | Nhảy thông thường, không có kỹ thuật như vault |
+| [[safe]] | két sắt, an toàn | Thường nhỏ hơn vault, dùng trong nhà, cá nhân |
+| [[strongroom]] | phòng bảo mật | Tương tự vault nhưng thường trong ngân hàng |
+| [[chamber]] | phòng, buồng | Tổng quát hơn, không nhất thiết để chứa đồ giá trị |
+| [[arch]] | vòm | Chỉ cấu trúc vòm, không phải không gian bên dưới |
+| [[leap]] | nhảy | Tổng quát hơn vault, không cần dùng tay hoặc xà |
+| [[jump]] | nhảy | Nhảy thông thường, không có kỹ thuật như vault |
 
-### Antonyms (Trái nghĩa)
+### Antonyms
 
 | Word | Meaning | Usage Difference |
 |------|---------|------------------|
-| **expose** | phơi bày, lộ ra | Trái ngược với bảo mật của vault |
-| **reveal** | tiết lộ | Đối lập với việc giấu giếm trong vault |
-| **open** | mở ra | Trái với đóng kín của vault |
-| **lower** | hạ xuống | Đối lập với "vault" là nhảy lên, vươn lên |
-| **descend** | đi xuống | Ngược lại với động tác nhảy lên cao của vault |
+| [[expose]] | phơi bày, lộ ra | Trái ngược với bảo mật của vault |
+| [[reveal]] | tiết lộ | Đối lập với việc giấu giếm trong vault |
+| [[open]] | mở ra | Trái với đóng kín của vault |
+| [[lower]] | hạ xuống | Đối lập với "vault" là nhảy lên, vươn lên |
+| [[descend]] | đi xuống | Ngược lại với động tác nhảy lên cao của vault |
 
 ---
 
 ## 📝 Usage
 
-### Collocations (Cụm từ đi kèm)
+### Collocations
 
 | Phrase | Meaning | Frequency |
 |--------|---------|-----------|
-| **bank vault** | két sắt ngân hàng | very common |
-| **vault door** | cửa két sắt | common |
-| **vaulted ceiling** | trần vòm | common |
-| **pole vault** | nhảy xà (thể thao) | very common |
-| **safety vault** | hầm an toàn, hầm tránh | common |
-| **vault into** | nhảy vào | uncommon |
-| **vault over** | nhảy qua | common |
-| **burial vault** | quan tài đá, hầm mộ | uncommon |
-| **cloud vault** | kho lưu trữ đám mây | common (IT) |
+| bank vault | két sắt ngân hàng | very common |
+| [[vault door]] | cửa két sắt | common |
+| [[vaulted ceiling]] | trần vòm | common |
+| [[pole vault]] | nhảy xà (thể thao) | very common |
+| [[safety vault]] | hầm an toàn, hầm tránh | common |
+| [[vault into]] | nhảy vào | uncommon |
+| [[vault over]] | nhảy qua | common |
+| [[burial vault]] | quan tài đá, hầm mộ | uncommon |
+| [[cloud vault]] | kho lưu trữ đám mây | common (IT) |
 
-### Examples (Ví dụ câu)
+### Examples
 
 #### Example 1
 **Sentence:** The bank robbers couldn't break into the vault because it had a 12-inch steel door.
@@ -152,9 +153,8 @@ vault
 3. Tìm 5 từ đồng nghĩa với "vault" trong nghĩa "két sắt"
 
 ### Related Concepts (Khái niệm liên quan)
-- **Architecture:** arch, dome, ceiling, Gothic, Romanesque
-- **Security:** safe, strongroom, lock, security system
-- **Sports:** gymnastics, athletics, pole vault, high jump
+- [[security]]
+- [[architecture]]
 
 ---
 
@@ -166,7 +166,7 @@ vault
 > — Timestamp:
 
 **Giải thích ngữ cảnh:**
-[]
+
 
 ---
 
@@ -181,7 +181,7 @@ Question:: Từ tiếng Anh nào có nghĩa là "két sắt" hoặc "mái vòm"?
 Answer:: **vault**
 
 ### Card 3: Usage (Sử dụng)
-Question:: Use **vault** in a sentence about banking
+Question:: Use **vault** in a sentence about [context]
 Answer:: The bank's vault contains millions of dollars in cash and gold.
 
 ### Card 4: Collocation (Cụm từ)
@@ -218,7 +218,7 @@ The athlete took a running **vault** over the barrier to reach the bank's **vaul
 
 ## 🔖 Tags & Categories
 
-**Themes:** #architecture #security #sports
-**Topics:** #banking #construction #athletics #gymnastics
-**Difficulty:** #intermediate #B2
-**Source Type:** #article #book
+**Themes:** #[[architecture]] #[[security]] #[[sports]]
+**Topics:** #[[banking]] #[[construction]] #[[athletics]] #[[gymnastics]]
+**Difficulty:** #[[intermediate]] #[[B2]]
+**Source Type:** #video / #article / #book / #conversation

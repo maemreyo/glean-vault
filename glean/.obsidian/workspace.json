@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3f6d0716779fe0b",
+        "id": "015db02c3cdfe816",
         "type": "tabs",
         "children": [
           {
-            "id": "43966aeca2fc856d",
+            "id": "58b60c1e51fb823f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,13 +195,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43966aeca2fc856d",
+  "active": "58b60c1e51fb823f",
   "lastOpenFiles": [
+    "20_Vocabulary/vaulting.md",
+    "20_Vocabulary/vault.md",
     "20_Vocabulary/hello.md",
     "20_Vocabulary/Untitled.md",
     "[[hello.md",
     "hello.md",
-    "20_Vocabulary/vault.md",
     "20_Vocabulary/involve.md",
     "99_System/Dashboard.md",
     "99_Templates/tpl_Structure.md",

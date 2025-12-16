@@ -1,12 +1,12 @@
 ---
-created: <% tp.file.creation_date("YYYY-MM-DD") %>
+created: 2025-12-16
 tags: vocabulary, flashcard
 category: word
-confidence: 
+confidence:
 mastery: 🔴 New
 ---
 
-# <% tp.file.title %>
+# vaulting
 
 ## 📊 Meta Information
 
@@ -28,13 +28,13 @@ mastery: 🔴 New
 **Prefix:** (tiền tố, ví dụ: "in-" = not)
 **Suffix:** (hậu tố, ví dụ: "-tion" = noun form)
 
-### Word Family
+### Word Family (Họ từ cùng gốc)
 - **Noun:** [[]]
 - **Verb:** [[]]
 - **Adjective:** [[]]
 - **Adverb:** [[]]
 
-### Related Words
+### Related Words (Same Root)
 > Các từ khác cùng gốc:
 - [[]] - (meaning)
 - [[]] - (meaning)
@@ -44,16 +44,16 @@ mastery: 🔴 New
 
 ## 💡 Definitions
 
-### Root Meaning
+### Root Meaning (Nghĩa gốc trong từ điển)
 
 
-### Context Meaning
+### Context Meaning (Nghĩa trong ngữ cảnh cụ thể)
 
 
 ### Vietnamese Translation
 
 
-### Nuances
+### Nuances (Sắc thái nghĩa)
 > Các nghĩa khác nhau tuỳ ngữ cảnh:
 - 
 - 
@@ -62,14 +62,14 @@ mastery: 🔴 New
 
 ## 🔗 Relations
 
-### Synonyms
+### Synonyms (Đồng nghĩa)
 
 | Word | Meaning | Usage Difference |
 |------|---------|------------------|
 | [[]] |  |  |
 | [[]] |  |  |
 
-### Antonyms
+### Antonyms (Trái nghĩa)
 
 | Word | Meaning | Usage Difference |
 |------|---------|------------------|
@@ -80,7 +80,7 @@ mastery: 🔴 New
 
 ## 📝 Usage
 
-### Collocations
+### Collocations (Cụm từ đi kèm)
 
 | Phrase | Meaning | Frequency |
 |--------|---------|-----------|
@@ -88,7 +88,7 @@ mastery: 🔴 New
 |  |  |  |
 |  |  |  |
 
-### Examples
+### Examples (Ví dụ câu)
 
 #### Example 1
 **Sentence:** 
@@ -105,7 +105,7 @@ mastery: 🔴 New
 **Translation:** 
 **Context:** 
 
-### Common Mistakes
+### Common Mistakes (Lỗi sai phổ biến)
 
 | Mistake ❌ | Correction ✅ | Explanation |
 |-----------|--------------|-------------|
@@ -116,22 +116,22 @@ mastery: 🔴 New
 
 ## 🎯 Learning Tips
 
-### Memory Techniques
+### Memory Techniques (Kỹ thuật ghi nhớ)
 1. 
 2. 
 3. 
 
-### Practice Exercises
+### Practice Exercises (Bài tập)
 1. 
 2. 
 
-### Related Concepts
+### Related Concepts (Khái niệm liên quan)
 - [[]]
 - [[]]
 
 ---
 
-## 🧩 Context
+## 🧩 Context (Nguồn gốc câu gặp)
 
 > [!quote] Original Sentence
 > 
@@ -145,24 +145,24 @@ mastery: 🔴 New
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Recognition
-Question:: What does **<% tp.file.title %>** mean?
+### Card 1: Recognition (Nhận biết)
+Question:: What does **vaulting** mean?
 Answer:: 
 
-### Card 2: Production
+### Card 2: Production (Sản xuất)
 Question:: Từ tiếng Anh nào có nghĩa là "..."?
-Answer:: **<% tp.file.title %>**
+Answer:: **vaulting**
 
-### Card 3: Usage
-Question:: Use **<% tp.file.title %>** in a sentence about [context]
+### Card 3: Usage (Sử dụng)
+Question:: Use **vaulting** in a sentence about [context]
 Answer:: 
 
-### Card 4: Collocation
-Question:: What are 3 common collocations with **<% tp.file.title %>**?
+### Card 4: Collocation (Cụm từ)
+Question:: What are 3 common collocations with **vaulting**?
 Answer:: 
 
-### Card 5: Root Analysis
-Question:: What is the root of **<% tp.file.title %>** and what does it mean?
+### Card 5: Root Analysis (Phân tích gốc)
+Question:: What is the root of **vaulting** and what does it mean?
 Answer:: 
 
 ---
@@ -178,13 +178,13 @@ Answer::
 
 ## 💭 Personal Notes & Mnemonics
 
-### Visual Association
+### Visual Association (Liên tưởng hình ảnh)
 
 
-### Story/Situation
+### Story/Situation (Câu chuyện ghi nhớ)
 
 
-### Personal Connection
+### Personal Connection (Kết nối cá nhân)
 
 
 ---
