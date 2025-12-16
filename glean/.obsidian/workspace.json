@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a473fcdcd722beb0",
+        "id": "1d3ee615c531d042",
         "type": "tabs",
         "children": [
           {
-            "id": "17491682e3bcbbc2",
+            "id": "4c7bb15e8c6a6e52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/involvement.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "involvement"
             }
           }
         ]
@@ -200,11 +204,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60f2456acc9442d5",
+  "active": "4c7bb15e8c6a6e52",
   "lastOpenFiles": [
-    "20_Vocabulary/something.md",
+    "20_Vocabulary/involvement.md",
     "20_Vocabulary/involve.md",
     "20_Vocabulary/vault.md",
+    "20_Vocabulary/something.md",
     "20_Vocabulary/vaulted.md",
     "20_Vocabulary/vaulting.md",
     "20_Vocabulary/convoluted.md",
