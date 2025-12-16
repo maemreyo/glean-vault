@@ -3,7 +3,14 @@ created: <% tp.file.creation_date("YYYY-MM-DD") %>
 tags: structure, flashcard, grammar
 mastery: 🔴 New
 type: <% tp.system.suggester(["Grammar", "Idiom", "Collocation", "Phrase", "Sentence"], ["grammar", "idiom", "collocation", "phrase", "sentence"]) %>
-source: [[<% tp.system.prompt("Nguồn?") %>]]
+source: [[<%*
+const activeFile = app.workspace.getActiveFile();
+if (activeFile) {
+  tR += activeFile.basename;
+} else {
+  tR += tp.system.prompt("No active file. Enter source:");
+}
+%>]]
 ---
 
 # <% tp.file.title %>
@@ -245,7 +252,14 @@ const type = tp.frontmatter.type;
 
 > [!quote] Original
 > <% tp.file.cursor(5) %>
-> — From: [[<% tp.system.prompt("Nguồn?") %>]]
+> — From: [[<%*
+const activeFile = app.workspace.getActiveFile();
+if (activeFile) {
+  tR += activeFile.basename;
+} else {
+  tR += tp.system.prompt("No active file. Enter source:");
+}
+%>]]
 
 **Context Analysis:**
 
