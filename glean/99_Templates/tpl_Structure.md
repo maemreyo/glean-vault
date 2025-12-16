@@ -2,290 +2,261 @@
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
 tags: structure, flashcard, grammar
 mastery: 🔴 New
-type: <% tp.system.suggester(["Grammar", "Idiom", "Collocation", "Phrase", "Sentence"], ["grammar", "idiom", "collocation", "phrase", "sentence"]) %>
-source: [[<%*
-const activeFile = app.workspace.getActiveFile();
-if (activeFile) {
-  tR += activeFile.basename;
-} else {
-  tR += tp.system.prompt("No active file. Enter source:");
-}
-%>]]
+type: structure
 ---
-
-# <% tp.file.title %>
-
-<%*
-const type = tp.frontmatter.type;
-*%>
 
 ## 📊 Meta Information
 
-| Property | Value |
-| -------- | ----- |
-| **Type** | <% type %> |
-| **Structure** |  |
-| **Complexity** |  |
-| **CEFR Level** | (A1/A2/B1/B2/C1/C2) |
-| **Frequency** | (common/uncommon/rare) |
-| **Register** | (formal/informal/academic/business) |
+| Property          | Value                               |
+| ----------------- | ----------------------------------- |
+| **Type**          | Structure                           |
+| **Structure**     |                                     |
+| **Pattern**       |                                     |
+| **Complexity**    | (basic/intermediate/advanced)       |
+| **CEFR Level**    | (A1/A2/B1/B2/C1/C2)                 |
+| **Frequency**     | (common/uncommon/rare)              |
+| **Register**      | (formal/informal/academic/business) |
+| **Grammar Focus** |                                     |
 
 ---
 
-<%* if (type === "phrase") { *%>
+## 🔍 Structural Analysis
 
-## 🎯 Phrase Analysis
-
-### Phrase Structure
-**Type:** (phrasal verb/idiom/collocation/compound noun)
-**Pattern:** <% tp.file.cursor(1) %>
+### Pattern Recognition
+**Structure Type:** 
+**Formula/Pattern:**
 **Components:**
-- **Main word:**
-- **Particle/Preposition:**
-- **Additional elements:**
+- **Component 1:**
+- **Component 2:**
+- **Component 3:**
 
-### Meaning
-**Literal meaning:** <% tp.file.cursor(2) %>
-**Figurative meaning:**
-**Vietnamese translation:**
-**Usage notes:**
+### Formation Rules
+**Rule 1:**
+**Rule 2:**
+**Rule 3:**
 
 ### Variations
-1. **Variation 1:**  -
-2. **Variation 2:**  -
+1. **Variation A:**
+   - **When to use:**
+   - **Example:**
 
-<%* } else if (type === "sentence") { *%>
+2. **Variation B:**
+   - **When to use:**
+   - **Example:**
 
-## 📝 Sentence Analysis
+---
 
-### Sentence Structure
-**Type:** (simple/compound/complex)
-**Complexity:** (basic/intermediate/advanced)
-**Purpose:** (inform/persuade/describe/question/etc)
-**Tone:** (formal/informal/neutral/ironic/etc)
+## 💡 Meaning & Usage
 
-### Components
-**Subject:** <% tp.file.cursor(1) %>
-**Predicate:**
-**Main clause:**
-**Subordinate clauses:**
-
-### Meaning Analysis
-**Main idea:** <% tp.file.cursor(2) %>
-**Supporting ideas:**
-**Sentiment:** (positive/negative/neutral/mixed)
-
-### Style Analysis
-**Clarity:**
-**Conciseness:**
-**Emphasis:**
-
-<%* } else if (type === "collocations") { *%>
-
-## 🔗 Collocation Analysis
-
-### Focus Words
-<% tp.file.cursor(1) %>
-
-### Collocation Patterns
-**Type:** (verb+noun/adjective+noun/adverb+verb/etc)
-**Frequency level:** (very common/common/uncommon)
-
-### Identified Collocations
-1. **:**
-   - **Structure:**
-   - **Meaning:**
-   - **Usage:**
-   - **Frequency:**
-
-2. **:**
-   - **Structure:**
-   - **Meaning:**
-   - **Usage:**
-   - **Frequency:**
-
-3. **:**
-   - **Structure:**
-   - **Meaning:**
-   - **Usage:**
-   - **Frequency:**
-
-<%* } else if (type === "idioms") { *%>
-
-## 🎭 Idiom Analysis
-
-### Idiom Information
-**Full idiom:** <% tp.file.cursor(1) %>
-**Type:** (proverb/slang/metaphor/etc)
-**Cultural context:** (British/American/global/etc)
-**Historical period:**
-
-### Meaning
+### Core Meaning
 **Literal meaning:**
-**Figurative meaning:** <% tp.file.cursor(2) %>
-**Origin:**
-- **Source:**
-- **Historical context:**
+**Figurative meaning:**
+**Conceptual meaning:**
 
-### Usage
-**Context:**
-**Register:** (formal/informal/literary/business)
-**Frequency:** (very common/common/uncommon/archaic)
+### Functional Meaning
+**Purpose in communication:**
+**Intended effect:**
+**Semantic role:**
 
-### Variations
-1. **Form:**  -
-2. **Form:**  -
+### Vietnamese Translation
+**Direct translation:**
+**Contextual translation:**
+**Idiomatic equivalent (if any):**
 
-### Related Expressions
--  -
--  -
+### Nuances & Distinctions
+- **Formal vs. Informal usage:**
+- **Written vs. Spoken preference:**
+- **Regional variations (US/UK/etc):**
+- **Register-specific usage:**
 
-<%* } else if (type === "grammar") { *%>
+---
 
-## 📐 Grammar Analysis
+## 🔗 Relations & Connections
 
-### Grammar Focus
-**Structure type:** <% tp.file.cursor(1) %>
-**Pattern:**
-**Complexity level:** (basic/intermediate/advanced)
+### Similar Structures
+| Structure | Key Difference | When to Use |
+| --------- | -------------- | ----------- |
+| [[ ]] | | |
+| [[ ]] | | |
+| [[ ]] | | |
 
-### Rule Explanation
-**Description:** <% tp.file.cursor(2) %>
-**Formation:**
-**Usage rules:**
+### Contrasting Structures
+| Structure | Key Difference | Common Confusion |
+| --------- | -------------- | ---------------- |
+| [[ ]] | | |
+| [[ ]] | | |
 
-### Examples
-1. **Correct:**
-   **Translation:**
-   **Analysis:**
-
-2. **Correct:**
-   **Translation:**
-   **Analysis:**
-
-### Common Errors
-1. **Error:**
-   **Correction:**
-   **Explanation:**
-
-2. **Error:**
-   **Correction:**
-   **Explanation:**
-
-### Variations
-- **Formal:**
-- **Informal:**
-- **Alternative:**
-
-<%* } *%>
+### Related Concepts
+- [[ ]] - (relationship)
+- [[ ]] - (relationship)
+- [[ ]] - (relationship)
 
 ---
 
 ## 📝 Usage Examples
 
-### Example 1
-
+### Example 1: Formal Context
 | | |
 | --- | --- |
 | **Sentence** | <% tp.file.cursor(3) %> |
 | **Translation** | |
 | **Context** | |
-| **Source** | |
+| **Register** | Formal |
+| **Analysis** | |
 
-### Example 2
-
+### Example 2: Informal Context
 | | |
 | --- | --- |
 | **Sentence** | |
 | **Translation** | |
 | **Context** | |
-| **Source** | |
+| **Register** | Informal |
+| **Analysis** | |
 
-### Example 3
-
+### Example 3: Academic Context
 | | |
 | --- | --- |
 | **Sentence** | |
 | **Translation** | |
 | **Context** | |
-| **Source** | |
+| **Register** | Academic |
+| **Analysis** | |
+
+### Example 4: Business Context
+| | |
+| --- | --- |
+| **Sentence** | |
+| **Translation** | |
+| **Context** | |
+| **Register** | Business |
+| **Analysis** | |
 
 ---
 
 ## ⚠️ Common Mistakes
 
 | Mistake ❌ | Correction ✅ | Explanation |
-| --- | --- | --- |
+| ----------- | ------------- | ----------- |
 | | | |
 | | | |
 | | | |
+| | | |
+
+### Error Patterns
+1. **Pattern Error:**
+   - **Common mistake:**
+   - **Why it happens:**
+   - **How to avoid:**
+
+2. **Usage Error:**
+   - **Common mistake:**
+   - **Why it happens:**
+   - **How to avoid:**
 
 ---
 
-## 🎯 Learning Tips
+## 🎯 Learning Strategies
 
 ### Memory Techniques
-1. <% tp.file.cursor(4) %>
-2.
-3.
+1. **Visual Association:** 
+2. **Pattern Recognition:**
+3. **Contextual Learning:**
 
 ### Practice Exercises
-1.
-2.
-3.
+1. **Recognition Exercise:**
+   - **Task:** Identify this structure in authentic texts
+   - **Examples to find:**
 
-### Usage Guidelines
-- When to use:
-- When to avoid:
-- Formal vs. informal:
+2. **Production Exercise:**
+   - **Task:** Create sentences using this structure
+   - **Prompts:**
+     - Prompt 1:
+     - Prompt 2:
+     - Prompt 3:
+
+3. **Transformation Exercise:**
+   - **Task:** Transform sentences using variations
+   - **Examples:**
+
+### Learning Tips
+- **When to use this structure:**
+- **When to avoid this structure:**
+- **Common collocations:**
+- **Transition words that work well:**
 
 ---
 
-## 🔗 Related Structures
-- [[ ]]
-- [[ ]]
-- [[ ]]
+## 🧩 Context Analysis
 
----
-
-## 🧩 Context
-
-> [!quote] Original
+> [!quote] Original Example
 > <% tp.file.cursor(5) %>
-> — From: [[<%*
-const activeFile = app.workspace.getActiveFile();
-if (activeFile) {
-  tR += activeFile.basename;
-} else {
-  tR += tp.system.prompt("No active file. Enter source:");
-}
-%>]]
 
 **Context Analysis:**
+- **Situation:**
+- **Purpose:**
+- **Audience:**
+- **Effectiveness:**
 
+---
+
+## 📚 Advanced Analysis
+
+### Stylistic Considerations
+**Formality spectrum:**
+- **Most formal:**
+- **Neutral:**
+- **Most informal:**
+
+**Rhetorical effects:**
+- **Emphasis:**
+- **Clarity:**
+- **Conciseness:**
+- **Persuasive power:**
+
+### Frequency Analysis
+**Corpus data:**
+- **Academic writing:**
+- **Business communication:**
+- **Fiction:**
+- **News media:**
+- **Spoken conversation:**
+
+### Cultural Notes
+**Cultural preferences:**
+- **US English:**
+- **UK English:**
+- **Other varieties:**
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Recognition
-**Question::** What does **<% tp.file.title %>** mean?
+### Card 1: Pattern Recognition
+**Question::** What is the structure pattern for **<% tp.file.title %>**?
 **Answer::**
 
-### Card 2: Production
-**Question::** Complete the sentence: [sentence with blank]
+### Card 2: Meaning
+**Question::** What does **<% tp.file.title %>** express?
 **Answer::**
 
 ### Card 3: Usage
-**Question::** Use **<% tp.file.title %>** in a [context type] sentence.
+**Question::** When should you use **<% tp.file.title %>**?
 **Answer::**
 
-### Card 4: Error Correction
-**Question::** Correct this sentence: [incorrect sentence]
+### Card 4: Example
+**Question::** Create a sentence with **<% tp.file.title %>** about [topic]
 **Answer::**
 
-### Card 5: Pattern Recognition
-**Question::** Identify the structure in: [example sentence]
+### Card 5: Error Correction
+**Question::** What's wrong with: [incorrect example]
+**Answer::**
+
+### Card 6: Comparison
+**Question::** How is **<% tp.file.title %>** different from [similar structure]?
+**Answer::**
+
+### Card 7: Transformation
+**Question::** Transform this sentence using **<% tp.file.title %>**: [sentence]
 **Answer::**
 
 ---
@@ -296,26 +267,87 @@ if (activeFile) {
 **Times reviewed:** 0
 **Confidence level:** 🔴 New → 🟡 Learning → 🟢 Familiar → 🔵 Mastered
 **Next review:**
+**Mastery criteria:**
+- [ ] Can identify the structure in texts
+- [ ] Can use it correctly in writing
+- [ ] Can explain its function
+- [ ] Can avoid common errors
 
 ---
 
-## 💭 Personal Notes & Mnemonics
+## 💭 Personal Notes & Insights
 
-### Visual Association
-
-
-### Memory Hook
+### Visual Representation
+**Diagram/Flowchart:**
 
 
-### Personal Connection
+### Personal Examples
+**My own sentence 1:**
+**My own sentence 2:**
+**My own sentence 3:**
 
+### Memory Hooks
+**Mnemonic device:**
+**Personal association:**
+**Real-world connection:**
+
+### Questions & Doubts
+**Unresolved questions:**
+**Points needing clarification:**
+**Areas of confusion:**
 
 ---
 
-## 🔖 Tags & Categories
+## 🔖 Tags & Classification
 
-**Type:** #<% type %>
-**Themes:** #
-**Topics:** #
-**Difficulty:** #
-**Context:** #spoken #written #academic #business #casual
+**Primary Tags:**
+- #structure
+- #grammar
+- #pattern
+
+**Usage Context:**
+- #formal
+- #informal
+- #academic
+- #business
+- #creative
+
+**Complexity:**
+- #basic
+- #intermediate
+- #advanced
+
+**Function:**
+- #
+- #
+- #
+
+---
+
+## 📝 Quick Reference
+
+### Structure Formula
+**Template:**
+**Fill-in-the-blanks:**
+
+### Quick Rules
+1. **Rule 1:**
+2. **Rule 2:**
+3. **Rule 3:**
+
+### Dos and Don'ts
+**✅ Dos:**
+-
+-
+-
+
+**❌ Don'ts:**
+-
+-
+-
+
+### Signal Words/Phrases
+**Words that often indicate this structure:**
+-
+-
+-

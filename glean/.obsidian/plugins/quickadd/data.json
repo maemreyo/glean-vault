@@ -15,8 +15,8 @@
         "template": "99_Templates/tpl_Vocabulary.md"
       },
       "format": {
-        "enabled": true,
-        "format": "{{value}}"
+        "enabled": false,
+        "format": ""
       },
       "insertAfter": {
         "enabled": false,
@@ -58,8 +58,8 @@
         "template": "99_Templates/tpl_Structure.md"
       },
       "format": {
-        "enabled": true,
-        "format": "{{value}}"
+        "enabled": false,
+        "format": ""
       },
       "insertAfter": {
         "enabled": false,
@@ -80,7 +80,7 @@
         "location": "tab",
         "direction": "vertical",
         "mode": "default",
-        "focus": true
+        "focus": false
       },
       "templater": {
         "afterCapture": "wholeFile"
