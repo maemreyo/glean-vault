@@ -30,7 +30,7 @@ vault
 **Suffix:** (Không có hậu tố đặc biệt)
 
 ### Word Family (Họ từ cùng gốc)
-- **Noun:** [[vault]], [[vaulting]]
+- **Noun:** **[[vault]]**, [[vaulting]]
 - **Verb:** [[vault]]
 - **Adjective:** [[vaulted]]
 - **Adverb:** [[]]

@@ -1,4 +1,10 @@
 {
   "newFileLocation": "current",
-  "newFileFolderPath": "20_Vocabulary"
+  "newFileFolderPath": "20_Vocabulary",
+  "showUnsupportedFiles": false,
+  "focusNewTab": false,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "strictLineBreaks": false,
+  "tabSize": 5
 }
