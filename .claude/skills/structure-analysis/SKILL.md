@@ -269,7 +269,8 @@ Before completing structure analysis, verify:
 
 | Rule | Do | Don't |
 |------|----|----- |
-| **Obsidian Links** | Format related structures as `[[structure]]` | Use plain text only |
+| **Use Existing Structure** | Fill the specific rows/cells in existing tables | Create new headers or tables |
+| **Obsidian Links** | Format as `[[structure]]`. Separate with spaces: `[[a]] [[b]]` | Use hyphens/commas between links |
 | **Complete sections** | Fill EVERY section including Advanced Analysis, Context, and Quick Reference | Leave no section empty (except user-specific fields) |
 | **Progressive detail** | Start simple, build complexity | Jump to advanced too quickly |
 | **Error focus** | Highlight common mistakes with fixes | Only show correct usage |

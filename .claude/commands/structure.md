@@ -6,14 +6,6 @@ Automatically analyzes grammar structures and fills structure templates with pat
 
 **"Fill structure template"** - Auto-populate grammar pattern cards with minimal effort.
 
-## Aliases
-
-```bash
-/structure [pattern]
-/struct [pattern]
-/grammar [pattern]
-```
-
 ## Usage
 
 ```bash

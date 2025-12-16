@@ -175,17 +175,17 @@ This agent leverages the **structure-analysis** skill (`.claude/skills/structure
 - Nuances
 
 ## 🔗 Relations
-- Similar structures: [[structure1]], [[structure2]]
-- Contrasting structures: [[structure3]]
-- Related concepts: [[concept1]]
+- Similar structures: Fill the existing table. Use `[[structure1]] [[structure2]]` (space separated) in the Structure column.
+- Contrasting structures: Fill the existing table.
+- Related concepts: Fill the existing list items.
 
-**Note**: Always wrap related structures in `[[ ]]` for Obsidian linking.
+**Important Link Format**: In tables and lists, wrap structure names in `[[ ]]`. Separate multiple links with **spaces** (e.g., `[[past simple]] [[present perfect]]`), NOT hyphens or commas.
 
 ## 📝 Usage Examples
-- Formal context example
-- Informal context example
-- Academic context example
-- Business context example
+- Fill the existing tables for Example 1 (Formal), Example 2 (Informal), etc.
+- **DO NOT** create new headers or tables.
+- **DO** fill the empty cells in the existing Markdown tables.
+- Replace `<% tp.file.cursor(3) %>` with the actual sentence.
 
 ## ⚠️ Common Mistakes
 - Error patterns with corrections
