@@ -1,0 +1,22 @@
+{
+  "vocabularyBooks": [],
+  "showDefinitionOnHover": true,
+  "enableAutoHighlight": true,
+  "highlightStyle": "background",
+  "enableMasteredFeature": true,
+  "showMasteredInSidebar": true,
+  "blurDefinitions": false,
+  "ttsTemplate": "https://dict.youdao.com/dictvoice?audio={{word}}&type=2",
+  "aiDictionary": {
+    "apiUrl": "",
+    "apiKey": "",
+    "model": "",
+    "prompt": "Please provide a concise definition for the word \"{{word}}\" based on this context:\n\nSentence: {{sentence}}\n\nFormat:\n1) Part of speech\n2) English definition\n3) Chinese translation\n4) Example sentence (use the original sentence if appropriate)"
+  },
+  "autoLayoutEnabled": true,
+  "cardWidth": 260,
+  "cardHeight": 120,
+  "highlightMode": "all",
+  "highlightPaths": "",
+  "fileNodeParseMode": "filename-with-alias"
+}

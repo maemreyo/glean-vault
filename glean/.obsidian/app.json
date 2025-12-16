@@ -6,5 +6,6 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "strictLineBreaks": false,
-  "tabSize": 5
+  "tabSize": 5,
+  "promptDelete": false
 }

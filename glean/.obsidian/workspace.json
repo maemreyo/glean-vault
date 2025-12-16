@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Vocabulary/involvement.md",
+                "file": "99_Templates/tpl_Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "involvement"
+              "title": "tpl_Structure"
             }
           }
         ]
@@ -206,6 +206,19 @@
   },
   "active": "4c7bb15e8c6a6e52",
   "lastOpenFiles": [
+    "10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
+    "30_Structures/heat pump systems.md",
+    "99_Tools/scripts/word-count-handler.js",
+    "99_Tools/scripts",
+    "99_Tools",
+    "20_Vocabulary/heat pump system.md",
+    "99_Templates/tpl_Source_Input.md",
+    "10_Sources/Articles/What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "10_Sources/Articles/UK launches taskforce to 'break down barriers' for women in tech.md",
+    "Clippings/The giant heat pumps designed to warm whole districts.md",
+    "Clippings",
+    "10_Sources/Articles/Untitled.md",
+    "10_Sources/Videos/Untitled.md",
     "20_Vocabulary/involvement.md",
     "20_Vocabulary/involve.md",
     "20_Vocabulary/vault.md",
@@ -219,23 +232,15 @@
     "hello.md",
     "99_System/Dashboard.md",
     "99_Templates/tpl_Structure.md",
-    "99_Templates/tpl_Source_Input.md",
     "Welcome.md",
     "99_System/Root-Word-Map.md",
     "inspect.md",
     "99_Templates/tpl_Vocabulary.md.bak",
     "99_Templates/tpl_Vocabulary copy.md",
-    "99_Templates/tpl_Vocabulary.md",
-    "20_Vocabulary/delete.md",
-    "20_Vocabulary/ready.md",
-    "README.md",
     "99_System",
     "99_Templates",
     "30_Structures",
     "20_Vocabulary",
-    "10_Sources/Videos",
-    "10_Sources/Articles",
-    "10_Sources",
-    "00_Inbox"
+    "10_Sources/Videos"
   ]
 }
