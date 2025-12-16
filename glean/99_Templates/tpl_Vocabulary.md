@@ -10,14 +10,14 @@ mastery: 🔴 New
 
 ## 📊 Meta Information
 
-| Property | Value |
-|----------|-------|
-| **IPA** | /  / |
-| **Part of Speech** | (noun/verb/adjective/adverb/etc.) |
-| **CEFR Level** | (A1/A2/B1/B2/C1/C2) |
-| **Frequency** | (common/uncommon/rare) |
-| **Register** | (formal/informal/academic/colloquial) |
-| **Etymology** | (Nguồn gốc từ - Latin, Greek, Old English, etc.) |
+| Property           | Value                                            |
+| ------------------ | ------------------------------------------------ |
+| **IPA**            | /  /                                             |
+| **Part of Speech** | (noun/verb/adjective/adverb/etc.)                |
+| **CEFR Level**     | (A1/A2/B1/B2/C1/C2)                              |
+| **Frequency**      | (common/uncommon/rare)                           |
+| **Register**       | (formal/informal/academic/colloquial)            |
+| **Etymology**      | (Nguồn gốc từ - Latin, Greek, Old English, etc.) |
 
 ---
 
@@ -65,16 +65,16 @@ mastery: 🔴 New
 ### Synonyms
 
 | Word | Meaning | Usage Difference |
-|------|---------|------------------|
-| [[]] |  |  |
-| [[]] |  |  |
+| ---- | ------- | ---------------- |
+| [[]] |         |                  |
+| [[]] |         |                  |
 
 ### Antonyms
 
 | Word | Meaning | Usage Difference |
-|------|---------|------------------|
-| [[]] |  |  |
-| [[]] |  |  |
+| ---- | ------- | ---------------- |
+| [[]] |         |                  |
+| [[]] |         |                  |
 
 ---
 
@@ -82,35 +82,44 @@ mastery: 🔴 New
 
 ### Collocations
 
-| Phrase | Meaning | Frequency |
-|--------|---------|-----------|
-|  |  | (very common/common/uncommon) |
-|  |  |  |
-|  |  |  |
+| Phrase | Meaning | Frequency                     |
+| ------ | ------- | ----------------------------- |
+|        |         | (very common/common/uncommon) |
+|        |         |                               |
+|        |         |                               |
 
 ### Examples
 
 #### Example 1
-**Sentence:** 
-**Translation:** 
-**Context:** 
+
+|                 |     |
+| --------------- | --- |
+| **Context**     |     |
+| **Sentence**    |     |
+| **Translation** |     |
 
 #### Example 2
-**Sentence:** 
-**Translation:** 
-**Context:** 
+
+|                 |     |
+| --------------- | --- |
+| **Context**     |     |
+| **Sentence**    |     |
+| **Translation** |     |
 
 #### Example 3
-**Sentence:** 
-**Translation:** 
-**Context:** 
+
+|                 |     |
+| --------------- | --- |
+| **Context**     |     |
+| **Sentence**    |     |
+| **Translation** |     |
 
 ### Common Mistakes
 
 | Mistake ❌ | Correction ✅ | Explanation |
-|-----------|--------------|-------------|
-|  |  |  |
-|  |  |  |
+| --------- | ------------ | ----------- |
+|           |              |             |
+|           |              |             |
 
 ---
 
