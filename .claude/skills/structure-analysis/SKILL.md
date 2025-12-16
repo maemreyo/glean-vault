@@ -133,7 +133,23 @@ Example: Passive Voice
 💡 Explanation: [why and how to fix]
 ```
 
-### Domain 5: Relations & Connections
+### Domain 5: Context & Advanced Analysis
+
+**What to analyze:**
+- **Situation**: Specific scenario where the structure is most effective.
+- **Rhetorical Effects**: Emphasis, clarity, conciseness, persuasion.
+- **Frequency**: Distribution across genres (Academic, Business, Fiction, etc.).
+- **Cultural Notes**: Dialectal variations (US vs UK) or cultural implications.
+
+### Domain 6: Quick Reference & Tags
+
+**What to generate:**
+- **Cheat Sheet**: Concise formula and top 3 rules.
+- **Dos and Don'ts**: Quick usage guide.
+- **Signal Words**: Words that trigger or accompany the structure.
+- **Tags**: Functional classification (e.g., #politeness, #probability).
+
+### Domain 7: Relations & Connections
 
 **What to map:**
 - Similar structures (with key differences)
@@ -254,7 +270,7 @@ Before completing structure analysis, verify:
 | Rule | Do | Don't |
 |------|----|----- |
 | **Obsidian Links** | Format related structures as `[[structure]]` | Use plain text only |
-| **Complete sections** | Fill all required sections thoroughly | Leave sections empty |
+| **Complete sections** | Fill EVERY section including Advanced Analysis, Context, and Quick Reference | Leave no section empty (except user-specific fields) |
 | **Progressive detail** | Start simple, build complexity | Jump to advanced too quickly |
 | **Error focus** | Highlight common mistakes with fixes | Only show correct usage |
 

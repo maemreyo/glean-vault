@@ -230,8 +230,13 @@ pattern_name = basename(absolute_path).replace(".md", "")
 - ✅ 🔗 Relations (similar structures `[[]]`, contrasting structures, related concepts)
 - ✅ 📝 Usage Examples (formal, informal, academic, business contexts)
 - ✅ ⚠️ Common Mistakes (error patterns with corrections)
-- ✅ 🎯 Learning Strategies (memory techniques, practice exercises)
-- ✅ 🧠 Spaced Repetition Flashcards (7 cards: pattern, meaning, usage, example, error, comparison, transformation)
+- ✅ 🎯 Learning Strategies (strategies, mastery criteria checklist)
+- ✅ 🧩 Context Analysis (situation, purpose, audience, effectiveness)
+- ✅ 📚 Advanced Analysis (stylistics, frequency, culture)
+- ✅ 💭 Personal Notes (suggested mnemonics, examples)
+- ✅ 🔖 Tags & Classification (tags, context, complexity, function)
+- ✅ 📝 Quick Reference (formula, rules, dos/don'ts, signals)
+- ✅ 🧠 Spaced Repetition Flashcards (7 cards types)
 
 **Quality Checks**:
 - Pattern formula is correct
@@ -297,8 +302,11 @@ pattern_name = basename(absolute_path).replace(".md", "")
 **Process**:
 1. **File Discovery**:
    ```bash
-   find struct/ -name "*.md" -type f
-   # Or search in default structure folder
+   # Search for markdown files, excluding .claude, node_modules, and hidden files
+   find . -type f -name "*.md" -not -path '*/.*' -not -path '*/node_modules/*' -not -path '*/.claude/*' | grep "struct\|grammar"
+   
+   # Or specifically in the struct folder if it exists
+   # find struct/ -name "*.md" -type f
    ```
 
 2. **Filtering**:

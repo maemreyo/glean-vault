@@ -192,17 +192,38 @@ This agent leverages the **structure-analysis** skill (`.claude/skills/structure
 - Why mistakes happen
 - How to avoid
 
-## 🎯 Learning Strategies
-- Memory techniques
-- Practice exercises
-- Learning tips
+## 🧩 Context Analysis
+- Original Example: [Generate a representative quote]
+- Situation: [Specific context]
+- Purpose: [Communicative goal]
+- Audience: [Target listener/reader]
+- Effectiveness: [Why it works]
 
-## 🧠 Flashcards
-- Pattern recognition card
-- Meaning card
-- Usage card
-- Example card
-- Error correction card
+## 📚 Advanced Analysis
+- Stylistic Considerations: Formality spectrum, Rhetorical effects
+- Frequency Analysis: Usage in Academic, Business, Fiction, News, Spoken
+- Cultural Notes: US/UK differences, cultural preferences
+
+## 🎯 Learning Strategies & Progress
+- Populate Memory Techniques & Practice Exercises
+- Fill Mastery Criteria checklist with specific goals
+
+## 💭 Personal Notes (Suggestions)
+- Visual Representation: Description of a diagram/flowchart
+- Personal Examples: 3 suggested sentences for the user to try
+- Memory Hooks: Mnemonics and associations
+
+## 🔖 Tags & Classification
+- Primary Tags: structure, grammar, pattern
+- Usage Context: [select relevant]
+- Complexity: [select relevant]
+- Function: [communicative functions]
+
+## 📝 Quick Reference
+- Structure Formula: Concise pattern
+- Quick Rules: Top 3 rules
+- Dos and Don'ts: Key usage advice
+- Signal Words: Indicators
 ```
 
 **Important**: 
