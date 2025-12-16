@@ -276,6 +276,7 @@ word = basename(absolute_path).replace(".md", "")
 
 **Template Sections Filled**:
 
+- [NEW] ✅ 🔄 **Process Status**: Update `process_status` from `pending` to `done`
 - ✅ 📊 Meta Information (IPA, CEFR, register, frequency)
 - ✅ 🌳 Root Word Analysis (etymology, word family)
 - ✅ 💡 Root Meaning (basic definition)
@@ -357,7 +358,9 @@ word = basename(absolute_path).replace(".md", "")
 
 2. **Filtering**:
    - Skip templates (files with `[ ]` in name or `tpl_` prefix)
-   - Skip already filled files (no `[[]]` placeholders remaining)
+   - CHECK Content: Read file frontmatter
+   - KEEP if `process_status: pending`
+   - SKIP if `process_status: done` or field missing (unless explicit force)
    - Process remaining files
 
 3. **Processing Queue**:

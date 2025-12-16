@@ -1,8 +1,9 @@
 ---
-created: <% tp.file.creation_date("YYYY-MM-DD") %>
+created: 2025-12-16
 tags: structure, flashcard, grammar
 mastery: 🔴 New
 type: structure
+process_status: pending
 ---
 
 ## 📊 Meta Information
@@ -232,19 +233,19 @@ type: structure
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **<% tp.file.title %>**?
+**Question::** What is the structure pattern for **tpl_Vocabulary**?
 **Answer::**
 
 ### Card 2: Meaning
-**Question::** What does **<% tp.file.title %>** express?
+**Question::** What does **tpl_Vocabulary** express?
 **Answer::**
 
 ### Card 3: Usage
-**Question::** When should you use **<% tp.file.title %>**?
+**Question::** When should you use **tpl_Vocabulary**?
 **Answer::**
 
 ### Card 4: Example
-**Question::** Create a sentence with **<% tp.file.title %>** about [topic]
+**Question::** Create a sentence with **tpl_Vocabulary** about [topic]
 **Answer::**
 
 ### Card 5: Error Correction
@@ -252,11 +253,11 @@ type: structure
 **Answer::**
 
 ### Card 6: Comparison
-**Question::** How is **<% tp.file.title %>** different from [similar structure]?
+**Question::** How is **tpl_Vocabulary** different from [similar structure]?
 **Answer::**
 
 ### Card 7: Transformation
-**Question::** Transform this sentence using **<% tp.file.title %>**: [sentence]
+**Question::** Transform this sentence using **tpl_Vocabulary**: [sentence]
 **Answer::**
 
 ---

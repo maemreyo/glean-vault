@@ -118,6 +118,7 @@ This agent leverages the **vocabulary-research** skill (`.claude/skills/vocabula
 - CEFR: [A1-C2]
 - Register: [formal/informal/neutral/technical]
 - Frequency: [common/moderate/rare]
+- process_status: done
 
 ## 🌳 Root Word Analysis
 - Origin: [Language(s) of origin]

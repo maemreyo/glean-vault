@@ -1,7 +1,7 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcards"
+      ""
     ],
     "convertFoldersToDecks": true,
     "burySiblingCards": false,
@@ -25,7 +25,7 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "**/*.excalidraw.md"
+      "**/*.excalidraw.md, 99_Templates/**/*.md"
     ],
     "openRandomNote": false,
     "autoNextNote": false,

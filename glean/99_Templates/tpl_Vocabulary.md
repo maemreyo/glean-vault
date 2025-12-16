@@ -1,12 +1,12 @@
----
-created: <% tp.file.creation_date("YYYY-MM-DD") %>
+created: 2025-12-16
 tags: vocabulary, flashcard
 category: word
 confidence: 
 mastery: 🔴 New
+process_status: pending
 ---
 
-# <% tp.file.title %>
+# tpl_Vocabulary
 
 ## 📊 Meta Information
 
@@ -155,7 +155,7 @@ mastery: 🔴 New
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **<% tp.file.title %>** mean?
+What does **tpl_Vocabulary** mean?
 ?
 **Meaning:** 
 **IPA:** /  /
@@ -163,23 +163,23 @@ What does **<% tp.file.title %>** mean?
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "..." → Word?
-Answer:: **<% tp.file.title %>**
+Answer:: **tpl_Vocabulary**
 
 ### Card 3: Usage (Multi-line)
-Use **<% tp.file.title %>** in a sentence.
+Use **tpl_Vocabulary** in a sentence.
 ?
 **Sentence:** 
 **Translation:** 
 
 ### Card 4: Collocations (Multi-line)
-List 3 common collocations for **<% tp.file.title %>**.
+List 3 common collocations for **tpl_Vocabulary**.
 ?
 1. 
 2. 
 3. 
 
 ### Card 5: Root & Word Family (Multi-line)
-Analyze the root/family of **<% tp.file.title %>**.
+Analyze the root/family of **tpl_Vocabulary**.
 ?
 **Root:** 
 **Related types:** (noun/verb/adj) 

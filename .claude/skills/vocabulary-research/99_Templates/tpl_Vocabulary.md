@@ -1,9 +1,9 @@
----
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
 tags: vocabulary, flashcard
 category: word
 confidence: 
 mastery: 🔴 New
+process_status: pending
 ---
 
 # <% tp.file.title %>
@@ -154,25 +154,35 @@ mastery: 🔴 New
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Recognition
-Question:: What does **<% tp.file.title %>** mean?
-Answer:: 
+### Card 1: Meaning & Context (Multi-line)
+What does **<% tp.file.title %>** mean?
+?
+**Meaning:** 
+**IPA:** /  /
+**Key Nuance:** 
 
-### Card 2: Production
-Question:: Từ tiếng Anh nào có nghĩa là "..."?
+### Card 2: Production (Reverse)
+Question:: Context/Definition: "..." → Word?
 Answer:: **<% tp.file.title %>**
 
-### Card 3: Usage
-Question:: Use **<% tp.file.title %>** in a sentence about [context]
-Answer:: 
+### Card 3: Usage (Multi-line)
+Use **<% tp.file.title %>** in a sentence.
+?
+**Sentence:** 
+**Translation:** 
 
-### Card 4: Collocation
-Question:: What are 3 common collocations with **<% tp.file.title %>**?
-Answer:: 
+### Card 4: Collocations (Multi-line)
+List 3 common collocations for **<% tp.file.title %>**.
+?
+1. 
+2. 
+3. 
 
-### Card 5: Root Analysis
-Question:: What is the root of **<% tp.file.title %>** and what does it mean?
-Answer:: 
+### Card 5: Root & Word Family (Multi-line)
+Analyze the root/family of **<% tp.file.title %>**.
+?
+**Root:** 
+**Related types:** (noun/verb/adj) 
 
 ---
 

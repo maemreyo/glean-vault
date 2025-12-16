@@ -15,7 +15,7 @@ Advertisement
 
 ![MVV Energie A large, shiny chrome tank with shiny pipework around it. ](https://ichef.bbci.co.uk/news/240/cpsprodpb/905e/live/cf953790-c525-11f0-b288-51552c83ad58.jpg.webp)
 
-MVV Energie is building the world's most powerful heat pump systems
+MVV Energie is building the world's most powerful <mark style="background: #FFB86CA6;">heat pump system</mark>s
 
 The pipe that will supply the heat pump, drawing water from the River Rhine in Germany, is so big that you could walk through it, fully upright, I'm told.
 

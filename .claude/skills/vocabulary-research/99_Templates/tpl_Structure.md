@@ -1,307 +1,354 @@
 ---
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
-tags: structure, flashcard, grammar, pattern
+tags: structure, flashcard, grammar
 mastery: 🔴 New
-type: <% tp.system.suggester(["Grammar", "Idiom", "Collocation", "Phrase", "Sentence Pattern"], ["grammar", "idiom", "collocation", "phrase", "pattern"]) %>
-source: [[<% tp.system.prompt("Nguồn?") %>]]
-cefr: <% tp.system.suggester(["A1", "A2", "B1", "B2", "C1", "C2"], ["A1", "A2", "B1", "B2", "C1", "C2"]) %>
-register: <% tp.system.suggester(["Formal", "Informal", "Neutral", "Academic"], ["formal", "informal", "neutral", "academic"]) %>
+type: structure
+process_status: pending
 ---
 
-# <% tp.file.title %>
+## 📊 Meta Information
 
-## 📐 Structure Pattern
-
-**Pattern:** <% tp.file.cursor(1) %>
-
-**Meaning:** <% tp.file.cursor(2) %>
-
-**Register:** [[<% tp.frontmatter.register %>]]
-**CEFR Level:** [[<% tp.frontmatter.cefr %>]]
-
----
-
-## 🎯 When to Use
-
-**Common situations:**
-- <% tp.file.cursor(3) %>
-- 
-- 
-
-**Function:**
-<% tp.file.cursor(4) %>
-
-**Formality:** 
-- ☐ Very Formal (Academic writing, official documents)
-- ☐ Formal (Business, professional contexts)
-- ☐ Neutral (General usage)
-- ☐ Informal (Casual conversation)
-- ☐ Very Informal (Slang, colloquial)
+| Property          | Value                               |
+| ----------------- | ----------------------------------- |
+| **Type**          | Structure                           |
+| **Structure**     |                                     |
+| **Pattern**       |                                     |
+| **Complexity**    | (basic/intermediate/advanced)       |
+| **CEFR Level**    | (A1/A2/B1/B2/C1/C2)                 |
+| **Frequency**     | (common/uncommon/rare)              |
+| **Register**      | (formal/informal/academic/business) |
+| **Grammar Focus** |                                     |
 
 ---
 
-## 🧩 Context Examples
+## 🔍 Structural Analysis
 
-### Example 1 - <% tp.system.prompt("Context 1? (e.g., Business, Academic, Daily)") %>
+### Pattern Recognition
+**Structure Type:** 
+**Formula/Pattern:**
+**Components:**
+- **Component 1:**
+- **Component 2:**
+- **Component 3:**
 
-> [!quote] Original
-> <% tp.file.cursor(5) %>
-> — From: [[<% tp.system.prompt("Source?") %>]]
+### Formation Rules
+**Rule 1:**
+**Rule 2:**
+**Rule 3:**
 
-**Analysis:**
-- **Why this structure?** 
-- **Context:** 
+### Variations
+1. **Variation A:**
+   - **When to use:**
+   - **Example:**
 
-### Example 2 - <% tp.system.prompt("Context 2?") %>
-
-> [!quote] Original
-> <% tp.file.cursor(6) %>
-> — From: [[<% tp.system.prompt("Source?") %>]]
-
-**Analysis:**
-- **Why this structure?** 
-- **Context:** 
-
-### Example 3 - <% tp.system.prompt("Context 3?") %>
-
-> [!quote] Original
-> <% tp.file.cursor(7) %>
-> — From: [[<% tp.system.prompt("Source?") %>]]
-
-**Analysis:**
-- **Why this structure?** 
-- **Context:** 
+2. **Variation B:**
+   - **When to use:**
+   - **Example:**
 
 ---
 
-## 📝 More Examples
+## 💡 Meaning & Usage
 
-### Correct Usage ✅
+### Core Meaning
+**Literal meaning:**
+**Figurative meaning:**
+**Conceptual meaning:**
 
-1. <% tp.file.cursor(8) %>
-   - **Context:** 
-   - **Vietnamese:** 
+### Functional Meaning
+**Purpose in communication:**
+**Intended effect:**
+**Semantic role:**
 
-2. 
-   - **Context:** 
-   - **Vietnamese:** 
+### Vietnamese Translation
+**Direct translation:**
+**Contextual translation:**
+**Idiomatic equivalent (if any):**
 
-3. 
-   - **Context:** 
-   - **Vietnamese:** 
+### Nuances & Distinctions
+- **Formal vs. Informal usage:**
+- **Written vs. Spoken preference:**
+- **Regional variations (US/UK/etc):**
+- **Register-specific usage:**
 
-### Common Mistakes ❌ → ✅
+---
+
+## 🔗 Relations & Connections
+
+### Similar Structures
+| Structure | Key Difference | When to Use |
+| --------- | -------------- | ----------- |
+| [[ ]] | | |
+| [[ ]] | | |
+| [[ ]] | | |
+
+### Contrasting Structures
+| Structure | Key Difference | Common Confusion |
+| --------- | -------------- | ---------------- |
+| [[ ]] | | |
+| [[ ]] | | |
+
+### Related Concepts
+- [[ ]] - (relationship)
+- [[ ]] - (relationship)
+- [[ ]] - (relationship)
+
+---
+
+## 📝 Usage Examples
+
+### Example 1: Formal Context
+| | |
+| --- | --- |
+| **Sentence** | <% tp.file.cursor(3) %> |
+| **Translation** | |
+| **Context** | |
+| **Register** | Formal |
+| **Analysis** | |
+
+### Example 2: Informal Context
+| | |
+| --- | --- |
+| **Sentence** | |
+| **Translation** | |
+| **Context** | |
+| **Register** | Informal |
+| **Analysis** | |
+
+### Example 3: Academic Context
+| | |
+| --- | --- |
+| **Sentence** | |
+| **Translation** | |
+| **Context** | |
+| **Register** | Academic |
+| **Analysis** | |
+
+### Example 4: Business Context
+| | |
+| --- | --- |
+| **Sentence** | |
+| **Translation** | |
+| **Context** | |
+| **Register** | Business |
+| **Analysis** | |
+
+---
+
+## ⚠️ Common Mistakes
 
 | Mistake ❌ | Correction ✅ | Explanation |
-|-----------|--------------|-------------|
-| <% tp.file.cursor(9) %> | | **Why wrong:** |
-| | | **Why wrong:** |
-| | | **Why wrong:** |
+| ----------- | ------------- | ----------- |
+| | | |
+| | | |
+| | | |
+| | | |
+
+### Error Patterns
+1. **Pattern Error:**
+   - **Common mistake:**
+   - **Why it happens:**
+   - **How to avoid:**
+
+2. **Usage Error:**
+   - **Common mistake:**
+   - **Why it happens:**
+   - **How to avoid:**
 
 ---
 
-## 🔄 Variations & Alternatives
+## 🎯 Learning Strategies
 
-### Variation 1
-**Pattern:** 
-**Usage:** 
-**Example:** 
+### Memory Techniques
+1. **Visual Association:** 
+2. **Pattern Recognition:**
+3. **Contextual Learning:**
 
-### Variation 2
-**Pattern:** 
-**Usage:** 
-**Example:** 
+### Practice Exercises
+1. **Recognition Exercise:**
+   - **Task:** Identify this structure in authentic texts
+   - **Examples to find:**
 
-### Alternative Structures
-**Instead of this pattern, you could also use:**
-1. **Pattern:** [[ ]] - When: 
-2. **Pattern:** [[ ]] - When: 
+2. **Production Exercise:**
+   - **Task:** Create sentences using this structure
+   - **Prompts:**
+     - Prompt 1:
+     - Prompt 2:
+     - Prompt 3:
 
----
+3. **Transformation Exercise:**
+   - **Task:** Transform sentences using variations
+   - **Examples:**
 
-## 🔗 Related Structures
-
-### Similar Patterns
-- [[ ]] - (similar meaning, different form)
-- [[ ]] - (similar form, different meaning)
-
-### Contrast Patterns
-- [[ ]] - (opposite meaning)
-- [[ ]] - (used in different register)
-
-### Progressive Learning
-**Learn before this:**
-- [[ ]] - (prerequisite structure)
-
-**Learn after this:**
-- [[ ]] - (advanced variation)
+### Learning Tips
+- **When to use this structure:**
+- **When to avoid this structure:**
+- **Common collocations:**
+- **Transition words that work well:**
 
 ---
 
-## 🌳 Component Analysis
+## 🧩 Context Analysis
 
-### Grammar Breakdown
+> [!quote] Original Example
+> <% tp.file.cursor(5) %>
 
-| Component | Part of Speech | Function | Example |
-|-----------|---------------|----------|---------|
-| Part 1 | | | |
-| Part 2 | | | |
-| Part 3 | | | |
-
-### Pattern Slots
-
-**Fixed parts:** (cannot change)
-- 
-
-**Variable parts:** (can be replaced)
-- Slot 1: 
-- Slot 2: 
-- Slot 3: 
+**Context Analysis:**
+- **Situation:**
+- **Purpose:**
+- **Audience:**
+- **Effectiveness:**
 
 ---
 
-## 💡 Usage Notes
+## 📚 Advanced Analysis
 
-### Do's ✅
-- 
-- 
-- 
+### Stylistic Considerations
+**Formality spectrum:**
+- **Most formal:**
+- **Neutral:**
+- **Most informal:**
 
-### Don'ts ❌
-- 
-- 
-- 
+**Rhetorical effects:**
+- **Emphasis:**
+- **Clarity:**
+- **Conciseness:**
+- **Persuasive power:**
 
-### Frequency
-**How common is this structure?**
-- ☐ Very Common (everyday usage)
-- ☐ Common (regular usage)
-- ☐ Moderate (occasional)
-- ☐ Uncommon (rare or specialized)
+### Frequency Analysis
+**Corpus data:**
+- **Academic writing:**
+- **Business communication:**
+- **Fiction:**
+- **News media:**
+- **Spoken conversation:**
 
-### Collocations
-**Words/phrases commonly used with this structure:**
-- 
-- 
-- 
+### Cultural Notes
+**Cultural preferences:**
+- **US English:**
+- **UK English:**
+- **Other varieties:**
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Recognition
-Question:: What does the structure **<% tp.file.title %>** mean and when is it used?
-Answer:: <% tp.file.cursor(10) %>
+### Card 1: Pattern Recognition
+**Question::** What is the structure pattern for **<% tp.file.title %>**?
+**Answer::**
 
-### Card 2: Pattern Completion
-Question:: Complete the pattern: <% tp.file.cursor(11) %> 
-Answer:: **<% tp.file.title %>**
+### Card 2: Meaning
+**Question::** What does **<% tp.file.title %>** express?
+**Answer::**
 
-### Card 3: Production
-Question:: Create a sentence using **<% tp.file.title %>** in the context of [business/daily life/academic]
-Answer:: <% tp.file.cursor(12) %>
+### Card 3: Usage
+**Question::** When should you use **<% tp.file.title %>**?
+**Answer::**
 
-### Card 4: Error Correction
-Question:: Fix this common mistake: [insert common error]
-Answer:: 
+### Card 4: Example
+**Question::** Create a sentence with **<% tp.file.title %>** about [topic]
+**Answer::**
 
-### Card 5: Variation
-Question:: What are 2 variations of **<% tp.file.title %>**?
-Answer:: 
+### Card 5: Error Correction
+**Question::** What's wrong with: [incorrect example]
+**Answer::**
 
----
+### Card 6: Comparison
+**Question::** How is **<% tp.file.title %>** different from [similar structure]?
+**Answer::**
 
-## 🎯 Learning Tips
-
-### Memory Technique
-<% tp.file.cursor(13) %>
-
-### Visual Association
-
-
-### Related to Vietnamese
-**Vietnamese equivalent:**
-
-**Key difference:**
-
-
-### Practice Exercises
-
-**Fill in the blanks:**
-1. __________ (create exercise based on pattern)
-2. __________
-3. __________
-
-**Transform sentences:**
-1. Convert this to use <% tp.file.title %>: 
-2. 
-
-**Create your own:**
-1. Write a sentence about your daily routine: 
-2. Write a sentence about your work: 
-3. Write a sentence about your opinion: 
+### Card 7: Transformation
+**Question::** Transform this sentence using **<% tp.file.title %>**: [sentence]
+**Answer::**
 
 ---
 
-## 📚 Source References
+## 📈 Learning Progress
 
-**Primary Source:** [[<% tp.frontmatter.source %>]]
-
-**Additional References:**
-- Grammar book: 
-- Online resource: 
-- Corpus example: 
-
-**First encountered:** <% tp.file.creation_date("YYYY-MM-DD") %>
+**Times encountered:** 1
 **Times reviewed:** 0
-**Confidence:** 🔴 New → 🟡 Learning → 🟢 Familiar → 🔵 Mastered
+**Confidence level:** 🔴 New → 🟡 Learning → 🟢 Familiar → 🔵 Mastered
+**Next review:**
+**Mastery criteria:**
+- [ ] Can identify the structure in texts
+- [ ] Can use it correctly in writing
+- [ ] Can explain its function
+- [ ] Can avoid common errors
 
 ---
 
-## 💭 Personal Notes
+## 💭 Personal Notes & Insights
 
-### Where I've seen this
-- 
-- 
-
-### My own examples
-- 
-- 
-
-### Confusions & Clarifications
-**What I found confusing:**
+### Visual Representation
+**Diagram/Flowchart:**
 
 
-**How I clarified it:**
+### Personal Examples
+**My own sentence 1:**
+**My own sentence 2:**
+**My own sentence 3:**
 
+### Memory Hooks
+**Mnemonic device:**
+**Personal association:**
+**Real-world connection:**
 
----
-
-## 🔖 Tags & Cross-References
-
-**Grammar Topics:** #
-**Usage Context:** #
-**Register:** #[[<% tp.frontmatter.register %>]]
-**Level:** #[[<% tp.frontmatter.cefr %>]]
-
-**Related vocabulary:** 
-- [[ ]]
-- [[ ]]
-
-**Used in these contexts:**
-- [[ ]] (book/article/video)
-- [[ ]] (conversation/email)
+### Questions & Doubts
+**Unresolved questions:**
+**Points needing clarification:**
+**Areas of confusion:**
 
 ---
 
-## 📈 Practice Log
+## 🔖 Tags & Classification
 
-| Date | Activity | Result | Next Steps |
-|------|----------|--------|------------|
-| <% tp.file.creation_date("YYYY-MM-DD") %> | Created entry | - | Review examples |
-| | | | |
+**Primary Tags:**
+- #structure
+- #grammar
+- #pattern
+
+**Usage Context:**
+- #formal
+- #informal
+- #academic
+- #business
+- #creative
+
+**Complexity:**
+- #basic
+- #intermediate
+- #advanced
+
+**Function:**
+- #
+- #
+- #
 
 ---
 
-<!-- Template Version: 2.0 -->
-<!-- Enhanced with comprehensive sections for deep structure learning -->
+## 📝 Quick Reference
+
+### Structure Formula
+**Template:**
+**Fill-in-the-blanks:**
+
+### Quick Rules
+1. **Rule 1:**
+2. **Rule 2:**
+3. **Rule 3:**
+
+### Dos and Don'ts
+**✅ Dos:**
+-
+-
+-
+
+**❌ Don'ts:**
+-
+-
+-
+
+### Signal Words/Phrases
+**Words that often indicate this structure:**
+-
+-
+-
