@@ -1,23 +1,23 @@
 ---
-created: <% tp.file.creation_date("YYYY-MM-DD") %>
+created: 2025-12-16
 tags: vocabulary, flashcard
 category: word
 confidence: 
 mastery: 🔴 New
 ---
-
-# <% tp.file.title %>
+vault
+# vault
 
 ## 📊 Meta Information
 
 | Property | Value |
 |----------|-------|
-| **IPA** | /  / |
-| **Part of Speech** | (noun/verb/adjective/adverb/etc.) |
-| **CEFR Level** | (A1/A2/B1/B2/C1/C2) |
-| **Frequency** | (common/uncommon/rare) |
-| **Register** | (formal/informal/academic/colloquial) |
-| **Etymology** | (Nguồn gốc từ - Latin, Greek, Old English, etc.) |
+| **IPA** | /vɔːlt/ |
+| **Part of Speech** | noun, verb |
+| **CEFR Level** | B2 |
+| **Frequency** | common |
+| **Register** | neutral, formal |
+| **Etymology** | Old French "voute" from Vulgar Latin "*volvita*" "arched vault", from Latin "*volvitus*" past participle of "*volvere*" "to roll, turn" |
 
 ---
 
@@ -146,23 +146,23 @@ mastery: 🔴 New
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Recognition (Nhận biết)
-Question:: What does **<% tp.file.title %>** mean?
+Question:: What does **vault** mean?
 Answer:: 
 
 ### Card 2: Production (Sản xuất)
 Question:: Từ tiếng Anh nào có nghĩa là "..."?
-Answer:: **<% tp.file.title %>**
+Answer:: **vault**
 
 ### Card 3: Usage (Sử dụng)
-Question:: Use **<% tp.file.title %>** in a sentence about [context]
+Question:: Use **vault** in a sentence about [context]
 Answer:: 
 
 ### Card 4: Collocation (Cụm từ)
-Question:: What are 3 common collocations with **<% tp.file.title %>**?
+Question:: What are 3 common collocations with **vault**?
 Answer:: 
 
 ### Card 5: Root Analysis (Phân tích gốc)
-Question:: What is the root of **<% tp.file.title %>** and what does it mean?
+Question:: What is the root of **vault** and what does it mean?
 Answer:: 
 
 ---

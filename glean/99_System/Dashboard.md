@@ -19,6 +19,19 @@ FROM #structure
 ```
 
 ---
+## 🌳 Root Word
+
+```dataview
+TABLE 
+  Root as "Root",
+  length(rows) as "Words"
+FROM #vocabulary
+WHERE Root != null
+GROUP BY Root
+SORT length(rows) DESC
+```
+
+---
 
 ## 🆕 Recently Added (20 từ mới nhất)
 
