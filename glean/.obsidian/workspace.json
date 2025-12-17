@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fcacbd159d240128",
+        "id": "4fde0094644d2619",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ef03b060ec938e",
+            "id": "f2a4636a262e84b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Sources/Articles/What's next for TikTok in the US as deal prospects remain uncertain?.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "What's next for TikTok in the US as deal prospects remain uncertain?"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:structure, flashcard, grammar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,10 +202,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4ef03b060ec938e",
+  "active": "5c98256179590bd2",
   "lastOpenFiles": [
-    "10_Sources/Videos/Untitled.md",
+    "99_Templates/tpl_Vocabulary.md",
+    "99_Templates/tpl_Structure.md",
+    "99_Templates/tpl_Structure-v1.md",
+    "99_Templates/tpl_Vocabulary-v1.md",
+    "99_Templates/tpl_Source_Input.md",
+    "20_Vocabulary/sediment.md",
+    "30_Structures/the precious object.md",
+    "20_Vocabulary/restoration.md",
+    "30_Structures/the excavation storeroom.md",
+    "30_Structures/a very expensive high-end gift.md",
+    "20_Vocabulary/magnificent.md",
     "10_Sources/Articles/What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "99_Templates/tpl_Source_Input copy.md",
+    "30_Structures/block for.md",
+    "10_Sources/Videos/Untitled.md",
     "Untitled.canvas",
     "2025-12-17.md",
     "10_Sources/Articles/Facebook.md",
@@ -217,23 +226,11 @@
     "30_Structures/part of a group of investors.md",
     "30_Structures/formalize in.md",
     "30_Structures/involve in.md",
-    "30_Structures/block for.md",
     "30_Structures/reserve-for.md",
     "30_Structures/the moment arrives.md",
     "30_Structures/keen on.md",
     "README.md",
-    "99_Templates/tpl_Source_Input copy.md",
-    "99_Templates/tpl_Structure.md",
-    "99_Templates/tpl_Vocabulary.md",
-    "99_Templates/tpl_Source_Input.md",
     "99_Templates/tpl_Vocabulary copy.md",
-    "99_Templates/tpl_Structure copy.md",
-    "Welcome.md",
-    "30_Structures/heat pump system.md",
-    "30_Structures/dasdas asd asd.md",
-    "10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
-    "20_Vocabulary/heat pump system.md",
-    "20_Vocabulary/Chinese.md",
     "99_Tools/scripts/word-count-handler.js",
     "99_Tools/scripts",
     "99_Tools",

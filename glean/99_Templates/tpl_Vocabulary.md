@@ -1,154 +1,76 @@
-created: 2025-12-16
-tags: vocabulary, flashcard
+---
+created: 2025-12-17 15:46
+tags:
+  - vocabulary
+  - flashcard
 category: word
-confidence: 
 mastery: 🔴 New
-process_status: pending
+status: pending
 ---
 
 # tpl_Vocabulary
 
-## 📊 Meta Information
+> [!info] Word Analysis
+> **IPA:** /  /
+> **Part of Speech:** (noun/verb/adj/adv)
+> **CEFR Level:** (A1-C2)
+> **Register:** (formal/informal/academic)
+> **Etymology:** ...
 
-| Property           | Value                                            |
-| ------------------ | ------------------------------------------------ |
-| **IPA**            | /  /                                             |
-| **Part of Speech** | (noun/verb/adjective/adverb/etc.)                |
-| **CEFR Level**     | (A1/A2/B1/B2/C1/C2)                              |
-| **Frequency**      | (common/uncommon/rare)                           |
-| **Register**       | (formal/informal/academic/colloquial)            |
-| **Etymology**      | (Nguồn gốc từ - Latin, Greek, Old English, etc.) |
-
----
-
-## 🌳 Root Word Analysis
-
-### Root Components
-**Root:** (gốc từ chính, ví dụ: "spect" từ Latin = to look)
-**Prefix:** (tiền tố, ví dụ: "in-" = not)
-**Suffix:** (hậu tố, ví dụ: "-tion" = noun form)
-
-### Word Family
-- **Noun:** [[]]
-- **Verb:** [[]]
-- **Adjective:** [[]]
-- **Adverb:** [[]]
-
-### Related Words
-> Các từ khác cùng gốc:
-- [[]] - (meaning)
-- [[]] - (meaning)
-- [[]] - (meaning)
-
----
-
-## 💡 Definitions
-
-### Root Meaning
-
-
-### Context Meaning
-
-
-### Vietnamese Translation
-
-
-### Nuances
-> Các nghĩa khác nhau tuỳ ngữ cảnh:
-- 
-- 
-
----
-
-## 🔗 Relations
-
-### Synonyms
-
-| Word | Meaning | Usage Difference |
-| ---- | ------- | ---------------- |
-| [[]] |         |                  |
-| [[]] |         |                  |
-
-### Antonyms
-
-| Word | Meaning | Usage Difference |
-| ---- | ------- | ---------------- |
-| [[]] |         |                  |
-| [[]] |         |                  |
-
----
-
-## 📝 Usage
-
-### Collocations
-
-| Phrase | Meaning | Frequency                     |
-| ------ | ------- | ----------------------------- |
-|        |         | (very common/common/uncommon) |
-|        |         |                               |
-|        |         |                               |
-
-### Examples
-
-#### Example 1
-
-|                 |     |
-| --------------- | --- |
-| **Context**     |     |
-| **Sentence**    |     |
-| **Translation** |     |
-
-#### Example 2
-
-|                 |     |
-| --------------- | --- |
-| **Context**     |     |
-| **Sentence**    |     |
-| **Translation** |     |
-
-#### Example 3
-
-|                 |     |
-| --------------- | --- |
-| **Context**     |     |
-| **Sentence**    |     |
-| **Translation** |     |
-
-### Common Mistakes
-
-| Mistake ❌ | Correction ✅ | Explanation |
-| --------- | ------------ | ----------- |
-|           |              |             |
-|           |              |             |
-
----
-
-## 🎯 Learning Tips
-
-### Memory Techniques
-1. 
-2. 
-3. 
-
-### Practice Exercises
-1. 
-2. 
-
-### Related Concepts
-- [[]]
-- [[]]
-
----
-
-## 🧩 Context
-
-> [!quote] Original Sentence
+> [!abstract] Meanings
+> **Root Meaning:** ...
 > 
-> — Source: [[]]
-> — Timestamp: 
+> **Context Meaning:** ...
+> 
+> **Vietnamese Translation:**
+> - **Direct:** ...
+> - **Contextual:** ...
+> 
+> **Nuances:**
+> - ...
 
-**Giải thích ngữ cảnh:**
+> [!note] Relations
+> **Word Family:**
+> - **Noun:** [[ ]] /.../
+> - **Verb:** [[ ]] /.../
+> - **Adj:** [[ ]] /.../
+> - **Adv:** [[ ]] /.../
+> 
+> **Synonyms:**
+> - [[ ]] /.../ : ...
+> - [[ ]] /.../ : ...
+> 
+> **Antonyms:**
+> - [[ ]] /.../ : ...
+> - [[ ]] /.../ : ...
 
+> [!success] Context & Usage
+> **Collocations:**
+> 1. ...
+> 2. ...
+> 
+> **1. Example Context 1**
+> - **Sentence:** ...
+> - **Translation:** ...
+> 
+> **2. Example Context 2**
+> - **Sentence:** ...
+> - **Translation:** ...
+
+> [!failure] Common Mistakes
+> **1. Mistake Type**
+> - ❌ **Mistake:** ...
+> - ✅ **Correction:** ...
+> - **Why:** ...
+
+> [!tip] Learning Notes
+> - **Memory Hook:** ...
+> - **Visual Association:** ...
+> - **Story/Situation:** ...
+
+> [!quote]- Context Source
+> **Quote:** ...
+> **Source:** [[ ]]
 
 ---
 
@@ -188,29 +110,8 @@ Analyze the root/family of **tpl_Vocabulary**.
 
 ## 📈 Learning Progress
 
-**Times encountered:** 1
-**Times reviewed:** 0
-**Confidence level:** 🔴 New → 🟡 Learning → 🟢 Familiar → 🔵 Mastered
-**Next review:** 
-
----
-
-## 💭 Personal Notes & Mnemonics
-
-### Visual Association
-
-
-### Story/Situation
-
-
-### Personal Connection
-
-
----
-
-## 🔖 Tags & Categories
-
-**Themes:** #
-**Topics:** #
-**Difficulty:** #
-**Source Type:** #video / #article / #book / #conversation
+**Mastery Criteria:**
+- [ ] Can define the word
+- [ ] Can pronounce correctly
+- [ ] Can use in a sentence
+- [ ] Known collocations
