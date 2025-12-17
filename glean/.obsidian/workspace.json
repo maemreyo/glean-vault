@@ -11,10 +11,14 @@
             "id": "f2a4636a262e84b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "99_Templates/tpl_Vocabulary.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "tpl_Vocabulary"
             }
           }
         ]
@@ -202,12 +206,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c98256179590bd2",
+  "active": "f2a4636a262e84b5",
   "lastOpenFiles": [
+    "20_Vocabulary/test.md",
+    "99_Templates/tpl_Vocabulary-v1.md",
     "99_Templates/tpl_Vocabulary.md",
     "99_Templates/tpl_Structure.md",
     "99_Templates/tpl_Structure-v1.md",
-    "99_Templates/tpl_Vocabulary-v1.md",
     "99_Templates/tpl_Source_Input.md",
     "20_Vocabulary/sediment.md",
     "30_Structures/the precious object.md",
@@ -230,7 +235,6 @@
     "30_Structures/the moment arrives.md",
     "30_Structures/keen on.md",
     "README.md",
-    "99_Templates/tpl_Vocabulary copy.md",
     "99_Tools/scripts/word-count-handler.js",
     "99_Tools/scripts",
     "99_Tools",

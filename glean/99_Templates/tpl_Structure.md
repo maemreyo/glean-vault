@@ -1,5 +1,4 @@
 ---
-created: 2025-12-17 15:46
 tags:
   - structure
   - flashcard
@@ -105,19 +104,19 @@ status: pending
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **tpl_Vocabulary**?
+**Question::** What is the structure pattern for **{{STRUCTURE_NAME}}**?
 **Answer::**
 
 ### Card 2: Meaning
-**Question::** What does **tpl_Vocabulary** express?
+**Question::** What does **{{STRUCTURE_NAME}}** express?
 **Answer::**
 
 ### Card 3: Usage
-**Question::** When should you use **tpl_Vocabulary**?
+**Question::** When should you use **{{STRUCTURE_NAME}}**?
 **Answer::**
 
 ### Card 4: Example
-**Question::** Create a sentence with **tpl_Vocabulary** about [topic]
+**Question::** Create a sentence with **{{STRUCTURE_NAME}}** about [topic]
 **Answer::**
 
 ### Card 5: Error Correction
@@ -125,11 +124,11 @@ status: pending
 **Answer::**
 
 ### Card 6: Comparison
-**Question::** How is **tpl_Vocabulary** different from [similar structure]?
+**Question::** How is **{{STRUCTURE_NAME}}** different from [similar structure]?
 **Answer::**
 
 ### Card 7: Transformation
-**Question::** Transform this sentence using **tpl_Vocabulary**: [sentence]
+**Question::** Transform this sentence using **{{STRUCTURE_NAME}}**: [sentence]
 **Answer::**
 
 ---
