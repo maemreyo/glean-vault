@@ -294,11 +294,9 @@ pattern_name = basename(absolute_path).replace(".md", "")
 **Process**:
 1. **File Discovery**:
    ```bash
-   # Search for markdown files, excluding .claude, node_modules, and hidden files
-   find . -type f -name "*.md" -not -path '*/.*' -not -path '*/node_modules/*' -not -path '*/.claude/*' | grep "struct\|grammar"
-   
-   # Or specifically in the struct folder if it exists
-   # find struct/ -name "*.md" -type f
+   # Search specifically in the Structures folder and filter for "process_status: pending"
+   # Using grep to avoid reading full file contents for filtered files
+   find glean/30_Structures -name "*.md" -type f -exec grep -l "process_status: pending" {} +
    ```
 
 2. **Filtering**:

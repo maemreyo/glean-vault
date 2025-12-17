@@ -164,6 +164,13 @@ Similar to [[structure-name]]:
 - When to use each: [guidance]
 ```
 
+### Domain 8: Structure Preservation (CRITICAL)
+
+**What to verify:**
+- **Zero Deletion**: Confirm no existing lines form the template were removed.
+- **Table Integrity**: Confirm all table rows and columns remain intact.
+- **Header Check**: Confirm all `##` headers from the original file are present.
+
 ---
 
 ## Example Generation Strategies
@@ -246,6 +253,14 @@ Before completing structure analysis, verify:
 ---
 
 ## Common Rules for Structure Analysis
+
+### Structure Preservation Rules (HIGHEST PRIORITY)
+
+| Rule | Do | Don't |
+|------|----|----- |
+| **Keep Everything** | Keep ALL headers, tables, and separators | Delete "empty" looking sections |
+| **Fill, Don't Replace** | Insert text *into* the structure | Replace the structure with a summary |
+| **Table Integrity** | Keep all `|` characters | remove columns or rows |
 
 ### Pattern Recognition Rules
 

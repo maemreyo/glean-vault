@@ -24,7 +24,7 @@ The law was signed by President Joe Biden while he was still in office and was u
 
 Trump and members of his administration [have previously claimed a TikTok deal was done](https://www.bbc.co.uk/news/articles/clyng762q4eo), and had the blessing of Chinese President Xi Jinping.
 
-The president has also said "sophisticated" US investors would be involved in acquiring [the app](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html), including two of his allies: Oracle chairman Larry Ellison and Dell Technologies' Michael Dell.
+The president has also said "sophisticated" US investors would <mark style="background: #BBFABBA6;">be involved in</mark> acquiring [the app](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html), including two of his allies: Oracle chairman Larry Ellison and Dell Technologies' Michael Dell.
 
 Members of the Trump administration had indicated the deal would be formalised in a meeting between Trump and Xi in October - however it concluded without an agreement being reached.
 

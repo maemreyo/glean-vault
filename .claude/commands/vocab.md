@@ -353,7 +353,9 @@ word = basename(absolute_path).replace(".md", "")
 **Process**:
 1. **File Discovery**:
    ```bash
-   find glean/20_Vocabulary -name "*.md" -type f
+   # Search specifically in the Vocabulary folder and filter for "process_status: pending"
+   # Using grep to avoid reading full file contents for filtered files
+   find glean/20_Vocabulary -name "*.md" -type f -exec grep -l "process_status: pending" {} +
    ```
 
 2. **Filtering**:

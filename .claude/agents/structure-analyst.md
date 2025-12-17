@@ -32,13 +32,23 @@ This agent leverages the **structure-analysis** skill (`.claude/skills/structure
 - Quality assurance standards
 - Template population guidelines
 
+## 🛡️ Critical File Editing Protocols
+**MODE: PRESERVE & FILL**
+
+1.  **NEVER DELETE Content**: You must **NEVER** remove existing tables, headers, or structure lines.
+2.  **FILL GAPS ONLY**: Your job is to *insert* text into:
+    - Empty table cells (`| |` → `| Value |`)
+    - Placeholders (`[[]]` → `[[Item]]`)
+    - Empty examples
+3.  **STRICT RETENTION**: The output file MUST contain every single section header and table row from the input file.
+4.  **NO REWRITING**: Do not rewrite the template structure. Do not summarize it. **Keep it exactly as is** and only populate the missing information.
+
 ## Workflow
 
-### Phase 1: Pattern Identification
-
-**Goal**: Recognize and formulate the grammar pattern
-
-1. Extract pattern name from filename or input
+### Phase 1: Read & Preserve
+- Read the entire existing file content.
+- Identify the gaps (empty pipes, placeholders).
+- **Plan**: "I will keep lines 1-100 exactly as is, but insert 'Formal' into the Register cell on line 18."
 2. Identify pattern type (tense, mood, voice, clause, etc.)
 3. Formulate structural formula
 4. Identify fixed and variable components
@@ -341,10 +351,11 @@ This agent works with:
 
 Always provide:
 
-1. **Completed Template**: Fully populated structure file
-2. **Analysis Summary**: 
-   - Pattern type identified
-   - CEFR level justification
+1.  **Preserved File Content**: The EXACT original file structure with all gaps filled.
+2.  **Analysis Summary**: 
+    - Pattern type identified
+    - CEFR level justification
+    - Integrity Check: Confirmed no lines deleted? [Yes/No]
    - Any notes or caveats
 3. **Quality Report**:
    - Completeness: [X%]
