@@ -2,74 +2,79 @@
 tags:
   - vocabulary
   - flashcard
-category: word
+category: phrase
 mastery: 🔴 New
-status: pending
+status: done
 ---
 metabolic heat
-# {{WORD}}
+# metabolic heat
 
-> [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic)
-> **Etymology:** ...
+> [!info] Phrase Analysis
+> **IPA:** /ˌmetəˈbɒlɪk hiːt/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** scientific/academic
+> **Etymology:** From Greek 'metabole' meaning "change" + 'heat'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Heat generated from change processes in the body
+>
+> **Context Meaning:** The heat produced by living organisms as a byproduct of metabolic processes, particularly the conversion of food into energy
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nhiệt trao đổi chất
+> - **Contextual:** nhiệt lượng sinh học, nhiệt từ quá trình trao đổi chất
+>
 > **Nuances:**
-> - ...
+> - Generated through cellular respiration and other metabolic reactions
+> - Essential for maintaining body temperature in warm-blooded animals
+> - In humans, accounts for about 70-80% of total heat production
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[metabolism]] /məˈtæbəlɪzəm/
+> - **Adj:** [[metabolic]] /ˌmetəˈbɒlɪk/
+> - **Verb:** [[metabolize]] /məˈtæbəlaɪz/
+> - **Related:** [[thermogenesis]] /ˌθɜːrmoʊˈdʒenəsɪs/ - heat production
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[body heat]] /ˈbɒdi hiːt/ : heat produced by the body
+> - [[thermic energy]] /ˈθɜːrmɪk ˈenərdʒi/ : energy in the form of heat
+> - [[calorimetry]] /ˌkæləˈrɪmətri/ : heat measurement
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[heat loss]] /ˈhiːt lɔːs/ : dissipation of heat
+> - [[cooling]] /ˈkuːlɪŋ/ : reduction of temperature
+> - [[hypothermia]] /ˌhaɪpəˈθɜːrmiə/ : dangerously low body temperature
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. generate metabolic heat
+> 2. metabolic heat production
+> 3. dissipate metabolic heat
+>
+> **1. Example Context 1 (Biology)**
+> - **Sentence:** Small mammals generate metabolic heat to maintain their body temperature in cold environments.
+> - **Translation:** Các động vật có vú nhỏ tạo ra nhiệt trao đổi chất để duy trì nhiệt độ cơ thể trong môi trường lạnh.
+>
+> **2. Example Context 2 (Exercise)**
+> - **Sentence:** During intense exercise, metabolic heat production can increase up to 20 times the resting rate.
+> - **Translation:** Trong khi tập thể dục cường độ cao, sản sinh nhiệt trao đổi chất có thể tăng lên đến 20 lần so với mức khi nghỉ ngơi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with External Heat**
+> - ❌ **Mistake:** "The sun provides metabolic heat to plants"
+> - ✅ **Correction:** "The sun provides external heat to plants"
+> - **Why:** Metabolic heat is generated internally by organisms, not from external sources
 
 > [!tip] Learning Notes
-> - **Memory Hook:** ...
-> - **Visual Association:** ...
-> - **Story/Situation:** ...
+> - **Memory Hook:** "Metabolism" + "heat" = heat your body makes from burning food
+> - **Visual Association:** Picture steam rising from a person exercising
+> - **Story/Situation:** A shivering mouse produces metabolic heat through rapid muscle contractions
 
 > [!quote]- Context Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The human body is a furnace that burns fuel to create metabolic heat, maintaining the precise temperature needed for life."
+> **Source:** [[Guyton and Hall Textbook of Medical Physiology]]
 
 ---
 
@@ -79,76 +84,78 @@ metabolic heat
 
 ### Card 1: Meaning & Context (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **metabolic heat** (*/ˌmetəˈbɒlɪk hiːt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 💡 **Nuance:** <Explanation of usage/connotation>
+> 📖 **Meaning:** Heat produced by living organisms as a byproduct of converting food into energy
+> 🇻🇳 **Vietnamese:** Nhiệt trao đổi chất, nhiệt lượng sinh học
+> 🗣️ **IPA:** */ˌmetəˈbɒlɪk hiːt/*
+> 💡 **Nuance:** Generated internally through metabolic processes, not from external sources
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The heat generated by an organism through its metabolic processes"
+**Vietnamese:** Nhiệt trao đổi chất
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**metabolic heat** (*/ˌmetəˈbɒlɪk hiːt/*)
 
 ---
 
 ### Card 3: Usage (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **metabolic heat** in a sentence.
 ?
-> 📝 **Sentence:** <English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Sentence>
+> 📝 **Sentence:** The human body continuously produces metabolic heat, which must be dissipated to maintain stable temperature.
+> 🇻🇳 **Translation:** Cơ thể con người liên tục tạo ra nhiệt trao đổi chất, phải được tỏa ra để duy trì nhiệt độ ổn định.
 
 ---
 
 ### Card 4: Collocations (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **metabolic heat**.
 ?
 > 🔗 **Collocations:**
-> 1. <Collocation 1>
-> 2. <Collocation 2>
-> 3. <Collocation 3>
+> 1. generate metabolic heat
+> 2. metabolic heat production
+> 3. dissipate metabolic heat
 
 ---
 
 ### Card 5: Root & Word Family (Multi-line)
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **metabolic heat**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `metabole` ("change") + English `heat`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* metabolism, thermogenesis
+> - *(adjective)* metabolic, thermal
+> - *(verb)* metabolize
+> - *(process)* cellular respiration
 
 ---
 
 ### Card 6: Context Cloze
 
-> 🗣️ *<Sentence with ==word== hidden>*
+> 🗣️ *Athletes must balance ==metabolic heat== production with heat dissipation during competition.*
 >
-> 🇻🇳 **Vi:** <Vietnamese Translation>
+> 🇻🇳 **Vi:** Vận động viên phải cân bằng sản sinh nhiệt trao đổi chất với sự tỏa nhiệt trong khi thi đấu.
 
 ---
 
 ### Card 7: IPA Decoding
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌmetəˈbɒlɪk hiːt/*
 ?
-**{{WORD}}** 
+**metabolic heat**
 
 ---
 
 ## 📈 Learning Progress
 
 **Mastery Criteria:**
-- [ ] Can define the word
+- [ ] Can define the phrase
 - [ ] Can pronounce correctly
 - [ ] Can use in a sentence
 - [ ] Known collocations

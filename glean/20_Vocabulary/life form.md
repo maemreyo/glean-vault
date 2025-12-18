@@ -4,144 +4,148 @@ tags:
   - flashcard
 category: word
 mastery: 🔴 New
-status: pending
+status: done
 ---
 life form
-# {{WORD}}
+# life form
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic)
-> **Etymology:** ...
+> **IPA:** /ˈlaɪf fɔːrm/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** B2
+> **Register:** Academic/Scientific
+> **Etymology:** Old English "līf" (life) + Latin "forma" (shape/form)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A type or kind of living thing
+>
+> **Context Meaning:** Any biological entity, including extremophile microorganisms adapted to survive in extreme cave environments where most life cannot exist
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Sinh vật
+> - **Contextual:** Hình thức sự sống, loài sinh vật
+>
 > **Nuances:**
-> - ...
+> - In extreme environments, refers to highly specialized organisms with unique adaptations
+> - Can range from microscopic bacteria to complex multicellular organisms
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[life]] /ˈlaɪf/ : existence of living beings
+> - **Noun:** [[organism]] /ˈɔːrɡənɪzəm/ : living being
+> - **Noun:** [[creature]] /ˈkriːtʃər/ : living entity
+> - **Noun:** [[species]] /ˈspiːʃiːz/ : group of related organisms
+> - **Adj:** [[biological]] /ˌbaɪəˈlɒdʒɪkl/ : relating to life
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[organism]] /ˈɔːrɡənɪzəm/ : living thing
+> - [[creature]] /ˈkriːtʃər/ : living being
+> - [[species]] /ˈspiːʃiːz/ : type of organism
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[inanimate object]] /ɪnˈænɪmət ˈɒbdʒekt/ : non-living thing
+> - [[mineral]] /ˈmɪnərəl/ : inorganic substance
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. extremophile life form
+> 2. simple life form
+> 3. unique life form
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Scientists discovered a new life form in the cave that thrives on chemical energy from mineral oxidation.
+> - **Translation:** Các nhà khoa học đã phát hiện một sinh vật mới trong hang động phát triển mạnh bằng năng lượng hóa học từ sự oxy hóa khoáng vật.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The extreme conditions of the cave support only the most specialized life forms adapted to darkness and heat.
+> - **Translation:** Điều kiện khắc nghiệt của hang động chỉ hỗ trợ các sinh vật chuyên biệt nhất đã thích nghi với bóng tối và nhiệt độ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Singular vs plural confusion**
+> - ❌ **Mistake:** Using "life form" for one organism when it should be singular
+> - ✅ **Correction:** "Life form" can be singular (one type) or general, "life forms" for multiple types
+> - **Why:** The phrase can refer to a single category or multiple categories
 
 > [!tip] Learning Notes
-> - **Memory Hook:** ...
-> - **Visual Association:** ...
-> - **Story/Situation:** ...
+> - **Memory Hook:** Life + form = shape of life
+> - **Visual Association:** Think of different shapes of living things - bacteria, plants, animals
+> - **Story/Situation:** When scientists discover aliens, they'll call them "extraterrestrial life forms"
 
 > [!quote]- Context Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The discovery of extremophile life forms in caves expands our understanding of where and how life can exist."
+> **Source:** [[Insight of the Day The Extreme Biology and Thermodynamics of Caves.md]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-
-
 ### Card 1: Meaning & Context (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **life form** (*/ˈlaɪf fɔːrm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 💡 **Nuance:** <Explanation of usage/connotation>
+> 📖 **Meaning:** A type or category of living organism, especially one adapted to particular environmental conditions
+> 🇻🇳 **Vietnamese:** Sinh vật, hình thức sự sống - một loại hoặc nhóm sinh vật sống
+> 🗣️ **IPA:** */ˈlaɪf fɔːrm/*
+> 💡 **Nuance:** In extreme environments, refers to highly adapted organisms with specialized survival mechanisms
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A type or category of living organism, especially one adapted to particular environmental conditions"
+**Vietnamese:** Sinh vật, hình thức sự sống
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**life form** (*/ˈlaɪf fɔːrm/*)
 
 ---
 
 ### Card 3: Usage (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **life form** in a sentence.
 ?
-> 📝 **Sentence:** <English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Sentence>
+> 📝 **Sentence:** The cave hosts unique life forms that have evolved to survive in complete darkness and extreme temperatures.
+> 🇻🇳 **Translation:** Hang động là nơi có các sinh vật độc đáo đã tiến hóa để tồn tại trong bóng tối hoàn toàn và nhiệt độ khắc nghiệt.
 
 ---
 
 ### Card 4: Collocations (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **life form**.
 ?
 > 🔗 **Collocations:**
-> 1. <Collocation 1>
-> 2. <Collocation 2>
-> 3. <Collocation 3>
+> 1. extremophile life form
+> 2. simple life form
+> 3. unique life form
 
 ---
 
 ### Card 5: Root & Word Family (Multi-line)
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **life form**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `līf` (life) + Latin `forma` (shape)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[organism]] /ˈɔːrɡənɪzəm/ : living thing
+> - *(noun)* [[creature]] /ˈkriːtʃər/ : living being
+> - *(adj)* [[biological]] /ˌbaɪəˈlɒdʒɪkl/ : relating to life
+> - *(noun)* [[species]] /ˈspiːʃiːz/ : type of organism
 
 ---
 
 ### Card 6: Context Cloze
 
-> 🗣️ *<Sentence with ==word== hidden>*
+> 🗣️ *Rock-eaters are a fascinating ==life form== that thrives by consuming minerals instead of sunlight.*
 >
-> 🇻🇳 **Vi:** <Vietnamese Translation>
+> 🇻🇳 **Vi:** Sinh vật ăn đá là một sinh vật hấp dẫn phát triển mạnh bằng cách tiêu thụ khoáng vật thay vì ánh sáng mặt trời.
 
 ---
 
 ### Card 7: IPA Decoding
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈlaɪf fɔːrm/*
 ?
-**{{WORD}}** 
+**life form**
 
 ---
 

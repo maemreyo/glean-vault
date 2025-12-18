@@ -4,72 +4,77 @@ tags:
   - flashcard
 category: word
 mastery: 🔴 New
-status: pending
+status: done
 ---
 dissipate
-# {{WORD}}
+# dissipate
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic)
-> **Etymology:** ...
+> **IPA:** /ˈdɪsɪpeɪt/
+> **Part of Speech:** verb
+> **CEFR Level:** C1
+> **Register:** formal/academic
+> **Etymology:** From Latin 'dissipare' meaning "to scatter, disperse" from dis- "apart" + supare "to throw"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To scatter apart or disperse
+>
+> **Context Meaning:** To disperse or scatter energy, heat, or emotion so that it disappears or is wasted; to spend frivolously or wastefully
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tan ra, phân tán, tiêu tan
+> - **Contextual:** tiêu tán (năng lượng), phân tán (sương mù), lãng phí
+>
 > **Nuances:**
-> - ...
+> - Physics: spreading out energy or particles
+> - Emotions: gradually disappearing or fading away
+> - Resources: wasting or spending carelessly
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[dissipation]] /ˌdɪsɪˈpeɪʃən/
+> - **Verb:** [[dissipate]] /ˈdɪsɪpeɪt/
+> - **Adj:** [[dissipated]] /ˈdɪsɪpeɪtɪd/ - scattered; indulgent
+> - **Adv:** [[dissipatedly]] /ˈdɪsɪpeɪtɪdli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[disperse]] /dɪˈspɜːrs/ : to spread over a wide area
+> - [[scatter]] /ˈskætər/ : to throw in various directions
+> - [[vanish]] /ˈvænɪʃ/ : to disappear completely
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[concentrate]] /ˈkɑːnsəntreɪt/ : to focus in one place
+> - [[gather]] /ˈɡæðər/ : to bring together
+> - [[conserve]] /kənˈsɜːrv/ : to preserve carefully
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. dissipate energy
+> 2. dissipate heat
+> 3. dissipate doubts
+>
+> **1. Example Context 1 (Physics)**
+> - **Sentence:** The radiator dissipates excess heat into the surrounding air to prevent overheating.
+> - **Translation:** Bộ tản nhiệt tỏa nhiệt dư vào không khí xung quanh để ngăn chặn tình trạng quá nhiệt.
+>
+> **2. Example Context 2 (Emotions)**
+> - **Sentence:** His anger began to dissipate as he understood the situation better.
+> - **Translation:** Cơn giận của anh ấy bắt đầu tan đi khi anh hiểu rõ tình hình hơn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Pronunciation**
+> - ❌ **Mistake:** /dɪˈsɪpət/ (two syllables)
+> - ✅ **Correction:** /ˈdɪsɪpeɪt/ (three syllables, with long 'a' sound)
+> - **Why:** The stress is on the first syllable, and 'ate' makes a long 'a' sound
 
 > [!tip] Learning Notes
-> - **Memory Hook:** ...
-> - **Visual Association:** ...
-> - **Story/Situation:** ...
+> - **Memory Hook:** "Dis" (apart) + "sipate" (sounds like "spate" or flood) - to scatter apart like a flood breaking up
+> - **Visual Association:** Picture fog dissipating in the morning sun, gradually disappearing
+> - **Story/Situation:** A talented young man dissipates his fortune on gambling and lavish parties
 
 > [!quote]- Context Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Do not dissipate your energy in vain pursuits, but concentrate it on worthy goals."
+> **Source:** [[Paramahansa Yogananda]]
 
 ---
 
@@ -79,69 +84,71 @@ dissipate
 
 ### Card 1: Meaning & Context (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **dissipate** (*/ˈdɪsɪpeɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 💡 **Nuance:** <Explanation of usage/connotation>
+> 📖 **Meaning:** To scatter or disperse energy, heat, or emotion until it disappears; to waste or spend frivolously
+> 🇻🇳 **Vietnamese:** Tan ra, phân tán, tiêu tán, lãng phí
+> 🗣️ **IPA:** */ˈdɪsɪpeɪt/*
+> 💡 **Nuance:** Can refer to physical dispersion of energy/heat or gradual disappearance of emotions
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To disperse or scatter so that something disappears or is wasted"
+**Vietnamese:** Tan ra, phân tán, tiêu tán
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**dissipate** (*/ˈdɪsɪpeɪt/*)
 
 ---
 
 ### Card 3: Usage (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **dissipate** in a sentence.
 ?
-> 📝 **Sentence:** <English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Sentence>
+> 📝 **Sentence:** The morning fog began to dissipate as the sun rose higher in the sky.
+> 🇻🇳 **Translation:** Sương mù buổi sáng bắt đầu tan đi khi mặt trời lên cao hơn trên bầu trời.
 
 ---
 
 ### Card 4: Collocations (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **dissipate**.
 ?
 > 🔗 **Collocations:**
-> 1. <Collocation 1>
-> 2. <Collocation 2>
-> 3. <Collocation 3>
+> 1. dissipate energy
+> 2. dissipate heat
+> 3. dissipate doubts
 
 ---
 
 ### Card 5: Root & Word Family (Multi-line)
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **dissipate**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `dissipare` ("to scatter") from dis- ("apart") + supare ("to throw")
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* dissipate
+> - *(noun)* dissipation
+> - *(adjective)* dissipated
+> - *(adverb)* dissipatedly
 
 ---
 
 ### Card 6: Context Cloze
 
-> 🗣️ *<Sentence with ==word== hidden>*
+> 🗣️ *The wind turbine helps to ==dissipate== excess energy from the power grid during low demand periods.*
 >
-> 🇻🇳 **Vi:** <Vietnamese Translation>
+> 🇻🇳 **Vi:** Tuabin gió giúp phân tán năng lượng dư thừa từ lưới điện trong các thời kỳ nhu cầu thấp.
 
 ---
 
 ### Card 7: IPA Decoding
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈdɪsɪpeɪt/*
 ?
-**{{WORD}}** 
+**dissipate**
 
 ---
 
