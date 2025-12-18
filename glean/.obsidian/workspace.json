@@ -20,6 +20,34 @@
               "icon": "lucide-file",
               "title": "Audioscripts Cam 19 Listening Test 02 Part 4 - Tardigrades"
             }
+          },
+          {
+            "id": "b795dbae28103049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/experiment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "experiment"
+            }
+          },
+          {
+            "id": "dc2e727f36137ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/will.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "will"
+            }
           }
         ]
       }
@@ -208,36 +236,36 @@
   },
   "active": "253d804648e185f5",
   "lastOpenFiles": [
-    "20_Vocabulary/test_vocab_upgrade.md",
-    "20_Vocabulary/microscopic.md",
-    "20_Vocabulary/tardigrade.md",
-    "20_Vocabulary/invertebrate.md",
-    "10_Sources/Articles/UK launches taskforce to 'break down barriers' for women in tech.md",
-    "10_Sources/Articles/Insight of the Day The Extreme Biology and Thermodynamics of Caves.md",
-    "10_Sources/Articles/Audioscripts Cam 19 Listening Test 02 Part 4 - Tardigrades.md",
-    "30_Structures/the glare of endless daylight.md",
-    "10_Sources/Articles/Facebook.md",
-    "10_Sources/Articles/ZEBRAFISH HEAL THEIR OWN HEART.md",
-    "10_Sources/Articles/What's next for TikTok in the US as deal prospects remain uncertain?.md",
-    "10_Sources/Articles/VISUAL FLOOD EVIDENCE.md",
-    "10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
-    "99_Tools/scripts/remove_highlights.py",
-    "20_Vocabulary/emanate.md",
+    "20_Vocabulary/existence.md",
+    "20_Vocabulary/the conservation status.md",
+    "20_Vocabulary/coated with a type of gel.md",
+    "20_Vocabulary/suppose.md",
+    "20_Vocabulary/prey on.md",
+    "20_Vocabulary/extract fluid from seaweed.md",
+    "20_Vocabulary/suck the juices from moss.md",
+    "20_Vocabulary/chewing.md",
+    "20_Vocabulary/consume.md",
+    "20_Vocabulary/determine.md",
+    "20_Vocabulary/take place.md",
+    "20_Vocabulary/experiment.md",
+    "20_Vocabulary/will.md",
     "20_Vocabulary/reveal.md",
-    "glean/20_Vocabulary/reveal.md",
+    "10_Sources/Articles/Audioscripts Cam 19 Listening Test 02 Part 4 - Tardigrades.md",
+    "20_Vocabulary/metabolism.md",
+    "20_Vocabulary/retract.md",
+    "20_Vocabulary/a tun.md",
+    "20_Vocabulary/cryptobiosis.md",
+    "20_Vocabulary/an asteroid.md",
+    "20_Vocabulary/wipe out.md",
+    "20_Vocabulary/human being.md",
+    "20_Vocabulary/–200 degrees centigrade.md",
+    "20_Vocabulary/withstand temperature.md",
+    "20_Vocabulary/capable of surviving radiation.md",
+    "20_Vocabulary/the bed of a lake.md",
+    "99_Tools/scripts/remove_highlights.py",
     "glean/20_Vocabulary",
     "glean",
     "99_Tools/scripts/auto_link_vocab.py",
-    "20_Vocabulary/motivate.md",
-    "10_Sources/Articles/Untitled.md",
-    "20_Vocabulary/subterranean environment.md",
-    "20_Vocabulary/thermodynamics.md",
-    "30_Structures/the fascinating intersection.md",
-    "30_Structures/resource-depleted environment.md",
-    "30_Structures/metabolic stasis.md",
-    "30_Structures/the \"reanimation\" of microbes trapped within fluid inclusions of giant crystals.md",
-    "30_Structures/microbial longevity in stasis.md",
-    "20_Vocabulary/rock-eaters.md",
     "20_Vocabulary/harbour.md.tmp.19458.1766050852910",
     "30_Structures/genius_data.json",
     "10_Sources/Images/Pasted image 20251218102206.png",

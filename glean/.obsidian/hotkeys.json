@@ -7,14 +7,6 @@
       "key": "Y"
     }
   ],
-  "highlightr-plugin:Green": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "3"
-    }
-  ],
   "quickadd:choice:cfd80229-d48e-4d9f-9e71-8c69e49f679b": [
     {
       "modifiers": [
@@ -22,22 +14,12 @@
         "Shift"
       ],
       "key": "V"
-    }
-  ],
-  "highlightr-plugin:Red": [
+    },
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "1"
-    }
-  ],
-  "highlightr-plugin:Orange": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "2"
     }
   ],
   "quickadd:choice:552afc01-17d7-480a-a42f-a8ff5079f480": [
@@ -47,6 +29,14 @@
         "Shift"
       ],
       "key": "B"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
     }
-  ]
+  ],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": []
 }
