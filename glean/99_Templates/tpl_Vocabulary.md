@@ -75,35 +75,73 @@ status: pending
 
 ## 🧠 Spaced Repetition Flashcards
 
+
+
 ### Card 1: Meaning & Context (Multi-line)
-What does **{{WORD}}** mean?
+
+What does **{{WORD}}** (*/<ipa>/*) mean?
 ?
-**Meaning:** 
-**IPA:** /  /
-**Key Nuance:** 
+> 📖 **Meaning:** <English Definition>
+> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+> 🗣️ **IPA:** */<ipa>/*
+> 💡 **Nuance:** <Explanation of usage/connotation>
+
+---
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "..." → Word?
-Answer:: **{{WORD}}**
+
+**Definition:** "<English Definition>"
+**Vietnamese:** <Vietnamese Definition>
+→ **Target Word?**
+?
+**{{WORD}}** (*/<ipa>/*)
+
+---
 
 ### Card 3: Usage (Multi-line)
+
 Use **{{WORD}}** in a sentence.
 ?
-**Sentence:** 
-**Translation:** 
+> 📝 **Sentence:** <English Sentence>
+> 🇻🇳 **Translation:** <Vietnamese Sentence>
+
+---
 
 ### Card 4: Collocations (Multi-line)
+
 List 3 common collocations for **{{WORD}}**.
 ?
-1. 
-2. 
-3. 
+> 🔗 **Collocations:**
+> 1. <Collocation 1>
+> 2. <Collocation 2>
+> 3. <Collocation 3>
+
+---
 
 ### Card 5: Root & Word Family (Multi-line)
+
 Analyze the root/family of **{{WORD}}**.
 ?
-**Root:** 
-**Related types:** (noun/verb/adj) 
+> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 👨‍👩‍👧 **Family:** 
+> - *(<pos>)* <related_word>
+> - *(<pos>)* <related_word>
+
+---
+
+### Card 6: Context Cloze
+
+> 🗣️ *<Sentence with ==word== hidden>*
+>
+> 🇻🇳 **Vi:** <Vietnamese Translation>
+
+---
+
+### Card 7: IPA Decoding
+
+> 🔊 */<ipa>/*
+?
+**{{WORD}}** 
 
 ---
 

@@ -163,6 +163,7 @@ to chart a path forward
 ?
 > 🖋️ **Improved:** "We need to chart a path forward."
 > 💡 **Effect:** Shifts register to more precise or evocative language.
+<!--SR:!2025-12-19,1,230-->
 
 
 **Card 9: Metaphor Deconstruction**
@@ -177,6 +178,7 @@ to chart a path forward
 🎭 **Scenario:** Describe a CEO's speech after a crisis.
 ?
 > 🎬 **Narration:** "The CEO's goal was to chart a path forward through the regulatory uncertainty."
+<!--SR:!2025-12-19,1,230-->
 
 
 ---

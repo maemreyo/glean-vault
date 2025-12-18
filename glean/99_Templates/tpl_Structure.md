@@ -39,12 +39,10 @@ status: pending
 
 > [!note] Relations & Connections
 > **Synonyms / Similar Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[ word ]] /IPA/ : meaning
 > 
 > **Antonyms / Contrasting Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[ word ]] /IPA/ : meaning
 
 > [!success] Usage Examples
 > 
@@ -104,32 +102,83 @@ status: pending
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **{{STRUCTURE_NAME}}**?
-**Answer::**
 
-### Card 2: Meaning
-**Question::** What does **{{STRUCTURE_NAME}}** express?
-**Answer::**
+🧩 **Pattern Analysis:** What is the structure pattern for **{{STRUCTURE_NAME}}**?
+?
+> 🏗️ **Structure:** [Component 1] + [Component 2] ...
 
-### Card 3: Usage
-**Question::** When should you use **{{STRUCTURE_NAME}}**?
-**Answer::**
+---
+
+### Card 2: Functional Meaning
+
+🤔 **Meaning:** What does **{{STRUCTURE_NAME}}** express?
+?
+> 📖 **Function:** <Definition/Function>
+
+---
+
+### Card 3: Contextual Usage
+
+❓ **Usage:** When should you use **{{STRUCTURE_NAME}}**?
+?
+> 📝 **Context:** <Usage Context (Formal/Informal/Academic)>
+
+---
 
 ### Card 4: Example
-**Question::** Create a sentence with **{{STRUCTURE_NAME}}** about [topic]
-**Answer::**
+
+✍️ **Production:** Create a sentence with **{{STRUCTURE_NAME}}** about <topic>
+?
+> 🧪 **Example:** <Example Sentence>
+
+---
 
 ### Card 5: Error Correction
-**Question::** What's wrong with: [incorrect example]
-**Answer::**
+
+🕵️ **Spot the Error:** What's wrong with: "<Incorrect Sentence>"
+?
+> 🛠️ **Correction:** <Explanation of error>
+
+---
 
 ### Card 6: Comparison
-**Question::** How is **{{STRUCTURE_NAME}}** different from [similar structure]?
-**Answer::**
+
+🆚 **Comparison:** How is **{{STRUCTURE_NAME}}** different from [[<related_structure>]]?
+?
+> ⚖️ **Difference:** <Detailed comparison>
+
+---
 
 ### Card 7: Transformation
-**Question::** Transform this sentence using **{{STRUCTURE_NAME}}**: [sentence]
-**Answer::**
+
+🔄 **Transformation:** Transform this sentence using **{{STRUCTURE_NAME}}**: "<Source Sentence>"
+?
+> 🔄 **Result:** <Target Sentence>
+
+---
+
+### Card 8: Writer's Rewrite
+
+✍️ **Rewrite:** Upgrade this boring sentence using **{{STRUCTURE_NAME}}**: "<Basic Sentence>"
+?
+> 🖋️ **Improved:** "<Advanced Sentence>"
+> 💡 **Effect:** <Explanation of stylistic improvement>
+
+---
+
+### Card 9: Metaphor Deconstruction
+
+🧩 **Deconstruct:** In **{{STRUCTURE_NAME}}**, what does "<word>" imply?
+?
+> 🔍 **Insight:** <Analysis of metaphorical imagery>
+
+---
+
+### Card 10: Scenario Application
+
+🎭 **Scenario:** <Specific Role/Situation Prompt>
+?
+> 🎬 **Narration:** "<hypothetical_sentence>"
 
 ---
 
