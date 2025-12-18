@@ -83,6 +83,7 @@ status: done
 **Card 6: Context Cloze**
 
 > 🗣️ *The laboratory ==analysis== confirmed the presence of the chemical compound.*
+<!--SR:!2025-12-21,3,250-->
 
 > 🇻🇳 **Vi:** Phân tích phòng thí nghiệm đã xác nhận sự có mặt của hợp chất hóa học.
 

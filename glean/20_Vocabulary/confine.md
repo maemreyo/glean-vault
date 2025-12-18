@@ -117,6 +117,7 @@ List 3 common collocations for **confine**.
 > 1. confine to
 > 2. confine within
 > 3. confined space
+<!--SR:!2025-12-19,1,230-->
 
 **Card 5: Root & Word Family (Multi-line)**
 

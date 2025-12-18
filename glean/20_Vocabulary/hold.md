@@ -122,9 +122,10 @@ List 3 common collocations for **hold**.
 Analyze the root/family of **hold**.
 ?
 > 🌱 **Root:** Old English `healdan` (to keep, guard)
-> 👨‍👩‍👧 **Family:** 
+> 👨‍👩‍👧 **Family:**
 > - holder *(noun)*
 > - holding *(adjective)*
+<!--SR:!2025-12-21,3,250-->
 
 **Card 6: Context Cloze**
 

@@ -126,10 +126,11 @@ List 3 common collocations for **restriction**.
 Analyze the root/family of **restriction**.
 ?
 > 🌱 **Root:** Latin restrictio (`a drawing together`), from restringere (`to bind back`)
-> 👨‍👩‍👧 **Family:** 
+> 👨‍👩‍👧 **Family:**
 > - *(verb)* restrict
 > - *(adj)* restricted
 > - *(adj)* restrictive
+<!--SR:!2025-12-22,4,270-->
 
 **Card 6: Context Cloze**
 

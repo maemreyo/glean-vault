@@ -96,6 +96,7 @@ What does **encourage** (*/ɪnˈkɜːrɪdʒ/*) mean?
 > 🇻🇳 **Vietnamese:** khuyến khích, động viên, thúc đẩy
 > 🗣️ **IPA:** */ɪnˈkɜːrɪdʒ/*
 > 💡 **Nuance:** Involves giving emotional support and confidence to someone
+<!--SR:!2025-12-21,3,250-->
 
 **Card 2: Production (Reverse)**
 

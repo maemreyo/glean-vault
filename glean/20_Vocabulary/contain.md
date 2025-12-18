@@ -133,6 +133,7 @@ Analyze the root/family of **contain**.
 **Card 6: Context Cloze**
 
 > 🗣️ *The bottle ==contain==s enough water for the entire journey.*
+<!--SR:!2025-12-22,4,270-->
 
 > 🇻🇳 **Vi:** Chai có đủ nước cho cả chuyến đi.
 

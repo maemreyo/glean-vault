@@ -129,6 +129,7 @@ Analyze the root/family of **include**.
 **Card 6: Context Cloze**
 
 > 🗣️ *The price ==include==s breakfast and unlimited Wi-Fi access.*
+<!--SR:!2025-12-21,3,252-->
 
 > 🇻🇳 **Vi:** Giá bao gồm bữa sáng và truy cập Wi-Fi không giới hạn.
 

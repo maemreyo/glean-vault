@@ -91,6 +91,7 @@ What does **pour** (*/pɔː(r)/*) mean?
 > 🇻🇳 **Vietnamese:** rót, đổ
 > 🗣️ **IPA:** */pɔː(r)/*
 > 💡 **Nuance:** Controlled action of transferring liquid (not accidental)
+<!--SR:!2025-12-22,4,270-->
 
 **Card 2: Production (Reverse)**
 

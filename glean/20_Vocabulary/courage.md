@@ -137,6 +137,7 @@ Analyze the root/family of **courage**.
 ?
 **courage**
 ---
+<!--SR:!2025-12-21,3,250-->
 
 
 ## 📈 Learning Progress

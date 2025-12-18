@@ -109,6 +109,7 @@ Use **overlook** in a sentence.
 ?
 > 📝 **Sentence:** In my hurry to catch the train, I overlooked my wallet on the kitchen counter.
 > 🇻🇳 **Translation:** Trong vội vàng bắt tàu, tôi đã bỏ quên ví trên quầy bếp.
+<!--SR:!2025-12-21,3,250-->
 
 ---
 

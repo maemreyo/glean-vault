@@ -128,10 +128,11 @@ List 3 common collocations for **container**.
 Analyze the root/family of **container**.
 ?
 > 🌱 **Root:** Latin `continere` (to hold together) + `-er` suffix
-> 👨‍👩‍👧 **Family:** 
+> 👨‍👩‍👧 **Family:**
 > - *(noun)* container, containment
 > - *(verb)* contain, containerize
 > - *(adj)* contained
+<!--SR:!2025-12-22,4,272-->
 
 **Card 6: Context Cloze**
 
