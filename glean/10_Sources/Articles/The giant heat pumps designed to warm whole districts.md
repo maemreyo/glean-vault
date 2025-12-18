@@ -17,9 +17,9 @@ Advertisement
 
 MVV Energie is building the world's most powerful heat pump systems
 
-The pipe that will supply the heat pump, drawing water from the River Rhine in Germany, is so big that you could walk through it, fully upright, I'm told.
+The pipe that [[20_Vocabulary/will|will]] supply the heat pump, drawing water from the River Rhine in Germany, is so big that you could walk through it, fully upright, I'm told.
 
-"We plan to take 10,000 litres per second," says Felix Hack, project manager at MVV Environment, an energy company, as he describes the 2m diameter pipes that will suck up river water in Mannheim, and then return it once heat from the water has been harvested.
+"We plan to take 10,000 litres per second," says Felix Hack, project manager at MVV Environment, an energy company, as he describes the 2m diameter pipes that [[20_Vocabulary/will|will]] suck up river water in Mannheim, and then return it once heat from the water has been harvested.
 
 In October, parent firm MVV Energie announced its plan to build what could be the most powerful heat pump modules ever. Two units, each with a capacity of 82.5 megawatts.
 
@@ -43,21 +43,21 @@ He notes that the technology is possible partly thanks to the availability of ve
 
 ![MVV Energie A large stainless steel pipe with four blue valves on the top and a gauge.](https://ichef.bbci.co.uk/news/240/cpsprodpb/520a/live/2a579f60-c526-11f0-bf7b-db7c049674ab.jpg.webp)
 
-The new heat pump at Mannheim will transfer heat from the Rhine
+The new heat pump at Mannheim [[20_Vocabulary/will|will]] transfer heat from the Rhine
 
-Work on the Mannheim project is due to start next year. The heat pumps – with a combined capacity of 162MW – are set to become fully operational in the winter of 2028-29. Mr Hack adds that a multi-step filter system will prevent the heat pumps sucking up fish from the river, and that modelling suggests the system will affect the average temperature of the river by less than 0.1C.
+Work on the Mannheim project is due to start next year. The heat pumps – with a combined capacity of 162MW – are set to become fully operational in the winter of 2028-29. Mr Hack adds that a multi-step filter system [[20_Vocabulary/will|will]] prevent the heat pumps sucking up fish from the river, and that modelling suggests the system [[20_Vocabulary/will|will]] affect the average temperature of the river by less than 0.1C.
 
-Installations such as this are not cheap. The Mannheim heat pump setup will cost €200m ($235m; £176m). Mr de Rougemont at Everllence says that, at his company, heat-pump equipment costs roughly €500,000 per megawatt of installed capacity – this does not include the additional cost of buildings, associated infrastructure and so on.
+Installations such as this are not cheap. The Mannheim heat pump setup [[20_Vocabulary/will|will]] cost €200m ($235m; £176m). Mr de Rougemont at Everllence says that, at his company, heat-pump equipment costs roughly €500,000 per megawatt of installed capacity – this does not [[20_Vocabulary/include|include]] the additional cost of buildings, associated infrastructure and so on.
 
 ![Everllence Five men in hi-viz jackets talk while standing next to heat pump machinery.](https://ichef.bbci.co.uk/news/240/cpsprodpb/01af/live/c13c0290-c526-11f0-b288-51552c83ad58.jpg.webp)
 
 Everllence has plans for heat pumps even bigger than this one in Esberg
 
-Everllence is currently working on a project in Aalborg, Denmark that will be even more powerful than the system in Mannheim, with a total capacity of 176MW. It will use smaller modules, however – four 44MW units – and is due to become operational in 2027, when it will supply nearly one third of all heating demand in the town.
+Everllence is currently working on a project in Aalborg, Denmark that [[20_Vocabulary/will|will]] be even more powerful than the system in Mannheim, with a total capacity of 176MW. It [[20_Vocabulary/will|will]] use smaller modules, however – four 44MW units – and is due to become operational in 2027, when it [[20_Vocabulary/will|will]] supply nearly one third of all heating demand in the town.
 
 Those 44MW machines are actually the same ones used in a previous project, now fully operational, to the south of Aalborg in Esbjerg. There, they don't run at maximum capacity but rather supply 35MW each.
 
-Large hot water storage tanks, each able to hold 200,000 cubic metres of liquid, will give the system added flexibility, adds Mr de Rougemont: "When the electricity price is high, you stop your heat pump and only provide heat from the storage."
+Large hot water storage tanks, each able to [[20_Vocabulary/hold|hold]] 200,000 cubic metres of liquid, [[20_Vocabulary/will|will]] give the system added flexibility, adds Mr de Rougemont: "When the electricity price is high, you stop your heat pump and only provide heat from the storage."
 
 Veronika Wilk at the Austrian Institute of Technology says, "Heat pumps and district heating systems are a great fit." Such systems can harvest heat from bodies of water or even wastewater from sewage treatment plants.
 
@@ -77,9 +77,9 @@ Heat pumps convert single kilowatt hours of electricity into multiple kilowatt h
 
 I ask why Helen Oy decided to install hundreds of megawatts of these boilers and Mr Aaltonen says that they are cheaper to install than heat pumps and having them also means he and colleagues don't have to rely entirely on the air, which is limited in terms of how much heat it can provide at scale. Plus, the electric boilers can help to soak up surplus renewables and provide an electricity grid-balancing function, he says.
 
-There are no heat pumps in the UK that rival the systems under development in Denmark, Germany and Finland. However, some new district heating networks are on the way, such as the Exeter Energy Network, which will supply the University of Exeter and other customers.
+There are no heat pumps in the UK that rival the systems under development in Denmark, Germany and Finland. However, some new district heating networks are on the way, such as the Exeter Energy Network, which [[20_Vocabulary/will|will]] supply the University of Exeter and other customers.
 
-The minimum planned capacity of the network is 12MW. It will feature three 4MW air-to-water heat pumps, with the first unit due to become operational in 2028.
+The minimum planned capacity of the network is 12MW. It [[20_Vocabulary/will|will]] feature three 4MW air-to-water heat pumps, with the first unit due to become operational in 2028.
 
 Keith Baker at Glasgow Caledonian University, who researches district heating systems, says the UK has opportunities to make more of this technology. Water in disused mines, which maintains a relatively stable temperature, [is beginning to supply](https://www.bbc.co.uk/news/articles/c2lk1y582r0o) larger heat pumps here, for example.
 

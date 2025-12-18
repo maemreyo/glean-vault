@@ -1,22 +1,22 @@
-I've been exploring the fascinating intersection of thermodynamics and biology in subterranean environments. Here are a few technical takeaways:
+I've been exploring [[30_Structures/the fascinating intersection|the fascinating intersection]] of [[20_Vocabulary/thermodynamics|thermodynamics]] and biology in subterranean environments. Here are a few technical takeaways:
 
-1\. Evaporative Cooling Inhibition
+1\. [[30_Structures/evaporative cooling inhibition|Evaporative Cooling Inhibition]]
 
-In environments where relative humidity (RH) reaches 90-100%, the air becomes saturated with water vapor. The creates a negligible vapor pressure gradient between the skin and the atmosphere, effectively inhibiting evaporative cooling.
+In environments where relative [[20_Vocabulary/humidity|humidity]] (RH) reaches 90-100%, the air becomes saturated with [[20_Vocabulary/water vapor|water vapor]]. The creates [[30_Structures/a negligible vapor pressure gradient|a negligible vapor pressure gradient]] between the skin and the atmosphere, effectively inhibiting evaporative cooling.
 
-Consequently, the human body cannot dissipate metabolic heat, posing a severe risk of hyperthermia. ![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)
+[[20_Vocabulary/consequently|Consequently]], the human body cannot [[20_Vocabulary/dissipate|dissipate]] [[20_Vocabulary/metabolic heat|metabolic heat]], posing a severe risk of [[20_Vocabulary/hyperthermia|hyperthermia]]. ![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)
 
 2\. Defining Extremophiles
 
-The term refers to organisms that exhibit optimal growth under environmental conditions that are considered hostile to most life forms. These include thermophiles (high temperature), acidophiles (low pH), and halophiles (high salinity).
+The term refers to organisms that [[20_Vocabulary/exhibit|exhibit]] optimal growth under environmental conditions that are considered [[20_Vocabulary/hostile|hostile]] to most life forms. These [[20_Vocabulary/include|include]] thermophiles (high temperature), acidophiles (low pH), and halophiles (high salinity).
 
-3\. Chemosynthesis vs. Photosynthesis
+3\. [[20_Vocabulary/chemosynthesis|Chemosynthesis]] vs. [[20_Vocabulary/photosynthesis|Photosynthesis]]
 
-In the absence of solar radiation, cave microbes rely on chemosynthesis. They derive energy from the oxidation of inorganic compounds such as hydrogen sulfide, ferrous iron, or ammonia. These "lithotrophs" (rock-eaters) form the primary production base for deep-cave ecosystems.
+In the [[20_Vocabulary/absence|absence]] of [[20_Vocabulary/solar radiation|solar radiation]], cave microbes rely on [[20_Vocabulary/chemosynthesis|chemosynthesis]]. They derive energy from the [[20_Vocabulary/oxidation|oxidation]] of inorganic compounds such as hydrogen sulfide, ferrous iron, or ammonia. These "lithotrophs" ([[20_Vocabulary/rock-eaters|rock-eaters]]) form the primary production base for deep-cave ecosystems.
 
-4\. Microbial Longevity in Stasis
+4\. [[30_Structures/microbial longevity in stasis|Microbial Longevity in Stasis]]
 
-One of the most astounding discoveries is the "reanimation" of microbes trapped within fluid inclusions of giant crystals for over 50,000 years. This demonstrates an incredible capacity for metabolic stasis and long-term survival in resourse-depleted environments.
+One of the most astounding discoveries is [[30_Structures/the "reanimation" of microbes trapped within fluid inclusions of giant crystals|the "reanimation" of microbes trapped within fluid inclusions of giant crystals]] for over 50,000 years. This demonstrates an incredible capacity for [[30_Structures/metabolic stasis|metabolic stasis]] and long-term survival in resourse-depleted environments.
 
 Caves are essentially "natural laboratories" that provide insights into the limits of life and potential extraterrestrial biology.
 
