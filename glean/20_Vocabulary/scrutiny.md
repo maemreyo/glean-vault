@@ -93,6 +93,7 @@ What does **scrutiny** mean?
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "Critical and thorough examination" → Word?
+<!--SR:!2025-12-22,4,270-->
 Answer:: **scrutiny**
 
 ### Card 3: Usage (Multi-line)

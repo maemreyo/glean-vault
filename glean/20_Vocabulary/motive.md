@@ -105,6 +105,7 @@ List 3 common collocations for **motive**.
 1. ulterior motive
 2. primary motive
 3. mixed motives
+<!--SR:!2025-12-19,1,230-->
 
 ### Card 5: Root & Word Family (Multi-line)
 Analyze the root/family of **motive**.

@@ -109,6 +109,7 @@ Use **guarantee** in a sentence.
 ?
 **Sentence:** The manufacturer guarantees this watch against defects for two years.
 **Translation:** Nhà sản xuất bảo đảm đồng hồ này không bị lỗi kỹ thuật trong hai năm.
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 4: Collocations (Multi-line)
 List 3 common collocations for **guarantee**.

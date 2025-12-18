@@ -87,6 +87,7 @@ What does **trial** mean?
 **Meaning:** A formal examination of evidence; a test of performance; a process of trying something
 **IPA:** /ˈtraɪəl/
 **Key Nuance:** Can be legal, scientific, or refer to life difficulties
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "A formal examination by a court" → Word?
@@ -109,7 +110,8 @@ List 3 common collocations for **trial**.
 Analyze the root/family of **trial**.
 ?
 **Root:** French "trier" (to try, pick out)
-**Related types:** (noun) trial - (verb) try - (adj) trying 
+**Related types:** (noun) trial - (verb) try - (adj) trying
+<!--SR:!2025-12-22,4,270--> 
 
 ---
 

@@ -113,6 +113,7 @@ Analyze the root/family of **discouragingly**.
 ?
 **Root:** Old French 'descoragier' (to discourage) from 'des-' (opposite) + 'corage' (courage)
 **Related types:** discourage (verb), discouragement (noun), discouraging (adjective)
+<!--SR:!2025-12-22,4,270-->
 
 ---
 

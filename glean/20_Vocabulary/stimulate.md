@@ -89,6 +89,7 @@ What does **stimulate** mean?
 **Meaning:** To encourage development or make something more active/enthusiastic
 **IPA:** /ˈstɪmjuleɪt/
 **Key Nuance:** Creates response rather than forcing action
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "To encourage increased activity or development" → Word?

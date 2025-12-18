@@ -111,6 +111,7 @@ List 3 common collocations for **confirmation**.
 1. booking confirmation
 2. written confirmation
 3. seek confirmation
+<!--SR:!2025-12-21,3,250-->
 
 ### Card 5: Root & Word Family (Multi-line)
 Analyze the root/family of **confirmation**.

@@ -84,6 +84,7 @@ What does **spilly** mean?
 **Meaning:** Tending to spill easily; clumsy with liquids or prone to causing spills
 **IPA:** /ˈspɪli/
 **Key Nuance:** Informal term describing a tendency, not a single act
+<!--SR:!2025-12-21,3,250-->
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "Describing someone or something that frequently causes spills" → Word?

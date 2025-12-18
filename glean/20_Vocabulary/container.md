@@ -104,6 +104,7 @@ Use **container** in a sentence.
 ?
 **Sentence:** The recycling center accepts plastic containers marked with the recycling symbol.
 **Translation:** Trung tâm tái chế chấp nhận các thùng nhựa có dấu hiệu tái chế.
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 4: Collocations (Multi-line)
 List 3 common collocations for **container**.

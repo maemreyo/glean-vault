@@ -105,6 +105,7 @@ List 3 common collocations for **discourage**.
 1. discourage from
 2. strongly discourage
 3. feel discouraged
+<!--SR:!2025-12-21,3,250-->
 
 ### Card 5: Root & Word Family (Multi-line)
 Analyze the root/family of **discourage**.

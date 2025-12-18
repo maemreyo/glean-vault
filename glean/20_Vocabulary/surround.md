@@ -93,6 +93,7 @@ What does **surround** mean?
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "To be all around something or someone" → Word?
+<!--SR:!2025-12-22,4,270-->
 Answer:: **surround**
 
 ### Card 3: Usage (Multi-line)

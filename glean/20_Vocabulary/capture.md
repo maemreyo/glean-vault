@@ -88,6 +88,7 @@ What does **capture** mean?
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "To record or represent something accurately" → Word?
 Answer:: **capture**
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 3: Usage (Multi-line)
 Use **capture** in a sentence.

@@ -92,6 +92,7 @@ What does **include** mean?
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "To make something part of a whole; to contain within" → Word?
 Answer:: **include**
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 3: Usage (Multi-line)
 Use **include** in a sentence.

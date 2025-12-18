@@ -86,6 +86,7 @@ What does **reveal** mean?
 **Meaning:** To make known what was secret or hidden; to uncover or show something
 **IPA:** /rɪˈviːl/
 **Key Nuance:** Implies removal of something that was covering or hiding
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "To make previously unknown information known" → Word?

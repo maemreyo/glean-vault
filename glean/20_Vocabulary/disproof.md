@@ -89,6 +89,7 @@ What does **disproof** mean?
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "Evidence that conclusively proves something false" → Word?
+<!--SR:!2025-12-22,4,270-->
 Answer:: **disproof**
 
 ### Card 3: Usage (Multi-line)

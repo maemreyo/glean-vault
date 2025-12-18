@@ -87,6 +87,7 @@ What does **testable** mean?
 **Meaning:** Capable of being tested or examined; measurable or observable; verifiable
 **IPA:** /ˈtestəbl/
 **Key Nuance:** Critical in scientific method and software development
+<!--SR:!2025-12-21,3,250-->
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "Something that can be tested or verified" → Word?

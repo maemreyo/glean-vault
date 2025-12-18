@@ -99,6 +99,7 @@ What does **test** mean?
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "A trial to determine if something works correctly" → Word?
+<!--SR:!2025-12-22,4,270-->
 Answer:: **test**
 
 ### Card 3: Usage (Multi-line)

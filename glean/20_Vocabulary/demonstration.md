@@ -86,6 +86,7 @@ What does **demonstration** mean?
 **Meaning:** The act of showing how something works or proving a point
 **IPA:** /ˌdemənˈstreɪʃən/
 **Key Nuance:** Can be educational (showing how) or political (public protest)
+<!--SR:!2025-12-21,3,250-->
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "A public gathering to show support or opposition" → Word?

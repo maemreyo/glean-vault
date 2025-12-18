@@ -112,3 +112,4 @@ Analyze the root/family of **ignorance**.
 ?
 **Root:** Latin 'ignorare' (to not know)
 **Related types:** ignorant (adjective), ignore (verb)
+<!--SR:!2025-12-22,4,270-->

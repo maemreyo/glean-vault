@@ -94,6 +94,7 @@ What does **containment** mean?
 **Meaning:** The action of keeping something harmful under control or within limits
 **IPA:** /kənˈteɪnmənt/
 **Key Nuance:** Focuses on restriction and control rather than elimination
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "The policy of preventing the expansion of something harmful" → Word?

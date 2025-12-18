@@ -105,6 +105,7 @@ List 3 common collocations for **inspiration**.
 1. source of inspiration
 2. draw inspiration
 3. flash of inspiration
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 5: Root & Word Family (Multi-line)
 Analyze the root/family of **inspiration**.

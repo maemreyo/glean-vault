@@ -90,6 +90,7 @@ What does **testament** mean?
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "A legal document directing disposal of property after death" → Word?
 Answer:: **testament**
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 3: Usage (Multi-line)
 Use **testament** in a sentence.

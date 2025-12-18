@@ -91,6 +91,7 @@ What does **testimony** mean?
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "A formal statement made under oath in court" → Word?
 Answer:: **testimony**
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 3: Usage (Multi-line)
 Use **testimony** in a sentence.

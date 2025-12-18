@@ -88,6 +88,7 @@ What does **rebuttal** mean?
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "A formal counter-argument that disproves or opposes another argument" → Word?
 Answer:: **rebuttal**
+<!--SR:!2025-12-19,1,230-->
 
 ### Card 3: Usage (Multi-line)
 Use **rebuttal** in a sentence.

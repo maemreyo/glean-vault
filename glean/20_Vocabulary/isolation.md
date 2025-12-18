@@ -95,6 +95,7 @@ What does **isolation** mean?
 
 ### Card 2: Production (Reverse)
 Question:: Context/Definition: "The patient was put in ___ to prevent infection of others" → Word?
+<!--SR:!2025-12-22,4,270-->
 Answer:: **isolation**
 
 ### Card 3: Usage (Multi-line)

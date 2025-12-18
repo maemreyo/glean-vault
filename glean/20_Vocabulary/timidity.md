@@ -98,6 +98,7 @@ Use **timidity** in a sentence.
 ?
 **Sentence:** Despite his timidity, he managed to deliver a powerful speech that moved the entire audience.
 **Translation:** Mặc dù nhút nhát, anh ấy vẫn quản lý để có một bài phát biểu mạnh mẽ đã làm động toàn bộ khán giả.
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 4: Collocations (Multi-line)
 List 3 common collocations for **timidity**.

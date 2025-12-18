@@ -101,6 +101,7 @@ List 3 common collocations for **refutation**.
 1. Complete refutation
 2. Logical refutation
 3. Refutation of theory
+<!--SR:!2025-12-19,1,230-->
 
 ### Card 5: Root & Word Family (Multi-line)
 Analyze the root/family of **refutation**.
