@@ -27,7 +27,7 @@
     "noteFoldersToIgnore": [
       "**/*.excalidraw.md, 99_Templates/**/*.md"
     ],
-    "openRandomNote": false,
+    "openRandomNote": true,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
     "maxNDaysNotesReviewQueue": 365,
@@ -36,7 +36,7 @@
     "initiallyExpandAllSubdecksInTree": true,
     "showContextInCards": true,
     "showIntervalInReviewButtons": true,
-    "flashcardHeightPercentage": 80,
+    "flashcardHeightPercentage": 100,
     "flashcardWidthPercentage": 40,
     "flashcardEasyText": "Easy",
     "flashcardGoodText": "Good",
