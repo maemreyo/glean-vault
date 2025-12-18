@@ -83,15 +83,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **motive** mean?
+What does **motive** (/ˈmoʊ.tɪv/) mean?
 ?
 **Meaning:** A reason or cause for doing something; an internal drive that prompts action
+**Vietnamese:** động cơ, lý do
 **IPA:** /ˈmoʊ.tɪv/
 **Key Nuance:** Often refers to the underlying reason, sometimes hidden
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "The detective looked for the ___ behind the crime - the reason why it was committed" → Word?
-Answer:: **motive**
+Context/Definition: "The detective looked for the ___ behind the crime - the reason why it was committed" → Word?
+(Vietnamese: động cơ, lý do) -> Word?
+?
+**motive** (/ˈmoʊ.tɪv/)
 
 ### Card 3: Usage (Multi-line)
 Use **motive** in a sentence.

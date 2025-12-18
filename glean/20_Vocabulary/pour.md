@@ -84,15 +84,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **pour** mean?
+What does **pour** (/pɔː(r)/) mean?
 ?
 **Meaning:** To make liquid flow from a container; to flow steadily; to give freely
+**Vietnamese:** rót, đổ
 **IPA:** /pɔː(r)/
 **Key Nuance:** Controlled action of transferring liquid (not accidental)
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To transfer liquid by tilting a container" → Word?
-Answer:: **pour**
+Context/Definition: "To transfer liquid by tilting a container" → Word?
+(Vietnamese: rót, đổ) -> Word?
+?
+**pour** (/pɔː(r)/)
 
 ### Card 3: Usage (Multi-line)
 Use **pour** in a sentence.

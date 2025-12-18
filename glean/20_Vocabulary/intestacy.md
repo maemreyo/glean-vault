@@ -79,21 +79,25 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **intestacy** mean?
+What does **intestacy** (/ɪnˈtestəsi/) mean?
 ?
 **Meaning:** The state of having died without a legal will
+**Vietnamese:** tình trạng không có di chúc
 **IPA:** /ɪnˈtestəsi/
 **Key Nuance:** Legal term for when estate distribution follows government formula
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "The condition of someone's estate when they die without a valid will" → Word?
-Answer:: **intestacy**
+Context/Definition: "The condition of someone's estate when they die without a valid will" → Word?
+(Vietnamese: tình trạng không có di chúc) -> Word?
+?
+**intestacy** (/ɪnˈtestəsi/)
 
 ### Card 3: Usage (Multi-line)
 Use **intestacy** in a sentence.
 ?
 **Sentence:** The attorney advised clients to avoid intestacy by creating a comprehensive estate plan.
 **Translation:** Luật sư đã khuyên khách hàng tránh tình trạng không có di chúc bằng cách tạo một kế hoạch tài sản toàn diện.
+<!--SR:!2025-12-21,3,250-->
 
 ### Card 4: Collocations (Multi-line)
 List 3 common collocations for **intestacy**.

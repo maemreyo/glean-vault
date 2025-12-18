@@ -83,15 +83,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **proven** mean?
+What does **proven** (/ˈpruːvən/) mean?
 ?
 **Meaning:** Tested and shown to be true, effective, or genuine through evidence
+**Vietnamese:** đã được chứng minh
 **IPA:** /ˈpruːvən/
 **Key Nuance:** Implies successful testing with positive results
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Having been shown to be valid through evidence" → Word?
-Answer:: **proven**
+Context/Definition: "Having been shown to be valid through evidence" → Word?
+(Vietnamese: đã được chứng minh) -> Word?
+?
+**proven** (/ˈpruːvən/)
 
 ### Card 3: Usage (Multi-line)
 Use **proven** in a sentence.

@@ -81,22 +81,26 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **testament** mean?
+What does **testament** (/ˈtestəmənt/) mean?
 ?
 **Meaning:** A person's will; a covenant between God and humanity; tangible evidence serving as proof
+**Vietnamese:** di chúc, lời chứng
 **IPA:** /ˈtestəmənt/
 **Key Nuance:** Has both legal and religious significance; serves as tangible proof
+<!--SR:!2025-12-22,4,272-->
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A legal document directing disposal of property after death" → Word?
-Answer:: **testament**
-<!--SR:!2025-12-22,4,270-->
+Context/Definition: "A legal document directing disposal of property after death" → Word?
+(Vietnamese: di chúc, lời chứng) -> Word?
+?
+**testament** (/ˈtestəmənt/)
 
 ### Card 3: Usage (Multi-line)
 Use **testament** in a sentence.
 ?
 **Sentence:** The beautiful garden is a testament to her hard work and dedication.
 **Translation:** Khu vườn đẹp là minh chứng cho sự chăm chỉ và tận tụy của bà.
+<!--SR:!2025-12-21,3,252-->
 
 ### Card 4: Collocations (Multi-line)
 List 3 common collocations for **testament**.

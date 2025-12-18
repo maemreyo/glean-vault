@@ -85,15 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **enclosure** mean?
+What does **enclosure** (/ɪnˈkləʊʒə/) mean?
 ?
 **Meaning:** An area of land surrounded by barriers; the act of enclosing something
+**Vietnamese:** sự bao bọc, sự vây quanh
 **IPA:** /ɪnˈkləʊʒə/
 **Key Nuance:** Can be both the physical space and the act of enclosing
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "An area of land surrounded by barriers" → Word?
-Answer:: **enclosure**
+Context/Definition: "An area of land surrounded by barriers" → Word?
+(Vietnamese: sự bao bọc, sự vây quanh) -> Word?
+?
+**enclosure** (/ɪnˈkləʊʒə/)
 
 ### Card 3: Usage (Multi-line)
 Use **enclosure** in a sentence.

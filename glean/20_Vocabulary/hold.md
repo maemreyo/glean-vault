@@ -84,15 +84,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **hold** mean?
+What does **hold** (/həʊld/) mean?
 ?
 **Meaning:** To grasp, carry, or support; to maintain control or position; to organize an event
+**Vietnamese:** nắm, cầm, giữ
 **IPA:** /həʊld/
 **Key Nuance:** Versatile word for both physical actions (holding objects) and abstract concepts (holding meetings, power)
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To grasp with hands; to organize an event" → Word?
-Answer:: **hold**
+Context/Definition: "To grasp with hands; to organize an event" → Word?
+(Vietnamese: nắm, cầm, giữ) -> Word?
+?
+**hold** (/həʊld/)
 
 ### Card 3: Usage (Multi-line)
 Use **hold** in a sentence.

@@ -88,15 +88,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **restriction** mean?
+What does **restriction** (/rɪˈstrɪk.ʃən/) mean?
 ?
 **Meaning:** A rule or condition that limits or controls what people can do; the act of limiting
+**Vietnamese:** sự hạn chế, sự giới hạn
 **IPA:** /rɪˈstrɪk.ʃən/
 **Key Nuance:** Often formal/legal; limits actions, movement, or scope
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "The park had new ___ due to the wildlife protection act" → Word?
-Answer:: **restriction**
+Context/Definition: "The park had new ___ due to the wildlife protection act" → Word?
+(Vietnamese: sự hạn chế, sự giới hạn) -> Word?
+?
+**restriction** (/rɪˈstrɪk.ʃən/)
 
 ### Card 3: Usage (Multi-line)
 Use **restriction** in a sentence.

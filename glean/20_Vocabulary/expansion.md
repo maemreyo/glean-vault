@@ -86,15 +86,19 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **expansion** mean?
+What does **expansion** (/ɪkˈspæn.ʃən/) mean?
 ?
 **Meaning:** The process of increasing in size, volume, or scope; growth and development
+**Vietnamese:** sự mở rộng, sự bành trướng
 **IPA:** /ɪkˈspæn.ʃən/
 **Key Nuance:** Can be physical or metaphorical growth
+<!--SR:!2025-12-22,4,270-->
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "The company announced plans for international ___ next year" → Word?
-Answer:: **expansion**
+Context/Definition: "The company announced plans for international ___ next year" → Word?
+(Vietnamese: sự mở rộng, sự bành trướng) -> Word?
+?
+**expansion** (/ɪkˈspæn.ʃən/)
 
 ### Card 3: Usage (Multi-line)
 Use **expansion** in a sentence.

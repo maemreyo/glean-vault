@@ -79,15 +79,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **refutation** mean?
+What does **refutation** (/ˌrefjəˈteɪʃən/) mean?
 ?
 **Meaning:** The act or process of proving something wrong or false through argument or evidence
+**Vietnamese:** sự bác bỏ, sự phủ định
 **IPA:** /ˌrefjəˈteɪʃən/
 **Key Nuance:** Requires evidence or logical proof, stronger than simple disagreement
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "The act of proving something wrong through evidence or argument" → Word?
-Answer:: **refutation**
+Context/Definition: "The act of proving something wrong through evidence or argument" → Word?
+(Vietnamese: sự bác bỏ, sự phủ định) -> Word?
+?
+**refutation** (/ˌrefjəˈteɪʃən/)
 
 ### Card 3: Usage (Multi-line)
 Use **refutation** in a sentence.

@@ -79,16 +79,19 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **spilly** mean?
+What does **spilly** (/ˈspɪli/) mean?
 ?
 **Meaning:** Tending to spill easily; clumsy with liquids or prone to causing spills
+**Vietnamese:** hay bị đổ, vụng về
 **IPA:** /ˈspɪli/
 **Key Nuance:** Informal term describing a tendency, not a single act
 <!--SR:!2025-12-21,3,250-->
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Describing someone or something that frequently causes spills" → Word?
-Answer:: **spilly**
+Context/Definition: "Describing someone or something that frequently causes spills" → Word?
+(Vietnamese: hay bị đổ, vụng về) -> Word?
+?
+**spilly** (/ˈspɪli/)
 
 ### Card 3: Usage (Multi-line)
 Use **spilly** in a sentence.

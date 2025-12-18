@@ -83,15 +83,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **discourage** mean?
+What does **discourage** (/dɪˈskʌrɪdʒ/) mean?
 ?
 **Meaning:** To reduce confidence or enthusiasm; to deter someone from doing something; to make less willing
+**Vietnamese:** nản lòng, làm mất tinh thần
 **IPA:** /dɪˈskʌrɪdʒ/
 **Key Nuance:** Focuses on reducing motivation rather than directly preventing action
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To take away someone's courage or motivation" → Word?
-Answer:: **discourage**
+Context/Definition: "To take away someone's courage or motivation" → Word?
+(Vietnamese: nản lòng, làm mất tinh thần) -> Word?
+?
+**discourage** (/dɪˈskʌrɪdʒ/)
 
 ### Card 3: Usage (Multi-line)
 Use **discourage** in a sentence.

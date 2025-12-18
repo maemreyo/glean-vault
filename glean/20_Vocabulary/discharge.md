@@ -80,21 +80,25 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **discharge** mean?
+What does **discharge** (/dɪsˈtʃɑːrdʒ/) mean?
 ?
 **Meaning:** To officially allow someone to leave; to release gas/liquid/electricity; to fulfill a duty
+**Vietnamese:** giải tỏa, giải trừ
 **IPA:** /dɪsˈtʃɑːrdʒ/
 **Key Nuance:** Formal/technical term for various types of release or completion
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To officially allow someone to leave hospital or complete military service" → Word?
-Answer:: **discharge**
+Context/Definition: "To officially allow someone to leave hospital or complete military service" → Word?
+(Vietnamese: giải tỏa, giải trừ) -> Word?
+?
+**discharge** (/dɪsˈtʃɑːrdʒ/)
 
 ### Card 3: Usage (Multi-line)
 Use **discharge** in a sentence.
 ?
 **Sentence:** The battery needs to be completely discharged before recharging for maximum efficiency.
 **Translation:** Pin cần được xả hết hoàn toàn trước khi sạc lại để đạt hiệu suất tối đa.
+<!--SR:!2025-12-19,1,230-->
 
 ### Card 4: Collocations (Multi-line)
 List 3 common collocations for **discharge**.

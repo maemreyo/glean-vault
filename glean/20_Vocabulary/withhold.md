@@ -79,15 +79,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **withhold** mean?
+What does **withhold** (/wɪðˈhoʊld/) mean?
 ?
 **Meaning:** To refuse to give something that is due or desired; to keep information or emotions to oneself
+**Vietnamese:** giữ lại, giấu giếm
 **IPA:** /wɪðˈhoʊld/ or /wɪθˈhoʊld/
 **Key Nuance:** Deliberate choice not to give or reveal something
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To refuse to give something that is due or to keep information secret" → Word?
-Answer:: **withhold**
+Context/Definition: "To refuse to give something that is due or to keep information secret" → Word?
+(Vietnamese: giữ lại, giấu giếm) -> Word?
+?
+**withhold** (/wɪðˈhoʊld/)
 
 ### Card 3: Usage (Multi-line)
 Use **withhold** in a sentence.

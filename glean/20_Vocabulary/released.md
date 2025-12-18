@@ -79,15 +79,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **released** mean?
+What does **released** (/rɪˈliːst/) mean?
 ?
 **Meaning:** Made available to the public; set free from confinement or obligation
+**Vietnamese:** đã được phát hành, đã được giải phóng
 **IPA:** /rɪˈliːst/
 **Key Nuance:** Past participle used as adjective describing state of being free or available
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Describing something made available to the public" → Word?
-Answer:: **released**
+Context/Definition: "Describing something made available to the public" → Word?
+(Vietnamese: đã được phát hành, đã được giải phóng) -> Word?
+?
+**released** (/rɪˈliːst/)
 
 ### Card 3: Usage (Multi-line)
 Use **released** in a sentence.

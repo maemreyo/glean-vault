@@ -85,15 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **examiner** mean?
+What does **examiner** (/ɪɡˈzæmɪnə/) mean?
 ?
 **Meaning:** A person who conducts examinations; someone who inspects or investigates carefully
+**Vietnamese:** người giám thị, người kiểm tra
 **IPA:** /ɪɡˈzæmɪnə/
 **Key Nuance:** Person with authority to test, inspect, or evaluate others
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A person who conducts examinations or tests" → Word?
-Answer:: **examiner**
+Context/Definition: "A person who conducts examinations or tests" → Word?
+(Vietnamese: người giám thị, người kiểm tra) -> Word?
+?
+**examiner** (/ɪɡˈzæmɪnə/)
 
 ### Card 3: Usage (Multi-line)
 Use **examiner** in a sentence.

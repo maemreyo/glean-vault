@@ -85,15 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **containerize** mean?
+What does **containerize** (/kənˈteɪ.nə.raɪz/) mean?
 ?
 **Meaning:** To package applications or goods in containers; to convert a system to use containers
+**Vietnamese:** đóng container, đặt trong container
 **IPA:** /kənˈteɪ.nə.raɪz/
 **Key Nuance:** Technical term common in software development and shipping
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To improve deployment, we need to ___ our applications using Docker" → Word?
-Answer:: **containerize**
+Context/Definition: "To improve deployment, we need to ___ our applications using Docker" → Word?
+(Vietnamese: đóng container, đặt trong container) -> Word?
+?
+**containerize** (/kənˈteɪ.nə.raɪz/)
 
 ### Card 3: Usage (Multi-line)
 Use **containerize** in a sentence.

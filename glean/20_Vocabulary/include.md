@@ -83,16 +83,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **include** mean?
+What does **include** (/ɪnˈkluːd/) mean?
 ?
 **Meaning:** To contain as part of a whole; to make part of something; to involve someone
+**Vietnamese:** bao gồm, chứa đựng, kể cả
 **IPA:** /ɪnˈkluːd/
 **Key Nuance:** Emphasizes making something part of a larger group or system
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To make something part of a whole; to contain within" → Word?
-Answer:: **include**
-<!--SR:!2025-12-22,4,270-->
+Context/Definition: "To make something part of a whole; to contain within" → Word?
+(Vietnamese: bao gồm, chứa đựng, kể cả) -> Word?
+?
+**include** (/ɪnˈkluːd/)
 
 ### Card 3: Usage (Multi-line)
 Use **include** in a sentence.

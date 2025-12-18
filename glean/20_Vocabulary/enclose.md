@@ -83,15 +83,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **enclose** mean?
+What does **enclose** (/ɪnˈkləʊz/) mean?
 ?
 **Meaning:** To surround, close in, or confine within boundaries; to include with a letter/package
+**Vietnamese:** bao quanh, bọc, kẹp
 **IPA:** /ɪnˈkləʊz/
 **Key Nuance:** Can refer to physical barriers (fences, walls) or abstract limits (rules, boundaries)
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To surround with a fence or wall; to include something in an envelope" → Word?
-Answer:: **enclose**
+Context/Definition: "To surround with a fence or wall; to include something in an envelope" → Word?
+(Vietnamese: bao quanh, bọc, kẹp) -> Word?
+?
+**enclose** (/ɪnˈkləʊz/)
 
 ### Card 3: Usage (Multi-line)
 Use **enclose** in a sentence.

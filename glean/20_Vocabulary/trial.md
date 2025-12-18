@@ -82,16 +82,19 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **trial** mean?
+What does **trial** (/ˈtraɪəl/) mean?
 ?
 **Meaning:** A formal examination of evidence; a test of performance; a process of trying something
+**Vietnamese:** phiên tòa, xét xử
 **IPA:** /ˈtraɪəl/
 **Key Nuance:** Can be legal, scientific, or refer to life difficulties
 <!--SR:!2025-12-22,4,270-->
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A formal examination by a court" → Word?
-Answer:: **trial**
+Context/Definition: "A formal examination by a court" → Word?
+(Vietnamese: phiên tòa, xét xử) -> Word?
+?
+**trial** (/ˈtraɪəl/)
 
 ### Card 3: Usage (Multi-line)
 Use **trial** in a sentence.

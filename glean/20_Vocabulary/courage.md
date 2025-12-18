@@ -83,15 +83,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **courage** mean?
+What does **courage** (/ˈkʌrɪdʒ/) mean?
 ?
 **Meaning:** The ability to face danger, difficulty, or pain despite fear; bravery
+**Vietnamese:** lòng dũng cảm, sự can đảm
 **IPA:** /ˈkʌrɪdʒ/
 **Key Nuance:** Acting despite fear, not without fear
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "The ability to do something that frightens you; bravery" → Word?
-Answer:: **courage**
+Context/Definition: "The ability to do something that frightens you; bravery" → Word?
+(Vietnamese: lòng dũng cảm, sự can đảm) -> Word?
+?
+**courage** (/ˈkʌrɪdʒ/)
 
 ### Card 3: Usage (Multi-line)
 Use **courage** in a sentence.

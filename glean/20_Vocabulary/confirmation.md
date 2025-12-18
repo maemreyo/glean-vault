@@ -89,15 +89,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **confirmation** mean?
+What does **confirmation** (/ˌkɑːnfərˈmeɪʃn/) mean?
 ?
 **Meaning:** The action of confirming something or the state of being confirmed
+**Vietnamese:** sự xác nhận, sự khẳng định, sự chứng thực
 **IPA:** /ˌkɑːnfərˈmeɪʃn/
 **Key Nuance:** Involves verification, validation, or proof that makes something certain
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A statement that makes something certain or valid" → Word?
-Answer:: **confirmation**
+Context/Definition: "A statement that makes something certain or valid" → Word?
+(Vietnamese: sự xác nhận, sự khẳng định, sự chứng thực) -> Word?
+?
+**confirmation** (/ˌkɑːnfərˈmeɪʃn/)
 
 ### Card 3: Usage (Multi-line)
 Use **confirmation** in a sentence.

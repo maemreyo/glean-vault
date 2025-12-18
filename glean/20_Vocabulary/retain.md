@@ -79,15 +79,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **retain** mean?
+What does **retain** (/rɪˈteɪn/) mean?
 ?
 **Meaning:** To continue to have something; to keep or maintain in one's possession or memory
+**Vietnamese:** giữ lại, duy trì
 **IPA:** /rɪˈteɪn/
 **Key Nuance:** Successful preservation against loss or forgetting
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To continue to have or keep something in one's possession" → Word?
-Answer:: **retain**
+Context/Definition: "To continue to have or keep something in one's possession" → Word?
+(Vietnamese: giữ lại, duy trì) -> Word?
+?
+**retain** (/rɪˈteɪn/)
 
 ### Card 3: Usage (Multi-line)
 Use **retain** in a sentence.

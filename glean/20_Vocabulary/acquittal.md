@@ -79,15 +79,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **acquittal** mean?
+What does **acquittal** (/əˈkwɪtəl/) mean?
 ?
 **Meaning:** A formal declaration that someone is not guilty of a crime or a release from a charge/obligation
+**Vietnamese:** sự trắng án, sự miễn tội
 **IPA:** /əˈkwɪtəl/
 **Key Nuance:** Legal term meaning insufficient evidence, not proof of innocence
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A formal legal judgment declaring someone not guilty of a crime" → Word?
-Answer:: **acquittal**
+Context/Definition: "A formal legal judgment declaring someone not guilty of a crime" → Word?
+(Vietnamese: sự trắng án, sự miễn tội) -> Word?
+?
+**acquittal** (/əˈkwɪtəl/)
 
 ### Card 3: Usage (Multi-line)
 Use **acquittal** in a sentence.

@@ -76,15 +76,18 @@ reindeer
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **{{WORD}}** mean?
+What does **{{WORD}}** (/  /) mean?
 ?
 **Meaning:** 
+**Vietnamese:** ...
 **IPA:** /  /
 **Key Nuance:** 
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "..." → Word?
-Answer:: **{{WORD}}**
+Context/Definition: "..." → Word?
+(Vietnamese: ...) -> Word?
+?
+**{{WORD}}** (/  /)
 
 ### Card 3: Usage (Multi-line)
 Use **{{WORD}}** in a sentence.

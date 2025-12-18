@@ -81,15 +81,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **assessment** mean?
+What does **assessment** (/əˈsesmənt/) mean?
 ?
 **Meaning:** The action of evaluating or estimating the nature, ability, or quality of something
+**Vietnamese:** sự đánh giá, sự thẩm định
 **IPA:** /əˈsesmənt/
 **Key Nuance:** More formal than "test"; implies comprehensive, systematic evaluation
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A formal evaluation of knowledge or performance" → Word?
-Answer:: **assessment**
+Context/Definition: "A formal evaluation of knowledge or performance" → Word?
+(Vietnamese: sự đánh giá, sự thẩm định) -> Word?
+?
+**assessment** (/əˈsesmənt/)
 
 ### Card 3: Usage (Multi-line)
 Use **assessment** in a sentence.

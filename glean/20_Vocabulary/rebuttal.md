@@ -79,16 +79,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **rebuttal** mean?
+What does **rebuttal** (/rɪˈbʌtəl/) mean?
 ?
 **Meaning:** A formal statement or argument that opposes or disproves another argument; a counter-argument
+**Vietnamese:** sự phản bác, sự bác bỏ
 **IPA:** /rɪˈbʌtəl/
 **Key Nuance:** Evidence-based opposition in formal/legal contexts
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A formal counter-argument that disproves or opposes another argument" → Word?
-Answer:: **rebuttal**
-<!--SR:!2025-12-19,1,230-->
+Context/Definition: "A formal counter-argument that disproves or opposes another argument" → Word?
+(Vietnamese: sự phản bác, sự bác bỏ) -> Word?
+?
+**rebuttal** (/rɪˈbʌtəl/)
 
 ### Card 3: Usage (Multi-line)
 Use **rebuttal** in a sentence.

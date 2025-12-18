@@ -85,15 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **deter** mean?
+What does **deter** (/dɪˈtɜː/) mean?
 ?
 **Meaning:** To discourage someone from doing something; to prevent or discourage from acting
+**Vietnamese:** ngăn chặn, răn đe
 **IPA:** /dɪˈtɜː/
 **Key Nuance:** Works through psychological means (fear, doubt) rather than physical force
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To discourage someone from doing something" → Word?
-Answer:: **deter**
+Context/Definition: "To discourage someone from doing something" → Word?
+(Vietnamese: ngăn chặn, răn đe) -> Word?
+?
+**deter** (/dɪˈtɜː/)
 
 ### Card 3: Usage (Multi-line)
 Use **deter** in a sentence.

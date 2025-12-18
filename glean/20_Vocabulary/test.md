@@ -91,16 +91,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **test** mean?
+What does **test** (/test/) mean?
 ?
 **Meaning:** A procedure to establish quality, performance, or reliability; to examine or try something
+**Vietnamese:** bài kiểm tra, thử, kiểm tra
 **IPA:** /test/
 **Key Nuance:** Can be both a noun (examination) and verb (to examine)
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A trial to determine if something works correctly" → Word?
-<!--SR:!2025-12-22,4,270-->
-Answer:: **test**
+Context/Definition: "A trial to determine if something works correctly" → Word?
+(Vietnamese: bài kiểm tra, thử, kiểm tra) -> Word?
+?
+**test** (/test/)
 
 ### Card 3: Usage (Multi-line)
 Use **test** in a sentence.

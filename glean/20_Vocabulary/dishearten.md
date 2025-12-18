@@ -89,15 +89,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **dishearten** mean?
+What does **dishearten** (/dɪˈhɑːrtn/) mean?
 ?
 **Meaning:** To cause someone to lose determination or confidence; to discourage
+**Vietnamese:** làm nản lòng, làm chán nản, làm mất tinh thần
 **IPA:** /dɪˈhɑːrtn/
 **Key Nuance:** Stronger than disappoint; involves losing hope, courage, or enthusiasm
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To make someone lose hope or enthusiasm" → Word?
-Answer:: **dishearten**
+Context/Definition: "To make someone lose hope or enthusiasm" → Word?
+(Vietnamese: làm nản lòng, làm chán nản, làm mất tinh thần) -> Word?
+?
+**dishearten** (/dɪˈhɑːrtn/)
 
 ### Card 3: Usage (Multi-line)
 Use **dishearten** in a sentence.

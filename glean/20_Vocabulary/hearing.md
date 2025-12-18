@@ -81,15 +81,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **hearing** mean?
+What does **hearing** (/ˈhɪərɪŋ/) mean?
 ?
 **Meaning:** The ability to perceive sound OR a legal proceeding before a court/official
+**Vietnamese:** thính giác, sự nghe
 **IPA:** /ˈhɪərɪŋ/
 **Key Nuance:** Has both physical (auditory) and legal meanings
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A legal proceeding less formal than a trial" → Word?
-Answer:: **hearing**
+Context/Definition: "A legal proceeding less formal than a trial" → Word?
+(Vietnamese: thính giác, sự nghe) -> Word?
+?
+**hearing** (/ˈhɪərɪŋ/)
 
 ### Card 3: Usage (Multi-line)
 Use **hearing** in a sentence.

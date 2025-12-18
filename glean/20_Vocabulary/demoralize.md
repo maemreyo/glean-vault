@@ -85,15 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **demoralize** mean?
+What does **demoralize** (/dɪˈmɒrəlaɪz/) mean?
 ?
 **Meaning:** To make someone lose confidence or hope; to discourage or dishearten
+**Vietnamese:** làm suy suyễn đạo đức
 **IPA:** /dɪˈmɒrəlaɪz/
 **Key Nuance:** Focuses on destroying morale and confidence rather than corrupting morals
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To make someone lose confidence or hope" → Word?
-Answer:: **demoralize**
+Context/Definition: "To make someone lose confidence or hope" → Word?
+(Vietnamese: làm suy suyễn đạo đức) -> Word?
+?
+**demoralize** (/dɪˈmɒrəlaɪz/)
 
 ### Card 3: Usage (Multi-line)
 Use **demoralize** in a sentence.

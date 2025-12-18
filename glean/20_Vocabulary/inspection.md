@@ -85,15 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **inspection** mean?
+What does **inspection** (/ɪnˈspekʃən/) mean?
 ?
 **Meaning:** Formal or official examination; careful viewing or scrutiny of something
+**Vietnamese:** sự thanh tra, sự kiểm tra
 **IPA:** /ɪnˈspekʃən/
 **Key Nuance:** Focuses on visual examination for quality or compliance
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Formal examination of something to check its quality or condition" → Word?
-Answer:: **inspection**
+Context/Definition: "Formal examination of something to check its quality or condition" → Word?
+(Vietnamese: sự thanh tra, sự kiểm tra) -> Word?
+?
+**inspection** (/ɪnˈspekʃən/)
 
 ### Card 3: Usage (Multi-line)
 Use **inspection** in a sentence.

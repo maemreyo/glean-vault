@@ -81,16 +81,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **disproof** mean?
+What does **disproof** (/dɪsˈpruːf/) mean?
 ?
 **Meaning:** Evidence that proves something to be false or incorrect.
+**Vietnamese:** sự phản bác, bằng chứng chống lại
 **IPA:** /dɪsˈpruːf/
 **Key Nuance:** Requires concrete evidence, not mere disagreement
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Evidence that conclusively proves something false" → Word?
-<!--SR:!2025-12-22,4,270-->
-Answer:: **disproof**
+Context/Definition: "Evidence that conclusively proves something false" → Word?
+(Vietnamese: sự phản bác, bằng chứng chống lại) -> Word?
+?
+**disproof** (/dɪsˈpruːf/)
 
 ### Card 3: Usage (Multi-line)
 Use **disproof** in a sentence.

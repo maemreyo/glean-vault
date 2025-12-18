@@ -94,15 +94,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **guarantee** mean?
+What does **guarantee** (/ˌɡærənˈtiː/) mean?
 ?
 **Meaning:** A formal promise or assurance that certain conditions will be fulfilled
+**Vietnamese:** sự bảo đảm, sự đảm bảo, cam kết
 **IPA:** /ˌɡærənˈtiː/
 **Key Nuance:** Stronger than promise; implies formal assurance and acceptance of responsibility
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A formal promise that something will happen or be done" → Word?
-Answer:: **guarantee**
+Context/Definition: "A formal promise that something will happen or be done" → Word?
+(Vietnamese: sự bảo đảm, sự đảm bảo, cam kết) -> Word?
+?
+**guarantee** (/ˌɡærənˈtiː/)
 
 ### Card 3: Usage (Multi-line)
 Use **guarantee** in a sentence.

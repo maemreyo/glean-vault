@@ -85,15 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **discouragingly** mean?
+What does **discouragingly** (/dɪsˈkʌrɪdʒɪŋli/) mean?
 ?
 **Meaning:** In a manner that causes loss of enthusiasm or confidence; in a disheartening way
+**Vietnamese:** một cách nản lòng
 **IPA:** /dɪsˈkʌrɪdʒɪŋli/
 **Key Nuance:** Describes how an action affects morale or confidence
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "In a way that causes loss of enthusiasm or confidence" → Word?
-Answer:: **discouragingly**
+Context/Definition: "In a way that causes loss of enthusiasm or confidence" → Word?
+(Vietnamese: một cách nản lòng) -> Word?
+?
+**discouragingly** (/dɪsˈkʌrɪdʒɪŋli/)
 
 ### Card 3: Usage (Multi-line)
 Use **discouragingly** in a sentence.

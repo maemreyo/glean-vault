@@ -87,16 +87,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **isolation** mean?
+What does **isolation** (/ˌaɪ.səˈleɪ.ʃən/) mean?
 ?
 **Meaning:** The state of being separated from others; complete or partial separation from society
+**Vietnamese:** sự cô lập, sự cách ly
 **IPA:** /ˌaɪ.səˈleɪ.ʃən/
 **Key Nuance:** Can be voluntary or involuntary; often has negative connotations
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "The patient was put in ___ to prevent infection of others" → Word?
-<!--SR:!2025-12-22,4,270-->
-Answer:: **isolation**
+Context/Definition: "The patient was put in ___ to prevent infection of others" → Word?
+(Vietnamese: sự cô lập, sự cách ly) -> Word?
+?
+**isolation** (/ˌaɪ.səˈleɪ.ʃən/)
 
 ### Card 3: Usage (Multi-line)
 Use **isolation** in a sentence.

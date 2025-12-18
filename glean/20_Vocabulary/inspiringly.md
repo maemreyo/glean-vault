@@ -82,15 +82,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **inspiringly** mean?
+What does **inspiringly** (/ɪnˈspaɪərɪŋli/) mean?
 ?
 **Meaning:** In a manner that arouses creative or emotional response; in a way that encourages or motivates
+**Vietnamese:** một cách truyền cảm hứng
 **IPA:** /ɪnˈspaɪərɪŋli/
 **Key Nuance:** Describes how an action affects others emotionally
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "In a manner that motivates others to act or create" → Word?
-Answer:: **inspiringly**
+Context/Definition: "In a manner that motivates others to act or create" → Word?
+(Vietnamese: một cách truyền cảm hứng) -> Word?
+?
+**inspiringly** (/ɪnˈspaɪərɪŋli/)
 
 ### Card 3: Usage (Multi-line)
 Use **inspiringly** in a sentence.

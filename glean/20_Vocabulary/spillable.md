@@ -79,15 +79,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **spillable** mean?
+What does **spillable** (/ˈspɪləbl/) mean?
 ?
 **Meaning:** Capable of being spilled or caused to overflow from its container
+**Vietnamese:** có thể bị đổ, dễ đổ
 **IPA:** /ˈspɪləbl/
 **Key Nuance:** Describes potential for accidental spillage, not the act itself
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Describing something that can easily spill or leak from its container" → Word?
-Answer:: **spillable**
+Context/Definition: "Describing something that can easily spill or leak from its container" → Word?
+(Vietnamese: có thể bị đổ, dễ đổ) -> Word?
+?
+**spillable** (/ˈspɪləbl/)
 
 ### Card 3: Usage (Multi-line)
 Use **spillable** in a sentence.

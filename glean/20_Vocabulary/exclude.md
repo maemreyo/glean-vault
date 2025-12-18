@@ -82,15 +82,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **exclude** mean?
+What does **exclude** (/ɪkˈskluːd/) mean?
 ?
 **Meaning:** To deliberately not include or consider; to prevent from entering; to shut out
+**Vietnamese:** loại trừ, loại ra
 **IPA:** /ɪkˈskluːd/
 **Key Nuance:** Active choice to remove/keep out; more formal than "leave out"
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To prevent from entering or being part of something" → Word?
-Answer:: **exclude**
+Context/Definition: "To prevent from entering or being part of something" → Word?
+(Vietnamese: loại trừ, loại ra) -> Word?
+?
+**exclude** (/ɪkˈskluːd/)
 
 ### Card 3: Usage (Multi-line)
 Use **exclude** in a sentence.

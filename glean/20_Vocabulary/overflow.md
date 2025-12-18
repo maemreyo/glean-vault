@@ -84,15 +84,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **overflow** mean?
+What does **overflow** (/ˌəʊvəˈfləʊ/) mean?
 ?
 **Meaning:** To flow over the edges or limits; to exceed capacity and spill out
+**Vietnamese:** tràn, tràn ra ngoài, sự tràn ngập
 **IPA:** /ˌəʊvəˈfləʊ/
 **Key Nuance:** Can be literal (liquids) or abstract (emotions, data)
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To flow or spread beyond the limits of a container" → Word?
-Answer:: **overflow**
+Context/Definition: "To flow or spread beyond the limits of a container" → Word?
+(Vietnamese: tràn, tràn ra ngoài, sự tràn ngập) -> Word?
+?
+**overflow** (/ˌəʊvəˈfləʊ/)
 
 ### Card 3: Usage (Multi-line)
 Use **overflow** in a sentence.

@@ -81,15 +81,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **experiment** mean?
+What does **experiment** (/ɪkˈsperəmənt/) mean?
 ?
 **Meaning:** A scientific procedure to test a hypothesis OR to try something new to discover its effects
+**Vietnamese:** sự thí nghiệm, cuộc thử nghiệm
 **IPA:** /ɪkˈsperəmənt/
 **Key Nuance:** Can be both noun (the test) and verb (the act of testing)
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A scientific procedure carried out to test a hypothesis" → Word?
-Answer:: **experiment**
+Context/Definition: "A scientific procedure carried out to test a hypothesis" → Word?
+(Vietnamese: sự thí nghiệm, cuộc thử nghiệm) -> Word?
+?
+**experiment** (/ɪkˈsperəmənt/)
 
 ### Card 3: Usage (Multi-line)
 Use **experiment** in a sentence.

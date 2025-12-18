@@ -84,15 +84,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **ignorance** mean?
+What does **ignorance** (/ˈɪɡnərəns/) mean?
 ?
 **Meaning:** Lack of knowledge, information, or awareness about something
+**Vietnamese:** sự không biết
 **IPA:** /ˈɪɡnərəns/
 **Key Nuance:** Can be neutral (not knowing) or negative (refusing to know)
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Lack of knowledge or awareness" → Word?
-Answer:: **ignorance**
+Context/Definition: "Lack of knowledge or awareness" → Word?
+(Vietnamese: sự không biết) -> Word?
+?
+**ignorance** (/ˈɪɡnərəns/)
 
 ### Card 3: Usage (Multi-line)
 Use **ignorance** in a sentence.

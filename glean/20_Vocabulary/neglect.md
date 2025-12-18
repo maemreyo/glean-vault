@@ -84,15 +84,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **neglect** mean?
+What does **neglect** (/nɪˈɡlekt/) mean?
 ?
 **Meaning:** To fail to care for or attend to properly; to give little attention or respect
+**Vietnamese:** không quan tâm, phớt lờ
 **IPA:** /nɪˈɡlekt/ (verb), /ˈneɡlekt/ (noun)
 **Key Nuance:** Implies shirking responsibility
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To fail to care for something properly" → Word?
-Answer:: **neglect**
+Context/Definition: "To fail to care for something properly" → Word?
+(Vietnamese: không quan tâm, phớt lờ) -> Word?
+?
+**neglect** (/nɪˈɡlekt/)
 
 ### Card 3: Usage (Multi-line)
 Use **neglect** in a sentence.

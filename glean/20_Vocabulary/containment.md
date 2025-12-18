@@ -89,16 +89,19 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **containment** mean?
+What does **containment** (/kənˈteɪnmənt/) mean?
 ?
 **Meaning:** The action of keeping something harmful under control or within limits
+**Vietnamese:** sự ngăn chặn, sự kiềm chế, sự bao vây
 **IPA:** /kənˈteɪnmənt/
 **Key Nuance:** Focuses on restriction and control rather than elimination
 <!--SR:!2025-12-22,4,270-->
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "The policy of preventing the expansion of something harmful" → Word?
-Answer:: **containment**
+Context/Definition: "The policy of preventing the expansion of something harmful" → Word?
+(Vietnamese: sự ngăn chặn, sự kiềm chế, sự bao vây) -> Word?
+?
+**containment** (/kənˈteɪnmənt/)
 
 ### Card 3: Usage (Multi-line)
 Use **containment** in a sentence.
@@ -112,6 +115,7 @@ List 3 common collocations for **containment**.
 1. damage containment
 2. disease containment
 3. policy of containment
+<!--SR:!2025-12-21,3,252-->
 
 ### Card 5: Root & Word Family (Multi-line)
 Analyze the root/family of **containment**.

@@ -89,15 +89,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **container** mean?
+What does **container** (/kənˈteɪnər/) mean?
 ?
 **Meaning:** An object designed to hold or contain something
+**Vietnamese:** vật chứa, bình chứa, hộp chứa
 **IPA:** /kənˈteɪnər/
 **Key Nuance:** Refers to any object that encloses or holds other items, from small boxes to large shipping units
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A large metal box used for transporting goods" → Word?
-Answer:: **container**
+Context/Definition: "A large metal box used for transporting goods" → Word?
+(Vietnamese: vật chứa, bình chứa, hộp chứa) -> Word?
+?
+**container** (/kənˈteɪnər/)
 
 ### Card 3: Usage (Multi-line)
 Use **container** in a sentence.

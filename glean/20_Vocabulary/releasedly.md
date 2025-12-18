@@ -79,15 +79,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **releasedly** mean?
+What does **releasedly** (/rɪˈliːsɪdli/) mean?
 ?
 **Meaning:** In a way that shows freedom from confinement, constraint, or emotion
+**Vietnamese:** một cách được giải phóng, một cách được giải tỏa
 **IPA:** /rɪˈliːsɪdli/
 **Key Nuance:** Rare literary adverb describing manner of being set free
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "In a manner showing freedom from constraint or confinement" → Word?
-Answer:: **releasedly**
+Context/Definition: "In a manner showing freedom from constraint or confinement" → Word?
+(Vietnamese: một cách được giải phóng, một cách được giải tỏa) -> Word?
+?
+**releasedly** (/rɪˈliːsɪdli/)
 
 ### Card 3: Usage (Multi-line)
 Use **releasedly** in a sentence.

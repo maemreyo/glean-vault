@@ -86,15 +86,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **contain** mean?
+What does **contain** (/kənˈteɪn/) mean?
 ?
 **Meaning:** To hold or have within something; to include as part of a component
+**Vietnamese:** chứa, bao gồm
 **IPA:** /kənˈteɪn/
 **Key Nuance:** Can refer to physical, emotional, or abstract containment
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To keep emotions under control" → Word?
-Answer:: **contain**
+Context/Definition: "To keep emotions under control" → Word?
+(Vietnamese: chứa, bao gồm) -> Word?
+?
+**contain** (/kənˈteɪn/)
 
 ### Card 3: Usage (Multi-line)
 Use **contain** in a sentence.
@@ -108,6 +111,7 @@ List 3 common collocations for **contain**.
 1. contain information
 2. contain emotions
 3. contain the spread
+<!--SR:!2025-12-21,3,250-->
 
 ### Card 5: Root & Word Family (Multi-line)
 Analyze the root/family of **contain**.

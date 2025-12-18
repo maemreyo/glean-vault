@@ -96,15 +96,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **spill** mean?
+What does **spill** (/spɪl/) mean?
 ?
 **Meaning:** To cause or allow liquid to run over the edges of its container; to reveal information
+**Vietnamese:** đổ (vật lỏng), làm đổ, sự tràn
 **IPA:** /spɪl/
 **Key Nuance:** Can refer to both physical liquids and abstract information
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To accidentally cause liquid to flow over the edge of a container" → Word?
-Answer:: **spill**
+Context/Definition: "To accidentally cause liquid to flow over the edge of a container" → Word?
+(Vietnamese: đổ (vật lỏng), làm đổ, sự tràn) -> Word?
+?
+**spill** (/spɪl/)
 
 ### Card 3: Usage (Multi-line)
 Use **spill** in a sentence.

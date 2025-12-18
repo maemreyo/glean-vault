@@ -83,15 +83,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **motivate** mean?
+What does **motivate** (/ˈməʊtɪveɪt/) mean?
 ?
 **Meaning:** To provide someone with a reason or incentive to do something; to stimulate enthusiasm
+**Vietnamese:** tạo động lực, thôi thúc
 **IPA:** /ˈməʊtɪveɪt/
 **Key Nuance:** Focuses on practical reasons and incentives rather than emotional inspiration
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To provide someone with a reason to do something" → Word?
-Answer:: **motivate**
+Context/Definition: "To provide someone with a reason to do something" → Word?
+(Vietnamese: tạo động lực, thôi thúc) -> Word?
+?
+**motivate** (/ˈməʊtɪveɪt/)
 
 ### Card 3: Usage (Multi-line)
 Use **motivate** in a sentence.

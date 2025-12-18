@@ -85,16 +85,19 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **surround** mean?
+What does **surround** (/səˈraʊnd/) mean?
 ?
 **Meaning:** To be all around something or someone; to enclose or encircle
+**Vietnamese:** bao quanh, vây quanh
 **IPA:** /səˈraʊnd/
 **Key Nuance:** Implies completeness - being on all sides
+<!--SR:!2025-12-22,4,272-->
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To be all around something or someone" → Word?
-<!--SR:!2025-12-22,4,270-->
-Answer:: **surround**
+Context/Definition: "To be all around something or someone" → Word?
+(Vietnamese: bao quanh, vây quanh) -> Word?
+?
+**surround** (/səˈraʊnd/)
 
 ### Card 3: Usage (Multi-line)
 Use **surround** in a sentence.

@@ -82,16 +82,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **testimony** mean?
+What does **testimony** (/ˈtestɪməni/) mean?
 ?
 **Meaning:** A formal statement made under oath; evidence given by a witness; declaration supporting a fact
+**Vietnamese:** lời khai, lời chứng
 **IPA:** /ˈtestɪməni/
 **Key Nuance:** Implies firsthand knowledge; primarily legal but can be figurative
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A formal statement made under oath in court" → Word?
-Answer:: **testimony**
-<!--SR:!2025-12-22,4,270-->
+Context/Definition: "A formal statement made under oath in court" → Word?
+(Vietnamese: lời khai, lời chứng) -> Word?
+?
+**testimony** (/ˈtestɪməni/)
 
 ### Card 3: Usage (Multi-line)
 Use **testimony** in a sentence.

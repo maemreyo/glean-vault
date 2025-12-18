@@ -87,15 +87,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **spread** mean?
+What does **spread** (/spred/) mean?
 ?
 **Meaning:** To extend, distribute, or disseminate over an area; to apply thinly on a surface
+**Vietnamese:** lan rộng, trải ra; phát tán, truyền bá; trải, phết
 **IPA:** /spred/
 **Key Nuance:** Can be physical (butter) or abstract (news, disease)
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Please ___ the butter on the bread" → Word?
-Answer:: **spread**
+Context/Definition: "Please ___ the butter on the bread" → Word?
+(Vietnamese: lan rộng, trải ra; phát tán, truyền bá; trải, phết) -> Word?
+?
+**spread** (/spred/)
 
 ### Card 3: Usage (Multi-line)
 Use **spread** in a sentence.

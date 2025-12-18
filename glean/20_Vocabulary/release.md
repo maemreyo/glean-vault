@@ -83,15 +83,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **release** mean?
+What does **release** (/rɪˈliːs/) mean?
 ?
 **Meaning:** To set free from confinement; to make available; to let go (verb); the act of releasing (noun)
+**Vietnamese:** giải phóng, thả ra
 **IPA:** /rɪˈliːs/
 **Key Nuance:** Can be physical, emotional, or commercial/technical
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To set free or make something available" → Word?
-Answer:: **release**
+Context/Definition: "To set free or make something available" → Word?
+(Vietnamese: giải phóng, thả ra) -> Word?
+?
+**release** (/rɪˈliːs/)
 
 ### Card 3: Usage (Multi-line)
 Use **release** in a sentence.
@@ -110,7 +113,8 @@ List 3 common collocations for **release**.
 Analyze the root/family of **release**.
 ?
 **Root:** Latin "relaxare" (to relax, loosen)
-**Related types:** (noun/verb) release - (verb) relax - (noun) relief 
+**Related types:** (noun/verb) release - (verb) relax - (noun) relief
+<!--SR:!2025-12-21,3,250--> 
 
 ---
 

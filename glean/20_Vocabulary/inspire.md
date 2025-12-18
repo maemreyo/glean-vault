@@ -83,15 +83,19 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **inspire** mean?
+What does **inspire** (/ɪnˈspaɪər/) mean?
 ?
 **Meaning:** To fill someone with creative ideas or positive feelings; to encourage someone to do something
+**Vietnamese:** truyền cảm hứng, thôi thúc
 **IPA:** /ɪnˈspaɪər/
 **Key Nuance:** Emotional and creative influence rather than practical motivation
+<!--SR:!2025-12-21,3,250-->
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To fill someone with the urge or ability to create or feel something" → Word?
-Answer:: **inspire**
+Context/Definition: "To fill someone with the urge or ability to create or feel something" → Word?
+(Vietnamese: truyền cảm hứng, thôi thúc) -> Word?
+?
+**inspire** (/ɪnˈspaɪər/)
 
 ### Card 3: Usage (Multi-line)
 Use **inspire** in a sentence.

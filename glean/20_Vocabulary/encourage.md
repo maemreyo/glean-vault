@@ -89,15 +89,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **encourage** mean?
+What does **encourage** (/ɪnˈkɜːrɪdʒ/) mean?
 ?
 **Meaning:** To give support, confidence, or hope to someone; to stimulate development
+**Vietnamese:** khuyến khích, động viên, thúc đẩy
 **IPA:** /ɪnˈkɜːrɪdʒ/
 **Key Nuance:** Involves giving emotional support and confidence to someone
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To motivate someone to do something by giving them confidence" → Word?
-Answer:: **encourage**
+Context/Definition: "To motivate someone to do something by giving them confidence" → Word?
+(Vietnamese: khuyến khích, động viên, thúc đẩy) -> Word?
+?
+**encourage** (/ɪnˈkɜːrɪdʒ/)
 
 ### Card 3: Usage (Multi-line)
 Use **encourage** in a sentence.

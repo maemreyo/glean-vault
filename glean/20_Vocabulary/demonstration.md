@@ -81,16 +81,19 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **demonstration** mean?
+What does **demonstration** (/ˌdemənˈstreɪʃən/) mean?
 ?
 **Meaning:** The act of showing how something works or proving a point
+**Vietnamese:** sự diễn giải, sự chứng minh
 **IPA:** /ˌdemənˈstreɪʃən/
 **Key Nuance:** Can be educational (showing how) or political (public protest)
 <!--SR:!2025-12-21,3,250-->
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A public gathering to show support or opposition" → Word?
-Answer:: **demonstration**
+Context/Definition: "A public gathering to show support or opposition" → Word?
+(Vietnamese: sự diễn giải, sự chứng minh) -> Word?
+?
+**demonstration** (/ˌdemənˈstreɪʃən/)
 
 ### Card 3: Usage (Multi-line)
 Use **demonstration** in a sentence.

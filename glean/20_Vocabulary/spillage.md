@@ -84,15 +84,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **spillage** mean?
+What does **spillage** (/ˈspɪlɪdʒ/) mean?
 ?
 **Meaning:** The act or result of spilling; escaped liquid or information
+**Vietnamese:** sự đổ, sự tràn
 **IPA:** /ˈspɪlɪdʒ/
 **Key Nuance:** Usually accidental; can be literal (liquids) or figurative (data, secrets)
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "The result or amount of something accidentally spilled" → Word?
-Answer:: **spillage**
+Context/Definition: "The result or amount of something accidentally spilled" → Word?
+(Vietnamese: sự đổ, sự tràn) -> Word?
+?
+**spillage** (/ˈspɪlɪdʒ/)
 
 ### Card 3: Usage (Multi-line)
 Use **spillage** in a sentence.

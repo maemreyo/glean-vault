@@ -85,15 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **analysis** mean?
+What does **analysis** (/əˈnæləsɪs/) mean?
 ?
 **Meaning:** Detailed examination of elements or structure; process of separating into parts
+**Vietnamese:** sự phân tích
 **IPA:** /əˈnæləsɪs/
 **Key Nuance:** Can refer to process or result; implies systematic approach
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Detailed examination of something's components" → Word?
-Answer:: **analysis**
+Context/Definition: "Detailed examination of something's components" → Word?
+(Vietnamese: sự phân tích) -> Word?
+?
+**analysis** (/əˈnæləsɪs/)
 
 ### Card 3: Usage (Multi-line)
 Use **analysis** in a sentence.

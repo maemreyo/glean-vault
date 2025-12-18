@@ -83,21 +83,25 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **will** mean?
+What does **will** (/wɪl/) mean?
 ?
 **Meaning:** (1) Legal document for property after death (2) Future tense marker (3) Mental faculty of choice/determination
+**Vietnamese:** di chúc, ý chí, sẽ
 **IPA:** /wɪl/
 **Key Nuance:** Multiple meanings: legal document, future marker, and mental determination
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A legal document directing disposal of property after death" → Word?
-Answer:: **will**
+Context/Definition: "A legal document directing disposal of property after death" → Word?
+(Vietnamese: di chúc, ý chí, sẽ) -> Word?
+?
+**will** (/wɪl/)
 
 ### Card 3: Usage (Multi-line)
 Use **will** in a sentence.
 ?
 **Sentence:** The executor will read the will at the family meeting tomorrow.
 **Translation:** Người thực thi di chúc sẽ đọc bản di chúc tại cuộc họp gia đình vào ngày mai.
+<!--SR:!2025-12-19,1,230-->
 
 ### Card 4: Collocations (Multi-line)
 List 3 common collocations for **will**.

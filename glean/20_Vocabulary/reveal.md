@@ -81,16 +81,19 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **reveal** mean?
+What does **reveal** (/rɪˈviːl/) mean?
 ?
 **Meaning:** To make known what was secret or hidden; to uncover or show something
+**Vietnamese:** phơi bày, tiết lộ
 **IPA:** /rɪˈviːl/
 **Key Nuance:** Implies removal of something that was covering or hiding
 <!--SR:!2025-12-22,4,270-->
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To make previously unknown information known" → Word?
-Answer:: **reveal**
+Context/Definition: "To make previously unknown information known" → Word?
+(Vietnamese: phơi bày, tiết lộ) -> Word?
+?
+**reveal** (/rɪˈviːl/)
 
 ### Card 3: Usage (Multi-line)
 Use **reveal** in a sentence.

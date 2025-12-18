@@ -90,15 +90,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **examination** mean?
+What does **examination** (/ɪɡˌzæməˈneɪʃn/) mean?
 ?
 **Meaning:** A detailed inspection or study of something or someone
+**Vietnamese:** sự kiểm tra, sự thi cử, sự khảo sát
 **IPA:** /ɪɡˌzæməˈneɪʃn/
 **Key Nuance:** Involves careful scrutiny and analysis, whether for testing, investigation, or diagnosis
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A formal test of knowledge or proficiency" → Word?
-Answer:: **examination**
+Context/Definition: "A formal test of knowledge or proficiency" → Word?
+(Vietnamese: sự kiểm tra, sự thi cử, sự khảo sát) -> Word?
+?
+**examination** (/ɪɡˌzæməˈneɪʃn/)
 
 ### Card 3: Usage (Multi-line)
 Use **examination** in a sentence.

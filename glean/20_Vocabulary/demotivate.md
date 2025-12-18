@@ -90,15 +90,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **demotivate** mean?
+What does **demotivate** (/diːˈmoʊtɪveɪt/) mean?
 ?
 **Meaning:** To make someone less enthusiastic or determined about doing something
+**Vietnamese:** làm mất động lực, làm giảm động lực, làm nản chí
 **IPA:** /diːˈmoʊtɪveɪt/
 **Key Nuance:** Specifically refers to reducing or removing motivation, not just temporary discouragement
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To reduce someone's enthusiasm or determination" → Word?
-Answer:: **demotivate**
+Context/Definition: "To reduce someone's enthusiasm or determination" → Word?
+(Vietnamese: làm mất động lực, làm giảm động lực, làm nản chí) -> Word?
+?
+**demotivate** (/diːˈmoʊtɪveɪt/)
 
 ### Card 3: Usage (Multi-line)
 Use **demotivate** in a sentence.

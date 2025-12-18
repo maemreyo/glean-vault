@@ -85,15 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **confine** mean?
+What does **confine** (/kənˈfaɪn/) mean?
 ?
 **Meaning:** To keep or restrict within limits; to enclose or shut up
+**Vietnamese:** giam cầm, hạn chế
 **IPA:** /kənˈfaɪn/
 **Key Nuance:** Can be physical (imprisonment) or abstract (limiting options/activities)
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To keep or restrict someone or something within limits" → Word?
-Answer:: **confine**
+Context/Definition: "To keep or restrict someone or something within limits" → Word?
+(Vietnamese: giam cầm, hạn chế) -> Word?
+?
+**confine** (/kənˈfaɪn/)
 
 ### Card 3: Usage (Multi-line)
 Use **confine** in a sentence.

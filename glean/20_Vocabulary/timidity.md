@@ -83,15 +83,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **timidity** mean?
+What does **timidity** (/tɪˈmɪd.ə.t̬i/) mean?
 ?
 **Meaning:** The quality or state of being fearful; lack of courage or confidence
+**Vietnamese:** sự nhút nhát, sự rụt rè
 **IPA:** /tɪˈmɪd.ə.t̬i/
 **Key Nuance:** More formal than shyness; implies deeper-seated fear
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Her ___ prevented her from expressing her opinions in front of the class" → Word?
-Answer:: **timidity**
+Context/Definition: "Her ___ prevented her from expressing her opinions in front of the class" → Word?
+(Vietnamese: sự nhút nhát, sự rụt rè) -> Word?
+?
+**timidity** (/tɪˈmɪd.ə.t̬i/)
 
 ### Card 3: Usage (Multi-line)
 Use **timidity** in a sentence.
@@ -112,6 +115,7 @@ Analyze the root/family of **timidity**.
 ?
 **Root:** Latin timidus ("fearful"), from timere ("to fear")
 **Related types:** (adj) timid, (adv) timidly
+<!--SR:!2025-12-21,3,252-->
 
 ---
 

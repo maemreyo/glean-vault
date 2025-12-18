@@ -81,15 +81,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **proof** mean?
+What does **proof** (/pruːf/) mean?
 ?
 **Meaning:** Evidence or argument establishing a fact or the truth of a statement
+**Vietnamese:** bằng chứng, sự chứng minh
 **IPA:** /pruːf/
 **Key Nuance:** Can be mathematical/logical evidence or physical documents
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Sufficient evidence for the truth of something" → Word?
-Answer:: **proof**
+Context/Definition: "Sufficient evidence for the truth of something" → Word?
+(Vietnamese: bằng chứng, sự chứng minh) -> Word?
+?
+**proof** (/pruːf/)
 
 ### Card 3: Usage (Multi-line)
 Use **proof** in a sentence.

@@ -88,15 +88,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **comfort** mean?
+What does **comfort** (/ˈkʌm.fərt/) mean?
 ?
 **Meaning:** State of physical or mental ease; something that provides relief; to console someone
+**Vietnamese:** sự thoải mái, sự dễ chịu; sự an ủi
 **IPA:** /ˈkʌm.fərt/
 **Key Nuance:** Can be both physical (ease) and emotional (consolation)
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Her words of ___ helped ease my worries about the exam" → Word?
-Answer:: **comfort**
+Context/Definition: "Her words of ___ helped ease my worries about the exam" → Word?
+(Vietnamese: sự thoải mái, sự dễ chịu; sự an ủi) -> Word?
+?
+**comfort** (/ˈkʌm.fərt/)
 
 ### Card 3: Usage (Multi-line)
 Use **comfort** in a sentence.

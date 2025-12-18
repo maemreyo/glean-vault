@@ -85,15 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **examinable** mean?
+What does **examinable** (/ɪɡˈzæmɪnəbl/) mean?
 ?
 **Meaning:** Capable of being examined or inspected; suitable for detailed study or analysis
+**Vietnamese:** có thể kiểm tra được
 **IPA:** /ɪɡˈzæmɪnəbl/
 **Key Nuance:** Describes something that can be subjected to formal examination or testing
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Capable of being examined or tested" → Word?
-Answer:: **examinable**
+Context/Definition: "Capable of being examined or tested" → Word?
+(Vietnamese: có thể kiểm tra được) -> Word?
+?
+**examinable** (/ɪɡˈzæmɪnəbl/)
 
 ### Card 3: Usage (Multi-line)
 Use **examinable** in a sentence.

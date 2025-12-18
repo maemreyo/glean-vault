@@ -82,16 +82,19 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **testable** mean?
+What does **testable** (/ˈtestəbl/) mean?
 ?
 **Meaning:** Capable of being tested or examined; measurable or observable; verifiable
+**Vietnamese:** có thể kiểm tra, có thể thử nghiệm
 **IPA:** /ˈtestəbl/
 **Key Nuance:** Critical in scientific method and software development
 <!--SR:!2025-12-21,3,250-->
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Something that can be tested or verified" → Word?
-Answer:: **testable**
+Context/Definition: "Something that can be tested or verified" → Word?
+(Vietnamese: có thể kiểm tra, có thể thử nghiệm) -> Word?
+?
+**testable** (/ˈtestəbl/)
 
 ### Card 3: Usage (Multi-line)
 Use **testable** in a sentence.

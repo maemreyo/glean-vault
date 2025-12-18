@@ -83,15 +83,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **inspiration** mean?
+What does **inspiration** (/ˌɪnspəˈreɪʃən/) mean?
 ?
 **Meaning:** The process of being mentally stimulated to do or feel something creative; a brilliant idea
+**Vietnamese:** sự hít vào, sự thở vào
 **IPA:** /ˌɪnspəˈreɪʃən/
 **Key Nuance:** Pulls you toward creation vs motivation pushes you to complete tasks
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "A sudden brilliant creative idea" → Word?
-Answer:: **inspiration**
+Context/Definition: "A sudden brilliant creative idea" → Word?
+(Vietnamese: sự hít vào, sự thở vào) -> Word?
+?
+**inspiration** (/ˌɪnspəˈreɪʃən/)
 
 ### Card 3: Usage (Multi-line)
 Use **inspiration** in a sentence.

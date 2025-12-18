@@ -85,15 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **guts** mean?
+What does **guts** (/ɡʌts/) mean?
 ?
 **Meaning:** Courage and determination; bravery (informal). Also: the essential content of something.
+**Vietnamese:** lá lách, ruột
 **IPA:** /ɡʌts/
 **Key Nuance:** Informal term for courage, always plural
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "You need ___ to stand up to the bully" → Word?
-Answer:: **guts**
+Context/Definition: "You need ___ to stand up to the bully" → Word?
+(Vietnamese: lá lách, ruột) -> Word?
+?
+**guts** (/ɡʌts/)
 
 ### Card 3: Usage (Multi-line)
 Use **guts** in a sentence.

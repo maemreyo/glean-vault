@@ -85,16 +85,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **scrutiny** mean?
+What does **scrutiny** (/ˈskruːtɪni/) mean?
 ?
 **Meaning:** Critical and thorough examination; detailed and critical inspection
+**Vietnamese:** sự xem xét kỹ lưỡng
 **IPA:** /ˈskruːtɪni/
 **Key Nuance:** More intense than regular inspection; implies critical judgment
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "Critical and thorough examination" → Word?
-<!--SR:!2025-12-22,4,270-->
-Answer:: **scrutiny**
+Context/Definition: "Critical and thorough examination" → Word?
+(Vietnamese: sự xem xét kỹ lưỡng) -> Word?
+?
+**scrutiny** (/ˈskruːtɪni/)
 
 ### Card 3: Usage (Multi-line)
 Use **scrutiny** in a sentence.

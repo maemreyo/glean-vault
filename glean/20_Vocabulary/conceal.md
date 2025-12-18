@@ -81,15 +81,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **conceal** mean?
+What does **conceal** (/kənˈsiːl/) mean?
 ?
 **Meaning:** To prevent something from being seen or known; to hide deliberately
+**Vietnamese:** che giấu, giấu giếm
 **IPA:** /kənˈsiːl/
 **Key Nuance:** Implies deliberate hiding with potential intent to deceive
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "To keep something from being discovered or known" → Word?
-Answer:: **conceal**
+Context/Definition: "To keep something from being discovered or known" → Word?
+(Vietnamese: che giấu, giấu giếm) -> Word?
+?
+**conceal** (/kənˈsiːl/)
 
 ### Card 3: Usage (Multi-line)
 Use **conceal** in a sentence.
@@ -103,6 +106,7 @@ List 3 common collocations for **conceal**.
 1. Conceal information
 2. Conceal emotions
 3. Conceal weapon
+<!--SR:!2025-12-21,3,250-->
 
 ### Card 5: Root & Word Family (Multi-line)
 Analyze the root/family of **conceal**.

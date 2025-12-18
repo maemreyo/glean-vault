@@ -82,15 +82,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **bravery** mean?
+What does **bravery** (/ˈbreɪ.vər.i/) mean?
 ?
 **Meaning:** Courageous behavior in the face of danger; the quality of being brave
+**Vietnamese:** lòng dũng cảm, sự can đảm
 **IPA:** /ˈbreɪ.vər.i/
 **Key Nuance:** More formal than guts; often associated with noble actions
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "The firefighter's ___ saved many lives from the burning building" → Word?
-Answer:: **bravery**
+Context/Definition: "The firefighter's ___ saved many lives from the burning building" → Word?
+(Vietnamese: lòng dũng cảm, sự can đảm) -> Word?
+?
+**bravery** (/ˈbreɪ.vər.i/)
 
 ### Card 3: Usage (Multi-line)
 Use **bravery** in a sentence.

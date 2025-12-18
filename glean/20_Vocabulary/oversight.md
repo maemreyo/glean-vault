@@ -82,15 +82,18 @@ status: done
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Context (Multi-line)
-What does **oversight** mean?
+What does **oversight** (/ˈəʊvəsaɪt/) mean?
 ?
 **Meaning:** 1) The action of supervising/monitoring OR 2) An unintentional failure to notice something
+**Vietnamese:** sự giám sát, sự giám thị
 **IPA:** /ˈəʊvəsaɪt/
 **Key Nuance:** Has two opposite meanings; context determines usage
 
 ### Card 2: Production (Reverse)
-Question:: Context/Definition: "An unintentional mistake or failure to notice something" → Word?
-Answer:: **oversight**
+Context/Definition: "An unintentional mistake or failure to notice something" → Word?
+(Vietnamese: sự giám sát, sự giám thị) -> Word?
+?
+**oversight** (/ˈəʊvəsaɪt/)
 
 ### Card 3: Usage (Multi-line)
 Use **oversight** in a sentence.
