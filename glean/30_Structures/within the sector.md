@@ -105,33 +105,79 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **within the sector**?
-**Answer::** [Preposition] + [Article] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **within the sector** express?
-**Answer::** Being inside the boundaries or scope of a specific sector
 
-### Card 3: Usage
-**Question::** When should you use **within the sector**?
-**Answer::** When describing something that exists or happens inside a particular business sector
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **within the sector** about employment
-**Answer::** Job opportunities within the sector have increased significantly.
+🧩 **Pattern Analysis:** What is the structure pattern for **within the sector**?
+?
+> 🏗️ **Structure:** [Preposition] + [Article] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "Expertise within sector is valuable"
-**Answer::** Missing article. Should be: "Expertise within the sector is valuable."
 
-### Card 6: Comparison
-**Question::** How is **within the sector** different from [[throughout the sector]]?
-**Answer::** "Within" just means inside, while "throughout" implies everywhere within the sector
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **within the sector**: "The company operates in this field."
-**Answer::** The company operates within the sector.
+🤔 **Meaning:** What does **within the sector** express?
+?
+> 📖 **Function:** Being inside the boundaries or scope of a specific sector
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **within the sector**?
+?
+> 📝 **Context:** When describing something that exists or happens inside a particular business sector
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **within the sector** about employment
+?
+> 🧪 **Example:** Job opportunities within the sector have increased significantly.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "Expertise within sector is valuable"
+?
+> 🛠️ **Correction:** Missing article. Should be: "Expertise within the sector is valuable."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **within the sector** different from [[throughout the sector]]?
+?
+> ⚖️ **Difference:** "Within" just means inside, while "throughout" implies everywhere within the sector
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **within the sector**: "The company operates in this field."
+?
+> 🔄 **Result:** The company operates within the sector.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'In this business area...'
+?
+> 🖋️ **Improved:** "Competition within the sector is fierce."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** How does 'sector' (geometry) organize the economy?
+?
+> 🔍 **Insight:** It treats the economy as a circle/pie, and this is one distinct slice/segment, implying confinement.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe IT wages.
+?
+> 🎬 **Narration:** "Wages within the sector have outpaced inflation."
+
 
 ---
 

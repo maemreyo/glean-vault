@@ -114,33 +114,79 @@ The sheer vertical cliffs
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **The sheer vertical cliffs**?
-**Answer::** [Article] + [Adjective] + [Adjective] + [Plural Noun]
 
-### Card 2: Meaning
-**Question::** What does **The sheer vertical cliffs** express?
-**Answer::** Very steep rock formations that rise straight up without any slope or gradual incline
 
-### Card 3: Usage
-**Question::** When should you use **The sheer vertical cliffs**?
-**Answer::** In descriptive writing when emphasizing the dramatic steepness and imposing nature of cliff faces
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **The sheer vertical cliffs** about birds
-**Answer::** The birds built their nests precariously on ledges of the sheer vertical cliffs.
+🧩 **Pattern Analysis:** What is the structure pattern for **The sheer vertical cliffs**?
+?
+> 🏗️ **Structure:** [Article] + [Adjective] + [Adjective] + [Plural Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "We climbed vertical sheer cliffs"
-**Answer::** Wrong adjective order. Should be: "We climbed sheer vertical cliffs."
 
-### Card 6: Comparison
-**Question::** How is **The sheer vertical cliffs** different from [[steep slopes]]?
-**Answer::** Cliffs are vertical rock faces, while slopes are inclined surfaces with some gradualness
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **The sheer vertical cliffs**: "The very steep rock faces dominated the landscape"
-**Answer::** The sheer vertical cliffs dominated the landscape.
+🤔 **Meaning:** What does **The sheer vertical cliffs** express?
+?
+> 📖 **Function:** Very steep rock formations that rise straight up without any slope or gradual incline
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **The sheer vertical cliffs**?
+?
+> 📝 **Context:** In descriptive writing when emphasizing the dramatic steepness and imposing nature of cliff faces
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **The sheer vertical cliffs** about birds
+?
+> 🧪 **Example:** The birds built their nests precariously on ledges of the sheer vertical cliffs.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "We climbed vertical sheer cliffs"
+?
+> 🛠️ **Correction:** Wrong adjective order. Should be: "We climbed sheer vertical cliffs."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **The sheer vertical cliffs** different from [[steep slopes]]?
+?
+> ⚖️ **Difference:** Cliffs are vertical rock faces, while slopes are inclined surfaces with some gradualness
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **The sheer vertical cliffs**: "The very steep rock faces dominated the landscape"
+?
+> 🔄 **Result:** The sheer vertical cliffs dominated the landscape.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'The steep walls went straight up.'
+?
+> 🖋️ **Improved:** "He stared up at the sheer vertical cliffs."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What does 'sheer' emphasize about the obstacle?
+?
+> 🔍 **Insight:** It emphasizes the absolute, unmitigated nature of the challenge—no handholds, no gradual slope, just impossible difficulty.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a learning curve.
+?
+> 🎬 **Narration:** "Learning the new programming language felt like climbing sheer vertical cliffs."
+
 
 ---
 

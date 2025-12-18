@@ -105,33 +105,79 @@ a wolf spider
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **a wolf spider**?
-**Answer::** [a] + [wolf] + [spider] - noun phrase with modifier
 
-### Card 2: Meaning
-**Question::** What does **a wolf spider** express?
-**Answer::** One spider of the Lycosidae family, known for active hunting
 
-### Card 3: Usage
-**Question::** When should you use **a wolf spider**?
-**Answer::** When referring to one individual spider of this specific species
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **a wolf spider** about hunting
-**Answer::** A wolf spider chases down its prey instead of waiting in a web.
+🧩 **Pattern Analysis:** What is the structure pattern for **a wolf spider**?
+?
+> 🏗️ **Structure:** [a] + [wolf] + [spider] - noun phrase with modifier
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "An wolf spider bit me"
-**Answer::** Should be "A wolf spider bit me" (correct article)
 
-### Card 6: Comparison
-**Question::** How is **a wolf spider** different from **a garden spider**?
-**Answer::** Wolf spiders actively hunt; garden spiders build webs and wait
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **a wolf spider**: "I saw a spider hunting insects"
-**Answer::** I saw a wolf spider hunting insects.
+🤔 **Meaning:** What does **a wolf spider** express?
+?
+> 📖 **Function:** One spider of the Lycosidae family, known for active hunting
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **a wolf spider**?
+?
+> 📝 **Context:** When referring to one individual spider of this specific species
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **a wolf spider** about hunting
+?
+> 🧪 **Example:** A wolf spider chases down its prey instead of waiting in a web.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "An wolf spider bit me"
+?
+> 🛠️ **Correction:** Should be "A wolf spider bit me" (correct article)
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **a wolf spider** different from **a garden spider**?
+?
+> ⚖️ **Difference:** Wolf spiders actively hunt; garden spiders build webs and wait
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **a wolf spider**: "I saw a spider hunting insects"
+?
+> 🔄 **Result:** I saw a wolf spider hunting insects.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'I saw a big hunting spider.'
+?
+> 🖋️ **Improved:** "I encountered a wolf spider on the prowl."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** Why 'wolf'? What behavior does it map to the spider?
+?
+> 🔍 **Insight:** It maps the behavior of active hunting (chasing down prey) rather than passive trapping (web-building).
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe an aggressive salesperson.
+?
+> 🎬 **Narration:** "He operated like a wolf spider, actively chasing down every lead."
+
 
 ---
 

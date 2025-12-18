@@ -114,33 +114,77 @@ live through prolonged seasons of darkness
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **live through prolonged seasons of darkness**?
-**Answer::** [Phrasal Verb] + [Adjective] + [Noun] + [Preposition] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **live through prolonged seasons of darkness** express?
-**Answer::** To survive or endure extended periods of hardship, difficulty, or literally, absence of light
 
-### Card 3: Usage
-**Question::** When should you use **live through prolonged seasons of darkness**?
-**Answer::** In literary or formal contexts when describing endurance of long-term difficulties, or literally for regions with extended dark periods
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **live through prolonged seasons of darkness** about mental health
-**Answer::** Many people learn to live through prolonged seasons of darkness with the help of therapy and support networks.
+🧩 **Pattern Analysis:** What is the structure pattern for **live through prolonged seasons of darkness**?
+?
+> 🏗️ **Structure:** [Phrasal Verb] + [Adjective] + [Noun] + [Preposition] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "She lived through seasons of prolonged darkness"
-**Answer::** Adjective order. Should be: "She lived through prolonged seasons of darkness."
 
-### Card 6: Comparison
-**Question::** How is **live through prolonged seasons of darkness** different from [[survive difficult times]]?
-**Answer::** The first is more poetic and emphasizes extended, recurring hardship, while the second is more direct and general
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **live through prolonged seasons of darkness**: "They endured many years of hardship"
-**Answer::** They had to live through prolonged seasons of darkness.
+🤔 **Meaning:** What does **live through prolonged seasons of darkness** express?
+?
+> 📖 **Function:** To survive or endure extended periods of hardship, difficulty, or literally, absence of light
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **live through prolonged seasons of darkness**?
+?
+> 📝 **Context:** In literary or formal contexts when describing endurance of long-term difficulties, or literally for regions with extended dark periods
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **live through prolonged seasons of darkness** about mental health
+?
+> 🧪 **Example:** Many people learn to live through prolonged seasons of darkness with the help of therapy and support networks.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "She lived through seasons of prolonged darkness"
+?
+> 🛠️ **Correction:** Adjective order. Should be: "She lived through prolonged seasons of darkness."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **live through prolonged seasons of darkness** different from [[survive difficult times]]?
+?
+> ⚖️ **Difference:** The first is more poetic and emphasizes extended, recurring hardship, while the second is more direct and general
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **live through prolonged seasons of darkness**: "They endured many years of hardship"
+?
+> 🔄 **Result:** They had to live through prolonged seasons of darkness.
+>
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade this boring sentence using **live through prolonged seasons of darkness**: "He survived a really bad time."
+?
+> 🖋️ **Improved:** "He lived through prolonged seasons of darkness."
+> 💡 **Effect:** Shifts register from distinct plain (B1) to evocative literary (C1).
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** In **live through prolonged seasons of darkness**, what does "seasons" imply about the nature of the difficulty?
+?
+> 🔍 **Insight:** "Seasons" implies the difficulty is **cyclical** or **temporary** (like winter), but has a significant, natural duration. It is not permanent, but it must be endured until it passes.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** You are writing a biography of a founder who almost went bankrupt. Use **live through prolonged seasons of darkness** to describe that period.
+?
+> 🎬 **Biographical Narration:** "Before achieving success, the founder had to live through prolonged seasons of darkness where bankruptcy seemed inevitable, forging the resilience that would later define her leadership."
 
 ---
 

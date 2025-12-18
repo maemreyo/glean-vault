@@ -115,33 +115,79 @@ stand just off the coast
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **stand just off the coast**?
-**Answer::** [Verb] + [Adverb] + [Preposition] + [Article] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **stand just off the coast** express?
-**Answer::** To be positioned at a short distance from the shoreline, not touching but clearly visible from land
 
-### Card 3: Usage
-**Question::** When should you use **stand just off the coast**?
-**Answer::** When describing something (ship, structure, island) that is positioned near but not on the coastline
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **stand just off the coast** about weather
-**Answer::** Dark clouds began to stand just off the coast, threatening the coastal towns with approaching storms.
+🧩 **Pattern Analysis:** What is the structure pattern for **stand just off the coast**?
+?
+> 🏗️ **Structure:** [Verb] + [Adverb] + [Preposition] + [Article] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The platform stands just in the coast"
-**Answer::** Wrong preposition. Should be: "The platform stands just off the coast."
 
-### Card 6: Comparison
-**Question::** How is **stand just off the coast** different from [[float in the ocean]]?
-**Answer::** The first implies fixed position near shore, while the second suggests movement anywhere in the ocean
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **stand just off the coast**: "The ship waits near the shore"
-**Answer::** The ship stands just off the coast.
+🤔 **Meaning:** What does **stand just off the coast** express?
+?
+> 📖 **Function:** To be positioned at a short distance from the shoreline, not touching but clearly visible from land
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **stand just off the coast**?
+?
+> 📝 **Context:** When describing something (ship, structure, island) that is positioned near but not on the coastline
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **stand just off the coast** about weather
+?
+> 🧪 **Example:** Dark clouds began to stand just off the coast, threatening the coastal towns with approaching storms.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The platform stands just in the coast"
+?
+> 🛠️ **Correction:** Wrong preposition. Should be: "The platform stands just off the coast."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **stand just off the coast** different from [[float in the ocean]]?
+?
+> ⚖️ **Difference:** The first implies fixed position near shore, while the second suggests movement anywhere in the ocean
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **stand just off the coast**: "The ship waits near the shore"
+?
+> 🔄 **Result:** The ship stands just off the coast.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'The island is near the beach.'
+?
+> 🖋️ **Improved:** "The island stands just off the coast."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What does 'stand' personify about the object?
+?
+> 🔍 **Insight:** It gives the object a sense of permanence, dignity, and resistance against the elements (ocean).
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a lighthouse.
+?
+> 🎬 **Narration:** "The lighthouse stands just off the coast, a lonely sentinel against the dark."
+
 
 ---
 

@@ -111,33 +111,79 @@ embryo development
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **embryo development**?
-**Answer::** [Noun] + [Noun] (compound noun where first specifies type)
 
-### Card 2: Meaning
-**Question::** What does **embryo development** express?
-**Answer::** The biological process of growth and maturation of an embryo from fertilization to fetal stage
 
-### Card 3: Usage
-**Question::** When should you use **embryo development**?
-**Answer::** In medical, biological, or scientific contexts discussing prenatal growth, reproductive biology, or developmental processes
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **embryo development** about medical research
-**Answer::** Scientists have identified genetic factors that influence normal embryo development.
+🧩 **Pattern Analysis:** What is the structure pattern for **embryo development**?
+?
+> 🏗️ **Structure:** [Noun] + [Noun] (compound noun where first specifies type)
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The study focuses on embryos development"
-**Answer::** Incorrect pluralization. Should be: "The study focuses on embryo development."
 
-### Card 6: Comparison
-**Question::** How is **embryo development** different from [[fetal development]]?
-**Answer::** Embryo development covers early stage (first 8 weeks), while fetal development covers later stage of pregnancy until birth
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **embryo development**: "The process of how embryos grow"
-**Answer::** Embryo development
+🤔 **Meaning:** What does **embryo development** express?
+?
+> 📖 **Function:** The biological process of growth and maturation of an embryo from fertilization to fetal stage
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **embryo development**?
+?
+> 📝 **Context:** In medical, biological, or scientific contexts discussing prenatal growth, reproductive biology, or developmental processes
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **embryo development** about medical research
+?
+> 🧪 **Example:** Scientists have identified genetic factors that influence normal embryo development.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The study focuses on embryos development"
+?
+> 🛠️ **Correction:** Incorrect pluralization. Should be: "The study focuses on embryo development."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **embryo development** different from [[fetal development]]?
+?
+> ⚖️ **Difference:** Embryo development covers early stage (first 8 weeks), while fetal development covers later stage of pregnancy until birth
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **embryo development**: "The process of how embryos grow"
+?
+> 🔄 **Result:** Embryo development
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'Before the baby grows...'
+?
+> 🖋️ **Improved:** "During the early stages of embryo development..."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** How can 'embryo development' be used metaphorically for a project?
+?
+> 🔍 **Insight:** It refers to the very beginning, fragile stages of a plan where the core DNA/structure is being formed but is not yet viable.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a startup's early idea phase.
+?
+> 🎬 **Narration:** "The project is still in embryo development; we haven't even defined the core features yet."
+
 
 ---
 

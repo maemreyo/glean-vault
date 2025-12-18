@@ -104,33 +104,79 @@ scatter in all directions
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **scatter in all directions**?
-**Answer::** [Subject] + scatter + in + all + directions
 
-### Card 2: Meaning
-**Question::** What does **scatter in all directions** express?
-**Answer::** Rapid, chaotic movement apart in every possible direction
 
-### Card 3: Usage
-**Question::** When should you use **scatter in all directions**?
-**Answer::** To describe panic, explosions, dispersal of objects, or attention
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **scatter in all directions** about animals
-**Answer::** The flock of birds scattered in all directions when the hawk appeared.
+🧩 **Pattern Analysis:** What is the structure pattern for **scatter in all directions**?
+?
+> 🏗️ **Structure:** [Subject] + scatter + in + all + directions
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The papers scattered to all directions"
-**Answer::** Should be "The papers scattered in all directions" (correct preposition)
 
-### Card 6: Comparison
-**Question::** How is **scatter in all directions** different from **disperse**?
-**Answer::** Scatter implies chaotic, rapid movement; disperse is more gradual and organized
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **scatter in all directions**: "The crowd ran away in panic"
-**Answer::** The crowd scattered in all directions in panic.
+🤔 **Meaning:** What does **scatter in all directions** express?
+?
+> 📖 **Function:** Rapid, chaotic movement apart in every possible direction
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **scatter in all directions**?
+?
+> 📝 **Context:** To describe panic, explosions, dispersal of objects, or attention
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **scatter in all directions** about animals
+?
+> 🧪 **Example:** The flock of birds scattered in all directions when the hawk appeared.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The papers scattered to all directions"
+?
+> 🛠️ **Correction:** Should be "The papers scattered in all directions" (correct preposition)
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **scatter in all directions** different from **disperse**?
+?
+> ⚖️ **Difference:** Scatter implies chaotic, rapid movement; disperse is more gradual and organized
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **scatter in all directions**: "The crowd ran away in panic"
+?
+> 🔄 **Result:** The crowd scattered in all directions in panic.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'The crowd went everywhere.'
+?
+> 🖋️ **Improved:** "The crowd began to scatter in all directions."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What does 'scatter' imply about the group's cohesion?
+?
+> 🔍 **Insight:** It implies a complete loss of unity, driven by chaos or panic, similar to debris after an explosion.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a team failing after a leader leaves.
+?
+> 🎬 **Narration:** "Without clear leadership, the project team began to scatter in all directions."
+
 
 ---
 

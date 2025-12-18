@@ -110,33 +110,79 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **put down**?
-**Answer::** [Subject] + put + down + [Object]
 
-### Card 2: Meaning
-**Question::** What does **put down** express?
-**Answer::** Multiple meanings: place something, write something, criticize someone, or euthanize an animal
 
-### Card 3: Usage
-**Question::** When should you use **put down**?
-**Answer::** Context determines meaning - for placing objects, writing information, criticizing, or medical euthanasia
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **put down** about writing
-**Answer::** The teacher asked us to put down our answers on the answer sheet.
+🧩 **Pattern Analysis:** What is the structure pattern for **put down**?
+?
+> 🏗️ **Structure:** [Subject] + put + down + [Object]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "He put down his friend"
-**Answer::** Ambiguous. Could mean wrote about friend OR criticized friend. Clarify: "He wrote down his friend's number" or "He put his friend down with harsh words."
 
-### Card 6: Comparison
-**Question::** How is **put down** different from [[write down]]?
-**Answer::** "Write down" specifically means to record in writing, while "put down" has multiple meanings including placement and criticism
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **put down**: "Record your name here."
-**Answer::** Put down your name here.
+🤔 **Meaning:** What does **put down** express?
+?
+> 📖 **Function:** Multiple meanings: place something, write something, criticize someone, or euthanize an animal
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **put down**?
+?
+> 📝 **Context:** Context determines meaning - for placing objects, writing information, criticizing, or medical euthanasia
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **put down** about writing
+?
+> 🧪 **Example:** The teacher asked us to put down our answers on the answer sheet.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "He put down his friend"
+?
+> 🛠️ **Correction:** Ambiguous. Could mean wrote about friend OR criticized friend. Clarify: "He wrote down his friend's number" or "He put his friend down with harsh words."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **put down** different from [[write down]]?
+?
+> ⚖️ **Difference:** "Write down" specifically means to record in writing, while "put down" has multiple meanings including placement and criticism
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **put down**: "Record your name here."
+?
+> 🔄 **Result:** Put down your name here.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'He killed the old dog.'
+?
+> 🖋️ **Improved:** "He made the choice to put down the suffering animal."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** Why use 'put down' (phrasal verb) for euthanasia?
+?
+> 🔍 **Insight:** It is a euphemism that softens the violence of 'kill', suggesting laying something to rest/sleep.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe quelling a rebellion.
+?
+> 🎬 **Narration:** "The government sent troops to put down the uprising."
+
 
 ---
 

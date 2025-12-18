@@ -105,33 +105,79 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **a prey animal**?
-**Answer::** [Indefinite Article] + [Adjective] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **a prey animal** describe?
-**Answer::** An animal that is hunted and killed by predators for food
 
-### Card 3: Usage
-**Question::** When should you use **a prey animal**?
-**Answer::** When describing animals that are hunted in the food chain or metaphorically for vulnerable entities
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **a prey animal** about nature
-**Answer::** The gazelle remained alert, aware that as a prey animal, danger could come from any direction.
+🧩 **Pattern Analysis:** What is the structure pattern for **a prey animal**?
+?
+> 🏗️ **Structure:** [Indefinite Article] + [Adjective] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The eagle is prey animal"
-**Answer::** Eagles are predators, not prey. Should be: "The mouse is a prey animal."
 
-### Card 6: Comparison
-**Question::** How is **a prey animal** different from [[a predator animal]]?
-**Answer::** A prey animal is hunted for food, while a predator animal hunts others for food
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **a prey animal**: "The deer was being hunted."
-**Answer::** The deer, a prey animal, was being hunted by wolves.
+🤔 **Meaning:** What does **a prey animal** describe?
+?
+> 📖 **Function:** An animal that is hunted and killed by predators for food
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **a prey animal**?
+?
+> 📝 **Context:** When describing animals that are hunted in the food chain or metaphorically for vulnerable entities
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **a prey animal** about nature
+?
+> 🧪 **Example:** The gazelle remained alert, aware that as a prey animal, danger could come from any direction.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The eagle is prey animal"
+?
+> 🛠️ **Correction:** Eagles are predators, not prey. Should be: "The mouse is a prey animal."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **a prey animal** different from [[a predator animal]]?
+?
+> ⚖️ **Difference:** A prey animal is hunted for food, while a predator animal hunts others for food
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **a prey animal**: "The deer was being hunted."
+?
+> 🔄 **Result:** The deer, a prey animal, was being hunted by wolves.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'The rabbit is eaten by others.'
+?
+> 🖋️ **Improved:** "The rabbit is a classic prey animal."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** Apply 'prey animal' psychology to a human context.
+?
+> 🔍 **Insight:** It describes someone who is constantly anxious, hyper-vigilant, and expects to be anchored/victimized.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a nervous employee.
+?
+> 🎬 **Narration:** "He moved through the office with the skittish energy of a prey animal."
+
 
 ---
 

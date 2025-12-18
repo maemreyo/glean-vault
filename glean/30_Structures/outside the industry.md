@@ -105,33 +105,79 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **outside the industry**?
-**Answer::** [Preposition] + [Article] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **outside the industry** express?
-**Answer::** Not belonging to or involved in a particular business sector
 
-### Card 3: Usage
-**Question::** When should you use **outside the industry**?
-**Answer::** When describing someone or something not part of a specific business sector
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **outside the industry** about innovation
-**Answer::** Many breakthrough innovations come from thinkers outside the industry.
+🧩 **Pattern Analysis:** What is the structure pattern for **outside the industry**?
+?
+> 🏗️ **Structure:** [Preposition] + [Article] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "We need ideas outside industry"
-**Answer::** Missing article. Should be: "We need ideas from outside the industry."
 
-### Card 6: Comparison
-**Question::** How is **outside the industry** different from [[within the industry]]?
-**Answer::** "Outside the industry" means not part of the sector, while "within the industry" means belonging to or inside the sector
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **outside the industry**: "The expert is not from this field."
-**Answer::** The expert is from outside the industry.
+🤔 **Meaning:** What does **outside the industry** express?
+?
+> 📖 **Function:** Not belonging to or involved in a particular business sector
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **outside the industry**?
+?
+> 📝 **Context:** When describing someone or something not part of a specific business sector
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **outside the industry** about innovation
+?
+> 🧪 **Example:** Many breakthrough innovations come from thinkers outside the industry.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "We need ideas outside industry"
+?
+> 🛠️ **Correction:** Missing article. Should be: "We need ideas from outside the industry."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **outside the industry** different from [[within the industry]]?
+?
+> ⚖️ **Difference:** "Outside the industry" means not part of the sector, while "within the industry" means belonging to or inside the sector
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **outside the industry**: "The expert is not from this field."
+?
+> 🔄 **Result:** The expert is from outside the industry.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'People who don't work here don't get it.'
+?
+> 🖋️ **Improved:** "Those outside the industry fail to grasp the nuance."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What does the spatial preposition 'outside' imply about knowledge?
+?
+> 🔍 **Insight:** It implies a boundary or barrier to entry; knowledge is 'insider' only, creating an 'us vs. them' dynamic.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a disruption coming from a non-competitor.
+?
+> 🎬 **Narration:** "The biggest threat came from a tech giant completely outside the industry."
+
 
 ---
 

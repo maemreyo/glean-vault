@@ -105,33 +105,79 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **gather together**?
-**Answer::** [Subject] + gather + together + [Optional Object]
 
-### Card 2: Meaning
-**Question::** What does **gather together** express?
-**Answer::** Bringing people or things into one place or uniting efforts
 
-### Card 3: Usage
-**Question::** When should you use **gather together**?
-**Answer::** When emphasizing collective action or bringing multiple things/people to one place
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **gather together** about family
-**Answer::** Every Sunday, our family gathers together for dinner at grandmother's house.
+🧩 **Pattern Analysis:** What is the structure pattern for **gather together**?
+?
+> 🏗️ **Structure:** [Subject] + gather + together + [Optional Object]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The people gathered together in the hall"
-**Answer::** Redundant. "Gather" already implies "together". Should be: "The people gathered in the hall."
 
-### Card 6: Comparison
-**Question::** How is **gather together** different from [[assemble]]?
-**Answer::** "Gather together" is more informal and emphasizes unity, while "assemble" is more formal and often implies organization
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **gather together**: "The team needs to unite."
-**Answer::** The team needs to gather together to face this challenge.
+🤔 **Meaning:** What does **gather together** express?
+?
+> 📖 **Function:** Bringing people or things into one place or uniting efforts
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **gather together**?
+?
+> 📝 **Context:** When emphasizing collective action or bringing multiple things/people to one place
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **gather together** about family
+?
+> 🧪 **Example:** Every Sunday, our family gathers together for dinner at grandmother's house.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The people gathered together in the hall"
+?
+> 🛠️ **Correction:** Redundant. "Gather" already implies "together". Should be: "The people gathered in the hall."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **gather together** different from [[assemble]]?
+?
+> ⚖️ **Difference:** "Gather together" is more informal and emphasizes unity, while "assemble" is more formal and often implies organization
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **gather together**: "The team needs to unite."
+?
+> 🔄 **Result:** The team needs to gather together to face this challenge.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'Everyone met in the hall.'
+?
+> 🖋️ **Improved:** "The community began to gather together in the hall."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** Is 'together' redundant? What does it add?
+?
+> 🔍 **Insight:** It is slightly redundant but emphatic. It emphasizes unity and the act of becoming a single body/group.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a protest.
+?
+> 🎬 **Narration:** "Citizens began to gather together to demand change."
+
 
 ---
 

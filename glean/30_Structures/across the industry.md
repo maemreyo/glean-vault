@@ -105,33 +105,79 @@ across the industry
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **across the industry**?
-**Answer::** across + the + industry (prepositional phrase)
 
-### Card 2: Meaning
-**Question::** What does **across the industry** express?
-**Answer::** Throughout an entire business sector or field
 
-### Card 3: Usage
-**Question::** When should you use **across the industry**?
-**Answer::** In business contexts to indicate something affects an entire sector
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **across the industry** about technology
-**Answer::** AI adoption is accelerating across the industry.
+🧩 **Pattern Analysis:** What is the structure pattern for **across the industry**?
+?
+> 🏗️ **Structure:** across + the + industry (prepositional phrase)
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "Innovation spreads across industry"
-**Answer::** Should be "Innovation spreads across the industry" (missing article)
 
-### Card 6: Comparison
-**Question::** How is **across the industry** different from **in the industry**?
-**Answer::** Across emphasizes throughout the entire sector; in just indicates location within
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **across the industry**: "All companies in this sector face the same problem"
-**Answer::** Companies across the industry face the same problem.
+🤔 **Meaning:** What does **across the industry** express?
+?
+> 📖 **Function:** Throughout an entire business sector or field
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **across the industry**?
+?
+> 📝 **Context:** In business contexts to indicate something affects an entire sector
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **across the industry** about technology
+?
+> 🧪 **Example:** AI adoption is accelerating across the industry.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "Innovation spreads across industry"
+?
+> 🛠️ **Correction:** Should be "Innovation spreads across the industry" (missing article)
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **across the industry** different from **in the industry**?
+?
+> ⚖️ **Difference:** Across emphasizes throughout the entire sector; in just indicates location within
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **across the industry**: "All companies in this sector face the same problem"
+?
+> 🔄 **Result:** Companies across the industry face the same problem.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'Everyone in the business does it.'
+?
+> 🖋️ **Improved:** "This is standard practice across the industry."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What does 'across' visualize?
+?
+> 🔍 **Insight:** It visualizes the industry as a landscape or plain, and the practice stretches from one side to the other (ubiquitous).
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a wage increase.
+?
+> 🎬 **Narration:** "Wages rose across the industry due to the labor shortage."
+
 
 ---
 

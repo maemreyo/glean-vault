@@ -115,33 +115,79 @@ the glare of endless daylight
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **the glare of endless daylight**?
-**Answer::** [Article] + [Noun] + [Preposition] + [Adjective] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **the glare of endless daylight** express?
-**Answer::** The intense, uncomfortable brightness from continuous sunlight that seems to never end
 
-### Card 3: Usage
-**Question::** When should you use **the glare of endless daylight**?
-**Answer::** In descriptive or literary contexts to evoke images of harsh, relentless brightness, especially in regions with extended daylight
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **the glare of endless daylight** about urban life
-**Answer::** Office workers often face the glare of endless daylight from floor-to-ceiling windows.
+🧩 **Pattern Analysis:** What is the structure pattern for **the glare of endless daylight**?
+?
+> 🏗️ **Structure:** [Article] + [Noun] + [Preposition] + [Adjective] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "We suffered from glare of endless daylight"
-**Answer::** Missing article. Should be: "We suffered from the glare of endless daylight."
 
-### Card 6: Comparison
-**Question::** How is **the glare of endless daylight** different from [[bright sunlight]]?
-**Answer::** The first implies overwhelming, uncomfortable intensity and duration, while the second is neutral about brightness
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **the glare of endless daylight**: "The constant bright light hurt their eyes"
-**Answer::** The glare of endless daylight hurt their eyes.
+🤔 **Meaning:** What does **the glare of endless daylight** express?
+?
+> 📖 **Function:** The intense, uncomfortable brightness from continuous sunlight that seems to never end
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **the glare of endless daylight**?
+?
+> 📝 **Context:** In descriptive or literary contexts to evoke images of harsh, relentless brightness, especially in regions with extended daylight
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **the glare of endless daylight** about urban life
+?
+> 🧪 **Example:** Office workers often face the glare of endless daylight from floor-to-ceiling windows.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "We suffered from glare of endless daylight"
+?
+> 🛠️ **Correction:** Missing article. Should be: "We suffered from the glare of endless daylight."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **the glare of endless daylight** different from [[bright sunlight]]?
+?
+> ⚖️ **Difference:** The first implies overwhelming, uncomfortable intensity and duration, while the second is neutral about brightness
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **the glare of endless daylight**: "The constant bright light hurt their eyes"
+?
+> 🔄 **Result:** The glare of endless daylight hurt their eyes.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade this: 'The sun never set and it was annoying.'
+?
+> 🖋️ **Improved:** "He struggled to sleep under the glare of endless daylight."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What emotions does 'glare' combined with 'endless' evoke?
+?
+> 🔍 **Insight:** It evokes feelings of exposure, discomfort, and no escape/respite, suggesting an oppressive environment.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Use this phrase to describe the intense scrutiny on a politician.
+?
+> 🎬 **Narration:** "The candidate withered under the glare of endless daylight from the investigative press."
+
 
 ---
 

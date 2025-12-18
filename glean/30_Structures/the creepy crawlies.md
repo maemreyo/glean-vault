@@ -105,33 +105,79 @@ the creepy crawlies
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **the creepy crawlies**?
-**Answer::** [the] + [creepy] + [crawlies] - a fixed idiomatic expression
 
-### Card 2: Meaning
-**Question::** What does **the creepy crawlies** express?
-**Answer::** Small crawling creatures that cause fear or disgust, used informally
 
-### Card 3: Usage
-**Question::** When should you use **the creepy crawlies**?
-**Answer::** In informal contexts when referring to insects, spiders, or similar creatures
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **the creepy crawlies** about camping
-**Answer::** I always check my sleeping bag for creepy crawlies before getting in.
+🧩 **Pattern Analysis:** What is the structure pattern for **the creepy crawlies**?
+?
+> 🏗️ **Structure:** [the] + [creepy] + [crawlies] - a fixed idiomatic expression
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "I saw a creepy crawlies"
-**Answer::** Should be "I saw creepy crawlies" (plural) or "I saw a creepy crawly" (singular)
 
-### Card 6: Comparison
-**Question::** How is **the creepy crawlies** different from **insects**?
-**Answer::** Creepy crawlies has negative emotional connotation, while insects is neutral/scientific
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **the creepy crawlies**: "I don't like spiders and worms"
-**Answer::** I don't like creepy crawlies.
+🤔 **Meaning:** What does **the creepy crawlies** express?
+?
+> 📖 **Function:** Small crawling creatures that cause fear or disgust, used informally
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **the creepy crawlies**?
+?
+> 📝 **Context:** In informal contexts when referring to insects, spiders, or similar creatures
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **the creepy crawlies** about camping
+?
+> 🧪 **Example:** I always check my sleeping bag for creepy crawlies before getting in.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "I saw a creepy crawlies"
+?
+> 🛠️ **Correction:** Should be "I saw creepy crawlies" (plural) or "I saw a creepy crawly" (singular)
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **the creepy crawlies** different from **insects**?
+?
+> ⚖️ **Difference:** Creepy crawlies has negative emotional connotation, while insects is neutral/scientific
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **the creepy crawlies**: "I don't like spiders and worms"
+?
+> 🔄 **Result:** I don't like creepy crawlies.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'I feeel gross looking at bugs.'
+?
+> 🖋️ **Improved:** "I get the creepy crawlies just thinking about it."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What is the physical sensation described here?
+?
+> 🔍 **Insight:** Formication: the sensation of small insects crawling on or under the skin.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a horror movie reaction.
+?
+> 🎬 **Narration:** "That movie gave me the creepy crawlies for a week."
+
 
 ---
 

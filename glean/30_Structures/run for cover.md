@@ -105,33 +105,79 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **run for cover**?
-**Answer::** [Subject] + run + for + cover
 
-### Card 2: Meaning
-**Question::** What does **run for cover** express?
-**Answer::** Urgently seeking shelter from physical danger or escaping from a difficult situation
 
-### Card 3: Usage
-**Question::** When should you use **run for cover**?
-**Answer::** When describing urgent escape from danger or avoidance of confrontation
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **run for cover** about weather
-**Answer::** The picnic was ruined when dark clouds appeared and everyone ran for cover.
+🧩 **Pattern Analysis:** What is the structure pattern for **run for cover**?
+?
+> 🏗️ **Structure:** [Subject] + run + for + cover
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The cat runned for cover"
-**Answer::** Incorrect past tense. Should be: "The cat ran for cover."
 
-### Card 6: Comparison
-**Question::** How is **run for cover** different from [[seek shelter]]?
-**Answer::** "Run for cover" implies urgent, immediate escape, while "seek shelter" is more general and less urgent
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **run for cover**: "They escaped the attacker by hiding."
-**Answer::** They ran for cover when the attacker appeared.
+🤔 **Meaning:** What does **run for cover** express?
+?
+> 📖 **Function:** Urgently seeking shelter from physical danger or escaping from a difficult situation
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **run for cover**?
+?
+> 📝 **Context:** When describing urgent escape from danger or avoidance of confrontation
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **run for cover** about weather
+?
+> 🧪 **Example:** The picnic was ruined when dark clouds appeared and everyone ran for cover.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The cat runned for cover"
+?
+> 🛠️ **Correction:** Incorrect past tense. Should be: "The cat ran for cover."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **run for cover** different from [[seek shelter]]?
+?
+> ⚖️ **Difference:** "Run for cover" implies urgent, immediate escape, while "seek shelter" is more general and less urgent
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **run for cover**: "They escaped the attacker by hiding."
+?
+> 🔄 **Result:** They ran for cover when the attacker appeared.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'Everyone hid when it started raining.'
+?
+> 🖋️ **Improved:** "Everyone had to run for cover when the storm broke."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** In a business context, what does 'run for cover' suggest about the market?
+?
+> 🔍 **Insight:** It suggests a sudden, threatening event (panic) where protection is the only priority, implying cowardice or necessary self-preservation.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a stock market crash using this phrase.
+?
+> 🎬 **Narration:** "As the index plummeted, investors abandoned their strategies and began to run for cover."
+
 
 ---
 

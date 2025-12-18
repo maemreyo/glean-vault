@@ -114,33 +114,79 @@ to divide and multiply
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **to divide and multiply**?
-**Answer::** [Infinitive Marker] + [Verb] + [Conjunction] + [Verb]
 
-### Card 2: Meaning
-**Question::** What does **to divide and multiply** express?
-**Answer::** Two complementary processes of separating into parts and then increasing in number or quantity
 
-### Card 3: Usage
-**Question::** When should you use **to divide and multiply**?
-**Answer::** In contexts describing processes that involve both separation and growth, especially in mathematical, biological, or business contexts
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **to divide and multiply** about bacteria
-**Answer::** Bacteria need to divide and multiply to form colonies.
+🧩 **Pattern Analysis:** What is the structure pattern for **to divide and multiply**?
+?
+> 🏗️ **Structure:** [Infinitive Marker] + [Verb] + [Conjunction] + [Verb]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The plan is to dividing and multiply resources"
-**Answer::** Wrong verb form. Should be: "The plan is to divide and multiply resources."
 
-### Card 6: Comparison
-**Question::** How is **to divide and multiply** different from [[to separate and combine]]?
-**Answer::** The first suggests growth through separation, while the second implies organizing and unifying different elements
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **to divide and multiply**: "The cells need to split and grow"
-**Answer::** The cells need to divide and multiply.
+🤔 **Meaning:** What does **to divide and multiply** express?
+?
+> 📖 **Function:** Two complementary processes of separating into parts and then increasing in number or quantity
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **to divide and multiply**?
+?
+> 📝 **Context:** In contexts describing processes that involve both separation and growth, especially in mathematical, biological, or business contexts
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **to divide and multiply** about bacteria
+?
+> 🧪 **Example:** Bacteria need to divide and multiply to form colonies.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The plan is to dividing and multiply resources"
+?
+> 🛠️ **Correction:** Wrong verb form. Should be: "The plan is to divide and multiply resources."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **to divide and multiply** different from [[to separate and combine]]?
+?
+> ⚖️ **Difference:** The first suggests growth through separation, while the second implies organizing and unifying different elements
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **to divide and multiply**: "The cells need to split and grow"
+?
+> 🔄 **Result:** The cells need to divide and multiply.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'Cells split to make more.'
+?
+> 🖋️ **Improved:** "Cells function to divide and multiply."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** How does this biological phrase apply to business strategy?
+?
+> 🔍 **Insight:** It suggests growth through segmentation (spinning off units) or viral expansion (users bringing more users).
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a marketing campaign's viral growth.
+?
+> 🎬 **Narration:** "The strategy was to divide and multiply the user base through referral incentives."
+
 
 ---
 

@@ -106,33 +106,79 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **in a niche market**?
-**Answer::** [Preposition] + [Article] + [Adjective] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **in a niche market** express?
-**Answer::** Operating within a specialized, targeted segment of the market
 
-### Card 3: Usage
-**Question::** When should you use **in a niche market**?
-**Answer::** When describing business strategies focused on specific market segments rather than mass markets
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **in a niche market** about startups
-**Answer::** The startup succeeded by focusing in a niche market for eco-friendly pet products.
+🧩 **Pattern Analysis:** What is the structure pattern for **in a niche market**?
+?
+> 🏗️ **Structure:** [Preposition] + [Article] + [Adjective] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "Our business targets a niche market of everyone"
-**Answer::** Contradiction. A niche market targets specific segments, not everyone. Should specify the target group.
 
-### Card 6: Comparison
-**Question::** How is **in a niche market** different from [[in the mass market]]?
-**Answer::** Niche market focuses on specific, small segments while mass market targets the general population
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **in a niche market**: "The company focuses on luxury pet accessories."
-**Answer::** The company operates in a niche market, focusing on luxury pet accessories.
+🤔 **Meaning:** What does **in a niche market** express?
+?
+> 📖 **Function:** Operating within a specialized, targeted segment of the market
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **in a niche market**?
+?
+> 📝 **Context:** When describing business strategies focused on specific market segments rather than mass markets
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **in a niche market** about startups
+?
+> 🧪 **Example:** The startup succeeded by focusing in a niche market for eco-friendly pet products.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "Our business targets a niche market of everyone"
+?
+> 🛠️ **Correction:** Contradiction. A niche market targets specific segments, not everyone. Should specify the target group.
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **in a niche market** different from [[in the mass market]]?
+?
+> ⚖️ **Difference:** Niche market focuses on specific, small segments while mass market targets the general population
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **in a niche market**: "The company focuses on luxury pet accessories."
+?
+> 🔄 **Result:** The company operates in a niche market, focusing on luxury pet accessories.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'They sell to a small group of people.'
+?
+> 🖋️ **Improved:** "They operate successfully in a niche market."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What implies 'niche' (originally an architectural recess)?
+?
+> 🔍 **Insight:** It implies a small, specialized, protected space where one fits perfectly, safe from general competition.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a specialty tea shop.
+?
+> 🎬 **Narration:** "By focusing on rare oolongs, they found a profitable home in a niche market."
+
 
 ---
 

@@ -105,33 +105,79 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **a crab spider**?
-**Answer::** [Indefinite Article] + [Adjective] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **a crab spider** describe?
-**Answer::** A spider that walks sideways like a crab and ambushes prey
 
-### Card 3: Usage
-**Question::** When should you use **a crab spider**?
-**Answer::** When referring to the Thomisidae family of spiders or their crab-like movement
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **a crab spider** about gardens
-**Answer::** A crab spider was hiding in the rose bush, waiting for insects.
+🧩 **Pattern Analysis:** What is the structure pattern for **a crab spider**?
+?
+> 🏗️ **Structure:** [Indefinite Article] + [Adjective] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The crab spider spins web"
-**Answer::** Crab spiders don't spin webs to catch prey. Should be: "The crab spider ambushes its prey."
 
-### Card 6: Comparison
-**Question::** How is **a crab spider** different from [[a black widow]]?
-**Answer::** Crab spiders walk sideways and ambush prey, while black widows build webs and are venomous
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **a crab spider**: "The spider moved sideways like a crab."
-**Answer::** A crab spider scuttled across the leaf.
+🤔 **Meaning:** What does **a crab spider** describe?
+?
+> 📖 **Function:** A spider that walks sideways like a crab and ambushes prey
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **a crab spider**?
+?
+> 📝 **Context:** When referring to the Thomisidae family of spiders or their crab-like movement
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **a crab spider** about gardens
+?
+> 🧪 **Example:** A crab spider was hiding in the rose bush, waiting for insects.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The crab spider spins web"
+?
+> 🛠️ **Correction:** Crab spiders don't spin webs to catch prey. Should be: "The crab spider ambushes its prey."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **a crab spider** different from [[a black widow]]?
+?
+> ⚖️ **Difference:** Crab spiders walk sideways and ambush prey, while black widows build webs and are venomous
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **a crab spider**: "The spider moved sideways like a crab."
+?
+> 🔄 **Result:** A crab spider scuttled across the leaf.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'The spider looked like a crab.'
+?
+> 🖋️ **Improved:** "The specimen was identified as a crab spider."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What aspect of the 'crab' is being highlighted?
+?
+> 🔍 **Insight:** The sideways movement and the shape of the front legs (pincers), suggesting ambush tactics.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a defensive posture.
+?
+> 🎬 **Narration:** "He adopted a crab spider stance, ready to snap at anyone who approached."
+
 
 ---
 

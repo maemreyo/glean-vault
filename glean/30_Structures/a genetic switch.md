@@ -107,33 +107,79 @@ a genetic switch
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **a genetic switch**?
-**Answer::** [Indefinite Article] + [Adjective] + [Noun] + [Noun] (compound noun)
 
-### Card 2: Meaning
-**Question::** What does **a genetic switch** express?
-**Answer::** A biological control mechanism that regulates gene expression or cellular processes
 
-### Card 3: Usage
-**Question::** When should you use **a genetic switch**?
-**Answer::** In scientific or academic contexts when discussing biological control mechanisms, gene regulation, or cellular differentiation
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **a genetic switch** about disease treatment
-**Answer::** Researchers are developing a genetic switch to deactivate cancer cells without harming healthy tissue.
+🧩 **Pattern Analysis:** What is the structure pattern for **a genetic switch**?
+?
+> 🏗️ **Structure:** [Indefinite Article] + [Adjective] + [Noun] + [Noun] (compound noun)
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The scientists discovered genetic switch"
-**Answer::** Missing indefinite article. Should be: "The scientists discovered a genetic switch."
 
-### Card 6: Comparison
-**Question::** How is **a genetic switch** different from [[a biological pathway]]?
-**Answer::** A genetic switch is a specific control point that turns processes on/off, while a biological pathway is a series of interconnected biochemical reactions
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **a genetic switch**: "The mechanism controls how genes are expressed"
-**Answer::** A genetic switch controls how genes are expressed.
+🤔 **Meaning:** What does **a genetic switch** express?
+?
+> 📖 **Function:** A biological control mechanism that regulates gene expression or cellular processes
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **a genetic switch**?
+?
+> 📝 **Context:** In scientific or academic contexts when discussing biological control mechanisms, gene regulation, or cellular differentiation
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **a genetic switch** about disease treatment
+?
+> 🧪 **Example:** Researchers are developing a genetic switch to deactivate cancer cells without harming healthy tissue.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The scientists discovered genetic switch"
+?
+> 🛠️ **Correction:** Missing indefinite article. Should be: "The scientists discovered a genetic switch."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **a genetic switch** different from [[a biological pathway]]?
+?
+> ⚖️ **Difference:** A genetic switch is a specific control point that turns processes on/off, while a biological pathway is a series of interconnected biochemical reactions
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **a genetic switch**: "The mechanism controls how genes are expressed"
+?
+> 🔄 **Result:** A genetic switch controls how genes are expressed.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade this sentence: 'Scientists found a way to turn the gene on.'
+?
+> 🖋️ **Improved:** "Scientists discovered a genetic switch to activate the gene."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What does 'switch' imply about the control mechanism?
+?
+> 🔍 **Insight:** 'Switch' implies a binary control (on/off) that is distinct and decisive, rather than a gradual dial.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a sudden change in a person's behavior using this structure.
+?
+> 🎬 **Narration:** "It was as if a genetic switch had been flipped, transforming his personality overnight."
+
 
 ---
 

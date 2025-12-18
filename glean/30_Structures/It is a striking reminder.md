@@ -114,33 +114,79 @@ It is a striking reminder
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **It is a striking reminder**?
-**Answer::** [Pronoun] + [Linking Verb] + [Article] + [Adjective] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **It is a striking reminder** express?
-**Answer::** That something strongly and memorably indicates or brings to mind an important fact or truth
 
-### Card 3: Usage
-**Question::** When should you use **It is a striking reminder**?
-**Answer::** When you want to emphasize that something serves as a powerful or impressive evidence of a particular truth, lesson, or historical fact
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **It is a striking reminder** about environmental issues
-**Answer::** The melting glaciers are a striking reminder of climate change's immediate impact.
+🧩 **Pattern Analysis:** What is the structure pattern for **It is a striking reminder**?
+?
+> 🏗️ **Structure:** [Pronoun] + [Linking Verb] + [Article] + [Adjective] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The monument is striking reminder of our history"
-**Answer::** Missing article. Should be: "The monument is a striking reminder of our history."
 
-### Card 6: Comparison
-**Question::** How is **It is a striking reminder** different from [[It is worth remembering]]?
-**Answer::** "Striking reminder" emphasizes something's powerful impact as evidence, while "worth remembering" suggests value but less intensity
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **It is a striking reminder**: "These old buildings really show us our architectural heritage"
-**Answer::** It is a striking reminder of our architectural heritage.
+🤔 **Meaning:** What does **It is a striking reminder** express?
+?
+> 📖 **Function:** That something strongly and memorably indicates or brings to mind an important fact or truth
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **It is a striking reminder**?
+?
+> 📝 **Context:** When you want to emphasize that something serves as a powerful or impressive evidence of a particular truth, lesson, or historical fact
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **It is a striking reminder** about environmental issues
+?
+> 🧪 **Example:** The melting glaciers are a striking reminder of climate change's immediate impact.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The monument is striking reminder of our history"
+?
+> 🛠️ **Correction:** Missing article. Should be: "The monument is a striking reminder of our history."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **It is a striking reminder** different from [[It is worth remembering]]?
+?
+> ⚖️ **Difference:** "Striking reminder" emphasizes something's powerful impact as evidence, while "worth remembering" suggests value but less intensity
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **It is a striking reminder**: "These old buildings really show us our architectural heritage"
+?
+> 🔄 **Result:** It is a striking reminder of our architectural heritage.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'This makes me remember that nature is strong.'
+?
+> 🖋️ **Improved:** "It is a striking reminder of the power of nature."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What does 'striking' add to 'reminder'?
+?
+> 🔍 **Insight:** It suggests the reminder is sudden, forceful, and impossible to ignore, like a physical blow or a lightning strike.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Use this to describe a photo of a war zone.
+?
+> 🎬 **Narration:** "The image is a striking reminder of the human cost of conflict."
+
 
 ---
 

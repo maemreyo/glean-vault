@@ -105,33 +105,79 @@ carry sb|st around
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **carry sb/st around**?
-**Answer::** [Subject] + carry + [object] + around (separable phrasal verb)
 
-### Card 2: Meaning
-**Question::** What does **carry sb/st around** express?
-**Answer::** To transport something/someone to various places, or to keep something constantly
 
-### Card 3: Usage
-**Question::** When should you use **carry sb/st around**?
-**Answer::** For physical carrying or figurative possession of burdens/memories
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **carry sb/st around** about a pet
-**Answer::** The little girl carries her kitten around like a toy.
+🧩 **Pattern Analysis:** What is the structure pattern for **carry sb/st around**?
+?
+> 🏗️ **Structure:** [Subject] + carry + [object] + around (separable phrasal verb)
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "He carries around always his phone"
-**Answer::** Should be "He always carries his phone around" (adverb placement)
 
-### Card 6: Comparison
-**Question::** How is **carry around** different from **bring along**?
-**Answer::** Carry around implies continuous possession in various places; bring along is for specific occasions
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **carry around**: "She always has her camera with her"
-**Answer::** She always carries her camera around.
+🤔 **Meaning:** What does **carry sb/st around** express?
+?
+> 📖 **Function:** To transport something/someone to various places, or to keep something constantly
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **carry sb/st around**?
+?
+> 📝 **Context:** For physical carrying or figurative possession of burdens/memories
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **carry sb/st around** about a pet
+?
+> 🧪 **Example:** The little girl carries her kitten around like a toy.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "He carries around always his phone"
+?
+> 🛠️ **Correction:** Should be "He always carries his phone around" (adverb placement)
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **carry around** different from **bring along**?
+?
+> ⚖️ **Difference:** Carry around implies continuous possession in various places; bring along is for specific occasions
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **carry around**: "She always has her camera with her"
+?
+> 🔄 **Result:** She always carries her camera around.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'He always has guilt.'
+?
+> 🖋️ **Improved:** "He carries around a lot of guilt."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** How does this differ from just 'having' an emotion?
+?
+> 🔍 **Insight:** It physicalizes the emotion as unnecessary luggage/baggage that burdens the person wherever they go.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a grudge.
+?
+> 🎬 **Narration:** "It's unhealthy to carry around that grudge for so many years."
+
 
 ---
 

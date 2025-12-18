@@ -112,33 +112,79 @@ visual sensitivity
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **visual sensitivity**?
-**Answer::** [Adjective] + [Noun] (compound noun)
 
-### Card 2: Meaning
-**Question::** What does **visual sensitivity** express?
-**Answer::** The degree of responsiveness or sensitivity to visual stimuli and light
 
-### Card 3: Usage
-**Question::** When should you use **visual sensitivity**?
-**Answer::** In medical, scientific, or technical contexts when discussing how eyes or vision respond to light, colors, or visual stimuli
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **visual sensitivity** about photography
-**Answer::** Professional photographers need excellent visual sensitivity to capture perfect exposures.
+🧩 **Pattern Analysis:** What is the structure pattern for **visual sensitivity**?
+?
+> 🏗️ **Structure:** [Adjective] + [Noun] (compound noun)
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The condition affects sensitivity visual"
-**Answer::** Wrong word order. Should be: "The condition affects visual sensitivity."
 
-### Card 6: Comparison
-**Question::** How is **visual sensitivity** different from [[visual acuity]]?
-**Answer::** Sensitivity is responsiveness to stimuli, while acuity is sharpness or clarity of vision
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **visual sensitivity**: "His eyes are very sensitive to light"
-**Answer::** He has high visual sensitivity.
+🤔 **Meaning:** What does **visual sensitivity** express?
+?
+> 📖 **Function:** The degree of responsiveness or sensitivity to visual stimuli and light
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **visual sensitivity**?
+?
+> 📝 **Context:** In medical, scientific, or technical contexts when discussing how eyes or vision respond to light, colors, or visual stimuli
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **visual sensitivity** about photography
+?
+> 🧪 **Example:** Professional photographers need excellent visual sensitivity to capture perfect exposures.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The condition affects sensitivity visual"
+?
+> 🛠️ **Correction:** Wrong word order. Should be: "The condition affects visual sensitivity."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **visual sensitivity** different from [[visual acuity]]?
+?
+> ⚖️ **Difference:** Sensitivity is responsiveness to stimuli, while acuity is sharpness or clarity of vision
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **visual sensitivity**: "His eyes are very sensitive to light"
+?
+> 🔄 **Result:** He has high visual sensitivity.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'His eyes are good at seeing light.'
+?
+> 🖋️ **Improved:** "He has high visual sensitivity to subtle changes in light."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** Apply 'sensitivity' to a social context.
+?
+> 🔍 **Insight:** It implies an ability to detect very slight or nuanced cues that others might miss.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a designer's eye for detail.
+?
+> 🎬 **Narration:** "Her visual sensitivity allowed her to spot the mismatching hex codes instantly."
+
 
 ---
 

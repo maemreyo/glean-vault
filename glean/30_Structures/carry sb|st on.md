@@ -105,33 +105,80 @@ carry sb|st on
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **carry sb/st on**?
-**Answer::** [Subject] + carry + [optional object] + on (separable phrasal verb)
 
-### Card 2: Meaning
-**Question::** What does **carry sb/st on** express?
-**Answer::** Three main meanings: 1) Physical transport, 2) Continue doing something, 3) Have an affair
 
-### Card 3: Usage
-**Question::** When should you use **carry sb/st on**?
-**Answer::** Depends on meaning: physical support, continuation, or secret relationship
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **carry on** about continuing work
-**Answer::** Despite the difficulties, we must carry on with the project.
+🧩 **Pattern Analysis:** What is the structure pattern for **carry sb/st on**?
+?
+> 🏗️ **Structure:** [Subject] + carry + [optional object] + on (separable phrasal verb)
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "She carried on him the heavy box"
-**Answer::** Should be "She carried the heavy box" or "She carried him" (not both)
 
-### Card 6: Comparison
-**Question::** How is **carry on** different from **continue**?
-**Answer::** Carry on is phrasal verb (informal), continue is single verb (formal)
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **carry on**: "Please continue your presentation"
-**Answer::** Please carry on with your presentation.
+🤔 **Meaning:** What does **carry sb/st on** express?
+?
+> 📖 **Function:** Three main meanings: 1) Physical transport, 2) Continue doing something, 3) Have an affair
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **carry sb/st on**?
+?
+> 📝 **Context:** Depends on meaning: physical support, continuation, or secret relationship
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **carry on** about continuing work
+?
+> 🧪 **Example:** Despite the difficulties, we must carry on with the project.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "She carried on him the heavy box"
+?
+> 🛠️ **Correction:** Should be "She carried the heavy box" or "She carried him" (not both)
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **carry on** different from **continue**?
+?
+> ⚖️ **Difference:** Carry on is phrasal verb (informal), continue is single verb (formal)
+<!--SR:!2025-12-19,1,230-->
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **carry on**: "Please continue your presentation"
+?
+> 🔄 **Result:** Please carry on with your presentation.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'He continued his father's work.'
+?
+> 🖋️ **Improved:** "He vowed to carry on his father's legacy."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What does 'carry' imply about the task?
+?
+> 🔍 **Insight:** It implies the task has weight/burden and requires effort to transport into the future.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a tradition.
+?
+> 🎬 **Narration:** "We carry on this tradition to honor our ancestors."
+
 
 ---
 

@@ -105,33 +105,79 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **throughout the industry**?
-**Answer::** [Preposition] + [Article] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **throughout the industry** express?
-**Answer::** Complete coverage or presence in every part of an industry
 
-### Card 3: Usage
-**Question::** When should you use **throughout the industry**?
-**Answer::** When describing something that affects or exists in all parts of a business sector
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **throughout the industry** about technology
-**Answer::** Artificial intelligence is being adopted throughout the industry.
+🧩 **Pattern Analysis:** What is the structure pattern for **throughout the industry**?
+?
+> 🏗️ **Structure:** [Preposition] + [Article] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "Changes are happening throughout industry"
-**Answer::** Missing article. Should be: "Changes are happening throughout the industry."
 
-### Card 6: Comparison
-**Question::** How is **throughout the industry** different from [[within the industry]]?
-**Answer::** "Throughout" implies complete coverage, while "within" just means inside, not necessarily everywhere
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **throughout the industry**: "All companies in this sector face the same challenge."
-**Answer::** The challenge exists throughout the industry.
+🤔 **Meaning:** What does **throughout the industry** express?
+?
+> 📖 **Function:** Complete coverage or presence in every part of an industry
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **throughout the industry**?
+?
+> 📝 **Context:** When describing something that affects or exists in all parts of a business sector
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **throughout the industry** about technology
+?
+> 🧪 **Example:** Artificial intelligence is being adopted throughout the industry.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "Changes are happening throughout industry"
+?
+> 🛠️ **Correction:** Missing article. Should be: "Changes are happening throughout the industry."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **throughout the industry** different from [[within the industry]]?
+?
+> ⚖️ **Difference:** "Throughout" implies complete coverage, while "within" just means inside, not necessarily everywhere
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **throughout the industry**: "All companies in this sector face the same challenge."
+?
+> 🔄 **Result:** The challenge exists throughout the industry.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'Everywhere in the business.'
+?
+> 🖋️ **Improved:** "Panic spread throughout the industry."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** Difference between 'across' and 'throughout'?
+?
+> 🔍 **Insight:** 'Across' suggests surface coverage (spanning). 'Throughout' suggests depth/saturation (every nook and cranny).
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a scandal.
+?
+> 🎬 **Narration:** "The corruption scandal reverberated throughout the industry."
+
 
 ---
 

@@ -112,33 +112,79 @@ low-light condition
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **low-light condition**?
-**Answer::** [Hyphenated Compound Adjective] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **low-light condition** express?
-**Answer::** An environment or situation with minimal illumination, insufficient light
 
-### Card 3: Usage
-**Question::** When should you use **low-light condition**?
-**Answer::** In technical, scientific, or formal contexts when describing environments with insufficient light for various purposes
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **low-light condition** about security
-**Answer::** Security cameras now use infrared technology to monitor in low-light conditions.
+🧩 **Pattern Analysis:** What is the structure pattern for **low-light condition**?
+?
+> 🏗️ **Structure:** [Hyphenated Compound Adjective] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "The restaurant creates a low light condition for ambiance"
-**Answer::** Missing hyphen. Should be: "The restaurant creates a low-light condition for ambiance."
 
-### Card 6: Comparison
-**Question::** How is **low-light condition** different from [[darkness]]?
-**Answer::** Low-light implies some light is present but insufficient, while darkness means complete absence of light
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **low-light condition**: "The room doesn't have enough light"
-**Answer::** The room has low-light conditions.
+🤔 **Meaning:** What does **low-light condition** express?
+?
+> 📖 **Function:** An environment or situation with minimal illumination, insufficient light
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **low-light condition**?
+?
+> 📝 **Context:** In technical, scientific, or formal contexts when describing environments with insufficient light for various purposes
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **low-light condition** about security
+?
+> 🧪 **Example:** Security cameras now use infrared technology to monitor in low-light conditions.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "The restaurant creates a low light condition for ambiance"
+?
+> 🛠️ **Correction:** Missing hyphen. Should be: "The restaurant creates a low-light condition for ambiance."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **low-light condition** different from [[darkness]]?
+?
+> ⚖️ **Difference:** Low-light implies some light is present but insufficient, while darkness means complete absence of light
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **low-light condition**: "The room doesn't have enough light"
+?
+> 🔄 **Result:** The room has low-light conditions.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'It was dark.'
+?
+> 🖋️ **Improved:** "The camera struggled in the low-light condition."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** Is this a metaphor? Or technical precision?
+?
+> 🔍 **Insight:** It is technical precision (euphemistic for 'dark'), often used to strip emotion or emphasize technical limitation.
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a stealth operation.
+?
+> 🎬 **Narration:** "The operatives were trained to fight effectively in low-light conditions."
+
 
 ---
 

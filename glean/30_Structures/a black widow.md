@@ -105,33 +105,79 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **a black widow**?
-**Answer::** [Indefinite Article] + [Adjective] + [Noun]
 
-### Card 2: Meaning
-**Question::** What does **a black widow** express?
-**Answer::** A specific species of venomous spider, metaphorically something dangerous
 
-### Card 3: Usage
-**Question::** When should you use **a black widow**?
-**Answer::** When referring to the spider species or using it metaphorically for dangerous entities
+**Card 1: Pattern Recognition**
 
-### Card 4: Example
-**Question::** Create a sentence with **a black widow** about nature
-**Answer::** The garden had several spiders, including a black widow near the woodpile.
+🧩 **Pattern Analysis:** What is the structure pattern for **a black widow**?
+?
+> 🏗️ **Structure:** [Indefinite Article] + [Adjective] + [Noun]
 
-### Card 5: Error Correction
-**Question::** What's wrong with: "I saw black widow in garden"
-**Answer::** Missing article. Should be: "I saw a black widow in the garden."
 
-### Card 6: Comparison
-**Question::** How is **a black widow** different from [[a tarantula]]?
-**Answer::** Black widow is smaller but more venomous, while tarantulas are larger but less dangerous to humans
+**Card 2: Meaning**
 
-### Card 7: Transformation
-**Question::** Transform this sentence using **a black widow**: "The spider was dangerous and black."
-**Answer::** I saw a black widow near the rocks.
+🤔 **Meaning:** What does **a black widow** express?
+?
+> 📖 **Function:** A specific species of venomous spider, metaphorically something dangerous
+
+
+**Card 3: Usage**
+
+❓ **Usage:** When should you use **a black widow**?
+?
+> 📝 **Context:** When referring to the spider species or using it metaphorically for dangerous entities
+
+
+**Card 4: Example**
+
+✍️ **Production:** Create a sentence with **a black widow** about nature
+?
+> 🧪 **Example:** The garden had several spiders, including a black widow near the woodpile.
+
+
+**Card 5: Error Correction**
+
+🕵️ **Spot the Error:** What's wrong with: "I saw black widow in garden"
+?
+> 🛠️ **Correction:** Missing article. Should be: "I saw a black widow in the garden."
+
+
+**Card 6: Comparison**
+
+🆚 **Comparison:** How is **a black widow** different from [[a tarantula]]?
+?
+> ⚖️ **Difference:** Black widow is smaller but more venomous, while tarantulas are larger but less dangerous to humans
+
+
+**Card 7: Transformation**
+
+🔄 **Transformation:** Transform this sentence using **a black widow**: "The spider was dangerous and black."
+?
+> 🔄 **Result:** I saw a black widow near the rocks.
+>
+
+
+**Card 8: Writer's Rewrite**
+
+✍️ **Rewrite:** Upgrade: 'She is a dangerous woman.'
+?
+> 🖋️ **Improved:** "The media labeled her a black widow."
+> 💡 **Effect:** Shifts register to more precise or evocative language.
+
+
+**Card 9: Metaphor Deconstruction**
+
+🧩 **Deconstruct:** What specific danger does 'black widow' imply?
+?
+> 🔍 **Insight:** It implies a female who lures males into intimacy and then destroys/kills them (femme fatale).
+
+
+**Card 10: Scenario Application**
+
+🎭 **Scenario:** Describe a character in a noir film.
+?
+> 🎬 **Narration:** "She played the role of the black widow who ensnared the detective."
+
 
 ---
 
