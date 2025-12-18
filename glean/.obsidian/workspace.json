@@ -8,17 +8,143 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8d588603192b322",
+            "id": "ac430e7b209140fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Structures/across the industry.md",
+                "file": "30_Structures/gather together.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "across the industry"
+              "title": "gather together"
+            }
+          },
+          {
+            "id": "9e0b934c83fe9d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Structures/run for cover.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "run for cover"
+            }
+          },
+          {
+            "id": "0d69d2a6e547a331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Structures/put down.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "put down"
+            }
+          },
+          {
+            "id": "2997abd1a3af876a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Structures/outside the industry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "outside the industry"
+            }
+          },
+          {
+            "id": "2a89f5092b15f4bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Structures/in a niche market.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "in a niche market"
+            }
+          },
+          {
+            "id": "e756a73ba4f7700c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Structures/within the sector.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "within the sector"
+            }
+          },
+          {
+            "id": "3cec21cfc73fad89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Structures/throughout the industry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "throughout the industry"
+            }
+          },
+          {
+            "id": "b3bd3f6eaf8de9e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Structures/a crab spider.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a crab spider"
+            }
+          },
+          {
+            "id": "0ae9456f4954724e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Structures/a prey animal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a prey animal"
+            }
+          },
+          {
+            "id": "288e3be7489a75d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Structures/a black widow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a black widow"
             }
           }
         ]
@@ -206,35 +332,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8d588603192b322",
+  "active": "5c98256179590bd2",
   "lastOpenFiles": [
-    "30_Structures/to chart a path forward.md",
-    "30_Structures/across the industry.md",
-    "30_Structures/carry sb|st around.md",
-    "30_Structures/carry sb|st on.md",
+    "30_Structures/larva.md",
+    "30_Structures/vermin.md",
+    "30_Structures/converge.md",
+    "30_Structures/cocoon.md",
+    "30_Structures/bugs.md",
     "30_Structures/eggsac.md",
-    "30_Structures/scatter in all directions.md",
     "30_Structures/the creepy crawlies.md",
+    "30_Structures/scatter in all directions.md",
+    "30_Structures/disperse.md",
+    "30_Structures/gather together.md",
+    "30_Structures/run for cover.md",
+    "30_Structures/put down.md",
+    "30_Structures/outside the industry.md",
+    "30_Structures/carry sb|st on.md",
+    "30_Structures/carry sb|st around.md",
+    "take sb/st around.md",
+    "take sb",
+    "30_Structures/across the industry.md",
+    "30_Structures/in a niche market.md",
+    "30_Structures/within the sector.md",
+    "30_Structures/throughout the industry.md",
     "30_Structures/a wolf spider.md",
+    "30_Structures/a crab spider.md",
+    "30_Structures/a prey animal.md",
+    "30_Structures/a black widow.md",
+    "30_Structures/to chart a path forward.md",
     "30_Structures/carry somebody/something on.md",
     "30_Structures/carry somebody",
-    "20_Vocabulary/demotivate.md",
-    "20_Vocabulary/motive.md",
-    "20_Vocabulary/deter.md",
-    "20_Vocabulary/demoralize.md",
-    "20_Vocabulary/demonstration.md",
-    "20_Vocabulary/courage.md",
-    "20_Vocabulary/timidity.md",
-    "20_Vocabulary/guts.md",
-    "20_Vocabulary/bravery.md",
-    "20_Vocabulary/containment.md",
-    "20_Vocabulary/spread.md",
-    "20_Vocabulary/expansion.md",
-    "20_Vocabulary/isolation.md",
-    "20_Vocabulary/restriction.md",
-    "20_Vocabulary/containerize.md",
-    "20_Vocabulary/container.md",
-    "20_Vocabulary/contain.md",
     "20_Vocabulary/testable.md.tmp.46973.1765991254406",
     "20_Vocabulary/assessment.md.tmp.46973.1765991169940",
     "Untitled.canvas",
@@ -243,7 +370,6 @@
     "99_Tools",
     "Clippings",
     "99_Templates/tpl_Vocabulary.md.bak",
-    "99_System",
-    "99_Templates"
+    "99_System"
   ]
 }
