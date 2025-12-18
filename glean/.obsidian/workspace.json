@@ -13,12 +13,320 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Sources/Articles/UK launches taskforce to 'break down barriers' for women in tech.md",
+                "file": "20_Vocabulary/contain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UK launches taskforce to 'break down barriers' for women in tech"
+              "title": "contain"
+            }
+          },
+          {
+            "id": "3a8a9c7042c3c012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/containment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "containment"
+            }
+          },
+          {
+            "id": "cf21086ecd515cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/container.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "container"
+            }
+          },
+          {
+            "id": "7db769b96333d8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/confirmation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "confirmation"
+            }
+          },
+          {
+            "id": "076640228e3bc64a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/examination.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "examination"
+            }
+          },
+          {
+            "id": "689037105de66e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/spill.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spill"
+            }
+          },
+          {
+            "id": "5b341ed45c6e3b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/dishearten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dishearten"
+            }
+          },
+          {
+            "id": "4a731fd1a14d0c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/demotivate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "demotivate"
+            }
+          },
+          {
+            "id": "86b8bd937f599f7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/guarantee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "guarantee"
+            }
+          },
+          {
+            "id": "61aca9ba07d93619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/proof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "proof"
+            }
+          },
+          {
+            "id": "a9c9a69ee868c7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/assessment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "assessment"
+            }
+          },
+          {
+            "id": "b580c31e40962edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/trial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trial"
+            }
+          },
+          {
+            "id": "6e6bf2c04a7912fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/testimony.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "testimony"
+            }
+          },
+          {
+            "id": "fd5b1c33d75146a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/testament.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "testament"
+            }
+          },
+          {
+            "id": "c3cac5d47a1e88b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/testable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "testable"
+            }
+          },
+          {
+            "id": "d560d13dd0ac7f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/exclude.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exclude"
+            }
+          },
+          {
+            "id": "e1ba146a35fa6e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/release.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "release"
+            }
+          },
+          {
+            "id": "356684d77722b2e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/enclose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "enclose"
+            }
+          },
+          {
+            "id": "4c4e77317c531337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/hold.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hold"
+            }
+          },
+          {
+            "id": "86d555c6ca003636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/include.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "include"
+            }
+          },
+          {
+            "id": "895ce79de71a00c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/discourage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "discourage"
+            }
+          },
+          {
+            "id": "4e756f93682c1686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/inspire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inspire"
+            }
+          },
+          {
+            "id": "78450c390bada10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/motivate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "motivate"
             }
           }
         ]
@@ -206,35 +514,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c98256179590bd2",
+  "active": "f2a4636a262e84b5",
   "lastOpenFiles": [
-    "20_Vocabulary/contain.md",
+    "20_Vocabulary/testable.md.tmp.46973.1765991254406",
+    "20_Vocabulary/assessment.md.tmp.46973.1765991169940",
+    "20_Vocabulary/containment.md",
+    "20_Vocabulary/container.md",
     "20_Vocabulary/test.md",
-    "30_Structures/to chart a path forward.md",
-    "30_Structures/across the industry.md",
+    "20_Vocabulary/confirmation.md",
+    "20_Vocabulary/examination.md",
+    "20_Vocabulary/release.md",
+    "20_Vocabulary/motivate.md",
+    "20_Vocabulary/contain.md",
+    "20_Vocabulary/spill.md",
     "20_Vocabulary/encourage.md",
-    "10_Sources/Articles/What's next for TikTok in the US as deal prospects remain uncertain?.md",
-    "99_Templates/tpl_Vocabulary.md",
-    "99_Templates/tpl_Vocabulary-v1.md",
-    "99_Templates/tpl_Structure.md",
-    "99_Templates/tpl_Structure-v1.md",
-    "99_Templates/tpl_Source_Input.md",
-    "20_Vocabulary/sediment.md",
-    "30_Structures/the precious object.md",
-    "20_Vocabulary/restoration.md",
-    "30_Structures/the excavation storeroom.md",
-    "30_Structures/a very expensive high-end gift.md",
-    "20_Vocabulary/magnificent.md",
-    "99_Templates/tpl_Source_Input copy.md",
-    "30_Structures/block for.md",
-    "10_Sources/Videos/Untitled.md",
+    "20_Vocabulary/dishearten.md",
+    "20_Vocabulary/demotivate.md",
+    "20_Vocabulary/testable.md",
+    "20_Vocabulary/testament.md",
+    "20_Vocabulary/testimony.md",
+    "20_Vocabulary/guarantee.md",
+    "20_Vocabulary/proof.md",
+    "20_Vocabulary/assessment.md",
+    "20_Vocabulary/trial.md",
+    "20_Vocabulary/exclude.md",
+    "20_Vocabulary/enclose.md",
+    "20_Vocabulary/hold.md",
+    "20_Vocabulary/include.md",
+    "20_Vocabulary/discourage.md",
+    "20_Vocabulary/inspire.md",
     "Untitled.canvas",
-    "2025-12-17.md",
-    "10_Sources/Articles/Facebook.md",
-    "30_Structures/shut down.md",
-    "30_Structures/part of a group of investors.md",
-    "30_Structures/formalize in.md",
-    "30_Structures/involve in.md",
     "99_Tools/scripts/word-count-handler.js",
     "99_Tools/scripts",
     "99_Tools",
@@ -243,7 +552,6 @@
     "99_System",
     "99_Templates",
     "30_Structures",
-    "20_Vocabulary",
-    "10_Sources/Videos"
+    "20_Vocabulary"
   ]
 }
