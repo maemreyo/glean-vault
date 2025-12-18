@@ -11,10 +11,14 @@
             "id": "d8d588603192b322",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "30_Structures/across the industry.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "across the industry"
             }
           }
         ]
@@ -204,15 +208,16 @@
   },
   "active": "d8d588603192b322",
   "lastOpenFiles": [
-    "30_Structures/the creepy crawlies.md",
+    "30_Structures/to chart a path forward.md",
+    "30_Structures/across the industry.md",
     "30_Structures/carry sb|st around.md",
-    "30_Structures/eggsac.md",
-    "30_Structures/a wolf spider.md",
-    "30_Structures/scatter in all directions.md",
     "30_Structures/carry sb|st on.md",
+    "30_Structures/eggsac.md",
+    "30_Structures/scatter in all directions.md",
+    "30_Structures/the creepy crawlies.md",
+    "30_Structures/a wolf spider.md",
     "30_Structures/carry somebody/something on.md",
     "30_Structures/carry somebody",
-    "30_Structures/across the industry.md",
     "20_Vocabulary/demotivate.md",
     "20_Vocabulary/motive.md",
     "20_Vocabulary/deter.md",
@@ -230,7 +235,6 @@
     "20_Vocabulary/containerize.md",
     "20_Vocabulary/container.md",
     "20_Vocabulary/contain.md",
-    "20_Vocabulary/confirmation.md",
     "20_Vocabulary/testable.md.tmp.46973.1765991254406",
     "20_Vocabulary/assessment.md.tmp.46973.1765991169940",
     "Untitled.canvas",
