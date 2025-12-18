@@ -5,131 +5,133 @@ tags:
   - grammar
 mastery: 🔴 New
 type: structure
-status: pending
+status: done
 ---
 
 > [!info] Structural Analysis
-> **Structure Type:** (Question / Statement / Idiom / Pattern)
-> 
+> **Structure Type:** Prepositional Phrase (Preposition + Article + Noun)
+>
 > **Formula / Pattern:**
 > ```text
-> [Subject] + [Verb] + ...
+> throughout + the + industry
 > ```
-> 
+>
 > **Components:**
-> - **Component 1:** ...
-> - **Component 2:** ...
+> - **Preposition (throughout):** Indicates distribution across entire area
+> - **Article (the):** Definite article specifying particular industry
+> - **Noun (industry):** Business sector or field of activity
 >
 > **Formation Rules:**
-> 1. Rule 1...
-> 2. Rule 2...
+> 1. "Throughout" always requires "the" when referring to specific areas
+> 2. Functions as adverbial phrase showing location/scope
+> 3. Emphasizes complete coverage or prevalence
 
 > [!abstract] Meaning & Usage
 > **Core Meaning:**
-> - **Literal:** ...
-> - **Figurative:** ...
-> 
+> - **Literal:** In every part of the industry
+> - **Figurative:** Across all segments or aspects of a business sector
+>
 > **Functional Meaning:**
-> - **Purpose:** (e.g., to emphasize, to suggest)
-> - **Nuance:** (formal vs informal, intensity)
-> 
+> - **Purpose:** To indicate comprehensive scope or universal presence
+> - **Nuance:** Emphasizes totality and completeness
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** trong suốt ngành công nghiệp
+> - **Contextual:** trên toàn ngành, khắp nơi trong ngành
 
 > [!note] Relations & Connections
 > **Synonyms / Similar Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[across the industry]]: Spanning the entire industry
+> - [[within the industry]]: Inside the industry (less comprehensive)
+>
 > **Antonyms / Contrasting Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[outside the industry]]: Not part of the industry
+> - [[in isolated sectors]]: Limited to specific areas
 
 > [!success] Usage Examples
-> 
+
 > **1. Formal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** The new regulations will have an impact throughout the industry.
+> - **Translation:** Các quy định mới sẽ có tác động trên toàn ngành.
+> - **Analysis:** Formal announcement about widespread regulatory effects
+
 > **2. Informal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** Rumors about layoffs are spreading throughout the industry.
+> - **Translation:** Tin đồn về việc sa thải đang lan rộng khắp ngành.
+> - **Analysis:** Casual discussion about industry-wide concerns
+
 > **3. Business/Academic Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
+> - **Sentence:** Technological innovation has transformed practices throughout the industry.
+> - **Translation:** Đổi mới công nghệ đã biến đổi các hoạt động trên toàn ngành.
+> - **Analysis:** Academic observation about comprehensive industry changes
 
 > [!failure] Common Mistakes
-> 
+
 > **1. Pattern Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
-> 
+> - ❌ **Mistake:** The trend is spreading throughout industry.
+> - ✅ **Correction:** The trend is spreading throughout the industry.
+> - **Why:** Missing definite article "the"
+
 > **2. Usage Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Throughout the industry, only one company succeeded.
+> - **Correction:** Despite the challenges throughout the industry, only one company succeeded.
+> - **Why:** Create logical connection between phrases
 
 > [!tip] Learning Strategies
-> - **Visual Association:** ...
-> - **Memory Hook:** ...
-> - **Common Collocations:** ...
-> - **Related Structures:** [[ ]] vs [[ ]]
+> - **Visual Association:** Picture ripples spreading across water, covering entire surface
+> - **Memory Hook:** "Through" + "out" = passing through and extending out of every part
+> - **Common Collocations:** known throughout, felt throughout, recognized throughout
+> - **Related Structures:** [[across the sector]] vs [[within the field]]
 
 > [!quote]- Meta Information
 > | Property | Value |
 > | :--- | :--- |
-> | **Complexity** | (basic/intermediate/advanced) |
-> | **CEFR Level** | (A1/A2/B1/B2/C1/C2) |
-> | **Frequency** | (common/uncommon/rare) |
-> | **Register** | (formal/informal/academic/business) |
-> | **Grammar Focus** | ... |
+> | **Complexity** | intermediate |
+> | **CEFR Level** | B1 |
+> | **Frequency** | common |
+> | **Register** | formal/business |
+> | **Grammar Focus** | Prepositional Phrase |
 
 ---
 
 ## 🧩 Context Analysis (Advanced)
 
 > [!example] Original Source
-> **Quote:** ...
-> **Context:** ...
-> **Effectiveness:** ...
+> **Quote:** "The shortage of skilled workers is being felt throughout the industry, affecting productivity at all levels."
+> **Context:** Economic report on labor market challenges
+> **Effectiveness:** Clearly illustrates widespread impact of workforce issues
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **{{STRUCTURE_NAME}}**?
-**Answer::**
+**Question::** What is the structure pattern for **throughout the industry**?
+**Answer::** [Preposition] + [Article] + [Noun]
 
 ### Card 2: Meaning
-**Question::** What does **{{STRUCTURE_NAME}}** express?
-**Answer::**
+**Question::** What does **throughout the industry** express?
+**Answer::** Complete coverage or presence in every part of an industry
 
 ### Card 3: Usage
-**Question::** When should you use **{{STRUCTURE_NAME}}**?
-**Answer::**
+**Question::** When should you use **throughout the industry**?
+**Answer::** When describing something that affects or exists in all parts of a business sector
 
 ### Card 4: Example
-**Question::** Create a sentence with **{{STRUCTURE_NAME}}** about [topic]
-**Answer::**
+**Question::** Create a sentence with **throughout the industry** about technology
+**Answer::** Artificial intelligence is being adopted throughout the industry.
 
 ### Card 5: Error Correction
-**Question::** What's wrong with: [incorrect example]
-**Answer::**
+**Question::** What's wrong with: "Changes are happening throughout industry"
+**Answer::** Missing article. Should be: "Changes are happening throughout the industry."
 
 ### Card 6: Comparison
-**Question::** How is **{{STRUCTURE_NAME}}** different from [similar structure]?
-**Answer::**
+**Question::** How is **throughout the industry** different from [[within the industry]]?
+**Answer::** "Throughout" implies complete coverage, while "within" just means inside, not necessarily everywhere
 
 ### Card 7: Transformation
-**Question::** Transform this sentence using **{{STRUCTURE_NAME}}**: [sentence]
-**Answer::**
+**Question::** Transform this sentence using **throughout the industry**: "All companies in this sector face the same challenge."
+**Answer::** The challenge exists throughout the industry.
 
 ---
 
@@ -142,4 +144,6 @@ status: pending
 - [ ] Can avoid common errors
 
 **Personal Notes:**
-- ...
+- Always use "the" after "throughout" for specific industries
+- Emphasizes completeness and universality
+- Common in business and academic writing

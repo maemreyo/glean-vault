@@ -5,131 +5,134 @@ tags:
   - grammar
 mastery: 🔴 New
 type: structure
-status: pending
+status: done
 ---
 
 > [!info] Structural Analysis
-> **Structure Type:** (Question / Statement / Idiom / Pattern)
-> 
+> **Structure Type:** Prepositional Phrase (Preposition + Article + Adjective + Noun)
+>
 > **Formula / Pattern:**
 > ```text
-> [Subject] + [Verb] + ...
+> in + a + niche + market
 > ```
-> 
+>
 > **Components:**
-> - **Component 1:** ...
-> - **Component 2:** ...
+> - **Preposition (in):** Indicates location or context
+> - **Article (a):** Indefinite article
+> - **Adjective (niche):** Specialized, specific, or targeted
+> - **Noun (market):** Business environment or customer segment
 >
 > **Formation Rules:**
-> 1. Rule 1...
-> 2. Rule 2...
+> 1. "Niche" is always followed by the noun it modifies
+> 2. The phrase functions as a locative or contextual modifier
+> 3. Can be used with or without article: "in niche market" is also possible
 
 > [!abstract] Meaning & Usage
 > **Core Meaning:**
-> - **Literal:** ...
-> - **Figurative:** ...
-> 
+> - **Literal:** Within a specialized segment of the market
+> - **Figurative:** Operating in a specific, targeted area of business
+>
 > **Functional Meaning:**
-> - **Purpose:** (e.g., to emphasize, to suggest)
-> - **Nuance:** (formal vs informal, intensity)
-> 
+> - **Purpose:** To specify market focus and business strategy
+> - **Nuance:** Emphasizes specialization over mass market approach
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** trong một thị trường ngách
+> - **Contextual:** trong một phân khúc thị trường chuyên biệt
 
 > [!note] Relations & Connections
 > **Synonyms / Similar Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[in a specialized market]]: Focusing on specific expertise
+> - [[in a target market]]: Focusing on specific demographics
+>
 > **Antonyms / Contrasting Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[in the mass market]]: Targeting general consumers
+> - [[in the mainstream market]]: Focusing on popular products/services
 
 > [!success] Usage Examples
-> 
+
 > **1. Formal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** Our company specializes in operating in a niche market for luxury handmade goods.
+> - **Translation:** Công ty chúng tôi chuyên hoạt động trong thị trường ngách cho các mặt hàng thủ công cao cấp.
+> - **Analysis:** Business strategy statement emphasizing specialization
+
 > **2. Informal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** They found success in a niche market most people didn't even know existed.
+> - **Translation:** Họ đã tìm thấy thành công trong một thị trường ngách mà hầu hết mọi người thậm chí không biết là có.
+> - **Analysis:** Casual conversation about unexpected business success
+
 > **3. Business/Academic Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
+> - **Sentence:** Small businesses often thrive by identifying and serving needs in a niche market.
+> - **Translation:** Doanh nghiệp nhỏ thường phát triển mạnh bằng cách xác định và phục vụ các nhu cầu trong thị trường ngách.
+> - **Analysis:** Academic explanation of business strategy for small enterprises
 
 > [!failure] Common Mistakes
-> 
+
 > **1. Pattern Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
-> 
+> - ❌ **Mistake:** They compete in niche market.
+> - ✅ **Correction:** They compete in a niche market.
+> - **Why:** Missing article "a" before the noun phrase
+
 > **2. Usage Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** The company operates in a niche market of selling everything.
+> - **Correction:** The company operates in the mass market, not a niche market.
+> - **Why:** Contradiction - niche markets are specialized, not comprehensive
 
 > [!tip] Learning Strategies
-> - **Visual Association:** ...
-> - **Memory Hook:** ...
-> - **Common Collocations:** ...
-> - **Related Structures:** [[ ]] vs [[ ]]
+> - **Visual Association:** Picture a small, specialized shop with unique products
+> - **Memory Hook:** "Niche" like a small corner or recess - specialized and specific
+> - **Common Collocations:** identify a niche market, serve a niche market, dominate a niche market
+> - **Related Structures:** [[in the mainstream]] vs [[in a specialized sector]]
 
 > [!quote]- Meta Information
 > | Property | Value |
 > | :--- | :--- |
-> | **Complexity** | (basic/intermediate/advanced) |
-> | **CEFR Level** | (A1/A2/B1/B2/C1/C2) |
-> | **Frequency** | (common/uncommon/rare) |
-> | **Register** | (formal/informal/academic/business) |
-> | **Grammar Focus** | ... |
+> | **Complexity** | intermediate |
+> | **CEFR Level** | B2 |
+> | **Frequency** | common |
+> | **Register** | business/academic |
+> | **Grammar Focus** | Prepositional Phrase |
 
 ---
 
 ## 🧩 Context Analysis (Advanced)
 
 > [!example] Original Source
-> **Quote:** ...
-> **Context:** ...
-> **Effectiveness:** ...
+> **Quote:** "Success in a niche market requires deep understanding of customer needs and minimal competition."
+> **Context:** Business strategy guide on market positioning
+> **Effectiveness:** Clearly articulates the advantages and requirements of niche marketing
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **{{STRUCTURE_NAME}}**?
-**Answer::**
+**Question::** What is the structure pattern for **in a niche market**?
+**Answer::** [Preposition] + [Article] + [Adjective] + [Noun]
 
 ### Card 2: Meaning
-**Question::** What does **{{STRUCTURE_NAME}}** express?
-**Answer::**
+**Question::** What does **in a niche market** express?
+**Answer::** Operating within a specialized, targeted segment of the market
 
 ### Card 3: Usage
-**Question::** When should you use **{{STRUCTURE_NAME}}**?
-**Answer::**
+**Question::** When should you use **in a niche market**?
+**Answer::** When describing business strategies focused on specific market segments rather than mass markets
 
 ### Card 4: Example
-**Question::** Create a sentence with **{{STRUCTURE_NAME}}** about [topic]
-**Answer::**
+**Question::** Create a sentence with **in a niche market** about startups
+**Answer::** The startup succeeded by focusing in a niche market for eco-friendly pet products.
 
 ### Card 5: Error Correction
-**Question::** What's wrong with: [incorrect example]
-**Answer::**
+**Question::** What's wrong with: "Our business targets a niche market of everyone"
+**Answer::** Contradiction. A niche market targets specific segments, not everyone. Should specify the target group.
 
 ### Card 6: Comparison
-**Question::** How is **{{STRUCTURE_NAME}}** different from [similar structure]?
-**Answer::**
+**Question::** How is **in a niche market** different from [[in the mass market]]?
+**Answer::** Niche market focuses on specific, small segments while mass market targets the general population
 
 ### Card 7: Transformation
-**Question::** Transform this sentence using **{{STRUCTURE_NAME}}**: [sentence]
-**Answer::**
+**Question::** Transform this sentence using **in a niche market**: "The company focuses on luxury pet accessories."
+**Answer::** The company operates in a niche market, focusing on luxury pet accessories.
 
 ---
 
@@ -142,4 +145,6 @@ status: pending
 - [ ] Can avoid common errors
 
 **Personal Notes:**
-- ...
+- Niche markets have less competition but smaller customer base
+- Common strategy for small businesses and startups
+- Requires deep understanding of specific customer needs

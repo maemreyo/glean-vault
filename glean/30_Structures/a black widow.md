@@ -5,131 +5,133 @@ tags:
   - grammar
 mastery: 🔴 New
 type: structure
-status: pending
+status: done
 ---
 
 > [!info] Structural Analysis
-> **Structure Type:** (Question / Statement / Idiom / Pattern)
-> 
+> **Structure Type:** Noun Phrase (Article + Adjective + Noun)
+>
 > **Formula / Pattern:**
 > ```text
-> [Subject] + [Verb] + ...
+> [Indefinite Article: a/an] + [Adjective: black] + [Noun: widow]
 > ```
-> 
+>
 > **Components:**
-> - **Component 1:** ...
-> - **Component 2:** ...
+> - **Article (a):** Indefinite article indicating one of many
+> - **Adjective (black):** Descriptive modifier indicating color
+> - **Noun (widow):** Core noun referring to a female spider
 >
 > **Formation Rules:**
-> 1. Rule 1...
-> 2. Rule 2...
+> 1. Use "a" before consonant sounds, "an" before vowel sounds
+> 2. Adjective precedes the noun it modifies
+> 3. No hyphenation between adjective and noun in this structure
 
 > [!abstract] Meaning & Usage
 > **Core Meaning:**
-> - **Literal:** ...
-> - **Figurative:** ...
-> 
+> - **Literal:** A female spider of the Latrodectus genus with a distinctive black appearance
+> - **Figurative:** Something dangerous hidden beneath an attractive exterior
+>
 > **Functional Meaning:**
-> - **Purpose:** (e.g., to emphasize, to suggest)
-> - **Nuance:** (formal vs informal, intensity)
-> 
+> - **Purpose:** To identify a specific species of spider known for its venom
+> - **Nuance:** Often carries connotations of danger and warning
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** con góa phụ đen
+> - **Contextual:** loài nhện góa phụ đen (nổi tiếng với nọc độc)
 
 > [!note] Relations & Connections
 > **Synonyms / Similar Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[a tarantula]]: Another type of large spider
+> - [[a deadly spider]]: Describes dangerous spiders generally
+>
 > **Antonyms / Contrasting Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[a harmless spider]]: Non-venomous spider species
+> - [[a male spider]]: Male counterpart (less dangerous)
 
 > [!success] Usage Examples
-> 
+
 > **1. Formal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** The biologist carefully documented the behavior of a black widow in its natural habitat.
+> - **Translation:** Nhà sinh vật học đã cẩn thận ghi lại hành vi của một con nhện góa phụ đen trong môi trường sống tự nhiên của nó.
+> - **Analysis:** Scientific documentation using precise terminology
+
 > **2. Informal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** Be careful! I think I saw a black widow under that log.
+> - **Translation:** Cẩn thận! Tôi nghĩ mình đã thấy một con nhện góa phụ đen dưới khúc gỗ đó.
+> - **Analysis:** Everyday warning expression
+
 > **3. Business/Academic Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
+> - **Sentence:** The case study compared two companies: one led by an innovative entrepreneur and another by a black widow who eliminated all competition.
+> - **Translation:** Nghiên cứu trường hợp đã so sánh hai công ty: một công ty do một doanh nhân đổi mới lãnh đạo và công ty còn lại do một "nhện góa phụ" đã loại bỏ tất cả đối thủ cạnh tranh.
+> - **Analysis:** Metaphorical usage in business context
 
 > [!failure] Common Mistakes
-> 
+
 > **1. Pattern Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
-> 
+> - ❌ **Mistake:** I saw black widow spider.
+> - ✅ **Correction:** I saw a black widow (spider).
+> - **Why:** Need the article "a" before the noun phrase
+
 > **2. Usage Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** The black widow is always female.
+> - ✅ **Correction:** A black widow refers to the female spider of the species.
+> - **Why:** While the term typically refers to females, need to clarify the reference
 
 > [!tip] Learning Strategies
-> - **Visual Association:** ...
-> - **Memory Hook:** ...
-> - **Common Collocations:** ...
-> - **Related Structures:** [[ ]] vs [[ ]]
+> - **Visual Association:** Picture a shiny black spider with a red hourglass marking
+> - **Memory Hook:** "Widow" suggests danger and loss of life partner
+> - **Common Collocations:** venomous bite, red hourglass, deadly spider
+> - **Related Structures:** [[a brown recluse]] vs [[a tarantula]]
 
 > [!quote]- Meta Information
 > | Property | Value |
 > | :--- | :--- |
-> | **Complexity** | (basic/intermediate/advanced) |
-> | **CEFR Level** | (A1/A2/B1/B2/C1/C2) |
-> | **Frequency** | (common/uncommon/rare) |
-> | **Register** | (formal/informal/academic/business) |
-> | **Grammar Focus** | ... |
+> | **Complexity** | basic |
+> | **CEFR Level** | B1 |
+> | **Frequency** | uncommon |
+> | **Register** | neutral |
+> | **Grammar Focus** | Article + Adjective + Noun |
 
 ---
 
 ## 🧩 Context Analysis (Advanced)
 
 > [!example] Original Source
-> **Quote:** ...
-> **Context:** ...
-> **Effectiveness:** ...
+> **Quote:** "The black widow gets its name from the female's habit of eating the male after mating."
+> **Context:** Scientific explanation of spider behavior
+> **Effectiveness:** Clear and informative explanation of etymology
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **{{STRUCTURE_NAME}}**?
-**Answer::**
+**Question::** What is the structure pattern for **a black widow**?
+**Answer::** [Indefinite Article] + [Adjective] + [Noun]
 
 ### Card 2: Meaning
-**Question::** What does **{{STRUCTURE_NAME}}** express?
-**Answer::**
+**Question::** What does **a black widow** express?
+**Answer::** A specific species of venomous spider, metaphorically something dangerous
 
 ### Card 3: Usage
-**Question::** When should you use **{{STRUCTURE_NAME}}**?
-**Answer::**
+**Question::** When should you use **a black widow**?
+**Answer::** When referring to the spider species or using it metaphorically for dangerous entities
 
 ### Card 4: Example
-**Question::** Create a sentence with **{{STRUCTURE_NAME}}** about [topic]
-**Answer::**
+**Question::** Create a sentence with **a black widow** about nature
+**Answer::** The garden had several spiders, including a black widow near the woodpile.
 
 ### Card 5: Error Correction
-**Question::** What's wrong with: [incorrect example]
-**Answer::**
+**Question::** What's wrong with: "I saw black widow in garden"
+**Answer::** Missing article. Should be: "I saw a black widow in the garden."
 
 ### Card 6: Comparison
-**Question::** How is **{{STRUCTURE_NAME}}** different from [similar structure]?
-**Answer::**
+**Question::** How is **a black widow** different from [[a tarantula]]?
+**Answer::** Black widow is smaller but more venomous, while tarantulas are larger but less dangerous to humans
 
 ### Card 7: Transformation
-**Question::** Transform this sentence using **{{STRUCTURE_NAME}}**: [sentence]
-**Answer::**
+**Question::** Transform this sentence using **a black widow**: "The spider was dangerous and black."
+**Answer::** I saw a black widow near the rocks.
 
 ---
 
@@ -142,4 +144,5 @@ status: pending
 - [ ] Can avoid common errors
 
 **Personal Notes:**
-- ...
+- Remember to always use the article "a" before "black widow"
+- The term can be used literally for the spider or metaphorically for dangerous situations

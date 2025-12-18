@@ -5,131 +5,133 @@ tags:
   - grammar
 mastery: 🔴 New
 type: structure
-status: pending
+status: done
 ---
 
 > [!info] Structural Analysis
-> **Structure Type:** (Question / Statement / Idiom / Pattern)
-> 
+> **Structure Type:** Phrasal Verb (Verb + Adverb)
+>
 > **Formula / Pattern:**
 > ```text
-> [Subject] + [Verb] + ...
+> [Subject] + gather + together + [Optional Object]
 > ```
-> 
+>
 > **Components:**
-> - **Component 1:** ...
-> - **Component 2:** ...
+> - **Verb (gather):** Action of collecting or bringing together
+> - **Adverb (together):** Emphasizes unity and collective action
+> - **Object (optional):** What is being gathered (people, items, information)
 >
 > **Formation Rules:**
-> 1. Rule 1...
-> 2. Rule 2...
+> 1. "Together" can be placed between object and participle: "gather the documents together"
+> 2. Often used with reflexive pronouns: "gather ourselves together"
+> 3. Can be used in passive voice: "we were gathered together"
 
 > [!abstract] Meaning & Usage
 > **Core Meaning:**
-> - **Literal:** ...
-> - **Figurative:** ...
-> 
+> - **Literal:** To bring people or things into one place or group
+> - **Figurative:** To unite or combine ideas, efforts, or resources
+>
 > **Functional Meaning:**
-> - **Purpose:** (e.g., to emphasize, to suggest)
-> - **Nuance:** (formal vs informal, intensity)
-> 
+> - **Purpose:** To emphasize collective action and unity
+> - **Nuance:** Creates a sense of community and cooperation
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** tụ họp lại, tập hợp lại
+> - **Contextual:** cùng nhau hội tụ, quy tụ lại một nơi
 
 > [!note] Relations & Connections
 > **Synonyms / Similar Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[come together]]: To unite or join
+> - [[assemble]]: To gather in one place
+>
 > **Antonyms / Contrasting Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[scatter]]: To separate and move in different directions
+> - [[disperse]]: To spread out over a wide area
 
 > [!success] Usage Examples
-> 
+
 > **1. Formal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** The committee will gather together next Tuesday to review the proposals.
+> - **Translation:** Ủy ban sẽ họp lại vào thứ Ba tới để xem xét các đề xuất.
+> - **Analysis:** Formal meeting arrangement with collective participation
+
 > **2. Informal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** Let's gather together at my place for pizza and movies tonight.
+> - **Translation:** Chúng ta hãy tụ tập ở nhà tôi tối nay để ăn pizza và xem phim.
+> - **Analysis:** Casual social invitation emphasizing group activity
+
 > **3. Business/Academic Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
+> - **Sentence:** We need to gather together all the data before making a conclusion.
+> - **Translation:** Chúng ta cần thu thập tất cả dữ liệu trước khi đưa ra kết luận.
+> - **Analysis:** Professional context requiring comprehensive information collection
 
 > [!failure] Common Mistakes
-> 
+
 > **1. Pattern Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
-> 
+> - ❌ **Mistake:** They gathered together themself.
+> - ✅ **Correction:** They gathered together themselves.
+> - **Why:** Incorrect reflexive pronoun form
+
 > **2. Usage Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** The team will gather together next week.
+> - ✅ **Correction:** The team will gather next week.
+> - **Why:** Redundant - "gather" already implies "together"
 
 > [!tip] Learning Strategies
-> - **Visual Association:** ...
-> - **Memory Hook:** ...
-> - **Common Collocations:** ...
-> - **Related Structures:** [[ ]] vs [[ ]]
+> - **Visual Association:** Picture people coming together from different directions
+> - **Memory Hook:** "Gather" like harvesting crops, "together" in one pile
+> - **Common Collocations:** gather together information, gather together resources, gather together courage
+> - **Related Structures:** [[bring together]] vs [[pull together]]
 
 > [!quote]- Meta Information
 > | Property | Value |
 > | :--- | :--- |
-> | **Complexity** | (basic/intermediate/advanced) |
-> | **CEFR Level** | (A1/A2/B1/B2/C1/C2) |
-> | **Frequency** | (common/uncommon/rare) |
-> | **Register** | (formal/informal/academic/business) |
-> | **Grammar Focus** | ... |
+> | **Complexity** | basic |
+> | **CEFR Level** | A2 |
+> | **Frequency** | common |
+> | **Register** | neutral |
+> | **Grammar Focus** | Phrasal Verb |
 
 ---
 
 ## 🧩 Context Analysis (Advanced)
 
 > [!example] Original Source
-> **Quote:** ...
-> **Context:** ...
-> **Effectiveness:** ...
+> **Quote:** "Families gather together during holidays to share traditions and create memories."
+> **Context:** Sociology text on family dynamics
+> **Effectiveness:** Illustrates cultural importance of family gatherings
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **{{STRUCTURE_NAME}}**?
-**Answer::**
+**Question::** What is the structure pattern for **gather together**?
+**Answer::** [Subject] + gather + together + [Optional Object]
 
 ### Card 2: Meaning
-**Question::** What does **{{STRUCTURE_NAME}}** express?
-**Answer::**
+**Question::** What does **gather together** express?
+**Answer::** Bringing people or things into one place or uniting efforts
 
 ### Card 3: Usage
-**Question::** When should you use **{{STRUCTURE_NAME}}**?
-**Answer::**
+**Question::** When should you use **gather together**?
+**Answer::** When emphasizing collective action or bringing multiple things/people to one place
 
 ### Card 4: Example
-**Question::** Create a sentence with **{{STRUCTURE_NAME}}** about [topic]
-**Answer::**
+**Question::** Create a sentence with **gather together** about family
+**Answer::** Every Sunday, our family gathers together for dinner at grandmother's house.
 
 ### Card 5: Error Correction
-**Question::** What's wrong with: [incorrect example]
-**Answer::**
+**Question::** What's wrong with: "The people gathered together in the hall"
+**Answer::** Redundant. "Gather" already implies "together". Should be: "The people gathered in the hall."
 
 ### Card 6: Comparison
-**Question::** How is **{{STRUCTURE_NAME}}** different from [similar structure]?
-**Answer::**
+**Question::** How is **gather together** different from [[assemble]]?
+**Answer::** "Gather together" is more informal and emphasizes unity, while "assemble" is more formal and often implies organization
 
 ### Card 7: Transformation
-**Question::** Transform this sentence using **{{STRUCTURE_NAME}}**: [sentence]
-**Answer::**
+**Question::** Transform this sentence using **gather together**: "The team needs to unite."
+**Answer::** The team needs to gather together to face this challenge.
 
 ---
 
@@ -142,4 +144,6 @@ status: pending
 - [ ] Can avoid common errors
 
 **Personal Notes:**
-- ...
+- "Together" is often redundant with "gather" but adds emphasis
+- Common in both literal and figurative contexts
+- Used frequently in social and professional settings

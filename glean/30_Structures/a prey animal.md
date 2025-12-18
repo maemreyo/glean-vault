@@ -5,131 +5,133 @@ tags:
   - grammar
 mastery: 🔴 New
 type: structure
-status: pending
+status: done
 ---
 
 > [!info] Structural Analysis
-> **Structure Type:** (Question / Statement / Idiom / Pattern)
-> 
+> **Structure Type:** Noun Phrase (Article + Adjective + Noun)
+>
 > **Formula / Pattern:**
 > ```text
-> [Subject] + [Verb] + ...
+> [Indefinite Article: a/an] + [Adjective: prey] + [Noun: animal]
 > ```
-> 
+>
 > **Components:**
-> - **Component 1:** ...
-> - **Component 2:** ...
+> - **Article (a):** Indefinite article indicating one of many
+> - **Adjective (prey):** Descriptive modifier indicating the role in food chain
+> - **Noun (animal):** Core noun referring to a living creature
 >
 > **Formation Rules:**
-> 1. Rule 1...
-> 2. Rule 2...
+> 1. Use "a" before consonant sounds
+> 2. "Prey" functions as an adjective describing the animal's role
+> 3. Can be used with any article (a, an, the) depending on context
 
 > [!abstract] Meaning & Usage
 > **Core Meaning:**
-> - **Literal:** ...
-> - **Figurative:** ...
-> 
+> - **Literal:** An animal that is hunted and killed by another for food
+> - **Figurative:** A person or entity vulnerable to exploitation or attack
+>
 > **Functional Meaning:**
-> - **Purpose:** (e.g., to emphasize, to suggest)
-> - **Nuance:** (formal vs informal, intensity)
-> 
+> - **Purpose:** To identify an animal's position in the predator-prey relationship
+> - **Nuance:** Often evokes sympathy or emphasizes vulnerability
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** con mồi
+> - **Contextual:** động vật bị săn đuổi (trong chuỗi thức ăn)
 
 > [!note] Relations & Connections
 > **Synonyms / Similar Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[a target animal]]: An animal specifically targeted
+> - [[a hunted animal]]: An animal being actively pursued
+>
 > **Antonyms / Contrasting Structures:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[a predator animal]]: An animal that hunts others
+> - [[an apex predator]]: Top of the food chain
 
 > [!success] Usage Examples
-> 
+
 > **1. Formal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** The documentary focused on how a prey animal develops survival strategies.
+> - **Translation:** Bộ phim tài liệu tập trung vào việc một con mồi phát triển các chiến lược sinh tồn.
+> - **Analysis:** Educational content about animal behavior and adaptation
+
 > **2. Informal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** The poor rabbit felt like a prey animal with all those dogs around.
+> - **Translation:** Con thỏ nghèo đáng thương cảm thấy như một con mồi với tất cả những con chó xung quanh.
+> - **Analysis:** Emotional expression of vulnerability
+
 > **3. Business/Academic Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
+> - **Sentence:** In this hostile market, small startups become prey animals for larger corporations.
+> - **Translation:** Trong thị trường khắc nghiệt này, các công ty khởi nghiệp nhỏ trở thành con mồi cho các tập đoàn lớn hơn.
+> - **Analysis:** Business metaphor describing competitive dynamics
 
 > [!failure] Common Mistakes
-> 
+
 > **1. Pattern Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
-> 
+> - ❌ **Mistake:** Lion is prey animal.
+> - ✅ **Correction:** A lion is not a prey animal; it's a predator.
+> - **Why:** Lions are predators, not prey
+
 > **2. Usage Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** The prey animal hunts other animals.
+> - ✅ **Correction:** The prey animal is hunted by other animals.
+> - **Why:** Incorrect role assignment in the food chain
 
 > [!tip] Learning Strategies
-> - **Visual Association:** ...
-> - **Memory Hook:** ...
-> - **Common Collocations:** ...
-> - **Related Structures:** [[ ]] vs [[ ]]
+> - **Visual Association:** Picture a rabbit or deer being hunted
+> - **Memory Hook:** "Prey" = "prayed for" by predators
+> - **Common Collocations:** vulnerable species, natural defense, survival instincts
+> - **Related Structures:** [[a predator]] vs [[a scavenger]]
 
 > [!quote]- Meta Information
 > | Property | Value |
 > | :--- | :--- |
-> | **Complexity** | (basic/intermediate/advanced) |
-> | **CEFR Level** | (A1/A2/B1/B2/C1/C2) |
-> | **Frequency** | (common/uncommon/rare) |
-> | **Register** | (formal/informal/academic/business) |
-> | **Grammar Focus** | ... |
+> | **Complexity** | basic |
+> | **CEFR Level** | A2 |
+> | **Frequency** | common |
+> | **Register** | neutral |
+> | **Grammar Focus** | Article + Adjective + Noun |
 
 ---
 
 ## 🧩 Context Analysis (Advanced)
 
 > [!example] Original Source
-> **Quote:** ...
-> **Context:** ...
-> **Effectiveness:** ...
+> **Quote:** "A prey animal must constantly balance the need for food with the risk of becoming food."
+> **Context:** Wildlife biology textbook on animal behavior
+> **Effectiveness:** Concise explanation of the prey animal's dilemma
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
 ### Card 1: Pattern Recognition
-**Question::** What is the structure pattern for **{{STRUCTURE_NAME}}**?
-**Answer::**
+**Question::** What is the structure pattern for **a prey animal**?
+**Answer::** [Indefinite Article] + [Adjective] + [Noun]
 
 ### Card 2: Meaning
-**Question::** What does **{{STRUCTURE_NAME}}** express?
-**Answer::**
+**Question::** What does **a prey animal** describe?
+**Answer::** An animal that is hunted and killed by predators for food
 
 ### Card 3: Usage
-**Question::** When should you use **{{STRUCTURE_NAME}}**?
-**Answer::**
+**Question::** When should you use **a prey animal**?
+**Answer::** When describing animals that are hunted in the food chain or metaphorically for vulnerable entities
 
 ### Card 4: Example
-**Question::** Create a sentence with **{{STRUCTURE_NAME}}** about [topic]
-**Answer::**
+**Question::** Create a sentence with **a prey animal** about nature
+**Answer::** The gazelle remained alert, aware that as a prey animal, danger could come from any direction.
 
 ### Card 5: Error Correction
-**Question::** What's wrong with: [incorrect example]
-**Answer::**
+**Question::** What's wrong with: "The eagle is prey animal"
+**Answer::** Eagles are predators, not prey. Should be: "The mouse is a prey animal."
 
 ### Card 6: Comparison
-**Question::** How is **{{STRUCTURE_NAME}}** different from [similar structure]?
-**Answer::**
+**Question::** How is **a prey animal** different from [[a predator animal]]?
+**Answer::** A prey animal is hunted for food, while a predator animal hunts others for food
 
 ### Card 7: Transformation
-**Question::** Transform this sentence using **{{STRUCTURE_NAME}}**: [sentence]
-**Answer::**
+**Question::** Transform this sentence using **a prey animal**: "The deer was being hunted."
+**Answer::** The deer, a prey animal, was being hunted by wolves.
 
 ---
 
@@ -142,4 +144,6 @@ status: pending
 - [ ] Can avoid common errors
 
 **Personal Notes:**
-- ...
+- Remember the food chain context: prey is eaten by predators
+- Can be used metaphorically for vulnerable situations
+- Common prey animals: rabbits, deer, mice, fish
