@@ -10,7 +10,7 @@ status: done
 # Trial
 
 > [!info] Word Analysis
-> **IPA:** /ˈtraɪəl/
+> **IPA:** */ˈtraɪəl/*
 > **Part of Speech:** Noun
 > **CEFR Level:** B1
 > **Register:** Formal/neutral
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** A formal examination of evidence by a court to decide if someone is guilty
->
+
 > **Context Meaning:** A test of performance; a process of trying something to see its effect; hardship
->
+
 > **Vietnamese Translation:**
 > - **Direct:** phiên tòa, xét xử
 > - **Contextual:** sự thử nghiệm, thử thách, gian khó
->
+
 > **Nuances:**
 > - Can refer to legal proceedings or testing periods
 > - In science, refers to experimental testing
@@ -32,20 +32,20 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[trial]] /ˈtraɪəl/
-> - **Verb:** [[try]] /traɪ/
-> - **Adj:** [[trying]] /ˈtraɪɪŋ/ (also means difficult)
+> - **Noun:** [[trial]] (*/ˈtraɪəl/*)
+> - **Verb:** [[try]] (*/traɪ/*)
+> - **Adj:** [[trying]] (*/ˈtraɪɪŋ/*) (also means difficult)
 > - **Adv:** (no direct adverb form)
->
+
 > **Synonyms:**
-> - [[test]] /test/ : examination of knowledge
-> - [[experiment]] /ɪkˈsperɪmənt/ : scientific test
-> - [[hearing]] /ˈhɪərɪŋ/ : legal proceeding
->
+> - [[test]] (*/test/*) : examination of knowledge
+> - [[experiment]] (*/ɪkˈsperɪmənt/*) : scientific test
+> - [[hearing]] (*/ˈhɪərɪŋ/*) : legal proceeding
+
 > **Antonyms:**
-> - [[acquittal]] /əˈkwɪtəl/ : legal clearance
-> - [[success]] /səkˈses/ : positive outcome
-> - [[comfort]] /ˈkʌmfət/ : ease
+> - [[acquittal]] (*/əˈkwɪtəl/*) : legal clearance
+> - [[success]] (*/səkˈses/*) : positive outcome
+> - [[comfort]] (*/ˈkʌmfət/*) : ease
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -53,11 +53,11 @@ status: done
 > 2. clinical trial
 > 3. trial and error
 > 4. free trial
->
+
 > **1. Legal Context**
 > - **Sentence:** The suspect will stand trial next month for the alleged crimes.
 > - **Translation:** Nghi phạm sẽ ra tòa vào tháng tới để xét xử các tội danh bị buộc tội.
->
+
 > **2. Scientific Context**
 > - **Sentence:** The new drug is currently in clinical trials to test its effectiveness.
 > - **Translation:** Thuốc mới hiện đang trong các thử nghiệm lâm sàng để kiểm tra hiệu quả.
@@ -81,42 +81,62 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **trial** (/ˈtraɪəl/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **trial** (*/ˈtraɪəl/*) mean?
 ?
-**Meaning:** A formal examination of evidence; a test of performance; a process of trying something
-**Vietnamese:** phiên tòa, xét xử
-**IPA:** /ˈtraɪəl/
-**Key Nuance:** Can be legal, scientific, or refer to life difficulties
+> 📖 **Meaning:** A formal examination of evidence; a test of performance; a process of trying something
+> 🇻🇳 **Vietnamese:** phiên tòa, xét xử
+> 🗣️ **IPA:** */ˈtraɪəl/*
+> 💡 **Nuance:** Can be legal, scientific, or refer to life difficulties
 <!--SR:!2025-12-22,4,270-->
 
-### Card 2: Production (Reverse)
-Context/Definition: "A formal examination by a court" → Word?
-(Vietnamese: phiên tòa, xét xử) -> Word?
-?
-**trial** (/ˈtraɪəl/)
+**Card 2: Production (Reverse)**
 
-### Card 3: Usage (Multi-line)
+
+**Definition:** "A formal examination by a court"
+**Vietnamese:** phiên tòa, xét xử
+→ **Target Word?**
+?
+**trial** (*/ˈtraɪəl/*)
+
+**Card 3: Usage (Multi-line)**
+
 Use **trial** in a sentence.
 ?
-**Sentence:** The clinical trial will continue for another six months.
-**Translation:** Cuộc thử nghiệm lâm sàng sẽ tiếp tục trong sáu tháng nữa.
+> 📝 **Sentence:** The clinical trial will continue for another six months.
+> 🇻🇳 **Translation:** Cuộc thử nghiệm lâm sàng sẽ tiếp tục trong sáu tháng nữa.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **trial**.
 ?
-1. stand trial
-2. clinical trial
-3. trial and error
+> 🔗 **Collocations:**
+> 1. stand trial
+> 2. clinical trial
+> 3. trial and error
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **trial**.
 ?
-**Root:** French "trier" (to try, pick out)
-**Related types:** (noun) trial - (verb) try - (adj) trying
+> 🌱 **Root:** French `trier` (to try, pick out)
+> 👨‍👩‍👧 **Family:** *(noun)* trial - *(verb)* try - *(adj)* trying
 <!--SR:!2025-12-22,4,270--> 
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The suspect will stand ==trial== next month for the alleged crimes.*
+
+> 🇻🇳 **Vi:** Nghi phạm sẽ ra tòa vào tháng tới để xét xử các tội danh bị buộc tội.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ˈtraɪəl/*
+?
+**Trial**
 ---
+
 
 ## 📈 Learning Progress
 

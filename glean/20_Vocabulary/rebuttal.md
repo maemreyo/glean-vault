@@ -10,7 +10,7 @@ status: done
 # rebuttal
 
 > [!info] Word Analysis
-> **IPA:** /rɪˈbʌtəl/
+> **IPA:** */rɪˈbʌtəl/*
 > **Part of Speech:** noun
 > **CEFR Level:** C1
 > **Register:** formal/legal/academic
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** A pushing back; refutation.
->
+
 > **Context Meaning:** A formal statement or argument that opposes or disproves another argument; a counter-argument.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** sự phản bác, sự bác bỏ
 > - **Contextual:** lập luận phản đối, lời đáp trả
->
+
 > **Nuances:**
 > - Used in legal, academic, and debate contexts
 > - Implies evidence-based opposition
@@ -32,29 +32,29 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[rebuttal]] /rɪˈbʌtəl/, [[rebut]] /rɪˈbʌt/
-> - **Verb:** [[rebut]] /rɪˈbʌt/
+> - **Noun:** [[rebuttal]] (*/rɪˈbʌtəl/*), [[rebut]] (*/rɪˈbʌt/*)
+> - **Verb:** [[rebut]] (*/rɪˈbʌt/*)
 > - **Adj:** N/A
 > - **Adv:** N/A
->
+
 > **Synonyms:**
-> - [[refutation]] /ˌrefjəˈteɪʃən/ : proving wrong
-> - [[counterargument]] /ˈkaʊntərˌɑːrɡjəmənt/ : opposing argument
->
+> - [[refutation]] (*/ˌrefjəˈteɪʃən/*) : proving wrong
+> - [[counterargument]] (*/ˈkaʊntərˌɑːrɡjəmənt/*) : opposing argument
+
 > **Antonyms:**
-> - [[agreement]] /əˈɡriːmənt/ : harmony of opinion
-> - [[concession]] /kənˈseʃən/ : admitting something is true
+> - [[agreement]] (*/əˈɡriːmənt/*) : harmony of opinion
+> - [[concession]] (*/kənˈseʃən/*) : admitting something is true
 
 > [!success] Context & Usage
 > **Collocations:**
 > 1. Sharp rebuttal
 > 2. Legal rebuttal
 > 3. Rebuttal witness
->
+
 > **1. Legal Context**
 > - **Sentence:** The prosecution presented a rebuttal to the defense's main argument.
 > - **Translation:** Công tố viên đã đưa ra lời phản bác đối với lập luận chính của bên bào chữa.
->
+
 > **2. Academic Context**
 > - **Sentence:** Her paper included a rebuttal of previous research findings.
 > - **Translation:** Bài báo của cô bao gồm sự phản bác các kết quả nghiên cứu trước đây.
@@ -78,40 +78,62 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **rebuttal** (/rɪˈbʌtəl/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **rebuttal** (*/rɪˈbʌtəl/*) mean?
 ?
-**Meaning:** A formal statement or argument that opposes or disproves another argument; a counter-argument
+> 📖 **Meaning:** A formal statement or argument that opposes or disproves another argument; a counter-argument
+> 🇻🇳 **Vietnamese:** sự phản bác, sự bác bỏ
+> 🗣️ **IPA:** */rɪˈbʌtəl/*
+> 💡 **Nuance:** Evidence-based opposition in formal/legal contexts
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "A formal counter-argument that disproves or opposes another argument"
 **Vietnamese:** sự phản bác, sự bác bỏ
-**IPA:** /rɪˈbʌtəl/
-**Key Nuance:** Evidence-based opposition in formal/legal contexts
-
-### Card 2: Production (Reverse)
-Context/Definition: "A formal counter-argument that disproves or opposes another argument" → Word?
-(Vietnamese: sự phản bác, sự bác bỏ) -> Word?
+→ **Target Word?**
 ?
-**rebuttal** (/rɪˈbʌtəl/)
+**rebuttal** (*/rɪˈbʌtəl/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **rebuttal** in a sentence.
 ?
-**Sentence:** The politician's rebuttal addressed each point made by her opponent during the debate.
-**Translation:** Lời phản bác của chính trị gia đã đề cập đến từng điểm do đối thủ đưa ra trong cuộc tranh luận.
+> 📝 **Sentence:** The politician's rebuttal addressed each point made by her opponent during the debate.
+> 🇻🇳 **Translation:** Lời phản bác của chính trị gia đã đề cập đến từng điểm do đối thủ đưa ra trong cuộc tranh luận.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **rebuttal**.
 ?
-1. Sharp rebuttal
-2. Legal rebuttal
-3. Rebuttal witness
+> 🔗 **Collocations:**
+> 1. Sharp rebuttal
+> 2. Legal rebuttal
+> 3. Rebuttal witness
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **rebuttal**.
 ?
-**Root:** Old French 'rebuter' (push back), from 're-' + 'buter' (to strike)
-**Related types:** (noun/verb) rebuttal (noun), rebut (verb)
+> 🌱 **Root:** Old French `rebuter` (push back), from `re-` + `buter` (to strike)
+> 👨‍👩‍👧 **Family:** 
+> - *(noun/verb)* rebuttal *(noun)*
+> - rebut *(verb)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The prosecution presented a ==rebuttal== to the defense's main argument.*
+
+> 🇻🇳 **Vi:** Công tố viên đã đưa ra lời phản bác đối với lập luận chính của bên bào chữa.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */rɪˈbʌtəl/*
+?
+**rebuttal**
 ---
+
 
 ## 📈 Learning Progress
 

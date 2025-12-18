@@ -10,7 +10,7 @@ status: done
 # container
 
 > [!info] Word Analysis
-> **IPA:** /kənˈteɪnər/
+> **IPA:** */kənˈteɪnər/*
 > **Part of Speech:** noun
 > **CEFR Level:** B1
 > **Register:** neutral
@@ -18,17 +18,17 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** An object designed to hold or contain something.
->
+
 > **Context Meaning:**
 > 1. A box, bottle, or other object for holding or transporting something
 > 2. A large metal box of standard size used for transporting goods
 > 3. In computing: a lightweight, standalone executable package
 > 4. Any object that can hold or contain something
->
+
 > **Vietnamese Translation:**
 > - **Direct:** vật chứa, bình chứa, hộp chứa
 > - **Contextual:** container (shipping), thùng chứa (storage)
->
+
 > **Nuances:**
 > - Physical containers (boxes, bottles, jars)
 > - Shipping containers (large metal transport boxes)
@@ -37,20 +37,20 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[container]] /kənˈteɪnər/ : an object that holds something
-> - **Verb:** [[contain]] /kənˈteɪn/ : to hold or include within
-> - **Verb:** [[containerize]] /kənˈteɪnəraɪz/ : to pack in containers
-> - **Adj:** [[contained]] /kənˈteɪnd/ : kept under control
-> - **Noun:** [[containment]] /kənˈteɪnmənt/ : the action of containing
->
+> - **Noun:** [[container]] (*/kənˈteɪnər/*) : an object that holds something
+> - **Verb:** [[contain]] (*/kənˈteɪn/*) : to hold or include within
+> - **Verb:** [[containerize]] (*/kənˈteɪnəraɪz/*) : to pack in containers
+> - **Adj:** [[contained]] (*/kənˈteɪnd/*) : kept under control
+> - **Noun:** [[containment]] (*/kənˈteɪnmənt/*) : the action of containing
+
 > **Synonyms:**
-> - [[vessel]] /ˈvesəl/ : a container for holding liquid
-> - [[receptacle]] /rɪˈseptəkəl/ : an object used to contain something
-> - [[holder]] /ˈhoʊldər/ : a device for holding objects
->
+> - [[vessel]] (*/ˈvesəl/*) : a container for holding liquid
+> - [[receptacle]] (*/rɪˈseptəkəl/*) : an object used to contain something
+> - [[holder]] (*/ˈhoʊldər/*) : a device for holding objects
+
 > **Antonyms:**
-> - [[contents]] /ˈkɑːntents/ : what is inside a container
-> - [[space]] /speɪs/ : an empty area without containment
+> - [[contents]] (*/ˈkɑːntents/*) : what is inside a container
+> - [[space]] (*/speɪs/*) : an empty area without containment
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -60,11 +60,11 @@ status: done
 > 4. container ship
 > 5. airtight container
 > 6. food container
->
+
 > **1. Example Context 1**
 > - **Sentence:** She stored her old photos in a plastic container to protect them from moisture.
 > - **Translation:** Cô ấy cất những bức ảnh cũ vào một hộp nhựa để bảo vệ chúng khỏi độ ẩm.
->
+
 > **2. Example Context 2**
 > - **Sentence:** The port was filled with colorful shipping containers waiting to be loaded onto cargo ships.
 > - **Translation:** Cảng cảng đầy những container hàng hóa màu sắc đang chờ được bốc lên tàu hàng.
@@ -88,41 +88,64 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **container** (/kənˈteɪnər/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **container** (*/kənˈteɪnər/*) mean?
 ?
-**Meaning:** An object designed to hold or contain something
+> 📖 **Meaning:** An object designed to hold or contain something
+> 🇻🇳 **Vietnamese:** vật chứa, bình chứa, hộp chứa
+> 🗣️ **IPA:** */kənˈteɪnər/*
+> 💡 **Nuance:** Refers to any object that encloses or holds other items, from small boxes to large shipping units
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "A large metal box used for transporting goods"
 **Vietnamese:** vật chứa, bình chứa, hộp chứa
-**IPA:** /kənˈteɪnər/
-**Key Nuance:** Refers to any object that encloses or holds other items, from small boxes to large shipping units
-
-### Card 2: Production (Reverse)
-Context/Definition: "A large metal box used for transporting goods" → Word?
-(Vietnamese: vật chứa, bình chứa, hộp chứa) -> Word?
+→ **Target Word?**
 ?
-**container** (/kənˈteɪnər/)
+**container** (*/kənˈteɪnər/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **container** in a sentence.
 ?
-**Sentence:** The recycling center accepts plastic containers marked with the recycling symbol.
-**Translation:** Trung tâm tái chế chấp nhận các thùng nhựa có dấu hiệu tái chế.
+> 📝 **Sentence:** The recycling center accepts plastic containers marked with the recycling symbol.
+> 🇻🇳 **Translation:** Trung tâm tái chế chấp nhận các thùng nhựa có dấu hiệu tái chế.
 <!--SR:!2025-12-22,4,270-->
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **container**.
 ?
-1. shipping container
-2. storage container
-3. water container
+> 🔗 **Collocations:**
+> 1. shipping container
+> 2. storage container
+> 3. water container
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **container**.
 ?
-**Root:** Latin "continere" (to hold together) + "-er" suffix
-**Related types:** (noun) container, containment; (verb) contain, containerize; (adj) contained
+> 🌱 **Root:** Latin `continere` (to hold together) + `-er` suffix
+> 👨‍👩‍👧 **Family:** 
+> - *(noun)* container, containment
+> - *(verb)* contain, containerize
+> - *(adj)* contained
 
+**Card 6: Context Cloze**
+
+> 🗣️ *She stored her old photos in a plastic ==container== to protect them from moisture.*
+
+> 🇻🇳 **Vi:** Cô ấy cất những bức ảnh cũ vào một hộp nhựa để bảo vệ chúng khỏi độ ẩm.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */kənˈteɪnər/*
+?
+**container**
 ---
+
 
 ## 📈 Learning Progress
 

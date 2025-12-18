@@ -10,7 +10,7 @@ status: done
 # discourage
 
 > [!info] Word Analysis
-> **IPA:** /dɪˈskʌrɪdʒ/
+> **IPA:** */dɪˈskʌrɪdʒ/*
 > **Part of Speech:** verb
 > **CEFR Level:** B2
 > **Register:** neutral/formal
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** To take away courage
->
+
 > **Context Meaning:** To make someone less confident or enthusiastic about doing something; to deter or persuade not to do something
->
+
 > **Vietnamese Translation:**
 > - **Direct:** nản lòng, làm mất tinh thần
 > - **Contextual:** ngăn cản, dissuade, làm nản chí
->
+
 > **Nuances:**
 > - Psychological: reducing confidence or motivation
 > - Preventive: trying to stop someone from taking action
@@ -32,20 +32,20 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[discouragement]] /dɪˈskʌrɪdʒmənt/
-> - **Verb:** [[discourage]] /dɪˈskʌrɪdʒ/
-> - **Adj:** [[discouraged]] /dɪˈskʌrɪdʒd/
-> - **Adv:** [[discouragingly]] /dɪˈskʌrɪdʒɪŋli/
->
+> - **Noun:** [[discouragement]] (*/dɪˈskʌrɪdʒmənt/*)
+> - **Verb:** [[discourage]] (*/dɪˈskʌrɪdʒ/*)
+> - **Adj:** [[discouraged]] (*/dɪˈskʌrɪdʒd/*)
+> - **Adv:** [[discouragingly]] (*/dɪˈskʌrɪdʒɪŋli/*)
+
 > **Synonyms:**
-> - [[deter]] /dɪˈtɜːr/ : to discourage from acting
-> - [[demotivate]] /diːˈməʊtɪveɪt/ : to reduce motivation
-> - [[dishearten]] /dɪˈhɑːtən/ : to make lose hope
->
+> - [[deter]] (*/dɪˈtɜːr/*) : to discourage from acting
+> - [[demotivate]] (*/diːˈməʊtɪveɪt/*) : to reduce motivation
+> - [[dishearten]] (*/dɪˈhɑːtən/*) : to make lose hope
+
 > **Antonyms:**
-> - [[encourage]] /ɪnˈkʌrɪdʒ/ : to give confidence
-> - [[motivate]] /ˈməʊtɪveɪt/ : to provide motivation
-> - [[inspire]] /ɪnˈspaɪər/ : to fill with confidence
+> - [[encourage]] (*/ɪnˈkʌrɪdʒ/*) : to give confidence
+> - [[motivate]] (*/ˈməʊtɪveɪt/*) : to provide motivation
+> - [[inspire]] (*/ɪnˈspaɪər/*) : to fill with confidence
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -54,11 +54,11 @@ status: done
 > 3. discourage smoking
 > 4. feel discouraged
 > 5. discouraging news
->
+
 > **1. Personal Development**
 > - **Sentence:** Don't let failures discourage you from pursuing your dreams.
 > - **Translation:** Đừng để những thất bại làm bạn nản lòng khi theo đuổi ước mơ.
->
+
 > **2. Policy/Regulation**
 > - **Sentence:** The government introduced high taxes to discourage smoking.
 > - **Translation:** Chính phủ đã đưa ra mức thuế cao để ngăn cản việc hút thuốc.
@@ -82,41 +82,63 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **discourage** (/dɪˈskʌrɪdʒ/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **discourage** (*/dɪˈskʌrɪdʒ/*) mean?
 ?
-**Meaning:** To reduce confidence or enthusiasm; to deter someone from doing something; to make less willing
+> 📖 **Meaning:** To reduce confidence or enthusiasm; to deter someone from doing something; to make less willing
+> 🇻🇳 **Vietnamese:** nản lòng, làm mất tinh thần
+> 🗣️ **IPA:** */dɪˈskʌrɪdʒ/*
+> 💡 **Nuance:** Focuses on reducing motivation rather than directly preventing action
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "To take away someone's courage or motivation"
 **Vietnamese:** nản lòng, làm mất tinh thần
-**IPA:** /dɪˈskʌrɪdʒ/
-**Key Nuance:** Focuses on reducing motivation rather than directly preventing action
-
-### Card 2: Production (Reverse)
-Context/Definition: "To take away someone's courage or motivation" → Word?
-(Vietnamese: nản lòng, làm mất tinh thần) -> Word?
+→ **Target Word?**
 ?
-**discourage** (/dɪˈskʌrɪdʒ/)
+**discourage** (*/dɪˈskʌrɪdʒ/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **discourage** in a sentence.
 ?
-**Sentence:** The rainy weather discouraged many people from attending the outdoor concert.
-**Translation:** Thời tiết mưa đã làm nhiều người nản lòng không tham dự buổi hòa nhạc ngoài trời.
+> 📝 **Sentence:** The rainy weather discouraged many people from attending the outdoor concert.
+> 🇻🇳 **Translation:** Thời tiết mưa đã làm nhiều người nản lòng không tham dự buổi hòa nhạc ngoài trời.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **discourage**.
 ?
-1. discourage from
-2. strongly discourage
-3. feel discouraged
-<!--SR:!2025-12-21,3,250-->
+> 🔗 **Collocations:**
+> 1. discourage from
+> 2. strongly discourage
+> 3. feel discouraged
+> <!--SR:!2025-12-21,3,250-->
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **discourage**.
 ?
-**Root:** Old French "des-" (away) + "corage" (courage)
-**Related types:** discouragement (noun), discouraged (adjective)
+> 🌱 **Root:** Old French `des-` (away) + `corage` (courage)
+> 👨‍👩‍👧 **Family:** 
+> - discouragement *(noun)*
+> - discouraged *(adjective)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *Don't let failures ==discourage== you from pursuing your dreams.*
+
+> 🇻🇳 **Vi:** Đừng để những thất bại làm bạn nản lòng khi theo đuổi ước mơ.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */dɪˈskʌrɪdʒ/*
+?
+**discourage**
 ---
+
 
 ## 📈 Learning Progress
 

@@ -9,7 +9,7 @@ status: done
 # encourage
 
 > [!info] Word Analysis
-> **IPA:** /ɪnˈkɜːrɪdʒ/
+> **IPA:** */ɪnˈkɜːrɪdʒ/*
 > **Part of Speech:** verb
 > **CEFR Level:** B2
 > **Register:** neutral/formal
@@ -17,16 +17,16 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** To give support, confidence, or hope to someone; to stimulate the development of an activity.
->
+
 > **Context Meaning:**
 > 1. To give someone confidence or hope
 > 2. To persuade someone to do or continue something
 > 3. To help or stimulate an activity to develop
->
+
 > **Vietnamese Translation:**
 > - **Direct:** khuyến khích, động viên, thúc đẩy
 > - **Contextual:** cổ vũ (support), khích lệ (inspire)
->
+
 > **Nuances:**
 > - Personal encouragement (encourage a friend)
 > - Professional encouragement (encourage employees)
@@ -35,22 +35,22 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[encouragement]] /ɪnˈkɜːrɪdʒmənt/ : the action of giving encouragement
-> - **Noun:** [[courage]] /ˈkɜːrɪdʒ/ : the ability to do something frightening
-> - **Verb:** [[encourage]] /ɪnˈkɜːrɪdʒ/ : to give support or confidence
-> - **Adj:** [[encouraging]] /ɪnˈkɜːrɪdʒɪŋ/ : giving hope or confidence
-> - **Adj:** [[encouraged]] /ɪnˈkɜːrɪdʒd/ : having received encouragement
-> - **Adv:** [[encouragingly]] /ɪnˈkɜːrɪdʒɪŋli/ : in a way that gives confidence
->
+> - **Noun:** [[encouragement]] (*/ɪnˈkɜːrɪdʒmənt/*) : the action of giving encouragement
+> - **Noun:** [[courage]] (*/ˈkɜːrɪdʒ/*) : the ability to do something frightening
+> - **Verb:** [[encourage]] (*/ɪnˈkɜːrɪdʒ/*) : to give support or confidence
+> - **Adj:** [[encouraging]] (*/ɪnˈkɜːrɪdʒɪŋ/*) : giving hope or confidence
+> - **Adj:** [[encouraged]] (*/ɪnˈkɜːrɪdʒd/*) : having received encouragement
+> - **Adv:** [[encouragingly]] (*/ɪnˈkɜːrɪdʒɪŋli/*) : in a way that gives confidence
+
 > **Synonyms:**
-> - [[motivate]] /ˈmoʊtɪveɪt/ : to provide with a reason to act
-> - [[inspire]] /ɪnˈspaɪər/ : to fill with the urge to do something
-> - [[support]] /səˈpɔːrt/ : to give assistance to
->
+> - [[motivate]] (*/ˈmoʊtɪveɪt/*) : to provide with a reason to act
+> - [[inspire]] (*/ɪnˈspaɪər/*) : to fill with the urge to do something
+> - [[support]] (*/səˈpɔːrt/*) : to give assistance to
+
 > **Antonyms:**
-> - [[discourage]] /dɪˈskɜːrɪdʒ/ : to deter from doing something
-> - [[demotivate]] /diːˈmoʊtɪveɪt/ : to make someone less enthusiastic
-> - [[dishearten]] /dɪˈhɑːrtn/ : to make someone lose determination
+> - [[discourage]] (*/dɪˈskɜːrɪdʒ/*) : to deter from doing something
+> - [[demotivate]] (*/diːˈmoʊtɪveɪt/*) : to make someone less enthusiastic
+> - [[dishearten]] (*/dɪˈhɑːrtn/*) : to make someone lose determination
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -60,11 +60,11 @@ status: done
 > 4. encourage participation
 > 5. encourage creativity
 > 6. encourage students
->
+
 > **1. Example Context 1**
 > - **Sentence:** The teacher encouraged her students to participate in the school competition.
 > - **Translation:** Giáo viên đã khuyến khích học sinh của mình tham gia cuộc thi của trường.
->
+
 > **2. Example Context 2**
 > - **Sentence:** His parents always encouraged him to pursue his dreams, no matter how difficult they seemed.
 > - **Translation:** Bố mẹ anh ấy luôn khích lệ anh theo đuổi ước mơ, dù chúng có vẻ khó khăn đến đâu.
@@ -88,40 +88,63 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **encourage** (/ɪnˈkɜːrɪdʒ/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **encourage** (*/ɪnˈkɜːrɪdʒ/*) mean?
 ?
-**Meaning:** To give support, confidence, or hope to someone; to stimulate development
+> 📖 **Meaning:** To give support, confidence, or hope to someone; to stimulate development
+> 🇻🇳 **Vietnamese:** khuyến khích, động viên, thúc đẩy
+> 🗣️ **IPA:** */ɪnˈkɜːrɪdʒ/*
+> 💡 **Nuance:** Involves giving emotional support and confidence to someone
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "To motivate someone to do something by giving them confidence"
 **Vietnamese:** khuyến khích, động viên, thúc đẩy
-**IPA:** /ɪnˈkɜːrɪdʒ/
-**Key Nuance:** Involves giving emotional support and confidence to someone
-
-### Card 2: Production (Reverse)
-Context/Definition: "To motivate someone to do something by giving them confidence" → Word?
-(Vietnamese: khuyến khích, động viên, thúc đẩy) -> Word?
+→ **Target Word?**
 ?
-**encourage** (/ɪnˈkɜːrɪdʒ/)
+**encourage** (*/ɪnˈkɜːrɪdʒ/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **encourage** in a sentence.
 ?
-**Sentence:** The company actively encourages employees to suggest innovative ideas.
-**Translation:** Công ty tích cực khuyến khích nhân viên đề xuất những ý tưởng sáng tạo.
+> 📝 **Sentence:** The company actively encourages employees to suggest innovative ideas.
+> 🇻🇳 **Translation:** Công ty tích cực khuyến khích nhân viên đề xuất những ý tưởng sáng tạo.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **encourage**.
 ?
-1. encourage someone to do something
-2. strongly encourage
-3. encourage participation
+> 🔗 **Collocations:**
+> 1. encourage someone to do something
+> 2. strongly encourage
+> 3. encourage participation
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **encourage**.
 ?
-**Root:** Old French "encoragier" from "en-" + "corage" (courage), Latin "cor" (heart)
-**Related types:** (verb) encourage; (noun) encouragement, courage; (adj) encouraging, encouraged
+> 🌱 **Root:** Old French `encoragier` from `en-` + `corage` (courage), Latin `cor` (heart)
+> 👨‍👩‍👧 **Family:** 
+> - *(verb)* encourage
+> - *(noun)* encouragement, courage
+> - *(adj)* encouraging, encouraged
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The teacher ==encourage==d her students to participate in the school competition.*
+
+> 🇻🇳 **Vi:** Giáo viên đã khuyến khích học sinh của mình tham gia cuộc thi của trường.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ɪnˈkɜːrɪdʒ/*
+?
+**encourage**
 ---
+
 
 ## 📈 Learning Progress
 

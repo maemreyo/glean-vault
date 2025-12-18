@@ -10,7 +10,7 @@ status: done
 # proven
 
 > [!info] Word Analysis
-> **IPA:** /ˈpruːvən/
+> **IPA:** */ˈpruːvən/*
 > **Part of Speech:** adjective
 > **CEFR Level:** B2
 > **Register:** neutral/formal
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** Having been shown to be true or genuine.
->
+
 > **Context Meaning:** Tested and shown to be successful, effective, or valid through experience or evidence.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** đã được chứng minh
 > - **Contextual:** đã được kiểm chứng, có hiệu quả, đáng tin cậy
->
+
 > **Nuances:**
 > - Implies evidence-based validation over time
 > - Used in scientific, business, and personal contexts
@@ -32,21 +32,21 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[proof]] /pruːf/, [[provenance]] /ˈprɒvənəns/
-> - **Verb:** [[prove]] /pruːv/
-> - **Adj:** [[proven]] /ˈpruːvən/, [[provable]] /ˈpruːvəbl/
-> - **Adv:** [[provably]] /ˈpruːvəbli/
->
+> - **Noun:** [[proof]] (*/pruːf/*), [[provenance]] (*/ˈprɒvənəns/*)
+> - **Verb:** [[prove]] (*/pruːv/*)
+> - **Adj:** [[proven]] (*/ˈpruːvən/*), [[provable]] (*/ˈpruːvəbl/*)
+> - **Adv:** [[provably]] (*/ˈpruːvəbli/*)
+
 > **Synonyms:**
-> - [[tested]] /ˈtestɪd/ : examined for quality
-> - [[verified]] /ˈverɪfaɪd/ : confirmed as true
-> - [[established]] /ɪˈstæblɪʃt/ : widely accepted as true
-> - [[validated]] /ˈvælɪdeɪtɪd/ : confirmed as valid
->
+> - [[tested]] (*/ˈtestɪd/*) : examined for quality
+> - [[verified]] (*/ˈverɪfaɪd/*) : confirmed as true
+> - [[established]] (*/ɪˈstæblɪʃt/*) : widely accepted as true
+> - [[validated]] (*/ˈvælɪdeɪtɪd/*) : confirmed as valid
+
 > **Antonyms:**
-> - [[unproven]] /ʌnˈpruːvən/ : not shown to be true
-> - [[disproved]] /dɪsˈpruːvd/ : shown to be false
-> - [[questionable]] /ˈkwestʃənəbl/ : doubtful, uncertain
+> - [[unproven]] (*/ʌnˈpruːvən/*) : not shown to be true
+> - [[disproved]] (*/dɪsˈpruːvd/*) : shown to be false
+> - [[questionable]] (*/ˈkwestʃənəbl/*) : doubtful, uncertain
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -54,11 +54,11 @@ status: done
 > 2. proven method
 > 3. scientifically proven
 > 4. proven effective
->
+
 > **1. Business Context**
 > - **Sentence:** She has a proven track record of successful project management.
 > - **Translation:** Cô ấy có thành tích đã được chứng minh về quản lý dự án thành công.
->
+
 > **2. Scientific Context**
 > - **Sentence:** The treatment is proven to reduce symptoms in 90% of patients.
 > - **Translation:** Phương pháp điều trị này đã được chứng minh là làm giảm triệu chứng ở 90% bệnh nhân.
@@ -78,39 +78,61 @@ status: done
 > **Quote:** "The only source of knowledge is experience." (which must be proven)
 > **Source:** [[Albert Einstein]]
 
+**Card 6: Context Cloze**
+
+> 🗣️ *She has a ==proven== track record of successful project management.*
+
+> 🇻🇳 **Vi:** Cô ấy có thành tích đã được chứng minh về quản lý dự án thành công.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ˈpruːvən/*
+?
+**proven**
 ---
+
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **proven** (/ˈpruːvən/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **proven** (*/ˈpruːvən/*) mean?
 ?
-**Meaning:** Tested and shown to be true, effective, or genuine through evidence
+> 📖 **Meaning:** Tested and shown to be true, effective, or genuine through evidence
+> 🇻🇳 **Vietnamese:** đã được chứng minh
+> 🗣️ **IPA:** */ˈpruːvən/*
+> 💡 **Nuance:** Implies successful testing with positive results
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "Having been shown to be valid through evidence"
 **Vietnamese:** đã được chứng minh
-**IPA:** /ˈpruːvən/
-**Key Nuance:** Implies successful testing with positive results
-
-### Card 2: Production (Reverse)
-Context/Definition: "Having been shown to be valid through evidence" → Word?
-(Vietnamese: đã được chứng minh) -> Word?
+→ **Target Word?**
 ?
-**proven** (/ˈpruːvən/)
+**proven** (*/ˈpruːvən/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **proven** in a sentence.
 ?
-**Sentence:** This is a proven technique for improving memory retention.
-**Translation:** Đây là một kỹ thuật đã được chứng minh để cải thiện khả năng ghi nhớ.
+> 📝 **Sentence:** This is a proven technique for improving memory retention.
+> 🇻🇳 **Translation:** Đây là một kỹ thuật đã được chứng minh để cải thiện khả năng ghi nhớ.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **proven**.
 ?
-1. proven track record
-2. proven method
-3. scientifically proven
+> 🔗 **Collocations:**
+> 1. proven track record
+> 2. proven method
+> 3. scientifically proven
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **proven**.
 ?
-**Root:** Latin 'probare' (to test, approve)
-**Related types:** prove (verb), proof (noun)
+> 🌱 **Root:** Latin `probare` (to test, approve)
+> 👨‍👩‍👧 **Family:** 
+> - prove *(verb)*
+> - proof *(noun)*

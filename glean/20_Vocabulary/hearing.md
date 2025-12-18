@@ -10,7 +10,7 @@ status: done
 # hearing
 
 > [!info] Word Analysis
-> **IPA:** /ˈhɪərɪŋ/
+> **IPA:** */ˈhɪərɪŋ/*
 > **Part of Speech:** noun
 > **CEFR Level:** B2
 > **Register:** neutral/legal
@@ -18,15 +18,15 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** The ability to perceive sound; the act of listening.
->
+
 > **Context Meaning:**
 > 1. The sense by which sound is perceived
 > 2. A legal proceeding before a court or official
->
+
 > **Vietnamese Translation:**
 > - **Direct:** thính giác, sự nghe
 > - **Contextual:** phiên điều trần, cuộc họp
->
+
 > **Nuances:**
 > - Can refer to physical ability or legal proceedings
 > - In legal context, less formal than a full trial
@@ -34,29 +34,29 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[hearing]] /ˈhɪərɪŋ/
-> - **Verb:** [[hear]] /hɪə(r)/
+> - **Noun:** [[hearing]] (*/ˈhɪərɪŋ/*)
+> - **Verb:** [[hear]] (*/hɪə(r)/*)
 > - **Adj:** hard of hearing
 > - **Adv:** hearingly (rare)
->
+
 > **Synonyms:**
-> - [[audition]] /ɔːˈdɪʃən/ : ability to hear (medical)
-> - [[proceeding]] /prəˈsiːdɪŋ/ : legal context
->
+> - [[audition]] (*/ɔːˈdɪʃən/*) : ability to hear (medical)
+> - [[proceeding]] (*/prəˈsiːdɪŋ/*) : legal context
+
 > **Antonyms:**
-> - [[deafness]] /ˈdefnəs/ : inability to hear
-> - [[silence]] /ˈsaɪləns/ : absence of sound
+> - [[deafness]] (*/ˈdefnəs/*) : inability to hear
+> - [[silence]] (*/ˈsaɪləns/*) : absence of sound
 
 > [!success] Context & Usage
 > **Collocations:**
 > 1. Hearing aid
 > 2. Fair hearing
 > 3. Hearing loss
->
+
 > **1. Legal Context**
 > - **Sentence:** The committee will hold a hearing on the proposed environmental regulations.
 > - **Translation:** Ủy ban sẽ tổ chức một phiên điều trần về các quy định môi trường được đề xuất.
->
+
 > **2. Physical Context**
 > - **Sentence:** His hearing began to decline as he entered his seventies.
 > - **Translation:** Thính giác của ông bắt đầu suy giảm khi ông bước vào tuổi bảy mươi.
@@ -80,40 +80,60 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **hearing** (/ˈhɪərɪŋ/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **hearing** (*/ˈhɪərɪŋ/*) mean?
 ?
-**Meaning:** The ability to perceive sound OR a legal proceeding before a court/official
+> 📖 **Meaning:** The ability to perceive sound OR a legal proceeding before a court/official
+> 🇻🇳 **Vietnamese:** thính giác, sự nghe
+> 🗣️ **IPA:** */ˈhɪərɪŋ/*
+> 💡 **Nuance:** Has both physical (auditory) and legal meanings
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "A legal proceeding less formal than a trial"
 **Vietnamese:** thính giác, sự nghe
-**IPA:** /ˈhɪərɪŋ/
-**Key Nuance:** Has both physical (auditory) and legal meanings
-
-### Card 2: Production (Reverse)
-Context/Definition: "A legal proceeding less formal than a trial" → Word?
-(Vietnamese: thính giác, sự nghe) -> Word?
+→ **Target Word?**
 ?
-**hearing** (/ˈhɪərɪŋ/)
+**hearing** (*/ˈhɪərɪŋ/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **hearing** in a sentence.
 ?
-**Sentence:** The Senate judiciary committee scheduled a hearing for the Supreme Court nominee.
-**Translation:** Ủy ban tư pháp Thượng viện đã lên lịch một phiên điều trần cho ứng cử viên Tòa án Tối cao.
+> 📝 **Sentence:** The Senate judiciary committee scheduled a hearing for the Supreme Court nominee.
+> 🇻🇳 **Translation:** Ủy ban tư pháp Thượng viện đã lên lịch một phiên điều trần cho ứng cử viên Tòa án Tối cao.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **hearing**.
 ?
-1. Hearing aid
-2. Fair hearing
-3. Hearing loss
+> 🔗 **Collocations:**
+> 1. Hearing aid
+> 2. Fair hearing
+> 3. Hearing loss
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **hearing**.
 ?
-**Root:** Old English 'hieran' (to hear), Proto-Germanic '*hauzijaną'
-**Related types:** (noun/verb) hear (verb)
+> 🌱 **Root:** Old English `hieran` (to hear), Proto-Germanic `*hauzijaną`
+> 👨‍👩‍👧 **Family:** *(noun/verb)* hear *(verb)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The committee will hold a ==hearing== on the proposed environmental regulations.*
+
+> 🇻🇳 **Vi:** Ủy ban sẽ tổ chức một phiên điều trần về các quy định môi trường được đề xuất.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ˈhɪərɪŋ/*
+?
+**hearing**
 ---
+
 
 ## 📈 Learning Progress
 

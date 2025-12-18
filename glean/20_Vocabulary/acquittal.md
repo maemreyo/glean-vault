@@ -10,7 +10,7 @@ status: done
 # acquittal
 
 > [!info] Word Analysis
-> **IPA:** /əˈkwɪtəl/
+> **IPA:** */əˈkwɪtəl/*
 > **Part of Speech:** noun
 > **CEFR Level:** C1
 > **Register:** formal/legal
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** A formal declaration that someone is not guilty of a crime.
->
+
 > **Context Meaning:** A legal judgment of not guilty; release from a charge or obligation.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** sự trắng án, sự miễn tội
 > - **Contextual:** bản tuyên bố không có tội
->
+
 > **Nuances:**
 > - Used specifically in legal contexts
 > - Different from innocence (acquit means insufficient evidence)
@@ -32,29 +32,29 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[acquittal]] /əˈkwɪtəl/
-> - **Verb:** [[acquit]] /əˈkwɪt/
-> - **Adj:** acquitted /əˈkwɪtɪd/
+> - **Noun:** [[acquittal]] (*/əˈkwɪtəl/*)
+> - **Verb:** [[acquit]] (*/əˈkwɪt/*)
+> - **Adj:** acquitted (*/əˈkwɪtɪd/*)
 > - **Adv:** N/A
->
+
 > **Synonyms:**
-> - [[exoneration]] /ɪɡˌzɒnəˈreɪʃən/ : formal clearing of blame
-> - [[absolution]] /æbsəˈluːʃən/ : release from guilt
->
+> - [[exoneration]] (*/ɪɡˌzɒnəˈreɪʃən/*) : formal clearing of blame
+> - [[absolution]] (*/æbsəˈluːʃən/*) : release from guilt
+
 > **Antonyms:**
-> - [[conviction]] /kənˈvɪkʃən/ : finding of guilt
-> - [[condemnation]] /ˌkɒndəmˈneɪʃən/ : expression of disapproval
+> - [[conviction]] (*/kənˈvɪkʃən/*) : finding of guilt
+> - [[condemnation]] (*/ˌkɒndəmˈneɪʃən/*) : expression of disapproval
 
 > [!success] Context & Usage
 > **Collocations:**
 > 1. Full acquittal
 > 2. Acquittal on all charges
 > 3. Shocking acquittal
->
+
 > **1. Legal Context**
 > - **Sentence:** The jury returned a verdict of acquittal after deliberating for just two hours.
 > - **Translation:** Bồi thẩm đoàn đã đưa ra phán quyết trắng án sau khi xem xét chỉ trong hai giờ.
->
+
 > **2. Financial Context**
 > - **Sentence:** The court granted his acquittal from the debt due to bankruptcy proceedings.
 > - **Translation:** Tòa án đã cho ông ta miễn nợ do thủ tục phá sản.
@@ -78,40 +78,62 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **acquittal** (/əˈkwɪtəl/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **acquittal** (*/əˈkwɪtəl/*) mean?
 ?
-**Meaning:** A formal declaration that someone is not guilty of a crime or a release from a charge/obligation
+> 📖 **Meaning:** A formal declaration that someone is not guilty of a crime or a release from a charge/obligation
+> 🇻🇳 **Vietnamese:** sự trắng án, sự miễn tội
+> 🗣️ **IPA:** */əˈkwɪtəl/*
+> 💡 **Nuance:** Legal term meaning insufficient evidence, not proof of innocence
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "A formal legal judgment declaring someone not guilty of a crime"
 **Vietnamese:** sự trắng án, sự miễn tội
-**IPA:** /əˈkwɪtəl/
-**Key Nuance:** Legal term meaning insufficient evidence, not proof of innocence
-
-### Card 2: Production (Reverse)
-Context/Definition: "A formal legal judgment declaring someone not guilty of a crime" → Word?
-(Vietnamese: sự trắng án, sự miễn tội) -> Word?
+→ **Target Word?**
 ?
-**acquittal** (/əˈkwɪtəl/)
+**acquittal** (*/əˈkwɪtəl/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **acquittal** in a sentence.
 ?
-**Sentence:** The high-profile case ended with a surprising acquittal that sparked public debate.
-**Translation:** Vụ án được dư luận quan tâm đã kết thúc bằng một bản trắng án đáng gây tranh cãi.
+> 📝 **Sentence:** The high-profile case ended with a surprising acquittal that sparked public debate.
+> 🇻🇳 **Translation:** Vụ án được dư luận quan tâm đã kết thúc bằng một bản trắng án đáng gây tranh cãi.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **acquittal**.
 ?
-1. Full acquittal
-2. Acquittal on all charges
-3. Shocking acquittal
+> 🔗 **Collocations:**
+> 1. Full acquittal
+> 2. Acquittal on all charges
+> 3. Shocking acquittal
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **acquittal**.
 ?
-**Root:** Latin 'acquitter' (to free from) via Old French
-**Related types:** (noun/verb) acquit (verb), acquitted (adjective)
+> 🌱 **Root:** Latin `acquitter` (to free from) via Old French
+> 👨‍👩‍👧 **Family:** 
+> - *(noun/verb)* acquit *(verb)*
+> - acquitted *(adjective)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The jury returned a verdict of ==acquittal== after deliberating for just two hours.*
+
+> 🇻🇳 **Vi:** Bồi thẩm đoàn đã đưa ra phán quyết trắng án sau khi xem xét chỉ trong hai giờ.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */əˈkwɪtəl/*
+?
+**acquittal**
 ---
+
 
 ## 📈 Learning Progress
 

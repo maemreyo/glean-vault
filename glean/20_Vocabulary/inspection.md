@@ -10,7 +10,7 @@ status: done
 # inspection
 
 > [!info] Word Analysis
-> **IPA:** /ɪnˈspekʃən/
+> **IPA:** */ɪnˈspekʃən/*
 > **Part of Speech:** noun
 > **CEFR Level:** B2
 > **Register:** formal/neutral
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** The act of looking into something.
->
+
 > **Context Meaning:** 1) Formal or official examination of something 2) Careful viewing or scrutiny 3) The act of inspecting or examining something to check its quality, condition, or correctness.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** sự thanh tra, sự kiểm tra
 > - **Contextual:** sự xem xét, sự giám sát, sự thẩm tra
->
+
 > **Nuances:**
 > - Can be formal (official) or informal (personal)
 > - Focuses on visual examination
@@ -32,22 +32,22 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[inspection]] /ɪnˈspekʃən/, [[inspector]] /ɪnˈspektə/
-> - **Verb:** [[inspect]] /ɪnˈspekt/
-> - **Adj:** [[inspectable]] /ɪnˈspektəbl/, [[inspective]] /ɪnˈspektɪv/
+> - **Noun:** [[inspection]] (*/ɪnˈspekʃən/*), [[inspector]] (*/ɪnˈspektə/*)
+> - **Verb:** [[inspect]] (*/ɪnˈspekt/*)
+> - **Adj:** [[inspectable]] (*/ɪnˈspektəbl/*), [[inspective]] (*/ɪnˈspektɪv/*)
 > - **Adv:** [[inspective]] (can function as adverb in some contexts)
->
+
 > **Synonyms:**
-> - [[examination]] /ɪɡˌzæmɪˈneɪʃən/ : formal testing
-> - [[check]] /tʃek/ : quick verification
-> - [[review]] /rɪˈvjuː/ : looking over
-> - [[survey]] /ˈsɜːveɪ/ : general overview
->
+> - [[examination]] (*/ɪɡˌzæmɪˈneɪʃən/*) : formal testing
+> - [[check]] (*/tʃek/*) : quick verification
+> - [[review]] (*/rɪˈvjuː/*) : looking over
+> - [[survey]] (*/ˈsɜːveɪ/*) : general overview
+
 > **Antonyms:**
-> - [[ignore]] /ɪɡˈnɔː/ : pay no attention
-> - [[neglect]] /nɪˈɡlekt/ : fail to check
-> - [[overlook]] /ˌəʊvəˈlʊk/ : fail to notice
-> - [[disregard]] /ˌdɪsrɪˈɡɑːd/ : pay no attention
+> - [[ignore]] (*/ɪɡˈnɔː/*) : pay no attention
+> - [[neglect]] (*/nɪˈɡlekt/*) : fail to check
+> - [[overlook]] (*/ˌəʊvəˈlʊk/*) : fail to notice
+> - [[disregard]] (*/ˌdɪsrɪˈɡɑːd/*) : pay no attention
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -56,11 +56,11 @@ status: done
 > 3. thorough inspection
 > 4. visual inspection
 > 5. pass inspection
->
+
 > **1. Official Context**
 > - **Sentence:** The factory must pass the safety inspection before it can resume operations.
 > - **Translation:** Nhà máy phải qua kiểm tra an toàn trước khi có thể tiếp tục hoạt động.
->
+
 > **2. Quality Control Context**
 > - **Sentence:** Each product undergoes a thorough quality inspection before shipping.
 > - **Translation:** Mỗi sản phẩm đều trải qua quá trình kiểm tra chất lượng kỹ lưỡng trước khi vận chuyển.
@@ -84,40 +84,63 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **inspection** (/ɪnˈspekʃən/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **inspection** (*/ɪnˈspekʃən/*) mean?
 ?
-**Meaning:** Formal or official examination; careful viewing or scrutiny of something
+> 📖 **Meaning:** Formal or official examination; careful viewing or scrutiny of something
+> 🇻🇳 **Vietnamese:** sự thanh tra, sự kiểm tra
+> 🗣️ **IPA:** */ɪnˈspekʃən/*
+> 💡 **Nuance:** Focuses on visual examination for quality or compliance
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "Formal examination of something to check its quality or condition"
 **Vietnamese:** sự thanh tra, sự kiểm tra
-**IPA:** /ɪnˈspekʃən/
-**Key Nuance:** Focuses on visual examination for quality or compliance
-
-### Card 2: Production (Reverse)
-Context/Definition: "Formal examination of something to check its quality or condition" → Word?
-(Vietnamese: sự thanh tra, sự kiểm tra) -> Word?
+→ **Target Word?**
 ?
-**inspection** (/ɪnˈspekʃən/)
+**inspection** (*/ɪnˈspekʃən/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **inspection** in a sentence.
 ?
-**Sentence:** The restaurant passed its health inspection with flying colors.
-**Translation:** Nhà hàng đã vượt qua cuộc thanh tra vệ sinh một cách xuất sắc.
+> 📝 **Sentence:** The restaurant passed its health inspection with flying colors.
+> 🇻🇳 **Translation:** Nhà hàng đã vượt qua cuộc thanh tra vệ sinh một cách xuất sắc.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **inspection**.
 ?
-1. safety inspection
-2. regular inspection
-3. thorough inspection
+> 🔗 **Collocations:**
+> 1. safety inspection
+> 2. regular inspection
+> 3. thorough inspection
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **inspection**.
 ?
-**Root:** Latin 'inspicere' (to look into, examine)
-**Related types:** inspect (verb), inspector (noun), inspectable (adjective)
+> 🌱 **Root:** Latin `inspicere` (to look into, examine)
+> 👨‍👩‍👧 **Family:** 
+> - inspect *(verb)*
+> - inspector *(noun)*
+> - inspectable *(adjective)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The factory must pass the safety ==inspection== before it can resume operations.*
+
+> 🇻🇳 **Vi:** Nhà máy phải qua kiểm tra an toàn trước khi có thể tiếp tục hoạt động.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ɪnˈspekʃən/*
+?
+**inspection**
 ---
+
 
 ## 📈 Learning Progress
 

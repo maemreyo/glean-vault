@@ -10,7 +10,7 @@ status: done
 # capture
 
 > [!info] Word Analysis
-> **IPA:** /ˈkæptʃər/
+> **IPA:** */ˈkæptʃər/*
 > **Part of Speech:** verb (also noun)
 > **CEFR Level:** B1
 > **Register:** neutral
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** To take into one's possession or control by force.
->
+
 > **Context Meaning:** To record, express, or represent something accurately; to attract and hold attention; to take prisoner.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** bắt, ghi lại
 > - **Contextual:** nắm bắt, thể hiện
->
+
 > **Nuances:**
 > - Can be literal (taking prisoner) or figurative (recording moments)
 > - Used in photography, art, business, and military contexts
@@ -32,29 +32,29 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[capture]] /ˈkæptʃər/, [[captor]] /ˈkæptər/
-> - **Verb:** [[capture]] /ˈkæptʃər/
-> - **Adj:** [[captured]] /ˈkæptʃərd/
+> - **Noun:** [[capture]] (*/ˈkæptʃər/*), [[captor]] (*/ˈkæptər/*)
+> - **Verb:** [[capture]] (*/ˈkæptʃər/*)
+> - **Adj:** [[captured]] (*/ˈkæptʃərd/*)
 > - **Adv:** N/A
->
+
 > **Synonyms:**
-> - [[seize]] /siːz/ : take suddenly by force
-> - [[record]] /rɪˈkɔːrd/ : preserve for later
->
+> - [[seize]] (*/siːz/*) : take suddenly by force
+> - [[record]] (*/rɪˈkɔːrd/*) : preserve for later
+
 > **Antonyms:**
-> - [[release]] /rɪˈliːs/ : set free
-> - [[miss]] /mɪs/ : fail to obtain
+> - [[release]] (*/rɪˈliːs/*) : set free
+> - [[miss]] (*/mɪs/*) : fail to obtain
 
 > [!success] Context & Usage
 > **Collocations:**
 > 1. Capture attention
 > 2. Capture moments
 > 3. Capture the essence
->
+
 > **1. Photography/Art**
 > - **Sentence:** The photographer managed to capture the sunset perfectly in her landscape shot.
 > - **Translation:** Nhiếp ảnh gia đã thành công ghi lại khoảnh khắc hoàng hôn một cách hoàn hảo trong bức ảnh phong cảnh của mình.
->
+
 > **2. Business Context**
 > - **Sentence:** The new advertising campaign successfully captured the interest of young consumers.
 > - **Translation:** Chiến dịch quảng cáo mới đã thành công trong việc thu hút sự quan tâm của người tiêu dùng trẻ.
@@ -78,40 +78,63 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **capture** (/ˈkæptʃər/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **capture** (*/ˈkæptʃər/*) mean?
 ?
-**Meaning:** To take into possession, record accurately, or attract and hold attention
+> 📖 **Meaning:** To take into possession, record accurately, or attract and hold attention
+> 🇻🇳 **Vietnamese:** bắt, ghi lại
+> 🗣️ **IPA:** */ˈkæptʃər/*
+> 💡 **Nuance:** Can be literal (seizing) or figurative *(recording/representing)*
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "To record or represent something accurately"
 **Vietnamese:** bắt, ghi lại
-**IPA:** /ˈkæptʃər/
-**Key Nuance:** Can be literal (seizing) or figurative (recording/representing)
-
-### Card 2: Production (Reverse)
-Context/Definition: "To record or represent something accurately" → Word?
-(Vietnamese: bắt, ghi lại) -> Word?
+→ **Target Word?**
 ?
-**capture** (/ˈkæptʃər/)
+**capture** (*/ˈkæptʃər/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **capture** in a sentence.
 ?
-**Sentence:** The documentary captured the true spirit of the community through intimate interviews.
-**Translation:** Bộ phim tài liệu đã nắm bắt được tinh thần thực sự của cộng đồng thông qua các cuộc phỏng vấn sâu sắc.
+> 📝 **Sentence:** The documentary captured the true spirit of the community through intimate interviews.
+> 🇻🇳 **Translation:** Bộ phim tài liệu đã nắm bắt được tinh thần thực sự của cộng đồng thông qua các cuộc phỏng vấn sâu sắc.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **capture**.
 ?
-1. Capture attention
-2. Capture moments
-3. Capture the essence
+> 🔗 **Collocations:**
+> 1. Capture attention
+> 2. Capture moments
+> 3. Capture the essence
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **capture**.
 ?
-**Root:** Latin 'captura' from 'capere' (to take, seize)
-**Related types:** (noun/verb) capture (noun/verb), captor (noun), captured (adjective)
+> 🌱 **Root:** Latin `captura` from `capere` (to take, seize)
+> 👨‍👩‍👧 **Family:** 
+> - *(noun/verb)* capture *(noun/verb)*
+> - captor *(noun)*
+> - captured *(adjective)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The photographer managed to ==capture== the sunset perfectly in her landscape shot.*
+
+> 🇻🇳 **Vi:** Nhiếp ảnh gia đã thành công ghi lại khoảnh khắc hoàng hôn một cách hoàn hảo trong bức ảnh phong cảnh của mình.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ˈkæptʃər/*
+?
+**capture**
 ---
+
 
 ## 📈 Learning Progress
 

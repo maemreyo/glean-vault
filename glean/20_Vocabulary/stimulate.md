@@ -10,7 +10,7 @@ status: done
 # stimulate
 
 > [!info] Word Analysis
-> **IPA:** /ˈstɪmjuleɪt/
+> **IPA:** */ˈstɪmjuleɪt/*
 > **Part of Speech:** verb
 > **CEFR Level:** B2
 > **Register:** neutral/academic
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** To urge forward or provoke activity.
->
+
 > **Context Meaning:** 1) To encourage development or increased activity 2) To make someone or something more active or enthusiastic 3) To make a body part or organ function more actively.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** kích thích
 > - **Contextual:** khuyến khích, thúc đẩy, làm hứng thú
->
+
 > **Nuances:**
 > - Can be physical (stimulating nerves) or mental (stimulating interest)
 > - Implies creating response rather than forcing it
@@ -32,22 +32,22 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[stimulation]] /ˌstɪmjuˈleɪʃən/, [[stimulus]] /ˈstɪmjələs/
-> - **Verb:** [[stimulate]] /ˈstɪmjuleɪt/
-> - **Adj:** [[stimulating]] /ˈstɪmjuleɪtɪŋ/, [[stimulative]] /ˈstɪmjələtɪv/
-> - **Adv:** [[stimulatingly]] /ˈstɪmjuleɪtɪŋli/
->
+> - **Noun:** [[stimulation]] (*/ˌstɪmjuˈleɪʃən/*), [[stimulus]] (*/ˈstɪmjələs/*)
+> - **Verb:** [[stimulate]] (*/ˈstɪmjuleɪt/*)
+> - **Adj:** [[stimulating]] (*/ˈstɪmjuleɪtɪŋ/*), [[stimulative]] (*/ˈstɪmjələtɪv/*)
+> - **Adv:** [[stimulatingly]] (*/ˈstɪmjuleɪtɪŋli/*)
+
 > **Synonyms:**
-> - [[encourage]] /ɪnˈkʌrɪdʒ/ : give support and confidence
-> - [[promote]] /prəˈməʊt/ : support or actively encourage
-> - [[provoke]] /prəˈvəʊk/ : stimulate or give rise to
-> - [[spur]] /spɜːr/ : give an incentive or stimulus to
->
+> - [[encourage]] (*/ɪnˈkʌrɪdʒ/*) : give support and confidence
+> - [[promote]] (*/prəˈməʊt/*) : support or actively encourage
+> - [[provoke]] (*/prəˈvəʊk/*) : stimulate or give rise to
+> - [[spur]] (*/spɜːr/*) : give an incentive or stimulus to
+
 > **Antonyms:**
-> - [[inhibit]] /ɪnˈhɪbɪt/ : restrain or prevent
-> - [[discourage]] /dɪsˈkʌrɪdʒ/ : cause to lose confidence
-> - [[suppress]] /səˈpres/ : restrain or prevent
-> - [[depress]] /dɪˈpres/ : reduce activity or function
+> - [[inhibit]] (*/ɪnˈhɪbɪt/*) : restrain or prevent
+> - [[discourage]] (*/dɪsˈkʌrɪdʒ/*) : cause to lose confidence
+> - [[suppress]] (*/səˈpres/*) : restrain or prevent
+> - [[depress]] (*/dɪˈpres/*) : reduce activity or function
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -55,11 +55,11 @@ status: done
 > 2. stimulate economy
 > 3. stimulate interest
 > 4. stimulate discussion
->
+
 > **1. Economic Context**
 > - **Sentence:** The government implemented policies to stimulate economic growth.
 > - **Translation:** Chính phủ đã thực hiện các chính sách để kích thích tăng trưởng kinh tế.
->
+
 > **2. Educational Context**
 > - **Sentence:** The interactive games were designed to stimulate children's curiosity.
 > - **Translation:** Các trò chơi tương tác được thiết kế để kích thích sự tò mò của trẻ em.
@@ -83,41 +83,64 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **stimulate** (/ˈstɪmjuleɪt/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **stimulate** (*/ˈstɪmjuleɪt/*) mean?
 ?
-**Meaning:** To encourage development or make something more active/enthusiastic
-**Vietnamese:** kích thích
-**IPA:** /ˈstɪmjuleɪt/
-**Key Nuance:** Creates response rather than forcing action
+> 📖 **Meaning:** To encourage development or make something more active/enthusiastic
+> 🇻🇳 **Vietnamese:** kích thích
+> 🗣️ **IPA:** */ˈstɪmjuleɪt/*
+> 💡 **Nuance:** Creates response rather than forcing action
 <!--SR:!2025-12-22,4,270-->
 
-### Card 2: Production (Reverse)
-Context/Definition: "To encourage increased activity or development" → Word?
-(Vietnamese: kích thích) -> Word?
-?
-**stimulate** (/ˈstɪmjuleɪt/)
+**Card 2: Production (Reverse)**
 
-### Card 3: Usage (Multi-line)
+
+**Definition:** "To encourage increased activity or development"
+**Vietnamese:** kích thích
+→ **Target Word?**
+?
+**stimulate** (*/ˈstɪmjuleɪt/*)
+
+**Card 3: Usage (Multi-line)**
+
 Use **stimulate** in a sentence.
 ?
-**Sentence:** The new art gallery aims to stimulate interest in contemporary art.
-**Translation:** Phòng trưng bày nghệ thuật mới nhằm mục đích kích thích sự quan tâm đến nghệ thuật đương đại.
+> 📝 **Sentence:** The new art gallery aims to stimulate interest in contemporary art.
+> 🇻🇳 **Translation:** Phòng trưng bày nghệ thuật mới nhằm mục đích kích thích sự quan tâm đến nghệ thuật đương đại.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **stimulate**.
 ?
-1. stimulate growth
-2. stimulate economy
-3. stimulate interest
+> 🔗 **Collocations:**
+> 1. stimulate growth
+> 2. stimulate economy
+> 3. stimulate interest
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **stimulate**.
 ?
-**Root:** Latin 'stimulare' (to goad, urge on)
-**Related types:** stimulation (noun), stimulus (noun), stimulating (adjective)
+> 🌱 **Root:** Latin `stimulare` (to goad, urge on)
+> 👨‍👩‍👧 **Family:** 
+> - stimulation *(noun)*
+> - stimulus *(noun)*
+> - stimulating *(adjective)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The government implemented policies to ==stimulate== economic growth.*
+
+> 🇻🇳 **Vi:** Chính phủ đã thực hiện các chính sách để kích thích tăng trưởng kinh tế.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ˈstɪmjuleɪt/*
+?
+**stimulate**
 ---
+
 
 ## 📈 Learning Progress
 

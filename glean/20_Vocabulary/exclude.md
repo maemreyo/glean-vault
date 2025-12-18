@@ -10,7 +10,7 @@ status: done
 # Exclude
 
 > [!info] Word Analysis
-> **IPA:** /ɪkˈskluːd/
+> **IPA:** */ɪkˈskluːd/*
 > **Part of Speech:** Verb
 > **CEFR Level:** B1
 > **Register:** Formal/neutral
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** To prevent from entering; keep out; shut out
->
+
 > **Context Meaning:** To deliberately not include or consider something; to remove from a group; to prevent from happening
->
+
 > **Vietnamese Translation:**
 > - **Direct:** loại trừ, loại ra
 > - **Contextual:** loại bỏ, không bao gồm, ngăn chặn
->
+
 > **Nuances:**
 > - Active choice to not include someone/something
 > - More formal than "leave out" or "keep out"
@@ -32,20 +32,20 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[exclusion]] /ɪkˈskluːʒn/
-> - **Verb:** [[exclude]] /ɪkˈskluːd/
-> - **Adj:** [[exclusive]] /ɪkˈskluːsɪv/, [[excluded]] /ɪkˈskluːdɪd/
-> - **Adv:** [[exclusively]] /ɪkˈskluːsɪvli/
->
+> - **Noun:** [[exclusion]] (*/ɪkˈskluːʒn/*)
+> - **Verb:** [[exclude]] (*/ɪkˈskluːd/*)
+> - **Adj:** [[exclusive]] (*/ɪkˈskluːsɪv/*), [[excluded]] (*/ɪkˈskluːdɪd/*)
+> - **Adv:** [[exclusively]] (*/ɪkˈskluːsɪvli/*)
+
 > **Synonyms:**
-> - [[omit]] /əʊˈmɪt/ : leave out intentionally
-> - [[bar]] /bɑː(r)/ : prevent from entering
-> - [[prohibit]] /prəˈhɪbɪt/ : forbid by authority
->
+> - [[omit]] (*/əʊˈmɪt/*) : leave out intentionally
+> - [[bar]] (*/bɑː(r)/*) : prevent from entering
+> - [[prohibit]] (*/prəˈhɪbɪt/*) : forbid by authority
+
 > **Antonyms:**
-> - [[include]] /ɪnˈkluːd/ : make part of whole
-> - [[admit]] /ədˈmɪt/ : allow entry
-> - [[embrace]] /ɪmˈbreɪs/ : accept willingly
+> - [[include]] (*/ɪnˈkluːd/*) : make part of whole
+> - [[admit]] (*/ədˈmɪt/*) : allow entry
+> - [[embrace]] (*/ɪmˈbreɪs/*) : accept willingly
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -53,11 +53,11 @@ status: done
 > 2. exclude the possibility
 > 3. rule out/exclude
 > 4. mutually exclusive
->
+
 > **1. Social Context**
 > - **Sentence:** The team excluded the new member from important discussions.
 > - **Translation:** Nhóm đã loại trừ thành viên mới khỏi các cuộc thảo luận quan trọng.
->
+
 > **2. Logical/Analytical Context**
 > - **Sentence:** We cannot exclude the possibility of human error in the experiment.
 > - **Translation:** Chúng ta không thể loại trừ khả năng có lỗi của con người trong thí nghiệm.
@@ -81,40 +81,61 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **exclude** (/ɪkˈskluːd/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **exclude** (*/ɪkˈskluːd/*) mean?
 ?
-**Meaning:** To deliberately not include or consider; to prevent from entering; to shut out
+> 📖 **Meaning:** To deliberately not include or consider; to prevent from entering; to shut out
+> 🇻🇳 **Vietnamese:** loại trừ, loại ra
+> 🗣️ **IPA:** */ɪkˈskluːd/*
+> 💡 **Nuance:** Active choice to remove/keep out; more formal than "leave out"
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "To prevent from entering or being part of something"
 **Vietnamese:** loại trừ, loại ra
-**IPA:** /ɪkˈskluːd/
-**Key Nuance:** Active choice to remove/keep out; more formal than "leave out"
-
-### Card 2: Production (Reverse)
-Context/Definition: "To prevent from entering or being part of something" → Word?
-(Vietnamese: loại trừ, loại ra) -> Word?
+→ **Target Word?**
 ?
-**exclude** (/ɪkˈskluːd/)
+**exclude** (*/ɪkˈskluːd/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **exclude** in a sentence.
 ?
-**Sentence:** Please exclude dairy products from the recipe as I'm allergic.
-**Translation:** Vui lòng loại bỏ các sản phẩm sữa khỏi công thức vì tôi bị dị ứng.
+> 📝 **Sentence:** Please exclude dairy products from the recipe as I'm allergic.
+> 🇻🇳 **Translation:** Vui lòng loại bỏ các sản phẩm sữa khỏi công thức vì tôi bị dị ứng.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **exclude**.
 ?
-1. exclude from
-2. exclude the possibility
-3. mutually exclusive
+> 🔗 **Collocations:**
+> 1. exclude from
+> 2. exclude the possibility
+> 3. mutually exclusive
+<!--SR:!2025-12-21,3,250-->
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **exclude**.
 ?
-**Root:** Latin "excludere" (to shut out)
-**Related types:** (noun) exclusion - (verb) exclude - (adj) exclusive 
+> 🌱 **Root:** Latin `excludere` (to shut out)
+> 👨‍👩‍👧 **Family:** *(noun)* exclusion - *(verb)* exclude - *(adj)* exclusive 
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The team ==exclude==d the new member from important discussions.*
+
+> 🇻🇳 **Vi:** Nhóm đã loại trừ thành viên mới khỏi các cuộc thảo luận quan trọng.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ɪkˈskluːd/*
+?
+**Exclude**
 ---
+
 
 ## 📈 Learning Progress
 

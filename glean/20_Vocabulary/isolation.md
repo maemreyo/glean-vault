@@ -10,7 +10,7 @@ status: done
 # isolation
 
 > [!info] Word Analysis
-> **IPA:** /ˌaɪ.səˈleɪ.ʃən/
+> **IPA:** */ˌaɪ.səˈleɪ.ʃən/*
 > **Part of Speech:** noun
 > **CEFR Level:** B2
 > **Register:** formal/neutral
@@ -18,16 +18,16 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** The state of being alone or separated from others
->
+
 > **Context Meaning:**
 > 1. The state of being separated from other people or places
 > 2. A situation where a country or group refuses to communicate with others
 > 3. (Medical) The separation of patients with contagious diseases
->
+
 > **Vietnamese Translation:**
 > - **Direct:** sự cô lập, sự cách ly
 > - **Contextual:** sự cô đơn, sự biệt lập
->
+
 > **Nuances:**
 > - Can be voluntary (seeking solitude) or involuntary (forced separation)
 > - In psychology, prolonged isolation can have negative mental health effects
@@ -35,34 +35,34 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[isolation]] /ˌaɪ.səˈleɪ.ʃən/ : state of being isolated
-> - **Verb:** [[isolate]] /ˈaɪ.sə.leɪt/ : to set apart from others
-> - **Adj:** [[isolated]] /ˈaɪ.sə.leɪ.t̬ɪd/ : alone or separated
-> - **Adj:** [[isolating]] /ˈaɪ.sə.leɪ.t̬ɪŋ/ : causing isolation
->
+> - **Noun:** [[isolation]] (*/ˌaɪ.səˈleɪ.ʃən/*) : state of being isolated
+> - **Verb:** [[isolate]] (*/ˈaɪ.sə.leɪt/*) : to set apart from others
+> - **Adj:** [[isolated]] (*/ˈaɪ.sə.leɪ.t̬ɪd/*) : alone or separated
+> - **Adj:** [[isolating]] (*/ˈaɪ.sə.leɪ.t̬ɪŋ/*) : causing isolation
+
 > **Synonyms:**
-> - [[solitude]] /ˈsɑː.lə.tuːd/ : state of being alone (often by choice)
-> - [[seclusion]] /sɪˈkluː.ʒən/ : staying away from others
-> - [[separation]] /ˌsep.əˈreɪ.ʃən/ : act of moving apart
-> - [[quarantine]] /ˈkwɔːr.ən.tiːn/ : isolation to prevent disease spread
-> - [[detachment]] /dɪˈtætʃ.mənt/ : emotional or physical separation
->
+> - [[solitude]] (*/ˈsɑː.lə.tuːd/*) : state of being alone (often by choice)
+> - [[seclusion]] (*/sɪˈkluː.ʒən/*) : staying away from others
+> - [[separation]] (*/ˌsep.əˈreɪ.ʃən/*) : act of moving apart
+> - [[quarantine]] (*/ˈkwɔːr.ən.tiːn/*) : isolation to prevent disease spread
+> - [[detachment]] (*/dɪˈtætʃ.mənt/*) : emotional or physical separation
+
 > **Antonyms:**
-> - [[connection]] /kəˈnek.ʃən/ : relationship or link
-> - [[community]] /kəˈmjuː.nə.t̬i/ : group of people together
-> - [[integration]] /ˌɪn.t̬əˈɡreɪ.ʃən/ : joining together
-> - [[socialization]] /ˌsoʊ.ʃə.ləˈzeɪ.ʃən/ : participating in society
+> - [[connection]] (*/kəˈnek.ʃən/*) : relationship or link
+> - [[community]] (*/kəˈmjuː.nə.t̬i/*) : group of people together
+> - [[integration]] (*/ˌɪn.t̬əˈɡreɪ.ʃən/*) : joining together
+> - [[socialization]] (*/ˌsoʊ.ʃə.ləˈzeɪ.ʃən/*) : participating in society
 
 > [!success] Context & Usage
 > **Collocations:**
 > 1. social isolation (lack of social contact)
 > 2. political isolation (separation from other countries)
 > 3. complete isolation (total separation)
->
+
 > **1. Example Context 1 - Mental Health**
 > - **Sentence:** Prolonged isolation can lead to depression and anxiety disorders.
 > - **Translation:** Sự cô lập kéo dài có thể dẫn đến trầm cảm và rối loạn lo âu.
->
+
 > **2. Example Context 2 - Pandemic**
 > - **Sentence:** Self-isolation was recommended to prevent the spread of the virus.
 > - **Translation:** Tự cách ly được khuyến nghị để ngăn chặn sự lây lan của virus.
@@ -86,40 +86,63 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **isolation** (/ˌaɪ.səˈleɪ.ʃən/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **isolation** (*/ˌaɪ.səˈleɪ.ʃən/*) mean?
 ?
-**Meaning:** The state of being separated from others; complete or partial separation from society
+> 📖 **Meaning:** The state of being separated from others; complete or partial separation from society
+> 🇻🇳 **Vietnamese:** sự cô lập, sự cách ly
+> 🗣️ **IPA:** */ˌaɪ.səˈleɪ.ʃən/*
+> 💡 **Nuance:** Can be voluntary or involuntary; often has negative connotations
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "The patient was put in ___ to prevent infection of others"
 **Vietnamese:** sự cô lập, sự cách ly
-**IPA:** /ˌaɪ.səˈleɪ.ʃən/
-**Key Nuance:** Can be voluntary or involuntary; often has negative connotations
-
-### Card 2: Production (Reverse)
-Context/Definition: "The patient was put in ___ to prevent infection of others" → Word?
-(Vietnamese: sự cô lập, sự cách ly) -> Word?
+→ **Target Word?**
 ?
-**isolation** (/ˌaɪ.səˈleɪ.ʃən/)
+**isolation** (*/ˌaɪ.səˈleɪ.ʃən/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **isolation** in a sentence.
 ?
-**Sentence:** The writer moved to a remote cabin, seeking isolation to focus on her novel.
-**Translation:** Nhà văn chuyển đến một cabin ở vùng hẻo lánh, tìm kiếm sự cô lập để tập trung vào tiểu thuyết của mình.
+> 📝 **Sentence:** The writer moved to a remote cabin, seeking isolation to focus on her novel.
+> 🇻🇳 **Translation:** Nhà văn chuyển đến một cabin ở vùng hẻo lánh, tìm kiếm sự cô lập để tập trung vào tiểu thuyết của mình.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **isolation**.
 ?
-1. social isolation
-2. political isolation
-3. complete isolation
+> 🔗 **Collocations:**
+> 1. social isolation
+> 2. political isolation
+> 3. complete isolation
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **isolation**.
 ?
-**Root:** Latin isolare ("to make into an island"), from insula ("island")
-**Related types:** (verb) isolate, (adj) isolated, (adj) isolating
+> 🌱 **Root:** Latin isolare (`to make into an island`), from insula (`island`)
+> 👨‍👩‍👧 **Family:** 
+> - *(verb)* isolate
+> - *(adj)* isolated
+> - *(adj)* isolating
 
+**Card 6: Context Cloze**
+
+> 🗣️ *Prolonged ==isolation== can lead to depression and anxiety disorders.*
+
+> 🇻🇳 **Vi:** Sự cô lập kéo dài có thể dẫn đến trầm cảm và rối loạn lo âu.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ˌaɪ.səˈleɪ.ʃən/*
+?
+**isolation**
 ---
+
 
 ## 📈 Learning Progress
 

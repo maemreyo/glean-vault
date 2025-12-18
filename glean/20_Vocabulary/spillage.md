@@ -10,7 +10,7 @@ status: done
 # spillage
 
 > [!info] Word Analysis
-> **IPA:** /ˈspɪlɪdʒ/
+> **IPA:** */ˈspɪlɪdʒ/*
 > **Part of Speech:** noun
 > **CEFR Level:** B2
 > **Register:** neutral/technical
@@ -18,16 +18,16 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** The act or result of spilling; liquid that has been accidentally let fall.
->
+
 > **Context Meaning:**
 > 1. The amount of liquid that has been spilled
 > 2. Escape of confidential or sensitive information
 > 3. Unintended loss or waste
->
+
 > **Vietnamese Translation:**
 > - **Direct:** sự đổ, sự tràn
 > - **Contextual:** sự rò rỉ (thông tin), sự thất thoát
->
+
 > **Nuances:**
 > - Usually accidental (vs intentional pouring)
 > - Can be literal (liquids) or figurative (data, secrets)
@@ -35,31 +35,31 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[spillage]] /ˈspɪlɪdʒ/, [[spill]] /spɪl/
-> - **Verb:** [[spill]] /spɪl/
-> - **Adj:** [[spillable]] /ˈspɪləbl/, [[spilly]] /ˈspɪli/
+> - **Noun:** [[spillage]] (*/ˈspɪlɪdʒ/*), [[spill]] (*/spɪl/*)
+> - **Verb:** [[spill]] (*/spɪl/*)
+> - **Adj:** [[spillable]] (*/ˈspɪləbl/*), [[spilly]] (*/ˈspɪli/*)
 > - **Adv:** N/A
->
+
 > **Synonyms:**
-> - [[leakage]] /ˈliːkɪdʒ/ : unwanted escape
-> - [[seepage]] /ˈsiːpɪdʒ/ : slow escape through small holes
-> - [[overflow]] /ˌəʊvəˈfləʊ/ : flowing over edges
->
+> - [[leakage]] (*/ˈliːkɪdʒ/*) : unwanted escape
+> - [[seepage]] (*/ˈsiːpɪdʒ/*) : slow escape through small holes
+> - [[overflow]] (*/ˌəʊvəˈfləʊ/*) : flowing over edges
+
 > **Antonyms:**
-> - [[containment]] /kənˈteɪnmənt/ : keeping within
-> - [[prevention]] /prɪˈvenʃən/ : stopping before it happens
-> - [[retention]] /rɪˈtenʃən/ : keeping hold of
+> - [[containment]] (*/kənˈteɪnmənt/*) : keeping within
+> - [[prevention]] (*/prɪˈvenʃən/*) : stopping before it happens
+> - [[retention]] (*/rɪˈtenʃən/*) : keeping hold of
 
 > [!success] Context & Usage
 > **Collocations:**
 > 1. Oil spillage
 > 2. Data spillage
 > 3. Spillage prevention
->
+
 > **1. Environmental Context**
 > - **Sentence:** The oil spillage caused significant damage to marine life.
 > - **Translation:** Sự tràn dầu đã gây ra thiệt hại đáng kể cho sinh vật biển.
->
+
 > **2. Security Context**
 > - **Sentence:** The company implemented measures to prevent data spillage.
 > - **Translation:** Công ty đã thực hiện các biện pháp để ngăn chặn sự rò rỉ dữ liệu.
@@ -83,40 +83,62 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **spillage** (/ˈspɪlɪdʒ/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **spillage** (*/ˈspɪlɪdʒ/*) mean?
 ?
-**Meaning:** The act or result of spilling; escaped liquid or information
+> 📖 **Meaning:** The act or result of spilling; escaped liquid or information
+> 🇻🇳 **Vietnamese:** sự đổ, sự tràn
+> 🗣️ **IPA:** */ˈspɪlɪdʒ/*
+> 💡 **Nuance:** Usually accidental; can be literal (liquids) or figurative (data, secrets)
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "The result or amount of something accidentally spilled"
 **Vietnamese:** sự đổ, sự tràn
-**IPA:** /ˈspɪlɪdʒ/
-**Key Nuance:** Usually accidental; can be literal (liquids) or figurative (data, secrets)
-
-### Card 2: Production (Reverse)
-Context/Definition: "The result or amount of something accidentally spilled" → Word?
-(Vietnamese: sự đổ, sự tràn) -> Word?
+→ **Target Word?**
 ?
-**spillage** (/ˈspɪlɪdʒ/)
+**spillage** (*/ˈspɪlɪdʒ/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **spillage** in a sentence.
 ?
-**Sentence:** The spillage from the broken container created a hazardous situation.
-**Translation:** Sự tràn ra từ container bị hỏng đã tạo ra một tình huống nguy hiểm.
+> 📝 **Sentence:** The spillage from the broken container created a hazardous situation.
+> 🇻🇳 **Translation:** Sự tràn ra từ container bị hỏng đã tạo ra một tình huống nguy hiểm.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **spillage**.
 ?
-1. Oil spillage
-2. Data spillage
-3. Spillage prevention
+> 🔗 **Collocations:**
+> 1. Oil spillage
+> 2. Data spillage
+> 3. Spillage prevention
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **spillage**.
 ?
-**Root:** 'spill' + '-age' suffix, from Old English 'spillan'
-**Related types:** (verb/adj) spill (verb), spillable (adjective)
+> 🌱 **Root:** `spill` + `-age` suffix, from Old English `spillan`
+> 👨‍👩‍👧 **Family:** 
+> - *(verb/adj)* spill *(verb)*
+> - spillable *(adjective)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The oil ==spillage== caused significant damage to marine life.*
+
+> 🇻🇳 **Vi:** Sự tràn dầu đã gây ra thiệt hại đáng kể cho sinh vật biển.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ˈspɪlɪdʒ/*
+?
+**spillage**
 ---
+
 
 ## 📈 Learning Progress
 

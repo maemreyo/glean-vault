@@ -10,7 +10,7 @@ status: done
 # analysis
 
 > [!info] Word Analysis
-> **IPA:** /əˈnæləsɪs/ (singular), /əˈnæləsiːz/ (plural)
+> **IPA:** */əˈnæləsɪs/* (singular), (*/əˈnæləsiːz/*) (plural)
 > **Part of Speech:** noun
 > **CEFR Level:** B2
 > **Register:** neutral/academic
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** The process of breaking up into parts.
->
+
 > **Context Meaning:** 1) Detailed examination of elements or structure 2) The process of separating something into its constituent elements 3) A statement of the results of this process.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** sự phân tích
 > - **Contextual:** sự khảo sát, sự nghiên cứu chi tiết, kết quả phân tích
->
+
 > **Nuances:**
 > - Can be process (doing) or result (report)
 > - Implies systematic, methodical approach
@@ -32,22 +32,22 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[analysis]] /əˈnæləsɪs/, [[analyses]] /əˈnæləsiːz/ (plural)
-> - **Verb:** [[analyze]] /ˈænəlaɪz/, [[analyse]] /ˈænəlaɪz/ (UK)
-> - **Adj:** [[analytic]] /ˌænəˈlɪtɪk/, [[analytical]] /ˌænəˈlɪtɪkəl/
-> - **Adv:** [[analytically]] /ˌænəˈlɪtɪkli/
->
+> - **Noun:** [[analysis]] (*/əˈnæləsɪs/*), [[analyses]] (*/əˈnæləsiːz/*) (plural)
+> - **Verb:** [[analyze]] (*/ˈænəlaɪz/*), [[analyse]] (*/ˈænəlaɪz/*) (UK)
+> - **Adj:** [[analytic]] (*/ˌænəˈlɪtɪk/*), [[analytical]] (*/ˌænəˈlɪtɪkəl/*)
+> - **Adv:** [[analytically]] (*/ˌænəˈlɪtɪkli/*)
+
 > **Synonyms:**
-> - [[examination]] /ɪɡˌzæmɪˈneɪʃən/ : detailed inspection
-> - [[investigation]] /ɪnˌvestɪˈɡeɪʃən/ : formal inquiry
-> - [[study]] /ˈstʌdi/ : detailed investigation
-> - [[breakdown]] /ˈbreɪkdaʊn/ : detailed analysis
->
+> - [[examination]] (*/ɪɡˌzæmɪˈneɪʃən/*) : detailed inspection
+> - [[investigation]] (*/ɪnˌvestɪˈɡeɪʃən/*) : formal inquiry
+> - [[study]] (*/ˈstʌdi/*) : detailed investigation
+> - [[breakdown]] (*/ˈbreɪkdaʊn/*) : detailed analysis
+
 > **Antonyms:**
-> - [[synthesis]] /ˈsɪnθəsɪs/ : combining into whole
-> - [[summary]] /ˈsʌməri/ : brief statement
-> - [[overview]] /ˈəʊvəvjuː/ : general view
-> - [[intuition]] /ˌɪntjuˈɪʃən/ : understanding without analysis
+> - [[synthesis]] (*/ˈsɪnθəsɪs/*) : combining into whole
+> - [[summary]] (*/ˈsʌməri/*) : brief statement
+> - [[overview]] (*/ˈəʊvəvjuː/*) : general view
+> - [[intuition]] (*/ˌɪntjuˈɪʃən/*) : understanding without analysis
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -56,11 +56,11 @@ status: done
 > 3. cost-benefit analysis
 > 4. perform analysis
 > 5. data analysis
->
+
 > **1. Scientific Context**
 > - **Sentence:** The laboratory analysis confirmed the presence of the chemical compound.
 > - **Translation:** Phân tích phòng thí nghiệm đã xác nhận sự có mặt của hợp chất hóa học.
->
+
 > **2. Business Context**
 > - **Sentence:** Our market analysis revealed new opportunities for growth.
 > - **Translation:** Phân tích thị trường của chúng tôi đã tiết lộ những cơ hội tăng trưởng mới.
@@ -80,39 +80,62 @@ status: done
 > **Quote:** "Data without analysis is just numbers. Analysis without insight is just commentary."
 > **Source:** [[Anonymous]]
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The laboratory ==analysis== confirmed the presence of the chemical compound.*
+
+> 🇻🇳 **Vi:** Phân tích phòng thí nghiệm đã xác nhận sự có mặt của hợp chất hóa học.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */əˈnæləsɪs/* (singular), (*/əˈnæləsiːz/*) (plural)
+?
+**analysis**
 ---
+
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **analysis** (/əˈnæləsɪs/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **analysis** (*/əˈnæləsɪs/*) mean?
 ?
-**Meaning:** Detailed examination of elements or structure; process of separating into parts
+> 📖 **Meaning:** Detailed examination of elements or structure; process of separating into parts
+> 🇻🇳 **Vietnamese:** sự phân tích
+> 🗣️ **IPA:** */əˈnæləsɪs/*
+> 💡 **Nuance:** Can refer to process or result; implies systematic approach
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "Detailed examination of something's components"
 **Vietnamese:** sự phân tích
-**IPA:** /əˈnæləsɪs/
-**Key Nuance:** Can refer to process or result; implies systematic approach
-
-### Card 2: Production (Reverse)
-Context/Definition: "Detailed examination of something's components" → Word?
-(Vietnamese: sự phân tích) -> Word?
+→ **Target Word?**
 ?
-**analysis** (/əˈnæləsɪs/)
+**analysis** (*/əˈnæləsɪs/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **analysis** in a sentence.
 ?
-**Sentence:** The financial analyst prepared a comprehensive analysis of the company's performance.
-**Translation:** Nhà phân tích tài chính đã chuẩn bị một phân tích toàn diện về hiệu suất của công ty.
+> 📝 **Sentence:** The financial analyst prepared a comprehensive analysis of the company's performance.
+> 🇻🇳 **Translation:** Nhà phân tích tài chính đã chuẩn bị một phân tích toàn diện về hiệu suất của công ty.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **analysis**.
 ?
-1. statistical analysis
-2. in-depth analysis
-3. data analysis
+> 🔗 **Collocations:**
+> 1. statistical analysis
+> 2. in-depth analysis
+> 3. data analysis
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **analysis**.
 ?
-**Root:** Greek 'analyein' (to loosen up, dissolve)
-**Related types:** analyze (verb), analytical (adjective), analyses (plural)
+> 🌱 **Root:** Greek `analyein` (to loosen up, dissolve)
+> 👨‍👩‍👧 **Family:** 
+> - analyze *(verb)*
+> - analytical *(adjective)*
+> - analyses (plural)

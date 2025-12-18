@@ -10,7 +10,7 @@ reindeer
 # {{WORD}}
 
 > [!info] Word Analysis
-> **IPA:** /  /
+> **IPA:** */  /*
 > **Part of Speech:** (noun/verb/adj/adv)
 > **CEFR Level:** (A1-C2)
 > **Register:** (formal/informal/academic)
@@ -18,40 +18,40 @@ reindeer
 
 > [!abstract] Meanings
 > **Root Meaning:** ...
-> 
+
 > **Context Meaning:** ...
-> 
+
 > **Vietnamese Translation:**
 > - **Direct:** ...
 > - **Contextual:** ...
-> 
+
 > **Nuances:**
 > - ...
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[ ]] (*/.../*)
+> - **Verb:** [[ ]] (*/.../*)
+> - **Adj:** [[ ]] (*/.../*)
+> - **Adv:** [[ ]] (*/.../*)
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[ ]] (*/.../*) : ...
+> - [[ ]] (*/.../*) : ...
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[ ]] (*/.../*) : ...
+> - [[ ]] (*/.../*) : ...
 
 > [!success] Context & Usage
 > **Collocations:**
 > 1. ...
 > 2. ...
-> 
+
 > **1. Example Context 1**
 > - **Sentence:** ...
 > - **Translation:** ...
-> 
+
 > **2. Example Context 2**
 > - **Sentence:** ...
 > - **Translation:** ...
@@ -75,40 +75,60 @@ reindeer
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **{{WORD}}** (/  /) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **{{WORD}}** (*/  /*) mean?
 ?
-**Meaning:** 
+> 📖 **Meaning:** 
+> 🇻🇳 **Vietnamese:** ...
+> 🗣️ **IPA:** */  /*
+> 💡 **Nuance:** 
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "..."
 **Vietnamese:** ...
-**IPA:** /  /
-**Key Nuance:** 
-
-### Card 2: Production (Reverse)
-Context/Definition: "..." → Word?
-(Vietnamese: ...) -> Word?
+→ **Target Word?**
 ?
-**{{WORD}}** (/  /)
+**{{WORD}}** (*/  /*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **{{WORD}}** in a sentence.
 ?
-**Sentence:** 
-**Translation:** 
+> 📝 **Sentence:** 
+> 🇻🇳 **Translation:** 
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **{{WORD}}**.
 ?
-1. 
-2. 
-3. 
+> 🔗 **Collocations:**
+> 1. 
+> 2. 
+> 3. 
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **{{WORD}}**.
 ?
-**Root:** 
-**Related types:** (noun/verb/adj) 
+> 🌱 **Root:** 
+> 👨‍👩‍👧 **Family:** (noun/verb/adj) 
 
+**Card 6: Context Cloze**
+
+> 🗣️ *...*
+
+> 🇻🇳 **Vi:** ...
+
+**Card 7: IPA Decoding**
+
+> 🔊 */  /*
+?
+**{{WORD}}**
 ---
+
 
 ## 📈 Learning Progress
 

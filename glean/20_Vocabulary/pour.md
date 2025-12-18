@@ -10,7 +10,7 @@ status: done
 # pour
 
 > [!info] Word Analysis
-> **IPA:** /pɔː(r)/
+> **IPA:** */pɔː(r)/*
 > **Part of Speech:** verb
 > **CEFR Level:** A2
 > **Register:** neutral
@@ -18,16 +18,16 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** To make a liquid flow from a container.
->
+
 > **Context Meaning:**
 > 1. To transfer liquid by tilting container
 > 2. To flow steadily and rapidly
 > 3. To give freely or abundantly
->
+
 > **Vietnamese Translation:**
 > - **Direct:** rót, đổ
 > - **Contextual:** trút, chảy tuôn
->
+
 > **Nuances:**
 > - Controlled action (vs spill which is accidental)
 > - Can be figurative for emotions, resources
@@ -35,31 +35,31 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[pouring]] /ˈpɔːrɪŋ/
-> - **Verb:** [[pour]] /pɔː(r)/
+> - **Noun:** [[pouring]] (*/ˈpɔːrɪŋ/*)
+> - **Verb:** [[pour]] (*/pɔː(r)/*)
 > - **Adj:** N/A
 > - **Adv:** N/A
->
+
 > **Synonyms:**
-> - [[flow]] /fləʊ/ : move smoothly
-> - [[stream]] /striːm/ : flow in a continuous current
-> - [[gush]] /ɡʌʃ/ : flow out suddenly
->
+> - [[flow]] (*/fləʊ/*) : move smoothly
+> - [[stream]] (*/striːm/*) : flow in a continuous current
+> - [[gush]] (*/ɡʌʃ/*) : flow out suddenly
+
 > **Antonyms:**
-> - [[contain]] /kənˈteɪn/ : hold within
-> - [[stop]] /stɒp/ : halt the flow
-> - [[block]] /blɒk/ : obstruct
+> - [[contain]] (*/kənˈteɪn/*) : hold within
+> - [[stop]] (*/stɒp/*) : halt the flow
+> - [[block]] (*/blɒk/*) : obstruct
 
 > [!success] Context & Usage
 > **Collocations:**
 > 1. Pour rain
 > 2. Pour out
 > 3. Pour drink
->
+
 > **1. Literal Context**
 > - **Sentence:** She poured the hot water into the tea cup.
 > - **Translation:** Cô ấy rót nước nóng vào tách trà.
->
+
 > **2. Figurative Context**
 > - **Sentence:** He poured all his energy into completing the project.
 > - **Translation:** Anh ấy đã dồn hết năng lượng của mình để hoàn thành dự án.
@@ -83,40 +83,60 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **pour** (/pɔː(r)/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **pour** (*/pɔː(r)/*) mean?
 ?
-**Meaning:** To make liquid flow from a container; to flow steadily; to give freely
+> 📖 **Meaning:** To make liquid flow from a container; to flow steadily; to give freely
+> 🇻🇳 **Vietnamese:** rót, đổ
+> 🗣️ **IPA:** */pɔː(r)/*
+> 💡 **Nuance:** Controlled action of transferring liquid (not accidental)
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "To transfer liquid by tilting a container"
 **Vietnamese:** rót, đổ
-**IPA:** /pɔː(r)/
-**Key Nuance:** Controlled action of transferring liquid (not accidental)
-
-### Card 2: Production (Reverse)
-Context/Definition: "To transfer liquid by tilting a container" → Word?
-(Vietnamese: rót, đổ) -> Word?
+→ **Target Word?**
 ?
-**pour** (/pɔː(r)/)
+**pour** (*/pɔː(r)/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **pour** in a sentence.
 ?
-**Sentence:** The waitress offered to pour more wine for the guests.
-**Translation:** Nhân viên phục vụ đã đề nghị rót thêm rượu cho khách.
+> 📝 **Sentence:** The waitress offered to pour more wine for the guests.
+> 🇻🇳 **Translation:** Nhân viên phục vụ đã đề nghị rót thêm rượu cho khách.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **pour**.
 ?
-1. Pour rain
-2. Pour out
-3. Pour drink
+> 🔗 **Collocations:**
+> 1. Pour rain
+> 2. Pour out
+> 3. Pour drink
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **pour**.
 ?
-**Root:** Old French 'porer' (to cause to flow)
-**Related types:** (noun/verb) pouring (noun form)
+> 🌱 **Root:** Old French `porer` (to cause to flow)
+> 👨‍👩‍👧 **Family:** *(noun/verb)* pouring (noun form)
 
+**Card 6: Context Cloze**
+
+> 🗣️ *She ==pour==ed the hot water into the tea cup.*
+
+> 🇻🇳 **Vi:** Cô ấy rót nước nóng vào tách trà.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */pɔː(r)/*
+?
+**pour**
 ---
+
 
 ## 📈 Learning Progress
 

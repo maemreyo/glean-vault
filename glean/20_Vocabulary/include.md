@@ -10,7 +10,7 @@ status: done
 # include
 
 > [!info] Word Analysis
-> **IPA:** /ɪnˈkluːd/
+> **IPA:** */ɪnˈkluːd/*
 > **Part of Speech:** verb
 > **CEFR Level:** B1
 > **Register:** neutral/formal
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** To shut in, to contain within
->
+
 > **Context Meaning:** To contain as part of a whole; to make part of something; to involve in participation
->
+
 > **Vietnamese Translation:**
 > - **Direct:** bao gồm, chứa đựng, kể cả
 > - **Contextual:** mời tham gia, đưa vào, tính vào
->
+
 > **Nuances:**
 > - Inclusion: making something part of a group or collection
 > - Participation: involving someone in an activity
@@ -32,20 +32,20 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[inclusion]] /ɪnˈkluːʒn/
-> - **Verb:** [[include]] /ɪnˈkluːd/
-> - **Adj:** [[inclusive]] /ɪnˈkluːsɪv/
-> - **Adv:** [[inclusively]] /ɪnˈkluːsɪvli/
->
+> - **Noun:** [[inclusion]] (*/ɪnˈkluːʒn/*)
+> - **Verb:** [[include]] (*/ɪnˈkluːd/*)
+> - **Adj:** [[inclusive]] (*/ɪnˈkluːsɪv/*)
+> - **Adv:** [[inclusively]] (*/ɪnˈkluːsɪvli/*)
+
 > **Synonyms:**
-> - [[contain]] /kənˈteɪn/ : to have within
-> - [[incorporate]] /ɪnˈkɔːpəreɪt/ : to integrate into
-> - [[involve]] /ɪnˈvɒlv/ : to include as participant
->
+> - [[contain]] (*/kənˈteɪn/*) : to have within
+> - [[incorporate]] (*/ɪnˈkɔːpəreɪt/*) : to integrate into
+> - [[involve]] (*/ɪnˈvɒlv/*) : to include as participant
+
 > **Antonyms:**
-> - [[exclude]] /ɪkˈskluːd/ : to leave out
-> - [[omit]] /əʊˈmɪt/ : to leave out intentionally
-> - [[ignore]] /ɪɡˈnɔː/ : to disregard
+> - [[exclude]] (*/ɪkˈskluːd/*) : to leave out
+> - [[omit]] (*/əʊˈmɪt/*) : to leave out intentionally
+> - [[ignore]] (*/ɪɡˈnɔː/*) : to disregard
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -54,11 +54,11 @@ status: done
 > 3. price includes
 > 4. tax included
 > 5. all-inclusive
->
+
 > **1. Business/Pricing**
 > - **Sentence:** The price includes breakfast and unlimited Wi-Fi access.
 > - **Translation:** Giá bao gồm bữa sáng và truy cập Wi-Fi không giới hạn.
->
+
 > **2. Academic/Technical**
 > - **Sentence:** Please include all relevant sources in your bibliography.
 > - **Translation:** Vui lòng bao gồm tất cả các nguồn liên quan trong danh mục tài liệu tham khảo của bạn.
@@ -82,40 +82,63 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **include** (/ɪnˈkluːd/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **include** (*/ɪnˈkluːd/*) mean?
 ?
-**Meaning:** To contain as part of a whole; to make part of something; to involve someone
+> 📖 **Meaning:** To contain as part of a whole; to make part of something; to involve someone
+> 🇻🇳 **Vietnamese:** bao gồm, chứa đựng, kể cả
+> 🗣️ **IPA:** */ɪnˈkluːd/*
+> 💡 **Nuance:** Emphasizes making something part of a larger group or system
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "To make something part of a whole; to contain within"
 **Vietnamese:** bao gồm, chứa đựng, kể cả
-**IPA:** /ɪnˈkluːd/
-**Key Nuance:** Emphasizes making something part of a larger group or system
-
-### Card 2: Production (Reverse)
-Context/Definition: "To make something part of a whole; to contain within" → Word?
-(Vietnamese: bao gồm, chứa đựng, kể cả) -> Word?
+→ **Target Word?**
 ?
-**include** (/ɪnˈkluːd/)
+**include** (*/ɪnˈkluːd/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **include** in a sentence.
 ?
-**Sentence:** The study will include participants from various age groups and backgrounds.
-**Translation:** Nghiên cứu sẽ bao gồm những người tham gia từ các nhóm tuổi và hoàn cảnh khác nhau.
+> 📝 **Sentence:** The study will include participants from various age groups and backgrounds.
+> 🇻🇳 **Translation:** Nghiên cứu sẽ bao gồm những người tham gia từ các nhóm tuổi và hoàn cảnh khác nhau.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **include**.
 ?
-1. include in
-2. price includes
-3. all-inclusive
+> 🔗 **Collocations:**
+> 1. include in
+> 2. price includes
+> 3. all-inclusive
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **include**.
 ?
-**Root:** Latin "in-" (in) + "claudere" (to shut/close)
-**Related types:** inclusion (noun), inclusive (adjective), inclusively (adverb)
+> 🌱 **Root:** Latin `in-` (in) + `claudere` (to shut/close)
+> 👨‍👩‍👧 **Family:** 
+> - inclusion *(noun)*
+> - inclusive *(adjective)*
+> - inclusively *(adverb)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The price ==include==s breakfast and unlimited Wi-Fi access.*
+
+> 🇻🇳 **Vi:** Giá bao gồm bữa sáng và truy cập Wi-Fi không giới hạn.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ɪnˈkluːd/*
+?
+**include**
 ---
+
 
 ## 📈 Learning Progress
 

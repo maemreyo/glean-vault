@@ -10,7 +10,7 @@ status: done
 # enclose
 
 > [!info] Word Analysis
-> **IPA:** /ɪnˈkləʊz/
+> **IPA:** */ɪnˈkləʊz/*
 > **Part of Speech:** verb
 > **CEFR Level:** B2
 > **Register:** formal/neutral
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** To surround, close in on all sides
->
+
 > **Context Meaning:** To contain or confine something within walls, boundaries, or other limits
->
+
 > **Vietnamese Translation:**
 > - **Direct:** bao quanh, bọc, kẹp
 > - **Contextual:** bao bì, đính kèm, gói trong
->
+
 > **Nuances:**
 > - Physical enclosure: surrounding with physical barriers
 > - Abstract enclosure: including within limits or boundaries
@@ -32,20 +32,20 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[enclosure]] /ɪnˈkləʊʒər/
-> - **Verb:** [[enclose]] /ɪnˈkləʊz/
+> - **Noun:** [[enclosure]] (*/ɪnˈkləʊʒər/*)
+> - **Verb:** [[enclose]] (*/ɪnˈkləʊz/*)
 > - **Adj:** -
 > - **Adv:** -
->
+
 > **Synonyms:**
-> - [[surround]] /səˈraʊnd/ : to be all around something
-> - [[contain]] /kənˈteɪn/ : to hold or include
-> - [[confine]] /kənˈfaɪn/ : to keep within limits
->
+> - [[surround]] (*/səˈraʊnd/*) : to be all around something
+> - [[contain]] (*/kənˈteɪn/*) : to hold or include
+> - [[confine]] (*/kənˈfaɪn/*) : to keep within limits
+
 > **Antonyms:**
-> - [[exclude]] /ɪkˈskluːd/ : to keep out
-> - [[release]] /rɪˈliːs/ : to set free
-> - [[open]] /ˈəʊpən/ : to make accessible
+> - [[exclude]] (*/ɪkˈskluːd/*) : to keep out
+> - [[release]] (*/rɪˈliːs/*) : to set free
+> - [[open]] (*/ˈəʊpən/*) : to make accessible
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -54,11 +54,11 @@ status: done
 > 3. please enclose
 > 4. self-enclosed
 > 5. fully enclosed
->
+
 > **1. Physical Enclosure**
 > - **Sentence:** The fence will enclose the entire garden area.
 > - **Translation:** Hàng rào sẽ bao quanh toàn bộ khu vườn.
->
+
 > **2. Business Correspondence**
 > - **Sentence:** Please enclose your resume with the job application.
 > - **Translation:** Vui lòng đính kèm sơ yếu lý lịch với đơn xin việc.
@@ -82,40 +82,61 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **enclose** (/ɪnˈkləʊz/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **enclose** (*/ɪnˈkləʊz/*) mean?
 ?
-**Meaning:** To surround, close in, or confine within boundaries; to include with a letter/package
+> 📖 **Meaning:** To surround, close in, or confine within boundaries; to include with a letter/package
+> 🇻🇳 **Vietnamese:** bao quanh, bọc, kẹp
+> 🗣️ **IPA:** */ɪnˈkləʊz/*
+> 💡 **Nuance:** Can refer to physical barriers (fences, walls) or abstract limits (rules, boundaries)
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "To surround with a fence or wall; to include something in an envelope"
 **Vietnamese:** bao quanh, bọc, kẹp
-**IPA:** /ɪnˈkləʊz/
-**Key Nuance:** Can refer to physical barriers (fences, walls) or abstract limits (rules, boundaries)
-
-### Card 2: Production (Reverse)
-Context/Definition: "To surround with a fence or wall; to include something in an envelope" → Word?
-(Vietnamese: bao quanh, bọc, kẹp) -> Word?
+→ **Target Word?**
 ?
-**enclose** (/ɪnˈkləʊz/)
+**enclose** (*/ɪnˈkləʊz/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **enclose** in a sentence.
 ?
-**Sentence:** The medieval castle was enclosed by massive stone walls and a deep moat.
-**Translation:** Lâu đài thời Trung Cổ được bao bọc bởi những bức tường đá khổng lồ và một con hào sâu.
+> 📝 **Sentence:** The medieval castle was enclosed by massive stone walls and a deep moat.
+> 🇻🇳 **Translation:** Lâu đài thời Trung Cổ được bao bọc bởi những bức tường đá khổng lồ và một con hào sâu.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
+
 List 3 common collocations for **enclose**.
 ?
-1. enclose a space
-2. please enclose
-3. self-enclosed
+> 🔗 **Collocations:**
+> 1. enclose a space
+> 2. please enclose
+> 3. self-enclosed
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **enclose**.
 ?
-**Root:** Latin "in-" (in) + "claudere" (to close)
-**Related types:** enclosure (noun)
+> 🌱 **Root:** Latin `in-` (in) + `claudere` (to close)
+> 👨‍👩‍👧 **Family:** enclosure *(noun)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The fence will ==enclose== the entire garden area.*
+
+> 🇻🇳 **Vi:** Hàng rào sẽ bao quanh toàn bộ khu vườn.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ɪnˈkləʊz/*
+?
+**enclose**
 ---
+
 
 ## 📈 Learning Progress
 

@@ -10,7 +10,7 @@ status: done
 # Testimony
 
 > [!info] Word Analysis
-> **IPA:** /ˈtestɪməni/
+> **IPA:** */ˈtestɪməni/*
 > **Part of Speech:** Noun
 > **CEFR Level:** C1
 > **Register:** Formal/academic
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** A formal statement made under oath in a court of law
->
+
 > **Context Meaning:** Evidence given by a witness; a declaration supporting a fact; public affirmation of belief
->
+
 > **Vietnamese Translation:**
 > - **Direct:** lời khai, lời chứng
 > - **Contextual:** lời khai, chứng cứ, lời khẳng định
->
+
 > **Nuances:**
 > - Primarily used in legal contexts
 > - Can also mean a strong declaration of belief (e.g., "his testimony to the power of love")
@@ -32,20 +32,20 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[testimony]] /ˈtestɪməni/
-> - **Verb:** [[testify]] /ˈtestɪfaɪ/
-> - **Adj:** [[testimonial]] /ˌtestɪˈməʊniəl/
-> - **Adv:** [[testimonially]] /ˌtestɪˈməʊniəli/ (rare)
->
+> - **Noun:** [[testimony]] (*/ˈtestɪməni/*)
+> - **Verb:** [[testify]] (*/ˈtestɪfaɪ/*)
+> - **Adj:** [[testimonial]] (*/ˌtestɪˈməʊniəl/*)
+> - **Adv:** [[testimonially]] (*/ˌtestɪˈməʊniəli/*) (rare)
+
 > **Synonyms:**
-> - [[evidence]] /ˈevɪdəns/ : proof of truth
-> - [[declaration]] /ˌdekləˈreɪʃn/ : formal statement
-> - [[account]] /əˈkaʊnt/ : report of events
->
+> - [[evidence]] (*/ˈevɪdəns/*) : proof of truth
+> - [[declaration]] (*/ˌdekləˈreɪʃn/*) : formal statement
+> - [[account]] (*/əˈkaʊnt/*) : report of events
+
 > **Antonyms:**
-> - [[denial]] /dɪˈnaɪəl/ : refusal to admit
-> - [[refutation]] /ˌrefjuˈteɪʃn/ : disproving
-> - [[contradiction]] /ˌkɒntrəˈdɪkʃn/ : opposite statement
+> - [[denial]] (*/dɪˈnaɪəl/*) : refusal to admit
+> - [[refutation]] (*/ˌrefjuˈteɪʃn/*) : disproving
+> - [[contradiction]] (*/ˌkɒntrəˈdɪkʃn/*) : opposite statement
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -53,11 +53,11 @@ status: done
 > 2. expert testimony
 > 3. bear testimony
 > 4. give testimony
->
+
 > **1. Legal Context**
 > - **Sentence:** The witness's testimony proved crucial in securing the conviction.
 > - **Translation:** Lời khai của nhân chứng đã chứng tỏ là quan trọng trong việc đảm bảo bản án kết tội.
->
+
 > **2. Figurative Context**
 > - **Sentence:** The recovering addict's testimony inspired many others to seek help.
 > - **Translation:** Lời chứng của người cai nghiện đang phục hồi đã truyền cảm hứng cho nhiều người khác tìm kiếm sự giúp đỡ.
@@ -81,40 +81,60 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **testimony** (/ˈtestɪməni/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **testimony** (*/ˈtestɪməni/*) mean?
 ?
-**Meaning:** A formal statement made under oath; evidence given by a witness; declaration supporting a fact
+> 📖 **Meaning:** A formal statement made under oath; evidence given by a witness; declaration supporting a fact
+> 🇻🇳 **Vietnamese:** lời khai, lời chứng
+> 🗣️ **IPA:** */ˈtestɪməni/*
+> 💡 **Nuance:** Implies firsthand knowledge; primarily legal but can be figurative
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "A formal statement made under oath in court"
 **Vietnamese:** lời khai, lời chứng
-**IPA:** /ˈtestɪməni/
-**Key Nuance:** Implies firsthand knowledge; primarily legal but can be figurative
-
-### Card 2: Production (Reverse)
-Context/Definition: "A formal statement made under oath in court" → Word?
-(Vietnamese: lời khai, lời chứng) -> Word?
+→ **Target Word?**
 ?
-**testimony** (/ˈtestɪməni/)
+**testimony** (*/ˈtestɪməni/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **testimony** in a sentence.
 ?
-**Sentence:** The expert's testimony helped the jury understand the complex technical evidence.
-**Translation:** Lời khai của chuyên gia đã giúp bồi thẩm đoàn hiểu được bằng chứng kỹ thuật phức tạp.
+> 📝 **Sentence:** The expert's testimony helped the jury understand the complex technical evidence.
+> 🇻🇳 **Translation:** Lời khai của chuyên gia đã giúp bồi thẩm đoàn hiểu được bằng chứng kỹ thuật phức tạp.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **testimony**.
 ?
-1. eyewitness testimony
-2. expert testimony
-3. bear testimony
+> 🔗 **Collocations:**
+> 1. eyewitness testimony
+> 2. expert testimony
+> 3. bear testimony
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **testimony**.
 ?
-**Root:** Latin "testis" (witness)
-**Related types:** (noun) testimony - (verb) testify - (adj) testimonial 
+> 🌱 **Root:** Latin `testis` (witness)
+> 👨‍👩‍👧 **Family:** *(noun)* testimony - *(verb)* testify - *(adj)* testimonial 
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The witness's ==testimony== proved crucial in securing the conviction.*
+
+> 🇻🇳 **Vi:** Lời khai của nhân chứng đã chứng tỏ là quan trọng trong việc đảm bảo bản án kết tội.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ˈtestɪməni/*
+?
+**Testimony**
 ---
+
 
 ## 📈 Learning Progress
 

@@ -10,7 +10,7 @@ status: done
 # Testable
 
 > [!info] Word Analysis
-> **IPA:** /ˈtestəbl/
+> **IPA:** */ˈtestəbl/*
 > **Part of Speech:** Adjective
 > **CEFR Level:** B2
 > **Register:** Academic/technical
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** Capable of being tested or examined
->
+
 > **Context Meaning:** Something that can be tested or verified; measurable or observable; falsifiable in scientific context
->
+
 > **Vietnamese Translation:**
 > - **Direct:** có thể kiểm tra, có thể thử nghiệm
 > - **Contextual:** có thể đo lường, có thể chứng minh
->
+
 > **Nuances:**
 > - Critical in scientific method (hypotheses must be testable)
 > - In software development, refers to code that can be effectively tested
@@ -32,20 +32,20 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[test]] /test/, [[testability]] /ˌtestəˈbɪləti/
-> - **Verb:** [[test]] /test/
-> - **Adj:** [[testable]] /ˈtestəbl/, [[tested]] /ˈtestɪd/
-> - **Adv:** [[testably]] /ˈtestəbli/
->
+> - **Noun:** [[test]] (*/test/*), [[testability]] (*/ˌtestəˈbɪləti/*)
+> - **Verb:** [[test]] (*/test/*)
+> - **Adj:** [[testable]] (*/ˈtestəbl/*), [[tested]] (*/ˈtestɪd/*)
+> - **Adv:** [[testably]] (*/ˈtestəbli/*)
+
 > **Synonyms:**
-> - [[verifiable]] /ˈverɪfaɪəbl/ : can be proven true
-> - [[measurable]] /ˈmeʒərəbl/ : can be quantified
-> - [[falsifiable]] /ˈfɔːlsɪfaɪəbl/ : can be proven false
->
+> - [[verifiable]] (*/ˈverɪfaɪəbl/*) : can be proven true
+> - [[measurable]] (*/ˈmeʒərəbl/*) : can be quantified
+> - [[falsifiable]] (*/ˈfɔːlsɪfaɪəbl/*) : can be proven false
+
 > **Antonyms:**
-> - [[untestable]] /ʌnˈtestəbl/ : cannot be tested
-> - [[unverifiable]] /ʌnˈverɪfaɪəbl/ : cannot be verified
-> - [[unfalsifiable]] /ʌnˈfɔːlsɪfaɪəbl/ : cannot be proven false
+> - [[untestable]] (*/ʌnˈtestəbl/*) : cannot be tested
+> - [[unverifiable]] (*/ʌnˈverɪfaɪəbl/*) : cannot be verified
+> - [[unfalsifiable]] (*/ʌnˈfɔːlsɪfaɪəbl/*) : cannot be proven false
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -53,11 +53,11 @@ status: done
 > 2. testable prediction
 > 3. testable code
 > 4. testable assumption
->
+
 > **1. Scientific Context**
 > - **Sentence:** The scientist proposed a testable hypothesis about the effects of caffeine on memory.
 > - **Translation:** Nhà khoa học đã đưa ra một giả thuyết có thể kiểm chứng về tác động của caffeine đối với trí nhớ.
->
+
 > **2. Software Development**
 > - **Sentence:** Writing testable code is essential for maintaining software quality.
 > - **Translation:** Viết mã có thể kiểm thử là điều cần thiết để duy trì chất lượng phần mềm.
@@ -81,41 +81,61 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **testable** (/ˈtestəbl/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **testable** (*/ˈtestəbl/*) mean?
 ?
-**Meaning:** Capable of being tested or examined; measurable or observable; verifiable
-**Vietnamese:** có thể kiểm tra, có thể thử nghiệm
-**IPA:** /ˈtestəbl/
-**Key Nuance:** Critical in scientific method and software development
+> 📖 **Meaning:** Capable of being tested or examined; measurable or observable; verifiable
+> 🇻🇳 **Vietnamese:** có thể kiểm tra, có thể thử nghiệm
+> 🗣️ **IPA:** */ˈtestəbl/*
+> 💡 **Nuance:** Critical in scientific method and software development
 <!--SR:!2025-12-21,3,250-->
 
-### Card 2: Production (Reverse)
-Context/Definition: "Something that can be tested or verified" → Word?
-(Vietnamese: có thể kiểm tra, có thể thử nghiệm) -> Word?
-?
-**testable** (/ˈtestəbl/)
+**Card 2: Production (Reverse)**
 
-### Card 3: Usage (Multi-line)
+
+**Definition:** "Something that can be tested or verified"
+**Vietnamese:** có thể kiểm tra, có thể thử nghiệm
+→ **Target Word?**
+?
+**testable** (*/ˈtestəbl/*)
+
+**Card 3: Usage (Multi-line)**
+
 Use **testable** in a sentence.
 ?
-**Sentence:** A good scientific theory must make testable predictions.
-**Translation:** Một lý thuyết khoa học tốt phải đưa ra những dự đoán có thể kiểm chứng.
+> 📝 **Sentence:** A good scientific theory must make testable predictions.
+> 🇻🇳 **Translation:** Một lý thuyết khoa học tốt phải đưa ra những dự đoán có thể kiểm chứng.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **testable**.
 ?
-1. testable hypothesis
-2. testable prediction
-3. testable code
+> 🔗 **Collocations:**
+> 1. testable hypothesis
+> 2. testable prediction
+> 3. testable code
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **testable**.
 ?
-**Root:** "test" + "-able" suffix
-**Related types:** (noun) test - (verb) test - (adj) testable 
+> 🌱 **Root:** `test` + `-able` suffix
+> 👨‍👩‍👧 **Family:** *(noun)* test - *(verb)* test - *(adj)* testable 
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The scientist proposed a ==testable== hypothesis about the effects of caffeine on memory.*
+
+> 🇻🇳 **Vi:** Nhà khoa học đã đưa ra một giả thuyết có thể kiểm chứng về tác động của caffeine đối với trí nhớ.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ˈtestəbl/*
+?
+**Testable**
 ---
+
 
 ## 📈 Learning Progress
 

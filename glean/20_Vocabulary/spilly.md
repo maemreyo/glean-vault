@@ -10,7 +10,7 @@ status: done
 # spilly
 
 > [!info] Word Analysis
-> **IPA:** /ˈspɪli/
+> **IPA:** */ˈspɪli/*
 > **Part of Speech:** adjective
 > **CEFR Level:** B2
 > **Register:** informal
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** Tending to spill easily; clumsy with liquids.
->
+
 > **Context Meaning:** Describing something or someone that frequently causes spills or is prone to spilling.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** hay bị đổ, vụng về
 > - **Contextual:** dễ làm đổ đồ, bất cẩn
->
+
 > **Nuances:**
 > - Informal, conversational term
 > - Often used for children or awkward movements
@@ -32,29 +32,29 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[spill]] /spɪl/, [[spillage]] /ˈspɪlɪdʒ/
-> - **Verb:** [[spill]] /spɪl/
-> - **Adj:** [[spilly]] /ˈspɪli/, [[spillable]] /ˈspɪləbl/
+> - **Noun:** [[spill]] (*/spɪl/*), [[spillage]] (*/ˈspɪlɪdʒ/*)
+> - **Verb:** [[spill]] (*/spɪl/*)
+> - **Adj:** [[spilly]] (*/ˈspɪli/*), [[spillable]] (*/ˈspɪləbl/*)
 > - **Adv:** N/A
->
+
 > **Synonyms:**
-> - [[clumsy]] /ˈklʌmzi/ : awkward in movement
-> - [[careless]] /ˈkeələs/ : not paying attention
->
+> - [[clumsy]] (*/ˈklʌmzi/*) : awkward in movement
+> - [[careless]] (*/ˈkeələs/*) : not paying attention
+
 > **Antonyms:**
-> - [[steady]] /ˈstedi/ : stable, firm
-> - [[careful]] /ˈkeəfl/ : cautious, attentive
+> - [[steady]] (*/ˈstedi/*) : stable, firm
+> - [[careful]] (*/ˈkeəfl/*) : cautious, attentive
 
 > [!success] Context & Usage
 > **Collocations:**
 > 1. Spilly child
 > 2. Spilly cup
 > 3. Spilly movements
->
+
 > **1. Describing People**
 > - **Sentence:** My toddler is going through a spilly phase and knocks over everything.
 > - **Translation:** Con tôi đang trong giai đoạn hay làm đổ đồ và làm đổ mọi thứ.
->
+
 > **2. Describing Objects**
 > - **Sentence:** This old water bottle is too spilly to use in the car.
 > - **Translation:** Bình nước cũ này quá dễ đổ để dùng trong xe hơi.
@@ -78,41 +78,64 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **spilly** (/ˈspɪli/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **spilly** (*/ˈspɪli/*) mean?
 ?
-**Meaning:** Tending to spill easily; clumsy with liquids or prone to causing spills
-**Vietnamese:** hay bị đổ, vụng về
-**IPA:** /ˈspɪli/
-**Key Nuance:** Informal term describing a tendency, not a single act
+> 📖 **Meaning:** Tending to spill easily; clumsy with liquids or prone to causing spills
+> 🇻🇳 **Vietnamese:** hay bị đổ, vụng về
+> 🗣️ **IPA:** */ˈspɪli/*
+> 💡 **Nuance:** Informal term describing a tendency, not a single act
 <!--SR:!2025-12-21,3,250-->
 
-### Card 2: Production (Reverse)
-Context/Definition: "Describing someone or something that frequently causes spills" → Word?
-(Vietnamese: hay bị đổ, vụng về) -> Word?
-?
-**spilly** (/ˈspɪli/)
+**Card 2: Production (Reverse)**
 
-### Card 3: Usage (Multi-line)
+
+**Definition:** "Describing someone or something that frequently causes spills"
+**Vietnamese:** hay bị đổ, vụng về
+→ **Target Word?**
+?
+**spilly** (*/ˈspɪli/*)
+
+**Card 3: Usage (Multi-line)**
+
 Use **spilly** in a sentence.
 ?
-**Sentence:** The waiter apologized for being so spilly during his first week on the job.
-**Translation:** Người phục vụ đã xin lỗi vì đã vụng về trong tuần làm việc đầu tiên của mình.
+> 📝 **Sentence:** The waiter apologized for being so spilly during his first week on the job.
+> 🇻🇳 **Translation:** Người phục vụ đã xin lỗi vì đã vụng về trong tuần làm việc đầu tiên của mình.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **spilly**.
 ?
-1. Spilly child
-2. Spilly cup
-3. Spilly movements
+> 🔗 **Collocations:**
+> 1. Spilly child
+> 2. Spilly cup
+> 3. Spilly movements
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **spilly**.
 ?
-**Root:** 'spill' + '-y' colloquial suffix
-**Related types:** (noun/verb) spill (verb/noun), spillage (noun), spillable (adjective)
+> 🌱 **Root:** `spill` + `-y` colloquial suffix
+> 👨‍👩‍👧 **Family:** 
+> - *(noun/verb)* spill *(verb/noun)*
+> - spillage *(noun)*
+> - spillable *(adjective)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *My toddler is going through a ==spilly== phase and knocks over everything.*
+
+> 🇻🇳 **Vi:** Con tôi đang trong giai đoạn hay làm đổ đồ và làm đổ mọi thứ.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ˈspɪli/*
+?
+**spilly**
 ---
+
 
 ## 📈 Learning Progress
 

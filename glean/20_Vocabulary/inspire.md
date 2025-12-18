@@ -10,7 +10,7 @@ status: done
 # inspire
 
 > [!info] Word Analysis
-> **IPA:** /ɪnˈspaɪər/
+> **IPA:** */ɪnˈspaɪər/*
 > **Part of Speech:** verb
 > **CEFR Level:** B2
 > **Register:** neutral/formal
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** To breathe in; to fill with spirit
->
+
 > **Context Meaning:** To fill someone with the urge or ability to do or feel something creative; to create a positive feeling in someone
->
+
 > **Vietnamese Translation:**
 > - **Direct:** truyền cảm hứng, thôi thúc
 > - **Contextual:** khơi gợi, gợi lên, là nguồn cảm hứng
->
+
 > **Nuances:**
 > - Creative: sparking new ideas or artistic expression
 > - Emotional: creating positive feelings or motivation
@@ -32,20 +32,20 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[inspiration]] /ˌɪnspəˈreɪʃn/
-> - **Verb:** [[inspire]] /ɪnˈspaɪər/
-> - **Adj:** [[inspired]] /ɪnˈspaɪərd/, [[inspiring]] /ɪnˈspaɪərɪŋ/
-> - **Adv:** [[inspiringly]] /ɪnˈspaɪərɪŋli/
->
+> - **Noun:** [[inspiration]] (*/ˌɪnspəˈreɪʃn/*)
+> - **Verb:** [[inspire]] (*/ɪnˈspaɪər/*)
+> - **Adj:** [[inspired]] (*/ɪnˈspaɪərd/*), [[inspiring]] (*/ɪnˈspaɪərɪŋ/*)
+> - **Adv:** [[inspiringly]] (*/ɪnˈspaɪərɪŋli/*)
+
 > **Synonyms:**
-> - [[stimulate]] /ˈstɪmjuleɪt/ : to encourage activity
-> - [[motivate]] /ˈməʊtɪveɪt/ : to provide motivation
-> - [[encourage]] /ɪnˈkʌrɪdʒ/ : to give confidence
->
+> - [[stimulate]] (*/ˈstɪmjuleɪt/*) : to encourage activity
+> - [[motivate]] (*/ˈməʊtɪveɪt/*) : to provide motivation
+> - [[encourage]] (*/ɪnˈkʌrɪdʒ/*) : to give confidence
+
 > **Antonyms:**
-> - [[discourage]] /dɪˈskʌrɪdʒ/ : to reduce confidence
-> - [[demotivate]] /diːˈməʊtɪveɪt/ : to reduce motivation
-> - [[dishearten]] /dɪˈhɑːtən/ : to make lose hope
+> - [[discourage]] (*/dɪˈskʌrɪdʒ/*) : to reduce confidence
+> - [[demotivate]] (*/diːˈməʊtɪveɪt/*) : to reduce motivation
+> - [[dishearten]] (*/dɪˈhɑːtən/*) : to make lose hope
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -54,11 +54,11 @@ status: done
 > 3. inspire hope
 > 4. truly inspiring
 > 5. source of inspiration
->
+
 > **1. Creative Arts**
 > - **Sentence:** The beautiful sunset inspired the painter to create a masterpiece.
 > - **Translation:** Hoàng hôn tuyệt đẹp đã truyền cảm hứng cho họa sĩ tạo ra một kiệt tác.
->
+
 > **2. Leadership**
 > - **Sentence:** Her courage and determination inspired the entire team to work harder.
 > - **Translation:** Sự can đảm và quyết tâm của cô đã truyền cảm hứng cho cả đội làm việc chăm chỉ hơn.
@@ -82,41 +82,64 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **inspire** (/ɪnˈspaɪər/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **inspire** (*/ɪnˈspaɪər/*) mean?
 ?
-**Meaning:** To fill someone with creative ideas or positive feelings; to encourage someone to do something
-**Vietnamese:** truyền cảm hứng, thôi thúc
-**IPA:** /ɪnˈspaɪər/
-**Key Nuance:** Emotional and creative influence rather than practical motivation
+> 📖 **Meaning:** To fill someone with creative ideas or positive feelings; to encourage someone to do something
+> 🇻🇳 **Vietnamese:** truyền cảm hứng, thôi thúc
+> 🗣️ **IPA:** */ɪnˈspaɪər/*
+> 💡 **Nuance:** Emotional and creative influence rather than practical motivation
 <!--SR:!2025-12-21,3,250-->
 
-### Card 2: Production (Reverse)
-Context/Definition: "To fill someone with the urge or ability to create or feel something" → Word?
-(Vietnamese: truyền cảm hứng, thôi thúc) -> Word?
-?
-**inspire** (/ɪnˈspaɪər/)
+**Card 2: Production (Reverse)**
 
-### Card 3: Usage (Multi-line)
+
+**Definition:** "To fill someone with the urge or ability to create or feel something"
+**Vietnamese:** truyền cảm hứng, thôi thúc
+→ **Target Word?**
+?
+**inspire** (*/ɪnˈspaɪər/*)
+
+**Card 3: Usage (Multi-line)**
+
 Use **inspire** in a sentence.
 ?
-**Sentence:** The stories of successful entrepreneurs often inspire young people to start their own businesses.
-**Translation:** Những câu chuyện về các doanh nhân thành công thường truyền cảm hứng cho người trẻ bắt đầu sự kinh doanh của riêng mình.
+> 📝 **Sentence:** The stories of successful entrepreneurs often inspire young people to start their own businesses.
+> 🇻🇳 **Translation:** Những câu chuyện về các doanh nhân thành công thường truyền cảm hứng cho người trẻ bắt đầu sự kinh doanh của riêng mình.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **inspire**.
 ?
-1. inspire confidence
-2. inspire hope
-3. source of inspiration
+> 🔗 **Collocations:**
+> 1. inspire confidence
+> 2. inspire hope
+> 3. source of inspiration
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **inspire**.
 ?
-**Root:** Latin "in-" (in) + "spirare" (to breathe)
-**Related types:** inspiration (noun), inspiring (adjective), inspired (adjective)
+> 🌱 **Root:** Latin `in-` (in) + `spirare` (to breathe)
+> 👨‍👩‍👧 **Family:** 
+> - inspiration *(noun)*
+> - inspiring *(adjective)*
+> - inspired *(adjective)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The beautiful sunset ==inspire==d the painter to create a masterpiece.*
+
+> 🇻🇳 **Vi:** Hoàng hôn tuyệt đẹp đã truyền cảm hứng cho họa sĩ tạo ra một kiệt tác.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ɪnˈspaɪər/*
+?
+**inspire**
 ---
+
 
 ## 📈 Learning Progress
 

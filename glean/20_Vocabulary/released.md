@@ -10,7 +10,7 @@ status: done
 # released
 
 > [!info] Word Analysis
-> **IPA:** /rɪˈliːst/
+> **IPA:** */rɪˈliːst/*
 > **Part of Speech:** adjective
 > **CEFR Level:** B1
 > **Register:** neutral
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** Set free; no longer confined.
->
+
 > **Context Meaning:** Made available to the public; set free from confinement or obligation; having been let go.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** đã được phát hành, đã được giải phóng
 > - **Contextual:** đã ra mắt, được tha bổng
->
+
 > **Nuances:**
 > - Can refer to products, films, music, or books
 > - Also used for people, animals, or emotions
@@ -32,29 +32,29 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[release]] /rɪˈliːs/, [[releasedom]] /rɪˈliːsədəm/
-> - **Verb:** [[release]] /rɪˈliːs/
-> - **Adj:** [[released]] /rɪˈliːst/
-> - **Adv:** [[releasedly]] /rɪˈliːsɪdli/
->
+> - **Noun:** [[release]] (*/rɪˈliːs/*), [[releasedom]] (*/rɪˈliːsədəm/*)
+> - **Verb:** [[release]] (*/rɪˈliːs/*)
+> - **Adj:** [[released]] (*/rɪˈliːst/*)
+> - **Adv:** [[releasedly]] (*/rɪˈliːsɪdli/*)
+
 > **Synonyms:**
-> - [[freed]] /friːd/ : set at liberty
-> - [[published]] /ˈpʌblɪʃt/ : made public
->
+> - [[freed]] (*/friːd/*) : set at liberty
+> - [[published]] (*/ˈpʌblɪʃt/*) : made public
+
 > **Antonyms:**
-> - [[detained]] /dɪˈteɪnd/ : held in custody
-> - [[withheld]] /wɪðˈheld/ : kept back
+> - [[detained]] (*/dɪˈteɪnd/*) : held in custody
+> - [[withheld]] (*/wɪðˈheld/*) : kept back
 
 > [!success] Context & Usage
 > **Collocations:**
 > 1. Newly released
 > 2. Recently released film
 > 3. Released from prison
->
+
 > **1. Entertainment Context**
 > - **Sentence:** The newly released movie has already broken box office records.
 > - **Translation:** Bộ phim vừa phát hành đã phá vỡ kỷ lục phòng vé.
->
+
 > **2. Legal Context**
 > - **Sentence:** The prisoner was released early for good behavior.
 > - **Translation:** Người tù đã được tha sớm vì hành vi tốt.
@@ -78,40 +78,62 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **released** (/rɪˈliːst/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **released** (*/rɪˈliːst/*) mean?
 ?
-**Meaning:** Made available to the public; set free from confinement or obligation
+> 📖 **Meaning:** Made available to the public; set free from confinement or obligation
+> 🇻🇳 **Vietnamese:** đã được phát hành, đã được giải phóng
+> 🗣️ **IPA:** */rɪˈliːst/*
+> 💡 **Nuance:** Past participle used as adjective describing state of being free or available
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "Describing something made available to the public"
 **Vietnamese:** đã được phát hành, đã được giải phóng
-**IPA:** /rɪˈliːst/
-**Key Nuance:** Past participle used as adjective describing state of being free or available
-
-### Card 2: Production (Reverse)
-Context/Definition: "Describing something made available to the public" → Word?
-(Vietnamese: đã được phát hành, đã được giải phóng) -> Word?
+→ **Target Word?**
 ?
-**released** (/rɪˈliːst/)
+**released** (*/rɪˈliːst/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **released** in a sentence.
 ?
-**Sentence:** The pressure released from the valve with a loud hissing sound.
-**Translation:** Áp lực được giải tỏa từ van với tiếng xì lớn.
+> 📝 **Sentence:** The pressure released from the valve with a loud hissing sound.
+> 🇻🇳 **Translation:** Áp lực được giải tỏa từ van với tiếng xì lớn.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **released**.
 ?
-1. Newly released
-2. Recently released film
-3. Released from prison
+> 🔗 **Collocations:**
+> 1. Newly released
+> 2. Recently released film
+> 3. Released from prison
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **released**.
 ?
-**Root:** Old French 'relacher' from Latin 'relaxare' (to loosen)
-**Related types:** (noun/verb/adj) release (verb/noun), releasedly (adverb)
+> 🌱 **Root:** Old French `relacher` from Latin `relaxare` (to loosen)
+> 👨‍👩‍👧 **Family:** 
+> - (noun/verb/adj) release *(verb/noun)*
+> - releasedly *(adverb)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The newly ==released== movie has already broken box office records.*
+
+> 🇻🇳 **Vi:** Bộ phim vừa phát hành đã phá vỡ kỷ lục phòng vé.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */rɪˈliːst/*
+?
+**released**
 ---
+
 
 ## 📈 Learning Progress
 

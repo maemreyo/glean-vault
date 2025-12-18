@@ -10,7 +10,7 @@ status: done
 # confine
 
 > [!info] Word Analysis
-> **IPA:** /kənˈfaɪn/
+> **IPA:** */kənˈfaɪn/*
 > **Part of Speech:** verb
 > **CEFR Level:** C1
 > **Register:** formal/neutral
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** To enclose within boundaries.
->
+
 > **Context Meaning:** 1) To keep or restrict someone or something within limits 2) To enclose or shut up 3) To limit oneself to particular activities or subjects.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** giam cầm, hạn chế
 > - **Contextual:** giới hạn, giam giữ, kìm hãm, thu hẹp
->
+
 > **Nuances:**
 > - Can be physical (imprisonment) or abstract (limiting options)
 > - Often implies restriction of freedom
@@ -32,22 +32,22 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[confinement]] /kənˈfaɪnmənt/, [[confines]] /ˈkɒnfaɪnz/ (plural)
-> - **Verb:** [[confine]] /kənˈfaɪn/
-> - **Adj:** [[confined]] /kənˈfaɪnd/
+> - **Noun:** [[confinement]] (*/kənˈfaɪnmənt/*), [[confines]] (*/ˈkɒnfaɪnz/*) (plural)
+> - **Verb:** [[confine]] (*/kənˈfaɪn/*)
+> - **Adj:** [[confined]] (*/kənˈfaɪnd/*)
 > - **Adv:** (no common adverb form)
->
+
 > **Synonyms:**
-> - [[restrict]] /rɪˈstrɪkt/ : keep within limits
-> - [[limit]] /ˈlɪmɪt/ : set boundaries
-> - [[imprison]] /ɪmˈprɪzən/ : put in prison
-> - [[enclose]] /ɪnˈkləʊz/ : surround completely
->
+> - [[restrict]] (*/rɪˈstrɪkt/*) : keep within limits
+> - [[limit]] (*/ˈlɪmɪt/*) : set boundaries
+> - [[imprison]] (*/ɪmˈprɪzən/*) : put in prison
+> - [[enclose]] (*/ɪnˈkləʊz/*) : surround completely
+
 > **Antonyms:**
-> - [[free]] /friː/ : release from confinement
-> - [[liberate]] /ˈlɪbəreɪt/ : set free
-> - [[expand]] /ɪkˈspænd/ : make larger
-> - [[release]] /rɪˈliːs/ : let go
+> - [[free]] (*/friː/*) : release from confinement
+> - [[liberate]] (*/ˈlɪbəreɪt/*) : set free
+> - [[expand]] (*/ɪkˈspænd/*) : make larger
+> - [[release]] (*/rɪˈliːs/*) : let go
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -56,11 +56,11 @@ status: done
 > 3. strictly confined
 > 4. confined space
 > 5. self-confined
->
+
 > **1. Physical Confinement**
 > - **Sentence:** The prisoner was confined to his cell for 23 hours a day.
 > - **Translation:** Tù nhân bị giam trong xà lim 23 giờ mỗi ngày.
->
+
 > **2. Abstract Limitation**
 > - **Sentence:** The research paper will confine itself to the period between 1900 and 1950.
 > - **Translation:** Bài nghiên cứu sẽ giới hạn bản thân trong giai đoạn từ 1900 đến 1950.
@@ -84,40 +84,63 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **confine** (/kənˈfaɪn/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **confine** (*/kənˈfaɪn/*) mean?
 ?
-**Meaning:** To keep or restrict within limits; to enclose or shut up
+> 📖 **Meaning:** To keep or restrict within limits; to enclose or shut up
+> 🇻🇳 **Vietnamese:** giam cầm, hạn chế
+> 🗣️ **IPA:** */kənˈfaɪn/*
+> 💡 **Nuance:** Can be physical (imprisonment) or abstract (limiting options/activities)
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "To keep or restrict someone or something within limits"
 **Vietnamese:** giam cầm, hạn chế
-**IPA:** /kənˈfaɪn/
-**Key Nuance:** Can be physical (imprisonment) or abstract (limiting options/activities)
-
-### Card 2: Production (Reverse)
-Context/Definition: "To keep or restrict someone or something within limits" → Word?
-(Vietnamese: giam cầm, hạn chế) -> Word?
+→ **Target Word?**
 ?
-**confine** (/kənˈfaɪn/)
+**confine** (*/kənˈfaɪn/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **confine** in a sentence.
 ?
-**Sentence:** The doctor advised the patient to confine their activities to light walking for two weeks.
-**Translation:** Bác sĩ khuyên bệnh nhân nên hạn chế các hoạt động của mình thành đi bộ nhẹ nhàng trong hai tuần.
+> 📝 **Sentence:** The doctor advised the patient to confine their activities to light walking for two weeks.
+> 🇻🇳 **Translation:** Bác sĩ khuyên bệnh nhân nên hạn chế các hoạt động của mình thành đi bộ nhẹ nhàng trong hai tuần.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **confine**.
 ?
-1. confine to
-2. confine within
-3. confined space
+> 🔗 **Collocations:**
+> 1. confine to
+> 2. confine within
+> 3. confined space
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **confine**.
 ?
-**Root:** Latin 'confinare' (to border on, enclose) from 'finis' (boundary)
-**Related types:** confinement (noun), confined (adjective), confines (plural noun)
+> 🌱 **Root:** Latin `confinare` (to border on, enclose) from `finis` (boundary)
+> 👨‍👩‍👧 **Family:** 
+> - confinement *(noun)*
+> - confined *(adjective)*
+> - confines (plural noun)
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The prisoner was ==confine==d to his cell for 23 hours a day.*
+
+> 🇻🇳 **Vi:** Tù nhân bị giam trong xà lim 23 giờ mỗi ngày.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */kənˈfaɪn/*
+?
+**confine**
 ---
+
 
 ## 📈 Learning Progress
 

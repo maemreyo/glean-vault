@@ -10,7 +10,7 @@ status: done
 # enclosure
 
 > [!info] Word Analysis
-> **IPA:** /ɪnˈkləʊʒə/
+> **IPA:** */ɪnˈkləʊʒə/*
 > **Part of Speech:** noun
 > **CEFR Level:** B2
 > **Register:** formal/neutral
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** The act of closing in.
->
+
 > **Context Meaning:** 1) An area of land surrounded by barriers 2) The act of enclosing something 3) A container or covering 4) Something enclosed with a letter.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** sự bao bọc, sự vây quanh
 > - **Contextual:** khu vực rào chắn, đất bao, vật đựng, phụ đính kèm
->
+
 > **Nuances:**
 > - Can refer to physical spaces or abstract concepts
 > - Often implies protection or separation
@@ -32,22 +32,22 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[enclosure]] /ɪnˈkləʊʒə/
-> - **Verb:** [[enclose]] /ɪnˈkləʊz/
-> - **Adj:** [[enclosed]] /ɪnˈkləʊzd/, [[enclosing]] /ɪnˈkləʊzɪŋ/
+> - **Noun:** [[enclosure]] (*/ɪnˈkləʊʒə/*)
+> - **Verb:** [[enclose]] (*/ɪnˈkləʊz/*)
+> - **Adj:** [[enclosed]] (*/ɪnˈkləʊzd/*), [[enclosing]] (*/ɪnˈkləʊzɪŋ/*)
 > - **Adv:** (no common adverb form)
->
+
 > **Synonyms:**
-> - [[compound]] /ˈkɒmpaʊnd/ : enclosed area
-> - [[pen]] /pen/ : animal enclosure
-> - [[containment]] /kənˈteɪnmənt/ : act of containing
-> - [[attachment]] /əˈtætʃmənt/ : something attached
->
+> - [[compound]] (*/ˈkɒmpaʊnd/*) : enclosed area
+> - [[pen]] (*/pen/*) : animal enclosure
+> - [[containment]] (*/kənˈteɪnmənt/*) : act of containing
+> - [[attachment]] (*/əˈtætʃmənt/*) : something attached
+
 > **Antonyms:**
-> - [[exposure]] /ɪkˈspəʊʒə/ : state of being open
-> - [[opening]] /ˈəʊpənɪŋ/ : gap or space
-> - [[freedom]] /ˈfriːdəm/ : state of being unrestricted
-> - [[access]] /ˈækses/ : ability to enter
+> - [[exposure]] (*/ɪkˈspəʊʒə/*) : state of being open
+> - [[opening]] (*/ˈəʊpənɪŋ/*) : gap or space
+> - [[freedom]] (*/ˈfriːdəm/*) : state of being unrestricted
+> - [[access]] (*/ˈækses/*) : ability to enter
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -56,11 +56,11 @@ status: done
 > 3. garden enclosure
 > 4. stamped addressed enclosure
 > 5. glass enclosure
->
+
 > **1. Physical Space Context**
 > - **Sentence:** The zoo built a new enclosure for the endangered species.
 > - **Translation:** Sở thú đã xây dựng một khu vực bao quanh mới cho loài động vật nguy cấp.
->
+
 > **2. Mail/Document Context**
 > - **Sentence:** Please return the completed form in the provided enclosure.
 > - **Translation:** Vui lòng trả lại biểu mẫu đã hoàn thành trong kèm theo.
@@ -84,40 +84,63 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **enclosure** (/ɪnˈkləʊʒə/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **enclosure** (*/ɪnˈkləʊʒə/*) mean?
 ?
-**Meaning:** An area of land surrounded by barriers; the act of enclosing something
+> 📖 **Meaning:** An area of land surrounded by barriers; the act of enclosing something
+> 🇻🇳 **Vietnamese:** sự bao bọc, sự vây quanh
+> 🗣️ **IPA:** */ɪnˈkləʊʒə/*
+> 💡 **Nuance:** Can be both the physical space and the act of enclosing
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "An area of land surrounded by barriers"
 **Vietnamese:** sự bao bọc, sự vây quanh
-**IPA:** /ɪnˈkləʊʒə/
-**Key Nuance:** Can be both the physical space and the act of enclosing
-
-### Card 2: Production (Reverse)
-Context/Definition: "An area of land surrounded by barriers" → Word?
-(Vietnamese: sự bao bọc, sự vây quanh) -> Word?
+→ **Target Word?**
 ?
-**enclosure** (/ɪnˈkləʊʒə/)
+**enclosure** (*/ɪnˈkləʊʒə/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **enclosure** in a sentence.
 ?
-**Sentence:** The animals were moved to a larger enclosure with more natural habitat.
-**Translation:** Các con vật đã được chuyển đến một khu vực bao quanh lớn hơn với môi trường sống tự nhiên hơn.
+> 📝 **Sentence:** The animals were moved to a larger enclosure with more natural habitat.
+> 🇻🇳 **Translation:** Các con vật đã được chuyển đến một khu vực bao quanh lớn hơn với môi trường sống tự nhiên hơn.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **enclosure**.
 ?
-1. animal enclosure
-2. garden enclosure
-3. glass enclosure
+> 🔗 **Collocations:**
+> 1. animal enclosure
+> 2. garden enclosure
+> 3. glass enclosure
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **enclosure**.
 ?
-**Root:** Latin 'inclaudere' (to shut in) from 'in-' + 'claudere' (to close)
-**Related types:** enclose (verb), enclosed (adjective), enclosing (adjective)
+> 🌱 **Root:** Latin `inclaudere` (to shut in) from `in-` + `claudere` (to close)
+> 👨‍👩‍👧 **Family:** 
+> - enclose *(verb)*
+> - enclosed *(adjective)*
+> - enclosing *(adjective)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The zoo built a new ==enclosure== for the endangered species.*
+
+> 🇻🇳 **Vi:** Sở thú đã xây dựng một khu vực bao quanh mới cho loài động vật nguy cấp.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ɪnˈkləʊʒə/*
+?
+**enclosure**
 ---
+
 
 ## 📈 Learning Progress
 

@@ -10,7 +10,7 @@ status: done
 # spill
 
 > [!info] Word Analysis
-> **IPA:** /spɪl/
+> **IPA:** */spɪl/*
 > **Part of Speech:** verb/noun
 > **CEFR Level:** B1
 > **Register:** neutral
@@ -18,23 +18,23 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** To cause or allow liquid to run over the edges of its container.
->
+
 > **Context Meaning:**
 > **As verb:**
 > 1. To accidentally cause liquid to flow over the edge of a container
 > 2. To spread or scatter over an area
 > 3. To reveal information, often unintentionally
 > 4. To fall from a horse or vehicle
->
+
 > **As noun:**
 > 1. An act of spilling liquid
 > 2. A quantity of liquid that has been spilled
 > 3. The reveal of confidential information
->
+
 > **Vietnamese Translation:**
 > - **Direct:** đổ (vật lỏng), làm đổ, sự tràn
 > - **Contextual:** tiết lộ (reveal), rơi (from horse/vehicle)
->
+
 > **Nuances:**
 > - Liquid spills (water, coffee, oil)
 > - Information spills (secrets, confidential data)
@@ -43,21 +43,21 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Verb:** [[spill]] /spɪl/ : to cause liquid to overflow
-> - **Noun:** [[spill]] /spɪl/ : an instance of spilling
-> - **Noun:** [[spillage]] /ˈspɪlɪdʒ/ : the amount or act of spilling
-> - **Adj:** [[spillable]] /ˈspɪləbl/ : capable of being spilled
-> - **Adj:** [[spilly]] /ˈspɪli/ : tending to spill easily
->
+> - **Verb:** [[spill]] (*/spɪl/*) : to cause liquid to overflow
+> - **Noun:** [[spill]] (*/spɪl/*) : an instance of spilling
+> - **Noun:** [[spillage]] (*/ˈspɪlɪdʒ/*) : the amount or act of spilling
+> - **Adj:** [[spillable]] (*/ˈspɪləbl/*) : capable of being spilled
+> - **Adj:** [[spilly]] (*/ˈspɪli/*) : tending to spill easily
+
 > **Synonyms:**
-> - [[pour]] /pɔːr/ : to make liquid flow out of a container
-> - [[overflow]] /ˌoʊvərˈfloʊ/ : to flow over the edges
-> - [[reveal]] /rɪˈviːl/ : to make known information
->
+> - [[pour]] (*/pɔːr/*) : to make liquid flow out of a container
+> - [[overflow]] (*/ˌoʊvərˈfloʊ/*) : to flow over the edges
+> - [[reveal]] (*/rɪˈviːl/*) : to make known information
+
 > **Antonyms:**
-> - [[contain]] /kənˈteɪn/ : to keep within limits
-> - [[withhold]] /wɪðˈhoʊld/ : to keep back information
-> - [[conceal]] /kənˈsiːl/ : to hide from view
+> - [[contain]] (*/kənˈteɪn/*) : to keep within limits
+> - [[withhold]] (*/wɪðˈhoʊld/*) : to keep back information
+> - [[conceal]] (*/kənˈsiːl/*) : to hide from view
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -67,11 +67,11 @@ status: done
 > 4. oil spill
 > 5. blood spill
 > 6. accidentally spill
->
+
 > **1. Example Context 1**
 > - **Sentence:** Be careful not to spill the hot soup on your white shirt.
 > - **Translation:** Cẩn thận đừng làm đổ súp nóng lên áo sơ mi trắng của bạn.
->
+
 > **2. Example Context 2**
 > - **Sentence:** The journalist managed to spill the truth about the corruption scandal.
 > - **Translation:** Nhà báo đã thành công trong việc tiết lộ sự thật về vụ bê bối tham nhũng.
@@ -95,41 +95,64 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **spill** (/spɪl/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **spill** (*/spɪl/*) mean?
 ?
-**Meaning:** To cause or allow liquid to run over the edges of its container; to reveal information
+> 📖 **Meaning:** To cause or allow liquid to run over the edges of its container; to reveal information
+> 🇻🇳 **Vietnamese:** đổ (vật lỏng), làm đổ, sự tràn
+> 🗣️ **IPA:** */spɪl/*
+> 💡 **Nuance:** Can refer to both physical liquids and abstract information
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "To accidentally cause liquid to flow over the edge of a container"
 **Vietnamese:** đổ (vật lỏng), làm đổ, sự tràn
-**IPA:** /spɪl/
-**Key Nuance:** Can refer to both physical liquids and abstract information
-
-### Card 2: Production (Reverse)
-Context/Definition: "To accidentally cause liquid to flow over the edge of a container" → Word?
-(Vietnamese: đổ (vật lỏng), làm đổ, sự tràn) -> Word?
+→ **Target Word?**
 ?
-**spill** (/spɪl/)
+**spill** (*/spɪl/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **spill** in a sentence.
 ?
-**Sentence:** The chemical spill required immediate cleanup to prevent environmental damage.
-**Translation:** Vụ tràn hóa chất cần được dọn dẹp ngay lập tức để ngăn chặn thiệt hại môi trường.
+> 📝 **Sentence:** The chemical spill required immediate cleanup to prevent environmental damage.
+> 🇻🇳 **Translation:** Vụ tràn hóa chất cần được dọn dẹp ngay lập tức để ngăn chặn thiệt hại môi trường.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **spill**.
 ?
-1. spill the beans
-2. oil spill
-3. spill over
+> 🔗 **Collocations:**
+> 1. spill the beans
+> 2. oil spill
+> 3. spill over
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **spill**.
 ?
-**Root:** Old English "spillan" (to destroy, kill)
-**Related types:** (verb/noun) spill; (noun) spillage; (adj) spillable, spilly
+> 🌱 **Root:** Old English `spillan` (to destroy, kill)
+> 👨‍👩‍👧 **Family:** 
+> - *(verb/noun)* spill
+> - *(noun)* spillage
+> - *(adj)* spillable, spilly
 <!--SR:!2025-12-19,1,230-->
 
+**Card 6: Context Cloze**
+
+> 🗣️ *Be careful not to ==spill== the hot soup on your white shirt.*
+
+> 🇻🇳 **Vi:** Cẩn thận đừng làm đổ súp nóng lên áo sơ mi trắng của bạn.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */spɪl/*
+?
+**spill**
 ---
+
 
 ## 📈 Learning Progress
 

@@ -9,7 +9,7 @@ status: done
 # test
 
 > [!info] Word Analysis
-> **IPA:** /test/
+> **IPA:** */test/*
 > **Part of Speech:** noun, verb
 > **CEFR Level:** A2
 > **Register:** neutral/formal
@@ -17,16 +17,16 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** A procedure intended to establish the quality, performance, or reliability of something.
->
+
 > **Context Meaning:**
-> 1. (noun) An examination or trial to determine quality, performance, or reliability
-> 2. (noun) A written or spoken examination of knowledge
-> 3. (verb) To put something through a test; to examine
->
+> 1. *(noun)* An examination or trial to determine quality, performance, or reliability
+> 2. *(noun)* A written or spoken examination of knowledge
+> 3. *(verb)* To put something through a test; to examine
+
 > **Vietnamese Translation:**
 > - **Direct:** bài kiểm tra, thử, kiểm tra
 > - **Contextual:** kỳ thi (examination), thử nghiệm (experiment)
->
+
 > **Nuances:**
 > - Academic testing (exams, quizzes)
 > - Medical testing (blood test, diagnosis)
@@ -35,23 +35,23 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[test]] /test/ : examination or trial
-> - **Noun:** [[testing]] /ˈtestɪŋ/ : the act of conducting tests
-> - **Noun:** [[testimony]] /ˈtestɪmoʊni/ : formal evidence or witness statement
-> - **Noun:** [[testament]] /ˈtestəmənt/ : tangible proof or serving as evidence
-> - **Verb:** [[test]] /test/ : to examine or try something
-> - **Adj:** [[testable]] /ˈtestəbl/ : capable of being tested
-> - **Adj:** [[tested]] /ˈtestɪd/ : proven through testing
->
+> - **Noun:** [[test]] (*/test/*) : examination or trial
+> - **Noun:** [[testing]] (*/ˈtestɪŋ/*) : the act of conducting tests
+> - **Noun:** [[testimony]] (*/ˈtestɪmoʊni/*) : formal evidence or witness statement
+> - **Noun:** [[testament]] (*/ˈtestəmənt/*) : tangible proof or serving as evidence
+> - **Verb:** [[test]] (*/test/*) : to examine or try something
+> - **Adj:** [[testable]] (*/ˈtestəbl/*) : capable of being tested
+> - **Adj:** [[tested]] (*/ˈtestɪd/*) : proven through testing
+
 > **Synonyms:**
-> - [[examination]] /ɪɡˌzæmɪˈneɪʃn/ : detailed inspection or study
-> - [[trial]] /ˈtraɪəl/ : test of performance or qualities
-> - [[assessment]] /əˈsɛsmənt/ : evaluation or estimation
->
+> - [[examination]] (*/ɪɡˌzæmɪˈneɪʃn/*) : detailed inspection or study
+> - [[trial]] (*/ˈtraɪəl/*) : test of performance or qualities
+> - [[assessment]] (*/əˈsɛsmənt/*) : evaluation or estimation
+
 > **Antonyms:**
-> - [[proof]] /pruːf/ : evidence establishing a fact
-> - [[confirmation]] /ˌkɒnfərˈmeɪʃn/ : verification or approval
-> - [[guarantee]] /ˌɡærənˈtiː/ : formal promise or assurance
+> - [[proof]] (*/pruːf/*) : evidence establishing a fact
+> - [[confirmation]] (*/ˌkɒnfərˈmeɪʃn/*) : verification or approval
+> - [[guarantee]] (*/ˌɡærənˈtiː/*) : formal promise or assurance
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -62,11 +62,11 @@ status: done
 > 5. test drive
 > 6. blood test
 > 7. stress test
->
+
 > **1. Example Context 1**
 > - **Sentence:** The students will take their final math test tomorrow morning.
 > - **Translation:** Sinh viên sẽ làm bài kiểm tra toán cuối kỳ vào sáng mai.
->
+
 > **2. Example Context 2**
 > - **Sentence:** Engineers need to test the new software before releasing it to the public.
 > - **Translation:** Các kỹ sư cần phải kiểm tra phần mềm mới trước khi phát hành ra công chúng.
@@ -90,40 +90,63 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **test** (/test/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **test** (*/test/*) mean?
 ?
-**Meaning:** A procedure to establish quality, performance, or reliability; to examine or try something
+> 📖 **Meaning:** A procedure to establish quality, performance, or reliability; to examine or try something
+> 🇻🇳 **Vietnamese:** bài kiểm tra, thử, kiểm tra
+> 🗣️ **IPA:** */test/*
+> 💡 **Nuance:** Can be both a noun (examination) and verb (to examine)
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "A trial to determine if something works correctly"
 **Vietnamese:** bài kiểm tra, thử, kiểm tra
-**IPA:** /test/
-**Key Nuance:** Can be both a noun (examination) and verb (to examine)
-
-### Card 2: Production (Reverse)
-Context/Definition: "A trial to determine if something works correctly" → Word?
-(Vietnamese: bài kiểm tra, thử, kiểm tra) -> Word?
+→ **Target Word?**
 ?
-**test** (/test/)
+**test** (*/test/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **test** in a sentence.
 ?
-**Sentence:** The doctor ordered a blood test to check my cholesterol levels.
-**Translation:** Bác sĩ đã yêu cầu xét nghiệm máu để kiểm tra mức cholesterol của tôi.
+> 📝 **Sentence:** The doctor ordered a blood test to check my cholesterol levels.
+> 🇻🇳 **Translation:** Bác sĩ đã yêu cầu xét nghiệm máu để kiểm tra mức cholesterol của tôi.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **test**.
 ?
-1. take a test
-2. test the waters
-3. put to the test
+> 🔗 **Collocations:**
+> 1. take a test
+> 2. test the waters
+> 3. put to the test
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **test**.
 ?
-**Root:** Latin "testum" (earthen vessel for melting metals)
-**Related types:** (noun) test, testing, testimony; (verb) test; (adj) testable, tested
+> 🌱 **Root:** Latin `testum` (earthen vessel for melting metals)
+> 👨‍👩‍👧 **Family:** 
+> - *(noun)* test, testing, testimony
+> - *(verb)* test
+> - *(adj)* testable, tested
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The students will take their final math ==test== tomorrow morning.*
+
+> 🇻🇳 **Vi:** Sinh viên sẽ làm bài kiểm tra toán cuối kỳ vào sáng mai.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */test/*
+?
+**test**
 ---
+
 
 ## 📈 Learning Progress
 

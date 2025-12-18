@@ -10,7 +10,7 @@ status: done
 # spillable
 
 > [!info] Word Analysis
-> **IPA:** /ˈspɪləbl/
+> **IPA:** */ˈspɪləbl/*
 > **Part of Speech:** adjective
 > **CEFR Level:** B2
 > **Register:** neutral
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** Capable of being spilled or caused to overflow.
->
+
 > **Context Meaning:** Describing something that can easily spill, leak, or overflow from its container.
->
+
 > **Vietnamese Translation:**
 > - **Direct:** có thể bị đổ, dễ đổ
 > - **Contextual:** dễ bị tràn ra ngoài
->
+
 > **Nuances:**
 > - Used for liquids and granular materials
 > - Often implies carelessness or accident potential
@@ -32,29 +32,29 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[spill]] /spɪl/
-> - **Verb:** [[spill]] /spɪl/
-> - **Adj:** [[spillable]] /ˈspɪləbl/, [[spilly]] /ˈspɪli/
+> - **Noun:** [[spill]] (*/spɪl/*)
+> - **Verb:** [[spill]] (*/spɪl/*)
+> - **Adj:** [[spillable]] (*/ˈspɪləbl/*), [[spilly]] (*/ˈspɪli/*)
 > - **Adv:** N/A
->
+
 > **Synonyms:**
-> - [[leakable]] /ˈliːkəbl/ : can leak out
-> - [[pourable]] /ˈpɔːrəbl/ : can be poured
->
+> - [[leakable]] (*/ˈliːkəbl/*) : can leak out
+> - [[pourable]] (*/ˈpɔːrəbl/*) : can be poured
+
 > **Antonyms:**
-> - [[sealed]] /siːld/ : completely closed
-> - [[secure]] /sɪˈkjʊər/ : safe from spilling
+> - [[sealed]] (*/siːld/*) : completely closed
+> - [[secure]] (*/sɪˈkjʊər/*) : safe from spilling
 
 > [!success] Context & Usage
 > **Collocations:**
 > 1. Spillable container
 > 2. Highly spillable liquid
 > 3. Non-spillable design
->
+
 > **1. Product Design**
 > - **Sentence:** The company created a spillable coffee mug with a special locking mechanism.
 > - **Translation:** Công ty đã tạo ra một cốc cà phê có thể bị đổ với cơ chế khóa đặc biệt.
->
+
 > **2. Safety Warnings**
 > - **Sentence:** The label warned that the contents were highly spillable and required careful handling.
 > - **Translation:** Nhãn dán cảnh báo rằng nội dung bên trong rất dễ đổ và cần xử lý cẩn thận.
@@ -78,40 +78,62 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **spillable** (/ˈspɪləbl/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **spillable** (*/ˈspɪləbl/*) mean?
 ?
-**Meaning:** Capable of being spilled or caused to overflow from its container
+> 📖 **Meaning:** Capable of being spilled or caused to overflow from its container
+> 🇻🇳 **Vietnamese:** có thể bị đổ, dễ đổ
+> 🗣️ **IPA:** */ˈspɪləbl/*
+> 💡 **Nuance:** Describes potential for accidental spillage, not the act itself
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "Describing something that can easily spill or leak from its container"
 **Vietnamese:** có thể bị đổ, dễ đổ
-**IPA:** /ˈspɪləbl/
-**Key Nuance:** Describes potential for accidental spillage, not the act itself
-
-### Card 2: Production (Reverse)
-Context/Definition: "Describing something that can easily spill or leak from its container" → Word?
-(Vietnamese: có thể bị đổ, dễ đổ) -> Word?
+→ **Target Word?**
 ?
-**spillable** (/ˈspɪləbl/)
+**spillable** (*/ˈspɪləbl/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **spillable** in a sentence.
 ?
-**Sentence:** The new sippy cup design claimed to be non-spillable, much to the relief of parents everywhere.
-**Translation:** Thiết kế cốc tập uống mới tuyên bố là không thể đổ, làm nhẹ lòng các bậc phụ huynh ở khắp mọi nơi.
+> 📝 **Sentence:** The new sippy cup design claimed to be non-spillable, much to the relief of parents everywhere.
+> 🇻🇳 **Translation:** Thiết kế cốc tập uống mới tuyên bố là không thể đổ, làm nhẹ lòng các bậc phụ huynh ở khắp mọi nơi.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **spillable**.
 ?
-1. Spillable container
-2. Highly spillable liquid
-3. Non-spillable design
+> 🔗 **Collocations:**
+> 1. Spillable container
+> 2. Highly spillable liquid
+> 3. Non-spillable design
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **spillable**.
 ?
-**Root:** Old English 'spildan' + '-able' suffix
-**Related types:** (noun/verb) spill (verb/noun), spilly (adjective)
+> 🌱 **Root:** Old English `spildan` + `-able` suffix
+> 👨‍👩‍👧 **Family:** 
+> - *(noun/verb)* spill *(verb/noun)*
+> - spilly *(adjective)*
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The company created a ==spillable== coffee mug with a special locking mechanism.*
+
+> 🇻🇳 **Vi:** Công ty đã tạo ra một cốc cà phê có thể bị đổ với cơ chế khóa đặc biệt.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */ˈspɪləbl/*
+?
+**spillable**
 ---
+
 
 ## 📈 Learning Progress
 

@@ -10,7 +10,7 @@ status: done
 # Assessment
 
 > [!info] Word Analysis
-> **IPA:** /əˈsesmənt/
+> **IPA:** */əˈsesmənt/*
 > **Part of Speech:** Noun
 > **CEFR Level:** B2
 > **Register:** Formal/academic
@@ -18,13 +18,13 @@ status: done
 
 > [!abstract] Meanings
 > **Root Meaning:** The action of evaluating or estimating the nature, ability, or quality of something
->
+
 > **Context Meaning:** A formal evaluation of knowledge, skills, or performance; a judgment or assessment
->
+
 > **Vietnamese Translation:**
 > - **Direct:** sự đánh giá, sự thẩm định
 > - **Contextual:** bài kiểm tra, bài thẩm định, sự ước lượng
->
+
 > **Nuances:**
 > - More formal than "test" or "exam"
 > - Can involve multiple methods of evaluation
@@ -32,19 +32,19 @@ status: done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[assessment]] /əˈsesmənt/
-> - **Verb:** [[assess]] /əˈses/
-> - **Adj:** [[assessable]] /əˈsesəbl/
-> - **Adv:** [[assessedly]] /əˈsesɪdli/ (rare)
->
+> - **Noun:** [[assessment]] (*/əˈsesmənt/*)
+> - **Verb:** [[assess]] (*/əˈses/*)
+> - **Adj:** [[assessable]] (*/əˈsesəbl/*)
+> - **Adv:** [[assessedly]] (*/əˈsesɪdli/*) (rare)
+
 > **Synonyms:**
-> - [[evaluation]] /ɪˌvæljuˈeɪʃn/ : systematic assessment
-> - [[appraisal]] /əˈpreɪzl/ : judgment of value
-> - [[judgment]] /ˈdʒʌdʒmənt/ : forming an opinion
->
+> - [[evaluation]] (*/ɪˌvæljuˈeɪʃn/*) : systematic assessment
+> - [[appraisal]] (*/əˈpreɪzl/*) : judgment of value
+> - [[judgment]] (*/ˈdʒʌdʒmənt/*) : forming an opinion
+
 > **Antonyms:**
-> - [[ignorance]] /ˈɪɡnərəns/ : lack of knowledge
-> - [[neglect]] /nɪˈɡlekt/ : failure to consider
+> - [[ignorance]] (*/ˈɪɡnərəns/*) : lack of knowledge
+> - [[neglect]] (*/nɪˈɡlekt/*) : failure to consider
 
 > [!success] Context & Usage
 > **Collocations:**
@@ -52,11 +52,11 @@ status: done
 > 2. formative assessment
 > 3. summative assessment
 > 4. needs assessment
->
+
 > **1. Educational Context**
 > - **Sentence:** The students completed their final assessment for the semester.
 > - **Translation:** Sinh viên đã hoàn thành bài đánh giá cuối kỳ của học kỳ.
->
+
 > **2. Business Context**
 > - **Sentence:** The company conducted a thorough assessment of the market conditions.
 > - **Translation:** Công ty đã tiến hành một cuộc đánh giá kỹ lưỡng về điều kiện thị trường.
@@ -80,40 +80,60 @@ status: done
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Context (Multi-line)
-What does **assessment** (/əˈsesmənt/) mean?
+**Card 1: Meaning & Context (Multi-line)**
+
+What does **assessment** (*/əˈsesmənt/*) mean?
 ?
-**Meaning:** The action of evaluating or estimating the nature, ability, or quality of something
+> 📖 **Meaning:** The action of evaluating or estimating the nature, ability, or quality of something
+> 🇻🇳 **Vietnamese:** sự đánh giá, sự thẩm định
+> 🗣️ **IPA:** */əˈsesmənt/*
+> 💡 **Nuance:** More formal than "test"; implies comprehensive, systematic evaluation
+
+**Card 2: Production (Reverse)**
+
+
+**Definition:** "A formal evaluation of knowledge or performance"
 **Vietnamese:** sự đánh giá, sự thẩm định
-**IPA:** /əˈsesmənt/
-**Key Nuance:** More formal than "test"; implies comprehensive, systematic evaluation
-
-### Card 2: Production (Reverse)
-Context/Definition: "A formal evaluation of knowledge or performance" → Word?
-(Vietnamese: sự đánh giá, sự thẩm định) -> Word?
+→ **Target Word?**
 ?
-**assessment** (/əˈsesmənt/)
+**assessment** (*/əˈsesmənt/*)
 
-### Card 3: Usage (Multi-line)
+**Card 3: Usage (Multi-line)**
+
 Use **assessment** in a sentence.
 ?
-**Sentence:** The teacher's assessment showed that the students needed more practice.
-**Translation:** Bài đánh giá của giáo viên cho thấy học sinh cần thực hành nhiều hơn.
+> 📝 **Sentence:** The teacher's assessment showed that the students needed more practice.
+> 🇻🇳 **Translation:** Bài đánh giá của giáo viên cho thấy học sinh cần thực hành nhiều hơn.
 
-### Card 4: Collocations (Multi-line)
+**Card 4: Collocations (Multi-line)**
+
 List 3 common collocations for **assessment**.
 ?
-1. risk assessment
-2. formative assessment
-3. needs assessment
+> 🔗 **Collocations:**
+> 1. risk assessment
+> 2. formative assessment
+> 3. needs assessment
 
-### Card 5: Root & Word Family (Multi-line)
+**Card 5: Root & Word Family (Multi-line)**
+
 Analyze the root/family of **assessment**.
 ?
-**Root:** Latin "assidere" (to sit beside, assist)
-**Related types:** (noun) assessment - (verb) assess - (adj) assessable 
+> 🌱 **Root:** Latin `assidere` (to sit beside, assist)
+> 👨‍👩‍👧 **Family:** *(noun)* assessment - *(verb)* assess - *(adj)* assessable 
 
+**Card 6: Context Cloze**
+
+> 🗣️ *The students completed their final ==assessment== for the semester.*
+
+> 🇻🇳 **Vi:** Sinh viên đã hoàn thành bài đánh giá cuối kỳ của học kỳ.
+
+**Card 7: IPA Decoding**
+
+> 🔊 */əˈsesmənt/*
+?
+**Assessment**
 ---
+
 
 ## 📈 Learning Progress
 
