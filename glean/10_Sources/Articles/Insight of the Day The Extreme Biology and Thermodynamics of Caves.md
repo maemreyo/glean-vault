@@ -1,22 +1,22 @@
-I've been exploring <mark style="background: #FF5582A6;">the fascinating intersection</mark> of <mark style="background: #FF5582A6;">thermodynamics</mark> and biology in <mark style="background: #FF5582A6;">subterranean environment</mark>s. Here are a few technical takeaways:
+I've been exploring the fascinating intersection of thermodynamics and biology in subterranean environments. Here are a few technical takeaways:
 
-1\. <mark style="background: #FF5582A6;">Evaporative Cooling Inhibition</mark>
+1\. Evaporative Cooling Inhibition
 
-In environments where <mark style="background: #FF5582A6;">relative humidity</mark> (RH) reaches 90-100%, the air becomes <mark style="background: #FF5582A6;">saturated</mark> with <mark style="background: #FF5582A6;">water vapor</mark>. The creates <mark style="background: #FF5582A6;">a negligible vapor pressure gradient</mark> between the skin and the atmosphere, effectively inhibiting evaporative cooling.
+In environments where relative humidity (RH) reaches 90-100%, the air becomes saturated with water vapor. The creates a negligible vapor pressure gradient between the skin and the atmosphere, effectively inhibiting evaporative cooling.
 
-Consequently, the human body cannot <mark style="background: #FF5582A6;">dissipate</mark> <mark style="background: #BBFABBA6;">metabolic heat</mark>, posing a severe risk of <mark style="background: #FF5582A6;">hyperthermia</mark>. ![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)
+Consequently, the human body cannot dissipate metabolic heat, posing a severe risk of hyperthermia. ![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)
 
-2\. <mark style="background: #FF5582A6;">Defining Extremophiles</mark>
+2\. Defining Extremophiles
 
-The term refers to organisms that <mark style="background: #FF5582A6;">exhibit</mark> optimal growth under environmental conditions that are considered <mark style="background: #FF5582A6;">hostile</mark> to most <mark style="background: #FF5582A6;">life form</mark>s. These include thermophiles (high temperature), acidophiles (low pH), and halophiles (high salinity).
+The term refers to organisms that exhibit optimal growth under environmental conditions that are considered hostile to most life forms. These include thermophiles (high temperature), acidophiles (low pH), and halophiles (high salinity).
 
-3\. <mark style="background: #FF5582A6;">Chemosynthesis vs. Photosynthesis</mark>
+3\. Chemosynthesis vs. Photosynthesis
 
-In the absence of solar radiation, cave microbes rely on chemosynthesis. They derive energy from the <mark style="background: #FF5582A6;">oxidation</mark> of inorganic compounds such as hydrogen sulfide, ferrous iron, or ammonia. These "lithotrophs" (<mark style="background: #FF5582A6;">rock-eaters</mark>) form the primary production base for deep-cave ecosystems.
+In the absence of solar radiation, cave microbes rely on chemosynthesis. They derive energy from the oxidation of inorganic compounds such as hydrogen sulfide, ferrous iron, or ammonia. These "lithotrophs" (rock-eaters) form the primary production base for deep-cave ecosystems.
 
-4\. <mark style="background: #FF5582A6;">Microbial Longevity in Stasis</mark>
+4\. Microbial Longevity in Stasis
 
-One of the most astounding discoveries is the "reanimation" of microbes trapped within fluid inclusions of giant crystals for over 50,000 years. This demonstrates an incredible capacity for <mark style="background: #FF5582A6;">metabolic stasis</mark> and long-term survival in <mark style="background: #FF5582A6;">resourse-depleted environment</mark>s.
+One of the most astounding discoveries is the "reanimation" of microbes trapped within fluid inclusions of giant crystals for over 50,000 years. This demonstrates an incredible capacity for metabolic stasis and long-term survival in resourse-depleted environments.
 
 Caves are essentially "natural laboratories" that provide insights into the limits of life and potential extraterrestrial biology.
 
