@@ -13,7 +13,7 @@ status: pending
 > **IPA:** /  /
 > **Part of Speech:** (noun/verb/adj/adv)
 > **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic)
+> **Register:** (formal/informal/academic/poetic)
 > **Etymology:** ...
 
 > [!abstract] Meanings
@@ -27,6 +27,11 @@ status: pending
 > 
 > **Nuances:**
 > - ...
+
+> [!tip] 💡 Word Vibe & Story
+> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
+> **Memory Hook:** ...
+> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
 
 > [!note] Relations
 > **Word Family:**
@@ -62,12 +67,7 @@ status: pending
 > - ✅ **Correction:** ...
 > - **Why:** ...
 
-> [!tip] Learning Notes
-> - **Memory Hook:** ...
-> - **Visual Association:** ...
-> - **Story/Situation:** ...
-
-> [!quote]- Context Source
+> [!quote]- Contex Source
 > **Quote:** ...
 > **Source:** [[ ]]
 
@@ -75,16 +75,14 @@ status: pending
 
 ## 🧠 Spaced Repetition Flashcards
 
-
-
-### Card 1: Meaning & Context (Multi-line)
+### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **{{WORD}}** (*/<ipa>/*) mean?
 ?
-> 📖 **Meaning:** <English Definition>
+> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
 > 🇻🇳 **Vietnamese:** <Vietnamese Definition>
 > 🗣️ **IPA:** */<ipa>/*
-> 💡 **Nuance:** <Explanation of usage/connotation>
+> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
 
 ---
 
@@ -98,27 +96,65 @@ What does **{{WORD}}** (*/<ipa>/*) mean?
 
 ---
 
-### Card 3: Usage (Multi-line)
+### Card 3: Usage & Analysis (Multi-line)
 
 Use **{{WORD}}** in a sentence.
 ?
-> 📝 **Sentence:** <English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Sentence>
+> 📝 **Sentence:** <High-quality English Sentence>
+> 🇻🇳 **Translation:** <Vietnamese Translation>
+> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
 
 ---
 
-### Card 4: Collocations (Multi-line)
+### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **{{WORD}}**.
 ?
 > 🔗 **Collocations:**
-> 1. <Collocation 1>
-> 2. <Collocation 2>
-> 3. <Collocation 3>
+> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
+> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
+> 3. **<Group 3>:** <Collocation>
 
 ---
 
-### Card 5: Root & Word Family (Multi-line)
+### Card 5: Word Upgrade (The "Writer's Rewrite")
+
+🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
+"<Basic Sentence>"
+?
+> 🖋️ **Advanced:** "<Advanced Sentence>"
+> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+
+---
+
+### Card 6: Nuance Barrier (Comparison)
+
+🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+?
+> **{{WORD}}:** <Usage context (VN explanation)>
+> **[[Synonym]]:** <Usage context (VN explanation)>
+> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+
+---
+
+### Card 7: Scenario Reaction
+
+🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+?
+> 🎬 **Line:** "<The Sentence>"
+> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+
+---
+
+### Card 8: Etymology Story
+
+🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+?
+> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+
+---
+
+### Card 9: Word Family & Roots
 
 Analyze the root/family of **{{WORD}}**.
 ?
@@ -129,19 +165,34 @@ Analyze the root/family of **{{WORD}}**.
 
 ---
 
-### Card 6: Context Cloze
-
-> 🗣️ *<Sentence with ==word== hidden>*
->
-> 🇻🇳 **Vi:** <Vietnamese Translation>
-
----
-
-### Card 7: IPA Decoding
+### Card 10: IPA Decoding (with Context)
 
 > 🔊 */<ipa>/*
 ?
 **{{WORD}}** 
+> 📖 **Meaning:** <English Definition>
+> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+
+---
+
+### Card 11: Mistake Hunter (Error Correction)
+
+🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+?
+> ❌ **Mistake:** <Common Error>
+> ✅ **Correction:** <Correct Usage>
+> 🧠 **Why:** <Explanation of rule/logic>
+
+---
+
+### Card 12: Antonym Flip
+
+↔️ **Flip:** What is the opposite of **{{WORD}}**?
+?
+> **Antonyms:**
+> - [[<Antonym 1>]] (<Nuance/Context>)
+> - [[<Antonym 2>]]
+> 🧱 **Contrast:** <Brief note on the difference>
 
 ---
 
@@ -152,3 +203,5 @@ Analyze the root/family of **{{WORD}}**.
 - [ ] Can pronounce correctly
 - [ ] Can use in a sentence
 - [ ] Known collocations
+- [ ] Aware of common mistakes
+- [ ] Knows antonyms
