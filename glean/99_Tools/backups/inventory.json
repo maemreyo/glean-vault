@@ -1,5 +1,19 @@
 [
   {
+    "id": "20251219_121356_943431",
+    "timestamp": "20251219_121356",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 01.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251219_121356_943431_Cam 20 Listening Test 01.md",
+    "changes_count": 5,
+    "changes_sample": [
+      "'Portions' -> '[[20_Vocabulary/portion\\|Portions]]'",
+      "'occasion' -> '[[20_Vocabulary/occasion|occasion]]'",
+      "'enjoyed' -> '[[20_Vocabulary/enjoy|enjoyed]]'",
+      "'occasion' -> '[[20_Vocabulary/occasion|occasion]]'",
+      "'enjoying' -> '[[20_Vocabulary/enjoy|enjoying]]'"
+    ]
+  },
+  {
     "id": "20251219_114518_1b8b0f",
     "timestamp": "20251219_114518",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
