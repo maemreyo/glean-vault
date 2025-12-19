@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [deposits, deposited, depositing, depositor, deposit money, security deposit, bank deposit, deposit account, make a deposit, withdraw, withdrawal]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

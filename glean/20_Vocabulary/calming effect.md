@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [calming, effect, soothing, soothing effect, relaxing, relaxation, tranquil, tranquility, serene, serenity, peaceful, peacefulness, therapeutic, stress relief, anxiety relief]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

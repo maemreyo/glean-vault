@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [confident, self-confident, confidently, self-esteem, assurance, self-assurance, poise, self-belief, self-trust, faith in oneself]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

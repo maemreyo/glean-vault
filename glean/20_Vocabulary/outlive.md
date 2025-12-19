@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [outlived, outliving, survive, survived, surviving, survival, outlast, outlasted, outlasting, endure, endured, enduring, longevity, long-lived, outstay, outstayed, outstaying, persist, persisted, persisting]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

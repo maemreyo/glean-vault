@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [essence, essentialism, essentialist, essentially, non-essential, crucial, vital, indispensable, requisite, fundamental, cornerstone, necessity]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

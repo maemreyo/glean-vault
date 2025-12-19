@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [responsible, responsibility, accountable for, in charge of, answerable for, liable for, take responsibility, accept responsibility, directly responsible, ultimately responsible]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

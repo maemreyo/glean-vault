@@ -173,10 +173,11 @@ def parse_frontmatter_aliases(filepath):
 def get_terms():
     """
     Scans vocabulary and structure directories for .md files recursively.
-    Returns a dictionary mapping lowercase term -> vault-relative path (without extension).
-    Includes aliases mapping to the same path.
+    Priority: Filename (Main Term) > Aliases.
+    Returns a dictionary mapping lowercase term -> vault-relative path.
     """
     terms = {}
+    alias_candidates = [] # Store (alias, path) pairs for the second pass
     
     # Helper to scan a directory recursively
     def scan_dir(directory):
@@ -192,25 +193,29 @@ def get_terms():
                     if "|" in filename:
                         continue
                     
-                    # Construct vault-relative path for the link
-                    # Use absolute paths internally to compute relative path from vault root
                     full_abs_path = os.path.join(root, f)
                     full_rel_path = os.path.relpath(full_abs_path, VAULT_ROOT)
-                    # Remove .md from rel path if present
                     if full_rel_path.endswith(".md"):
                         full_rel_path = full_rel_path[:-3]
                     
-                    # Add main term
+                    # 1. First Pass: Add main term (filename)
+                    # Filenames ALWAYS take priority
                     terms[filename.lower()] = full_rel_path
                     
-                    # Add aliases
+                    # 2. Collect aliases for second pass
                     aliases = parse_frontmatter_aliases(full_abs_path)
                     for alias in aliases:
                         if alias:
-                            terms[alias.lower()] = full_rel_path
+                            alias_candidates.append((alias.lower(), full_rel_path))
 
     scan_dir(VOCAB_DIR)
     scan_dir(STRUCT_DIR)
+    
+    # 2. Second Pass: Add aliases only if they don't conflict with main terms
+    for alias, path in alias_candidates:
+        if alias not in terms:
+            terms[alias] = path
+        # If alias is already in terms (as a filename), we skip it as requested.
     
     return terms
 

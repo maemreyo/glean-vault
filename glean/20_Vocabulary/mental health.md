@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [health, mental, psychological, emotional, wellbeing, wellness, psychiatric, psychological wellbeing, emotional health, mental wellness, psychological health, mental illness, mental disorder, therapy, counseling, resilience, coping]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

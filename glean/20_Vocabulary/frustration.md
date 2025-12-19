@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [frustrate, frustrated, frustrating, frustrates, frustratingly, frustration management, annoy, annoyed, annoying, irritating, irritation, exasperate, exasperated, exasperation, discouragement, discouraging, disappointed, disappointment]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

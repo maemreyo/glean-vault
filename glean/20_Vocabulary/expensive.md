@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [expensively, expensiveness, more expensive, most expensive, less expensive, costly, pricey, high-priced, extravagantly, luxury, premium, expensive-looking]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

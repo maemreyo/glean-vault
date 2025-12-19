@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [potter, ceramics, ceramic, earthenware, stoneware, porcelain, potter's wheel, pottery studio, pottery class, ceramic art]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

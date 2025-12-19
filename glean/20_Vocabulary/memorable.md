@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [memorably, memorability, unforgettable, remarkable, noteworthy, impressive, lasting, unforgettable experience, memorable moment, memorable performance]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

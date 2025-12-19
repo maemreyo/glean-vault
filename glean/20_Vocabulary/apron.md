@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [aprons, aproned, apron-clad, apron strings, apron pocket, protective, protective clothing, smock, coverall, kitchen, cooking, chef, baker, waitress, waitron, protective garment, work clothes, uniform]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

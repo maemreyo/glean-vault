@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [associated, associates, associating, association, connect, link, connection, partner, colleague, connection with, related to]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

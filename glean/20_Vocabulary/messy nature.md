@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [messy, nature, mess, untidy, untidiness, disorganized, disorganization, clutter, cluttered, cluttering, sloppy, sloppiness, chaotic, chaos, disorder, disorderly, disarray, untidiness, messiness, scattered, disheveled]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

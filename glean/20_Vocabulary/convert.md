@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [converts, converted, converting, conversion, converter, convertible, reconvert, unconvertible, convert-to, convert-into, convert-from, data-conversion, currency-conversion, unit-conversion, file-conversion, convert-format, convert-type]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

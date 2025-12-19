@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [evidence, prove, proof, proved, proven, proving, solid, substantial, conclusive, compelling, convincing, support, supported, supporting, demonstrate, demonstrated, verification, verified, verify]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

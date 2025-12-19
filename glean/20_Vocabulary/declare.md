@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [declared, declaring, declaration, declarative, declaratively, undeclared, proclaim, announce, state officially, affirm, assert]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

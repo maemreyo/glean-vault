@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [depressed, depressing, depressingly, depressive, clinical depression, major depression, postnatal depression, economic depression, depressed area, downturn, recession]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

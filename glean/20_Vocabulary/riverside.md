@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [riverside's, riversides, riverside park, riverside restaurant, riverside walk, riverside view, riverside property, waterside, lakeside, seaside, riverside hotel]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

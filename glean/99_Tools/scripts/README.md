@@ -96,6 +96,11 @@ aliases: [portions, portioned, portionable, portionally]
 
 When the script finds any of these variations in an article, it will link it back to the parent note using the original text: `[[glean/20_Vocabulary/portion|portionable]]`.
 
+### Priority Rules
+If there is a conflict between a note's filename and an alias from another note, the **Filename (Main Term)** always takes priority.
+- **Example:** If you have `confirm.md` and `confirmation.md` (with alias `confirm`), any mention of `confirm` will link to `confirm.md` directly.
+
+
 ## Migration Tool
 
 If your existing notes are missing the `aliases` field, you can add it to all files in bulk:

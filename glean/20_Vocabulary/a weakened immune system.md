@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [weakened immune system, weak immune system, compromised immunity, immune deficiency, low immunity, immunocompromised, vulnerable to illness, reduced resistance, susceptible to disease]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

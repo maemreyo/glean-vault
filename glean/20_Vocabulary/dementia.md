@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [demented, dementedly, Alzheimer's, Alzheimer, cognitive decline, memory loss, senility, senile, vascular dementia, lewy body, frontotemporal, cognitive impairment, neurodegeneration, neurodegenerative]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

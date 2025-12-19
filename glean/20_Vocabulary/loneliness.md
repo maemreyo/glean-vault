@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [lonely, loner, lone, feel lonely, profound loneliness, overcome loneliness, feeling lonely, isolation, solitude, emptiness, alone]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

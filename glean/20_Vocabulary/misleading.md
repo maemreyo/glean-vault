@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [mislead, misled, misleadingly, deceptive, deceiving, deceptive, false impression, incorrect, distort, confuse, ambiguous]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

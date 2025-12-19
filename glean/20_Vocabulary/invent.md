@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [invented, inventing, invention, inventions, inventor, inventors, inventive, inventively, reinvent, create, created, creating, creation, devise, devised, designing, innovation, innovative, fabricate, fabricated]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

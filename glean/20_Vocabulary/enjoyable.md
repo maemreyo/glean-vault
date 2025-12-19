@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [enjoy, enjoyment, enjoyably, enjoyableness, enjoyable experience, highly enjoyable, very enjoyable, most enjoyable, enjoyable activity, pleasant, delightful]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

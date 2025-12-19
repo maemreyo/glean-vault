@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [solitary, solo, seek solitude, find solitude, peaceful solitude, enjoy solitude, in solitude, complete solitude, moments of solitude, seclusion]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

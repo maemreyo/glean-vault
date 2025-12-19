@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [lasted longer, lasting longer, long-lasting, longevity, durable, endurance, extended duration, prolonged, endure, persist, outlast]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [cardiovascular, heart, disease, cardiac, vascular, heart disease, circulatory, hypertension, blood pressure, stroke, heart attack, coronary, artery, arteries, cardiology, cardiovascular system, circulatory system, blood vessels]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [keen, enthusiastic, enthusiastic about, interested in, interested, fascinated by, fascinated, passionate about, passionate, eager to, eager for, eager, fond of, fond, excited about, excited, keen about, keenly, keenness]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

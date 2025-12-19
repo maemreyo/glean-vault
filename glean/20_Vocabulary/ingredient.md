@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [ingredients, ingredient-list, ingredients-list, main-ingredient, key-ingredient, secret-ingredient, fresh-ingredients, natural-ingredients, organic-ingredient, active-ingredient, ingredient-substitute, missing-ingredient]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

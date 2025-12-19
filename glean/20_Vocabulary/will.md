@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [willing, willingness, would, shall, going to, intend to, determination, volition, free will, testament, be going to]
 status: done
 ref:
 

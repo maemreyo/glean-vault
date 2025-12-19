@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [sense of belonging, belongingness, feeling of belonging, community connection, social belonging, inclusion, acceptance, fitting in, social connection, group identity]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

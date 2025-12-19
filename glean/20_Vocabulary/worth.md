@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [worthy, worthwhile, unworthy, worthless, worthily, worthiness, value, valuable, valued, deserve, deserving, deservedly, merit, merited, commendable, price, priced, priceless, worthwhile]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

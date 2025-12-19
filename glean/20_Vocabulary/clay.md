@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [clayey, clays, claypan, modeling clay, potter's clay, fired clay, clay soil, clay sculpture, clay pot, ceramic, pottery]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

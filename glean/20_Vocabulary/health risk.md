@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [health risks, health-risk, risk factors, health hazard, health threat, medical risk, health danger, risk assessment, risk to health, environmental health risk]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

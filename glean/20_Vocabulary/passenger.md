@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [passengers, passenger's, passenger seat, airline passenger, train passenger, bus passenger, passenger manifest, passenger list, passenger-side, fellow passenger, lone passenger]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

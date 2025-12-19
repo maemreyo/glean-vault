@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [participate, participating, participated, participation, participatory, attendee, delegate, competitor, entrant, contributor, member]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

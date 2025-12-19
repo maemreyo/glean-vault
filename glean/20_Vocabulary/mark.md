@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [marks, marked, marking, marker, markers, markable, unmark, remarked, grade, grades, graded, grading, score, scored, scoring, target, targeted, aiming]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

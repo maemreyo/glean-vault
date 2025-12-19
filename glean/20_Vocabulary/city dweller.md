@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [city, dweller, dwellers, urban, urbanite, urbanites, city-dweller, urban dweller, urban dwellers, city folk, city people, city residents, urban resident, urban residents, urban living, city living, metropolitan, cosmopolitan]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]

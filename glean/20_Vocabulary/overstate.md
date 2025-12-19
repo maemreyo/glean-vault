@@ -3,7 +3,7 @@
 ---
 tags:
   - vocabulary
-aliases: []
+aliases: [overstated, overstating, overstatement, overstates, exaggerate, exaggeration, magnify, magnified, overestimated, overestimation, hyperbole, exaggerated, overstatedly]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]
