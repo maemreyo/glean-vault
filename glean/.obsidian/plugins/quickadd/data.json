@@ -15,12 +15,12 @@
         "template": "99_Templates/tpl_Vocabulary.md"
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "ref: {{linkcurrent}}\n\n"
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "",
+        "enabled": true,
+        "after": "status:",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
@@ -58,12 +58,12 @@
         "template": "99_Templates/tpl_Structure.md"
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "ref: {{linkcurrent}}\n\n"
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "",
+        "enabled": true,
+        "after": "status:",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,

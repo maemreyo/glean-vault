@@ -87,6 +87,8 @@ Select one of the following tags to replace the line above:
 tags:
   - vocabulary
 status: pending
+ref: [[Cam 20 Listening Test 01]]
+
 
 ---
 

@@ -26,9 +26,11 @@ Select one of the following tags to replace the line above:
 #flashcards/structure/speaking-patterns/part-3
 -->
 ---
+
 tags:
   - structure
 status: pending
+
 ---
 
 > [!info] Structural Analysis
