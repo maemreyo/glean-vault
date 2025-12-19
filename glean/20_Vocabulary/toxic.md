@@ -1,159 +1,86 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
 #flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [toxins, toxicity, toxicology, toxicologist, detox, detoxification, nontoxic, toxin-free]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈtɒk.sɪk/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** medical/scientific/informal
+> **Etymology:** From Latin toxicus "poisoned," from Greek toxikon "poison," originally "poison for arrows," from toxon "bow, arrow"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Poisonous; relating to or caused by poison
+>
+> **Context Meaning:** Harmful or destructive to health or well-being; (of relationships, environments, or behaviors) causing lasting damage
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** độc hại, có độc
+> - **Contextual:** độc tố, gây hại, tiêu cực, hủy hoại
+>
 > **Nuances:**
-> - ...
+> - Can refer to chemical poisons or metaphorical harm (relationships, behavior)
+> - Extended meaning includes emotional/psychological damage
+> - Used in environmental, medical, and social contexts
+> - Implies gradual harm rather than immediate danger
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Medical and Cautious
+> **Memory Hook:** Think of "toxic" as anything that acts like "poison" - whether chemical or emotional
+> **📖 Etymology Story:** Ancient Greeks created poison for arrows (toxikon) from yew tree extract - this deadly substance that could kill from within became our word "toxic," now describing anything that poisons body, mind, or relationships
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[toxin]] /ˈtɒk.sɪn/
+> - **Noun:** [[toxicity]] /tɒkˈsɪs.ə.ti/
+> - **Adj:** [[toxic]] /ˈtɒk.sɪk/
+> - **Verb:** [[detox]] /ˈdiː.tɒks/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[poisonous]] /ˈpɔɪ.zən.əs/ : containing poison
+> - [[harmful]] /ˈhɑːm.fəl/ : causing damage or injury
+> - [[venomous]] /ˈven.ə.məs/ : poisonous and dangerous
+> - [[destructive]] /dɪˈstrʌk.tɪv/ : causing damage
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[nontoxic]] /nɒnˈtɒk.sɪk/ : not poisonous
+> - [[harmless]] /ˈhɑːm.ləs/ : unable to cause harm
+> - [[beneficial]] /ˌben.ɪˈfɪʃ.əl/ : favorable or advantageous
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. toxic waste/materials
+> 2. toxic relationship
+> 3. toxic environment
+> 4. toxic chemicals/substances
+> 5. toxic behavior
+> 6. toxic positivity
+
+> **1. Environmental Context**
+> - **Sentence:** The factory was fined for dumping toxic waste into the river, killing thousands of fish.
+> - **Translation:** Nhà máy đã bị phạt vì đổ chất thải độc hại ra sông, làm hàng ngàn con cá chết.
+
+> **2. Relationship Context**
+> - **Sentence:** She realized she had to end the toxic friendship that was constantly draining her energy.
+> - **Translation:** Cô nhận ra mình phải chấm dứt tình bạn độc hại đang liên tục cạn kiệt năng lượng của mình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Metaphor Overuse**
+> - ❌ **Mistake:** "My toxic boss made the coffee taste toxic today."
+> - ✅ **Correction:** "My toxic boss ruined my day, but the coffee tasted fine."
+> - **Why:** Don't overuse "toxic" - reserve it for genuinely harmful situations, not minor annoyances.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Holding onto anger is like drinking poison and expecting the other person to die."
+> **Source:** [[Buddha]]
 
 ---
 
@@ -161,121 +88,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **toxic** (*/ˈtɒk.sɪk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Poisonous or harmful; causing damage to health, well-being, or relationships; destructive when absorbed or experienced
+> 🇻🇳 **Vietnamese:** Độc hại, có độc, gây hủy hoại, tiêu cực
+> 🗣️ **IPA:** */ˈtɒk.sɪk/*
+> 🧠 **Mental Model:** Slow poison - gradual damage từ inside, whether chemical pollution hoặc emotional poison
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Poisonous or harmful; causing damage to health or well-being"
+**Vietnamese:** Độc hại, có độc, gây hủy hoại sức khỏe
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**toxic** (*/ˈtɒk.sɪk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **toxic** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The study revealed that prolonged exposure to toxic chemicals in the workplace led to serious health issues.
+> 🇻🇳 **Translation:** Nghiên cứu cho thấy việc tiếp xúc lâu dài với hóa chất độc hại ở nơi làm việc dẫn đến các vấn đề sức khỏe nghiêm trọng.
+> 🔍 **Analysis:** "Toxic" works perfectly here because it specifically describes substances that are poisonous và harmful to human health trong professional context
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **toxic**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Environmental:** toxic waste (chất thải độc hại - chemical pollution)
+> 2. **Social:** toxic relationship (mối quan hệ độc hại - emotional damage)
+> 3. **Chemical:** toxic substance (chất độc - poison classification)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **toxic**:
+"The work environment was bad."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The toxic work environment, characterized by constant criticism and impossible expectations, led to high employee turnover."
+> 💡 **Why it works:** "Toxic" creates specific hình ảnh về environment that actively harms wellbeing, explains WHY it's bad
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **toxic** instead of **[[harmful]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **toxic:** Implies poisoning from within, gradual destruction, often invisible damage
+> **[[harmful]]:** General term for causing damage, can be immediate or visible
+> 🧱 **The Barrier:** Toxic là "internal poison", harmful là "external damage" - poisoning vs. hurting
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is in a relationship where their partner constantly criticizes them and isolates them from friends. You're concerned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This sounds like a toxic relationship that's damaging your self-worth. You deserve better than this."
+> 👨‍🎨 **Director's Note:** Uses medical metaphor to show severity - "toxic" emphasizes the psychological harm
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `toxon` to the meaning of **toxic**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Ancient Greeks used poison on arrows (toxikon) from "arrows" (toxon) - this deadly substance that killed from within became "toxic," now describing anything that poisons life, relationships, or environment
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **toxic**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `toxikon` (poison for arrows) from `toxon` (bow/arrow)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[toxin]] - poisonous substance
+> - *(noun)* [[toxicity]] - quality of being poisonous
+> - *(noun)* [[toxicology]] - study of poisons
+> - *(verb)* [[detox]] - remove toxins
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈtɒk.sɪk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**toxic**
+> 📖 **Meaning:** Poisonous or harmful
+> 🇻🇳 **Vietnamese:** Độc hại, có độc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **toxic**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I have a toxic headache from too much work."
+> ✅ **Correction:** "I have a terrible headache from too much work."
+> 🧠 **Why:** "Toxic" specifically means poisonous. Don't use it for general negative feelings. Use "terrible," "awful," or "severe" for headaches.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **toxic**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[nontoxic]] (không độc - safe for health)
+> - [[beneficial]] (có lợi - actively helpful)
+> - [[nourishing]] (bồi dưỡng - promotes growth)
+> 🧱 **Contrast:** Toxic destroys from within, beneficial builds from within; nontoxic is neutral absence of harm, beneficial is active help
 
 ---

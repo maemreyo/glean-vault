@@ -1,159 +1,85 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [maybe, possibly, perchance, peradventure]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pəˈhæps/
+> **Part of Speech:** adverb
+> **CEFR Level:** A2
+> **Register:** neutral/informal
+> **Etymology:** From Middle English peraps, variation of perhap, perhaps, by influence of perchance; from per + hap (by chance)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** By chance, possibly
+>
+> **Context Meaning:** Used to express uncertainty or possibility; to suggest something may be true or happen
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** có lẽ, dường như
+> - **Contextual:** có thể là, e rằng, có lẽ là
+>
 > **Nuances:**
-> - ...
+> - More formal and polite than "maybe"
+> - Often used to soften statements or suggestions
+> - Can indicate politeness when making requests or disagreeing
+> - Frequently used in academic and professional contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Cautious and Diplomatic
+> **Memory Hook:** "Perhaps" = "per" (through) + "hap" (chance) - through chance, anything is possible
+> **📖 Etymology Story:** Medieval speakers would say something might happen "by chance" (per hap), which evolved into "perhaps" - a word that carries the uncertainty of chance in every syllable
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adv:** [[perhaps]] /pəˈhæps/
+> - **Adv:** [[maybe]] /ˈmeɪ.bi/ (less formal)
+> - **Adv:** [[possibly]] /ˈpɒs.ə.bli/ (slightly more formal)
+> - **Adv:** [[perchance]] /pəˈtʃæns/ (archaic/poetic)
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[maybe]] /ˈmeɪ.bi/ : possibly but not certainly
+> - [[possibly]] /ˈpɒs.ə.bli/ : able to happen or exist
+> - [[conceivably]] /kənˈsiː.və.bli/ : imaginable in principle
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[definitely]] /ˈdef.ɪ.nət.li/ : without any doubt
+> - [[certainly]] /ˈsɜː.tən.li/ : without doubt
+> - [[impossibly]] /ɪmˈpɒs.ə.bli/ : not able to happen
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. perhaps not
+> 2. perhaps so
+> 3. perhaps you should
+> 4. perhaps we could
+> 5. perhaps the most
+> 6. after all
+
+> **1. Professional Context**
+> - **Sentence:** Perhaps we should schedule a follow-up meeting to discuss the proposal in more detail.
+> - **Translation:** Có lẽ chúng ta nên lên lịch một cuộc họp tiếp theo để thảo luận chi tiết hơn về đề xuất này.
+
+> **2. Academic Context**
+> - **Sentence:** The results suggest that perhaps climate change is accelerating faster than previously predicted.
+> - **Translation:** Kết quả cho thấy có lẽ biến đổi khí hậu đang gia tốc nhanh hơn so với dự đoán trước đây.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Position Error**
+> - ❌ **Mistake:** "I will perhaps go to the store."
+> - ✅ **Correction:** "Perhaps I will go to the store." OR "I will perhaps go to the store."
+> - **Why:** "Perhaps" typically appears at the beginning or middle of sentences. Mid-position sounds more formal and often emphasizes uncertainty.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Perhaps the greatest virtue in a leader is patience."
+> **Source:** [[Common Wisdom]]
 
 ---
 
@@ -161,121 +87,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **perhaps** (*/pəˈhæps/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Used to express uncertainty or possibility; indicating that something may be true or might happen
+> 🇻🇳 **Vietnamese:** Có lẽ, dường như, có thể là
+> 🗣️ **IPA:** */pəˈhæps/*
+> 🧠 **Mental Model:** Probability scale ở giữa 0% và 100% - "perhaps" là somewhere in middle, not sure but possible
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Expressing uncertainty or possibility; suggesting something may be true or happen"
+**Vietnamese:** Có lẽ, có thể là, không chắc chắn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**perhaps** (*/pəˈhæps/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **perhaps** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Perhaps we underestimated the complexity of implementing the new system.
+> 🇻🇳 **Translation:** Có lẽ chúng ta đã đánh giá thấp sự phức tạp của việc triển khai hệ thống mới.
+> 🔍 **Analysis:** "Perhaps" works perfectly here because it softens the admission of mistake, making it less direct và more diplomatic trong professional context
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **perhaps**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Suggestion/Advice:** perhaps you should (có lẽ bạn nên - polite suggestion)
+> 2. **Possibility:** perhaps not (có lẽ không - expressing negative possibility)
+> 3. **Speculation:** perhaps the most (có lẽ là nhất - tentative superlative)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **perhaps**:
+"This might be the solution."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Perhaps this is precisely the innovative solution we've been seeking."
+> 💡 **Why it works:** "Perhaps" adds intellectual humility và speculative tone, "precisely" adds specificity, và "we've been seeking" adds narrative depth
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **perhaps** instead of **[[maybe]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **perhaps:** More formal, academic, polite; sounds more considered và thoughtful
+> **[[maybe]]:** More informal, conversational, casual; sounds more spontaneous
+> 🧱 **The Barrier:** Perhaps là "polite uncertainty", maybe là "casual possibility" - formality level khác biệt
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague suggests an unrealistic deadline. You need to disagree politely. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Perhaps we should reconsider the timeline to ensure quality deliverables."
+> 👨‍🎨 **Director's Note:** Shows diplomatic disagreement - "perhaps" softens rejection while suggesting alternative
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `hap` to the meaning of **perhaps**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** In Middle English, something might happen "per chance" (per hap) - through pure chance. This notion of uncertainty through chance evolved into "perhaps," carrying that same sense of "anything's possible" in its modern meaning
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **perhaps**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `hap` (chance, fortune, luck)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[happy]] - favored by luck or fortune
+> - *(adv)* [[happen]] - occur by chance
+> - *(noun)* [[mishap]] - unlucky accident
+> - *(adv)* [[perhaps]] - possibly, by chance
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pəˈhæps/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**perhaps**
+> 📖 **Meaning:** Possibly; expressing uncertainty
+> 🇻🇳 **Vietnamese:** Có lẽ, có thể
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **perhaps**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Perhaps if it rains, we will cancel the picnic."
+> ✅ **Correction:** "If it rains, perhaps we will cancel the picnic." OR "Perhaps if it rains, we'll cancel the picnic."
+> 🧠 **Why:** Avoid double uncertainty. Use "perhaps" OR "if" for conditional, not both together in awkward construction
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **perhaps**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[definitely]] (chắc chắn - 100% certain)
+> - [[certainly]] (tất nhiên - without doubt)
+> - [[impossibly]] (không thể - no chance)
+> 🧱 **Contrast:** Perhaps lives in the realm of possibility, while definitely/certainly live in the realm of certainty - uncertainty vs. certainty
 
 ---

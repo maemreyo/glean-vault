@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
 #flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [concentrate, concentrates, concentrated, concentrating, concentrations, deep concentration, intense concentration, concentration span, power of concentration, concentration skills]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌkɒnsənˈtreɪʃn/
+> **Part of Speech:** Noun
+> **CEFR Level:** B1
+> **Register:** Neutral/Academic
+> **Etymology:** From Latin 'concentratio' (a bringing together, union) from 'con-' (together) + 'centrare' (to center)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The action or power of focusing one's attention or mental effort
+>
+> **Context Meaning:** The ability to direct all attention or mental effort to a particular task, activity, or subject
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự tập trung, sự chú tâm
+> - **Contextual:** sự tập trung tư duy, sự chú ý tập trung
+>
 > **Nuances:**
-> - ...
+> - Implies deliberate mental focus and exclusion of distractions
+> - Can refer to both mental state and duration of focus
+> - Essential for learning, problem-solving, and productivity
+> - Often used in educational and professional contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Focused, Disciplined, Mindful
+> **Memory Hook:** con(together) + centr(center) + ation = bringing mental focus to one center
+> **📖 Etymology Story:** From Latin 'con-' (together) + 'centrare' (to center). Concentration literally means bringing all your mental energy to ONE central point, like focusing sunlight through a magnifying glass.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[concentrate]] /ˈkɒnsntreɪt/
+> - **Adj:** [[concentrated]] /ˈkɒnsntreɪtɪd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[focus]] /ˈfəʊkəs/ : directing attention to a specific point
+> - [[attention]] /əˈtenʃn/ : the act of directing the mind
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[distraction]] /dɪˈstrækʃn/ : something that prevents concentration
+> - [[daydream]] /ˈdeɪdriːm/ : wandering thoughts, lack of focus
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. deep/intense concentration
+> 2. power of concentration
+> 3. concentration span
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The exam required deep concentration to complete all questions accurately.
+> - **Translation:** Cuộc thi đòi hỏi sự tập trung sâu sắc để hoàn thành tất cả câu hỏi một cách chính xác.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Meditation helps improve your concentration and reduces stress levels.
+> - **Translation:** Thiền định giúp cải thiện sự tập trung và giảm mức độ căng thẳng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable vs Uncountable**
+> - ❌ **Mistake:** "I need good concentrations for studying."
+> - ✅ **Correction:** "I need good concentration for studying."
+> - **Why:** Concentration is typically uncountable when referring to the mental ability
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Concentration is the secret of strength in politics, in war, in trade, in short in all management of human affairs."
+> **Source:** [[Ralph Waldo Emerson]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **concentration** (*/ˌkɒnsənˈtreɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The action or power of focusing one's attention or mental effort on a particular task
+> 🇻🇳 **Vietnamese:** Sự tập trung, sự chú tâm, sự tập trung tư duy
+> 🗣️ **IPA:** */ˌkɒnsənˈtreɪʃn/*
+> 🧠 **Mental Model:** Khi bạn có "concentration", bạn bring all mental energy đến ONE central point - như magnifying glass focusing sunlight.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The action or power of focusing one's attention or mental effort"
+**Vietnamese:** Sự tập trung, sự chú tâm, sự tập trung tư duy
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**concentration** (*/ˌkɒnsənˈtreɪʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **concentration** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The surgeon needed intense concentration throughout the complex operation.
+> 🇻🇳 **Translation:** Bác sĩ phẫu thuật cần sự tập trung cao độ trong suốt cuộc phẫu thuật phức tạp.
+> 🔍 **Analysis:** Perfect ở đây vì nó describes the intense mental focus required for precision tasks - "intense concentration" shows critical importance.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **concentration**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** deep/intense concentration (chỉ mức độ focus cao)
+> 2. **Capacity:** power/span of concentration (chỉ khả năng/khoảng thời gian tập trung)
+> 3. **Quality:** poor/lack of concentration (chỉ quality tiêu cực)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **concentration**:
+"She needs to focus better."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She needs to improve her concentration skills to excel in her studies."
+> 💡 **Why it works:** "concentration" sounds academic và professional - emphasizes mental ability rather than simple action.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **concentration** instead of **[[attention]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **concentration:** Deep, sustained mental focus (VN: tập trung sâu, bền bỉ)
+> **[[attention]]:** General awareness or notice (VN: sự chú ý chung)
+> 🧱 **The Barrier:** Concentration = active mental effort; Attention = passive awareness
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Someone interrupts you while working. Express the disruption.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You broke my concentration! Now I need a moment to refocus."
+> 👨‍🎨 **Director's Note:** Shows how concentration is fragile - once broken, requires effort to rebuild.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `concentrare` to the meaning of **concentration**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin 'con-' (together) + 'centrare' (to center). Concentration brings scattered thoughts together into one central point of focus, like gathering scattered light into a powerful beam.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **concentration**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `concentrare` (to bring to center, focus)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[concentrate]] (tập trung)
+> - *(adj)* [[concentrated]] (tập trung, cô đặc)
+> - *(noun)* [[concentrate]] (chất cô đặc, tinh chất)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌkɒnsənˈtreɪʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**concentration**
+> 📖 **Meaning:** The action or power of focusing one's attention or mental effort on a particular task
+> 🇻🇳 **Vietnamese:** Sự tập trung, sự chú tâm, sự tập trung tư duy
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **concentration**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "My concentrations are getting better."
+> ✅ **Correction:** "My concentration is getting better."
+> 🧠 **Why:** Concentration is uncountable when referring to the mental ability, not multiple instances of focus.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **concentration**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[distraction]] (sự xao lãng, sự làm mất tập trung)
+> - [[inattention]] (sự không chú ý, sự thờ ơ)
+> 🧱 **Contrast:** Distraction = external interruption; Inattention = internal lack of focus.
 
 ---
