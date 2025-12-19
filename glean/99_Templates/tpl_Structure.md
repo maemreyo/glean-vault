@@ -29,6 +29,7 @@ Select one of the following tags to replace the line above:
 ---
 tags:
   - structure
+aliases: [] # common variations or shortened forms of the pattern
 status: pending
 ref:
 

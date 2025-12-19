@@ -86,6 +86,7 @@ Select one of the following tags to replace the line above:
 ---
 tags:
   - vocabulary
+aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
 status: pending
 ref:
 

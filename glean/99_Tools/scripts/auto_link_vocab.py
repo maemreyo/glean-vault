@@ -6,6 +6,8 @@ import shutil
 import json
 import datetime
 import hashlib
+import yaml # Requires pyyaml, but we can do simple parsing if dependency is an issue.
+# To avoid dependencies, we will parse simple Frontmatter manually.
 
 # Configuration
 VAULT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
@@ -108,39 +110,204 @@ def restore_backup(backup_id):
     except Exception as e:
         print(f"Error restoring file: {e}")
 
+def parse_frontmatter_aliases(filepath):
+    """
+    Parses 'aliases: [a, b, c]' or 'aliases: \n - a \n - b' from Frontmatter.
+    Simple manual parsing to avoid external dependencies.
+    Handles content before the Frontmatter block.
+    """
+    aliases = []
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+            
+        if not lines:
+            return []
+            
+        fm_start_idx = -1
+        for i, line in enumerate(lines):
+            if line.strip() == '---':
+                fm_start_idx = i
+                break
+                
+        if fm_start_idx == -1:
+            return []
+            
+        in_alias_block = False
+        
+        # Start scanning after the first ---
+        for i in range(fm_start_idx + 1, len(lines)):
+            line = lines[i]
+            line_strip = line.strip()
+            
+            if line_strip == '---':
+                break # End of FM
+                
+            # Check for inline aliases: "aliases: [one, two]"
+            if line_strip.startswith('aliases:'):
+                # Check for inline array list
+                inline_match = re.search(r'\[(.*?)\]', line_strip)
+                if inline_match:
+                    content = inline_match.group(1)
+                    if content:
+                        items = [x.strip() for x in content.split(',')]
+                        aliases.extend(items)
+                else:
+                    in_alias_block = True
+                    
+            elif in_alias_block:
+                if line_strip.startswith('-'):
+                    # List item: "- alias"
+                    alias = line_strip[1:].strip()
+                    if alias:
+                        aliases.append(alias)
+                elif ':' in line_strip:
+                    # New key, end of alias block
+                    in_alias_block = False
+                    
+    except Exception as e:
+        print(f"Warning: Error parsing {filepath}: {e}")
+        
+    return aliases
+
 def get_terms():
     """
-    Scans vocabulary and structure directories for .md files.
+    Scans vocabulary and structure directories for .md files recursively.
     Returns a dictionary mapping lowercase term -> vault-relative path (without extension).
+    Includes aliases mapping to the same path.
     """
     terms = {}
     
-    # Helper to scan a directory
+    # Helper to scan a directory recursively
     def scan_dir(directory):
         if not os.path.exists(directory):
             print(f"Warning: Directory not found: {directory}")
             return
             
-        # Get relative path from vault root to this directory
-        rel_dir = os.path.relpath(directory, VAULT_ROOT)
-            
-        for f in os.listdir(directory):
-            if f.endswith(".md"):
-                # Filename is the term
-                filename = f[:-3] # Remove .md
-                if "|" in filename:
-                    continue
-                
-                # Construct vault-relative path for the link
-                # e.g. glean/20_Vocabulary/term
-                full_rel_path = os.path.join(rel_dir, filename)
-                
-                terms[filename.lower()] = full_rel_path
+        for root, dirs, files in os.walk(directory):
+            for f in files:
+                if f.endswith(".md"):
+                    # Filename is the term
+                    filename = f[:-3] # Remove .md
+                    if "|" in filename:
+                        continue
+                    
+                    # Construct vault-relative path for the link
+                    # Use absolute paths internally to compute relative path from vault root
+                    full_abs_path = os.path.join(root, f)
+                    full_rel_path = os.path.relpath(full_abs_path, VAULT_ROOT)
+                    # Remove .md from rel path if present
+                    if full_rel_path.endswith(".md"):
+                        full_rel_path = full_rel_path[:-3]
+                    
+                    # Add main term
+                    terms[filename.lower()] = full_rel_path
+                    
+                    # Add aliases
+                    aliases = parse_frontmatter_aliases(full_abs_path)
+                    for alias in aliases:
+                        if alias:
+                            terms[alias.lower()] = full_rel_path
 
     scan_dir(VOCAB_DIR)
     scan_dir(STRUCT_DIR)
     
     return terms
+
+def migrate_aliases_field(dry_run=True):
+    """
+    Scans all vocab/structure files. If 'aliases:' is missing in FM, adds 'aliases: []'.
+    """
+    targets = []
+    print(f"Scanning for migration targets in:\n- {VOCAB_DIR}\n- {STRUCT_DIR}")
+    for d in [VOCAB_DIR, STRUCT_DIR]:
+        if os.path.exists(d):
+            # Recursively find all MD files
+            for root, dirs, files in os.walk(d):
+                for f in files:
+                    if f.endswith(".md"):
+                        targets.append(os.path.join(root, f))
+    
+    print(f"Found {len(targets)} potential files to check.")
+    count = 0
+    
+    for filepath in targets:
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+        except Exception:
+            continue
+            
+        if not lines:
+            continue
+            
+        fm_start_index = -1
+        fm_end_index = -1
+        has_aliases = False
+        
+        # 1. Find Start of Frontmatter
+        for i, line in enumerate(lines):
+            if line.strip() == '---':
+                fm_start_index = i
+                break
+        
+        if fm_start_index == -1:
+            # No FM start found
+            continue
+            
+        # 2. Find End of Frontmatter (search after start)
+        for i in range(fm_start_index + 1, len(lines)):
+            line = lines[i].strip()
+            if line == '---':
+                fm_end_index = i
+                break
+            if line.startswith('aliases:'):
+                has_aliases = True
+                
+        # Only proceed if we found a closed FM block
+        if fm_end_index > fm_start_index and not has_aliases:
+            # Need to insert aliases
+            if dry_run:
+                # Limit debug output
+                if count < 5:
+                     print(f"[DRY RUN] Would add 'aliases: []' to {os.path.basename(filepath)}")
+                count += 1
+            else:
+                # Find 'tags:' line to insert after
+                insert_idx = fm_end_index 
+                found_tags = False
+                
+                for i in range(fm_start_index + 1, fm_end_index):
+                    if lines[i].strip().startswith('tags:'):
+                         found_tags = True
+                         # Try to find end of tags block if it's a list
+                         j = i + 1
+                         while j < fm_end_index:
+                             next_line = lines[j].strip()
+                             if next_line.startswith('-'):
+                                 j += 1
+                             else:
+                                 break
+                         insert_idx = j
+                         break
+                
+                new_lines = lines[:]
+                # Use same indentation as tags if possible, otherwise no indent
+                indent = ""
+                
+                new_lines.insert(insert_idx, f"{indent}aliases: []\n")
+                
+                print(f"Migrating: {os.path.basename(filepath)}")
+                # create_backup(filepath, ["Added aliases: [] field"])
+                
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    f.writelines(new_lines)
+                count += 1
+
+    if dry_run:
+        print(f"[DRY RUN] Total files to migrate: {count}")
+    else:
+        print(f"Migrated {count} files.")
 
 def process_file(filepath, terms_map, sorted_term_keys, dry_run=True):
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -177,6 +344,12 @@ def process_file(filepath, terms_map, sorted_term_keys, dry_run=True):
                     
                     # If in a table row, escape the pipe
                     separator = "\\|" if is_table_row else "|"
+                    
+                    # If original text matches term filename case-insensitively, we can just use [[Term]]
+                    # But if it's an alias or different case, we need [[Term|Original]]
+                    term_filename = os.path.basename(rel_path)
+                    
+                    # Always use piped link for clarity and alias support
                     new_text = f"[[{rel_path}{separator}{original_text}]]"
                     
                     changes_made.append(f"'{original_text}' -> '{new_text}'")
@@ -220,6 +393,7 @@ def main():
     parser.add_argument("--no-dry-run", action="store_false", dest="dry_run", help="Actually modify files")
     parser.add_argument("--list-backups", nargs='?', const='ALL', help="List available backups. Optional: provide file path to filter.")
     parser.add_argument("--restore", help="Restore a file from a backup ID")
+    parser.add_argument("--migrate-aliases", action="store_true", help="One-time utility: Add 'aliases: []' to existing vocabulary files.")
     
     parser.set_defaults(dry_run=True)
     
@@ -237,13 +411,19 @@ def main():
             file_filter = args.list_backups
         list_backups(file_filter)
         return
+        
+    # Handle Migration
+    if args.migrate_aliases:
+        print("Starting alias migration scan...")
+        migrate_aliases_field(dry_run=args.dry_run)
+        return
     
     # Normal Processing
     print(f"Scanning terms in:\n- {VOCAB_DIR}\n- {STRUCT_DIR}")
     terms_map = get_terms()
     
     sorted_term_keys = sorted(terms_map.keys(), key=len, reverse=True)
-    print(f"Found {len(terms_map)} unique terms.")
+    print(f"Found {len(terms_map)} unique terms (including aliases).")
     
     target_files = []
 

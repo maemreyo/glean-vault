@@ -6,11 +6,13 @@ This script automates the process of linking vocabulary and structure terms in y
 
 ## Features
 
-- **Smart Linking:** Scans for terms and creates valid Obsidian links using vault-relative paths.
-- **Table Support:** Correctly handles Markdown tables by escaping pipe characters (`|` -> `\|`) inside table rows, preserving table structure.
-- **Safety First:** Defaults to `--dry-run` to show you what will happen without touching files.
-- **Automatic Backups:** Automatically creates a backup of any file before modifying it (unless in dry-run mode).
-- **Restore Capability:** Built-in commands to list backups and restore files to previous versions.
+- **Smart Linking**: Finds terms from `20_Vocabulary` and `30_Structures` and links them.
+- **Alias Support**: Automatically reads `aliases` from a note's Frontmatter (YAML) and links those variations to the main note.
+- **Recursive Scanning**: Finds vocabulary and structure terms in subdirectories.
+- **Markdown Table Support**: Automatically escapes the pipe character (`\|`) when inserting links inside table rows to prevent breaking the table layout.
+- **Safety First**: Optional `--dry-run` to preview changes.
+- **Backup & Restore**: Automatically creates backups before modifying files. Includes a robust inventory system to list and restore from previous versions.
+- **Migration Tool**: Includes a `--migrate-aliases` flag to batch-add missing alias fields to existing notes.
 
 ## Usage
 
@@ -74,3 +76,35 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py --restore 20251219_113004_1b8b
 - **Backup Location:** `glean/99_Tools/backups/`
 - **Inventory File:** `glean/99_Tools/backups/inventory.json`
 - **Regex Logic:** Matches exact whole words (`\bterm\b`) to avoid partial matches within other words.
+
+## Alias Support
+
+The script reads the `aliases` field from the YAML frontmatter of your vocabulary and structure notes. This is the recommended way to handle:
+- **Plurals:** `[passengers, cities, boxes]`
+- **Verb Tenses:** `[developed, developing, develops]`
+- **Word Families (POS):** `[portionable, portionally, portioning]`
+- **Possessives:** `[passenger's, city's]`
+- **Irregular Forms:** `[went, gone, better, best]`
+- **Shortened Forms:** `[approx., prep]`
+
+**Example Frontmatter in `portion.md`:**
+```yaml
+---
+aliases: [portions, portioned, portionable, portionally]
+---
+```
+
+When the script finds any of these variations in an article, it will link it back to the parent note using the original text: `[[glean/20_Vocabulary/portion|portionable]]`.
+
+## Migration Tool
+
+If your existing notes are missing the `aliases` field, you can add it to all files in bulk:
+
+```bash
+# Preview the migration
+python3 glean/99_Tools/scripts/auto_link_vocab.py --migrate-aliases --dry-run
+
+# Run the migration (adds aliases: [] to all files lacking it)
+python3 glean/99_Tools/scripts/auto_link_vocab.py --migrate-aliases --no-dry-run
+```
+

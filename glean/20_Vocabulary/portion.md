@@ -3,6 +3,7 @@
 ---
 tags:
   - vocabulary
+aliases: [portions, portioned]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]
