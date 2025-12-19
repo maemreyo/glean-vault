@@ -1,0 +1,37 @@
+[
+  {
+    "id": "20251219_114518_1b8b0f",
+    "timestamp": "20251219_114518",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251219_114518_1b8b0f_The giant heat pumps designed to warm whole districts.md",
+    "changes_count": 2,
+    "changes_sample": [
+      "'sewage' -> '[[20_Vocabulary/sewage|sewage]]'",
+      "'convert' -> '[[20_Vocabulary/convert|convert]]'"
+    ]
+  },
+  {
+    "id": "20251219_114518_943431",
+    "timestamp": "20251219_114518",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 01.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251219_114518_943431_Cam 20 Listening Test 01.md",
+    "changes_count": 112,
+    "changes_sample": [
+      "'keen on' -> '[[20_Vocabulary/keen on\\|keen on]]'",
+      "'expensive' -> '[[20_Vocabulary/expensive\\|expensive]]'",
+      "'deposit' -> '[[20_Vocabulary/deposit\\|deposit]]'",
+      "'pottery' -> '[[20_Vocabulary/pottery|pottery]]'",
+      "'identify' -> '[[20_Vocabulary/identify|identify]]'"
+    ]
+  },
+  {
+    "id": "20251219_114518_e19472",
+    "timestamp": "20251219_114518",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251219_114518_e19472_What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "changes_count": 1,
+    "changes_sample": [
+      "'keen on' -> '[[20_Vocabulary/keen on|keen on]]'"
+    ]
+  }
+]

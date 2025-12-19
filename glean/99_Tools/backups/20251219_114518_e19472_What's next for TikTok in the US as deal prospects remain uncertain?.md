@@ -2,7 +2,7 @@
 
 Getty Images The TikTok logo on a phone in a person's hand.
 
-A billionaire investor [[20_Vocabulary/keen on|keen on]] buying TikTok's US operations has told the BBC he has been left in limbo as the latest deadline for the app's sale looms.
+A billionaire investor keen on buying TikTok's US operations has told the BBC he has been left in limbo as the latest deadline for the app's sale looms.
 
 The US has repeatedly delayed the date by which the platform's Chinese owner, ByteDance, must sell or be blocked for American users.
 

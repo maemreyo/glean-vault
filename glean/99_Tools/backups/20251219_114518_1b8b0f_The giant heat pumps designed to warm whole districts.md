@@ -59,7 +59,7 @@ Those 44MW machines are actually the same ones used in a previous project, now f
 
 Large hot water storage tanks, each able to [[20_Vocabulary/hold|hold]] 200,000 cubic metres of liquid, [[20_Vocabulary/will|will]] give the system added flexibility, adds Mr de Rougemont: "When the electricity price is high, you stop your heat pump and only provide heat from the storage."
 
-Veronika Wilk at the Austrian Institute of Technology says, "Heat pumps and district heating systems are a great fit." Such systems can harvest heat from bodies of water or even wastewater from [[20_Vocabulary/sewage|sewage]] treatment plants.
+Veronika Wilk at the Austrian Institute of Technology says, "Heat pumps and district heating systems are a great fit." Such systems can harvest heat from bodies of water or even wastewater from sewage treatment plants.
 
 Dr Wilk notes that, when you use multiple large heat pumps on a district heating network, you gain flexibility and efficiency. You could run two out of four heat pumps in the autumn, say, when less heat is required than during the depths of winter.
 
@@ -73,7 +73,7 @@ All the systems mentioned so far harvest energy from water sources but, less com
 
 Helsinki is in the process of radically overhauling its district heating system. The city has added heat pumps, biomass burners and electric boilers to a 1,400km network that links up nearly 90% of buildings in the Finnish capital, adds Mr Aaltonen.
 
-Heat pumps [[20_Vocabulary/convert|convert]] single kilowatt hours of electricity into multiple kilowatt hours of heat but electric boilers can't do this and are therefore considered less efficient.
+Heat pumps convert single kilowatt hours of electricity into multiple kilowatt hours of heat but electric boilers can't do this and are therefore considered less efficient.
 
 I ask why Helen Oy decided to install hundreds of megawatts of these boilers and Mr Aaltonen says that they are cheaper to install than heat pumps and having them also means he and colleagues don't have to rely entirely on the air, which is limited in terms of how much heat it can provide at scale. Plus, the electric boilers can help to soak up surplus renewables and provide an electricity grid-balancing function, he says.
 
