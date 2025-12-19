@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [talk about, discuss, mention, speak about, address, bring up, conversation, discussion, dialogue]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /tɔːk əˈbaʊt/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** A1
+> **Register:** neutral
+> **Etymology:** Combination of 'talk' (speak) + 'about' (concerning)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To speak about a particular subject
+>
+> **Context Meaning:** To discuss, mention, or converse about something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nói về, nói chuyện về
+> - **Contextual:** thảo luận về, đề cập đến
+>
 > **Nuances:**
-> - ...
+> - Most common way to introduce a topic
+> - Can be casual or formal depending on context
+> - Used for topics, people, events, or issues
+> - Future tense: "going to talk about" often indicates planned discussion
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Communicative
+> **Memory Hook:** "Talk" (speak) + "about" (around) = speak all around a subject
+> **📖 Etymology Story:** From Old English 'talcian' (to speak, tell) and Old English 'onbutan' (outside, around). The combination evolved to mean discussing or speaking about something that surrounds our attention.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[talk]] /tɔːk/, [[conversation]] /ˌkɒnvəˈseɪʃn/, [[discussion]] /dɪˈskʌʃn/
+> - **Verb:** [[talk]] /tɔːk/, [[talk about]] /tɔːk əˈbaʊt/, [[talk to]] /tɔːk tuː/
+> - **Adj:** [[talkative]] /ˈtɔːkətɪv/
+> - **Adv:** [[talkatively]] /ˈtɔːkətɪvli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[discuss]] /dɪˈskʌs/ : talk about something in detail
+> - [[mention]] /ˈmenʃn/ : refer to briefly
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[ignore]] /ɪɡˈnɔː(r)/ : refuse to notice
+> - [[avoid]] /əˈvɔɪd/ : keep away from
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. talk about the weather
+> 2. talk about problems
+> 3. talk about future plans
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Let's talk about your progress on the project.
+> - **Translation:** Hãy nói về tiến độ của bạn trong dự án.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The documentary talks about the effects of climate change.
+> - **Translation:** Bộ phim tài liệu này nói về tác động của biến đổi khí hậu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** "talk to about something"
+> - ✅ **Correction:** "talk about something" OR "talk to someone about something"
+> - **Why:** Don't double up prepositions
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The art of conversation is the art of hearing as well as of being heard."
+> **Source:** [[William Hazlitt]]
 
 ---
 
@@ -161,121 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **talk about** (*/tɔːk əˈbaʊt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To speak about a particular subject; to discuss, mention, or converse about something
+> 🇻🇳 **Vietnamese:** nói về, nói chuyện về; thảo luận về, đề cập đến
+> 🗣️ **IPA:** */tɔːk əˈbaʊt/*
+> 🧠 **Mental Model:** Hai người ngồi đối diện và quay sang nhau để nói về một chủ đề chung ở giữa họ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To speak about a particular subject; to discuss, mention, or converse about something"
+**Vietnamese:** nói về, nói chuyện về; thảo luận về, đề cập đến
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**talk about** (*/tɔːk əˈbaʊt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **talk about** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The professor will talk about the latest developments in artificial intelligence during tomorrow's lecture.
+> 🇻🇳 **Translation:** Giáo sư sẽ nói về những phát triển mới nhất trong trí tuệ nhân tạo trong bài giảng ngày mai.
+> 🔍 **Analysis:** 'talk about' ở đây perfect vì nó diễn tả việc sẽ thảo luận một chủ đề cụ thể, không chỉ là 'mention' mà còn có chiều sâu
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **talk about**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Casual:** talk about the weather (nói về thời tiết) (chủ đề an toàn)
+> 2. **Problem:** talk about problems (thảo luận vấn đề) (giải quyết)
+> 3. **Planning:** talk about future plans (nói về kế hoạch tương lai) (quan hệ tương lai)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **talk about**:
+"She mentioned the meeting."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "During lunch, we began to talk about the budget proposals for the upcoming quarter."
+> 💡 **Why it works:** 'talk about' upgrade từ 'mentioned' bằng cách nhấn mạnh cuộc thảo luận có chiều sâu và tương tác, không chỉ là đề cập ngắn gọn
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **talk about** instead of [[discuss]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **talk about:** Dùng trong bối cảnh thông thường, không trang trọng, có thể chỉ cuộc trò chuyện tự nhiên
+> **discuss:** Dùng khi muốn nhấn mạnh việc thảo luận có hệ thống, trang trọng hoặc chính thức
+> 🧱 **The Barrier:** Formality and structure - talk about is casual and open-ended while discuss implies systematic examination
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You notice your friend seems worried about something. You feel concerned and want to help. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Hey, do you want to talk about what's been bothering you lately?"
+> 👨‍🎨 **Director's Note:** 'talk about' fits perfectly vì nó diễn tả lời mời trò chuyện một cách tự nhiên, thân thiện, không trang trọng
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `talk` + `about` to the meaning of **talk about**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ tiếng Anh cổ 'talcian' (nói, kể) và 'onbutan' (bên ngoài, xung quanh). Sự kết hợp này phát triển thành việc thảo luận hoặc nói về một thứ gì đó xung quanh sự chú ý của chúng ta.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **talk about**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English `talcian` (nói, kể) + `onbutan` (bên ngoài, xung quanh)
+> 👨‍👩‍👧 **Family:**
+> - *(v)* talk (nói chuyện)
+> - *(n)* talk (bài nói chuyện)
+> - *(n)* conversation (cuộc trò chuyện)
+> - *(adj)* talkative (hay nói chuyện)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */tɔːk əˈbaʊt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**talk about**
+> 📖 **Meaning:** To speak about a particular subject; to discuss, mention, or converse about something
+> 🇻🇳 **Vietnamese:** nói về, nói chuyện về; thảo luận về, đề cập đến
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **talk about**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I want to talk to about my concerns."
+> ✅ **Correction:** "I want to talk about my concerns." OR "I want to talk to you about my concerns."
+> 🧠 **Why:** Không dùng hai giới từ ('to about') với nhau. Chọn 'talk about something' hoặc 'talk to someone about something'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **talk about**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[ignore]] (bỏ qua, phớt lờ)
+> - [[avoid talking about]] (tránh nói về, né tránh đề cập)
+> 🧱 **Contrast:** Talk about involves bringing something into discussion, while ignore means deliberately not noticing, and avoid talking about means actively steering away from a topic

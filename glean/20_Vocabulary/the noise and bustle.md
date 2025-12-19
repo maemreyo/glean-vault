@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
 #flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [hustle and bustle, commotion, uproar, turmoil, cacophony, din, clamor, racket, hubbub, tumult]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ðə nɔɪz ænd ˈbʌsəl/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** "Noise" from Latin "nausea" (seasickness, later meaning unpleasant sound). "Bustle" from Middle English "bustlen" (to be noisy, move about energetically). Combined to describe urban chaos.
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Loud confused activity.
+>
+> **Context Meaning:** The characteristic sounds and energetic activity of a busy place, especially a city; the combination of various noises and energetic movement typical of crowded areas.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tiếng ồn và sự hối hả
+> - **Contextual:** sự ồn ào, huyên náo, xô bồ, nhộn nhịp
+>
 > **Nuances:**
-> - ...
+> - Typically associated with urban environments
+> - Can be either positive (vibrancy) or negative (chaos) depending on context
+> - Often implies overwhelming sensory stimulation
+> - Common expression in descriptions of city life
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Energetic, Overwhelming, Urban
+> **Memory Hook:** Think of a busy street - "noise" from cars and people, "bustle" from everyone rushing about - the complete sensory experience of city chaos!
+> **📖 Etymology Story:** Medieval markets were places of "bustling" activity and "noisy" trade. As cities grew, this combination became the signature of urban life - the eternal soundtrack of human civilization in motion.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[noise]] /nɔɪz/
+> - **Noun:** [[bustle]] /ˈbʌsəl/
+> - **Verb:** [[bustle]] /ˈbʌsəl/
+> - **Adj:** [[bustling]] /ˈbʌslɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[hustle and bustle]] /ˈhʌsəl ænd ˈbʌsəl/ : More common variation
+> - [[commotion]] /kəˈməʊʃən/ : Focuses on disturbance
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[peace and quiet]] /piːs ænd ˈkwaɪət/ : Calmness
+> - [[tranquility]] /træŋˈkwɪləti/ : Serenity
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. escape the noise and bustle
+> 2. tired of the noise and bustle
+> 3. in all the noise and bustle
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She moved to the countryside to escape the noise and bustle of city life.
+> - **Translation:** Cô ấy chuyển về nông thôn để thoát khỏi sự ồn ào và hối hả của thành phố.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The market was full of the noise and bustle of early morning traders.
+> - **Translation:** Chợ sớm đầy tiếng ồn ào và sự xô bồ của những người buôn bán.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** I enjoy noise and bustle of the city.
+> - ✅ **Correction:** I enjoy the noise and bustle of the city.
+> - **Why:** The definite article "the" is usually required before this fixed expression.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Many people seek refuge from the noise and bustle of urban life in nature."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **the noise and bustle** (*/ðə nɔɪz ænd ˈbʌsəl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The characteristic sounds and energetic activity of a busy place; the combination of various noises and energetic movement typical of crowded areas.
+> 🇻🇳 **Vietnamese:** Sự ồn ào và huyên náo; tiếng ồn và sự xô bồ của nơi đông đúc
+> 🗣️ **IPA:** */ðə nɔɪz ænd ˈbʌsəl/*
+> 🧠 **Mental Model:** Giống như standing in middle of busy market - cacophony của sounds + chaos của movement tạo thành overwhelming sensory experience.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The characteristic sounds and energetic activity of a busy place"
+**Vietnamese:** Sự ồn ào và náo nhiệt của nơi đông đúc
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**the noise and bustle** (*/ðə nɔɪz ænd ˈbʌsəl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **the noise and bustle** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After years of enduring the noise and bustle of Manhattan, she found solace in the quiet streets of a small town.
+> 🇻🇳 **Translation:** Sau nhiều năm chịu đựng sự ồn ào và hối hả của Manhattan, cô ấy tìm thấy sự an ủi trong những con đường yên tĩnh của một thị trấn nhỏ.
+> 🔍 **Analysis:** "The noise and bustle" thể hiện overwhelming sensory experience của urban environment. Nó contrasts với "quiet streets" để highlight difference giữa urban và rural lifestyles.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **the noise and bustle**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Escape:** escape the noise and bustle (thoát khỏi - seeking peace)
+> 2. **Location:** noise and bustle of the city/market/streets (của nơi đông người - context)
+> 3. **Preference:** love/hate/tire of the noise and bustle (yêu thích/không chịu - attitude)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **the noise and bustle**:
+"The city was very busy and loud."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The café offered a peaceful retreat from the noise and bustle of the streets outside."
+> 💡 **Why it works:** "The noise and bustle" là vivid expression combining both auditory và kinetic elements, creating immersive description thay vì generic "busy and loud".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **the noise and bustle** instead of [[business]]?
+>
+> **the noise and bustle:** Cảm giác về sensory experience - cả âm thanh và movement (VN)
+> **[[business]]:** Trừu tượng về hoạt động thương mại hoặc công việc (VN)
+> 🧱 **The Barrier:** "Noise and bustle" là physical, sensory experience có thể cảm nhận, trong khi "business" là abstract concept.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You've just moved from a quiet village to a big city. You're describing your first impressions to a friend. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm still getting used to the constant noise and bustle of city life - it never stops!"
+> 👨‍🎨 **Director's Note:** "The noise and bustle" thể hiện overwhelming sensory冲击 của urban environment, perfect cho expressing culture shock.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
-?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+🌱 **Origins:** Link the root `bustlen` to the meaning of **the noise and bustle**.
+>
+> 📜 **Story:** Middle English "bustlen" meant to move noisily và energetically. Kết hợp với "noise", nó tạo ra complete picture của urban chaos - không chỉ sound mà còn perpetual motion của human activity.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
-?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+Analyze the root/family of **the noise and bustle**.
+>
+> 🌱 **Root:** Middle English `bustlen` (to move energetically) + Latin `nausea` (noise, seasickness)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* noise (tiếng ồn)
+> - *(verb)* bustle (hối hả, di chuyển nhanh)
+> - *(adj)* bustling (hối hả, nhộn nhịp)
+> - *(phrase)* hustle and bustle (biến thể phổ biến hơn)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ðə nɔɪz ænd ˈbʌsəl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**the noise and bustle**
+> 📖 **Meaning:** The sounds and activity of a busy place
+> 🇻🇳 **Vietnamese:** Sự ồn ào và náo nhiệt
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
-?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+🕵️ **Fix the Error:** Common mistake with **the noise and bustle**?
+>
+> ❌ **Mistake:** I can't concentrate with all noise and bustle outside.
+> ✅ **Correction:** I can't concentrate with all the noise and bustle outside.
+> 🧠 **Why:** "The noise and bustle" là fixed expression luôn đi với definite article "the". Không thể bỏ "the" trong expression này.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
+↔️ **Flip:** What is the opposite of **the noise and bustle**?
+>
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[peace and quiet]] (sự yên bình và tĩnh lặng)
+> - [[serenity]] (sự thanh bình)
+> 🧱 **Contrast:** "Noise and bustle" là chaos của sensory stimulation, trong khi antonyms là absence of disturbance - calm, tranquil state devoid of overwhelming input.

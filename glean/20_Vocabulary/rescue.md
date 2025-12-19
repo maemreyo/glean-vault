@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [rescue, rescued, rescuer, rescue operation, save, saved, saving, help, aid, assist]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈreskjuː/
+> **Part of Speech:** verb/noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** From Old French 'rescourre' (to rescue, shake off)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To save someone or something from a dangerous or harmful situation
+>
+> **Context Meaning:** Emergency action to help people in distress
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cứu, cứu hộ
+> - **Contextual:** giải cứu, giải thoát
+>
 > **Nuances:**
-> - ...
+> - Implies urgency and danger
+> - Can be used for people, animals, or even ideas/reputations
+> - Often associated with heroism and immediate action
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Heroic
+> **Memory Hook:** "Res-" (again) + "cue" (remind) - reminds you to save someone again from danger
+> **📖 Etymology Story:** From Old French 'rescourre' meaning 'to rescue, shake off', from Latin 're-' (again) + 'excutere' (to shake out). Originally described shaking off danger, then evolved to mean saving someone from any dangerous situation.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[rescue]] /ˈreskjuː/, [[rescuer]] /ˈreskjuːə(r)/
+> - **Verb:** [[rescue]] /ˈreskjuː/, [[rescue from]] /ˈreskjuː frəm/
+> - **Adj:** [[rescued]] /ˈreskjuːd/, [[rescuable]] /ˈreskjuːəbl/
+> - **Adv:** (no common form)
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[save]] /seɪv/ : to keep safe from harm
+> - [[liberate]] /ˈlɪbəreɪt/ : to set free from oppression
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[abandon]] /əˈbændən/ : to leave someone in danger
+> - [[endanger]] /ɪnˈdeɪndʒə(r)/ : to put in danger
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. rescue mission/operation
+> 2. rescue workers/team
+> 3. rescue from danger
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The firefighters rescued five people from the burning building.
+> - **Translation:** Các lính cứu hỏa đã cứu năm người khỏi tòa nhà đang cháy.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The rescue operation took place during the stormy night.
+> - **Translation:** Chiến dịch giải cứu diễn ra trong đêm bão tố.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** "rescue someone of danger"
+> - ✅ **Correction:** "rescue someone from danger"
+> - **Why:** Always use 'from' with rescue to indicate the source of danger
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well."
+> **Source:** [[Ralph Waldo Emerson]] (context: rescuing others gives life purpose)
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **rescue** (*/ˈreskjuː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To save someone or something from a dangerous or harmful situation; emergency action to help people in distress
+> 🇻🇳 **Vietnamese:** cứu, cứu hộ; giải cứu, chiến dịch giải cứu
+> 🗣️ **IPA:** */ˈreskjuː/*
+> 🧠 **Mental Model:** Hành động cấp cứu trong tình huống nguy cấp, giống như siêu hero kéo ai đó ra khỏi nguy hiểm ngay lập tức
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To save someone or something from a dangerous or harmful situation; emergency action to help people in distress"
+**Vietnamese:** cứu, cứu hộ; giải cứu, chiến dịch giải cứu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**rescue** (*/ˈreskjuː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **rescue** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The coast guard helicopter rescued the sailors from their sinking boat.
+> 🇻🇳 **Translation:** Trực thăng tuần duyên đã cứu các thủy thủ khỏi thuyền đang chìm của họ.
+> 🔍 **Analysis:** 'rescue' ở đây perfect vì nó diễn tả hành động cấp cứu khẩn cấp trong tình huống nguy hiểm đến tính mạng, không chỉ là 'help' thông thường
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **rescue**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Operation:** rescue mission/operation (chiến dịch giải cứu) (hoạt động có tổ chức)
+> 2. **People:** rescue workers/team (đội cứu hộ) (nhân sự)
+> 3. **Situation:** rescue from danger (cứu khỏi nguy hiểm) (mục đích)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **rescue**:
+"The lifeguard helped the swimmer."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The brave lifeguard rescued the struggling swimmer from the powerful undertow."
+> 💡 **Why it works:** 'rescued' upgrade từ 'helped' bằng cách nhấn mạnh tính nguy hiểm và hành động anh hùng, không chỉ là sự giúp đỡ bình thường
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **rescue** instead of [[help]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **rescue:** Dùng khi có nguy hiểm thực sự, cần hành động khẩn cấp để cứu người/thuốc khỏi tình huống đe dọa tính mạng
+> **help:** Dùng cho sự giúp đỡ thông thường, không nhất thiết có yếu tố nguy hiểm hay cấp bách
+> 🧱 **The Barrier:** Danger level and urgency - rescue implies immediate danger while help can be general assistance
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see a cat stuck high in a tree during a storm. You feel concerned and capable. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We need to rescue that poor cat before the storm gets worse!"
+> 👨‍🎨 **Director's Note:** 'rescue' fits perfectly vì nó diễn tả tình huống nguy hiểm cần hành động ngay lập tức để cứu con mèo
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `re-` + `excute` to the meaning of **rescue**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ tiếng Pháp cổ 'rescourre' có nghĩa là 'giải cứu, thoát khỏi', từ Latin 're-' (lại) + 'excutere' (lắc ra). Ban đầu mô tả hành động lắc bỏ nguy hiểm, sau đó phát triển thành ý nghĩa cứu người khỏi bất kỳ tình huống nguy hiểm nào.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **rescue**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old French `rescourre` (giải cứu, lắc ra)
+> 👨‍👩‍👧 **Family:**
+> - *(v/n)* rescue (cứu, giải cứu)
+> - *(n)* rescuer (người cứu hộ)
+> - *(adj)* rescued (đã được cứu)
+> - *(adj)* rescuable (có thể cứu được)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈreskjuː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**rescue**
+> 📖 **Meaning:** To save someone or something from a dangerous or harmful situation; emergency action to help people in distress
+> 🇻🇳 **Vietnamese:** cứu, cứu hộ; giải cứu, chiến dịch giải cứu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **rescue**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The firefighters rescued the people of the fire."
+> ✅ **Correction:** "The firefighters rescued the people from the fire."
+> 🧠 **Why:** Với 'rescue', luôn dùng giới từ 'from' để chỉ nguồn gốc của nguy hiểm, không phải 'of'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **rescue**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[abandon]] (bỏ rơi, từ bỏ)
+> - [[endanger]] (gây nguy hiểm, đe dọa)
+> 🧱 **Contrast:** Rescue involves saving someone from danger, while abandon and endanger involve leaving someone in danger or putting them at risk

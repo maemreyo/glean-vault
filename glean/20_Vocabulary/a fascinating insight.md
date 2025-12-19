@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
 #flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [insight, insightful, fascinating, interesting discovery, revelation, epiphany, profound understanding, aha moment]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfæsɪneɪtɪŋ ˈɪnsaɪt/
+> **Part of Speech:** adjective + noun phrase
+> **CEFR Level:** C1
+> **Register:** academic/intellectual
+> **Etymology:** Fascinating: from Latin 'fascinatus' (enchanted); Insight: from 'in' + 'sight'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A captivating understanding or revelation
+>
+> **Context Meaning:** A deep and interesting realization that provides new perspective
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một sự thấu hiểu đáng kinh ngạc
+> - **Contextual:** một khám phá sâu sắc thú vị, một sự khai sáng lôi cuốn
+>
 > **Nuances:**
-> - ...
+> - Combines intellectual depth with emotional appeal
+> - Suggests a sudden or profound understanding
+> - Often used in academic, psychological, or philosophical contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Intellectual
+> **Memory Hook:** "Fascinating" (very interesting) + "Insight" (seeing within) = seeing something interesting deep inside
+> **📖 Etymology Story:** From Latin 'fascinare' (to enchant, bewitch) + Old English 'insihht' (inner sight). The phrase combines the idea of being captivated with the ability to see deeply into the nature of something.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[insight]] /ˈɪnsaɪt/, [[fascination]] /ˌfæsɪˈneɪʃn/
+> - **Verb:** [[fascinate]] /ˈfæsɪneɪt/
+> - **Adj:** [[fascinating]] /ˈfæsɪneɪtɪŋ/, [[insightful]] /ˈɪnsaɪtfʊl/
+> - **Adv:** [[fascinatingly]] /ˈfæsɪneɪtɪŋli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[profound realization]] /prəˈfaʊnd ˌriːəlaɪˈzeɪʃn/ : deep understanding
+> - [[revelation]] /ˌrevəˈleɪʃn/ : surprising disclosure
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[superficial understanding]] /ˌsuːpəˈfɪʃl ˌʌndəˈstændɪŋ/ : shallow knowledge
+> - [[confusion]] /kənˈfjuːʒn/ : lack of clarity
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. gain a fascinating insight
+> 2. provide an insight into
+> 3. fascinating insight into human nature
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The documentary offered a fascinating insight into the lives of deep-sea creatures.
+> - **Translation:** Bộ phim tài liệu này mang đến một sự thấu hiểu đáng kinh ngạc về đời sống của các sinh vật biển sâu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Her research provided a fascinating insight into how children learn language.
+> - **Translation:** Nghiên cứu của cô đã cung cấp một sự khai sáng thú vị về cách trẻ em học ngôn ngữ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition error**
+> - ❌ **Mistake:** "a fascinating insight of the problem"
+> - ✅ **Correction:** "a fascinating insight into the problem"
+> - **Why:** Use 'into' with insight, not 'of'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The most valuable insights often come from the most unexpected places."
+> **Source:** [[Anonymous]]
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a fascinating insight** (*/ˈfæsɪneɪtɪŋ ˈɪnsaɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A captivating understanding or revelation that provides new perspective; a deep and interesting realization
+> 🇻🇳 **Vietnamese:** một sự thấu hiểu đáng kinh ngạc; một khám phá sâu sắc thú vị, một sự khai sáng lôi cuốn
+> 🗣️ **IPA:** */ˈfæsɪneɪtɪŋ ˈɪnsaɪt/*
+> 🧠 **Mental Model:** Cửa sổ bất ngờ mở ra, cho phép nhìn sâu vào bản chất của một vấn đề một cách thú vị và hấp dẫn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A captivating understanding or revelation that provides new perspective; a deep and interesting realization"
+**Vietnamese:** một sự thấu hiểu đáng kinh ngạc; một khám phá sâu sắc thú vị, một sự khai sáng lôi cuốn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a fascinating insight** (*/ˈfæsɪneɪtɪŋ ˈɪnsaɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a fascinating insight** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The psychologist shared a fascinating insight into how childhood experiences shape adult behavior.
+> 🇻🇳 **Translation:** Nhà tâm lý học đã chia sẻ một sự thấu hiểu đáng kinh ngạc về cách trải nghiệm thời thơ ấu định hình hành vi người trưởng thành.
+> 🔍 **Analysis:** 'a fascinating insight' ở đây perfect vì nó diễn tả sự khám phá sâu sắc, vừa có chiều sâu học thuật vừa hấp dẫn, không chỉ là 'interesting finding'
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a fascinating insight**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Acquisition:** gain a fascinating insight (đạt được sự thấu hiểu đáng kinh ngạc) (quá trình học hỏi)
+> 2. **Direction:** provide an insight into (cung cấp sự thấu hiểu vào) (hướng khám phá)
+> 3. **Field:** insight into human nature (thấu hiểu về bản chất con người) (lĩnh vực nghiên cứu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a fascinating insight**:
+"I learned something interesting."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The anthropologist gained a fascinating insight into the tribe's ancient burial rituals."
+> 💡 **Why it works:** 'a fascinating insight' upgrade từ 'learned something interesting' bằng cách nhấn mạnh sự khám phá sâu sắc và hấp dẫn về một khía cạnh văn hóa phức tạp
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a fascinating insight** instead of [[an interesting discovery]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a fascinating insight:** Dùng khi muốn nhấn mạnh sự thấu hiểu sâu sắc về bản chất của một vấn đề, thường mang tính triết lý hoặc tâm lý
+> **an interesting discovery:** Dùng khi muốn chỉ một phát hiện thú vị nhưng không nhất thiết sâu sắc về bản chất
+> 🧱 **The Barrier:** Depth of understanding vs surface finding - insight implies seeing into the nature of something while discovery can be superficial
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your professor explains something complex in a way that suddenly makes everything clear. You feel enlightened. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "That's a fascinating insight! I never saw the connection between those theories before."
+> 👨‍🎨 **Director's Note:** 'a fascinating insight' fits perfectly vì nó diễn tả khoảnh khắc khai sáng, khi sự hiểu biết sâu sắc đột ngột trở nên rõ ràng
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `fascinate` + `insight` to the meaning of **a fascinating insight**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'fascinare' (phép thuật, mê hoặc) và tiếng Anh cổ 'insihht' (thị lực bên trong). Cụm từ này kết hợp ý tưởng bị cuốn hút với khả năng nhìn sâu vào bản chất của một điều gì đó.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a fascinating insight**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `fascinare` (phép thuật, mê hoặc) + Old English `insihht` (thị lực bên trong)
+> 👨‍👩‍👧 **Family:**
+> - *(v)* fascinate (lôi cuốn, mê hoặc)
+> - *(n)* fascination (sự lôi cuốn, sự mê hoặc)
+> - *(adj)* insightful (sâu sắc, có thấu hiểu)
+> - *(adv)* fascinatingly (một cách lôi cuốn)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfæsɪneɪtɪŋ ˈɪnsaɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a fascinating insight**
+> 📖 **Meaning:** A captivating understanding or revelation that provides new perspective; a deep and interesting realization
+> 🇻🇳 **Vietnamese:** một sự thấu hiểu đáng kinh ngạc; một khám phá sâu sắc thú vị, một sự khai sáng lôi cuốn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a fascinating insight**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The book gives a fascinating insight of the author's mind."
+> ✅ **Correction:** "The book gives a fascinating insight into the author's mind."
+> 🧠 **Why:** Với 'insight', luôn dùng giới từ 'into' để chỉ sự nhìn sâu vào, không phải 'of'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a fascinating insight**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[a superficial observation]] (một quan sát hời hợt)
+> - [[a confusing revelation]] (một sự tiết lộ gây bối rối)
+> 🧱 **Contrast:** A fascinating insight provides deep clarity and understanding, while superficial observations remain on the surface and confusing revelations increase uncertainty

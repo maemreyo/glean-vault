@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
 #flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [metropolis, megacity, large city, urban center, capital, main city, cosmopolitan city, municipal center]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈmeɪdʒər ˈsɪti/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** "Major" from Latin "maior" meaning "greater"; "City" from Latin "civitas" meaning "citizenship, community". The combination denotes an important urban center.
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A large and important urban center.
+>
+> **Context Meaning:** A large city that serves as a significant economic, cultural, or administrative center, often with substantial population and infrastructure.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thành phố lớn
+> - **Contextual:** đô thị chính, thành phố trọng điểm
+>
 > **Nuances:**
-> - ...
+> - Implies significance beyond just size - includes economic, political, or cultural importance
+> - Not necessarily the largest city, but one with considerable influence
+> - Often serves as a hub for commerce, transportation, or governance
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Influential, Bustling, Metropolitan
+> **Memory Hook:** Think of a city as the "major player" in a country's urban landscape - like a major character in a movie that drives the plot.
+> **📖 Etymology Story:** Roman "maior" meant greater, more important. A "major city" is literally the "greater city" - not necessarily in size, but in importance and influence over its region.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[majority]] /məˈdʒɒrəti/
+> - **Adj:** [[major]] /ˈmeɪdʒə(r)/
+> - **Adv:** [[majorly]] /ˈmeɪdʒəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[metropolis]] /məˈtrɒpəlɪs/ : A very large city or chief urban center
+> - [[urban center]] /ˈɜːbən ˈsentə(r)/ : Focuses on the urban aspect rather than importance
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[small town]] /smɔːl taʊn/ : A small urban settlement
+> - [[village]] /ˈvɪlɪdʒ/ : A smaller rural settlement
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. major city center
+> 2. major metropolitan area
+> 3. major urban city
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** London is a major city that attracts millions of tourists each year.
+> - **Translation:** London là một thành phố lớn thu hút hàng triệu du khách mỗi năm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new high-speed rail connects three major cities in the region.
+> - **Translation:** Tàu cao tốc mới kết nối ba thành phố lớn trong khu vực.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** He lives in major city.
+> - ✅ **Correction:** He lives in a major city. / He lives in the major city.
+> - **Why:** "Major city" is a countable noun phrase requiring an article (a/an/the) unless used as an adjective before another noun.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Many graduates prefer to work in major cities for better job opportunities."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +80,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **major city** (*/ˈmeɪdʒər ˈsɪti/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A large and important urban center that serves as a significant hub for commerce, culture, or administration.
+> 🇻🇳 **Vietnamese:** Thành phố lớn, trung tâm đô thị quan trọng
+> 🗣️ **IPA:** */ˈmeɪdʒər ˈsɪti/*
+> 🧠 **Mental Model:** Giống như thủ đô hay trung tâm kinh tế của một vùng - nơi có nhiều buildings, people, activities, và importance so với các thành phố khác.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A large and important urban center"
+**Vietnamese:** Thành phố lớn, trung tâm đô thị quan trọng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**major city** (*/ˈmeɪdʒər ˈsɪti/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **major city** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Tokyo is a major city that combines modern technology with traditional culture.
+> 🇻🇳 **Translation:** Tokyo là một thành phố lớn kết hợp công nghệ hiện đại với văn hóa truyền thống.
+> 🔍 **Analysis:** "Major city" ở đây không chỉ nhấn mạnh size lớn mà còn importance về kinh tế, văn hóa. Nó cho thấy Tokyo là một hub quan trọng, không chỉ là một populated place.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **major city**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Geography:** major coastal city (thành phố ven biển lớn - vị trí chiến lược)
+> 2. **Importance:** major industrial city (thành phố công nghiệp lớn - vai trò kinh tế)
+> 3. **Structure:** major city center (trung tâm thành phố lớn - focus vào core area)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **major city**:
+"He moved to a big city for work."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He relocated to a major city like Shanghai to pursue better career prospects."
+> 💡 **Why it works:** "Major city" không chỉ nói về size (big) mà còn về importance và opportunities, cho thấy sự lựa chọn có chủ đích based on advancement opportunities.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **major city** instead of [[big city]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **major city:** Nhấn mạnh importance, influence, và significance beyond just population (VN)
+> **[[big city]]:** Chỉ focus vào size, population density, không hàm ý về importance (VN)
+> 🧱 **The Barrier:** "Major" carries weight of importance and influence, while "big" only describes physical size. A city can be big but not major in influence.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks where you want to work after graduation. You want to work somewhere with lots of opportunities. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm planning to move to a major city where there are more job opportunities in my field."
+> 👨‍🎨 **Director's Note:** "Major city" thể hiện sự tìm kiếm không chỉ size mà còn opportunities và importance, cho thấy mục tiêu career rõ ràng.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `maior` to the meaning of **major city**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "maior" nghĩa là "greater, more important". Khi applied to city, nó không nói về physical size mà về importance. Giống như major general không phải là general to lớn nhất mà là general có rank cao nhất.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **major city**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `maior` (greater)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* major (chủ yếu, quan trọng)
+> - *(noun)* majority (đa số, phần lớn)
+> - *(noun)* mayor (thị trưởng - từ cùng gốc!)
+> - *(verb)* major in (chuyên ngành)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈmeɪdʒər ˈsɪti/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**major city**
+> 📖 **Meaning:** A large and important urban center
+> 🇻🇳 **Vietnamese:** Thành phố lớn, đô thị quan trọng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **major city**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Beijing is most major city in China.
+> ✅ **Correction:** Beijing is a major city in China. / Beijing is the major city of China.
+> 🧠 **Why:** "Major" không phải là adjective so sánh nhất. Không dùng "most major". Có thể dùng "one of the major cities" hoặc "a major city".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **major city**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[small town]] (Thị trấn nhỏ - focus vào cả size và importance)
+> - [[rural area]] (Khu vực nông thôn - đối lập hoàn toàn với urban)
+> 🧱 **Contrast:** "Major city" là urban hub với density và importance, trong khi antonyms mang ý nghĩa less populated, less influential, và thường more quiet.

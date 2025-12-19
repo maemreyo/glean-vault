@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 #flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [commodities, merchandise, products, wares, cargo, freight, stock, inventory, items, products, commodities]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɡʊdz/
+> **Part of Speech:** noun (plural only)
+> **CEFR Level:** A2
+> **Register:** neutral/business
+> **Etymology:** From Old English "gōd" meaning "that which is good, valuable," from Proto-Germanic "gōdaz."
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Items or merchandise that can be bought and sold
+>
+> **Context Meaning:** 1) Tangible products and merchandise 2) Personal property or possessions
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hàng hóa, hàng hóa
+> - **Contextual:** hàng hóa, đồ vật, tài sản, hàng hóa tiêu dùng
+>
 > **Nuances:**
-> - ...
+> - Always appears in plural form (no singular "good" when referring to merchandise)
+> - Often used in business and economics contexts
+> - Can refer to both manufactured goods and raw materials
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Commercial, practical, substantial
+> **Memory Hook:** "Goods" are "good" things you can buy - always plural!
+> **📖 Etymology Story:** The word "goods" evolved from the idea of "good things" - valuable items worth trading. In medieval markets, merchants would display their "goods" (good things) for sale, and the term stuck to mean all merchandise.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[goods]] /ɡʊdz/
+> - **Singular:** [[good]] /ɡʊd/ (when meaning quality or item)
+> - **Adj:** good /ɡʊd/
+> - **Adv:** well /wel/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[merchandise]] /ˈmɜːtʃəndaɪs/ : goods for sale
+> - [[commodities]] /kəˈmɒdətiz/ : raw materials or primary products
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[services]] /ˈsɜːvɪsɪz/ : intangible offerings
+> - [[bads]] /bædz/ : items with negative value (informal)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. deliver goods
+> 2. goods and services
+> 3. consumer/industrial goods
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The truck is delivering goods to the supermarket warehouse.
+> - **Translation:** Chiếc xe tải đang giao hàng hóa đến kho siêu thị.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The store offers a wide range of electrical goods at competitive prices.
+> - **Translation:** Cửa hàng cung cấp nhiều loại hàng điện máy với giá cạnh tranh.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Singular Form Error**
+> - ❌ **Mistake:** I bought a good from the shop.
+> - ✅ **Correction:** I bought an item from the shop. / I bought some goods from the shop.
+> - **Why:** "Goods" is always plural. Use "item," "product," or "article" for singular.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The free movement of goods is essential for international trade and economic prosperity."
+> **Source:** [[Economics Today]]
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **goods** (*/ɡʊdz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Tangible items, merchandise, or products that can be bought and sold
+> 🇻🇳 **Vietnamese:** Hàng hóa, hàng hóa, đồ vật có thể mua bán
+> 🗣️ **IPA:** */ɡʊdz/*
+> 🧠 **Mental Model:** Hình dung mọi thứ bạn có thể mua trong siêu thị - từ thực phẩm, quần áo đến đồ điện tử - tất cả đều là "goods"
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Tangible items, merchandise, or products that can be bought and sold"
+**Vietnamese:** Hàng hóa, hàng hóa, đồ vật có thể mua bán
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**goods** (*/ɡʊdz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **goods** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The customs officers inspected the goods before they were allowed to enter the country.
+> 🇻🇳 **Translation:** Các quan chức hải quan đã kiểm tra hàng hóa trước khi chúng được phép vào nước.
+> 🔍 **Analysis:** "Goods" hoàn hảo ở đây vì nó là thuật ngữ kinh tế/thương mại chính thức cho hàng hóa nhập khẩu, phù hợp với context hải quan.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **goods**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Transportation:** transport/deliver goods (vận chuyển/giao hàng) - logistics
+> 2. **Commerce:** sell/purchase goods (bán/mua hàng) - kinh doanh
+> 3. **Quality:** quality/damaged goods (hàng chất lượng/hàng hỏng) - đánh giá sản phẩm
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **goods**:
+"The store sells things for the home."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The department store specializes in high-quality household goods, from kitchen appliances to decorative items."
+> 💡 **Why it works:** "Goods" chuyên nghiệp hơn "things", là thuật ngữ thương mại chuẩn cho các sản phẩm bán lẻ.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **goods** instead of [[products]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **goods:** Thường là sản phẩm vật chất, nguyên chất, chưa qua chế biến nhiều
+> **[[products]]:** Có thể là kết quả của quá trình sản xuất, dịch vụ hoặc phần mềm
+> 🧱 **The Barrier:** "Goods" thì chạm được (tangible), còn "products" có thể bao gồm cả dịch vụ và phần mềm (intangible).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're starting an e-commerce business. You're explaining your business model. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our platform connects suppliers directly with consumers, reducing costs for both goods and delivery."
+> 👨‍🎨 **Director's Note:** "Goods" thể hiện sự chuyên nghiệp trong kinh doanh, là thuật ngữ chuẩn cho mô hình thương mại điện tử.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `gōdaz` to the meaning of **goods**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Proto-Germanic "gōdaz" (good) -> Old English "gōd" -> "goods". Ngay từ đầu, "goods" là "good things" - những thứ tốt, có giá trị. Trong thương mại thời Trung cổ, người ta chỉ trưng bày "goods" của mình để bán.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **goods**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Proto-Germanic `gōdaz` (good)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[goods]] /ɡʊdz/ (merchandise)
+> - *(adj)* good /ɡʊd/ (quality)
+> - *(noun)* [[goodness]] /ˈɡʊdnəs/ (virtue)
+> - *(adv)* well /wel/ (manner)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɡʊdz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**goods**
+> 📖 **Meaning:** Tangible items, merchandise, or products that can be bought and sold
+> 🇻🇳 **Vietnamese:** Hàng hóa, hàng hóa, đồ vật có thể mua bán
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **goods**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** This good is very expensive.
+> ✅ **Correction:** This item is very expensive. / These goods are very expensive.
+> 🧠 **Why:** "Goods" luôn là số nhiều. Khi muốn nói một món hàng, dùng "item", "product", hoặc "article".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **goods**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[services]] (intangible offerings, work performed)
+> - [[bads]] (items with negative value, informal)
+> 🧱 **Contrast:** While "goods" are tangible items you can own, "services" are actions or expertise you purchase but cannot physically possess.

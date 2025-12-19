@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [revitalise, revitalize, revitalized, revitalising, revive, renew, restore, rejuvenate, regenerate, refresh]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /riːˈvaɪtəlaɪz/ (UK) /riːˈvaɪtəlaɪz/ (US: revitalize)
+> **Part of Speech:** verb
+> **CEFR Level:** C1
+> **Register:** formal/business
+> **Etymology:** From 're-' (again) + 'vital' (life-giving) + '-ise' (suffix)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To give new life or vigor to something
+>
+> **Context Meaning:** To imbue with new life and vitality; to restore to an active or fresh condition
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** làm sống lại, phục hưng
+> - **Contextual:** tái tạo, làm mới, phục hồi sức sống
+>
 > **Nuances:**
-> - ...
+> - Implies previous decline or stagnation
+> - More than just fixing - making better than before
+> - Used for economies, communities, businesses, or physical areas
+> - Stronger than 'refresh' but weaker than 'rebirth'
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Transformative
+> **Memory Hook:** "Re-" (again) + "vital" (life) + "-ise" (make) = make alive again
+> **📖 Etymology Story:** From Latin 're-' (again) + 'vitalis' (vital, life-giving) + Greek suffix '-izein' (to make). The word emerged in the 19th century to describe giving new life to declining urban areas, then expanded to mean restoring energy or importance to anything that has stagnated.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[revitalization]] /riːˌvaɪtəlaɪˈzeɪʃn/, [[revitalisation]] /riːˌvaɪtəlaɪˈzeɪʃn/
+> - **Verb:** [[revitalise]] /riːˈvaɪtəlaɪz/, [[revitalize]] /riːˈvaɪtəlaɪz/
+> - **Adj:** [[revitalized]] /riːˈvaɪtəlaɪzd/, [[revitalising]] /riːˈvaɪtəlaɪzɪŋ/
+> - **Adv:** (no common form)
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[rejuvenate]] /rɪˈdʒuːvəneɪt/ : make young again
+> - [[regenerate]] /rɪˈdʒenəreɪt/ : regrow or reform
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[decline]] /dɪˈklaɪn/ : to worsen or deteriorate
+> - [[stagnate]] /ˈstæɡneɪt/ : to stop developing
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. revitalise the economy
+> 2. revitalise urban areas
+> 3. revitalise efforts
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The government launched a program to revitalise the city's downtown district.
+> - **Translation:** Chính phủ đã tung ra một chương trình để tái tạo khu vực trung tâm thành phố.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new manager managed to revitalise the failing company.
+> - **Translation:** Nhà quản lý mới đã thành công trong việc làm mới công ty đang trên bờ phá sản.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling variation**
+> - ❌ **Mistake:** "revitalize" in British English
+> - ✅ **Correction:** "revitalise" (UK) / "revitalize" (US)
+> - **Why:** UK uses '-ise', US uses '-ize' spelling
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "To revitalize is not merely to restore what was, but to create what can be."
+> **Source:** [[Anonymous]]
 
 ---
 
@@ -161,121 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **revitalise** (*/riːˈvaɪtəlaɪz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To give new life or vigor to something; to imbue with new life and vitality; to restore to an active or fresh condition
+> 🇻🇳 **Vietnamese:** làm sống lại, phục hưng; tái tạo, làm mới, phục hồi sức sống
+> 🗣️ **IPA:** */riːˈvaɪtəlaɪz/*
+> 🧠 **Mental Model:** Tiêm năng lượng mới vào một cái cây đang úa tàn, làm nó nảy mầm và phát triển mạnh mẽ trở lại
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To give new life or vigor to something; to imbue with new life and vitality; to restore to an active or fresh condition"
+**Vietnamese:** làm sống lại, phục hưng; tái tạo, làm mới, phục hồi sức sống
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**revitalise** (*/riːˈvaɪtəlaɪz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **revitalise** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The community council plans to revitalise the neglected park with new facilities and regular events.
+> 🇻🇳 **Translation:** Hội đồng cộng đồng dự định làm mới công viên bị bỏ hoang với các cơ sở mới và sự kiện thường xuyên.
+> 🔍 **Analysis:** 'revitalise' ở đây perfect vì nó không chỉ là 'improve' mà còn hàm ý phục hồi sự sống động và thu hút của một nơi đã suy tàn
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **revitalise**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Economic:** revitalise the economy (tái tạo kinh tế) (phục hồi kinh tế)
+> 2. **Urban:** revitalise urban areas (làm mới khu vực đô thị) (quy hoạch đô thị)
+> 3. **Effort:** revitalise efforts (tái tạo nỗ lực) (phục hồi động lực)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **revitalise**:
+"They want to improve the neighborhood."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The residents association aims to revitalise the deteriorating neighborhood through community initiatives."
+> 💡 **Why it works:** 'revitalise' upgrade từ 'improve' bằng cách nhấn mạnh việc phục hồi sức sống và sự năng động cho khu vực đang suy thoái
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **revitalise** instead of [[improve]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **revitalise:** Dùng khi muốn nhấn mạnh việc phục hồi sự sống động, năng lượng cho một thứ đã suy tàn, khô kiệt
+> **improve:** Dùng khi muốn chỉ việc làm cho một thứ trở nên tốt hơn, không nhất thiết nó đã suy tàn
+> 🧱 **The Barrier:** Restoration from decline vs general enhancement - revitalise implies bringing back from stagnation while improve is general betterment
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your company has been losing motivation and creativity. You feel determined to turn things around. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We need to revitalise our team spirit with innovative projects and fresh perspectives!"
+> 👨‍🎨 **Director's Note:** 'revitalise' fits perfectly vì nó diễn tả việc phục hồi tinh thần và năng lượng sáng tạo đã suy giảm
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `re-` + `vital` + `-ise` to the meaning of **revitalise**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 're-' (lại) + 'vitalis' (thiết yếu cho sự sống, sống động) + hậu tố Hy Lạp '-izein' (làm). Từ này xuất hiện vào thế kỷ 19 để mô tả việc mang lại sức sống cho các khu đô thị đang suy thoái, sau đó mở rộng để chỉ việc phục hồi năng lượng hay tầm quan trọng cho bất cứ thứ gì đã đình trệ.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **revitalise**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `re-` (lại) + `vitalis` (sống động, thiết yếu) + Greek `-izein` (làm)
+> 👨‍👩‍👧 **Family:**
+> - *(n)* revitalisation/revitalization (sự tái tạo, sự phục hưng)
+> - *(adj)* revitalized/revitalized (được tái tạo, được làm mới)
+> - *(v)* rejuvenate (làm trẻ lại)
+> - *(v)* regenerate (tái sinh, tái tạo)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */riːˈvaɪtəlaɪz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**revitalise**
+> 📖 **Meaning:** To give new life or vigor to something; to imbue with new life and vitality; to restore to an active or fresh condition
+> 🇻🇳 **Vietnamese:** làm sống lại, phục hưng; tái tạo, làm mới, phục hồi sức sống
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **revitalise**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The council will revitalize the old town center." (in British writing)
+> ✅ **Correction:** "The council will revitalise the old town center."
+> 🧠 **Why:** Trong tiếng Anh-Anh, dùng '-ise' cho các động từ có gốc Hy Lạp, trong khi tiếng Anh-Mỹ dùng '-ize'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **revitalise**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[stagnate]] (đình trệ, không phát triển)
+> - [[decline]] (suy thoái, suy giảm)
+> 🧱 **Contrast:** Revitalise brings new energy and life to something, while stagnate means remaining inactive and undeveloped, and decline shows worsening deterioration

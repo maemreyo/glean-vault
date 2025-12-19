@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [themself, each other, one another, by themselves, for themselves, to themselves, themselves, their own]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ðəmˈselvz/
+> **Part of Speech:** reflexive pronoun
+> **CEFR Level:** A1
+> **Register:** neutral
+> **Etymology:** From Old English "þæm selfum" (to those selves). Combined from "them" (Old Norse "þeim") + "self" (Old English "self"). The plural form developed in Middle English.
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Those persons as the object of a verb or preposition when the subject and object are the same.
+>
+> **Context Meaning:** 1) Used as the object when the action of the verb returns to the subject (reflexive). 2) Used for emphasis. 3) Used to mean 'without help' or 'alone'.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bản thân họ, chính họ
+> - **Contextual:** tự họ, tự mình, một mình
+>
 > **Nuances:**
-> - ...
+> - Reflexive use: The action returns to the subject
+> - Emphatic use: Highlights the noun (e.g., "They themselves did it")
+> - Can indicate independence ("by themselves")
+> - Used for politeness or indirectness in some contexts
+> - In modern usage, sometimes used as singular "themself"
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Independent, Self-reliant, Sometimes Emphatic
+> **Memory Hook:** Think of "them" looking in a mirror at "selves" - they're seeing themselves!
+> **📖 Etymology Story:** When Old English speakers needed to talk about people reflecting on themselves, they combined "them" with "self" - creating a word that shows people being both subjects AND objects of their own actions.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - **Pronoun:** [[them]] /ðəm/
+> - **Pronoun:** [[they]] /ðeɪ/
+> - **Pronoun:** [[their]] /ðeə(r)/
+> - **Pronoun:** [[theirs]] /ðeəz/
+>
+> **Related Pronouns:**
+> - [[myself]] /maɪˈself/ : First person singular
+> - [[yourself]] /jɔːˈself/ : Second person singular
+> - [[ourselves]] /ˌaʊəˈselvz/ : First person plural
+>
+> **No true antonyms for reflexive pronouns**
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. by themselves
+> 2. for themselves
+> 3. enjoy themselves
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The children organized the party by themselves without any adult help.
+> - **Translation:** Những đứa trẻ tự tổ chức bữa tiệc mà không có sự giúp đỡ của người lớn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** They bought themselves new phones with their first salaries.
+> - **Translation:** Họ đã tự mua điện thoại mới bằng tiền lương đầu tiên của mình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect Reflexive Use**
+> - ❌ **Mistake:** They did it by theirselves.
+> - ✅ **Correction:** They did it by themselves.
+> - **Why:** The correct spelling is "themselves" (with 'v'), not "theirselves".
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The students need to believe in themselves to achieve their goals."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **themselves** (*/ðəmˈselvz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Used as the object when the action returns to the same subjects; also used for emphasis or to mean 'alone' or 'without help'.
+> 🇻🇳 **Vietnamese:** Bản thân họ, chính họ, tự họ, một mình
+> 🗣️ **IPA:** */ðəmˈselvz/*
+> 🧠 **Mental Model:** Giống như một người nhìn vào gương - subject và object là cùng người, action reflect back.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Used when people are both the subject and object of an action"
+**Vietnamese:** Dùng khi người vừa là subject vừa là object của action
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**themselves** (*/ðəmˈselvz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **themselves** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The astronauts trained themselves for years to prepare for the space mission.
+> 🇻🇳 **Translation:** Các phi hành gia đã tự rèn luyện trong nhiều năm để chuẩn bị cho nhiệm vụ không gian.
+> 🔍 **Analysis:** "Themselves" thể hiện reflexive action - astronauts làm action mà họ cũng nhận được result. Nó nhấnmänh self-training và self-preparation.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **themselves**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Independence:** by themselves (một mình - without help)
+> 2. **Benefit:** for themselves (cho riêng họ - self-interest)
+> 3. **Experience:** enjoy themselves (tận hưởng - having good time)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **themselves**:
+"The kids cleaned the room."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The kids cleaned the room themselves, surprising their parents with their initiative."
+> 💡 **Why it works:** "Themselves" adds emphasis - cho thấy kids did it alone, không có help. Nó tạo element of surprise và independence.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **themselves** instead of [[each other]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **themselves:** Reflexive - action directs back to same subjects (họ tự làm với chính họ) (VN)
+> **[[each other]]:** Reciprocal - action exchanges between two or more people (họ làm lẫn nhau) (VN)
+> 🧱 **The Barrier:** "Themselves" là inward reflection, trong khi "each other" là outward exchange.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're telling someone about how your friends solved a problem without any outside help. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "They figured out the solution themselves!"
+> 👨‍🎨 **Director's Note:** "Themselves" thể hiện pride và independence - nhấn mạnh achievement của riêng họ.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `selfum` to the meaning of **themselves**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "selfum" meant "selves". Khi combined với "them", nó tạo ra concept của self-reflection - people being objects of their own actions, như mirror reflecting image back.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **themselves**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `self` (self) + Old Norse `þeir` (they)
+> 👨‍👩‍👧 **Family:**
+> - *(pronoun)* they (họ)
+> - *(pronoun)* them (họ - object)
+> - *(pronoun)* their (của họ)
+> - *(pronoun)* theirs (của họ - possessive)
+> - *(pronoun)* myself (bản thân tôi)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ðəmˈselvz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**themselves**
+> 📖 **Meaning:** People as the object of their own action
+> 🇻🇳 **Vietnamese:** Bản thân họ, chính họ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **themselves**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The children did the project by themself.
+> ✅ **Correction:** The children did the project by themselves.
+> 🧠 **Why:** "Themselves" là plural form cho "they". "Themself" là non-standard singular form. Với plural subjects like "the children", luôn dùng "themselves".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What concept contrasts with **themselves**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> **Contrasting Concepts:**
+> - [[others]] (người khác - external focus)
+> - [[together]] (cùng nhau - collaborative action)
+> 🧱 **Contrast:** "Themselves" emphasizes individual action and self-reliance, trong khi contrasting concepts highlight external help hoặc collective effort.

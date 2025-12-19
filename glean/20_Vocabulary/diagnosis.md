@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
 #flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [diagnosis, diagnose, diagnostic, diagnostics, prognosis, symptom, medical, clinical, diagnose, undiagnosed]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌdaɪəɡˈnəʊsɪs/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** medical/academic
+> **Etymology:** From Greek "diagnosis" (discrimination, distinction), from "diagignōskein" (to distinguish)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To distinguish apart
+>
+> **Context Meaning:** The identification of the nature of an illness or other problem by examination of the symptoms
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chẩn đoán
+> - **Contextual:** kết luận bệnh tình, nhận định vấn đề
+>
 > **Nuances:**
-> - ...
+> - Medical term for identifying diseases or conditions
+> - Can be used metaphorically for identifying problems in various fields
+> - Often requires specialized knowledge or testing
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Analytical, Precise, Methodical
+> **Memory Hook:** Think of "dia-" (through) + "gnosis" (knowledge) - gaining knowledge through analysis
+> **📖 Etymology Story:** From Greek "dia-" (through) + "gignōskein" (to know) - diagnosis is about knowing something by seeing through its symptoms and signs to understand what's really happening
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[diagnose]] /ˈdaɪəɡnəʊz/
+> - **Adj:** [[diagnostic]] /ˌdaɪəɡˈnɒstɪk/
+> - **Adv:** [[diagnostically]] /ˌdaɪəɡˈnɒstɪkli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[identification]] /aɪˌdentɪfɪˈkeɪʃən/ : General term for identifying
+> - [[analysis]] /əˈnæləsɪs/ : Detailed examination
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[misdiagnosis]] /ˌmɪsdaɪəɡˈnəʊsɪs/ : Wrong diagnosis
+> - [[prognosis]] /prɒɡˈnəʊsɪs/ : Prediction of outcome
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. make a diagnosis
+> 2. correct diagnosis
+> 3. differential diagnosis
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The doctor confirmed the diagnosis after reviewing all the test results.
+> - **Translation:** Bác sĩ đã xác nhận chẩn đoán sau khi xem xét tất cả kết quả xét nghiệm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Early diagnosis is crucial for successful treatment of the disease.
+> - **Translation:** Chẩn đoán sớm là rất quan trọng để điều trị thành công bệnh này.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Pronunciation**
+> - ❌ **Mistake:** Pronouncing it as /daɪəɡnoʊsɪs/
+> - ✅ **Correction:** The correct stress is /ˌdaɪəɡˈnəʊsɪs/ with emphasis on the second syllable
+> - **Why:** Greek-derived medical terms often have stress on the antepenultimate syllable
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The initial diagnosis suggested a common cold, but further tests revealed it was actually pneumonia."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **diagnosis** (*/ˌdaɪəɡˈnəʊsɪs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The identification of the nature of an illness or other problem by examination of the symptoms
+> 🇻🇳 **Vietnamese:** Chẩn đoán, nhận định vấn đề thông qua phân tích triệu chứng
+> 🗣️ **IPA:** */ˌdaɪəɡˈnəʊsɪs/*
+> 🧠 **Mental Model:** Hãy tưởng tượng bác sĩ xem qua các triệu chứng (symptoms) và tìm ra căn bệnh (disease) - đó chính là diagnosis
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The identification of a problem or illness through examination of symptoms"
+**Vietnamese:** Chẩn đoán, nhận định
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**diagnosis** (*/ˌdaɪəɡˈnəʊsɪs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **diagnosis** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The team's initial diagnosis of the technical problem saved hours of troubleshooting time.
+> 🇻🇳 **Translation:** Chẩn đoán ban đầu của nhóm về vấn đề kỹ thuật đã tiết kiệm nhiều giờ khắc phục sự cố.
+> 🔍 **Analysis:** Perfect here because it shows the metaphorical extension beyond medicine - systematically identifying the root cause of a problem
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **diagnosis**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Medical Process:** make/reach/confirm a diagnosis (đưa ra/xác nhận chẩn đoán)
+> 2. **Accuracy:** correct/accurate diagnosis (chẩn đoán chính xác)
+> 3. **Time Aspect:** early/initial diagnosis (chẩn đoán sớm/ban đầu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **diagnosis**:
+"The doctor found out what was wrong."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "After careful examination of the symptoms and test results, the doctor reached a definitive diagnosis of chronic bronchitis."
+> 💡 **Why it works:** "Diagnosis" mang ý nghĩa y học chuyên nghiệp, thể hiện một quá trình phân tích khoa học thay vì chỉ "tìm ra" thông thường
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **diagnosis** instead of **[[identification]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **diagnosis:** Chuyên biệt cho y học, đòi hỏi kiến thức chuyên môn, phân tích triệu chứng để tìm ra bệnh
+> **[[identification]]** tổng quát hơn, có thể dùng trong mọi tình huống, chỉ đơn thuần là nhận ra
+> 🧱 **The Barrier:** "Diagnosis" luôn liên quan đến việc phân tích triệu chứng để tìm ra nguyên nhân sâu xa, trong khi "identification" chỉ là việc nhận dạng cái gì đó
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining a medical report to your family. The doctor has identified your mother's condition. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The doctor's diagnosis indicates that Mom has a mild case of pneumonia, but it's treatable with antibiotics."
+> 👨‍🎨 **Director's Note:** Rõ ràng và chính xác, truyền đạt thông tin y học một cách dễ hiểu cho người không chuyên
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `diagignōskein` to the meaning of **diagnosis**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Greek "diagignōskein" (dia- = "through" + gignōskein = "to know") - khi bác sĩ đưa ra "diagnosis", họ "biết" được bệnh thông qua việc "xuyên qua" các triệu chứng để hiểu bản chất của vấn đề
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **diagnosis**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `gignōskein` (<biết, hiểu>)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[diagnosis]] (chẩn đoán)
+> - *(verb)* [[diagnose]] (chẩn đoán)
+> - *(adj)* [[diagnostic]] (liên quan đến chẩn đoán)
+> - *(noun)* [[prognosis]] (tiên lượng, dự đoán)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌdaɪəɡˈnəʊsɪs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**diagnosis**
+> 📖 **Meaning:** The identification of the nature of an illness or other problem by examination of the symptoms
+> 🇻🇳 **Vietnamese:** Chẩn đoán
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **diagnosis**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The doctor gave me a diagnosis that I have sick" (Cấu trúc sai, nghĩa lặp)
+> ✅ **Correction:** "The doctor diagnosed me with the flu" hoặc "The doctor's diagnosis was the flu"
+> 🧠 **Why:** "Diagnosis" là danh từ chỉ quá trình hoặc kết quả chẩn đoán, không phải là động từ. Cấu trúc đúng: "diagnose someone WITH something"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **diagnosis**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[misdiagnosis]] (Chẩn đoán sai)
+> - [[prognosis]] (Tiên lượng, dự đoán kết quả)
+> - [[symptom]] (Triệu chứng)
+> 🧱 **Contrast:** "Diagnosis" là xác định vấn đề hiện tại trong khi "prognosis" là dự đoán tương lai; "symptom" là dấu hiệu bên ngoài trong khi "diagnosis" là kết quả phân tích bên trong

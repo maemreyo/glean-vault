@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [removal, removing, removed, remover, take away, delete, erase, eliminate, get rid of, discard, extract, withdraw]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈmuːv/
+> **Part of Speech:** verb
+> **CEFR Level:** A2
+> **Register:** neutral/formal
+> **Etymology:** From Latin "removere" meaning "to move back, put away", from re- "back" + movere "to move"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To take away or eliminate something from a place or position
+>
+> **Context Meaning:** To get rid of, eliminate, or take something away from where it was
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** loại bỏ, gỡ bỏ, di dời
+> - **Contextual:** xóa bỏ, thanh trừng, rút ra
+>
 > **Nuances:**
-> - ...
+> - Can be used for physical objects (removing stains)
+> - Can be used for abstract concepts (removing doubts)
+> - Often implies complete elimination or displacement
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Practical, decisive, cleansing
+> **Memory Hook:** Re- (back) + move = move something back/away
+> **📖 Etymology Story:** The word "remove" tells the story of taking control by moving unwanted things away - like a Roman senator "removens" (removing) opponents from power, literally moving them back from their position of influence.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[removal]] /rɪˈmuːvəl/
+> - **Verb:** [[remove]] /rɪˈmuːv/
+> - **Adj:** removable /rɪˈmuːvəbl/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[eliminate]] /ɪˈlɪmɪneɪt/ : to completely get rid of
+> - [[extract]] /ɪkˈstrækt/ : to pull or take out
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[add]] /æd/ : to put something in
+> - [[install]] /ɪnˈstɔːl/ : to set up for use
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. remove stains/dirt
+> 2. remove obstacles/barriers
+> 3. remove doubts/fears
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Please remove your shoes before entering the house.
+> - **Translation:** Xin vui lòng giày dép trước khi vào nhà.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new policy aims to remove barriers to international trade.
+> - **Translation:** Chính sách mới nhằm mục đích loại bỏ các rào cản thương mại quốc tế.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect Preposition Usage**
+> - ❌ **Mistake:** remove out the garbage
+> - ✅ **Correction:** remove the garbage / take out the garbage
+> - **Why:** "Remove" is transitive and doesn't need "out" - the "out" is already implied in the meaning of taking something away.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it."
+> **Source:** [[Steve Jobs]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **remove** (*/rɪˈmuːv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To take something away or eliminate it from a place or position
+> 🇻🇳 **Vietnamese:** Loại bỏ, gỡ bỏ, di dời
+> 🗣️ **IPA:** */rɪˈmuːv/*
+> 🧠 **Mental Model:** Hình dung "take away" hoặc "get rid of" - giống như khi bạn vứt bỏ rác hoặc xóa một file không cần thiết khỏi máy tính
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To take something away or eliminate it from a place or position"
+**Vietnamese:** Loại bỏ, gỡ bỏ, di dời
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**remove** (*/rɪˈmuːv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **remove** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The surgeon carefully removed the tumor during the operation.
+> 🇻🇳 **Translation:** Bác sĩ phẫu thuật đã cẩn thận loại bỏ khối u trong ca mổ.
+> 🔍 **Analysis:** "Remove" perfect ở đây vì nó nhấn mạnh sự loại bỏ hoàn toàn, cẩn thận một vật thể không mong muốn (tumor) khỏi vị trí của nó.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **remove**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action (Physical):** remove stains (loại bỏ vết bẩn) - thường dùng cho việc làm sạch
+> 2. **Action (Abstract):** remove doubts (xóa bỏ nghi ngờ) - dùng cho cảm xúc, suy nghĩ
+> 3. **Action (Formal):** remove from office (bãi miễn) - dùng trong chính trị, tổ chức
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **remove**:
+"The boss got rid of the old rules."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The new CEO removed outdated regulations that had been hindering innovation."
+> 💡 **Why it works:** "Removed" trang trọng và cụ thể hơn "got rid of", nhấn mạnh hành động chính thức của người lãnh đạo loại bỏ các quy tắc cũ kỹ.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **remove** instead of [[delete]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **remove:** Dùng cho cả vật thể và khái niệm trừu tượng, không chỉ giới hạn trong công nghệ
+> **[[delete]]:** Thường dùng trong context kỹ thuật số, công nghệ
+> 🧱 **The Barrier:** "Remove" có phạm vi rộng hơn - bạn có thể remove furniture nhưng không thể delete furniture; bạn có thể delete file nhưng remove tài liệu khỏi văn phòng.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're cleaning your grandmother's attic and find boxes of old clothes. You feel nostalgic but practical. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We should remove these items to create more space, but let's keep the photo album."
+> 👨‍🎨 **Director's Note:** "Remove" thể hiện quyết định thực tế dù có cảm xúc hoài niệm, cho thấy sự cân bằng giữa tình cảm và logic.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `movere` to the meaning of **remove**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Re- (back) + movere (to move) = remove. Từ nguyên Latin "removere" kể về việc dịch chuyển thứ gì đó trở lại hoặc đi khỏi vị trí hiện tại. Giống như quân đội La Mã di dời (remove) các chướng ngại vật để mở đường tiến quân.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **remove**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `movere` (to move)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[move]] /muːv/
+> - *(verb)* [[motion]] /ˈməʊʃn/
+> - *(noun)* [[removal]] /rɪˈmuːvəl/
+> - *(adj)* removable /rɪˈmuːvəbl/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈmuːv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**remove**
+> 📖 **Meaning:** To take something away or eliminate it from a place or position
+> 🇻🇳 **Vietnamese:** Loại bỏ, gỡ bỏ, di dời
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **remove**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Can you remove out this table?
+> ✅ **Correction:** Can you remove this table?
+> 🧠 **Why:** "Remove" đã bao hàm ý "take out", không cần thêm "out". Thêm "out" gây redundant và không tự nhiên.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **remove**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[install]] (for equipment/software)
+> - [[add]] (general opposite)
+> - [[keep]] (maintain possession)
+> 🧱 **Contrast:** While "remove" eliminates or takes away, "install" places and sets up equipment for use, "add" increases quantity, and "keep" maintains possession.

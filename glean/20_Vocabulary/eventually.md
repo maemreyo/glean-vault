@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [eventually, eventual, in the end, finally, at last, sooner or later, ultimately, in time]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪˈventʃuəli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** From Latin "eventualis" (possible, final), from "eventus" (outcome)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** At the final outcome
+>
+> **Context Meaning:** After a long time, delay, or series of difficulties; in the end
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cuối cùng, rốt cuộc
+> - **Contextual:** cuối cùng rồi, sau cùng, rồi cũng sẽ
+>
 > **Nuances:**
-> - ...
+> - Implies something took longer than expected
+> - Suggests overcoming obstacles or delays
+> - More formal than "at last" or "finally"
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Patient, Persistent, Determined
+> **Memory Hook:** Think of "event" - the final outcome that eventually comes after waiting
+> **📖 Etymology Story:** From Latin "eventus" meaning "outcome" - eventually refers to what happens at the final outcome, after all the waiting and struggling is done
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[eventual]] /ɪˈventʃuəl/
+> - **Adv:** [[eventually]] /ɪˈventʃuəli/
+> - **Noun:** [[event]] /ɪˈvent/
+> - **Noun:** [[eventuality]] /ɪˌventʃuˈæləti/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[finally]] /ˈfaɪnəli/ : After waiting
+> - [[ultimately]] /ˈʌltɪmətli/ : In the final analysis
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[immediately]] /ɪˈmiːdiətli/ : Right away
+> - [[instantly]] /ˈɪnstəntli/ : At once
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. eventually succeed
+> 2. eventually realize
+> 3. eventually arrived
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** After hours of searching, we eventually found the lost keys in the kitchen.
+> - **Translation:** Sau nhiều giờ tìm kiếm, chúng tôi cuối cùng cũng tìm thấy chìa khóa thất lạc trong bếp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Despite the initial setbacks, the project eventually became a huge success.
+> - **Translation:** Mặc dù có những trở ngại ban đầu, dự án cuối cùng đã trở thành một thành công lớn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Tense Confusion**
+> - ❌ **Mistake:** "I will eventually going"
+> - ✅ **Correction:** "I will eventually go" or "I eventually went"
+> - **Why:** "Eventually" is an adverb and doesn't affect the auxiliary verb formation
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "She studied for years and eventually became one of the most respected doctors in her field."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **eventually** (*/ɪˈventʃuəli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** After a long time, delay, or series of difficulties; in the end
+> 🇻🇳 **Vietnamese:** Cuối cùng, rốt cuộc, sau cùng, rồi cũng sẽ
+> 🗣️ **IPA:** */ɪˈventʃuəli/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một con đường dài có nhiều chướng ngại vật - "eventually" là khi bạn终于 đến đích sau tất cả
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "After a long time or delay; in the end"
+**Vietnamese:** Cuối cùng, rốt cuộc
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**eventually** (*/ɪˈventʃuəli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **eventually** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The rescue team searched through the night and eventually found the missing hikers at dawn.
+> 🇻🇳 **Translation:** Đội cứu hộ tìm kiếm suốt đêm và cuối cùng cũng tìm thấy những người đi bộ lạc vào bình minh.
+> 🔍 **Analysis:** Perfect here showing the passage of time and persistence before achieving the goal
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **eventually**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Achievement:** eventually succeed/achieve/win (cuối cùng thành công/đạt được/thắng)
+> 2. **Realization:** eventually realize/understand/learn (cuối cùng nhận ra/hiểu được/học được)
+> 3. **Arrival:** eventually arrive/come/get there (cuối cùng đến được)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **eventually**:
+"He finished the race."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "After struggling with injury for months, he eventually crossed the finish line to thunderous applause."
+> 💡 **Why it works:** "Eventually" tạo ra câu chuyện về sự kiên trì và vượt qua khó khăn, thay vì chỉ nói về kết quả cuối cùng
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **eventually** instead of **[[finally]]**?
+>
+> **eventually:** Trang trọng hơn, nhấn mạnh sự chờ đợi lâu dài, vượt qua khó khăn
+> **[[finally]]** informál hơn, thường chỉ kết thúc sự chờ đợi, không nhất thiết có khó khăn
+> 🧱 **The Barrier:** "Eventually" luôn ngụ ý một khoảng thời gian dài và nhiều thử thách trong khi "finally" chỉ đơn giản là "cuối cùng"
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is frustrated about learning a new language. You want to encourage them with your own experience. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Don't worry! I struggled for months too, but eventually, everything started to click and now I'm conversationally fluent!"
+> 👨‍🎨 **Director's Note:** Khích lệ và đồng cảm, chia sẻ kinh nghiệm cá nhân để tạo động lực
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `eventus` to the meaning of **eventually**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "eventus" có nghĩa là "kết quả" - khi điều gì đó xảy ra "eventually", nó xảy ra tại "kết quả cuối cùng" sau tất cả sự chờ đợi và nỗ lực
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **eventually**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `venire` (<đến>) + `eventus` (<kết quả, sự kiện>)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[event]] (sự kiện, biến cố)
+> - *(adj)* [[eventual]] (cuối cùng, sự thật cuối cùng)
+> - *(adv)* [[eventually]] (cuối cùng, rốt cuộc)
+> - *(noun)* [[eventuality]] (khả năng xảy ra)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪˈventʃuəli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**eventually**
+> 📖 **Meaning:** After a long time, delay, or series of difficulties; in the end
+> 🇻🇳 **Vietnamese:** Cuối cùng, rốt cuộc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **eventually**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I eventually to understand the problem" (Sai cấu trúc động từ)
+> ✅ **Correction:** "I eventually understood the problem"
+> 🧠 **Why:** "Eventually" là trạng từ, không ảnh hưởng đến việc chia động từ nguyên mẫu. Cấu trúc đúng: eventually + động từ chia
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **eventually**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[immediately]] (Ngay lập tức)
+> - [[instantly]] (Tức thì, ngay lập tức)
+> - [[right away]] (Ngay bây giờ)
+> 🧱 **Contrast:** "Eventually" nhấn mạnh sự chờ đợi và thời gian dài trong khi các antonym đều chỉ sự diễn ra ngay lập tức không có độ trễ

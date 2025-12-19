@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [continue, carry on, proceed, persist, maintain, sustain, keep up, press on, stay the course]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kiːp ɒn/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** A2
+> **Register:** informal
+> **Etymology:** "Keep" from Old English "cepan" (to hold, retain). "On" from Old English "on". The combination emphasizes continuation or persistence.
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To continue or persist in an activity.
+>
+> **Context Meaning:** To continue doing something without stopping; to persist in an action or behavior.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tiếp tục
+> - **Contextual:** tiếp tục làm, tiếp tục có, vẫn còn, không ngừng
+>
 > **Nuances:**
-> - ...
+> - Informal and conversational tone
+> - Implies persistence despite difficulties or fatigue
+> - Often used in spoken English rather than formal writing
+> - Can suggest annoyance when talking about negative behaviors
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Persistent, Determined, Sometimes Annoying
+> **Memory Hook:** Imagine someone who keeps "on" like a light switch that won't turn off - they just keep going and going!
+> **📖 Etymology Story:** Old English "cepan" meant to hold onto something. When you "keep on" doing something, you're holding onto the action and not letting go, like gripping a task and refusing to release it.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[keep]] /kiːp/
+> - **Phrasal:** [[keep up]] /kiːp ʌp/
+> - **Phrasal:** [[keep off]] /kiːp ɒf/
+> - **Phrasal:** [[keep away]] /kiːp əˈweɪ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[continue]] /kənˈtɪnjuː/ : More formal and neutral
+> - [[persist]] /pəˈsɪst/ : More determined, often against opposition
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[stop]] /stɒp/ : To cease or discontinue
+> - [[give up]] /ɡɪv ʌp/ : To quit or surrender
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. keep on trying
+> 2. keep on working
+> 3. keep on going
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Despite the challenges, she decided to keep on pursuing her dreams.
+> - **Translation:** Mặc dù có nhiều thử thách, cô ấy quyết định tiếp tục theo đuổi ước mơ của mình.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The machine will keep on running until you press the stop button.
+> - **Translation:** Máy sẽ tiếp tục chạy cho đến khi bạn nhấn nút dừng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** He keeps to talk during the movie.
+> - ✅ **Correction:** He keeps on talking during the movie.
+> - **Why:** "Keep on" is followed by the gerund (-ing form) when indicating continuous action, not the infinitive.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "If you keep on believing, your dreams will come true."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **keep on** (*/kiːp ɒn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To continue doing something without stopping; to persist in an action or behavior.
+> 🇻🇳 **Vietnamese:** Tiếp tục làm gì đó, tiếp tục có gì đó, không ngừng
+> 🗣️ **IPA:** */kiːp ɒn/*
+> 🧠 **Mental Model:** Giống như một chiếc xe vẫn chạy trên road không dừng lại - action continues liên tục, không có interruption.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To continue doing something without stopping"
+**Vietnamese:** Tiếp tục làm gì đó không ngừng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**keep on** (*/kiːp ɒn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **keep on** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The activists keep on protesting against the new policy despite police warnings.
+> 🇻🇳 **Translation:** Những nhà hoạt động tiếp tục biểu tình phản đối chính sách mới bất chấp cảnh báo của cảnh sát.
+> 🔍 **Analysis:** "Keep on" thể hiện persistence và determination, nhấn mạnh sự tiếp tục action dù có obstacles. Nó có informal tone, thể hiện real spoken language.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **keep on**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Effort:** keep on trying (tiếp tục cố gắng - không bỏ cuộc)
+> 2. **Action:** keep on working/going (tiếp tục làm/đi - maintain momentum)
+> 3. **Behavior:** keep on doing (tiếp tục làm gì - có thể negative)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **keep on**:
+"He didn't stop trying."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Even after multiple rejections, he kept on applying to his dream company."
+> 💡 **Why it works:** "Kept on" thể hiện persistence và resilience một cách生动 hơn, nhấn mạnh continuing effort despite setbacks.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **keep on** instead of [[continue]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **keep on:** Informal, conversational, often implies persistence despite difficulty - natural trong speaking (VN)
+> **[[continue]]:** More formal, neutral, appropriate cho writing và formal situations (VN)
+> 🧱 **The Barrier:** "Keep on" có energy và determination feel, trong khi "continue" là formal, neutral term đơn giản chỉ diễn tả continuation.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to quit learning English because it's difficult. You want to encourage them. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Don't give up! Keep on practicing every day, and you'll see progress!"
+> 👨‍🎨 **Director's Note:** "Keep on" thể hiện encouragement với friendly, informal tone, phù hợp với conversation giữa friends.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `cepan` to the meaning of **keep on**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "cepan" meant "to hold". Khi bạn "keep on" doing something, bạn metaphorically "holding onto" the action và refusing to let go - giống như clenching fist around a task và không releasing it.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **keep on**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `cepan` (to hold, retain)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* keep (giữ, duy trì)
+> - *(phrasal)* keep up (duy trì, theo kịp)
+> - *(phrasal)* keep away (tránh xa)
+> - *(phrasal)* keep off (tránh, không tiến đến)
+> - *(noun)* keeper (người giữ, người trông coi)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kiːp ɒn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**keep on**
+> 📖 **Meaning:** To continue doing something
+> 🇻🇳 **Vietnamese:** Tiếp tục làm gì đó
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **keep on**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** She keeps on to ask questions.
+> ✅ **Correction:** She keeps on asking questions.
+> 🧠 **Why:** "Keep on" luôn theo sau bởi gerund (-ing form), không phải to-infinitive. Đây là grammar rule cố định của phrasal verb này.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **keep on**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[stop]] (Ngừng lại - immediate cessation)
+> - [[give up]] (Bỏ cuộc - voluntary cessation due to difficulty)
+> 🧱 **Contrast:** "Keep on" là maintain action persistence, trong khi antonyms là termination - either immediate (stop) hoặc voluntary surrender (give up).

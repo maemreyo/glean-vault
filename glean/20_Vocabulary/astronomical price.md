@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 #flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [astronomical, astronomical prices, expensive, costly, outrageous, exorbitant, prohibitive, sky-high, expensive]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌæstrəˈnɒmɪkl praɪs/
+> **Part of Speech:** adjective + noun phrase
+> **CEFR Level:** C1
+> **Register:** informal/emphatic
+> **Etymology:** Astronomical: from Greek 'astron' (star); Price: from Latin 'pretium' (price)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A price that is extremely high, like reaching for the stars
+>
+> **Context Meaning:** An extraordinarily high price; impossibly expensive
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** giá trời ơi, giá trên trời
+> - **Contextual:** giá cao ngất ngưởng, giá cắt cổ
+>
 > **Nuances:**
-> - ...
+> - Hyperbolic expression for emphasis
+> - Implies price is unreasonably or prohibitively high
+> - Used for goods, services, or costs
+> - Stronger than 'expensive' or 'high'
+> - Can express shock, complaint, or exaggeration
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Exaggerated
+> **Memory Hook:** "Astronomical" (related to stars/celestial) = prices so high they're out of this world/stratosphere
+> **📖 Etymology Story:** From Greek 'astronomos' (arranger of stars) + Latin 'pretium' (price). The combination emerged in the early 20th century to describe prices so high they seem to reach astronomical proportions, comparing earthly costs to celestial distances.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[astronomy]] /əˈstrɒnəmi/, [[astronomer]] /əˈstrɒnəmə(r)/, [[price]] /praɪs/
+> - **Verb:** (no common verb form)
+> - **Adj:** [[astronomical]] /ˌæstrəˈnɒmɪkl/, [[priced]] /praɪst/
+> - **Adv:** [[astronomically]] /ˌæstrəˈnɒmɪkli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[exorbitant]] /ɪɡˈzɔːbɪtənt/ : unreasonably high
+> - [[prohibitive]] /prəˈhɪbɪtɪv/ : too expensive to consider
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[reasonable]] /ˈriːzənəbl/ : fair and appropriate
+> - [[affordable]] /əˈfɔːdəbl/ : able to be afforded
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. pay an astronomical price
+> 2. astronomical price for
+> 3. command astronomical prices
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The rare diamond was sold for an astronomical price at auction.
+> - **Translation:** Viên kim cương quý hiếm đã được bán với giá trên trời tại buổi đấu giá.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Homebuyers in the city center are facing astronomical prices.
+> - **Translation:** Những người mua nhà ở trung tâm thành phố đang đối mặt với giá cao ngất ngưởng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse in formal writing**
+> - ❌ **Mistake:** "The product has an astronomical price." (in business report)
+> - ✅ **Correction:** "The product is prohibitively expensive." / "The price is extremely high."
+> - **Why:** Too informal/emotional for formal contexts
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Everything has its price, but some prices are astronomical."
+> **Source:** [[Anonymous]]
 
 ---
 
@@ -161,121 +83,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **an astronomical price** (*/ˌæstrəˈnɒmɪkl praɪs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A price that is extremely high, like reaching for the stars; an extraordinarily high price; impossibly expensive
+> 🇻🇳 **Vietnamese:** giá trời ơi, giá trên trời; giá cao ngất ngưởng, giá cắt cổ
+> 🗣️ **IPA:** */ˌæstrəˈnɒmɪkl praɪs/*
+> 🧠 **Mental Model:** Một con số giá cao đến mức không tưởng, giống như giá cả chạm tới các vì sao trên trời
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A price that is extremely high, like reaching for the stars; an extraordinarily high price; impossibly expensive"
+**Vietnamese:** giá trời ơi, giá trên trời; giá cao ngất ngưởng, giá cắt cổ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**an astronomical price** (*/ˌæstrəˈnɒmɪkl praɪs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **an astronomical price** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Collectors were willing to pay an astronomical price for the painting by the famous artist.
+> 🇻🇳 **Translation:** Những nhà sưu tầm sẵn sàng trả giá trời ơi cho bức tranh của nghệ sĩ nổi tiếng.
+> 🔍 **Analysis:** 'an astronomical price' ở đây perfect vì nó nhấn mạnh mức giá cực kỳ cao một cách cường điệu, thể hiện sự hiếm có và quý giá của tác phẩm
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **an astronomical price**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** pay an astronomical price (trả giá trời ơi) (hành động mua)
+> 2. **Target:** astronomical price for (giá trên trời cho) (đối tượng)
+> 3. **Market:** command astronomical prices (đạt được giá cắt cổ) (thị trường)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **an astronomical price**:
+"The car was very expensive."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The vintage sports car fetched an astronomical price at the international auction."
+> 💡 **Why it works:** 'an astronomical price' upgrade từ 'very expensive' bằng cách cường điệu hóa mức giá cao một cách ấn tượng và đáng chú ý
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **an astronomical price** instead of [[expensive]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **an astronomical price:** Dùng khi muốn cường điệu hóa mức giá cao một cách hài hước hoặc phàn nàn, nhấn mạnh sự phi thực tế
+> **expensive:** Dùng khi muốn mô tả giá cao một cách khách quan, không cường điệu
+> 🧱 **The Barrier:** Exaggeration vs fact - astronomical price is hyperbolic while expensive is factual description
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend shows you the price of a luxury handbag. You feel shocked at the cost. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Who would pay an astronomical price for something you just put things in?!"
+> 👨‍🎨 **Director's Note:** 'an astronomical price' fits perfectly vì nó diễn tả sự ngạc nhiên và phàn nàn về mức giá cao đến mức phi lý
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `astronomical` + `price` to the meaning of **an astronomical price**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ tiếng Hy Lạp 'astronomos' (người sắp xếp các vì sao) và tiếng Latin 'pretium' (giá). Sự kết hợp này xuất hiện vào đầu thế kỷ 20 để mô tả những mức giá cao đến mức có vẻ đạt tới tỷ lệ thiên văn, so sánh chi phí trần thế với khoảng cách vũ trụ.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **an astronomical price**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Greek `astron` (sao, ngôi sao) + Latin `pretium` (giá)
+> 👨‍👩‍👧 **Family:**
+> - *(n)* astronomy (thiên văn học)
+> - *(n)* astronomer (nhà thiên văn)
+> - *(adj)* astronomical (thiên văn, cực lớn)
+> - *(adv)* astronomically (một cách cực lớn, phi thường)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌæstrəˈnɒmɪkl praɪs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**an astronomical price**
+> 📖 **Meaning:** A price that is extremely high, like reaching for the stars; an extraordinarily high price; impossibly expensive
+> 🇻🇳 **Vietnamese:** giá trời ơi, giá trên trời; giá cao ngất ngưởng, giá cắt cổ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **an astronomical price**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The market analysis shows astronomical prices for basic commodities." (in formal report)
+> ✅ **Correction:** "The market analysis shows extremely high prices for basic commodities."
+> 🧠 **Why:** 'Astronomical price' quá cường điệu và không trang trọng cho văn phong học thuật/nghiên cứu. Dùng 'extremely high' phù hợp hơn
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **an astronomical price**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[a reasonable price]] (mức giá hợp lý)
+> - [[a bargain price]] (mức giá hời, giá rẻ)
+> 🧱 **Contrast:** An astronomical price is impossibly high and unaffordable, while a reasonable price is fair and balanced, and a bargain price is unexpectedly low

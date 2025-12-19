@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
 #flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [therapy, care, cure, remedy, medical care, healing process, intervention, medication, rehabilitation]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈtriːtmənt/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** From Old French "traitement" (handling, management), from Latin "tractare" (to handle, manage, treat). The medical sense developed in the 18th century.
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The manner in which someone behaves toward or deals with someone or something.
+>
+> **Context Meaning:** Medical care given to a patient for an illness or injury; the use of medicines, therapy, or surgery to cure or manage a health condition.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự điều trị
+> - **Contextual:** liệu pháp, cách chữa bệnh, sự chăm sóc y tế
+>
 > **Nuances:**
-> - ...
+> - Can refer to both the process and the specific medical procedures
+> - Includes preventive, curative, and palliative care
+> - Can also mean behavior toward others (non-medical usage)
+> - Implies professional intervention or systematic approach
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Caring, Professional, Systematic
+> **Memory Hook:** Think of "treat" + "ment" - the mental process of treating something carefully and methodically, like a doctor treating a patient.
+> **📖 Etymology Story:** Roman doctors would "tractare" (handle) patients carefully. This evolved into "treatment" - the systematic handling of illness to restore health.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[treat]] /triːt/
+> - **Noun:** [[treater]] /ˈtriːtə(r)/
+> - **Adj:** [[treatable]] /ˈtriːtəbəl/
+> - **Adj:** [[untreatable]] /ʌnˈtriːtəbəl/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[therapy]] /ˈθerəpi/ : Focuses on rehabilitative or psychological care
+> - [[cure]] /kjʊə(r)/ : Implies complete elimination of disease
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[neglect]] /nɪˈɡlekt/ : Lack of care or attention
+> - [[malpractice]] /ˌmælˈpræktɪs/ : Improper professional treatment
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. medical treatment
+> 2. receive treatment
+> 3. effective treatment
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The patient is receiving treatment for a rare heart condition at the specialized hospital.
+> - **Translation:** Bệnh nhân đang được điều trị bệnh tim hiếm tại bệnh viện chuyên khoa.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Early detection and treatment significantly improve the chances of recovery.
+> - **Translation:** Việc phát hiện sớm và điều trị làm tăng đáng kể cơ hội hồi phục.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability**
+> - ❌ **Mistake:** She is undergoing a treatment.
+> - ✅ **Correction:** She is undergoing treatment. / She is undergoing a new treatment.
+> - **Why:** "Treatment" is usually uncountable when referring to the general process. Use "a" only when referring to a specific type or course.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Advances in medical treatment have transformed once-fatal diseases into manageable conditions."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **treatment** (*/ˈtriːtmənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Medical care given to a patient for an illness or injury; the use of medicines, therapy, or surgery to manage a health condition.
+> 🇻🇳 **Vietnamese:** Sự điều trị bệnh, liệu pháp y tế, cách chữa bệnh
+> 🗣️ **IPA:** */ˈtriːtmənt/*
+> 🧠 **Mental Model:** Giống như một systematic process mà doctors apply to fix health problems - có steps, methods, và specific interventions để restore health.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Medical care given to a patient for an illness or injury"
+**Vietnamese:** Sự chăm sóc y tế cho bệnh nhân
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**treatment** (*/ˈtriːtmənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **treatment** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new cancer treatment has shown promising results in clinical trials.
+> 🇻🇳 **Translation:** Liệu pháp ung thư mới đã cho thấy kết quả hứa hẹn trong các thử nghiệm lâm sàng.
+> 🔍 **Analysis:** "Treatment" ở đây không chỉ là general care mà cụ thể là medical intervention có protocol và evidence-based. Nó thể hiện systematic approach của modern medicine.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **treatment**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Reception:** receive/undergo treatment (nhận/khám chữa - patient experience)
+> 2. **Quality:** effective/advanced treatment (hiệu quả/tiến tiến - medical quality)
+> 3. **Type:** medical/emergency treatment (y tế/khẩn cấp - treatment category)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **treatment**:
+"The doctor helped her get better."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The doctor administered an innovative treatment that gradually alleviated her chronic symptoms."
+> 💡 **Why it works:** "Treatment" thể hiện systematic, professional medical intervention, thay vì "helped" mơ hồ. Nó cho thấy evidence-based approach và specific medical procedures.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **treatment** instead of [[cure]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **treatment:** Process of managing condition - có thể không eliminate hoàn toàn disease nhưng control symptoms (VN)
+> **[[cure]]:** Complete elimination of disease - end state, không có disease remaining (VN)
+> 🧱 **The Barrier:** "Treatment" là journey/process, trong khi "cure" là destination/end result. Many conditions require lifelong treatment but have no cure.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend has been diagnosed with a chronic illness. They're scared about the process ahead. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I know the treatment seems overwhelming, but the medical team will guide you through every step."
+> 👨‍🎨 **Director's Note:** "Treatment" thể hiện professional, structured process - giving assurance that it's managed, not random.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `tractare` to the meaning of **treatment**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "tractare" nghĩa là "to handle carefully". Khi bạn "treat" illness, bạn đang "handle" disease với care và expertise. Giống như artisan carefully "treating" material để tạo ra masterpiece.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **treatment**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `tractare` (to handle, manage)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* treat (điều trị, đối xử)
+> - *(noun)* treaty (hiệp ước - sự thỏa thuận)
+> - *(noun)* retreat (lui lại, khu nghỉ dưỡng)
+> - *(adj)* treatable (có thể điều trị được)
+> - *(noun)* entreat (cầu xin, van nài)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈtriːtmənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**treatment**
+> 📖 **Meaning:** Medical care for illness or injury
+> 🇻🇳 **Vietnamese:** Sự điều trị y tế
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **treatment**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The hospital provides many treatments for cancer.
+> ✅ **Correction:** The hospital provides many types of treatment for cancer. / The hospital provides cancer treatments.
+> 🧠 **Why:** Khi tính riêng biệt, dùng "types/kinds of treatment". Khi "treatments" ở plural, nó thường đi với specific disease context.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **treatment**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[neglect]] (Sự bỏ mặc - không care)
+> - [[malpractice]] (Yếu kém chuyên môn - improper care)
+> 🧱 **Contrast:** "Treatment" là professional, systematic care aimed at healing, trong khi antonyms là lack of care hoặc improper harmful action.

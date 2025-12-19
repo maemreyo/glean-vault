@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [go through, go through with, undergo, experience, endure, survive, pass through, get through]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɡəʊ θruː/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** Combination of 'go' (move) + 'through' (from one side to the other)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To pass from one side to the other
+>
+> **Context Meaning:** To experience or endure something; to examine carefully
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** trải qua, đi qua
+> - **Contextual:** xem xét kỹ, kiểm tra, chịu đựng
+>
 > **Nuances:**
-> - ...
+> - Can mean physical movement or emotional/mental experience
+> - Often implies difficulty or challenge when referring to experiences
+> - Used for documents (check), processes (follow), or emotions (endure)
+> - Prepositions vary: 'go through' vs 'go through with'
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Resilient
+> **Memory Hook:** Imagine going THROUGH a tunnel - you start at one end, experience darkness, and emerge at the other end
+> **📖 Etymology Story:** From Old English 'gān' (to go) and 'þurh' (through). The phrasal verb evolved from literal passage through physical spaces to metaphorical passage through experiences, difficulties, or processes.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[experience]] /ɪkˈspɪəriəns/, [[process]] /ˈprəʊses/
+> - **Verb:** [[go]] /ɡəʊ/, [[go through]] /ɡəʊ θruː/, [[go through with]] /ɡəʊ θruː wɪð/
+> - **Adj:** [[through]] /θruː/ (adjective in some contexts)
+> - **Adv:** [[through]] /θruː/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[experience]] /ɪkˈspɪəriəns/ : undergo or live through something
+> - [[examine]] /ɪɡˈzæmɪn/ : look at something carefully
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[avoid]] /əˈvɔɪd/ : stay away from something
+> - [[skip]] /skɪp/ : omit or pass over
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. go through difficulties
+> 2. go through documents
+> 3. go through with something
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She had to go through a difficult divorce last year.
+> - **Translation:** Cô ấy đã phải trải qua một cuộc ly hôn khó khăn vào năm ngoái.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Let's go through the contract one more time before signing.
+> - **Translation:** Chúng ta hãy xem xét kỹ hợp đồng một lần nữa trước khi ký.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** "go through in something"
+> - ✅ **Correction:** "go through something"
+> - **Why:** 'Go through' doesn't need additional preposition after 'through'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The only way out is through."
+> **Source:** [[Robert Frost]]
 
 ---
 
@@ -161,121 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **go through** (*/ɡəʊ θruː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To pass from one side to the other; to experience or endure something; to examine carefully
+> 🇻🇳 **Vietnamese:** trải qua, đi qua; xem xét kỹ, kiểm tra, chịu đựng
+> 🗣️ **IPA:** */ɡəʊ θruː/*
+> 🧠 **Mental Model:** Đi xuyên qua một đường hầm - bạn trải qua bóng tối để đến ánh sáng, hoặc lật xem từng trang tài liệu
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To pass from one side to the other; to experience or endure something; to examine carefully"
+**Vietnamese:** trải qua, đi qua; xem xét kỹ, kiểm tra, chịu đựng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**go through** (*/ɡəʊ θruː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **go through** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The company had to go through major restructuring to survive the economic crisis.
+> 🇻🇳 **Translation:** Công ty đã phải trải qua tái cấu trúc lớn để sống sót qua cuộc khủng hoảng kinh tế.
+> 🔍 **Analysis:** 'go through' ở đây perfect vì nó diễn tả quá trình trải qua và chịu đựng khó khăn, không chỉ là 'experience' mà còn hàm ý sự kiên trì
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **go through**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Hardship:** go through difficulties (trải qua khó khăn) (thử thách)
+> 2. **Examination:** go through documents (xem xét tài liệu) (kiểm tra)
+> 3. **Commitment:** go through with a plan (thực hiện kế hoạch) (quyết tâm)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **go through**:
+"She experienced many problems."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The entrepreneur had to go through countless setbacks before achieving success."
+> 💡 **Why it works:** 'go through' upgrade từ 'experienced' bằng cách nhấn mạnh quá trình chịu đựng và vượt qua khó khăn, không chỉ là trải qua
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **go through** instead of [[experience]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **go through:** Dùng khi muốn nhấn mạnh quá trình chịu đựng, kiên trì vượt qua khó khăn hoặc xem xét kỹ lưỡng
+> **experience:** Dùng khi muốn chỉ việc trải qua một sự kiện, không nhất thiết có yếu tố khó khăn hay xem xét
+> 🧱 **The Barrier:** Process vs event - go through emphasizes the journey through something while experience focuses on the event itself
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is hesitating about starting a difficult but necessary project. You feel encouraging. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Sometimes you just have to go through the hard parts to get to the good stuff!"
+> 👨‍🎨 **Director's Note:** 'go through' fits perfectly vì nó diễn tả việc phải đối mặt và vượt qua khó khăn để đạt được mục tiêu
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `go` + `through` to the meaning of **go through**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ tiếng Anh cổ 'gān' (đi) và 'þurh' (qua). Cụm động từ này phát triển từ việc đi xuyên qua không gian vật lý sang việc trải qua các thử thách, khó khăn, hoặc quy trình một cách ẩn dụ.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **go through**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English `gān` (đi) + `þurh` (qua)
+> 👨‍👩‍👧 **Family:**
+> - *(v)* go (đi)
+> - *(v)* go through with (thực hiện, kiên định làm)
+> - *(prep)* through (qua, xuyên qua)
+> - *(adj)* through (hoàn thành, kết thúc)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɡəʊ θruː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**go through**
+> 📖 **Meaning:** To pass from one side to the other; to experience or endure something; to examine carefully
+> 🇻🇳 **Vietnamese:** trải qua, đi qua; xem xét kỹ, kiểm tra, chịu đựng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **go through**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "We need to go through in all these documents carefully."
+> ✅ **Correction:** "We need to go through all these documents carefully."
+> 🧠 **Why:** 'Go through' không cần giới từ 'in' thêm sau 'through'. Cấu trúc đúng là 'go through + object'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **go through**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[avoid]] (tránh né, né tránh)
+> - [[skip]] (bỏ qua, không làm)
+> 🧱 **Contrast:** Go through involves facing and moving through something, while avoid means staying away from it entirely, and skip means bypassing or omitting something

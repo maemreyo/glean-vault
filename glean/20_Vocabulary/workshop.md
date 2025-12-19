@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
 #flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [workshop, workshops, working, working session, training session, seminar, hands-on, practical training]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈwɜːkʃɒp/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** academic/professional
+> **Etymology:** From "work" + "shop" (place for work)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A place for work
+>
+> **Context Meaning:** 1) A room or building where things are made or repaired 2) An educational session with practical activities
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** xưởng, công xưởng
+> - **Contextual:** buổi hội thảo, buổi tập huấn, workshop
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical workplace or learning event
+> - Emphasizes hands-on participation
+> - Often collaborative and interactive
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Practical, Collaborative, Hands-on
+> **Memory Hook:** Think of a place where you actually work on things, not just listen - that's a workshop
+> **📖 Etymology Story:** From "work" + "shop" - originally a place for manual work, now extended to mean a session where participants actively work together to learn and create
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[work]] /wɜːk/
+> - **Noun:** [[shop]] /ʃɒp/
+> - **Verb:** [[workshop]] (rare verb)
+> - **Adj:** [[workshop-based]] (dựa trên workshop)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[seminar]] /ˈsemɪnɑːr/ : Academic presentation
+> - [[training]] /ˈtreɪnɪŋ/ : Teaching skills
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[lecture]] /ˈlektʃər/ : One-way presentation
+> - [[theory]] /ˈθɪəri/ : Abstract concepts
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. attend a workshop
+> 2. workshop facilitator
+> 3. hands-on workshop
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The woodworking workshop teaches traditional carpentry techniques to beginners.
+> - **Translation:** Xưởng mộc dạy các kỹ thuật mộc truyền thống cho người mới bắt đầu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** I'm attending a creative writing workshop this weekend to improve my storytelling skills.
+> - **Translation:** Tôi sẽ tham gia một buổi hội thảo viết sáng tạo cuối tuần này để cải thiện kỹ năng kể chuyện của mình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Usage Confusion**
+> - ❌ **Mistake:** Using "workshop" for any meeting
+> - ✅ **Correction:** Reserve for sessions with active participation and learning
+> - **Why:** "Workshop" specifically implies hands-on work, not just discussion
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The design workshop brought together engineers and artists to collaborate on innovative solutions."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **workshop** (*/ˈwɜːkʃɒp/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A room/building where things are made or repaired; an educational session with practical activities
+> 🇻🇳 **Vietnamese:** Xưởng, công xưởng; buổi hội thảo, buổi tập huấn thực hành
+> 🗣️ **IPA:** */ˈwɜːkʃɒp/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một nơi mọi người không chỉ nghe mà còn thực hành làm việc chung - đó chính là workshop
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An educational session with hands-on activities and participation"
+**Vietnamese:** Buổi hội thảo thực hành, workshop
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**workshop** (*/ˈwɜːkʃɒp/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **workshop** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The photography workshop allowed participants to practice techniques with professional models in various lighting conditions.
+> 🇻🇳 **Translation:** Workshop nhiếp ảnh cho phép người tham gia thực hành các kỹ thuật với người mẫu chuyên nghiệp trong nhiều điều kiện ánh sáng khác nhau.
+> 🔍 **Analysis:** Perfect here showing the practical, hands-on nature of a workshop where participants actively practice skills
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **workshop**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Participation:** attend/join/conduct a workshop (tham gia/tổ chức workshop)
+> 2. **Type:** hands-on/interactive/workshop (workshop thực hành/tương tác)
+> 3. **Leadership:** workshop facilitator/trainer (người điều phối/giảng viên workshop)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **workshop**:
+"We had a meeting about teamwork."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We participated in a team-building workshop that used interactive exercises to improve communication and collaboration."
+> 💡 **Why it works:** "Workshop" nhấn mạnh yếu tố thực hành và tương tác, thể hiện một buổi học tập năng động thay vì chỉ "meeting" thông thường
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **workshop** instead of **[[seminar]]**?
+>
+> **workshop:** Thực hành, tương tác, tạo sản phẩm, học qua làm
+> **[[seminar]]** thuyết trình, học thuật, chủ yếu nghe và thảo luận
+> 🧱 **The Barrier:** "Workshop" đòi hỏi sự tham gia tích cực và sản phẩm đầu ra trong khi "seminar" chủ yếu là tiếp thu kiến thức qua trình bày
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your university is offering various skill-building sessions. You're explaining to a friend why you chose the pottery session. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I signed up for the pottery workshop because I wanted to actually learn by doing, not just watch demonstrations."
+> 👨‍🎨 **Director's Note:** Thể hiện sự ưa thích học tập thực hành, nhấn mạnh giá trị của trải nghiệm trực tiếp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `work` and `shop` to the meaning of **workshop**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "work" (công việc) và "shop" (nơi chốn) - "workshop" ban đầu là nơi làm việc thủ công, nay mở rộng thành buổi học nơi mọi người thực sự "làm việc" cùng nhau để học hỏi
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **workshop**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `weorc` (<công việc>) + Old English `sceoppa` (<nơi chốn>)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[work]] (công việc)
+> - *(noun)* [[shop]] (cửa hàng, xưởng)
+> - *(noun)* [[worker]] (người lao động)
+> - *(noun)* [[workmanship]] (tay nghề)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈwɜːkʃɒp/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**workshop**
+> 📖 **Meaning:** A room or building where things are made or repaired; an educational session with practical activities
+> 🇻🇳 **Vietnamese:** Xưởng; buổi hội thảo thực hành
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **workshop**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "We had a workshop to discuss the quarterly report" (Sai loại hình hoạt động)
+> ✅ **Correction:** "We had a meeting to discuss the quarterly report" hoặc "We had a training workshop to create better reports"
+> 🧠 **Why:** "Workshop" đòi hỏi yếu tố thực hành và học kỹ năng, không chỉ là thảo luận thông thường như "meeting"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **workshop**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[lecture]] (Bài giảng, thuyết trình một chiều)
+> - [[theory]] (Lý thuyết, khái niệm trừu tượng)
+> - [[demonstration]] (Biểu diễn, người khác làm mình xem)
+> 🧱 **Contrast:** "Workshop"强调主动参与和动手实践 trong khi các từ đối lập đều nhấn mạnh việc tiếp thu thụ động, quan sát hoặc học lý thuyết

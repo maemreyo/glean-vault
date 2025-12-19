@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [unquestionably, unquestionable, questionable, undeniably, certainly, definitely, absolutely, without doubt, indubitably]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ʌnˈkwestʃənəbli/
+> **Part of Speech:** adverb
+> **CEFR Level:** C1
+> **Register:** formal/academic
+> **Etymology:** From "un-" (not) + "questionably" (from Latin "quaestionare" - to ask)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Not able to be questioned
+>
+> **Context Meaning:** In a way that is impossible to doubt or dispute; certainly and absolutely
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** không thể nghi ngờ
+> - **Contextual:** chắc chắn,无疑, đương nhiên, tuyệt đối
+>
 > **Nuances:**
-> - ...
+> - Expresses strong conviction and certainty
+> - Often used to emphasize a point or conclusion
+> - More formal and emphatic than "certainly" or "definitely"
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Confident, Authoritative, Assertive
+> **Memory Hook:** Imagine something so true that it stops all questions - unquestionable!
+> **📖 Etymology Story:** From Latin "quaestio" meaning "question" - when something is "unquestionable", it's so certain that no questions can be raised about its truth or validity
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[unquestionable]] /ʌnˈkwestʃənəbl/
+> - **Adv:** [[unquestionably]] /ʌnˈkwestʃənəbli/
+> - **Noun:** [[question]] /ˈkwestʃən/
+> - **Verb:** [[question]] /ˈkwestʃən/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[undoubtedly]] /ʌnˈdaʊtɪdli/ : Cannot be doubted
+> - [[certainly]] /ˈsɜːtənli/ : With certainty
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[questionably]] /ˈkwestʃənəbli/ : Doubtfully, uncertainly
+> - [[doubtfully]] /ˈdaʊtfəli/ : With uncertainty
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. unquestionably the best
+> 2. unquestionably true
+> 3. unquestionably successful
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** This is unquestionably the most innovative product we've launched this decade.
+> - **Translation:** Đây无疑 là sản phẩm sáng tạo nhất mà chúng tôi đã tung ra trong thập kỷ này.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She has unquestionably demonstrated exceptional leadership skills during the crisis.
+> - **Translation:** Chắc chắn là cô ấy đã thể hiện kỹ năng lãnh đạo xuất sắc trong cuộc khủng hoảng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse**
+> - ❌ **Mistake:** Using "unquestionably" for minor points
+> - ✅ **Correction:** Reserve for truly certain, significant statements
+> - **Why:** The word loses impact if overused for trivial matters
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The research findings unquestionably support our initial hypothesis about climate change effects."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **unquestionably** (*/ʌnˈkwestʃənəbli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In a way that is impossible to doubt or dispute; certainly and absolutely
+> 🇻🇳 **Vietnamese:** Chắc chắn,无疑, không thể nghi ngờ, tuyệt đối
+> 🗣️ **IPA:** */ʌnˈkwestʃənəbli/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một sự thật vững chắc đến mức không một câu hỏi nào có thể đưa ra để nghi ngờ nó
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a way that cannot be doubted or disputed"
+**Vietnamese:** Chắc chắn,无疑
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**unquestionably** (*/ʌnˈkwestʃənəbli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **unquestionably** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new policy has unquestionably improved employee satisfaction and productivity.
+> 🇻🇳 **Translation:** Chính sách mới无疑 đã cải thiện sự hài lòng và năng suất của nhân viên.
+> 🔍 **Analysis:** Perfect here because it emphasizes the certainty of improvement with strong conviction, leaving no room for doubt about the policy's effectiveness
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **unquestionably**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality Assessment:** unquestionably the best/fine w u'orst (chắc chắn là tốt nhất/tệ nhất)
+> 2. **Truth Statements:** unquestionably true/false/correct (chắc chắn là đúng/sai/chính xác)
+> 3. **Achievement Success:** unquestionably successful/effective (chắc chắn là thành công/hiệu quả)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **unquestionably**:
+"He is a good leader."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He is unquestionably the most visionary leader our company has ever had."
+> 💡 **Why it works:** "Unquestionably" tăng cường sự khẳng định, thể hiện niềm tin tuyệt đối và không còn nghi ngờ gì nữa, mạnh hơn nhiều so với "good" thông thường
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **unquestionably** instead of **[[certainly]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **unquestionably:** Nhấn mạnh sự không thể tranh cãi, mạnh mẽ và trang trọng hơn, thường dùng trong học thuật/kinh doanh
+> **[[certainly]]** informál hơn, ít mạnh mẽ hơn, có thể dùng trong giao tiếp hàng ngày
+> 🧱 **The Barrier:** "Unquestionably" là mức độ cao nhất của sự chắc chắn, loại bỏ mọi khả năng đặt câu hỏi, trong khi "certainly" chỉ đơn giản thể hiện sự tin tưởng
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague questions the success of a project you managed. You have concrete proof of its success. Respond confidently!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The project was unquestionably successful - we exceeded all targets and received positive feedback from 95% of clients."
+> 👨‍🎨 **Director's Note:** Tự tin và quả quyết, dùng số liệu cụ thể để củng cố sự khẳng định không thể nghi ngờ
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `question` to the meaning of **unquestionably**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "quaestio" có nghĩa là "câu hỏi" - khi điều gì đó "unquestionable", nó vững chắc đến mức không một câu hỏi nào có thể đặt ra về tính xác thực của nó
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **unquestionably**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `quaerere` (<tìm kiếm, hỏi>)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[question]] (hỏi, nghi ngờ)
+> - *(noun)* [[question]] (câu hỏi)
+> - *(adj)* [[unquestionable]] (không thể nghi ngờ)
+> - *(adv)* [[unquestionably]] (một cách không thể nghi ngờ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ʌnˈkwestʃənəbli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**unquestionably**
+> 📖 **Meaning:** In a way that is impossible to doubt or dispute; certainly and absolutely
+> 🇻🇳 **Vietnamese:** Chắc chắn,无疑
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **unquestionably**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The coffee is unquestionably hot" (Quá cường điệu cho điều bình thường)
+> ✅ **Correction:** "The coffee is certainly hot" hoặc "The coffee is very hot"
+> 🧠 **Why:** "Unquestionably" là từ rất mạnh, chỉ nên dùng cho những khẳng định quan trọng, không nên dùng cho những nhận xét thông thường
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **unquestionably**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[questionably]] (Có thể nghi ngờ, đáng ngờ)
+> - [[doubtfully]] (Nghi ngờ, không chắc chắn)
+> - [[arguably]] (Có thể tranh luận)
+> 🧱 **Contrast:** "Unquestionably" loại bỏ mọi nghi ngờ trong khi các từ đối lập đều để mở khả năng đặt câu hỏi hoặc tranh cãi về tính xác thực của phát biểu

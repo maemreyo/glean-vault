@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [take measures, take action, take initiatives, make moves, proceed with, advance toward, work towards, progress toward]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /teɪk steps/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** From Old English "stæppe" meaning "to step, tread". Combined with "take" from Old English "tacan" meaning "to grasp, seize". The combination implies actively moving forward with purpose.
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To take a series of measured movements toward a destination.
+>
+> **Context Meaning:** To take action or measures to achieve something; to begin a process of making progress.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thực hiện các bước
+> - **Contextual:** có những hành động,采取措施，采取步骤
+>
 > **Nuances:**
-> - ...
+> - Implies deliberate, planned action rather than spontaneous reaction
+> - Suggests progression through a series of manageable actions
+> - Often used in formal contexts like business, politics, or personal development
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Proactive, Methodical, Deliberate
+> **Memory Hook:** Picture yourself climbing stairs - each step is a calculated move upward. Taking steps means consciously moving toward your goal one action at a time.
+> **📖 Etymology Story:** Imagine ancient messengers taking physical steps to deliver important decrees. Each "step" was a deliberate movement forward, much like how we now "take steps" to solve problems.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[step]] /step/
+> - **Verb:** [[step]] /step/
+> - **Adj:** [[stepped]] /stept/
+> - **Adv:** [[stepwise]] /ˈstepwaɪz/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[take measures]] /ˈmeʒərz/ : More formal, often used in policy contexts
+> - [[take action]] /ˈækʃən/ : More immediate and broader in scope
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[remain idle]] /ˈaɪdəl/ : To do nothing
+> - [[procrastinate]] /prəˈkræstɪneɪt/ : To delay action
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. take immediate steps to
+> 2. take necessary steps to
+> 3. take concrete steps to
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The government is taking steps to reduce carbon emissions by 2030.
+> - **Translation:** Chính phủ đang có những hành động để giảm phát thải carbon vào năm 2030.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She took steps to improve her health by exercising daily and eating better.
+> - **Translation:** Cô ấy đã có những bước đi để cải thiện sức khỏe bằng cách tập thể dục hàng ngày và ăn uống lành mạnh hơn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** take steps for doing something
+> - ✅ **Correction:** take steps to do something
+> - **Why:** The phrasal verb "take steps to" is always followed by the infinitive form (to + verb) when indicating purpose.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We must take steps to protect our environment before it's too late."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **take steps to** (*/teɪk steps tu:/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To take action or measures to achieve a particular goal; to begin doing something in a planned, deliberate way.
+> 🇻🇳 **Vietnamese:** Thực hiện các hành động/các biện pháp để đạt được mục tiêu
+> 🗣️ **IPA:** */teɪk steps tu:/*
+> 🧠 **Mental Model:** Giống như đi lên cầu thang - mỗi step là một hành động cụ thể, có chủ đích để tiến gần hơn đến mục tiêu.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To take action or measures to achieve a particular goal"
+**Vietnamese:** Thực hiện các hành động để đạt được mục tiêu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**take steps to** (*/teɪk steps tu:/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **take steps to** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The company is taking steps to improve workplace safety after the accident.
+> 🇻🇳 **Translation:** Công ty đang có những biện pháp để cải thiện an toàn nơi làm việc sau vụ tai nạn.
+> 🔍 **Analysis:** "Taking steps" ở đây cho thấy các action có kế hoạch, có chủ đích, không phải là phản ứng bột phát. Nó nhấn mạnh tính systematic và deliberate của hành động.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **take steps to**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Urgency:** take immediate steps to (cần ngay lập tức - cho thấy tính khẩn cấp)
+> 2. **Necessity:** take necessary steps to (cần thiết - nhấn mạnh sự bắt buộc)
+> 3. **Concreteness:** take concrete steps to (cụ thể - nhấn mạnh tính thực tế, không lý thuyết)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **take steps to**:
+"We will do something about the problem."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We will take concrete steps to address the root causes of this problem."
+> 💡 **Why it works:** "Take steps" cho thấy sự có chủ đích và có kế hoạch, thay vì "do something" mơ hồ. "Concrete steps" còn nhấn mạnh tính thực tế và cụ thể của hành động.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **take steps to** instead of [[do something]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **take steps to:** Thể hiện hành động có kế hoạch, có chủ đích, thường theo từng giai đoạn (VN)
+> **[[do something]]:** Quá chung chung, không rõ tính chất và quy trình của hành động (VN)
+> 🧱 **The Barrier:** "Take steps" mang ý nghĩa systematic và deliberate, trong khi "do something" chỉ là action chung chung không định hướng.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a manager addressing customer complaints about poor service. You feel determined to fix this. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We're taking immediate steps to improve our customer service quality."
+> 👨‍🎨 **Director's Note:** "Taking steps" thể hiện sự chuyên nghiệp và có kế hoạch, cho thấy manager không chỉ hứa suông mà còn có action plan cụ thể.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `step` to the meaning of **take steps to**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Ngày xưa, "step" là mỗi bước chân vật lý đi trên đường. "Take steps" ban đầu nghĩa là thực sự bước đi về phía trước. Ngày nay, metaphor này phát triển thành "thực hiện các hành động có chủ đích" để tiến tới mục tiêu, như đang đi trên con đường thành công.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **take steps to**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `stæppe` (to step, tread)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* step (bước đi, giai đoạn)
+> - *(verb)* step (đi bước, bước qua)
+> - *(adjective)* stepped (có bậc, cấp)
+> - *(adverb)* stepwise (từng bước một)
+> - *(phrasal)* step up (tăng cường, thăng tiến)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */teɪk steps tu:/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**take steps to**
+> 📖 **Meaning:** To take action or measures to achieve something
+> 🇻🇳 **Vietnamese:** Thực hiện các biện pháp để đạt được điều gì
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **take steps to**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We must take steps for reducing pollution.
+> ✅ **Correction:** We must take steps to reduce pollution.
+> 🧠 **Why:** Luôn dùng "take steps to + verb (base form)" để diễn tả mục đích, không dùng "for + V-ing".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **take steps to**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[remain idle]] (Không làm gì, thụ động)
+> - [[procrastinate]] (Trì hoãn, không hành động)
+> 🧱 **Contrast:** "Take steps to" thể hiện sự chủ động, tiến về phía trước, trong khi antonyms thể hiện sự thụ động hoặc trì hoãn không hành động.

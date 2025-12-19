@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [pleasure, pleasant, pleased, pleasurable, displeasure, enjoyment, delight, satisfaction, gratification]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈpleʒər/
+> **Part of Speech:** noun
+> **CEFR Level:** A2
+> **Register:** neutral/formal
+> **Etymology:** From Old French "plaisir" (to please), from Latin "placere" (to be pleasing)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** That which pleases
+>
+> **Context Meaning:** A feeling of happiness, enjoyment, or satisfaction
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** niềm vui, sự vui vẻ
+> - **Contextual:** khoái lạc, sự thỏa mãn, thú vui
+>
 > **Nuances:**
-> - ...
+> - Can be physical or emotional enjoyment
+> - More formal than "fun" or "enjoyment"
+> - Often implies a deeper or more lasting satisfaction
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Appreciative, Content, Satisfied
+> **Memory Hook:** Think of something that makes you say "ah, that's pleasant" - that's pleasure
+> **📖 Etymology Story:** From Latin "placere" meaning "to please" - pleasure is what results when something pleases us, creating a state of contentment and satisfaction
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[pleasant]] /ˈplezənt/
+> - **Adj:** [[pleased]] /pliːzd/
+> - **Adv:** [[pleasantly]] /ˈplezəntli/
+> - **Verb:** [[please]] /pliːz/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[enjoyment]] /ɪnˈdʒɔɪmənt/ : The act of enjoying
+> - [[delight]] /dɪˈlaɪt/ : Great pleasure
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[pain]] /peɪn/ : Physical or emotional suffering
+> - [[displeasure]] /dɪsˈpleʒər/ : Dissatisfaction
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. take pleasure in
+> 2. with pleasure
+> 3. for pleasure
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She takes great pleasure in helping others learn new skills.
+> - **Translation:** Cô ấy cảm thấy niềm vui lớn khi giúp đỡ người khác học kỹ năng mới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Reading books is one of life's simple pleasures that never gets old.
+> - **Translation:** Đọc sách là một trong những thú vui đơn giản của cuộc sống không bao giờ cũ kỹ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable vs Uncountable**
+> - ❌ **Mistake:** "I had many pleasures today"
+> - ✅ **Correction:** "I had much pleasure today" or "I had many pleasant experiences"
+> - **Why:** "Pleasure" is usually uncountable when referring to the feeling itself
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "It gives me great pleasure to announce the winner of this year's competition."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **pleasure** (*/ˈpleʒər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A feeling of happiness, enjoyment, or satisfaction
+> 🇻🇳 **Vietnamese:** Niềm vui, sự vui vẻ, khoái lạc
+> 🗣️ **IPA:** */ˈpleʒər/*
+> 🧠 **Mental Model:** Hãy tưởng tượng cảm giác ấm áp khi bạn trải qua điều gì đó thật tuyệt - đó chính là "pleasure"
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A feeling of happiness, enjoyment, or satisfaction"
+**Vietnamese:** Niềm vui, sự vui vẻ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**pleasure** (*/ˈpleʒər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **pleasure** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The retired professor found great pleasure in mentoring young researchers and sharing his wisdom.
+> 🇻🇳 **Translation:** Giáo sư hưu trí cảm thấy niềm vui lớn khi cố vấn các nhà nghiên cứu trẻ và chia sẻ trí tuệ của mình.
+> 🔍 **Analysis:** Perfect here showing how pleasure can come from helping others and sharing knowledge, not just from receiving
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **pleasure**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Enjoyment:** take/derive pleasure from (tìm thấy niềm vui từ)
+> 2. **Politeness:** with/it's my pleasure (rất sẵn lòng, niềm vui của tôi)
+> 3. **Purpose:** for pleasure (vì niềm vui, để giải trí)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite")
+### Card 5: Word Upgrade (The "Writer's Rewrite)
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **pleasure**:
+"I like helping people."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I take immense pleasure in helping people achieve their goals and overcome challenges."
+> 💡 **Why it works:** "Pleasure" thể hiện cảm xúc sâu sắc và sự thỏa mãn từ việc giúp đỡ người khác, thay vì chỉ nói "like" hời hợt
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **pleasure** instead of **[[fun]]**?
+>
+> **pleasure:** Sâu sắc hơn, trang trọng hơn, có thể là cảm xúc bền vững, thỏa mãn tinh thần
+> **[[fun]]}} nhẹ nhàng hơn, thoáng qua, thường liên quan đến hoạt động giải trí
+> 🧱 **The Barrier:** "Pleasure" là một trạng thái cảm xúc sâu sắc trong khi "fun" thường chỉ là khoảnh khắc vui vẻ
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Someone thanks you for helping them move furniture. You want to respond politely and warmly. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "It was my pleasure! I'm always happy to help friends settle into their new homes."
+> 👨‍🎨 **Director's Note:** Thân thiện và chu đáo, thể hiện sự sẵn lòng giúp đỡ một cách tự nhiên
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `placere` to the meaning of **pleasure**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "placere" có nghĩa là "làm hài lòng" - khi bạn cảm thấy "pleasure", đó là khi điều gì đó "làm hài lòng" bạn, tạo ra trạng thái hài lòng và thỏa mãn
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **pleasure**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `placere` (<làm hài lòng>)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[pleasure]] (niềm vui, sự hài lòng)
+> - *(adj)* [[pleasant]] (thú vị, dễ chịu)
+> - *(adj)* [[pleased]] (vui vẻ, hài lòng)
+> - *(verb)* [[please]] (làm hài lòng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈpleʒər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**pleasure**
+> 📖 **Meaning:** A feeling of happiness, enjoyment, or satisfaction
+> 🇻🇳 **Vietnamese:** Niềm vui
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **pleasure**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Reading books are my pleasures" (Sai đếm được/không đếm được)
+> ✅ **Correction:** "Reading books is one of my pleasures" hoặc "Reading books brings me pleasure"
+> 🧠 **Why:** "Pleasure" khi chỉ cảm xúc chung thường là danh từ không đếm được, nhưng khi chỉ hoạt động cụ thể mang lại niềm vui thì có thể đếm được
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **pleasure**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[pain]] (Đau đớn, khổ sở)
+> - [[displeasure]] (Sự không hài lòng)
+> - [[suffering]] (Sự đau khổ)
+> 🧱 **Contrast:** "Pleasure" thể hiện cảm xúc tích cực và thỏa mãn trong khi các antonym đều thể hiện cảm xúc tiêu cực và khó chịu

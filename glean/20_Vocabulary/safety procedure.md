@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
 #flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [safety procedure, procedures, protocol, guidelines, safety measures, emergency procedure, safety protocol, safety guidelines]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈseɪfti prəˈsiːdʒər/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** formal/technical
+> **Etymology:** From Latin "salus" (safety) + "procedere" (to go forward)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Going forward safely
+>
+> **Context Meaning:** A set of established steps designed to ensure safety and prevent accidents or harm
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** quy trình an toàn
+> - **Contextual:** quy định an toàn, biện pháp an toàn
+>
 > **Nuances:**
-> - ...
+> - Official and documented steps
+> - Often required by law or regulations
+> - Can apply to workplaces, schools, public spaces
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Cautious, Organized, Protective
+> **Memory Hook:** Think of a step-by-step guide that keeps you safe - that's a safety procedure
+> **📖 Etymology Story:** From "safety" (from Latin "salus" - health, safety) + "procedure" (from Latin "procedere" - to go forward) - safety procedures help us "go forward" in a way that maintains our "health and safety"
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[safety]] /ˈseɪfti/
+> - **Noun:** [[procedure]] /prəˈsiːdʒər/
+> - **Adj:** [[safe]] /seɪf/
+> - **Adv:** [[safely]] /ˈseɪfli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[protocol]] /ˈprəʊtəkɒl/ : Official procedure
+> - [[guidelines]] /ˈɡaɪdlaɪnz/ : Recommended practices
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[risk]] /rɪsk/ : Danger, hazard
+> - [[negligence]] /ˈneɡlɪdʒəns/ : Failure to take proper care
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. follow safety procedure
+> 2. emergency safety procedure
+> 3. implement safety procedure
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** All employees must follow the safety procedure when operating heavy machinery.
+> - **Translation:** Tất cả nhân viên phải tuân thủ quy trình an toàn khi vận hành máy móc hạng nặng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The school conducted a fire drill to practice the emergency safety procedure.
+> - **Translation:** Trường học đã thực hiện diễn tập chữa cháy để thực hành quy trình an toàn khẩn cấp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Singular/Plural**
+> - ❌ **Mistake:** "We have many safety procedure"
+> - ✅ **Correction:** "We have many safety procedures"
+> - **Why:** When referring to multiple sets of steps, use the plural form
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Please familiarize yourself with the laboratory safety procedure before beginning any experiments."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **safety procedure** (*/ˈseɪfti prəˈsiːdʒər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A set of established steps designed to ensure safety and prevent accidents or harm
+> 🇻🇳 **Vietnamese:** Quy trình an toàn, quy định để đảm bảo an toàn
+> 🗣️ **IPA:** */ˈseɪfti prəˈsiːdʒər/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một cuốn sổ hướng dẫn từng bước để giữ bạn an toàn - đó chính là "safety procedure"
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A set of established steps designed to ensure safety and prevent accidents"
+**Vietnamese:** Quy trình an toàn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**safety procedure** (*/ˈseɪfti prəˈsiːdʒər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **safety procedure** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The construction site implemented a comprehensive safety procedure to minimize workplace accidents and ensure worker protection.
+> 🇻🇳 **Translation:** Công trường xây dựng đã áp dụng quy trình an toàn toàn diện để giảm thiểu tai nạn lao động và đảm bảo bảo vệ người lao động.
+> 🔍 **Analysis:** Perfect here showing how formal procedures are essential in high-risk environments to protect people
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **safety procedure**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** follow/implement/establish safety procedure (tuân thủ/thực hiện/thiết lập quy trình an toàn)
+  * **Emergency:** emergency/fire safety procedure (quy trình an toàn khẩn cấp/chữa cháy)
+  * **Requirement:** mandatory/required safety procedure (quy trình an toàn bắt buộc)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **safety procedure**:
+"We have rules for emergencies."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The laboratory has established a detailed safety procedure for chemical spills and other emergencies."
+> 💡 **Why it works:** "Safety procedure" thể hiện tính trang trọng, có hệ thống và được quy định hóa, thay vì chỉ nói "rules" thông thường
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **safety procedure** instead of **[[safety rules]]**?
+>
+> **safety procedure:** Trang trọng, có trình tự, từng bước chi tiết, thường được ghi chép thành văn bản
+> **[[safety rules]]}} có thể đơn giản hơn, là những quy định chung, không nhất thiết có trình tự
+> 🧱 **The Barrier:** "Safety procedure" luôn có trình tự thực hiện cụ thể trong khi "safety rules" có thể chỉ là những điều cấm hoặc yêu cầu chung chung
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a new employee at a chemical plant. Your supervisor is explaining the importance of workplace safety. Respond appropriately!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I understand. I'll make sure to study the safety procedure manual thoroughly before starting any work."
+> 👨‍🎨 **Director's Note:** Chuyên nghiệp và có trách nhiệm, thể hiện sự nghiêm túc đối với quy định an toàn
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `salus` and `procedere` to the meaning of **safety procedure**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "salus" (sức khỏe, an toàn) và "procedere" (tiến về phía trước) - "safety procedure" giúp chúng ta "tiến về phía trước" một cách duy trì "sức khỏe và an toàn"
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **safety procedure**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `salus` (<sức khỏe, an toàn>) + `procedere` (<tiến về phía trước>)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[safety]] (sự an toàn)
+> - *(adj)* [[safe]] (an toàn)
+> - *(noun)* [[procedure]] (quy trình)
+> - *(verb)* [[proceed]] (tiến hành, tiếp tục)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈseɪfti prəˈsiːdʒər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**safety procedure**
+> 📖 **Meaning:** A set of established steps designed to ensure safety and prevent accidents or harm
+> 🇻🇳 **Vietnamese:** Quy trình an toàn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **safety procedure**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The safety procedure says that we must wears protective equipment" (Sai chia động từ)
+> ✅ **Correction:** "The safety procedure states that we must wear protective equipment"
+> 🧱 **Why:** Quy trình thường được viết dưới dạng mệnh lệnh hoặc yêu cầu, dùng động từ nguyên mẫu "must wear" thay vì chia động từ theo chủ ngữ
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **safety procedure**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[risk taking]] (Mạo hiểm, chấp nhận rủi ro)
+> - [[negligence]] (Sự cẩu thả, bất cẩn)
+> - [[hazard]] (Mối nguy hiểm)
+> 🧱 **Contrast:** "Safety procedure" là hệ thống các bước để ngăn ngừa nguy hiểm trong khi các antonym đều liên quan đến việc chấp nhận hoặc tạo ra nguy hiểm

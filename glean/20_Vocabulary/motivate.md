@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [inspire, encourage, drive, stimulate, prompt, spur, energize, activate, incentive, propulsion]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈməʊtɪveɪt/
+> **Part of Speech:** verb
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** From Latin "motivus" meaning "moving" (from "movere" - to move). Added to English in the 19th century to describe the psychological drive to action.
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To cause someone to want to do something.
+>
+> **Context Meaning:** To provide someone with a reason or incentive to do something; to stimulate interest in or enthusiasm for doing something.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tạo động lực
+> - **Contextual:** khuyến khích, truyền cảm hứng, thúc đẩy
+>
 > **Nuances:**
-> - ...
+> - Implies creating an internal drive rather than forcing action
+> - Often involves connecting actions to goals, rewards, or values
+> - Can be used for self-motivation or motivating others
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Inspiring, Energizing, Purpose-driven
+> **Memory Hook:** Think of "motive" + "ate" - when you give someone a motive (reason), they "eat it up" and take action!
+> **📖 Etymology Story:** Ancient Romans knew that to get soldiers to move (movere), they needed a good reason (motivus). Today, we still need that internal "mover" - a reason that pushes us toward action.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[motivation]] /ˌməʊtɪˈveɪʃən/
+> - **Noun:** [[motive]] /ˈməʊtɪv/
+> - **Adj:** [[motivated]] /ˈməʊtɪveɪtɪd/
+> - **Adj:** [[motivating]] /ˈməʊtɪveɪtɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[inspire]] /ɪnˈspaɪə(r)/ : Focuses on creative or emotional stimulation
+> - [[encourage]] /ɪnˈkʌrɪdʒ/ : More about giving confidence or support
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[discourage]] /dɪsˈkʌrɪdʒ/ : To reduce confidence or enthusiasm
+> - [[demotivate]] /diːˈməʊtɪveɪt/ : To remove motivation
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. motivate someone to do something
+> 2. highly motivated employees
+> 3. motivate oneself
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company uses bonuses to motivate employees to meet their targets.
+> - **Translation:** Công ty sử dụng tiền thưởng để tạo động lực cho nhân viên đạt được mục tiêu của họ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Her speech motivated the team to work harder on the project.
+> - **Translation:** Bài phát biểu của cô ấy đã truyền cảm hứng cho đội ngũ làm việc chăm chỉ hơn cho dự án.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** He motivated me for studying harder.
+> - ✅ **Correction:** He motivated me to study harder.
+> - **Why:** "Motivate" is followed by "to + infinitive" when indicating the action someone is encouraged to do.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Good teachers know how to motivate students to reach their full potential."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **motivate** (*/ˈməʊtɪveɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To provide someone with a reason or incentive to do something; to stimulate interest in or enthusiasm for action.
+> 🇻🇳 **Vietnamese:** Tạo động lực, khuyến khích, thúc đẩy ai đó làm gì
+> 🗣️ **IPA:** */ˈməʊtɪveɪt/*
+> 🧠 **Mental Model:** Giống như bật công tắc bên trong một người - tạo ra energy và reason để họ muốn action, không phải bị ép buộc.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To provide someone with a reason or incentive to do something"
+**Vietnamese:** Tạo động lực cho ai đó làm gì
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**motivate** (*/ˈməʊtɪveɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **motivate** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The coach motivated his players by reminding them of their training and potential.
+> 🇻🇳 **Translation:** Huấn luyện viên đã tạo động lực cho các cầu thủ bằng cách nhắc nhở họ về quá trình tập luyện và tiềm năng của mình.
+> 🔍 **Analysis:** "Motivated" ở đây thể hiện việc tạo internal drive, không phải la mắng. Coach kết nối efforts của họ (training) với goals (potential), tạo ra motivation từ bên trong.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **motivate**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Goal-directed:** motivate someone to achieve (để đạt được - mục tiêu rõ ràng)
+> 2. **Emotional:** deeply motivated by (bởi - động lực mạnh từ cảm xúc)
+> 3. **Self-action:** motivate oneself to (tự tạo động lực để - internal motivation)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **motivate**:
+"The boss made us work harder."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The boss motivated us to exceed our quarterly targets through a comprehensive incentive program."
+> 💡 **Why it works:** "Motivate" thể hiện strategic approach với reasons và incentives, thay vì forced action. Nó cho thấy leadership skill, không chỉ authority.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **motivate** instead of [[force]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **motivate:** Tạo internal drive và voluntary action - người được motivate tự muốn làm (VN)
+> **[[force]]:** Compel hoặc coerce action - người bị force không có lựa chọn (VN)
+> 🧱 **The Barrier:** "Motivate" hoạt động trên psychological level (tạo want to), trong khi "force" hoạt động trên physical/authority level (bắt phải).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your team seems tired and unenthusiastic about an important project. You want to re-energize them. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Let me remind you why this project matters and how it will benefit your careers. I want to motivate you to give it your best!"
+> 👨‍🎨 **Director's Note:** "Motivate" thể hiện leadership approach - tạo meaning và connection, thay vì chỉ command.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `movere` to the meaning of **motivate**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "movere" = "to move". Khi bạn "motivate" ai đó, bạn đang "move" họ emotionally và mentally toward action. Giống như giving them internal engine để họ tự move về phía goal.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **motivate**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `movere` (to move)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* motivation (động lực, sự thúc đẩy)
+> - *(noun)* motive (động cơ, lý do)
+> - *(adj)* motivated (có động lực, được truyền cảm hứng)
+> - *(adj)* motivating (truyền cảm hứng, tạo động lực)
+> - *(verb)* move (di chuyển, động chạm cảm xúc)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈməʊtɪveɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**motivate**
+> 📖 **Meaning:** To provide someone with a reason to do something
+> 🇻🇳 **Vietnamese:** Tạo động lực, thúc đẩy
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **motivate**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The salary raise motivated for working harder.
+> ✅ **Correction:** The salary raise motivated them to work harder.
+> 🧠 **Why:** "Motivate" cần object (who is motivated) và "to + infinitive" (action to take). Không dùng "motivate for + V-ing".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **motivate**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[discourage]] (Làm nản lòng - giảm confidence)
+> - [[demotivate]] (Làm mất động lực - actively remove motivation)
+> 🧱 **Contrast:** "Motivate" là adding fuel to fire (tăng energy), trong khi antonyms là dumping water on it (giảm hoặc tắt hẳn drive).

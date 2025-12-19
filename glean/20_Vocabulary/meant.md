@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [intended, designed, supposed, meant to be, aimed, planned, deliberate, purposeful, signified]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ment/
+> **Part of Speech:** verb (past tense of mean)
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** From Old English "mænan" (to mean, intend), from Proto-Germanic "mainijan". The past tense form developed in Middle English.
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Intended to convey or express.
+>
+> **Context Meaning:** 1) Intended to be something or have a particular quality. 2) Signified or represented something. 3) Was intended to happen or be done.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** có nghĩa là, dự định, meant
+> - **Contextual:** được định để, ý nghĩa là, được thiết kế để
+>
 > **Nuances:**
-> - ...
+> - Often implies original intention or purpose that may or may not have been realized
+> - Can express both intended meaning and intended function/destination
+> - Used frequently to clarify misunderstandings or explain original plans
+> - Can indicate destiny or fate ("meant to be")
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Intentional, Purposeful, Sometimes Misunderstood
+> **Memory Hook:** Think of "meant" as the original blueprint or plan - what was supposed to happen before reality got in the way!
+> **📖 Etymology Story:** Ancient speakers used "mænan" to share what they meant. When something is "meant" to be, it carries the weight of original intention, like a message waiting to be properly understood.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[mean]] /miːn/
+> - **Noun:** [[meaning]] /ˈmiːnɪŋ/
+> - **Noun:** [[means]] /miːnz/
+> - **Adj:** [[meaningful]] /ˈmiːnɪŋfəl/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[intended]] /ɪnˈtendɪd/ : More formal, emphasizes planning
+> - [[supposed]] /səˈpəʊzd/ : Implies expectation or requirement
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[accidental]] /ˌæksɪˈdentl/ : Not intended, unplanned
+> - [[unintended]] /ˌʌnɪnˈtendɪd/ : Not meant to happen
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. meant to be
+> 2. what is meant by
+> 3. meant for someone
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The book was meant for children, but adults enjoy it too.
+> - **Translation:** Cuốn sách này được viết cho trẻ em, nhưng người lớn cũng thích đọc.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** I never meant to hurt your feelings.
+> - **Translation:** Tôi chưa bao giờ có ý làm tổn thương cảm xúc của bạn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Tense Confusion**
+> - ❌ **Mistake:** I mean to call you yesterday.
+> - ✅ **Correction:** I meant to call you yesterday.
+> - **Why:** When referring to past intentions, use "meant" (past tense), not "mean" (present tense).
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The changes were meant to improve efficiency, not to reduce staff."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **meant** (*/ment/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Intended to be something; signified or represented something; was intended to happen or be done.
+> 🇻🇳 **Vietnamese:** Được định/được dự định; có nghĩa là; được thiết kế để
+> 🗣️ **IPA:** */ment/*
+> 🧠 **Mental Model:** Giống như original plan hoặc blueprint - cái mà được intend ban đầu, trước khi reality changes it.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Intended to be or happen"
+**Vietnamese:** Được dự định/định để
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**meant** (*/ment/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **meant** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The warning signs were meant to alert drivers about the sharp turn ahead.
+> 🇻🇳 **Translation:** Các biển báo cáo được đặt để cảnh báo tài xế về khúc cua gấp phía trước.
+> 🔍 **Analysis:** "Meant" thể hiện original purpose/intention của warning signs - function mà chúng được design để thực hiện, có thể khác với actual effect.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **meant**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Destiny:** meant to be (định mệnh - inevitable outcome)
+> 2. **Purpose:** meant for/for someone (dành cho - intended recipient)
+> 3. **Clarification:** what is meant by (ý nghĩa là gì - explanation needed)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **meant**:
+"They planned the meeting for Friday."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The meeting was meant to conclude the negotiations, but unexpected developments changed everything."
+> 💡 **Why it works:** "Meant" thể hiện original intention với subtle implication rằng things didn't go as planned, tạo narrative tension.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **meant** instead of [[planned]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **meant:** Original intention/purpose - có thể không được thực hiện, carries weight of destiny (VN)
+> **[[planned]]:** More concrete, involves active planning process - thường more systematic (VN)
+> 🧱 **The Barrier:** "Meant" có thể imply fate/intent beyond human control, trong khi "planned" là deliberate human action.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You accidentally broke your friend's favorite mug. You want to explain it wasn't on purpose. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm so sorry! I didn't mean to break it - it was an accident."
+> 👨‍🎨 **Director's Note:** "Didn't mean to" thể hiện lack of intention, perfect cho apology context - show remorse và clarify accidental nature.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `mænan` to the meaning of **meant**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "mænan" was about sharing meaning through words. Khi something "meant" something, nó carries original intended message - như một letter waiting to be read correctly.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **meant**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `mænan` (to mean, intend)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* mean (có nghĩa là, dự định)
+> - *(noun)* meaning (ý nghĩa)
+> - *(noun)* means (phương tiện, tài nguyên)
+> - *(adj)* meaningful (có ý nghĩa)
+> - *(adj)* meaningless (vô nghĩa)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ment/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**meant**
+> 📖 **Meaning:** Intended to be or happen
+> 🇻🇳 **Vietnamese:** Được dự định
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **meant**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** This gift is means to make you happy.
+> ✅ **Correction:** This gift is meant to make you happy.
+> 🧠 **Why:** "Meant" là past tense/participle form của "mean". Trong construction "is meant to", luôn dùng "meant" không phải "means".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **meant**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[accidental]] (tình cờ, không cố ý)
+> - [[unintended]] (không dự định, ngoài ý muốn)
+> 🧱 **Contrast:** "Meant" carries weight of intention và purpose, trong khi antonyms emphasize randomness/lack of planning - opposite of deliberate action.

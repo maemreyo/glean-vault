@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
 #flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [drones, UAV, unmanned aerial vehicle, quadcopter, aircraft, pilotless plane, RPV, remotely piloted vehicle]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /drəʊn/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B1
+> **Register:** neutral/technical
+> **Etymology:** From Old English "dran" meaning "male bee," from Proto-Germanic "dranō." The meaning "unmanned aircraft" originated in 1946, named for the low humming sound similar to male bees.
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A male honey bee that doesn't work but mates with the queen
+>
+> **Context Meaning:** 1) An unmanned aircraft or ship guided by remote control 2) A continuous, low humming sound
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** drone (thực vật), ong đực
+> - **Contextual:** máy bay không người lái, thiết bị bay không người lái
+>
 > **Nuances:**
-> - ...
+> - Modern usage overwhelmingly refers to unmanned aerial vehicles (UAVs)
+> - Can also refer to any continuous, monotonous sound or speech
+> - Military vs. civilian applications have different connotations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** High-tech, precise, surveillance-oriented
+> **Memory Hook:** Drones hum like bees but fly like planes - watch from above!
+> **📖 Etymology Story:** The word evolved from nature to technology - just as drone bees serve the queen from above, modern drones serve human operators from the sky, both making that characteristic buzzing sound as they work.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[drone]] /drəʊn/
+> - **Verb:** [[drone]] /drəʊn/ (to make a low continuous sound)
+> - **Adj:** drone-based /drəʊn-beɪst/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[UAV]] /ˌjuː-eɪˈviː/ : Unmanned Aerial Vehicle
+> - [[quadcopter]] /ˈkwɒdkɒptə/ : specific type with four rotors
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[manned aircraft]] /mænd ˈeəkrɑːft/ : aircraft with human pilot
+> - [[ground vehicle]] /ɡraʊnd ˈviːəkl/ : stays on the ground
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. drone strike/attack
+> 2. drone footage/photography
+> 3. delivery drone
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company uses drones to deliver packages to remote areas.
+> - **Translation:** Công ty sử dụng máy bay không người lái để giao hàng đến các vùng sâu vùng xa.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** His teacher's voice began to drone on about the history lesson.
+> - **Translation:** Giọng giáo viên của anh ấy bắt đầu đều đều, nhàm chán kể về bài lịch sử.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability Error**
+> - ❌ **Mistake:** The drone are flying overhead.
+> - ✅ **Correction:** The drones are flying overhead.
+> - **Why:** "Drone" is a countable noun. For plural, add 's'. For singular use, use 'a drone'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The drone of the refrigerator was the only sound in the silent apartment."
+> **Source:** [[Modern Technology Usage]]
 
 ---
 
@@ -161,121 +81,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **drone** (*/drəʊn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** 1) An unmanned aircraft guided by remote control 2) A male bee 3) A continuous low humming sound
+> 🇻🇳 **Vietnamese:** Máy bay không người lái, ong đực, tiếng vo ve đều đều
+> 🗣️ **IPA:** */drəʊn/*
+> 🧠 **Mental Model:** Hình dung một chiếc máy bay nhỏ điều khiển từ xa như DJI, hoặc tiếng vo ve của máy lạnh/quạt - "drones" như ong đực tạo ra tiếng ồn và bay không cần lái
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An unmanned aircraft guided by remote control"
+**Vietnamese:** Máy bay không người lái, thiết bị bay không người lái
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**drone** (*/drəʊn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **drone** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Wildlife photographers use drones to capture stunning aerial footage of migrating animals.
+> 🇻🇳 **Translation:** Các nhiếp ảnh gia thiên nhiên sử dụng máy bay không người lái để quay những cảnh quay trên không ngoạn mục của động vật di trú.
+> 🔍 **Analysis:** "Drone" hoàn hảo ở đây vì nó chỉ rõ công nghệ hiện đại cho phép chụp ảnh từ trên không mà không cần máy bay lớn, cho thấy sự tiến bộ trong lĩnh vực nhiếp ảnh thiên nhiên.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **drone**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Military Usage:** drone strike (cuộc tấn công bằng drone) - ám chỉ hành động quân sự
+> 2. **Commercial Usage:** delivery drone (drone giao hàng) - thương mại điện tử, logistics
+> 3. **Photography:** drone footage (hình ảnh/quay phim từ drone) - media, photography
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **drone**:
+"The helicopter flew over to take pictures of the wedding."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "A drone hovered above the outdoor wedding, capturing breathtaking aerial shots of the ceremony."
+> 💡 **Why it works:** "Drone" hiện đại hơn, ít tốn kém hơn helicopter, và cho thấy sự đổi mới trong công nghệ chụp ảnh đám cưới.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **drone** instead of [[aircraft]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **drone:** Không người lái, nhỏ hơn, điều khiển từ xa, hiện đại
+> **[[aircraft]]:** Có thể có người lái, tổng quát hơn, bao gồm cả máy bay thương mại
+> 🧱 **The Barrier:** "Aircraft" là thuật ngữ chung cho mọi loại máy bay, trong khi "drone" đặc trưng cho công nghệ không người lái hiện đại.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a tech expo and see a drone demonstration. You're impressed and excited. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Wow! This drone can follow you automatically while recording 4K video!"
+> 👨‍🎨 **Director's Note:** "Drone" thể hiện sự ngạc nhiên với công nghệ hiện đại, nhấn mạnh tính năng thông minh tự động của thiết bị.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `dran` to the meaning of **drone**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English "dran" (ong đực) - những con ong đực chỉ biết bay lượn và tạo ra tiếng vo ve. Công nghệ hiện đại đặt tên cho máy bay không người lái là "drone" vì âm thanh tương tự và đặc điểm "làm việc" mà không cần người lái trực tiếp.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **drone**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `dran` (male bee)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[drone]] /drəʊn/ (aircraft or bee)
+> - *(verb)* [[drone]] /drəʊn/ (to make continuous sound)
+> - *(compound)* [[drone strike]] /drəʊn straɪk/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */drəʊn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**drone**
+> 📖 **Meaning:** An unmanned aircraft guided by remote control
+> 🇻🇳 **Vietnamese:** Máy bay không người lái
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **drone**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The army send a drone to scout.
+> ✅ **Correction:** The army sent a drone to scout.
+> 🧠 **Why:** Quá khứ phân từ của "send" là "sent", không phải "send". Cần chia đúng thì quá khứ đơn.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **drone**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[manned aircraft]] (aircraft with human pilot)
+> - [[ground vehicle]] (operates on the ground)
+> 🧱 **Contrast:** While "drone" flies without human aboard, "manned aircraft" requires a pilot on board, and "ground vehicles" never leave the surface.

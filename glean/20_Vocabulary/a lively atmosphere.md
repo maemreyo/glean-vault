@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [lively atmosphere, lively, atmosphere, vibrant, energetic, bustling, dynamic, animated, spirited, liveliness]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈlaɪvli ˈætməsfɪər/
+> **Part of Speech:** phrase (noun phrase)
+> **CEFR Level:** B1
+> **Register:** neutral/colloquial
+> **Etymology:** From Old English "līf" (life) + Greek "atmos" (vapor) + "sphaira" (sphere)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Full of life air sphere
+>
+> **Context Meaning:** A place or situation that is exciting, energetic, and full of activity
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** không khí sống động
+> - **Contextual:** không khí vui vẻ, sôi nổi, náo nhiệt
+>
 > **Nuances:**
-> - ...
+> - Describes the mood or feeling of a place
+> - Implies positive energy and activity
+> - Can refer to social gatherings or environments
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Energetic, Vibrant, Cheerful
+> **Memory Hook:** Think of a place buzzing with life - that's a lively atmosphere
+> **📖 Etymology Story:** From "lively" (full of life) + "atmosphere" (the surrounding feeling or mood) - a lively atmosphere literally has "life" in its air, filled with energy and activity
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[lively]] /ˈlaɪvli/
+> - **Noun:** [[atmosphere]] /ˈætməsfɪər/
+> - **Adv:** [[lively]] (rare)
+> - **Noun:** [[liveliness]] /ˈlaɪvlinəs/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[vibrant]] /ˈvaɪbrənt/ : Full of energy
+> - [[bustling]] /ˈbʌslɪŋ/ : Busy with activity
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[dull]] /dʌl/ : Lacking excitement
+> - [[subdued]] /səbˈdjuːd/ : Quiet and calm
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. create a lively atmosphere
+> 2. lively atmosphere filled with
+> 3. maintain a lively atmosphere
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The street market had a lively atmosphere with vendors shouting and crowds bargaining.
+> - **Translation:** Chợ đường phố có không khí sôi nổi với các người bán hàng rao và đám đông mặc cả.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The restaurant's lively atmosphere made it perfect for celebrations and gatherings.
+> - **Translation:** Không khí sống động của nhà hàng làm nó trở nên hoàn hảo cho các lễ kỷ niệm và hội họp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect Article**
+> - ❌ **Mistake:** "The place has lively atmosphere"
+> - ✅ **Correction:** "The place has a lively atmosphere"
+> - **Why:** "Atmosphere" is a countable noun in this context and needs an article
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The festival created a lively atmosphere that attracted visitors from all over the region."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a lively atmosphere** (*/ə ˈlaɪvli ˈætməsfɪər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A place or situation that is exciting, energetic, and full of activity
+> 🇻🇳 **Vietnamese:** Không khí sống động, sôi nổi, náo nhiệt
+> 🗣️ **IPA:** */ə ˈlaɪvli ˈætməsfɪər/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một nơi đầy tiếng cười, tiếng nói chuyện, năng lượng - đó chính là "lively atmosphere"
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An exciting and energetic environment full of activity"
+**Vietnamese:** Không khí sống động, sôi nổi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a lively atmosphere** (*/ə ˈlaɪvli ˈætməsfɪər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a lively atmosphere** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The coffee shop's lively atmosphere, filled with the aroma of fresh brew and friendly conversation, made it the perfect spot for meeting friends.
+> 🇻🇳 **Translation:** Không khí sống động của quán cà phê, ngập tràn hương cà phê tươi và cuộc trò chuyện thân thiện, đã làm nó trở thành điểm tuyệt vời để gặp gỡ bạn bè.
+> 🔍 **Analysis:** Perfect here showing how the atmosphere contributes to the overall experience and social interaction
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a lively atmosphere**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Creation:** create/generate/foster a lively atmosphere (tạo ra/khuyến khích không khí sống động)
+> 2. **Quality:** vibrant/energetic/bustling lively atmosphere (không khí sống động náo nhiệt/đầy năng lượng)
+> 3. **Maintenance:** maintain/preserve a lively atmosphere (duy trì/giữ gìn không khí sống động)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a lively atmosphere**:
+"The party was fun."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The party had a lively atmosphere with music, dancing, and laughter echoing throughout the venue."
+> 💡 **Why it works:** "Lively atmosphere" tạo hình ảnh cụ thể về sự năng động và vui vẻ thay vì chỉ nói "fun" chung chung
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **a lively atmosphere** instead of **[[a fun time]]**?
+>
+> **a lively atmosphere:** Mô tả không khí, môi trường, năng lượng của nơi chốn
+> **[[a fun time]]** chỉ trải nghiệm cá nhân, cảm xúc chủ quan
+> 🧱 **The Barrier:** "Lively atmosphere" là đặc điểm của môi trường trong khi "fun time" là cảm nhận cá nhân
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing your favorite café to a friend. You want to explain why you love working there. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I love working there - it has such a lively atmosphere that keeps me energized and creative all day!"
+> 👨‍🎨 **Director's Note:** Nhiệt tình và truyền cảm, thể hiện cách môi trường ảnh hưởng đến năng suất công việc
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `life` and `atmosphere` to the meaning of **a lively atmosphere**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "life" (sự sống) và "atmosphere" (không khí) - khi một nơi có "lively atmosphere", không khí đó thực sự "sống", đầy năng lượng và hoạt động như thể nó có sự sống của riêng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a lively atmosphere**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `līf` (<sự sống>) + Greek `atmos` (<khí>) + `sphaira` (<quả cầu>)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[lively]] (sống động, năng động)
+> - *(noun)* [[atmosphere]] (không khí, không gian)
+> - *(noun)* [[liveliness]] (sự sống động, sự năng động)
+> - *(adj)* [[atmospheric]] (thuộc về không khí)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈlaɪvli ˈætməsfɪər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a lively atmosphere**
+> 📖 **Meaning:** A place or situation that is exciting, energetic, and full of activity
+> 🇻🇳 **Vietnamese:** Không khí sống động
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a lively atmosphere**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The meeting had lively atmosphere" (Thiếu mạo từ)
+> ✅ **Correction:** "The meeting had a lively atmosphere"
+> 🧠 **Why:** "Atmosphere" trong ngữ cảnh này là danh từ đếm được, cần có mạo từ "a" trước nó. Đây là lỗi phổ biến của người học tiếng Việt
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a lively atmosphere**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[a dull atmosphere]] (Không khí tẻ nhạt, buồn chán)
+> - [[a subdued atmosphere]] (Không khí trầm lắng, ấm cúng)
+> - [[a tense atmosphere]] (Không khí căng thẳng)
+> 🧱 **Contrast:** "Lively atmosphere" thể hiện năng lượng tích cực trong khi các antonym đều mang năng lượng tiêu cực, ảm đạm hoặc căng thẳng

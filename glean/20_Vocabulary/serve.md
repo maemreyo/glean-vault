@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [serve, serves, served, serving, service, server, servant, assist, help, work for, function]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /sɜːv/
+> **Part of Speech:** verb
+> **CEFR Level:** A1
+> **Register:** neutral
+> **Etymology:** From Old French 'servir' (to serve), from Latin 'servire' (to be a slave to)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To perform duties or services for another person
+>
+> **Context Meaning:** To work for, provide for, or assist; to function as; to present food or drink
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** phục vụ, phục tùng
+> - **Contextual:** làm việc cho, giúp đỡ, đưa đồ ăn/thức uống
+>
 > **Nuances:**
-> - ...
+> - Multiple meanings: help people, work for, function as, or present food
+> - Can be literal (serving food) or figurative (serving a purpose)
+> - Used in military, sports, religious, and service contexts
+> - The "server" (waiter) vs "server" (computer) confusion
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Helpful
+> **Memory Hook:** Imagine a waiter SERVING food = "serve" in its most basic meaning
+> **📖 Etymology Story:** From Latin 'servire' meaning 'to serve, be a slave'. Originally meant to be in servitude, then evolved to include helping, working for, and performing duties for others. The word's journey from slavery to service reflects changing social attitudes.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[service]] /ˈsɜːvɪs/, [[server]] /ˈsɜːvə(r)/, [[servant]] /ˈsɜːvənt/
+> - **Verb:** [[serve]] /sɜːv/, [[serve as]] /sɜːv æz/, [[serve in]] /sɜːv ɪn/
+> - **Adj:** [[serving]] /ˈsɜːvɪŋ/, [[serviceable]] /ˈsɜːvɪsəbl/
+> - **Adv:** [[serviceably]] /ˈsɜːvɪsəbli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[assist]] /əˈsɪst/ : help or support
+> - [[function as]] /ˈfʌŋkʃn æz/ : act in a particular capacity
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[refuse]] /rɪˈfjuːz/ : decline to serve
+> - [[neglect]] /nɪˈɡlekt/ : fail to care for
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. serve food/drinks
+> 2. serve time (in prison)
+> 3. serve a purpose
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The waiter will serve your table in a moment.
+> - **Translation:** Nhân viên phục vụ sẽ đến bàn của bạn trong một lát.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** This old building serves as a community center for the neighborhood.
+> - **Translation:** Tòa nhà cũ này đóng vai trò làm trung tâm cộng đồng cho khu phố.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** "serve to someone"
+> - ✅ **Correction:** "serve someone" OR "serve food to someone"
+> - **Why:** Don't need 'to' when serving a person directly
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The best way to find yourself is to lose yourself in the service of others."
+> **Source:** [[Mahatma Gandhi]]
 
 ---
 
@@ -161,121 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **serve** (*/sɜːv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To perform duties or services for another person; to work for, provide for, or assist; to function as; to present food or drink
+> 🇻🇳 **Vietnamese:** phục vụ, phục tùng; làm việc cho, giúp đỡ, đưa đồ ăn/thức uống
+> 🗣️ **IPA:** */sɜːv/*
+> 🧠 **Mental Model:** Một người đang cất rắc thức ăn cho khách hoặc một người giúp đỡ người khác hoàn thành công việc
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To perform duties or services for another person; to work for, provide for, or assist; to function as; to present food or drink"
+**Vietnamese:** phục vụ, phục tùng; làm việc cho, giúp đỡ, đưa đồ ăn/thức uống
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**serve** (*/sɜːv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **serve** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The organization serves thousands of homeless people every year by providing shelter and meals.
+> 🇻🇳 **Translation:** Tổ chức này phục vụ hàng nghìn người vô gia cư mỗi năm bằng cách cung cấp nơi trú ẩn và bữa ăn.
+> 🔍 **Analysis:** 'serve' ở đây perfect vì nó diễn tả việc cung cấp dịch vụ và hỗ trợ cho cộng đồng, không chỉ là 'help' mà còn có yếu tố trách nhiệm và tận tâm
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **serve**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Hospitality:** serve food/drinks (phục vụ đồ ăn/thức uống) (nhà hàng)
+> 2. **Punishment:** serve time (thụ án) (hình sự)
+> 3. **Purpose:** serve a purpose (có mục đích) (chức năng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **serve**:
+"The machine helps people."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The automated system serves customers 24 hours a day without human intervention."
+> 💡 **Why it works:** 'serves' upgrade từ 'helps' bằng cách nhấn mạnh việc cung cấp dịch vụ một cách chủ động và liên tục
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **serve** instead of [[help]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **serve:** Dùng khi muốn nhấn mạnh việc cung cấp dịch vụ, làm việc cho ai đó hoặc thực hiện chức năng cụ thể
+> **help:** Dùng khi muốn chỉ sự giúp đỡ chung, không nhất thiết là dịch vụ chuyên nghiệp
+> 🧱 **The Barrier:** Service vs assistance - serve implies professional duty or function while help is general assistance
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a restaurant and the waiter arrives to take your order. You feel ready to eat. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Good evening! We're ready to order now when you're ready to serve us."
+> 👨‍🎨 **Director's Note:** 'serve' fits perfectly vì nó diễn tả việc phục vụ trong bối cảnh nhà hàng một cách chuyên nghiệp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `servire` to the meaning of **serve**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'servire' có nghĩa là 'phục vụ, làm nô lệ'. Ban đầu có nghĩa là ở trong tình trạng nô lệ, sau đó phát triển để bao gồm việc giúp đỡ, làm việc cho và thực hiện nhiệm vụ cho người khác. Hành trình của từ này từ nô lệ đến phục vụ phản ánh sự thay đổi trong thái độ xã hội.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **serve**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `servire` (phục vụ, làm nô lệ)
+> 👨‍👩‍👧 **Family:**
+> - *(n)* service (dịch vụ)
+> - *(n)* server (người phục vụ/máy chủ)
+> - *(adj)* serviceable (có thể dùng được)
+> - *(n)* servant (người hầu, người phục vụ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */sɜːv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**serve**
+> 📖 **Meaning:** To perform duties or services for another person; to work for, provide for, or assist; to function as; to present food or drink
+> 🇻🇳 **Vietnamese:** phục vụ, phục tùng; làm việc cho, giúp đỡ, đưa đồ ăn/thức uống
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **serve**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The waiter serves to the customers."
+> ✅ **Correction:** "The waiter serves the customers." OR "The waiter serves food to the customers."
+> 🧠 **Why:** Khi phục vụ trực tiếp một người, không cần giới từ 'to'. Khi phục vụ một thứ gì đó cho ai đó, mới dùng 'serve something to someone'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **serve**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[neglect]] (bỏ bê, không quan tâm)
+> - [[refuse service]] (từ chối phục vụ)
+> 🧱 **Contrast:** Serve involves actively helping or providing for others, while neglect means failing to care for, and refuse service indicates actively declining to help

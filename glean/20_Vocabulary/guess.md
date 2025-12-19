@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [guess, guessed, guessing, guesses, guesswork, wild guess, educated guess, estimate, predict, speculate]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɡes/
+> **Part of Speech:** verb/noun
+> **CEFR Level:** A1
+> **Register:** neutral
+> **Etymology:** From Middle English "gessen", possibly from Old Norse "geta" (to get, obtain)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To get or obtain
+>
+> **Context Meaning:** To estimate or suppose something without sufficient information to be certain
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đoán, phỏng đoán
+> - **Contextual:** ước lượng, suy đoán, conjecture
+>
 > **Nuances:**
-> - ...
+> - Implies uncertainty and lack of complete information
+> - Can be based on some evidence or completely random
+> - Used in both casual and formal contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Curious, Tentative, Inquisitive
+> **Memory Hook:** Think of trying to "get" an answer without all the clues - that's guessing
+> **📖 Etymology Story:** From Old Norse "geta" meaning "to get" - when you guess, you're trying to "get" at the truth without having all the information, reaching for understanding in the dark
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[guess]] /ɡes/
+> - **Verb:** [[guess]] /ɡes/
+> - **Adj:** [[guessable]] /ˈɡesəbl/
+> - **Noun:** [[guesswork]] /ˈɡeswɜːk/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[estimate]] /ˈestɪmeɪt/ : Calculate approximately
+> - [[speculate]] /ˈspekjʊleɪt/ : Theorize without facts
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[know]] /nəʊ/ : Have certain information
+> - [[prove]] /pruːv/ : Demonstrate truth
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. wild guess
+> 2. educated guess
+> 3. take a guess
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** I'll take a guess and say there are about fifty people in the room.
+> - **Translation:** Tôi sẽ đoán có khoảng năm mươi người trong phòng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Without a map, we could only guess which direction to go.
+> - **Translation:** Không có bản đồ, chúng tôi chỉ có thể phỏng đoán hướng đi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse in Academic Contexts**
+> - ❌ **Mistake:** "I guess the answer is 42" in formal writing
+> - ✅ **Correction:** Use evidence-based language or qualifying terms
+> - **Why:** "Guess" implies lack of certainty inappropriate for academic precision
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "You'll never guess what happened next - it was completely unexpected!"
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **guess** (*/ɡes/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To estimate or suppose something without sufficient information to be certain
+> 🇻🇳 **Vietnamese:** Đoán, phỏng đoán, ước lượng mà không đủ thông tin
+> 🗣️ **IPA:** */ɡes/*
+> 🧠 **Mental Model:** Hãy tưởng tượng đang cố gắng tìm ra câu trả lời trong bóng tối - bạn "guess" khi không có đủ dữ liệu nhưng vẫn cố gắng tìm ra câu trả lời
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To estimate or suppose something without sufficient information to be certain"
+**Vietnamese:** Đoán, phỏng đoán
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**guess** (*/ɡes/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **guess** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The detective had to guess the suspect's motives based on limited evidence at the crime scene.
+> 🇻🇳 **Translation:** Thám tử phải đoán động cơ của nghi phạm dựa trên bằng chứng hạn chế hiện trường.
+> 🔍 **Analysis:** Perfect here showing how guessing can be professional when based on some evidence but not complete certainty
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **guess**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Random Estimation:** wild guess (đoán bừa, đoán mò)
+> 2. **Informed Estimation:** educated guess (đoán có cơ sở, dự đoán có thông tin)
+> 3. **Action:** take/have a guess (đưa ra phỏng đoán)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **guess**:
+"I think he's about 30 years old."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I'd guess he's in his early thirties, based on his speech patterns and career experience."
+> 💡 **Why it works:** "Guess" thêm vào yếu tố sự không chắc chắn và dựa trên quan sát thay vì chỉ nói "think" một cách chung chung
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **guess** instead of **[[estimate]]**?
+>
+> **guess:** Thường dựa trên trực giác, ít thông tin, có thể ngẫu nhiên
+> **[[estimate]]** dựa trên tính toán, dữ liệu, phương pháp khoa học hơn
+> 🧱 **The Barrier:** "Guess" là cảm tính và không có phương pháp trong khi "estimate" là tính toán và có cơ sở dữ liệu
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're playing a guessing game with friends. They ask you to guess how many coins are in a jar. Respond playfully!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Hmm, taking a wild guess here... I'd say about 247 coins?"
+> 👨‍🎨 **Director's Note:** Vui vẻ, tham gia trò chơi với thái độ thoải mái, thể hiện sự không chắc chắn một cách hài hước
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `geta` to the meaning of **guess**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ tiếng Bắc Âu cổ "geta" có nghĩa là "đạt được, có được" - khi bạn "guess", bạn đang cố gắng "đạt được" câu trả lời dù không có đầy đủ thông tin, giống như vươn tay trong bóng tối để nắm bắt thứ gì đó
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **guess**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old Norse `geta` (<đạt được, có được>)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[guess]] (đoán, phỏng đoán)
+> - *(noun)* [[guess]] (sự phỏng đoán)
+> - *(noun)* [[guesswork]] (công việc phỏng đoán)
+> - *(adj)* [[guessable]] (có thể đoán được)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɡes/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**guess**
+> 📖 **Meaning:** To estimate or suppose something without sufficient information to be certain
+> 🇻🇳 **Vietnamese:** Đoán, phỏng đoán
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **guess**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "My guess is he will comes tomorrow" (Sai chia động từ)
+> ✅ **Correction:** "My guess is he will come tomorrow"
+> 🧠 **Why:** Sau "will" luôn dùng động từ nguyên mẫu, không phân biệt chủ ngữ là gì. Đây là lỗi phổ biến khi kết hợp "guess" với cấu trúc tương lai
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **guess**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[know]] (Biết chắc chắn)
+> - [[prove]] (Chứng minh)
+> - [[certain]] (Chắc chắn)
+> 🧱 **Contrast:** "Guess" thể hiện sự không chắc chắn và thiếu thông tin trong khi các antonym đều thể hiện sự chắc chắn và có bằng chứng

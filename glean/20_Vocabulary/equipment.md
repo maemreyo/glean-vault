@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [equip, equipped, equipment, gear, apparatus, tools, supplies, facilities, outfit, kit, paraphernalia]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪˈkwɪpmənt/
+> **Part of Speech:** noun (uncountable)
+> **CEFR Level:** A2
+> **Register:** neutral/technical
+> **Etymology:** From Old French 'equiper' (to equip) + '-ment' (suffix)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The things needed for a particular purpose or activity
+>
+> **Context Meaning:** Tools, supplies, or other items needed for a particular activity or job
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** trang thiết bị, dụng cụ
+> - **Contextual:** thiết bị, đồ nghề
+>
 > **Nuances:**
-> - ...
+> - Uncountable noun - never used with 'a/an' or plural 's'
+> - Can range from simple tools to complex machinery
+> - Often used in professional, sports, or military contexts
+> - Focuses on functionality rather than ownership
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Practical
+> **Memory Hook:** "Equip" (to prepare) + "ment" (suffix for tools/items) = tools that prepare you for action
+> **📖 Etymology Story:** From Old French 'équiper' meaning 'to furnish with equipment' and Latin suffix '-mentum'. Originally referred to ships being furnished for sailing, then expanded to any tools needed for specific activities.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[equipment]] /ɪˈkwɪpmənt/
+> - **Verb:** [[equip]] /ɪˈkwɪp/, [[equip with]] /ɪˈkwɪp wɪð/
+> - **Adj:** [[equipped]] /ɪˈkwɪpt/, [[well-equipped]] /ˌwel ɪˈkwɪpt/
+> - **Adv:** (no common form)
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[gear]] /ɡɪə(r)/ : equipment for particular activity
+> - [[apparatus]] /ˌæpəˈreɪtəs/ : technical equipment
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[improvisation]] /ɪmˌprɒvaɪˈzeɪʃn/ : making do without proper equipment
+> - [[unpreparedness]] /ʌnprɪˈpeərədnəs/ : lack of necessary tools
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. sports equipment
+> 2. office equipment
+> 3. medical equipment
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The gym needs to update its equipment with modern machines.
+> - **Translation:** Phòng gym cần cập nhật trang thiết bị với các máy móc hiện đại.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Make sure you have all the necessary equipment before starting the experiment.
+> - **Translation:** Hãy chắc chắn bạn có tất cả thiết bị cần thiết trước khi bắt đầu thí nghiệm.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable/uncountable confusion**
+> - ❌ **Mistake:** "an equipment" / "equipments"
+> - ✅ **Correction:** "a piece of equipment" / "equipment" (never plural)
+> - **Why:** 'Equipment' is always uncountable
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The right equipment makes any job easier."
+> **Source:** [[Anonymous]]
 
 ---
 
@@ -161,121 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **equipment** (*/ɪˈkwɪpmənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The things needed for a particular purpose or activity; tools, supplies, or other items needed for a particular activity or job
+> 🇻🇳 **Vietnamese:** trang thiết bị, dụng cụ; thiết bị, đồ nghề
+> 🗣️ **IPA:** */ɪˈkwɪpmənt/*
+> 🧠 **Mental Model:** Bộ đồ nghề hoặc công cụ cần thiết để thực hiện một công việc, giống như túi dụng cụ của người thợ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The things needed for a particular purpose or activity; tools, supplies, or other items needed for a particular activity or job"
+**Vietnamese:** trang thiết bị, dụng cụ; thiết bị, đồ nghề
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**equipment** (*/ɪˈkwɪpmənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **equipment** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The mountain rescue team relies on specialized equipment to save lives in extreme conditions.
+> 🇻🇳 **Translation:** Đội cứu hộ núi phụ thuộc vào trang thiết bị chuyên dụng để cứu sống người trong điều kiện khắc nghiệt.
+> 🔍 **Analysis:** 'equipment' ở đây perfect vì nó diễn tả bộ công cụ và thiết bị chuyên dụng cần thiết cho hoạt động cứu hộ, không chỉ là 'tools' thông thường
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **equipment**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Context:** sports equipment (trang thiết bị thể thao) (hoạt động thể chất)
+> 2. **Workplace:** office equipment (trang thiết bị văn phòng) (môi trường công sở)
+> 3. **Medical:** medical equipment (trang thiết bị y tế) (chăm sóc sức khỏe)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **equipment**:
+"They have many tools for camping."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The experienced campers brought essential equipment including a waterproof tent, sleeping bags, and portable cooking stove."
+> 💡 **Why it works:** 'equipment' upgrade từ 'tools' bằng cách nhấn mạnh bộ trang thiết bị hoàn chỉnh và chuyên dụng cho hoạt động cắm trại
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **equipment** instead of [[tools]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **equipment:** Dùng khi muốn chỉ bộ trang thiết bị hoàn chỉnh cho một hoạt động, bao gồm cả công cụ và phụ kiện
+> **tools:** Dùng khi muốn chỉ các dụng cụ cầm tay cụ thể, thường là công cụ thủ công
+> 🧱 **The Barrier:** Scope and organization - equipment refers to a complete set while tools are individual items
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're setting up a new office and need everything for your team to work efficiently. You feel organized and prepared. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We've invested in high-quality office equipment to boost productivity and comfort."
+> 👨‍🎨 **Director's Note:** 'equipment' fits perfectly vì nó diễn tả bộ trang thiết bị hoàn chỉnh cho văn phòng, không chỉ là các món đồ lẻ tẻ
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `equip` to the meaning of **equipment**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ tiếng Pháp cổ 'équiper' có nghĩa là 'trang bị' và hậu tố Latin '-mentum'. Ban đầu chỉ việc trang bị cho tàu thủy để ra khơi, sau đó mở rộng để chỉ mọi công cụ cần thiết cho các hoạt động cụ thể.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **equipment**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old French `équiper` (trang bị, trang thiết)
+> 👨‍👩‍👧 **Family:**
+> - *(v)* equip (trang bị, trang thiết)
+> - *(adj)* equipped (được trang bị)
+> - *(adj)* well-equipped (trang bị đầy đủ)
+> - *(n)* equipment (trang thiết bị)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪˈkwɪpmənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**equipment**
+> 📖 **Meaning:** The things needed for a particular purpose or activity; tools, supplies, or other items needed for a particular activity or job
+> 🇻🇳 **Vietnamese:** trang thiết bị, dụng cụ; thiết bị, đồ nghề
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **equipment**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The company bought new equipments for the lab."
+> ✅ **Correction:** "The company bought new equipment for the lab."
+> 🧠 **Why:** 'Equipment' là danh từ không đếm được, không bao giờ thêm 's' ở cuối. Nếu muốn chỉ một món, dùng 'a piece of equipment'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **equipment**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[improvisation]] (sự ứng biến, tự chế)
+> - [[bare hands]] (đôi tay trần, không có dụng cụ)
+> 🧱 **Contrast:** Equipment refers to having proper tools and resources, while improvisation means working without them, and bare hands indicate having no equipment at all

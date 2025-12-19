@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 #flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [palms, date palm, coconut palm, palm frond, tropical tree, Arecaceae, palm leaves, palmate]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pɑːm triː/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** "Palm" from Latin "palma" (palm of hand), referring to the shape of the leaves. "Tree" from Old English "trēow". Combined to describe these distinctive tropical plants.
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A tree with large leaves shaped like a hand.
+>
+> **Context Meaning:** A tropical or subtropical tree with an unbranched trunk crowned with large evergreen leaves (fronds); many species produce dates, coconuts, or oil.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cây cọ, cây cau
+> - **Contextual:** cây dừa, cây cọ dầu, cây chà là
+>
 > **Nuances:**
-> - ...
+> - Symbol of tropical climates and vacation destinations
+> - Many species have economic importance (dates, coconuts, palm oil)
+> - Distinctive from other trees by their unbranched trunk
+> - Leaves are actually called "fronds" not leaves
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Tropical, Majestic, Exotic
+> **Memory Hook:** Think of holding your palm up - that's exactly the shape of a palm tree's leaves spreading out like fingers!
+> **📖 Etymology Story:** Romans saw the spreading leaves and thought of an open hand - "palma". These trees became symbols of victory (palm branches) and tropical paradise, connecting nature to human anatomy in linguistic memory.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - **Noun:** [[palm]] /pɑːm/
+> - **Noun:** [[tree]] /triː/
+> - **Adj:** [[palmate]] /ˈpælmeɪt/
+> - **Noun:** [[frond]] /frɒnd/
+>
+> **Types of Palm Trees:**
+> - [[coconut palm]] /ˈkəʊkənʌt pɑːm/
+> - [[date palm]] /deɪt pɑːm/
+> - [[oil palm]] /ɔɪl pɑːm/
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[deciduous tree]] /dɪˈsɪdjuəs triː/ : Tree that loses leaves seasonally
+> - [[conifer]] /ˈkɒnɪfə(r)/ : Cone-bearing tree
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. palm tree fronds
+> 2. tropical palm trees
+> 3. coconut palm trees
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The beach was lined with swaying palm trees providing shade for visitors.
+> - **Translation:** Bãi biển được bao quanh bởi những cây cọ xào xạc, tạo bóng mát cho du khách.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Palm trees are essential to the tropical ecosystem and local economy.
+> - **Translation:** Cây cọ là yếu tố thiết yếu cho hệ sinh thái nhiệt đới và kinh tế địa phương.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural Formation**
+> - ❌ **Mistake:** I saw three palm treeses.
+> - ✅ **Correction:** I saw three palm trees.
+> - **Why:** "Palm tree" follows regular plural formation - add "s" to "trees", not to "palm".
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The sunset painted the sky orange behind the silhouettes of palm trees."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +83,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **palm tree** (*/pɑːm triː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A tropical tree with an unbranched trunk and large, spreading leaves (fronds); many produce fruits like coconuts or dates.
+> 🇻🇳 **Vietnamese:** Cây cọ, cây cau; cây thân không phân cành với lá to hình quạt
+> 🗣️ **IPA:** */pɑːm triː/*
+> 🧠 **Mental Model:** Giống như một giant hand reaching toward sky - trunk là wrist, fronds là fingers spreading out.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A tropical tree with large spreading leaves shaped like a hand"
+**Vietnamese:** Cây nhiệt đới có lá lớn hình bàn tay
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**palm tree** (*/pɑːm triː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **palm tree** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The resort garden featured several varieties of palm trees, from dwarf pygmy palms to towering royal palms.
+> 🇻🇳 **Translation:** Vườn của khu nghỉ dưỡng có nhiều loại cây cọ, từ cây lùn pygmy đến cây hoàng gia vươn cao.
+> 🔍 **Analysis:** "Palm tree" ở đây không chỉ generic term mà còn context cho discussing varieties, showing knowledge về different types và their characteristics.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **palm tree**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Location:** tropical/palm tree-lined beach (bãi biển có cây cọ - typical setting)
+> 2. **Parts:** palm tree fronds/trunks (lá/thân cây cọ - botanical terms)
+> 3. **Types:** coconut/date/oil palm tree (cây dừa/cây chà là/cây cọ dầu - species)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **palm tree**:
+"There were trees on the beach."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Golden sunlight filtered through the palm tree fronds, creating dancing shadows on the white sand."
+> 💡 **Why it works:** "Palm tree fronds" là precise botanical term, creating specific tropical imagery và sensory experience với light and shadow.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **palm tree** instead of [[tree]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **palm tree:** Specific tropical plant with distinctive features - unbranched trunk, fronds, tropical association (VN)
+> **[[tree]]:** General term cho woody plant - có thể là bất kỳ loại cây nào (VN)
+> 🧱 **The Barrier:** "Palm tree" immediately creates tropical, exotic imagery với specific characteristics, trong khi "tree" là quá general để evoke specific setting.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing your dream vacation destination. You want to paint a tropical paradise picture. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Imagine waking up to the sound of waves, with palm trees swaying gently outside your window!"
+> 👨‍🎨 **Director's Note:** "Palm trees" instantly creates tropical paradise imagery, evoking vacation, relaxation, và exotic beauty.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
-?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+🌱 **Origins:** Link the root `palma` to the meaning of **palm tree**.
+>
+> 📜 **Story:** Latin "palma" meant "palm of hand". Ancient Romans looked at palm trees và saw giant hands reaching sky - leaves like fingers spread wide. This beautiful metaphor stuck, connecting nature to human anatomy.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
-?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+Analyze the root/family of **palm tree**.
+>
+> 🌱 **Root:** Latin `palma` (palm of hand) + Old English `trēow` (tree)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* palm (lòng bàn tay, cây cọ)
+> - *(noun)* palmar (liên quan đến lòng bàn tay)
+> - *(adj)* palmate (có dạng như bàn tay - về lá)
+> - *(noun)* frond (lá cọ, lá cành)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pɑːm triː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**palm tree**
+> 📖 **Meaning:** A tropical tree with hand-shaped leaves
+> 🇻🇳 **Vietnamese:** Cây cọ, cây có lá hình bàn tay
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
-?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+🕵️ **Fix the Error:** Common mistake with **palm tree**?
+>
+> ❌ **Mistake:** The palm leaf fell from the tree.
+> ✅ **Correction:** The palm frond fell from the tree.
+> 🧠 **Why:** Technical botanical term: Palm tree leaves are called "fronds", not "leaves". "Frond" là accurate term cho large, divided leaves của palm trees.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
+↔️ **Flip:** What is the opposite of **palm tree**?
+>
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[deciduous tree]] (cây rụng lá theo mùa - opposite climate adaptation)
+> - [[coniferous tree]] (cây thông - completely different plant family)
+> 🧱 **Contrast:** "Palm tree" là tropical, evergreen với distinctive structure, trong khi antonyms là trees ở different climates với different characteristics - seasonal changes hoặc different leaf structures.

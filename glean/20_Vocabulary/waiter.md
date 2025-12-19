@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
 #flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [waiter, waitress, server, waiting staff, food server, restaurant staff, attendant, serving, wait staff]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈweɪtər/
+> **Part of Speech:** noun
+> **CEFR Level:** A2
+> **Register:** neutral/colloquial
+> **Etymology:** From "wait" + "-er" (agent suffix), from Old Northern French "waitier" (to watch)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** One who waits
+>
+> **Context Meaning:** A person who serves customers at their tables in a restaurant or café
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** người phục vụ, nhân viên phục vụ
+> - **Contextual:** bồi bàn, phục vụ, chạy bàn
+>
 > **Nuances:**
-> - ...
+> - Traditionally male (female: waitress)
+> - Modern usage often gender-neutral
+> - Requires multitasking and customer service skills
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Attentive, Efficient, Professional
+> **Memory Hook:** Think of someone who waits on tables - waits for your order, waits to bring your food
+> **📖 Etymology Story:** From Old French "waitier" meaning "to watch" - a waiter literally "watches" over tables, anticipating needs and ensuring customers are served promptly
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[waitress]] /ˈweɪtrəs/ (female)
+> - **Verb:** [[wait]] /weɪt/
+> - **Noun:** [[waiting]] /ˈweɪtɪŋ/
+> - **Adj:** [[waiting]] (chờ đợi)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[server]] /ˈsɜːvər/ : Modern, gender-neutral term
+> - [[attendant]] /əˈtendənt/ : More formal, broader role
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[customer]] /ˈkʌstəmər/ : Person being served
+> - [[diner]] /ˈdaɪnər/ : Person eating at restaurant
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. head waiter
+> 2. waiter service
+> 3. tip the waiter
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The waiter recommended their specialty dish and it was delicious.
+> - **Translation:** Người phục vụ đã giới thiệu món đặc trưng của họ và món đó rất ngon.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** We had to wait ten minutes for the waiter to bring the menu.
+> - **Translation:** Chúng tôi phải đợi mười phút để người phục vụ mang thực đơn đến.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Gender Usage**
+> - ❌ **Mistake:** Always using "waiter" regardless of gender
+> - ✅ **Correction:** Use "waiter" for males, "waitress" for females, or "server" for gender neutrality
+> - **Why:** While "waiter" is often used generically, being specific shows awareness of traditional usage
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The waiter approached our table with a warm smile and asked if we were ready to order."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **waiter** (*/ˈweɪtər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person who serves customers at their tables in a restaurant or café
+> 🇻🇳 **Vietnamese:** Người phục vụ, bồi bàn, nhân viên phục vụ trong nhà hàng
+> 🗣️ **IPA:** */ˈweɪtər/*
+> 🧠 **Mental Model:** Hãy tưởng tượng người mặc đồng phục, cầm sổ tay và bút, đi lại giữa các bàn để ghi nhận order và phục vụ đồ ăn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person who serves customers at tables in a restaurant"
+**Vietnamese:** Người phục vụ, bồi bàn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**waiter** (*/ˈweɪtər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **waiter** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The waiter noticed we were new customers and patiently explained the daily specials.
+> 🇻🇳 **Translation:** Người phục vụ nhận thấy chúng tôi là khách mới và kiên nhẫn giải thích các món đặc biệt hàng ngày.
+> 🔍 **Analysis:** Perfect here because it shows the waiter's role in providing information and service beyond just taking orders
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **waiter**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Hierarchy:** head waiter (đầu bếp phụ trách phục vụ, quản lý phục vụ)
+> 2. **Service Action:** call/summon the waiter (gọi người phục vụ)
+> 3. **Payment:** tip the waiter (boa cho người phục vụ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **waiter**:
+"The restaurant worker brought our food."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The waiter skillfully balanced three plates while navigating through the crowded dining room."
+> 💡 **Why it works:** "Waiter" xác định rõ vai trò và kỹ năng nghề nghiệp thay vì "restaurant worker" chung chung, hình dung rõ hơn về công việc cụ thể
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **waiter** instead of **[[server]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **waiter:** Truyền thống, thường chỉ nam giới, được hiểu rộng rãi trong văn hóa đại chúng
+> **[[server]]** hiện đại, trung tính về giới, chuyên nghiệp hơn, đang trở thành tiêu chuẩn trong ngành
+> 🧱 **The Barrier:** "Waiter" có lịch sử lâu dài nhưng mang giới tính tiềm ẩn, trong khi "server" phản ánh xu hướng hướng tới ngôn ngữ trung tính trong dịch vụ khách hàng hiện đại
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a fine dining restaurant and need to request the bill. You're trying to get the staff member's attention politely. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Excuse me, waiter? Could we please have the check when you have a moment?"
+> 👨‍🎨 **Director's Note:** Lịch sự và tôn trọng, thể hiện sự hiểu biết về quy tắc nhà hàng cao cấp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `waitier` to the meaning of **waiter**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ tiếng Pháp cổ "waitier" có nghĩa là "trông coi, theo dõi" - người "waiter" ban đầu là người "trông coi" các bàn ăn, đảm bảo khách hàng được phục vụ đúng lúc
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **waiter**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old French `waitier` (<trông coi, theo dõi>)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[wait]] (chờ đợi)
+> - *(noun)* [[waiter]] (người phục vụ nam)
+> - *(noun)* [[waitress]] (người phục vụ nữ)
+> - *(noun)* [[waiting]] (sự chờ đợi)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈweɪtər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**waiter**
+> 📖 **Meaning:** A person who serves customers at their tables in a restaurant or café
+> 🇻🇳 **Vietnamese:** Người phục vụ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **waiter**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The waitress was very handsome" (Sai giới tính trong mô tả)
+> ✅ **Correction:** "The waitress was very beautiful" hoặc "The waiter was very handsome"
+> 🧠 **Why:** "Waitress" là dạng nữ của "waiter", cần nhất quán trong việc sử dụng tính từ miêu tả phù hợp với giới tính
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **waiter**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[customer]] (Khách hàng)
+> - [[diner]] (Người dùng bữa)
+> - [[chef]] (Đầu bếp)
+> 🧱 **Contrast:** "Waiter" phục vụ đồ ăn trong khi "customer" nhận phục vụ; "chef" nấu ăn trong khi "waiter" mang đồ ăn đến bàn

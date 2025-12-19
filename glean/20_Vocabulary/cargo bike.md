@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
 #flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [freight bicycle, carrier cycle, transport bike, delivery bicycle, utility bicycle, cargo tricycle, transport trike]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkɑːɡəʊ baɪk/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** "Cargo" from Spanish "cargar" (to load) via Latin "carricare" (to load on a cart). "Bike" is short for "bicycle" from Greek "bi-" (two) + "kyklos" (circle/wheel).
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A bicycle designed to carry goods.
+>
+> **Context Meaning:** A bicycle specially built or adapted for transporting goods, typically featuring a sturdy frame, cargo-carrying capacity, and often electric assistance.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** xe đạp chở hàng
+> - **Contextual:** xe tải đạp, xe thồ, xe đạp vận chuyển
+>
 > **Nuances:**
-> - ...
+> - Emphasizes utility over speed or comfort
+> - Gaining popularity in eco-friendly urban logistics
+> - Can range from simple baskets to sophisticated electric cargo systems
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Eco-friendly, Practical, Hardworking
+> **Memory Hook:** Think of a bike that's doing a "car's job" - carrying heavy loads (cargo) while staying green and healthy!
+> **📖 Etymology Story:** Medieval merchants used carts to "cargar" (load) goods. Today's cargo bikes are the 21st-century version - sustainable urban workhorses that keep cities moving without pollution.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[cargo]] /ˈkɑːɡəʊ/
+> - **Noun:** [[bicycle]] /ˈbaɪsɪkəl/
+> - **Verb:** [[carry]] /ˈkæri/
+> - **Adj:** [[cargo-carrying]] /ˈkɑːɡəʊ ˈkæriɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[freight bicycle]] /freɪt ˈbaɪsɪkəl/ : More formal term
+> - [[utility bicycle]] /juːˈtɪləti ˈbaɪsɪkəl/ : Focuses on practical use
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[racing bike]] /ˈreɪsɪŋ baɪk/ : Designed for speed, not cargo
+> - [[folding bike]] /ˈfəʊldɪŋ baɪk/ : Designed for portability, not capacity
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. electric cargo bike
+> 2. cargo bike delivery
+> 3. family cargo bike
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The courier company uses cargo bikes for eco-friendly last-mile deliveries in the city center.
+> - **Translation:** Công ty giao hàng sử dụng xe đạp chở hàng để giao hàng chặng cuối thân thiện với môi trường ở trung tâm thành phố.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Many European cities have dedicated lanes for cargo bikes to reduce traffic congestion.
+> - **Translation:** Nhiều thành phố châu Âu có làn đường riêng dành cho xe đạp chở hàng để giảm ùn tắc giao thông.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability**
+> - ❌ **Mistake:** I saw two cargo bikeses.
+> - ✅ **Correction:** I saw two cargo bikes.
+> - **Why:** "Bike" is a regular countable noun. The plural form adds "s" - bikes, not "bikeses".
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Cargo bikes are becoming increasingly popular for sustainable urban transport solutions."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **cargo bike** (*/ˈkɑːɡəʊ baɪk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A bicycle specially designed or adapted for transporting goods and heavy loads, featuring enhanced carrying capacity.
+> 🇻🇳 **Vietnamese:** Xe đạp chở hàng, xe đạp vận chuyển hàng hóa
+> 🗣️ **IPA:** */ˈkɑːɡəʊ baɪk/*
+> 🧠 **Mental Model:** Giống như một chiếc xe tải thu nhỏ nhưng dùng sức đạp - có khung mạnh, có chỗ để đồ, chuyên dùng để vận chuyển trong thành phố.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A bicycle specially designed for transporting goods"
+**Vietnamese:** Xe đạp chuyên chở hàng hóa
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**cargo bike** (*/ˈkɑːɡəʊ baɪk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **cargo bike** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The local bakery uses a cargo bike to deliver fresh bread to nearby neighborhoods every morning.
+> 🇻🇳 **Translation:** Tiệm bánh địa phương sử dụng xe đạp chở hàng để giao bánh mì tươi đến các khu phố gần đó mỗi buổi sáng.
+> 🔍 **Analysis:** "Cargo bike" thể hiện giải pháp vận chuyển sustainable và practical trong đô thị. Nó kết hợp eco-friendly aspect (bike) với utility function (cargo), phù hợp với urban logistics.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **cargo bike**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Power:** electric cargo bike (xe đạp chở hàng điện - hỗ trợ sức mạnh)
+> 2. **Business:** cargo bike delivery (giao hàng bằng xe đạp chở hàng - mục đích thương mại)
+> 3. **Family:** longtail cargo bike (xe đạp chở hàng đuôi dài - chở trẻ em và đồ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **cargo bike**:
+"He delivers packages on his bicycle."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He navigates through narrow city streets on his cargo bike, efficiently delivering packages while reducing carbon emissions."
+> 💡 **Why it works:** "Cargo bike" chỉ định loại xe chuyên dụng cho việc vận chuyển, thể hiện sustainable urban logistics, thay vì "bicycle" chung chung.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **cargo bike** instead of [[delivery van]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **cargo bike:** Eco-friendly, agile in traffic, healthy for rider và environment - perfect cho urban last-mile delivery (VN)
+> **[[delivery van]]:** Higher capacity, weather protection, longer range - better cho large-scale hoặc inter-city delivery (VN)
+> 🧱 **The Barrier:** "Cargo bike" đại diện cho sustainable, human-scale urban mobility, trong khi "delivery van" đại diện cho traditional, high-volume logistics.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're starting a small business delivering organic produce in your city. You want to emphasize sustainability. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our entire delivery fleet consists of electric cargo bikes - we bring fresh produce to your door without polluting our city!"
+> 👨‍🎨 **Director's Note:** "Cargo bike" thể hiện commitment to sustainability và urban-friendly business model, tạo differentiation point.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `cargar` to the meaning of **cargo bike**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Spanish "cargar" nghĩa là "to load". Merchants cần vehicles để "load" và "carry" goods. Cargo bike là evolution của this concept - adapting bicycle thành versatile cargo carrier cho modern urban logistics.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **cargo bike**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Spanish `cargar` (to load) + Greek `kyklos` (wheel)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* cargo (hàng hóa, cargo)
+> - *(noun)* carriage (xe ngựa, sự vận chuyển)
+> - *(verb)* carry (mang, vác, chở)
+> - *(noun)* bicycle (xe đạp)
+> - *(noun)* motorcycle (xe máy)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkɑːɡəʊ baɪk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**cargo bike**
+> 📖 **Meaning:** A bicycle designed for transporting goods
+> 🇻🇳 **Vietnamese:** Xe đạp chở hàng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **cargo bike**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I need a bike for cargo my groceries.
+> ✅ **Correction:** I need a bike for carrying my groceries. / I need a cargo bike for my groceries.
+> 🧠 **Why:** "Cargo" là noun (hàng hóa) không phải verb. Dùng "carry" for action, hoặc "cargo bike" như một compound noun chỉ loại xe.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **cargo bike**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[racing bike]] (Xe đạp đua - designed for speed, không cargo)
+> - [[sports car]] (Xe thể thao - motorized, không eco-friendly)
+> 🧱 **Contrast:** "Cargo bike" là utility vehicle chậm nhưng eco-friendly, trong khi antonyms là performance vehicles tập trung vào speed và thrill, không practical transport function.

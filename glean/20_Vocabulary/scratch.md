@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [scratch, scratched, scratching, scratches, scratchy, from scratch, up to scratch, scratch the surface]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /skrætʃ/
+> **Part of Speech:** verb/noun
+> **CEFR Level:** A2
+> **Register:** informal/neutral
+> **Etymology:** From Middle Dutch "krasschen" (to scratch)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To scrape or rub
+>
+> **Context Meaning:** 1) To rub skin with nails to relieve itching 2) To make a mark or cut lightly 3) To start from the beginning
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** gãi, cào, làm xước
+> - **Contextual:** bỏ dở, bắt đầu từ đầu, viết nháp
+>
 > **Nuances:**
-> - ...
+> - Can be physical action or metaphorical (starting over)
+> - "From scratch" means starting with basic ingredients
+> - "Scratch the surface" means to barely begin something
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Practical, Resourceful, Starting Fresh
+> **Memory Hook:** Think of a cat scratching - it's both relieving an itch and leaving marks
+> **📖 Etymology Story:** From Dutch "krasschen" meaning "to scrape" - scratching is about scraping away at something, whether it's an itch, a surface, or starting fresh by scraping away previous attempts
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[scratch]] /skrætʃ/
+> - **Verb:** [[scratch]] /skrætʃ/
+> - **Adj:** [[scratchy]] /ˈskrætʃi/
+> - **Noun:** [[scratcher]] /ˈskrætʃər/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[scrape]] /skreɪp/ : Rub against rough surface
+> - [[graze]] /ɡreɪz/ : Light scrape
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[soothe]] /suːð/ : Relieve discomfort
+> - [[heal]] /hiːl/ : Repair damage
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. from scratch
+> 2. scratch the surface
+> 3. up to scratch
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She had to scratch the insect bite to stop the itching.
+> - **Translation:** Cô ấy phải gãi vết côn trùng để ngừng ngứa.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** We built the entire system from scratch using only open-source tools.
+> - **Translation:** Chúng tôi đã xây dựng toàn bộ hệ thống từ đầu chỉ sử dụng các công cụ mã nguồn mở.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Phrasal Meanings**
+> - ❌ **Mistake:** Taking "scratch" literally in idioms
+> - ✅ **Correction:** Learn phrasal meanings like "from scratch" (from beginning)
+> - **Why:** Many uses of "scratch" are idiomatic and don't involve actual scratching
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Don't just scratch the surface of the problem - we need to understand it completely."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **scratch** (*/skrætʃ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To rub skin with nails to relieve itching; to make a mark by scraping; to start from the beginning
+> 🇻🇳 **Vietnamese:** Gãi, cào, làm xước, bắt đầu từ đầu
+> 🗣️ **IPA:** */skrætʃ/*
+> 🧠 **Mental Model:** Hãy tưởng tượng hành động gãi khi ngứa hoặc viết nháp trên giấy - đều là những hành động "scratch" theo cách khác nhau
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To rub the skin to relieve itching or to start something from the beginning"
+**Vietnamese:** Gãi, bắt đầu từ đầu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**scratch** (*/skrætʃ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **scratch** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The chef decided to scratch his original recipe and create something entirely new for the competition.
+> 🇻🇳 **Translation:** Đầu bếp quyết định bỏ dở công thức gốc và tạo ra một thứ hoàn toàn mới cho cuộc thi.
+> 🔍 **Analysis:** Perfect here showing the metaphorical use of "scratch" meaning to discard and start over
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **scratch**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Starting Point:** from scratch (từ đầu, từ con số không)
+> 2. **Initial Effort:** scratch the surface (chạm tới bề mặt, mới bắt đầu)
+> 3. **Standard Level:** up to scratch (đủ tiêu chuẩn, đạt yêu cầu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **scratch**:
+"He started cooking again."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "After the kitchen fire, he had to rebuild his entire restaurant business from scratch."
+> 💡 **Why it works:** "From scratch" tạo hình ảnh mạnh mẽ về việc bắt đầu hoàn toàn từ đầu, không có gì sẵn có, thay vì chỉ "started again"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **scratch** instead of **[[scrape]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **scratch:** Nhẹ hơn, thường dùng cho da, để lại vết mỏng, có thể để ngứa
+> **[[scrape]]** mạnh hơn, dùng trên bề mặt cứng, loại bỏ vật liệu, gây tổn thương sâu hơn
+> 🧱 **The Barrier:** "Scratch" là dùng móng tay hoặc vật sắc nhọn nhẹ còn "scrape" là dùng vật cứng để cào mạnh hơn
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend has a mosquito bite and is complaining about itching. Advise them!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Try not to scratch it too much - maybe use some lotion instead to relieve the itching."
+> 👨‍🎨 **Director's Note:** Thân thiện và quan tâm, đưa ra lời khuyên hữu ích về việc xử lý vết côn trùng cắn
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `krasschen` to the meaning of **scratch**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ tiếng Hà Lan trung cổ "krasschen" có nghĩa là "cào nhẹ" - khi bạn "scratch", bạn đang thực hiện hành động cào nhẹ, dù là để gãi ngứa hay làm dấu trên bề mặt
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **scratch**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Middle Dutch `krasschen` (<cào nhẹ>)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[scratch]] (gãi, cào)
+> - *(noun)* [[scratch]] (vết cào, vết xước)
+> - *(adj)* [[scratchy]] (gây ngứa, khô ráp)
+> - *(noun)* [[scratches]] (nhiều vết xước)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */skrætʃ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**scratch**
+> 📖 **Meaning:** To rub the skin with nails to relieve itching; to make a mark by scraping; to start from the beginning
+> 🇻🇳 **Vietnamese:** Gãi, cào, bắt đầu từ đầu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **scratch**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I made the cake from a scratch" (Sai thành ngữ)
+> ✅ **Correction:** "I made the cake from scratch"
+> 🧠 **Why:** "From scratch" là thành ngữ cố định không thể có "a" ở giữa, có nghĩa là làm hoàn toàn từ đầu không có nguyên liệu sẵn
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **scratch** (in the context of "from scratch")?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[continue]] (Tiếp tục)
+> - [[finish]] (Hoàn thành)
+> - [[build upon]] (Xây dựng trên nền tảng có sẵn)
+> 🧱 **Contrast:** "From scratch" bắt đầu từ con số không trong khi các từ đối lập đều ngụ ý tiếp tục hoặc hoàn thành công việc đã có sẵn

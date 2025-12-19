@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [dirty, grimy, foul, unclean, squalid, grubby, smutty, vulgar, obscene]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfɪlθi/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** informal/strong
+> **Etymology:** From Old English 'fylth' (dirt, foulness) + '-y' (adjective suffix)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Extremely dirty, covered with filth
+>
+> **Context Meaning:** Morally offensive or obscene (often used figuratively)
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bẩn thỉu, dơ bẩn
+> - **Contextual:** tục tĩu, phàm tục
+>
 > **Nuances:**
-> - ...
+> - Stronger than 'dirty' - implies disgust or moral judgment
+> - Can describe physical dirt or moral corruption
+> - Often used in informal contexts or for emphasis
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Judgmental
+> **Memory Hook:** "Filth" + "y" = so dirty it makes you feel sick to your stomach
+> **📖 Etymology Story:** From Old English 'fylth' meaning dirt or filth, with the '-y' suffix added to create the adjective form. The word has maintained its strong negative connotation throughout centuries, representing both physical dirt and moral corruption.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[filth]] /fɪlθ/, [[filthiness]] /ˈfɪlθinəs/
+> - **Verb:** [[filth]] (rare verb) /fɪlθ/
+> - **Adj:** [[filthy]] /ˈfɪlθi/, [[filthier]] /ˈfɪlθiə(r)/, [[filthiest]] /ˈfɪlθiəst/
+> - **Adv:** (no common form)
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[dirty]] /ˈdɜːti/ : generally unclean (less strong)
+> - [[vulgar]] /ˈvʌlɡə(r)/ : lacking good taste or refinement
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[clean]] /kliːn/ : free from dirt or pollution
+> - [[pure]] /pjʊə(r)/ : free from moral corruption
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. filthy rich
+> 2. filthy language
+> 3. filthy conditions
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The homeless shelter was filthy and desperately needed cleaning.
+> - **Translation:** Trung tâm cho người vô gia cư này bẩn thỉu và khẩn cấp cần được dọn dẹp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** He used such filthy language that the children were sent out of the room.
+> - **Translation:** Anh ta đã dùng những ngôn từ tục tĩu đến mức trẻ em phải ra khỏi phòng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Inappropriate use in formal contexts**
+> - ❌ **Mistake:** "The laboratory equipment was filthy."
+> - ✅ **Correction:** "The laboratory equipment was contaminated/unclean."
+> - **Why:** 'Filthy' is too informal and emotional for technical/formal contexts
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "No hatred can be as strong as the hatred of the ignorant for the knowledgeable."
+> **Source:** [[Oscar Wilde]] (context: describing filthy attitudes)
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **filthy** (*/ˈfɪlθi/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Extremely dirty, covered with filth; or morally offensive/obscene
+> 🇻🇳 **Vietnamese:** bẩn thỉu, dơ bẩn; tục tĩu, phàm tục
+> 🗣️ **IPA:** */ˈfɪlθi/*
+> 🧠 **Mental Model:** Mức độ bẩn đến gây khó chịu và ghê tởm, không chỉ là bẩn thông thường mà còn cảm giác muốn tránh xa
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Extremely dirty, covered with filth; or morally offensive/obscene"
+**Vietnamese:** bẩn thỉu, dơ bẩn; tục tĩu, phàm tục
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**filthy** (*/ˈfɪlθi/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **filthy** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The abandoned house had filthy walls covered in grime and cobwebs.
+> 🇻🇳 **Translation:** Ngôi nhà bỏ hoang có những bức tường bẩn thỉu phủ đầy bụi bẩn và mạng nhện.
+> 🔍 **Analysis:** 'filthy' ở đây perfect vì nó không chỉ miêu tả sự bẩn thông thường mà còn nhấn mạnh mức độ bẩn đến ghê tởm, tạo cảm giác tồi tệ hơn nhiều so với 'dirty'
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **filthy**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Metaphorical:** filthy rich (giàu có bẩn thỉu) (mức độ giàu có khủng khiếp)
+> 2. **Language:** filthy language (ngôn ngữ tục tĩu) (đánh giá đạo đức)
+> 3. **Environment:** filthy conditions (điều kiện bẩn thỉu) (mô tả môi trường sống)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **filthy**:
+"The room was dirty."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The prison cell was filthy, with rotting food and human waste covering every surface."
+> 💡 **Why it works:** 'filthy' upgrade từ 'dirty' bằng cách miêu tả mức độ bẩn đến ghê tởm, gây cảm giác kinh tởm và không thể chịu đựng được
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **filthy** instead of [[dirty]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **filthy:** Dùng khi mức độ bẩn rất cao, gây khó chịu và ghê tởm, thường kèm theo phán xét đạo đức
+> **dirty:** Dùng cho sự bẩn thông thường, không quá nghiêm trọng, chỉ mô tả trạng thái không sạch
+> 🧱 **The Barrier:** Degree and emotional response - filthy provokes disgust while dirty just describes lack of cleanliness
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see a public toilet that hasn't been cleaned in months. You feel disgusted. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm not using that! It's absolutely filthy in there!"
+> 👨‍🎨 **Director's Note:** 'filthy' fits perfectly vì nó diễn tả mức độ bẩn đến ghê tởm, không chỉ là không sạch mà còn gây cảm giác kinh tởm
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `filth` to the meaning of **filthy**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English 'fylth' có nghĩa là bẩn thỉu, chất thải. Khi thêm hậu tố '-y', nó trở thành tính từ 'filthy' để mô tả trạng thái bị phủ đầy bởi chất bẩn. Từ này vẫn giữ nguyên sắc thái tiêu cực mạnh mẽ qua các thế kỷ, không chỉ chỉ sự bẩn vật chất mà còn cả sự suy đồi đạo đức.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **filthy**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `fylth` (chất bẩn, chất thải)
+> 👨‍👩‍👧 **Family:**
+> - *(n)* filth (sự bẩn thỉu, chất bẩn)
+> - *(n)* filthiness (tính chất bẩn thỉu)
+> - *(adj)* filthy (bẩn thỉu, dơ bẩn)
+> - *(adj)* filthier (bẩn hơn)
+> - *(adj)* filthiest (bẩn nhất)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfɪlθi/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**filthy**
+> 📖 **Meaning:** Extremely dirty, covered with filth; or morally offensive/obscene
+> 🇻🇳 **Vietnamese:** bẩn thỉu, dơ bẩn; tục tĩu, phàm tục
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **filthy**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "My laboratory equipment was filthy after the experiment."
+> ✅ **Correction:** "My laboratory equipment was contaminated/unclean after the experiment."
+> 🧠 **Why:** 'Filthy' quá mạnh và không trang trọng cho bối cảnh khoa học/kỹ thuật. 'Contaminated' hoặc 'unclean' phù hợp hơn
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **filthy**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[clean]] (sạch sẽ, không bẩn)
+> - [[pristine]] (nguyên vẹn, tinh khiết)
+> 🧱 **Contrast:** Filthy implies extreme dirt and moral corruption, while clean and pristine suggest purity and freedom from contamination

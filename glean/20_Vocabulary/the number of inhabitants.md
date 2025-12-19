@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
 #flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [inhabitants, population, residents, dwellers, occupants, populace, denizens, number of people living]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪnˈhæbɪtənts/
+> **Part of Speech:** noun (plural)
+> **CEFR Level:** B1
+> **Register:** formal
+> **Etymology:** From Latin 'inhabitare' (to dwell in, live in)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** People who live in a particular place
+>
+> **Context Meaning:** The population or residents of a specific area
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cư dân, người dân
+> - **Contextual:** dân số, số dân
+>
 > **Nuances:**
-> - ...
+> - More formal than 'residents' or 'people living there'
+> - Often used in official, academic, or demographic contexts
+> - Implies permanent or long-term residence
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Formal
+> **Memory Hook:** "Inhabit" + "ants" = people who inhabit/live in a place
+> **📖 Etymology Story:** From Latin 'inhabitare' meaning 'to dwell in, live in', which comes from 'in' (in) + 'habitare' (to dwell, inhabit). The word evolved to describe those who make a place their permanent home.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[inhabitant]] /ɪnˈhæbɪtənt/, [[inhabitants]] /ɪnˈhæbɪtənts/, [[inhabitation]] /ɪnˌhæbɪˈteɪʃn/
+> - **Verb:** [[inhabit]] /ɪnˈhæbɪt/
+> - **Adj:** [[inhabited]] /ɪnˈhæbɪtɪd/, [[uninhabited]] /ʌnɪnˈhæbɪtɪd/
+> - **Adv:** (no common form)
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[residents]] /ˈrezɪdənts/ : people living in a particular area
+> - [[population]] /ˌpɒpjuˈleɪʃn/ : all the inhabitants of a particular area
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[visitors]] /ˈvɪzɪtəz/ : people who are temporarily staying
+> - [[strangers]] /ˈstreɪndʒəz/ : people who don't belong to a community
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. the number of inhabitants
+> 2. local inhabitants
+> 3. original inhabitants
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The city has over two million inhabitants and continues to grow rapidly.
+> - **Translation:** Thành phố này có hơn hai triệu cư dân và tiếp tục phát triển nhanh chóng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The survey was conducted among the local inhabitants of the coastal village.
+> - **Translation:** Cuộc khảo sát được tiến hành trong số người dân địa phương của ngôi làng ven biển.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Singular/plural confusion**
+> - ❌ **Mistake:** "The inhabitants of this city is friendly."
+> - ✅ **Correction:** "The inhabitants of this city are friendly."
+> - **Why:** 'Inhabitants' is always plural, so use plural verbs
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The inhabitants of cities are convinced, as Montaigne says, that they are at the apex of civilization."
+> **Source:** [[Henry David Thoreau]]
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **inhabitants** (*/ɪnˈhæbɪtənts/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** People who live in a particular place; the population or residents of a specific area
+> 🇻🇳 **Vietnamese:** cư dân, người dân; dân số, số dân
+> 🗣️ **IPA:** */ɪnˈhæbɪtənts/*
+> 🧠 **Mental Model:** Những người cư ngụ lâu dài tại một nơi cụ thể, tạo nên cộng đồng dân cư tại đó
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "People who live in a particular place; the population or residents of a specific area"
+**Vietnamese:** cư dân, người dân; dân số, số dân
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**inhabitants** (*/ɪnˈhæbɪtənts/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **inhabitants** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The remote island has only fifty permanent inhabitants who rely on fishing for survival.
+> 🇻ᇳ **Translation:** Đảo hẻo lánh này chỉ có năm mươi cư dân thường xuyên sống bằng nghề đánh cá để tồn tại.
+> 🔍 **Analysis:** 'inhabitants' ở đây perfect vì nó diễn tả những người cư trú lâu dài tại đảo, không phải khách du lịch hay người tạm thời, nhấn mạnh sự ổn định dân cư
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **inhabitants**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quantification:** the number of inhabitants (số lượng cư dân) (thống kê dân số)
+> 2. **Location:** local inhabitants (cư dân địa phương) (người bản địa)
+> 3. **History:** original inhabitants (cư dân nguyên thủy) (lịch sử dân tộc)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **inhabitants**:
+"Many people live in this area."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The mountain village has approximately 200 inhabitants, most of whom are farmers."
+> 💡 **Why it works:** 'inhabitants' upgrade từ 'people' bằng cách nhấn mạnh tính thường trú và cộng đồng dân cư ổn định tại một địa điểm cụ thể
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **inhabitants** instead of [[residents]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **inhabitants:** Dùng trong bối cảnh trang trọng, học thuật, khi muốn nhấn mạnh người dân cư ngụ tại một khu vực địa lý cụ thể
+> **residents:** Dùng phổ biến hơn, có thể chỉ người sống trong tòa nhà, khu phố, hoặc thành phố
+> 🧱 **The Barrier:** Formality level - inhabitants is more formal and often used in demographic or geographical contexts
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're presenting demographic data about a city. You feel professional and informative. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "According to our latest census, the city's inhabitants have increased by 15% over the past decade."
+> 👨‍🎨 **Director's Note:** 'inhabitants' fits perfectly vì nó trang trọng và phù hợp với bối cảnh thống kê dân số chuyên nghiệp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `inhabit` to the meaning of **inhabitants**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'inhabitare' có nghĩa là 'cư ngụ, sống trong', bắt nguồn từ 'in' (trong) + 'habitare' (cư ngụ). Từ đã phát triển để chỉ những người làm một nơi trở thành nhà của họ một cách lâu dài.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **inhabitants**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `inhabitare` (cư ngụ, sống trong)
+> 👨‍👩‍👧 **Family:**
+> - *(v)* inhabit (cư ngú, sống ở)
+> - *(n)* inhabitation (sự cư ngú)
+> - *(adj)* inhabited (được cư ngú)
+> - *(adj)* uninhabited (không có người ở)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪnˈhæbɪtənts/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**inhabitants**
+> 📖 **Meaning:** People who live in a particular place; the population or residents of a specific area
+> 🇻🇳 **Vietnamese:** cư dân, người dân; dân số, số dân
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **inhabitants**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The inhabitants of this town is very friendly."
+> ✅ **Correction:** "The inhabitants of this town are very friendly."
+> 🧠 **Why:** 'Inhabitants' luôn ở dạng số nhiều, nên phải dùng động từ số nhiều 'are' thay vì 'is'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **inhabitants**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[visitors]] (khách viếng thăm, người tạm thời)
+> - [[emigrants]] (người di cư ra khỏi)
+> 🧱 **Contrast:** Inhabitants are permanent residents of a place, while visitors are temporary and emigrants have left their place of residence
