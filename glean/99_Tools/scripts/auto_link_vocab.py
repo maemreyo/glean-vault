@@ -2,19 +2,111 @@ import os
 import re
 import argparse
 import sys
+import shutil
+import json
+import datetime
+import hashlib
 
 # Configuration
-# This script is located in glean/99_Tools/scripts/
-# We want to go up 3 levels to reach the vault root (glean/99_Tools/scripts -> glean/99_Tools -> glean -> root)
-# Wait, glean/99_Tools/scripts is deep.
-# Path: glean-vault/glean/99_Tools/scripts/auto_link_vocab.py
-# Root: glean-vault
-# ../../../ is correct.
-
 VAULT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
 VOCAB_DIR = os.path.join(VAULT_ROOT, "20_Vocabulary")
 STRUCT_DIR = os.path.join(VAULT_ROOT, "30_Structures")
 ARTICLES_DIR = os.path.join(VAULT_ROOT, "10_Sources/Articles")
+BACKUP_DIR = os.path.join(VAULT_ROOT, "99_Tools/backups")
+INVENTORY_FILE = os.path.join(BACKUP_DIR, "inventory.json")
+
+def ensure_backup_dir():
+    if not os.path.exists(BACKUP_DIR):
+        os.makedirs(BACKUP_DIR)
+    if not os.path.exists(INVENTORY_FILE):
+        with open(INVENTORY_FILE, 'w', encoding='utf-8') as f:
+            json.dump([], f)
+
+def load_inventory():
+    ensure_backup_dir()
+    try:
+        with open(INVENTORY_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except json.JSONDecodeError:
+        return []
+
+def save_inventory(inventory):
+    ensure_backup_dir()
+    with open(INVENTORY_FILE, 'w', encoding='utf-8') as f:
+        json.dump(inventory, f, indent=2)
+
+def create_backup(filepath, changes_summary):
+    ensure_backup_dir()
+    
+    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    file_hash = hashlib.md5(filepath.encode()).hexdigest()[:6]
+    backup_filename = f"{timestamp}_{file_hash}_{os.path.basename(filepath)}"
+    backup_path = os.path.join(BACKUP_DIR, backup_filename)
+    
+    # Copy original file to backup
+    shutil.copy2(filepath, backup_path)
+    
+    backup_entry = {
+        "id": f"{timestamp}_{file_hash}",
+        "timestamp": timestamp,
+        "original_path": os.path.abspath(filepath),
+        "backup_path": backup_path,
+        "changes_count": len(changes_summary),
+        "changes_sample": changes_summary[:5]  # Store first 5 changes as sample
+    }
+    
+    inventory = load_inventory()
+    inventory.insert(0, backup_entry) # Prepend to show latest first
+    save_inventory(inventory)
+    
+    return backup_entry["id"]
+
+def list_backups(file_filter=None):
+    inventory = load_inventory()
+    if not inventory:
+        print("No backups found.")
+        return
+
+    print(f"{'ID':<25} | {'Date':<20} | {'File':<40} | {'Changes'}")
+    print("-" * 100)
+    
+    count = 0
+    for entry in inventory:
+        # If filter is applied, only show backups for that file
+        if file_filter:
+            abs_filter = os.path.abspath(file_filter)
+            if entry.get('original_path') != abs_filter:
+                continue
+                
+        fname = os.path.basename(entry.get('original_path', 'unknown'))
+        ts = datetime.datetime.strptime(entry.get('timestamp'), "%Y%m%d_%H%M%S").strftime("%Y-%m-%d %H:%M:%S")
+        print(f"{entry['id']:<25} | {ts:<20} | {fname:<40} | {entry.get('changes_count', 0)}")
+        count += 1
+        
+    print("-" * 100)
+    print(f"Total backups listed: {count}")
+
+def restore_backup(backup_id):
+    inventory = load_inventory()
+    entry = next((item for item in inventory if item["id"] == backup_id), None)
+    
+    if not entry:
+        print(f"Error: Backup ID '{backup_id}' not found.")
+        return
+    
+    backup_path = entry["backup_path"]
+    original_path = entry["original_path"]
+    
+    if not os.path.exists(backup_path):
+        print(f"Error: Backup file missing at {backup_path}")
+        return
+        
+    print(f"Restoring '{original_path}' from backup '{backup_id}'...")
+    try:
+        shutil.copy2(backup_path, original_path)
+        print("Restore successful.")
+    except Exception as e:
+        print(f"Error restoring file: {e}")
 
 def get_terms():
     """
@@ -58,7 +150,6 @@ def process_file(filepath, terms_map, sorted_term_keys, dry_run=True):
     escaped_terms = [re.escape(t) for t in sorted_term_keys]
     
     # Pattern to match existing links or our terms
-    # We match existing links first to avoid double-linking
     pattern_str = r"(\[\[.*?\]\])|(\[[^\]]*?\]\([^\)]*?\))|(\b(?:" + "|".join(escaped_terms) + r")\b)"
     regex = re.compile(pattern_str, re.IGNORECASE)
 
@@ -88,8 +179,6 @@ def process_file(filepath, terms_map, sorted_term_keys, dry_run=True):
                     separator = "\\|" if is_table_row else "|"
                     new_text = f"[[{rel_path}{separator}{original_text}]]"
                     
-                    # Track change (only if it's actually a new link, though regex logic implies g3 is just term)
-                    # We might want to dedupe detailed stats, but simple append is fine for now
                     changes_made.append(f"'{original_text}' -> '{new_text}'")
                     return new_text
                 
@@ -113,6 +202,11 @@ def process_file(filepath, terms_map, sorted_term_keys, dry_run=True):
                 print(f"    - ... and {len(unique_changes) - 50} more unique terms.")
 
         else:
+            # Create backup before writing
+            print(f"Backing up: {os.path.basename(filepath)}")
+            backup_id = create_backup(filepath, changes_made)
+            print(f"  - Backup created: {backup_id}")
+            
             print(f"Updating: {os.path.basename(filepath)}")
             print(f"  - Linked {len(changes_made)} terms.")
             with open(filepath, 'w', encoding='utf-8') as f:
@@ -124,10 +218,27 @@ def main():
     parser.add_argument("--folder", help="Process all files in a specific folder (relative or absolute path)")
     parser.add_argument("--dry-run", action="store_true", help="Print changes without modifying files")
     parser.add_argument("--no-dry-run", action="store_false", dest="dry_run", help="Actually modify files")
+    parser.add_argument("--list-backups", nargs='?', const='ALL', help="List available backups. Optional: provide file path to filter.")
+    parser.add_argument("--restore", help="Restore a file from a backup ID")
+    
     parser.set_defaults(dry_run=True)
     
     args = parser.parse_args()
     
+    # Handle Restore
+    if args.restore:
+        restore_backup(args.restore)
+        return
+
+    # Handle List Backups
+    if args.list_backups:
+        file_filter = None
+        if args.list_backups != 'ALL':
+            file_filter = args.list_backups
+        list_backups(file_filter)
+        return
+    
+    # Normal Processing
     print(f"Scanning terms in:\n- {VOCAB_DIR}\n- {STRUCT_DIR}")
     terms_map = get_terms()
     
