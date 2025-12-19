@@ -156,9 +156,9 @@ Which **TWO** opinions do both the students express about the evolutionary theor
 
 **A** to explain how difficult loneliness can be
 
-**B** to highlight a situation that most students will recognise
+**B** to highlight a situation that most students will recognize
 
-**C** to emphasise that feeling lonely is more common for men than women
+**C** to emphasize that feeling lonely is more common for men than women
 
 **29** The students agree that talking to strangers is a good strategy for dealing with loneliness because
 
