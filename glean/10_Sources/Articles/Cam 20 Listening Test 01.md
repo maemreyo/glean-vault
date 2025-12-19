@@ -8,9 +8,9 @@
 
 | **Name of restaurant**   | **Location**                         | **Reason for recommendation**                                                                         | **Other comments**                                                                                             |
 | ------------------------ | ------------------------------------ | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| The Junction             | Greyson Street, near the station     | Good for people who are especially [[20_Vocabulary/keen on\|keen on]] **1** \_\_\_\_\_\_\_                                       | Quite [[20_Vocabulary/expensive\|expensive]]  The **2** \_\_\_\_\_\_\_ is a good place for a drink                                          |
-| Paloma                   | In Bow Street next to the cinema     | **3** \_\_\_\_\_\_\_ food, good for sharing                                                           | Staff are very friendly  Need to pay £50 [[20_Vocabulary/deposit\|deposit]]  A limited selection of **4** \_\_\_\_\_\_\_ food on the menu |
-| The **5** \_\_\_\_\_\_\_ | At the top of a **6** \_\_\_\_\_\_\_ | A famous chef  All the **7** \_\_\_\_\_\_\_ are very good  Only uses **8** \_\_\_\_\_\_\_ ingredients | Set lunch costs £ **9** \_\_\_\_\_\_\_ per person  [[20_Vocabulary/portion\|Portions]] probably of **10** \_\_\_\_\_\_\_ size             |
+| The Junction             | Greyson Street, near the station     | Good for people who are especially keen on **1** \_\_\_\_\_\_\_                                       | Quite expensive  The **2** \_\_\_\_\_\_\_ is a good place for a drink                                          |
+| Paloma                   | In Bow Street next to the cinema     | **3** \_\_\_\_\_\_\_ food, good for sharing                                                           | Staff are very friendly  Need to pay £50 deposit  A limited selection of **4** \_\_\_\_\_\_\_ food on the menu |
+| The **5** \_\_\_\_\_\_\_ | At the top of a **6** \_\_\_\_\_\_\_ | A famous chef  All the **7** \_\_\_\_\_\_\_ are very good  Only uses **8** \_\_\_\_\_\_\_ ingredients | Set lunch costs £ **9** \_\_\_\_\_\_\_ per person  Portions probably of **10** \_\_\_\_\_\_\_ size             |
 
 ### PART 2
 
@@ -18,7 +18,7 @@
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**11** Heather says [[20_Vocabulary/pottery|pottery]] differs from other art forms because \_\_\_\_
+**11** Heather says pottery differs from other art forms because \_\_\_\_
 
 **A** it lasts longer in the ground.
 
@@ -26,31 +26,31 @@
 
 **C** it can be repaired more easily.
 
-**12** Archaeologists sometimes [[20_Vocabulary/identify|identify]] the use of ancient [[20_Vocabulary/pottery|pottery]] from
+**12** Archaeologists sometimes identify the use of ancient pottery from
 
-**A** the [[20_Vocabulary/clay|clay]] it was made with.
+**A** the clay it was made with.
 
 **B** the marks that are on it.
 
 **C** the basic shape of it.
 
-**13** Some people join Heather’s [[20_Vocabulary/pottery|pottery]] class because they want to
+**13** Some people join Heather’s pottery class because they want to
 
 **A** create an item that looks very old.
 
 **B** find something that they are good at.
 
-**C** make something that [[20_Vocabulary/will|will]] [[20_Vocabulary/outlive|outlive]] them.
+**C** make something that will outlive them.
 
 **14** What does Heather value most about being a potter?
 
-**A** its [[20_Vocabulary/calming effect|calming effect]]
+**A** its calming effect
 
-**B** its [[20_Vocabulary/messy nature|messy nature]]
+**B** its messy nature
 
 **C** its physical benefits
 
-**15** Most of the visitors to Edelman [[20_Vocabulary/pottery|Pottery]]
+**15** Most of the visitors to Edelman Pottery
 
 **A** bring friends to join courses.
 
@@ -90,11 +90,11 @@ Which **TWO** points does Heather make about a potter’s tools?
 
 **A** Some are hard to hold.
 
-**B** Some are [[20_Vocabulary/worth|worth]] buying.
+**B** Some are worth buying.
 
-**C** Some are [[20_Vocabulary/essential|essential]] items.
+**C** Some are essential items.
 
-**D** Some have [[20_Vocabulary/memorable|memorable]] names.
+**D** Some have memorable names.
 
 **E** Some are available for use by participants.
 
@@ -104,35 +104,35 @@ Which **TWO** points does Heather make about a potter’s tools?
 
 *Choose **TWO** letters, **A–E**.*
 
-Which **TWO** things do the students both believe are [[20_Vocabulary/responsible for|responsible for]] the increase in [[20_Vocabulary/loneliness|loneliness]]?
+Which **TWO** things do the students both believe are responsible for the increase in loneliness?
 
 **Questions 23 and 24**
 
 *Choose **TWO** letters, **A–E**.*
 
-Which **TWO** health risks associated with [[20_Vocabulary/loneliness|loneliness]] do the students agree are based on [[20_Vocabulary/solid evidence|solid evidence]]?
+Which **TWO** health risks associated with loneliness do the students agree are based on solid evidence?
 
-**A** [[20_Vocabulary/a weakened immune system|a weakened immune system]]
+**A** a weakened immune system
 
-**B** [[20_Vocabulary/dementia|dementia]]
+**B** dementia
 
 **C** cancer
 
-**D** [[20_Vocabulary/obesity|obesity]]
+**D** obesity
 
-**E** [[20_Vocabulary/cardiovascular disease|cardiovascular disease]]
+**E** cardiovascular disease
 
 **Questions 25 and 26**
 
 *Choose **TWO** letters, **A–E**.*
 
-Which **TWO** opinions do both the students express about the evolutionary theory of [[20_Vocabulary/loneliness|loneliness]]?
+Which **TWO** opinions do both the students express about the evolutionary theory of loneliness?
 
 **A** lt has little practical relevance.
 
 **B** It needs further investigation.
 
-**C** It is [[20_Vocabulary/misleading|misleading]].
+**C** It is misleading.
 
 **D** It should be more widely accepted.
 
@@ -142,39 +142,39 @@ Which **TWO** opinions do both the students express about the evolutionary theor
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-### [[20_Vocabulary/loneliness|Loneliness]] and [[20_Vocabulary/mental health|mental health]]
+### Loneliness and mental health
 
-**27** When comparing [[20_Vocabulary/loneliness|loneliness]] to [[20_Vocabulary/depression|depression]], the students
+**27** When comparing loneliness to depression, the students
 
-**A** doubt that there [[20_Vocabulary/will|will]] ever be [[20_Vocabulary/a medical cure|a medical cure]] for [[20_Vocabulary/loneliness|loneliness]].
+**A** doubt that there will ever be a medical cure for loneliness.
 
-**B** claim that the link between [[20_Vocabulary/loneliness|loneliness]] and [[20_Vocabulary/mental health|mental health]] is overstated.
+**B** claim that the link between loneliness and mental health is overstated.
 
-**C** express [[20_Vocabulary/frustration|frustration]] that [[20_Vocabulary/loneliness|loneliness]] is not taken more seriously.
+**C** express frustration that loneliness is not taken more seriously.
 
 **28** Why do the students decide to start their presentation with an example from their own experience?
 
-**A** to explain how difficult [[20_Vocabulary/loneliness|loneliness]] can be
+**A** to explain how difficult loneliness can be
 
-**B** to highlight a situation that most students [[20_Vocabulary/will|will]] recognize
+**B** to highlight a situation that most students will recognize
 
 **C** to emphasize that feeling lonely is more common for men than women
 
-**29** The students agree that talking to strangers is a good strategy for dealing with [[20_Vocabulary/loneliness|loneliness]] because
+**29** The students agree that talking to strangers is a good strategy for dealing with loneliness because
 
-**A** it creates [[20_Vocabulary/a sense of belonging|a sense of belonging]].
+**A** it creates a sense of belonging.
 
-**B** it builds [[20_Vocabulary/self-confidence|self-confidence]].
+**B** it builds self-confidence.
 
 **C** it makes people feel more positive.
 
-**30** The students find it difficult to understand why [[20_Vocabulary/solitude|solitude]] is considered to be
+**30** The students find it difficult to understand why solitude is considered to be
 
-**A** similar to [[20_Vocabulary/loneliness|loneliness]].
+**A** similar to loneliness.
 
-**B** necessary for [[20_Vocabulary/mental health|mental health]].
+**B** necessary for mental health.
 
-**C** an [[20_Vocabulary/enjoyable|enjoyable]] experience.
+**C** an enjoyable experience.
 
 ### PART 4
 
@@ -194,7 +194,7 @@ Which **TWO** opinions do both the students express about the evolutionary theor
 
 ● Industrial development and rising populations later led to:
 
-○ more [[20_Vocabulary/sewage|sewage]] from houses being discharged into the river
+○ more sewage from houses being discharged into the river
 
 ○ pollution from **31** \_\_\_\_\_\_\_\_\_ on the river bank.
 
@@ -204,11 +204,11 @@ Which **TWO** opinions do both the students express about the evolutionary theor
 
 ● Seals and even a **33** \_\_\_\_\_\_\_\_\_ have been seen in the River Thames.
 
-● [[20_Vocabulary/riverside|Riverside]] warehouses are converted to restaurants and **34** \_\_\_\_\_\_\_\_\_
+● Riverside warehouses are converted to restaurants and **34** \_\_\_\_\_\_\_\_\_
 
 ● In Los Angeles, there are plans to:
 
-○ build a [[20_Vocabulary/riverside|riverside]] **35** \_\_\_\_\_\_\_\_\_
+○ build a riverside **35** \_\_\_\_\_\_\_\_\_
 
 ○ display **36** \_\_\_\_\_\_\_\_\_ projects.
 
@@ -229,7 +229,7 @@ Which **TWO** opinions do both the students express about the evolutionary theor
 
 Exam preparation guides
 
-**MAN** The Junction. Yeah, I’d definitely recommend that for a special [[20_Vocabulary/occasion|occasion]]. We had a great time there. Everyone really [[20_Vocabulary/enjoy|enjoyed]] it.
+**MAN** The Junction. Yeah, I’d definitely recommend that for a special occasion. We had a great time there. Everyone really enjoyed it.
 
 **WOMAN** Where is it again? I can’t remember.
 
@@ -239,9 +239,9 @@ Exam preparation guides
 
 **MAN** Yes, the location’s perfect, but that’s not necessarily why I’d recommend it. The food’s amazing. If you like fish, it’s probably the best restaurant in town for that. It’s always really fresh and there are lots of interesting dishes to choose from But all the food is good there.
 
-**WOMAN** Is it really [[20_Vocabulary/expensive|expensive]]?
+**WOMAN** Is it really expensive?
 
-**MAN** It’s certainly not cheap, but for a special [[20_Vocabulary/occasion|occasion]] I think it’s fine It’s got a great atmosphere and before dinner you can go up on the roof and have a drink It’s really nice up there, but you need to book It’s very popular as the views are spectacular.
+**MAN** It’s certainly not cheap, but for a special occasion I think it’s fine It’s got a great atmosphere and before dinner you can go up on the roof and have a drink It’s really nice up there, but you need to book It’s very popular as the views are spectacular.
 
 **WOMAN** Sounds good. So that’s definitely a possibility then. Is there anywhere else you can think of?
 
@@ -261,9 +261,9 @@ Bookshelves
 
 **MAN** Yeah. You can get lots of small dishes to share, which always works really well if you’re in a group.
 
-**WOMAN** Hmm. [[20_Vocabulary/worth|Worth]] thinking about.
+**WOMAN** Hmm. Worth thinking about.
 
-**MAN** Yeah. There’s a lively atmosphere and the waiters are really friendly. The only thing is that you need to pay a £50 [[20_Vocabulary/deposit|deposit]] to book a table.
+**MAN** Yeah. There’s a lively atmosphere and the waiters are really friendly. The only thing is that you need to pay a £50 deposit to book a table.
 
 **WOMAN** A lot of restaurants are doing that these days. I should have a look at the menu to check if there is a good choice of vegetarian dishes. A couple of my friends have stopped eating meat
 
@@ -291,21 +291,21 @@ Bookshelves
 
 ### PART 2
 
-Hello and welcome. My name’s Heather McCallum and I’m one of the potters who work here at Edelman [[20_Vocabulary/pottery|Pottery]]. Before we go into the workshop, I just want to say a bit about the craft of [[20_Vocabulary/pottery|pottery]]. Then we’ll have a look at the equipment and you can try making a pot of your own. Like many people, I’m sure you know that [[20_Vocabulary/pottery|pottery]] as an art form is tens of thousands of years old. And we know this because it stands the test of time. Things like baskets and pictures don’t survive on the earth in the same way that pots do. and even if ancient pots are found in small pieces they still provide a lot of information about the past. There no doubt that [[20_Vocabulary/pottery|pottery]] has given archaeologists a fascinating insight into how ancient hills lived The shape of an artifact may have been lost but archaeologists can tell whether the pots were for, say, storage or cooking by examining the impressions on the [[20_Vocabulary/clay|clay]], the scratches from tools, and the [[20_Vocabulary/clay|clay]] itself can reveal where the pots came from. When I ask people why they want to take a [[20_Vocabulary/pottery|pottery]] class with me, they sometimes talk about these things. Like our ancestors, they hope that something they create [[20_Vocabulary/will|will]] also [[20_Vocabulary/last longer|last longer]] than they do, that their work, whether it is good or not, might say something about humanity many years after their death. Of course, you [[20_Vocabulary/will|will]] all have your own reasons for coming here. As far as I’m concerned, what I love most is the concentration you need to make a good pot. That focus takes you away from the stresses of everyday life. If you’re elderly, it’s also good exercise for hands and wrists and helps with arthritis. And of course, it’s a fun activity for children because it’s so messy. Here at Edelman [[20_Vocabulary/pottery|Pottery]], we show you some of the basic [[20_Vocabulary/pottery|pottery]] techniques so that you can use these to create whatever you wish. A gift for a friend, perhaps. Like nearly everyone who comes here, I’m sure this is the first time you [[20_Vocabulary/will|will]] have tried the art so we’ll keep things simple today. Now, before we move on, can I just say a word about what you’re wearing? As we said in our email please remove any watches, necklaces etc and put them somewhere safe. If you have long hair do tie it back now. We provide aprons later but I trust your clothes are old but comfortable, not your favourite T-shirt or jeans.
+Hello and welcome. My name’s Heather McCallum and I’m one of the potters who work here at Edelman Pottery. Before we go into the workshop, I just want to say a bit about the craft of pottery. Then we’ll have a look at the equipment and you can try making a pot of your own. Like many people, I’m sure you know that pottery as an art form is tens of thousands of years old. And we know this because it stands the test of time. Things like baskets and pictures don’t survive on the earth in the same way that pots do. and even if ancient pots are found in small pieces they still provide a lot of information about the past. There no doubt that pottery has given archaeologists a fascinating insight into how ancient hills lived The shape of an artifact may have been lost but archaeologists can tell whether the pots were for, say, storage or cooking by examining the impressions on the clay, the scratches from tools, and the clay itself can reveal where the pots came from. When I ask people why they want to take a pottery class with me, they sometimes talk about these things. Like our ancestors, they hope that something they create will also last longer than they do, that their work, whether it is good or not, might say something about humanity many years after their death. Of course, you will all have your own reasons for coming here. As far as I’m concerned, what I love most is the concentration you need to make a good pot. That focus takes you away from the stresses of everyday life. If you’re elderly, it’s also good exercise for hands and wrists and helps with arthritis. And of course, it’s a fun activity for children because it’s so messy. Here at Edelman Pottery, we show you some of the basic pottery techniques so that you can use these to create whatever you wish. A gift for a friend, perhaps. Like nearly everyone who comes here, I’m sure this is the first time you will have tried the art so we’ll keep things simple today. Now, before we move on, can I just say a word about what you’re wearing? As we said in our email please remove any watches, necklaces etc and put them somewhere safe. If you have long hair do tie it back now. We provide aprons later but I trust your clothes are old but comfortable, not your favourite T-shirt or jeans.
 
 Exam preparation guides
 
 *Before you hear the rest of the talk, you have some time to look at questions 17 to 20. Now listen and answer questions 17 to 20.*
 
-So now we’re in the workshop. Have a look around. There’s a lot going on. To make [[20_Vocabulary/pottery|pottery]] that [[20_Vocabulary/will|will]] last, you need a potter’s wheel, a kiln, which is basically a very hot oven where you fire the [[20_Vocabulary/pottery|pottery]], and some tools. So, first, the kiln. If you look over in the far corner, you’ll see one of ours. Since their invention, kilns have changed very little, though in the past 20 years a lot of progress has been made in temperature control. Basically, a kiln removes the water from [[20_Vocabulary/clay|clay]] at temperatures of around 1000 degrees Celsius. This allows anything you’ve made to set permanently in shape. It’s a pretty ugly heavy object that’s hard to keep in a house or flat, so most people don’t have one.
+So now we’re in the workshop. Have a look around. There’s a lot going on. To make pottery that will last, you need a potter’s wheel, a kiln, which is basically a very hot oven where you fire the pottery, and some tools. So, first, the kiln. If you look over in the far corner, you’ll see one of ours. Since their invention, kilns have changed very little, though in the past 20 years a lot of progress has been made in temperature control. Basically, a kiln removes the water from clay at temperatures of around 1000 degrees Celsius. This allows anything you’ve made to set permanently in shape. It’s a pretty ugly heavy object that’s hard to keep in a house or flat, so most people don’t have one.
 
-You may think, can’t I use my oven? Well, that’s possible, but domestic ovens don’t really get hot enough and eventually the [[20_Vocabulary/clay|clay]] [[20_Vocabulary/will|will]] crack and fall apart. Some people fire [[20_Vocabulary/pottery|pottery]] in a fire pit outside but bear in mind… that can be dangerous. You also need to know about safety procedures for kilns as they release toxic compounds into the air. Every potter needs a potter’s wheel. This machine is used to shape the [[20_Vocabulary/clay|clay]] into an object with circular walls or sides, such as a bowl. Its invention revolutionised the [[20_Vocabulary/pottery|pottery]] industry, allowing multiple items to be produced in a day. Lastly, there are a number of different tools that potters use, depending on what they want to make. When you start, your hands can make all kinds of shapes and curves without relying on a sculpting tool. However, there are some basic tools that you [[20_Vocabulary/will|will]] need to handle the [[20_Vocabulary/clay|clay]] on the wheel. Some look very strange and have even odder names that you may find hard to remember. Rather than go through them all now, I’ll just name a few tools as we go along. We can provide these and I wouldn’t recommend spending money on them yet. So, let’s try making a pot of your own. If you sit down…
+You may think, can’t I use my oven? Well, that’s possible, but domestic ovens don’t really get hot enough and eventually the clay will crack and fall apart. Some people fire pottery in a fire pit outside but bear in mind… that can be dangerous. You also need to know about safety procedures for kilns as they release toxic compounds into the air. Every potter needs a potter’s wheel. This machine is used to shape the clay into an object with circular walls or sides, such as a bowl. Its invention revolutionised the pottery industry, allowing multiple items to be produced in a day. Lastly, there are a number of different tools that potters use, depending on what they want to make. When you start, your hands can make all kinds of shapes and curves without relying on a sculpting tool. However, there are some basic tools that you will need to handle the clay on the wheel. Some look very strange and have even odder names that you may find hard to remember. Rather than go through them all now, I’ll just name a few tools as we go along. We can provide these and I wouldn’t recommend spending money on them yet. So, let’s try making a pot of your own. If you sit down…
 
 ### PART 3
 
-**TAMARA** Shall we go through the notes we’ve made from our research into [[20_Vocabulary/loneliness|loneliness]] now, Dev?
+**TAMARA** Shall we go through the notes we’ve made from our research into loneliness now, Dev?
 
-**DEV** OK, Tamara. It’s been a real eye-opener. I had no idea that [[20_Vocabulary/loneliness|loneliness]] has been increasing steadily for the last 20 years.
+**DEV** OK, Tamara. It’s been a real eye-opener. I had no idea that loneliness has been increasing steadily for the last 20 years.
 
 **TAMARA** I know. And it’s the same all over the world. The downside of a modern lifestyle, I guess.
 
@@ -317,57 +317,57 @@ You may think, can’t I use my oven? Well, that’s possible, but domestic oven
 
 making me feel isolated, it actually does the opposite. it?
 
-**TAMARA** It definitely does more good than harm. I’d say [[20_Vocabulary/loneliness|loneliness]] has a lot to do with the way cities are designed. People living in high flats with not much opportunity to speak to their neighbours
+**TAMARA** It definitely does more good than harm. I’d say loneliness has a lot to do with the way cities are designed. People living in high flats with not much opportunity to speak to their neighbours
 
 **DEV** I think you right
 
 **TAMARA** Another possible reason is that people are having fewer children and don't live in large extended family groups.
 
-**DEV** But in this country anyway, that all changed decades ago. And yet [[20_Vocabulary/loneliness|loneliness]] is a more recent problem.
+**DEV** But in this country anyway, that all changed decades ago. And yet loneliness is a more recent problem.
 
 **TAMARA** I suppose so. A more plausible explanation is that people are having to move around for work and often end up living miles away from their family and friends.
 
 **DEV** That’s true.
 
-**TAMARA** Looking at the studies on health risks and [[20_Vocabulary/loneliness|loneliness]], there are claims that [[20_Vocabulary/loneliness|loneliness]] has as much impact as smoking 15 cigarettes a day.
+**TAMARA** Looking at the studies on health risks and loneliness, there are claims that loneliness has as much impact as smoking 15 cigarettes a day.
 
-**DEV** Or similar to the risks caused by [[20_Vocabulary/obesity|obesity]]. But I’m not sure there’s enough evidence for some of these claims.
+**DEV** Or similar to the risks caused by obesity. But I’m not sure there’s enough evidence for some of these claims.
 
-**TAMARA** Well, what about that one in Finland, which showed that [[20_Vocabulary/loneliness|loneliness]] increased the risk of cancer by about 10%? And those findings have been supported by other studies too.
+**TAMARA** Well, what about that one in Finland, which showed that loneliness increased the risk of cancer by about 10%? And those findings have been supported by other studies too.
 
-**DEV** You’re right about that one. I was actually thinking of the studies on [[20_Vocabulary/dementia|dementia]]. Some found no association between [[20_Vocabulary/loneliness|loneliness]] and [[20_Vocabulary/dementia|dementia]], and others found the opposite.
+**DEV** You’re right about that one. I was actually thinking of the studies on dementia. Some found no association between loneliness and dementia, and others found the opposite.
 
-**TAMARA** Not exactly reliable, then. There’s been a lot of research on [[20_Vocabulary/cardiovascular disease|cardiovascular disease]] and whether [[20_Vocabulary/loneliness|loneliness]] contributes to that.
+**TAMARA** Not exactly reliable, then. There’s been a lot of research on cardiovascular disease and whether loneliness contributes to that.
 
-**DEV** Yes, I read that it was hard to reach a judgement, as the definition of [[20_Vocabulary/loneliness|loneliness]] varied quite a lot, and the responses from participants were too subjective. But there’s no doubt that [[20_Vocabulary/loneliness|loneliness]] contributes to [[20_Vocabulary/a weakened immune system|a weakened immune system]].
+**DEV** Yes, I read that it was hard to reach a judgement, as the definition of loneliness varied quite a lot, and the responses from participants were too subjective. But there’s no doubt that loneliness contributes to a weakened immune system.
 
 **TAMARA** Unquestionably. The data on that is sound.
 
-**DEV** What did you think about the evolutionary theory of [[20_Vocabulary/loneliness|loneliness]]?
+**DEV** What did you think about the evolutionary theory of loneliness?
 
-**TAMARA** Well I thought the idea that [[20_Vocabulary/loneliness|loneliness]] evolved because it motivated people to be with other people is quite convincing. Survival often depended on group cooperation.
+**TAMARA** Well I thought the idea that loneliness evolved because it motivated people to be with other people is quite convincing. Survival often depended on group cooperation.
 
 **DEV** But I don think there is enough evidence to claim that there must be a group of neurons in our brains which influence social behaviour by making us feel bad when we’re alone.
 
 **TAMARA** There are a few studies which support the theory, but not conclusively enough. More evidence is needed.
 
-**DEV** And anyway, this theory’s not really useful when it comes to solving the problem of [[20_Vocabulary/loneliness|loneliness]] today.
+**DEV** And anyway, this theory’s not really useful when it comes to solving the problem of loneliness today.
 
 **TAMARA** True.
 
 *Now listen and answer questions 27 to 30.*
 
-**DEV** Should we look at the relationship between [[20_Vocabulary/loneliness|loneliness]] and [[20_Vocabulary/mental health|mental health]] now?
+**DEV** Should we look at the relationship between loneliness and mental health now?
 
-**TAMARA** OK. So, [[20_Vocabulary/loneliness|loneliness]] and [[20_Vocabulary/depression|depression]] are clearly related and that’s been recognised by various governments around the world. But unlike [[20_Vocabulary/depression|depression]], [[20_Vocabulary/loneliness|loneliness]] has no recognised clinical form.
+**TAMARA** OK. So, loneliness and depression are clearly related and that’s been recognised by various governments around the world. But unlike depression, loneliness has no recognised clinical form.
 
 **DEV** There’s no available diagnosis or effective treatment and that’s not likely to change.
 
 **TAMARA** I don’t think so either I was thinking we should start our presentation with an example from our own experience I like to talk about how lonely I was when I started university being away from home for the first time and all that
 
-**DEV** Good idea. Everyone [[20_Vocabulary/will|will]] be able to relate to that although a lot of students were probably too embarrassed to admit to it.
+**DEV** Good idea. Everyone will be able to relate to that although a lot of students were probably too embarrassed to admit to it.
 
-**TAMARA** Yeah. We could discuss ways of dealing with [[20_Vocabulary/loneliness|loneliness]] as well, like just talking to strangers.
+**TAMARA** Yeah. We could discuss ways of dealing with loneliness as well, like just talking to strangers.
 
 **DEV** Loads of studies have shown that interactions with shop assistants and bar staff make people feel more optimistic and relaxed.
 
@@ -375,9 +375,9 @@ making me feel isolated, it actually does the opposite. it?
 
 **DEV** True, although you need to be a certain kind of person to be able to just strike up a conversation.
 
-**TAMARA** Good point. We should say something about [[20_Vocabulary/solitude|solitude]] and how being alone and being lonely aren’t the same thing. It’s strange the way some people can’t stand being by themselves while others love it.
+**TAMARA** Good point. We should say something about solitude and how being alone and being lonely aren’t the same thing. It’s strange the way some people can’t stand being by themselves while others love it.
 
-**DEV** Yeah, the research shows a certain amount of [[20_Vocabulary/solitude|solitude]] is beneficial for wellbeing, which I appreciate, but being alone isn’t something I actually like. I’d never choose to go on holiday alone, for example.
+**DEV** Yeah, the research shows a certain amount of solitude is beneficial for wellbeing, which I appreciate, but being alone isn’t something I actually like. I’d never choose to go on holiday alone, for example.
 
 **TAMARA** Me neither.
 
@@ -385,7 +385,7 @@ making me feel isolated, it actually does the opposite. it?
 
 ### PART 4
 
-It’s quite hard to think of a city that doesn’t have a big river running through it. If you think about the major cities in the world, Shanghai, New York, Mumbai, London, they’re nearly all built on rivers. When these cities were established hundreds or even thousands of years ago, the rivers were a big part of people’s lives. In 16th century London, the quickest way to get from one part of the city to another was by river. But people also used the river for fishing, as the water then was relatively clean, and they would also go on boat trips up and down the river just for pleasure, as a relaxing escape from the noise and bustle of the city streets But as industries developed and populations increased city rivers suffered The rising number of people meant there was a huge increase in the amount of [[20_Vocabulary/sewage|sewage]] discharged into the rivers. Rivers had always been used for this purpose, but when the number of inhabitants was so small, that wasn’t such a problem. However, as cities grew to over a million inhabitants, the impact on the rivers became more serious. In addition, other types of pollution increased, as factories were built beside the river and discharged their waste materials into the water. This got worse over time. As recently as 1957, scientists at London’s Natural History Museum declared that the River Thames was dead in biological terms, as the water was too filthy to support any kind of life. But in recent years, as rivers lost their industrial function, cities have begun to recognise their true value and to take steps to clean them up. For example, the River Thames is now cleaner than it’s been for 150 years. These days you can see seals swimming in the water, and recently people had to try to rescue a whale, which had got lost and swam up the river from the sea by mistake. Unfortunately, they didn’t succeed, but the problem was disorientation rather than the quality of the water. Then, all around the world, [[20_Vocabulary/riverside|riverside]] areas are now seen as prime sites for development. Warehouses that were once used for storing goods are now being converted into [[20_Vocabulary/expensive|expensive]] restaurants and also into apartments with river views, which are in great demand and sell for astronomical prices. In Los Angeles, on the west coast of the USA, an architect has plans to revitalise the banks of the river and to make a park there which can provide facilities for sports as well as a natural environment for relaxing in It also hoped that the [[20_Vocabulary/riverside|riverside]] can be used for other purposes It’s been proposed that facilities could be provided for displaying projects related to various kinds of art that have been produced by local people, for example. In the city of Paris, During the summer months of July and August, all the traffic is banned from the roads by the sides of the river, and the banks are transformed into beaches, where people can relax in deck chairs under potted palm trees, sunbathe or buy a drink or a snack while [[20_Vocabulary/enjoy|enjoying]] the view. But to make the most of our rivers in our increasingly crowded cities, we need to allow them to regain their original purpose and be used as a means of transport, reclaiming our streets from cars and lorries. To do this, we’ll have to shift more traffic back to the river, but this time cleanly and silently, making the most of modern technology. Already, more than two billion passengers use the ferry to travel in cities around the world, like Istanbul, San Francisco and New York, and these numbers are set to rise further. Admittedly, it’s not a fast way of travelling, but neither is a car when it’s stuck in traffic. Of course, [[20_Vocabulary/passenger|passenger]] traffic on roads might decrease as more people start working from home, but another recent development, the huge rise in online shopping, has meant that another form of urban traffic just keeps on growing, and that’s deliveries. Trucks and vans in the city pollute and double-park while dropping off parcels. Imagine using the immense capacity of shipping to take these trucks off the road. One [[20_Vocabulary/freight barge|freight barge]] can replace 44 large trucks, uses far less energy and causes less pollution When the barge docks at the [[20_Vocabulary/riverside|riverside]] the parcels could be taken the last few kilometres to their final destination on cargo bikes, electric ones of course. This is already happening in the Dutch city of Amsterdam, and in future the final stage could even be carried out by drone, although at present this isn’t allowed. Wouldn’t it be great to unblock our city centres in this way? Looking further ahead…
+It’s quite hard to think of a city that doesn’t have a big river running through it. If you think about the major cities in the world, Shanghai, New York, Mumbai, London, they’re nearly all built on rivers. When these cities were established hundreds or even thousands of years ago, the rivers were a big part of people’s lives. In 16th century London, the quickest way to get from one part of the city to another was by river. But people also used the river for fishing, as the water then was relatively clean, and they would also go on boat trips up and down the river just for pleasure, as a relaxing escape from the noise and bustle of the city streets But as industries developed and populations increased city rivers suffered The rising number of people meant there was a huge increase in the amount of sewage discharged into the rivers. Rivers had always been used for this purpose, but when the number of inhabitants was so small, that wasn’t such a problem. However, as cities grew to over a million inhabitants, the impact on the rivers became more serious. In addition, other types of pollution increased, as factories were built beside the river and discharged their waste materials into the water. This got worse over time. As recently as 1957, scientists at London’s Natural History Museum declared that the River Thames was dead in biological terms, as the water was too filthy to support any kind of life. But in recent years, as rivers lost their industrial function, cities have begun to recognise their true value and to take steps to clean them up. For example, the River Thames is now cleaner than it’s been for 150 years. These days you can see seals swimming in the water, and recently people had to try to rescue a whale, which had got lost and swam up the river from the sea by mistake. Unfortunately, they didn’t succeed, but the problem was disorientation rather than the quality of the water. Then, all around the world, riverside areas are now seen as prime sites for development. Warehouses that were once used for storing goods are now being converted into expensive restaurants and also into apartments with river views, which are in great demand and sell for astronomical prices. In Los Angeles, on the west coast of the USA, an architect has plans to revitalise the banks of the river and to make a park there which can provide facilities for sports as well as a natural environment for relaxing in It also hoped that the riverside can be used for other purposes It’s been proposed that facilities could be provided for displaying projects related to various kinds of art that have been produced by local people, for example. In the city of Paris, During the summer months of July and August, all the traffic is banned from the roads by the sides of the river, and the banks are transformed into beaches, where people can relax in deck chairs under potted palm trees, sunbathe or buy a drink or a snack while enjoying the view. But to make the most of our rivers in our increasingly crowded cities, we need to allow them to regain their original purpose and be used as a means of transport, reclaiming our streets from cars and lorries. To do this, we’ll have to shift more traffic back to the river, but this time cleanly and silently, making the most of modern technology. Already, more than two billion passengers use the ferry to travel in cities around the world, like Istanbul, San Francisco and New York, and these numbers are set to rise further. Admittedly, it’s not a fast way of travelling, but neither is a car when it’s stuck in traffic. Of course, passenger traffic on roads might decrease as more people start working from home, but another recent development, the huge rise in online shopping, has meant that another form of urban traffic just keeps on growing, and that’s deliveries. Trucks and vans in the city pollute and double-park while dropping off parcels. Imagine using the immense capacity of shipping to take these trucks off the road. One freight barge can replace 44 large trucks, uses far less energy and causes less pollution When the barge docks at the riverside the parcels could be taken the last few kilometres to their final destination on cargo bikes, electric ones of course. This is already happening in the Dutch city of Amsterdam, and in future the final stage could even be carried out by drone, although at present this isn’t allowed. Wouldn’t it be great to unblock our city centres in this way? Looking further ahead…
 
 
 ## Answer Cam 20 Listening Test 01

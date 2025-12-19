@@ -71,6 +71,19 @@ Restore a file to a previous state using the ID found in the list.
 python3 glean/99_Tools/scripts/auto_link_vocab.py --restore 20251219_113004_1b8b0f
 ```
 
+### 6. Batch Restore (Undo All)
+If you processed a folder and want to revert **every file** modified in that specific run:
+```bash
+# Use the first part of the backup ID (the timestamp portion)
+python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-all 20251219_113004
+```
+
+### 7. Restore to Original Version
+If you want to completely reset a file to its state before you ever used this script (the very first backup):
+```bash
+python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-original "glean/10_Sources/Articles/MyFile.md"
+```
+
 ## Technical Details
 
 - **Backup Location:** `glean/99_Tools/backups/`

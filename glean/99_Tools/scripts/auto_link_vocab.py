@@ -390,6 +390,62 @@ def process_file(filepath, terms_map, sorted_term_keys, dry_run=True):
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.writelines(new_lines)
 
+def restore_session(session_prefix):
+    inventory = load_inventory()
+    # Filter entries that start with this prefix
+    entries = [item for item in inventory if item["id"].startswith(session_prefix)]
+    
+    if not entries:
+        print(f"Error: No backups found matching session prefix '{session_prefix}'.")
+        return
+    
+    print(f"Found {len(entries)} files in session '{session_prefix}'. Restoring...")
+    
+    success_count = 0
+    for entry in entries:
+        backup_path = entry["backup_path"]
+        original_path = entry["original_path"]
+        
+        if not os.path.exists(backup_path):
+            print(f"Warning: Backup file missing for {os.path.basename(original_path)}")
+            continue
+            
+        try:
+            shutil.copy2(backup_path, original_path)
+            success_count += 1
+            print(f"  - Restored: {os.path.basename(original_path)}")
+        except Exception as e:
+            print(f"  - Error restoring {os.path.basename(original_path)}: {e}")
+            
+    print(f"Restoration complete. {success_count}/{len(entries)} files restored.")
+
+def restore_to_original(filepath):
+    inventory = load_inventory()
+    abs_target = os.path.abspath(filepath)
+    
+    # Filter entries for this file
+    entries = [item for item in inventory if item.get("original_path") == abs_target]
+    
+    if not entries:
+        print(f"Error: No backup history found for '{os.path.basename(filepath)}'.")
+        return
+    
+    # Sort by timestamp ascending to find the oldest (original) one
+    entries.sort(key=lambda x: x["timestamp"])
+    oldest_entry = entries[0]
+    
+    backup_path = oldest_entry["backup_path"]
+    if not os.path.exists(backup_path):
+        print(f"Error: The oldest backup file is missing at {backup_path}")
+        return
+        
+    print(f"Restoring '{os.path.basename(filepath)}' to its OLDEST version ({oldest_entry['timestamp']})...")
+    try:
+        shutil.copy2(backup_path, abs_target)
+        print("Restore successful.")
+    except Exception as e:
+        print(f"Error restoring file: {e}")
+
 def main():
     parser = argparse.ArgumentParser(description="Auto-link vocabulary in articles.")
     parser.add_argument("--file", help="Process a single specific file (relative or absolute path)")
@@ -397,7 +453,9 @@ def main():
     parser.add_argument("--dry-run", action="store_true", help="Print changes without modifying files")
     parser.add_argument("--no-dry-run", action="store_false", dest="dry_run", help="Actually modify files")
     parser.add_argument("--list-backups", nargs='?', const='ALL', help="List available backups. Optional: provide file path to filter.")
-    parser.add_argument("--restore", help="Restore a file from a backup ID")
+    parser.add_argument("--restore", help="Restore a single file from a specific backup ID")
+    parser.add_argument("--restore-all", help="Restore all files from a specific session (timestamp prefix)")
+    parser.add_argument("--restore-original", help="Restore a specific file to its very first (oldest) backup version")
     parser.add_argument("--migrate-aliases", action="store_true", help="One-time utility: Add 'aliases: []' to existing vocabulary files.")
     
     parser.set_defaults(dry_run=True)
@@ -407,6 +465,16 @@ def main():
     # Handle Restore
     if args.restore:
         restore_backup(args.restore)
+        return
+
+    # Handle Batch Restore
+    if args.restore_all:
+        restore_session(args.restore_all)
+        return
+        
+    # Handle Restore Original
+    if args.restore_original:
+        restore_to_original(args.restore_original)
         return
 
     # Handle List Backups
