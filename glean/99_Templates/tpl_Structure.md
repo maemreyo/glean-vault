@@ -1,10 +1,33 @@
+#flashcards/structure/grammar-foundation
+<!--
+Select one of the following tags to replace the line above:
+
+# Grammar Foundation
+#flashcards/structure/grammar-foundation/comparison
+#flashcards/structure/grammar-foundation/conditional
+#flashcards/structure/grammar-foundation/passive-voice
+#flashcards/structure/grammar-foundation/cohesion
+
+# Writing Patterns (Task 1)
+#flashcards/structure/writing-patterns/task-1/trend-language
+#flashcards/structure/writing-patterns/task-1/comparative-language
+#flashcards/structure/writing-patterns/task-1/map-describing
+#flashcards/structure/writing-patterns/task-1/process-cycle
+
+# Writing Patterns (Task 2)
+#flashcards/structure/writing-patterns/task-2/introduction-templates
+#flashcards/structure/writing-patterns/task-2/opinion-argumentation
+#flashcards/structure/writing-patterns/task-2/problem-solution-patterns
+#flashcards/structure/writing-patterns/task-2/counter-argument
+
+# Speaking Patterns
+#flashcards/structure/speaking-patterns/part-1
+#flashcards/structure/speaking-patterns/part-2
+#flashcards/structure/speaking-patterns/part-3
+-->
 ---
 tags:
   - structure
-  - flashcard
-  - grammar
-mastery: 🔴 New
-type: structure
 status: pending
 ---
 

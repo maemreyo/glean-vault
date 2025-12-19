@@ -34,24 +34,95 @@ All flashcards must include the root tag (defined in plugin settings, default `#
 Based on a comprehensive analysis of your current vocabulary, here is the full recommended deck structure:
 
 ```text
-#flashcards
-├── vocabulary
-│   ├── health          (Medical, Body, Diseases)
-│   ├── art-craft       (Pottery, Arts, Making)
-│   ├── science         (Biology, Space, Nature)
-│   ├── food-cooking    (Kitchen, Diets, Tools)
-│   ├── transport       (Logistics, Vehicles, Travel)
-│   ├── society         (Lifestyle, Human Relations)
-│   ├── academic        (Linking words, Abstract concepts)
-│   └── idioms          (Phrases, Expressions)
-│
-├── structure
-│   ├── basic           (A1-A2 patterns)
-│   ├── advanced        (B2-C2 nuances)
-│   └── transformation  (Rewrite/Transform exercises)
-│
-└── sources             (Context-based decks)
-    └── ielts-cam-19    (Words learned from specific Cambridge texts)
+# Vocabulary
+#flashcards/vocabulary/general/functional-words
+#flashcards/vocabulary/general/abstract-concepts
+#flashcards/vocabulary/general/emotions-personality-adjectives
+
+#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
+#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
+#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
+
+#flashcards/vocabulary/topic-specific/sci-tech/technology
+#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
+#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
+
+#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
+#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
+#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
+
+#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
+#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
+#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
+
+#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
+#flashcards/vocabulary/topic-specific/agriculture-food/food-science
+#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
+
+#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
+#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
+#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
+
+#flashcards/vocabulary/topic-specific/education/university-academic-life
+#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
+#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
+
+#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
+#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
+#flashcards/vocabulary/topic-specific/work-economy/business-models
+
+#flashcards/vocabulary/topic-specific/health/physical-health-diet
+#flashcards/vocabulary/topic-specific/health/mental-health-stress
+#flashcards/vocabulary/topic-specific/health/healthcare-systems
+
+#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
+#flashcards/vocabulary/topic-specific/arts-architecture/architecture
+#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
+
+#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
+#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
+#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
+
+#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
+#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
+#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
+
+#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
+#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
+#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
+
+#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
+#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
+#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
+
+#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
+#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
+#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
+
+# Structure
+#flashcards/structure/grammar-foundation/comparison
+#flashcards/structure/grammar-foundation/conditional
+#flashcards/structure/grammar-foundation/passive-voice
+#flashcards/structure/grammar-foundation/cohesion
+
+#flashcards/structure/writing-patterns/task-1/trend-language
+#flashcards/structure/writing-patterns/task-1/comparative-language
+#flashcards/structure/writing-patterns/task-1/map-describing
+#flashcards/structure/writing-patterns/task-1/process-cycle
+
+#flashcards/structure/writing-patterns/task-2/introduction-templates
+#flashcards/structure/writing-patterns/task-2/opinion-argumentation
+#flashcards/structure/writing-patterns/task-2/problem-solution-patterns
+#flashcards/structure/writing-patterns/task-2/counter-argument
+
+#flashcards/structure/speaking-patterns/part-1
+#flashcards/structure/speaking-patterns/part-2
+#flashcards/structure/speaking-patterns/part-3
+
+# Sources
+#flashcards/sources/ielts-cambridge-series
+#flashcards/sources/authentic-reading
+#flashcards/sources/mistakes-review
 ```
 
 ---
