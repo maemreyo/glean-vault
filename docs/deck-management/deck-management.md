@@ -24,8 +24,6 @@ All flashcards must include the root tag (defined in plugin settings, default `#
 > 1. **File-Level Tag:** Every flashcard file MUST start with a deck tag at the very top of the file (before frontmatter, or as the first line).
 >    - Format: `#flashcards/<type>/<topic>`
 >    - Example: `#flashcards/vocabulary/technology`
-> 2. **Card-Level Subdeck:** Each individual card (question/answer block) MUST have a specific subdeck tag if it differs from the file, but typically the file tag covers it. However, if you want specific sub-decks for questions, place the tag immediately before the question.
->    - Format: `#flashcards/<type>/<topic>/<subtopic>`
 >
 > **Note on Frontmatter:** Placing content before `---` YAML frontmatter may theoretically affect how some plugins read metadata, but for the Spaced Repetition plugin, it ensures the file is recognized. If you use properties heavily, ensure your Obsidian configuration supports this, or place the tag *after* the frontmatter if issues arise. (User preference: Top of file).
 
