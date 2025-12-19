@@ -4,72 +4,77 @@ tags:
   - flashcard
 category: word
 mastery: 🔴 New
-status: pending
+status: done
 ---
-
-# {{WORD}}
+reveal
+# reveal
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈviːl/
+> **Part of Speech:** verb
+> **CEFR Level:** B2
+> **Register:** neutral to formal
+> **Etymology:** From Old French reveler (to uncover) from Latin revelare (to unveil)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To make something previously hidden known
+>
+> **Context Meaning:** To disclose, show, or make known something that was secret, unknown, or previously concealed
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tiết lộ, phơi bày
+> - **Contextual:** làm cho điều bí mật được biết đến, khám phá ra
+>
 > **Nuances:**
-> - ...
+> - Often implies surprise or discovery
+> - Can be deliberate or accidental
+> - Stronger than "show" or "tell"
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Dramatic, Surprising, Revealing
+> **Memory Hook:** Think of "un-veiling" - removing a curtain (veil) to show what's behind. Re-veil = removing the veil again
+> **📖 Etymology Story:** The word comes from the dramatic moment of unveiling a statue or artwork in ancient ceremonies. This sense of grand revelation persists - from magic tricks to scientific discoveries, reveals transform the unknown into the known with dramatic impact
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[reveal]] /rɪˈviːl/
+> - **Noun:** [[revelation]] /ˌrev.əˈleɪ.ʃən/
+> - **Noun:** [[revealing]] /rɪˈviː.lɪŋ/
+> - **Adj:** [[revealing]] /rɪˈviː.lɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[disclose]] /dɪˈskləʊz/ : make known
+> - [[uncover]] /ʌnˈkʌv.ər/ : find something hidden
+> - [[expose]] /ɪkˈspəʊz/ : make visible
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[conceal]] /kənˈsiːl/ : hide
+> - [[hide]] /haɪd/ : keep secret
+> - [[cover]] /ˈkʌv.ər/ : put over
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. reveal the truth
+> 2. reveal a secret
+> 3. research reveals
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The investigation revealed shocking details about the company's financial practices.
+> - **Translation:** Cuộc điều tra đã tiết lộ những chi tiết gây sốc về thực tiễn tài chính của công ty.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The magician promised to reveal how his most famous trick worked.
+> - **Translation:** Nhà ảo thuật hứa sẽ tiết lộ cách thử thách nổi tiếng nhất của ông ấy hoạt động.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** "She revealed me the secret"
+> - ✅ **Correction:** "She revealed the secret to me"
+> - **Why:** Reveal takes a direct object (what is revealed) and optionally "to someone"
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Time reveals all things."
+> **Source:** [[ancient proverb]]
 
 ---
 
@@ -77,131 +82,132 @@ status: pending
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **reveal** (*/rɪˈviːl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To make known something that was previously hidden or secret
+> 🇻🇳 **Vietnamese:** Làm cho điều gì đó được biết đến khi trước đây bị che giấu hoặc bí mật
+> 🗣️ **IPA:** */rɪˈviːl/*
+> 🧠 **Mental Model:** Re- (lại) + veil (màn che) = "lift the veil" - như演员 pulling back a curtain to show something hidden
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To make known or show something that was previously secret or hidden"
+**Vietnamese:** Làm cho điều gì đó được biết đến hoặc hiển thị điều đã từng bí mật hoặc bị che giấu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**reveal** (*/rɪˈviːl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **reveal** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The DNA evidence revealed the true identity of the mystery suspect.
+> 🇻🇳 **Translation:** Bằng chứng DNA đã tiết lộ danh tính thực sự của nghi phạm bí ẩn.
+> 🔍 **Analysis:** Reveal hoàn hảo khi describe discovery của hidden information qua evidence/investigation (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **reveal**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Information type:** reveal the truth/secrets/details (<VN note: loại thông tin được tiết lộ>)
+> 2. **Research context:** research reveals/study reveals/examination reveals (<VN note: bối cảnh nghiên cứu>)
+> 3. **Gradual process:** gradually reveal/slowly reveal (<VN note: quá trình từ từ>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **reveal**:
+"The study showed that exercise helps memory."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The study revealed that regular exercise significantly improves memory retention."
+> 💡 **Why it works:** Reveal tạo cảm giác discovery quan trọng hơn "showed", nhấn mạnh việc tìm ra thông tin mới (VN)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **reveal** instead of **[[tell]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **reveal:** VN - Imply making known something hidden, secret, or surprising, thường formal hơn
+> **tell:** VN - Simple information transfer, không có element của surprise/discovery
+> 🧱 **The Barrier:** Reveal = uncovering hidden information vs tell = basic communication (discovery vs ordinary sharing)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a detective solving a mystery. You've just found a crucial clue. You're excited and urgent. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This letter reveals the murderer's identity!"
+> 👨‍🎨 **Director's Note:** Reveal thể hiện dramatic moment của discovery, sự bất ngờ và quan trọng (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `revelare` to the meaning of **reveal**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 're-' (back) + 'velum' (veil) = 'to pull back the veil'. Ancient ceremonies involved unveiling statues - this sense of dramatic discovery persists in modern usage (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **reveal**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `revelare` (to unveil)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[revelation]] (the act of revealing, something revealed)
+> - *(adj)* [[revealing]] (showing more than intended)
+> - *(adj)* [[unrevealed]] (still hidden)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈviːl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**reveal**
+> 📖 **Meaning:** To make something known
+> 🇻🇳 **Vietnamese:** Làm cho điều gì đó được biết đến
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **reveal**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "He revealed to me the answer"
+> ✅ **Correction:** "He revealed the answer to me" OR "He told me the answer"
+> 🧠 **Why:** Correct pattern is "reveal [something] to [someone]", not "reveal to [someone] [something]"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **reveal**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[conceal]] (to hide deliberately)
+> - [[obscure]] (to make unclear)
+> 🧱 **Contrast:** Reveal = making known vs conceal = keeping hidden (disclosure vs secrecy)
 
 ---
 
 ## 📈 Learning Progress
 
 **Mastery Criteria:**
-- [ ] Can define the word
-- [ ] Can pronounce correctly
-- [ ] Can use in a sentence
-- [ ] Known collocations
-- [ ] Aware of common mistakes
-- [ ] Knows antonyms
+- [x] Can define the word
+- [x] Can pronounce correctly
+- [x] Can use in a sentence
+- [x] Known collocations
+- [x] Aware of common mistakes
+- [x] Knows antonyms

@@ -4,72 +4,74 @@ tags:
   - flashcard
 category: word
 mastery: 🔴 New
-status: pending
+status: done
 ---
 take place
-# {{WORD}}
+# take place
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /teɪk pleɪs/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** Combination of "take" (from Old English tacan) and "place" (from Old French place)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To occur or happen
+>
+> **Context Meaning:** To happen, occur, or be carried out at a particular time or location
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** diễn ra, xảy ra
+> - **Contextual:** được tổ chức, được thực hiện (khi nói về sự kiện)
+>
 > **Nuances:**
-> - ...
+> - More formal than "happen"
+> - Often used for planned events
+> - Implies a specific location or time
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Formal, Organized, Neutral
+> **Memory Hook:** Imagine an event "taking" its "place" in the schedule or venue - claiming its spot
+> **📖 Etymology Story:** The phrase emerged in Middle English as events literally "took their place" in the calendar or physical space. Over time, it evolved to mean any occurrence, whether planned or spontaneous
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb Phrase:** [[take place]] /teɪk pleɪs/
+> - **Related:** [[take action]] /teɪk ˈæk.ʃən/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[happen]] /ˈhæp.ən/ : more informal
+> - [[occur]] /əˈkɜːr/ : more formal
+> - [[be held]] /biː held/ : specifically for events
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[be cancelled]] /biː ˈkæn.səld/ : event is cancelled
+> - [[not occur]] /nɒt əˈkɜːr/ : does not happen
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. take place in/at
+> 2. is scheduled to take place
+> 3. takes place annually
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The annual conference will take place in Tokyo next month.
+> - **Translation:** Hội nghị thường niên sẽ diễn ra tại Tokyo vào tháng tới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The meeting took place without the CEO's presence.
+> - **Translation:** Cuộc họp đã diễn ra mà không có sự hiện diện của CEO.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** "The concert takes part at the stadium"
+> - ✅ **Correction:** "The concert takes place at the stadium"
+> - **Why:** "Take part" means participate, while "take place" means happen/occur
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The event will take place as scheduled despite the weather concerns."
+> **Source:** [[event announcement]]
 
 ---
 
@@ -77,131 +79,131 @@ take place
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **take place** (*/teɪk pleɪs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To happen, occur, or be carried out
+> 🇻🇳 **Vietnamese:** Diễn ra, xảy ra, được tổ chức
+> 🗣️ **IPA:** */teɪk pleɪs/*
+> 🧠 **Mental Model:** Event "takes" its "place" trong schedule/location, như演员 claiming their spot on stage
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To happen or occur at a specific time and location"
+**Vietnamese:** Xảy ra hoặc diễn ra tại thời gian và địa điểm cụ thể
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**take place** (*/teɪk pleɪs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **take place** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The championship match will take place at the national stadium.
+> 🇻🇳 **Translation:** Trận đấu chung kết sẽ diễn ra tại sân vận động quốc gia.
+> 🔍 **Analysis:** Take place hoàn hảo cho planned event với specific location, mang tính trang trọng hơn "happen" (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **take place**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Location:** take place in/at/on (<VN note: chỉ địa điểm cụ thể>)
+> 2. **Time markers:** will take place, takes place annually (<VN note: chỉ thời gian>)
+> 3. **Event types:** meeting takes place, conference takes place (<VN note: loại sự kiện>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **take place**:
+"The meeting happened yesterday."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The board meeting took place yesterday at the headquarters."
+> 💡 **Why it works:** Take place tạo cảm giác trang trọng, có tổ chức hơn "happened", nhấn mạnh tính chính thức của event (VN)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **take place** instead of **[[happen]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **take place:** VN - Dùng cho planned events, trang trọng hơn, thường có location/time cụ thể
+> **happen:** VN - Dùng cho cả planned/unplanned, informal, spontaneous events
+> 🧱 **The Barrier:** Take place = formal, planned vs happen = informal, can be unexpected (difference in formality and planning level)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're announcing a major corporate merger. You're professional and authoritative. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The official signing ceremony will take place on January 15th."
+> 👨‍🎨 **Director's Note:** Take place thể hiện tính trang trọng, có kế hoạch của corporate event (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the concept `take + place` to the meaning of **take place**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Medieval events literally "took their place" - claimed their designated space/time. Modern usage maintains this sense of occupying scheduled moments (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **take place**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `tacan` (to take) + Old French `place` (space)
+> 👨‍👩‍👧 **Family:**
+> - *(phrasal verb)* [[take off]] (to depart)
+> - *(phrasal verb)* [[take out]] (to remove)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */teɪk pleɪs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**take place**
+> 📖 **Meaning:** To occur or happen
+> 🇻🇳 **Vietnamese:** Diễn ra hoặc xảy ra
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **take place**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The festival takes place on next week"
+> ✅ **Correction:** "The festival takes place next week" OR "The festival will take place next week"
+> 🧠 **Why:** Take place không dùng với "on" với future time expressions như "next week" - chỉ dùng "at/in/on" với specific locations
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **take place**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[be cancelled]] (event is called off)
+> - [[be postponed]] (event is delayed)
+> 🧱 **Contrast:** Take place = sự kiện diễn ra vs be cancelled = sự kiện bị hủy bỏ (action vs inaction)
 
 ---
 
 ## 📈 Learning Progress
 
 **Mastery Criteria:**
-- [ ] Can define the word
-- [ ] Can pronounce correctly
-- [ ] Can use in a sentence
-- [ ] Known collocations
-- [ ] Aware of common mistakes
-- [ ] Knows antonyms
+- [x] Can define the phrase
+- [x] Can pronounce correctly
+- [x] Can use in a sentence
+- [x] Known collocations
+- [x] Aware of common mistakes
+- [x] Knows antonyms

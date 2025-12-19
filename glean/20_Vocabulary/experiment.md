@@ -4,72 +4,77 @@ tags:
   - flashcard
 category: word
 mastery: 🔴 New
-status: pending
+status: done
 ---
-
-# {{WORD}}
+experiment
+# experiment
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪkˈsper.ɪ.ment/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B1
+> **Register:** academic/scientific
+> **Etymology:** From Latin experimentum (a trial, test) from experiri (to try)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A scientific procedure to test a hypothesis
+>
+> **Context Meaning:** (N) A carefully controlled test to discover or demonstrate something; (V) to try something new to see what happens
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thí nghiệm, thử nghiệm
+> - **Contextual:** quy trình khoa học kiểm chứng giả thuyết; việc thử cái mới
+>
 > **Nuances:**
-> - ...
+> - Implies systematic methodology
+> - Can be scientific or everyday trial
+> - Often involves control groups and variables
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Curious, Systematic, Innovative
+> **Memory Hook:** "Ex" (out of) + "peri" (experience) = experiencing something out of the ordinary
+> **📖 Etymology Story:** Ancient alchemists would "experience out" (experiri) new combinations of materials in their laboratories. This spirit of discovery through careful testing evolved into modern scientific experiments - from Galileo dropping balls from towers to CERN smashing atoms
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[experiment]] /ɪkˈsper.ɪ.ment/
+> - **Verb:** [[experiment]] /ɪkˈsper.ɪ.ment/
+> - **Noun:** [[experimental]] /ɪkˌsper.ɪˈmen.təl/
+> - **Noun:** [[experimenter]] /ɪkˈsper.ɪ.ment.ər/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[trial]] /traɪ.əl/ : test to see if something works
+> - [[test]] /test/ : procedure to evaluate
+> - [[study]] /ˈstʌd.i/ : research investigation
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[theory]] /ˈθɪə.ri/ : ideas without testing
+> - [[assumption]] /əˈsʌmp.ʃən/ : belief without proof
+> - [[conclusion]] /kənˈkluː.ʒən/ : final decision after testing
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. conduct/carry out an experiment
+> 2. scientific experiment
+> 3. experiment with
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The scientists conducted an experiment to test the new drug's effectiveness.
+> - **Translation:** Các nhà khoa học đã tiến hành một thí nghiệm để kiểm tra hiệu quả của loại thuốc mới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She likes to experiment with different cooking techniques.
+> - **Translation:** Cô ấy thích thử nghiệm các kỹ thuật nấu ăn khác nhau.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** "They made an experiment"
+> - ✅ **Correction:** "They conducted/did an experiment"
+> - **Why:** Specific verbs are used with "experiment" - conduct, carry out, do, perform
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The experiment is the sole judge of scientific truth."
+> **Source:** [[Richard Feynman]]
 
 ---
 
@@ -77,131 +82,132 @@ status: pending
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **experiment** (*/ɪkˈsper.ɪ.ment/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A controlled test to discover or demonstrate something scientifically
+> 🇻🇳 **Vietnamese:** Một bài kiểm soát để khám phá hoặc chứng minh điều gì đó một cách khoa học
+> 🗣️ **IPA:** */ɪkˈsper.ɪ.ment/*
+> 🧠 **Mental Model:** Ex- (ra khỏi) + peri (kinh nghiệm) = "kinh nghiệm ra khỏi bình thường", như scientist trying something new trong lab
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A scientific procedure carried out to test a hypothesis or discover something unknown"
+**Vietnamese:** Quy trình khoa học được thực hiện để kiểm chứng giả thuyết hoặc khám phá điều chưa biết
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**experiment** (*/ɪkˈsper.ɪ.ment/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **experiment** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The chemistry students designed an experiment to observe chemical reactions under different temperatures.
+> 🇻🇳 **Translation:** Sinh viên hóa học đã thiết kế một thí nghiệm để quan sát phản ứng hóa học dưới các nhiệt độ khác nhau.
+> 🔍 **Analysis:** Experiment hoàn hảo khi describe controlled scientific procedure với specific variables và observations (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **experiment**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action verbs:** conduct/carry out/perform an experiment (<VN note: động từ hành động>)
+> 2. **Types of experiment:** scientific/control/field experiment (<VN note: loại thí nghiệm>)
+> 3. **As verb:** experiment with/with new methods (<VN note: khi dùng như động từ>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **experiment**:
+"They tried the new teaching method."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The researchers conducted an experiment to evaluate the new teaching method's effectiveness."
+> 💡 **Why it works:** Experiment tạo hình ảnh systematic evaluation hơn "tried", nhấn mạnh scientific approach (VN)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **experiment** instead of **[[trial]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **experiment:** VN - Formal scientific procedure, có control variables, systematic methodology
+> **trial:** VN - Simple test, thường trong real-world context, less formal
+> 🧱 **The Barrier:** Experiment = controlled scientific testing vs trial = practical testing (laboratory vs reality)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a scientist excited about your discovery. You're enthusiastic and proud. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our experiment has successfully proven the hypothesis!"
+> 👨‍🎨 **Director's Note:** Experiment thể hiện niềm vui scientific discovery, satisfaction của systematic testing (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `experiri` to the meaning of **experiment**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'ex-' (out) + 'periri' (to try, risk). Ancient scholars would "try out" ideas to see what works. Modern scientists continue this tradition through controlled experiments (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **experiment**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `experiri` (to try, test)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[experimental]] (based on or using experiments)
+> - *(noun)* [[experimenter]] (person who conducts experiments)
+> - *(noun)* [[experience]] /ɪkˈspɪə.ri.əns/ (knowledge gained from practice)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪkˈsper.ɪ.ment/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**experiment**
+> 📖 **Meaning:** A scientific test or trial
+> 🇻🇳 **Vietnamese:** Một bài kiểm tra hoặc thử nghiệm khoa học
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **experiment**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The company experimented about the new software"
+> ✅ **Correction:** "The company experimented with the new software" OR "The company conducted an experiment on the new software"
+> 🧠 **Why:** Correct patterns are "experiment with [something]" (verb) or "conduct an experiment on [something]" (noun)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **experiment**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[theory]] (ideas without testing)
+> - [[conclusion]] (final answer without testing)
+> 🧱 **Contrast:** Experiment = testing ideas vs theory = just having ideas (action vs speculation)
 
 ---
 
 ## 📈 Learning Progress
 
 **Mastery Criteria:**
-- [ ] Can define the word
-- [ ] Can pronounce correctly
-- [ ] Can use in a sentence
-- [ ] Known collocations
-- [ ] Aware of common mistakes
-- [ ] Knows antonyms
+- [x] Can define the word
+- [x] Can pronounce correctly
+- [x] Can use in a sentence
+- [x] Known collocations
+- [x] Aware of common mistakes
+- [x] Knows antonyms

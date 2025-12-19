@@ -2,74 +2,77 @@
 tags:
   - vocabulary
   - flashcard
-category: word
+category: phrase
 mastery: 🔴 New
-status: pending
+status: done
 ---
 coated with a type of gel
-# {{WORD}}
+# coated with a type of gel
 
-> [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> [!info] Phrase Analysis
+> **IPA:** /koʊtɪd wɪð ə taɪp əv dʒel/
+> **Part of Speech:** Phrase (past participle adjective + preposition)
+> **CEFR Level:** B2
+> **Register:** academic/scientific
+> **Etymology:** coat (Old French cote) + gel (Latin gelu 'frost')
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Covered with a layer of gelatinous substance
+>
+> **Context Meaning:** Having a protective or functional layer of gel applied to the surface
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** được tráng một loại gel
+> - **Contextual:** được phủ một lớp gel đặc biệt
+>
 > **Nuances:**
-> - ...
+> - Implies a thin, even layer of gelatinous material
+> - Often used in scientific or technical contexts
+> - Can be protective, functional, or decorative
 
-> [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> [!tip] 💡 Phrase Vibe & Story
+> **Personality:** Technical, Precise, Scientific
+> **Memory Hook:** Picture a pill coated with gel (gel capsule) - smooth, protective, slippery surface
+> **📖 Etymology Story:** From 'coat' meaning to cover like clothing + 'gel' from Latin 'gelu' (frost), describing a jelly-like frozen coating that protects what's inside
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[gel]] /dʒel/
+> - **Verb:** [[coat]] /koʊt/
+> - **Adj:** [[gelatinous]] /dʒəˈlætɪnəs/
+> - **Adv:** [[gelatinously]] /dʒəˈlætɪnəsli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[covered]] /ˈkʌvərd/ : generally covered
+> - [[encased]] /ɪnˈkeɪst/ : completely surrounded
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[uncoated]] /ʌnˈkoʊtɪd/ : without coating
+> - [[bare]] /ber/ : exposed, uncovered
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. gel-coated surface
+> 2. coated with protective gel
+> 3. evenly coated with gel
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The tardigrade was coated with a type of gel that protected it from extreme temperatures.
+> - **Translation:** Con gấu nước được phủ một loại gel bảo vệ nó khỏi nhiệt độ khắc nghiệt.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Medical devices are often coated with a special gel to prevent tissue damage.
+> - **Translation:** Các thiết bị y tế thường được tráng một loại gel đặc biệt để ngăn ngừa tổn thương mô.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** coated *in* a type of gel
+> - ✅ **Correction:** coated *with* a type of gel
+> - **Why:** 'Coat with' is the correct preposition for applying a covering layer
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** The microscope slides were coated with a type of gel that preserved the specimens.
+> **Source:** [[microscopic]]
 
 ---
 
@@ -77,131 +80,133 @@ coated with a type of gel
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **coated with a type of gel** (*/koʊtɪd wɪð ə taɪp əv dʒel/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Covered with a layer of gelatinous substance for protection or function
+> 🇻🇳 **Vietnamese:** Được phủ một lớp gel
+> 🗣️ **IPA:** */koʊtɪd wɪð ə taɪp əv dʒel/*
+> 🧠 **Mental Model:** Something được tráng class mỏng gel như thuốc nang (gel capsule) để bảo vệ bên trong
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
-→ **Target Word?**
+**Definition:** "Covered with a layer of gelatinous substance for protection"
+**Vietnamese:** Được phủ một lớp gelatinous để bảo vệ
+→ **Target Phrase?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**coated with a type of gel** (*/koʊtɪd wɪð ə taɪp əv dʒel/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **coated with a type of gel** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The experimental seeds were coated with a type of gel that slowly released nutrients into the soil.
+> 🇻🇳 **Translation:** Hạt giống thí nghiệm được phủ một loại gel từ từ giải phóng chất dinh dưỡng vào đất.
+> 🔍 **Analysis:** Phrase này perfect vì nó mô tả application khoa học của gel coating - gel acts as both barrier và delivery system, thể hiện tính function của coating
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **coated with a type of gel**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Surface Treatment:** evenly coated with gel (nhấn mạnh uniformity của coating)
+> 2. **Protection Purpose:** coated with protective gel (nhấn mạnh function bảo vệ)
+> 3. **Medical Context:** coated with medicinal gel (nhấn mạnh therapeutic application)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **coated with a type of gel**:
+"The pill had a special covering."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The pill was coated with a type of gel that dissolved slowly in the stomach."
+> 💡 **Why it works:** Advanced version specifies coating material (gel) và function (slow dissolve), tạo ra precise technical description thay vì generic "special covering"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **coated with a type of gel** instead of **covered in**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **coated with a type of gel:** Technical precision, implies deliberate application of gelatinous substance
+> **covered in:** More general, could be accidental or with any substance
+> 🧱 **The Barrier:** 'Coated' implies intentional, controlled layer; 'covered' is more haphazard - coat là professional term, cover là everyday term
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a lab technician preparing microscope slides. You need to describe the preparation process. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Each slide must be carefully coated with a type of gel to prevent sample dehydration."
+> 👨‍🎨 **Director's Note:** Fits technical vibe - shows precision và knowledge of lab procedures, 'coated with' chính xác hơn 'covered' trong scientific context
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `coat` to the meaning of **coated with a type of gel**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Coat' từ Old French 'cote' (clothing) như wearing a thin garment. Khi nói 'coated with gel', it's like dressing the object in a protective gel outfit - thin, uniform, designed layer
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **coated with a type of gel**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `gelu` (<frost, ice>) → Old French `gele` (<jelly>)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* **gel** (jelly-like substance)
+> - *(adj)* **gelatinous** (jelly-like consistency)
+> - *(verb)* **coat** (to cover with a layer)
+> - *(noun)* **coating** (the layer applied)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */koʊtɪd wɪð ə taɪp əv dʒel/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**coated with a type of gel**
+> 📖 **Meaning:** Covered with a layer of gelatinous substance
+> 🇻🇳 **Vietnamese:** Được phủ một lớp gel
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **coated with a type of gel**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The device is coated *of* a protective gel
+> ✅ **Correction:** The device is coated *with* a protective gel
+> 🧠 **Why:** Preposition 'with' is used for the material applied in coating; 'of' shows composition, not application method
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **coated with a type of gel**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[uncoated]] (bare surface, no protective layer)
+> - [[exposed]] (direct contact with environment)
+> 🧱 **Contrast:** Coated provides protection/function; uncoated leaves surface vulnerable to direct contact
 
 ---
 
 ## 📈 Learning Progress
 
 **Mastery Criteria:**
-- [ ] Can define the word
-- [ ] Can pronounce correctly
-- [ ] Can use in a sentence
-- [ ] Known collocations
-- [ ] Aware of common mistakes
-- [ ] Knows antonyms
+- [x] Can define the phrase
+- [x] Can pronounce correctly
+- [x] Can use in a sentence
+- [x] Known collocations
+- [x] Aware of common mistakes
+- [x] Knows antonyms

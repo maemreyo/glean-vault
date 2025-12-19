@@ -4,72 +4,77 @@ tags:
   - flashcard
 category: word
 mastery: 🔴 New
-status: pending
+status: done
 ---
-existence
-# {{WORD}}
+# existence
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪɡˈzɪstəns/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** Latin existere - "to stand forth, emerge, be"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The state or fact of being real or alive
+>
+> **Context Meaning:** The fact or state of living or having objective reality; continued survival
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự tồn tại, sự hiện hữu
+> - **Contextual:** sự sống, cuộc đời (khi nói về sự sống còn)
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical existence, conceptual existence, or continued survival
+> - Often used in philosophical discussions about reality and being
+> - Implies objective reality rather than imaginary
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Profound, Real, Fundamental
+> **Memory Hook:** "Ex" (out) + "ist" (stand) + "ence" (state) = the state of standing out as real
+> **📖 Etymology Story:** From Latin "existere" meaning "to stand forth, emerge". Picture something emerging from darkness into light - that moment when it becomes real and visible. That's existence - standing forth in reality.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[existence]] /ɪɡˈzɪstəns/ : state of being
+> - **Verb:** [[exist]] /ɪɡˈzɪst/ : to be, to have reality
+> - **Verb:** [[coexist]] /ˌkəʊɪɡˈzɪst/ : to exist together
+> - **Adj:** [[existent]] /ɪɡˈzɪstənt/ : having existence
+> - **Adj:** [[nonexistent]] /ˌnɒnɪɡˈzɪstənt/ : not existing
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[being]] /ˈbiːɪŋ/ : existence, life
+> - [[reality]] /riˈæləti/ : the state of things as they actually exist
+> - [[life]] /laɪf/ : the condition that distinguishes animals and plants from inorganic matter
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[nonexistence]] /ˌnɒnɪɡˈzɪstəns/ : the state of not existing
+> - [[nothingness]] /ˈnʌθɪŋnəs/ : absence of anything
+> - [[oblivion]] /əˈblɪviən/ : state of being forgotten or unknown
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. proof of existence
+> 2. struggle for existence
+> 3. come into existence
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The existence of extraterrestrial life remains a subject of scientific debate.
+> - **Translation:** Sự tồn tại của sự sống ngoài Trái Đất vẫn là chủ đề tranh luận khoa học.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The company has been fighting for its existence during the economic crisis.
+> - **Translation:** Công ty đã phải chiến đấu cho sự tồn tại trong suốt cuộc khủng hoảng kinh tế.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition error**
+> - ❌ **Mistake:** "The existence for life on Mars is possible."
+> - ✅ **Correction:** "The existence of life on Mars is possible."
+> - **Why:** Fixed preposition - existence OF something
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The mystery of human existence lies not in just staying alive, but in finding something to live for."
+> **Source:** Fyodor Dostoevsky
 
 ---
 
@@ -77,131 +82,135 @@ existence
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **existence** (*/ɪɡˈzɪstəns/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The state or fact of being real, alive, or having objective reality; continued survival or being.
+> 🇻🇳 **Vietnamese:** Sự tồn tại, sự hiện hữu, sự sống, trạng thái có thật
+> 🗣️ **IPA:** */ɪɡˈzɪstəns/*
+> 🧠 **Mental Model:** "Trạng thái 'có thật' - hình dung việc chuyển từ imaginary sang real, từ không thành có, từ darkness sang light"
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The state or fact of being real, alive, or having objective reality; continued survival or being."
+**Vietnamese:** Sự tồn tại, sự hiện hữu, sự sống, trạng thái có thật
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**existence** (*/ɪɡˈzɪstəns/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **existence** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The discovery of ancient artifacts provided concrete proof of the civilization's existence.
+> 🇻🇳 **Translation:** Việc phát hiện ra các cổ vật đã cung cấp bằng chứng cụ thể về sự tồn tại của nền văn minh đó.
+> 🔍 **Analysis:** "Existence perfect ở đây vì nó diễn tả trạng thái 'being real' của civilization - mạnh hơn 'presence' vì nó暗示 objective reality và historical fact"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **existence**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Evidence:** proof/evidence of existence (mô tả bằng chứng về sự tồn tại)
+> 2. **Struggle:** fight/struggle for existence (mô tả nỗ lực sinh tồn)
+> 3. **Beginning:** come into existence/bring into existence (mô tả sự khởi đầu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **existence**:
+"This company might not survive."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Without substantial investment, the company's very existence hangs in the balance."
+> 💡 **Why it works:** "Existence mạnh hơn 'survival' vì nó diễn tả trạng thái 'being' của công ty - như thể công ty đang ở bờ vực của non-being, tạo ra cảm giác sâu sắc và triết học hơn"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **existence** instead of [[life]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **existence:** The state of being real (VN: trạng thái có thật, hiện hữu)
+> **life:** The condition of being alive (VN: sự sống, điều kiện sống)
+> 🧱 **The Barrier:** "Existence = being (can be inanimate) vs Life = being alive. A rock exists but doesn't have life. Existence is broader, more philosophical."
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're discussing philosophy with friends. Someone asks about reality. You feel thoughtful. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Have you ever questioned the very nature of our existence? What if none of this is real?"
+> 👨‍🎨 **Director's Note:** "Existence thể hiện chiều sâu triết học của câu hỏi - không dùng 'life' vì đây không chỉ là về being alive mà là về being itself"
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<existere>` to the meaning of **existence**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Từ Latin 'existere' = 'ex-' (out) + 'sistere' (to stand). Nghĩa đen là 'to stand out'. Hình dung một vật emerge từ darkness, 'standing out' vào light - đó là moment nó gains existence, becomes real and visible!"
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **existence**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `existere` ("to stand forth, emerge")
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[exist]] (to be, to have reality)
+> - *(verb)* [[coexist]] (to exist together)
+> - *(adj)* [[existent]] (having existence)
+> - *(adj)* [[nonexistent]] (not existing)
+> - *(related)* [[persist]] /pəˈsɪst/ (to continue firmly - same 'sistere' root)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪɡˈzɪstəns/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**existence**
+> 📖 **Meaning:** The state or fact of being real, alive, or having objective reality; continued survival or being.
+> 🇻🇳 **Vietnamese:** Sự tồn tại, sự hiện hữu, sự sống, trạng thái có thật
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **existence**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The existence in remote areas is difficult."
+> ✅ **Correction:** "The existence of life in remote areas is difficult."
+> 🧠 **Why:** "Existence luôn đi với 'of' để chỉ 'existence OF something'. Không thể dùng 'in', 'for', hay 'about' trừ khi có thêm context structure. Đây là lỗi preposition cố định."
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **existence**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[nonexistence]] (absence vs presence)
+> - [[nothingness]] (void vs being)
+> - [[oblivion]] (forgotten vs remembered/real)
+> 🧱 **Contrast:** "Existence = being present vs Nonexistence = absence; Existence = reality vs Nothingness = void"
 
 ---
 
 ## 📈 Learning Progress
 
 **Mastery Criteria:**
-- [ ] Can define the word
-- [ ] Can pronounce correctly
-- [ ] Can use in a sentence
-- [ ] Known collocations
-- [ ] Aware of common mistakes
-- [ ] Knows antonyms
+- [x] Can define the word
+- [x] Can pronounce correctly
+- [x] Can use in a sentence
+- [x] Known collocations
+- [x] Aware of common mistakes
+- [x] Knows antonyms

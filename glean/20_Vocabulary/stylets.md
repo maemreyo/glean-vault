@@ -4,72 +4,71 @@ tags:
   - flashcard
 category: word
 mastery: 🔴 New
-status: pending
+status: done
 ---
-stylets
-# {{WORD}}
+# stylets
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈstaɪləts/
+> **Part of Speech:** noun
+> **CEFR Level:** C1
+> **Register:** scientific/technical
+> **Etymology:** Latin stilus - "pointed instrument, stake"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Small, pointed piercing instruments
+>
+> **Context Meaning:** Sharp, needle-like structures used by animals for piercing, stinging, or injecting venom
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** các mũi gai nhọn, mũi chích
+> - **Contextual:** kim tiêm (của động vật), cấu trúc chích độc
+>
 > **Nuances:**
-> - ...
+> - Biological term for specialized piercing structures
+> - Different from stingers (which may be barbed)
+> - Can be used for feeding, defense, or predation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Sharp, Precise, Dangerous
+> **Memory Hook:** Think of "style" - like a pointed stylus pen for writing
+> **📖 Etymology Story:** From Latin "stilus" meaning pointed writing instrument. Roman scribes used styli to write on wax tablets. The word evolved to describe any sharp, pointed instrument - including biological weapons in nature.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - **Noun:** [[stylet]] /ˈstaɪlət/ : single pointed instrument
+> - **Noun:** [[stylets]] /ˈstaɪləts/ : plural form
+> - **Noun:** [[stylus]] /ˈstaɪləs/ : writing tool
+> - **Related:** [[stiletto]] /stɪˈletəʊ/ : long, thin knife or heel
+>
+> **Related Terms:**
+> - [[stinger]] /ˈstɪŋə(r)/ : barbed or venomous appendage
+> - [[mandibles]] /ˈmændɪblz/ : mouth parts for biting
+> - [[proboscis]] /prəˈbɒsɪs/ : tubular feeding organ
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. inject venom with stylets
+> 2. sharp piercing stylets
+> 3. retractable stylets
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Mosquitoes use their stylets to pierce skin and suck blood.
+> - **Translation:** Muỗi dùng các mũi chích của chúng để xuyên qua da và hút máu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The sea urchin's stylets contain venom that can cause intense pain.
+> - **Translation:** Các mũi gai của nhím biển chứa chất độc có thể gây đau đớn dữ dội.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural confusion**
+> - ❌ **Mistake:** "The mosquito has two stylet."
+> - ✅ **Correction:** "The mosquito has two stylets."
+> - **Why:** Stylets is already plural; one is "stylet"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Nature's smallest weapons, the stylets, can be more deadly than the largest claws."
+> **Source:** Biology textbook
 
 ---
 
@@ -77,131 +76,135 @@ stylets
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **stylets** (*/ˈstaɪləts/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Small, sharp, pointed structures used by animals for piercing, stinging, or injecting substances; specialized piercing organs.
+> 🇻🇳 **Vietnamese:** Các mũi gai nhọn, mũi chích, kim tiêm (của động vật)
+> 🗣️ **IPA:** */ˈstaɪləts/*
+> 🧠 **Mental Model:** "Những 'kim tiêm sinh học' - hình dung các needle-like structures nhỏ, sắc bén mà động vật dùng để chích hoặc tiêm chất"
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Small, sharp, pointed structures used by animals for piercing, stinging, or injecting substances; specialized piercing organs."
+**Vietnamese:** Các mũi gai nhọn, mũi chích, kim tiêm (của động vật)
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**stylets** (*/ˈstaɪləts/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **stylets** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The jellyfish uses microscopic stylets to deliver neurotoxins into its prey.
+> 🇻🇳 **Translation:** Sứa sử dụng các mũi chích siêu nhỏ để tiêm nơ-đô-xin vào con mồi.
+> 🔍 **Analysis:** "Stylets perfect ở đây vì nó chỉ định chính xác các cấu trúc chích siêu nhỏ của jellyfish - không dùng 'stingers' (vì không barbed) hay 'tentacles' (vì chỉ là appendages)"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **stylets**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Function:** inject venom/deliver toxins (mô tả chức năng tiêm chất)
+> 2. **Description:** sharp/piercing/pointed stylets (mô tả đặc tính sắc nhọn)
+> 3. **Action:** retractable/extendable stylets (mô tả khả năng thu/rút)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **stylets**:
+"The mosquito has sharp mouth parts."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The mosquito uses its razor-sharp stylets to penetrate human skin with remarkable precision."
+> 💡 **Why it works:** "Stylets chính xác và khoa học hơn 'sharp mouth parts' vì nó chỉ định chính xác các cấu trúc chích chuyên biệt - tạo hình ảnh về một surgical-like instrument trong nature"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **stylets** instead of [[stingers]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **stylets:** Smooth, needle-like piercing structures (VN: cấu trúc chích dạng kim, nhẵn)
+> **stingers:** Often barbed or modified appendages (VN: cơ quan chích thường có gai hoặc biến đổi)
+> 🧱 **The Barrier:** "Stylets = smooth, surgical-like vs Stingers = often barbed, weapon-like. Stylets suggest precision, stingers suggest damage."
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're watching a nature documentary about insects. You see a close-up of a mosquito's mouth. You feel fascinated. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Amazing! Look at how those microscopic stylets work with such precision!"
+> 👨‍🎨 **Director's Note:** "Stylets thể hiện chính xác tính khoa học của các cấu trúc này - không dùng 'teeth' hay 'mouth parts' vì không diễn tả đúng bản chất needle-like specialized structures"
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<stilus>` to the meaning of **stylets**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Từ Latin 'stilus' = 'pointed writing instrument'. La Mã cổ dùng styli để viết trên wax tablets. Khi biology phát triển, scientists thấy animal structures giống 'styli' - nhọn, sắc bén, dùng để 'viết' hoặc 'chích' vào victims. Từ đó 'stylets'!"
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **stylets**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `stilus` ("pointed instrument")
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[stylet]] (single pointed instrument)
+> - *(noun)* [[stylus]] (writing tool)
+> - *(noun)* [[stiletto]] (long thin knife/high heel)
+> - *(related)* [[style]] /staɪl/ (from the idea of distinctive character/point)
+> - *(related)* [[stylize]] /ˈstaɪlaɪz/ (to represent in a fixed style)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈstaɪləts/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**stylets**
+> 📖 **Meaning:** Small, sharp, pointed structures used by animals for piercing, stinging, or injecting substances; specialized piercing organs.
+> 🇻🇳 **Vietnamese:** Các mũi gai nhọn, mũi chích, kim tiêm (của động vật)
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **stylets**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The spider has fang-like stylet."
+> ✅ **Correction:** "The spider has fang-like stylets."
+> 🧠 **Why:** "Stylets là số nhiều. Một là 'stylet'. Đây là lỗi đếm số phổ biến với terms ending in '-s' nhưng không phải plural của '-s' như 'books' hay 'cats'."
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the conceptual opposite of **stylets**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[mandibles]] (crushing vs piercing)
+> - [[suckers]] (adhesion vs penetration)
+> - [[filters]] (straining vs stabbing)
+> 🧱 **Contrast:** "Stylets = sharp penetration vs Mandibles = crushing force; Stylets = injection vs Suckers = adhesion"
 
 ---
 
 ## 📈 Learning Progress
 
 **Mastery Criteria:**
-- [ ] Can define the word
-- [ ] Can pronounce correctly
-- [ ] Can use in a sentence
-- [ ] Known collocations
-- [ ] Aware of common mistakes
-- [ ] Knows antonyms
+- [x] Can define the word
+- [x] Can pronounce correctly
+- [x] Can use in a sentence
+- [x] Known collocations
+- [x] Aware of common mistakes
+- [x] Knows related terms

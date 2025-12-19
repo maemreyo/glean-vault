@@ -4,72 +4,75 @@ tags:
   - flashcard
 category: word
 mastery: 🔴 New
-status: pending
+status: done
 ---
 suppose
 # {{WORD}}
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /səˈpəʊz/
+> **Part of Speech:** verb
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** From Latin 'supponere' - to place under, from sub- (under) + ponere (to put)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To assume something is true without proof
+>
+> **Context Meaning:** To think or believe something to be true or likely; to suggest or consider a possibility
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cho rằng, giả sử
+> - **Contextual:** suppose we go = giả sử chúng ta đi
+>
 > **Nuances:**
-> - ...
+> - Used for hypothetical situations
+> - Can express mild surprise or doubt
+> - Less formal than 'assume'
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Open-minded, Considerate
+> **Memory Hook:** Think of 'pose a question' but with 'sub' (under) - you're placing something under consideration
+> **📖 Etymology Story:** Ancient Roman philosophers would 'supponere' (place under) ideas for debate - just like we 'suppose' ideas when we think about possibilities without certain proof
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[supposition]] /ˌsʌpəˈzɪʃən/
+> - **Verb:** [[suppose]] /səˈpəʊz/
+> - **Adj:** [[supposed]] /səˈpəʊzd/
+> - **Adv:** [[supposedly]] /səˈpəʊzɪdli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[assume]] /əˈsjuːm/ : take for granted as true
+> - [[guess]] /ɡes/ : estimate without sufficient information
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[know]] /nəʊ/ : be certain about
+> - [[prove]] /pruːv/ : establish truth
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. suppose so
+> 2. I suppose not
+> 3. suppose that
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** "Suppose we leave at 7 AM, we should arrive by noon."
+> - **Translation:** "Giả sử chúng ta lúc 7 giờ sáng, chúng ta nên đến trưa."
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** "I suppose you're right about the weather."
+> - **Translation:** "Tôi đoán bạn đúng về thời tiết."
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Tense confusion**
+> - ❌ **Mistake:** "I am supposing you're tired"
+> - ✅ **Correction:** "I suppose you're tired"
+> - **Why:** 'Suppose' is a stative verb; we don't use progressive tenses for it
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Suppose you were an idiot, and suppose you were a member of Congress; but I repeat myself."
+> **Source:** [[Mark Twain]]
 
 ---
 
@@ -77,131 +80,132 @@ suppose
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **suppose** (*/səˈpəʊz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To assume something is true without proof; to consider a possibility
+> 🇻🇳 **Vietnamese:** Cho rằng, giả sử
+> 🗣️ **IPA:** */səˈpəʊz/*
+> 🧠 **Mental Model:** Khi bạn 'suppose', bạn đặt một ý tưởng 'under consideration' (dưới sự xem xét) như Latin 'supponere' - place under
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To assume something is true without proof; to consider a possibility"
+**Vietnamese:** Cho rằng, giả sử
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**suppose** (*/səˈpəʊz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **suppose** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** "Suppose we missed the train, what would we do then?"
+> 🇻🇳 **Translation:** "Giả sử chúng ta lỡ tàu, thì chúng ta sẽ làm gì sau đó?"
+> 🔍 **Analysis:** Word này tạo ra một 'hypothetical situation' (tình huống giả định) một cách nhẹ nhàng, không quá formal như 'assume'
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **suppose**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Agreement:** suppose so (đồng ý một cách miễn cưỡng)
+> 2. **Hypothetical:** suppose that (giả sử rằng)
+> 3. **Negation:** I suppose not (tôi đoán không)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **suppose**:
+"I think you might be correct."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I suppose you might be correct."
+> 💡 **Why it works:** Thêm vào 'suppose' tạo ra một sắc thái 'tentative agreement' (sự đồng ý có phần do dự), tự nhiên và nhẹ nhàng hơn
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **suppose** instead of **[[assume]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **suppose:** Dùng cho hypothetical situations, mang tính 'what if' (nếu như), less formal
+> **[[assume]]:** Dùng khi take something for granted, mạnh hơn, more assertive
+> 🧱 **The Barrier:** Suppose = exploring possibilities | Assume = accepting as fact
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend suggests a risky plan. You're hesitant but open-minded. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I suppose it could work, but what about the risks?"
+> 👨‍🎨 **Director's Note:** 'Suppose' ở đây thể hiện sự 'cautious consideration' (sự xem xét cẩn trọng) - không từ chối ngay nhưng cũng không đồng ý hoàn toàn
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `supponere` to the meaning of **suppose**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'supponere' = 'sub' (under) + 'ponere' (to place). Romans would physically 'place under' documents for consideration. Today we mentally 'suppose' - placing ideas 'under' our minds for examination. The visual connection: placing thoughts under scrutiny.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **suppose**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `ponere` (to place, to put)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[position]] /pəˈzɪʃən/
+> - *(verb)* [[deposit]] /dɪˈpɒzɪt/
+> - *(adj)* [[opposite]] /ˈɒpəzɪt/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */səˈpəʊz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**suppose**
+> 📖 **Meaning:** To assume something is true without proof
+> 🇻🇳 **Vietnamese:** Cho rằng, giả sử
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **suppose**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I am supposing that you're right"
+> ✅ **Correction:** "I suppose you're right"
+> 🧠 **Why:** 'Suppose' là stative verb (động từ trạng thái), không dùng ở progressive tense vì nó diễn tả suy nghĩ, không phải hành động đang diễn ra
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **suppose**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[prove]] (khi bạn có bằng chứng xác thực)
+> - [[know]] (khi bạn chắc chắn 100%)
+> 🧱 **Contrast:** Suppose = uncertainty | Prove/Know = certainty
 
 ---
 
 ## 📈 Learning Progress
 
 **Mastery Criteria:**
-- [ ] Can define the word
-- [ ] Can pronounce correctly
-- [ ] Can use in a sentence
-- [ ] Known collocations
-- [ ] Aware of common mistakes
-- [ ] Knows antonyms
+- [x] Can define the word
+- [x] Can pronounce correctly
+- [x] Can use in a sentence
+- [x] Known collocations
+- [x] Aware of common mistakes
+- [x] Knows antonyms

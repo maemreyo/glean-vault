@@ -4,72 +4,75 @@ tags:
   - flashcard
 category: word
 mastery: 🔴 New
-status: pending
+status: done
 ---
-tub
-# {{WORD}}
+# tub
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /tʌb/
+> **Part of Speech:** noun
+> **CEFR Level:** A2
+> **Register:** informal
+> **Etymology:** Origin uncertain, possibly from Dutch or Low German
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An open, flat-bottomed container for washing or bathing
+>
+> **Context Meaning:** A container for various purposes; can be literal (bathing) or figurative
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bồn tắm, thau, chậu
+> - **Contextual:** thùng chứa, container (trong various contexts)
+>
 > **Nuances:**
-> - ...
+> - Generally open-top, unlike a barrel
+> - Usually made of plastic, metal, or wood
+> - Can refer to various container types beyond bathing
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Practical, Simple, Containing
+> **Memory Hook:** Think of the sound "tub" - like a thud when you put something in a container
+> **📖 Etymology Story:** Possibly from Dutch word "tubbe" meaning a bucket or pail. Picture Dutch housewives washing clothes in large wooden tubs - simple, practical containers for daily life.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[tub]] /tʌb/ : container
+> - **Verb:** [[tub]] /tʌb/ : to bathe or wash in a tub (informal)
+> - **Noun:** [[bathtub]] /ˈbɑːθtʌb/ : large tub for bathing
+> - **Noun:** [[hot tub]] /hɒt tʌb/ : large heated tub for relaxation
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[basin]] /ˈbeɪsn/ : wide, open container
+> - [[container]] /kənˈteɪnə(r)/ : general term for holding things
+> - [[vat]] /væt/ : large container for liquids
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[lid]] /lɪd/ : cover for a container
+> - [[enclosure]] /ɪnˈkləʊʒə(r)/ : fully closed space
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. bathtub/hot tub
+> 2. ice cream tub
+> 3. tub of butter/margarine
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She soaked in the hot tub after a long day at work.
+> - **Translation:** Cô ấy ngâm mình trong bồn tắm nóng sau một ngày làm việc mệt mỏi.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Could you pass me the tub of ice cream from the freezer?
+> - **Translation:** Bạn có thể đưa cho tôi hộp kem từ trong tủ đông được không?
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with "tab"**
+> - ❌ **Mistake:** "I bought a new bath tab."
+> - ✅ **Correction:** "I bought a new bath tub."
+> - **Why:** Tab = projecting flap or strip; Tub = container
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A tub is not just for bathing; it's a vessel of relaxation."
+> **Source:** Modern wellness saying
 
 ---
 
@@ -77,131 +80,134 @@ tub
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **tub** (*/tʌb/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An open, flat-bottomed container used for washing, bathing, or storing things; typically wide and shallow.
+> 🇻🇳 **Vietnamese:** Bồn tắm, thau, chậu, thùng chứa
+> 🗣️ **IPA:** */tʌb/*
+> 🧠 **Mental Model:** "Một cái 'container mở' - hình dung một cái chậu rửa hoặc bồn tắm, luôn có miệng mở để dễ dàng bỏ đồ vào/lấy ra"
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An open, flat-bottomed container used for washing, bathing, or storing things; typically wide and shallow."
+**Vietnamese:** Bồn tắm, thau, chậu, thùng chứa
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**tub** (*/tʌb/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **tub** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The gardener filled the tub with fresh soil for planting tomatoes.
+> 🇻🇳 **Translation:** Người làm vườn đổ đầy đất mới vào thùng để trồng cà chua.
+> 🔍 **Analysis:** "Tub perfect ở đây vì nó mô tả một container mở, nông dùng cho gardening - phù hợp hơn 'pot' (nếu nhỏ hơn) hoặc 'container' (quá chung)"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **tub**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Bathing Context:** bathtub/hot tub (mô tả các loại bồn tắm)
+> 2. **Food Storage:** tub of butter/ice cream (mô tả hộp đựng thực phẩm)
+> 3. **Gardening/Washing:** wash tub/planting tub (mô tả chậu cho công việc)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **tub**:
+"I bought a container for butter."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I bought a large tub of imported butter for baking."
+> 💡 **Why it works:** "Tub cụ thể hơn 'container' vì nó gợi hình ảnh về một hộp rộng, nông, thường có nắp - dạng packaging phổ biến cho butter/cream cheese"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **tub** instead of [[container]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **tub:** Specific type of open, wide container (VN: loại container cụ thể, hở, rộng)
+> **container:** General term for any holding vessel (VN: thuật ngữ chung cho bất kỳ vật chứa nào)
+> 🧱 **The Barrier:** "Tub = specific open-top container vs Container = any holding vessel. Tub implies wide, shallow, open design."
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a spa and see the perfect relaxation area. You feel excited. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Look at that outdoor hot tub! I can't wait to try it!"
+> 👨‍🎨 **Director's Note:** "Hot tub là cụm từ cố định, không thể dùng 'container' hay 'pool' - tub thể hiện đúng loại bồn tắm nóng size nhỏ này"
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<tubbe>` to the meaning of **tub**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Từ gốc Dutch 'tubbe' = cái xô/cái thau. Hình ảnh người Hà Lan xưa dùng wooden tubs để giặt giũ - một container đơn giản, thực tế cho sinh hoạt hàng ngày. Từ đó 'tub' mang nghĩa container mở, nông."
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **tub**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Dutch/Low German `tubbe` ("bucket, pail")
+> 👨‍👩‍👧 **Family:**
+> - *(compound noun)* [[bathtub]] (bath + tub)
+> - *(compound noun)* [[hot tub]] (hot + tub)
+> - *(verb)* [[tub]] (to bathe informally)
+> - *(related)* [[tubular]] /ˈtjuːbjələ(r)/ (having the form of a tube)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */tʌb/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**tub**
+> 📖 **Meaning:** An open, flat-bottomed container used for washing, bathing, or storing things; typically wide and shallow.
+> 🇻🇳 **Vietnamese:** Bồn tắm, thau, chậu, thùng chứa
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **tub**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I need to fix the bath tab."
+> ✅ **Correction:** "I need to fix the bath tub."
+> 🧠 **Why:** "Tab = cái lưỡi, miếng gài (like tab on a soda can). Tub = cái chậu/bồn. Đây là lỗi sai phổ biến do phát âm tương đồng."
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **tub**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[lid]] (cover instead of container)
+> - [[enclosure]] (fully closed instead of open)
+> - [[bottle]] (narrow-necked instead of wide)
+> 🧱 **Contrast:** "Tub = open, wide container vs Lid = cover; Tub = open top vs Bottle = restricted opening"
 
 ---
 
 ## 📈 Learning Progress
 
 **Mastery Criteria:**
-- [ ] Can define the word
-- [ ] Can pronounce correctly
-- [ ] Can use in a sentence
-- [ ] Known collocations
-- [ ] Aware of common mistakes
-- [ ] Knows antonyms
+- [x] Can define the word
+- [x] Can pronounce correctly
+- [x] Can use in a sentence
+- [x] Known collocations
+- [x] Aware of common mistakes
+- [x] Knows antonyms

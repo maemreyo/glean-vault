@@ -4,72 +4,75 @@ tags:
   - flashcard
 category: word
 mastery: 🔴 New
-status: pending
+status: done
 ---
 human being
 # {{WORD}}
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌhjuːmən ˈbiːɪŋ/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A1
+> **Register:** neutral/formal
+> **Etymology:** 'Human' from Latin 'humanus' (of man), 'being' from Old English 'beon' (to exist, be)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A member of the human species
+>
+> **Context Meaning:** A person; a man, woman, or child of the species Homo sapiens; often emphasizes the qualities of being alive and conscious
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** con người
+> - **Contextual:** every human being = mọi con người
+>
 > **Nuances:**
-> - ...
+> - More formal/emphatic than just 'human'
+> - Emphasizes existence and consciousness
+> - Used in philosophical and ethical discussions
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Conscious, Existential
+> **Memory Hook:** 'Human' (species) + 'being' (existence) = a living, breathing, thinking person
+> **📖 Etymology Story:** Latin 'humanus' described qualities of humanity, while Old English 'being' captured the essence of existence. Together, 'human being' reminds us we're not just biological creatures but conscious existers with thoughts and feelings
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[human]] /ˈhjuːmən/
+> - **Noun:** [[being]] /ˈbiːɪŋ/
+> - **Adj:** [[human]] /ˈhjuːmən/
+> - **Adv:** [[humanely]] /hjuːˈmeɪnli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[person]] /ˈpɜːsən/ : individual human
+> - [[individual]] /ˌɪndɪˈvɪdʒuəl/ : separate person
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[animal]] /ˈænɪməl/ : non-human creature
+> - [[machine]] /məˈʃiːn/ : artificial entity
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. every human being
+> 2. human being deserves
+> 3. respect for human beings
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** "Every human being deserves dignity and respect."
+> - **Translation:** "Mọi con người đều xứng đáng được đối xử với nhân phẩm và sự tôn trọng."
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** "The complexity of the human being never ceases to amaze scientists."
+> - **Translation:** "Sự phức tạp của con người không bao giờ ngừng làm các nhà khoa học ngạc nhiên."
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article usage**
+> - ❌ **Mistake:** "I am human being"
+> - ✅ **Correction:** "I am a human being"
+> - **Why:** 'Human being' is countable; needs article 'a' for singular
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "To be a human being is to be a story teller."
+> **Source:** [[Viktor Frankl]]
 
 ---
 
@@ -77,131 +80,132 @@ human being
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **human being** (*/ˌhjuːmən ˈbiːɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person; a member of the species Homo sapiens with consciousness and existence
+> 🇻🇳 **Vietnamese:** Con người
+> 🗣️ **IPA:** */ˌhjuːmən ˈbiːɪŋ/*
+> 🧠 **Mental Model:** 'Human' (loài người) + 'being' (sự tồn tại) = một thực thể sống có ý thức, không chỉ là sinh vật
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person; a member of the species Homo sapiens with consciousness and existence"
+**Vietnamese:** Con người
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**human being** (*/ˌhjuːmən ˈbiːɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **human being** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** "No human being should have to suffer from hunger in this world of abundance."
+> 🇻🇳 **Translation:** "Không có con người nào phải chịu đói trong thế giới dư dả này."
+> 🔍 **Analysis:** Phrase này tạo sự nhấn mạnh về 'human dignity' (nhân phẩm con người) và 'existence' - mạnh hơn chỉ nói 'no person'
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **human being**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Universal:** every human being (mọi con người)
+> 2. **Rights:** human being deserves (con người xứng đáng)
+> 3. **Philosophical:** nature of human being (bản chất con người)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **human being**:
+"People should help each other."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Every human being has the capacity to help another human being in times of need."
+> 💡 **Why it works:** 'Human being' tạo sự nhấn mạnh về shared humanity và universal connection, sâu sắc hơn 'people'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **human being** instead of **[[person]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **human being:** Emphasizes existence, consciousness, and shared humanity; philosophical weight
+> **[[person]]:** Neutral term for individual; everyday usage
+> 🧱 **The Barrier:** Human being = existence + humanity | Person = individual identity
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're discussing ethics. Someone asks what makes us different from animals. Respond thoughtfully.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "What makes a human being unique is our capacity for self-awareness and moral reasoning."
+> 👨‍🎨 **Director's Note:** 'Human being' ở đây tạo 'philosophical depth' - không chỉ là sinh vật mà là 'existent being' có khả năng reflexive thought
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `humanus` and `beon` to the meaning of **human being**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'humanus' (human) described qualities like kindness and civilization. Old English 'beon' (to be) captured pure existence. When combined, 'human being' literally means 'human existence' - not just a biological category but a conscious, living experience. We are humans who BE.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **human being**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `humanus` (of man) + Old English `beon` (to be)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[humanity]] /hjuːˈmænəti/ (mankind)
+> - *(adj)* [[human]] /ˈhjuːmən/ (of humans)
+> - *(noun)* [[being]] /ˈbiːɪŋ/ (existence)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌhjuːmən ˈbiːɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**human being**
+> 📖 **Meaning:** A person; a member of the species Homo sapiens
+> 🇻🇳 **Vietnamese:** Con người
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **human being**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She is very nice human being"
+> ✅ **Correction:** "She is a very nice human being"
+> 🧠 **Why:** 'Human being' là countable noun, cần article 'a' trước singular form. Cũng có thể dùng 'she is very nice person'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **human being**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[animal]] (sinh vật không có consciousness như con người)
+> - [[artificial intelligence]] (thực thể digital không có biological existence)
+> 🧱 **Contrast:** Human being = biological consciousness | Animal/AI = different form of existence
 
 ---
 
 ## 📈 Learning Progress
 
 **Mastery Criteria:**
-- [ ] Can define the word
-- [ ] Can pronounce correctly
-- [ ] Can use in a sentence
-- [ ] Known collocations
-- [ ] Aware of common mistakes
-- [ ] Knows antonyms
+- [x] Can define the word
+- [x] Can pronounce correctly
+- [x] Can use in a sentence
+- [x] Known collocations
+- [x] Aware of common mistakes
+- [x] Knows antonyms
