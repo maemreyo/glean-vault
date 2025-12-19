@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [neighbor, neighbours, neighbors, neighborhood, neighbourhood, next door, adjacent, nearby, local]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈneɪbə(r)/ (UK), /ˈneɪbər/ (US)
+> **Part of Speech:** noun
+> **CEFR Level:** A1
+> **Register:** neutral
+> **Etymology:** From Old English 'neahgebur' meaning 'near dweller', from 'neah' (near) + 'gebur' (dweller)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** a person who lives near or next to another
+>
+> **Context Meaning:** Someone who lives in a house or apartment very close to yours; can also refer to any person or thing located near or next to something else
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** người hàng xóm
+> - **Contextual:** hàng xóm, láng giềng, người ở gần, đối tác láng giềng
+>
 > **Nuances:**
-> - ...
+> - Can be used literally (people living nearby) or figuratively (neighboring countries)
+> - US spelling: 'neighbor' / UK spelling: 'neighbour'
+> - Implies geographical proximity and potential social interaction
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Community-oriented, Friendly
+> **Memory Hook:** 'Near' + 'boor' (old word for dweller) = someone who dwells near you
+> **📖 Etymology Story:** From 'neah' (near) + 'gebur' (dweller/peasant) - literally 'near-dweller'
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[neighbour]] /ˈneɪbə(r)/, [[neighbourhood]] /ˈneɪbəhʊd/
+> - **Verb:** [[neighbour]] /ˈneɪbə(r)/ (rare)
+> - **Adj:** [[neighbouring]] /ˈneɪbərɪŋ/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[resident]] /ˈrezɪdənt/ : person living somewhere
+> - [[adjacent]] /əˈdʒeɪsnt/ : next to, neighboring
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[stranger]] /ˈstreɪndʒə(r)/ : someone you don't know
+> - [[foreigner]] /ˈfɒrənə(r)/ : from another country
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. next-door neighbour
+> 2. friendly/neighbourly
+> 3. neighbouring countries/states
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** My neighbour helped me water my plants while I was on vacation last week.
+> - **Translation:** Người hàng xóm của tôi đã giúp tôi tưới cây khi tôi đi nghỉ mát tuần trước.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Vietnam and China are neighbouring countries with a long shared border.
+> - **Translation:** Việt Nam và Trung Quốc là các nước láng giềng có đường biên giới chung dài.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. UK vs US Spelling**
+> - ❌ **Mistake:** neighbor (in UK English)
+> - ✅ **Correction:** neighbour (UK) / neighbor (US)
+> - **Why:** UK spelling keeps the 'u' while US spelling simplified it
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Good fences make good neighbours."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **neighbour** (*/ˈneɪbə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person who lives near or next to another; someone living in close proximity
+> 🇻🇳 **Vietnamese:** Người hàng xóm, người ở gần, láng giềng
+> 🗣️ **IPA:** */ˈneɪbə(r)/* (UK), */ˈneɪbər/* (US)
+> 🧠 **Mental Model:** Người sống gần nhà bạn - trong cùng building, street, hoặc area
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person who lives near or next to another person"
+**Vietnamese:** Người hàng xóm, láng giềng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**neighbour** (*/ˈneɪbə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **neighbour** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The kind neighbour offered to drive my elderly mother to her doctor's appointment when her car broke down.
+> 🇻🇳 **Translation:** Người hàng xóm tốt bụng đã đề nghị chở mẹ già của tôi đến cuộc hẹn với bác sĩ khi xe của bà hỏng.
+> 🔍 **Analysis:** 'neighbour' ở đây thể hiện không chỉ sự gần không gian mà còn sự quan tâm cộng đồng
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **neighbour**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Proximity:** next-door neighbour (hàng xóm bên cạnh) - gần nhất
+> 2. **Quality:** friendly neighbour (hàng xóm thân thiện) - mối quan hệ tốt
+> 3. **Geographic:** neighbouring country (nước láng giềng) - phạm vi quốc gia
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **neighbour**:
+"The person next door helped me."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "My next-door neighbour immediately came to help when they heard my security alarm go off."
+> 💡 **Why it works:** 'neighbour' xác định rõ mối quan hệ địa phương và ý nghĩa xã hội hơn 'person next door'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **neighbour** instead of [[person]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **neighbour:** Xác định người ở gần địa lý, thường có mối quan hệ xã hội (my neighbour helped)
+> [[person]]: Quá chung, không chỉ rõ mối quan hệ đặc biệt (a person helped me)
+> 🧱 **The Barrier:** 'neighbour' chứa đựng cả vị trí địa lý và tiềm năng tương tác xã hội
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see smoke coming from your neighbor's house. They're not home.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I need to call the fire department immediately and warn other neighbours about the potential danger."
+> 👨‍🎨 **Director's Note:** 'neighbours' thể hiện trách nhiệm cộng đồng và sự quan tâm lẫn nhau
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `neahgebur` to the meaning of **neighbour**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'neahgebur' (near-dweller) → 'neah' (near) + 'gebur' (dweller). Từ gốc chỉ người sống gần đã trở thành khái niệm hàng xóm hiện đại
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **neighbour**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `neah` (near) + `gebur` (dweller/inhabitant)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* neighbour/neighbor
+> - *(noun)* neighbourhood/neighborhood
+> - *(adjective)* neighbouring
+> - *(adjective)* near
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈneɪbə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**neighbour**
+> 📖 **Meaning:** Person living near or next to you
+> 🇻🇳 **Vietnamese:** Người hàng xóm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **neighbour**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** My neighbours is very friendly
+> ✅ **Correction:** My neighbour is very friendly / My neighbours are very friendly
+> 🧠 **Why:** 'Neighbour' là số nhiều, 'neighbours' số nhiều - cần chia động từ đúng
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **neighbour**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[stranger]] (unknown person)
+> - [[foreigner]] (person from another country)
+> 🧱 **Contrast:** Neighbour implies proximity and familiarity, while stranger/foreigner implies distance and lack of connection
 
 ---

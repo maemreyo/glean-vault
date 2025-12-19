@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [opportunities, chance, opening, prospect, window, occasion]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌɑːpərˈtuːnəti/
+> **Part of Speech:** Noun
+> **CEFR Level:** B1
+> **Register:** Formal/Neutral
+> **Etymology:** Latin "opportunitas" from "opportunus" (favorable, convenient) from "ob portum veniens" (coming toward a harbor)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A favorable time or set of circumstances
+>
+> **Context Meaning:** A time or set of circumstances that makes it possible to do something; a chance for advancement or progress
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cơ hội
+> - **Contextual:** thời cơ, dịp tốt
+>
 > **Nuances:**
-> - ...
+> - Implies a favorable moment that may be temporary
+> - Often requires quick action or recognition
+> - Can refer to career, personal growth, or various life situations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Optimistic, Strategic, Time-Sensitive
+> **Memory Hook:** Picture a ship finding a perfect harbor entrance (op-portum) - a favorable opening that won't last forever
+> **📖 Etymology Story:** Ancient sailors saw "opportunity" as a ship coming toward harbor (ob portum veniens). The harbor represents safety and progress, but the ship won't wait forever - you must act quickly when opportunity arrives
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[opportunity]] /ˌɑːpərˈtuːnəti/ : a favorable time or chance
+> - **Adj:** [[opportune]] /ˌɑːpərˈtuːn/ : well-timed, favorable
+> - **Adj:** [[opportunistic]] /ˌɑːpərtuːˈnɪstɪk/ : taking advantage of circumstances
+> - **Adv:** [[opportunely]] /ˌɑːpərˈtuːnli/ : at a favorable time
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[chance]] /tʃæns/ : an opportunity or possibility
+> - [[opening]] /ˈoʊpənɪŋ/ : a chance or opportunity
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[obstacle]] /ˈɑːbstəkl/ : something that blocks progress
+> - [[setback]] /ˈsetbæk/ : a reversal or delay
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. seize opportunity
+> 2. golden opportunity
+> 3. miss opportunity
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The internship program provides young graduates with an opportunity to gain real-world experience.
+> - **Translation:** Chương trình thực tập cung cấp cho sinh viên mới tốt nghiệp cơ hội để có được kinh nghiệm thực tế.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Don't miss this opportunity to travel abroad at such a reasonable price.
+> - **Translation:** Đừng bỏ lỡ cơ hội này để du lịch nước ngoài với mức giá hợp lý như vậy.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability Error**
+> - ❌ **Mistake:** I need some opportunity to prove myself.
+> - ✅ **Correction:** I need an opportunity to prove myself.
+> - **Why:** "Opportunity" is countable when referring to specific chances
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Every challenge is an opportunity in disguise."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **opportunity** (*/ˌɑːpərˈtuːnəti/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A time or set of circumstances that makes it possible to do something; a favorable chance
+> 🇻🇳 **Vietnamese:** Cơ hội, thời cơ, dịp tốt
+> 🗣️ **IPA:** */ˌɑːpərˈtuːnəti/*
+> 🧠 **Mental Model:** Tưởng tượng một con tàu tìm thấy lối vào harbor an toàn - một favorable opening nhưng chỉ tồn tại trong thời gian giới hạn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A favorable time or set of circumstances that allows something to be done"
+**Vietnamese:** Cơ hội, thời cơ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**opportunity** (*/ˌɑːpərˈtuːnəti/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **opportunity** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The conference presents a unique opportunity for networking with industry leaders.
+> 🇻🇳 **Translation:** Hội nghị mang đến một cơ hội độc đáo để kết nối với các lãnh đạo trong ngành.
+> 🔍 **Analysis:** "Opportunity" phù hợp ở đây vì nó thể hiện một favorable circumstance mà nếu không action sẽ bị bỏ lỡ, nhấn mạnh tính time-sensitive
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **opportunity**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** seize/grab/take opportunity (nắm bắt cơ hội)
+> 2. **Value:** golden/unique opportunity (cơ hội vàng/độc đáo)
+> 3. **Loss:** miss/lose opportunity (bỏ lỡ cơ hội)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **opportunity**:
+"This is a good time to apply for the job."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "This presents an excellent opportunity to advance your career in a growing industry."
+> 💡 **Why it works:** "Opportunity" thể hiện favorable timing và potential for progress, mạnh hơn "good time" vì nó包含 nghĩa của advancement
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **opportunity** instead of **chance**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **opportunity:** Deliberate favorable circumstance for action (VN: Cơ hội có chủ đích)
+> **chance:** Random possibility or luck (VN: May mắn, khả năng ngẫu nhiên)
+> 🧱 **The Barrier:** "Opportunity" implies favorable conditions đã được tạo ra, còn "chance" có thể là pure luck
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your dream company is offering a temporary position. You feel excited and hopeful. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This is the opportunity I've been waiting for to get my foot in the door!"
+> 👨‍🎨 **Director's Note:** Diễn tả sự excitement và recognition of a pivotal moment trong career path
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `port` to the meaning of **opportunity**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "port" có nghĩa là "harbor" (cảng). "Opportunity" từ "ob portum veniens" - ship coming to harbor. Một con tàu đến harbor là favorable moment - nhưng nếu không đón tàu, nó sẽ đi mất, giống như opportunity
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **opportunity**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `port` (harbor, gateway)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[transport]] - vận chuyển (mang qua port)
+> - *(noun)* [[airport]] - sân bay
+> - *(verb)* [[export]] - xuất khẩu (mang ra khỏi port)
+> - *(adj)* [[portable]] - có thể mang theo
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌɑːpərˈtuːnəti/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**opportunity**
+> 📖 **Meaning:** A favorable time or set of circumstances for action
+> 🇻🇳 **Vietnamese:** Cơ hội, thời cơ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **opportunity**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The company gave me many opportunities to choose.
+> ✅ **Correction:** The company gave me many opportunities to choose from.
+> 🧠 **Why:** Khi có nhiều options, cần thêm "from" sau "choose" để show source of options
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **opportunity**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[obstacle]] (Chướng ngại vật)
+> - [[dead end]] (Bế tắc)
+> 🧱 **Contrast:** "Opportunity" mở đường cho progress, còn "obstacle/dead end" blocks progress
 
 ---

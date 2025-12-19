@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [isolation, lonely, solitude, alienated, disconnected, excluded, alone, withdrawn, isolated]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /fiːl ˈaɪsəleɪtɪd/
+> **Part of Speech:** Verb Phrase
+> **CEFR Level:** B2
+> **Register:** Neutral/Formal
+> **Etymology:** From Latin "insula" (island) + past participle of "feel"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To be emotionally or socially separated from others
+>
+> **Context Meaning:** To experience a sense of being alone, disconnected, or separated from other people, either physically or emotionally
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cảm thấy bị cô lập
+> - **Contextual:** cảm thấy xa cách, cảm thấy lạc lõng
+>
 > **Nuances:**
-> - ...
+> - Can be voluntary (chosen solitude) or involuntary (forced separation)
+> - Emotional feeling rather than just physical alone-ness
+> - Often temporary but can become chronic
+> - Different from loneliness in emphasis (isolation = separation, loneliness = missing connection)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Melancholy, Detached, Vulnerable
+> **Memory Hook:** Isolated = living on an "island" (from Latin "insula") separated from mainland of social connection
+> **📖 Etymology Story:** From Latin "insula" (island), to feel isolated is to feel like you're living on an emotional island - surrounded by water of separation, disconnected from the mainland of human connection. The feeling of being an island in a sea of people.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[isolated]] /ˈaɪsəleɪtɪd/ : separated from others
+> - **Verb:** [[isolate]] /ˈaɪsəleɪt/ : to cause to be alone
+> - **Noun:** [[isolation]] /ˌaɪsəˈleɪʃn/ : state of being isolated
+> - **Noun:** [[isolationism]] /ˌaɪsəˈleɪʃənɪzəm/ : policy of remaining apart
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[feel lonely]] /fiːl ˈloʊnli/ : miss being with others
+> - [[feel alienated]] /fiːl ˈeɪliəneɪtɪd/ : feel like a stranger
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[feel connected]] /fiːl kəˈnektɪd/ : feel belonging
+> - [[feel included]] /fiːl ɪnˈkluːdɪd/ : feel part of group
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. feel isolated from society
+> 2. socially isolated
+> 3. feel completely isolated
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Moving to a new country made me feel isolated at first.
+> - **Translation:** Chuyển đến một quốc gia mới đã khiến tôi cảm thấy bị cô lập lúc đầu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Many elderly people feel isolated when their children move away.
+> - **Translation:** Nhiều người cao tuổi cảm thấy bị cô lập khi con cái họ chuyển đi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** "I feel isolated of my friends."
+> - ✅ **Correction:** "I feel isolated from my friends."
+> - **Why:** Preposition "from" indicates separation, not "of."
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We are all islands in a common sea, but some feel more isolated than others."
+> **Source:** Adapted from Anne Morrow Lindbergh
 
 ---
 
@@ -161,121 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **feel isolated** (*/fiːl ˈaɪsəleɪtɪd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To experience a sense of being separated, disconnected, or alone from other people
+> 🇻🇳 **Vietnamese:** Cảm thấy bị cô lập, cảm thấy xa cách
+> 🗣️ **IPA:** */fiːl ˈaɪsəleɪtɪd/*
+> 🧠 **Mental Model:** "Island" feeling - như đang sống trên đảo, separated từ mainland của connection
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To experience being separated from others"
+**Vietnamese:** Cảm thấy bị cô lập
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**feel isolated** (*/fiːl ˈaɪsəleɪtɪd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **feel isolated** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Remote workers often feel isolated from their colleagues despite constant digital communication.
+> 🇻🇳 **Translation:** Nhân viên làm việc từ xa thường cảm thấy bị cô lập với đồng nghiệp dù có giao tiếp kỹ thuật số liên tục.
+> 🔍 **Analysis:** Feel isolated ở đây diễn tả emotional distance despite physical connectivity - perfect cho modern work context vì nó highlights psychological effect của remote work, shows irony của digital age
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **feel isolated**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Social:** feel socially isolated (cảm thấy bị cô lập về mặt xã hội - emphasis on social dimension)
+> 2. **Complete:** feel completely isolated (cảm thấy hoàn toàn bị cô lập - emphasis on totality)
+> 3. **Location:** feel isolated in a crowd (cảm thấy lạc lõng giữa đám đông - irony of loneliness in groups)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **feel isolated**:
+"She was alone at the party."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Despite the laughter and chatter around her, she began to feel isolated in her grief."
+> 💡 **Why it works:** "Feel isolated" captures emotional separation not just physical, "despite" creates contrast, "in her grief" explains internal state, shows complexity của social disconnection
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **feel isolated** instead of **feel lonely**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **feel isolated:** Separated from others (cô lập - emphasis on distance/barrier)
+> **feel lonely:** Missing connection/care (cô đơn - emphasis on wanting company)
+> 🧱 **The Barrier:** Isolation = external separation; loneliness = internal need. You can be isolated without feeling lonely (content solitude), or feel lonely without being isolated (alone in crowd).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're in a new school where everyone speaks a different language. You feel disconnected during lunch. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I can't help but feel isolated when everyone's laughing at jokes I don't understand."
+> 👨‍🎨 **Director's Note:** Shows vulnerability, specific about language barrier, expresses natural emotion, captures cultural isolation perfectly
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `insula` to the meaning of **feel isolated**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `insula` means "island." Khi bạn feel isolated, bạn're emotionally living on an island - surrounded by water of separation, disconnected từ mainland of human connection. Like shipwrecked on emotional island.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **feel isolated**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `insula` (island)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[isolated]] /ˈaɪsəleɪtɪd/ (separated)
+> - *(verb)* [[isolate]] /ˈaɪsəleɪt/ (to separate)
+> - *(noun)* [[isolation]] /ˌaɪsəˈleɪʃn/ (state of being alone)
+> - *(noun)* [[peninsula]] /pəˈnɪnsjələ/ (almost-island)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */fiːl ˈaɪsəleɪtɪd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**feel isolated**
+> 📖 **Meaning:** To experience being separated from others
+> 🇻🇳 **Vietnamese:** Cảm thấy bị cô lập
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **feel isolated**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She felt isolating when nobody talked to her."
+> ✅ **Correction:** "She felt isolated when nobody talked to her."
+> 🧠 **Why:** "Feel" takes adjective "isolated" not present participle "isolating." Subject experiences isolation, doesn't cause it. "Isolating" would describe the situation, not her feeling.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **feel isolated**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[feel connected]] /fiːl kəˈnektɪd/ (belonging to community)
+> - [[feel included]] /fiːl ɪnˈkluːdɪd/ (part of the group)
+> 🧱 **Contrast:** Isolation = separation; connection = belonging. One is emotional distance, the other is emotional closeness and integration.
 
 ---

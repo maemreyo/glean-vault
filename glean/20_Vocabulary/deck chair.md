@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
 #flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [deck chairs, beach chair, folding chair, lawn chair, deckchairs]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dek tʃeər/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** informal
+> **Etymology:** From Middle Dutch 'dek' (covering) + 'chair' (seat)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A folding chair with a frame of wood or metal and a seat/back of canvas or fabric.
+>
+> **Context Meaning:** A portable outdoor seat, typically used on ships' decks, beaches, or gardens; designed for relaxation in outdoor settings.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ghế dài, ghế bãi biển
+> - **Contextual:** ghế gấp ngoài trời, ghế nghỉ mát
+>
 > **Nuances:**
-> - ...
+> - Often associated with holidays, beaches, and leisure activities
+> - Typically adjustable with multiple reclining positions
+> - Symbol of relaxation and vacation culture
+> - Can range from simple wooden frames to modern ergonomic designs
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Relaxed, Vacation-minded, Leisurely
+> **Memory Hook:** Chair for the 'deck' (ship's floor/outdoor space) = deck chair
+> **📖 Etymology Story:** Victorian-era ocean liners introduced 'deck chairs' for first-class passengers to enjoy sea breezes. These foldable luxury seats became symbols of civilized leisure, eventually spreading from ship decks to beaches and gardens worldwide.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[deck chair]] /dek tʃeər/
+> - **Related:** [[beach chair]], [[folding chair]], [[lounge chair]]
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[folding chair]] /ˈfəʊldɪŋ tʃeər/ : general collapsible seat
+> - [[lounge chair]] /laʊndʒ tʃeər/ : comfortable reclining seat
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[office chair]] /ˈɒfɪs tʃeər/ : work seating
+> - [[dining chair]] /ˈdaɪnɪŋ tʃeər/ : meal seating
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Relax on a deck chair - rest leisurely
+> 2. Deck chair view - scenery from seated position
+> 3. Arrange deck chairs - organize seating
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** We spent the afternoon reading in deck chairs by the hotel pool.
+> - **Translation:** Chúng tôi dành cả buổi chiều đọc sách trên những ghế dài bên hồ bãi của khách sạn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The cruise ship provides deck chairs for passengers to enjoy the ocean views.
+> - **Translation:** Con tàu du lịch cung cấp ghế dài để hành khách thưởng thức cảnh biển.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word order**
+> - ❌ **Mistake:** chair deck (should be deck chair)
+> - ✅ **Correction:** deck chair
+> - **Why:** Compound noun with 'deck' as modifier
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Life is like a deck chair. Some face forward, some backward, but the important thing is to choose a direction."
+> **Source:** [[Travel Philosophy]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **deck chair** (*/dek tʃeər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A folding chair with a frame of wood or metal and a seat/back of canvas or fabric, used outdoors.
+> 🇻🇳 **Vietnamese:** Ghế dài; ghế bãi biển; ghế gấp ngoài trời
+> 🗣️ **IPA:** */dek tʃeər/*
+> 🧠 **Mental Model:** Portable relaxation throne - your personal comfort station for outdoor leisure
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A folding outdoor chair with canvas seat, used for relaxation"
+**Vietnamese:** Ghế dài; ghế bãi biển
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**deck chair** (*/dek tʃeər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **deck chair** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The elderly couple preferred their traditional wooden deck chairs for watching sunsets at the beach.
+> 🇻🇳 **Translation:** Cặp vợ chồng già thích những chiếc ghế dài bằng gỗ truyền thống của họ để ngắm hoàng hôn ở bãi biển.
+> 🔍 **Analysis:** Perfect here because 'deck chair' specifically denotes the characteristic outdoor folding seating used for leisure
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **deck chair**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** relax on a deck chair (VN: thư giãn trên ghế dài - leisure activity)
+> 2. **Location:** pool deck chair (VN: ghế dài hồ bơi - specific setting)
+> 3. **Arrangement:** arrange deck chairs (VN: sắp xếp ghế dài - organize seating)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **deck chair**:
+"He sat in a folding chair outside."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He lounged in a striped deck chair, watching waves crash on the shore."
+> 💡 **Why it works:** Transforms generic seating into specific leisure imagery, evoking vacation atmosphere
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **deck chair** instead of **[[folding chair]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **deck chair:** Leisure-specific outdoor seat (VN: ghế dài - vacation/beach context)
+> **folding chair:** General collapsible seat (VN: ghế gấp - any context)
+> 🧱 **The Barrier:** Deck chair = leisure+outdoor, folding chair = portable+anywhere
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Beach vacation description. You want to evoke relaxation imagery. What do you describe?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I spent hours dozing in a comfortable deck chair under the palm trees."
+> 👨‍🎨 **Director's Note:** Creates leisure atmosphere - deck chair signals vacation relaxation mode
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `deck` and `chair` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Dutch 'dek' = covering, ship's floor. Victorian ocean liners needed comfortable seating for passengers on the 'deck'. The 'deck chair' was born - foldable luxury for enjoying sea breezes, later spreading from ships to shores worldwide.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **deck chair**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Middle Dutch `dek` (<covering>) + Old French `chaise` (<chair>)
+> 👨‍👩‍👧 **Family:**
+> - *(compound)* [[beach chair]] - similar seaside seating
+> - *(compound)* [[lawn chair]] - garden equivalent
+> - *(adj)* [[deck]] - related to ship's floor
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dek tʃeər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**deck chair**
+> 📖 **Meaning:** A folding outdoor chair for relaxation
+> 🇻🇳 **Vietnamese:** Ghế dài; ghế bãi biển
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **deck chair**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We sat on chair decks by the sea.
+> ✅ **Correction:** We sat on deck chairs by the sea.
+> 🧠 **Why:** 'Deck chair' is a compound noun - 'deck' modifies 'chair', not the reverse
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **deck chair**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[office chair]] (work vs leisure)
+> - [[folding stool]] (backless vs with backrest)
+> 🧱 **Contrast:** Deck chair = outdoor leisure, office chair = indoor work
 
 ---

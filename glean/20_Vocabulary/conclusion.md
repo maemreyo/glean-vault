@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [conclude, concluding, in conclusion, draw a conclusion, reach a conclusion, come to a conclusion, conclusive, conclusively]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kənˈkluːʒn/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From Latin *conclusio* "a closing, conclusion," from *concludere* "to shut up, enclose"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A closing or ending
+>
+> **Context Meaning:** The end or finish of an event, process, or text; a judgment or decision reached by reasoning
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự kết luận, kết thúc
+> - **Contextual:** kết luận, suy luận, phán quyết, kết thúc
+>
 > **Nuances:**
-> - ...
+> - Can refer to the end part of something (book, speech) or a logical judgment
+> - Implies finality and certainty in reasoning
+> - Often follows evidence or argumentation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Final, Decisive, Analytical
+> **Memory Hook:** *Conclusion* = *close* + "sion" - when you reach a conclusion, you "close" the discussion
+> **📖 Etymology Story:** Latin "concludere" means "to shut together" (like closing a box). When you reach a conclusion, you're mentally shutting the box on the issue - no more discussion needed!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[conclusion]] /kənˈkluːʒn/ : end or judgment
+> - **Verb:** [[conclude]] /kənˈkluːd/ : to end or judge
+> - **Adj:** [[conclusive]] /kənˈkluːsɪv/ : decisive, final
+> - **Adv:** [[conclusively]] /kənˈkluːsɪvli/ : decisively
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[ending]] /ˈendɪŋ/ : final part
+> - [[result]] /rɪˈzʌlt/ : outcome
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[beginning]] /bɪˈɡɪnɪŋ/ : start
+> - [[introduction]] /ˌɪntrəˈdʌkʃn/ : opening
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. draw a conclusion
+> 2. in conclusion
+> 3. jump to conclusions
+>
+> **1. Academic Context**
+> - **Sentence:** The research paper concluded with a summary of the main findings.
+> - **Translation:** Bài nghiên cứu kết thúc với việc tóm tắt các phát hiện chính.
+>
+> **2. Logical Context**
+> - **Sentence:** Based on the evidence, the jury reached the conclusion that the defendant was guilty.
+> - **Translation:** Dựa trên bằng chứng, bồi thẩm đoàn đi đến kết luận rằng bị cáo có tội.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** We came to a conclusion about the problem.
+> - ✅ **Correction:** We came to a conclusion about what to do about the problem.
+> - **Why:** "Conclusion" usually needs to specify what it's about - you don't just conclude "about" something.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "In conclusion, I would like to thank everyone for their participation."
+> **Source:** [[Common Presentation Phrase]]
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **conclusion** (*/kənˈkluːʒn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The end or finish of something; a judgment or decision reached after consideration
+> 🇻🇳 **Vietnamese:** Sự kết luận, kết thúc, phán quyết sau khi suy xét
+> 🗣️ **IPA:** */kənˈkluːʒn/*
+> 🧠 **Mental Model:** Giống như final answer - sau khi phân tích mọi evidence, bạn đi đến final decision
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The end of something; a judgment reached after reasoning"
+**Vietnamese:** Kết luận, sự kết thúc
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**conclusion** (*/kənˈkluːʒn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **conclusion** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After weeks of analysis, the team finally reached the conclusion that the project was not feasible.
+> 🇻🇳 **Translation:** Sau hàng tuần phân tích, đội nhóm cuối cùng đi đến kết luận rằng dự án không khả thi.
+> 🔍 **Analysis:** "Reached the conclusion" thể hiện quá trình reasoning để đến quyết định, rất phù hợp với business context
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **conclusion**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** draw a conclusion (rút ra kết luận - VN: dựa trên evidence)
+> 2. **Transition:** in conclusion (kết luận lại - VN: speech/writing transition)
+> 3. **Error:** jump to conclusions (vội vàng kết luận - VN: without sufficient evidence)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **conclusion**:
+"The meeting ended with a decision."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The meeting concluded with the decision to postpone the launch until next quarter."
+> 💡 **Why it works:** "Concluded" tạo hình ảnh professional, formal hơn "ended", cho thấy deliberate ending
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **conclusion** instead of **[[ending]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **conclusion:** Dùng khi chỉ logical judgment, reasoned decision - VN: kết luận (có thinking process)
+> **[[ending]]:** Dùng khi chỉ final part, termination - VN: cái kết (chỉ là last part)
+> 🧱 **The Barrier:** Ending là chronological end, conclusion là intellectual resolution. Movie có ending nhưng có thể không có clear conclusion.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You've just finished analyzing all the survey data. Your boss asks what you found. You're ready to report.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Based on the data, my conclusion is that customers prefer the new design by a significant margin."
+> 👨‍🎨 **Director's Note:** "Conclusion" thể hiện professional, evidence-based assessment, phù hợp với business reporting
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `claudere` to the meaning of **conclusion**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "claudere" = to close, to shut. "Con-" (together) + "claudere" (close) = conclusion = shutting together all arguments. Giống như closing a case file!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **conclusion**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `claudere` (to close, to shut)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[conclusion]] - sự kết luận
+> - *(verb)* [[conclude]] - kết luận
+> - *(adj)* [[conclusive]] - quyết định, không thể chối cãi
+> - *(noun)* [[exclude]] - loại trừ (ex- + claudere)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kənˈkluːʒn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**conclusion**
+> 📖 **Meaning:** The end or judgment reached after reasoning
+> 🇻🇳 **Vietnamese:** Kết luận, sự kết thúc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **conclusion**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "In conclusion of my presentation..."
+> ✅ **Correction:** "In conclusion, I would like to say..." OR "To conclude my presentation..."
+> 🧠 **Why:** "In conclusion" là standalone phrase, không có "of". Hoặc dùng "to conclude" + object.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **conclusion**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[introduction]] (opening, beginning)
+> - [[premise]] (starting point for reasoning)
+> - [[hypothesis]] (unproven starting point)
+> 🧱 **Contrast:** Introduction là bắt đầu, conclusion là kết thúc. Premise là starting assumption, conclusion là final judgment.
 
 ---

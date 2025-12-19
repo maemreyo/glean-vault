@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 #flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [in my situation, for me personally, as for me, in my circumstances]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪn maɪ keɪs/
+> **Part of Speech:** Fixed expression
+> **CEFR Level:** B1
+> **Register:** Neutral/Informal
+> **Etymology:** "In" (position) + "my" (possessive) + "case" (Latin "casus" - that which befalls, circumstance)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Within my particular circumstances or situation
+>
+> **Context Meaning:** A phrase used to introduce personal experience or situation that may differ from the general case being discussed
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** trong trường hợp của tôi
+> - **Contextual:** đối với tôi, trong trường hợp của tôi thì
+>
 > **Nuances:**
-> - ...
+> - Used to contrast personal experience with general statements
+> - Signals that the following information is specific to the speaker
+> - Common in discussions where experiences may vary
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Personal, Specific, Contrasting
+> **Memory Hook:** Picture yourself holding a specific "case file" labeled "My Situation" - this contains your unique circumstances
+> **📖 Etymology Story:** From "case" meaning a specific instance or situation. When you say "in my case," you're opening your personal "case file" to show how your situation differs from others
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[case]] /keɪs/ : a particular situation or instance
+> - **Adj:** [[case-by-case]] /ˌkeɪs baɪ ˈkeɪs/ : individualized
+> - **Phrase:** [[in any case]] /ɪn ˈeni keɪs/ : anyway, regardless
+> - **Phrase:** [[in that case]] /ɪn ðæt keɪs/ : under those circumstances
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[for me]] /fɔr miː/ : from my perspective
+> - [[personally]] /ˈpɜːrsənəli/ : as far as I'm concerned
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[generally]] /ˈdʒenərəli/ : in most cases
+> - [[typically]] /ˈtɪpɪkli/ : usually
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. but in my case
+> 2. especially in my case
+> 3. different in my case
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Many people find the job easy, but in my case, it requires a lot of concentration.
+> - **Translation:** Nhiều người thấy công việc này dễ dàng, nhưng trong trường hợp của tôi thì nó đòi hỏi sự tập trung cao độ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Most students need four years to graduate. In my case, I finished in three.
+> - **Translation:** Hầu hết sinh viên cần bốn năm để tốt nghiệp. Đối với tôi thì tôi đã hoàn thành trong ba năm.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Usage Error**
+> - ❌ **Mistake:** In my case I like coffee.
+> - ✅ **Correction:** In my case, I like coffee. OR I like coffee in my case.
+> - **Why:** Usually needs a comma after the phrase when introducing a clause
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Everyone seems to learn languages quickly, but in my case, it takes years of practice."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **in my case** (*/ɪn maɪ keɪs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In my particular situation or circumstances; for me personally
+> 🇻🇳 **Vietnamese:** Trong trường hợp của tôi, đối với tôi thì
+> 🗣️ **IPA:** */ɪn maɪ keɪs/*
+> 🧠 **Mental Model:** Tưởng tượng bạn mở ra "case file" của riêng mình để cho thấy tình huống đặc biệt của bạn khác với general case
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In my particular situation or circumstances"
+**Vietnamese:** Trong trường hợp của tôi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**in my case** (*/ɪn maɪ keɪs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **in my case** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** While many people enjoy team sports, in my case, I prefer individual activities like swimming and running.
+> 🇻🇳 **Translation:** Mặc dù nhiều người thích thể thao đồng đội, nhưng đối với tôi thì tôi更喜欢 các hoạt động cá nhân như bơi lội và chạy bộ.
+> 🔍 **Analysis:** Cụm này dùng để contrast personal preference với general trend, perfect cho expressing individual differences trong discussions
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **in my case**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Contrast:** but/however in my case (nhưng trong trường hợp của tôi thì)
+> 2. **Emphasis:** especially in my case (đặc biệt là đối với tôi)
+> 3. **Difference:** different in my case (khác trong trường hợp của tôi)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **in my case**:
+"For me, it was difficult."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Many found the course manageable, but in my case, it was incredibly challenging."
+> 💡 **Why it works:** "In my case" tạo contrast rõ ràng giữa general experience và personal experience, làm statement more nuanced
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **in my case** instead of **for me**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **in my case:** Diễn tả specific situation/circumstances khác biệt (VN: Trong trường hợp của tôi)
+> **for me:** Diễn tả personal opinion/preference (VN: Đối với tôi)
+> 🧱 **The Barrier:** "In my case" focus on circumstances còn "for me" focus on preference/opinion. Case là về situation, for là về benefit/preference
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleagues are discussing how they handle stress by meditation. You handle it differently. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I know meditation works for many people, but in my case, intense exercise is what helps me relieve stress."
+> 👨‍🎨 **Director's Note:** Diễn tả personal situation khác biệt một cách polite và acknowledging others' experiences
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `case` to the meaning of **in my case**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Case" từ Latin "casus" - "that which befalls" (việc xảy ra). Mỗi người có những "cases" khác nhau xảy ra trong life. Khi nói "in my case", bạn đang mở ra specific case file của mình
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **in my case**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `casus` (that which befalls, circumstance)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[case study]] - nghiên cứu tình huống
+> - *(adj)* [[case-sensitive]] - nhạy cảm với chữ hoa/thường
+> - *(phrase)* [[in case]] - phòng trường hợp
+> - *(phrase)* [[in any case]] - dù sao đi nữa
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪn maɪ keɪs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**in my case**
+> 📖 **Meaning:** In my particular situation or circumstances
+> 🇻🇳 **Vietnamese:** Trong trường hợp của tôi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **in my case**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** In my case is difficult to learn English
+> ✅ **Correction:** In my case, learning English is difficult.
+> 🧠 **Why:** "In my case" là introductory phrase, cần comma sau nó và không thể làm subject của câu. Nó modifies toàn bộ clause theo sau
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **in my case**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[generally speaking]] (Nói chung)
+> - [[in most cases]] (Trong hầu hết trường hợp)
+> 🧱 **Contrast:** "In my case" là specific individual, còn "generally speaking" là universal pattern
 
 ---

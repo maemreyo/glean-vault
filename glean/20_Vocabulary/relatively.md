@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [relative, comparatively, in comparison, relatively speaking, comparatively speaking, proportionally, relatively new, relatively small, relatively cheap]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈrelətɪvli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B1
+> **Register:** neutral/formal/academic
+> **Etymology:** From Latin *relativus* "having reference or relation," from *relatus* past participle of *referre* "to bring back, refer"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In relation to something else
+>
+> **Context Meaning:** In comparison with something else; in relation or proportion to something else; quite or fairly when compared with something else
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tương đối, so với
+> - **Contextual:** khá, tương đối, so sánh với, so với cái khác
+>
 > **Nuances:**
-> - ...
+> - Always implies comparison - nothing is "relatively" good in absolute terms
+> - Often softens statements - makes them less absolute
+> - Used to provide context or perspective
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Diplomatic, Measured, Contextual
+> **Memory Hook:** *Relatively* = *relative* + "ly" - like a relative family member, it depends on who you compare to!
+> **📖 Etymology Story:** Latin "referre" means "to carry back, to compare." When you speak relatively, you're always carrying back to something to compare - like bringing evidence to support your comparison.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[relative]] /ˈrelətɪv/ : family member or thing compared
+> - **Verb:** [[relate]] /rɪˈleɪt/ : to connect or compare
+> - **Adj:** [[relative]] /ˈrelətɪv/ : comparative
+> - **Adv:** [[relatively]] /ˈrelətɪvli/ : comparatively
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[comparatively]] /kəmˈpærətɪvli/ : in comparison
+> - [[fairly]] /ˈfeəli/ : moderately
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[absolutely]] /ˈæbsəluːtli/ : completely
+> - [[extremely]] /ɪkˈstriːmli/ : very
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. relatively speaking
+> 2. relatively new/old
+> 3. relatively easy/hard
+>
+> **1. Academic Context**
+> - **Sentence:** The experiment was relatively successful compared to previous attempts.
+> - **Translation:** Thí nghiệm khá thành công so với các lần thử trước đó.
+>
+> **2. Size/Scale Context**
+> - **Sentence:** It was a relatively small town with only about 10,000 residents.
+> - **Translation:** Đó là một thị trấn tương đối nhỏ chỉ với khoảng 10.000 cư dân.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Missing Comparison Context**
+> - ❌ **Mistake:** The food was relatively good.
+> - ✅ **Correction:** The food was relatively good for airplane food. / The food was relatively good compared to what we expected.
+> - **Why:** "Relatively" needs a comparison point - what is it relative to?
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Everything is relative in this universe."
+> **Source:** [[Albert Einstein]]
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **relatively** (*/ˈrelətɪvli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In comparison with something else; quite or fairly when measured against something else
+> 🇻🇳 **Vietnamese:** Tương đối, so sánh với, khá so với cái khác
+> 🗣️ **IPA:** */ˈrelətɪvli/*
+> 🧠 **Mental Model:** Giống như depends on context - meaning thay đổi tùy theo cái bạn compare nó với
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In comparison with something else; quite or fairly when measured against something else"
+**Vietnamese:** Tương đối, so sánh với
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**relatively** (*/ˈrelətɪvli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **relatively** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new smartphone is relatively expensive, but it offers much better features than its competitors.
+> 🇻🇳 **Translation:** Điện thoại thông minh mới tương đối đắt, nhưng nó có tính năng tốt hơn nhiều so với đối thủ.
+> 🔍 **Analysis:** "Relatively" ở đây so sánh price với competitors, tạo context-aware assessment thay vì absolute judgment
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **relatively**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Time:** relatively new/recent (mới tương đối - VN: so với timeline)
+> 2. **Quality:** relatively good/bad (khá tốt/kém - VN: so với expectation)
+> 3. **Introduction:** relatively speaking (nói một cách tương đối - VN: disclaimer cho comparison)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **relatively**:
+"The book was good."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The book was relatively well-written for a debut novel, though it had some pacing issues."
+> 💡 **Why it works:** "Relatively" tạo nuanced assessment, cho thấy balanced evaluation thay vì absolute statement
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **relatively** instead of **[[fairly]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **relatively:** Dùng khi có explicit/implicit comparison với something else - VN: tương đối so với
+> **[[fairly]]:** Dùng khi chỉ moderate degree, không cần comparison - VN: khá, khá là
+> 🧱 **The Barrier:** Relatively needs comparison context, fairly stands alone. "Fairly good" = okay, "relatively good" = good compared to something specific.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks if the exam was difficult. You want to be honest but not discourage them.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "It was relatively challenging compared to our previous tests, but manageable if you studied well."
+> 👨‍🎨 **Director's Note:** "Relatively" thể hiện balanced perspective, cung cấp context mà không quá negative
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `referre` to the meaning of **relatively**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "referre" = to carry back, to compare. "Re-" (back) + "ferre" (carry). Relatively = carrying back to compare. Giống như bringing reference point to judge something!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **relatively**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `referre` (to bring back, refer)
+> 👨‍👩‍👧 **Family:**
+> - *(adv)* [[relatively]] - tương đối
+> - *(adj)* [[relative]] - tương đối, họ hàng
+> - *(noun)* [[relation]] - mối quan hệ
+> - *(verb)* [[relate]] - liên quan, kể lại
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈrelətɪvli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**relatively**
+> 📖 **Meaning:** In comparison with something else
+> 🇻🇳 **Vietnamese:** Tương đối, so sánh với
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **relatively**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "This is relatively the best restaurant in town."
+> ✅ **Correction:** "This is relatively good for a budget restaurant" OR "This is one of the better restaurants in town."
+> 🧠 **Why:** "Relatively" modifies gradable adjectives (good, expensive, difficult), không dùng với superlatives (best).
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **relatively**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[absolutely]] (completely, without comparison)
+> - [[extremely]] (to a very high degree)
+> - [[unusually]] (not in comparison to norms)
+> 🧱 **Contrast:** Relatively là depends on comparison, absolutely là independent of comparison. Giống như "xác nhận" vs "so sánh".
 
 ---

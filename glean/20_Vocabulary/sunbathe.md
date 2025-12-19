@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
 #flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [sunbathing, sunbathed, tanning, suntanning, beach, swimming pool, sun lounge, solarium]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsʌnbeɪð/
+> **Part of Speech:** Verb
+> **CEFR Level:** B1
+> **Register:** Informal
+> **Etymology:** Compound word: "sun" + "bathe" (from Old English "bæþ")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To expose one's body to the sun
+>
+> **Context Meaning:** To sit or lie in the sun, especially to get a tan or for pleasure and relaxation
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tắm nắng
+> - **Contextual:** nằm nắng, phơi nắng
+>
 > **Nuances:**
-> - ...
+> - Often associated with leisure activities, beaches, poolsides
+> - Can be for health (vitamin D) or cosmetic purposes (tanning)
+> - Modern usage often includes warnings about skin cancer risks
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Relaxed, Leisurely, Summer-loving
+> **Memory Hook:** Sun + Bathe = bathing in sunlight instead of water
+> **📖 Etymology Story:** Simple compound from "sun" (the star) + "bathe" (Old English "bæþ" meaning to wash or immerse). Like bathing cleanses with water, sunbathing "bathes" you in sunlight - immersing your body in warm rays for relaxation and color.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[sunbathing]] /ˈsʌnbeɪðɪŋ/ : the activity
+> - **Verb:** [[sunbathe]] /ˈsʌnbeɪð/ : present tense
+> - **Verb:** [[sunbathed]] /ˈsʌnbeɪðd/ : past tense
+> - **Noun:** [[sunburn]] /ˈsʌnbɜːrn/ : result of too much sun
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[tan]] /tæn/ : to become brown from sun exposure
+> - [[solarium]] /səʊˈleəriəm/ : place for artificial sunbathing
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[shade]] /ʃeɪd/ : protection from sun
+> - [[indoors]] /ˈɪndɔːrz/ : inside, away from sun
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. sunbathe on the beach
+> 2. sunbathe by the pool
+> 3. sunbathe topless
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** We love to sunbathe on the golden sands during our summer vacation.
+> - **Translation:** Chúng tôi thích tắm nắng trên bãi cát vàng trong kỳ nghỉ hè.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Don't forget to apply sunscreen before you sunbathe to protect your skin.
+> - **Translation:** Đừng quên thoa kem chống nắng trước khi tắm nắng để bảo vệ da của bạn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Wrong Word Form**
+> - ❌ **Mistake:** "I enjoy to sunbathe in the morning."
+> - ✅ **Correction:** "I enjoy sunbathing in the morning."
+> - **Why:** After "enjoy," use the gerund form (-ing), not infinitive.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "I love to sunbathe - it's like charging my batteries with sunshine."
+> **Source:** Modern leisure lifestyle quote
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **sunbathe** (*/ˈsʌnbeɪð/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To sit or lie in the sun, especially to get a tan or for pleasure
+> 🇻🇳 **Vietnamese:** Tắm nắng, nằm nắng, phơi nắng
+> 🗣️ **IPA:** */ˈsʌnbeɪð/*
+> 🧠 **Mental Model:** "Sun" + "bathe" = tắm mình trong ánh nắng - không phải nước mà là sunlight
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To expose one's body to the sun for pleasure or tanning"
+**Vietnamese:** Tắm nắng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**sunbathe** (*/ˈsʌnbeɪð/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **sunbathe** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The tourists prefer to sunbathe on the deck of the cruise ship rather than swim in the cold sea.
+> 🇻🇳 **Translation:** Khách du lịch thích tắm nắng trên boong tàu du lịch hơn là bơi trong biển lạnh.
+> 🔍 **Analysis:** Sunbathe ở đây diễn tả leisure activity - perfect cho vacation context vì nó shows relaxation và enjoyment của weather, creates hình ảnh của peaceful holiday moment
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **sunbathe**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Location:** sunbathe on the beach (tắm nắng trên bãi biển - most common location)
+> 2. **Duration:** sunbathe for hours (tắm nắng hàng giờ - emphasises lengthy relaxation)
+> 3. **Safety:** sunbathe safely (tắm nắng an toàn - modern health concern)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **sunbathe**:
+"She sat outside in the sun."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She leisurely sunbathed by the infinity pool, soaking up the Mediterranean rays."
+> 💡 **Why it works:** "Sunbathed" specific về activity, "leisurely" adds relaxation mood, "infinity pool" creates luxury image, "Mediterranean rays" paints vivid geographical picture
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **sunbathe** instead of **sit in the sun**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **sunbathe:** Deliberate act of exposing body to sun for tan/pleasure (tắm nắng có chủ đích)
+> **sit in the sun:** Incidental exposure while doing other activities (ngồi trong nắng)
+> 🧱 **The Barrier:** Sunbathe implies purposeful exposure of skin; sitting in sun doesn't necessarily mean exposing your body.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're on vacation. The weather is perfect. You feel blissfully relaxed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This weather is perfect for sunbathing - I could stay here all day!"
+> 👨‍🎨 **Director's Note:** Shows spontaneous pleasure, uses "sunbathing" gerund naturally, expresses enthusiasm, creates carefree vacation atmosphere
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `sun` + `bathe` to the meaning of **sunbathe**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Sun" (the star that provides light và heat) + "bathe" (from Old English "bæþ" meaning to wash or immerse). Khi combine, sunbathe literally means "to immerse yourself in sunlight" - như bathing your body trong warm rays thay vì water.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **sunbathe**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Compound: Old English "sunne" (sun) + "bæþ" (bath)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[sunbathed]] /ˈsʌnbeɪðd/ (past tense)
+> - *(noun)* [[sunbathing]] /ˈsʌnbeɪðɪŋ/ (the activity)
+> - *(noun)* [[sunburn]] /ˈsʌnbɜːrn/ (negative result)
+> - *(noun)* [[sunscreen]] /ˈsʌnskriːn/ (protection)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsʌnbeɪð/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**sunbathe**
+> 📖 **Meaning:** To sit or lie in the sun for pleasure or tanning
+> 🇻🇳 **Vietnamese:** Tắm nắng, nằm nắng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **sunbathe**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She is sunbathe on the beach right now."
+> ✅ **Correction:** "She is sunbathing on the beach right now."
+> 🧠 **Why:** Continuous tense = "is + -ing form." "Sunbathe" becomes "sunbathing" in present continuous. Error comes from forgetting -ing after auxiliary verb.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **sunbathe**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[seek shade]] (bỏ trốn trong bóng râm - actively avoiding sun)
+> - [[stay indoors]] (ở trong nhà - opposite location)
+> 🧱 **Contrast:** Sunbathe = seeking sun exposure; opposite = seeking shade or staying away from sunlight entirely for protection or comfort.
 
 ---

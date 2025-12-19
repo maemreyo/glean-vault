@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 #flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [keep in mind, remember, consider, take into account, bear that in mind, bearing in mind, borne in mind]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /beər ɪn maɪnd/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B2
+> **Register:** formal/informal
+> **Etymology:** From Old English 'beran' (to carry, bear) + 'in' + 'mind' (memory, thought)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To remember and consider a piece of information when making a decision or forming an opinion.
+>
+> **Context Meaning:** To keep something in your thoughts; to not forget something important; to be aware of or consider something.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ghi nhớ, nhớ kỹ
+> - **Contextual:** cân nhắc, xem xét, để tâm đến
+>
 > **Nuances:**
-> - ...
+> - More formal than "remember" but less formal than "take into consideration"
+> - Often used to remind someone of an important fact or limitation
+> - Implies active mental consideration, not just passive memory
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Wise, Considerate, Thoughtful
+> **Memory Hook:** Imagine carrying a thought in your mind like you would carry something precious - you "bear it in mind"
+> **📖 Etymology Story:** Medieval scholars would literally "bear" heavy scrolls in their hands while studying. To "bear in mind" evolved from this physical action of holding important texts to the mental action of holding important thoughts.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrasal Verb:** [[bear in mind]] /beər ɪn maɪnd/
+> - **Related Phrases:** [[keep in mind]], [[take into account]], [[be aware of]]
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[remember]] /rɪˈmembər/ : to recall from memory
+> - [[consider]] /kənˈsɪdər/ : to think carefully about
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[forget]] /fəˈɡet/ : to lose from memory
+> - [[ignore]] /ɪɡˈnɔːr/ : to pay no attention to
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Bear in mind that... - introducing important information
+> 2. Always bear in mind - emphasizing importance
+> 3. Should bear in mind - giving advice
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Bear in mind that the store closes at 6 PM on weekends.
+> - **Translation:** Hãy nhớ rằng cửa hàng đóng cửa lúc 6 giờ chiều vào cuối tuần.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** When choosing a university, you should bear in mind the location and living costs.
+> - **Translation:** Khi chọn đại học, bạn nên cân nhắc về vị trí và chi phí sinh hoạt.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word order confusion**
+> - ❌ **Mistake:** Bear in your mind that... (redundant)
+> - ✅ **Correction:** Bear in mind that...
+> - **Why:** The phrase is fixed - 'in mind' without 'your' is the correct idiom
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Bear in mind that if you are a wise man, you become a devil's donkey."
+> **Source:** [[Proverb]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **bear in mind** (*/beər ɪn maɪnd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To remember and consider a piece of information when making a decision or forming an opinion.
+> 🇻🇳 **Vietnamese:** Ghi nhớ; cân nhắc; để tâm đến
+> 🗣️ **IPA:** */beər ɪn maɪnd/*
+> 🧠 **Mental Model:** Mentally carrying important information - like holding valuable documents that guide decisions
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To remember and consider a piece of information when making a decision"
+**Vietnamese:** Ghi nhớ; cân nhắc
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**bear in mind** (*/beər ɪn maɪnd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **bear in mind** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Before making an investment, bear in mind that all markets involve some level of risk.
+> 🇻🇳 **Translation:** Trước khi đầu tư, hãy nhớ rằng tất cả các thị trường đều có một mức độ rủi ro nào đó.
+> 🔍 **Analysis:** Perfect for giving important advice - 'bear in mind' signals crucial information that should influence decision-making
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **bear in mind**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Introducing facts:** bear in mind that (VN: hãy nhớ rằng - sets up important information)
+> 2. **Giving reminders:** always bear in mind (VN: luôn luôn nhớ - emphasizes importance)
+> 3. **Advising:** should bear in mind (VN: nên cân nhắc - suggests consideration)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **bear in mind**:
+"Remember it's expensive."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Bear in mind that the premium subscription costs $49.99 per month before committing."
+> 💡 **Why it works:** Transforms simple reminder into thoughtful consideration phrase, advising careful decision-making
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **bear in mind** instead of **[[remember]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **bear in mind:** Active consideration (VN: cân nhắc, để tâm - implies thoughtful processing)
+> **remember:** Mental recall (VN: nhớ lại - simple retrieval from memory)
+> 🧱 **The Barrier:** Bear in mind = carry+think, remember = just recall
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is excited about a job offer but hasn't read the contract details. You're concerned. What do you say?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Bear in mind the non-compete clause before accepting."
+> 👨‍🎨 **Director's Note:** Shows wisdom - encourages thoughtful consideration beyond initial excitement
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `bear` to the meaning of **bear in mind**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'beran' = to carry, endure. Medieval scholars physically bore heavy manuscripts. The phrase evolved from carrying physical books to carrying thoughts in your mind - the mental weight of important information.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **bear in mind**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `beran` (<to carry>)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[bear]] - to carry, endure
+> - *(phrase)* [[keep in mind]] - similar meaning, more casual
+> - *(phrase)* [[take into account]] - more formal alternative
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */beər ɪn maɪnd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**bear in mind**
+> 📖 **Meaning:** To remember and consider when making decisions
+> 🇻🇳 **Vietnamese:** Ghi nhớ; cân nhắc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **bear in mind**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Please bear in your mind this warning.
+> ✅ **Correction:** Please bear in mind this warning. / Please keep this in mind.
+> 🧠 **Why:** 'Bear in mind' is a fixed phrase - don't add 'your' between 'in' and 'mind'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **bear in mind**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[forget]] (fail to keep in memory)
+> - [[disregard]] (intentionally ignore)
+> 🧱 **Contrast:** Bear in mind = mental inclusion, disregard = mental exclusion
 
 ---

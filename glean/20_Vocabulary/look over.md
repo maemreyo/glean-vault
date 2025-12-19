@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [review, examine, check, inspect, go over, scan, skim, browse, look through, glance over]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /lʊk ˈəʊvə(r)/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B1
+> **Register:** neutral/informal
+> **Etymology:** Combination of 'look' (from Old English 'locian') and preposition 'over'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** to examine or review something
+>
+> **Context Meaning:** To quickly examine or read something to check it or understand it; often used for documents, reports, or written materials
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** xem qua, đọc qua
+> - **Contextual:** xem xét, kiểm tra, rà soát, duyệt (tài liệu)
+>
 > **Nuances:**
-> - ...
+> - Usually implies a quick or brief examination
+> - Can be separable: 'look over' or 'look it over'
+> - Often used before making a decision
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Methodical, Cautious
+> **Memory Hook:** Imagine looking from "over" the page - scanning it from above to get a general view
+> **📖 Etymology Story:** Phrasal verb combining 'look' (xem) + 'over' (trên) = xem từ trên xuống, scan nhanh
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[review]] /rɪˈvjuː/, [[examination]] /ɪɡˌzæmɪˈneɪʃən/
+> - **Verb:** [[look over]] /lʊk ˈəʊvə(r)/, [[review]] /rɪˈvjuː/
+> - **Adj:** N/A
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[go over]] /ɡəʊ ˈəʊvə(r)/ : examine carefully
+> - [[scan]] /skæn/ : look through quickly
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[ignore]] /ɪɡˈnɔː(r)/ : refuse to notice
+> - [[neglect]] /nɪˈɡlekt/ : fail to pay attention to
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. look over a document/report
+> 2. look over the details
+> 3. look over something carefully
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Could you look over my essay before I submit it? I'd appreciate your feedback.
+> - **Translation:** Bạn có thể xem qua bài luận của tôi trước khi tôi nộp không? Tôi sẽ rất cảm kích phản hồi của bạn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The manager looked over the financial statements and approved the budget allocation.
+> - **Translation:** Người quản lý đã xem xét các báo cáo tài chính và phê duyệt việc phân bổ ngân sách.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Separation Error**
+> - ❌ **Mistake:** I'll look over it tomorrow (correct, but beginners often avoid separation)
+> - ✅ **Correction:** I'll look it over tomorrow (also correct - phrasal verb is separable)
+> - **Why:** 'Look over' is separable - can place object between or after the preposition
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Please look over these documents carefully before signing."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **look over** (*/lʊk ˈəʊvə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To examine or review something quickly, especially documents or written materials
+> 🇻🇳 **Vietnamese:** Xem qua, xem xét, kiểm tra, rà soát
+> 🗣️ **IPA:** */lʊk ˈəʊvə(r)/*
+> 🧠 **Mental Model:** Như mắt lướt từ trên xuống trang giấy - kiểm tra nhanh chứ không đọc kỹ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To quickly examine or review something, especially documents"
+**Vietnamese:** Xem qua, rà soát
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**look over** (*/lʊk ˈəʊvə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **look over** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The professor asked her assistant to look over the research papers for any obvious errors before publication.
+> 🇻🇳 **Translation:** Giáo sư đã yêu cầu trợ lý của mình xem qua các bài nghiên cứu để tìm lỗi rõ ràng trước khi xuất bản.
+> 🔍 **Analysis:** 'look over' thể hiện việc kiểm tra nhanh chứ không phải review chi tiết, phù hợp với việc tìm lỗi obvious
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **look over**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Documents:** look over a report (xem qua báo cáo) - hành động duyệt tài liệu
+> 2. **Careful:** look over carefully (xem xét kỹ) - kiểm tra có chủ đích
+> 3. **Quick:** look over quickly (lướt qua nhanh) - scan không sâu
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **look over**:
+"Can you check my homework?"
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Could you look over my homework assignment and point out any areas that need improvement?"
+> 💡 **Why it works:** 'look over' cụ thể hơn 'check', thể hiện việc review cẩn thận hơn là chỉ kiểm tra nhanh
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **look over** instead of [[read]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **look over:** Quick examination, checking for errors or general understanding (look over a contract)
+> [[read]]: Detailed, complete reading of content (read a novel, read instructions)
+> 🧱 **The Barrier:** 'look over' là scanning/reviewing, trong khi 'read' là reading comprehension
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague finishes writing an important email. You're helping them review it.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Let me look over that email before you send it to the client."
+> 👨‍🎨 **Director's Note:** 'look over' thể hiện sự hỗ trợ và cẩn trọng, phù hợp với môi trường chuyên nghiệp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the components to the meaning of **look over**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Look' (Old English 'locian' - to see) + 'over' (preposition indicating above/higher position) = literal action of viewing from above, metaphorically means surveying/ reviewing
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **look over**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Components:** 'look' (verb of visual perception) + 'over' (preposition of position)
+> 👨‍👩‍👧 **Related Phrasals:**
+> - *(verb)* go over
+> - *(verb)* look through
+> - *(verb)* look into
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */lʊk ˈəʊvə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**look over**
+> 📖 **Meaning:** To examine or review quickly
+> 🇻🇳 **Vietnamese:** Xem qua, rà soát
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **look over**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I need to look over them this report
+> ✅ **Correction:** I need to look over this report / I need to look this report over
+> 🧠 **Why:** Đặt tân ngữ sai chỗ hoặc dùng sai đại từ - có thể nói 'look over + object' hoặc 'look + object + over'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite action of **look over**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[ignore]] (refuse to pay attention)
+> - [[overlook]] (fail to notice)
+> 🧱 **Contrast:** Look over is intentional examination, while ignore/overlook is intentional or unintentional lack of attention
 
 ---

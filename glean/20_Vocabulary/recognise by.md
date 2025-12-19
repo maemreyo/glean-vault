@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [recognize by, identify by, known by, recognized by, recognises by, recognising by]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈrekəɡnaɪz baɪ/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B2
+> **Register:** formal/informal
+> **Etymology:** From Latin 'recognoscere' (to know again, examine) + Old English 'bi' (by)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To identify someone or something by a particular characteristic, feature, or quality.
+>
+> **Context Meaning:** To distinguish or identify based on specific signs, marks, qualities, or distinguishing features.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nhận biết qua, nhận ra qua
+> - **Contextual:** phân biệt qua, xác định qua
+>
 > **Nuances:**
-> - ...
+> - Emphasizes the method or basis of recognition
+> - Often used when distinguishing between similar items
+> - Can refer to visual recognition or identification through characteristics
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Observant, Analytical, Detective-like
+> **Memory Hook:** 'Re-know' + 'by method' - you know something again by its special feature
+> **📖 Etymology Story:** Medieval tax collectors would 'recognize' merchants 'by' their distinctive seals and signatures. The phrase preserves this ancient method of identification - using distinctive markers to know or recognize something or someone.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrasal Verb:** [[recognise by]] /ˈrekəɡnaɪz baɪ/
+> - **Related:** [[identify by]], [[distinguish by]], [[know by]]
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[identify]] /aɪˈdentɪfaɪ/ : to establish identity
+> - [[distinguish]] /dɪˈstɪŋɡwɪʃ/ : to recognize differences
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[confuse]] /kənˈfjuːz/ : to fail to distinguish
+> - [[mistake]] /mɪˈsteɪk/ : to identify incorrectly
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Recognise by appearance - through visual features
+> 2. Recognise by voice - through sound characteristics
+> 3. Recognise by behavior - through actions
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** I can recognise my brother by his distinctive laugh even in a crowd.
+> - **Translation:** Tôi có thể nhận ra anh trai mình qua tiếng cười đặc trưng ngay cả trong đám đông.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** You can recognise quality products by their attention to detail.
+> - **Translation:** Bạn có thể nhận biết sản phẩm chất lượng qua sự chú tâm đến chi tiết.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** I recognise him from his accent.
+> - ✅ **Correction:** I recognise him by his accent.
+> - **Why:** 'Recognise by' indicates the means of identification, 'from' indicates source or separation
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We recognise our friends by their faces, but our true friends by their hearts."
+> **Source:** [[Chinese Proverb]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **recognise by** (*/ˈrekəɡnaɪz baɪ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To identify someone or something by a particular characteristic, feature, or quality.
+> 🇻🇳 **Vietnamese:** Nhận biết qua; phân biệt qua; nhận ra qua
+> 🗣️ **IPA:** */ˈrekəɡnaɪz baɪ/*
+> 🧠 **Mental Model:** Detective using clues - identifying through distinctive markers like fingerprints or signatures
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To identify someone or something by a particular characteristic"
+**Vietnamese:** Nhận biết qua; phân biệt qua
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**recognise by** (*/ˈrekəɡnaɪz baɪ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **recognise by** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The art expert can recognise authentic paintings by their brush strokes and color palette.
+> 🇻🇳 **Translation:** Chuyên gia nghệ thuật có thể nhận ra tranh chính hãng qua nét cọ và bảng màu.
+> 🔍 **Analysis:** Perfect here because 'recognise by' highlights the specific method (brush strokes) used for identification
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **recognise by**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Physical traits:** recognise by appearance (VN: nhận qua ngoại hình - visual identification)
+> 2. **Auditory traits:** recognise by voice (VN: nhận qua giọng nói - sound-based recognition)
+> 3. **Behavioral traits:** recognise by behavior (VN: nhận qua hành vi - action-based identification)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **recognise by**:
+"I know her because of her red hair."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I recognise her by her distinctive red hair even from a distance."
+> 💡 **Why it works:** Transforms simple association into precise identification method, emphasizing how recognition occurs
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **recognise by** instead of **[[know]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **recognise by:** Identification through features (VN: nhận biết qua - method-focused)
+> **know:** General familiarity (VN: biết - general awareness)
+> 🧱 **The Barrier:** Recognise by = identification method, know = general familiarity
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Airport pickup. You've never met your client in person. How do you identify them?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'll recognise you by the blue briefcase you mentioned."
+> 👨‍🎨 **Director's Note:** Shows practical identification - using distinctive features as recognition markers
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `recognise` to the meaning of **recognise by**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 're-' (again) + 'cognoscere' (to know). Originally meant to know again something lost or forgotten. Adding 'by' specifies HOW you know it again - through distinctive features.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **recognise by**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `cognoscere` (<to know>)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[recognise]] - to identify again
+> - *(verb)* [[recognize]] - US spelling
+> - *(phrase)* [[distinguish by]] - similar meaning, emphasizes differences
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈrekəɡnaɪz baɪ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**recognise by**
+> 📖 **Meaning:** To identify by particular characteristics
+> 🇻🇳 **Vietnamese:** Nhận biết qua; phân biệt qua
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **recognise by**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I can recognise birds from their songs.
+> ✅ **Correction:** I can recognise birds by their songs.
+> 🧠 **Why:** Use 'by' to show the method of identification, not 'from' which indicates source
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **recognise by**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[confuse with]] (mistake for something else)
+> - [[fail to recognise]] (cannot identify)
+> 🧱 **Contrast:** Recognise by = successful identification through features, confuse with = misidentification despite features
 
 ---

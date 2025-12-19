@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
 #flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [industrial functions, industrial functionality, functional, industrial, industry, manufacturing, production]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪnˈdʌstriəl ˈfʌŋkʃn/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From Latin 'industria' (diligence, activity) + 'functio' (performance, execution)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A practical purpose or role in industrial manufacturing or production processes.
+>
+> **Context Meaning:** The specific utility or purpose served by machinery, systems, or components in industrial settings; how something operates in manufacturing.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chức năng công nghiệp
+> - **Contextual:** công dụng sản xuất, vai trò trong sản xuất công nghiệp
+>
 > **Nuances:**
-> - ...
+> - Refers specifically to practical applications in manufacturing/production
+> - Emphasizes utility over aesthetics
+> - Often used in engineering and manufacturing contexts
+> - Can describe both physical machines and organizational processes
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Practical, Efficient, Technical
+> **Memory Hook:** Industrial = factories, Function = purpose - what machines DO in factories
+> **📖 Etymology Story:** Industrial Revolution transformed 'industry' from human diligence to machine power. The 'function' became crucial - each machine had a specific job. Industrial function evolved to describe the vital roles machines play in the dance of production.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun Phrase:** [[industrial function]] /ɪnˈdʌstriəl ˈfʌŋkʃn/
+> - **Related:** [[functionality]], [[operational purpose]], [[manufacturing role]]
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[purpose]] /ˈpɜːpəs/ : reason for existence
+> - [[utility]] /juːˈtɪləti/ : usefulness
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[decorative]] /ˈdekərətɪv/ : ornamental rather than functional
+> - [[dysfunction]] /dɪsˈfʌŋkʃn/ : impaired operation
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Primary industrial function - main purpose
+> 2. Industrial function of - purpose served by
+> 3. Dual industrial function - two purposes
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The primary industrial function of this machine is to sort packages by weight and size.
+> - **Translation:** Chức năng công nghiệp chính của máy này là phân loại gói hàng theo trọng lượng và kích thước.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Modern industrial robots often have multiple industrial functions to increase efficiency.
+> - **Translation:** Robot công nghiệp hiện đại thường có nhiều chức năng công nghiệp để tăng hiệu suất.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Missing context**
+> - ❌ **Mistake:** What is the function of this chair? (too general)
+> - ✅ **Correction:** What is the industrial function of this assembly line equipment?
+> - **Why:** 'Industrial function' specifically refers to manufacturing/production contexts
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The industrial function of technology is not just to produce, but to produce efficiently and sustainably."
+> **Source:** [[Engineering Journal]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **industrial function** (*/ɪnˈdʌstriəl ˈfʌŋkʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A practical purpose or role in industrial manufacturing or production processes.
+> 🇻🇳 **Vietnamese:** Chức năng công nghiệp; công dụng sản xuất
+> 🗣️ **IPA:** */ɪnˈdʌstriəl ˈfʌŋkʃn/*
+> 🧠 **Mental Model:** Machine's job description in factory - what each piece of equipment does in the production chain
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A practical purpose or role in industrial manufacturing processes"
+**Vietnamese:** Chức năng công nghiệp; công dụng sản xuất
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**industrial function** (*/ɪnˈdʌstriəl ˈfʌŋkʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **industrial function** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The industrial function of conveyor belts is to transport materials efficiently between workstations.
+> 🇻🇳 **Translation:** Chức năng công nghiệp của băng chuyền là vận chuyển vật liệu hiệu quả giữa các trạm làm việc.
+> 🔍 **Analysis:** Perfect here because 'industrial function' precisely describes the specific manufacturing purpose of the equipment
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **industrial function**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Hierarchy:** primary industrial function (VN: chức năng chính - most important purpose)
+> 2. **Specification:** industrial function of (VN: chức năng công nghiệp của - describes purpose)
+> 3. **Multiplicity:** dual industrial function (VN: chức năng kép - multiple purposes)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **industrial function**:
+"This machine does something useful."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "This machine serves an important industrial function in the packaging process."
+> 💡 **Why it works:** Transforms vague statement into precise technical description, emphasizing manufacturing context
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **industrial function** instead of **[[purpose]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **industrial function:** Manufacturing-specific role (VN: chức năng công nghiệp - production context)
+> **purpose:** General intention (VN: mục đích - any context)
+> 🧱 **The Barrier:** Industrial function = manufacturing+utility, purpose = general intention
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Factory tour. Visitor asks what a complex machine does. What's your professional response?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Its industrial function is quality control, detecting defects in finished products."
+> 👨‍🎨 **Director's Note:** Shows technical expertise - using precise terminology for manufacturing roles
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `industrial` and `function` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'industria' = diligence, 'functio' = performance. Industrial Revolution combined human diligence with machine performance. Industrial function captures the marriage of hard work and purposeful action.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **industrial function**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `industria` (<diligence>) + `functio` (<performance>)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[industrial]] - relating to industry
+> - *(noun)* [[function]] - purpose or role
+> - *(noun)* [[functionality]] - quality of having functions
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪnˈdʌstriəl ˈfʌŋkʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**industrial function**
+> 📖 **Meaning:** A practical purpose in manufacturing processes
+> 🇻🇳 **Vietnamese:** Chức năng công nghiệp; công dụng sản xuất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **industrial function**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The industrial function of a smartphone is communication.
+> ✅ **Correction:** The function of a smartphone is communication. / The industrial function refers to manufacturing equipment.
+> 🧠 **Why:** 'Industrial function' specifically applies to manufacturing/production contexts, not consumer products
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **industrial function**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[dysfunction]] (impaired operation vs proper function)
+> - [[decorative purpose]] (ornamental vs practical)
+> 🧱 **Contrast:** Industrial function = productive utility, decorative = aesthetic value
 
 ---

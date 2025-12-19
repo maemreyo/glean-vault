@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [effectively, effectiveness, effective measures, effective solution, effective communication, efficient, productive, successful, potent, powerful, valid, operative]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪˈfektɪv/
+> **Part of Speech:** adjective
+> **CEFR Level:** B1
+> **Register:** neutral/formal/academic
+> **Etymology:** From Latin *effectivus* "productive, effective," from *effectus* "accomplishment, performance"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Producing the intended result
+>
+> **Context Meaning:** Successful in producing a desired or intended result; actually in operation or in force
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hiệu quả, có hiệu lực
+> - **Contextual:** có tác dụng, hiệu quả, hữu hiệu, đang có hiệu lực
+>
 > **Nuances:**
-> - ...
+> - Focuses on actual results, not just effort
+> - Implies a cause-and-effect relationship
+> - Can describe both actions and things in force (laws, rules)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Result-Oriented, Professional, Competent
+> **Memory Hook:** *Effective* = *effect* + "ive" - something that creates effects/results
+> **📖 Etymology Story:** Latin "effectus" comes from "efficere" (to work out, accomplish). Something effective literally "works out" the problem - it gets the job done.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[effectiveness]] /ɪˈfektɪvnəs/ : the quality of being effective
+> - **Verb:** [[effect]] /ɪˈfekt/ : to bring about
+> - **Adj:** [[effective]] /ɪˈfektɪv/ : producing intended results
+> - **Adv:** [[effectively]] /ɪˈfektɪvli/ : in an effective manner
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[efficient]] /ɪˈfɪʃənt/ : working well without waste
+> - [[productive]] /prəˈdʌktɪv/ : producing good results
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[ineffective]] /ˌɪnɪˈfektɪv/ : not producing results
+> - [[useless]] /ˈjuːsləs/ : having no use
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. effective communication
+> 2. effective treatment
+> 3. effective solution
+>
+> **1. Business Context**
+> - **Sentence:** The company implemented an effective marketing strategy that doubled sales in six months.
+> - **Translation:** Công ty đã thực hiện một chiến lược marketing hiệu quả đã làm tăng gấp đôi doanh số trong sáu tháng.
+>
+> **2. Legal Context**
+> - **Sentence:** The new law will be effective from January 1st next year.
+> - **Translation:** Luật mới sẽ có hiệu lực từ ngày 1 tháng Giêng năm tới.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with 'efficient'**
+> - ❌ **Mistake:** The machine is very effective at using energy.
+> - ✅ **Correction:** The machine is very efficient at using energy.
+> - **Why:** *Efficient* focuses on using minimal resources, while *effective* focuses on achieving the result.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The most effective way to do it, is to do it."
+> **Source:** [[Amelia Earhart]]
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **effective** (*/ɪˈfektɪv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Producing the intended or desired result; successful in achieving a purpose
+> 🇻🇳 **Vietnamese:** Hiệu quả, có hiệu lực, đạt được kết quả mong muốn
+> 🗣️ **IPA:** */ɪˈfektɪv/*
+> 🧠 **Mental Model:** Giống như result-oriented - tập trung vào output/result chứ không phải process
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Producing the intended result; successful in achieving a purpose"
+**Vietnamese:** Hiệu quả, có hiệu lực
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**effective** (*/ɪˈfektɪv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **effective** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Regular exercise combined with proper nutrition is an effective way to maintain good health.
+> 🇻🇳 **Translation:** Tập thể dục đều đặn kết hợp với dinh dưỡng phù hợp là một cách hiệu quả để duy trì sức khỏe tốt.
+> 🔍 **Analysis:** "Effective" ở đây nhấn mạnh kết quả thực tế đạt được (maintain health), cho thấy phương pháp này works!
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **effective**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Communication:** effective communication (giao tiếp hiệu quả - VN: message được understand và action)
+> 2. **Time:** effective immediately (có hiệu lực ngay lập tức - VN: legal/business term)
+> 3. **Action:** effective measures (biện pháp hiệu quả - VN: actions produce desired results)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **effective**:
+"The plan worked well."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The team developed an effective strategy that exceeded all quarterly targets."
+> 💡 **Why it works:** "Effective" tạo hình ảnh chuyên nghiệp, business-oriented, cho thấy measurable success
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **effective** instead of **[[efficient]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **effective:** Dùng khi chỉ đạt được mục tiêu, có kết quả - VN: hiệu quả (focus output)
+> **[[efficient]]:** Dùng khi chỉ sử dụng tài nguyên tối ưu, không lãng phí - VN: tiết kiệm (focus process)
+> 🧱 **The Barrier:** Efficient is doing things right, effective is doing the right things. Bạn có efficient làm việc 8 tiếng nhưng ineffective nếu không đạt goals.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss asks if the new training program is working. You want to show results.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Yes, it's been quite effective - employee productivity has increased by 25%."
+> 👨‍🎨 **Director's Note:** "Effective" thể hiện focus vào measurable outcomes, phù hợp với business context
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `efficere` to the meaning of **effective**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "efficere" = to make, to produce. "Ex-" (out) + "facere" (make/do) = to make out, produce. Effective = cái produces results! Giống như factory produces products.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **effective**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `efficere` (to accomplish, make out)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[effective]] - có hiệu quả
+> - *(adv)* [[effectively]] - một cách hiệu quả
+> - *(noun)* [[effectiveness]] - tính hiệu quả
+> - *(noun)* [[effect]] - kết quả, tác động
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪˈfektɪv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**effective**
+> 📖 **Meaning:** Producing the intended or desired result
+> 🇻🇳 **Vietnamese:** Hiệu quả, có hiệu lực
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **effective**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "This medicine is very effective for to treat headaches."
+> ✅ **Correction:** "This medicine is very effective for treating headaches" OR "This medicine is very effective in treating headaches."
+> 🧠 **Why:** "Effective for + gerund (-ing)" hoặc "effective in + gerund". Không dùng "for to + verb".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **effective**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[ineffective]] (not producing desired results)
+> - [[useless]] (serving no purpose)
+> - [[counterproductive]] (producing opposite of desired effect)
+> 🧱 **Contrast:** Effective là achieves target, ineffective là fails target. Counterproductive còn tệ hơn - tạo ra opposite results.
 
 ---

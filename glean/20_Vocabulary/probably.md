@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [probable, probability, probably will, probably not, most likely]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈprɒbəbli/
+> **Part of Speech:** adverb
+> **CEFR Level:** A2
+> **Register:** informal/formal
+> **Etymology:** From Latin 'probabilis' (likely to prove true), from 'probare' (to test, prove)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Almost certainly; as far as one knows or can tell.
+>
+> **Context Meaning:** Used to express that something is likely to happen or be true, though not certain; indicates high probability but leaves room for doubt.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** có lẽ, chắc là, hẳn là
+> - **Contextual:** rất có thể, có khả năng là, đa số là
+>
 > **Nuances:**
-> - ...
+> - Shows confidence without absolute certainty
+> - Less formal than 'presumably' or 'ostensibly'
+> - Can soften statements to avoid overcommitment
+> - Often used to make educated guesses or predictions
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Confident but Cautious, Considerate
+> **Memory Hook:** 'Prob' + 'ably' = likely able to happen
+> **📖 Etymology Story:** Ancient Roman lawyers would argue what was 'probabilis' - likely to be proven true in court. Modern 'probably' preserves this legal precision - stating what's likely while acknowledging uncertainty, like a good lawyer presenting probable evidence.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adv:** [[probably]] /ˈprɒbəbli/
+> - **Adj:** [[probable]] /ˈprɒbəbl/
+> - **Noun:** [[probability]] /ˌprɒbəˈbɪləti/
+> - **Related:** [[possibly]], [[likely]], [[perhaps]]
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[likely]] /ˈlaɪkli/ : most probably
+> - [[perhaps]] /pəˈhæps/ : possibly (more tentative)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[unlikely]] /ʌnˈlaɪkli/ : probably not
+> - [[certainly]] /ˈsɜːtnli/ : definitely
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Probably will/won't - prediction of future
+> 2. Probably the best - superlative with qualification
+> 3. Probably because - explaining reasons tentatively
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** It will probably rain tomorrow, so bring an umbrella just in case.
+> - **Translation:** Ngày mai trời có lẽ sẽ mưa, vậy hãy mang theo ô phòng khi.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She's probably the most qualified candidate for the job.
+> - **Translation:** Cô ấy hẳn là ứng viên đủ tiêu chuẩn nhất cho công việc này.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse in formal writing**
+> - ❌ **Mistake:** The data probably shows that... (too informal for academic)
+> - ✅ **Correction:** The data suggests/indicates that...
+> - **Why:** 'Probably' is too informal for some academic contexts; use more precise alternatives
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Life is what happens when you're busy making other plans. Probably."
+> **Source:** [[Modern Adaptation of John Lennon]]
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **probably** (*/ˈprɒbəbli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Almost certainly; as far as one knows or can tell.
+> 🇻🇳 **Vietnamese:** Có lẽ; chắc là; rất có thể
+> 🗣️ **IPA:** */ˈprɒbəbli/*
+> 🧠 **Mental Model:** Weather forecast - confident prediction with slight uncertainty cushion
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Almost certainly; as far as one knows"
+**Vietnamese:** Có lẽ; chắc là
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**probably** (*/ˈprɒbəbli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **probably** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The train will probably arrive late due to the signal problems.
+> 🇻🇳 **Translation:** Chắc là tàu sẽ đến muộn vì sự cố tín hiệu.
+> 🔍 **Analysis:** Perfect here as it conveys high likelihood while acknowledging uncertainty about exact delay
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **probably**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Future prediction:** probably will (VN: có lẽ sẽ - likely future action)
+> 2. **Estimation:** probably the (VN: hẳn là - educated guess)
+> 3. **Explanation:** probably because (VN: có lẽ vì - tentative reason)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **probably**:
+"It might rain."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "It will probably rain this afternoon, judging by those dark clouds."
+> 💡 **Why it works:** Transforms vague possibility into confident prediction with reasoning and context
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **probably** instead of **[[maybe]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **probably:** High likelihood (VN: có lẽ, chắc là - confident prediction)
+> **maybe:** Equal chance (VN: có thể, có lẽ - 50/50 possibility)
+> 🧱 **The Barrier:** Probably = 70-90% certainty, maybe = 40-60% certainty
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Friend asks if you can attend their party next month. You haven't checked your calendar but think you're free. What do you say?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'll probably be there, but let me confirm closer to the date."
+> 👨‍🎨 **Director's Note:** Shows social awareness - gives positive response while maintaining flexibility
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `probable` to the meaning of **probably**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'probare' = to test, prove. Roman courts decided what was 'probabilis' - likely to be proven true. 'Probably' carries this legacy - stating what can probably be proven true while acknowledging uncertainty.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **probably**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `probare` (<to test, prove>)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[probable]] - likely to happen
+> - *(noun)* [[probability]] - likelihood
+> - *(adv)* [[possibly]] - less certain alternative
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈprɒbəbli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**probably**
+> 📖 **Meaning:** Almost certainly; as far as one knows
+> 🇻🇳 **Vietnamese:** Có lẽ; chắc là
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **probably**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** He probably comes to the meeting yesterday. (past action)
+> ✅ **Correction:** He probably came to the meeting yesterday. / He probably will come tomorrow.
+> 🧠 **Why:** 'Probably' indicates uncertainty about future or present, not about completed past facts you're stating
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **probably**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[unlikely]] (probably not vs probably yes)
+> - [[certainly]] (100% vs 70-90%)
+> 🧱 **Contrast:** Probably = high probability, certainly = absolute certainty
 
 ---

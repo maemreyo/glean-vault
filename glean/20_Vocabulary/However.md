@@ -1,160 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [but, nevertheless, nonetheless, although, despite, in spite of]
+status: done
 ref:
-  - [[Cam 20 Listening Test 01]]
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /haʊˈevər/
+> **Part of Speech:** Adverb / Conjunctive adverb
+> **CEFR Level:** A2/B1
+> **Register:** Formal/Neutral
+> **Etymology:** "How" + "ever" (Old English "æfre" - ever, at any time)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In whatever way or manner
+>
+> **Context Meaning:** Used to introduce a statement that contrasts with or seems to contradict what has been said before
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tuy nhiên
+> - **Contextual:** mặc dù vậy, tuy nhiên, nhưng
+>
 > **Nuances:**
-> - ...
+> - Signals contrast or contradiction
+> - More formal than "but"
+> - Can be used at beginning, middle, or end of sentence
+> - Often creates a balanced argument
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Contrasting, Balanced, Objective
+> **Memory Hook:** Picture a scale - "however" tips it to the other side, showing a different perspective
+> **📖 Etymology Story:** From "how" + "ever" - literally "in whatever way." When you say "however," you're saying "no matter how things seem to be going one way, they can also go this other way"
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adv:** [[however]] /haʊˈevər/ : despite whatever has been said
+> - **Adv:** [[whatever]] /wɑːtˈevər/ : no matter what
+> - **Adv:** [[whenever]] /wenˈevər/ : no matter when
+> - **Adv:** [[wherever]] /werˈevər/ : no matter where
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[nevertheless]] /ˌnevərðəˈles/ : in spite of that
+> - [[nonetheless]] /ˌnʌnðəˈles/ : nevertheless
+> - [[but]] /bʌt/ : on the other hand
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[therefore]] /ˈðerfɔːr/ : for that reason
+> - [[consequently]] /ˈkɑːnsəkwentli/ : as a result
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. however, it is
+> 2. difficult however
+> 3. however hard
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The weather was terrible; however, we still enjoyed our vacation.
+> - **Translation:** Thời tiết rất tệ; tuy nhiên chúng tôi vẫn tận hưởng kỳ nghỉ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She studied hard for the exam. She failed, however.
+> - **Translation:** Cô ấy đã học chăm chỉ cho kỳ thi. Cô ấy đã trượt, tuy nhiên.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Punctuation Error**
+> - ❌ **Mistake:** I like coffee however my brother prefers tea.
+> - ✅ **Correction:** I like coffee; however, my brother prefers tea. OR I like coffee. However, my brother prefers tea.
+> - **Why:** "However" at sentence beginning needs comma; when connecting clauses, use semicolon before and comma after
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The research is promising; however, more studies are needed to confirm the results."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -162,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **however** (*/haʊˈevər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Used to introduce a contrasting statement that contradicts what has been said before
+> 🇻🇳 **Vietnamese:** Tuy nhiên, mặc dù vậy
+> 🗣️ **IPA:** */haʊˈevər/*
+> 🧠 **Mental Model:** Tưởng tượng một chiếc cân - "however" làm nó nghiêng sang phía khác, cho thấy một perspective trái ngược
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Used to introduce a contrasting statement"
+**Vietnamese:** Tuy nhiên, mặc dù vậy
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**however** (*/haʊˈevər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **however** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new software has many advanced features; however, it's quite expensive for small businesses.
+> 🇻🇳 **Translation:** Phần mềm mới có nhiều tính năng tiên tiến; tuy nhiên nó khá đắt đối với các doanh nghiệp nhỏ.
+> 🔍 **Analysis:** "However" hoàn hảo để tạo contrast giữa advantages (features) và disadvantages (price), balanced và formal hơn "but"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **however**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Sentence Initial:** However, + clause (Tuy nhiên,)
+> 2. **Mid-Sentence:** ; however, + clause (; tuy nhiên,)
+> 3. **Sentence Final:** , however. (, tuy nhiên.)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **however**:
+"The car is fast. But it uses a lot of fuel."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The car is remarkably fast; however, it consumes an excessive amount of fuel."
+> 💡 **Why it works:** "However" formal hơn "but" và tạo graceful transition, phù hợp cho academic writing
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **however** instead of **but**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **however:** Formal contrast, often signals stronger contradiction (VN: Tuy nhiên - trang trọng)
+> **but:** Simple, everyday contrast (VN: Nhưng - thông thường)
+> 🧱 **The Barrier:** "However" là formal connector适合 academic/business writing, "but" là casual connector适合 everyday speech
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're presenting sales results. Sales are up, but costs are also up. You want to show both sides. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our sales increased by 20% this quarter; however, our operational costs also rose significantly."
+> 👨‍🎨 **Director's Note:** Diễn tả balanced presentation của good và bad news, showing analytical thinking
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `ever` to the meaning of **however**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Ever" từ Old English "æfre" có nghĩa là "at any time". "However" = "how" + "ever" = "in whatever way it might be". Khi bạn nói "however", bạn đang nói "no matter how things seem..."
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **however**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `æfre` (ever, at any time)
+> 👨‍👩‍👧 **Family:**
+> - *(adv)* [[whatever]] - bất cứ cái gì
+> - *(adv)* [[whenever]] - bất cứ khi nào
+> - *(adv)* [[whoever]] - bất cứ ai
+> - *(adv)* [[forever]] - mãi mãi
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */haʊˈevər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**however**
+> 📖 **Meaning:** Despite whatever has been said; used for contrast
+> 🇻🇳 **Vietnamese:** Tuy nhiên, mặc dù vậy
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **however**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I wanted to go however I was too busy.
+> ✅ **Correction:** I wanted to go; however, I was too busy.
+> 🧠 **Why:** "However" connecting two independent clauses needs semicolon before and comma after, hoặc bắt đầu câu mới với "However,"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **however**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[therefore]] (Vì vậy, do đó)
+> - [[consequently]] (Hệ quả là)
+> 🧱 **Contrast:** "However" shows contrast/contradiction, còn "therefore/consequently" shows cause/effect
 
 ---

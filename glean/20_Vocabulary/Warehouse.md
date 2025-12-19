@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 #flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [warehouses, warehousing, warehouse worker, warehouse manager, warehoused]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈweəhaʊs/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B1
+> **Register:** formal/informal
+> **Etymology:** From Old English 'war' (goods) + 'house' (building)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A large building for storing raw materials or manufactured goods.
+>
+> **Context Meaning:** A commercial building for storage of goods; in logistics, crucial link between production and distribution; as a verb, to store goods.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nhà kho
+> - **Contextual:** kho bãi, kho chứa hàng, kho lưu trữ
+>
 > **Nuances:**
-> - ...
+> - Can range from small storage units to massive distribution centers
+> - Central to supply chain and e-commerce operations
+> - Often used metaphorically for memory storage ('warehouse of knowledge')
+> - Can refer to data storage in computing contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized, Logistical, Spacious
+> **Memory Hook:** 'Ware' = goods + 'house' = house for goods
+> **📖 Etymology Story:** Medieval merchants built 'warehouses' near ports to protect their 'wares' (goods) from weather and theft. These goods-houses evolved into modern logistics hubs, still serving the same essential purpose - keeping valuable products safe and organized.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[warehouse]] /ˈweəhaʊs/
+> - **Verb:** [[warehouse]] /ˈweəhaʊs/ - to store
+> - **Noun:** [[warehousing]] /ˈweəhaʊzɪŋ/ - storage business
+> - **Related:** [[distribution center]], [[storage facility]]
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[storage facility]] /ˈstɔːrɪdʒ fəˈsɪləti/ : general storage building
+> - [[depot]] /ˈdepəʊ/ : storage or distribution point
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[showroom]] /ˈʃəʊruːm/ : display area
+> - [[retail space]] /ˈriːteɪl speɪs/ : sales area
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Warehouse worker - employee who handles goods
+> 2. Distribution warehouse - for shipping products
+> 3. Warehouse management - coordination of storage
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company built a new warehouse to handle increased inventory from online sales.
+> - **Translation:** Công ty xây dựng một nhà kho mới để xử lý hàng tồn kho tăng từ bán hàng trực tuyến.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The warehouse manager implemented an automated system to track inventory efficiently.
+> - **Translation:** Quản lý nhà kho đã triển khai một hệ thống tự động để theo dõi hàng tồn kho hiệu quả.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling confusion**
+> - ❌ **Mistake:** Wherehouse (should be warehouse)
+> - ✅ **Correction:** Warehouse
+> - **Why:** 'Ware' (goods) not 'where' (location)
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A warehouse is not just a storage space, but the strategic heart of supply chain management."
+> **Source:** [[Business Logistics Journal]]
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **warehouse** (*/ˈweəhaʊs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A large building for storing raw materials or manufactured goods.
+> 🇻🇳 **Vietnamese:** Nhà kho; kho bãi; kho chứa hàng
+> 🗣️ **IPA:** */ˈweəhaʊs/*
+> 🧠 **Mental Model:** Giant storage box for businesses - where products wait between factory and customer
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A large building for storing raw materials or manufactured goods"
+**Vietnamese:** Nhà kho; kho bãi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**warehouse** (*/ˈweəhaʊs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **warehouse** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The e-commerce giant operates warehouses across the country to ensure fast delivery times.
+> 🇻🇳 **Translation:** Gã khổng lồ thương mại điện tử vận hành các nhà kho trên cả nước để đảm bảo thời gian giao hàng nhanh.
+> 🔍 **Analysis:** Perfect here because 'warehouse' specifies large-scale storage facilities essential for modern retail logistics
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **warehouse**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Personnel:** warehouse worker (VN: công nhân nhà kho - handles storage operations)
+> 2. **Function:** distribution warehouse (VN: kho phân phối - ships to customers)
+> 3. **Management:** warehouse management (VN: quản lý kho - oversees storage)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **warehouse**:
+"They store products in a big building."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "They warehouse products in a climate-controlled facility."
+> 💡 **Why it works:** Transforms vague description into professional logistics terminology, emphasizing commercial storage purpose
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **warehouse** instead of **[[storage]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **warehouse:** Commercial storage building (VN: nhà kho - large-scale business storage)
+> **storage:** General keeping space (VN: nơi lưu trữ - any keeping space)
+> 🧱 **The Barrier:** Warehouse = commercial+large scale, storage = general+any scale
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Supply chain discussion. Your business is growing too fast. What do you need?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We need to expand our warehouse capacity to meet demand."
+> 👨‍🎨 **Director's Note:** Shows business acumen - recognizing storage as critical growth bottleneck
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `ware` and `house` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'war' = goods, 'hūs' = house. Merchants literally built 'goods-houses' to protect their wares. The modern warehouse is still just a house for goods, now scaled up for global commerce.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **warehouse**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English `war` (<goods>) + `hūs` (<house>)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[warehouse]] - to store goods
+> - *(noun)* [[warehousing]] - storage business
+> - *(compound)* [[warehouse worker]] - storage facility employee
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈweəhaʊs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**warehouse**
+> 📖 **Meaning:** A large building for storing goods
+> 🇻🇳 **Vietnamese:** Nhà kho; kho bãi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **warehouse**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The wherehouse stores inventory.
+> ✅ **Correction:** The warehouse stores inventory.
+> 🧠 **Why:** 'Warehouse' comes from 'wares' (goods), not 'where' (location)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **warehouse**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[showroom]] (display vs storage)
+> - [[retail outlet]] (sales point vs storage point)
+> 🧱 **Contrast:** Warehouse = hidden storage, showroom = visible display
 
 ---

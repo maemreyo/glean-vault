@@ -1,159 +1,84 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [unfortunate, unfortunately, unluckily, regrettably]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ʌnˈfɔːrtʃənətli/
+> **Part of Speech:** adverb
+> **CEFR Level:** A2-B1
+> **Register:** neutral/formal
+> **Etymology:** From "unfortunate" + "-ly"; "unfortunate" from Latin "infortunatus" (unlucky, ill-fated)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In an unfortunate manner; unluckily
+>
+> **Context Meaning:** Used to express regret about something that has happened or is about to happen; introduces bad news or disappointing information
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** không may, đáng tiếc
+> - **Contextual:** đáng buồn là, không may là, thật không may
+>
 > **Nuances:**
-> - ...
+> - Polite way to introduce bad news
+> - Shows empathy or regret about the situation
+> - More formal than "sadly" or "badly"
+> - Often used in business and formal communication
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Polite, Empathetic, Formal
+> **Memory Hook:** "un-" (not) + "fortunate" (lucky) + "-ly" (in a manner) = not in a lucky manner
+> **📖 Etymology Story:** From Latin "infortunatus" - imagine Roman scribes writing "in-" (not) + "fortuna" (fortune/luck) to describe those without Lady Fortune's favor. When we say "**unfortunately**," we're still using this ancient way of politely acknowledging that luck or fortune has turned against us.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[unfortunate]] /ʌnˈfɔːrtʃənət/ : unlucky, regrettable
+> - **Noun:** [[misfortune]] /ˌmɪsˈfɔːrtʃuːn/ : bad luck
+> - **Noun:** [[fortune]] /ˈfɔːrtʃuːn/ : luck, wealth
+> - **Adj:** [[fortunate]] /ˈfɔːrtʃənət/ : lucky
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[regrettably]] /rɪˈɡrɛtəbli/ : with regret
+> - [[sadly]] /ˈsædli/ : in a sad manner
+> - [[alas]] interjection /əˈlæs/ : expressing grief or pity
+> - [[sad to say]] /sæd tu seɪ/ : unfortunately
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[fortunately]] /ˈfɔːrtʃənətli/ : luckily
+> - [[luckily]] /ˈlʌkɪli/ : by good fortune
+> - [[happily]] /ˈhæpɪli/ : in a happy way
+> - [[mercifully]] /ˈmɜːrsɪfəli/ : in a way that shows mercy
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. **unfortunately**, we can't... (đáng tiếc là, chúng ta không thể...)
+> 2. **unfortunately**, due to... (không may là do...)
+> 3. most **unfortunately** (đáng tiếc nhất)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** **Unfortunately**, the flight was cancelled due to the bad weather.
+> - **Translation:** **Không may là**, chuyến bay đã bị hủy vì thời tiết xấu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** **Unfortunately**, I won't be able to attend your wedding next month.
+> - **Translation:** **Đáng tiếc là**, tôi sẽ không thể tham dự đám cưới của bạn vào tháng tới.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Comma placement**
+> - ❌ **Mistake:** "Unfortunately we missed the train." (missing comma)
+> - ✅ **Correction:** "**Unfortunately**, we missed the train."
+> - **Why:** "Unfortunately" as a sentence adverb typically needs a comma when it introduces bad news
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "**Unfortunately**, the deadline for applications has already passed."
+> **Source:** University Admissions Office
 
 ---
 
@@ -161,121 +86,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **unfortunately** (*/ʌnˈfɔːrtʃənətli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Used to express regret about something that has happened or is about to happen; introduces bad news or disappointing information
+> 🇻🇳 **Vietnamese:** Không may, đáng tiếc, đáng buồn là
+> 🗣️ **IPA:** */ʌnˈfɔːrtʃənətli/*
+> 🧠 **Mental Model:** Tưởng tượng một người đang chuẩn bị nói một tin không vui, và họ bắt đầu bằng từ này để thể hiện sự thông cảm và tiếc nuối
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Used to express regret when introducing bad news"
+**Vietnamese:** "Không may, đáng tiếc"
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**unfortunately** (*/ʌnˈfɔːrtʃənətli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **unfortunately** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** **Unfortunately**, all the tickets for the concert have been sold out.
+> 🇻🇳 **Translation:** **Đáng tiếc là**, tất cả vé cho buổi hòa nhạc đã được bán hết.
+> 🔍 **Analysis:** Perfect here because it politely introduces disappointing news (no tickets left) while showing empathy for the listener's potential disappointment.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **unfortunately**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Bad News:** **unfortunately**, the event was cancelled (đáng tiếc là, sự kiện đã bị hủy) - introducing cancellation
+> 2. **Inability:** **unfortunately**, I can't... (không may là tôi không thể...) - expressing inability
+> 3. **Timing:** **unfortunately**, we're running late (không may là, chúng ta đang muộn) - delays or timing issues
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **unfortunately**:
+"The bad news is we lost the contract."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "**Unfortunately**, after months of negotiation, we lost the contract to our competitor."
+> 💡 **Why it works:** "Unfortunately" adds politeness and professionalism to bad news delivery, showing regret rather than just stating facts bluntly.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **unfortunately** instead of **[[sadly]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **unfortunately:** Formal, polite way to introduce bad news, focuses on the unlucky circumstances (VN: không may, đáng tiếc)
+> **[[sadly]]:** More emotional, focuses on the feeling of sadness about the situation (VN: buồn thay, đáng buồn)
+> 🧱 **The Barrier:** Unfortunately emphasizes misfortune and bad luck, while sadly emphasizes emotional response.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You need to tell your boss the client rejected your proposal. You feel professional but disappointed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "**Unfortunately**, the client decided to go with a different approach."
+> 👨‍🎨 **Director's Note:** Shows professionalism and appropriate delivery of bad news in a business context.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `fortune` to the meaning of **unfortunately**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "Fortuna" was the goddess of luck and fate. "Un-" means "not." So **unfortunately** literally means "not in a fortunate way" - when Lady Fortune has turned her back on you, and things aren't going your way.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **unfortunately**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `fortuna` ("luck, fate, fortune")
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[unfortunate]] /ʌnˈfɔːrtʃənət/
+> - *(noun)* [[misfortune]] /ˌmɪsˈfɔːrtʃuːn/
+> - *(adj)* [[fortunate]] /ˈfɔːrtʃənət/
+> - *(adv)* [[fortunately]] /ˈfɔːrtʃənətli/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ʌnˈfɔːrtʃənətli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**unfortunately**
+> 📖 **Meaning:** Used to express regret when introducing bad news or disappointing information
+> 🇻🇳 **Vietnamese:** Không may, đáng tiếc, đáng buồn là
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **unfortunately**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Unfortunately the meeting was cancelled." (missing comma)
+> ✅ **Correction:** "**Unfortunately**, the meeting was cancelled."
+> 🧠 **Why:** When "unfortunately" introduces a sentence with bad news, it needs a comma to separate it from the main clause, making it a sentence adverb.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **unfortunately**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[fortunately]] (when luck is on your side)
+> - [[luckily]] (by good chance)
+> - [[happily]] (in a positive way)
+> 🧱 **Contrast:** While unfortunately introduces bad luck or negative outcomes, these opposites introduce fortunate or positive circumstances.
 
 ---

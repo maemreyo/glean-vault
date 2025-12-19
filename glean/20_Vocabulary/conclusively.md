@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [conclusive, conclude, conclusion, conclusively, definitively, decisively, finally, certainly, beyond doubt]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kənˈkluːsɪvli/
+> **Part of Speech:** adverb
+> **CEFR Level:** C1
+> **Register:** formal/academic
+> **Etymology:** From Latin 'conclusivus' (conclusive) + '-ly' adverbial suffix
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** in a way that proves or settles something finally
+>
+> **Context Meaning:** In a manner that leaves no room for doubt; decisively, with certainty, putting an end to debate or uncertainty
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một cách kết luận, dứt khoát
+> - **Contextual:** một cách chắc chắn, không thể nghi ngờ, quyết định, cuối cùng
+>
 > **Nuances:**
-> - ...
+> - Implies finality and certainty
+> - Often used in academic or legal contexts
+> - Suggests that further discussion is unnecessary
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Assertive, Confident
+> **Memory Hook:** Conclude + sively = when you can finally conclude with certainty
+> **📖 Etymology Story:** Latin 'concludere' (to shut, conclude) → 'conclusivus' → 'conclusively' - shutting the door on doubt
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[conclusion]] /kənˈkluːʒən/
+> - **Verb:** [[conclude]] /kənˈkluːd/
+> - **Adj:** [[conclusive]] /kənˈkluːsɪv/
+> - **Adv:** [[conclusively]] /kənˈkluːsɪvli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[definitively]] /dɪˈfɪnətɪvli/ : in a way that is final and complete
+> - [[decisively]] /dɪˈsaɪsɪvli/ : in a way that shows determination
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[inconclusively]] /ˌɪnkənˈkluːsɪvli/ : not leading to a firm decision
+> - [[ambiguously]] /æmˈbɪɡjuəsli/ : in an unclear way
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. prove conclusively
+> 2. demonstrate/show conclusively
+> 3. state conclusively
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The research team proved conclusively that the new drug was effective in treating the disease.
+> - **Translation:** Nhóm nghiên cứu đã chứng minh một cách dứt khoát rằng loại thuốc mới có hiệu quả trong việc điều trị bệnh.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The judge stated conclusively that the evidence presented was insufficient for a conviction.
+> - **Translation:** Thẩm phán đã tuyên bố một cách chắc chắn rằng bằng chứng được trình bày là không đủ để kết án.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Position Error**
+> - ❌ **Mistake:** The study proved conclusively the theory
+> - ✅ **Correction:** The study proved the theory conclusively
+> - **Why:** Adverb typically comes after the object in such constructions
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The results conclusively demonstrate the effectiveness of our approach."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **conclusively** (*/kənˈkluːsɪvli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In a way that proves something beyond doubt; decisively, with certainty, finally
+> 🇻🇳 **Vietnamese:** Một cách kết luận, dứt khoát, chắc chắn không còn nghi ngờ
+> 🗣️ **IPA:** */kənˈkluːsɪvli/*
+> 🧠 **Mental Model:** Khi bạn có thể đóng sổ lại - không còn cần thảo luận nữa, mọi thứ đã rõ ràng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a way that settles something finally and beyond doubt"
+**Vietnamese:** Một cách dứt khoát, chắc chắn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**conclusively** (*/kənˈkluːsɪvli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **conclusively** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The forensic evidence conclusively linked the suspect to the crime scene, leaving no room for reasonable doubt.
+> 🇻🇳 **Translation:** Bằng chứng pháp y đã liên kết một cách dứt khoát nghi phạm với hiện trường, không còn chỗ cho sự nghi ngờ hợp lý.
+> 🔍 **Analysis:** 'conclusively' nhấn mạnh tính không thể chối cãi của bằng chứng, kết thúc mọi tranh luận
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **conclusively**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Proof:** prove conclusively (chứng minh dứt khoát) - xác nhận không nghi ngờ
+> 2. **Evidence:** demonstrate conclusively (thể hiện chắc chắn) - trình bày rõ ràng
+> 3. **Statement:** state conclusively (tuyên bố dứt khoát) - phát biểu quyết định
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **conclusively**:
+"The evidence showed he was guilty."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The DNA evidence conclusively proved the defendant's guilt beyond any reasonable doubt."
+> 💡 **Why it works:** 'conclusively proved' mạnh mẽ và chắc chắn hơn 'showed', thể hiện tính pháp lý và kết luận cuối cùng
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **conclusively** instead of [[clearly]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **conclusively:** Chấm dứt mọi nghi ngờ, mang tính quyết định cuối cùng (conclusively proven)
+> [[clearly]]: Chỉ sự rõ ràng, dễ hiểu, còn có thể tranh luận (clearly explained)
+> 🧱 **The Barrier:** 'conclusively' là final judgment, trong khi 'clearly' chỉ là clarity
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're presenting research findings that definitively answer a long-debated question.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our experimental data conclusively demonstrates that the hypothesis is correct."
+> 👨‍🎨 **Director's Note:** 'conclusively demonstrates' thể hiện sự tự tin và tính quyết định trong nghiên cứu khoa học
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `concludere` to the meaning of **conclusively**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'concludere' (to shut, close, conclude) → 'conclusivus' (decisive) → 'conclusively'. Đóng sổ lại vấn đề - không còn gì để thảo luận
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **conclusively**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `concludere` (to shut up, conclude)
+> 👨‍👩‍👧 **Family:**
+> - *(adverb)* conclusively
+> - *(adjective)* conclusive
+> - *(verb)* conclude
+> - *(noun)* conclusion
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kənˈkluːsɪvli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**conclusively**
+> 📖 **Meaning:** In a way that proves something beyond doubt
+> 🇻🇳 **Vietnamese:** Một cách dứt khoát
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **conclusively**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The witness testified conclusively the defendant's innocence
+> ✅ **Correction:** The witness testified conclusively to the defendant's innocence / The witness conclusively testified...
+> 🧠 **Why:** Cần 'to' sau 'testified' hoặc đặt adverb trước động từ chính
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **conclusively**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[inconclusively]] (without reaching a decision)
+> - [[tentatively]] (hesitantly, not definitively)
+> 🧱 **Contrast:** Conclusively ends debate with certainty, while inconclusively/tentatively leaves questions unanswered
 
 ---

@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [strike up a chat, start a conversation, begin talking, initiate dialogue, break the ice]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /straɪk ʌp ə ˌkɒnvəˈseɪʃən/
+> **Part of Speech:** phrasal verb + noun
+> **CEFR Level:** B2
+> **Register:** neutral to informal
+> **Etymology:** Strike = begin, up = initiate, conversation = talk
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To start talking with someone
+>
+> **Context Meaning:** To begin a conversation, especially with a stranger or someone you don't know well
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bắt chuyện, bắt đầu trò chuyện
+> - **Contextual:** bắt chuyện, mở lời, khởi sự trò chuyện
+>
 > **Nuances:**
-> - ...
+> - Often implies starting conversation with stranger
+> - Can be casual or formal depending on context
+> - Social skill for networking and meeting people
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Social, Outgoing
+> **Memory Hook:** Strike up = like striking a match - creating fire of conversation
+> **📖 Etymology Story:** 'Strike' as in 'strike a bargain' or 'strike up a band' - to begin something, like starting music
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrasal Verb:** [[strike up]] /straɪk ʌp/
+> - **Noun:** [[conversation]] /ˌkɒnvəˈseɪʃən/
+> - **Verb:** [[converse]] /kənˈvɜːs/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[initiate conversation]] /ɪˈnɪʃieɪt ˌkɒnvəˈseɪʃən/ : More formal
+> - [[break the ice]] /breɪk ðə aɪs/ : Idiomatic
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[end conversation]] /end ˌkɒnvəˈseɪʃən/ : Stop talking
+> - [[ignore]] /ɪɡˈnɔː/ : Not acknowledge
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. strike up a conversation with
+> 2. strike up a friendly conversation
+> 3. strike up a casual conversation
+>
+> **1. Social Context**
+> - **Sentence:** He struck up a conversation with the woman sitting next to him.
+> - **Translation:** Anh ấy bắt chuyện với người phụ nữ ngồi bên cạnh.
+>
+> **2. Networking Context**
+> - **Sentence:** At conferences, you should strike up conversations with new people.
+> - **Translation:** Tại các hội nghị, bạn nên bắt chuyện với những người mới.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** "strike up conversation to someone"
+> - ✅ **Correction:** "strike up a conversation with someone"
+> - **Why:** Correct preposition is 'with' for the person
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "She struck up a conversation about the weather while waiting for the bus."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +80,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **strike up a conversation** (*/straɪk ʌp ə ˌkɒnvəˈseɪʃən/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To begin talking with someone, especially a stranger
+> 🇻🇳 **Vietnamese:** Bắt chuyện, mở lời - bắt đầu nói chuyện với người lạ
+> 🗣️ **IPA:** */straɪk ʌp ə ˌkɒnvəˈseɪʃən/*
+> 🧠 **Mental Model:** Giống như châm một que diêm để bắt đầu lửa - khởi sự trò chuyện từ không có gì
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To begin talking with someone, especially a stranger"
+**Vietnamese:** Bắt chuyện, mở lời
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**strike up a conversation** (*/straɪk ʌp ə ˌkɒnvəˈseɪʃən/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **strike up a conversation** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The tourist struck up a conversation with the local shopkeeper about traditional crafts.
+> 🇻🇳 **Translation:** Du khách bắt chuyện với chủ cửa hàng địa phương về đồ thủ công truyền thống.
+> 🔍 **Analysis:** Perfect here because it shows initiating dialogue with someone you don't know for cultural exchange
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **strike up a conversation**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Target:** strike up a conversation with (bắt chuyện với)
+> 2. **Nature:** strike up a friendly conversation (bắt chuyện thân thiện)
+> 3. **Setting:** strike up a casual conversation (bắt chuyện casually)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **strike up a conversation**:
+"He started talking to her."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He decided to strike up a conversation about art while they waited in the gallery."
+> 💡 **Why it works:** "Strike up a conversation" implies social initiative and charm, not just casual talking
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **strike up a conversation** instead of **talk to someone**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **strike up a conversation:** Actively initiate dialogue with stranger (VN: Chủ động mở lời)
+> **talk to someone:** General act of speaking (VN: Nói chuyện chung chung)
+> 🧱 **The Barrier:** Strike up = initiation; talk to = continuation
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a party and see someone interesting standing alone. You want to meet them. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm going to strike up a conversation about their interesting necklace."
+> 👨‍🎨 **Director's Note:** Shows social confidence and a natural opening strategy
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the phrase to its components.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Strike' means to begin/initiate (like striking music) + 'up' suggests action + 'conversation' = actively beginning dialogue with someone
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **strike up a conversation**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `strīcan` (to strike, hit)
+> 👨‍👩‍👧 **Family:**
+> - *(phrasal)* [[strike up]] (to begin)
+> - *(noun)* [[conversation]] (talk)
+> - *(verb)* [[converse]] (to talk formally)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */straɪk ʌp ə ˌkɒnvəˈseɪʃən/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**strike up a conversation**
+> 📖 **Meaning:** To begin talking with someone
+> 🇻🇳 **Vietnamese:** Bắt chuyện, mở lời
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **strike up a conversation**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "He struck up conversation the girl"
+> ✅ **Correction:** "He struck up a conversation with the girl"
+> 🧠 **Why:** Need article 'a' and preposition 'with' - it's "strike up A conversation WITH someone"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **strike up a conversation**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[end a conversation]] (terminate dialogue)
+> - [[give someone the cold shoulder]] (ignore deliberately)
+> 🧱 **Contrast:** Strike up creates connection; giving cold shoulder creates distance

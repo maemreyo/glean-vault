@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
 #flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [clinical forms, medical forms, patient forms, health forms, documentation, paperwork, medical records]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈklɪnɪkəl fɔːm/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** formal/medical
+> **Etymology:** From Greek 'klinike' (medical) + Old French 'forme' (shape, document)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** a medical document for recording patient information
+>
+> **Context Meaning:** An official document used in healthcare settings to record patient details, medical history, symptoms, treatments, or consent for procedures
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** phiếu lâm sàng, biểu mẫu y tế
+> - **Contextual:** phiếu khám bệnh, giấy tờ y tế, đơn thuốc, hồ sơ bệnh án
+>
 > **Nuances:**
-> - ...
+> - Essential legal and medical documentation
+> - Can be paper-based or electronic (e-forms)
+> - Varies by purpose: intake, consent, treatment records
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, Systematic
+> **Memory Hook:** Clinical + form = document used in clinical/medical settings for official records
+> **📖 Etymology Story:** Greek 'klinikos' (bedridden, medical) + Latin 'forma' (shape) → structured medical documentation
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[clinical]] /ˈklɪnɪkəl/, [[form]] /fɔːm/
+> - **Verb:** [[fill out]] /fɪl aʊt/, [[complete]] /kəmˈpliːt/
+> - **Adj:** [[clinical]] /ˈklɪnɪkəl/, [[medical]] /ˈmedɪkəl/
+> - **Adv:** [[clinically]] /ˈklɪnɪkli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[medical form]] /ˈmedɪkəl fɔːm/ : document for medical purposes
+> - [[patient record]] /ˈpeɪʃənt ˈrekɔːd/ : documentation of patient care
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - N/A (specific type of document)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. fill out/complete a clinical form
+> 2. patient consent form
+> 3. medical history form
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Please fill out this clinical form with your medical history before seeing the doctor.
+> - **Translation:** Vui lòng điền phiếu lâm sàng này với tiền sử bệnh của bạn trước khi gặp bác sĩ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The hospital requires patients to sign a clinical consent form before any surgical procedure.
+> - **Translation:** Bệnh viện yêu cầu bệnh ký vào phiếu đồng ý y tế trước khi thực hiện bất kỳ thủ tục phẫu thuật nào.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** I need to complete clinical form
+> - ✅ **Correction:** I need to complete a clinical form / the clinical form
+> - **Why:** Need article 'a' (general) or 'the' (specific) before 'clinical form'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "All new patients must complete the clinical registration form before their first appointment."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **clinical form** (*/ˈklɪnɪkəl fɔːm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An official document used in healthcare settings to record patient information, medical history, or obtain consent
+> 🇻🇳 **Vietnamese:** Phiếu lâm sàng, biểu mẫu y tế, giấy tờ y tế chính thức
+> 🗣️ **IPA:** */ˈklɪnɪkəl fɔːm/*
+> 🧠 **Mental Model:** Giấy tờ y tế bạn phải điền khi đến bệnh viện - thông tin cá nhân, tiền sử bệnh, đồng ý điều trị
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Official medical document for recording patient information and consent"
+**Vietnamese:** Phiếu lâm sàng, biểu mẫu y tế
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**clinical form** (*/ˈklɪnɪkəl fɔːm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **clinical form** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The receptionist handed me a clinical form to complete with my personal details and current medications.
+> 🇻🇳 **Translation:** Nhân viên lễ tân đưa tôi một phiếu lâm sàng để điền thông tin cá nhân và các loại thuốc đang dùng.
+> 🔍 **Analysis:** 'clinical form' thể hiện tính chuyên nghiệp và y khoa, là văn bằng bắt buộc trong quy trình khám bệnh
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **clinical form**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** fill out a clinical form (điền phiếu lâm sàng) - hành động bắt buộc
+> 2. **Type:** consent form (phiếu đồng ý) - pháp lý y tế
+> 3. **Purpose:** registration form (phiếu đăng ký) - thủ tục hành chính
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **clinical form**:
+"You need to fill out the medical paper."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Please complete this clinical consent form to authorize your participation in the medical study."
+> 💡 **Why it works:** 'clinical form' chuyên nghiệp và cụ thể hơn 'medical paper', 'consent' làm rõ mục đích pháp lý
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **clinical form** instead of [[paper]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **clinical form:** Tài liệu y tế chính thức, có định dạng, mục đích pháp lý (clinical consent form)
+> [[paper]]: Quá chung, chỉ tờ giấy bất kỳ (a piece of paper, newspaper)
+> 🧱 **The Barrier:** 'clinical form' là thuật ngữ y tế chuyên ngành, trong khi 'paper' là từ thông thường
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at the hospital reception for the first time. The staff hands you documents.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'll need you to complete this clinical form with your medical history and current symptoms."
+> 👨‍🎨 **Director's Note:** 'clinical form' thể hiện tính chuyên nghiệp và quy trình y tế chuẩn
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots to the meaning of **clinical form**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Greek 'klinikos' (medical, relating to bed) + Latin 'forma' (shape, document) → structured document used in clinical settings for patient care
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **clinical form**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Components:** 'clinical' (from Greek 'klinikos' - medical) + 'form' (from Latin 'forma' - document)
+> 👨‍👩‍👧 **Related Terms:**
+> - *(noun)* medical record
+> - *(noun)* patient chart
+> - *(noun)* health documentation
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈklɪnɪkəl fɔːm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**clinical form**
+> 📖 **Meaning:** Official medical document for patient information
+> 🇻🇳 **Vietnamese:** Phiếu lâm sàng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **clinical form**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The doctor gave me clinical forms to fill home
+> ✅ **Correction:** The doctor gave me clinical forms to fill out at home
+> 🧠 **Why:** Cần 'fill out' hoặc 'complete' cho biểu mẫu, và 'at' cho địa điểm
 
 ---
 
-### Card 12: Antonym Flip
+### Card 12: Context Application
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+📝 **Apply:** When would you encounter a **clinical form**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Situations:**
+> - Hospital registration (đăng ký bệnh viện)
+> - Doctor's office visit (khám bác sĩ)
+> - Medical research participation (tham gia nghiên cứu y tế)
+> 🧱 **Purpose:** Legal documentation and proper medical care
 
 ---

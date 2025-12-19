@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 #flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [withstand the test of time, pass the test of time, endure, last, survive, timeless]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /stænds ðə test əv taɪm/
+> **Part of Speech:** idiomatic expression
+> **CEFR Level:** B2
+> **Register:** formal/informal
+> **Etymology:** From Old English 'standan' (to stand) + Latin 'testum' (earthen pot for testing metals) + 'time'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To remain valid, effective, or successful for a long time despite changes or challenges.
+>
+> **Context Meaning:** To endure through the years; to prove durable, valuable, or relevant over time; to withstand the passage of time.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** vượt qua thử thách của thời gian
+> - **Contextual:** bền vững theo thời gian, trường tồn, không lỗi thời
+>
 > **Nuances:**
-> - ...
+> - Implies enduring quality, value, or relevance
+> - Often used for ideas, principles, art, or relationships
+> - Suggests something has proven its worth through duration
+> - Can describe both physical objects and abstract concepts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Timeless, Enduring, Classic
+> **Memory Hook:** Something that 'stands' firm while time 'tests' it - it doesn't fall down
+> **📖 Etymology Story:** Medieval alchemists would 'test' metals by heating them - only pure gold would 'stand' the test without changing. The phrase evolved to mean anything that remains true and valuable through the ultimate test of time itself.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Idiom:** [[stands the test of time]] /stænds ðə test əv taɪm/
+> - **Related:** [[withstands time]], [[timeless]], [[enduring]]
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[timeless]] /ˈtaɪmləs/ : not affected by time
+> - [[enduring]] /ɪnˈdjʊərɪŋ/ : lasting over time
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[outdated]] /aʊtˈdeɪtɪd/ : no longer current
+> - [[obsolete]] /ˈɒbsəliːt/ : no longer used
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Truly stands the test of time - genuinely enduring
+> 2. Has stood the test of time - proven longevity
+> 3. Will stand the test of time - future endurance prediction
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Classical literature like Shakespeare's works has truly stood the test of time.
+> - **Translation:** Tác phẩm văn học cổ điển như của Shakespeare thực sự đã vượt qua thử thách của thời gian.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Their friendship has stood the test of time despite living in different countries.
+> - **Translation:** Tình bạn của họ đã tồn tại qua thời gian mặc dù sống ở những quốc gia khác nhau.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Tense confusion**
+> - ❌ **Mistake:** This building stand the test of time for centuries.
+> - ✅ **Correction:** This building has stood the test of time for centuries.
+> - **Why:** Use present perfect 'has/have stood' for completed action with present relevance
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Truth will stand the test of time, falsehood will not."
+> **Source:** [[Biblical Proverb]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **stands the test of time** (*/stænds ðə test əv taɪm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To remain valid, effective, or successful for a long time despite changes or challenges.
+> 🇻🇳 **Vietnamese:** Vượt qua thử thách của thời gian; bền vững theo thời gian
+> 🗣️ **IPA:** */stænds ðə test əv taɪm/*
+> 🧠 **Mental Model:** Mighty oak tree - remains standing through storms, seasons, and centuries
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To remain valid and successful for a long time"
+**Vietnamese:** Vượt qua thử thách của thời gian; trường tồn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**stands the test of time** (*/stænds ðə test əv taɪm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **stands the test of time** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Traditional architectural designs often stand the test of time better than trendy modern styles.
+> 🇻🇳 **Translation:** Các thiết kế kiến trúc truyền thống thường vượt qua thử thách của thời gian tốt hơn các phong cách hiện đại theo xu hướng.
+> 🔍 **Analysis:** Perfect here as it emphasizes how certain qualities (classic design) prove their worth over extended periods
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **stands the test of time**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Emphasis:** truly stands the test of time (VN: thực sự vượt qua - emphasizes genuineness)
+> 2. **Experience:** has stood the test of time (VN: đã vượt qua - proven longevity)
+> 3. **Prediction:** will stand the test of time (VN: sẽ vượt qua - future endurance)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **stands the test of time**:
+"This old idea is still good."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "This ancient philosophy still stands the test of time in our modern world."
+> 💡 **Why it works:** Transforms simple statement into profound observation about enduring value across ages
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **stands the test of time** instead of **[[lasts long]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **stands the test of time:** Proven worth through challenges (VN: vượt qua thử thách - tested and proven)
+> **lasts long:** Simple duration (VN: kéo dài - just exists long)
+> 🧱 **The Barrier:** Stand test = endured+proven valuable, lasts long = just continued existing
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Art gallery discussion. Someone asks why we still study ancient art. What's your thoughtful response?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Because great art stands the test of time and speaks to every generation."
+> 👨‍🎨 **Director's Note:** Shows cultural wisdom - recognizes art's enduring relevance beyond temporal boundaries
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the components `stand`, `test`, and `time` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Medieval metal testing used fire to 'test' gold - only pure metal would 'stand' without melting. The phrase evolved: 'time' became the ultimate tester, 'standing' became the proof of enduring value through life's challenges.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **stands the test of time**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English `standan` (<to stand>) + Latin `testum` (<earthen pot>)
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* [[withstand the test of time]] - alternative form
+> - *(adj)* [[timeless]] - having no expiration
+> - *(adj)* [[enduring]] - lasting through difficulties
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */stænds ðə test əv taɪm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**stands the test of time**
+> 📖 **Meaning:** To remain valid and successful for a long time
+> 🇻🇳 **Vietnamese:** Vượt qua thử thách của thời gian
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **stands the test of time**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Their marriage stand the test of time for twenty years.
+> ✅ **Correction:** Their marriage has stood the test of time for twenty years.
+> 🧠 **Why:** Use present perfect tense 'has/have stood' when talking about something that continues to be true after a long period
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **stands the test of time**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[falls by the wayside]] (fails to endure vs persists)
+> - [[becomes obsolete]] (outdated vs timeless)
+> 🧱 **Contrast:** Stand test = time+success, become obsolete = time+failure
 
 ---

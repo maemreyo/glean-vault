@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
 #flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [neuron group, neural cluster, neural network, neurons, nerve cells, brain cells, neuronal ensemble, neural assembly, cluster of neurons]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ɡruːp əv ˈnʊərɒn/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2-C1
+> **Register:** academic/scientific
+> **Etymology:** From Greek "neuron" (nerve, sinew) + Old French "group" (cluster, troop)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A collection of nerve cells
+>
+> **Context Meaning:** A collection or cluster of neurons that work together to perform specific functions in the nervous system
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một nhóm neuron
+> - **Contextual:** cụm neuron, nhóm tế bào thần kinh, mạng lưới neuron
+>
 > **Nuances:**
-> - ...
+> - Refers to functional units in the brain and nervous system
+> - Groups of neurons often work together to process specific types of information
+> - Scientific term used in neuroscience and biology
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Scientific, Technical, Connected
+> **Memory Hook:** Think of neurons as a team - they work better in groups than alone, like people collaborating
+> **📖 Etymology Story:** Greek "neuron" meant "sinew, tendon" - the strings that connect muscles. Ancient Greeks saw nerves as the body's internal strings. Modern science shows neurons as the brain's communication network, working in synchronized groups.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrase:** [[a group of neurons]] /ə ɡruːp əv ˈnʊərɒn/ : collection of nerve cells
+> - **Singular:** [[neuron]] /ˈnʊərɒn/ : single nerve cell
+> - **Plural:** [[neurons]] /ˈnʊərɒnz/ : multiple nerve cells
+> - **Related:** [[neural]] /ˈnjʊərəl/ : relating to nerves
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[neural cluster]] : group of neurons
+> - [[neuronal ensemble]] : working group of neurons
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[single neuron]] : one nerve cell
+> - [[isolated neuron]] : separated nerve cell
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. group of neurons fire
+> 2. activate a group of neurons
+> 3. specific group of neurons
+>
+> **1. Neuroscience Context**
+> - **Sentence:** A specific group of neurons in the hippocampus is responsible for spatial memory.
+> - **Translation:** Một nhóm neuron cụ thể trong hồi hải mã chịu trách nhiệm về trí nhớ không gian.
+>
+> **2. Research Context**
+> - **Sentence:** The study showed that a group of neurons in the visual cortex responds selectively to faces.
+> - **Translation:** Nghiên cứu cho thấy một nhóm neuron trong vỏ não thị giác có phản ứng chọn lọc với khuôn mặt.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural/Singular Error**
+> - ❌ **Mistake:** A group of neurons is...
+> - ✅ **Correction:** A group of neurons are... (British) OR A group of neurons is... (American)
+> - **Why:** Collective nouns can take singular or plural verbs depending on whether you see the group as a unit or individuals.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Neurons that fire together, wire together."
+> **Source:** [[Donald Hebb]]
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a group of neurons** (*/ə ɡruːp əv ˈnʊərɒn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A collection or cluster of nerve cells that work together to perform specific functions in the nervous system
+> 🇻🇳 **Vietnamese:** Một nhóm neuron, cụm tế bào thần kinh hoạt động cùng nhau
+> 🗣️ **IPA:** */ə ɡruːp əv ˈnʊərɒn/*
+> 🧠 **Mental Model:** Giống như team của workers - neurons làm việc together để process information
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A collection of nerve cells that work together to perform specific functions"
+**Vietnamese:** Nhóm neuron, cụm tế bào thần kinh
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a group of neurons** (*/ə ɡruːp əv ˈnʊərɒn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a group of neurons** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** When you recognize a familiar face, a specific group of neurons in your brain becomes highly active.
+> 🇻🇳 **Translation:** Khi bạn nhận ra một khuôn mặt quen thuộc, một nhóm neuron cụ thể trong não của bạn trở nên rất hoạt động.
+> 🔍 **Analysis:** "A group of neurons" thể hiện functional organization của brain, cho thấy neurons không work alone mà thành coordinated groups
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a group of neurons**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** group of neurons fire (nhóm neuron kích hoạt - VN: electrical signals)
+> 2. **Function:** specific group of neurons (nhóm neuron cụ thể - VN: cho function riêng)
+> 3. **Research:** study a group of neurons (nghiên cứu nhóm neuron - VN: scientific investigation)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a group of neurons**:
+"Some brain cells work together."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "A group of neurons in the prefrontal cortex coordinates decision-making processes."
+> 💡 **Why it works:** Specific scientific terminology creates credibility and precision
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a group of neurons** instead of **[[brain cells]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a group of neurons:** Dùng trong scientific context, chỉ specific type of cells with electrical signaling - VN: tế bào thần kinh
+> **[[brain cells]]:** Dùng trong general context, bao gồm cả neurons và glial cells - VN: tế bào não (general)
+> 🧱 **The Barrier:** "Neurons" là specific scientific term cho nerve cells, "brain cells" là general term cho tất cả cells trong brain.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining how learning works to a student. You want to simplify a complex concept.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "When you learn something new, you're actually strengthening connections between a group of neurons in your brain."
+> 👨‍🎨 **Director's Note:** Makes complex neuroscience accessible while maintaining accuracy
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `neuron` to the meaning of **a group of neurons**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Greek "neuron" = sinew, tendon (cơ gân). Ancient Greeks thought nerves were like body's strings. Modern "neuron groups" = bundled strings working together like orchestra section!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a group of neurons**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `neuron` (nerve, sinew)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[neuron]] - tế bào thần kinh đơn
+> - *(adj)* [[neural]] - thuộc về thần kinh
+> - *(noun)* [[neurology]] - ngành thần kinh học
+> - *(noun)* [[neurotransmitter]] - chất dẫn truyền thần kinh
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ɡruːp əv ˈnʊərɒn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a group of neurons**
+> 📖 **Meaning:** A collection of nerve cells working together
+> 🇻🇳 **Vietnamese:** Một nhóm neuron
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a group of neurons**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The brain have billions of group of neurons."
+> ✅ **Correction:** "The brain has billions of groups of neurons."
+> 🧠 **Why:** Khi "group" đứng sau "billions" cần plural form "groups". "Brain" là singular noun cần "has".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a group of neurons**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[a single neuron]] (một tế bào thần kinh đơn lẻ)
+> - [[isolated neuron]] (tế bào thần kinh bị cô lập)
+> - [[individual neuron]] (tế bào thần kinh riêng lẻ)
+> 🧱 **Contrast:** Group neurons work together like team, single neuron works alone. Giống như orchestra vs solo instrument.
 
 ---

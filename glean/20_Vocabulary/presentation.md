@@ -1,159 +1,84 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/work-economy/employment-management-styles
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [present, presented, presents, presenter, presentational, presentably]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌprɛzənˈteɪʃn/ or /ˌpriːzənˈteɪʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** formal/business/academic
+> **Etymology:** From Latin "praesentare" (to present, show), from "praesens" (present, at hand)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The act of presenting or showing something
+>
+> **Context Meaning:** A formal talk or speech where information is shared with an audience; also the way something appears or is displayed
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bài thuyết trình, sự trình bày
+> - **Contextual:** buổi diễn thuyết, cách thể hiện, sự giới thiệu
+>
 > **Nuances:**
-> - ...
+> - Can refer to the formal event (giving a presentation) or the content itself
+> - Also used for how something appears (visual presentation)
+> - Implies structured communication with an audience in mind
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, Articulate, Structured
+> **Memory Hook:** "pre-" (before) + "sent" (send) - sending yourself before the audience to show them something
+> **📖 Etymology Story:** From Latin "praesentare" - imagine ancient messengers being sent ("pre-" = forward) to show ("sentare" = place, set) important information to the emperor. Today, when we give presentations, we're still sending ourselves forward to place important ideas before our audience.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[presentation]] /ˌprɛzənˈteɪʃn/ : the act of presenting
+> - **Verb:** [[present]] /prɪˈzɛnt/ : to show or give
+> - **Noun:** [[presenter]] /prɪˈzɛntər/ : person who presents
+> - **Adj:** [[presentational]] /ˌprɛzənˈteɪʃənl/ : related to presentation
+> - **Adv:** [[presentably]] /prɪˈzɛntəbli/ : in a presentable manner
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[demonstration]] /ˌdɛmənˈstreɪʃn/ : showing how something works
+> - [[lecture]] /ˈlɛktʃər/ : educational talk
+> - [[speech]] /spiːtʃ/ : formal address
+> - [[briefing]] /ˈbriːfɪŋ/ : concise presentation of information
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[absence]] /ˈæbsəns/ : lack of presence
+> - [[concealment]] /kənˈsiːlmənt/ : hiding from view
+> - [[omission]] /oʊˈmɪʃn/ : leaving something out
+> - [[withdrawal]] /wɪðˈdrɔːəl/ : taking back or away
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. give a presentation (thuyết trình)
+> 2. visual presentation (trình bày hình ảnh)
+> 3. sales presentation (bản trình bày bán hàng)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She has an important **presentation** to the board of directors tomorrow morning.
+> - **Translation:** Cô ấy có một buổi **thuyết trình** quan trọng với hội đồng quản trị vào sáng mai.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The restaurant's food **presentation** was as impressive as its taste.
+> - **Translation:** Cách **trình bày** món ăn của nhà hàng cũng ấn tượng không kém hương vị của nó.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article usage**
+> - ❌ **Mistake:** "She gave presentation" (missing article)
+> - ✅ **Correction:** "She gave **a** presentation" or "She gave **the** presentation"
+> - **Why:** "Presentation" is a countable noun requiring an article when singular
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "His **presentation** on climate change changed how we view our environmental impact."
+> **Source:** Business Conference Review
 
 ---
 
@@ -161,121 +86,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **presentation** (*/ˌprɛzənˈteɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A formal talk or speech where information is shared with an audience; also the way something appears or is displayed
+> 🇻🇳 **Vietnamese:** Bài thuyết trình, buổi trình bày, cách thể hiện
+> 🗣️ **IPA:** */ˌprɛzənˈteɪʃn/* or */ˌpriːzənˈteɪʃn/*
+> 🧠 **Mental Model:** Tưởng tượng một người đứng trước đám đông, đang trình bày thông tin một cách có cấu trúc như một buổi nói chuyện chính thức
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A formal talk where information is shared with an audience"
+**Vietnamese:** "Bài thuyết trình, buổi trình bày"
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**presentation** (*/ˌprɛzənˈteɪʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **presentation** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The CEO's **presentation** on quarterly results impressed the investors.
+> 🇻🇳 **Translation:** **Bài thuyết trình** của CEO về kết quả hàng quý đã gây ấn tượng với các nhà đầu tư.
+> 🔍 **Analysis:** Perfect here because it refers to a formal business communication where structured information is delivered to a specific audience (investors).
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **presentation**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Performance:** give/make/deliver a **presentation** (thuyết trình) - the action of presenting
+> 2. **Visual:** visual/slide **presentation** (trình bày hình ảnh/bảng slide) - the format
+> 3. **Business:** sales/quarterly **presentation** (bản trình bày bán hàng/kết quả hàng quý) - the type/topic
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **presentation**:
+"She talked about her project."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She delivered a compelling **presentation** on her innovative project to potential investors."
+> 💡 **Why it works:** "Presentation" suggests a formal, structured communication rather than casual talking, emphasizing professionalism and audience-focused communication.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **presentation** instead of **[[talk]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **presentation:** Formal, structured communication with visual aids, often planned and rehearsed (VN: bài thuyết trình, buổi trình bày)
+> **[[talk]]:** More informal, conversational, often spontaneous or less structured (VN: bài nói chuyện, buổi nói chuyện)
+> 🧱 **The Barrier:** Presentation implies formal structure and professional context, while talk can be casual and spontaneous.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You need to share your research findings with your department. You feel prepared and confident. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm ready to give my **presentation** on the market analysis findings."
+> 👨‍🎨 **Director's Note:** Shows formal preparation and structured communication appropriate for professional settings.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `present` to the meaning of **presentation**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "praeesse" means "to be before" - placing yourself before others. Add "-ation" (action/process), and you have the formal process of placing information before an audience. When giving a **presentation**, you're literally making yourself "present" to share something important.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **presentation**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `praesens` ("being present, at hand")
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[present]] /prɪˈzɛnt/
+> - *(noun)* [[presenter]] /prɪˈzɛntər/
+> - *(adj)* [[presentable]] /ˈprɛzəntəbl/
+> - *(adj)* [[presentational]] /ˌprɛzənˈteɪʃənl/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌprɛzənˈteɪʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**presentation**
+> 📖 **Meaning:** A formal talk or speech where information is shared; also the way something appears
+> 🇻🇳 **Vietnamese:** Bài thuyết trình, buổi trình bày, cách thể hiện
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **presentation**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I need to prepare presentation for tomorrow." (missing article)
+> ✅ **Correction:** "I need to prepare **a** presentation for tomorrow." OR "I need to prepare **the** presentation for tomorrow."
+> 🧠 **Why:** "Presentation" is a countable noun that requires an article when used in singular form.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **presentation**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[concealment]] (hiding information from view)
+> - [[absence]] (not being present to share)
+> - [[withdrawal]] (taking back information already shared)
+> 🧱 **Contrast:** While presentation actively shares information with others, these opposites involve hiding, absence, or removing information from audience view.
 
 ---
