@@ -1,7 +1,7 @@
+#flashcards/vocabulary/technology
 ---
 tags:
   - vocabulary
-  - flashcard
 category: phrase
 mastery: 🔴 New
 status: done
@@ -78,7 +78,7 @@ a barrel
 ---
 
 ## 🧠 Spaced Repetition Flashcards
-
+#flashcards/vocabulary/technology/deckB
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a barrel** (*/ə ˈbærəl/*) mean?

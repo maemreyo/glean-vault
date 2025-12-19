@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Sources/Articles/Practice Cam 20 Listening Test 01.md",
+                "file": "20_Vocabulary/a barrel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice Cam 20 Listening Test 01"
+              "title": "a barrel"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:structure, flashcard, grammar",
+                "query": "tag:flashcards/vocabulary/technology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,8 +234,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "253d804648e185f5",
+  "active": "5c98256179590bd2",
   "lastOpenFiles": [
+    "20_Vocabulary/–200 degrees centigrade.md",
+    "20_Vocabulary/a barrel.md",
+    "10_Sources/Articles/Practice Cam 20 Listening Test 01.md",
     "20_Vocabulary/a potter's wheel.md",
     "20_Vocabulary/a sense of belonging.md",
     "20_Vocabulary/frustration.md",
@@ -260,9 +263,6 @@
     "20_Vocabulary/parcel.md",
     "20_Vocabulary/pierce.md.tmp.65578.1766082018340",
     "20_Vocabulary/Admittedly.md",
-    "20_Vocabulary/ferry.md",
-    "20_Vocabulary/shift.md",
-    "20_Vocabulary/lorries.md",
     "20_Vocabulary/existence.md.tmp.65578.1766081833895",
     "20_Vocabulary/consume.md.tmp.65578.1766081555515",
     "20_Vocabulary/human being.md.tmp.65578.1766081300545",
