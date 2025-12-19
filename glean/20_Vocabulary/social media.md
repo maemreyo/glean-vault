@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
 #flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [social networking, social platforms, online communities, Facebook, Twitter, Instagram, TikTok, LinkedIn, social networking sites, social media platforms, social networking apps, digital media, online media, web-based social platforms, social channels]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsoʊʃəl ˈmiːdiə/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** neutral/technical
+> **Etymology:** "Social" from Latin "socialis" (relating to companionship) + "Media" from Latin "medium" (middle, intermediary)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Interactive computer-mediated technologies for social interaction
+>
+> **Context Meaning:** Websites and applications that enable users to create and share content or participate in social networking
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** mạng xã hội, truyền thông xã hội
+> - **Contextual:** nền tảng mạng xã hội, các kênh xã hội
+>
 > **Nuances:**
-> - ...
+> - Refers to platforms that facilitate user-generated content and social interaction
+> - Can be both singular concept and plural individual platforms
+> - Has transformed communication, marketing, and information sharing
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Connected, Interactive, Viral
+> **Memory Hook:** Social + Media = "social channels" where society connects - like a digital town square where everyone can speak and listen
+> **📖 Etymology Story:** "Social" (Latin socialis - companion, ally) + "Media" (Latin medium - middle, channel) = channels where society meets. The term emerged in the early 2000s as platforms like Facebook and Twitter revolutionized how humans connect, transforming solitary internet browsing into communal digital spaces.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[social media]] /ˈsoʊʃəl ˈmiːdiə/
+> - **Verb:** socialize /ˈsoʊʃəlaɪz/
+> - **Adj:** social /ˈsoʊʃəl/, medial /ˈmiːdiəl/
+> - **Adv:** socially /ˈsoʊʃəli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[social networking]] /ˈsoʊʃəl ˈnetwɜːrkɪŋ/ : online social connections
+> - [[online platforms]] /ˈɑːnlaɪn ˈplætfɔːrmz/ : digital interaction spaces
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[traditional media]] /trəˈdɪʃənl ˈmiːdiə/ : one-way communication channels
+> - [[print media]] /prɪnt ˈmiːdiə/ : physical newspapers/magazines
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. social media marketing
+> 2. social media presence
+> 3. social media influencer
+
+> **1. Example Context 1 (Business)**
+> - **Sentence:** The company increased its sales through effective social media marketing campaigns.
+> - **Translation:** Công ty đã tăng doanh số thông qua các chiến dịch marketing trên mạng xã hội hiệu quả.
+>
+> **2. Example Context 2 (Personal Life)**
+> - **Sentence:** Many teenagers spend hours daily scrolling through social media on their phones.
+> - **Translation:** Nhiều thanh thiếu niên dành hàng giờ mỗi ngày để lướt mạng xã hội trên điện thoại.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Verb Agreement**
+> - ❌ **Mistake:** "Social media have changed how we communicate."
+> - ✅ **Correction:** "Social media has changed how we communicate." OR "Social media platforms have changed..."
+> - **Why:** "Social media" as a concept takes singular verb, but as referring to multiple platforms takes plural.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Social media has become an indispensable tool for modern communication and business promotion."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **social media** (*/ˈsoʊʃəl ˈmiːdiə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Interactive digital platforms that allow users to create, share, and exchange content while participating in social networking
+> 🇻🇳 **Vietnamese:** Mạng xã hội, truyền thông xã hội - nền tảng kỹ thuật số cho phép tương tác xã hội
+> 🗣️ **IPA:** */ˈsoʊʃəl ˈmiːdiə/*
+> 🧠 **Mental Model:** "Social" (xã hội) + "Media" (kênh truyền thông) = các kênh digital nơi xã hội kết nối, chia sẻ, và tương tác như Facebook, Instagram, Twitter
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Interactive computer-mediated technologies that facilitate the creation and sharing of information or ideas"
+**Vietnamese:** Mạng xã hội, nền tảng tương tác xã hội trực tuyến
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**social media** (*/ˈsoʊʃəl ˈmiːdiə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **social media** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The rapid spread of information through social media has transformed how news is reported and consumed globally.
+> 🇻🇳 **Translation:** Sự lan truyền nhanh chóng thông tin qua mạng xã hội đã thay đổi cách tin tức được báo cáo và tiêu thụ trên toàn cầu.
+> 🔍 **Analysis:** "Social media" perfect ở đây vì nó captures the entire ecosystem of digital platforms where information spreads virally - không chỉ một platform mà toàn bộ hệ sinh thái tương tác xã hội.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **social media**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Business/Marketing:** social media marketing, social media strategy, social media campaign (VN: dùng cho business/marketing)
+> 2. **User Behavior:** social media addiction, social media presence, social media engagement (VN: dùng cho user psychology)
+> 3. **Content/Influence:** social media influencer, social media content, social media trends (VN: dùng cho content creation)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **social media**:
+"People share their photos online."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Millions of users share their daily moments and experiences through various social media platforms, creating a global visual narrative."
+> 💡 **Why it works:** "Social media" adds specificity về platform ecosystem, implies user-generated content, và captures the communal nature of modern photo sharing.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **social media** instead of **internet**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **social media:** Specific platforms for social interaction, user-generated content (VN: các nền tảng cụ thể cho tương tác xã hội)
+> **internet:** Entire global network, includes all online activities (VN: toàn bộ mạng lưới toàn cầu)
+> 🧱 **The Barrier:** Social media = subset of internet focused on social interaction, Internet = entire digital infrastructure
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks why your business isn't growing. You need to explain modern marketing realities. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "In today's digital landscape, businesses without a strong social media presence are invisible to potential customers."
+> 👨‍🎨 **Director's Note:** "Social media presence" captures the necessity of being active on platforms where customers actually spend their time - implies visibility, engagement, và accessibility.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `socialis + medium` to the meaning of **social media**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "socialis" (companion, ally) + Latin "medium" (middle, channel, means) → literally "channels for companionship" → evolved to describe digital spaces where human society connects, shares, và builds communities across distances.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **social media**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `socialis` (companion) + `medium` (middle, means)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[society]] (organized group of persons)
+> - *(noun)* [[medium]] (means of communication)
+> - *(adj)* [[social]] (relating to society)
+> - *(verb)* [[socialize]] (mix socially)
+> - *(noun)* [[mediation]] (intervention between parties)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsoʊʃəl ˈmiːdiə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**social media**
+> 📖 **Meaning:** Interactive digital platforms for social networking and content sharing
+> 🇻🇳 **Vietnamese:** Mạng xã hội, truyền thông xã hội
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **social media**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I posted my vacation photos on my social medias yesterday."
+> ✅ **Correction:** "I posted my vacation photos on social media yesterday." OR "I posted my vacation photos on my social media accounts."
+> 🧠 **Why:** "Social media" as a concept is uncountable. Use plural only when referring to multiple distinct platforms ("social media platforms").
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **social media**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[traditional media]] (one-way communication like TV, newspapers)
+> - [[print media]] (physical newspapers, magazines, books)
+> - [[broadcast media]] (radio, television - one-to-many communication)
+> 🧱 **Contrast:** Social media = interactive, user-generated, two-way communication; Traditional media = passive, professional content, one-way transmission to audience.

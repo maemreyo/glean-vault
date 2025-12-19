@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [supposed to, assuming, if, guess, imagine, presume, assume, believe, think, supposed, supposing, presumably, supposal]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /səˈpəʊz/
+> **Part of Speech:** verb
+> **CEFR Level:** B1
+> **Register:** general
+> **Etymology:** Old French "supposer" from Latin "supponere" (to put under, substitute)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To think or believe something is true without certain proof
+>
+> **Context Meaning:** To assume or consider something as true; to be expected or required to do something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cho rằng, giả định
+> - **Contextual:** đoán là, lẽ ra nên
+>
 > **Nuances:**
-> - ...
+> - Can express assumption or hypothesis
+> - Used to indicate expectation or obligation
+> - Often used in polite requests or suggestions
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Tentative, Considerate, Speculative
+> **Memory Hook:** "Suppose" = "under position" - you position your thoughts under a possibility!
+> **📖 Etymology Story:** From Latin "supponere" (đặt dưới) - khi bạn "suppose", bạn đặt một giả định "dưới" suy nghĩ của mình để xem xét. Giống như đặt nền móng dưới một ngôi nhà, bạn đặt giả định dưới lập luận của mình.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[supposition]] /ˌsʌp.əˈzɪʃ.ən/, [[supposal]] /səˈpəʊ.zəl/
+> - **Verb:** [[suppose]] /səˈpəʊz/
+> - **Adj:** [[supposed]] /səˈpəʊzd/
+> - **Adv:** [[supposedly]] /səˈpəʊ.zɪd.li/, [[presumably]] /prɪˈzjuː.mə.bli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[assume]] /əˈsjuːm/ : to take for granted
+> - [[presume]] /prɪˈzjuːm/ : to suppose something is true
+> - [[guess]] /ɡes/ : to estimate without sufficient information
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[know]] /nəʊ/ : to have certain knowledge
+> - [[prove]] /pruːv/ : to establish truth
+> - [[certain]] /ˈsɜː.tən/ : sure without doubt
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. suppose to
+> 2. I suppose so
+> 3. be supposed to
+
+> **1. Example Context 1 (Assumption)**
+> - **Sentence:** I suppose he'll be late, as the traffic is quite heavy today.
+> - **Translation:** Tôi đoán anh ấy sẽ đến muộn, vì giao thông khá đông hôm nay.
+>
+> **2. Example Context 2 (Obligation)**
+> - **Sentence:** You were supposed to submit the report yesterday.
+> - **Translation:** Bạn lẽ ra nên nộp báo cáo vào hôm qua.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Be supposed to vs. suppose to**
+> - ❌ **Mistake:** I suppose to finish my homework.
+> - ✅ **Correction:** I'm supposed to finish my homework.
+> - **Why:** "Be supposed to" expresses obligation; "suppose" alone expresses assumption.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "I suppose we could try a different approach if this doesn't work."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **suppose** (*/səˈpəʊz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To think or believe something is likely or true without certain proof; to be expected or required to do something.
+> 🇻🇳 **Vietnamese:** Cho rằng, giả định, đoán là, lẽ ra nên
+> 🗣️ **IPA:** */səˈpəʊz/*
+> 🧠 **Mental Model:** Khi bạn không chắc chắn nhưng nghĩ có thể đúng, hoặc khi có một kỳ vọng/nghĩa vụ cần làm
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To think or believe something is likely or true without certain proof"
+**Vietnamese:** Cho rằng, giả định, đoán là, lẽ ra nên
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**suppose** (*/səˈpəʊz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **suppose** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** "I suppose we should leave early to avoid the morning rush hour traffic."
+> 🇻🇳 **Translation:** "Tôi đoán chúng ta nên đi sớm để tránh kẹt xe giờ cao điểm buổi sáng."
+> 🔍 **Analysis:** "I suppose" thể hiện sự suy xét, đề xuất một cách nhẹ nhàng, ít khẳng định so với "I think" hay "I believe".
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **suppose**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Agreement:** I suppose so (Tôi đoán là vậy - đồng ý nhẹ nhàng)
+> 2. **Obligation:** be supposed to do something (lẽ ra nên làm gì - nghĩa vụ)
+> 3. **Hypothesis:** suppose that/what would happen if (giả sử rằng/thử đoán xem - giả định)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **suppose**:
+"I think it will rain."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I suppose it might rain, given how dark the clouds are gathering."
+> 💡 **Why it works:** "suppose" tạo ra sự không chắc chắn lịch sự hơn "think", còn "might" và "given how dark the clouds" thêm chi tiết về mức độ và lý do của suy đoán.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **suppose** instead of **[[think]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **suppose:** Ít chắc chắn hơn, lịch sự, thường dùng cho giả định (VN: đoán là, cho rằng)
+> **[[think]]:** Quan điểm cá nhân, chắc chắn hơn (VN: nghĩ, tin rằng)
+> 🧱 **The Barrier:** Certainty & politeness - suppose is less certain and more tentative; think expresses stronger opinion (Khác biệt về độ chắc chắn và mức độ lịch sự)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks if you want to join a movie tonight. You're not sure but it sounds nice. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I suppose I could join you, that sounds like fun!"
+> 👨‍🎨 **Director's Note:** Thể hiện sự đồng ý một cách do dự nhưng tích cực, lịch sự.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `supponere` to the meaning of **suppose**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "supponere" (đặt dưới) - khi bạn "suppose", bạn đặt một giả định "dưới" suy nghĩ của mình để xem xét, giống như đặt nền móng để xây dựng lập luận.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **suppose**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `supponere` (to put under)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[supposition]] /ˌsʌp.əˈzɪʃ.ən/ (sự giả định, sự cho rằng)
+> - *(adj)* [[supposed]] /səˈpəʊzd/ (được cho là, lẽ ra nên)
+> - *(adv)* [[supposedly]] /səˈpəʊ.zɪd.li/ (theo người ta nói, có lẽ là)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */səˈpəʊz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**suppose**
+> 📖 **Meaning:** To think or believe something is likely or true without certain proof
+> 🇻🇳 **Vietnamese:** Cho rằng, giả định, đoán là, lẽ ra nên
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **suppose**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I'm suppose to call my parents tonight.
+> ✅ **Correction:** I'm supposed to call my parents tonight.
+> 🧠 **Why:** Khi diễn tả nghĩa vụ hoặc kỳ vọng, phải dùng "be supposed to", không phải "suppose to". Đây là cấu trúc bị động đặc biệt.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **suppose**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[know]] (biết chắc chắn)
+> - [[prove]] (chứng minh)
+> - [[certain]] (chắc chắn)
+> 🧱 **Contrast:** suppose là suy đoán không chắc chắn, know là biết chắc chắn 100%
 
 ---

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [regains, regaining, regained, recover, restore, reclaim, recapture, get back, win back, repossess, retrieve, regain consciousness, regain strength, regain control]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈɡeɪn/
+> **Part of Speech:** verb
+> **CEFR Level:** B2
+> **Register:** neutral/formal
+> **Etymology:** From Old French "regaigner" (to gain again), from "re-" (again) + "gaigner" (to gain, win)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To get something back again
+>
+> **Context Meaning:** To recover or obtain something that was lost, stolen, or given up; to return to a former state or condition
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** lấy lại, giành lại, thu hồi
+> - **Contextual:** phục hồi, tìm lại
+>
 > **Nuances:**
-> - ...
+> - Implies something was previously possessed or controlled
+> - Can refer to physical objects, abilities, consciousness, or control
+> - Suggests effort or process in recovery
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Resilient, Persistent, Restorative
+> **Memory Hook:** Re + Gain = "gain again" - like regaining health after illness or regaining confidence after failure
+> **📖 Etymology Story:** Old French "regaigner" combines "re-" (again) with "gaigner" (to gain/win). Originally used in contexts like regaining territory in battle, it evolved to include anything lost being recovered - like a knight regaining his strength after being wounded.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[regain]] /rɪˈɡeɪn/
+> - **Verb:** [[regain]] /rɪˈɡeɪn/
+> - **Adj:** N/A
+> - **Adv:** N/A
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[recover]] /rɪˈkʌvər/ : get back something lost
+> - [[restore]] /rɪˈstɔːr/ : bring back to original state
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[lose]] /luːz/ : misplace or no longer have
+> - [[surrender]] /səˈrendər/ : give up voluntarily
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. regain consciousness
+> 2. regain control
+> 3. regain strength
+
+> **1. Example Context 1 (Health)**
+> - **Sentence:** The patient began to regain consciousness after the surgery.
+> - **Translation:** Bệnh nhân bắt đầu lấy lại ý thức sau cuộc phẫu thuật.
+>
+> **2. Example Context 2 (Control/Situation)**
+> - **Sentence:** The government struggled to regain control of the escalating situation.
+> - **Translation:** Chính phủ đã vật lộn để giành lại quyền kiểm soát tình hình đang leo thang.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Confusion**
+> - ❌ **Mistake:** "She regained on her feet after falling."
+> - ✅ **Correction:** "She regained her feet after falling." OR "She got back on her feet."
+> - **Why:** "Regain" is transitive and doesn't need preposition "on". It takes a direct object.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "After months of therapy, he finally began to regain his ability to walk."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **regain** (*/rɪˈɡeɪn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To get back something that was lost; to recover or return to a former state
+> 🇻🇳 **Vietnamese:** Lấy lại, giành lại, phục hồi, thu hồi
+> 🗣️ **IPA:** */rɪˈɡeɪn/*
+> 🧠 **Mental Model:** "Re" (lại) + "gain" (giành được) = giành lại cái gì đó đã mất - như lấy lại ball sau khi mất, hoặc lấy lại sức khỏe
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To recover or obtain something that was lost, stolen, or given up"
+**Vietnamese:** Lấy lại, giành lại, phục hồi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**regain** (*/rɪˈɡeɪn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **regain** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The team fought hard to regain their lead in the final minutes of the match.
+> 🇻🇳 **Translation:** Đội đã chiến đấu hết mình để giành lại lợi thế dẫn đầu trong những phút cuối của trận đấu.
+> 🔍 **Analysis:** "Regain" perfect ở đây vì nó implies they HAD the lead before, lost it, và are now trying to get it BACK - exactly captures the dynamic of losing và recovering something previously possessed.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **regain**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Health/Consciousness:** regain consciousness, regain strength, regain health (VN: dùng cho health/recovery context)
+> 2. **Control/Power:** regain control, regain power, regain authority (VN: dùng cho power dynamics)
+> 3. **Position/Status:** regain lead, regain position, regain reputation (VN: dùng cho competitive/formal contexts)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **regain**:
+"She got her confidence back."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "After the devastating failure, she worked tirelessly to regain her confidence."
+> 💡 **Why it works:** "Regain" adds nuance of effort và implies the confidence was previously possessed và then lost, tạo ra narrative depth về recovery process.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **regain** instead of **recover**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **regain:** Gợi ý active effort, conscious attempt to get back something (VN: chủ động nỗ lực lấy lại)
+> **recover:** More natural, có thể happen passively (VN: có thể tự nhiên phục hồi)
+> 🧱 **The Barrier:** Regain = active effort + previous possession, Recover = can be passive + gradual process
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your company lost its market position to competitors. You're giving a motivational speech to your team. You need to inspire action. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We've faced setbacks before, and we've always found the strength to regain our position in the market. Together, we will rise again!"
+> 👨‍🎨 **Director's Note:** "Regain" captures both the loss AND the recovery, creating a powerful narrative of comeback - perfect for motivational context implying previous glory can be reclaimed.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `re- + gaigner` to the meaning of **regain**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "re-" (back, again) + Old French "gaigner" (to gain, win, from Germanic) = "to gain again" → Originally used in medieval warfare for regaining conquered territory, evolved to any lost thing being recovered through effort.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **regain**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `re-` (again, back) + Germanic `gainjan` (to gain)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[gain]] (acquire, obtain)
+> - *(verb)* [[reclaim]] (take back something entitled)
+> - *(verb)* [[recapture]] (capture again)
+> - *(noun)* [[regainer]] (one who regains)
+> - *(adj)* [[regainable]] (capable of being regained)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈɡeɪn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**regain**
+> 📖 **Meaning:** To get back something lost; to recover
+> 🇻🇳 **Vietnamese:** Lấy lại, giành lại, phục hồi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **regain**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I need to regain up my energy after the long race."
+> ✅ **Correction:** "I need to regain my energy after the long race."
+> 🧠 **Why:** "Regain" is transitive và doesn't need "up". It takes direct object, không giống như "build up" hay "gain up" (which doesn't exist).
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **regain**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[lose]] (actively misplace or no longer possess)
+> - [[surrender]] (voluntarily give up)
+> - [[relinquish]] (formally give up control)
+> 🧱 **Contrast:** Regain implies recovery through effort, while these opposites imply loss through accident, defeat, or choice. Regain is hopeful, these are definitive endings.

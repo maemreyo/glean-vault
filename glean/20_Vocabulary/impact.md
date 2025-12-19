@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [impacts, impacting, impacted, effect, influence, consequence, result, outcome, repercussion, impression, collision, crash, strike, hit, shock, profound impact, significant impact, major impact, impact on, environmental impact, social impact, economic impact]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈɪmpækt/ (noun), /ɪmˈpækt/ (verb)
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B2
+> **Register:** neutral/academic
+> **Etymology:** From Latin "impactus" (a pushing against, striking), from "impactare" (to push against, drive into)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The action of one object hitting another; a forceful effect
+>
+> **Context Meaning:** A powerful or major influence or effect; the action of one object coming forcibly into contact with another
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tác động, ảnh hưởng, va chạm, đâm vào
+> - **Contextual:** sức ảnh hưởng, hệ quả, tác động mạnh
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical collision or abstract influence
+> - Implies significant, noticeable effect or force
+> - Used in both scientific and social contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Powerful, Transformative, Forceful
+> **Memory Hook:** Im + Pact = "push into" - like one thing forcefully hitting or influencing another - think of an asteroid impact that changes everything
+> **📖 Etymology Story:** Latin "impactare" combines "in-" (into, against) + "pangere" (to fasten, drive). Originally described physical collisions like weapons striking armor, evolved to include any forceful influence that "drives home" its effect - whether it's a meteor hitting Earth or a decision changing lives.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[impact]] /ˈɪmpækt/
+> - **Verb:** [[impact]] /ɪmˈpækt/
+> - **Adj:** impactful /ɪmˈpæktfəl/
+> - **Adv:** impactfully /ɪmˈpæktfəli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[effect]] /ɪˈfekt/ : result or consequence
+> - [[influence]] /ˈɪnfluəns/ : power to affect outcomes
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[irrelevance]] /ɪˈreləvəns/ : lack of importance
+> - [[negligibility]] /ˌneɡlɪˈdʒɪbɪləti/ : insignificance
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. make an impact
+> 2. environmental impact
+> 3. impact on
+
+> **1. Example Context 1 (Environmental)**
+> - **Sentence:** The new factory will have a significant environmental impact on the local ecosystem.
+> - **Translation:** Nhà máy mới sẽ có tác động môi trường đáng kể đến hệ sinh thái địa phương.
+>
+> **2. Example Context 2 (Personal)**
+> - **Sentence:** Her speech made a profound impact on the audience's perception of climate change.
+> - **Translation:** Bài phát biểu của cô đã có sức ảnh hưởng sâu sắc đến nhận thức của khán giả về biến đổi khí hậu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** "The decision will impact to our daily lives."
+> - ✅ **Correction:** "The decision will impact our daily lives." OR "The decision will have an impact on our daily lives."
+> - **Why:** As verb, "impact" is transitive and takes direct object. As noun, needs preposition "on".
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The shipping industry's environmental impact has become a major global concern."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **impact** (*/ˈɪmpækt/ - noun; */ɪmˈpækt/ - verb*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A powerful influence or effect; the action of one thing forcibly coming into contact with another
+> 🇻🇳 **Vietnamese:** Tác động, ảnh hưởng mạnh; va chạm, đâm vào
+> 🗣️ **IPA:** noun */ˈɪmpækt/*, verb */ɪmˈpækt/*
+> 🧠 **Mental Model:** "Im" (into) + "pact" (đóng gói/thỏa thuận) = đập vào hoặc ảnh hưởng mạnh - giống như một cú va chạm tạo ra thay đổi lớn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A powerful or major influence or effect; forceful contact between objects"
+**Vietnamese:** Tác động mạnh, ảnh hưởng lớn; va chạm mạnh
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**impact** (*/ˈɪmpækt/ - noun; */ɪmˈpækt/ - verb*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **impact** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The pandemic's economic impact has transformed how businesses approach remote work permanently.
+> 🇻🇳 **Translation:** Tác động kinh tế của đại dịch đã biến đổi vĩnh viễn cách các doanh nghiệp tiếp cận làm việc từ xa.
+> 🔍 **Analysis:** "Impact" perfect ở đây vì nó captures cả magnitude (sức mạnh) và lasting effect (hiệu ứng lâu dài) - không chỉ là "effect" bình thường mà là something forces change.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **impact**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Assessment/Measurement:** environmental impact, social impact, economic impact (VN: dùng cho analysis/research)
+> 2. **Action/Creation:** make an impact, have an impact, leave an impact (VN: dùng cho creating influence)
+> 3. **Description:** profound impact, significant impact, major impact (VN: dùng cho describing magnitude)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **impact**:
+"The change affected everyone."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The policy change had a significant impact on every aspect of community life."
+> 💡 **Why it works:** "Impact" adds forcefulness và significance - "effect" có thể subtle, còn "impact" luôn là something noticeable và powerful, perfect cho major changes.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **impact** instead of **effect**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **impact:** Gợi ý forcefulness, immediate and noticeable change (VN: mạnh mẽ, rõ ràng, immediate)
+> **effect:** More neutral, có thể subtle hoặc gradual (VN: trung lập, có thể nhẹ nhàng)
+> 🧱 **The Barrier:** Impact = forceful, powerful change; Effect = any result or consequence, gentle or strong
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're presenting research findings. The results are revolutionary. You need to emphasize their importance. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our discovery will have a profound impact on how we understand and treat this disease."
+> 👨‍🎨 **Director's Note:** "Profound impact" combines depth với forcefulness, suggesting revolutionary change that goes beyond surface-level effects - perfect cho breakthrough discoveries.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `in- + pangere` to the meaning of **impact**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "in-" (into, against) + "pangere" (to fasten, drive, fix) → "to drive into, fasten against" → Originally described physical force like weapons striking targets, evolved to include any forceful influence that "drives home" its effect on people, systems, or situations.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **impact**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `in-` (in, against) + `pangere` (to fix, fasten)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[compact]] (pressed closely together)
+> - *(adj)* [[compact]] (small, efficiently packed)
+> - *(noun)* [[pact]] (agreement, compact)
+> - *(verb)* [[impinge]] (encroach, impact upon)
+> - *(adj)* [[impactful]] (having a strong effect)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈɪmpækt/ (noun), */ɪmˈpækt/ (verb)*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**impact**
+> 📖 **Meaning:** A powerful influence or effect; forceful contact
+> 🇻🇳 **Vietnamese:** Tác động mạnh, ảnh hưởng lớn; va chạm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **impact**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The new law will make impact on small businesses."
+> ✅ **Correction:** "The new law will have an impact on small businesses." OR "The new law will impact small businesses."
+> 🧠 **Why:** As noun: "have an impact on". As verb: "impact" directly (transitive). "Make impact" is incorrect - need article "an".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **impact**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[negligibility]] (insignificance, not noticeable)
+> - [[irrelevance]] (lack of importance or effect)
+> - [[triviality]] (being unimportant or minor)
+> 🧱 **Contrast:** Impact implies significant, forceful influence that creates noticeable change, while these opposites suggest actions or events so minor they essentially don't matter or create no effect.

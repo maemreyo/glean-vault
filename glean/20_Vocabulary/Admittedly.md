@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [admitted, admit, admittedly true, admittedly speaking, admittedly so, admittedly yes, confessional, concessive, honestly, truly, indeed, certainly, admittedly, although, while, granted, I admit, I must say, it must be said]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ədˈmɪtɪdli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B2
+> **Register:** formal/academic/conversational
+> **Etymology:** From "admit" + "-ed" + "-ly"; Latin "admittere" (to allow, let in)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In a way that admits or concedes something
+>
+> **Context Meaning:** Used when admitting something is true before presenting a contrasting point; acknowledging a fact while maintaining your argument
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
-> **Nuances:**
-> - ...
+> - **Direct:** đáng lẽ phải nói, công nhận rằng, thú thật là
+> - **Contextual:** rõ ràng là, đúng là, không thể phủ nhận rằng
+
+> [!Nuances:]
+> - Shows intellectual honesty by acknowledging opposing points
+> - Often introduces a concession before making counterargument
+> - Can signal humility or strengthen credibility by admitting limitations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Honest, Balanced, Concessive
+> **Memory Hook:** "Admit" + "ed" + "ly" = admitting something honestly before making your point - like saying "I admit this is true, but..."
+> **📖 Etymology Story:** Latin "admittere" (to let in, allow) → "admit" (to acknowledge as true) → "admittedly" (in a way that acknowledges truth) → evolved into a sophisticated discourse marker showing the speaker is considering all sides before making their argument.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[admission]] /ədˈmɪʃn/
+> - **Verb:** [[admit]] /ədˈmɪt/
+> - **Adj:** admitted /ədˈmɪtɪd/
+> - **Adv:** [[admittedly]] /ədˈmɪtɪdli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[granted]] /ˈɡræntɪd/ : it's true that
+> - [[certainly]] /ˈsɜːrtənli/ : without doubt
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[deniably]] /dɪˈnaɪəbli/ : can be denied
+> - [[disputedly]] /dɪˈspjuːtɪdli/ : controversially
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. admittedly difficult
+> 2. admittedly expensive
+> 3. admittedly true
+
+> **1. Example Context 1 (Academic)**
+> - **Sentence:** Admittedly, the data is limited, but the preliminary results are promising.
+> - **Translation:** Công nhận rằng dữ liệu còn hạn chế, nhưng kết quả sơ bộ là đầy hứa hẹn.
+>
+> **2. Example Context 2 (Business)**
+> - **Sentence:** The new system is admittedly complex, but it will improve efficiency significantly.
+> - **Translation:** Hệ thống mới đúng là phức tạp, nhưng nó sẽ cải thiện hiệu suất đáng kể.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse**
+> - ❌ **Mistake:** "Admittedly, it's cold. Admittedly, it's raining. Admittedly, I'm tired."
+> - ✅ **Correction:** "It's admittedly cold and rainy, and I'm feeling tired."
+> - **Why:** "Admittedly" is a strong adverb that loses impact when overused in close succession.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Admittedly, the shipping industry faces environmental challenges, but solutions are being developed."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **admittedly** (*/ədˈmɪtɪdli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Used when acknowledging something is true, often before making a contrasting point or argument
+> 🇻🇳 **Vietnamese:** Đáng lẽ phải nói, công nhận rằng, thú thật là - dùng khi thừa nhận điều gì đó đúng
+> 🗣️ **IPA:** */ədˈmɪtɪdli/*
+> 🧠 **Mental Model:** "Admit" (thừa nhận) + "tedly" (trạng thái) = trong trạng thái thừa nhận điều gì đó là thật, thường trước khi đưa ra luận điểm trái ngược
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a way that accepts or concedes something is true, often before presenting a contrasting view"
+**Vietnamese:** Công nhận rằng, thú thật là, không thể phủ nhận rằng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**admittedly** (*/ədˈmɪtɪdli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **admittedly** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Admittedly, the technology is still in its early stages, but the potential applications are revolutionary.
+> 🇻🇳 **Translation:** Công nhận rằng công nghệ này vẫn ở giai đoạn đầu, nhưng các ứng dụng tiềm năng mang tính cách mạng.
+> 🔍 **Analysis:** "Admittedly" perfect ở đây vì nó shows intellectual honesty - acknowledges limitation (early stages) trước khi emphasize strength (revolutionary potential). Tạo ra balanced, credible argument.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **admittedly**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality Assessment:** admittedly good, admittedly bad, admittedly poor (VN: dùng cho evaluating something)
+> 2. **Difficulty/Complexity:** admittedly difficult, admittedly complex, admittedly challenging (VN: dùng cho acknowledging difficulty)
+> 3. **Truth/Reality:** admittedly true, admittedly real, admittedly the case (VN: dùng cho stating facts)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **admittedly**:
+"It's true that it's expensive, but it's worth it."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Admittedly, the investment is substantial, but the long-term returns justify the initial cost."
+> 💡 **Why it works:** "Admittedly" adds sophistication và academic tone. It's not just "it's true" mà là "I concede this point" - shows you've considered alternatives carefully.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **admittedly** instead of **although**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **admittedly:** Concedes a point with personal acknowledgment (VN: thừa nhận với sự đồng tình cá nhân)
+> **although:** Simply contrasts two ideas without personal concession (VN: chỉ đơn giản đối lập)
+> 🧱 **The Barrier:** Admittedly = speaker admits truth + contrasting point; Although = just contrast without speaker's concession
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're in a debate about climate change solutions. You need to acknowledge opposing view while maintaining your position. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Admittedly, renewable energy sources have their limitations, but they remain our most viable long-term solution."
+> 👨‍🎨 **Director's Note:** "Admittedly" strengthens your argument by showing you understand counterarguments - demonstrates intellectual honesty và makes your position more credible.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `admittere` to the meaning of **admittedly**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "admittere" (to let in, allow, concede) → "admit" (acknowledge truth) → "admittedly" (in a manner of conceding) → evolved into sophisticated discourse marker showing intellectual honesty in arguments by "letting in" opposing viewpoints before making counterclaims.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **admittedly**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `ad-` (to) + `mittere` (to send, let go)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[admit]] (acknowledge, allow entry)
+> - *(noun)* [[admission]] (act of admitting, confession)
+> - *(noun)* [[admittance]] (permission to enter)
+> - *(adj)* [[admissible]] (acceptable as evidence)
+> - *(noun)* [[transmission]] (sending across)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ədˈmɪtɪdli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**admittedly**
+> 📖 **Meaning:** In a way that accepts something is true, often before making a contrasting point
+> 🇻🇳 **Vietnamese:** Công nhận rằng, thú thật là
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **admittedly**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Admittedly, the food was good and the service was excellent."
+> ✅ **Correction:** "The food was admittedly good, and the service was excellent." OR "Admittedly, the food was good, but the service could improve."
+> 🧠 **Why:** "Admittedly" typically introduces a concession before a contrast. Don't use it for simple agreement - that's not its function.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **admittedly**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[deniably]] (can be denied or disputed)
+> - [[disputedly]] (controversially, not agreed upon)
+> - [[incontrovertibly]] (in a way that cannot be disputed - opposite direction)
+> 🧱 **Contrast:** Admittedly acknowledges possible weakness or opposing view, showing openness to debate. Deniably/disputedly suggest uncertainty or controversy, while incontrovertibly asserts absolute certainty without concession.

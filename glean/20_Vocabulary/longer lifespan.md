@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [lifespan, life expectancy, longevity, extended lifespan, increased lifespan, longer life, longer life expectancy, life span, life duration, lifetime, longevity, prolonged life, extended life, life extension, healthy aging, aging well, lifespan extension]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈlɔːŋər ˈlaɪfspæn/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** neutral/academic/medical
+> **Etymology:** "Long" (Old English "lang") + "Life" (Old English "līf") + "Span" (Old English "spann")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The length of time something lives
+>
+> **Context Meaning:** The period between birth and death of a living organism, especially when extended beyond the normal or expected duration
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
-> **Nuances:**
-> - ...
+> - **Direct:** tuổi thọ dài hơn, vòng đời dài hơn
+> - **Contextual:** tuổi thọ kéo dài, thời gian sống kéo dài
+
+> [!Nuances:]
+> - Often used in discussions of medical advances, health improvements
+> - Can refer to humans, animals, or even products
+> - Implies comparison to previous or average durations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Enduring, Progressive, Medical
+> **Memory Hook:** "Longer" + "Life" + "Span" = extended bridge of life - like making the bridge from birth to death longer and stronger
+> **📖 Etymology Story:** Old English "lang" (long) + "līf" (life) + "spann" (stretch between thumb and little finger, used as measurement) → literally "longer life measurement" → evolved to encompass not just measurement but the concept of extending human life through medicine, lifestyle, and technology.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[lifespan]] /ˈlaɪfspæn/
+> - **Adj:** longer /ˈlɔːŋər/, long /lɔːŋ/
+> - **Adv:** longer /ˈlɔːŋər/
+> - **Verb:** lengthen /ˈleŋθən/, prolong /prəˈlɔːŋ/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[longevity]] /lɑːnˈdʒevəti/ : long life
+> - [[life expectancy]] /laɪf ɪkˈspektənsi/ : expected duration of life
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[mortality]] /mɔːrˈtæləti/ : state of being mortal
+> - [[premature death]] /ˈpremətʃər deθ/ : early death
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. achieve longer lifespan
+> 2. increase lifespan
+> 3. healthy lifestyle leads to longer lifespan
+
+> **1. Example Context 1 (Health)**
+> - **Sentence:** Advances in medicine have contributed to a longer lifespan for many populations worldwide.
+> - **Translation:** Tiến bộ y học đã góp phần kéo dài tuổi thọ cho nhiều quần thể trên toàn thế giới.
+>
+> **2. Example Context 2 (Lifestyle)**
+> - **Sentence:** Regular exercise and a balanced diet are associated with a longer lifespan.
+> - **Translation:** Tập thể dục đều đặn và chế độ ăn cân bằng có liên quan đến tuổi thọ dài hơn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Order**
+> - ❌ **Mistake:** "People are living lifespans longer."
+> - ✅ **Correction:** "People are living longer" OR "People have longer lifespans."
+> - **Why:** "Lifespan" is a noun phrase describing duration, not something that can be "lived longer."
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Modern healthcare has enabled humans to enjoy a longer lifespan than ever before in history."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **longer lifespan** (*/ˈlɔːŋər ˈlaɪfspæn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An extended period of life between birth and death, longer than average or expected
+> 🇻🇳 **Vietnamese:** Tuổi thọ dài hơn, vòng đời kéo dài hơn - thời gian sống lâu hơn bình thường
+> 🗣️ **IPA:** */ˈlɔːŋər ˈlaɪfspæn/*
+> 🧠 **Mental Model:** "Longer" (dài hơn) + "Lifespan" (vòng đời) = bridge of life được extend ra - giống như making the journey từ birth đến death longer qua medical advances và healthy living
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The extended duration of life for a living organism, longer than the normal or expected period"
+**Vietnamese:** Tuổi thọ kéo dài, vòng đời dài hơn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**longer lifespan** (*/ˈlɔːŋər ˈlaɪfspæn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **longer lifespan** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Genetic research and improved healthcare contribute to a longer lifespan in developed countries.
+> 🇻🇳 **Translation:** Nghiên cứu di truyền và chăm sóc y tế cải thiện góp phần kéo dài tuổi thọ ở các nước phát triển.
+> 🔍 **Analysis:** "Longer lifespan" perfect ở đây vì nó captures the concept of extended life duration trong formal, scientific context. "Longer life" có thể sound casual, còn "longer lifespan" more academic/medical terminology.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **longer lifespan**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Achievement/Result:** achieve longer lifespan, enjoy longer lifespan, experience longer lifespan (VN: dùng cho results/benefits)
+> 2. **Causation:** leads to longer lifespan, promotes longer lifespan, extends lifespan (VN: dùng cho causes)
+> 3. **Comparison:** compared to previous lifespans, relative to species lifespan (VN: dùng cho comparisons)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **longer lifespan**:
+"People now live longer because of medicine."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Breakthroughs in medical science have enabled humans to achieve significantly longer lifespans compared to previous generations."
+> 💡 **Why it works:** "Longer lifespan" adds scientific precision và formal tone. "Live longer" quá simple, còn "longer lifespan" captures the measured, statistical nature of life duration studies.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **longer lifespan** instead of **longevity**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **longer lifespan:** More specific, comparative term (VN: cụ thể, so sánh)
+> **longevity:** General concept of long life (VN: khái niệm chung về sống lâu)
+> 🧱 **The Barrier:** Longer lifespan = specific measurement + comparison to average; Longevity = general quality/state of living long
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a health expert giving a presentation about lifestyle benefits. You need to sound scientific and convincing. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Studies consistently show that individuals maintaining a healthy diet and regular exercise can expect a longer lifespan of up to 10 years."
+> 👨‍🎨 **Director's Note:** "Longer lifespan" sounds professional và data-driven, perfect cho medical/health presentation vì it implies scientific measurement và research-backed claims.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `lang + līf + spann` to the meaning of **longer lifespan**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "lang" (long, extended) + "līf" (existence, animation) + "spann" (handspan measurement) → "extended life measurement" → evolved into concept of extending measured human life through advances that literally "stretch" our biological timeline beyond original span.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **longer lifespan**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English `lang` (long) + `līf` (life) + `spann` (span, measurement)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[lifespan]] (duration of life)
+> - *(noun)* [[longevity]] (long life, state)
+> - *(noun)* [[lifetime]] (period of life)
+> - *(verb)* [[lengthen]] (make longer)
+> - *(verb)* [[prolong]] (extend duration)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈlɔːŋər ˈlaɪfspæn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**longer lifespan**
+> 📖 **Meaning:** Extended period of life, longer than average
+> 🇻🇳 **Vietnamese:** Tuổi thọ dài hơn, vòng đời kéo dài
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **longer lifespan**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The new medicine helps people to live longer lifespans."
+> ✅ **Correction:** "The new medicine helps people achieve longer lifespans." OR "The new medicine helps people live longer."
+> 🧠 **Why:** You "achieve" or "have" longer lifespans, not "live longer lifespans." "Lifespan" is already a measure of duration - redundant to say "live longer" before it.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **longer lifespan**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[shorter lifespan]] (reduced duration of life)
+> - [[reduced life expectancy]] (lower expected years of life)
+> - [[premature mortality]] (early death)
+> 🧱 **Contrast:** Longer lifespan represents success in extending human life through medical, social, and lifestyle advances, while these opposites represent failure, tragedy, or reduced duration that can result from disease, poor conditions, or genetic limitations.

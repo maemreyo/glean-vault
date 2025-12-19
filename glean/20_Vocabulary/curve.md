@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [curved, curvy, curvature, bend, arc, arch, twist, turn, rounded, circular, curving, curvilinear, contour, shape, form]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kɜːv/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B1
+> **Register:** general
+> **Etymology:** Latin "curvus" (bent, curved)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A smoothly bending line without sharp angles
+>
+> **Context Meaning:** A line that gradually bends or turns; the act of moving in a curved path
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đường cong, sự cong
+> - **Contextual:** đường cong, khúc cua
+>
 > **Nuances:**
-> - ...
+> - As a noun: refers to the shape or line itself
+> - As a verb: the action of bending or turning
+> - Used in mathematics, art, driving, and general descriptions
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Fluid, Natural, Elegant
+> **Memory Hook:** Think of a "curvy road" winding through mountains - smooth, flowing turns!
+> **📖 Etymology Story:** From Latin "curvus" (uốn cong) - curves are nature's way of avoiding sharp angles. Rivers curve around obstacles, light curves around massive objects, and even life follows curves rather than straight lines.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[curve]] /kɜːv/, [[curvature]] /ˈkɜː.və.tʃər/
+> - **Verb:** [[curve]] /kɜːv/
+> - **Adj:** [[curved]] /kɜːvd/, [[curvy]] /ˈkɜː.vi/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[arc]] /ɑːk/ : part of a circle
+> - [[bend]] /bend/ : change direction
+> - [[arch]] /ɑːtʃ/ : curved shape
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[straight]] /streɪt/ : not bent or curved
+> - [[linear]] /ˈlɪn.i.ər/ : in a straight line
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. sharp curve
+> 2. learning curve
+> 3. curve ball
+
+> **1. Example Context 1 (Driving)**
+> - **Sentence:** The road has a dangerous curve ahead, so drivers should slow down.
+> - **Translation:** Con đường phía trước có một khúc cua nguy hiểm, vì vậy tài xế nên giảm tốc độ.
+>
+> **2. Example Context 2 (Statistics)**
+> - **Sentence:** The graph shows an upward curve in sales over the past quarter.
+> - **Translation:** Biểu đồ cho thấy đường cong doanh số tăng trong quý vừa qua.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Pronunciation**
+> - ❌ **Mistake:** /kʌrv/ (like "carve")
+> - ✅ **Correction:** /kɜːv/ (rhymes with "serve")
+> - **Why:** The "u" in "curve" makes an /ɜː/ sound, not /ʌ/.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The learning curve was steep, but she quickly mastered the new software."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **curve** (*/kɜːv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A smoothly bending line without sharp angles; or to move in such a line.
+> 🇻🇳 **Vietnamese:** Đường cong, sự cong, đường cong
+> 🗣️ **IPA:** */kɜːv/*
+> 🧠 **Mental Model:** Một đường line không thẳng mà uốn lượn nhẹ nhàng, giống như con đường quanh co hay hình dạng của quả cầu
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A smoothly bending line without sharp angles"
+**Vietnamese:** Đường cong, sự cong, đường cong
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**curve** (*/kɜːv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **curve** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The artist drew perfect curves to create an elegant portrait.
+> 🇻🇳 **Translation:** Người nghệ sĩ đã vẽ những đường cong hoàn hảo để tạo ra một bức chân dung thanh lịch.
+> 🔍 **Analysis:** "curves" ở đây chỉ các đường cong nghệ thuật, tạo nên sự mềm mại và thanh lịch cho bức chân dung, thể hiện kỹ năng kiểm soát nét vẽ của họa sĩ.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **curve**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Driving:** sharp/gentle curve (khúc cua gấp/dịu - mức độ cong)
+> 2. **Learning:** learning curve (đường cong học tập - quá trình)
+> 3. **Mathematics:** bell curve (đường cong chuông - loại hình)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **curve**:
+"The road turns."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The road follows a gentle curve along the coastline."
+> 💡 **Why it works:** "curve" miêu tả chính xác hơn "turns" về mặt hình học, còn "gentle" và "along the coastline" thêm chi tiết về mức độ và vị trí của khúc cua.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **curve** instead of **[[corner]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **curve:** Đoạn đường uốn cong mềm mại, không có góc nhọn (VN: khúc cua, đường cong)
+> **[[corner]]:** Góc giao nhau của hai đường thẳng, thường gấp hơn (VN: góc转弯, ngã rẽ)
+> 🧱 **The Barrier:** Shape & angle - curves have smooth, gradual bends; corners have sharp, angular turns (Khác biệt về hình dạng và góc độ)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're teaching someone to drive. You see a road sign warning about the path ahead. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Be careful! There's a sharp curve approaching."
+> 👨‍🎨 **Director's Note:** Cảnh báo rõ ràng về nguy hiểm, sử dụng thuật ngữ lái xe chính xác.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `curvus` to the meaning of **curve**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "curvus" (cong, vòm) - curve là thứ không thẳng mà uốn lượn. Giống như cây cỏ tự nhiên uốn cong theo gió, sông cong quanh obstacles, avoiding the harshness of straight lines.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **curve**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `curvus` (bent, curved)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[curvature]] /ˈkɜː.və.tʃər/ (độ cong)
+> - *(adj)* [[curved]] /kɜːvd/ (cong, uốn lượn)
+> - *(adj)* [[curvy]] /ˈkɜː.vi/ (có đường cong, đồng cát)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kɜːv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**curve**
+> 📖 **Meaning:** A smoothly bending line without sharp angles
+> 🇻🇳 **Vietnamese:** Đường cong, sự cong, đường cong
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **curve**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The ball curved through the air /kʌrv/.
+> ✅ **Correction:** The ball curved through the air /kɜːvd/.
+> 🧠 **Why:** Động từ "curve" ở thì quá khứ là "curved" (phát âm là /kɜːvd/), không phải /kʌrv/.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **curve**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[straight line]] (đường thẳng)
+> - [[angle]] (góc)
+> 🧱 **Contrast:** curve là đường uốn mềm mại, straight line là đường không có độ cong nào
 
 ---

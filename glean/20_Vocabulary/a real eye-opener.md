@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 #flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [eye-opening, revealing, surprising, shocking, enlightening, discovery, realization, wake-up call, revelation, insightful, illuminating, astounding]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə rɪəl ˈaɪ ˌoʊpənər/
+> **Part of Speech:** idiomatic phrase (noun)
+> **CEFR Level:** B2-C1
+> **Register:** informal to neutral
+> **Etymology:** Visual metaphor from the physical action of eyes opening wide when surprised or enlightened (19th century)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Something that causes your eyes to open literally
+>
+> **Context Meaning:** An experience or piece of information that is surprising, enlightening, and makes you see things differently
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một sự thật gây ngạc nhiên
+> - **Contextual:** điều kinh ngạc, sự khai sáng, bài học đáng giá, điều làm ta mở mang tầm mắt
+>
 > **Nuances:**
-> - ...
+> - Implies a fundamental shift in understanding or perspective
+> - Often used for discoveries that challenge previous assumptions
+> - Carries emotional weight of surprise plus intellectual enlightenment
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Enlightening, Surprising, Transformative
+> **Memory Hook:** Imagine literally seeing something for the first time with wide-open eyes - that "aha!" moment
+> **📖 Etymology Story:** From the physical reaction of surprise when eyes widen - the mind's eyes opening to new understanding
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun Phrase:** a real eye-opener
+> - **Adjective:** [[eye-opening]] /ˈaɪˌoʊpənɪŋ/
+> - **Related Phrases:** wake-up call, rude awakening
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[revelation]] /ˌrevəˈleɪʃn/ : A surprising and revealing fact
+> - [[enlightenment]] /ɪnˈlaɪtnmənt/ : Greater understanding of a subject
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[confirmation]] /ˌkɒnfəˈmeɪʃn/ : Something that confirms what you already knew
+> - [[expected]] /ɪkˈspektɪd/ : Not surprising
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. be a real eye-opener
+> 2. quite an eye-opener
+> 3. eye-opening experience
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Visiting the slums was a real eye-opener for the privileged students.
+> - **Translation:** Việc thăm khu ổ chuột là một bài học khai sáng cho những sinh viên giàu có.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The documentary was a real eye-opener about climate change.
+> - **Translation:** Bộ phim tài liệu đã giúp tôi hiểu rõ hơn về biến đổi khí hậu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Using in formal academic writing**
+> - ❌ **Mistake:** "The research proved to be a real eye-opener."
+> - ✅ **Correction:** "The research revealed surprising findings." OR "The results were enlightening."
+> - **Why:** Too informal for academic contexts
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime."
+> **Source:** Mark Twain (describing travel as an eye-opener)
 
 ---
 
@@ -161,121 +80,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a real eye-opener** (*/ə rɪəl ˈaɪ ˌoʊpənər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An experience or piece of information that is surprising and makes you see things differently
+> 🇻🇳 **Vietnamese:** Điều làm mở mang tầm mắt, sự thật gây ngạc nhiên, bài học khai sáng
+> 🗣️ **IPA:** */ə rɪəl ˈaɪ ˌoʊpənər/*
+> 🧠 **Mental Model:** Như việc đột nhiên nhìn thấy điều gì đó rõ ràng lần đầu tiên
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An experience that is surprisingly enlightening"
+**Vietnamese:** Điều làm mở mang tầm mắt
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a real eye-opener** (*/ə rɪəl ˈaɪ ˌoʊpənər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a real eye-opener** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Working in a homeless shelter was a real eye-opener about poverty in our city.
+> 🇻🇳 **Translation:** Làm việc tại nơi trú ẩn cho người vô gia cư thực sự đã giúp tôi hiểu về sự nghèo đói trong thành phố.
+> 🔍 **Analysis:** Perfect for describing transformative experiences that change your perspective (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a real eye-opener**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Experience:** be/quite an eye-opener (là một bài học đáng giá)
+> 2. **Intensity:** real eye-opener (thực sự gây ngạc nhiên)
+> 3. **Context:** eye-opener for/to (điều khai sáng cho ai về cái gì)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a real eye-opener**:
+"I learned something surprising."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The documentary about factory farming was a real eye-opener."
+> 💡 **Why it works:** Creates vivid image of sudden understanding (e.g., visual metaphor impact)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a real eye-opener** instead of **[[interesting]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a real eye-opener:** Dramatically changes understanding or perspective
+> **[[interesting]]:** Simply holds attention or curiosity
+> 🧱 **The Barrier:** Eye-opener implies transformation ( VN: thay đổi nhận thức ), interesting is mild engagement ( VN: chỉ là thú vị )
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks about your trip to a developing country. You want to express how it changed your view. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "It was a real eye-opener - I'll never complain about my life again."
+> 👨‍🎨 **Director's Note:** Shows deep impact and perspective shift (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `eye-opener` to the meaning of **a real eye-opener**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 1800s - "eye-opener" ban đầu là cà phê mạnh (để mở mắt). Sau đó mở rộng thành bất cứ điều gì làm bạn "mở mắt" ra thấy sự thật
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a real eye-opener**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `ēage` (eye) + `open` → Modern compound metaphor
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[eye-opening]] (gây ngạc nhiên)
+> - *(phrase)* [[open your eyes]] (nhìn ra sự thật)
+> - *(idiom)* [[wake-up call]] (cú hích thức tỉnh)
+> - *(related)* [[see the light]] (hiểu ra sự thật)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə rɪəl ˈaɪ ˌoʊpənər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a real eye-opener**
+> 📖 **Meaning:** An experience or piece of information that is surprisingly enlightening
+> 🇻🇳 **Vietnamese:** Điều làm mở mang tầm mắt, sự thật gây ngạc nhiên
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a real eye-opener**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "That was very eye-opener." (thiếu "a" và "real")
+> ✅ **Correction:** "That was a real eye-opener." OR "That was quite an eye-opener."
+> 🧠 **Why:** Fixed idiom requires article "a" and intensifier "real" is standard
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a real eye-opener**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[confirmation]] (sự xác nhận)
+> - [[expected outcome]] (kết quả dự đoán)
+> - [[nothing new]] (chẳng có gì mới)
+> 🧱 **Contrast:** Eye-opener reveals unexpected truths, while its opposite confirms what's already known
 
 ---

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [steady, stable, constant, consistent, regular, even, unwavering, progressive, gradual]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈstedɪli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** From Old English 'stede' (place, firm) + '-ly' adverbial suffix
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** in a firm, stable, and regular manner
+>
+> **Context Meaning:** At a steady, unchanging pace; gradually but continuously; without variation or interruption
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một cách vững chắc, ổn định
+> - **Contextual:** đều đặn, không ngừng, từ từ nhưng liên tục, kiên định
+>
 > **Nuances:**
-> - ...
+> - Implies consistency and reliability
+> - Can refer to physical movement, progress, or change
+> - Often suggests gradual but continuous improvement
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Reliable, Determined
+> **Memory Hook:** Think of 'steady' hands - firm, controlled, not shaky
+> **📖 Etymology Story:** Old English 'stæððig' (firm, stable) → 'steady' → 'steadily' - moving with firm consistency
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[steadiness]] /ˈstedɪnəs/
+> - **Verb:** [[steady]] /ˈstedi/
+> - **Adj:** [[steady]] /ˈstedi/
+> - **Adv:** [[steadily]] /ˈstedɪli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[consistently]] /kənˈsɪstəntli/ : in a way that doesn't change
+> - [[gradually]] /ˈɡrædʒuəli/ : slowly over time
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[erratically]] /ɪˈrætɪkli/ : in an irregular way
+> - [[unsteadily]] /ʌnˈstedɪli/ : shakily, uncertainly
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. improve steadily
+> 2. increase/rise steadily
+> 3. progress steadily
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company's profits have been steadily increasing over the past five years.
+> - **Translation:** Lợi nhuận của công ty đã tăng đều đặn trong năm năm qua.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Despite the challenges, she steadily worked toward her goal and eventually achieved success.
+> - **Translation:** Mặc dù có những thách thức, cô ấy đã kiên định làm việc hướng tới mục tiêu và cuối cùng đã đạt được thành công.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Position Error**
+> - ❌ **Mistake:** The prices steady rose
+> - ✅ **Correction:** The prices rose steadily / The prices steadily rose
+> - **Why:** Adverb can go before or after verb, but not between subject and verb in this case
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The temperature has been rising steadily throughout the morning."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **steadily** (*/ˈstedɪli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In a firm, regular, and continuous manner; without wavering or interruption
+> 🇻🇳 **Vietnamese:** Một cách ổn định, đều đặn, kiên định, không ngừng
+> 🗣️ **IPA:** */ˈstedɪli/*
+> 🧠 **Mental Model:** Như dòng nước chảy đều - không nhanh không chậm, không ngừng nghỉ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a firm, regular, and continuous manner"
+**Vietnamese:** Một cách ổn định, đều đặn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**steadily** (*/ˈstedɪli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **steadily** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The young athlete steadily improved her performance, breaking personal records month after month.
+> 🇻🇳 **Translation:** Vận động viên trẻ đã cải thiện thành tích một cách đều đặn, phá vỡ các kỷ lục cá nhân tháng sau tháng.
+> 🔍 **Analysis:** 'steadily' nhấn mạnh sự tiến bộ liên tục và bền bỉ, không phải đột ngột
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **steadily**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Progress:** improve steadily (cải thiện đều đặn) - tiến bộ bền bỉ
+> 2. **Movement:** walk steadily (đi vững chãi) - chuyển động ổn định
+> 3. **Growth:** grow steadily (tăng trưởng ổn định) - phát triển liên tục
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **steadily**:
+"The numbers went up."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The company's revenue has been steadily increasing despite market fluctuations."
+> 💡 **Why it works:** 'steadily increasing' cụ thể hơn 'went up', thể hiện sự tăng trưởng bền vững
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **steadily** instead of [[quickly]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **steadily:** Nhấn mạnh sự ổn định, liên tục, bền bỉ (steadily improving)
+> [[quickly]]: Nhấn mạnh tốc độ, có thể thiếu bền vững (quickly finished)
+> 🧱 **The Barrier:** 'steadily' là consistency over time, trong khi 'quickly' là speed of completion
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Describing economic recovery after a recession.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The economy is steadily recovering, with unemployment rates decreasing month by month."
+> 👨‍🎨 **Director's Note:** 'steadily recovering' thể hiện sự phục hồi bền vững và đáng tin cậy
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `stede` to the meaning of **steadily**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'stede' (firm place, position) → 'stæððig' (steady) → 'steadily'. Từ gốc chỉ sự vững chắc đã phát triển thành tính ổn định trong hành động
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **steadily**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `stede` (place, firm position)
+> 👨‍👩‍👧 **Family:**
+> - *(adverb)* steadily
+> - *(adjective)* steady
+> - *(noun)* steadiness
+> - *(noun)* instead (from same root)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈstedɪli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**steadily**
+> 📖 **Meaning:** In a firm and regular manner
+> 🇻🇳 **Vietnamese:** Một cách ổn định
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **steadily**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** She steady works hard every day
+> ✅ **Correction:** She works steadily hard every day / She steadily works hard every day
+> 🧠 **Why:** Cần dùng adverb 'steadily' không phải adjective 'steady' để修饰 động từ
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **steadily**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[erratically]] (irregularly, unpredictably)
+> - [[unsteadily]] (shakily, unsteadily)
+> 🧱 **Contrast:** Steadily implies consistency and reliability, while erratically/unsteadily suggests unpredictability and instability
 
 ---

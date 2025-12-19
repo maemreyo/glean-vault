@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
 #flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [boat trips, boat ride, boat tour, sailing trip, cruise, voyage, journey, excursion, maritime travel, water excursion, boat journey, sea trip, ocean voyage, boat outing]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /bəʊt trɪp/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A2
+> **Register:** informal/general
+> **Etymology:** Old English "bāt" (boat) + Old French "trip" (journey)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A journey or excursion made by boat
+>
+> **Context Meaning:** A short journey or pleasure trip taken on a boat, usually for recreational purposes
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chuyến đi thuyền
+> - **Contextual:** chuyến du ngoạn bằng thuyền
+>
 > **Nuances:**
-> - ...
+> - Typically shorter than a cruise
+> - Often for leisure or sightseeing
+> - Can be on rivers, lakes, or coastal waters
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Leisurely, Adventurous, Relaxed
+> **Memory Hook:** Imagine "boat" floating on water while taking a "trip" - a journey on water!
+> **📖 Etymology Story:** The combination of Old English "bāt" (small watercraft) and Old French "triper" (to dance, skip, or make a journey) perfectly captures the joyful, light movement of traveling across water for pleasure.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[boat]] /bəʊt/, [[trip]] /trɪp/, [[boating]] /ˈbəʊtɪŋ/
+> - **Verb:** [[boat]] /bəʊt/, [[trip]] /trɪp/
+> - **Adj:** [[boating]] /ˈbəʊtɪŋ/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[cruise]] /kruːz/ : longer, often luxury boat journey
+> - [[voyage]] /ˈvɔɪ.ɪdʒ/ : longer, more formal sea journey
+> - [[excursion]] /ɪkˈskɜː.ʃən/ : short pleasure trip
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - N/A
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. scenic boat trip
+> 2. take a boat trip
+> 3. boat trip around the island
+
+> **1. Example Context 1 (Tourism)**
+> - **Sentence:** We took a scenic boat trip around the bay to see the dolphins.
+> - **Translation:** Chúng tôi đã đi một chuyến thuyền ngắm cảnh quanh vịnh để xem cá heo.
+>
+> **2. Example Context 2 (Recreation)**
+> - **Sentence:** The family enjoyed a peaceful boat trip on the lake last weekend.
+> - **Translation:** Gia đình đã tận hưởng một chuyến đi thuyền yên bình trên hồ vào cuối tuần trước.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** We went on boat trip.
+> - ✅ **Correction:** We went on a boat trip.
+> - **Why:** "Boat trip" is a countable noun phrase requiring an article.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The company organizes regular boat trips for tourists during the summer season."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **boat trip** (*/bəʊt trɪp/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A short journey or excursion made by boat, typically for recreational or sightseeing purposes.
+> 🇻🇳 **Vietnamese:** Chuyến đi thuyền, chuyến du ngoạn bằng thuyền
+> 🗣️ **IPA:** */bəʊt trɪp/*
+> 🧠 **Mental Model:** Một cuộc hành trình ngắn bằng tàu thuyền để thư giãn hoặc ngắm cảnh
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A short journey or excursion made by boat, typically for recreational or sightseeing purposes"
+**Vietnamese:** Chuyến đi thuyền, chuyến du ngoạn bằng thuyền
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**boat trip** (*/bəʊt trɪp/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **boat trip** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The tourists booked a sunset boat trip to enjoy the coastal views.
+> 🇻🇳 **Translation:** Những du khách đã đặt một chuyến đi thuyền ngắm hoàng hôn để tận hưởng cảnh biển.
+> 🔍 **Analysis:** "boat trip" ở đây diễn tả một hoạt động du lịch giải trí, cụ thể là chuyến đi ngắm cảnh lúc hoàng hôn, rất phù hợp với context du lịch biển.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **boat trip**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Scenic:** scenic boat trip (chuyến đi thuyền ngắm cảnh - nhấn mạnh vẻ đẹp)
+> 2. **Action:** take/go on a boat trip (đi/tham gia chuyến đi thuyền - hành động)
+> 3. **Duration:** half-day boat trip (chuyến đi thuyền nửa ngày - thời lượng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **boat trip**:
+"We went on the water."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We embarked on a scenic boat trip around the harbor."
+> 💡 **Why it works:** "boat trip" cụ thể hóa loại hình hoạt động trên nước, còn "scenic" và "around the harbor" thêm thông tin chi tiết về hình ảnh và địa điểm.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **boat trip** instead of **[[cruise]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **boat trip:** Chuyến đi thuyền ngắn, thường trong ngày, giải trí nhẹ nhàng (VN: đi chơi thuyền ngắn)
+> **[[cruise]]:** Chuyến du thuyền dài ngày, sang trọng, có lịch trình cố định (VN: đi du thuyền hạng sang)
+> 🧱 **The Barrier:** Duration & luxury level - boat trips are shorter and less formal than cruises (Khác biệt về thời gian và độ sang trọng)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a coastal resort. The weather is perfect. You want to explore the coastline. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Let's book a boat trip to see the hidden coves!"
+> 👨‍🎨 **Director's Note:** Tạo cảm giác chủ động khám phá, phù hợp với không khí du lịch biển.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `bāt` to the meaning of **boat trip**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English "bāt" (thuyền) kết hợp với "trip" (hành trình) tạo thành "boat trip" - một cuộc vui đi lại nhẹ nhàng trên mặt nước, giống như khi người xưa dùng thuyền nhỏ để đi lại và khám phá các vùng nước gần bờ.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **boat trip**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** English `boat trip` (compound noun)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[boating]] /ˈbəʊtɪŋ/ (hoạt động đi thuyền)
+> - *(noun)* [[boatman]] /ˈbəʊt.mən/ (người lái thuyền)
+> - *(verb)* [[boat]] /bəʊt/ (đi thuyền)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */bəʊt trɪp/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**boat trip**
+> 📖 **Meaning:** A short journey or excursion made by boat
+> 🇻🇳 **Vietnamese:** Chuyến đi thuyền
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **boat trip**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I want to make boat trip tomorrow.
+> ✅ **Correction:** I want to make a boat trip tomorrow. / I want to go on a boat trip tomorrow.
+> 🧠 **Why:** "boat trip" là cụm danh từ đếm được, cần có mạo từ "a". "Go on" là collocation tự nhiên hơn.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **boat trip**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - N/A (không có đối diện trực tiếp - là một loại hình hoạt động giải trí)
+> 🧱 **Contrast:** Có thể nói ngược lại là "stay on land" (ở lại trên đất liền)
 
 ---

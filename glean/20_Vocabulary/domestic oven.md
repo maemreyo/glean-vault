@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
 #flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [domestic ovens, home oven, kitchen oven, household oven, baking oven]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dəˈmestɪk ˈʌvn/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** informal/formal
+> **Etymology:** From Latin 'domesticus' (of the house) + Old English 'ofen' (oven, furnace)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An oven designed for household use rather than commercial or industrial purposes.
+>
+> **Context Meaning:** A kitchen appliance used for cooking, baking, or heating food in home settings; typically smaller than commercial ovens with features suitable for family use.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** lò nướng gia dụng
+> - **Contextual:** lò nướng nhà bếp, lò nướng tại nhà
+>
 > **Nuances:**
-> - ...
+> - Distinguished from commercial ovens by size, capacity, and features
+> - Common types include conventional, convection, microwave, and combination ovens
+> - Central to modern cooking and food preparation at home
+> - Often a focal point of kitchen design and family life
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Homely, Nurturing, Culinary
+> **Memory Hook:** 'Domestic' = home + 'oven' = cooking appliance for your house
+> **📖 Etymology Story:** Ancient Romans had 'domi' (at home) cooking hearths. The 'domestic oven' evolved from communal bread ovens to personal kitchen appliances, bringing the warmth of community baking into individual homes while preserving the magic of transformation through heat.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun Phrase:** [[domestic oven]] /dəˈmestɪk ˈʌvn/
+> - **Related:** [[home appliance]], [[kitchen equipment]], [[cooking device]]
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[home oven]] /həʊm ˈʌvn/ : oven for home use
+> - [[kitchen oven]] /ˈkɪtʃən ˈʌvn/ : oven in kitchen
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[commercial oven]] /kəˈmɜːʃəl ˈʌvn/ : business oven
+> - [[industrial oven]] /ɪnˈdʌstriəl ˈʌvn/ : factory oven
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Preheat domestic oven - warm before cooking
+> 2. Domestic oven temperature - heat setting
+> 3. Modern domestic oven - contemporary appliance
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The new domestic oven features convection cooking and self-cleaning functions.
+> - **Translation:** Lò nướng gia dụng mới có tính năng nướng đối lưu và tự làm sạch.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Domestic ovens have evolved from simple wood-fired models to sophisticated digital appliances.
+> - **Translation:** Lò nướng gia dụng đã phát triển từ các mô hình dùng củi đơn giản đến các thiết bị kỹ thuật số tinh vi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing size**
+> - ❌ **Mistake:** The restaurant uses domestic ovens for their large-scale baking.
+> - ✅ **Correction:** The restaurant uses commercial ovens for their large-scale baking.
+> - **Why:** 'Domestic' specifically means for home use, not business
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A domestic oven is not just an appliance, but the heart of a family kitchen where memories are baked."
+> **Source:** [[Cultural Studies]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **domestic oven** (*/dəˈmestɪk ˈʌvn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An oven designed for household use rather than commercial or industrial purposes.
+> 🇻🇳 **Vietnamese:** Lò nướng gia dụng; lò nướng nhà bếp
+> 🗣️ **IPA:** */dəˈmestɪk ˈʌvn/*
+> 🧠 **Mental Model:** Home cooking center - the kitchen's heart for baking and roasting family meals
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An oven designed for household use"
+**Vietnamese:** Lò nướng gia dụng; lò nướng nhà bếp
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**domestic oven** (*/dəˈmestɪk ˈʌvn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **domestic oven** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Modern domestic ovens come with digital controls and multiple cooking modes for versatile home cooking.
+> 🇻🇳 **Translation:** Lò nướng gia dụng hiện đại có điều khiển kỹ thuật số và nhiều chế độ nấu ăn đa dạng cho việc nấu ăn tại nhà.
+> 🔍 **Analysis:** Perfect here as it clearly distinguishes from commercial ovens while emphasizing home use features
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **domestic oven**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** preheat domestic oven (VN: làm nóng lò nướng - preparation step)
+> 2. **Feature:** domestic oven temperature (VN: nhiệt độ lò - heat control)
+> 3. **Type:** modern domestic oven (VN: lò nướng hiện đại - contemporary model)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **domestic oven**:
+"We bake at home with an oven."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Our domestic oven perfectly handles everything from daily bread to holiday roasts."
+> 💡 **Why it works:** Transforms generic statement into specific appreciation of home cooking capabilities
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **domestic oven** instead of **[[oven]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **domestic oven:** Home-specific appliance (VN: lò nướng gia dụng - household context)
+> **oven:** General cooking device (VN: lò nướng - any context)
+> 🧱 **The Barrier:** Domestic oven = home+specific, oven = general+anywhere
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Shopping for kitchen appliances. You want to emphasize home cooking benefits. What do you recommend?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "A good domestic oven invests in family nutrition and bonding."
+> 👨‍🎨 **Director's Note:** Shows domestic focus - highlights home cooking values over commercial concerns
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `domestic` and `oven` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'domesticus' = of the house, Old English 'ofen' = furnace. The 'domestic oven' brings industrial heating technology into the home, making the magic of controlled heat available for nurturing family meals and creating memories.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **domestic oven**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `domesticus` (<of the house>) + Old English `ofen` (<furnace>)
+> 👨‍👩‍👧 **Family:**
+> - *(compound)* [[home oven]] - alternative term
+> - *(adj)* [[domestic]] - relating to home
+> - *(noun)* [[oven]] - general cooking device
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dəˈmestɪk ˈʌvn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**domestic oven**
+> 📖 **Meaning:** An oven designed for household use
+> 🇻🇳 **Vietnamese:** Lò nướng gia dụng; lò nướng nhà bếp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **domestic oven**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The bakery uses domestic ovens to produce 1000 loaves daily.
+> ✅ **Correction:** The bakery uses commercial ovens to produce 1000 loaves daily.
+> 🧠 **Why:** 'Domestic' means for home use; businesses use 'commercial' ovens for large-scale production
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **domestic oven**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[commercial oven]] (business vs home)
+> - [[industrial oven]] (factory vs household)
+> 🧱 **Contrast:** Domestic oven = home cooking, commercial oven = business cooking
 
 ---

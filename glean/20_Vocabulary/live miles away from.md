@@ -1,159 +1,85 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [live far away from, live far from, live a distance from, live distant from, live remotely from]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /lɪv maɪlz əˈweɪ frɒm/
+> **Part of Speech:** phrasal verb phrase
+> **CEFR Level:** A2-B1
+> **Register:** neutral/informal
+> **Etymology:** Combination of Old English "libban" (to live) + "mil" (mile, from Latin "mille") + "away" + "from"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To exist at a great distance from someone or something
+>
+> **Context Meaning:** To reside far away from another person, place, or thing; implies significant distance that affects the relationship or interaction
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sống cách xa dặm
+> - **Contextual:** sống xa xôi, ở rất xa, sống cách xa
+>
 > **Nuances:**
-> - ...
+> - Often used to explain why contact is infrequent or difficult
+> - Can express emotional distance as well as physical
+> - Implies effort required to maintain connection
+> - Can be used literally or figuratively
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Distant, Separated, Challenged
+> **Memory Hook:** Picture someone counting miles on a map between their home and their family - "that's how many miles I have to travel"
+> **📖 Etymology Story:** Ancient people measured distance in steps and landmarks. When we started using "miles" (from Roman "mille passuum" - a thousand paces), we gained a standard way to talk about distance. Saying we **live miles away from** someone means we need thousands of steps to reach them - a journey that requires planning and effort.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[live]] /lɪv/ : to reside, exist
+> - **Noun:** [[distance]] /ˈdɪstəns/ : the space between
+> - **Adj:** [[distant]] /ˈdɪstənt/ : far apart
+> - **Adv:** [[far]] /fɑːr/ : at a great distance
+> - **Noun:** [[miles]] /maɪlz/ : unit of distance
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[live far from]] /lɪv fɑːr frɒm/ : reside at a distance
+> - [[reside far from]] /rɪˈzaɪd fɑːr frɒm/ : formal version
+> - [[dwell far from]] /dwel fɑːr frɒm/ : literary version
+> - [[be distant from]] /biː ˈdɪstənt frɒm/ : be far apart
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[live nearby]] /lɪv ˌnɪəˈbaɪ/ : live close to
+> - [[live next to]] /lɪv nekst tuː/ : live adjacent to
+> - [[live close to]] /lɪv kloʊs tuː/ : live near
+> - [[live with]] /lɪv wɪð/ : cohabit
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. **live miles away from** family (sống xa gia đình)
+> 2. **live miles away from** civilization (sống xa xôi hẻo lánh)
+> 3. unfortunately **live miles away from** (tiếc là sống rất xa)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** We used to be best friends, but now I **live miles away from** her and we rarely meet.
+> - **Translation:** Chúng tôi từng là bạn thân, nhưng bây giờ tôi **sống rất xa** cô ấy và hiếm khi gặp nhau.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The students who **live miles away from** campus have to wake up very early for morning classes.
+> - **Translation:** Những sinh viên **sống xa trường** hàng dặm phải dậy rất sớm cho các buổi học sáng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** "I live miles away to my parents."
+> - ✅ **Correction:** "I **live miles away from** my parents."
+> - **Why:** The correct preposition is "from" when indicating the point of separation
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Even though I **live miles away from** my hometown, I still feel connected to my roots."
+> **Source:** Personal Memoir
 
 ---
 
@@ -161,121 +87,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **live miles away from** (*/lɪv maɪlz əˈweɪ frɒm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To reside at a great distance from someone or something; implies significant distance that affects relationship or interaction
+> 🇻🇳 **Vietnamese:** Sống rất xa, ở xa xôi, sống cách xa dặm
+> 🗣️ **IPA:** */lɪv maɪlz əˈweɪ frɒm/*
+> 🧠 **Mental Model:** Tưởng tượng một người đang nhìn bản đồ và thấy ngôi nhà của họ và nơi của người khác bị ngăn cách bởi rất nhiều dặm đường
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To reside at a great distance from someone or something"
+**Vietnamese:** "Sống rất xa, ở xa xôi"
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**live miles away from** (*/lɪv maɪlz əˈweɪ frɒm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **live miles away from** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Many people **live miles away from** their workplaces and commute for hours every day.
+> 🇻🇳 **Translation:** Nhiều người **sống rất xa** nơi làm việc và đi lại hàng giờ mỗi ngày.
+> 🔍 **Analysis:** Perfect here because it emphasizes the significant distance between home and work, explaining why commuting takes so long and requires such effort.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **live miles away from**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Family:** **live miles away from** family/parents/home (sống xa gia đình/cha mẹ/nhà) - emotional distance
+> 2. **Services:** **live miles away from** civilization/amenities (sống xa xôi/dịch vụ) - remote living
+> 3. **Convenience:** **live miles away from** the city center/work/school (sống xa trung tâm/công việc/trường) - practical distance
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **live miles away from**:
+"She lives far from her parents."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She **lives miles away from** her aging parents, making it difficult to visit them regularly."
+> 💡 **Why it works:** "Miles away from" emphasizes the challenging distance that creates emotional and practical difficulties, adding depth to the relationship struggle.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **live miles away from** instead of **[[live far from]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **live miles away from:** More vivid and specific, emphasizes measurable distance and journey required (VN: sống cách xa hàng dặm)
+> **[[live far from]]:** More general, doesn't specify how far (VN: sống xa)
+> 🧱 **The Barrier:** "Miles away" creates a concrete image of distance that "far from" doesn't provide.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your best friend is moving to another country. You feel sad about the distance. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I can't believe you're going to **live miles away from** me now!"
+> 👨‍🎨 **Director's Note:** Shows the emotional impact of significant distance on close relationships.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the concept of `miles` to the meaning of **live miles away from**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Roman soldiers measured distance in "mille passuum" (a thousand paces). When we say we **live miles away from** someone, we're saying we need thousands of steps to reach them - a journey that requires time, effort, and planning, just like ancient Romans counting their steps across vast distances.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **live miles away from**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Components:** Old English `libban` ("live") + Latin `mille` ("thousand") + Old English `aweigg` ("away") + Old English `fram` ("from")
+> 👨‍👩‍👧 **Related Phrases:**
+> - *(distance)* [[far away]] /fɑːr əˈweɪ/
+> - *(location)* [[far from]] /fɑːr frɒm/
+> - *(proximity)* [[close to]] /kloʊs tuː/
+> - *(adjacency)* [[next to]] /nekst tuː/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */lɪv maɪlz əˈweɪ frɒm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**live miles away from**
+> 📖 **Meaning:** To reside at a great distance from someone or something
+> 🇻🇳 **Vietnamese:** Sống rất xa, ở xa xôi, sống cách xa dặm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **live miles away from**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I live miles away to the city center." (wrong preposition)
+> ✅ **Correction:** "I **live miles away from** the city center."
+> 🧠 **Why:** When indicating separation or distance from a point, we use "from," not "to." "To" would indicate direction of movement toward a place.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **live miles away from**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[live nearby]] (reside close to)
+> - [[live next door to]] (reside immediately adjacent)
+> - [[live just around the corner from]] (reside very close)
+> 🧱 **Contrast:** While live miles away from emphasizes significant distance requiring effort to overcome, these opposites indicate convenience and ease of access.
 
 ---
