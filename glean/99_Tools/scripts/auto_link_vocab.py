@@ -52,53 +52,60 @@ def get_terms():
 
 def process_file(filepath, terms_map, sorted_term_keys, dry_run=True):
     with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
+        lines = f.readlines()
 
     # Escape terms for regex
     escaped_terms = [re.escape(t) for t in sorted_term_keys]
     
+    # Pattern to match existing links or our terms
+    # We match existing links first to avoid double-linking
     pattern_str = r"(\[\[.*?\]\])|(\[[^\]]*?\]\([^\)]*?\))|(\b(?:" + "|".join(escaped_terms) + r")\b)"
     regex = re.compile(pattern_str, re.IGNORECASE)
 
     changes_made = []
+    new_lines = []
+    file_modified = False
 
-    def replace_func(match):
-        g1 = match.group(1) # Wikilink
-        g2 = match.group(2) # MD link
-        g3 = match.group(3) # Term match
+    for line in lines:
+        # Check if line is a table row (starts with | potentially preceded by whitespace)
+        is_table_row = line.lstrip().startswith('|')
         
-        if g1: return g1
-        if g2: return g2
-        if g3:
-            original_text = g3
-            lower_text = original_text.lower()
+        def replace_func(match):
+            g1 = match.group(1) # Wikilink
+            g2 = match.group(2) # MD link
+            g3 = match.group(3) # Term match
             
-            if lower_text in terms_map:
-                # relative path, e.g. glean/20_Vocabulary/word
-                rel_path = terms_map[lower_text]
+            if g1: return g1
+            if g2: return g2
+            if g3:
+                original_text = g3
+                lower_text = original_text.lower()
                 
-                # Check if we should use an alias
-                # We almost always want to preserve the original text as the alias if it differs from the path basename
-                # Or even if it's the same, to be safe?
-                # Actually, Obsidian links: [[path/to/file|Display Text]]
+                if lower_text in terms_map:
+                    rel_path = terms_map[lower_text]
+                    
+                    # If in a table row, escape the pipe
+                    separator = "\\|" if is_table_row else "|"
+                    new_text = f"[[{rel_path}{separator}{original_text}]]"
+                    
+                    # Track change (only if it's actually a new link, though regex logic implies g3 is just term)
+                    # We might want to dedupe detailed stats, but simple append is fine for now
+                    changes_made.append(f"'{original_text}' -> '{new_text}'")
+                    return new_text
                 
-                new_text = f"[[{rel_path}|{original_text}]]"
+                return original_text
                 
-                changes_made.append(f"'{original_text}' -> '{new_text}'")
-                return new_text
-            
-            return original_text
-            
-        return match.group(0)
+            return match.group(0)
 
-    new_content = regex.sub(replace_func, content)
+        new_line = regex.sub(replace_func, line)
+        if new_line != line:
+            file_modified = True
+        new_lines.append(new_line)
     
-    if new_content != content:
+    if file_modified:
         if dry_run:
             print(f"[DRY RUN] Would modify: {os.path.basename(filepath)}")
             print(f"  - Found {len(changes_made)} terms to link:")
-            # Limit output if too many, or show all? 
-            # User likely wants to see them to verify. Let's show up to 20, then summarize.
             unique_changes = sorted(list(set(changes_made)))
             for change in unique_changes[:50]:
                 print(f"    - {change}")
@@ -109,10 +116,7 @@ def process_file(filepath, terms_map, sorted_term_keys, dry_run=True):
             print(f"Updating: {os.path.basename(filepath)}")
             print(f"  - Linked {len(changes_made)} terms.")
             with open(filepath, 'w', encoding='utf-8') as f:
-                f.write(new_content)
-    # else:
-    #     if dry_run:
-    #         print(f"[DRY RUN] No terms found in: {os.path.basename(filepath)}")
+                f.writelines(new_lines)
 
 def main():
     parser = argparse.ArgumentParser(description="Auto-link vocabulary in articles.")
