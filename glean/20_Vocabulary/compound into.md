@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [compounded into, compounding into]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kəmˈpaʊnd ˈɪntuː/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From Old French "compondre" (to compose, mix), from Latin "componere" (to put together)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To combine or mix multiple elements to form a single, more complex whole
+>
+> **Context Meaning:** To combine various ingredients, factors, or elements into a unified substance or concept
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Tổng hợp thành, kết hợp thành
+> - **Contextual:** Trộn lẫn thành, pha trộn thành
+>
 > **Nuances:**
-> - ...
+> - Implies a transformation where individual elements lose their separate identity
+> - Often used in scientific, technical, or formal contexts
+> - Suggests the creation of something new from existing components
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Scientific, Methodical, Transformative
+> **Memory Hook:** "com-" (together) + "pound" (to mix/press) = pressing together INTO one unit
+> **📖 Etymology Story:** Picture ancient alchemists who would compound various herbs and minerals into potions. They would carefully measure and combine elements, transforming separate powders into a single powerful mixture. This word carries that magical sense of transformation through combination.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[compound]] /ˈkɒmpaʊnd/ : a combination of things
+> - **Verb:** [[compound]] /kəmˈpaʊnd/ : to combine or mix
+> - **Adj:** [[compound]] /ˈkɒmpaʊnd/ : composed of multiple parts
+> - **Noun:** [[compounding]] /kəmˈpaʊndɪŋ/ : the act of combining
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[combine into]] /kəmˈbaɪn ˈɪntuː/ : to join together to form a whole
+> - [[blend into]] /ˈblend ˈɪntuː/ : to mix smoothly together
+> - [[merge into]] /mɜːdʒ ˈɪntuː/ : to combine to become one
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[separate into]] /ˈsepəreɪt ˈɪntuː/ : to divide into parts
+> - [[break down into]] /ˈbreɪk daʊn ˈɪntuː/ : to decompose into components
+> - [[divide into]] /dɪˈvaɪd ˈɪntuː/ : to split into sections
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. compound into + noun (substance, material, product)
+> 2. be compounded into + result
+> 3. various elements + compound into
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The pharmacist will compound these herbs into a traditional medicine.
+> - **Translation:** Dược sĩ sẽ tổng hợp các loại thảo dược này thành một loại thuốc truyền thống.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Multiple factors compounded into the perfect storm for the market crash.
+> - **Translation:** Nhiều yếu tố đã kết hợp thành cơn bão hoàn hảo cho sự sụp đổ của thị trường.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect preposition usage**
+> - ❌ **Mistake:** The ingredients compound to a mixture.
+> - ✅ **Correction:** The ingredients compound into a mixture.
+> - **Why:** The phrasal verb "compound into" requires "into" to show transformation into a new form.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Simple actions can compound into remarkable results over time."
+> **Source:** [[James Clear]]
 
 ---
 
@@ -161,121 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **compound into** (*/kəmˈpaʊnd ˈɪntuː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To combine or mix multiple elements to form a single, more complex whole; to transform separate components into a unified substance or concept.
+> 🇻🇳 **Vietnamese:** Tổng hợp thành, kết hợp thành, trộn lẫn thành
+> 🗣️ **IPA:** */kəmˈpaʊnd ˈɪntuː/*
+> 🧠 **Mental Model:** Khi bạn "compound into" cái gì đó, bạn đang lấy nhiều phần riêng biệt và biến chúng thành một khối thống nhất, giống như trộn nhiều nguyên liệu thành một món ăn hoàn chỉnh.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To combine various ingredients or elements into a unified whole"
+**Vietnamese:** Tổng hợp thành, kết hợp thành
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**compound into** (*/kəmˈpaʊnd ˈɪntuː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **compound into** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The artist compounds various pigments into a unique shade of blue.
+> 🇻🇳 **Translation:** Nghệ sĩ tổng hợp nhiều loại sắc tố khác nhau thành một sắc xanh độc đáo.
+> 🔍 **Analysis:** "Compound into" thể hiện quá trình biến đổi - nơi các pigment riêng lẻ mất đi bản sắc để tạo thành một màu sắc hoàn toàn mới, khác biệt.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **compound into**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Chemical Process:** compound into a substance (tổng hợp thành một chất)
+> 2. **Creation:** compound into a product (kết hợp thành một sản phẩm)
+> 3. **Abstract:** compound into a problem (tích hợp thành một vấn đề)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **compound into**:
+"The materials mixed together."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The raw materials compounded into a revolutionary new alloy."
+> 💡 **Why it works:** "Compound into" tạo cảm giác chuyên nghiệp, khoa học và thể hiện sự biến đổi có chủ đích, thay vì chỉ "mixed together" (trộn lẫn) một cách thông thường.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **compound into** instead of **[[mix into]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **compound into:** Dùng khi các yếu tố biến đổi để tạo thành một thực thể mới, hoàn chỉnh
+> **[[mix into]]:** Dùng khi các yếu tố chỉ được trộn lẫn nhưng vẫn giữ nguyên bản sắc
+> 🧱 **The Barrier:** "Compound into" mang tính transformation (biến đổi hoàn toàn), còn "mix into" chỉ mang tính combination (kết hợp đơn thuần)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining how your team's efforts led to success. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our individual strengths compounded into an unbeatable team performance."
+> 👨‍🎨 **Director's Note:** Thể hiện sự tổng hợp lực lượng tạo ra kết quả vượt trội, nhấn mạnh tính cộng hưởng và biến đổi.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `ponere` (Latin for "to place") to the meaning of **compound into**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "compound into" bắt nguồn từ Latin "componere" - "com-" (cùng nhau) + "ponere" (đặt). Khi bạn compound elements, bạn đang "đặt cùng nhau" các thành phần để tạo thành một cấu trúc mới. Giống như xây dựng từ những viên gạch riêng lẻ thành một tòa nhà hoàn chỉnh!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **compound into**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `componere` (to put together) → Old French `compondre` → English `compound`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[compound]] /ˈkɒmpaʊnd/ : hợp chất, hợp kim
+> - *(adj)* [[compound]] /ˈkɒmpaʊnd/ : hợp thành, phức hợp
+> - *(verb)* [[compound]] /kəmˈpaʊnd/ : tổng hợp, kết hợp
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kəmˈpaʊnd ˈɪntuː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**compound into**
+> 📖 **Meaning:** To combine or mix multiple elements to form a single, more complex whole
+> 🇻🇳 **Vietnamese:** Tổng hợp thành, kết hợp thành
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **compound into**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The researcher compounds the chemicals to a new formula.
+> ✅ **Correction:** The researcher compounds the chemicals into a new formula.
+> 🧠 **Why:** Luôn dùng "into" với "compound" để thể hiện sự biến đổi sang một trạng thái/hình thái mới, không dùng "to".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **compound into**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[separate into]] (phân tách thành - chia nhỏ thành các phần riêng biệt)
+> - [[break down into]] (phân rã thành - chia nhỏ thành các thành tố cấu thành)
+> 🧱 **Contrast:** "Compound into" là quá trình tích hợp tạo ra sự thống nhất, trong khi antonyms là quá trình phân tách tạo ra sự đa dạng.
 
 ---

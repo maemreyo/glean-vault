@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [booking a table, booked a table, books a table] # Variations to link: Plurals, Tenses, POS, Possessives, Irregulars
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /bʊk ə ˈteɪbəl/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** A2
+> **Register:** neutral, formal, informal
+> **Etymology:** Book: from Old English "bōc" (written document); Table: from Latin "tabula" (board, tablet)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To reserve a table in advance
+>
+> **Context Meaning:** 1) To make a reservation at a restaurant; 2) To arrange for a table to be available at a specific time; 3) A common phrase in hospitality and dining contexts
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đặt bàn
+> - **Contextual:** đặt trước bàn ăn, reservation bàn
+>
 > **Nuances:**
-> - ...
+> - Implies advance planning, not walking in
+> - Standard phrase in restaurant contexts worldwide
+> - Can be done via phone, online, or in person
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized, prepared, social
+> **Memory Hook:** Think of writing your name in a "book" (register) to "reserve" a table
+> **📖 Etymology Story:** "Book" originally meant a written document or register. When you "book" something, you're essentially entering your name into a record or reservation system. Combined with "table" (from Latin "tabula" - board), it literally means "entering into the register for a board" - exactly what we do when making dining reservations.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[booking]] /ˈbʊkɪŋ/ : reservation
+> - **Noun:** [[reservation]] /ˌrezərˈveɪʃn/ : arrangement to have something kept
+> - **Verb:** [[reserve]] /rɪˈzɜːrv/ : to arrange for something to be kept
+> - **Noun:** [[table]] /ˈteɪbəl/ : piece of furniture
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[make a reservation]] /meɪk ə ˌrezərˈveɪʃn/ : formal alternative
+> - [[reserve a table]] /rɪˈzɜːrv ə ˈteɪbəl/ : more formal
+> - [[secure a table]] /sɪˈkjʊr ə ˈteɪbəl/ : ensure availability
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[walk in]] /wɔːk ɪn/ : arrive without reservation
+> - [[drop by]] /drɑːp baɪ/ : visit informally
+> - [[cancel a booking]] /ˈkænsl ə ˈbʊkɪŋ/ : undo a reservation
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. book a table in advance
+> 2. book a table for two
+> 3. book a table at the restaurant
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** I need to book a table for six people at 7 PM tonight.
+> - **Translation:** Tôi cần đặt bàn cho sáu người vào 7 giờ tối nay.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** It's advisable to book a table at this popular restaurant well in advance.
+> - **Translation:** Nên đặt bàn ở nhà hàng nổi tiếng này từ rất sớm.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect Usage**
+> - ❌ **Mistake:** "I book a table yesterday" (wrong tense)
+> - ✅ **Correction:** "I booked a table yesterday."
+> - **Why:** Need past tense for past action
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The table is a meeting place, a gathering ground, the source of sustenance and rejuvenation."
+> **Source:** Creating a sense of hospitality
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **book a table** (*/bʊk ə ˈteɪbəl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To make a reservation for a table at a restaurant in advance
+> 🇻🇳 **Vietnamese:** Đặt bàn (tại nhà hàng), đặt trước bàn ăn
+> 🗣️ **IPA:** */bʊk ə ˈteɪbəl/*
+> 🧠 **Mental Model:** Hãy tưởng tượng viết tên mình vào sổ đặt bàn - "book" là đăng ký, "table" là bàn ăn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To make a reservation for a table at a restaurant"
+**Vietnamese:** Đặt bàn ở nhà hàng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**book a table** (*/bʊk ə ˈteɪbəl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **book a table** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** We should book a table for our anniversary dinner at that new Italian restaurant.
+> 🇻🇳 **Translation:** Chúng ta nên đặt bàn cho bữa tối kỷ niệm ngày cưới ở nhà hàng Ý mới đó.
+> 🔍 **Analysis:** "Book a table" thể hiện sự lên kế hoạch trước cho dịp đặc biệt - "anniversary dinner" nhấn mạnh tính trang trọng, cần có sự chuẩn bị
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **book a table**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Timing:** book a table in advance/ahead (<VN note: đặt bàn trước, sớm>)
+> 2. **Party size:** book a table for two/four/six (<VN note: đặt bàn cho hai/bốn/sáu người>)
+> 3. **Location:** book a table at/for the restaurant (<VN note: đặt bàn ở nhà hàng>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **book a table**:
+"We need to get a table at the restaurant."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We should book a table by the window to enjoy the sunset view during dinner."
+> 💡 **Why it works:** VN - "Book a table" cụ thể hơn "get a table" - thể hiện hành động đặt trước, thêm "by the window" tạo ra yêu cầu cụ thể cho việc đặt bàn
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **book a table** instead of **reserve a table**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **book a table:** Thông dụng, tự nhiên trong giao tiếp hàng ngày (Let's book a table)
+> **reserve a table:** Trang trọng hơn, thường dùng trong văn viết hoặc tình huống chính thức (We wish to reserve a table)
+> 🧱 **The Barrier:** "Book" là lựa chọn thông thường, "reserve" là lựa chọn trang trọng
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're organizing a birthday dinner for 10 people. Contact the restaurant. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Hello, I'd like to book a table for ten people next Saturday evening at 7 PM."
+> 👨‍🎨 **Director's Note:** VN - "Book a table" là cách nói chuẩn khi gọi đặt bàn qua điện thoại, đi kèm thông tin chi tiết (số người, thời gian)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `bōc` to the meaning of **book a table**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Book" từ tiếng Anh cổ "bōc" (sổ ghi chép) - khi "book a table", bạn đang ghi tên mình vào sổ đăng ký của nhà hàng. Giống như cách các quán cà phê ghi tên khách vào sổ từ thời trung cổ
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **book a table**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `bōc` (<meaning: written document>) + Latin `tabula` (<meaning: board>)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[booking]] /ˈbʊkɪŋ/ (việc đặt chỗ)
+> - *(noun)* [[reservation]] /ˌrezərˈveɪʃn/ (sự giữ chỗ)
+> - *(verb)* [[reserve]] /rɪˈzɜːrv/ (giữ chỗ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */bʊk ə ˈteɪbəl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**book a table**
+> 📖 **Meaning:** To make a reservation for dining; to arrange for a table to be available
+> 🇻🇳 **Vietnamese:** Đặt bàn ăn, đặt chỗ ăn tối
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **book a table**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I'm thinking to book a table for tomorrow."
+> ✅ **Correction:** "I'm thinking of booking a table for tomorrow."
+> 🧠 **Why:** Sau "thinking of" hoặc "thinking about" dùng gerund "booking", không dùng to-infinitive
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **book a table**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[walk in]] (đến không đặt trước)
+> - [[drop by]] (ghé qua không báo trước)
+> - [[cancel a reservation]] (hủy đặt chỗ)
+> 🧱 **Contrast:** "Book a table" là lên kế hoạch trước, "walk in" là đến trực tiếp không báo trước
 
 ---

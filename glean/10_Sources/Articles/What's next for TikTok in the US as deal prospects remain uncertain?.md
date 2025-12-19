@@ -26,19 +26,19 @@ Trump and members of his administration [have previously claimed a TikTok deal w
 
 The president has also said "sophisticated" US investors [[20_Vocabulary/will|would]] be involved in acquiring [the app](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html), including two of his allies: Oracle chairman Larry Ellison and Dell Technologies' Michael Dell.
 
-Members of the Trump administration had indicated the deal [[20_Vocabulary/will|would]] be formalised in a meeting between Trump and Xi in October - however it concluded without an agreement being reached.
+Members of the Trump administration had indicated the deal [[20_Vocabulary/will|would]] be formalised in a meeting between Trump and Xi in October - [[20_Vocabulary/However|however]] it concluded without an agreement being reached.
 
 Neither TikTok's Chinese owner ByteDance nor Beijing have since announced approval of a sale, despite Trump's claims.
 
 When Trump signed his most recent executive order extending the deadline to January, he said in an online post it [[20_Vocabulary/will|would]] lead to a deal being completed.
 
-Without naming Trump's hand-selected investors, Mr McCourt told the BBC he was concerned "about a concentration of power and influence because platforms like TikTok are very influencing".
+Without naming Trump's hand-selected investors, Mr McCourt told the BBC he was concerned "about a [[20_Vocabulary/concentration|concentration]] of power and influence because platforms like TikTok are very influencing".
 
 He is part of a group of investors including Reddit co-founder Alexis Ohanian and Canadian investor Kevin O'Leary.
 
 "My hope [[20_Vocabulary/will|would]] be that whatever happens, that it is shut down or sold, and lands in the hands of people that comply with the law," he said.
 
-He said he wants to operate TikTok without any of its Chinese technology, including its powerful recommendation algorithm,and that his Project Liberty has developed other technology that could be used instead.
+He said he wants to operate TikTok without any of its Chinese technology, including its powerful recommendation algorithm, and that his Project Liberty has developed other technology that could be used instead.
 
 ![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
 

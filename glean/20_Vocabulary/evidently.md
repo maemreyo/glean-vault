@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [evident] # Variations to link: Plurals, Tenses, POS, Possessives, Irregulars
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈevɪdəntli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B2
+> **Register:** neutral, formal, academic
+> **Etymology:** From Latin "evidens" (obvious to the eye), from "e-" (out) + "videre" (to see)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In a way that is clearly seen or understood
+>
+> **Context Meaning:** 1) Clearly; obviously; 2) As shown by evidence; 3) Used to indicate that something is clear from the facts or circumstances
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** rõ ràng, hiển nhiên
+> - **Contextual:** theo như bằng chứng, rõ là, dĩ nhiên là
+>
 > **Nuances:**
-> - ...
+> - Often used to introduce conclusions based on evidence
+> - Can sound formal or academic in casual conversation
+> - Implies logical deduction rather than opinion
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Logical, observant, analytical
+> **Memory Hook:** Think of "evident" as "evidence-ly" - based on evidence
+> **📖 Etymology Story:** The word comes from Latin "evidens" - literally "coming out of seeing" (e- + videre). When something is "evident", it has "come out" so clearly that anyone can see it. "Evidently" carries this idea - something so clear it's as if you can literally see the truth with your eyes.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[evident]] /ˈevɪdənt/ : clear and obvious
+> - **Noun:** [[evidence]] /ˈevɪdəns/ : proof or indication
+> - **Adv:** [[obviously]] /ˈɑːbviəsli/ : clearly
+> - **Adv:** [[apparently]] /əˈpærəntli/ : seemingly
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[clearly]] /ˈklɪrli/ : in a clear way
+> - [[obviously]] /ˈɑːbviəsli/ : easy to see or understand
+> - [[apparently]] /əˈpærəntli/ : as far as one knows
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[unclearly]] /ʌnˈklɪrli/ : not clearly
+> - [[doubtfully]] /ˈdaʊtfəli/ : with uncertainty
+> - [[obscurely]] /əbˈskjʊrli/ : not clearly
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. evidently correct/true
+> 2. evidently unhappy/pleased
+> 3. evidently trying to
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The building was evidently constructed in the 18th century.
+> - **Translation:** Rõ ràng là tòa nhà này được xây dựng vào thế kỷ 18.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She was evidently not listening to what I was saying.
+> - **Translation:** Hiển nhiên là cô ấy không đang nghe những gì tôi đang nói.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse**
+> - ❌ **Mistake:** "Evidently, I like pizza." (stating personal opinion)
+> - ✅ **Correction:** "I like pizza."
+> - **Why:** "Evidently" implies evidence, not personal preference
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The obvious is that which is never seen until someone expresses it simply."
+> **Source:** Kahlil Gibran
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **evidently** (*/ˈevɪdəntli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In a way that is clearly seen or understood; as shown by evidence; obviously
+> 🇻🇳 **Vietnamese:** Rõ ràng, hiển nhiên; theo như bằng chứng cho thấy
+> 🗣️ **IPA:** */ˈevɪdəntli/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một thám tử nói "Evidently..." khi tìm ra bằng chứng rõ ràng - từ này chỉ sự thật hiển nhiên qua bằng chứng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a way that is clearly seen or understood"
+**Vietnamese:** Một cách rõ ràng hoặc dễ hiểu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**evidently** (*/ˈevɪdəntli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **evidently** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The fingerprints on the weapon were evidently left by the perpetrator during the struggle.
+> 🇻🇳 **Translation:** Dấu vân tay trên vũ khí rõ ràng là do thủ phạm để lại trong cuộc ẩu đả.
+> 🔍 **Analysis:** "Evidently" ở đây thể hiện sự kết luận dựa trên bằng chứng vật lý (dấu vân tay), không phải suy đoán - nhấn mạnh tính logic của việc suy luận
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **evidently**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **State:** evidently tired/happy/worried (<VN note: rõ ràng là mệt/vui/lo, thể hiện qua biểu hiện>)
+> 2. **Action:** evidently trying/attempting (<VN note: rõ ràng là đang cố gắng, qua hành động>)
+> 3. **Fact:** evidently true/false/correct (<VN note: hiển nhiên là đúng/sai, qua bằng chứng>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **evidently**:
+"It seems he didn't sleep well."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He was evidently exhausted, with dark circles under his eyes and a constant yawn."
+> 💡 **Why it works:** VN - "Evidently" tạo cảm giác chắc chắn hơn "seems" - dựa trên bằng chứng quan sát được (quầng thâm, ngáp ngủ) để kết luận
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **evidently** instead of **apparently**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **evidently:** Dùng khi có bằng chứng rõ ràng, sự thật không thể chối cãi (evidently injured)
+> **apparently:** Dùng khi thông tin dựa trên what appears to be true, có thể không chắc chắn 100% (apparently late)
+> 🧱 **The Barrier:** "Evidently" = có bằng chứng, "apparently" = có vẻ như vậy
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why your friend failed the test. State the obvious reason diplomatically. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You evidently didn't study the chapters that were on the exam."
+> 👨‍🎨 **Director's Note:** VN - "Evidently" thể hiện sự thật rõ ràng nhưng vẫn giữ sự lịch sự, tránh nói thẳng "you didn't study"
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `videre` to the meaning of **evidently**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "evidens" (e- "ra khỏi" + videre "nhìn") - cái "nhìn thấy rõ". Khi nói "evidently", bạn đang nói điều đó rõ như ban ngày, ai cũng có thể "nhìn thấy" sự thật
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **evidently**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `videre` (<meaning: to see>)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[evidence]] /ˈevɪdəns/ (bằng chứng)
+> - *(adj)* [[evident]] /ˈevɪdənt/ (hiển nhiên)
+> - *(adj)* [[visible]] /ˈvɪzəbl/ (nhìn thấy được)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈevɪdəntli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**evidently**
+> 📖 **Meaning:** In a way that is clear to see or understand; as shown by evidence
+> 🇻🇳 **Vietnamese:** Rõ ràng, hiển nhiên; theo bằng chứng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **evidently**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Evidently, chocolate is my favorite flavor."
+> ✅ **Correction:** "Chocolate is my favorite flavor."
+> 🧠 **Why:** "Evidently" chỉ nên dùng khi có bằng chứng, không dùng cho sở thích cá nhân (personal preference)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **evidently**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[unclearly]] (không rõ ràng)
+> - [[doubtfully]] (nghi ngờ)
+> - [[uncertainly]] (không chắc chắn)
+> 🧱 **Contrast:** "Evidently" là chắc chắn có bằng chứng, "uncertainly" là không chắc chắn, nghi ngờ
 
 ---

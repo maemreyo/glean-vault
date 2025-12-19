@@ -1,159 +1,87 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [pressed, pressing, presses, pressure, pressurize, pressurized]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pres/
+> **Part of Speech:** noun, verb
+> **CEFR Level:** A2
+> **Register:** formal/informal/journalistic
+> **Etymology:** From Latin "pressare" (to press), from "premere" (to press)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To exert pressure or force; to push firmly against something
+>
+> **Context Meaning:**
+> - (Verb): To push something firmly; to apply pressure; to urge strongly
+> - (Noun): Newspaper/journalists; a machine for pressing; the act of pressing
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Nhấn, ép, báo chí
+> - **Contextual:** Đè, máy ép, cơ quan báo chí
+>
 > **Nuances:**
-> - ...
+> - Physical action: applying force to compress or flatten
+> - Figurative: urging or persuading someone
+> - Media: collective term for news organizations and journalists
+> - Can indicate urgency or importance
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Forceful, Urgent, Inquisitive
+> **Memory Hook:** "press" = push + stress = applying force with emphasis
+> **📖 Etymology Story:** Ancient wine makers would "press" grapes with their feet to extract juice. This physical action of applying pressure evolved into metaphorical pressure (pressing someone to do something) and then into "the press" - those who press for truth and information.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[press]] /pres/ : media; machine for pressing
+> - **Verb:** [[press]] /pres/ : to push firmly; to urge
+> - **Noun:** [[pressure]] /ˈprɛʃər/ : force; stress; influence
+> - **Verb:** [[pressurize]] /ˈprɛʃəraɪz/ : to apply pressure to
+> - **Adj:** [[pressurized]] /ˈprɛʃəraɪzd/ : under pressure; sealed
+> - **Adj:** [[pressing]] /ˈprɛsɪŋ/ : urgent, requiring immediate attention
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[push]] /pʊʃ/ : to exert force
+> - [[squeeze]] /skwiːz/ : to compress
+> - [[urge]] /ɜːrdʒ/ : to strongly advise
+> - [[media]] /ˈmiːdiə/ : news organizations
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[pull]] /pʊl/ : to draw toward oneself
+> - [[release]] /rɪˈliːs/ : to let go; to free
+> - [[relax]] /rɪˈlæks/ : to become less tense
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. press + button/switch (to activate)
+> 2. press + for + something (to demand)
+> 3. the press + reports/asks (media actions)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Press the red button to stop the machine immediately.
+> - **Translation:** Nhấn nút đỏ để dừng máy ngay lập tức.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The press gathered outside the courthouse waiting for the verdict.
+> - **Translation:** Các nhà báo tập hợp bên ngoài tòa án chờ đợi phán quyết.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing "press" and "push"**
+> - ❌ **Mistake:** I push my clothes to make them flat.
+> - ✅ **Correction:** I press my clothes to make them flat.
+> - **Why:** Use "press" for flattening with iron or applying steady pressure; "push" for general pushing movements.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The press is the best instrument for enlightening the people."
+> **Source:** [[Thomas Jefferson]]
 
 ---
 
@@ -161,121 +89,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **press** (*/pres/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To exert pressure or force firmly; to push against something; (noun) journalists/news media collectively; a device for applying pressure.
+> 🇻🇳 **Vietnamese:** Nhấn, ép, đè; báo chí, cơ quan truyền thông
+> 🗣️ **IPA:** */pres/*
+> 🧠 **Mental Model:** Khi bạn "press", bạn đang dùng lực để tác động - giống như bàn tay đang đè mạnh, hoặc như báo chí đang "ép" để có được thông tin!
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To push firmly against something; journalists collectively"
+**Vietnamese:** Nhấn, ép; báo chí
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**press** (*/pres/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **press** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The journalists continue to press the politician for answers about the scandal.
+> 🇻🇳 **Translation:** Các nhà báo tiếp tục ép chính trị gia trả lời về vụ bê bối.
+> 🔍 **Analysis:** "Press" ở đây là động từ mang nghĩa hình ảnh - như đang "đè" để lấy thông tin, thể hiện sự kiên trì và áp lực của truyền thông.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **press**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** press the button (nhấn nút)
+> 2. **Media:** press conference (họp báo)
+> 3. **Urgency:** pressing matter (vấn đề cấp bách)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **press**:
+"He pushed the button."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He pressed the emergency button with trembling fingers."
+> 💡 **Why it works:** "Press" tạo cảm giác có chủ đích và dứt khoát hơn "push" (đẩy), và khi thêm "emergency button" và "trembling fingers" tạo ra kịch tính.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **press** instead of **[[push]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **press:** Dùng khi cần lực đều, có chủ đích, thường là để kích hoạt hoặc làm phẳng
+> **[[push]]:** Dùng khi đẩy một cách chung chung, có thể bất lực định
+> 🧱 **The Barrier:** "Press" là controlled force (lực có kiểm soát), còn "push" là general force (lực chung)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're in an elevator and someone asks you to select their floor for them. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Which floor? I'll press the button for you."
+> 👨‍🎨 **Director's Note:** Thể hiện sự lịch sự và sẵn lòng giúp đỡ, "press" là từ chính xác cho hành động nhấn nút thang máy.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `premere` (Latin for "to press") to the meaning of **press**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "press" bắt nguồn từ Latin "premere" - đè, nén. Người La Mã dùng nó để làm rượu (press grapes) và làm giấy (press pulp). Ngày nay, từ "press" vẫn mang nghĩa "ép" - từ việc ép nút, ép quần áo, đến báo chí "ép" sự thật!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **press**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `premere` (to press) → `pressare` → Old French `presser` → English `press`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[pressure]] /ˈprɛʃər/ : áp lực, sức ép
+> - *(adj)* [[pressing]] /ˈprɛsɪŋ/ : cấp bách, khẩn trương
+> - *(verb)* [[pressurize]] /ˈprɛʃəraɪz/ : tạo áp lực
+> - *(noun)* [[impression]] /ɪmˈprɛʃən/ : ấn tượng
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pres/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**press**
+> 📖 **Meaning:** To push firmly against something; journalists collectively
+> 🇻🇳 **Vietnamese:** Nhấn, ép; báo chí
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **press**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The medias are reporting live from the scene.
+> ✅ **Correction:** The press are reporting live from the scene.
+> 🧠 **Why:** "Press" là collective noun (danh từ tập hợp) và luôn ở dạng số ít khi chỉ chung chung, nhưng động từ theo sau có thể ở số nhiều (are) trong British English.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **press**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[release]] (nhả ra, thả ra - ngược lại với việc ép/đè)
+> - [[pull]] (kéo - ngược với lực đẩy/ép)
+> - [[relax]] (thư giãn - ngược với việc tạo áp lực)
+> 🧱 **Contrast:** "Press" là hành động tác động lực, trong khi antonyms là hành động giảm hoặc đảo ngược lực tác động đó.
 
 ---

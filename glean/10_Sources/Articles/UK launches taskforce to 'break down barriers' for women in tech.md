@@ -12,7 +12,7 @@ BCS, the Chartered Institute for IT, recently suggested women accounted for only
 
 Ms Kendall said the Women in Tech group [[20_Vocabulary/will|would]] "break down the barriers that still [[20_Vocabulary/hold|hold]] too many people back".
 
-"When women are inspired to take on a role in tech and have a seat at the table, the sector can make more representative decisions, build products that serve everyone," she said.
+"When women are inspired to take on a role in tech and have a seat at the table, the sector can make more representative decisions, build products that [[20_Vocabulary/serve|serve]] everyone," she said.
 
 BCS, the Chartered Institute for IT, [warned in December](https://www.bcs.org/articles-opinion-and-research/supercharging-the-trend-of-women-choosing-tech-careers-is-key-to-uk-s-ai-ambitions-new-report-finds/) the amount of women working in the UK tech sector still lagged far behind men.
 
@@ -24,7 +24,7 @@ Ms Kendall [[20_Vocabulary/will|will]] lead the taskforce alongside Anne-Marie I
 
 Dr Imafidon, who passed A-level computing aged 11 and received a Master's Degree in Maths and Computer Science from the University of Oxford aged 20, has sought to [[20_Vocabulary/encourage|encourage]] more young women into careers in Stem - science, technology, engineering and maths.
 
-She told the BBC her role [[20_Vocabulary/will|would]] build on more than a decade of work to establish greater equality for - and representation of - women.
+She told the BBC her role [[20_Vocabulary/will|would]] build on more than a [[20_Vocabulary/decade|decade]] of work to [[20_Vocabulary/establish|establish]] greater equality for - and representation of - women.
 
 But now, amid what she called "a fourth industrial revolution", was a key moment to "be part of shifting who is making those decisions for what comes next".
 
@@ -40,7 +40,7 @@ It also includes TUC assistant general secretary Kate Bell, director of public p
 
 "Entry routes, career progression to leadership, and access to capital are just some of the barriers women in tech still face today," Ms Daley said.
 
-"Achieving gender equality is long overdue, and I am honoured to join the Women in Tech taskforce alongside Liz Kendall and several inspiring women from [[30_Structures/across the industry|across the industry]], working together [[30_Structures/to chart a path forward|to chart a path forward]] for true gender equality."
+"Achieving gender equality is long overdue, and I am honoured to join the Women in Tech taskforce alongside Liz Kendall and several inspiring women from [[20_Vocabulary/across the industry|across the industry]], working together [[20_Vocabulary/to chart a path forward|to chart a path forward]] for true gender equality."
 
 ![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
 

@@ -1,159 +1,85 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [definitely, definiteness, indefinite, indefinitely, definition]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈdef.ɪ.nət/
+> **Part of Speech:** adjective
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** From Latin definitus "set, limited, defined," past participle of definire "to set limits, determine," from de- "completely" + finire "to bound, limit"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Fixed, certain, or clear; not vague or doubtful
+>
+> **Context Meaning:** Clearly stated or decided; having exact limits or boundaries; certain or sure
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chắc chắn, rõ ràng, xác định
+> - **Contextual:** nhất định, dứt khoát, có giới hạn rõ ràng
+>
 > **Nuances:**
-> - ...
+> - Expresses certainty and lack of doubt
+> - Can indicate precise boundaries or limits
+> - Used for emphasis when making plans or decisions
+> - Often appears in formal and academic contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Confident and Decisive
+> **Memory Hook:** Think of "definite" as setting a "finite" boundary - once it's set, it's clear and certain
+> **📖 Etymology Story:** When ancient Romans wanted to mark boundaries completely (de-finire), they created a line that couldn't be disputed - this act of setting clear limits became our word "definite"
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[definition]] /ˌdef.ɪˈnɪʃ.ən/
+> - **Verb:** [[define]] /dɪˈfaɪn/
+> - **Adj:** [[definite]] /ˈdef.ɪ.nət/
+> - **Adv:** [[definitely]] /ˈdef.ɪ.nət.li/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[certain]] /ˈsɜː.tən/ : sure without any doubt
+> - [[conclusive]] /kənˈkluː.sɪv/ : proving that something is true
+> - [[unequivocal]] /ˌʌn.ɪˈkwɪv.ə.kəl/ : allowing no doubt or misinterpretation
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[indefinite]] /ɪnˈdef.ɪ.nət/ : not certain, not clear, or not exact
+> - [[vague]] /veɪɡ/ : not clearly expressed or known
+> - [[ambiguous]] /æmˈbɪɡ.ju.əs/ : having more than one possible meaning
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. definite answer/decision
+> 2. definite article (the)
+> 3. definite improvement
+> 4. definite plans
+> 5. definite proof/evidence
+> 6. definite conclusion
+
+> **1. Planning Context**
+> - **Sentence:** We need to make definite plans for the conference by Friday.
+> - **Translation:** Chúng ta cần đưa ra kế hoạch dứt khoát cho hội nghị vào trước thứ Sáu.
+
+> **2. Academic Context**
+> - **Sentence:** The research provides definite evidence that climate change is accelerating.
+> - **Translation:** Nghiên cứu này cung cấp bằng chứng xác định rằng biến đổi khí hậu đang gia tốc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Definite Article vs. Definite Adjective**
+> - ❌ **Mistake:** I have definite information about the definite cat.
+> - ✅ **Correction:** I have definite information about the cat.
+> - **Why:** "Definite article" refers specifically to "the" in grammar. Don't use "definite" as a general adjective before nouns unless you mean "certain" or "clear."
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The only thing that's definite is death and taxes."
+> **Source:** [[Common Proverb]]
 
 ---
 
@@ -161,121 +87,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **definite** (*/ˈdef.ɪ.nət/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Fixed, certain, or clear; not vague or doubtful; having exact limits or boundaries
+> 🇻🇳 **Vietnamese:** Chắc chắn, rõ ràng, xác định, dứt khoát
+> 🗣️ **IPA:** */ˈdef.ɪ.nət/*
+> 🧠 **Mental Model:** Drawing một đường border rõ ràng - khi có "definite" thì không có space cho doubt hay confusion
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Clear, certain, or fixed; not vague or doubtful; having exact limits"
+**Vietnamese:** Chắc chắn, rõ ràng, không mập mờ, có giới hạn xác định
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**definite** (*/ˈdef.ɪ.nət/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **definite** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The microscope revealed definite patterns in the crystal structure that no one had observed before.
+> 🇻🇳 **Translation:** Kính hiển vi đã tiết lộ những cấu trúc xác định trong cấu trúc tinh thể mà chưa ai từng quan sát thấy trước đây.
+> 🔍 **Analysis:** "Definite" works perfectly here vì nó nhấn mạnh patterns are clear và không thể disputed - khoa học cần certainty
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **definite**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Certainty/Assurance:** definite proof (bằng chứng xác định - không thể chối cãi)
+> 2. **Planning/Action:** definite plans (kế hoạch dứt khoát - đã quyết định)
+> 3. **Improvement/Change:** definite improvement (sự cải thiện rõ rệt - measurable và obvious)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **definite**:
+"There was a change in his attitude."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "There was a definite improvement in his attitude after the meeting."
+> 💡 **Why it works:** "Definite improvement" tạo hình ảnh rõ ràng về sự thay đổi tích cực, measurable và undeniable, mạnh hơn "there was a change"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **definite** instead of **[[clear]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **definite:** Emphasizes certainty và lack of doubt, thường có boundaries hoặc limits rõ ràng
+> **[[clear]]:** Focuses on visibility hoặc ease of understanding, có thể không involve certainty
+> 🧱 **The Barrier:** Definite = "no doubt" vs Clear = "no confusion" - certainty vs. clarity
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss asks if you can complete the project by Monday. You're confident and have planned everything. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Yes, I can give you a definite answer: the project will be completed by Monday at 5 PM."
+> 👨‍🎨 **Director's Note:** Shows confidence và planning - "definite answer" communicates certainty và commitment
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `finire` to the meaning of **definite**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Romans would "completely finish" (de-finire) marking boundaries with definitive lines - once set, these borders were certain and unquestionable, giving us "definite" - something with clear limits and no room for doubt
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **definite**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `finire` (to bound, limit, finish)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[definition]] - a statement of the exact meaning
+> - *(verb)* [[define]] - state or describe the exact nature
+> - *(adv)* [[definitely]] - without any doubt
+> - *(adj)* [[indefinite]] - not certain or clear
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈdef.ɪ.nət/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**definite**
+> 📖 **Meaning:** Fixed, certain, or clear; not vague or doubtful
+> 🇻🇳 **Vietnamese:** Chắc chắn, rõ ràng, xác định
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **definite**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I want a definite coffee, not tea."
+> ✅ **Correction:** "I definitely want coffee, not tea." OR "I want coffee, not tea."
+> 🧠 **Why:** "Definite" modifies nouns (certainty), "definitely" modifies verbs (adverb). Use "definitely" để emphasize choice.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **definite**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[indefinite]] (not certain or clear - không chắc chắn)
+> - [[vague]] (not clearly expressed - mơ hồ)
+> 🧱 **Contrast:** Definite có clear boundaries, indefinite có open-ended possibilities; definite là closed, indefinite là open
 
 ---

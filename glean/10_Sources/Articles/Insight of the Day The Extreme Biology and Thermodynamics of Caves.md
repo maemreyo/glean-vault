@@ -12,11 +12,11 @@ The term refers to organisms that [[20_Vocabulary/exhibit|exhibit]] optimal grow
 
 3\. [[20_Vocabulary/chemosynthesis|Chemosynthesis]] vs. [[20_Vocabulary/photosynthesis|Photosynthesis]]
 
-In the [[20_Vocabulary/absence|absence]] of [[20_Vocabulary/solar radiation|solar radiation]], cave microbes rely on [[20_Vocabulary/chemosynthesis|chemosynthesis]]. They derive energy from the [[20_Vocabulary/oxidation|oxidation]] of inorganic compounds such as hydrogen sulfide, ferrous iron, or ammonia. These "lithotrophs" ([[20_Vocabulary/rock-eaters|rock-eaters]]) form the primary production base for deep-cave ecosystems.
+In the [[20_Vocabulary/absence|absence]] of [[20_Vocabulary/solar radiation|solar radiation]], cave microbes [[20_Vocabulary/rely on|rely on]] [[20_Vocabulary/chemosynthesis|chemosynthesis]]. They derive energy from the [[20_Vocabulary/oxidation|oxidation]] of inorganic compounds such as hydrogen sulfide, ferrous iron, or ammonia. These "lithotrophs" ([[20_Vocabulary/rock-eaters|rock-eaters]]) form the primary production base for deep-cave ecosystems.
 
 4\. [[30_Structures/microbial longevity in stasis|Microbial Longevity in Stasis]]
 
-One of the most astounding discoveries is [[30_Structures/the "reanimation" of microbes trapped within fluid inclusions of giant crystals|the "reanimation" of microbes trapped within fluid inclusions of giant crystals]] for over 50,000 years. This demonstrates an incredible capacity for [[30_Structures/metabolic stasis|metabolic stasis]] and long-term [[20_Vocabulary/outlive|survival]] in resourse-depleted environments.
+One of the most astounding discoveries is [[30_Structures/the "reanimation" of microbes trapped within fluid inclusions of giant crystals|the "reanimation" of microbes trapped within fluid inclusions of giant crystals]] for over 50,000 years. This demonstrates an [[20_Vocabulary/incredible|incredible]] capacity for [[30_Structures/metabolic stasis|metabolic stasis]] and long-term [[20_Vocabulary/outlive|survival]] in resourse-depleted environments.
 
 Caves are [[20_Vocabulary/essential|essentially]] "natural laboratories" that provide insights into the limits of life and potential extraterrestrial biology.
 

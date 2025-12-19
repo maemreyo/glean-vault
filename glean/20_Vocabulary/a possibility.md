@@ -1,159 +1,84 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [possibilities, possibly, possible, impossibly, impossibility]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˌpɒsəˈbɪlɪti/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** formal/informal
+> **Etymology:** From Latin "possibilis" (that can be done), from "posse" (to be able)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Something that may exist or happen
+>
+> **Context Meaning:** A chance that something might exist, happen, or be true; potential or opportunity
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Khả năng, tiềm năng
+> - **Contextual:** Một khả năng có thể xảy ra, một phương án khả dĩ
+>
 > **Nuances:**
-> - ...
+> - Indicates uncertainty but doesn't exclude the outcome
+> - Often used in polite suggestions or diplomatic language
+> - Can range from highly likely to very remote chances
+> - Frequently appears in conditional and hypothetical statements
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Hopeful, Open-minded, Considerate
+> **Memory Hook:** "possible" + "-ity" = the state of being possible; "a" emphasizes it's one option among many
+> **📖 Etymology Story:** Ancient philosophers debated "possibilitas" - what could exist versus what actually exists. The word carries this ancient tension between potential and reality. When we say "a possibility," we're acknowledging that multiple futures exist and we haven't closed any doors yet.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[possibility]] /ˌpɒsəˈbɪlɪti/ : something that may happen
+> - **Noun:** [[possibilities]] /ˌpɒsəˈbɪlɪtiz/ : multiple options
+> - **Adj:** [[possible]] /ˈpɒsəbl/ : able to happen or exist
+> - **Adv:** [[possibly]] /ˈpɒsəbli/ : perhaps, maybe
+> - **Noun:** [[impossibility]] /ɪmˌpɒsəˈbɪlɪti/ : something impossible
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[chance]] /tʃɑːns/ : a possibility or probability
+> - [[potential]] /pəˈtɛnʃəl/ : latent qualities or abilities
+> - [[option]] /ˈɒpʃən/ : a choice available
+> - [[prospect]] /ˈprɒspɛkt/ : the possibility of future success
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[certainty]] /ˈsɜːrtnti/ : something that will definitely happen
+> - [[impossibility]] /ɪmˌpɒsəˈbɪlɪti/ : something that cannot happen
+> - [[reality]] /riˈælɪti/ : what actually exists
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. possibility + of + gerund (of winning, of success)
+> 2. possibility + that + clause (that it might rain)
+> 3. adjective + possibility (real, slight, exciting)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** There's a possibility of rain tomorrow, so bring an umbrella.
+> - **Translation:** Có khả năng mưa vào ngày mai, vì vậy hãy mang theo ô.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** We must consider the possibility that our initial assumption was wrong.
+> - **Translation:** Chúng ta phải xem xét khả năng rằng giả định ban đầu của chúng ta đã sai.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Using "possibility" with infinitive**
+> - ❌ **Mistake:** There's a possibility to succeed if we work hard.
+> - ✅ **Correction:** There's a possibility of succeeding if we work hard.
+> - **Why:** "Possibility" is followed by "of + gerund" or "that-clause," not infinitive.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The possibilities are numerous once we realize that we don't have to be trapped by conventional wisdom."
+> **Source:** [[Stephen Hawking]]
 
 ---
 
@@ -161,121 +86,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a possibility** (*/ə ˌpɒsəˈbɪlɪti/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Something that may exist or happen; a potential outcome or chance that is not yet confirmed; one among multiple potential options.
+> 🇻🇳 **Vietnamese:** Một khả năng, một tiềm năng, một phương án có thể xảy ra
+> 🗣️ **IPA:** */ə ˌpɒsəˈbɪlɪti/*
+> 🧠 **Mental Model:** Khi bạn nói "a possibility", bạn đang mở một cánh cửa của tiềm năng - nó có thể xảy ra, nhưng chưa chắc chắn, giống như một lá bài bí ẩn chưa được lật.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A chance that something might exist or happen"
+**Vietnamese:** Khả năng có thể xảy ra
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a possibility** (*/ə ˌpɒsəˈbɪlɪti/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a possibility** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The detective considered the possibility that the suspect had an accomplice.
+> 🇻🇳 **Translation:** Thám tử đã xem xét khả năng nghi phạm có đồng bọn.
+> 🔍 **Analysis:** "A possibility" thể hiện tư duy mở, không loại trừ bất kỳ giả thuyết nào, thể hiện sự cẩn trọng và chuyên nghiệp trong điều tra.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a possibility**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Assessment:** a real/strong possibility (một khả năng thật/sắt chắc)
+> 2. **Probability:** a slight/faint possibility (một khả năng nhỏ/nhẹ)
+> 3. **Future:** a future possibility (một khả năng trong tương lai)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a possibility**:
+"It might rain."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "There's a real possibility of scattered showers this afternoon."
+> 💡 **Why it works:** "A possibility" tạo cảm giác chuyên nghiệp và cẩn trọng hơn, thể hiện sự phân tích dự báo thay vì nói "it might rain" (có thể mưa) đơn giản.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a possibility** instead of **[[a chance]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a possibility:** Dùng trong văn nói trang trọng, học thuật, hoặc khi muốn thể hiện sự cẩn trọng, phân tích
+> **[[a chance]]:** Dùng trong văn nói thông thường, thân mật hơn
+> 🧱 **The Barrier:** "A possibility" mang tính analytical/considered (phân tích/được xem xét), còn "a chance" mang tính casual/informal (thông thường/không trang trọng)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss asks about completing a project ahead of schedule. You're not sure but think it might be achievable. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "There's a possibility we could finish early if we allocate more resources."
+> 👨‍🎨 **Director's Note:** Thể hiện sự tích cực nhưng thực tế, không hứa hẹn chắc chắn nhưng mở ra hướng đi khả thi.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `posse` (Latin for "to be able") to the meaning of **a possibility**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "possibility" bắt nguồn từ Latin "posse" - "có thể". Khi người La Mã cổ đại nói "possibilitas", họ đang nói về sức mạnh tiềm ẩn - những gì "có thể" xảy ra. "A possibility" là một trong những sức mạnh tiềm ẩn đó, chờ được khám phá!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a possibility**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `posse` (to be able) → `possibilis` (possible) → `possibilitas` (possibility) → English `possibility`
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[possible]] /ˈpɒsəbl/ : có thể xảy ra
+> - *(adv)* [[possibly]] /ˈpɒsəbli/ : có lẽ, có thể
+> - *(noun)* [[potential]] /pəˈtɛnʃəl/ : tiềm năng
+> - *(noun)* [[impossibility]] /ɪmˌpɒsəˈbɪlɪti/ : sự không thể
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˌpɒsəˈbɪlɪti/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a possibility**
+> 📖 **Meaning:** Something that may exist or happen; a chance or potential
+> 🇻🇳 **Vietnamese:** Một khả năng, một tiềm năng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a possibility**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** There's possibility that we might need more time.
+> ✅ **Correction:** There's a possibility that we might need more time.
+> 🧠 **Why:** "Possibility" là countable noun (danh từ đếm được) khi nói về một khả năng cụ thể, cần có article "a/an". Chỉ dùng không có article khi nói về khái niệm chung "possibility" (sự có thể).
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a possibility**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[a certainty]] (một điều chắc chắn - chắc chắn sẽ xảy ra)
+> - [[an impossibility]] (một điều không thể - hoàn toàn không thể xảy ra)
+> 🧱 **Contrast:** "A possibility" mở ra nhiều tiềm năng chưa được xác định, trong khi antonyms là các trạng thái đã được định sẵn - chắc chắn hoặc không thể.
 
 ---

@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [permanent] # Variations to link: Plurals, Tenses, POS, Possessives, Irregulars
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈpɜːrmənəntli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B2
+> **Register:** formal, neutral, academic
+> **Etymology:** From Latin "permanentem" (staying to the end), from "permanere" (to endure), from "per-" (through) + "manere" (to stay)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In a way that lasts forever or for a very long time
+>
+> **Context Meaning:** 1) For all time; eternally; 2) In a way that cannot be changed or reversed; 3) Lasting indefinitely
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** vĩnh viễn, mãi mãi
+> - **Contextual:** một cách lâu dài, không thể thay đổi được
+>
 > **Nuances:**
-> - ...
+> - Stronger than "for a long time" - implies forever
+> - Often used in formal or legal contexts
+> - Can describe both physical and abstract permanence
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Serious, absolute
+> **Memory Hook:** Think of a permanent tattoo - once it's there, it stays forever
+> **📖 Etymology Story:** In ancient Rome, when something was "permanens", it meant it would "stay through" (per-) all challenges and "remain" (manere) unchanged. Soldiers had permanent stations, laws had permanent effects - things that would endure beyond individual lifetimes.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[permanent]] /ˈpɜːrmənənt/ : lasting or intended to last indefinitely
+> - **Verb:** [[permanate]] /ˈpɜːrməneɪt/ : to spread throughout
+> - **Adj:** [[impermanent]] /ɪmˈpɜːrmənənt/ : temporary
+> - **Adv:** [[temporarily]] /ˈtempərərəli/ : for a limited time
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[forever]] /fərˈevər/ : for all time
+> - [[everlastingly]] /evərˈlæstɪŋli/ : without end
+> - [[endlessly]] /ˈendləsli/ : infinitely
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[temporarily]] /ˈtempərərəli/ : for a limited time
+> - [[briefly]] /ˈbriːfli/ : for a short duration
+> - [[momentarily]] /ˌmoʊmənˈterəli/ : for a moment
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. permanently closed
+> 2. permanently damaged
+> 3. permanently marked
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The museum permanently displays the ancient artifacts.
+> - **Translation:** Bảo tàng trưng bày các cổ vật một cách vĩnh viễn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** After the accident, he was permanently blinded in one eye.
+> - **Translation:** Sau vụ tai nạn, anh ấy bị mù vĩnh viễn một mắt.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse**
+> - ❌ **Mistake:** "I permanently want to be your friend."
+> - ✅ **Correction:** "I always want to be your friend."
+> - **Why:** "Permanently" sounds too formal and absolute for casual relationships
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Nothing is permanent in this wicked world - not even our troubles."
+> **Source:** Charlie Chaplin
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **permanently** (*/ˈpɜːrmənəntli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In a way that lasts forever or cannot be changed; for all time
+> 🇻🇳 **Vietnamese:** Một cách vĩnh viễn, mãi mãi; không thể thay đổi được
+> 🗣️ **IPA:** */ˈpɜːrmənəntli/*
+> 🧠 **Mental Model:** Hãy tưởng tượng chữ khắc trên đá - "permanently" nghĩa là khắc sâu một cách vĩnh viễn, không thể xóa bỏ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a way that lasts forever or cannot be changed"
+**Vietnamese:** Một cách kéo dài mãi mãi hoặc không thể thay đổi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**permanently** (*/ˈpɜːrmənəntli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **permanently** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The stain was permanently embedded in the fabric and couldn't be removed.
+> 🇻🇳 **Translation:** Vết ố đã thấm vĩnh viễn vào vải và không thể loại bỏ được.
+> 🔍 **Analysis:** "Permanently" nhấn mạnh tính chất không thể đảo ngược - vết ố không chỉ ở lại lâu mà còn trở thành một phần của vải, thể hiện qua "embedded" (thấm sâu)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **permanently**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **State:** permanently closed/disabled (<VN note: đóng/ vô hiệu hóa vĩnh viễn, không thể phục hồi>)
+> 2. **Damage:** permanently damaged/injured (<VN note: tổn thương vĩnh viễn, không thể chữa lành>)
+> 3. **Location:** permanently stationed/located (<VN note: đồn trú/ đặt cố định vĩnh viễn>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **permanently**:
+"The factory was shut down."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The factory was permanently closed due to environmental violations."
+> 💡 **Why it works:** VN - "Permanently" nhấn mạnh tính chất không thể đảo ngược của việc đóng cửa, khác với "temporarily" (tạm thời) - tạo cảm giác quyết đoán và cuối cùng
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **permanently** instead of **always**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **permanently:** Dùng khi muốn nhấn mạnh không thể thay đổi, thường cho trạng thái vật lý hoặc chính thức (permanently deleted)
+> **always:** Dùng cho hành động lặp lại hoặc thói quen, có thể thay đổi (always arrives on time)
+> 🧱 **The Barrier:** "Permanently" là trạng thái không thể thay đổi, "always" là tần suất hoặc quy luật
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend shows you a terrible new haircut. React sympathetically. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Oh no! Don't worry, it's not permanently damaged - it'll grow back quickly."
+> 👨‍🎨 **Director's Note:** VN - "Permanently" mang ý nghĩa an ủi rằng tình hình không phải là vĩnh viễn, có thể thay đổi được
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `permanere` to the meaning of **permanently**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** La Mã cổ đại dùng từ "permanere" (v ở lại qua) để mô tả những cái tồn tại vượt qua thử thách thời gian. Kiến trúc "permanent" đứng vững qua các cuộc chiến tranh, luật pháp "permanent" có hiệu lực vượt qua các triều đại
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **permanently**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `permanere` (<meaning: to remain through>)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[permanent]] /ˈpɜːrmənənt/ (vĩnh viễn)
+> - *(adj)* [[impermanent]] /ɪmˈpɜːrmənənt/ (tạm thời)
+> - *(verb)* [[permanate]] /ˈpɜːrməneɪt/ (thấm khắp)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈpɜːrmənəntli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**permanently**
+> 📖 **Meaning:** In a lasting, unchanging manner; for all time
+> 🇻🇳 **Vietnamese:** Một cách vĩnh viễn, bền bỉ; mãi mãi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **permanently**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I permanently remember your birthday."
+> ✅ **Correction:** "I'll always remember your birthday."
+> 🧠 **Why:** "Permanently" quá trang trọng và tuyệt đối cho ký ức - dùng "always" tự nhiên hơn trong giao tiếp hàng ngày
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **permanently**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[temporarily]] (tạm thời)
+> - [[briefly]] (ngắn ngủi)
+> - [[momentarily]] (một lát thôi)
+> 🧱 **Contrast:** "Permanently" là mãi mãi, không thể thay đổi; "temporarily" là trong thời gian giới hạn, có thể thay đổi
 
 ---

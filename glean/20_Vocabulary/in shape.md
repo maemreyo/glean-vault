@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [get in shape, stay in shape, in good shape] # Variations to link: Plurals, Tenses, POS, Possessives, Irregulars
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪn ʃeɪp/
+> **Part of Speech:** phrasal adjective/idiom
+> **CEFR Level:** B1
+> **Register:** informal, neutral
+> **Etymology:** Shape: from Old English "gesceap" (creation, form)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Having good physical condition
+>
+> **Context Meaning:** 1) Physically fit and healthy; 2) In good condition; 3) Well-maintained; 4) Can refer to both physical fitness and general condition of objects
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** có hình thể tốt, khỏe mạnh
+> - **Contextual:** dáng đẹp, cân đối, tình trạng tốt
+>
 > **Nuances:**
-> - ...
+> - Often used to talk about physical fitness
+> - Can refer to objects being in good condition
+> - Implies regular maintenance or exercise
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Healthy, disciplined, active
+> **Memory Hook:** Think of a well-shaped sculpture - everything in its right place, properly formed
+> **📖 Etymology Story:** "Shape" comes from Old English meaning "form" or "creation". When someone is "in shape", they have created or maintained their body in its proper form. Like clay molded by a sculptor, our bodies are shaped by our habits and choices - "in shape" means the shaping has been done well.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[shape]] /ʃeɪp/ : to form
+> - **Noun:** [[shape]] /ʃeɪp/ : form or outline
+> - **Adj:** [[shapely]] /ˈʃeɪpli/ : attractively formed
+> - **Verb:** [[reshape]] /ˌriːˈʃeɪp/ : to shape again
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[fit]] /fɪt/ : in good physical condition
+> - [[healthy]] /ˈhelθi/ : having good health
+> - [[conditioned]] /kənˈdɪʃənd/ : physically trained
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[out of shape]] /aʊt əv ʃeɪp/ : not physically fit
+> - [[unfit]] /ʌnˈfɪt/ : not in good physical condition
+> - [[flabby]] /ˈflæbi/ : lacking firm muscle
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. get in shape
+> 2. stay in shape
+> 3. in good shape
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She exercises every day to stay in shape.
+> - **Translation:** Cô ấy tập thể dục mỗi ngày để giữ gìn vóc dáng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The old car is still in excellent shape despite its age.
+> - **Translation:** Chiếc xe cũ vẫn còn trong tình trạng tuyệt vời bất chấp tuổi tác.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition**
+> - ❌ **Mistake:** "I'm on shape."
+> - ✅ **Correction:** "I'm in shape."
+> - **Why:** Fixed expression requires "in"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Take care of your body. It's the only place you have to live."
+> **Source:** Jim Rohn
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **in shape** (*/ɪn ʃeɪp/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In good physical condition; physically fit and healthy; in good condition
+> 🇻🇳 **Vietnamese:** Có sức khỏe tốt, khỏe mạnh; có vóc dáng đẹp; trong tình trạng tốt
+> 🗣️ **IPA:** */ɪn ʃeɪp/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một vận động viên - cơ thể họ được "định hình" (shaped) hoàn hảo qua luyện tập
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In good physical condition or health"
+**Vietnamese:** Trong tình trạng sức khỏe tốt
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**in shape** (*/ɪn ʃeɪp/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **in shape** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After three months of regular training, he's finally back in shape and ready for the marathon.
+> 🇻🇳 **Translation:** Sau ba tháng tập luyện đều đặn, anh ấy cuối cùng đã lấy lại vóc dáng và sẵn sàng cho cuộc chạy marathon.
+> 🔍 **Analysis:** "In shape" ở đây không chỉ khỏe mạnh mà còn ở trạng thái sẵn sàng cho thử thách cụ thể (marathon) - thể hiện sự fit về mặt thể chất
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **in shape**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** get/stay/keep in shape (<VN note: đạt/duy trì/giữ vóc dáng>)
+> 2. **Degree:** in great/perfect/good shape (<VN note: ở tình trạng tuyệt/vời/tốt>)
+> 3. **Maintenance:** work out to stay in shape (<VN note: tập thể dục để giữ dáng>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **in shape**:
+"He exercises a lot."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He maintains his rigorous workout schedule to stay in peak physical shape."
+> 💡 **Why it works:** VN - "In shape" cụ thể hơn "exercises a lot" - thể hiện mục đích rõ ràng của việc tập luyện, thêm "peak physical" nhấn mạnh tình trạng thể chất tuyệt vời
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **in shape** instead of **healthy**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **in shape:** Dùng khi muốn nhấn mạnh vóc dáng, thể lực, sự fit (in shape for swimming)
+> **healthy:** Dùng rộng hơn, chỉ sức khỏe tổng thể, bao gồm cả tinh thần (healthy lifestyle)
+> 🧱 **The Barrier:** "In shape" tập trung vào thể chất, "healthy" bao gồm cả thể chất và tinh thần
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks if you can help them move furniture. Honestly assess your ability. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'd love to help, but I'm not really in shape for heavy lifting right now."
+> 👨‍🎨 **Director's Note:** VN - "In shape" thể hiện đánh giá trung thực về khả năng thể chất, lịch sự từ chối
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `gesceap` to the meaning of **in shape**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Shape" từ tiếng Anh cổ "gesceap" (sự tạo ra) - khi bạn "in shape", cơ thể bạn đã được "tạo ra" một cách tốt đẹp qua chăm sóc và luyện tập
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **in shape**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `gesceap` (<meaning: creation, form>)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[shape]] /ʃeɪp/ (hình dáng)
+> - *(verb)* [[shape]] /ʃeɪp/ (định hình)
+> - *(adj)* [[shapely]] /ˈʃeɪpli/ (cân đối, đẹp)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪn ʃeɪp/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**in shape**
+> 📖 **Meaning:** In good physical condition; physically fit
+> 🇻🇳 **Vietnamese:** Có vóc dáng đẹp; khỏe mạnh, có sức khỏe tốt
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **in shape**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I need to put myself in shape."
+> ✅ **Correction:** "I need to get in shape."
+> 🧠 **Why:** Cấu trúc cố định là "get in shape" (đạt được vóc dáng), không phải "put in shape"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **in shape**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[out of shape]] (không có vóc dáng)
+> - [[unfit]] (yếu, không khỏe)
+> - [[flabby]] (nhão, không săn chắc)
+> 🧱 **Contrast:** "In shape" là săn chắc, khỏe mạnh; "out of shape" là nhão nheo, yếu kém
 
 ---

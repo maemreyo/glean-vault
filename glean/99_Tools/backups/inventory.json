@@ -1,5 +1,78 @@
 [
   {
+    "id": "20251219_173453_1b8b0f",
+    "timestamp": "20251219_173453",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251219_173453_1b8b0f_The giant heat pumps designed to warm whole districts.md",
+    "changes_count": 11,
+    "changes_sample": [
+      "'serve' -> '[[20_Vocabulary/serve|serve]]'",
+      "'pressure' -> '[[20_Vocabulary/press|pressure]]'",
+      "'possible' -> '[[20_Vocabulary/a possibility|possible]]'",
+      "'affect' -> '[[20_Vocabulary/affect|affect]]'",
+      "'average' -> '[[20_Vocabulary/average|average]]'"
+    ]
+  },
+  {
+    "id": "20251219_173453_943431",
+    "timestamp": "20251219_173453",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 01.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251219_173453_943431_Cam 20 Listening Test 01.md",
+    "changes_count": 156,
+    "changes_sample": [
+      "'probably' -> '[[20_Vocabulary/probably\\|probably]]'",
+      "'basic' -> '[[20_Vocabulary/Basically|basic]]'",
+      "'kilns' -> '[[20_Vocabulary/a kiln|kilns]]'",
+      "'cancer' -> '[[20_Vocabulary/cancer|cancer]]'",
+      "'evolutionary theory' -> '[[20_Vocabulary/evolutionary theory|evolutionary theory]]'"
+    ]
+  },
+  {
+    "id": "20251219_173452_7f46bc",
+    "timestamp": "20251219_173452",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/UK launches taskforce to 'break down barriers' for women in tech.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251219_173452_7f46bc_UK launches taskforce to 'break down barriers' for women in tech.md",
+    "changes_count": 3,
+    "changes_sample": [
+      "'serve' -> '[[20_Vocabulary/serve|serve]]'",
+      "'decade' -> '[[20_Vocabulary/decade|decade]]'",
+      "'establish' -> '[[20_Vocabulary/establish|establish]]'"
+    ]
+  },
+  {
+    "id": "20251219_173452_e19472",
+    "timestamp": "20251219_173452",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251219_173452_e19472_What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "changes_count": 2,
+    "changes_sample": [
+      "'however' -> '[[20_Vocabulary/However|however]]'",
+      "'concentration' -> '[[20_Vocabulary/concentration|concentration]]'"
+    ]
+  },
+  {
+    "id": "20251219_173452_46cdd5",
+    "timestamp": "20251219_173452",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/ZEBRAFISH HEAL THEIR OWN HEART.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251219_173452_46cdd5_ZEBRAFISH HEAL THEIR OWN HEART.md",
+    "changes_count": 2,
+    "changes_sample": [
+      "'incredible' -> '[[20_Vocabulary/incredible|incredible]]'",
+      "'cancer' -> '[[20_Vocabulary/cancer|cancer]]'"
+    ]
+  },
+  {
+    "id": "20251219_173452_b4d747",
+    "timestamp": "20251219_173452",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Insight of the Day The Extreme Biology and Thermodynamics of Caves.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251219_173452_b4d747_Insight of the Day The Extreme Biology and Thermodynamics of Caves.md",
+    "changes_count": 2,
+    "changes_sample": [
+      "'rely on' -> '[[20_Vocabulary/rely on|rely on]]'",
+      "'incredible' -> '[[20_Vocabulary/incredible|incredible]]'"
+    ]
+  },
+  {
     "id": "20251219_165324_1b8b0f",
     "timestamp": "20251219_165324",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",

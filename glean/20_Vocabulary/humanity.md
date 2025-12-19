@@ -1,159 +1,84 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [humanities, humanities' subjects, inhumanity, humane]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /hjuːˈmænɪti/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From Latin "humanitas" (human nature, kindness), from "humanus" (human, humane)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The quality of being human; human nature collectively
+>
+> **Context Meaning:** The quality of being humane; benevolence; the human race; academic disciplines studying human culture
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Nhân loại, nhân tính
+> - **Contextual:** Lòng nhân đạo, tính người, ngành khoa học xã hội
+>
 > **Nuances:**
-> - ...
+> - Can refer to all humans collectively or the quality of being humane
+> - In academic contexts, refers to studies of human culture (arts, literature, philosophy)
+> - Carries philosophical weight about what it means to be human
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Compassionate, Universal, Enlightened
+> **Memory Hook:** "human" + "-ity" = the state of being truly human (with all our best qualities)
+> **📖 Etymology Story:** In ancient Rome, "humanitas" wasn't just about being human - it represented the ideal of what humans could be: educated, cultured, compassionate. When we speak of "humanity" today, we echo this Roman ideal of our collective potential for wisdom and kindness.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[humanity]] /hjuːˈmænɪti/ : the human race; humane quality
+> - **Noun:** [[humanities]] /hjuːˈmænɪtiz/ : academic subjects
+> - **Noun:** [[human]] /ˈhjuːmən/ : a person; relating to people
+> - **Adj:** [[humane]] /hjuːˈmeɪn/ : having or showing compassion
+> - **Adj:** [[humanistic]] /ˌhjuːməˈnɪstɪk/ : relating to human values
+> - **Noun:** [[inhumanity]] /ˌɪnhjuːˈmænɪti/ : cruelty, lack of compassion
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[mankind]] /mænˈkaɪnd/ : the human race
+> - [[humankind]] /ˈhjuːmænˌkaɪnd/ : all human beings
+> - [[compassion]] /kəmˈpæʃən/ : sympathetic concern for others
+> - [[benevolence]] /bəˈnevələns/ : quality of being well-meaning
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[cruelty]] /ˈkruːəlti/ : intentional causing of pain
+> - [[brutality]] /bruːˈtælɪti/ : extreme cruelty; savage violence
+> - [[barbarism]] /ˈbɑːbərɪzəm/ : absence of culture and civilization
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. humanity + noun (course, crisis, achievement)
+> 2. adjective + humanity (common, shared, lost)
+> 3. verb + humanity (shows, demonstrates, saves)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The rescue workers showed great humanity by saving everyone from the flood.
+> - **Translation:** Các công nhân cứu hộ đã thể hiện lòng nhân đạo lớn lao bằng cách cứu mọi người khỏi trận lụt.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She's studying humanities at university, focusing on philosophy and literature.
+> - **Translation:** Cô ấy đang học ngành khoa học xã hội ở trường đại học, chuyên sâu về triết học và văn học.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing singular and plural forms**
+> - ❌ **Mistake:** I'm interested in humanity of different cultures.
+> - ✅ **Correction:** I'm interested in the humanities of different cultures. OR I'm interested in the humanity of all people.
+> - **Why:** "Humanity" (singular) refers to human qualities or the human race. "Humanities" (plural) refers to academic subjects like literature, history, philosophy.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The ultimate test of humanity may be our ability to coexist with our differences."
+> **Source:** [[Daisaku Ikeda]]
 
 ---
 
@@ -161,121 +86,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **humanity** (*/hjuːˈmænɪti/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The human race collectively; the quality of being humane or compassionate; academic disciplines that study human culture and society.
+> 🇻🇳 **Vietnamese:** Nhân loại, nhân tính, lòng nhân đạo, khoa học xã hội
+> 🗣️ **IPA:** */hjuːˈmænɪti/*
+> 🧠 **Mental Model:** Khi bạn nói "humanity", bạn đang nói về tất cả chúng ta như một gia đình lớn, hoặc phẩm chất tốt đẹp nhất của con người - lòng trắc ẩn, sự thông thái và tình yêu thương.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The quality of being humane; compassion; the human race collectively"
+**Vietnamese:** Nhân tính, lòng nhân đạo, nhân loại
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**humanity** (*/hjuːˈmænɪti/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **humanity** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The doctor's humanity and compassion made all the difference to the patients.
+> 🇻🇳 **Translation:** Lòng nhân đạo và sự trắc ẩn của bác sĩ đã tạo ra sự khác biệt lớn cho các bệnh nhân.
+> 🔍 **Analysis:** "Humanity" ở đây nhấn mạnh phẩm chất đạo đức và lòng trắc ẩn - những gì làm con người trở nên đáng quý, thay vì chỉ nói là kindness (tử tế) một cách chung chung.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **humanity**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Academic:** the humanities (khoa học xã hội, nhân văn)
+> 2. **Quality:** common humanity (nhân tính chung)
+> 3. **Action:** show humanity (thể hiện lòng nhân đạo)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **humanity**:
+"He helped poor people."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He demonstrated his humanity by dedicating his life to helping the underprivileged."
+> 💡 **Why it works:** "Humanity" nâng tầm hành động từ việc "help" (giúp đỡ) đơn thuần lên thành biểu hiện của "nhân tính" - phẩm chất cao đẹp nhất của con người.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **humanity** instead of **[[mankind]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **humanity:** Dùng khi nói về phẩm chất, đạo đức, hoặc giá trị tinh thần của con người
+> **[[mankind]]:** Dùng khi nói về con người như một sinh vật, một loài
+> 🧱 **The Barrier:** "Humanity" mang tính spiritual/ethical (tinh thần/đạo đức), còn "mankind" mang tính biological/species (sinh học/loài)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing someone who rescued animals from a natural disaster. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Her actions showed true humanity - she risked her own safety to save helpless creatures."
+> 👨‍🎨 **Director's Note:** Thể hiện sự trân trọng sâu sắc đối với hành động vị tha, kết nối với phẩm chất cao nhất của con người.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `humanus` (Latin for "human") to the meaning of **humanity**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "humanity" bắt nguồn từ Latin "humanitas" - không chỉ là "being human" mà là "being humane". Người La Mã tin rằng con người thực sự là người khi có education, culture, và compassion. "Humanity" là sự kết hợp của cả ba - trí tuệ, văn hóa và lòng tốt!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **humanity**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `humanus` (human, humane) → `humanitas` (human nature, culture) → English `humanity`
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[humane]] /hjuːˈmeɪn/ : nhân đạo, tử tế
+> - *(adj)* [[humanistic]] /ˌhjuːməˈnɪstɪk/ : thuộc về chủ nghĩa nhân văn
+> - *(noun)* [[inhumanity]] /ˌɪnhjuːˈmænɪti/ : sự tàn bạo, vô nhân đạo
+> - *(noun)* [[humanities]] /hjuːˈmænɪtiz/ : các môn khoa học xã hội
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */hjuːˈmænɪti/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**humanity**
+> 📖 **Meaning:** The human race collectively; the quality of being humane or compassionate
+> 🇻🇳 **Vietnamese:** Nhân loại, nhân tính, lòng nhân đạo
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **humanity**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The university offers courses in history, literature and humanity.
+> ✅ **Correction:** The university offers courses in history, literature and the humanities.
+> 🧠 **Why:** Khi nói về các môn học (subjects), phải dùng "the humanities" (plural với "the"). "Humanity" (singular) dùng để chỉ phẩm chất hoặc toàn bộ loài người.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **humanity**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[cruelty]] (sự tàn bạo - thiếu nhân tính, gây đau khổ)
+> - [[brutality]] (sự dã man - hành vi tàn độc, mất nhân tính)
+> - [[inhumanity]] (sự vô nhân đạo - hoàn toàn opposite của humanity)
+> 🧱 **Contrast:** "Humanity" đại diện cho những phẩm chất cao nhất của con người, trong khi antonyms là những hành vi đi ngược lại với bản chất tốt đẹp của loài người.
 
 ---

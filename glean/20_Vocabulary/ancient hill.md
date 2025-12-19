@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
 #flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [ancient hills, ancient hill's] # Variations to link: Plurals, Tenses, POS, Possessives, Irregulars
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈeɪnʃənt hɪl/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** formal, academic, descriptive
+> **Etymology:** Ancient: from Old French "ancien" from Latin "ante" (before); Hill: from Old English "hyll"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A very old natural elevation of earth
+>
+> **Context Meaning:** 1) A hill that has existed for thousands of years; 2) Often associated with historical significance, archaeological sites, or ancient settlements; 3) May have artificial origins (burial mounds, hill forts)
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ngọn đồi cổ, quả đồi cổ xưa
+> - **Contextual:** đồi cổ (thường có giá trị khảo cổ/lịch sử)
+>
 > **Nuances:**
-> - ...
+> - Implies both age and historical significance
+> - Often suggests human modification or use in ancient times
+> - Carries romantic and mysterious connotations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Mysterious, historical, majestic
+> **Memory Hook:** Imagine a hill standing silent witness to millennia of human history
+> **📖 Etymology Story:** The word "ancient" comes from Latin "ante" meaning "before" - something that stands before our time. When paired with "hill" (from Old English "hyll"), it creates an image of earth itself holding ancient secrets. These hills were often chosen by ancient peoples for settlements, burials, or ceremonies - making them natural monuments of human history.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[antiquity]] /ænˈtɪkwəti/ : ancient times
+> - **Adj:** [[prehistoric]] /ˌpriːhɪˈstɔːrɪk/ : before recorded history
+> - **Noun:** [[archaeology]] /ˌɑːrkiˈɑːlədʒi/ : study of ancient cultures
+> - **Adj:** [[timeless]] /ˈtaɪmləs/ : unaffected by time
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[mound]] /maʊnd/ : artificial hill
+> - [[earthwork]] /ˈɜːrθwɜːrk/ : man-made earth structure
+> - [[tell]] /tel/ : archaeological mound
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[modern]] /ˈmɑːdərn/ : recent or current
+> - [[contemporary]] /kənˈtempəreri/ : belonging to the present
+> - [[new]] /nuː/ : recently made
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. ancient hill fort
+> 2. sacred ancient hill
+> 3. climb the ancient hill
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Archaeologists discovered Roman artifacts at the ancient hill site.
+> - **Translation:** Các nhà khảo cổ đã phát hiện cổ vật La Mã tại địa điểm quả đồi cổ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The ancient hill offers panoramic views of the surrounding countryside.
+> - **Translation:** Quả đồi cổ xưa này mang đến tầm nhìn toàn cảnh vùng nông thôn xung quanh.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse**
+> - ❌ **Mistake:** "My house is on an ancient hill" (exaggeration)
+> - ✅ **Correction:** "My house is on a very old hill."
+> - **Why:** "Ancient" implies thousands of years, not just old
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The past is never dead. It's not even past."
+> **Source:** [[Requiem for a Nun]] by William Faulkner
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **ancient hill** (*/ˈeɪnʃənt hɪl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A very old hill, often with historical or archaeological significance, dating back thousands of years
+> 🇻🇳 **Vietnamese:** Quả đồi cổ, ngọn đồi cổ xưa (thường có giá trị lịch sử/khảo cổ)
+> 🗣️ **IPA:** */ˈeɪnʃənt hɪl/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một quả đồi đã đứng đó hàng ngàn năm, chứng kiến nhiều thế hệ người qua lại - nó không chỉ cũ mà còn là một di sản sống
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A very old hill with historical significance"
+**Vietnamese:** Một quả đồi rất cổ có giá trị lịch sử
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**ancient hill** (*/ˈeɪnʃənt hɪl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **ancient hill** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The ancient hill was once the site of an Iron Age settlement, as evidenced by the pottery shards found there.
+> 🇻🇳 **Translation:** Quả đồi cổ từng là nơi định cư của người thời kỳ Sắt, được chứng minh bởi các mảnh gốm được tìm thấy ở đó.
+> 🔍 **Analysis:** "Ancient hill" ở đây không chỉ mô tả tuổi tác mà còn ngụ ý tầm quan trọng khảo cổ - kết hợp với "Iron Age settlement" và "pottery shards" để nhấn mạnh giá trị lịch sử
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **ancient hill**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Archaeological:** ancient hill fort/settlement (<VN note: đồi cổ với công sự/khu định cư>)
+> 2. **Cultural:** sacred ancient hill (<VN note: đồi cổ thiêng liêng, có ý nghĩa tâm linh>)
+> 3. **Action:** excavate/explore an ancient hill (<VN note: khai quật/khám phá đồi cổ>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **ancient hill**:
+"We climbed an old hill."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We climbed the ancient hill where Celtic druids once performed their rituals."
+> 💡 **Why it works:** VN - "Ancient hill" không chỉ nói về tuổi tác mà còn gợi lên không khí huyền bí, lịch sử - "Celtic druids" tạo cảm giác về một nền văn hóa cổ đại
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **ancient hill** instead of **old hill**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **ancient hill:** Dùng khi muốn nhấn mạnh giá trị lịch sử, khảo cổ, thường hàng ngàn năm (ancient hill with Roman ruins)
+> **old hill:** Dùng khi chỉ muốn nói về tuổi tác, không nhất thiết có giá trị lịch sử (old hill behind my house)
+> 🧱 **The Barrier:** "Ancient" đòi hỏi tầm vĩ mô lịch sử, "old" chỉ là tương đối về thời gian
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a tour guide showing tourists a mysterious local landmark. Introduce it dramatically. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Before us stands the ancient hill, silent witness to five thousand years of human history."
+> 👨‍🎨 **Director's Note:** VN - "Ancient hill" tạo cảm giác trang trọng, hùng vĩ - "silent witness" (nhân chứng im lặng) nhân cách hóa quả đồi
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `ante` to the meaning of **ancient hill**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Ancient" từ Latin "ante" (trước) chỉ cái có từ trước thời của chúng ta. Khi kết hợp với "hill" (đồi), ta có hình ảnh quả đồi đã tồn tại "trước" lịch sử ghi chép - như một cuốn sách đá của thời gian
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **ancient hill**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `ante` (<meaning: before>) + Old English `hyll` (<meaning: hill>)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[antiquity]] /ænˈtɪkwəti/ (cổ đại)
+> - *(adj)* [[primordial]] /praɪˈmɔːrdiəl/ (nguyên thủy, sơ khai)
+> - *(noun)* [[prehistoric]] /ˌpriːhɪˈstɔːrɪk/ (tiền sử)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈeɪnʃənt hɪl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**ancient hill**
+> 📖 **Meaning:** A very old natural elevation, often of historical or archaeological importance
+> 🇻🇳 **Vietnamese:** Quả đồi cổ xưa, thường có tầm quan trọng lịch sử hoặc khảo cổ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **ancient hill**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The university is built on an ancient hill from 1950."
+> ✅ **Correction:** "The university is built on a very old hill from 1950."
+> 🧠 **Why:** "Ancient" (cổ đại) cần hàng ngàn năm, 1950 quá hiện đại - dùng "very old" phù hợp hơn
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **ancient hill**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[modern]] (hiện đại, mới)
+> - [[contemporary]] (đương đại)
+> - [[recent]] (gần đây)
+> 🧱 **Contrast:** "Ancient hill" là di sản của quá khứ xa xưa, còn "modern" là tạo tác của thời hiện tại
 
 ---

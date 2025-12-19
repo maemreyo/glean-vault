@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 #flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [fell apart, fallen apart, falling apart] # Variations to link: Plurals, Tenses, POS, Possessives, Irregulars
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /fɔːl əˈpɑːrt/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B1
+> **Register:** informal, neutral
+> **Etymology:** Combination of Old English "feallan" (to fall) and "a" (asunder) + "part" (to divide)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To break into pieces or disintegrate
+>
+> **Context Meaning:** 1) To physically break into pieces; 2) To fail or collapse; 3) To become emotionally distressed; 4) To deteriorate in quality
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** rời rạc, tan vỡ, sụp đổ
+> - **Contextual:** đổ vỡ (mối quan hệ), stress (tâm lý), hỏng bét (chất lượng)
+>
 > **Nuances:**
-> - ...
+> - Can describe both physical objects and abstract situations
+> - Often implies gradual deterioration rather than sudden destruction
+> - In emotional context, suggests loss of control or composure
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Dramatic, emotional
+> **Memory Hook:** Imagine a sandcastle slowly falling apart as waves hit it - gradual disintegration
+> **📖 Etymology Story:** The phrase combines the ancient concept of "falling" (from Old English "feallan") with the idea of separation ("apart"). Originally described physical objects breaking, then evolved to describe relationships, systems, and even emotional states crumbling under pressure.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[breakdown]] /ˈbreɪkdaʊn/ : collapse or failure
+> - **Verb:** [[disintegrate]] /dɪˈsɪntɪɡreɪt/ : to fall apart
+> - **Adj:** [[fragmented]] /ˈfræɡməntɪd/ : broken into pieces
+> - **Adv:** [[apart]] /əˈpɑːrt/ : separated
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[break up]] /breɪk ʌp/ : to separate or end
+> - [[crumble]] /ˈkrʌmbəl/ : to fall to pieces
+> - [[collapse]] /kəˈlæps/ : to fall down or inward
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[hold together]] /hoʊld təˈɡeðər/ : remain intact
+> - [[endure]] /ɪnˈdʊər/ : to last
+> - [[survive]] /sərˈvaɪv/ : to continue existing
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. fall apart at the seams
+> 2. watch something fall apart
+> 3. falling apart around someone
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Their marriage started to fall apart after they moved to different cities.
+> - **Translation:** Hôn nhân của họ bắt đầu rạn nứt sau khi chuyển đến sống ở những thành phố khác nhau.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** When he heard the bad news, he completely fell apart and started crying.
+> - **Translation:** Khi nghe tin xấu, anh ấy hoàn toàn vỡ vụn và bắt đầu khóc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Literal vs Figurative Usage**
+> - ❌ **Mistake:** "My schedule fell apart" (too informal for business)
+> - ✅ **Correction:** "My schedule became completely disorganized"
+> - **Why:** In formal contexts, use more specific alternatives
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Things fall apart; the center cannot hold."
+> **Source:** [[The Second Coming]] by W.B. Yeats
 
 ---
 
@@ -161,121 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **fall apart** (*/fɔːl əˈpɑːrt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To break into pieces, disintegrate, or fail completely; to lose emotional control
+> 🇻🇳 **Vietnamese:** Tan vỡ, rời rạc, sụp đổ (vật lý); đổ vỡ, stress (tình cảm, tâm lý)
+> 🗣️ **IPA:** */fɔːl əˈpɑːrt/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một tòa nhà cũ đang từ từ sụp đổ - từng viên gạch rơi ra cho đến khi toàn bộ cấu trúc tan vỡ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To break into pieces or fail completely"
+**Vietnamese:** Tan vỡ hoặc thất bại hoàn toàn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**fall apart** (*/fɔːl əˈpɑːrt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **fall apart** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The old book was so fragile that it started to fall apart when I touched it.
+> 🇻🇳 **Translation:** Cuốn sách cũ quá mong manh đến nỗi nó bắt đầu rời rạc khi tôi chạm vào.
+> 🔍 **Analysis:** "Fall apart" ở đây mang nghĩa vật lý - mô tả quá trình tan rã dần dần của cuốn sách do tuổi tác, phù hợp với tính từ "fragile" (mong manh)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **fall apart**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Objects:** fall apart at the seams (<VN note: sụp đổ hoàn toàn, gốc từ quần áo may thủng đường chỉ>)
+> 2. **Emotions:** completely fall apart (<VN note: mất kiểm soát hoàn toàn về mặt cảm xúc>)
+> 3. **Systems:** watch something fall apart (<VN note: chứng kiến sự sụp đổ/tan rã>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **fall apart**:
+"The company was failing."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "After losing their biggest client, the company began to fall apart at the seams."
+> 💡 **Why it works:** VN - "Fall apart at the seams" tạo hình ảnh sống động về sự sụp đổ từ từ, giống như quần áo bị thủng dọc đường may - thể hiện rõ hơn quá trình thất bại
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **fall apart** instead of **break**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **fall apart:** Dùng cho quá trình tan rã dần dần, nhiều phần, thường không có tác động đột ngột (relationship falling apart)
+> **break:** Dùng cho hành động phá vỡ đột ngột, thường do tác động từ bên ngoài (break a window)
+> 🧱 **The Barrier:** "Fall apart" là quá trình nội tại, tự nhiên; "break" là hành động bên ngoài
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is telling you about their difficult divorce. Show empathy. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm so sorry you're going through this. It must be terrible watching your life fall apart like this."
+> 👨‍🎨 **Director's Note:** VN - "Fall apart" thể hiện sự đồng cảm với quá trình tan vỡ cuộc sống một cách từ từ, đau đớn
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `feallan` to the meaning of **fall apart**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "fall" (rơi) trong tiếng Anh cổ "feallan" kết hợp với "apart" (tách ra) tạo thành hình ảnh một vật thể từ từ rơi ra thành từng mảnh riêng biệt. Giống như lá cây tự nhiên rụng xuống và tách ra khỏi cây mẹ
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **fall apart**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `feallan` (<meaning: to fall, to descend>)
+> 👨‍👩‍👧 **Family:**
+> - *(phrasal verb)* [[break down]] /breɪk daʊn/ (hỏng, sụp đổ về mặt tinh thần)
+> - *(adj)* [[apart]] /əˈpɑːrt/ (tách biệt, riêng lẻ)
+> - *(noun)* [[breakdown]] /ˈbreɪkdaʊn/ (sự sụp đổ, sự hỏng hóc)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */fɔːl əˈpɑːrt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**fall apart**
+> 📖 **Meaning:** To break into pieces; to fail or collapse; to become emotionally distressed
+> 🇻🇳 **Vietnamese:** Tan vỡ; sụp đổ; stress, đau khổ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **fall apart**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "My car fall apart on the highway yesterday."
+> ✅ **Correction:** "My car fell apart on the highway yesterday."
+> 🧠 **Why:** "Fall apart" là động từ bất quy tắc thì quá khứ "fell", quá khứ hoàn thành "fallen" - không thêm "-ed"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **fall apart**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[hold together]] (giữ vững, không tan rã)
+> - [[come together]] (quy tụ, đoàn kết)
+> 🧱 **Contrast:** "Fall apart" là quá trình tan rã, còn "hold together" là nỗ lực duy trì sự toàn vẹn
 
 ---

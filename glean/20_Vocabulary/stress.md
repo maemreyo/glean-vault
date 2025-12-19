@@ -1,159 +1,86 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
 #flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [stresses, stressed, stressing, stressful, stressfully, stressor, stress-free]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /stres/
+> **Part of Speech:** noun, verb
+> **CEFR Level:** B1
+> **Register:** formal/informal/medical
+> **Etymology:** From Old French "estrece" (narrowness, oppression), from Latin "strictus" (tight, compressed)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A state of mental or emotional strain or tension; pressure or tension exerted on a material object
+>
+> **Context Meaning:** A feeling of being overwhelmed or unable to cope with mental or emotional pressure; a physiological response to challenging situations
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Căng thẳng, áp lực
+> - **Contextual:** Stress, lo âu, áp lực tâm lý
+>
 > **Nuances:**
-> - ...
+> - Can refer to both psychological pressure and physical force
+> - Often has negative connotations but can sometimes be motivating (eustress)
+> - Modern usage predominantly refers to mental/emotional pressure
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Overwhelmed, Tense, Resilient
+> **Memory Hook:** "stress" sounds like "stretch" - when you're stressed, you feel stretched beyond your limits
+> **📖 Etymology Story:** Picture a medieval rope maker tightening ropes ("strictus" - tight). The rope becomes stressed as it's stretched. Similarly, our minds become "stressed" when stretched too thin by life's demands. The word evolved from physical tightness to mental tension.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[stress]] /stres/ : pressure or strain
+> - **Noun:** [[stressor]] /ˈstrɛsər/ : something causing stress
+> - **Verb:** [[stress]] /stres/ : to emphasize; to cause stress
+> - **Adj:** [[stressed]] /strest/ : suffering from stress
+> - **Adj:** [[stressful]] /ˈstrɛsfʊl/ : causing stress
+> - **Adj:** [[stress-free]] /ˈstrɛsˌfriː/ : without stress
+> - **Adv:** [[stressfully]] /ˈstrɛsfʊli/ : in a stressful manner
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[pressure]] /ˈprɛʃər/ : the use of persuasion or intimidation
+> - [[tension]] /ˈtɛnʃən/ : mental or emotional strain
+> - [[anxiety]] /æŋˈzaɪəti/ : a feeling of worry or nervousness
+> - [[strain]] /streɪn/ : a state of tension or exhaustion
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[relaxation]] /ˌriːlækˈseɪʃən/ : a state of being free from tension
+> - [[calm]] /kɑːm/ : peaceful, tranquil
+> - [[comfort]] /ˈkʌmfət/ : a state of ease
+> - [[ease]] /iːz/ : absence of difficulty or effort
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. stress + noun (level, management, relief)
+> 2. adjective + stress (chronic, emotional, work-related)
+> 3. verb + stress (cause, reduce, cope with)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Many students experience high levels of stress during final exams.
+> - **Translation:** Nhiều sinh viên trải qua mức độ căng thẳng cao trong kỳ thi cuối kỳ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The doctor advised me to find healthy ways to manage stress.
+> - **Translation:** Bác sĩ đã khuyên tôi tìm những cách lành mạnh để quản lý căng thẳng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing noun and verb pronunciation**
+> - ❌ **Mistake:** I stress (pronounced /striːs/) about my exams.
+> - ✅ **Correction:** I get stressed (pronounced /strest/) about my exams.
+> - **Why:** The verb "to stress" meaning "to emphasize" is /stres/, but when talking about feeling stressed, use "get/become stressed" or "feel stressed".
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "It's not stress that kills us, it is our reaction to it."
+> **Source:** [[Hans Selye]]
 
 ---
 
@@ -161,121 +88,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **stress** (*/stres/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A state of mental or emotional strain or tension resulting from adverse or demanding circumstances; a physiological response to pressure.
+> 🇻🇳 **Vietnamese:** Căng thẳng, áp lực, stress
+> 🗣️ **IPA:** */stres/*
+> 🧠 **Mental Model:** Khi bạn "stress", bạn đang cảm thấy như bị kéo giãn quá giới hạn, giống như một sợi dây đang bị kéo căng đến mức gần đứt.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A state of mental or emotional strain or tension"
+**Vietnamese:** Căng thẳng, áp lực tâm lý
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**stress** (*/stres/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **stress** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Chronic stress can have serious effects on both physical and mental health.
+> 🇻🇳 **Translation:** Stress mãn tính có thể có ảnh hưởng nghiêm trọng đến cả sức khỏe thể chất và tinh thần.
+> 🔍 **Analysis:** "Stress" ở đây là danh từ, thể hiện một trạng thái liên tục (chronic) của căng thẳng, nhấn mạnh tính lâu dài và tác động tiêu cực.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **stress**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Medical Context:** stress management (quản lý stress)
+> 2. **Intensity:** high/low stress levels (mức độ cao/thấp của stress)
+> 3. **Work Context:** work-related stress (stress liên quan đến công việc)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **stress**:
+"I feel bad about work."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I've been experiencing significant work-related stress lately."
+> 💡 **Why it works:** "Stress" cụ thể hóa cảm xúc tiêu cực, gợi lên nguyên nhân (công việc) và thể hiện tính chuyên nghiệp hơn là chỉ nói "feel bad" (cảm thấy tồi tệ).
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **stress** instead of **[[pressure]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **stress:** Dùng khi nói về trạng thái tâm lý bên trong, cảm giác bị quá tải
+> **[[pressure]]:** Dùng khi nói về tác nhân bên ngoài gây ra sự căng thẳng
+> 🧱 **The Barrier:** "Stress" là internal response (phản ứng nội tại), còn "pressure" là external force (tác nhân bên ngoài)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks why you look tired. You're overwhelmed with deadlines. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I've been under a lot of stress with all these deadlines approaching."
+> 👨‍🎨 **Director's Note:** Thể hiện nguyên nhân cụ thể (deadlines) và trạng thái tâm lý một cách chuyên nghiệp, tránh lời than vãn chung chung.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `strictus` (Latin for "tight") to the meaning of **stress**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "stress" bắt nguồn từ Latin "strictus" - "chặt, siết". Giống như một sợi dây bị siết chặt đến giới hạn, tâm trí chúng ta cũng trở nên "tight" khi đối mặt với áp lực. Từ sự siết chặt vật lý này, "stress" đã phát triển thành mô tả sự căng thẳng tâm lý!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **stress**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `strictus` (tight, compressed) → Old French `estrece` → English `stress`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[stressor]] /ˈstrɛsər/ : yếu tố gây stress
+> - *(adj)* [[stressful]] /ˈstrɛsfʊl/ : gây căng thẳng
+> - *(adj)* [[stress-free]] /ˈstrɛsˌfriː/ : không có căng thẳng
+> - *(verb)* [[distress]] /dɪˈstres/ : gây đau khổ, lo lắng
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */stres/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**stress**
+> 📖 **Meaning:** A state of mental or emotional strain or tension
+> 🇻🇳 **Vietnamese:** Căng thẳng, áp lực
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **stress**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I have many stresses in my life.
+> ✅ **Correction:** I have a lot of stress in my life. OR I face many stressors in my life.
+> 🧠 **Why:** "Stress" thường là một noun không đếm được khi nói về trạng thái chung. "Stressors" (có số nhiều) dùng để chỉ các yếu tố cụ thể gây ra stress.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **stress**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[relaxation]] (sự thư giãn - trạng thái giải tỏa căng thẳng)
+> - [[calm]] (sự bình tĩnh - trạng thái yên ổn, không lo âu)
+> 🧱 **Contrast:** "Stress" là trạng thái căng thẳng, tiêu cực; trong khi antonyms là các trạng thái tích cực, nhẹ nhàng và thư thái.
 
 ---
