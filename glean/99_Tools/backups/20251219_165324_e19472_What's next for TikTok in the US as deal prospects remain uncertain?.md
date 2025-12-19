@@ -24,19 +24,19 @@ The law was signed by President Joe Biden while he was still in office and was u
 
 Trump and members of his administration [have previously claimed a TikTok deal was done](https://www.bbc.co.uk/news/articles/clyng762q4eo), and had the blessing of Chinese President Xi Jinping.
 
-The president has also said "sophisticated" US investors [[20_Vocabulary/will|would]] be involved in acquiring [the app](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html), including two of his allies: Oracle chairman Larry Ellison and Dell Technologies' Michael Dell.
+The president has also said "sophisticated" US investors would be involved in acquiring [the app](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html), including two of his allies: Oracle chairman Larry Ellison and Dell Technologies' Michael Dell.
 
-Members of the Trump administration had indicated the deal [[20_Vocabulary/will|would]] be formalised in a meeting between Trump and Xi in October - however it concluded without an agreement being reached.
+Members of the Trump administration had indicated the deal would be formalised in a meeting between Trump and Xi in October - however it concluded without an agreement being reached.
 
 Neither TikTok's Chinese owner ByteDance nor Beijing have since announced approval of a sale, despite Trump's claims.
 
-When Trump signed his most recent executive order extending the deadline to January, he said in an online post it [[20_Vocabulary/will|would]] lead to a deal being completed.
+When Trump signed his most recent executive order extending the deadline to January, he said in an online post it would lead to a deal being completed.
 
 Without naming Trump's hand-selected investors, Mr McCourt told the BBC he was concerned "about a concentration of power and influence because platforms like TikTok are very influencing".
 
 He is part of a group of investors including Reddit co-founder Alexis Ohanian and Canadian investor Kevin O'Leary.
 
-"My hope [[20_Vocabulary/will|would]] be that whatever happens, that it is shut down or sold, and lands in the hands of people that comply with the law," he said.
+"My hope would be that whatever happens, that it is shut down or sold, and lands in the hands of people that comply with the law," he said.
 
 He said he wants to operate TikTok without any of its Chinese technology, including its powerful recommendation algorithm,and that his Project Liberty has developed other technology that could be used instead.
 

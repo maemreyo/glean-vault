@@ -10,7 +10,7 @@ Led by technology secretary Liz Kendall, it [[20_Vocabulary/will|will]] see fema
 
 BCS, the Chartered Institute for IT, recently suggested women accounted for only 22% of those working in IT specialist roles in the UK.
 
-Ms Kendall said the Women in Tech group [[20_Vocabulary/will|would]] "break down the barriers that still [[20_Vocabulary/hold|hold]] too many people back".
+Ms Kendall said the Women in Tech group would "break down the barriers that still [[20_Vocabulary/hold|hold]] too many people back".
 
 "When women are inspired to take on a role in tech and have a seat at the table, the sector can make more representative decisions, build products that serve everyone," she said.
 
@@ -18,13 +18,13 @@ BCS, the Chartered Institute for IT, [warned in December](https://www.bcs.org/ar
 
 It said the government should look to help close the gender gap in order to meet its [ambitious AI goals](https://www.bbc.co.uk/news/articles/crr05jykzkxo).
 
-"We cannot [[20_Vocabulary/invent|create]] high-trust, high-integrity AI systems if the profession behind them is missing out on the talents and perspective of half the population," said chief executive Sharron Gunn.
+"We cannot create high-trust, high-integrity AI systems if the profession behind them is missing out on the talents and perspective of half the population," said chief executive Sharron Gunn.
 
 Ms Kendall [[20_Vocabulary/will|will]] lead the taskforce alongside Anne-Marie Imafidon, founder of Stemettes, who has been appointed as the Women in Tech Envoy.
 
 Dr Imafidon, who passed A-level computing aged 11 and received a Master's Degree in Maths and Computer Science from the University of Oxford aged 20, has sought to [[20_Vocabulary/encourage|encourage]] more young women into careers in Stem - science, technology, engineering and maths.
 
-She told the BBC her role [[20_Vocabulary/will|would]] build on more than a decade of work to establish greater equality for - and representation of - women.
+She told the BBC her role would build on more than a decade of work to establish greater equality for - and representation of - women.
 
 But now, amid what she called "a fourth industrial revolution", was a key moment to "be part of shifting who is making those decisions for what comes next".
 
@@ -32,11 +32,11 @@ But now, amid what she called "a fourth industrial revolution", was a key moment
 
 ## 'Equality long overdue'
 
-The government said the taskforce [[20_Vocabulary/will|will]] advise on ways to make the tech sector more representative and "ensure the UK accesses the full talent pool, market opportunities, and [[20_Vocabulary/invent|innovation]] capacity needed for economic growth".
+The government said the taskforce [[20_Vocabulary/will|will]] advise on ways to make the tech sector more representative and "ensure the UK accesses the full talent pool, market opportunities, and innovation capacity needed for economic growth".
 
 BT Group boss Allison Kirkby, Revolut chief executive Francesca Carlesi and Dr Hayaatun Sillem, chief executive of the Royal Academy of Engineering, are among its 15 founding members.
 
-It also includes TUC assistant general secretary Kate Bell, director of public policy at Uber Emma O'Dwyer, and Sue Daley, director of technology and [[20_Vocabulary/invent|innovation]] at industry group techUK.
+It also includes TUC assistant general secretary Kate Bell, director of public policy at Uber Emma O'Dwyer, and Sue Daley, director of technology and innovation at industry group techUK.
 
 "Entry routes, career progression to leadership, and access to capital are just some of the barriers women in tech still face today," Ms Daley said.
 
