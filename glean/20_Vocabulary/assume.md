@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [assumption, assuming, presumed, supposed, taken for granted]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈsuːm/
+> **Part of Speech:** Verb
+> **CEFR Level:** B2
+> **Register:** Formal/Neutral/Academic
+> **Etymology:** Latin "assumere" (ad- "to" + sumere "to take") - to take up, to take to oneself
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To take something up or accept something without proof
+>
+> **Context Meaning:** To suppose something is true without having evidence to confirm it; to take on or accept a responsibility or role
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** giả định, mặc định
+> - **Contextual:** cho rằng, tin rằng, đảm nhận
+>
 > **Nuances:**
-> - ...
+> - Often implies accepting something without verification
+> - Can also mean taking on a role or responsibility
+> - Common in academic and business contexts for hypothesis formation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Analytical, Cautious, Professional
+> **Memory Hook:** Picture yourself "taking" (sumere) something "up to" (ad) yourself without asking questions
+> **📖 Etymology Story:** Ancient Roman officials would "assumere" - take up responsibilities and powers. When we assume today, we mentally take up an idea as if it were proven, just as those officials took up their roles
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[assumption]] /əˈsʌmpʃn/ : something taken as true without proof
+> - **Verb:** [[assume]] /əˈsuːm/ : to suppose or take on
+> - **Adj:** [[assumed]] /əˈsuːmd/ : supposed, taken as true
+> - **Adv:** [[assumedly]] /əˈsuːmɪdli/ : presumably, supposedly
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[presume]] /prɪˈzuːm/ : suppose to be true without confirmation
+> - [[suppose]] /səˈpoʊz/ : think or assume something
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[verify]] /ˈverɪfaɪ/ : confirm or check the truth
+> - [[prove]] /pruːv/ : demonstrate with evidence
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. assume responsibility
+> 2. safe to assume
+> 3. wrongly assume
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** We can safely assume that the project will be completed by Friday.
+> - **Translation:** Chúng ta có thể yên tâm giả định rằng dự án sẽ hoàn thành vào thứ Sáu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She assumed the role of team leader after the manager resigned.
+> - **Translation:** Cô ấy đã đảm nhận vai trò trưởng nhóm sau khi quản lý từ chức.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Usage Confusion**
+> - ❌ **Mistake:** Don't assume me. I'm innocent!
+> - ✅ **Correction:** Don't assume I'm guilty. I'm innocent!
+> - **Why:** "Assume" takes a clause or object, not a person directly
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "I assume you've already reviewed the report before the meeting."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **assume** (*/əˈsuːm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To suppose something is true without proof; to take on or accept a responsibility
+> 🇻🇳 **Vietnamese:** Giả định, cho rằng, mặc định, đảm nhận
+> 🗣️ **IPA:** */əˈsuːm/*
+> 🧠 **Mental Model:** Tưởng tượng bạn "take up" một idea mà không cần proof - như việc拿起 một gánh nặng mà không cần hỏi
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To suppose something is true without evidence; to take on a role"
+**Vietnamese:** Giả định, đảm nhận
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**assume** (*/əˈsuːm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **assume** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The researchers assume that climate change will accelerate in the coming decades.
+> 🇻🇳 **Translation:** Các nhà nghiên cứu cho rằng biến đổi khí hậu sẽ tăng tốc trong những thập kỷ tới.
+> 🔍 **Analysis:** "Assume"非常适合学术写作，表示基于某些观察但尚未完全证实的 hypothesis，比 "think" 更 formal
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **assume**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Responsibility:** assume responsibility (chịu trách nhiệm)
+> 2. **Certainty:** safe to assume (an toàn để giả định)
+> 3. **Error:** wrongly assume (giả định sai)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **assume**:
+"I think he will come to the party."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I assume he will come to the party."
+> 💡 **Why it works:** "Assume" implies you're making a reasonable judgment based on available evidence, not just guessing
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **assume** instead of **presume**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **assume:** Diễn tả việc accept something as true without evidence, thường trong formal contexts (VN: Giả định)
+> **presume:** Giống assume nhưng thường có một số basis, reasonable inference (VN: Mặc định, suy đoán)
+> 🧱 **The Barrier:** "Presume" thường có more justification than "assume" - assumption có thể hoàn toàn baseless
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague hasn't replied to your urgent email for 3 days. You feel concerned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I assume he's been busy with the quarter-end report."
+> 👨‍🎨 **Director's Note:** Diễn tả việc đưa ra một explanation hợp lý thay vì jumping to conclusions
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `sumere` to the meaning of **assume**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "sumere" có nghĩa là "to take" (拿取). Khi "ad-" (to) + "sumere" (take) tạo thành "assumere" - to take up to oneself. Ngày nay khi bạn assume, bạn mentally "take up" một idea như là thật
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **assume**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `sumere` (to take, to obtain)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[assumption]] - sự giả định
+> - *(verb)* [[consume]] - tiêu thụ (con- + sumere)
+> - *(verb)* [[presume]] - mặc định (pre- + sumere)
+> - *(adj)* [[assuming]] - tự cho mình là
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈsuːm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**assume**
+> 📖 **Meaning:** To suppose or accept without proof; to take on responsibility
+> 🇻🇳 **Vietnamese:** Giả định, đảm nhận
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **assume**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Never assume, it makes an ass out of u and me
+> ✅ **Correction:** While clever wordplay, "assume" is perfectly acceptable in formal writing when used appropriately
+> 🧠 **Why:** The popular saying confuses wordplay with actual usage - "assume" is standard in academic and professional contexts
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **assume**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[verify]] (Xác nhận, kiểm chứng)
+> - [[prove]] (Chứng minh)
+> 🧱 **Contrast:** "Assume" là accepting without proof, còn "verify" là seeking proof before accepting
 
 ---

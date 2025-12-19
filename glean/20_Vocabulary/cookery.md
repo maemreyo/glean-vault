@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
 #flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [cooking, culinary arts, chef, cuisine, baking, gastronomy, kitchen, food preparation, recipe]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkʊkəri/
+> **Part of Speech:** Noun
+> **CEFR Level:** B1
+> **Register:** Formal/Slightly British
+> **Etymology:** From Middle English "cokerie" (place for cooking), from "coken" (to cook), from Latin "coquere"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The art or practice of cooking food
+>
+> **Context Meaning:** The skill, activity, or profession of preparing food for eating; a place where food is cooked
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nghệ thuật nấu ăn, nấu nướng
+> - **Contextual:** kỹ thuật nấu ăn, bếp
+>
 > **Nuances:**
-> - ...
+> - More formal and slightly more British than "cooking"
+> - Often implies skill or profession rather than just the act
+> - Can refer to the place where cooking happens (archaic usage)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Artistic, Skilled, Domestic
+> **Memory Hook:** Cookery = "Cook" + "ery" (like artistry) - making cooking sound like an art form
+> **📖 Etymology Story:** From Latin "coquere" (to cook), this word evolved to emphasize the artistry in cooking. Like "bakery" is a place for baking, "cookery" became both the place AND the art of cooking - transforming simple ingredients into culinary masterpieces.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[cook]] /kʊk/ : person who cooks
+> - **Verb:** [[cook]] /kʊk/ : to prepare food with heat
+> - **Adj:** [[cooked]] /kʊkt/ : prepared with heat
+> - **Noun:** [[cooking]] /ˈkʊkɪŋ/ : the act of preparing food
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[culinary arts]] /ˈkʌlɪnəri ɑːrts/ : professional cooking techniques
+> - [[gastronomy]] /ɡæˈstrɒnəmi/ : art and science of good eating
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - None (activity has no true opposite)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. professional cookery
+> 2. home cookery
+> 3. traditional cookery
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She attended a cookery class to improve her skills in the kitchen.
+> - **Translation:** Cô ấy tham gia một lớp học nấu ăn để nâng cao kỹ năng trong bếp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The hotel is famous for its French cookery and wine selection.
+> - **Translation:** Khách sạn nổi tiếng với nghệ thuật nấu ăn kiểu Pháp và lựa chọn rượu vang.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Regional Usage**
+> - ❌ **Mistake:** "I love American cookery shows." (sounds unnatural in American English)
+> - ✅ **Correction:** "I love American cooking shows."
+> - **Why:** "Cookery" is primarily British; "cooking" is more common in American English.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Cookery is not chemistry. It is an art. It requires instinct and taste rather than exact measurements."
+> **Source:** Marcel Boulestin, French chef
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **cookery** (*/ˈkʊkəri/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The art, skill, or practice of preparing food; a place where cooking is done (archaic)
+> 🇻🇳 **Vietnamese:** Nghệ thuật nấu ăn, kỹ thuật nấu ăn
+> 🗣️ **IPA:** */ˈkʊkəri/*
+> 🧠 **Mental Model:** "Cook" + "ery" = cooking như một art form - không chỉ là action mà là skill và artistry
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The art or practice of preparing food"
+**Vietnamese:** Nghệ thuật nấu ăn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**cookery** (*/ˈkʊkəri/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **cookery** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The culinary school offers courses in professional cookery and pastry making.
+> 🇻🇳 **Translation:** Trường dạy nấu ăn cung cấp các khóa học về nghệ thuật nấu ăn chuyên nghiệp và làm bánh ngọt.
+> 🔍 **Analysis:** Cookery ở đây formal hơn "cooking", emphasises professional skill và artistry - perfect cho academic/training context vì nó sounds more prestigious và serious
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **cookery**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Professional:** professional cookery (nghệ thuật nấu ăn chuyên nghiệp - emphasis on career level)
+> 2. **Traditional:** traditional cookery (nấu ăn truyền thống - emphasis on heritage methods)
+> 3. **Home:** home cookery (nấu ăn gia đình - emphasis on domestic skills)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **cookery**:
+"She learned to make food."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She mastered the art of French cookery at the prestigious culinary institute."
+> 💡 **Why it works:** "Cookery" elevates simple food preparation thành art form, "mastered the art" emphasises skill level, "French cookery" specifies cuisine type, "prestigious culinary institute" adds context sophistication
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **cookery** instead of **cooking**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **cookery:** Art/profession of cooking (nghệ thuật/kỹ thuật - more formal, British)
+> **cooking:** Act/process of preparing food (việc nấu ăn - general, common usage)
+> 🧱 **The Barrier:** Cookery emphasizes skill and artistry; cooking describes the activity. Cookery sounds more professional and slightly British.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing your hobby. You want to sound sophisticated. You feel proud of your skills. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I've recently taken up Mediterranean cookery - the flavors are incredible!"
+> 👨‍🎨 **Director's Note:** Uses "cookery" thay vì "cooking" để sound more sophisticated, specifies cuisine type ("Mediterranean") shows knowledge, expresses enthusiasm naturally
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `coquere` to the meaning of **cookery**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `coquere` means "to cook" or "to ripen." When adding "-ery" suffix, nó transforms action thành art form - như "bakery" là nơi làm bánh, "cookery" becomes cả place và art của cooking. Từ raw ingredients đến finished dishes.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **cookery**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `coquere` (to cook, to digest)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[cook]] /kʊk/ (person who cooks)
+> - *(verb)* [[cook]] /kʊk/ (to prepare food)
+> - *(noun)* [[cooking]] /ˈkʊkɪŋ/ (the activity)
+> - *(noun)* [[kitchen]] /ˈkɪtʃən/ (place for cooking)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkʊkəri/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**cookery**
+> 📖 **Meaning:** The art or practice of preparing food
+> 🇻🇳 **Vietnamese:** Nghệ thuật nấu ăn, kỹ thuật nấu ăn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **cookery**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Let's have a cookery party tonight." (sounds unnatural in most contexts)
+> ✅ **Correction:** "Let's have a cooking party tonight." or "Let's have a cookery class."
+> 🧠 **Why:** "Cookery" thường用在 formal contexts (classes, professional settings). "Cooking" more natural cho casual activities.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What concept contrasts with **cookery**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Contrasts:**
+> - [[food consumption]] (eating rather than preparing)
+> - [[raw food]] (unprepared versus prepared)
+> 🧱 **Contrast:** Cookery is about transformation through preparation; the opposite is simply consuming or leaving food in its natural state.
 
 ---

@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
 #flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [sculpting tools, carving tool, modeling tool, chisel, mallet, sculpting equipment, stone carving tools, wood carving tools, clay tools]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈskʌlptɪŋ tuːl/
+> **Part of Speech:** Noun Phrase
+> **CEFR Level:** B1
+> **Register:** Informal/Technical
+> **Etymology:** From Latin "sculpere" (to carve) + Old English "tōl" (instrument)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An instrument used for carving or shaping materials like stone, wood, or clay
+>
+> **Context Meaning:** Any specialized implement designed to help artists create three-dimensional artworks by removing, shaping, or adding material
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** dụng cụ điêu khắc
+> - **Contextual:** công cụ điêu khắc
+>
 > **Nuances:**
-> - ...
+> - Can range from primitive handheld implements to sophisticated power tools
+> - Different materials require different specialized tools
+> - The choice of tool affects the final texture and finish of the sculpture
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Artistic, Precise, Crafty
+> **Memory Hook:** Imagine a sculptor carefully selecting their tools like a warrior choosing weapons - each one has a specific purpose in the battle against raw material
+> **📖 Etymology Story:** From Latin "sculpere" meaning "to carve," these tools have evolved since ancient times when early humans used sharp stones to shape figures. The word captures the essence of transformation - turning raw material into art through skillful manipulation.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[sculpture]] /ˈskʌlptʃər/ : a three-dimensional artwork
+> - **Verb:** [[sculpt]] /skʌlpt/ : to create a three-dimensional artwork
+> - **Adj:** [[sculptural]] /ˈskʌlptʃərəl/ : relating to sculpture
+> - **Adv:** [[sculpturally]] /ˈskʌlptʃərəli/ : in a sculptural manner
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[carving tool]] /ˈkɑːrvɪŋ tuːl/ : specifically for cutting material away
+> - [[modeling tool]] /ˈmɒdəlɪŋ tuːl/ : for shaping soft materials
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - None (tools don't have true antonyms)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. sharp sculpting tool
+> 2. specialized sculpting tool
+> 3. traditional sculpting tool
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The artist carefully selected his favorite sculpting tool - a worn wooden handle with a metal tip perfect for fine details.
+> - **Translation:** Nghệ sĩ cẩn thận chọn dụng cụ điêu khắc yêu thích của mình - một chiếc tay gỗ sờn với đầu kim loại hoàn hảo cho các chi tiết tinh xảo.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Modern sculptors often use power tools alongside traditional hand sculpting tools to work with harder materials.
+> - **Translation:** Các nhà điêu khắc hiện đại thường sử dụng dụng cụ điện cùng với các dụng cụ điêu khắc thủ công truyền thống để làm việc với các vật liệu cứng hơn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect Count**
+> - ❌ **Mistake:** "I need a sculpting tools to carve this wood."
+> - ✅ **Correction:** "I need sculpting tools to carve this wood." (plural) or "I need a sculpting tool to carve this wood." (singular)
+> - **Why:** "A" requires a singular noun. Multiple tools require no article.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The sculptor's hand is only as good as his sculpting tool."
+> **Source:** Traditional saying
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a sculpting tool** (*/ˈskʌlptɪŋ tuːl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An instrument used by artists to carve, shape, or model materials such as stone, wood, clay, or metal to create three-dimensional artworks
+> 🇻🇳 **Vietnamese:** Một công cụ dùng để điêu khắc
+> 🗣️ **IPA:** */ˈskʌlptɪŋ tuːl/*
+> 🧠 **Mental Model:** Dụng cụ giúp artist biến material thô thành artwork 3D - như weapons cho sculptor
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An instrument used for carving or shaping materials in sculpture creation"
+**Vietnamese:** Dụng cụ điêu khắc
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a sculpting tool** (*/ˈskʌlptɪŋ tuːl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a sculpting tool** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The sculptor picked up his favorite sculpting tool and began working on the marble block.
+> 🇻🇳 **Translation:** Nhà điêu khắc nhặt dụng cụ điêu khắc yêu thích của mình và bắt đầu làm việc với khối cẩm thạch.
+> 🔍 **Analysis:** Cụm từ này diễn tả một công cụ cụ thể dùng cho việc điêu khắc - perfect cho context nghệ thuật vì nó shows precision và specialized equipment của một artist
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a sculpting tool**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Specialized:** a specialized sculpting tool (dụng cụ chuyên dụng - emphasises purpose-built nature)
+> 2. **Sharp:** a sharp sculpting tool (dụng cụ sắc bén - emphasises cutting ability)
+> 3. **Traditional:** a traditional sculpting tool (dụng cụ truyền thống - emphasises heritage method)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a sculpting tool**:
+"The artist used something to make the statue."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The artist wielded a sculpting tool with practiced precision to shape the statue."
+> 💡 **Why it works:** "Sculpting tool" specific về equipment dùng cho 3D art, "wielded" tạo hình ảnh power và control, "practiced precision" emphasises skill level của artist
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a sculpting tool** instead of **a knife**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a sculpting tool:** Designed specifically for artistic creation in 3D (dụng cụ chuyên cho điêu khắc nghệ thuật)
+> **a knife:** General cutting tool for everyday use (dụng cụ cắt thông thường)
+> 🧱 **The Barrier:** Sculpting tools have specialized shapes và purposes cho artistic manipulation of materials, while knives primarily for cutting food/general objects
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're in an art supply store. You need to start carving your first sculpture. You feel overwhelmed by choices. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm looking for a good sculpting tool to work with clay - any recommendations for a beginner?"
+> 👨‍🎨 **Director's Note:** Shows humility và seek advice - perfect cho beginner artist situation, demonstrates awareness of different tools cho different materials
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `sculpere` to the meaning of **a sculpting tool**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `sculpere` means "to carve" - early humans used sharp stones as primitive sculpting tools. Từ đó phát triển thành specialized instruments dùng để transform raw materials thành art qua skilled hands. Tool becomes extension của artist's creative vision.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a sculpting tool**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `sculpere` (to carve, to engrave)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[sculpt]] /skʌlpt/
+> - *(noun)* [[sculpture]] /ˈskʌlptʃər/
+> - *(adj)* [[sculptural]] /ˈskʌlptʃərəl/
+> - *(noun)* [[sculptor]] /ˈskʌlptər/ (the artist)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈskʌlptɪŋ tuːl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a sculpting tool**
+> 📖 **Meaning:** An instrument used for carving or shaping artistic creations
+> 🇻🇳 **Vietnamese:** Dụng cụ điêu khắc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a sculpting tool**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The artist uses many sculpting tool to make his art."
+> ✅ **Correction:** "The artist uses many sculpting tools to make his art."
+> 🧠 **Why:** Plural subject "many tools" requires plural form "sculpting tools." "Tool" cần phải pluralize khi nói về multiple implements.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite concept of **a sculpting tool**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[molding material]] (the substance being shaped rather than the shaping implement)
+> - [[canvas]] (a 2D art surface versus 3D creation tools)
+> 🧱 **Contrast:** Tools create the form while materials receive the form - opposite sides of the artistic equation
 
 ---

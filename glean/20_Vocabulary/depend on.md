@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [rely on, count on, depend upon, dependent on, dependence]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dɪˈpend ɔn/
+> **Part of Speech:** Phrasal verb
+> **CEFR Level:** A2/B1
+> **Register:** Neutral/Formal
+> **Etymology:** "Depend" (Latin "dependere" - de- "down" + pendere "to hang") + "on"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To hang down from; to be suspended from
+>
+> **Context Meaning:** To rely on someone or something for support, help, or to be needed; to be determined or contingent on something else
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** phụ thuộc vào
+> - **Contextual:** dựa vào, tin vào, tùy thuộc vào
+>
 > **Nuances:**
-> - ...
+> - Can express reliance/trust in people or things
+> - Often used for conditional relationships (if X happens, Y depends on it)
+> - Common in both personal and professional contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Supportive, Connected, Conditional
+> **Memory Hook:** Picture yourself hanging from (pendere) a strong branch - you depend on it not to break
+> **📖 Etymology Story:** Ancient vines would "dependere" - hang down from trees, completely depending on their hosts for support. Today when we depend on something, we metaphorically hang our needs on its reliability
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[dependence]] /dɪˈpendəns/ : the state of relying on someone/something
+> - **Noun:** [[dependency]] /dɪˈpendənsi/ : a dependency or something depended on
+> - **Adj:** [[dependent]] /dɪˈpendənt/ : relying on someone/something
+> - **Adj:** [[independent]] /ˌɪndɪˈpendənt/ : not depending on others
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[rely on]] /rɪˈlaɪ ɔn/ : to count on for support
+> - [[count on]] /kaʊnt ɔn/ : to trust or depend on
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[independent of]] /ˌɪndɪˈpendənt əv/ : not relying on
+> - [[stand alone]] /stænd əˈloʊn/ : to be self-sufficient
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. depend heavily on
+> 2. depend entirely on
+> 3. depend on someone for
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Small businesses often depend on local customers for survival.
+> - **Translation:** Các doanh nghiệp nhỏ thường phụ thuộc vào khách hàng địa phương để tồn tại.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The success of this project depends on how well we work together.
+> - **Translation:** Sự thành công của dự án này phụ thuộc vào việc chúng ta hợp tác tốt như thế nào.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** We depend of our parents for financial support.
+> - ✅ **Correction:** We depend on our parents for financial support.
+> - **Why:** "Depend" always takes "on" (not "of") as its preposition
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "In today's interconnected world, economies depend on international trade."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **depend on** (*/dɪˈpend ɔn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To rely on someone or something for support or to be contingent on something
+> 🇻🇳 **Vietnamese:** Phụ thuộc vào, dựa vào, tùy thuộc vào
+> 🗣️ **IPA:** */dɪˈpend ɔn/*
+> 🧠 **Mental Model:** Tưởng tượng bạn "hang from" một cành cây - bạn hoàn toàn depend on nó để không bị rơi
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To rely on someone or something; to be contingent on"
+**Vietnamese:** Phụ thuộc vào
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**depend on** (*/dɪˈpend ɔn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **depend on** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Children depend on their parents for guidance and protection.
+> 🇻🇳 **Translation:** Trẻ em phụ thuộc vào cha mẹ để được chỉ dẫn và bảo vệ.
+> 🔍 **Analysis:** "Depend on" diễn tả relationship of reliance and trust, stronger than just "need" vì nó包含 yếu tố trust và expectation
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **depend on**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** heavily/strongly depend on (phụ thuộc nặng nề vào)
+> 2. **Completeness:** entirely/solely depend on (hoàn toàn phụ thuộc vào)
+> 3. **Purpose:** depend on someone for something (phụ thuộc vào ai đó để làm gì)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **depend on**:
+"I need my friends."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I depend on my friends for emotional support during difficult times."
+> 💡 **Why it works:** "Depend on" thể hiện sự reliance sâu sắc và trust, hơn là chỉ đơn giản là "need"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **depend on** instead of **need**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **depend on:** Diễn tả sự reliance continuous và trust trong relationship (VN: Phụ thuộc vào)
+> **need:** Chỉ đơn giản là requirement cho một situation cụ thể (VN: Cần)
+> 🧱 **The Barrier:** "Depend on" implies ongoing reliance và trust, còn "need" chỉ là immediate requirement
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your teammate is asking if the project deadline can be extended. You want to explain what determines this. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "That depends on whether the client approves our budget extension."
+> 👨‍🎨 **Director's Note:** Diễn tả tính conditional, cho thấy outcome phụ thuộc vào một yếu tố khác
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `pendere` to the meaning of **depend on**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "pendere" có nghĩa là "to hang" (treo). "De-" có nghĩa là "down from" (từ trên xuống). Khi bạn "depend on" ai đó, bạn metaphorically "hang from" sự support của họ, như một quả treo trên cây
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **depend on**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `pendere` (to hang)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[pending]] - đang chờ đợi (treo lơ lửng)
+> - *(noun)* [[pendant]] - mặt dây chuyền (vật treo)
+> - *(adj)* [[suspend]] - treo, tạm dừng
+> - *(noun)* [[independence]] - sự độc lập
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dɪˈpend ɔn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**depend on**
+> 📖 **Meaning:** To rely on or be contingent upon
+> 🇻🇳 **Vietnamese:** Phụ thuộc vào
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **depend on**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** My success depends to my hard work
+> ✅ **Correction:** My success depends on my hard work
+> 🧠 **Why:** "Depend" luôn đi với preposition "on", không phải "to". Đây là fixed collocation cần nhớ
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **depend on**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[independent of]] (Độc lập với)
+> - [[stand alone]] (Tự đứng một mình)
+> 🧱 **Contrast:** "Depend on" là needing others, còn "independent of" là self-sufficient
 
 ---

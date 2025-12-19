@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [harmed, harming, harmful, harmless, hurt, injury, damage, endanger, threaten, negative impact, adverse effect, detrimental]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /hɑːrm/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** From Old French *harme* "injury, hurt," from Proto-Germanic *harjam* "army troop, hostile force" (originally "warlike damage")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Physical injury or mental damage
+>
+> **Context Meaning:** To cause damage, injury, or negative effects; something that causes damage or injury
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** làm hại, gây tổn hại
+> - **Contextual:** tổn thương, tác hại, thiệt hại, ảnh hưởng xấu
+>
 > **Nuances:**
-> - ...
+> - Can be physical, mental, emotional, or environmental
+> - Often implies intention or negligence
+> - Used in legal and medical contexts frequently
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Dangerous, Warning, Serious
+> **Memory Hook:** "Harm" sounds like "hammer" - a tool that can cause damage if used wrongly
+> **📖 Etymology Story:** From ancient Germanic tribes where "harjam" meant "army" - armies were the main source of harm in ancient times. Now the word softened to mean any damage, not just war-related.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[harm]] /hɑːrm/ : damage or injury
+> - **Verb:** [[harm]] /hɑːrm/ : to cause damage
+> - **Adj:** [[harmful]] /ˈhɑːrmfl/ : causing damage
+> - **Adj:** [[harmless]] /ˈhɑːmləs/ : causing no harm
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[damage]] /ˈdæmɪdʒ/ : physical harm
+> - [[injure]] /ˈɪndʒər/ : cause physical harm
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[benefit]] /ˈbenɪfɪt/ : good effect
+> - [[help]] /help/ : to assist or improve
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. cause harm
+> 2. do harm
+> 3. harmful effects
+>
+> **1. Environmental Context**
+> - **Sentence:** Pollution can cause serious harm to marine ecosystems.
+> - **Translation:** Ô nhiễm có thể gây tổn hại nghiêm trọng cho các hệ sinh thái biển.
+>
+> **2. Legal Context**
+> - **Sentence:** The company was found guilty of harming consumers with faulty products.
+> - **Translation:** Công ty đã bị kết tội gây hại cho người tiêu dùng bằng sản phẩm lỗi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** Smoking harms to your health.
+> - ✅ **Correction:** Smoking harms your health.
+> - **Why:** "Harm" is transitive - it doesn't need "to" when followed by an object.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "First, do no harm."
+> **Source:** [[Hippocratic Oath]]
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **harm** (*/hɑːrm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To cause physical or mental damage, injury, or negative effects
+> 🇻🇳 **Vietnamese:** Gây tổn hại, làm bị thương, gây ảnh hưởng xấu
+> 🗣️ **IPA:** */hɑːrm/*
+> 🧠 **Mental Model:** Giống như break something valuable - làm hỏng thứ quý giá (health, reputation, property)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To cause physical or mental damage or injury"
+**Vietnamese:** Gây tổn hại, làm hại
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**harm** (*/hɑːrm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **harm** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Excessive screen time can harm children's development and social skills.
+> 🇻🇳 **Translation:** Thời gian sử dụng màn hình quá nhiều có thể gây hại cho sự phát triển và kỹ năng xã hội của trẻ em.
+> 🔍 **Analysis:** "Harm" ở đây chỉ tác động tiêu cực lâu dài, không chỉ physical injury mà còn development impact
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **harm**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Environmental:** environmental harm (tổn hại môi trường - VN: impact xấu đến nature)
+> 2. **Medical:** serious harm (tổn hại nghiêm trọng - VN: injury nặng)
+> 3. **Prevention:** prevent harm (ngăn ngừa tổn hại - VN: stop damage trước khi xảy ra)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **harm**:
+"This is bad for the environment."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Industrial waste poses significant harm to local water sources and wildlife."
+> 💡 **Why it works:** "Harm" tạo hình ảnh cụ thể về damage thực tế thay vì "bad" chung chung
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **harm** instead of **[[hurt]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **harm:** Dùng khi chỉ damage lâu dài, serious, abstract concepts (health, reputation) - VN: tổn hại
+> **[[hurt]]:** Dùng khi chỉ emotional pain hoặc immediate physical injury - VN: làm đau, làm tổn thương
+> 🧱 **The Barrier:** Harm là damage assessment, hurt là pain experience. Words can harm your reputation without hurting your feelings immediately
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to try a dangerous new internet challenge. You're worried.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Please don't do that! It could seriously harm you."
+> 👨‍🎨 **Director's Note:** "Harm" thể hiện mức độ nghiêm trọng của potential damage, phù hợp với cảnh báo
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `harjam` to the meaning of **harm**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Germanic "harjam" = army troop (source of damage). Modern harm = any damage, not just from war. Giống như từ "damage" từ Latin "damnum" = loss, financial loss expand thành any loss.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **harm**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Proto-Germanic `harjam` (army, hostile force)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[harmful]] - gây hại (gây ra harm)
+> - *(adj)* [[harmless]] - vô hại (không gây hại)
+> - *(adv)* [[harmfully]] - một cách có hại
+> - *(adv)* [[harmlessly]] - một cách vô hại
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */hɑːrm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**harm**
+> 📖 **Meaning:** To cause physical or mental damage or injury
+> 🇻🇳 **Vietnamese:** Gây tổn hại, làm hại
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **harm**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The loud music is harming to my ears."
+> ✅ **Correction:** "The loud music is harming my ears" OR "The loud music is harmful to my ears."
+> 🧠 **Why:** "Harm" là verb không cần "to". "Harmful" là adjective cần "to". Không mix lẫn hai form.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **harm**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[benefit]] (positive outcome or advantage)
+> - [[protect]] (to keep safe from harm)
+> - [[heal]] (to repair damage)
+> 🧱 **Contrast:** Harm là breaking down, benefit là building up. Giống như destroy vs construct relationship.
 
 ---

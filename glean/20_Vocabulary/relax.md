@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [relaxed, relaxing, relaxation, unwind, de-stress, calm down, loosen up, take it easy, rest, chill, leisure, repose, tranquilize]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈlæks/
+> **Part of Speech:** verb
+> **CEFR Level:** A2
+> **Register:** neutral/informal
+> **Etymology:** From Latin *relaxare* "to loosen, stretch out," from *re-* "back" + *laxare* "to loosen"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To make or become less tense or anxious
+>
+> **Context Meaning:** To rest from work or engage in recreational activity; to become less formal or strict
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thư giãn, thả lỏng
+> - **Contextual:** nghỉ ngơi, thư thái, không căng thẳng
+>
 > **Nuances:**
-> - ...
+> - Can refer to both physical and mental state
+> - Often implies voluntary choice to ease tension
+> - Used for muscles, rules, attitudes, and social situations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Gentle, Soothing, Easygoing
+> **Memory Hook:** Imagine *re*laxing as "releasing the *lax* (loose)" - you're becoming loose again
+> **📖 Etymology Story:** Ancient Romans would tell stressed friends to "relaxare" - literally pull back the bowstring to release tension. Today we still use this concept when we need to pull back from life's tensions and let go.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[relaxation]] /ˌriːlækˈseɪʃn/ : the state of being free from tension
+> - **Verb:** [[relax]] /rɪˈlæks/ : to become less tense
+> - **Adj:** [[relaxed]] /rɪˈlækst/ : free from tension
+> - **Adv:** [[relaxingly]] /rɪˈlæksɪŋli/ : in a relaxed manner
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[unwind]] /ʌnˈwaɪnd/ : gradually relax after stress
+> - [[de-stress]] /diːˈstres/ : relieve stress
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[tense]] /tens/ : unable to relax
+> - [[stress]] /stres/ : mental or emotional strain
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. relax and enjoy
+> 2. feel relaxed
+> 3. relax the muscles
+>
+> **1. Health & Wellness Context**
+> - **Sentence:** After a long week at work, I like to relax by taking a warm bath.
+> - **Translation:** Sau một tuần làm việc căng thẳng, tôi thích thư giãn bằng cách tắm nước ấm.
+>
+> **2. Social Context**
+> - **Sentence:** The dress code has been relaxed, so employees can wear jeans on Fridays.
+> - **Translation:** Nội quy trang phục đã được nới lỏng, vì vậy nhân viên có thể mặc quần jeans vào thứ Sáu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** I want to relax from my work.
+> - ✅ **Correction:** I want to relax after work. / I need a break from work to relax.
+> - **Why:** We don't "relax from" something; we relax "after" something or just "relax" without a preposition.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Your mind will answer most questions if you learn to relax and wait for the answer."
+> **Source:** [[William S. Burroughs]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **relax** (*/rɪˈlæks/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To become less tense or anxious; to rest from work and engage in recreational activities
+> 🇻🇳 **Vietnamese:** Thư giãn, thả lỏng, nghỉ ngơi
+> 🗣️ **IPA:** */rɪˈlæks/*
+> 🧠 **Mental Model:** Giống như release tension - release button để pressure giảm xuống
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To become less tense or anxious; to rest from work"
+**Vietnamese:** Thư giãn, thả lỏng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**relax** (*/rɪˈlæks/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **relax** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The yoga instructor told us to breathe deeply and relax our shoulders.
+> 🇻🇳 **Translation:** Huấn luyện viên yoga bảo chúng ta hít thở sâu và thư giãn vai.
+> 🔍 **Analysis:** "Relax" ở đây kết hợp với "shoulders" để chỉ việc chủ động thả lỏng cơ bắp, rất natural trong yoga context
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **relax**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Recovery:** relax and unwind (hồi phục sau stress - VN: thư giãn và giải tỏa)
+> 2. **Physical:** relax the muscles (thả lỏng cơ bắp - VN: giãn cơ)
+> 3. **Social:** relax the rules (nới lỏng quy định - VN: làm luật lỏng lẻo hơn)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **relax**:
+"I need to not work so hard."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I need to step back and relax before I burn out completely."
+> 💡 **Why it works:** "Relax" tạo hình ảnh cụ thể về việc chủ động giảm stress thay vì chỉ nói chung chung "not work hard"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **relax** instead of **[[rest]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **relax:** Dùng khi chủ động giảm căng thẳng (tinh thần hoặc cơ thể) - VN: chủ động thư giãn
+> **[[rest]]:** Dùng khi ngừng hoạt động để phục hồi năng lượng - VN: nghỉ ngơi phục hồi
+> 🧱 **The Barrier:** Relax là mental state, rest là physical inactivity. Bạn có rest mà không relax (lying in bed worried) nhưng không thể relax mà không rest ở level nào đó
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You've been studying for 6 hours straight for final exams. Your head hurts. You call a friend.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I think I need to take a break and relax for a bit before I continue studying."
+> 👨‍🎨 **Director's Note:** "Relax" thể hiện nhu cầu giảm mental pressure tự nhiên khi study quá sức
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `laxare` to the meaning of **relax**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "laxare" = to make loose. Thêm "re-" = back. Combine = "loosen back". Giống như untie a knot, bạn đang untie your tension - gỡ nút thắt căng thẳng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **relax**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `laxare` (to loosen)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[relaxation]] - quá trình thư giãn
+> - *(adj)* [[relaxed]] - đã thư giãn
+> - *(adj)* [[relaxing]] - làm thư giãn (chỉ thứ gây ra relaxation)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈlæks/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**relax**
+> 📖 **Meaning:** To become less tense or anxious
+> 🇻🇳 **Vietnamese:** Thư giãn, thả lỏng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **relax**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I relax myself with music."
+> ✅ **Correction:** "I relax with music" OR "Music helps me relax."
+> 🧠 **Why:** Relax là intransitive verb - không cần object "myself". Music là external agent giúp bạn relax.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **relax**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[tense]] (physical or mental tightness)
+> - [[stress]] (mental pressure causing strain)
+> - [[tighten]] (physical opposite)
+> 🧱 **Contrast:** Tense là state of readiness/stress, relax là state of release. Giống như clenched fist vs open hand.
 
 ---

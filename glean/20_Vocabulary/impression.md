@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [impressions, impressive, impressively, unimpressive, unimpressively, impressed, impress, impresses, impressing, impressibility, impressible]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪmˈpreʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/informal
+> **Etymology:** From Latin impressio (noun of action) from impress- 'pressed in', from the verb imprimere
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An idea, feeling, or opinion about something or someone, especially one formed without conscious thought or on the basis of little evidence.
+>
+> **Context Meaning:** The effect or influence that a person, place, or thing produces on someone else; a mark made by pressing something onto a surface.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ấn tượng
+> - **Contextual:** cảm nhận, sự ảnh hưởng, dấu vết
+>
 > **Nuances:**
-> - ...
+> - Can refer to both a mental effect (feeling/opinion) and a physical mark
+> - Often implies a preliminary or initial judgment
+> - Used in both social contexts (making an impression) and technical contexts (impression in printing/dentistry)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Observant, Perceptive, Social
+> **Memory Hook:** Think of "pressing in" - when you press an idea into your mind, you form an impression
+> **📖 Etymology Story:** Ancient Romans used "imprimere" (to press into) when making wax seals. Your mind is like wax - experiences press into it, leaving lasting impressions. Just as a seal leaves its unique mark, every experience leaves its impression on your consciousness.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[impression]] /ɪmˈpreʃn/
+> - **Verb:** [[impress]] /ɪmˈpres/
+> - **Adj:** [[impressive]] /ɪmˈpresɪv/, [[impressed]] /ɪmˈprest/
+> - **Adv:** [[impressively]] /ɪmˈpresɪvli/, [[impressedly]] /ɪmˈprestli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[impact]] /ˈɪmpækt/ : a strong effect
+> - [[perception]] /pəˈsepʃn/ : way of seeing or understanding
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[reality]] /riˈæləti/ : actual state of things
+> - [[insignificance]] /ˌɪnsɪɡˈnɪfɪkəns/ : lack of importance
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. First/initial impression - the immediate feeling when meeting someone
+> 2. Lasting impression - a memory that stays with you
+> 3. Under the impression - mistakenly believing something
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** My first impression of the new manager was that she was very professional and approachable.
+> - **Translation:** Ấn tượng đầu tiên của tôi về quản lý viên mới là cô ấy rất chuyên nghiệp và dễ gần.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The artist made an impression of my face in clay as a practice sculpture.
+> - **Translation:** Nghệ sĩ đã tạo một khuôn khuôn mặt tôi bằng đất sét như một tác phẩm điêu khắc thực hành.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with 'opinion'**
+> - ❌ **Mistake:** What's your impression about politics? (should use 'opinion' for developed thoughts)
+> - ✅ **Correction:** What's your opinion about politics? / What was your first impression of the debate?
+> - **Why:** 'Impression' suggests immediate/undeveloped feelings, while 'opinion' indicates formed judgment
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "You never get a second chance to make a first impression."
+> **Source:** [[Will Rogers]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **impression** (*/ɪmˈpreʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An idea, feeling, or opinion about someone or something, especially one formed without conscious thought or on the basis of little evidence.
+> 🇻🇳 **Vietnamese:** Ấn tượng; cảm nhận; dấu vết để lại
+> 🗣️ **IPA:** */ɪmˈpreʃn/*
+> 🧠 **Mental Model:** Mental "fingerprint" left by experiences - like pressing clay, events shape our mind's surface
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An idea, feeling, or opinion about someone or something, especially one formed without conscious thought"
+**Vietnamese:** Ấn tượng; cảm nhận
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**impression** (*/ɪmˈpreʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **impression** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The candidate's confident handshake created a positive impression during the job interview.
+> 🇻🇳 **Translation:** Việc bắt tay tự tin của ứng viên đã tạo ra một ấn tượng tích cực trong buổi phỏng vấn.
+> 🔍 **Analysis:** Perfect here because 'impression' captures the immediate, intuitive feeling formed without deep analysis
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **impression**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Initial assessment:** first impression (VN: ấn tượng ban đầu - shows immediacy)
+> 2. **Duration/impact:** lasting impression (VN: ấn tượng lâu dài - emphasizes permanence)
+> 3. **Misconception:** under the impression (VN: lầm tưởng - shows mistaken belief)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **impression**:
+"The meeting was okay."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The meeting left me with the impression that management values innovation."
+> 💡 **Why it works:** Transforms vague assessment into specific perceptual judgment, showing how experience shaped your mental model
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **impression** instead of **[[opinion]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **impression:** Immediate, intuitive feeling (VN: cảm nhận tức thời - gut reaction, first take)
+> **opinion:** Deliberate, reasoned judgment (VN: quan điểm có suy nghĩ - formed conclusion)
+> 🧱 **The Barrier:** Time & deliberation - impression is instant press, opinion is processed thought
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Meeting your future in-laws for the first time. You want them to like you. What must you manage?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I need to make a good first impression."
+> 👨‍🎨 **Director's Note:** Captures social awareness - immediate judgment matters critically in this context
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `press` to the meaning of **impression**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'imprimere' = press into. Just as printing press leaves ink impressions on paper, experiences press their mark into your mind. Your consciousness is the paper, life events are the press.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **impression**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `premere` (<to press>)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[impress]] - to press in, influence
+> - *(adj)* [[impressive]] - worthy of being pressed into memory
+> - *(adj)* [[pressed]] - undergoing pressure
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪmˈpreʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**impression**
+> 📖 **Meaning:** An idea, feeling, or opinion formed without conscious thought
+> 🇻🇳 **Vietnamese:** Ấn tượng; cảm nhận
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **impression**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I have a good impression about this policy.
+> ✅ **Correction:** I have a good opinion about this policy. / This policy left a good impression on me.
+> 🧠 **Why:** 'Impression' requires object + preposition structure (on/upon someone) or subject + left/gave impression
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **impression**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[reality]] (the actual state vs. perception of it)
+> - [[indifference]] (no impression formed vs. strong impression)
+> 🧱 **Contrast:** Impression marks consciousness, reality marks existence; impression engages attention, indifference ignores it
 
 ---

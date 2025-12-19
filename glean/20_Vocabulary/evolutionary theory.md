@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
 #flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: ["evolutionary theories", "theory of evolution", "Darwinian theory", "natural selection theory"]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌiːvəˈluːʃənəri ˈθɪəri/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** academic
+> **Etymology:** From Latin 'evolvere' (to roll out, unfold) + Greek 'theoria' (contemplation, speculation)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A scientific explanation for the diversity of life on Earth
+>
+> **Context Meaning:** The biological theory that species change over time through natural selection
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** lý thuyết tiến hóa
+> - **Contextual:** thuyết tiến hóa, học thuyết tiến hóa
+>
 > **Nuances:**
-> - ...
+> - Encompasses both microevolution (small changes) and macroevolution (large-scale changes)
+> - Foundation of modern biology and life sciences
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Scholarly
+> **Memory Hook:** Evolution = species "rolling out" changes over millions of years
+> **📖 Etymology Story:** From Latin 'evolvere' meaning 'to roll out', like a scroll gradually revealing its contents - species slowly reveal their changes through time
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[evolution]] /ˌiːvəˈluːʃən/
+> - **Adj:** [[evolutionary]] /ˌiːvəˈluːʃənəri/
+> - **Adv:** [[evolutionarily]] /ˌiːvəˈluːʃənerəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[Darwinism]] /ˈdɑːrwɪnɪzəm/ : Natural selection theory
+> - [[natural selection]] /ˈnætʃrəl sɪˈlekʃən/ : Core mechanism
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[creationism]] /kriˈeɪʃənɪzəm/ : Divine creation theory
+> - [[intelligent design]] /ɪnˈtelɪdʒənt dɪˈzaɪn/ : Guided evolution
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. propose a theory
+> 2. support the theory
+> 3. challenge the theory
+>
+> **1. Scientific Context**
+> - **Sentence:** Darwin's evolutionary theory revolutionized our understanding of life on Earth.
+> - **Translation:** Lý thuyết tiến hóa của Darwin đã cách mạng hóa sự hiểu biết của chúng ta về sự sống trên Trái Đất.
+>
+> **2. Educational Context**
+> - **Sentence:** Students learn about evolutionary theory in high school biology classes.
+> - **Translation:** Học sinh học về lý thuyết tiến hóa trong các lớp sinh học trung học.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Theory vs Hypothesis**
+> - ❌ **Mistake:** "Evolution is just a theory (guess)"
+> - ✅ **Correction:** "Evolutionary theory is a well-supported scientific framework"
+> - **Why:** In science, "theory" means a well-substantiated explanation, not a guess
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Evolutionary theory explains how species adapt and change over time through natural selection."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -161,121 +79,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **evolutionary theory** (*/ˌiːvəˈluːʃənəri ˈθɪəri/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A scientific explanation for how species change over time through natural selection
+> 🇻🇳 **Vietnamese:** Lý thuyết tiến hóa - học thuyết giải thích sự thay đổi của loài qua thời gian
+> 🗣️ **IPA:** */ˌiːvəˈluːʃənəri ˈθɪəri/*
+> 🧠 **Mental Model:** Species "roll out" (evolve) changes slowly để survive và reproduce better trong môi trường changing
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A scientific framework explaining how species change over time through natural selection"
+**Vietnamese:** Lý thuyết tiến hóa
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**evolutionary theory** (*/ˌiːvəˈluːʃənəri ˈθɪəri/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **evolutionary theory** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Darwin's evolutionary theory revolutionized biology by explaining the diversity of life through natural selection.
+> 🇻🇳 **Translation:** Lý thuyết tiến hóa của Darwin đã cách mạng hóa ngành sinh học bằng cách giải thích sự đa dạng của sự sống qua chọn lọc tự nhiên.
+> 🔍 **Analysis:** Perfect here because it specifically identifies the scientific framework (evolutionary theory) that changed our understanding of biology
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **evolutionary theory**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Scientific Action:** propose evolutionary theory (đề xuất lý thuyết tiến hóa)
+> 2. **Academic Support:** support evolutionary theory (hỗ trợ lý thuyết tiến hóa)
+> 3. **Critical Analysis:** challenge evolutionary theory (thách thức lý thuyết tiến hóa)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **evolutionary theory**:
+"The scientist explained how animals change over time."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The biologist explained how species adapt and change over millions of years through evolutionary theory."
+> 💡 **Why it works:** "Evolutionary theory" provides the specific scientific framework, making the sentence more academic and precise
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **evolutionary theory** instead of **evolution**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **evolutionary theory:** Refers to the complete scientific framework explaining the mechanism (VN: Toàn bộ hệ thống lý thuyết khoa học)
+> **evolution:** Refers to the actual process of change in species (VN: Quá trình thay đổi thực tế của loài)
+> 🧱 **The Barrier:** Theory is the explanation; evolution is the phenomenon being explained
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're in a biology class. The teacher asks about the foundation of modern biology. You want to sound knowledgeable. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The foundation of modern biology is evolutionary theory, which explains how all species are connected through common ancestry."
+> 👨‍🎨 **Director's Note:** Shows you understand the central importance of this theory in biology
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `evolvere` to the meaning of **evolutionary theory**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'evolvere' means 'to roll out' like a scroll - species slowly "roll out" their changes over millions of years, revealing new adaptations
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **evolutionary theory**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `evolvere` (to roll out, unfold)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[evolution]] (the process)
+> - *(adj)* [[evolutionary]] (relating to evolution)
+> - *(adv)* [[evolutionarily]] (in an evolutionary manner)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌiːvəˈluːʃənəri ˈθɪəri/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**evolutionary theory**
+> 📖 **Meaning:** Scientific explanation of how species change over time
+> 🇻🇳 **Vietnamese:** Lý thuyết tiến hóa
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **evolutionary theory**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Evolution is only a theory"
+> ✅ **Correction:** "Evolutionary theory is a well-supported scientific framework"
+> 🧠 **Why:** In science, "theory" means a robust explanation with extensive evidence, not just a guess
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **evolutionary theory**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[creationism]] (divine creation without evolution)
+> - [[intelligent design]] (guided by supernatural force)
+> 🧱 **Contrast:** Evolutionary theory relies on natural processes; alternatives invoke supernatural intervention

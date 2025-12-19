@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [downsides, drawback, disadvantages, negative aspects, cons, weakness, limitation, shortcoming, minus, flaw, defect, pitfall, downside risk]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈdaʊnsaɪd/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** neutral to informal
+> **Etymology:** Compound of "down" + "side" (c. 1900s), originally referring to the lower side of something, later extended metaphorically to disadvantages
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The lower side or undersurface of something
+>
+> **Context Meaning:** A disadvantage or negative aspect of something that is otherwise good
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** mặt trái, mặt tiêu cực
+> - **Contextual:** bất lợi, nhược điểm, khuyết điểm
+>
 > **Nuances:**
-> - ...
+> - Used to acknowledge that while something has benefits, it also has drawbacks
+> - Often appears in balanced discussions or when making decisions
+> - Implies a trade-off between positives and negatives
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Pragmatic, Balanced, Realistic
+> **Memory Hook:** Imagine flipping a coin - there's always a "downside" to every "upside"
+> **📖 Etymology Story:** Like looking at a mountain from different angles - the beautiful view (upside) comes with the dangerous climb (downside)
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[downside]] /ˈdaʊnsaɪd/
+> - **Adj:** [[downside]] /ˈdaʊnsaɪd/ (attributive)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[drawback]] /ˈdrɔːbæk/ : A feature that makes something less acceptable
+> - [[disadvantage]] /ˌdɪsədˈvɑːntɪdʒ/ : An unfavorable circumstance or condition
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[upside]] /ˈʌpsaɪd/ : A positive aspect or feature
+> - [[advantage]] /ədˈvɑːntɪdʒ/ : A favorable circumstance or condition
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. main downside
+> 2. potential downside
+> 3. downside risk
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The main downside of working from home is the lack of social interaction with colleagues.
+> - **Translation:** Mặt trái chính của việc làm việc tại nhà là thiếu tương tác xã hội với đồng nghiệp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Despite its downsides, the new policy has been largely beneficial for the company.
+> - **Translation:** Mặc dù có những mặt tiêu cực, chính sách mới đã mang lại lợi ích lớn cho công ty.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing "downside" with "failure"**
+> - ❌ **Mistake:** "The project was a complete downside."
+> - ✅ **Correction:** "The project had several downsides." OR "The project was a complete failure."
+> - **Why:** Downside refers to disadvantages, not total failure
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Every rose has its thorn; every night has its dawn; every upside has its downside."
+> **Source:** Common proverb
 
 ---
 
@@ -161,121 +79,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **downside** (*/ˈdaʊnsaɪd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A disadvantage or negative aspect of something that is otherwise good
+> 🇻🇳 **Vietnamese:** Mặt trái, bất lợi, nhược điểm
+> 🗣️ **IPA:** */ˈdaʊnsaɪd/*
+> 🧠 **Mental Model:** Mỗi đồng xu có hai mặt - mặt tích cực (upside) và mặt tiêu cực (downside)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A disadvantage or negative aspect of something that is generally good"
+**Vietnamese:** Mặt trái, bất lợi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**downside** (*/ˈdaʊnsaɪd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **downside** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The only downside of the new smartphone is its battery life.
+> 🇻🇳 **Translation:** Mặt trái duy nhất của chiếc điện thoại thông minh mới là thời lượng pin.
+> 🔍 **Analysis:** Perfect for balanced evaluation - acknowledges negative aspect without dismissing the overall value (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **downside**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** main/primary downside (nhược điểm chính)
+> 2. **Possibility:** potential downside (bất lợi tiềm tàng)
+> 3. **Context:** downside of (mặt trái của)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **downside**:
+"The job has bad things about it."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The job offers excellent benefits, but the significant downside is the long working hours."
+> 💡 **Why it works:** Creates sophisticated balance between pros and cons (e.g., nuanced evaluation)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **downside** instead of **[[problem]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **downside:** Used for inherent trade-offs or limitations within something generally positive
+> **[[problem]]:** More general - any difficulty needing solution
+> 🧱 **The Barrier:** Downside implies acceptability despite flaws ( VN: limitation trong cái tốt ), problem suggests something needs fixing ( VN: cần giải quyết )
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to move to a big city for better job opportunities. You're the cautious friend. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Consider the downside - higher living costs and more stress."
+> 👨‍🎨 **Director's Note:** Shows realistic thinking without being overly negative (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `down` to the meaning of **downside**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "down" (xuống dưới) + "side" (mặt) = mặt dưới, mặt phải nhìn xuống để thấy. Từ vật lý (mặt dưới của đồ vật) đến trừu tượng (mặt tiêu cực cần cân nhắc)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **downside**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `dūn` (hill, down) + `sīde` (side)
+> 👨‍👩‍👧 **Family:**
+> - *(comp)* [[upside]] (opposite)
+> - *(comp)* [[downside risk]] (financial term)
+> - *(related)* [[downcast]] (looking down)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈdaʊnsaɪd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**downside**
+> 📖 **Meaning:** A disadvantage or negative aspect
+> 🇻🇳 **Vietnamese:** Mặt trái, bất lợi, nhược điểm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **downside**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I have many downsides." (tự nói về bản thân)
+> ✅ **Correction:** "This situation has many downsides." OR "I have many weaknesses."
+> 🧠 **Why:** Downside describes features of things/situations, not personal traits
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **downside**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[upside]] (positive aspect)
+> - [[advantage]] (favorable point)
+> - [[merit]] (positive quality)
+> 🧱 **Contrast:** Downside focuses on inherent limitations, while upside highlights benefits
 
 ---

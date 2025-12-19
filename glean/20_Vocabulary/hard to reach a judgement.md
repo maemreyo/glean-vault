@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [difficult to judge, hard to decide, challenging to assess, tough to determine, unable to reach conclusion, find it difficult to judge, struggle to make judgement]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /hɑːrd tuː riːtʃ ə ˈdʒʌdʒmənt/
+> **Part of Speech:** phrasal expression
+> **CEFR Level:** B2-C1
+> **Register:** neutral to formal
+> **Etymology:** Combination of Old English "heard" (hard, difficult), Old French "reacher" (to reach), and Latin "judicium" (judgement)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Physically unable to arrive at a decision
+>
+> **Context Meaning:** Finding it difficult to make a decision or form an opinion about something due to lack of information, complexity, or conflicting evidence
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** khó đưa ra phán đoán
+> - **Contextual:** khó phán quyết, khó đưa ra kết luận, khó đánh giá
+>
 > **Nuances:**
-> - ...
+> - Implies the speaker has considered the matter but finds evaluation difficult
+> - Often used when someone wants to avoid committing to a definitive position
+> - Can express genuine uncertainty or diplomatic neutrality
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Cautious, Deliberate, Diplomatic
+> **Memory Hook:** Imagine trying to reach for something (reach) that's just out of grasp - that's how the judgement feels
+> **📖 Etymology Story:** Like a judge (judgement) trying to reach (reach) a decision that's hard (hard) to access because the facts are scattered
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Base Phrase:** hard to reach a judgement
+> - **Verb:** [[judge]] /dʒʌdʒ/
+> - **Noun:** [[judgement]] /ˈdʒʌdʒmənt/
+> - **Adj:** [[judgemental]] /dʒʌdʒˈmentl/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[difficult to assess]] /ˈdɪfɪkəlt tuː əˈses/ : Hard to evaluate
+> - [[undecidable]] /ʌndɪˈsaɪdəbl/ : Impossible to decide
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[easy to judge]] /ˈiːzi tuː dʒʌdʒ/ : Simple to evaluate
+> - [[clear-cut]] /klɪə kʌt/ : Obvious and definite
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. find it hard to reach a judgement
+> 2. too early to reach a judgement
+> 3. reluctant to reach a judgement
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** With such conflicting evidence, I find it hard to reach a judgement about his guilt.
+> - **Translation:** Với những bằng chứng mâu thuẫn như vậy, tôi thấy khó đưa ra phán quyết về tội lỗi của anh ta.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** It's hard to reach a judgement on this matter without more information.
+> - **Translation:** Khó đưa ra kết luận về vấn đề này nếu không có thêm thông tin.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Using "judgement" instead of "judgment" in US English**
+> - ❌ **Mistake:** "It's hard to reach a judgement." (UK) vs "It's hard to reach a judgment." (US)
+> - ✅ **Correction:** Both are correct - "judgement" in UK, "judgment" in US
+> - **Why:** Regional spelling variation
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "It is the nature of man to rise to greatness if greatness is expected of him."
+> **Source:** John Steinbeck (illustrating the difficulty of judging human potential)
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **hard to reach a judgement** (*/hɑːrd tuː riːtʃ ə ˈdʒʌdʒmənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Finding it difficult to make a decision or form an opinion about something
+> 🇻🇳 **Vietnamese:** Khó đưa ra phán quyết, khó phán đoán
+> 🗣️ **IPA:** */hɑːrd tuː riːtʃ ə ˈdʒʌdʒmənt/*
+> 🧠 **Mental Model:** Như một người thẩm phán cố gắng phán quyết nhưng thiếu bằng chứng clear
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Finding it difficult to make a decision or form an opinion"
+**Vietnamese:** Khó đưa ra phán quyết
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**hard to reach a judgement** (*/hɑːrd tuː riːtʃ ə ˈdʒʌdʒmənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **hard to reach a judgement** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Without seeing both sides of the argument, it's hard to reach a judgement.
+> 🇻🇳 **Translation:** Nếu không thấy cả hai mặt của lập luận, thật khó để đưa ra phán quyết.
+> 🔍 **Analysis:** Shows intellectual honesty - acknowledges the need for complete information before deciding (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **hard to reach a judgement**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Personal Feeling:** find it hard to reach a judgement (cảm thấy khó phán quyết)
+> 2. **Timing:** too early to reach a judgement (quá sớm để kết luận)
+> 3. **Attitude:** reluctant to reach a judgement (ngại đưa ra phán quyết)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **hard to reach a judgement**:
+"I can't decide what to think."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Given the complexity of the situation, I find it hard to reach a judgement."
+> 💡 **Why it works:** Sounds more thoughtful and sophisticated (e.g., considered hesitation)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **hard to reach a judgement** instead of **[[I don't know]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **hard to reach a judgement:** Implies consideration has been given but decision is difficult
+> **[[I don't know]]:** Simply states lack of knowledge or opinion
+> 🧱 **The Barrier:** Shows intellectual engagement vs. passive ignorance ( VN: đã suy nghĩ nhưng chưa quyết vs. không biết gì )
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss asks for your opinion on a controversial new policy. You're unsure. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm still processing the information; it's hard to reach a judgement at this point."
+> 👨‍🎨 **Director's Note:** Professional way to buy time while showing you're considering the matter (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `judge` to the meaning of **hard to reach a judgement**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "judex" (người xét xử) → "judge" (đánh giá). "Reach" (tiếng Bắc Âu: đến được). "Hard" (tiếng cổ: khó). Combine: khó để đến được quyết định cuối cùng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **hard to reach a judgement**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `judicare` (to judge) + Proto-Germanic `harduz` (hard) + Old French `reacher` (to reach)
+> 👨‍👩‍👧 **Family:**
+> - *(base)* [[judge]] (dùng để đánh giá)
+> - *(noun)* [[judgement]] (sự phán quyết)
+> - *(adj)* [[judicial]] (thuộc về tư pháp)
+> - *(phrase)* [[pass judgement]] (đưa ra phán quyết)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */hɑːrd tuː riːtʃ ə ˈdʒʌdʒmənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**hard to reach a judgement**
+> 📖 **Meaning:** Finding it difficult to make a decision or form an opinion
+> 🇻🇳 **Vietnamese:** Khó đưa ra phán quyết, khó phán đoán
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **hard to reach a judgement**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "It's hard to reach judgement." (thiếu "a")
+> ✅ **Correction:** "It's hard to reach a judgement."
+> 🧠 **Why:** Fixed expression requires article "a" before "judgement"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **hard to reach a judgement**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[easy to judge]] (dễ đánh giá)
+> - [[straightforward to assess]] (đơn giản để đánh giá)
+> - [[clear-cut case]] (vụ việc rõ ràng)
+> 🧱 **Contrast:** Expresses difficulty in evaluation vs. ease of determination
 
 ---

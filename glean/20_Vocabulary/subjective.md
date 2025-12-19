@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [subjectively, subjectiveness, subjectivity, objective, biased, personal, impartial, unbiased]
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /səbˈdʒektɪv/
+> **Part of Speech:** Adjective
+> **CEFR Level:** B2
+> **Register:** Academic/Formal
+> **Etymology:** From Latin "subjectivus" (brought under), from "subjectus" (past participle of "subicere" - to place under)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Based on or influenced by personal feelings, tastes, or opinions
+>
+> **Context Meaning:** Existing in the mind; belonging to the thinking subject rather than to the object of thought; not based on external reality
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chủ quan
+> - **Contextual:** dựa trên cảm tính, theo quan điểm cá nhân
+>
 > **Nuances:**
-> - ...
+> - Contrasts with objective (based on facts)
+> - Often used in academic, philosophical, and artistic contexts
+> - Can be neutral (describing perspective) or critical (implying lack of objectivity)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Philosophical, Personal, Perspective-driven
+> **Memory Hook:** Subjective = "Subject's view" - what YOU think, not what IS
+> **📖 Etymology Story:** From Latin "subicere" (to place under), something subjective is "placed under" your mind's control - it belongs to your inner world of thoughts and feelings, not the external world of facts.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[subjectivity]] /ˌsʌbdʒekˈtɪvəti/ : the quality of being based on personal feelings
+> - **Noun:** [[subject]] /ˈsʌbdʒɪkt/ : a person or thing under discussion
+> - **Adv:** [[subjectively]] /səbˈdʒektɪvli/ : in a way that is based on personal feelings
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[personal]] /ˈpɜːrsənl/ : relating to an individual
+> - [[biased]] /ˈbaɪəst/ : unfairly prejudiced
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[objective]] /əbˈdʒektɪv/ : not influenced by personal feelings
+> - [[impartial]] /ɪmˈpɑːrʃl/ : treating all equally
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. subjective assessment
+> 2. purely subjective
+> 3. subjective experience
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Art criticism is largely subjective because it depends on personal taste and cultural background.
+> - **Translation:** Phê bình nghệ thuật phần lớn mang tính chủ quan vì nó phụ thuộc vào khẩu vị cá nhân và nền tảng văn hóa.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The judge's decision appeared subjective rather than based on legal precedent.
+> - **Translation:** Quyết định của thẩm phán có vẻ mang tính chủ quan thay vì dựa trên tiền lệ pháp lý.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect Use**
+> - ❌ **Mistake:** "The scientific method is subjective."
+> - ✅ **Correction:** "The scientific method aims to be objective."
+> - **Why:** Science strives for objectivity (facts-based) not subjectivity (opinion-based).
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Beauty is subjective, but art is universal."
+> **Source:** Modern artistic philosophy
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **subjective** (*/səbˈdʒektɪv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Based on or influenced by personal feelings, tastes, or opinions rather than external facts
+> 🇻🇳 **Vietnamese:** Chủ quan, dựa trên quan điểm cá nhân
+> 🗣️ **IPA:** */səbˈdʒektɪv/*
+> 🧠 **Mental Model:** Subject's opinion - từ "subject" (người chịu tác động) nên là view từ bên trong, không phải objective的事实
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Based on personal feelings rather than facts"
+**Vietnamese:** Chủ quan
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**subjective** (*/səbˈdʒektɪv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **subjective** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Your review of the movie was too subjective; you didn't consider its technical merits.
+> 🇻🇳 **Translation:** Lời đánh giá phim của bạn quá chủ quan; bạn không xem xét đến các giá trị kỹ thuật của nó.
+> 🔍 **Analysis:** Subjective ở đây diễn tả assessment dựa trên personal feelings (cảm xúc cá nhân) thay vì objective criteria (tiêu chuẩn khách quan) - perfect cho context review vì reviews inherently contain personal opinions
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **subjective**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Assessment:** subjective assessment (đánh giá chủ quan - emphasis on personal judgment)
+> 2. **Experience:** subjective experience (trải nghiệm chủ quan - personal perception)
+> 3. **Judgment:** subjective judgment (phán quyết chủ quan - decision based on feelings)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **subjective**:
+"I think that's just your opinion."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "That's merely your subjective assessment, not an objective evaluation."
+> 💡 **Why it works:** "Subjective assessment" academic hơn "opinion", "merely" dismisses opinion, "objective evaluation" creates clear contrast, showcases formal language
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **subjective** instead of **biased**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **subjective:** Based on personal perspective (chủ quan - neutral, can be valid)
+> **biased:** Unfairly prejudiced (thiên vị - negative, implies injustice)
+> 🧱 **The Barrier:** Subjective is about perspective origin; biased is about unfair prejudice. Subjective can be legitimate, biased always problematic.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend claims their favorite movie is "objectively the best." You disagree. You feel frustrated by their lack of self-awareness. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Film appreciation is inherently subjective - what you value isn't universal truth."
+> 👨‍🎨 **Director's Note:** Shows educated understanding of subjectivity vs objectivity in art criticism, uses "inherently" cho emphasis, demonstrates philosophical awareness
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `subicere` to the meaning of **subjective**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `subicere` means "to place under" - subjective thoughts are "placed under" your mind's influence. Chúng originate from within bạn (the subject), not from external reality. Subjective = thuộc về subject, không phải object.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **subjective**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `subicere` (to place under, to submit)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[subjectivity]] /ˌsʌbdʒekˈtɪvəti/
+> - *(noun)* [[subject]] /ˈsʌbdʒɪkt/
+> - *(adv)* [[subjectively]] /səbˈdʒektɪvli/
+> - *(verb)* [[subject]] /səbˈdʒekt/ (to bring under control)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */səbˈdʒektɪv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**subjective**
+> 📖 **Meaning:** Based on personal feelings rather than facts
+> 🇻🇳 **Vietnamese:** Chủ quan, dựa trên quan điểm cá nhân
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **subjective**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The measurement was subjective and showed 5cm."
+> ✅ **Correction:** "The measurement was objective and showed 5cm."
+> 🧠 **Why:** Measurements by definition are objective (fact-based), not subjective (opinion-based). Science requires objectivity để ensure reproducibility.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **subjective**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[objective]] /əbˈdʒektɪv/ (fact-based, impartial)
+> - [[impartial]] /ɪmˈpɑːrʃl/ (neutral, unbiased)
+> 🧱 **Contrast:** Subjective = from internal perspective; Objective = from external facts. Subjective feels, objective measures.
 
 ---

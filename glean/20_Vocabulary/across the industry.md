@@ -1,158 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [throughout the industry, industry-wide, sector-wide, all over the industry]
+status: done
 ref:
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈkrɔs ðə ˈɪndəstri/
+> **Part of Speech:** Prepositional phrase
+> **CEFR Level:** B2
+> **Register:** Business/Academic/Professional
+> **Etymology:** "Across" (Old English "acweon" - to cross) + "the" + "industry" (Latin "industria" - diligence, activity)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Spreading or existing throughout the entire business sector
+>
+> **Context Meaning:** Affecting or involving all companies, organizations, and professionals within a specific business field or sector
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** trên toàn ngành
+> - **Contextual:** trong khắp ngành, toàn bộ ngành công nghiệp
+>
 > **Nuances:**
-> - ...
+> - Implies comprehensive coverage of an entire sector
+> - Often used to describe trends, changes, or practices affecting all participants
+> - Common in business journalism and market analysis
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, Analytical, Comprehensive
+> **Memory Hook:** Picture a bridge spanning across an entire industrial park - connecting every factory and office
+> **📖 Etymology Story:** From Latin "industria" meaning "diligence, activity." When something spreads "across the industry," it touches every part of this industrious landscape like a wave crossing the entire sea
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[industry]] /ˈɪndəstri/ : a branch of economic activity
+> - **Adj:** [[industrial]] /ɪnˈdʌstriəl/ : relating to industry
+> - **Adj:** [[industrious]] /ɪnˈdʌstriəs/ : hard-working, diligent
+> - **Adv:** [[industriously]] /ɪnˈdʌstriəsli/ : in a hard-working manner
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[industry-wide]] /ˈɪndəstri waɪd/ : affecting the entire industry
+> - [[sector-wide]] /ˈsektər waɪd/ : across an entire sector
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[company-specific]] /ˈkʌmpəni spəˈsɪfɪk/ : limited to one company
+> - [[isolated]] /ˈaɪsəleɪtɪd/ : separate and not connected
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. across the automotive industry
+> 2. trend across the industry
+> 3. disruption across the industry
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Automation is transforming processes across the manufacturing industry.
+> - **Translation:** Tự động hóa đang thay đổi quy trình trên toàn ngành sản xuất.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Cost-cutting measures have been implemented across the airline industry.
+> - **Translation:** Các biện pháp cắt giảm chi phí đã được thực hiện trong khắp ngành hàng không.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** This trend is happened across all industry
+> - ✅ **Correction:** This trend is happening across the industry
+> - **Why:** Need present continuous for ongoing trends and "the" before industry
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Innovation in AI is spreading rapidly across the tech industry."
+> **Source:** Business News
 
 ---
 
@@ -160,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **across the industry** (*/əˈkrɔs ðə ˈɪndəstri/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Affecting or involving all companies within a specific business sector
+> 🇻🇳 **Vietnamese:** Trên toàn ngành, trong khắp ngành công nghiệp
+> 🗣️ **IPA:** */əˈkrɔs ðə ˈɪndəstri/*
+> 🧠 **Mental Model:** Tưởng tượng một làn sóng tràn qua toàn bộ industry - không một công ty nào bị bỏ sót
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Affecting all companies within a specific business sector"
+**Vietnamese:** Trên toàn ngành
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**across the industry** (*/əˈkrɔs ðə ˈɪndəstri/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **across the industry** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Supply chain disruptions have caused delays across the automotive industry.
+> 🇻🇳 **Translation:** Sự gián đoạn chuỗi cung ứng đã gây ra chậm trễ trên toàn ngành công nghiệp ô tô.
+> 🔍 **Analysis:** Cụm này nhấn mạnh tính toàn diện - không chỉ một vài công ty mà là toàn bộ sector đều bị ảnh hưởng, phù hợp cho business reporting
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **across the industry**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Trend/Change:** trend/change across the industry (xu hướng/thay đổi trên toàn ngành)
+> 2. **Implementation:** implemented across the industry (được triển khai trên toàn ngành)
+> 3. **Impact:** impact across the industry (tác động trên toàn ngành)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **across the industry**:
+"Many companies are using AI now."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "AI adoption is accelerating across the technology industry."
+> 💡 **Why it works:** "Across the industry" thể hiện quy mô và phạm vi rộng lớn của hiện tượng, thay vì chỉ nói "many companies"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **across the industry** instead of **in many companies**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **across the industry:** Diễn tả hiện tượng toàn diện affecting toàn bộ sector (VN: Trên toàn ngành)
+> **in many companies:** Chỉ đơn giản là nhiều công ty, không nhất thiết là tất cả (VN: Ở nhiều công ty)
+> 🧱 **The Barrier:** "Across the industry" có nghĩa comprehensive, universal trong ngành, còn "in many companies" chỉ là partial
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're presenting market research findings. You want to emphasize the widespread adoption of a new technology. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We're witnessing unprecedented adoption of cloud computing across the financial industry."
+> 👨‍🎨 **Director's Note:** Diễn tả tầm ảnh hưởng rộng lớn của một xu hướng, nhấn mạnh sự đồng bộ trong ngành
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `industry` to the meaning of **across the industry**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Industry" từ Latin "industria" - diligence, hard work. Khi có sự thay đổi "across the industry", nó ảnh hưởng đến tất cả những người hard-working trong ngành đó, như một mệnh lệnh truyền khắp整个工业帝国
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **across the industry**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `industria` (diligence, activity)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[industrial]] - công nghiệp
+> - *(adj)* [[industrialized]] - đã công nghiệp hóa
+> - *(noun)* [[industrialist]] - nhà công nghiệp
+> - *(adj)* [[industrious]] - chăm chỉ
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈkrɔs ðə ˈɪndəstri/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**across the industry**
+> 📖 **Meaning:** Throughout an entire business sector
+> 🇻🇳 **Vietnamese:** Trên toàn ngành công nghiệp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **across the industry**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** This policy will affect across the tech industry
+> ✅ **Correction:** This policy will affect companies across the tech industry
+> 🧠 **Why:** "Across the industry" is a prepositional phrase modifying nouns, not acting as a direct object
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **across the industry**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[company-specific]] (Chỉ riêng công ty)
+> - [[niche market]] (Thị trường ngách)
+> 🧱 **Contrast:** "Across the industry" là universal coverage, còn "company-specific" là isolated to one entity
 
 ---
