@@ -215,14 +215,3 @@ ref:
 > 👨‍🎨 **Director's Note:** <Why this captures the emotion (VN)>
 
 ---
-
-## 📈 Learning Progress
-
-**Mastery Criteria:**
-- [ ] Can identify the structure in texts
-- [ ] Can use it correctly in writing
-- [ ] Can explain its function
-- [ ] Can avoid common errors
-
-**Personal Notes:**
-- ...

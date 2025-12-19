@@ -6,7 +6,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "20_Vocabulary/{{VALUE}}.md",
+      "captureTo": "20_Vocabulary/{{value}}.md",
       "captureToActiveFile": false,
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {

@@ -11,10 +11,14 @@
             "id": "7979daa23de63c1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10_Sources/Articles/Cam 20 Listening Test 01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cam 20 Listening Test 01"
             }
           }
         ]
@@ -202,15 +206,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c98256179590bd2",
+  "active": "7979daa23de63c1f",
   "lastOpenFiles": [
+    "20_Vocabulary/keen on.md",
+    "10_Sources/Articles/Cam 20 Listening Test 01.md",
+    "suggestion.md",
+    "20_Vocabulary/recommendation.md",
+    "20_Vocabulary/<% value.toLowerCase() %>.md",
+    "20_Vocabulary/contains.md",
     "20_Vocabulary/platform.md",
     "10_Sources/Articles/What's next for TikTok in the US as deal prospects remain uncertain?.md",
-    "20_Vocabulary/contains.md",
     "10_Sources/Articles/UK launches taskforce to 'break down barriers' for women in tech.md",
     "20_Vocabulary/prominent.md",
-    "10_Sources/Articles/Cam 20 Listening Test 01.md",
-    "20_Vocabulary/keen on.md",
     "10_Sources/Articles/Practice Cam 20 Listening Test 01.md",
     "10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
     "30_Structures/as far as the ___ is concerned, the best way I can describe this is that ___.md",
@@ -227,9 +234,6 @@
     "30_Structures/to divide and multiply.md",
     "20_Vocabulary/A billionaire investor.md",
     "10_Sources/Articles/ZEBRAFISH HEAL THEIR OWN HEART.md",
-    "20_Vocabulary/a major city.md",
-    "20_Vocabulary/will.md",
-    "20_Vocabulary/experiment.md",
     "20_Vocabulary/pierce.md.tmp.65578.1766082018340",
     "20_Vocabulary/existence.md.tmp.65578.1766081833895",
     "20_Vocabulary/consume.md.tmp.65578.1766081555515",
