@@ -16,12 +16,12 @@
       },
       "format": {
         "enabled": true,
-        "format": "ref: {{linkcurrent}}\n\n"
+        "format": "  - {{linkcurrent}}\n"
       },
       "insertAfter": {
         "enabled": true,
-        "after": "status:",
-        "insertAtEnd": false,
+        "after": "ref:",
+        "insertAtEnd": true,
         "considerSubsections": false,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
