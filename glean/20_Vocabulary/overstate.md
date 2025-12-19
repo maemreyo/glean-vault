@@ -1,158 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌəʊvəˈsteɪt/
+> **Part of Speech:** Verb
+> **CEFR Level:** C1
+> **Register:** Formal/Academic
+> **Etymology:** From 'over-' (excessive) + 'state' (express)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
-> **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> **Root Meaning:** To state something too strongly or exaggerate
+>
+> **Context Meaning:** To describe something in a way that makes it seem more important, serious, or large than it really is
+>
+> **Vietnamese Extension:**
+> - **Direct:** cường điệu, nói quá
+> - **Contextual:** phóng đại, nói quá sự thật
+>
 > **Nuances:**
-> - ...
+> - Often used in academic/business contexts
+> - Implies unintentional exaggeration
+> - Related to rhetoric and argumentation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Exaggerated, Emphatic, Intense
+> **Memory Hook:** over + state = state something beyond truth
+> **📖 Etymology Story:** From prefix 'over-' meaning 'excessively' combined with 'state' meaning 'to express', creating the idea of expressing something beyond its true measure
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[overstatement]] /ˌəʊvəˈsteɪtmənt/
+> - **Noun:** [[overstatement]] /-/
+> - **Verb:** [[understate]] /ˌʌndəˈsteɪt/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[exaggerate]] /ɪɡˈzædʒəreɪt/ : more common
+> - [[magnify]] /ˈmæɡnɪfaɪ/ : make larger
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[understate]] /ˌʌndəˈsteɪt/ : minimize
+> - [[downplay]] /ˌdaʊnˈpleɪ/ : reduce importance
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. clearly overstate
+> 2. tend to overstate
+> 3. greatly overstate
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The report tends to overstate the benefits of the new policy.
+> - **Translation:** Báo cáo có xu hướng cường điệu hóa lợi ích của chính sách mới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Don't overstate the importance of this single factor in the overall situation.
+> - **Translation:** Đừng phóng đại tầm quan trọng của yếu tố duy nhất này trong tình hình tổng thể.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Usage Confusion**
+> - ❌ **Mistake:** "He overstated to be sick"
+> - ✅ **Correction:** "He overstated his illness" or "He exaggerated how sick he was"
+> - **Why:** Overstate needs an object - what is being overstated
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The art of leadership is saying no, not saying yes. It is very easy to say yes."
+> **Source:** [[Tony Blair]]
 
 ---
 
@@ -160,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **overstate** (*/ˌəʊvəˈsteɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To describe something as greater, more important, or worse than it really is; exaggerate
+> 🇻🇳 **Vietnamese:** Cường điệu hóa, nói quá, phóng đại
+> 🗣️ **IPA:** */ˌəʊvəˈsteɪt/*
+> 🧠 **Mental Model:** Khi bạn "overstate", bạn nói something quá mức truth - làm nó appear bigger/important hơn thực tế.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To describe something as greater, more important, or worse than it really is; exaggerate"
+**Vietnamese:** Cường điệu hóa, nói quá, phóng đại
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**overstate** (*/ˌəʊvəˈsteɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **overstate** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** It's difficult to overstate the impact of technology on modern education.
+> 🇻🇳 **Translation:** Thật khó để cường điệu hóa tác động của công nghệ đối với giáo dục hiện đại.
+> 🔍 **Analysis:** Perfect với negative construction - shows something SO important mà it's impossible to exaggerate, subtle way để emphasize.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **overstate**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Degree:** greatly/significantly overstate (chỉ mức độ phóng đại lớn)
+> 2. **Tendency:** tend to/likely to overstate (chỉ xu hướng hành động)
+> 3. **Clarity:** clearly/obviously overstate (chỉ sự rõ ràng của việc cường điệu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **overstate**:
+"He talked too much about his success."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He tended to overstate his role in the company's success during interviews."
+> 💡 **Why it works:** "overstate" adds academic/formal tone, suggests unconscious exaggeration, không như "talk too much" thông thường.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **overstate** instead of **[[exaggerate]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **overstate:** More formal, often unconscious (VN: trang trọng hơn, thường vô thức)
+> **[[exaggerate]]:** Common, can be intentional (VN: phổ biến, có thể cố ý)
+> 🧱 **The Barrier:** Overstate = formal/academic exaggeration; Exaggerate = general inflation
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague is presenting results. They're making claims seem too big. Advise them.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Be careful not to overstate these preliminary findings in your presentation."
+> 👨‍🎨 **Director's Note:** Professional feedback using formal language - shows academic/business communication style.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `over-` and `state` to the meaning of **overstate**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Germanic 'over-' meaning 'beyond' + Latin 'status' meaning 'condition/to set'. To overstate literally means to set something beyond its true condition - expressing it as more than it is.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **overstate**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Germanic `over-` + Latin `status`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[overstatement]] (sự cường điệu)
+> - *(verb)* [[understate]] (giảm nhẹ, nói giảm nói tránh)
+> - *(verb)* [[state]] (nêu, trình bày)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌəʊvəˈsteɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**overstate**
+> 📖 **Meaning:** To describe something as greater, more important, or worse than it really is; exaggerate
+> 🇻🇳 **Vietnamese:** Cường điệu hóa, nói quá, phóng đại
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **overstate**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The politician overstated about the economy."
+> ✅ **Correction:** "The politician overstated the economic growth figures."
+> 🧠 **Why:** Overstate needs a direct object - what is being overstated. Can't use "about" like with "talked".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **overstate**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[understate]] (giảm nhẹ, nói giảm nói tránh)
+> - [[minimize]] (tối thiểu hóa)
+> 🧱 **Contrast:** Understate = make smaller than reality; Minimize = actively reduce importance.
 
 ---

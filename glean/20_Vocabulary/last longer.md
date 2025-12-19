@@ -1,158 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /lɑːst ˈlɔːŋɡə(r)/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** Old English 'langian' (to belong to, be proper to) + 'long' (extended in time)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** to continue to exist or function for an extended period
+>
+> **Context Meaning:** to remain in good condition or continue to be effective for a longer time than expected or compared to others
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** kéo dài hơn, bền hơn
+> - **Contextual:** tồn tại lâu hơn, hiệu quả trong thời gian dài hơn
+>
 > **Nuances:**
-> - ...
+> - Emphasizes durability and endurance over time
+> - Often used for products, relationships, or effects
+> - Implies comparison or expectation exceeded
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Persistent, Reliable
+> **Memory Hook:** Imagine a battery that 'lasts long' -er than others, providing power when others have died
+> **📖 Etymology Story:** The word 'last' comes from Old English 'latest' meaning 'to continue', while 'long' from Old English 'lang' meaning 'extended'. Together they create a powerful image of something stretching beyond normal time limits, defying the clock's relentless march.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[duration]], [[endurance]], [[longevity]] /.../
+> - **Verb:** [[extend]], [[prolong]], [[persevere]] /.../
+> - **Adj:** [[long-lasting]], [[durable]], [[enduring]] /.../
+> - **Adv:** [[longer]], [[enduringly]] /.../
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[endure]] /ɪnˈdjʊə(r)/ : to last through difficult conditions
+> - [[persist]] /pəˈsɪst/ : to continue firmly in spite of opposition
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[fade]] /feɪd/ : to lose strength or brightness gradually
+> - [[diminish]] /dɪˈmɪnɪʃ/ : to become or make smaller in size, importance
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. products that last longer
+> 2. memories that last longer
+> 3. relationships that last longer
+
+> **1. Example Context 1 (Product Durability)**
+> - **Sentence:** Quality materials ensure that the furniture will last longer than cheaper alternatives.
+> - **Translation:** Vật liệu chất lượng cao đảm bảo rằng đồ nội thất sẽ bền hơn so với các lựa chọn rẻ tiền.
+>
+> **2. Example Context 2 (Memory Impact)**
+> - **Sentence:** Emotional experiences tend to last longer in our memory than ordinary daily events.
+> - **Translation:** Những trải nghiệm cảm xúc có xu hướng tồn tại lâu hơn trong ký ức của chúng ta so với các sự kiện hàng ngày thông thường.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Grammar Structure**
+> - ❌ **Mistake:** The battery lasts more long.
+> - ✅ **Correction:** The battery lasts longer.
+> - **Why:** 'Longer' is the comparative form, not 'more long'. The structure is verb + longer.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Investing in quality equipment initially will save you money in the long run because it lasts longer."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **last longer** (*/lɑːst ˈlɔːŋɡə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To continue to exist or function for an extended period beyond what is typical or expected
+> 🇻🇳 **Vietnamese:** Kéo dài hơn, tồn tại lâu hơn, bền bỉ hơn
+> 🗣️ **IPA:** */lɑːst ˈlɔːŋɡə(r)/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một thứ gì đó chống lại thời gian tốt hơn so với những thứ khác - như energy của một chiếc pin cao cấp
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To continue to exist or function for an extended period beyond what is typical or expected"
+**Vietnamese:** Kéo dài hơn, tồn tại lâu hơn, bền bỉ hơn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**last longer** (*/lɑːst ˈlɔːŋɡə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **last longer** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Fresh produce bought directly from farmers typically lasts longer than supermarket goods.
+> 🇻🇳 **Translation:** Sản phẩm tươi mua trực tiếp từ nông dân thường kéo dài hơn hàng hóa trong siêu thị.
+> 🔍 **Analysis:** Perfect here vì nó so sánh thời gian sử dụng của thực phẩm, nhấn mạnh vào lợi ích thực tế của việc mua hàng trực tiếp - preservative-free nhưng vẫn bền hơn.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **last longer**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality/Performance:** products that last longer (cái mà nhấn mạnh vào chất lượng vượt trội)
+> 2. **Emotional Impact:** memories that last longer (gợi hình ảnh những ký ức không phai mờ)
+> 3. **Time Duration:** effects that last longer (nói về tác dụng kéo dài - rất medical/scientific)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **last longer**:
+"This good car has many years of use."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "With proper maintenance, this premium vehicle will last longer than standard models, providing reliable transportation for over a decade."
+> 💡 **Why it works:** 'Last longer' tạo ra sự so sánh và kết hợp với 'premium vehicle', nó không chỉ nói về độ bền mà còn暗示 chất lượng vượt trội - 'good' quá generic!
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **last longer** instead of [[endure]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **last longer:** Dùng khi so sánh thời gian tồn tại, thường cho products, memories, effects (VN: kéo dài hơn, bền hơn)
+> **[[endure]]:** Dùng khi vượt qua khó khăn, thử thách, pain (VN: chịu đựng, nếm trải)
+> 🧱 **The Barrier:** 'Last longer' là về time duration, còn 'endure' là về surviving difficulty - một cái là race with time, một cái là battle with adversity!
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend complains their phone battery dies quickly. You want to recommend a better option.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You should invest in a phone with a larger battery capacity - those models typically last longer throughout the day."
+> 👨‍🎨 **Director's Note:** Fit perfectly vì nó giải quyết problem với giải pháp cụ thể, 'last longer' trực tiếp nói về pain point của battery life đang thiếu.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `long` to the meaning of **last longer**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 'long' (dài) trong tiếng Anh cổ combines với 'last' (tiếp tục) tạo thành hình ảnh một cái dây thời gian being stretched beyond normal limits - tưởng tượng một người runner vượt qua finish line và vẫn chạy xa hơn nữa!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **last longer**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `lang` (long, extended) + `latest` (to continue)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[long-lasting]] (bền lâu)
+> - *(verb)* [[prolong]] (kéo dài)
+> - *(noun)* [[longevity]] (sự sống lâu, độ bền)
+> - *(adv)* [[enduringly]] (một cách bền bỉ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */lɑːst ˈlɔːŋɡə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**last longer**
+> 📖 **Meaning:** To continue to exist or function for an extended period beyond what is typical or expected
+> 🇻🇳 **Vietnamese:** Kéo dài hơn, tồn tại lâu hơn, bền bỉ hơn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **last longer**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The effects of the medicine last more long than expected."
+> ✅ **Correction:** "The effects of the medicine last longer than expected."
+> 🧠 **Why:** 'Longer' là comparative form của 'long', không dùng 'more long'. Structure: verb + comparative adjective (last + longer).
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **last longer**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[fade quickly]] (phai nhạt nhanh chóng)
+> - [[wear out soon]] (hỏng nhanh, mòn nhanh)
+> 🧱 **Contrast:** While 'last longer' implies extended durability and value, its opposites suggest premature failure and disappointment - think marathon runner vs sprinter who stops halfway!
 
 ---

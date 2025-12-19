@@ -1,158 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌaʊtˈlɪv/
+> **Part of Speech:** verb
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** From Old English 'utlifan', from 'ut' (out) + 'libban' (to live)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To live beyond or longer than
+>
+> **Context Meaning:** To survive longer than someone; to remain in use or existence longer than something else
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sống lâu hơn
+> - **Contextual:** tồn tại lâu hơn, sống sót hơn
+>
 > **Nuances:**
-> - ...
+> - Can refer to literal lifespan comparison
+> - Can describe abstract concepts (traditions outliving generations)
+> - Often implies resilience or endurance
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Enduring, Persistent, Timeless
+> **Memory Hook:** 'Out' + 'live' = to live OUT beyond others' lifetime
+> **📖 Etymology Story:** Old English 'utlifan' combines 'ut' (out) and 'libban' (to live). Originally meant to live beyond a certain point or boundary. Modern usage expanded from living beyond physical boundaries to living beyond time itself compared to others.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[outlive]] /ˌaʊtˈlɪv/
+> - **Noun:** [[outliving]] /ˌaʊtˈlɪvɪŋ/ (the act of outliving)
+> - **Adj:** [[outliving]] /ˌaʊtˈlɪvɪŋ/ (that outlives)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[survive]] /səˈvaɪv/ : to continue living
+> - [[outlast]] /ˌaʊtˈlɑːst/ : to last longer than
+> - [[endure]] /ɪnˈdjʊər/ : to remain in existence
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[predecease]] /ˌpriːdɪˈsiːs/ : to die before
+> - [[outdie]] /ˌaʊtˈdaɪ/ : to die before others
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. outlive someone
+> 2. outlive one's time
+> 3. outlive its usefulness
+>
+> **1. Example Context 1 (Personal)**
+> - **Sentence:** She managed to outlive all her siblings and lived to be 102.
+> - **Translation:** Bà đã sống lâu hơn tất cả các anh chị em và sống đến 102 tuổi.
+>
+> **2. Example Context 2 (Abstract)**
+> - **Sentence:** The tradition has managed to outlive many political changes.
+> - **Translation:** Truyền thống này đã tồn tại qua nhiều thay đổi chính trị.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** He outlived than his wife.
+> - ✅ **Correction:** He outlived his wife.
+> - **Why:** 'Outlive' is a transitive verb and doesn't need 'than' - comparison is built into the word.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Great art outlives its creator and continues to inspire generations."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **outlive** (*/ˌaʊtˈlɪv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To live longer than someone or something; to survive beyond; to remain in existence longer than
+> 🇻🇳 **Vietnamese:** Sống lâu hơn; tồn tại lâu hơn; sống sót qua
+> 🗣️ **IPA:** */ˌaʊtˈlɪv/*
+> 🧠 **Mental Model:** Think of a race where one runner keeps going 'out' beyond when others stop - that's outliving
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To live longer than someone or something"
+**Vietnamese:** Sống lâu hơn ai đó hoặc cái gì đó
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**outlive** (*/ˌaʊtˈlɪv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **outlive** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The old oak tree will likely outlive the house built beside it.
+> 🇻🇳 **Translation:** Cây sồi cổ này có thể sẽ tồn tại lâu hơn ngôi nhà được xây bên cạnh.
+> 🔍 **Analysis:** 'Outlive' perfect ở đây vì nó so sánh duration của hai thứ khác nhau - tree vs house - showing natural vs man-made longevity.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **outlive**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Personal:** outlive one's contemporaries (sống lâu hơn cùng đỗi)
+> 2. **Abstract:** outlive its usefulness (hết thời, không còn useful)
+> 3. **Temporal:** outlive one's time (tồn tại quá thời đại của mình)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **outlive**:
+"The company existed for many years."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The company managed to outlive all its competitors and adapt to changing markets."
+> 💡 **Why it works:** 'Outlive' thêm competitive element - không chỉ 'exist' mà còn 'triumph over others' trong business context.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **outlive** instead of **[[survive]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **outlive:** Phải có comparison element - sống lâu HƠN someone/something
+> **[[survive]]:** General continuing to exist - không cần compare với others
+> 🧱 **The Barrier:** 'Outlive' = comparative (so sánh), 'survive' = absolute (tuyệt đối) - 'outlive' implies winning against others in longevity.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend worries technology will make their skills obsolete. Reassure them. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Don't worry, human creativity will outlive any technological advancement."
+> 👨‍🎨 **Director's Note:** 'Outlive' perfect để express enduring value của human elements so với technological change.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `utlifan` to the meaning of **outlive**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'utlifan' = 'ut' (out) + 'libban' (live). Ban đầu nghĩa là sống ngoài boundary nào đó. Modern 'outlive' giữ concept này - living 'out' beyond the boundary of others' lifespan.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **outlive**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `ut` (out) + `libban` (to live)
+> 👨‍👩‍👧 **Family:**
+> - *(prefix)* [[out-]] - meaning beyond or exceeding
+> - *(compound)* [[outlast]] - to last longer than
+> - *(compound)* [[outgrow]] - to grow beyond
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌaʊtˈlɪv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**outlive**
+> 📖 **Meaning:** To live longer than someone or something
+> 🇻🇳 **Vietnamese:** Sống lâu hơn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **outlive**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She outlived than her husband by ten years."
+> ✅ **Correction:** "She outlived her husband by ten years."
+> 🧠 **Why:** 'Outlive' already contains comparison; don't add 'than'. Direct object is sufficient: outlive + [someone/something].
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **outlive**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[predecease]] (to die before someone - chết trước)
+> - [[outdie]] (rare - to die before others - chết sớm hơn)
+> 🧱 **Contrast:** 'Outlive' focuses on longevity and survival, while antonyms focus on being the first to die or ending earlier.
 
 ---

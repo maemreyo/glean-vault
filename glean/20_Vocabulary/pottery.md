@@ -1,158 +1,76 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
 #flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈpɒtəri/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** Old French poterie, from potier 'potter', from Latin potarius 'pot-maker'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** pots, dishes, and other articles made from clay and hardened by heat
+>
+> **Context Meaning:** the craft or profession of making pottery
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** gốm, đồ gốm
+> - **Contextual:** nghề làm gốm, đồ đất nung
+>
 > **Nuances:**
-> - ...
+> - Can refer to both the objects themselves (pots, dishes) and the craft of making them
+> - Often associated with traditional craftsmanship and cultural heritage
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Artisanal, Earthy, Traditional
+> **Memory Hook:** Think of "pot" + "ery" = the craft of making pots
+> **📖 Etymology Story:** From the humble potter's wheel spinning clay into vessels, pottery has evolved from utilitarian craft to artistic expression, preserving ancient techniques passed down through generations.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[potter]] /ˈpɒtə/ - người làm gốm
+> - **Verb:** [[pot]] /pɒt/ - trồng trong chậu
+> - **Adj:** [[potted]] /ˈpɒtɪd/ - trong chậu
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[ceramics]] /səˈræmɪks/ : the art of making objects from clay
+> - [[earthenware]] /ˈɜːθənweə/ : pottery made from fired clay
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - N/A
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. handmade pottery
+> 2. pottery studio
+> 3. ancient pottery
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The museum displays ancient pottery from the Ming Dynasty.
+> - **Translation:** Bảo tàng trưng bày đồ gốm cổ từ nhà Minh.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She enrolled in a pottery class to learn the craft.
+> - **Translation:** Cô ấy đăng ký lớp học gốm để học nghề này.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability**
+> - ❌ **Mistake:** "I bought some potteries."
+> - ✅ **Correction:** "I bought some pottery." or "I bought some pieces of pottery."
+> - **Why:** Pottery is an uncountable noun when referring to the craft or general items.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The archaeologists discovered fragments of ancient pottery buried in the riverbank."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +78,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **pottery** (*/ˈpɒtəri/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Pots, dishes, and other articles made from clay and hardened by heat; also the craft of making such items
+> 🇻🇳 **Vietnamese:** Đồ gốm; nghề làm gốm
+> 🗣️ **IPA:** */ˈpɒtəri/*
+> 🧠 **Mental Model:** Clay + fire + artist's hands = beautiful pots and bowls for decoration or daily use
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Objects made from clay and hardened by heat, or the craft of making them"
+**Vietnamese:** Đồ gốm hoặc nghề làm gốm
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**pottery** (*/ˈpɒtəri/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **pottery** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The local market is famous for its traditional handmade pottery.
+> 🇻🇳 **Translation:** Chợ địa phương nổi tiếng với đồ gốm thủ công truyền thống.
+> 🔍 **Analysis:** "Handmade pottery" emphasizes the craft aspect - it's not factory-made but crafted by skilled hands, giving each piece unique character and cultural value.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **pottery**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Craft Description:** handmade pottery (đồ gốm thủ công - emphasizes personal touch)
+> 2. **Place/Activity:** pottery class/wheel (lớp học/bàn xoay gốm - where learning happens)
+> 3. **Time/Historical:** ancient pottery (đồ gốm cổ - refers to historical artifacts)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **pottery**:
+"I like making things with clay."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I specialize in creating traditional pottery using techniques passed down through generations."
+> 💡 **Why it works:** "Pottery" elevates "things with clay" to a recognized art form, adding cultural depth and suggesting skill, tradition, and artistic value rather than just playing with mud.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **pottery** instead of **ceramics**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **pottery:** Often refers to functional items (pots, bowls, dishes) made from clay; more traditional craft focus
+> **ceramics:** Broader term including all clay products, both artistic and industrial; includes porcelain, tiles, and technical applications
+> 🧱 **The Barrier:** Pottery = craft + utility; Ceramics = science + art + industry (wider scope)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a craft fair and see beautiful clay bowls. You're impressed by the craftsmanship. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This pottery is absolutely stunning! You can feel the artisan's touch in every piece."
+> 👨‍🎨 **Director's Note:** Shows appreciation for craftsmanship and the human element in creating art from earth.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `pot` to the meaning of **pottery**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'potarius' (pot-maker) → Old French 'potier' → English 'pottery'. The journey from making simple pots ('pot') to the entire craft (-ery) shows how one humble creation grew into a whole artistic tradition that shapes our relationship with earth and fire.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **pottery**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `potus` ('drinking vessel')
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[potter]] /ˈpɒtə/ - nghệ nhân làm gốm
+> - *(verb)* [[pot]] /pɒt/ - trồng trong chậu
+> - *(adjective)* [[potted]] /ˈpɒtɪd/ - được trồng trong chậu
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈpɒtəri/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**pottery**
+> 📖 **Meaning:** Clay objects hardened by heat; the craft of making them
+> 🇻🇳 **Vietnamese:** Đồ gốm; nghề làm gốm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **pottery**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She makes beautiful potteries."
+> ✅ **Correction:** "She makes beautiful pottery." or "She makes beautiful pieces of pottery."
+> 🧠 **Why:** Pottery is uncountable when referring to the craft or general items. Use "pieces of pottery" for individual items.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **pottery**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - N/A (Pottery as a craft doesn't have a true opposite, but could contrast with:)
+> - [[mass-production]] - sản xuất hàng loạt (machine-made vs handcrafted)
+> 🧱 **Contrast:** Pottery celebrates human craftsmanship and uniqueness, while mass production prioritizes speed and uniformity.
 
 ---

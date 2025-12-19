@@ -1,158 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsɒlɪtjuːd/
+> **Part of Speech:** Noun
+> **CEFR Level:** B2
+> **Register:** Literary/Philosophical
+> **Etymology:** From Latin 'solitudo' from 'solus' (alone)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The state of being alone
+>
+> **Context Meaning:** The quality or state of being alone or remote from others, often chosen and appreciated for contemplation or creativity
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự cô độc
+> - **Contextual:** sự yên tĩnh một mình, không gian riêng tư
+>
 > **Nuances:**
-> - ...
+> - Usually positive, unlike loneliness
+> - Implies choice and contentment
+> - Associated with creativity, reflection, peace
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Contemplative, Peaceful, Creative
+> **Memory Hook:** 'sol' (sun) + 'itude' (attitude) - having the attitude of being the sun, standing alone brilliantly
+> **📖 Etymology Story:** From Latin 'solus' meaning alone, evolved to represent not just isolation but a noble, chosen state - like monks seeking solitude for divine connection
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[solitary]] /ˈsɒlətəri/
+> - **Adj:** [[solo]] /ˈsəʊləʊ/
+> - **Noun:** [[solitariness]] /ˌsɒlɪˈteərinəs/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[seclusion]] /sɪˈkluːʒn/ : implies hiding away
+> - [[isolation]] /ˌaɪsəˈleɪʃn/ : more clinical, forced separation
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[company]] /ˈkʌmpəni/ : presence of others
+> - [[society]] /səˈsaɪəti/ : community, civilization
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. seek solitude
+> 2. peaceful solitude
+> 3. enjoy solitude
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The writer moved to a cabin in the mountains to find solitude and complete her novel.
+> - **Translation:** Nhà văn chuyển đến một ngôi nhà gỗ trong núi để tìm sự yên tĩnh một mình và hoàn thành tiểu thuyết của cô.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Many artists need periods of solitude to produce their best work.
+> - **Translation:** Nhiều nghệ sĩ cần những giai đoạn cô độc để tạo ra tác phẩm tốt nhất của họ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Negative Association**
+> - ❌ **Mistake:** Using solitude with negative connotations
+> - ✅ **Correction:** Use loneliness for negative aloneness
+> - **Why:** Solitude is typically positive and chosen, while loneliness is painful
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Solitude is the profoundest fact of the human condition. Man is the only being who knows he is alone."
+> **Source:** [[Octavio Paz]]
 
 ---
 
@@ -160,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **solitude** (*/ˈsɒlɪtjuːd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The state of being alone, often chosen and appreciated for peace, creativity, or reflection
+> 🇻🇳 **Vietnamese:** Sự cô độc / sự yên tĩnh một mình
+> 🗣️ **IPA:** */ˈsɒlɪtjuːd/*
+> 🧠 **Mental Model:** Khi bạn "solitude", bạn choose để be alone vì peace và creativity - không như loneliness là unwanted.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The state of being alone, often chosen and appreciated for peace, creativity, or reflection"
+**Vietnamese:** Sự cô độc / sự yên tĩnh một mình
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**solitude** (*/ˈsɒlɪtjuːd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **solitude** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After a busy week, the professor cherished his weekend walks in the forest, finding solace in solitude.
+> 🇻🇳 **Translation:** Sau một tuần bận rộn, giáo sư trân trọng những buổi đi bộ cuối tuần trong rừng, tìm thấy sự an ủi trong sự cô độc.
+> 🔍 **Analysis:** Perfect vì nó shows positive choice và appreciation - "cherished" và "solace" confirm solitude là desirable state, không phải painful loneliness.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **solitude**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** seek/find solitude (chỉ chủ động tìm kiếm, không bị động)
+> 2. **Quality:** peaceful/quiet solitude (chỉ đặc tính tích cực, không tiêu cực)
+> 3. **Duration:** hours/days of solitude (chỉ khoảng thời gian có chủ đích)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **solitude**:
+"She likes to be alone sometimes."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "As an introvert, she regularly seeks solitude to recharge her creative energy."
+> 💡 **Why it works:** "solitude" thêm positive framing và purpose, thay vì "alone" trung tính - shows intentional choice cho personal growth.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **solitude** instead of **[[loneliness]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **solitude:** Positive, chosen aloneness (VN: cô độc tích cực, được lựa chọn)
+> **[[loneliness]]:** Painful, unwanted isolation (VN: cô đơn đau đớn, không mong muốn)
+> 🧱 **The Barrier:** Solitude = choice + contentment; Loneliness = lack + sadness
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You've had a hectic week and need to recharge. Express your need.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I desperately need some solitude this weekend to clear my mind."
+> 👨‍🎨 **Director's Note:** Shows solitude là necessary cho mental health, not antisocial behavior - positive self-care.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `solus` to the meaning of **solitude**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin 'solus' meaning alone, 'solitudo' represented the state of being solitary. Unlike modern negative associations, ancient cultures saw solitude as path to wisdom and divine connection.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **solitude**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `solus` (alone)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[solitary]] (cô độc, đơn độc)
+> - *(adj/noun)* [[solo]] (độc tấu, một mình)
+> - *(noun)* [[solitariness]] (tính đơn độc)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsɒlɪtjuːd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**solitude**
+> 📖 **Meaning:** The state of being alone, often chosen and appreciated for peace, creativity, or reflection
+> 🇻🇳 **Vietnamese:** Sự cô độc / sự yên tĩnh một mình
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **solitude**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The elderly man suffered from solitude in the nursing home."
+> ✅ **Correction:** "The elderly man suffered from loneliness in the nursing home."
+> 🧠 **Why:** Use "loneliness" for painful isolation; "solitude" implies chosen, peaceful aloneness.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **solitude**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[company]] (sự đồng hành, sự có mặt của người khác)
+> - [[communion]] (sự giao tiếp, sự kết nối)
+> 🧱 **Contrast:** Solitude = chosen alone time; Company = presence of others; Communion = deep connection.
 
 ---

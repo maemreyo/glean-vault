@@ -1,158 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kənˈvɜːt/
+> **Part of Speech:** verb
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Latin *convertere* 'to turn around, transform', from *com-* 'together' + *vertere* 'to turn'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** to turn from one form into another
+>
+> **Context Meaning:** to change something from one form, purpose, or system to another; to adapt or alter
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chuyển đổi, biến đổi
+> - **Contextual:** quy đổi, cải tạo, chuyển hóa
+>
 > **Nuances:**
-> - ...
+> - Implies fundamental change in form or nature
+> - Used in technical, religious, and general contexts
+> - Can be literal or metaphorical transformation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Transformative, Adaptive, Change-making
+> **Memory Hook:** CON + VERT = turn together with = change together
+> **📖 Etymology Story:** Latin 'convertere' meant 'to turn together, transform'. When you convert something, you 'turn it together' with a new form - like turning flour into bread, or converting a sinner to a saint.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[convert]] /kənˈvɜːt/ - chuyển đổi
+> - **Noun:** [[conversion]] /kənˈvɜːʃn/ - sự chuyển đổi
+> - **Noun:** [[converter]] /kənˈvɜːtə/ - bộ chuyển đổi
+> - **Adj:** [[convertible]] /kənˈvɜːtəbl/ - có thể chuyển đổi
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[transform]] /trænsˈfɔːm/ : biến đổi
+> - [[change]] /tʃeɪndʒ/ : thay đổi
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[preserve]] /prɪˈzɜːv/ - bảo tồn
+> - [[maintain]] /meɪnˈteɪn/ - duy trì
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. convert to
+> 2. convert into
+> 3. convert someone to something
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The factory converts raw materials into finished products.
+> - **Translation:** Nhà máy chuyển đổi nguyên liệu thô thành thành phẩm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She converted to Buddhism after years of searching.
+> - **Translation:** Cô ấy chuyển theo đạo Phật sau nhiều năm tìm kiếm.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** "They converted the garage in a bedroom."
+> - ✅ **Correction:** "They converted the garage into a bedroom."
+> - **Why:** Use "into" for changing form, "to" for changing belief or system.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The old barn was converted into a beautiful art gallery."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **convert** (*/kənˈvɜːt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To change something from one form, purpose, or system to another; to transform or adapt
+> 🇻🇳 **Vietnamese:** Chuyển đổi, biến đổi từ dạng này sang dạng khác
+> 🗣️ **IPA:** */kənˈvɜːt/*
+> 🧠 **Mental Model:** Change + transformation = sự biến đổi hoàn toàn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To change something from one form to another"
+**Vietnamese:** Chuyển đổi, biến đổi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**convert** (*/kənˈvɜːt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **convert** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The architect converted the abandoned warehouse into modern loft apartments.
+> 🇻🇳 **Translation:** Kiến trúc sư đã biến đổi nhà kho bị bỏ hoang thành các căn hộ hiện đại.
+> 🔍 **Analysis:** "Converted...into" shows complete transformation - changing not just appearance but fundamental purpose from warehouse to living space.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **convert**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Transformation Type:** convert X into Y (chuyển đổi X thành Y - complete form change)
+> 2. **Belief Change:** convert to/into (chuyển theo/tới - religious/ideological change)
+> 3. **Energy Type:** convert to energy (chuyển đổi thành năng lượng - scientific context)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **convert**:
+"She changed the room into an office."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She converted the spare bedroom into a sophisticated home office with custom-built shelving."
+> 💡 **Why it works:** "Convert" implies thorough transformation, not just rearrangement - complete change of purpose and design.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **convert** instead of **change**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **convert:** Fundamental transformation of form/purpose (biến đổi bản chất)
+> **change:** General alteration or modification (thay đổi chung chung)
+> 🧱 **The Barrier:** Convert = new identity; Change = modification of existing
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to turn their bicycle into an electric one. Share your excitement.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "That's brilliant! Converting your bike to electric will save you so much money on transport!"
+> 👨‍🎨 **Director's Note:** Shows enthusiasm for transformation and practical thinking about benefits.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `convertere` to the meaning of **convert**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'convertere' = 'com-' (together) + 'vertere' (to turn). To convert is literally 'to turn together with' something new - you and the subject turn together toward a new form or purpose.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **convert**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `convertere` ('to turn around, transform')
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[conversion]] /kənˈvɜːʃn/ - sự chuyển đổi
+> - *(noun)* [[converter]] /kənˈvɜːtə/ - bộ chuyển đổi
+> - *(adjective)* [[convertible]] /kənˈvɜːtəbl/ - có thể chuyển đổi
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kənˈvɜːt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**convert**
+> 📖 **Meaning:** To change something from one form to another
+> 🇻🇳 **Vietnamese:** Chuyển đổi, biến đổi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **convert**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "We converted the files to PDF format for sharing."
+> ✅ **Correction:** "We converted the files to PDF format for sharing."
+> 🧠 **Why:** Actually this is correct! BUT: When changing format, we usually say "convert TO" (new format), when changing form, we say "convert INTO" (new thing).
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **convert**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[preserve]] /prɪˈzɜːv/ - bảo tồn (change vs maintain original state)
+> - [[maintain]] /meɪnˈteɪn/ - duy trì (transformation vs continuity)
+> 🧱 **Contrast:** Convert = new form; Preserve = original form.
 
 ---

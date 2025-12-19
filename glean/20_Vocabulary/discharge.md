@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general
+#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 <!--
 Select one of the following tags to replace the line above:
 
@@ -86,73 +86,76 @@ Select one of the following tags to replace the line above:
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dɪsˈtʃɑːrdʒ/
+> **Part of Speech:** Verb & Noun
+> **CEFR Level:** C1
+> **Register:** Formal/Technical
+> **Etymology:** Latin 'dischargare' (to unload, set free) from dis- (away) + carricare (to load)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To release something from a container or place of confinement
+>
+> **Context Meaning:** To release waste, liquid, or gas into the environment
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** xả, giải tỏa, cho ra
+> - **Contextual:** xả thải, thải ra môi trường
+>
 > **Nuances:**
-> - ...
+> - Often used in environmental contexts for releasing pollutants
+> - Can refer to medical release from hospital
+> - Also means to fulfill a duty or obligation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Clinical, Technical, Consequential
+> **Memory Hook:** Think of "dis-" (away) + "charge" (load) = loading away, releasing a burden
+> **📖 Etymology Story:** Medieval Latin speakers combined 'dis-' (away) with 'carricare' (to load) to create 'dischargare' - literally to unload. From merchants unloading cargo to modern wastewater treatment plants releasing treated water, the word maintains its essence of controlled release
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[discharge]] /dɪsˈtʃɑːrdʒ/, [[dischargeable]] /dɪsˈtʃɑːrdʒəbl/
+> - **Verb:** [[discharge]] /dɪsˈtʃɑːrdʒ/
+> - **Adj:** [[discharged]] /dɪsˈtʃɑːrdʒd/
+> - **Adv:** N/A
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[release]] /rɪˈliːs/ : General term for letting go
+> - [[emit]] /iˈmɪt/ : Scientific term for gas/radiation
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[contain]] /kənˈteɪn/ : To hold within
+> - [[retain]] /rɪˈteɪn/ : To keep possession
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. sewage discharge
+> 2. industrial discharge
+> 3. discharge into river
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The factory was fined for illegal chemical discharge into the river.
+> - **Translation:** Nhà máy bị phạt vì xả hóa chất bất hợp pháp vào sông.
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** After treatment, the water is safely discharged back into the ocean.
+> - **Translation:** Sau khi xử lý, nước được xả an toàn trở lại đại dương.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** The factory discharged waste *to* the river
+> - ✅ **Correction:** The factory discharged waste *into* the river
+> - **Why:** 'Discharge into' indicates movement inside something, 'to' indicates direction toward
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Sewage discharge into rivers without proper treatment poses serious health risks to downstream communities."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +163,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **discharge** (*/dɪsˈtʃɑːrdʒ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To release or emit waste, liquid, or gas into the environment
+> 🇻🇳 **Vietnamese:** Xả thải (thải chất thải, lỏng, hoặc khí ra môi trường)
+> 🗣️ **IPA:** */dɪsˈtʃɑːrdʒ/*
+> 🧠 **Mental Model:** Imagine a factory pipe "dis-charging" - taking the load (charge) and sending it away (dis) into nature
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To release waste or liquid into the environment"
+**Vietnamese:** "Xả thải"
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**discharge** (*/dɪsˈtʃɑːrdʒ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **discharge** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The power plant must obtain permits before discharging warm water into the lake.
+> 🇻🇳 **Translation:** Nhà máy điện phải có giấy phép trước khi xả nước nóng vào hồ.
+> 🔍 **Analysis:** "Discharge" ở đây hoàn hảo vì nó là thuật ngữ kỹ thuật cho việc thải chất lỏng, đặc biệt trong môi trường công nghiệp
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **discharge**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Pollution Context:** sewage discharge (xả nước thải - chỉ hoạt động xử lý chất thải)
+> 2. **Industrial:** industrial discharge (xả thải công nghiệp - chất thải từ nhà máy)
+> 3. **Environmental:** discharge into waterway (xả vào đường thủy - hướng xả thải)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **discharge**:
+"The factory let dirty water out."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The chemical plant illegally discharged toxic effluent into the nearby stream."
+> 💡 **Why it works:** "Discharge" tạo cảm giác kỹ thuật, chuyên nghiệp hơn "let out", và nhấn mạnh hành động có chủ đích trong môi trường công nghiệp
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **discharge** instead of **release**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **discharge:** Dùng trong môi trường kỹ thuật/y tế, có kiểm soát (VN explanation)
+> **release:** Dùng chung, có thể tự nhiên hoặc có chủ đích (VN explanation)
+> 🧱 **The Barrier:** Technical vs General - discharge thường đi với chất thải/công nghiệp, release có thể cho bất cứ thứ gì
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're an environmental inspector. You see untreated waste flowing from a pipe. Report it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We're documenting this illegal discharge immediately - they're bypassing the treatment system entirely!"
+> 👨‍🎨 **Director's Note:** Shows urgency and technical authority in environmental protection
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `dis- + charg(e)` to the meaning of **discharge**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'dis-' (away) + 'carricare' (to load) → unload cargo → release burden → modern meaning of releasing waste or obligations
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **discharge**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `dis-` (away, apart) + `carricare` (to load from 'carrus' = wagon)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* discharge (sự xả thải, sự xuất viện)
+> - *(verb)* to discharge (xả thải, xuất viện)
+> - *(adj)* discharged (đã được xả, đã xuất viện)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dɪsˈtʃɑːrdʒ/
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**discharge**
+> 📖 **Meaning:** To release waste or liquid into the environment
+> 🇻🇳 **Vietnamese:** Xả thải
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **discharge**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The tank discharges its content in the garden
+> ✅ **Correction:** The tank discharges its content into the drainage system
+> 🧠 **Why:** Discharge usually implies controlled release into a specific container/environment, not random scattering
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **discharge**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[contain]] (giữ lại, ngăn chặn)
+> - [[withhold]] (giữ lại không cho ra)
+> 🧱 **Contrast:** Release vs Retain - discharge là giải phóng, antonyms là kiểm soát/tích trữ
 
 ---

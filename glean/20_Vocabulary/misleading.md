@@ -1,158 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌmɪsˈliːdɪŋ/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** neutral/formal
+> **Etymology:** mis- 'wrongly' + Old English lædan 'to lead'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** giving the wrong idea or impression
+>
+> **Context Meaning:** deceptive or causing someone to believe something that is not true
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** gây hiểu lầm, sai lệch
+> - **Contextual:** đánh lừa, gợi ý sai
+>
 > **Nuances:**
-> - ...
+> - Can be unintentional (misleading information) or intentional (misleading advertising)
+> - Often used in legal and consumer protection contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Deceptive, Confusing, Tricky
+> **Memory Hook:** Mis (wrong) + leading = leading someone the wrong way
+> **📖 Etymology Story:** From 'mis-' (wrongly) and 'lead' - to guide. Misleading literally means leading someone wrongly, like a guide taking travelers down the wrong path, whether by mistake or on purpose.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[mislead]] /ˌmɪsˈliːd/ - gây hiểu lầm
+> - **Noun:** [[misleading]] /ˌmɪsˈliːdɪŋ/ - sự gây hiểu lầm
+> - **Adv:** [[misleadingly]] /ˌmɪsˈliːdɪŋli/ - một cách gây hiểu lầm
+> - **Adj:** [[misled]] /mɪsˈled/ - bị hiểu lầm
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[deceptive]] /dɪˈseptɪv/ : lừa dối
+> - [[confusing]] /kənˈfjuːzɪŋ/ : gây khó hiểu
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[clear]] /klɪə/ - rõ ràng
+> - [[accurate]] /ˈækjərət/ - chính xác
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. misleading information
+> 2. misleading advertisement
+> 3. potentially misleading
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The advertisement was deliberately misleading about the product's benefits.
+> - **Translation:** Quảng cáo đã cố tình gây hiểu lầm về lợi ích của sản phẩm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The statistics presented in a misleading way supported their argument.
+> - **Translation:** Các số liệu được trình bày một cách gây hiểu lầm đã hỗ trợ lập luận của họ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Form**
+> - ❌ **Mistake:** "The advertisement mislead me."
+> - ✅ **Correction:** "The advertisement misled me." (past tense)
+> - **Why:** The past tense of mislead is 'misled', not 'mislead'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The advertisement was deliberately misleading about the product's benefits."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **misleading** (*/ˌmɪsˈliːdɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Giving the wrong idea or impression; deceptive or likely to make someone believe something untrue
+> 🇻🇳 **Vietnamese:** Gây hiểu lầm; đánh lừa
+> 🗣️ **IPA:** */ˌmɪsˈliːdɪŋ/*
+> 🧠 **Mental Model:** A signpost pointing the wrong direction → leads you to wrong conclusion
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Giving the wrong idea or impression; deceptive"
+**Vietnamese:** Gây hiểu lầm
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**misleading** (*/ˌmɪsˈliːdɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **misleading** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The company's financial report contained misleading information that hid their losses.
+> 🇻🇳 **Translation:** Báo cáo tài chính của công ty chứa thông tin gây hiểu lầm che giấu thua lỗ của họ.
+> 🔍 **Analysis:** "Misleading information" shows data or facts that, while not necessarily false, are presented in a way that creates a wrong impression about the true situation.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **misleading**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Information Type:** misleading information/statistics/data (thông tin/số liệu/dữ liệu gây hiểu lầm - things that can deceive)
+> 2. **Intent:** deliberately/intentionally misleading (cố tình/chủ ý gây hiểu lầm - shows purpose)
+> 3. **Context:** misleading advertisement/claims (quảng cáo/lời khẳng định gây hiểu lầm - common in marketing)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **misleading**:
+"The report didn't tell the whole truth."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The annual report presented misleading figures that obscured the company's declining profits."
+> 💡 **Why it works:** "Misleading" specifies the nature of the deception - not outright lies but selective presentation that creates wrong conclusions, adding precision to the criticism.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **misleading** instead of **false**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **misleading:** Creates wrong impression but may contain elements of truth; can be unintentional
+> **false:** Completely untrue; deliberately incorrect information
+> 🧱 **The Barrier:** Misleading = twisted truth; False = complete fabrication
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You realize a news article manipulated statistics to support its argument. You're outraged. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This is absolutely misleading! They're twisting the facts to mislead people."
+> 👨‍🎨 **Director's Note:** Shows recognition of deliberate manipulation of information to create false impressions.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `lædan` to the meaning of **misleading**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'lædan' meant 'to guide, to lead'. Adding 'mis-' (wrongly) creates 'misleading' - to guide wrongly. Like a guide taking you down the wrong path, misleading information leads our understanding away from truth.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **misleading**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `lædan` ('to guide, lead')
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[mislead]] /ˌmɪsˈliːd/ - gây hiểu lầm
+> - *(noun)* [[misleading]] /ˌmɪsˈliːdɪŋ/ - sự gây hiểu lầm
+> - *(adverb)* [[misleadingly]] /ˌmɪsˈliːdɪŋli/ - một cách gây hiểu lầm
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌmɪsˈliːdɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**misleading**
+> 📖 **Meaning:** Giving wrong impression; deceptive
+> 🇻🇳 **Vietnamese:** Gây hiểu lầm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **misleading**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The signs are missleading."
+> ✅ **Correction:** "The signs are misleading."
+> 🧠 **Why:** Correct spelling is 'misleading' - one 's' after the prefix 'mis-', not two.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **misleading**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[accurate]] /ˈækjərət/ (chính xác - correct and true)
+> - [[transparent]] /trænsˈpærənt/ (minh bạch - open and honest)
+> 🧱 **Contrast:** Misleading hides or twists truth; accurate and transparent reveal it clearly.
 
 ---

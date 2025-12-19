@@ -1,158 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈrɪvərsaɪd/
+> **Part of Speech:** noun/adjective
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** From river + side (Old English sīd "flank, side")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The land alongside a river.
+>
+> **Context Meaning:** The area or bank next to a river, often used for recreation, housing, or parks.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bên sông
+> - **Contextual:** ven sông, bờ sông (khu vực dọc theo con sông)
+>
 > **Nuances:**
-> - ...
+> - Can be both a physical location and descriptive term
+> - Often associated with scenic views and water activities
+> - Different from "riverbank" which is more specific to the edge
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Serene, natural, scenic
+> **Memory Hook:** River + side = riverside (easy compound word - just like bedside but with water)
+> **📖 Etymology Story:** Simple compound word from Old English - "river" (from Latin ripa) + "side" (Old English sīd). People have always been drawn to live beside rivers for water, transport, and food.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[riverside]] /ˈrɪvərsaɪd/
+> - **Adj:** [[riverside]] /ˈrɪvərsaɪd/
+> - **Compound:** [[riverside park]] /ˈrɪvərsaɪd pɑːrk/
+> - **Related:** [[waterside]] /ˈwɔːtərsaɪd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[riverbank]] /ˈrɪvərbæŋk/ : the edge of a river
+> - [[waterside]] /ˈwɔːtərsaɪd/ : area next to any body of water
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[inland]] /ˈɪnlənd/ : away from the coast or river
+> - [[upland]] /ˈʌplənd/ : higher ground away from rivers
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. riverside restaurant
+> 2. riverside walk
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** We had a picnic at the riverside and watched the boats go by.
+> - **Translation:** Chúng tôi đã có một bữa tiệc dã ngoại bên bờ sông và xem những con thuyền đi qua.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new apartments offer beautiful riverside views.
+> - **Translation:** Các căn hộ mới này có tầm nhìn tuyệt đẹp ra bên sông.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling Error**
+> - ❌ **Mistake:** "We went to the rivaside for a walk."
+> - ✅ **Correction:** "We went to the riverside for a walk."
+> - **Why:** It's one word "riverside" when referring to the area by the river.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The conference center is located in a beautiful riverside setting."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +79,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **riverside** (*/ˈrɪvərsaɪd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The land or area alongside a river, often used for recreation, housing, or scenic views.
+> 🇻🇳 **Vietnamese:** Bên sông, ven sông, bờ sông
+> 🗣️ **IPA:** */ˈrɪvərsaɪd/*
+> 🧠 **Mental Model:** Khu vực đất nằm dọc theo con sông (river + side = cạnh sông, như bedside = cạnh giường)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The land alongside a river"
+**Vietnamese:** Bên sông
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**riverside** (*/ˈrɪvərsaɪd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **riverside** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The couples enjoyed their evening stroll along the riverside promenade.
+> 🇻🇳 **Translation:** Các cặp đôi đã tận hưởng buổi dạo chơi buổi tối dọc theo lối đi bộ ven sông.
+> 🔍 **Analysis:** Perfect here because it creates a romantic, scenic image of walking next to water.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **riverside**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Property:** riverside property (bất động sản ven sông) - valuable location next to river
+> 2. **Recreation:** riverside walk (lối đi bộ bên sông) - path along the river
+> 3. **Venue:** riverside café (quán cà phê bên sông) - eating place with river view
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **riverside**:
+"The restaurant was next to the water."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The restaurant offered stunning riverside dining with panoramic views of the Thames."
+> 💡 **Why it works:** "Riverside" specifies exactly which body of water and creates a more sophisticated, descriptive image.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **riverside** instead of **riverbank**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **riverside:** Refers to the general area/land alongside a river (khu vực rộng bên sông)
+> **riverbank:** Specifically the edge or slope of the river (cạnh bờ sông, nơi đất dốc xuống nước)
+> 🧱 **The Barrier:** Riverside = broader zone vs Riverbank = specific edge line
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing your ideal vacation home. You feel peaceful. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I dream of having a small cottage with a private riverside terrace where I can drink my morning coffee."
+> 👨‍🎨 **Director's Note:** Creates a tranquil, specific image of peaceful living by the water.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `river + side` to the meaning of **riverside**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** River (tiếng Latin "ripa" - bờ sông) + Side (tiếng Anh cổ "sīd" - cạnh, hông) → Riverside = cạnh con sông. Đơn giản như bedside = cạnh giường!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **riverside**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Compound: river (Latin "ripa") + side (Old English "sīd")
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[riverside]] - khu vực ven sông
+> - *(adj)* [[riverside]] - thuộc về ven sông
+> - *(compound)* [[riverside hotel]] - khách sạn ven sông
+> - *(related)* [[waterside]] - khu vực ven nước (nước nói chung)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈrɪvərsaɪd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**riverside**
+> 📖 **Meaning:** The land or area alongside a river
+> 🇻🇳 **Vietnamese:** Bên sông, ven sông
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **riverside**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "We live at the river side."
+> ✅ **Correction:** "We live at the riverside." OR "We live by the river side."
+> 🧠 **Why:** "Riverside" is one word when referring to the area. "River side" (two words) only works when "side" is modified separately.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **riverside**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[inland]] (away from water)
+> - [[upland]] (higher ground)
+> 🧱 **Contrast:** Riverside = low, water-adjacent land vs Inland/Upland = areas away from rivers
 
 ---

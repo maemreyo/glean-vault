@@ -1,158 +1,76 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
 #flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌɑːkiˈɒlədʒɪst/
+> **Part of Speech:** noun
+> **CEFR Level:** C1
+> **Register:** academic
+> **Etymology:** Greek arkhaios 'ancient' + logia 'study of'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** someone who studies human history through excavation of sites and analysis of artifacts
+>
+> **Context Meaning:** a scientist who studies past human cultures through material remains
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nhà khảo cổ học
+> - **Contextual:** nhà khảo cổ
+>
 > **Nuances:**
-> - ...
+> - Combines fieldwork (excavation) with laboratory analysis
+> - Often specializes in specific periods or regions
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Scholarly, Patient, Detective-like
+> **Memory Hook:** Ancient (archaeo) + study (ologist) = person who studies ancient things
+> **📖 Etymology Story:** From Greek 'arkhaios' (ancient) and 'logos' (study), the archaeologist is literally one who studies ancient things. Like a detective solving mysteries of the past, they piece together human history from fragments left behind.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[archaeology]] /ˌɑːkiˈɒlədʒi/ - ngành khảo cổ học
+> - **Verb:** [[excavate]] /ˈekskəveɪt/ - đào sâu, khai quật
+> - **Adj:** [[archaeological]] /ˌɑːkiəˈlɒdʒɪkəl/ - thuộc về khảo cổ
+> - **Adv:** [[archaeologically]] /ˌɑːkiəˈlɒdʒɪkli/ - một cách khảo cổ
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[researcher]] /rɪˈsɜːtʃə/ : người nghiên cứu
+> - [[historian]] /hɪˈstɔːriən/ : nhà sử học
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - N/A
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. marine archaeologist
+> 2. archaeological dig
+> 3. forensic archaeologist
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The archaeologist carefully brushed away the soil to reveal the ancient artifact.
+> - **Translation:** Nhà khảo cổ cẩn thận quét lớp đất để lộ ra cổ vật.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Archaeologists have discovered evidence of an ancient settlement beneath the city.
+> - **Translation:** Các nhà khảo cổ đã phát hiện bằng chứng về một khu định cư cổ dưới lòng thành phố.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Pronunciation**
+> - ❌ **Mistake:** "ar-kee-O-lo-gist"
+> - ✅ **Correction:** "ar-kee-OL-o-jist"
+> - **Why:** The stress falls on the third syllable 'ol'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The archaeologists discovered fragments of ancient pottery buried in the riverbank."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +78,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **archaeologist** (*/ˌɑːkiˈɒlədʒɪst/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A scientist who studies human history through excavation and analysis of artifacts and physical remains
+> 🇻🇳 **Vietnamese:** Nhà khảo cổ học
+> 🗣️ **IPA:** */ˌɑːkiˈɒlədʒɪst/*
+> 🧠 **Mental Model:** Past + artifacts + excavation = history detective who digs up ancient treasures
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A scientist who studies human history through excavation of sites and analysis of physical remains"
+**Vietnamese:** Nhà khảo cổ học
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**archaeologist** (*/ˌɑːkiˈɒlədʒɪst/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **archaeologist** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The archaeologist spent years excavating the Mayan ruins to understand their civilization.
+> 🇻🇳 **Translation:** Nhà khảo cổ đã dành nhiều năm khai quật di tích Mayan để hiểu về nền văn minh của họ.
+> 🔍 **Analysis:** "Excavating the Mayan ruins" shows the archaeologist's primary work - carefully unearthing and studying ancient sites to reconstruct past civilizations.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **archaeologist**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Specialization Type:** marine archaeologist (nhà khảo cổ biển - specializes in underwater sites)
+> 2. **Activity:** archaeologist discovers/unearths (khảo cổ phát hiện/khai quật - their main actions)
+> 3. **Method:** forensic archaeologist (nhà khảo cổ pháp y - applies archaeological techniques to crime scenes)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **archaeologist**:
+"The scientist studies old things in the ground."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The archaeologist meticulously layers each artifact to reconstruct ancient civilizations from fragments of pottery and tools."
+> 💡 **Why it works:** "Archaeologist" specifies a highly trained professional with systematic methods, adding precision and academic rigor compared to the vague "scientist who studies old things."
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **archaeologist** instead of **historian**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **archaeologist:** Studies physical artifacts and excavations; focuses on material culture and scientific evidence
+> **historian:** Studies written records and documents; focuses on narratives and textual sources
+> 🧱 **The Barrier:** Archaeologist = physical evidence + digging; Historian = written records + documents
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You find an old coin in your garden. You're excited about its historical significance. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I found this ancient coin! We should call an archaeologist to examine it properly."
+> 👨‍🎨 **Director's Note:** Shows recognition of expertise and proper handling of historical artifacts.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `arkhaios` to the meaning of **archaeologist**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Greek 'arkhaios' (ancient) + 'logos' (study) + 'ist' (person who). The archaeologist is literally "one who studies the ancient," bridging the gap between past and present through careful investigation of what our ancestors left behind.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **archaeologist**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `arkhaios` ('ancient, original')
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[archaeology]] /ˌɑːkiˈɒlədʒi/ - ngành khảo cổ học
+> - *(adjective)* [[archaeological]] /ˌɑːkiəˈlɒdʒɪkəl/ - thuộc về khảo cổ
+> - *(verb)* [[excavate]] /ˈekskəveɪt/ - khai quật
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌɑːkiˈɒlədʒɪst/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**archaeologist**
+> 📖 **Meaning:** Scientist who studies human history through artifacts and excavations
+> 🇻🇳 **Vietnamese:** Nhà khảo cổ học
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **archaeologist**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The archaeologyst found pottery."
+> ✅ **Correction:** "The archaeologist found pottery."
+> 🧠 **Why:** Correct spelling is 'archaeologist' with 'ae' not 'e', and the stress is on the third syllable: ar-kee-OL-o-jist.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **archaeologist**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[futurist]] - người nghiên cứu tương lai (studies future possibilities vs past artifacts)
+> - [[prophet]] - nhà tiên tri (predicts future vs discovers past)
+> 🧱 **Contrast:** Archaeologist uncovers what already happened; futurist imagines what could happen.
 
 ---

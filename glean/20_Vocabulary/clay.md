@@ -1,158 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
 #flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kleɪ/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Old English 'clǣg' from Proto-Germanic 'klaigaz' (sticky substance)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** a type of heavy, sticky earth that becomes hard when baked or dried
+>
+> **Context Meaning:** a natural earth material that is plastic when wet and hard when fired, used for making pottery, bricks, and ceramics; also used metaphorically for substance or character
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đất sét
+> - **Contextual:** chất nền, bản chất, nền tảng
+>
 > **Nuances:**
-> - ...
+> - Malleable yet strong when processed
+> - Raw material requiring skill to transform
+> - Represents potential waiting to be shaped
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Malleable, Grounded
+> **Memory Hook:** Think of clay as earth's Play-Doh - natural, moldable, transforms with heat and pressure
+> **📖 Etymology Story:** Từ cổ xưa 'clǣg' mang hình ảnh sticky, clinging earth. Clay là substance that holds shapes, dreams, and history - imagine ancient hands pressing stories into wet earth that would survive millennia!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[clay]], [[pottery]] /ˈpɒtəri/
+> - **Verb:** [[mold]] /məʊld/, [[shape]] /ʃeɪp/
+> - **Adj:** [[clayey]] /ˈkleɪi/ (containing clay)
+> - **Adv:** *no common adverb*
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[mud]] /mʌd/ : wet earth, but less workable
+> - [[loam]] /ləʊm/ : fertile soil mixture
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[rock]] /rɒk/ : hard, non-malleable stone
+> - [[sand]] /sænd/ : granular, non-sticky particles
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. modeling/sculpting clay
+> 2. firing/baking clay
+> 3. potter's clay
+
+> **1. Example Context 1 (Archaeology)**
+> - **Sentence:** The archaeologists discovered ancient clay tablets inscribed with cuneiform writing.
+> - **Translation:** Các nhà khảo cổ đã phát hiện ra những viên đất sét cổ có chữ viết hình nêm.
+>
+> **2. Example Context 2 (Art)**
+> - **Sentence:** The sculptor worked the clay with skilled hands, gradually revealing the form within.
+> - **Translation:** Người nhà điêu khắc nặn đất sét bằng đôi tay khéo léo, dần dần hé lộ hình dáng bên trong.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Material Confusion**
+> - ❌ **Mistake:** The vase is made of clay rocks.
+> - ✅ **Correction:** The vase is made of fired clay. / The vase is ceramic.
+> - **Why:** Clay becomes 'ceramic' or 'pottery' after firing; it's not called 'clay rocks'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The workshop was filled with the earthy smell of wet clay and the steady hum of pottery wheels."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **clay** (*/kleɪ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A natural earth material that is plastic when wet and hard when fired, used for making pottery, bricks, and ceramics
+> 🇻🇳 **Vietnamese:** Đất sét, đất sét nung, chất dẻo từ đất
+> 🗣️ **IPA:** */kleɪ/*
+> 🧠 **Mental Model:** Hãy tưởng tượng Play-Doh của nature - mềm dẻo khi wet, cứng chắc khi fired, có thể shape thành bất cứ thứ gì!
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A natural earth material that is plastic when wet and hard when fired, used for making pottery, bricks, and ceramics"
+**Vietnamese:** Đất sét, đất sét nung
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**clay** (*/kleɪ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **clay** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The children loved squishing wet clay between their fingers during the pottery workshop.
+> 🇻🇳 **Translation:** Bọn trẻ thích nghịch đất sét ướt giữa các ngón tay trong buổi workshop làm gốm.
+> 🔍 **Analysis:** Perfect vì 'squishing' captures clay's tactile nature, và 'wet clay' cho thấy trạng thái malleable trước khi fired - sensory word cho sensory material!
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **clay**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Creation Process:** modeling/sculpting/molding clay (hành động shaping - như giving life to earth)
+> 2. **Transformation:** firing/baking clay (process biến đổi - như metamorphosis của materials)
+> 3. **Types/Qualities:** potter's clay/red clay/workable clay (classification - như different personalities của clay)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **clay**:
+"She made a bowl from wet earth."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She skillfully molded the malleable clay into a perfect bowl, preparing it for the kiln."
+> 💡 **Why it works:** 'Clay' cụ thể và chuyên nghiệp hơn 'wet earth', kết hợp với 'molded' và 'malleable' shows understanding của process, 'kiln' thêm technical vocabulary!
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **clay** instead of [[mud]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **clay:** Fine-grained, workable, suitable for pottery and art (VN: đất sét, dẻo, làm đồ gốm được)
+> **[[mud]]:** Coarser mixture of earth and water, messy, not suitable for detailed work (VN: bùn, bẩn, không định hình tốt)
+> 🧱 **The Barrier:** Clay là artist's medium với fine particles that hold shape. Mud là nature's mess with random debris - một cái là canvas, một cái là puddle!
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a pottery class trying the wheel for the first time. The instructor asks how you're feeling.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The clay feels so responsive to my touch, yet has a mind of its own - it's like having a conversation with the earth!"
+> 👨‍🎨 **Director's Note:** Perfect vì nó captures cả tactile sensation và philosophical aspect của working with clay - 'conversation with earth' là beautiful metaphor!
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `clǣg` to the meaning of **clay**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'clǣg' evokes hình ảnh sticky, clinging earth - tưởng tượng ancient humans discovering này material could hold water, then shape, then harden. Clay là earth that remembers shapes given to it!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **clay**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Proto-Germanic `klaigaz` (sticky substance)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[clayey]] (có đặc tính của đất sét)
+> - *(noun)* [[claypan]] (lớp đất sét cứng)
+> - *(noun)* [[claymore]] (loại kiếm Scotland - unrelated, false friend!)
+> - *(compound)* [[clay pigeon]] (mục tiêu clay bắn súng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kleɪ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**clay**
+> 📖 **Meaning:** A natural earth material that is plastic when wet and hard when fired, used for making pottery, bricks, and ceramics
+> 🇻🇳 **Vietnamese:** Đất sét, đất sét nung, chất dẻo từ đất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **clay**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I bought some beautiful clay dishes for my kitchen."
+> ✅ **Correction:** "I bought some beautiful ceramic dishes for my kitchen." OR "I bought some beautiful pottery for my kitchen."
+> 🧠 **Why:** Clay là raw material trước khi fired. Sau khi fired trong kiln, nó becomes 'ceramic' hoặc 'pottery'. Không ai nói 'clay dishes' - như nói 'wood furniture' chưa hoàn thiện!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **clay**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[rock]] (đá, không thể định hình)
+> - [[stone]] (đá, đã harden tự nhiên)
+> 🧱 **Contrast:** Clay is potential waiting to be shaped, while rock represents finality - clay is the question, stone is the answer. Clay asks "What could I become?", rock says "This is what I am"!
 
 ---

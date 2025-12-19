@@ -1,158 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkɑːmɪŋ ɪˈfekt/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** B2
+> **Register:** Neutral/Medical
+> **Etymology:** From 'calm' (peaceful) + 'effect' (result)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A result that produces calmness
+>
+> **Context Meaning:** The soothing or relaxing influence that something has on a person's emotions, nerves, or mental state
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hiệu ứng làm dịu
+> - **Contextual:** tác dụng thư giãn, hiệu ứng an thần
+>
 > **Nuances:**
-> - ...
+> - Can be physical or psychological
+> - Often used in therapeutic contexts
+> - Describes the outcome of various stimuli
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Soothing, Peaceful, Therapeutic
+> **Memory Hook:** calm + ing + effect = something is causing calm
+> **📖 Etymology Story:** From Latin 'calmare' (to calm, soothe) combined with 'effect' meaning 'result', creating the concept of peaceful outcomes from various influences
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[calming]] /ˈkɑːmɪŋ/
+> - **Verb:** [[calm]] /kɑːm/
+> - **Noun:** [[calmness]] /ˈkɑːmnəs/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[soothing effect]] /ˈsuːðɪŋ ɪˈfekt/ : gentler relief
+> - [[relaxing influence]] /rɪˈlæksɪŋ ˈɪnfluəns/ : similar meaning
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[agitating effect]] /ˈædʒɪteɪtɪŋ ɪˈfekt/ : causes excitement
+> - [[disturbing influence]] /dɪˈstɜːbɪŋ ˈɪnfluəns/ : creates disturbance
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. have a calming effect
+> 2. calming effect on someone
+> 3. produce a calming effect
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Classical music has a calming effect on many people when they're stressed.
+> - **Translation:** Nhạc cổ điển có tác dụng làm dịu đối với nhiều người khi họ căng thẳng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The herbal tea is known for its calming effect on the nervous system.
+> - **Translation:** Trà thảo mộc nổi tiếng với hiệu ứng an thần đối với hệ thần kinh.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** "It has calming effect"
+> - ✅ **Correction:** "It has a calming effect"
+> - **Why:** Needs article 'a' before 'calming effect'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Nature has a calming effect on the human soul."
+> **Source:** [[Common saying]]
 
 ---
 
@@ -160,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **calming effect** (*/ˈkɑːmɪŋ ɪˈfekt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A soothing or relaxing influence that produces peace and reduces stress or anxiety
+> 🇻🇳 **Vietnamese:** Hiệu ứng làm dịu / tác dụng thư giãn
+> 🗣️ **IPA:** */ˈkɑːmɪŋ ɪˈfekt/*
+> 🧠 **Mental Model:** "Calming effect" là result của something làm cho bạn feel calm - outcome that brings peace và relaxation.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A soothing or relaxing influence that produces peace and reduces stress or anxiety"
+**Vietnamese:** Hiệu ứng làm dịu / tác dụng thư giãn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**calming effect** (*/ˈkɑːmɪŋ ɪˈfekt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **calming effect** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The rhythmic sound of ocean waves has a naturally calming effect that helps people sleep better.
+> 🇻🇳 **Translation:** Âm thanh nhịp nhàng của sóng biển có hiệu ứng làm dịu tự nhiên giúp mọi người ngủ ngon hơn.
+> 🔍 **Analysis:** Perfect vì shows calming effect là natural phenomenon - ocean waves create soothing result that positively affects sleep, demonstrates therapeutic quality.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **calming effect**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Possession:** have/produce a calming effect (chỉ sự tồn tại/tạo ra)
+> 2. **Target:** calming effect on someone/something (chỉ đối tượng bị ảnh hưởng)
+> 3. **Quality:** profound/gentle calming effect (chỉ mức độ tác động)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **calming effect**:
+"The music makes me relaxed."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The soft instrumental music has a calming effect that helps me concentrate better."
+> 💡 **Why it works:** "calming effect" adds therapeutic dimension, emphasizes cause-effect relationship, shows intentional relaxation benefit.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **calming effect** instead of **[[relaxing]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **calming effect:** Result/outcome of influence (VN: kết quả, hiệu ứng)
+> **[[relaxing]]:** Quality of something (VN: tính chất thư giãn)
+> 🧱 **The Barrier:** Calming effect = produced result; Relaxing = inherent quality
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Someone is anxious before a presentation. Suggest something helpful.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Try deep breathing exercises - they have a natural calming effect."
+> 👨‍🎨 **Director's Note:** Shows practical advice using therapeutic language - demonstrates understanding of stress management techniques.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `calmare` and `effect` to the meaning of **calming effect**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin 'calmare' meaning 'to soothe' + 'effectus' meaning 'result'. A calming effect literally means a soothing result - the peaceful outcome of various influences.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **calming effect**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `calmare` + `effectus`
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[calming]] (làm dịu, thư giãn)
+> - *(noun)* [[calmness]] (sự yên tĩnh, bình tĩnh)
+> - *(verb)* [[calm]] (làm dịu, bình tĩnh)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkɑːmɪŋ ɪˈfekt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**calming effect**
+> 📖 **Meaning:** A soothing or relaxing influence that produces peace and reduces stress or anxiety
+> 🇻🇳 **Vietnamese:** Hiệu ứng làm dịu / tác dụng thư giãn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **calming effect**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The tea gives me calming effect."
+> ✅ **Correction:** "The tea gives me a calming effect" or "The tea has a calming effect on me."
+> 🧠 **Why:** Needs article 'a' before 'calming effect'. Use 'has...on' structure for correctness.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **calming effect**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[agitating effect]] (hiệu ứng gây kích động)
+> - [[stimulating effect]] (hiệu ứng kích thích)
+> 🧱 **Contrast:** Agitating effect = causes unrest; Stimulating effect = causes excitement/energy.
 
 ---

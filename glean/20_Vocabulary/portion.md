@@ -1,158 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈpɔːʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** From Old French 'portion', from Latin 'portio' (share, part), related to 'pars' (part)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A part or share of something whole
+>
+> **Context Meaning:** A portion of food; a share or part allocated to someone; a destiny or fate
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** phần, suất
+> - **Contextual:** phần ăn, số phận, phần chia
+>
 > **Nuances:**
-> - ...
+> - Often used for food servings (restaurant portions)
+> - Can refer to abstract allocation (portion of responsibility)
+> - In older usage, means destiny or fate
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Practical, Measuring, Distributive
+> **Memory Hook:** Imagine a 'port' where ships divide their cargo into equal 'portions' for different destinations
+> **📖 Etymology Story:** The Latin 'portio' evolved from the idea of dividing something at the 'gate' (porta) - like dividing resources as they pass through a gateway. This evolved into both the concept of food portions and the idea of one's portion in life (destiny).
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[portion]] /ˈpɔːʃn/
+> - **Verb:** [[portion]] /ˈpɔːʃn/ (to divide into portions)
+> - **Adj:** [[portionable]] /ˈpɔːʃnəbl/
+> - **Adv:** [[portionally]] /ˈpɔːʃənəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[part]] /pɑːt/ : more general term
+> - [[share]] /ʃeər/ : emphasizes distribution
+> - [[section]] /ˈsekʃn/ : implies distinct separation
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[whole]] /həʊl/ : complete entity
+> - [[entirety]] /ɪnˈtaɪərəti/ : full amount
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. generous portion
+> 2. equal portion
+> 3. double portion
+>
+> **1. Example Context 1 (Food)**
+> - **Sentence:** The restaurant serves generous portions that are easily enough for two people.
+> - **Translation:** Nhà hàng phục vụ suất ăn rất hào phóng, đủ cho hai người ăn.
+>
+> **2. Example Context 2 (Responsibility)**
+> - **Sentence:** Each team member must take their portion of responsibility for the project's success.
+> - **Translation:** Mỗi thành viên trong nhóm phải chịu phần trách nhiệm của mình cho sự thành công của dự án.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable vs Uncountable**
+> - ❌ **Mistake:** I'd like a portion of spaghetti.
+> - ✅ **Correction:** I'd like a portion of spaghetti. OR I'd like some spaghetti.
+> - **Why:** 'Portion' is countable when referring to a serving, but the food itself may be uncountable.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "She ate a large portion of the cake and felt satisfied."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **portion** (*/ˈpɔːʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A part or share of a whole; a serving of food; an allocated part
+> 🇻🇳 **Vietnamese:** Phần, suất ăn, phần chia được phân bổ
+> 🗣️ **IPA:** */ˈpɔːʃn/*
+> 🧠 **Mental Model:** Image cutting a cake into equal parts - mỗi người gets một 'portion'
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A part or share of something, especially a serving of food"
+**Vietnamese:** Một phần hoặc khẩu phần của thứ gì đó, đặc biệt là suất ăn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**portion** (*/ˈpɔːʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **portion** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The double portion of pasta was too much for me to finish.
+> 🇻🇳 **Translation:** Suất mì Ý đôi quá lớn đối với tôi để ăn hết.
+> 🔍 **Analysis:** 'Portion' perfect here because it specifically refers to a measured serving size in a restaurant context - hơn là dùng 'part' chung chung.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **portion**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quantity:** generous portion (phần hào phóng)
+> 2. **Distribution:** equal portion (phần bằng nhau)
+> 3. **Size:** large/small portion (phần lớn/nhỏ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **portion**:
+"She got some of the money."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She received her rightful portion of the inheritance."
+> 💡 **Why it works:** 'Portion' adds precision and legal implication - implies a calculated, deserved share thay vì 'some' không rõ ràng.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **portion** instead of **[[part]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **portion:** Dùng khi nói về serving food hoặc phần được chia rõ ràng, có định lượng
+> **[[part]]:** Dùng chung cho bất kỳ phần nào của tổng thể
+> 🧱 **The Barrier:** 'Portion' implies deliberate division/measurement, while 'part' is more general - 'portion' = phần được cấp phát, 'part' = phần bất kỳ
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a restaurant and the waiter asks about your serving size. You're very hungry. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'd like a double portion of the main course, please."
+> 👨‍🎨 **Director's Note:** 'Portion' is the exact word for restaurant servings - shows you know food terminology better than saying 'more food'.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `portio` to the meaning of **portion**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'portio' comes from dividing goods at the 'porta' (gate) - như chia hàng hóa khi qua cổng thành phố. Modern 'portion' keeps this idea of dividing at a point of distribution, whether it's food on a plate or responsibility in a team.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **portion**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `portio` (a share, portion)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[portion]] - to divide into portions
+> - *(adj)* [[proportional]] - relating to proportions
+> - *(adv)* [[proportionally]] - in proportion
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈpɔːʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**portion**
+> 📖 **Meaning:** A part or share of something whole
+> 🇻🇳 **Vietnamese:** Phần, suất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **portion**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I ate three portions of rices."
+> ✅ **Correction:** "I ate three portions of rice."
+> 🧠 **Why:** 'Rice' is uncountable, but 'portion' makes it countable. Don't pluralize uncountable nouns when using with 'portion'.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **portion**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[whole]] (entire thing - toàn bộ)
+> - [[entirety]] (complete amount - toàn thể)
+> 🧱 **Contrast:** 'Portion' is a divided piece, while 'whole/entirety' refers to the complete undivided entity.
 
 ---

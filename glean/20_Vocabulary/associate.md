@@ -1,158 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈsəʊʃieɪt/ (verb) or /əˈsəʊʃiət/ (noun)
+> **Part of Speech:** verb or noun
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** Latin associare 'to join with'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** to connect in the mind
+>
+> **Context Meaning:** to make a connection between people or things; a partner or colleague
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** liên kết, liên tưởng, đồng nghiệp
+> - **Contextual:** kết hợp, cộng sự
+>
 > **Nuances:**
-> - ...
+> - Can be mental (associate ideas) or professional (business associate)
+> - Often implies a connection that is not necessarily permanent
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Connected, Professional, Collaborative
+> **Memory Hook:** As + sociate = join with society/people
+> **📖 Etymology Story:** From Latin 'associare' - 'to join with'. When we associate, we mentally or professionally join things together, creating connections that help us understand relationships or work together toward common goals.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[association]] /əˌsəʊsiˈeɪʃn/ - hiệp hội, sự liên kết
+> - **Noun:** [[associate]] /əˈsəʊʃiət/ - đồng nghiệp
+> - **Adj:** [[associated]] /əˈsəʊʃieɪtɪd/ - liên quan
+> - **Adv:** [[associatively]] /əˈsəʊʃieɪtɪvli/ - một cách liên tưởng
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[connect]] /kəˈnekt/ : kết nối
+> - [[colleague]] /ˈkɒliːɡ/ : đồng nghiệp
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[disconnect]] /ˌdɪskəˈnekt/ - ngắt kết nối
+> - [[separate]] /ˈsepəreɪt/ - tách riêng
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. associate with
+> 2. business associate
+> 3. closely associated
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** People often associate the color red with danger or passion.
+> - **Translation:** Mọi người thường liên kết màu đỏ với nguy hiểm hoặc đam mê.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She is a senior associate at the law firm.
+> - **Translation:** Cô ấy là một cộng sự cấp cao tại công ty luật.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition**
+> - ❌ **Mistake:** "I associate this music of my childhood."
+> - ✅ **Correction:** "I associate this music with my childhood."
+> - **Why:** 'Associate' requires the preposition 'with' to connect two things.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "People often associate the color red with danger or passion."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **associate** (*/əˈsəʊʃieɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** (v) To connect in the mind; (n) A partner or colleague connected with others in work or business
+> 🇻🇳 **Vietnamese:** (v) liên kết, liên tưởng; (n) đồng nghiệp, cộng sự
+> 🗣️ **IPA:** */əˈsəʊʃieɪt/ (verb) or /əˈsəʊʃiət/ (noun)
+> 🧠 **Mental Model:** Mental glue connecting ideas → professional partner working together
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To connect in the mind; a partner or colleague"
+**Vietnamese:** Liên kết; đồng nghiệp
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**associate** (*/əˈsəʊʃieɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **associate** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** I associate the smell of baking with fond memories of my grandmother's kitchen.
+> 🇻🇳 **Translation:** Tôi liên tưởng mùi bánh nướng với những kỷ niệm đẹp về bếp của bà.
+> 🔍 **Analysis:** Shows the psychological process of association - the automatic mental connection between a sensory input (smell) and emotional memories.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **associate**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Mental Connection:** associate X with Y (liên kết X với Y - cognitive process)
+> 2. **Professional Level:** junior/senior associate (cộng sự junior/senior - business hierarchy)
+> 3. **Relationship Type:** closely/directly associated (liên quan chặt chẽ/trực tiếp - connection strength)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **associate**:
+"This reminds me of home."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I associate the scent of rain on dry earth with the comfort of home."
+> 💡 **Why it works:** "Associate" creates a more sophisticated psychological connection than simple "reminds," suggesting deeper mental and emotional links between sensory experience and memory.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **associate** instead of **connect**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **associate:** Mental or logical connection; often subconscious or professional relationship
+> **connect:** Physical or tangible link; joining things together
+> 🧱 **The Barrier:** Associate = mental/professional link; Connect = physical/tangible join
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You smell coffee and think of your morning routine. You're explaining this connection. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I associate the aroma of fresh coffee with the peaceful start of my day."
+> 👨‍🎨 **Director's Note:** Demonstrates understanding of mental connections between sensory input and daily routines.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `associare` to the meaning of **associate**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'associare' meant 'to join to, unite'. When we associate ideas, we unite them in our minds. When we're associates in business, we're united in our professional purpose. It's all about connection and union.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **associate**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `associare` ('to join with')
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[association]] /əˌsəʊsiˈeɪʃn/ - hiệp hội
+> - *(adjective)* [[associated]] /əˈsəʊʃieɪtɪd/ - liên quan
+> - *(noun)* [[associate]] /əˈsəʊʃiət/ - đồng nghiệp
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈsəʊʃieɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**associate**
+> 📖 **Meaning:** To connect mentally; a professional partner
+> 🇻🇳 **Vietnamese:** Liên kết; đồng nghiệp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **associate**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I don't want to associate to those people."
+> ✅ **Correction:** "I don't want to associate with those people."
+> 🧠 **Why:** 'Associate' requires preposition 'with' when connecting people or things, not 'to'.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **associate**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[disconnect]] /ˌdɪskəˈnekt/ (ngắt kết nối - break mental connection)
+> - [[dissociate]] /dɪˈsəʊʃieɪt/ (tách rời, đoạn tuyệt - actively separate)
+> 🧱 **Contrast:** Associate joins ideas mentally; dissociate actively separates them.
 
 ---

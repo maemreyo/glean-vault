@@ -1,158 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kiːn ɒn/
+> **Part of Speech:** phrasal adjective
+> **CEFR Level:** B2
+> **Register:** informal to neutral
+> **Etymology:** Old English *cēne* 'brave, wise', from Germanic root meaning 'sharp, bold'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** having a sharp edge or cutting quality; eager, enthusiastic
+>
+> **Context Meaning:** very interested in or enthusiastic about something; having a strong desire for
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** say mê, rất thích
+> - **Contextual:** hứng thú với, đam mê về
+>
 > **Nuances:**
-> - ...
+> - Implies enthusiasm and active interest
+> - Often used for hobbies, activities, or subjects
+> - Can suggest eagerness to participate or learn
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Enthusiastic, Eager, Curious
+> **Memory Hook:** KEEN = sharp mind + interest = when something "cuts" through your attention
+> **📖 Etymology Story:** Old English 'cēne' meant 'sharp, bold, brave'. When you're keen on something, your mind is sharp and focused on it. Like a keen knife that cuts precisely, a keen interest cuts through distractions and focuses intensely on what excites you.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[keen]] /kiːn/ - sắc sảo, nhiệt tình
+> - **Adv:** [[keenly]] /ˈkiːnli/ - một cách nhiệt tình
+> - **Noun:** [[keenness]] /ˈkiːnnəs/ - sự nhiệt tình
+> - **Phrase:** [[keep a keen eye]] /kiːp ə kiːn aɪ/ - để ý kỹ
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[enthusiastic about]] /ɪnˌθjuːziˈæstɪk əˈbaʊt/ : nhiệt tình về
+> - [[fond of]] /fɒnd ɒv/ : thích
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[uninterested in]] /ʌnˈɪntrəstɪd ɪn/ - không quan tâm đến
+> - [[indifferent to]] /ɪnˈdɪfrənt tuː/ - thờ ơ với
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. keen on sports
+> 2. keen on learning
+> 3. very keen on
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She's keen on photography and spends weekends taking pictures.
+> - **Translation:** Cô ấy rất thích nhiếp ảnh và dành cuối tuần để chụp ảnh.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** He's not very keen on the idea of moving to another city.
+> - **Translation:** Anh ấy không quá hứng thú với ý định chuyển đến thành phố khác.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** "I'm keen for learning languages."
+> - ✅ **Correction:** "I'm keen on learning languages."
+> - **Why:** The fixed collocation is always "keen on", not "keen for" or "keen about".
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Many young professionals are keen on exploring career opportunities abroad."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **keen on** (*/kiːn ɒn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Very interested in, enthusiastic about, or eager to do something
+> 🇻🇳 **Vietnamese:** Rất thích, say mê, hứng thú với
+> 🗣️ **IPA:** */kiːn ɒn/*
+> 🧠 **Mental Model:** Sharp interest + enthusiasm = sự quan tâm đặc biệt, đam mê
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Very interested in or enthusiastic about something"
+**Vietnamese:** Rất thích, say mê
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**keen on** (*/kiːn ɒn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **keen on** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The students are particularly keen on the new coding workshop that starts next month.
+> 🇻🇳 **Translation:** Sinh viên đặc biệt hứng thú với workshop lập trình mới bắt đầu vào tháng tới.
+> 🔍 **Analysis:** "Keen on" shows active enthusiasm and eagerness - not just passive interest but genuine excitement to participate in the workshop.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **keen on**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Interest Type:** keen on sports/music/art (hứng thú thể thao/nghệ thuật - personal interests)
+> 2. **Activity Type:** keen on learning/trying (hứng thú học/thử - eagerness to engage)
+> 3. **Intensity Type:** very/exceptionally keen on (rất say mê - shows strong enthusiasm)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **keen on**:
+"He likes history."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He's exceptionally keen on ancient Roman history and reads everything he can find about it."
+> 💡 **Why it works:** "Keen on" transforms mild interest ("likes") into passionate engagement, suggesting active curiosity and deep fascination.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **keen on** instead of **like**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **keen on:** Strong enthusiasm, active interest (sự say mê, quan tâm tích cực)
+> **like:** General preference, mild approval (sự thích, chấp nhận chung)
+> 🧱 **The Barrier:** Keen on = passion + action; Like = preference + passivity
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks if you'd like to join a hiking trip this weekend. You're excited about the opportunity. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm absolutely keen on that idea! What time should we meet?"
+> 👨‍🎨 **Director's Note:** Shows immediate enthusiasm and readiness to participate.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `cēne` to the meaning of **keen on**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'cēne' meant 'sharp, bold'. A keen mind cuts through to what matters. When you're keen on something, your interest is as sharp as a keen knife - it cuts through distractions and focuses intensely on what excites you.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **keen on**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `cēne` ('sharp, bold')
+> 👨‍👩‍👧 **Family:**
+> - *(adjective)* [[keen]] /kiːn/ - sắc sảo, nhiệt tình
+> - *(adverb)* [[keenly]] /ˈkiːnli/ - một cách nhiệt tình
+> - *(noun)* [[keenness]] /ˈkiːnnəs/ - sự nhiệt tình
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kiːn ɒn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**keen on**
+> 📖 **Meaning:** Very interested in or enthusiastic about something
+> 🇻🇳 **Vietnamese:** Rất thích, say mê
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **keen on**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She's keen in swimming."
+> ✅ **Correction:** "She's keen on swimming."
+> 🧠 **Why:** Fixed collocation rule: always use "keen on" + gerund/noun. "Keen in" or "keen for" are incorrect in this context.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **keen on**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[uninterested in]] /ʌnˈɪntrəstɪd ɪn/ - không quan tâm đến (enthusiasm vs apathy)
+> - [[put off by]] /pʊt ɒf baɪ/ - không thích, cảm thấy khó chịu (attraction vs repulsion)
+> 🧱 **Contrast:** Keen on = drawn to; Uninterested in = indifferent to.
 
 ---

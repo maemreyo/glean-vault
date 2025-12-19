@@ -1,158 +1,76 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
 #flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪnˈgriːdiənt/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Latin *ingredientem* 'that which enters in', from *ingredi* 'to enter, go in'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** something that enters as a component
+>
+> **Context Meaning:** any of the foods or substances that are combined to make a particular dish or product
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thành phần, nguyên liệu
+> - **Contextual:** nguyên liệu nấu ăn, yếu tố cấu thành
+>
 > **Nuances:**
-> - ...
+> - Can refer to food items or abstract components
+> - Essential for recipes and manufacturing
+> - Often implies quality and authenticity
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Essential, Foundational, Transformative
+> **Memory Hook:** INGREDIENT = IN + GREDI(ENT) = enters into the recipe to create something
+> **📖 Etymology Story:** Latin 'ingredi' meant 'to enter, go into'. Ingredients literally 'enter into' the making of something. Like actors entering a stage, each ingredient plays its role in creating the final masterpiece.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[ingredient]] /ɪnˈgriːdiənt/ - thành phần, nguyên liệu
+> - **Verb:** [[ingress]] /ˈɪnɡres/ - đi vào
+> - **Noun:** [[integration]] /ˌɪntɪˈɡreɪʃn/ - sự tích hợp
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[component]] /kəmˈpəʊnənt/ : thành phần
+> - [[element]] /ˈelɪmənt/ : yếu tố
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - N/A
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. main ingredient
+> 2. fresh ingredients
+> 3. secret ingredient
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The secret ingredient in her grandmother's recipe was love and patience.
+> - **Translation:** Nguyên liệu bí mật trong công thức của bà là tình yêu và sự kiên nhẫn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** This shampoo contains only natural ingredients.
+> - **Translation:** Sản phẩm dầu gội này chỉ chứa các thành phần tự nhiên.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling**
+> - ❌ **Mistake:** "ingrediant" or "ingredent"
+> - ✅ **Correction:** "ingredient"
+> - **Why:** Common spelling error - correct spelling is IN-GRE-DI-ENT with 'ie' not 'ei'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The quality of the final dish depends on the freshness of its ingredients."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +78,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **ingredient** (*/ɪnˈgriːdiənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Any of the foods, substances, or components that are combined to make a particular dish or product
+> 🇻🇳 **Vietnamese:** Nguyên liệu, thành phần cấu tạo nên một món ăn hoặc sản phẩm
+> 🗣️ **IPA:** */ɪnˈgriːdiənt/*
+> 🧠 **Mental Model:** Building block + combination = nguyên liệu + tạo thành
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A food or substance that is combined to make a dish"
+**Vietnamese:** Nguyên liệu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**ingredient** (*/ɪnˈgriːdiənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **ingredient** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The chef carefully selected each ingredient, knowing that quality determines the excellence of the final dish.
+> 🇻🇳 **Translation:** Đầu bếp lựa chọn cẩn thận từng nguyên liệu, biết rằng chất lượng quyết định sự xuất sắc của món ăn cuối cùng.
+> 🔍 **Analysis:** "Selected each ingredient" emphasizes the careful consideration given to components, showing how ingredients are the foundation of quality.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **ingredient**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality Type:** fresh/natural/organic ingredient (nguyên liệu tươi/tự nhiên/hữu cơ - describes quality)
+> 2. **Importance Type:** key/essential/main ingredient (nguyên liệu chính/cốt yếu - importance level)
+> 3. **Mystery Type:** secret ingredient (nguyên liệu bí mật - creates intrigue)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **ingredient**:
+"This food has tomatoes in it."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Sun-ripened tomatoes form the primary ingredient, lending both color and acidity to balance the rich flavors."
+> 💡 **Why it works:** "Ingredient" frames tomatoes as a deliberate component with specific function, not just inclusion.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **ingredient** instead of **component**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **ingredient:** Food/cooking context, edible (nguyên liệu ăn được)
+> **component:** Mechanical/technical context, general part (bộ phận kỹ thuật, chung)
+> 🧱 **The Barrier:** Ingredient = culinary; Component = technical/mechanical
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Someone asks what makes your special recipe so delicious. You want to share without giving away too much. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The magic comes from using only the freshest ingredients - that's my only secret!"
+> 👨‍🎨 **Director's Note:** Focuses on quality without revealing specific ingredients.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `ingredi` to the meaning of **ingredient**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'ingredi' meant 'to enter, go into'. Ingredients literally 'enter into' the creation of something. Like pieces entering a puzzle, each ingredient enters the recipe to create the complete picture.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **ingredient**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `ingredi` ('to enter, go in')
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[ingress]] /ˈɪnɡres/ - lối vào
+> - *(noun)* [[integration]] /ˌɪntɪˈɡreɪʃn/ - sự tích hợp
+> - *(verb)* [[integrate]] /ˈɪntɪɡreɪt/ - tích hợp
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪnˈgriːdiənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**ingredient**
+> 📖 **Meaning:** Food or substance combined to make a dish
+> 🇻🇳 **Vietnamese:** Nguyên liệu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **ingredient**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Check the ingrediants list on the package."
+> ✅ **Correction:** "Check the ingredients list on the package."
+> 🧠 **Why:** Correct spelling is INGREDIENTS (plural) with 'ie' not 'ei', and we usually say 'ingredients list' not 'ingredient list' when referring to multiple items.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **ingredient**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[finished product]] /ˈfɪnɪʃt ˈprɒdʌkt/ - sản phẩm hoàn chỉnh (input vs output)
+> - [[additive]] /ˈædətɪv/ - chất phụ gia (natural vs artificial enhancement)
+> 🧱 **Contrast:** Ingredient = starting material; Product = final result.
 
 ---

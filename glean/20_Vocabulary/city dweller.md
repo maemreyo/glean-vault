@@ -1,158 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
 #flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsɪti ˈdwelə/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Old English *cwic* 'living' + *dwellan* 'to live, stay'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** a person who lives in a city or town
+>
+> **Context Meaning:** someone who resides permanently in an urban area, typically accustomed to city life, fast pace, and urban amenities
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** người thành thị
+> - **Contextual:** người sống ở thành phố, dân thành thị
+>
 > **Nuances:**
-> - ...
+> - Implies adaptation to urban lifestyle
+> - Often contrasted with rural residents
+> - Suggests familiarity with public transportation, crowds, and city culture
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Fast-paced, Adaptable, Street-smart
+> **Memory Hook:** To DWELL is to live somewhere, so a city dweller lives in the city
+> **📖 Etymology Story:** Old English 'dwellan' meant 'to stay, remain, abide'. A city dweller is one who stays in the city. Like birds that build nests and dwell in them, humans dwell in cities, creating concrete forests where we make our homes.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[dweller]] /ˈdwelə/ - cư dân
+> - **Verb:** [[dwell]] /dwel/ - cư ngụ, sống
+> - **Noun:** [[dwelling]] /ˈdwelɪŋ/ - nơi ở, nhà cửa
+> - **Noun:** [[city]] /ˈsɪti/ - thành phố
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[urbanite]] /ˈɜːbənaɪt/ : người thành thị (more modern)
+> - [[citizen]] /ˈsɪtɪzn/ : công dân thành phố (formal)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[villager]] /ˈvɪlɪdʒə/ - dân làng
+> - [[country dweller]] /ˈkʌntri ˈdwelə/ - người nông thôn
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. typical city dweller
+> 2. city dweller experiences
+> 3. modern city dweller
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** As a city dweller, she was used to the constant noise and fast pace of urban life.
+> - **Translation:** Là một người thành thị, cô ấy đã quen với tiếng ồn liên tục và nhịp sống nhanh của đô thị.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Many city dwellers dream of escaping to the countryside on weekends.
+> - **Translation:** Nhiều người thành thị mơ ước thoát khỏi thành phố về quê vào cuối tuần.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Hyphenation**
+> - ❌ **Mistake:** "citydweller"
+> - ✅ **Correction:** "city dweller"
+> - **Why:** It's written as two separate words, not hyphenated or combined.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "City dwellers often face higher living costs but benefit from better job opportunities."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **city dweller** (*/ˈsɪti ˈdwelə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person who lives permanently in a city or urban area, accustomed to urban lifestyle
+> 🇻🇳 **Vietnamese:** Người thành thị, người sống ở thành phố
+> 🗣️ **IPA:** */ˈsɪti ˈdwelə/*
+> 🧠 **Mental Model:** City + live = người sống trong đô thị (quen với nhịp sống nhanh)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person who lives in a city"
+**Vietnamese:** Người thành thị
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**city dweller** (*/ˈsɪti ˈdwelə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **city dweller** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The average city dweller spends over two hours daily commuting to and from work.
+> 🇻🇳 **Translation:** Người thành thị trung bình dành hơn hai giờ mỗi ngày để đi lại và đi làm.
+> 🔍 **Analysis:** "City dweller" emphasizes the urban lifestyle context - here, specifically the burden of long commutes that characterize city living.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **city dweller**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Experience Type:** city dweller's life/lifestyle (cuộc sống của người thành thị - focuses on daily urban experience)
+> 2. **Comparison Type:** typical/average city dweller (người thành thị điển hình - statistical or sociological context)
+> 3. **Preference Type:** city dweller versus rural resident (người thành thị so với người nông thôn - urban-rural contrast)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **city dweller**:
+"People who live in cities are busy."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The typical city dweller navigates a complex web of subway lines and work schedules with practiced ease."
+> 💡 **Why it works:** "City dweller" paints a vivid picture of someone adapted to urban complexities, not just "busy" but skillfully managing the urban maze.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **city dweller** instead of **urbanite**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **city dweller:** Neutral, general term (chung, trung tính - anyone living in city)
+> **urbanite:** Modern, sophisticated, often implies trendy urban lifestyle (hiện đại, sành điệu - suggests urban sophistication)
+> 🧱 **The Barrier:** City dweller = factual; Urbanite = lifestyle choice + sophistication
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing someone who's never experienced rural life and feels uncomfortable outside the city. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "He's such a city dweller - the silence of the countryside actually makes him nervous!"
+> 👨‍🎨 **Director's Note:** Shows how city living shapes comfort zones and perceptions.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `dwellan` to the meaning of **city dweller**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'dwellan' meant 'to stay, abide, remain'. A city dweller is one who chooses to stay, abide, and remain in the city. Like building a nest and dwelling in it, they've made the urban jungle their permanent habitat.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **city dweller**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `dwellan` ('to stay, abide')
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[dwelling]] /ˈdwelɪŋ/ - nơi ở, nhà cửa
+> - *(noun)* [[dweller]] /ˈdwelə/ - cư dân (general)
+> - *(compound)* [[country dweller]] /ˈkʌntri ˈdwelə/ - người nông thôn
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsɪti ˈdwelə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**city dweller**
+> 📖 **Meaning:** Person who lives in a city or urban area
+> 🇻🇳 **Vietnamese:** Người thành thị
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **city dweller**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "As a citydweller, I love public transport."
+> ✅ **Correction:** "As a city dweller, I love public transport."
+> 🧠 **Why:** "City dweller" is always written as two separate words, never hyphenated or combined into one word.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **city dweller**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[country dweller]] /ˈkʌntri ˈdwelə/ - người nông thôn (urban vs rural)
+> - [[suburbanite]] /səˈbɜːbənaɪt/ - người sống ở ngoại ô (core city vs suburbs)
+> 🧱 **Contrast:** City dweller = urban density; Country dweller = rural space.
 
 ---

@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general
+#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 <!--
 Select one of the following tags to replace the line above:
 
@@ -86,73 +86,76 @@ Select one of the following tags to replace the line above:
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /'suːɪdʒ/
+> **Part of Speech:** Noun
+> **CEFR Level:** B2
+> **Register:** Formal/Technical
+> **Etymology:** Anglo-Norman French 'assewe' (to drain) + suffix '-age'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Waste matter from domestic or industrial establishments carried away in sewers
+>
+> **Context Meaning:** Liquid and solid waste products transported through drainage systems for treatment
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nước thải
+> - **Contextual:** nước cống, nước thải sinh hoạt và công nghiệp
+>
 > **Nuances:**
-> - ...
+> - Contains both organic and inorganic waste
+> - Requires treatment before environmental discharge
+> - Major environmental concern when untreated
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Unpleasant, Necessary, Hidden
+> **Memory Hook:** Think "sue-age" - you could "sue" someone for dumping this "age"-old problem in the river!
+> **📖 Etymology Story:** Medieval cities needed to "sewer" (drain) waste away. The "-age" suffix created "sewage" - the system that carries away society's waste, keeping cities livable since ancient times
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[sewer]] /'suːər/, [[sewerage]] /'suːərɪdʒ/
+> - **Verb:** [[sew]] /soʊ/ (unrelated meaning)
+> - **Adj:** [[sewage-related]] /'suːɪdʒ rɪ'leɪtɪd/
+> - **Adv:** N/A
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[wastewater]] /'weɪstwɔːtər/ : Technical term
+> - [[effluent]] /'efluənt/ : Discharged liquid waste
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[freshwater]] /'freʃwɔːtər/ : Clean water
+> - [[potable water]] /'poʊtəbl 'wɔːtər/ : Drinking water
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. sewage treatment
+> 2. raw sewage
+> 3. sewage system
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The city invested millions in upgrading its sewage treatment plant to protect the river.
+> - **Translation:** Thành phố đã đầu tư hàng triệu đô la để nâng cấp nhà máy xử lý nước thải nhằm bảo vệ con sông.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Untreated sewage contains harmful bacteria that can cause serious health problems.
+> - **Translation:** Nước thải chưa xử lý chứa vi khuẩn có hại có thể gây ra các vấn đề sức khỏe nghiêm trọng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Sewage vs Sewer**
+> - ❌ **Mistake:** The pipe is full of sewage (confusing waste with pipe)
+> - ✅ **Correction:** The sewer carries sewage
+> - **Why:** "Sewer" is the pipe/system, "sewage" is the waste flowing through it
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Modern sewage systems are one of humanity's greatest public health innovations."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +163,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **sewage** (*/'suːɪdʒ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Waste matter from homes and businesses carried away in sewers
+> 🇻🇳 **Vietnamese:** Nước thải (chất thải lỏng từ gia đình và doanh nghiệp được mang đi qua cống rãnh)
+> 🗣️ **IPA:** */'suːɪdʒ/*
+> 🧠 **Mental Model:** Imagine all dirty water from toilets, sinks, and drains flowing together underground like a dirty river that needs cleaning
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Liquid and solid waste products transported through drainage systems"
+**Vietnamese:** "Nước thải"
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**sewage** (*/'suːɪdʒ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **sewage** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The heavy rainfall caused the sewage system to overflow, contaminating nearby water sources.
+> 🇻🇳 **Translation:** Cơn mưa lớn đã làm cho hệ thống thoát nước thải tràn lan, làm ô nhiễm các nguồn nước gần đó.
+> 🔍 **Analysis:** "Sewage" chính xác ở đây vì nó chỉ nước thải cụ thể từ hệ thống cống, khác với "floodwater" chung chung
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **sewage**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Process:** sewage treatment (xử lý nước thải - quy trình làm sạch)
+> 2. **Condition:** raw sewage (nước thải chưa qua xử lý - trạng thái ban đầu)
+> 3. **Infrastructure:** sewage system (hệ thống cống thoát nước - kết cấu hạ tầng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **sewage**:
+"The dirty water needs to be cleaned."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The municipality must invest in advanced sewage treatment facilities to protect public health."
+> 💡 **Why it works:** "Sewage" tạo sự chuyên nghiệp và cụ thể về loại chất thải cần xử lý, không phải "dirty water" chung chung
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **sewage** instead of **wastewater**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **sewage:** Nước thải từ sinh hoạt con người, chứa chất hữu cơ (VN explanation)
+> **wastewater:** Bất kỳ nước đã qua sử dụng, kể cả công nghiệp, nông nghiệp (VN explanation)
+> 🧱 **The Barrier:** Human vs General - sewage chỉ từ hoạt động của con người, wastewater bao gồm mọi loại nước đã qua sử dụng
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why a beach is closed to a tourist. The sign says "water contamination". Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Unfortunately, there's been a sewage leak upstream, making swimming unsafe until further notice."
+> 👨‍🎨 **Director's Note:** Clear, responsible communication that explains the specific danger
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `assewe + age` to the meaning of **sewage**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Medieval towns needed to "sewer" (draw off) waste. Adding "-age" created "sewage" - the collection system that removes society's waste, keeping cities healthy since the Middle Ages
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **sewage**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Anglo-Norman `assewe` (to drain) + suffix `-age` (collection/act)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* sewer (cống rãnh/hệ thống thoát nước)
+> - *(noun)* sewerage (toàn bộ hệ thống thoát nước thải)
+> - *(verb)* to sewer (kết nối vào hệ thống cống)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */'suːɪdʒ/
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**sewage**
+> 📖 **Meaning:** Waste matter carried away in sewers
+> 🇻🇳 **Vietnamese:** Nước thải
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **sewage**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The broken sewage caused the basement to flood
+> ✅ **Correction:** The broken sewer line caused sewage backup in the basement
+> 🧠 **Why:** "Sewer" is the pipe, "sewage" is what flows through it
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **sewage**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[potable water]] (nước uống sạch)
+> - [[sterile solution]] (dung dịch vô trùng)
+> 🧱 **Contrast:** Contaminated vs Pure - sewage là nước bẩn chứa vi sinh vật, potable water là nước sạch để uống
 
 ---

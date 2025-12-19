@@ -1,158 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /frʌˈstreɪʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** Latin *frustratio* 'a disappointment, failure', from *frustrari* 'to disappoint'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** the feeling of being upset or annoyed when unable to achieve something
+>
+> **Context Meaning:** an emotional state resulting from the inability to change or achieve something, often leading to stress and dissatisfaction
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự thất vọng, sự bực tức
+> - **Contextual:** cảm giác chán nản, sự bực bội
+>
 > **Nuances:**
-> - ...
+> - Involves both emotional distress and cognitive block
+> - Often occurs when goals are blocked by obstacles
+> - Can be a motivator for change or lead to resignation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Blocked, Tense, Ready-to-explode
+> **Memory Hook:** When you're FRUSTRATED, you feel "trussed up" - tied down and unable to move forward
+> **📖 Etymology Story:** Latin 'frustrari' meant 'to disappoint, deceive, make in vain'. Frustration is when your efforts become fruitless - like trying to walk through a wall. You push and push but go nowhere, creating intense emotional pressure.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[frustration]] /frʌˈstreɪʃn/ - sự thất vọng
+> - **Verb:** [[frustrate]] /frʌˈstreɪt/ - làm thất vọng
+> - **Adj:** [[frustrated]] /frʌˈstreɪtɪd/ - thất vọng
+> - **Adj:** [[frustrating]] /frʌˈstreɪtɪŋ/ - gây khó chịu
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[disappointment]] /ˌdɪsəˈpɔɪntmənt/ : sự thất vọng
+> - [[annoyance]] /əˈnɔɪəns/ : sự khó chịu
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[satisfaction]] /ˌsætɪsˈfækʃn/ - sự hài lòng
+> - [[fulfillment]] /fʊlˈfɪlmənt/ - sự thỏa mãn
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. feel frustration
+> 2. express frustration
+> 3. frustration grows
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She couldn't hide her frustration when the computer crashed again.
+> - **Translation:** Cô ấy không thể che giấu sự bực tức khi máy tính lại bị sập.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Years of political frustration led to widespread protests.
+> - **Translation:** Nhiều năm thất vọng về chính trị đã dẫn đến các cuộc biểu tình rộng rãi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** "I have frustration with this situation."
+> - ✅ **Correction:** "I feel frustration about/at this situation."
+> - **Why:** We typically "feel" or "express" frustration, not "have" it.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The constant noise and interruptions led to intense frustration among the workers."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **frustration** (*/frʌˈstreɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The emotional state of being upset or annoyed when unable to achieve or change something
+> 🇻🇳 **Vietnamese:** Sự thất vọng, cảm giác bực tức khi không thể đạt được mục tiêu
+> 🗣️ **IPA:** */frʌˈstreɪʃn/*
+> 🧠 **Mental Model:** Goal blocked + cannot progress = cảm giác tắc nghẽn, bực bội
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The emotional state of being upset when unable to achieve something"
+**Vietnamese:** Sự thất vọng, sự bực tức
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**frustration** (*/frʌˈstreɪʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **frustration** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After hours of debugging, the programmer slammed his desk in frustration.
+> 🇻🇳 **Translation:** Sau nhiều giờ gỡ lỗi, lập trình viên đập bàn trong sự bực tức.
+> 🔍 **Analysis:** "Slammed his desk in frustration" shows frustration's physical expression - when mental pressure becomes too much, it explodes into physical action.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **frustration**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Emotional Expression:** voice/express frustration (bày tỏ sự thất vọng - communicating the feeling)
+> 2. **Intensity Level:** deep/growing frustration (sự thất vọng sâu sắc/ngày càng tăng - shows progression)
+> 3. **Source/Cause:** frustration at/with (thất vọng về/vì - indicates what triggers it)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **frustration**:
+"I was upset because I couldn't solve the problem."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Wave after wave of frustration washed over me as each solution attempt failed."
+> 💡 **Why it works:** "Frustration" captures the specific emotional pain of repeated failure, far more precise than the generic "upset".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **frustration** instead of **anger**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **frustration:** Internal feeling from blocked goals (cảm giác nội tại khi mục tiêu bị cản trở)
+> **anger:** Outward emotion often directed at others (cảm giác hướng ra ngoài, thường nhắm vào người khác)
+> 🧱 **The Barrier:** Frustration = tôi vs task; Anger = tôi vs người
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You've been waiting on hold for 45 minutes and keep getting disconnected. You feel your patience running out. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The level of frustration I'm experiencing right now is beyond words!"
+> 👨‍🎨 **Director's Note:** Shows controlled but intense emotional expression of helplessness.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `frustrari` to the meaning of **frustration**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'frustrari' meant 'to make in vain, disappoint'. Frustration is when your efforts become 'in vain' - like running on a treadmill that never moves forward. You expend energy but make no progress, creating that intense, trapped feeling.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **frustration**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `frustrari` ('to disappoint, deceive')
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[frustrate]] /frʌˈstreɪt/ - làm thất vọng
+> - *(adjective)* [[frustrated]] /frʌˈstreɪtɪd/ - cảm thấy thất vọng
+> - *(adjective)* [[frustrating]] /frʌˈstreɪtɪŋ/ - gây khó chịu
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */frʌˈstreɪʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**frustration**
+> 📖 **Meaning:** Emotional state of being upset when unable to achieve something
+> 🇻🇳 **Vietnamese:** Sự thất vọng, sự bực tức
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **frustration**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "My frustration grows about the delays."
+> ✅ **Correction:** "My frustration grows over the delays."
+> 🧠 **Why:** Preposition rule: "frustration at" specific things, "frustration over/with" situations, but "frustration about" sounds unnatural in most contexts.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **frustration**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[satisfaction]] /ˌsætɪsˈfækʃn/ - sự hài lòng (achieving goals vs blocked goals)
+> - [[relief]] /rɪˈliːf/ - sự nhẹ nhõm (tension released vs tension built up)
+> 🧱 **Contrast:** Frustration = goals blocked; Satisfaction = goals achieved.
 
 ---

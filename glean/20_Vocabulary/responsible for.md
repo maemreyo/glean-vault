@@ -1,158 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈspɒnsəbl fɔːr/
+> **Part of Speech:** Phrasal verb/Adjectival phrase
+> **CEFR Level:** B1
+> **Register:** Formal/Neutral
+> **Etymology:** From Latin 'respondere' (to answer, promise in return) + Old English 'for' (indicating purpose or cause)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To have an obligation or duty to deal with something or take care of someone
+>
+> **Context Meaning:** Being accountable for specific tasks, duties, or outcomes; being the cause of something happening
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** có trách nhiệm về
+> - **Contextual:** phải chịu trách nhiệm, là nguyên nhân của
+>
 > **Nuances:**
-> - ...
+> - Implies accountability and ownership
+> - Can refer to positive achievements or negative outcomes
+> - Often used in professional and academic contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Accountable, Professional, Reliable
+> **Memory Hook:** Imagine a response + ability = the ability to respond for what you do
+> **📖 Etymology Story:** Picture ancient Roman officials who had to 'respondere' (answer and promise) for their actions - they were the first to be 'responsible for' their duties
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[responsible]] /rɪˈspɒnsəbl/
+> - **Verb:** [[respond]] /rɪˈspɒnd/
+> - **Noun:** [[responsibility]] /rɪˌspɒnsəˈbɪləti/
+> - **Adv:** [[responsibly]] /rɪˈspɒnsəbli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[accountable for]] /əˈkaʊntəbl fɔːr/ : more formal, emphasizes answerability
+> - [[in charge of]] /ɪn tʃɑːdʒ ɒv/ : focuses on authority and control
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[not responsible for]] /nɒt rɪˈspɒnsəbl fɔːr/ : direct negation
+> - [[exempt from]] /ɪɡˈzempt frɒm/ : freed from obligation
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. directly responsible for
+> 2. ultimately responsible for
+> 3. partially responsible for
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The project manager is responsible for ensuring all deadlines are met.
+> - **Translation:** Nhà quản lý dự án có trách nhiệm đảm bảo tất cả các hạn chót được đáp ứng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The heavy rains were responsible for the flooding in the region.
+> - **Translation:** Mưa lớn là nguyên nhân gây ra lũ lụt trong khu vực.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** responsible of something
+> - ✅ **Correction:** responsible for something
+> - **Why:** The preposition 'for' is required after 'responsible' to indicate what the duty or cause relates to.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Each student is responsible for their own learning journey."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **responsible for** (*/rɪˈspɒnsəbl fɔːr/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Having an obligation or duty to deal with something or being the cause of something
+> 🇻🇳 **Vietnamese:** Có trách nhiệm về / là nguyên nhân của
+> 🗣️ **IPA:** */rɪˈspɒnsəbl fɔːr/*
+> 🧠 **Mental Model:** Khi bạn "responsible for" một việc, bạn là người phải answer cho việc đó - bạn có duty và accountability.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Having an obligation or duty to deal with something; being the cause of something"
+**Vietnamese:** Có trách nhiệm về / là nguyên nhân của
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**responsible for** (*/rɪˈspɒnsəbl fɔːr/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **responsible for** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The technical team is responsible for maintaining the company's IT infrastructure.
+> 🇻🇳 **Translation:** Đội ngũ kỹ thuật có trách nhiệm duy trì cơ sở hạ tầng IT của công ty.
+> 🔍 **Analysis:** Perfect here because it shows professional accountability - the team has the duty và phải answer cho infrastructure's performance.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **responsible for**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Degree:** directly responsible for (chỉ trách nhiệm trực tiếp, không qua trung gian)
+> 2. **Hierarchy:** ultimately responsible for (chỉ trách nhiệm cuối cùng, cấp cao nhất)
+> 3. **Scope:** partially responsible for (chỉ chịu trách nhiệm một phần, không toàn bộ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **responsible for**:
+"The manager handles the team."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The manager is responsible for overseeing the entire team's performance and professional development."
+> 💡 **Why it works:** "responsible for" adds level of accountability và formal duty, thay vì chỉ "handles" (xử lý) thông thường.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **responsible for** instead of **[[in charge of]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **responsible for:** Emphasizes duty and accountability (VN: nhấn mạnh trách nhiệm và nghĩa vụ)
+> **[[in charge of]]:** Focuses on authority and control (VN: tập trung vào quyền hạn và sự kiểm soát)
+> 🧱 **The Barrier:** "responsible for" = answer for outcomes; "in charge of" = have power over people/processes
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're the team leader and a project fails. You must take ownership. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "As the team leader, I am responsible for the project's failure and will take full accountability."
+> 👨‍🎨 **Director's Note:** Shows maturity và professional attitude - accepting responsibility thay vì blaming others.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `respondere` to the meaning of **responsible for**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Ancient Romans used 'respondere' - to answer and promise. When you're 'responsible for' something, you metaphorically must 'answer' for it - promise to handle it và accept consequences.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **responsible for**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `respondere` (to answer, promise)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[responsibility]] (trách nhiệm)
+> - *(adverb)* [[responsibly]] (một cách có trách nhiệm)
+> - *(verb)* [[respond]] (phản hồi, trả lời)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈspɒnsəbl fɔːr/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**responsible for**
+> 📖 **Meaning:** Having an obligation or duty to deal with something; being the cause of something
+> 🇻🇳 **Vietnamese:** Có trách nhiệm về / là nguyên nhân của
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **responsible for**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She is responsible of organizing the event."
+> ✅ **Correction:** "She is responsible for organizing the event."
+> 🧠 **Why:** Preposition 'for' is fixed搭配 - indicates the target of responsibility, never 'of'.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **responsible for**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[not responsible for]] (không chịu trách nhiệm)
+> - [[exempt from]] (miễn trừ khỏi)
+> 🧱 **Contrast:** "Not responsible for" denies accountability; "exempt from" implies you're freed from a duty you might otherwise have.
 
 ---

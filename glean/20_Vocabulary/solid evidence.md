@@ -1,158 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsɒlɪd ˈevɪdəns/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** B2
+> **Register:** Formal/Academic/Legal
+> **Etymology:** From 'solid' (firm, reliable) + 'evidence' (proof)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Strong, reliable proof
+>
+> **Context Meaning:** Convincing, substantial, and reliable proof or facts that support a claim or conclusion
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bằng chứng vững chắc
+> - **Contextual:** bằng chứng xác thực, dẫn chứng thuyết phục
+>
 > **Nuances:**
-> - ...
+> - Implies strength and reliability
+> - Used in legal, scientific, and academic contexts
+> - Contrasts with weak or circumstantial evidence
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Convincing, Reliable, Factual
+> **Memory Hook:** solid = strong + evidence = proof
+> **📖 Etymology Story:** From Latin 'solidus' (firm, whole) + 'evidentia' (proof from evident), creating the concept of proof that is unshakable and convincing
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[evidence]] /ˈevɪdəns/
+> - **Adj:** [[solid]] /ˈsɒlɪd/
+> - **Adj:** [[evident]] /ˈevɪdənt/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[conclusive proof]] /kənˈkluːsɪv pruːf/ : decisive evidence
+> - [[substantial evidence]] /səbˈstænʃl ˈevɪdəns/ : significant amount
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[weak evidence]] /wiːk ˈevɪdəns/ : unconvincing proof
+> - [[circumstantial evidence]] /ˌsɜːkəmˈstænʃl ˈevɪdəns/ : indirect proof
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. provide solid evidence
+> 2. solid evidence of/for
+> 3. lack solid evidence
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The lawyer presented solid evidence that proved her client's innocence.
+> - **Translation:** Luật sư đã đưa ra bằng chứng vững chắc chứng minh sự vô tội của thân chủ của cô.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** We need solid evidence before making such a serious accusation.
+> - **Translation:** Chúng ta cần bằng chứng xác thực trước khi đưa ra buộc tội nghiêm trọng như vậy.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability**
+> - ❌ **Mistake:** "We have many solid evidences"
+> - ✅ **Correction:** "We have much solid evidence" or "We have many pieces of solid evidence"
+> - **Why:** 'Evidence' is usually uncountable
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Extraordinary claims require extraordinary evidence."
+> **Source:** [[Carl Sagan]]
 
 ---
 
@@ -160,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **solid evidence** (*/ˈsɒlɪd ˈevɪdəns/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Strong, convincing, and reliable proof or facts that support a claim or conclusion
+> 🇻🇳 **Vietnamese:** Bằng chứng vững chắc / dẫn chứng xác thực
+> 🗣️ **IPA:** */ˈsɒlɪd ˈevɪdəns/*
+> 🧠 **Mental Model:** "Solid evidence" là proof mạnh như đá - reliable, convincing, không thể bị shake được, foundation cho argument.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Strong, convincing, and reliable proof or facts that support a claim or conclusion"
+**Vietnamese:** Bằng chứng vững chắc / dẫn chứng xác thực
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**solid evidence** (*/ˈsɒlɪd ˈevɪdəns/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **solid evidence** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The scientific paper provides solid evidence that climate change is accelerating faster than predicted.
+> 🇻🇳 **Translation:** Bài báo khoa học cung cấp bằng chứng vững chắc rằng biến đổi khí hậu đang tăng tốc nhanh hơn dự đoán.
+> 🔍 **Analysis:** Perfect ở đây vì nó shows solid evidence là scientific proof - research data và observations làm cho claim convincing và authoritative.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **solid evidence**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** provide/present/gather solid evidence (chỉ hành động)
+> 2. **Purpose:** solid evidence for/of something (chỉ mục tiêu chứng minh)
+> 3. **Absence:** lack/no solid evidence (chỉ sự thiếu hụt)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **solid evidence**:
+"There's proof that he's right."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The researcher has solid evidence supporting her theory about the origins of the disease."
+> 💡 **Why it works:** "solid evidence" adds academic rigor và reliability, emphasizes strength và credibility của proof, không chỉ "proof" thông thường.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **solid evidence** instead of **[[proof]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **solid evidence:** Strong, convincing support (VN: bằng chứng mạnh, thuyết phục)
+> **[[proof]]:** Complete demonstration (VN: sự chứng minh hoàn toàn)
+> 🧱 **The Barrier:** Solid evidence = convincing support; Proof = final verification
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Someone doubts your research findings. Respond confidently.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I have solid evidence from multiple sources that confirms these results."
+> 👨‍🎨 **Director's Note:** Shows academic confidence và thoroughness - demonstrates evidence-based reasoning.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `solidus` and `evidentia` to the meaning of **solid evidence**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin 'solidus' meaning 'firm, whole' + 'evidentia' meaning 'obvious proof'. Solid evidence literally means 'firm obviousness' - proof that stands solid and visible to all.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **solid evidence**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `solidus` + `evidentia`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[evidence]] (bằng chứng, chứng cứ)
+> - *(adj)* [[solid]] (vững chắc, rắn chắc)
+> - *(adj)* [[evident]] (rõ ràng, hiển nhiên)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsɒlɪd ˈevɪdəns/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**solid evidence**
+> 📖 **Meaning:** Strong, convincing, and reliable proof or facts that support a claim or conclusion
+> 🇻🇳 **Vietnamese:** Bằng chứng vững chắc / dẫn chứng xác thực
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **solid evidence**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The police found solid evidences at the crime scene."
+> ✅ **Correction:** "The police found solid evidence at the crime scene."
+> 🧠 **Why:** 'Evidence' is uncountable. Never use plural 'evidences'. Use 'pieces of evidence' if needed.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **solid evidence**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[weak evidence]] (bằng chứng yếu)
+> - [[hearsay]] (tin đồn, lời kể lại)
+> 🧱 **Contrast:** Weak evidence = unconvincing proof; Hearsay = indirect, unreliable information.
 
 ---

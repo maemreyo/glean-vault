@@ -1,158 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
 #flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dɪˈpreʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** neutral/medical
+> **Etymology:** Latin 'deprimere' (to press down)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** pressing down
+>
+> **Context Meaning:**
+> 1. (Medical) A mental health disorder characterized by persistent sadness and loss of interest
+> 2. (General) A feeling of severe despondency and dejection
+> 3. (Economic/Geographical) A sunken or hollow area
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự trầm cảm, sự trầm lắng, sự chìm xuống
+> - **Contextual:** rối loạn trầm cảm, tâm trạng nặng nề, vùng trũng
+>
 > **Nuances:**
-> - ...
+> - Can be clinical (requiring diagnosis) or situational
+> - Distinguished from temporary sadness by duration and severity
+> - Affects mood, thoughts, and physical functioning
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Heavy, Overwhelming
+> **Memory Hook:** Imagine a heavy weight 'pressing down' on your spirit and energy - that's depression
+> **📖 Etymology Story:** Latin 'de-' (down) + 'primere' (to press) creates powerful image of spirit being compressed downward. Depression isn't just sadness - it's being weighed down by invisible forces, like deep-sea pressure crushing everything inside.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[depression]], [[pressing]] /ˈpreʃɪŋ/
+> - **Verb:** [[depress]] /dɪˈpres/
+> - **Adj:** [[depressed]] /dɪˈprest/, [[depressing]] /dɪˈpresɪŋ/
+> - **Adv:** [[depressingly]] /dɪˈpresɪŋli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[melancholia]] /ˌmeləŋˈkəʊliə/ : deep, pensive sadness
+> - [[despondency]] /dɪˈspɒndənsi/ : low spirits from loss of hope
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[euphoria]] /juːˈfɔːriə/ : feeling of intense excitement
+> - [[elation]] /ɪˈleɪʃn/ : great happiness and exhilaration
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. clinical/major depression
+> 2. suffer from/battle depression
+> 3. deep/severe depression
+
+> **1. Example Context 1 (Mental Health)**
+> - **Sentence:** Depression affects millions of people worldwide and requires professional treatment.
+> - **Translation:** Trầm cảm ảnh hưởng đến hàng triệu người trên toàn thế giới và cần điều trị chuyên nghiệp.
+>
+> **2. Example Context 2 (Economic)**
+> - **Sentence:** The economic depression of the 1930s led to widespread unemployment.
+> - **Translation:** Cuộc đại suy thoái kinh tế những năm 1930 đã dẫn đến tình trạng thất nghiệp lan rộng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Casual Usage**
+> - ❌ **Mistake:** I'm so depressed because my phone battery died.
+> - ✅ **Correction:** I'm so disappointed/frustrated because my phone battery died.
+> - **Why:** 'Depression' is a serious medical condition. Use 'sad', 'disappointed', or 'frustrated' for minor negative feelings.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The research highlighted the link between social isolation and depression among elderly populations."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **depression** (*/dɪˈpreʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A mental health disorder characterized by persistent sadness, loss of interest, and affecting daily functioning; or a severe economic downturn
+> 🇻🇳 **Vietnamese:** Rối loạn trầm cảm, sự suy thoái kinh tế, tâm trạng nặng nề
+> 🗣️ **IPA:** */dɪˈpreʃn/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một heavy blanket weighing down every aspect of life - emotions, energy, và thoughts đều bị 'pressed down'
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A mental health disorder characterized by persistent sadness, loss of interest, and affecting daily functioning"
+**Vietnamese:** Rối loạn trầm cảm
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**depression** (*/dɪˈpreʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **depression** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After the loss of her job, she sought therapy to manage her symptoms of depression and anxiety.
+> 🇻🇳 **Translation:** Sau khi mất việc, cô ấy tìm đến liệu pháp để kiểm soát các triệu chứng trầm cảm và lo âu.
+> 🔍 **Analysis:** Perfect vì nó shows depression là medical condition cần 'sought therapy' và 'manage symptoms' - không phải ordinary sadness mà là disorder cần professional help!
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **depression**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Medical Context:** clinical/major/postnatal depression (types - classification by professionals)
+> 2. **Experience:** suffer from/deal with/battle depression (action verbs - show struggle)
+> 3. **Intensity:** deep/severe/crippling depression (adjectives - emphasize weight)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **depression**:
+"He felt very sad about his situation."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The prolonged unemployment led him into a state of depression, affecting his sleep, appetite, and ability to enjoy life."
+> 💡 **Why it works:** 'Depression' captures clinical severity với multiple symptoms (sleep, appetite, enjoyment), không chỉ 'very sad' đơn thuần - shows medical impact trên toàn life!
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **depression** instead of [[sadness]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **depression:** Medical condition, prolonged (weeks/months), affects all life aspects (VN: rối loạn trầm cảm, kéo dài, nghiêm trọng)
+> **[[sadness]]:** Normal emotion, temporary, specific cause (VN: nỗi buồn, bình thường, ngắn hạn)
+> 🧱 **The Barrier:** Sadness là weather - comes and goes. Depression là climate change - alters entire ecosystem of your life. Sadness là puddle, depression là ocean!
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend hasn't left their room for weeks and has lost interest in everything they used to love. Express concern.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm worried you might be experiencing depression - it's not just sadness, and getting help could make all the difference."
+> 👨‍🎨 **Director's Note:** Perfect vì nó recognizes serious symptoms (isolating, lost interest) và validates medical nature của depression, encouraging professional help!
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `primere` to the meaning of **depression**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'primere' means 'to press' - imagine ancient olive presses. With 'de-' (down), depression creates image of spirit being pressed down like olives, with all energy and joy squeezed out until nothing remains but heaviness.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **depression**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `deprimere` (to press down)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[depress]] (khiến trầm cảm, làm nản lòng)
+> - *(adj)* [[depressed]] (trầm cảm, bị đè xuống)
+> - *(adj)* [[depressing]] (gây chán nản, ảm đạm)
+> - *(noun)* [[pressure]] (áp lực - liên quan đến 'press')
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dɪˈpreʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**depression**
+> 📖 **Meaning:** A mental health disorder characterized by persistent sadness, loss of interest, and affecting daily functioning; or a severe economic downturn
+> 🇻🇳 **Vietnamese:** Rối loạn trầm cảm, sự suy thoái kinh tế, tâm trạng nặng nề
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **depression**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The movie was so depression that I cried."
+> ✅ **Correction:** "The movie was so depressing that I cried."
+> 🧠 **Why:** 'Depression' là noun (the condition), 'depressing' là adjective (causing the feeling). Movie có thể 'depressing' nhưng không thể 'depression'!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **depression**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[elation]] (sự phấn khích, hưng phấn)
+> - [[euphoria]] (cảm giác cực kỳ vui sướng)
+> 🧱 **Contrast:** Depression weighs down like an anchor, while its antonyms lift up like helium balloons - one pulls you into darkness, the other raises you toward light!
 
 ---

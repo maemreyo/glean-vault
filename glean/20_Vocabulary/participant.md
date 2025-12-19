@@ -1,158 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pɑːˈtɪsɪpənt/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** Latin participare 'to share in'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** someone who takes part in something
+>
+> **Context Meaning:** a person involved in an activity, event, or discussion
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** người tham gia
+> - **Contextual:** người tham dự, người tham gia hoạt động
+>
 > **Nuances:**
-> - ...
+> - Implies active involvement rather than passive presence
+> - Can be formal (conference participant) or informal (game participant)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Engaged, Active, Collaborative
+> **Memory Hook:** Part + take + ant = one who takes part
+> **📖 Etymology Story:** From Latin 'participare' - 'to take part in'. A participant is someone who doesn't just watch from the sidelines but actively shares in the experience, contributing to the whole through their involvement.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[participate]] /pɑːˈtɪsɪpeɪt/ - tham gia
+> - **Noun:** [[participation]] /pɑːˌtɪsɪˈpeɪʃn/ - sự tham gia
+> - **Adj:** [[participatory]] /pɑːˈtɪsɪpətəri/ - mang tính tham gia
+> - **Adv:** [[participatively]] /pɑːˈtɪsɪpeɪtɪvli/ - một cách có sự tham gia
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[attendee]] /əˌtenˈdiː/ : người tham dự
+> - [[contributor]] /kənˈtrɪbjətə/ : người đóng góp
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[observer]] /əbˈzɜːvə/ - người quan sát
+> - [[spectator]] /spekˈteɪtə/ - người xem
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. active participant
+> 2. conference participant
+> 3. willing participant
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** All participants must register before the workshop begins.
+> - **Translation:** Tất cả người tham gia phải đăng ký trước khi buổi workshop bắt đầu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She was an active participant in the class discussions.
+> - **Translation:** Cô ấy là người tham gia tích cực trong các cuộc thảo luận trên lớp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Pronunciation**
+> - ❌ **Mistake:** "par-TISS-i-pant"
+> - ✅ **Correction:** "par-TISS-i-pant" with stress on 'SSIP'
+> - **Why:** The stress falls on the second syllable 'tiss'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "All participants must register before the workshop begins."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **participant** (*/pɑːˈtɪsɪpənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person who takes part in or is involved in an activity, event, or discussion
+> 🇻🇳 **Vietnamese:** Người tham gia; người tham dự
+> 🗣️ **IPA:** */pɑːˈtɪsɪpənt/*
+> 🧠 **Mental Model:** Someone who jumps into the action rather than watching from sidelines
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person who takes part in or is involved in an activity"
+**Vietnamese:** Người tham gia
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**participant** (*/pɑːˈtɪsɪpənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **participant** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Each participant received a certificate upon completing the training program.
+> 🇻🇳 **Translation:** Mỗi người tham gia nhận được một chứng chỉ sau khi hoàn thành chương trình đào tạo.
+> 🔍 **Analysis:** "Each participant" emphasizes individual involvement in a structured program, highlighting that every person actively engaged rather than passively attended.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **participant**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Involvement Level:** active/passive participant (người tham gia tích cực/thụ động - describes engagement)
+> 2. **Event Type:** conference/workshop participant (người tham gia hội thảo/workshop - specific context)
+> 3. **Attitude:** willing/reluctant participant (người tham gia tình nguyện/bất đắc dĩ - shows attitude)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **participant**:
+"Many people came to the event."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Over five hundred participants from twenty different countries attended the international conference."
+> 💡 **Why it works:** "Participants" suggests active involvement and engagement, while "people" is neutral. It also implies a more formal, organized gathering where people are actively part of the proceedings.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **participant** instead of **attendee**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **participant:** Actively involved and engaged in the activity; takes part in discussions and activities
+> **attendee:** Simply present at an event; may or may not actively engage
+> 🧱 **The Barrier:** Participant = active engagement; Attendee = presence without guaranteed participation
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're organizing a group activity. Someone wants to join. You're welcoming. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Great! We'd love to have you as a participant in our project."
+> 👨‍🎨 **Director's Note:** Shows enthusiasm for their active involvement, not just their presence.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `participare` to the meaning of **participant**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'participare' meant 'to take part in, to share in'. A participant doesn't just watch - they take their part, share in the experience, and contribute to making the whole event or activity complete through their active involvement.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **participant**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `participare` ('to take part in')
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[participate]] /pɑːˈtɪsɪpeɪt/ - tham gia
+> - *(noun)* [[participation]] /pɑːˌtɪsɪˈpeɪʃn/ - sự tham gia
+> - *(adjective)* [[participatory]] /pɑːˈtɪsɪpətəri/ - mang tính tham gia
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pɑːˈtɪsɪpənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**participant**
+> 📖 **Meaning:** Person who actively takes part in an activity
+> 🇻🇳 **Vietnamese:** Người tham gia
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **participant**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The participants was happy with the results."
+> ✅ **Correction:** "The participants were happy with the results."
+> 🧠 **Why:** 'Participants' is plural, so it requires the plural verb 'were', not singular 'was'.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **participant**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[observer]] /əbˈzɜːvə/ (người quan sát - watches but doesn't engage)
+> - [[spectator]] /spekˈteɪtə/ (người xem - watches from the sidelines)
+> 🧱 **Contrast:** Participant engages and contributes; observer and spectator watch from a distance.
 
 ---

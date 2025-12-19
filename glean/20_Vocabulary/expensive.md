@@ -1,158 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪkˈspensɪv/
+> **Part of Speech:** adjective
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** Latin expendere 'to pay out'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** costing a lot of money
+>
+> **Context Meaning:** high in price; requiring significant financial resources
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đắt tiền
+> - **Contextual:** tốn kém, cao cấp
+>
 > **Nuances:**
-> - ...
+> - Can indicate quality (expensive often implies luxury or premium)
+> - Subjective - what's expensive for one person may be affordable for another
+> - Can be used figuratively (expensive mistake)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Luxurious, Premium, Costly
+> **Memory Hook:** Ex + pense = to spend heavily → costs a lot
+> **📖 Etymology Story:** From Latin 'expendere' - 'to weigh out money, to pay out'. Something expensive literally makes us 'pay out' or spend a lot of money, weighing heavily on our finances.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[expense]] /ɪkˈspens/ - chi phí
+> - **Noun:** [[expensiveness]] /ɪkˈspensɪvnəs/ - sự đắt đỏ
+> - **Adv:** [[expensively]] /ɪkˈspensɪvli/ - một cách đắt tiền
+> - **Verb:** [[expend]] /ɪkˈspend/ - tiêu tốn
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[costly]] /ˈkɒstli/ : tốn kém
+> - [[pricey]] /ˈpraɪsi/ : đắt giá (informal)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[cheap]] /tʃiːp/ - rẻ
+> - [[affordable]] /əˈfɔːdəbl/ - phải chăng, hợp lý
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. expensive restaurant/car/house
+> 2. too expensive
+> 3. prohibitively expensive
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The restaurant was too expensive for our budget.
+> - **Translation:** Nhà hàng đó quá đắt so với ngân sách của chúng tôi.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Living in the city center can be expensive.
+> - **Translation:** Sống ở trung tâm thành phố có thể khá tốn kém.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Position**
+> - ❌ **Mistake:** "This car is expensiver than that one."
+> - ✅ **Correction:** "This car is more expensive than that one."
+> - **Why:** 'Expensive' is a long adjective (3+ syllables) and uses 'more' for comparison, not '-er'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Living in the city center can be expensive."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **expensive** (*/ɪkˈspensɪv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Costing a lot of money; requiring significant financial resources to buy or maintain
+> 🇻🇳 **Vietnamese:** Đắt tiền; tốn kém
+> 🗣️ **IPA:** */ɪkˈspensɪv/*
+> 🧠 **Mental Model:** Price tag with many zeros → high cost, luxury item
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Costing a lot of money; high in price"
+**Vietnamese:** Đắt tiền
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**expensive** (*/ɪkˈspensɪv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **expensive** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The designer handbag was so expensive that she had to save for months to buy it.
+> 🇻🇳 **Translation:** Chiếc túi xách thiết kế đắt đến mức cô ấy phải tiết kiệm nhiều tháng mới mua được.
+> 🔍 **Analysis:** "So expensive that" shows the degree of cost and its consequences, demonstrating how expense can require significant planning and sacrifice.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **expensive**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Degree:** too/very/extremely expensive (quá/rất/cực kỳ đắt - emphasizes cost level)
+> 2. **Prohibition:** prohibitively expensive (đắt đến mức không thể mua - discourages purchase)
+> 3. **Value:** expensive but worth it (đắt nhưng đáng tiền - cost justified by quality)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **expensive**:
+"The car costs a lot."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The luxury sports car was so expensive that it required special insurance coverage."
+> 💡 **Why it works:** "Expensive" specifically relates to monetary cost, while "costs a lot" is vague. Adding luxury context enhances the sense of premium expense.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **expensive** instead of **costly**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **expensive:** Directly refers to monetary price; common in everyday speech
+> **costly:** Can refer to monetary cost but also emotional, time, or opportunity costs; more formal
+> 🧱 **The Barrier:** Expensive = money focus; Costly = broader cost including non-financial aspects
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see the price of something and are shocked by how high it is. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Wow, this is way too expensive! How can anyone afford this?"
+> 👨‍🎨 **Director's Note:** Natural reaction to high prices, combining surprise with disbelief.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `expendere` to the meaning of **expensive**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'expendere' meant 'to weigh out money, to pay out'. Something expensive makes us literally 'pay out' or weigh out our money - like a merchant weighing coins on a scale until our wallet feels much lighter.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **expensive**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `expendere` ('to weigh out money')
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[expense]] /ɪkˈspens/ - chi phí
+> - *(noun)* [[expenditure]] /ɪkˈspendɪtʃə/ - sự chi tiêu
+> - *(verb)* [[expend]] /ɪkˈspend/ - tiêu tốn
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪkˈspensɪv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**expensive**
+> 📖 **Meaning:** Costing a lot of money
+> 🇻🇳 **Vietnamese:** Đắt tiền
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **expensive**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "This is the expensivest restaurant in town."
+> ✅ **Correction:** "This is the most expensive restaurant in town."
+> 🧠 **Why:** 'Expensive' uses 'most' for superlative, not '-est', because it's a long adjective (3 syllables).
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **expensive**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[cheap]] /tʃiːp/ (rẻ - low cost)
+> - [[affordable]] /əˈfɔːdəbl/ (phải chăng - reasonable cost for average people)
+> - [[inexpensive]] /ˌɪnɪkˈspensɪv/ (không đắt - formal way to say not expensive)
+> 🧱 **Contrast:** Expensive strains the budget; affordable fits within it; cheap is below expected price.
 
 ---

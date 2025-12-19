@@ -1,158 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪˈsenʃl/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** neutral/academic
+> **Etymology:** Latin 'essentialis' from 'esse' (to be)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** relating to the essence or intrinsic nature of something
+>
+> **Context Meaning:** absolutely necessary; extremely important; fundamental; constituting the essence of something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thiết yếu, cần thiết, cơ bản
+> - **Contextual:** cốt lõi, không thể thiếu, bản chất
+>
 > **Nuances:**
-> - ...
+> - Implies necessity without which something cannot exist or function
+> - Stronger than 'important' - it's about being indispensable
+> - Can describe abstract qualities or physical necessities
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Foundational, Crucial
+> **Memory Hook:** 'Essential' sounds like 'essence' - the core, pure part that everything else depends on
+> **📖 Etymology Story:** Latin 'esse' means 'to be' - imagine the basic question "What IS this thing?" The answer reveals its 'essential' nature. Essential qualities are what make something what it IS, the DNA of its existence.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[essence]], [[essentialism]] /ˈsenʃlɪzəm/
+> - **Verb:** [[essentialize]] /ɪˈsenʃəlaɪz/
+> - **Adj:** [[essential]], [[non-essential]] /ˌnɒnɪˈsenʃl/
+> - **Adv:** [[essentially]] /ɪˈsenʃəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[crucial]] /ˈkruːʃl/ : extremely important, decisive
+> - [[vital]] /ˈvaɪtl/ : absolutely necessary for life or success
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[non-essential]] /ˌnɒnɪˈsenʃl/ : not absolutely necessary
+> - [[superficial]] /ˌsuːpəˈfɪʃl/ : existing at surface level
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. essential component/element/ingredient
+> 2. essential for/to
+> 3. absolutely essential
+
+> **1. Example Context 1 (Business)**
+> - **Sentence:** Effective communication is an essential skill for successful leadership.
+> - **Translation:** Giao tiếp hiệu quả là một kỹ năng thiết yếu cho lãnh đạo thành công.
+>
+> **2. Example Context 2 (Science)**
+> - **Sentence:** Water is essential for all known forms of life on Earth.
+> - **Translation:** Nước là thiết yếu cho tất cả các dạng sự sống đã biết trên Trái Đất.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse**
+> - ❌ **Mistake:** Coffee is essential for my happiness.
+> - ✅ **Correction:** Coffee is important for my happiness. / Coffee is essential for my morning routine.
+> - **Why:** 'Essential' implies something cannot exist or function without it. Reserve it for truly indispensable things.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Understanding the local culture is essential for successful international business expansion."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **essential** (*/ɪˈsenʃl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Absolutely necessary; extremely important; fundamental to the nature of something; without which something cannot exist or function
+> 🇻🇳 **Vietnamese:** Thiết yếu, cần thiết, cơ bản, không thể thiếu
+> 🗣️ **IPA:** */ɪˈsenʃl/*
+> 🧠 **Mental Model:** Hãy tưởng tượng building - essential là foundation pillars. Without them,整个 structure sụp đổ!
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Absolutely necessary; fundamental to the nature of something; without which something cannot exist or function"
+**Vietnamese:** Thiết yếu, cần thiết, cơ bản
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**essential** (*/ɪˈsenʃl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **essential** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Regular maintenance is essential for keeping the vintage car in perfect working condition.
+> 🇻🇳 **Translation:** Bảo dưỡng định kỳ là thiết yếu để giữ chiếc xe cổ trong tình trạng hoạt động hoàn hảo.
+> 🔍 **Analysis:** Perfect vì nó shows cause-and-effect relationship - 'essential' connects maintenance trực tiếp đến car's functionality, không chỉ 'important' mà là requirement!
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **essential**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Components:** essential component/part/element (như building blocks - không thể thiếu)
+> 2. **Qualities:** essential quality/characteristic/trait (như DNA - định hình bản chất)
+> 3. **Requirements:** essential requirement/prerequisite/condition (như gates - phải qua mới được)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **essential**:
+"You need good communication skills."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Clear and empathetic communication is essential for building trust and resolving conflicts effectively."
+> 💡 **Why it works:** 'Essential' elevates 'need' đến absolute requirement, kết hợp với 'building trust' và 'resolving conflicts' shows specific outcomes không thể đạt được without communication!
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **essential** instead of [[important]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **essential:** Cannot exist/function without it (VN: thiết yếu, không thể thiếu)
+> **[[important]]:** Has value and significance (VN: quan trọng, đáng giá)
+> 🧱 **The Barrier:** Important adds value, essential enables existence. Food là essential cho survival, dessert là important cho enjoyment. Remove essential thing = system fails. Remove important thing = system continues but less optimal!
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your team is rushing to launch a product and wants to skip testing. Persuade them otherwise.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Testing isn't just a checkbox - it's essential for protecting our users and maintaining our reputation."
+> 👨‍🎨 **Director's Note:** Perfect vì nó positions testing không là option mà là absolute necessity cho 'protecting users' và 'maintaining reputation' - essential connects trực tiếp đến core business survival!
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `esse` to the meaning of **essential**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'esse' means 'to be' - imagine Aristotle asking "What makes a chair BE a chair?" The answer reveals its 'essential' qualities. Essential properties là what makes something what it fundamentally IS!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **essential**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `esse` (to be)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[essence]] (bản chất, tinh túy)
+> - *(adv)* [[essentially]] (về cơ bản, về bản chất)
+> - *(adj)* [[non-essential]] (không thiết yếu)
+> - *(philosophy)* [[essentialism]] (chủ nghĩa bản chất)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪˈsenʃl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**essential**
+> 📖 **Meaning:** Absolutely necessary; fundamental to the nature of something; without which something cannot exist or function
+> 🇻🇳 **Vietnamese:** Thiết yếu, cần thiết, cơ bản, không thể thiếu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **essential**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "It's essential to have a big TV in your living room."
+> ✅ **Correction:** "It's nice/desirable to have a big TV in your living room." OR "A comfortable sofa is essential for your living room."
+> 🧠 **Why:** Essential = cannot function without. Big TV là luxury, không là essential. Reserve 'essential' cho truly indispensable things (like air, water, keys, documents).
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **essential**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[non-essential]] (không thiết yếu)
+> - [[superficial]] (hời hợt, bề ngoài)
+> 🧱 **Contrast:** Essential elements form the core and foundation, while their opposites are peripheral additions - like roots vs. flowers on a plant, or skeleton vs. accessories!
 
 ---

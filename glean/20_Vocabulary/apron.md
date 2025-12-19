@@ -1,158 +1,76 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈeɪprən/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Old French *naperon* 'small tablecloth', from Latin *mappa* 'napkin'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** a protective garment worn over the front of clothes
+>
+> **Context Meaning:** an outer protective covering worn over clothing to keep it clean, typically while cooking or working
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tạp dề
+> - **Contextual:** áo tạp dề, quần áo bảo hộ
+>
 > **Nuances:**
-> - ...
+> - Used in cooking, cleaning, and various trades
+> - Symbol of domesticity and professional craftsmanship
+> - Can be decorative or purely functional
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Protective, Practical, Clean
+> **Memory Hook:** APRON protects your clothes when you're PREPARING food
+> **📖 Etymology Story:** From French 'naperon' (little tablecloth), originally meant 'small cloth covering'. Like a miniature tablecloth for your body, an apron protects your clothes while you work, keeping you clean as you create meals or master crafts.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[apron]] /ˈeɪprən/ - tạp dề
+> - **Adj:** **apron-clad** /ˈeɪprənklæd/ - mặc tạp dề
+> - **Compound:** [[apron string]] /ˈeɪprən strɪŋ/ - quai tạp dề
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[smock]] /smɒk/ : áo choàng bảo hộ
+> - [[coverall]] /ˈkʌvərɔːl/ : đồ bảo hộ toàn thân
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - N/A
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. wear an apron
+> 2. cooking apron
+> 3. tie on an apron
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The chef tied a clean white apron around his waist before starting dinner service.
+> - **Translation:** Đầu bếp cột chiếc tạp dề trắng sạch quanh eo trước khi bắt đầu phục vụ bữa tối.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She wiped her hands on her apron after kneading the dough.
+> - **Translation:** Cô ấy lau tay lên tạp dề sau khi nhào bột.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling**
+> - ❌ **Mistake:** "apperon" or "aprin"
+> - ✅ **Correction:** "apron"
+> - **Why:** Common spelling error - it's APRON with pro not per or pri.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The potters wore thick aprons to protect themselves from clay splashes."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +78,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **apron** (*/ˈeɪprən/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A protective garment worn over the front of clothes to keep them clean, especially during cooking or manual work
+> 🇻🇳 **Vietnamese:** Tạp dề, áo bảo hộ mặc phía trước để giữ quần áo sạch
+> 🗣️ **IPA:** */ˈeɪprən/*
+> 🧠 **Mental Model:** Protective barrier + front covering = tấm khiên bảo vệ quần áo
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A protective garment worn over clothing to keep it clean"
+**Vietnamese:** Tạp dề
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**apron** (*/ˈeɪprən/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **apron** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The art students wore paint-splattered aprons that told stories of their creative journeys.
+> 🇻🇳 **Translation:** Sinh viên nghệ thuật mặc những chiếc tạp dề lấm lem sơn油画 kể câu chuyện về hành trình sáng tạo của họ.
+> 🔍 **Analysis:** "Paint-splattered aprons" shows how aprons absorb the evidence of creative work, becoming records of artistic expression.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **apron**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action Type:** tie on/put on an apron (cột/mặc tạp dề - preparing to work)
+> 2. **Professional Type:** chef's/baker's apron (tạp dề đầu bếp/người làm bánh - professional context)
+> 3. **Descriptive Type:** stained/white apron (tạp dề ố/trắng - describes its condition)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **apron**:
+"She wore something to protect her clothes."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She gracefully tied her grandmother's embroidered apron, its fabric carrying generations of culinary wisdom."
+> 💡 **Why it works:** "Apron" specifically identifies the protective garment, while the description adds emotional depth and heritage.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **apron** instead of **smock**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **apron:** Covers front only, waist to knees (chỉ che phía trước, thắt lưng)
+> **smock:** Loose, covers entire body (áo choàng rộng, che toàn thân)
+> 🧱 **The Barrier:** Apron = partial protection; Smock = full coverage
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're about to help with Thanksgiving dinner and want to protect your nice clothes. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'd better grab an apron before I start peeling these potatoes!"
+> 👨‍🎨 **Director's Note:** Shows practical preparation and awareness of mess potential.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `naperon` to the meaning of **apron**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** French 'naperon' was a 'little tablecloth' (nape = tablecloth). Like a miniature tablecloth for your body, an apron protects your clothes from spills and stains while you work.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **apron**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** French `naperon` ('little tablecloth')
+> 👨‍👩‍👧 **Family:**
+> - *(compound)* [[apron string]] /ˈeɪprən strɪŋ/ - quai tạp dề
+> - *(compound)* [[apron pocket]] /ˈeɪprən pɒkɪt/ - túi tạp dề
+> - *(adj)* **apron-clad** /ˈeɪprənklæd/ - mặc tạp dề
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈeɪprən/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**apron**
+> 📖 **Meaning:** Protective garment worn over clothes
+> 🇻🇳 **Vietnamese:** Tạp dề
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **apron**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She put on her aprin before cooking."
+> ✅ **Correction:** "She put on her apron before cooking."
+> 🧠 **Why:** Correct spelling is APRON - "a-pro-n", not "a-prin". The 'o' sound is crucial.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **apron**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[formal wear]] /ˈfɔːməl weə/ - trang phục trang trọng (work vs formal)
+> - [[business attire]] /ˈbɪznəs əˈtaɪə/ - trang phục công sở (casual work vs professional)
+> 🧱 **Contrast:** Apron = protection for work; Formal wear = presentation for appearance.
 
 ---

@@ -1,158 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-status: pending
+status: done
 ref:
   - [[Cam 20 Listening Test 01]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /helθ rɪsk/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** formal/medical
+> **Etymology:** health (Old English hǣlþ) + risk (Italian risco "danger")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The possibility or chance that something harmful will affect your health.
+>
+> **Context Meaning:** A factor or situation that could potentially cause illness, injury, or damage to one's physical or mental well-being.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** rủi ro sức khỏe
+> - **Contextual:** nguy cơ về sức khỏe (yếu tố có thể gây hại cho sức khỏe)
+>
 > **Nuances:**
-> - ...
+> - Can be environmental, behavioral, or genetic
+> - Often used in medical and public health contexts
+> - Implies probability, not certainty
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Clinical, cautious, informative
+> **Memory Hook:** Health (sức khỏe) + Risk (rủi ro) = Health Risk (rủi ro cho sức khỏe) - like danger but specifically for your body
+> **📖 Etymology Story:** Health comes from Old English "hǣlþ" meaning "wholeness, soundness." Risk comes from Italian "risco" meaning "danger, peril." Combined, they describe dangers that threaten our physical wholeness.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[health risk]] /helθ rɪsk/
+> - **Adj:** [[risky]] /ˈrɪski/
+> - **Verb:** [[risk]] /rɪsk/
+> - **Adv:** [[riskily]] /ˈrɪskɪli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[health hazard]] /helθ ˈhæzərd/ : immediate danger
+> - [[health threat]] /helθ θret/ : potential harm
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[health benefit]] /helθ ˈbenɪfɪt/ : positive effect on health
+> - [[protective factor]] /prəˈtektɪv ˈfæktər/ : something that reduces risk
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. pose a health risk
+> 2. reduce health risks
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Smoking cigarettes poses a significant health risk to your lungs.
+> - **Translation:** Hút thuốc lá tạo ra rủi ro sức khỏe đáng kể cho phổi của bạn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The report identified several environmental health risks in the area.
+> - **Translation:** Báo cáo đã xác định một số rủi ro sức khỏe môi trường trong khu vực.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Singular/Plural Error**
+> - ❌ **Mistake:** "There are many health risk in pollution."
+> - ✅ **Correction:** "There are many health risks in pollution."
+> - **Why:** When referring to multiple risks, use the plural form "risks."
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Air pollution is a major health risk for urban residents."
+> **Source:** [[Cam 20 Listening Test 01]]
 
 ---
 
@@ -160,121 +79,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **health risk** (*/helθ rɪsk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A factor or situation that could potentially cause harm or damage to one's physical or mental health.
+> 🇻🇳 **Vietnamese:** Rủi ro sức khỏe, nguy cơ về sức khỏe
+> 🗣️ **IPA:** */helθ rɪsk/*
+> 🧠 **Mental Model:** Yếu tố có thể gây hại cho sức khỏe (như Radiation là health risk cho cơ thể)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A factor that could harm your health"
+**Vietnamese:** Rủi ro sức khỏe
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**health risk** (*/helθ rɪsk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **health risk** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Lack of regular exercise is a serious health risk that many people underestimate.
+> 🇻🇳 **Translation:** Việc không tập thể dục thường xuyên là một rủi ro sức khỏe nghiêm trọng mà nhiều người đánh giá thấp.
+> 🔍 **Analysis:** Perfect here because it identifies a specific behavioral factor that negatively impacts health.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **health risk**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Assessment:** health risk assessment (đánh giá rủi ro sức khỏe) - evaluation process
+> 2. **Action:** pose a health risk (gây rủi ro sức khỏe) - create danger
+> 3. **Multiple:** major health risks (rủi ro sức khỏe chính) - significant dangers
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **health risk**:
+"Eating too much sugar is bad for you."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Excessive sugar consumption poses significant health risks including diabetes and heart disease."
+> 💡 **Why it works:** "Health risks" sounds more clinical and specific than "bad for you," emphasizing actual medical consequences.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **health risk** instead of **health hazard**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **health risk:** Potential or probable danger (nguy cơ tiềm tàng)
+> **health hazard:** Immediate or present danger (mối nguy hiểm hiện hữu)
+> 🧱 **The Barrier:** Risk = possibility/chance vs Hazard = actual exposure
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to try an extreme diet. You feel concerned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Have you considered the potential health risks of such a restrictive diet?"
+> 👨‍🎨 **Director's Note:** Shows concern using medical terminology while maintaining a supportive tone.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `health + risk` to the meaning of **health risk**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Health (tiếng Anh cổ "hǣlþ" - sự toàn vẹn) + Risk (tiếng Ý "risco" - nguy hiểm) → Health Risk = nguy cơ đe dọa sự toàn vẹn của sức khỏe.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **health risk**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Compound: health (Old English "hǣlþ") + risk (Italian "risco")
+> 👨‍👩‍👧 **Family:**
+> - *(noun phrase)* [[health risk]] - rủi ro sức khỏe
+> - *(adj)* [[risky]] - рисковый, рискованный
+> - *(noun)* [[healthcare]] - y tế
+> - *(antonym)* [[health benefit]] - lợi ích sức khỏe
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */helθ rɪsk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**health risk**
+> 📖 **Meaning:** A factor that could potentially harm your health
+> 🇻🇳 **Vietnamese:** Rủi ro sức khỏe
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **health risk**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Pollution is a big health risk for many peoples."
+> ✅ **Correction:** "Pollution is a big health risk for many people."
+> 🧠 **Why:** "People" is already plural. Don't add an extra 's' to make "peoples" unless referring to distinct ethnic groups.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **health risk**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[health benefit]] (positive effect on health)
+> - [[protective factor]] (element that reduces health risk)
+> 🧱 **Contrast:** Health Risk = potential harm vs Health Benefit = potential good
 
 ---
