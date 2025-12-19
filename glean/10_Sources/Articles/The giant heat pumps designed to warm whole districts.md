@@ -1,5 +1,5 @@
 ---
-title: "The giant heat pumps designed to warm whole districts"
+title: "The giant heat pumps [[20_Vocabulary/meant|designed]] to warm whole districts"
 source: "https://www.bbc.com/news/articles/c17p44w87rno"
 author:
   - "[[Chris Baraniuk]]"
@@ -15,72 +15,72 @@ Advertisement
 
 ![MVV Energie A large, shiny chrome tank with shiny pipework around it. ](https://ichef.bbci.co.uk/news/240/cpsprodpb/905e/live/cf953790-c525-11f0-b288-51552c83ad58.jpg.webp)
 
-MVV Energie is building the world's most powerful heat pump systems
+MVV Energie is building the world's most [[20_Vocabulary/effective|powerful]] heat pump systems
 
 The pipe that [[20_Vocabulary/will|will]] supply the heat pump, drawing water from the River Rhine in Germany, is so big that you could walk through it, fully upright, I'm told.
 
-"We plan to take 10,000 litres per second," says Felix Hack, project manager at MVV Environment, an energy company, as he describes the 2m diameter pipes that [[20_Vocabulary/will|will]] suck up river water in Mannheim, and then return it once heat from the water has been harvested.
+"We plan to take 10,000 litres per second," says Felix Hack, project manager at MVV Environment, an energy company, as he describes the 2m diameter pipes that [[20_Vocabulary/will|will]] suck up river water in Mannheim, [[20_Vocabulary/In addition|and]] then return it once heat from the water has been harvested.
 
-In October, parent firm MVV Energie announced its plan to build what could be the most powerful heat pump modules ever. Two units, each with a capacity of 82.5 megawatts.
+In October, parent firm MVV Energie announced its plan to [[20_Vocabulary/establish|build]] what could be the most [[20_Vocabulary/effective|powerful]] heat pump modules ever. Two units, each with a capacity of 82.5 megawatts.
 
-That's enough to supply around 40,000 homes, in total, via a district heating system. MVV Energie aims to build the system on the site of a coal power plant that is [[20_Vocabulary/convert|converting]] to cleaner technologies.
+That's enough to supply around 40,000 homes, in total, via a district heating system. MVV Energie aims to [[20_Vocabulary/establish|build]] the system on the site of a coal power plant that is [[20_Vocabulary/convert|converting]] to cleaner technologies.
 
 The scale of the heat pumps was determined partly by limits on the size of machinery that could be transported through the streets of Mannheim, or potentially via barges along the Rhine. "We're not sure about that yet," says Mr Hack. "It might come via the river."
 
-One person well aware of the project is Alexandre de Rougemont, at Everllence (formerly MAN Energy Solutions), another German company that also makes extremely large heat pumps. "It is a competition, yeah," he says. "We're open about it."
+One person well aware of the project is Alexandre de Rougemont, at Everllence (formerly MAN Energy Solutions), another German company that [[20_Vocabulary/In addition|also]] makes extremely large heat pumps. "It is a competition, yeah," he says. "We're open about it."
 
-Heat pumps soak up heat from the air, ground or, in these cases, bodies of water. Refrigerants inside the heat pumps evaporate when they are warmed even slightly.
+Heat pumps soak up heat from the air, ground or, in these cases, bodies of water. Refrigerants inside the heat pumps evaporate when they are warmed [[20_Vocabulary/steadily|even]] slightly.
 
-By compressing the refrigerant, you boost that heat further. This same process occurs in heat pumps designed to supply single homes, it just happens on a much larger scale in giant heat pumps that [[20_Vocabulary/serve|serve]] entire [[20_Vocabulary/city dweller|city]] districts.
+By compressing the refrigerant, you boost that heat further. This same process occurs in heat pumps [[20_Vocabulary/meant|designed]] to supply single homes, it just happens on a much larger scale in giant heat pumps that [[20_Vocabulary/serve|serve]] entire [[20_Vocabulary/city dweller|city]] districts.
 
-As towns and cities around the world seek to decarbonise, many are deciding to purchase large heat pumps, which can attach to district heating networks.
+As towns [[20_Vocabulary/In addition|and]] cities around the world seek to decarbonise, many are deciding to purchase large heat pumps, which can attach to district heating networks.
 
 These networks allow hot water or steam to reach multiple buildings, all connected up with many kilometres of pipe. Ever bigger models of heat pump are emerging to meet demand.
 
-"There was a lot of [[20_Vocabulary/press|pressure]] on us to change the heat generation to new sources, especially renewable sources," explains Mr Hack as he discusses the decommissioning of coal-fired units at the Mannheim plant. The site is right by the Rhine, already has a hefty electricity grid [[20_Vocabulary/associate|connection]], and is plugged in to the district heating network, so it makes sense to install the heat pumps here, he says.
+"There was a lot of [[20_Vocabulary/press|pressure]] on us to [[20_Vocabulary/affect|change]] the heat generation to new sources, especially renewable sources," explains Mr Hack as he discusses the decommissioning of coal-fired units at the Mannheim plant. The site is right by the Rhine, already has a hefty electricity grid [[20_Vocabulary/associate|connection]], [[20_Vocabulary/In addition|and]] is plugged in to the district heating network, so it makes sense to install the heat pumps here, he says.
 
-He notes that the technology is [[20_Vocabulary/a possibility|possible]] partly thanks to the availability of very large compressors in the oil and gas industry – where they are used to compress fossil fuels for storage or transportation, for example.
+He notes that the technology is [[20_Vocabulary/a possibility|possible]] partly thanks to the availability of very large compressors in the oil [[20_Vocabulary/In addition|and]] gas [[20_Vocabulary/industrial function|industry]] – where they are used to compress fossil fuels for storage or transportation, for example.
 
 ![MVV Energie A large stainless steel pipe with four blue valves on the top and a gauge.](https://ichef.bbci.co.uk/news/240/cpsprodpb/520a/live/2a579f60-c526-11f0-bf7b-db7c049674ab.jpg.webp)
 
 The new heat pump at Mannheim [[20_Vocabulary/will|will]] transfer heat from the Rhine
 
-Work on the Mannheim project is due to start next year. The heat pumps – with a combined capacity of 162MW – are set to become fully operational in the winter of 2028-29. Mr Hack adds that a multi-step filter system [[20_Vocabulary/will|will]] prevent the heat pumps sucking up fish from the river, and that modelling suggests the system [[20_Vocabulary/will|will]] [[20_Vocabulary/affect|affect]] the [[20_Vocabulary/average|average]] temperature of the river by less than 0.1C.
+Work on the Mannheim project is due to start next year. The heat pumps – with a combined capacity of 162MW – are set to become fully operational in the winter of 2028-29. Mr Hack adds that a multi-step [[20_Vocabulary/cigarette|filter]] system [[20_Vocabulary/will|will]] prevent the heat pumps sucking up fish from the river, [[20_Vocabulary/In addition|and]] that modelling suggests the system [[20_Vocabulary/will|will]] [[20_Vocabulary/affect|affect]] the [[20_Vocabulary/average|average]] temperature of the river by less than 0.1C.
 
-Installations such as this are not cheap. The Mannheim heat pump setup [[20_Vocabulary/will|will]] cost €200m ($235m; £176m). Mr de Rougemont at Everllence says that, at his company, heat-pump [[20_Vocabulary/equipment|equipment]] costs roughly €500,000 per megawatt of installed capacity – this does not [[20_Vocabulary/include|include]] the additional cost of buildings, [[20_Vocabulary/associate|associated]] infrastructure and so on.
+[[20_Vocabulary/facilities|Installations]] such as this are not cheap. The Mannheim heat pump [[20_Vocabulary/establish|setup]] [[20_Vocabulary/will|will]] cost €200m ($235m; £176m). Mr de Rougemont at Everllence says that, at his company, heat-pump [[20_Vocabulary/equipment|equipment]] costs roughly €500,000 per megawatt of installed capacity – this does not [[20_Vocabulary/include|include]] the additional cost of buildings, [[20_Vocabulary/associate|associated]] [[20_Vocabulary/facilities|infrastructure]] [[20_Vocabulary/In addition|and]] so on.
 
 ![Everllence Five men in hi-viz jackets talk while standing next to heat pump machinery.](https://ichef.bbci.co.uk/news/240/cpsprodpb/01af/live/c13c0290-c526-11f0-b288-51552c83ad58.jpg.webp)
 
-Everllence has plans for heat pumps even bigger than this one in Esberg
+Everllence has plans for heat pumps [[20_Vocabulary/steadily|even]] bigger than this one in Esberg
 
-Everllence is currently working on a project in Aalborg, Denmark that [[20_Vocabulary/will|will]] be even more powerful than the system in Mannheim, with a total capacity of 176MW. It [[20_Vocabulary/will|will]] use smaller modules, [[20_Vocabulary/However|however]] – four 44MW units – and is due to become operational in 2027, when it [[20_Vocabulary/will|will]] supply nearly one third of all heating demand in the town.
+Everllence is currently [[20_Vocabulary/workshop|working]] on a project in Aalborg, Denmark that [[20_Vocabulary/will|will]] be [[20_Vocabulary/steadily|even]] more [[20_Vocabulary/effective|powerful]] than the system in Mannheim, with a total capacity of 176MW. It [[20_Vocabulary/will|will]] use smaller modules, [[20_Vocabulary/However|however]] – four 44MW units – [[20_Vocabulary/In addition|and]] is due to become operational in 2027, when it [[20_Vocabulary/will|will]] supply nearly one third of all heating demand in the town.
 
-Those 44MW machines are actually the same ones used in a previous project, now fully operational, to the south of Aalborg in Esbjerg. There, they don't run at maximum capacity but rather supply 35MW each.
+Those 44MW machines are actually the same ones used in a previous project, now fully operational, to the south of Aalborg in Esbjerg. There, they don't run at maximum capacity [[20_Vocabulary/However|but]] rather supply 35MW each.
 
-Large hot water storage tanks, each able to [[20_Vocabulary/hold|hold]] 200,000 cubic metres of liquid, [[20_Vocabulary/will|will]] give the system added flexibility, adds Mr de Rougemont: "When the electricity [[20_Vocabulary/worth|price]] is high, you stop your heat pump and only provide heat from the storage."
+Large hot water storage tanks, each able to [[20_Vocabulary/hold|hold]] 200,000 cubic metres of liquid, [[20_Vocabulary/will|will]] give the system added flexibility, adds Mr de Rougemont: "When the electricity [[20_Vocabulary/worth|price]] is high, you stop your heat pump [[20_Vocabulary/In addition|and]] only provide heat from the storage."
 
-Veronika Wilk at the Austrian Institute of Technology says, "Heat pumps and district heating systems are a great fit." Such systems can harvest heat from bodies of water or even [[20_Vocabulary/sewage|wastewater]] from [[20_Vocabulary/sewage|sewage]] [[20_Vocabulary/treatment|treatment]] plants.
+Veronika Wilk at the Austrian [[20_Vocabulary/establish|Institute]] of Technology says, "Heat pumps [[20_Vocabulary/In addition|and]] district heating systems are a great fit." Such systems can harvest heat from bodies of water or [[20_Vocabulary/steadily|even]] [[20_Vocabulary/sewage|wastewater]] from [[20_Vocabulary/sewage|sewage]] [[20_Vocabulary/treatment|treatment]] plants.
 
-Dr Wilk notes that, when you use multiple large heat pumps on a district heating network, you gain flexibility and efficiency. You could run two out of four heat pumps in the autumn, say, when less heat is required than during the depths of winter.
+Dr Wilk notes that, when you use multiple large heat pumps on a district heating network, you gain flexibility [[20_Vocabulary/In addition|and]] efficiency. You could run two out of four heat pumps in the autumn, say, when less heat is required than during the depths of winter.
 
 ![Getty Images Helsinki waterfront with boats in the foreground and the cathedral in the background.](https://ichef.bbci.co.uk/news/240/cpsprodpb/1b95/live/942db5c0-c529-11f0-9b68-57906bffd3ed.jpg.webp)
 
 Helsinki is overhauling its district heating system
 
-All the systems mentioned so far harvest energy from water sources but, less commonly, very large heat pumps can use the air as a heat source, too. Even in a [[20_Vocabulary/relatively|relatively]] cold [[20_Vocabulary/city dweller|city]] such as Helsinki.
+All the systems mentioned so far harvest energy from water sources [[20_Vocabulary/However|but]], less commonly, very large heat pumps can use the air as a heat source, [[20_Vocabulary/In addition|too]]. [[20_Vocabulary/steadily|Even]] in a [[20_Vocabulary/relatively|relatively]] cold [[20_Vocabulary/city dweller|city]] such as Helsinki.
 
-"The sea in front of Helsinki is too shallow," explains Timo Aaltonen, senior vice president of heating and cooling at Helen Oy, an energy firm. "We calculated that we [[20_Vocabulary/will|would]] need to build a tunnel more than 20km long to the ocean, to get enough water \[with a\] temperature high enough."
+"The sea in front of Helsinki is [[20_Vocabulary/In addition|too]] shallow," explains Timo Aaltonen, [[20_Vocabulary/elderly|senior]] vice president of heating [[20_Vocabulary/In addition|and]] cooling at Helen Oy, an energy firm. "We calculated that we [[20_Vocabulary/will|would]] need to [[20_Vocabulary/establish|build]] a tunnel more than 20km long to the ocean, to get enough water \[with a\] temperature high enough."
 
-Helsinki is in the process of radically overhauling its district heating system. The [[20_Vocabulary/city dweller|city]] has added heat pumps, biomass burners and electric boilers to a 1,400km network that links up nearly 90% of buildings in the Finnish capital, adds Mr Aaltonen.
+Helsinki is in the process of radically overhauling its district heating system. The [[20_Vocabulary/city dweller|city]] has added heat pumps, biomass burners [[20_Vocabulary/In addition|and]] electric boilers to a 1,400km network that links up nearly 90% of buildings in the Finnish [[20_Vocabulary/major city|capital]], adds Mr Aaltonen.
 
-Heat pumps [[20_Vocabulary/convert|convert]] single kilowatt hours of electricity into multiple kilowatt hours of heat but electric boilers can't do this and are therefore considered less efficient.
+Heat pumps [[20_Vocabulary/convert|convert]] single kilowatt hours of electricity into multiple kilowatt hours of heat [[20_Vocabulary/However|but]] electric boilers can't do this [[20_Vocabulary/In addition|and]] are therefore considered less [[20_Vocabulary/effective|efficient]].
 
-I ask why Helen Oy decided to install hundreds of megawatts of these boilers and Mr Aaltonen says that they are cheaper to install than heat pumps and having them also means he and colleagues don't have to rely entirely on the air, which is limited in terms of how much heat it can provide at scale. Plus, the electric boilers can help to soak up surplus renewables and provide an electricity grid-balancing function, he says.
+I ask why Helen Oy decided to install hundreds of megawatts of these boilers [[20_Vocabulary/In addition|and]] Mr Aaltonen says that they are cheaper to install than heat pumps [[20_Vocabulary/In addition|and]] having them [[20_Vocabulary/In addition|also]] means he [[20_Vocabulary/In addition|and]] colleagues don't have to rely entirely on the air, which is limited in terms of how much heat it can provide at scale. [[20_Vocabulary/In addition|Plus]], the electric boilers can [[20_Vocabulary/rescue|help]] to soak up surplus renewables [[20_Vocabulary/In addition|and]] provide an electricity grid-balancing [[20_Vocabulary/serve|function]], he says.
 
-There are no heat pumps in the UK that rival the systems under development in Denmark, Germany and Finland. [[20_Vocabulary/However|However]], some new district heating networks are on the way, such as the Exeter Energy Network, which [[20_Vocabulary/will|will]] supply the University of Exeter and other customers.
+There are no heat pumps in the UK that rival the systems under development in Denmark, Germany [[20_Vocabulary/In addition|and]] Finland. [[20_Vocabulary/However|However]], some new district heating networks are on the way, such as the Exeter Energy Network, which [[20_Vocabulary/will|will]] supply the University of Exeter [[20_Vocabulary/In addition|and]] other customers.
 
-The minimum planned capacity of the network is 12MW. It [[20_Vocabulary/will|will]] feature three 4MW air-to-water heat pumps, with the first unit due to become operational in 2028.
+The minimum [[20_Vocabulary/meant|planned]] capacity of the network is 12MW. It [[20_Vocabulary/will|will]] feature three 4MW air-to-water heat pumps, with the first unit due to become operational in 2028.
 
-Keith [[20_Vocabulary/apron|Baker]] at Glasgow Caledonian University, who researches district heating systems, says the UK has opportunities to make more of this technology. Water in disused mines, which maintains a [[20_Vocabulary/relatively|relatively]] stable temperature, [is beginning to supply](https://www.bbc.co.uk/news/articles/c2lk1y582r0o) larger heat pumps here, for example.
+Keith [[20_Vocabulary/apron|Baker]] at Glasgow Caledonian University, who researches district heating systems, says the UK has [[20_Vocabulary/opportunity|opportunities]] to make more of this technology. Water in disused mines, which maintains a [[20_Vocabulary/relatively|relatively]] [[20_Vocabulary/steadily|stable]] temperature, [is beginning to supply](https://www.bbc.co.uk/news/articles/c2lk1y582r0o) larger heat pumps here, for example.
 
-Post-industrial and rural areas where there is adequate space to install heat pumps and heat storage tanks are "the sweet spots", he says.
+[[20_Vocabulary/parcel|Post]]-[[20_Vocabulary/industrial function|industrial]] [[20_Vocabulary/In addition|and]] rural areas where there is adequate space to install heat pumps [[20_Vocabulary/In addition|and]] heat storage tanks are "the sweet spots", he says.
