@@ -154,8 +154,6 @@ Exam success tips
 
 [[20_Vocabulary/In addition|As well]] as going out on the lifeboat, my work involves other things [[20_Vocabulary/In addition|too]]. A lot of people underestimate how windy conditions can [[20_Vocabulary/affect|change]] at sea, so I speak to youth groups [[20_Vocabulary/In addition|and]] sailing clubs in the area about the sorts of problems that sailors [[20_Vocabulary/In addition|and]] swimmers can have [[20_Vocabulary/suppose|if]] the weather suddenly gets bad. We [[20_Vocabulary/In addition|also]] have a lot of volunteers who organise activities to raise money for us, [[20_Vocabulary/In addition|and]] we couldn't [[20_Vocabulary/dealing|manage]] without them.
 
-——————————————————–
-
 The training we get is a continuous process, focusing on technical competence [[20_Vocabulary/In addition|and]] safe handling techniques, [[20_Vocabulary/In addition|and]] it's given me the confidence to deal with extreme situations without panicking. I was glad I'd done a first [[20_Vocabulary/rescue|aid]] course before I started, as that's a big [[20_Vocabulary/rescue|help]] with the casualty [[20_Vocabulary/treatment|care]] activities we do. We've done a lot on how to deal with ropes [[20_Vocabulary/In addition|and]] [[20_Vocabulary/relationship|tie]] knots – that's an [[20_Vocabulary/essential|essential]] [[20_Vocabulary/an art form|skill]]. After a year, I did a one-week residential course, led by specialists. They had a wave-tank where they could [[20_Vocabulary/invent|create]] extreme weather conditions – so we could get [[20_Vocabulary/go through|experience]] at what to do [[20_Vocabulary/suppose|if]] the boat turned over in a storm at night, for example.
 
 Since I started, I've had to deal with a range of emergency situations.
