@@ -13,7 +13,7 @@
 | **Level**:               | **2**…………………                                                              |
 | **Place**:               | the **3**…………………<br><br>**4**………………… Street<br><br>First floor, Room T347 |
 | **Time**:                | Thursday morning at **5**…………………                                          |
-| **Recommended website**: | 'The perfect **6**…………………'                                                |
+| **Recommended website**: | ‘The perfect **6**…………………’                                                |
 
 **Questions 7–10**
 
@@ -83,7 +83,7 @@ English Dictionary Apps
 
 **C** eight and a half minutes.
 
-**15** As a 'helmsman', David has the responsibility of deciding
+**15** As a ‘helmsman’, David has the responsibility of deciding
 
 **A** who will be the members of his crew.
 
@@ -213,13 +213,13 @@ What reasons did the recycling manager give for rejecting footwear, according to
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**29** Why did the project to make 'new' shoes out of old shoes fail?
+**29** Why did the project to make ‘new’ shoes out of old shoes fail?
 
-**A** People believed the 'new' pairs of shoes were unhygienic.
+**A** People believed the ‘new’ pairs of shoes were unhygienic.
 
 **B** There were not enough good parts to use in the old shoes.
 
-**C** The shoes in the 'new' pairs were not completely alike.
+**C** The shoes in the ‘new’ pairs were not completely alike.
 
 **30** Bella and Don agree that they can present their topic
 
@@ -242,7 +242,7 @@ What reasons did the recycling manager give for rejecting footwear, according to
 
 ● more than 1,000 species, 0.05–1.2 millimetres long
 
-● also known as water 'bears' (due to how they **31** …………………) and 'moss piglets'
+● also known as water ‘bears’ (due to how they **31** …………………) and ‘moss piglets’
 
 **Physical appearance**
 
@@ -264,7 +264,7 @@ What reasons did the recycling manager give for rejecting footwear, according to
 
 **Cryptobiosis**
 
-● In dry conditions, they roll into a ball called a 'tun'.
+● In dry conditions, they roll into a ball called a ‘tun’.
 
 ● They stay alive with a much lower metabolism than usual.
 

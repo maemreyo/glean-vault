@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [grasses, grassy, grassland, grasslands, grasshopper]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɡrɑːs/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** A1
+> **Register:** neutral
+> **Etymology:** From Old English græs, gærs "grass, herb," from Proto-Germanic *grasan
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:**
+> 1. (noun) A common plant with narrow green leaves
+> 2. (verb) To inform on someone to authorities (slang)
+>
+> **Context Meaning:**
+> 1. Low-growing green plants covering fields and lawns
+> 2. A specific type of pasture or grazing land
+> 3. (informal) Marijuana
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cỏ, cỏ non, mách lẻo
+> - **Contextual:** bãi cỏ, đồng cỏ, ngọn cỏ
+>
 > **Nuances:**
-> - ...
+> - Most common plant in many landscapes
+> - Associated with nature, growth, and simplicity
+> - The slang meaning is informal and context-dependent
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Natural, Persistent, Informative
+> **Memory Hook:** Picture a green lawn in spring - that's grass, the most common ground cover
+> **📖 Etymology Story:** From Proto-Germanic *grasan meaning "to grow." Grass is literally "that which grows" - the most fundamental representation of plant life. Like the persistent green that pushes through concrete, grass represents nature's resilience and determination to grow.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - **Noun:** [[grass]] /ɡrɑːs/
+> - **Verb:** [[grass]] /ɡrɑːs/
+> - **Adj:** [[grassy]] /ˈɡrɑː.si/
+>
+> **Related Terms:**
+> - [[lawn]] /lɔːn/ : manicured grass area
+> - [[meadow]] /ˈmed.əʊ/ : grassy field
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[concrete]] /ˈkɒŋ.kriːt/ : artificial surface
+> - [[desert]] /ˈdez.ət/ : barren land
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. cut the grass
+> 2. tall grass
+> 3. roll in the grass
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The children played on the soft green grass in the park.
+> - **Translation:** Trẻ em chơi trên bãi cỏ xanh mềm mại trong công viên.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Don't grass on your friends to the teacher.
+> - **Translation:** Đừng mách lẻo bạn bè với giáo viên.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability**
+> - ❌ **Mistake:** The garden has many grasses.
+> - ✅ **Correction:** The garden has much grass. / The garden has many types of grass.
+> - **Why:** When referring to grass as ground cover, it's uncountable. When referring to different species, it's countable.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The grass is always greener on the other side."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +85,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **grass** (*/ɡrɑːs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A common plant with narrow green leaves covering ground; to inform on someone (slang)
+> 🇻🇳 **Vietnamese:** Cỏ, cây cỏ; mách lẻo, chỉ điểm
+> 🗣️ **IPA:** */ɡrɑːs/*
+> 🧠 **Mental Model:** Hình dung sân cỏ xanh mướt - đó là grass (cỏ)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A common plant with narrow green leaves covering ground"
+**Vietnamese:** Cây cỏ phổ biến với lá xanh hẹp phủ đất
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**grass** (*/ɡrɑːs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **grass** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The morning dew glistened on the grass, creating tiny diamonds in the sunlight.
+> 🇻🇳 **Translation:** Sương sớm lấp lánh trên bãi cỏ, tạo nên những viên kim cương nhỏ dưới ánh nắng.
+> 🔍 **Analysis:** Grass tạo hình ảnh thiên nhiên tươi đẹp và đầy sức sống
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **grass**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Maintenance:** cut the grass (cắt cỏ - hành động chăm sóc)
+> 2. **Description:** tall/short grass (cỏ cao/cao thấp - đặc điểm vật lý)
+> 3. **Action:** roll in the grass (lăn trên cỏ - hoạt động vui vẻ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **grass**:
+"The green ground looked nice."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Lush green grass carpeted the meadow, swaying gently in the summer breeze."
+> 💡 **Why it works:** "Grass" cụ thể và sống động hơn "green ground", tạo hình ảnh thiên nhiên
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **grass** instead of **plant**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **grass:** Loại cây cỏ cụ thể, mọc thành thảm (VN: cỏ, cây thân mềm)
+> **plant:** Thuật ngữ chung cho mọi loại thực vật (VN: cây trồng, thực vật)
+> 🧱 **The Barrier:** Grass là specific ground cover, plant là general organism (VN: grass là thảm cỏ cụ thể, plant là sinh vật nói chung)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're walking barefoot on a summer day. You feel relaxed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The soft grass feels wonderful between my toes!"
+> 👨‍🎨 **Director's Note:** Grass thể hiện sự thư thái và gần gũi thiên nhiên (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `*grasan` to the meaning of **grass**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ gốc Germanic *grasan "mọc lên". Grass nghĩa đen là "cái mọc lên" - biểu hiện cơ bản nhất của sự sống thực vật. Như cỏ mọc qua bê tông, grass tượng trưng cho sự kiên cường của thiên nhiên.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **grass**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Proto-Germanic `*grasan` (to grow)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* grassy (có cỏ, đầy cỏ)
+> - *(compound)* grassland (đồng cỏ)
+> - *(compound)* grasshopper (con dế mèn)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɡrɑːs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**grass**
+> 📖 **Meaning:** A common plant with narrow green leaves covering ground
+> 🇻🇳 **Vietnamese:** Cây cỏ phổ biến với lá xanh hẹp phủ đất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **grass**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Let's sit on the grasses"
+> ✅ **Correction:** "Let's sit on the grass"
+> 🧠 **Why:** Grass là không đếm được khi nói về bãi cỏ, đếm được khi nói về các loài
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **grass**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[concrete]] (bê tông, bề mặt nhân tạo)
+> - [[desert]] (sa mạc, đất trống cằn cỗi)
+> 🧱 **Contrast:** Grass is natural, living ground cover; concrete/desert is non-living surface
 
 ---
