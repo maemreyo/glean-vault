@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [scarier, scariest, scared, scare, scares, frightening, terrifying, alarming, shocking, spooky, eerie, horrifying]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈskeəri/
+> **Part of Speech:** adjective
+> **CEFR Level:** A2
+> **Register:** informal
+> **Etymology:** From 'scare' + '-y', early 19th century
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Causing fear or alarm
+>
+> **Context Meaning:** Frightening; causing feelings of fear, dread, or alarm
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đáng sợ, kinh hoàng
+> - **Contextual:** đáng sợ (dùng cho cảm giác), kinh dị (cho phim/truyện)
+>
 > **Nuances:**
-> - ...
+> - More common and informal than 'frightening' or 'terrifying'
+> - Often used for situations that cause sudden fear
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Sudden, Startling, Emotional
+> **Memory Hook:** Scare + y = something that makes you scared easily
+> **📖 Etymology Story:** Từ 'scare' (làm sợ) + hậu tố '-y' (chất tính) → scary = có tính chất làm sợ, dễ gây sợ hãi
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[scare]] /skeə/ (sự làm sợ)
+> - **Verb:** [[scare]] /skeə/ (làm sợ)
+> - **Adj:** [[scary]] /ˈskeəri/ (đáng sợ)
+> - **Adj Comp:** [[scarier]] /ˈskeəriə/
+> - **Adj Super:** [[scariest]] /ˈskeəriəst/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[frightening]] /ˈfraɪtnɪŋ/ : More formal, stronger fear
+> - [[terrifying]] /ˈterɪfaɪɪŋ/ : Extremely scary, causes terror
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[reassuring]] /ˌriːəˈʃʊərɪŋ/ : Making someone feel less worried
+> - [[comforting]] /ˈkʌmfətɪŋ/ : Providing comfort and relief
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. scary movie
+> 2. scary story
+> 3. scary situation
+>
+> **1. Entertainment Context**
+> - **Sentence:** The children love telling scary stories around the campfire.
+> - **Translation:** Các trẻ em thích kể những câu chuyện kinh dị quanh đống lửa trại.
+>
+> **2. Personal Experience**
+> - **Sentence:** It was scary walking home alone in the dark.
+> - **Translation:** Đi bộ một mình về nhà trong bóng tối thật đáng sợ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Scared vs Scary**
+> - ❌ **Mistake:** I am scary of spiders.
+> - ✅ **Correction:** I am scared of spiders. / Spiders are scary.
+> - **Why:** Scared describes the person feeling fear; scary describes the thing causing fear
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The only thing we have to fear is fear itself."
+> **Source:** [[Franklin D. Roosevelt]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **scary** (*/ˈskeəri/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Causing fear or alarm; frightening
+> 🇻🇳 **Vietnamese:** Gây sợ hãi, đáng sợ, làm kinh hãi
+> 🗣️ **IPA:** */ˈskeəri/*
+> 🧠 **Mental Model:** Một thứ gì đó khiến tim bạn đập nhanh và cảm giác sợ hãi bất chợt
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Causing feelings of fear, dread, or alarm"
+**Vietnamese:** Gây ra cảm xúc sợ hãi, kinh hoàng hoặc hoảng loạn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**scary** (*/ˈskeəri/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **scary** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The sudden loud noise was so scary that the child started crying.
+> 🇻🇳 **Translation:** Tiếng ồn lớn đột ngột đáng sợ đến mức đứa trẻ bắt đầu khóc.
+> 🔍 **Analysis:** "scary" ở đây diễn tả cảm xúc sợ hãi tức thời, tự nhiên - phù hợp với tiếng động bất ngờ
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **scary**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Entertainment:** scary movie/film (phim kinh dị)
+> 2. **Narrative:** scary story/tales (câu chuyện rùng rợn)
+> 3. **Experience:** scary situation/experience (tình huống đáng sợ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **scary**:
+"The movie was not good for children."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The horror film contained too many scary scenes for young viewers."
+> 💡 **Why it works:** "scary" cụ thể hóa lý do tại sao phim không phù hợp - gây ra cảm xúc sợ hãi rõ rệt
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **scary** instead of **[[frightening]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **scary:** Thân mật, thông dụng, dùng trong giao tiếp hàng ngày
+> **frightening:** Trang trọng hơn, mạnh hơn, thường dùng trong văn viết
+> 🧱 **The Barrier:** scary là everyday English, frightening là formal English
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're watching a horror movie with friends. A jump scare happens. You react! Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Whoa, that was scary! I literally jumped out of my seat!"
+> 👨‍🎨 **Director's Note:** "scary" thể hiện cảm xúc tức thời, tự nhiên - hoàn hảo cho phản ứng bất ngờ
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root concept of 'scare' to the meaning of **scary**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ động từ 'scare' (khiến sợ) + hậu tố '-y' (biến động từ thành tính từ chỉ chất tính) → scary = có đặc tính gây sợ hãi
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **scary**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old Norse 'skirra' (to frighten)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[scare]] (làm sợ hãi)
+> - *(adj)* [[scared]] (bị sợ hãi)
+> - *(adv)* [[scarily]] (một cách đáng sợ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈskeəri/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**scary**
+> 📖 **Meaning:** Causing fear or alarm
+> 🇻🇳 **Vietnamese:** Đáng sợ, kinh hoàng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **scary**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I have a scary of heights."
+> ✅ **Correction:** "I have a fear of heights." / "Heights are scary to me."
+> 🧠 **Why:** "scary" miêu tả vật/nguyên nhân gây sợ, không phải cảm xúc của người. Dùng "fear" hoặc "scared of"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **scary**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[reassuring]] (an ủi, làm yên tâm)
+> - [[comforting]] (an ủi, mang lại sự thoải mái)
+> 🧱 **Contrast:** scary gây cảm giác lo lắng, trong khi reassuring/comforting mang lại sự bình tĩnh và tin tưởng
 
 ---

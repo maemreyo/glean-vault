@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/work-economy/business-models
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [secondhand, used, pre-owned]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsekənd hænd/
+> **Part of Speech:** adjective/adverb
+> **CEFR Level:** B1
+> **Register:** neutral/informal
+> **Etymology:** second + hand (referring to not the first owner/user)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Previously owned or used by someone else
+>
+> **Context Meaning:** Not new; having had at least one previous owner; information received from another source
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Đã qua sử dụng, cũ
+> - **Contextual:** Hàng二手 (hàng đã qua sử dụng), đồ cũ, thứ hai
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical items (clothes, cars, books)
+> - Also used for information (second-hand news)
+> - Often implies lower cost but good quality
+> - Growing trend with environmental concerns
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Economical, Sustainable, Practical
+> **Memory Hook:** "Second" after the "first" hand - it's passed from one person to another
+> **📖 Etymology Story:** The phrase emerged in the 15th century to distinguish items not bought directly from the maker. "Second-hand" literally means it has passed through a "second hand" after the original owner. Like stories passed from person to person, second-hand items carry history while serving new purposes.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - **Adj:** [[second-hand]] /ˈsekənd hænd/, [[used]] /juːst/, [[pre-owned]] /priːˈəʊnd/
+> - **Adv:** [[second-hand]] /ˈsekənd hænd/
+>
+> **Related Terms:**
+> - [[vintage]] /ˈvɪntɪdʒ/ : old but high quality
+> - [[antique]] /ænˈtiːk/ : valuable old item
+> - [[recycled]] /riːˈsaɪkld/ : processed for reuse
+>
+> **Where to Find:**
+> - [[thrift store]] /θrɪft stɔː/ : shop selling second-hand goods
+> - [[marketplace]] /ˈmɑːkɪtpleɪs/ : online platform for used items
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. second-hand book
+> 2. second-hand information
+> 3. buy second-hand
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She prefers buying second-hand clothes to reduce waste.
+> - **Translation:** Cô ấy thích mua quần áo đã qua sử dụng để giảm thiểu rác thải.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** I heard the news second-hand from a colleague.
+> - **Translation:** Tôi nghe được tin này qua một người đồng nghiệp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Hyphenation**
+> - ❌ **Mistake:** I bought a second hand car.
+> - ✅ **Correction:** I bought a second-hand car.
+> - **Why:** "Second-hand" is hyphenated when used as an adjective before a noun.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Buying second-hand is both economical and environmentally friendly."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **second-hand** (*/ˈsekənd hænd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Previously owned or used by someone else; not new
+> 🇻🇳 **Vietnamese:** Đã qua sử dụng, đồ cũ, hàng đã qua một chủ
+> 🗣️ **IPA:** */ˈsekənd hænd/*
+> 🧠 **Mental Model:** Món đồ đã qua tay người khác - không còn mới nhưng vẫn dùng được, thường rẻ hơn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Previously owned or used by someone else"
+**Vietnamese:** Đồ đã qua sử dụng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**second-hand** (*/ˈsekənd hænd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **second-hand** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The university bookstore sells second-hand textbooks at half price.
+> 🇻🇳 **Translation:** Nhà sách của trường đại học bán sách giáo khoa đã qua sử dụng với giá một nửa.
+> 🔍 **Analysis:** "Second-hand" hoàn hảo ở đây vì nó chỉ rõ sách đã qua sử dụng nhưng vẫn còn tốt, phù hợp với sinh viên
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **second-hand**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Shopping:** second-hand store (<VN note> cửa hàng đồ cũ)
+> 2. **Information:** second-hand news (<VN note> tin tức qua người khác)
+> 3. **Products:** second-hand smoke (<VN note> khói thuốc thụ động)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **second-hand**:
+"She bought an old camera that was used before."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She found a vintage second-hand camera at the flea market."
+> 💡 **Why it works:** "Second-hand" tạo cảm giác kinh tế, thông minh, phù hợp với văn hóa tiêu dùng bền vững hiện nay
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **second-hand** instead of **old**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **second-hand:** <Someone else owned it before - đã qua chủ khác>
+> **old:** <Just aged, could be unused by others - chỉ cũ, chưa chắc qua sử dụng>
+> 🧱 **The Barrier:** "Second-hand" implies ownership transfer, "old" chỉ nói tuổi tác. A 10-year-old unused camera is old but not second-hand
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks where you got your nice leather jacket. You feel proud of your bargain. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I got it from a second-hand shop - can you believe it was only $20?"
+> 👨‍🎨 **Director's Note:** Cách nói tự nhiên khi khoe đồ cũ mua được với giá hời, thể hiện sự thông minh trong mua sắm
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the concept of **second-hand** to its meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Second-hand" nghĩa đen là "qua tay thứ hai" - vật đã qua từ chủ đầu tiên đến chủ thứ hai, như câu chuyện được truyền từ người này sang người khác
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the compound of **second-hand**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Compound:** `second` + `hand` (literal meaning)
+> 👨‍👩‍👧 **Related Compounds:**
+> - *(adj)* [[first-hand]] (directly from source)
+> - *(adj)* [[third-hand]] (from a second source)
+> - *(phrase)* [[hand-me-down]] (passed down through family)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsekənd hænd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**second-hand**
+> 📖 **Meaning:** Previously owned or used by someone else
+> 🇻🇳 **Vietnamese:** Đã qua sử dụng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **second-hand**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I only read second hand information about the incident.
+> ✅ **Correction:** I only read second-hand information about the incident.
+> 🧠 **Why:** Luôn có dấu gạch nối (-) khi dùng "second-hand" như adj trước noun - đây là quy tắc hyphenation
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **second-hand**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[brand new]] (Completely new, never used)
+> - [[first-hand]] (Direct from the source)
+> 🧱 **Contrast:** "Second-hand" đã qua người khác, "brand new" hoàn toàn mới, "first-hand" trực tiếp từ nguồn gốc
 
 ---

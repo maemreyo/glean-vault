@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
 #flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [assess, assessing, assessed, assesses, evaluate, evaluation, appraisal, appraise]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈsesmənt/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From Latin 'assessare' 'to fix a tax upon', from 'assidere' 'to sit beside'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The act of evaluating or estimating the nature, ability, or quality of something
+>
+> **Context Meaning:** A systematic process of gathering and analyzing information to measure understanding, performance, or value
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự đánh giá, sự thẩm định
+> - **Contextual:** bài kiểm tra, bài đánh giá, khảo sát
+>
 > **Nuances:**
-> - ...
+> - Implies a formal or structured evaluation process
+> - Can refer to tests, exams, projects, or other evaluation methods
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Analytical, Measured, Judgmental
+> **Memory Hook:** Assess + ment = the process of sitting beside something to judge its value
+> **📖 Etymology Story:** Từ Latin 'assidere' (ngồi bên cạnh) → hình ảnh người giám khảo ngồi cạnh để đánh giá → assessment = quá trình đánh giá chính thức
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[assessment]] /əˈsesmənt/
+> - **Verb:** [[assess]] /əˈses/
+> - **Noun:** [[assessor]] /əˈsesə/ (người đánh giá)
+> - **Related:** [[access]] /ˈæses/ (truy cập)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[evaluation]] /ɪˌvæljuˈeɪʃn/ : Overall judgment of value
+> - [[appraisal]] /əˈpreɪzl/ : Professional assessment
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[assumption]] /əˈsʌmpʃn/ : Taking something for granted
+> - [[guesswork]] /ˈɡeswɜːk/ : Estimation without evidence
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. formative assessment
+> 2. risk assessment
+> 3. needs assessment
+>
+> **1. Educational Context**
+> - **Sentence:** The final assessment will account for 40% of your overall grade.
+> - **Translation:** Bài đánh giá cuối kỳ sẽ chiếm 40% tổng điểm của bạn.
+>
+> **2. Business Context**
+> - **Sentence:** We conducted a thorough assessment of the market before launching our product.
+> - **Translation:** Chúng tôi đã tiến hành một cuộc đánh giá kỹ lưỡng thị trường trước khi ra mắt sản phẩm.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Assessment vs Access**
+> - ❌ **Mistake:** I need assessment to the online resources.
+> - ✅ **Correction:** I need access to the online resources. / I need to complete the assessment.
+> - **Why:** Assessment = đánh giá, Access = truy cập
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Assessment is not about you as a teacher; it is about your students' learning."
+> **Source:** [[Anonymous Educator]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **assessment** (*/əˈsesmənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A formal process of evaluating or judging the quality, importance, or value of something
+> 🇻🇳 **Vietnamese:** Quá trình đánh giá chính thức chất lượng, tầm quan trọng hoặc giá trị của cái gì đó
+> 🗣️ **IPA:** */əˈsesmənt/*
+> 🧠 **Mental Model:** Quy trình có hệ thống để đo lường và phán quyết - như kỳ thi, bài kiểm tra, hay thẩm định chuyên gia
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The evaluation or estimation of the nature, quality, or ability of someone or something"
+**Vietnamese:** Việc đánh giá hoặc ước tính bản chất, chất lượng hoặc năng lực của ai đó hoặc cái gì đó
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**assessment** (*/əˈsesmənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **assessment** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The environmental impact assessment revealed potential risks to local wildlife habitats.
+> 🇻🇳 **Translation:** Bài đánh giá tác động môi trường đã tiết lộ các rủi ro tiềm ẩn đối với môi trường sống của động vật hoang dã địa phương.
+> 🔍 **Analysis:** "assessment" thể hiện một cuộc đánh giá có hệ thống, chuyên nghiệp, không phải quan điểm chủ quan
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **assessment**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Educational:** formative assessment (đánh giá quá trình)
+> 2. **Business:** risk assessment (đánh giá rủi ro)
+> 3. **Planning:** needs assessment (khảo sát nhu cầu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **assessment**:
+"We need to check the students' progress."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We need to design a comprehensive assessment strategy to measure student learning outcomes."
+> 💡 **Why it works:** "assessment" chuyên nghiệp hóa quá trình kiểm tra, thể hiện phương pháp luận giáo dục có hệ thống
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **assessment** instead of **[[test]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **assessment:** Quá trình đánh giá toàn diện, nhiều phương pháp, kéo dài
+> **test:** Kỳ kiểm tra cụ thể, thường là viết, thời gian giới hạn
+> 🧱 **The Barrier:** assessment là bức tranh toàn cảnh, test chỉ là một phần của bức tranh đó
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a teacher explaining your grading system to new students. You need to emphasize fairness. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Your final grade will be based on multiple assessments throughout the semester, ensuring a fair evaluation of your progress."
+> 👨‍🎨 **Director's Note:** "assessments" thể hiện tính đa dạng và công bằng trong đánh giá, không chỉ dựa vào một bài thi
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root 'assidere' to the meaning of **assessment**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'assidere' (ngồi bên cạnh) → hình ảnh chuyên gia ngồi cạnh để quan sát, phân tích → assessment = quá trình đánh giá kỹ lưỡng dựa trên quan sát gần
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **assessment**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin 'assidere' (to sit beside, assist in the judgment of)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[assess]] (đánh giá)
+> - *(noun)* [[assessor]] (người thẩm định)
+> - *(noun)* [[session]] (phiên họp - liên quan đến 'sit')
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈsesmənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**assessment**
+> 📖 **Meaning:** A formal evaluation process
+> 🇻🇳 **Vietnamese:** Quá trình đánh giá chính thức
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **assessment**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "We did an assessment of the situation quickly."
+> ✅ **Correction:** "We conducted an assessment of the situation." OR "We quickly assessed the situation."
+> 🧱 **Why:** "Assessment" là danh từ chỉ quá trình, cần động từ phù hợp như "conduct/perform/carry out". Hoặc dùng động từ "assess" để diễn tả hành động
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **assessment**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[assumption]] (sự giả định)
+> - [[neglect]] (sự bỏ qua, phớt lờ)
+> 🧱 **Contrast:** Assessment là đánh giá có cơ sở, assumption là chấp nhận mà không cần bằng chứng; assessment là quan tâm cẩn thận, neglect là bỏ qua
 
 ---

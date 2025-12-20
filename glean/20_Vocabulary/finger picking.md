@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/arts-architecture/art-forms
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [fingerpicking, fingerstyle, plucking strings, guitar picking]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfɪŋɡər ˈpɪkɪŋ/
+> **Part of Speech:** noun phrase/verb phrase
+> **CEFR Level:** B1
+> **Register:** musical/technical
+> **Etymology:** Compound of "finger" + "picking" (from "pick" - to select or pluck)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Using fingers to choose or pluck strings
+>
+> **Context Meaning:** A guitar playing technique where individual strings are plucked with fingers instead of using a pick, creating intricate melodies and harmonies
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** gảy bằng ngón tay
+> - **Contextual:** kỹ thuật gảy ngón tay, fingerstyle, đàn gảy tay
+>
 > **Nuances:**
-> - ...
+> - Allows simultaneous bass and melody lines
+> - Creates a fuller, more complex sound
+> - Common in folk, blues, and acoustic music
+> - Requires significant finger independence and skill
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Artistic, Skillful, Intricate
+> **Memory Hook:** Imagine your fingers dancing across guitar strings like spiders weaving a web - that's finger picking
+> **📖 Etymology Story:** From literal "picking" strings with fingers - like choosing each string individually to create music, evolved into a sophisticated technique
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[finger]] /ˈfɪŋɡər/, [[picking]] /ˈpɪkɪŋ/, [[guitar]] /ɡɪˈtɑːr/
+> - **Verb:** [[pick]] /pɪk/, [[fingerpick]] /ˈfɪŋɡərpɪk/
+> - **Adj:** [[fingerpicked]] /ˈfɪŋɡərpɪkt/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[fingerstyle]] /ˈfɪŋɡərstaɪl/ : Modern term
+> - [[plucking]] /ˈplʌkɪŋ/ : More general
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[strumming]] /ˈstrʌmɪŋ/ : Brushing strings
+> - [[flatpicking]] /ˈflætpɪkɪŋ/ : Using a pick
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Master finger picking
+> 2. Finger picking pattern
+> 3. Learn finger picking
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The guitarist amazed the audience with her intricate finger picking technique.
+> - **Translation:** Tay guitar đã làm khán giả kinh ngạc với kỹ thuật gảy bằng ngón tay tinh xảo của cô.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Finger picking requires years of practice to achieve finger independence.
+> - **Translation:** Kỹ thuật gảy bằng ngón tay đòi hỏi nhiều năm luyện tập để đạt được sự độc lập của các ngón tay.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Compound Word**
+> - ❌ **Mistake:** fingerpicking (as two words)
+> - ✅ **Correction:** fingerpicking (one word) OR finger picking (two words)
+> - **Why:** Can be one word (fingerpicking) or two (finger picking), but consistency matters
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Finger picking transforms the guitar into a one-person orchestra."
+> **Source:** [[Guitar World Magazine]]
 
 ---
 
@@ -161,121 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **finger picking** (*/ˈfɪŋɡər ˈpɪkɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A guitar technique of plucking strings with fingers instead of a pick
+> 🇻🇳 **Vietnamese:** Kỹ thuật gảy bằng ngón tay
+> 🗣️ **IPA:** */ˈfɪŋɡər ˈpɪkɪŋ/*
+> 🧠 **Mental Model:** Using fingers separately + pluck individual strings = create complex melodies và harmonies
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A guitar technique of plucking strings with fingers instead of a pick"
+**Vietnamese:** Kỹ thuật gảy bằng ngón tay
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**finger picking** (*/ˈfɪŋɡər ˈpɪkɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **finger picking** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The folk musician's gentle finger picking created a soothing atmosphere in the coffee shop.
+> 🇻🇳 **Translation:** Kỹ thuật gảy nhẹ nhàng bằng ngón tay của nhạc sĩ dân gian đã tạo ra không khí yên ả trong quán cà phê.
+> 🔍 **Analysis:** Perfect ở đây vì nó shows artistic technique creating mood - "finger picking" emphasizes sophisticated, delicate playing style
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **finger picking**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Skill Level:** master/learn/practice finger picking (VD: thành thạo/học/luyện tập finger picking)
+> 2. **Pattern:** finger picking pattern/style/technique (VD: khuôn mẫu/phong cách/kỹ thuật)
+> 3. **Instrument:** guitar/finger picking (VD: guitar finger picking)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **finger picking**:
+"He played the guitar well."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He mesmerized the crowd with his intricate finger picking on the acoustic guitar."
+> 💡 **Why it works:** "Finger picking" adds specific technical skill và artistry - readers understand sophisticated guitar technique
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **finger picking** instead of **playing guitar**?
+>
+> **finger picking:** Specific advanced technique, creates complex sound, requires skill (VN: kỹ thuật cụ thể, phức tạp)
+> **playing guitar:** General term, can be any method, includes simple strumming (VN: chung chung, có thể đơn giản)
+> 🧱 **The Barrier:** Specific advanced technique vs general activity
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a open mic night. Someone asks about your guitar style. You feel proud of your skill. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I specialize in finger picking - it allows me to play bass and melody together!"
+> 👨‍🎨 **Director's Note:** Shows expertise và musical knowledge - "finger picking" indicates advanced technical ability
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `finger` + `picking` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From literally "picking" strings with fingers - like carefully selecting each string to pluck, evolved into sophisticated technique creating music with fingertips
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **finger picking**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** English `[compound]` (finger + pick)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[finger]] /ˈfɪŋɡər/
+> - *(verb)* [[pick]] /pɪk/
+> - *(verb)* [[fingerpick]] /ˈfɪŋɡərpɪk/
+> - *(adj)* [[fingerpicked]] /ˈfɪŋɡərpɪkt/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfɪŋɡər ˈpɪkɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**finger picking**
+> 📖 **Meaning:** Guitar technique using fingers to pluck strings
+> 🇻🇳 **Vietnamese:** Kỹ thuật gảy bằng ngón tay
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
-?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+🕵️ **Fix the Error:** Common mistake with **finger picking**?
+>
+> ❌ **Mistake:** "He plays fingerpicking good" (incorrect grammar)
+> ✅ **Correction:** "He plays finger picking well" OR "His fingerpicking is good"
+> 🧠 **Why:** "Finger picking" is a noun phrase/technique - needs proper grammar structure
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+↔️ **Flip:** What is the opposite technique to **finger picking**?
+>
+> **Opposite Techniques:**
+> - [[strumming]] /ˈstrʌmɪŋ/ (brushing strings with pick)
+> - [[flatpicking]] /ˈflætpɪkɪŋ/ (using single pick)
+> 🧱 **Contrast: Individual finger plucking vs brush/pick playing**

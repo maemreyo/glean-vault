@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/psychology-behavior/cognitive-science
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [panic, panicked, panics]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈpænɪkɪŋ/
+> **Part of Speech:** verb/adjective
+> **CEFR Level:** B2
+> **Register:** neutral/informal
+> **Etymology:** Greek "panikon" (related to Pan, the god of nature who caused sudden fear)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To suddenly feel frightened and act hastily
+>
+> **Context Meaning:** To be overwhelmed by sudden fear or anxiety, often resulting in irrational or uncontrolled behavior
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Hoảng loạn, hoảng sợ
+> - **Contextual:** Lo sợ tột độ, hoảng hốt
+>
 > **Nuances:**
-> - ...
+> - Often implies loss of rational thinking
+> - Can be physical (shortness of breath, racing heart)
+> - Usually a temporary but intense state
+> - Sometimes used informally for minor stress
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Fearful, Urgent, Overwhelmed
+> **Memory Hook:** "Pan" + "ic" + "king" - imagine a king suddenly panicking on his throne
+> **📖 Etymology Story:** From Greek "panikon" meaning "pertaining to Pan." In Greek mythology, Pan was the god of nature who could suddenly cause groundless fear in crowds and travelers, especially in lonely places. This irrational terror came to be called "panic" - a fear that comes from nowhere and overwhelms reason.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[panic]] /ˈpænɪk/
+> - **Verb:** [[panic]] /ˈpænɪk/, [[panicking]] /ˈpænɪkɪŋ/
+> - **Adj:** [[panicked]] /ˈpænɪkt/, [[panicky]] /ˈpænɪki/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[freaking out]] /friːkɪŋ aʊt/ : informal for losing control
+> - [[terrified]] /ˈterɪfaɪd/ : extremely frightened
+> - [[hysterical]] /hɪˈsterɪkl/ : overwhelmed with emotion
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[calm]] /kɑːm/ : peaceful and untroubled
+> - **composed** /kəmˈpəʊzd/ : calm and in control
+> - **rational** /ˈræʃnəl/ : based on reason
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. stop panicking
+> 2. don't panic
+> 3. panicking about
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She was panicking about losing her passport before the flight.
+> - **Translation:** Cô ấy đang hoảng loạn vì làm mất hộ chiếu trước chuyến bay.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The students started panicking when they realized the exam was tomorrow.
+> - **Translation:** Sinh viên bắt đầu hoảng hốt khi nhận ra kỳ thi là ngày mai.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling**
+> - ❌ **Mistake:** I was panicing about the test.
+> - ✅ **Correction:** I was panicking about the test.
+> - **Why:** Need double 'n' + 'k' + 'ing' when adding -ing to panic.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Stop panicking - we'll find a solution to this problem together."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **panicking** (*/ˈpænɪkɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To be overwhelmed by sudden fear or anxiety, often resulting in irrational behavior
+> 🇻🇳 **Vietnamese:** Đang hoảng loạn, hoảng sợ tột độ
+> 🗣️ **IPA:** */ˈpænɪkɪŋ/*
+> 🧠 **Mental Model:** Trạng thái sợ hãi đột ngột mất kiểm soát - không suy nghĩ lý trí, chỉ hành động theo cảm tính
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To be overwhelmed by sudden fear or anxiety"
+**Vietnamese:** Hoảng loạn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**panicking** (*/ˈpænɪkɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **panicking** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new driver was panicking when he couldn't find the brakes in the heavy rain.
+> 🇻🇳 **Translation:** Tài xế mới đang hoảng loạn khi không tìm thấy phanh trong cơn mưa lớn.
+> 🔍 **Analysis:** "Panicking" hoàn hảo ở đây vì nó thể hiện sự sợ hãi tột độ, mất kiểm soát trong tình huống nguy hiểm
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **panicking**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Prevention:** stop panicking (<VN note> ngừng hoảng loạn)
+> 2. **Command:** don't panic (<VN note> đừng hoảng sợ)
+> 3. **Cause:** panicking about (<VN note> hoảng loạn vì điều gì)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **panicking**:
+"She was very worried about the presentation."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She was panicking about the presentation when her laptop crashed five minutes before."
+> 💡 **Why it works:** "Panicking" tạo cảm giác cấp bách, mất kiểm soát, mạnh hơn "worried" rất nhiều
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **panicking** instead of **worrying**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **panicking:** <Sudden, intense, irrational fear - sợ hãi đột ngột, mất lý trí>
+> **worrying:** <Prolonged concern, often rational - lo lắng kéo dài, thường có lý>
+> 🧱 **The Barrier:** "Panicking" là cấp độ tối đa của fear, "worrying" là level trung bình. Panicking = action now, worrying = thinking too much
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see someone running around frantically looking for their phone. You feel concerned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Calm down! Stop panicking - let's retrace your steps."
+> 👨‍🎨 **Director's Note:** Cách nói tự nhiên khi ai đó đang hoảng loạn, vừa trấn an vừa đưa ra giải pháp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `panikon` to the meaning of **panicking**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Greek "panikon" (liên quan đến thần Pan), vị thần có thể gây nỗi sợ vô cớ - panicking là cảm giác sợ hãi đến từ không nơi nào
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **panicking**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `panikon` (pertaining to Pan, sudden fear)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[panic]]
+> - *(adj)* [[panicked]], [[panicky]]
+> - *(verb)* [[panic]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈpænɪkɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**panicking**
+> 📖 **Meaning:** To be overwhelmed by sudden fear or anxiety
+> 🇻🇳 **Vietnamese:** Đang hoảng loạn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **panicking**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Everyone was panicing during the fire drill.
+> ✅ **Correction:** Everyone was panicking during the fire drill.
+> 🧠 **Why:** Panic + ing = panicking (cần giữ 'k' và thêm 'n' trước 'ing') - đây là spelling rule đặc biệt
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **panicking**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[staying calm]] (Maintaining composure)
+> - [[thinking rationally]] (Logical consideration)
+> 🧱 **Contrast:** "Panicking" là mất kiểm soát hoàn toàn, "staying calm" là giữ bình tĩnh có chủ đích
 
 ---

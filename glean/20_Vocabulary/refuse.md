@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
 #flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [refusal, refused, refusing, rejects, rejection, waste, garbage, trash, debris]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈfjuːz/ (verb) /ˈrefjuːs/ (noun)
+> **Part of Speech:** verb/noun
+> **CEFR Level:** B1
+> **Register:** formal/neutral
+> **Etymology:** From Old French 'refuser', from Latin 'refusare' 'to refuse'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To decline to accept or do something
+>
+> **Context Meaning:**
+> - (Verb): To say no to a request or offer; to throw away as worthless
+> - (Noun): Waste material or garbage
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** từ chối (verb), rác thải (noun)
+> - **Contextual:** phế liệu, đồ bỏ đi, rác
+>
 > **Nuances:**
-> - ...
+> - Two different pronunciations for verb vs noun
+> - Can mean both 'reject' and 'trash' depending on context
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Definitive, Decisive, Discarding
+> **Memory Hook:** Re-fuse = "again" + "pour" = pour away again = throw away as waste
+> **📖 Etymology Story:** Từ Latin 're-' (lui lại, chống lại) + 'fundere' (đổ) → refuse = chống lại việc chấp nhận, hoặc đổ đi như thứ vô dụng
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[refuse]] /ˈrefjuːs/ (rác thải)
+> - **Verb:** [[refuse]] /rɪˈfjuːz/ (từ chối)
+> - **Noun:** [[refusal]] /rɪˈfjuːzl/ (sự từ chối)
+> - **Verb:** [[reject]] /rɪˈdʒekt/ (từ chối, loại bỏ)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[decline]] /dɪˈklaɪn/ : Polite refusal
+> - [[reject]] /rɪˈdʒekt/ : Stronger refusal
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[accept]] /əkˈsept/ : Willing to receive
+> - [[recycle]] /riːˈsaɪkl/ : To process waste for reuse
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. refuse collection
+> 2. refuse to accept
+> 3. household refuse
+>
+> **1. Environmental Context (Noun)**
+> - **Sentence:** The city implemented a new system for sorting household refuse into recyclable and non-recyclable categories.
+> - **Translation:** Thành phố đã triển khai hệ thống mới để phân loại rác thải sinh hoạt thành các danh mục tái chế và không tái chế.
+>
+> **2. Social Context (Verb)**
+> - **Sentence:** She had to refuse the job offer due to personal reasons.
+> - **Translation:** Cô ấy đã phải từ chối lời đề nghị công việc vì lý do cá nhân.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Pronunciation**
+> - ❌ **Mistake:** I will /ˈrefjuːs/ your offer.
+> - ✅ **Correction:** I will /rɪˈfjuːz/ your offer. The noun has stress on first syllable, verb on second
+> - **Why:** Stress pattern changes: RE-fuse (noun) vs re-FUSE (verb)
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "One person's trash is another person's treasure."
+> **Source:** [[Proverb]]
 
 ---
 
@@ -161,121 +82,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **refuse** (*/rɪˈfjuːz/* - verb, */ˈrefjuːs/* - noun) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:**
+> (verb): To decline to accept or do something
+> (noun): Waste material or garbage
+> 🇻🇳 **Vietnamese:** (động từ): từ chối, không chấp nhận; (danh từ): rác thải, đồ bỏ đi
+> 🗣️ **IPA:** verb */rɪˈfjuːz/*, noun */ˈrefjuːs/*
+> 🧠 **Mental Model:** Một từ hai nghĩa: hành động nói 'KHÔNG' hoặc những thứ bị BỎ ĐI
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Waste material that has been thrown away" OR "To indicate or show that one is not willing to do something"
+**Vietnamese:** Chất thải đã bị vứt đi HOẶC Cho thấy hoặc bày tỏ rằng không sẵn lòng làm gì đó
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**refuse** (*/ˈrefjuːs/* noun, */rɪˈfjuːz/* verb)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **refuse** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The construction company was fined for illegally dumping industrial refuse near the river.
+> 🇻🇳 **Translation:** Công ty xây dựng bị phạt vì đổ rác thải công nghiệp trái phép gần sông.
+> 🔍 **Analysis:** "refuse" (noun) ở đây có nghĩa là rác thải, trang trọng hơn "garbage" hay "trash"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **refuse**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Environmental:** refuse collection (thu gom rác thải)
+> 2. **Social Action:** refuse to comply (từ chối tuân thủ)
+> 3. **Material Type:** household refuse (rác thải sinh hoạt)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **refuse**:
+"They threw away the old materials."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The construction site systematically sorted their refuse for proper disposal and recycling."
+> 💡 **Why it works:** "refuse" chuyên nghiệp hóa việc xử lý rác, thể hiện quy trình quản lý có hệ thống
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **refuse** instead of **[[garbage]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **refuse:** Trang trọng, kỹ thuật, dùng trong ngữ cảnh quản lý môi trường, quy định
+> **garbage:** Thông thường, hàng ngày, dùng trong giao tiếp thông thường
+> 🧱 **The Barrier:** refuse là ngôn ngữ chính thức/học thuật, garbage là ngôn ngữ đời thường
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at an environmental meeting discussing waste management. You need to emphasize proper disposal. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We must implement a comprehensive refuse management system to reduce our environmental footprint."
+> 👨‍🎨 **Director's Note:** "refuse" thể hiện tính chuyên nghiệp và nghiêm túc trong việc quản lý môi trường
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root 'refusare' to both meanings of **refuse**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'refusare' (đẩy lùi, chống lại) → phát triển thành hai nghĩa: (1) đẩy lùi đề nghị = từ chối, (2) đẩy lùi thứ vô dụng = vứt đi, bỏ đi
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **refuse**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin 'refusare' (to refuse)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[refusal]] (sự từ chối)
+> - *(noun)* [[refugee]] (người tỵ nạn - liên quan đến 'flee/escape')
+> - *(verb)* [[confuse]] (gây khó hiểu)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈfjuːz/ (verb) - /ˈrefjuːs/ (noun)*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**refuse**
+> 📖 **Meaning:** To decline/waste material
+> 🇻🇳 **Vietnamese:** Từ chối/rác thải
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **refuse**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Please take out the refuse" (pronounced as /rɪˈfjuːz/)
+> ✅ **Correction:** "Please take out the refuse" (pronounced as /ˈrefjuːs/)
+> 🧠 **Why:** Khi "refuse" có nghĩa là "rác", trọng âm rơi vào âm tiết đầu tiên (RE-fuse). Khi là động từ "từ chối", trọng âm rơi vào âm tiết thứ hai (re-FUSE)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **refuse**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - **(verb)** [[accept]] (chấp nhận)
+> - **(noun)** [[treasure]] (kho báu, đồ quý)
+> 🧱 **Contrast:** Từ chối vs Chấp nhận; Rác thải vs Đồ quý giá
 
 ---

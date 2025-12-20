@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
 #flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [lifeboat crew, rescue volunteer, maritime volunteer, sea rescue volunteer]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈlaɪfboʊt ˌvɒlənˈtɪər/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** formal/descriptive
+> **Etymology:** Compound of "life" (Old English "līf") + "boat" (Old Norse "båt") + "volunteer" (French "volontaire")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A person who willingly helps with life-saving boats
+>
+> **Context Meaning:** Someone who voluntarily serves on a lifeboat crew, risking their safety to rescue people in danger at sea
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tình nguyện viên cứu hộ tàu
+> - **Contextual:** người tình nguyện cứu sinh trên biển, tình nguyện viên tàu cứu sinh
+>
 > **Nuances:**
-> - ...
+> - Implies bravery and selflessness
+> - Often highly trained despite being unpaid
+> - Critical part of maritime emergency services worldwide
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Heroic, Brave, Selfless
+> **Memory Hook:** Imagine someone running toward danger when everyone else runs away - that's the spirit of a lifeboat volunteer
+> **📖 Etymology Story:** Old English "līf" (life) + Norse "båt" (boat) + French "volontaire" (voluntary) - literally someone who willingly offers their life to save others with boats
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[lifeboat]] /ˈlaɪfboʊt/, [[volunteer]] /ˌvɒlənˈtɪər/, [[rescue]] /ˈreskjuː/
+> - **Verb:** [[volunteer]] /ˈvɒləntɪər/, [[rescue]] /ˈreskjuː/
+> - **Adj:** [[voluntary]] /ˈvɒləntəri/, [[life-saving]] /ˈlaɪfseɪvɪŋ/
+> - **Adv:** [[voluntarily]] /ˈvɒləntərəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[rescue worker]] /ˈreskjuː wɜːrkər/ : More general
+> - [[sea rescuer]] /siː ˈreskjuːər/ : Focus on sea
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms - it's a specific role
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Become a lifeboat volunteer
+> 2. Lifeboat volunteer crew
+> 3. Brave lifeboat volunteer
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The lifeboat volunteer risked his life to save the stranded sailors.
+> - **Translation:** Tình nguyện viên cứu hộ tàu đã liều mạng để cứu những thủy thủ mắc kẹt.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She trains every weekend as a lifeboat volunteer for the coastal rescue service.
+> - **Translation:** Cô ấy tập luyện mỗi cuối tuần với tư cách là tình nguyện viên cứu hộ tàu cho dịch vụ cứu hộ ven biển.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Order**
+> - ❌ **Mistake:** volunteer lifeboat
+> - ✅ **Correction:** lifeboat volunteer
+> - **Why:** "Lifeboat" acts as adjective describing type of volunteer
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The courage of a lifeboat volunteer cannot be measured - they face what others flee."
+> **Source:** [[Maritime Heroes]]
 
 ---
 
@@ -161,121 +80,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a lifeboat volunteer** (*/ə ˈlaɪfboʊt ˌvɒlənˈtɪər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Someone who voluntarily serves on a lifeboat crew to rescue people at sea
+> 🇻🇳 **Vietnamese:** Tình nguyện viên cứu hộ tàu
+> 🗣️ **IPA:** */ə ˈlaɪfboʊt ˌvɒlənˈtɪər/*
+> 🧠 **Mental Model:** Person + boat + saving lives + no pay = heroic selfless service
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Someone who voluntarily serves on a lifeboat crew to rescue people at sea"
+**Vietnamese:** Tình nguyện viên cứu hộ tàu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a lifeboat volunteer** (*/ə ˈlaɪfboʊt ˌvɒlənˈtɪər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a lifeboat volunteer** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The lifeboat volunteer received a medal for bravery during the storm rescue.
+> 🇻🇳 **Translation:** Tình nguyện viên cứu hộ tàu đã nhận được huy chương vì lòng dũng cảm trong cuộc giải cứu trong bão.
+> 🔍 **Analysis:** Perfect ở đây vì nó shows recognition of heroic action - "lifeboat volunteer" emphasizes voluntary courage trong dangerous situations
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a lifeboat volunteer**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Role:** become/train as/work as a lifeboat volunteer (VD: trở thành/đào tạo/làm tình nguyện viên cứu hộ)
+> 2. **Action:** a lifeboat volunteer rescues/helps/saves (VD: tình nguyện viên cứu hộ giải cứu/giúp đỡ/cứu)
+> 3. **Quality:** brave/dedicated/skilled lifeboat volunteer (VD: tình nguyện viên dũng cảm/tận tâm/ có kỹ năng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a lifeboat volunteer**:
+"Someone helped save people from the water."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The lifeboat volunteer pulled three survivors from the churning sea."
+> 💡 **Why it works:** "A lifeboat volunteer" adds heroic identity và specific role - readers understand trained rescuer facing danger
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a lifeboat volunteer** instead of **a helper**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a lifeboat volunteer:** Specifically trained, unpaid, risking life for maritime rescue (VN: chuyên nghiệp cứu hộ biển)
+> **a helper:** General assistance, no specific training or risk implied (VN: người giúp đỡ chung chung)
+> 🧱 **The Barrier:** Professional life-saving role vs general assistance
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see someone struggling in rough water. You have training. You feel duty-bound. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "As a lifeboat volunteer, I'm trained for this - let me help!"
+> 👨‍🎨 **Director's Note:** Shows professional responsibility và readiness - "lifeboat volunteer" indicates expertise and authority
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `life` + `boat` + `volunteer` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "līf" (life) + Norse "båt" (boat) + French "volontaire" (voluntary) - someone who willingly offers their time, skills, and risks their life to save others on water
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a lifeboat volunteer**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** English `[compound]` (life + boat + volunteer)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[lifeboat]] /ˈlaɪfboʊt/
+> - *(noun)* [[volunteer]] /ˌvɒlənˈtɪər/
+> - *(verb)* [[rescue]] /ˈreskjuː/
+> - *(adj)* [[life-saving]] /ˈlaɪfseɪvɪŋ/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈlaɪfboʊt ˌvɒlənˈtɪər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a lifeboat volunteer**
+> 📖 **Meaning:** Person who voluntarily rescues people at sea
+> 🇻🇳 **Vietnamese:** Tình nguyện viên cứu hộ tàu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a lifeboat volunteer**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The volunteer lifeboat arrived" (word order)
+> ✅ **Correction:** "The lifeboat volunteer arrived" OR "The lifeboat arrived"
+> 🧠 **Why:** "Lifeboat volunteer" = person, "lifeboat" = boat - don't mix
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What might oppose **a lifeboat volunteer** in their work?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> **Opposing Forces:**
+> - [[rough seas]] /rʌf siːz/ (natural danger)
+> - [[panic victims]] /ˈpænɪk ˈvɪktɪmz/ (challenges in rescue)
+> 🧱 **Contrast: Rescue efforts vs dangers and challenges**

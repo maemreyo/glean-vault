@@ -1,159 +1,84 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [stained, staining, stains]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /steɪn/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Old English "staignan" (to discolor)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To mark or discolor with something difficult to remove
+>
+> **Context Meaning:** A mark that is difficult to remove; to permanently damage or affect something negatively
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Vết ố, vết bẩn
+> - **Contextual:** Vết loang, làm hỏng, vết nhơ
+>
 > **Nuances:**
-> - ...
+> - Often implies something permanent or hard to clean
+> - Can be physical (coffee stain) or metaphorical (stain on reputation)
+> - Suggests unwanted marking or damage
+> - Can be used for emotions (stained with guilt)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Marking, Damaging, Persistent
+> **Memory Hook:** "Stain" sounds like "stay in" - the mark stays in the material
+> **📖 Etymology Story:** From Old English "staignan" meaning to discolor or lose brightness. Like a wine stain that permanently marks white fabric, the word captures the essence of unwanted, lasting marks. Just as ancient dye-makers learned to create permanent colors, "stain" evolved to represent any mark that refuses to be easily removed.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[stain]] /steɪn/, [[stainless]] /ˈsteɪnləs/
+> - **Verb:** [[stain]] /steɪn/, [[staining]] /ˈsteɪnɪŋ/
+> - **Adj:** [[stained]] /steɪnd/, [[stainless]] /ˈsteɪnləs/, [[staining]] /ˈsteɪnɪŋ/
+> - **Adv:** [[stainlessly]] /ˈsteɪnləsli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[mark]] /mɑːk/ : a visible trace or impression
+> - [[spot]] /spɒt/ : a small mark different from its surface
+> - [[blemish]] /ˈblemɪʃ/ : a small mark that spoils appearance
+> - [[taint]] /teɪnt/ : contaminate or corrupt
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[clean]] /kliːn/ : free from dirt or marks
+> - [[pure]] /pjʊə/ : not mixed with anything else
+> - [[spotless]] /ˈspɒtləs/ : perfectly clean
+> - [[stainless]] /ˈsteɪnləs/ : resistant to staining
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. coffee stain
+> 2. stain removal
+> 3. stained glass
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The coffee left a dark stain on my new white shirt.
+> - **Translation:** Cà phê để lại vết ố sẫm trên áo sơ mi trắng mới của tôi.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The scandal stained his reputation permanently.
+> - **Translation:** Vụ bê bối đã làm tổn hại danh tiếng của anh ấy vĩnh viễn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition**
+> - ❌ **Mistake:** The shirt is stained with coffee.
+> - ✅ **Correction:** The shirt has a coffee stain.
+> - **Why:** While "stained with" is grammatically correct, "has a [substance] stain" is more natural.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Blood stains are the most difficult to remove from fabric."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +86,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **stain** (*/steɪn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A mark that is difficult to remove; to permanently discolor or affect something
+> 🇻🇳 **Vietnamese:** Vết ố, vết bẩn khó tẩy; làm hỏng, làm tổn hại
+> 🗣️ **IPA:** */steɪn/*
+> 🧠 **Mental Model:** Vết mark không thể xóa dễ dàng - như vết cà phê trên áo trắng, hoặc vết nhơ trên danh tiếng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A mark that is difficult to remove or clean"
+**Vietnamese:** Vết ố
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**stain** (*/steɪn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **stain** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The red wine stain on the carpet wouldn't come out no matter how hard I tried.
+> 🇻🇳 **Translation:** Vết ố rượu vang trên thảm không thể tẩy ra dù tôi đã cố gắng rất nhiều.
+> 🔍 **Analysis:** "Stain" hoàn hảo ở đây vì nó nhấn mạnh vết mark cứng đầu, khó xử lý, không phải là bẩn thông thường
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **stain**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Food/Drink:** coffee/blood/wine stain (<VN note> vết ố cà phê/máu/rượu)
+> 2. **Removal:** stain remover (<VN note> chất tẩy vết ố)
+> 3. **Material:** stained glass (<VN note> kính màu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **stain**:
+"The shirt got dirty from the grass."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The grass stain on my white shorts refused to wash out after the picnic."
+> 💡 **Why it works:** "Stain" tạo cảm giác vết mark cứng đầu, khó tẩy, mạnh hơn "dirty" rất nhiều
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **stain** instead of **dirt**?
+>
+> **stain:** <Discoloration that's difficult to remove - vết ố khó tẩy>
+> **dirt:** <General soiling that can be cleaned easily - bẩn thông thường>
+> 🧱 **The Barrier:** "Stain" là permanent/near-permanent mark, "dirt" là temporary. Mud is dirt, blood is stain
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You just spilled something on your friend's new shirt. You feel panicked. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Oh no! I think I've stained your shirt with this ink!"
+> 👨‍🎨 **Director's Note:** Cách nói tự nhiên khi làm đổ bẩn thứ gì đó, dùng stain để thể hiện sự lo lắng về vết mark vĩnh viễn
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `staignan` to the meaning of **stain**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English "staignan" (làm mất màu), stain là vết mark làm thay đổi màu sắc vĩnh viễn - như thuốc nhuộm làm đổi màu vải
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **stain**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `staignan` (to discolor)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[stainless]]
+> - *(noun)* [[stainlessness]]
+> - *(verb)* [[restrain]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */steɪn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**stain**
+> 📖 **Meaning:** A mark that is difficult to remove or clean
+> 🇻🇳 **Vietnamese:** Vết ố
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **stain**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** This material doesn't stain easy.
+> ✅ **Correction:** This material doesn't stain easily.
+> 🧠 **Why:** "Stain" là verb, cần adverb "easily" không phải adjective "easy" - đây là lỗi phần phổ biến với verb/adverb
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **stain**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[clean]] (Free from marks)
+> - [[stainless]] (Resistant to staining)
+> 🧱 **Contrast:** "Stain" là vết mark khó tẩy, "stainless" là khả năng chống lại vết ố, "clean" là trạng thái sạch sẽ
 
 ---

@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/fashion/appearance
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [ankle boots, booties, high-ankle boots, shoe boots]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈæŋkəl buːt/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A2
+> **Register:** casual/fashion
+> **Etymology:** Compound of "ankle" (Latin "ancula" - little hook) + "boot" (Old French "bote")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A boot that reaches the ankle
+>
+> **Context Meaning:** A footwear style that covers the foot and extends up to the ankle bone, providing both style and protection
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bốt cổ chân
+> - **Contextual:** bốt ngang cổ chân, giày bốt cổ thấp
+>
 > **Nuances:**
-> - ...
+> - Versatile footwear suitable for various seasons
+> - Can be flat, heeled, or wedged
+> - Popular in both casual and formal fashion
+> - Provides ankle support and warmth
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Stylish, Practical, Versatile
+> **Memory Hook:** Imagine shoes that say "hello" to your ankle bone - that's exactly where ankle boots end
+> **📖 Etymology Story:** Latin "ancula" (little hook - ankle bone shape) + French "bote" (boot) - literally a boot that hooks around your ankle bone
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[ankle]] /ˈæŋkəl/, [[boot]] /buːt/, [[footwear]] /ˈfʊtwer/
+> - **Verb:** N/A
+> - **Adj:** [[ankle-high]] /ˈæŋkəlhaɪ/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[booties]] /ˈbuːtiz/ : More casual
+> - [[shoe boots]] /ʃuː buːts/ : Hybrid style
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[sandals]] /ˈsændlz/ : Open footwear
+> - [[flip-flops]] /ˈflɪp flɒps/ : Minimal coverage
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Wear ankle boots
+> 2. Leather ankle boots
+> 3. Pair of ankle boots
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She paired her dress with black leather ankle boots for a chic look.
+> - **Translation:** Cô ấy phối chiếc váy với đôi bốt cổ chân da màu đen để tạo vẻ ngoài thời trang.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The hiking ankle boots provided excellent support on the rough trail.
+> - **Translation:** Đôi bốt cổ chân đi bộ đã cung cấp sự hỗ trợ tuyệt vời trên con đường mòn gồ ghề.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural Form**
+> - ❌ **Mistake:** ankle boot
+> - ✅ **Correction:** ankle boots (for plural)
+> - **Why:** Need to add "s" for plural, it's a compound noun
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A good pair of ankle boots can take you from season to season in style."
+> **Source:** [[Fashion Magazine]]
 
 ---
 
@@ -161,121 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **ankle boot** (*/ˈæŋkəl buːt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A footwear style that covers the foot and extends up to the ankle bone
+> 🇻🇳 **Vietnamese:** Bốt cổ chân
+> 🗣️ **IPA:** */ˈæŋkəl buːt/*
+> 🧠 **Mental Model:** Shoe + extends to ankle bone = stylish practical footwear between shoes và tall boots
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A footwear that covers the foot and extends up to the ankle"
+**Vietnamese:** Bốt cổ chân
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**ankle boot** (*/ˈæŋkəl buːt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **ankle boot** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The designer ankle boots became the season's most sought-after fashion item.
+> 🇻🇳 **Translation:** Đôi bốt cổ chân của nhà thiết kế đã trở thành mục tiêu thời trang được tìm kiếm nhiều nhất trong mùa.
+> 🔍 **Analysis:** Perfect ở đây vì nó shows fashion trend significance - "ankle boot" emphasizes specific style that defines seasonal fashion
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **ankle boot**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Material:** leather/suede/canvas ankle boot (VD: bốt cổ chân da/da lộn/vải)
+> 2. **Style:** heeled/flat/combat ankle boot (VD: bốt cổ chân có gót/phẳng/quân đội)
+> 3. **Action:** wear/pair/buy ankle boots (VD: đi/phối/mua bốt cổ chân)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **ankle boot**:
+"She wore shoes with her jeans."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She styled her skinny jeans with sleek black ankle boots."
+> 💡 **Why it works:** "Ankle boot" adds specific fashion detail và sophistication - readers visualize exact footwear choice
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **ankle boot** instead of **shoe**?
+>
+> **ankle boot:** Specific style covering ankle, more fashion-forward, provides warmth and support (VN: phong cách cụ thể, thời trang)
+> **shoe:** General term, ends below ankle, more basic functionality (VN: chung chung, cơ bản)
+> 🧱 **The Barrier:** Specific fashion style vs general footwear
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** It's autumn. You want fashionable footwear that keeps your ankles warm. You feel stylish. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Perfect weather for my favorite ankle boots!"
+> 👨‍🎨 **Director's Note:** Shows fashion awareness và seasonal dressing - "ankle boots" indicates stylish practical choice
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `ankle` + `boot` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "ancula" (little hook - ankle's hook shape) + French "bote" (boot) - footwear that literally hooks around your ankle bone
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **ankle boot**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `ancula` (ankle) + French `bote` (boot)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[ankle]] /ˈæŋkəl/
+> - *(noun)* [[boot]] /buːt/
+> - *(noun)* [[footwear]] /ˈfʊtwer/
+> - *(adj)* [[ankle-high]] /ˈæŋkəlhaɪ/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈæŋkəl buːt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**ankle boot**
+> 📖 **Meaning:** Footwear extending to the ankle
+> 🇻🇳 **Vietnamese:** Bốt cổ chân
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
-?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+🕵️ **Fix the Error:** Common mistake with **ankle boot**?
+>
+> ❌ **Mistake:** "I bought two ankle boot"
+> ✅ **Correction:** "I bought two ankle boots"
+> 🧠 **Why:** Plural requires adding "s" - compound nouns still follow plural rules
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+↔️ **Flip:** What is the opposite of **ankle boot**?
+>
+> **Opposite Footwear:**
+> - [[sandal]] /ˈsændl/ (exposes foot and ankle)
+> - [[mule]] /mjuːl/ (backless, no ankle coverage)
+> 🧱 **Contrast: Full coverage vs open exposure**

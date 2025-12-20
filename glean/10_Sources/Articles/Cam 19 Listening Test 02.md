@@ -21,7 +21,15 @@
 
 *Write **ONE WORD ONLY** for each answer.*
 
-<table><tbody><tr><td colspan="3" width="582"><h2>A [[20_Vocabulary/average|typical]] 45-minute guitar lesson</h2></td></tr><tr><td width="95"><p><span><strong>Time</strong></span></p></td><td width="265"><p><span><strong>Activity</strong></span></p></td><td width="222"><p><span><strong>Notes</strong></span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/tune|tuning]] guitars</span></p></td><td width="222"><p><span>using an app or by <strong>7</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/strumming|strumming]] [[20_Vocabulary/chord|chords]] using our [[20_Vocabulary/thumbs|thumbs]]</span></p></td><td width="222"><p><span>keeping time [[20_Vocabulary/Admittedly|while]] the [[20_Vocabulary/trainer|teacher]] is <strong>8</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>15 minutes</span></p></td><td width="265"><p><span>playing songs</span></p></td><td width="222"><p><span>often listening to a <strong>9</strong> ………………… of a song</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>playing single notes [[20_Vocabulary/In addition|and]] simple [[20_Vocabulary/tune|tunes]]</span></p></td><td width="222"><p><span>playing together, then <strong>10</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>noting things to practise at home</span></p></td><td width="222"></td></tr></tbody></table>
+### A [[20_Vocabulary/average|typical]] 45-minute guitar lesson
+
+| Time | Activity | Notes |
+| :--- | :--- | :--- |
+| 5 minutes | [[20_Vocabulary/tune\|tuning]] guitars | using an app or by **7** ………………… |
+| 10 minutes | [[20_Vocabulary/strumming\|strumming]] [[20_Vocabulary/chord\|chords]] using our [[20_Vocabulary/thumbs\|thumbs]] | keeping time [[20_Vocabulary/Admittedly\|while]] the [[20_Vocabulary/trainer\|teacher]] is **8** ………………… |
+| 15 minutes | playing songs | often listening to a **9** ………………… of a song |
+| 10 minutes | playing single notes [[20_Vocabulary/In addition\|and]] simple [[20_Vocabulary/tune\|tunes]] | playing together, then **10** ………………… |
+| 5 minutes | noting things to practise at home | |
 
 ### [[20_Vocabulary/parcel|PART]] 2
 

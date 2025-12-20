@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/education/university-academic-life
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [proficient, proficiently]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /prəˈfɪʃnsi/
+> **Part of Speech:** noun
+> **CEFR Level:** C1
+> **Register:** formal/academic
+> **Etymology:** Latin "proficiens" (making progress) from "proficere" (to advance, to make progress)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A high degree of skill; expertise
+>
+> **Context Meaning:** The state of being highly skilled or expert in something; a high level of competence
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Sự thông thạo, trình độ
+> - **Contextual:** Trình độ chuyên môn cao, sự thành thạo
+>
 > **Nuances:**
-> - ...
+> - Implies not just knowledge but practical skill and expertise
+> - Often used in academic, professional, or technical contexts
+> - Suggests mastery through practice and experience
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, Expert, Accomplished
+> **Memory Hook:** "pro" (forward) + "ficiency" (doing) = making forward progress through skill
+> **📖 Etymology Story:** From Latin "proficere" meaning "to make progress," proficiency represents the result of continuous advancement in skill. Just as a craftsman becomes proficient through years of practice, this word embodies the journey from novice to master.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[proficiency]] /prəˈfɪʃnsi/, [[proficient]] /prəˈfɪʃənt/
+> - **Verb:** [[profess]] /prəˈfes/
+> - **Adj:** [[proficient]] /prəˈfɪʃənt/, [[professional]] /prəˈfeʃənl/
+> - **Adv:** [[proficiently]] /prəˈfɪʃəntli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[expertise]] /ˌekspɜːˈtiːz/ : deep knowledge and skill
+> - [[competence]] /ˈkɒmpɪtəns/ : ability to do something successfully
+> - [[mastery]] /ˈmæstəri/ : comprehensive knowledge or skill
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[incompetence]] /ɪnˈkɒmpɪtəns/ : lack of ability
+> - [[ineptitude]] /ɪˈneptɪtjuːd/ : lack of skill
+> - [[amateurism]] /ˈæmətərɪzəm/ : unprofessional quality
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. language proficiency
+> 2. technical proficiency
+> 3. demonstrate proficiency
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The job requires proficiency in at least two programming languages.
+> - **Translation:** Công việc đòi hỏi trình độ thông thạo ít nhất hai ngôn ngữ lập trình.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She demonstrated exceptional proficiency in piano performance.
+> - **Translation:** Cô ấy đã thể hiện trình độ đàn piano xuất sắc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Form**
+> - ❌ **Mistake:** She has a good proficient in English.
+> - ✅ **Correction:** She has good proficiency in English.
+> - **Why:** "Proficiency" is the noun form, while "proficient" is the adjective.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Language proficiency is essential for effective cross-cultural communication."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **proficiency** (*/prəˈfɪʃnsi/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A high degree of skill; expertise or competence in a particular area
+> 🇻🇳 **Vietnamese:** Sự thông thạo, trình độ thành thạo
+> 🗣️ **IPA:** */prəˈfɪʃnsi/*
+> 🧠 **Mental Model:** Trình độ chuyên môn cao, đạt được qua thực hành và kinh nghiệm - không chỉ biết mà còn làm tốt
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A high degree of skill or competence in a particular area"
+**Vietnamese:** Trình độ thông thạo
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**proficiency** (*/prəˈfɪʃnsi/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **proficiency** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The certification program helps students achieve professional proficiency in data analysis.
+> 🇻🇳 **Translation:** Chương trình chứng nhận giúp sinh viên đạt được trình độ chuyên nghiệp về phân tích dữ liệu.
+> 🔍 **Analysis:** "Proficiency" hoàn hảo ở đây vì nó nhấn mạnh kỹ năng thực tế ở mức độ cao, không chỉ là kiến thức lý thuyết
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **proficiency**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Academic:** language proficiency (<VN note> trình độ ngôn ngữ, thường dùng trong học thuật)
+> 2. **Technical:** technical proficiency (<VN note> trình độ kỹ thuật, chuyên môn)
+> 3. **Assessment:** demonstrate proficiency (<VN note> chứng minh trình độ, thông qua bài kiểm tra)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **proficiency**:
+"She is good at using computers."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She has developed remarkable proficiency in computer programming and data management."
+> 💡 **Why it works:** "Proficiency" tạo cảm giác chuyên nghiệp và cấp độ cao hơn nhiều so với "good at", phù hợp với môi trường công việc
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **proficiency** instead of **knowledge**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **proficiency:** <Skill + practical ability - có thể làm được việc>
+> **knowledge:** <Understanding without necessarily being able to do - chỉ biết>
+> 🧱 **The Barrier:** "Proficiency" bao gồm cả theory và practice, "knowledge" chỉ là theory. Bạn có knowledge về bơi nhưng chưa chắc có proficiency
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss asks about your Excel skills in a job interview. You feel confident. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I have advanced proficiency in Excel, including macros and pivot tables."
+> 👨‍🎨 **Director's Note:** Cách nói chuyên nghiệp, thể hiện trình độ cụ thể thay vì chỉ nói "I know Excel"
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `proficere` to the meaning of **proficiency**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "proficere" (tiến về phía trước), proficiency là kết quả của việc không ngừng phát triển kỹ năng - giống như một nghệ nhân đi từ người mới học đến bậc thầy
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **proficiency**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `proficere` (to make progress) → `proficiens` (skilled)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[proficient]]
+> - *(adv)* [[proficiently]]
+> - *(verb)* [[profess]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */prəˈfɪʃnsi/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**proficiency**
+> 📖 **Meaning:** A high degree of skill; expertise
+> 🇻🇳 **Vietnamese:** Trình độ thông thạo
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **proficiency**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** He showed a proficient in mathematics.
+> ✅ **Correction:** He showed proficiency in mathematics.
+> 🧠 **Why:** "Proficiency" là noun, "proficient" là adjective. Cấu trúc đúng: show + proficiency (noun)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **proficiency**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[incompetence]] (Complete lack of ability)
+> - [[amateurism]] (Unprofessional level)
+> 🧱 **Contrast:** "Proficiency" là trình độ chuyên môn cao sau nhiều năm thực hành, còn "amateurism" là mức độ nghiệp dư, không chuyên nghiệp
 
 ---

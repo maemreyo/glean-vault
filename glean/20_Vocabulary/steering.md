@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [steer, steered, steering wheel]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈstɪərɪŋ/
+> **Part of Speech:** noun/verb/adjective
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Old English "stēoran" (to guide, direct)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The act of directing or guiding movement
+>
+> **Context Meaning:** Controlling the direction in which something moves; guiding or directing the course of something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Lái, điều khiển, chỉ huy
+> - **Contextual:** Đánh lái, điều hướng, dẫn dắt
+>
 > **Nuances:**
-> - ...
+> - Can be literal (steering a car) or metaphorical (steering a company)
+> - Implies active control and direction
+> - Often used with vehicles but extends to abstract concepts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Controlling, Directing, Leading
+> **Memory Hook:** "Steer" like a bull - you're guiding its direction
+> **📖 Etymology Story:** From Old English "stēoran" meaning "to guide or direct." Originally used for guiding animals like oxen or ships, "steering" evolved to mean any form of direction control. Just as a captain steers a ship through stormy seas, we steer our projects, conversations, and lives toward desired destinations.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[steering]] /ˈstɪərɪŋ/, [[steer]] /stɪə/
+> - **Verb:** [[steer]] /stɪə/
+> - **Adj:** [[steering]] /ˈstɪərɪŋ/ (attributive)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[guiding]] /ˈɡaɪdɪŋ/ : showing the way
+> - [[directing]] /dəˈrektɪŋ/ : giving instructions
+> - [[controlling]] /kənˈtrəʊlɪŋ/ : having power over
+> - [[navigating]] /ˈnævɪɡeɪtɪŋ/ : finding and following a route
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[following]] /ˈfɒləʊɪŋ/ : going behind someone else
+> - [[drifting]] /ˈdrɪftɪŋ/ : moving without control
+> - [[wandering]] /ˈwɒndərɪŋ/ : moving without purpose
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. steering wheel
+> 2. steering committee
+> 3. steering clear of
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** He's responsible for steering the company through this difficult period.
+> - **Translation:** Anh ấy chịu trách nhiệm dẫn dắt công ty vượt qua giai đoạn khó khăn này.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The GPS assists with steering in unfamiliar areas.
+> - **Translation:** GPS giúp đỡ việc định hướng ở những khu vực không quen thuộc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition**
+> - ❌ **Mistake:** She is steering the project on success.
+> - ✅ **Correction:** She is steering the project toward success.
+> - **Why:** "Steer" takes "toward," "away from," "through," or "through" - not "on."
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Steering a large organization requires both vision and flexibility."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **steering** (*/ˈstɪərɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The act of controlling the direction in which something moves; guiding or directing movement
+> 🇻🇳 **Vietnamese:** Việc điều khiển hướng di chuyển, dẫn dắt, chỉ huy
+> 🗣️ **IPA:** */ˈstɪərɪŋ/*
+> 🧠 **Mental Model:** Hành động chủ động điều khiển phương tiện hoặc tình huống theo hướng mong muốn - như cầm lái định hướng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The act of controlling the direction in which something moves"
+**Vietnamese:** Việc điều khiển
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**steering** (*/ˈstɪərɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **steering** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The manager is steering the team away from potential conflicts.
+> 🇻🇳 **Translation:** Người quản lý đang dẫn dắt đội nhóm tránh xa các xung đột tiềm tàng.
+> 🔍 **Analysis:** "Steering" hoàn hảo ở đây vì nó thể hiện sự điều khiển chủ động, có định hướng, mạnh hơn "guiding"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **steering**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Vehicle:** steering wheel (<VN note> vô lăng)
+> 2. **Organization:** steering committee (<VN note> ủy ban chỉ đạo)
+> 3. **Avoidance:** steering clear of (<VN note> tránh xa)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **steering**:
+"She is guiding the conversation to a positive topic."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She skillfully steered the conversation toward more productive solutions."
+> 💡 **Why it works:** "Steered" tạo cảm giác kiểm soát chủ động, có kỹ năng, phù hợp hơn trong ngữ cảnh chuyên nghiệp
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **steering** instead of **guiding**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **steering:** <Active control and direction - có quyền điều khiển>
+> **guiding:** <Showing the way but less control - chỉ đường, ít quyền lực hơn>
+> 🧱 **The Barrier:** "Steering" là bạn cầm lái, "guiding" là bạn chỉ đường. Steering = direct control, guiding = advisory role
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're teaching someone to drive. They're about to turn. You feel instructional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Start steering gently as you approach the curve."
+> 👨‍🎨 **Director's Note:** Cách nói tự nhiên khi dạy lái xe, dùng steering như một động từ hành động
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `stēoran` to the meaning of **steering**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English "stēoran" (hướng dẫn, chỉ đường), steering là hành động điều khiển phương tiện hoặc tình huống đi đúng hướng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **steering**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `stēoran` (to guide, direct)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[steer]]
+> - *(noun)* [[stern]] (back part of a boat)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈstɪərɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**steering**
+> 📖 **Meaning:** The act of controlling the direction in which something moves
+> 🇻🇳 **Vietnamese:** Việc điều khiển
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **steering**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Thank you for steering me in the right path.
+> ✅ **Correction:** Thank you for steering me onto the right path.
+> 🧠 **Why:** Preposition đúng với steer là "onto", "toward", "away from" hoặc "through" - không dùng "in"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **steering**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[following]] (Being led by others)
+> - [[drifting]] (Moving without direction or control)
+> 🧱 **Contrast:** "Steering" là chủ động điều khiển, "following" là bị động đi theo, "drifting" là không có định hướng
 
 ---

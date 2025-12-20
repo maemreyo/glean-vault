@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [beige, beige-coloured, cream-colored, off-white, neutral color]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /beɪʒ ɪn ˈkʌlər/
+> **Part of Speech:** adjective phrase
+> **CEFR Level:** A2
+> **Register:** descriptive/neutral
+> **Etymology:** From "beige" (French origin, meaning natural wool color) + "in colour"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Having the color of natural wool
+>
+> **Context Meaning:** A pale sandy fawn color - a light grayish-yellowish brown, often considered neutral and calming
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** màu be
+> - **Contextual:** màu nâu nhạt, màu be nhạt, màu kem
+>
 > **Nuances:**
-> - ...
+> - Often associated with neutrality, calm, and simplicity
+> - Popular in interior design for its versatile, warm quality
+> - Can sometimes imply blandness or lack of character
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Neutral, Calm, Versatile
+> **Memory Hook:** Think of sand on a calm beach or natural wool - that warm, pale, unobtrusive color
+> **📖 Etymology Story:** From French "beige" meaning natural, undyed wool color - evolved to describe any pale sandy color that reminds us of nature's most neutral tones
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[beige]] /beɪʒ/, [[color]] /ˈkʌlər/
+> - **Verb:** N/A
+> - **Adj:** [[beige]] /beɪʒ/, [[colored]] /ˈkʌlərd/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[cream]] /kriːm/ : Slightly lighter
+> - [[off-white]] /ɒf waɪt/ : More white
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[vibrant]] /ˈvaɪbrənt/ : Bright and intense
+> - [[bold color]] : Strong, vivid color
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Beige in colour shoes
+> 2. Painted beige in colour
+> 3. Beige in colour walls
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The room was painted beige in colour to create a calming atmosphere.
+> - **Translation:** Căn phòng được sơn màu be để tạo ra không khí yên tĩnh.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She chose a sofa beige in colour to match her minimalist decor.
+> - **Translation:** Cô ấy chọn một chiếc ghế sofa màu be để phù hợp với phong cách tối giản của mình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Order**
+> - ❌ **Mistake:** a colour beige wall
+> - ✅ **Correction:** a beige in colour wall OR a beige wall
+> - **Why:** "Beige in colour" is the complete phrase, but usually we just say "beige"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The walls, painted beige in colour, seemed to absorb the harsh sunlight and soften the room."
+> **Source:** [[Interior Design Magazine]]
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **beige in colour** (*/beɪʒ ɪn ˈkʌlər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A pale sandy fawn color - light grayish-yellowish brown considered neutral
+> 🇻🇳 **Vietnamese:** Màu be
+> 🗣️ **IPA:** */beɪʒ ɪn ˈkʌlər/*
+> 🧠 **Mental Model:** Color của natural wool + sandy beach + neutral tone = calming versatile color
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A pale sandy fawn color - light grayish-yellowish brown"
+**Vietnamese:** Màu be
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**beige in colour** (*/beɪʒ ɪn ˈkʌlər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **beige in colour** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The designer chose curtains beige in colour to complement the wooden furniture.
+> 🇻🇳 **Translation:** Nhà thiết kế đã chọn rèm cửa màu be để bổ sung cho đồ nội thất bằng gỗ.
+> 🔍 **Analysis:** Perfect ở đây vì nó shows thoughtful color coordination - "beige in colour" emphasizes deliberate choice cho harmonious interior design
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **beige in colour**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Fashion:** dress/shoes/bag beige in colour (VD: váy/giày/túi xách màu be)
+> 2. **Interior:** walls/furniture/carpet beige in colour (VD: tường/đồ nội thất/thảm màu be)
+> 3. **Description:** something beige in colour (VD: cái gì đó màu be)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **beige in colour**:
+"The walls were painted a light color."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The walls were painted beige in colour to create a warm, inviting space."
+> 💡 **Why it works:** "Beige in colour" adds specific color identity và emotional effect - readers visualize exact warm neutral tone
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **beige in colour** instead of **light brown**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **beige in colour:** Specific pale sandy tone with grayish undertones, more sophisticated (VN: màu be nhạt tinh tế)
+> **light brown:** Any light shade of brown, more general (VN: nâu nhạt chung chung)
+> 🧱 **The Barrier:** Specific neutral tone vs general light brown shade
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're helping a friend decorate. They want something calm and neutral. You feel helpful. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "How about we paint the accent wall beige in colour? It's so versatile!"
+> 👨‍🎨 **Director's Note:** Shows design knowledge và helpfulness - "beige in colour" suggests expertise trong color selection
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `beige` (French) to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From French "beige" meaning natural, undyed wool - named after the color of sheep's wool before any dyeing, representing nature's most neutral tone
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **beige in colour**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** French `beige` (natural wool color)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[beige]] /beɪʒ/
+> - *(noun)* [[color]] /ˈkʌlər/
+> - *(adj)* [[colored]] /ˈkʌlərd/
+> - *(phrase)* [[in colour]] /ɪn ˈkʌlər/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */beɪʒ ɪn ˈkʌlər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**beige in colour**
+> 📖 **Meaning:** A pale sandy fawn color
+> 🇻🇳 **Vietnamese:** Màu be
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **beige in colour**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I bought shoes colour beige"
+> ✅ **Correction:** "I bought shoes beige in colour" OR "I bought beige shoes"
+> 🧠 **Why:** "Beige in colour" is the full phrase, but usually simplified to just "beige" as adjective
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **beige in colour**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> **Opposite Colors:**
+> - [[vibrant red]] /ˈvaɪbrənt red/ (bright and intense)
+> - [[jet black]] /dʒet blæk/ (dark and bold)
+> 🧱 **Contrast:** Neutral calm vs bright/dark intensity

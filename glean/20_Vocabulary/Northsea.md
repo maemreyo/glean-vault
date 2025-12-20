@@ -1,159 +1,76 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
 #flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [North Sea, Northsea]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /nɔːθ siː/
+> **Part of Speech:** proper noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** North + Sea (Old English "norþ" + "sǣ")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The sea located north of Europe, between Great Britain and Scandinavia
+>
+> **Context Meaning:** A specific body of water in northern Europe, often associated with shipping, oil, and tourism
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Biển Bắc
+> - **Contextual:** Biển Bắc Âu
+>
 > **Nuances:**
-> - ...
+> - Often hyphenated as "North Sea" in formal writing
+> - Rich in oil and gas reserves
+> - Important shipping route and fishing area
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Geographic, Maritime, Industrial
+> **Memory Hook:** Imagine standing on the northern coast looking out at the cold, grey sea
+> **📖 Etymology Story:** The "North Sea" gets its name simply from its position - it's the sea to the north of mainland Europe. Old English "norþ" (north) and "sǣ" (sea) combine to create this straightforward geographical name that has persisted for over a thousand years.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[sea]] /siː/, [[north]] /nɔːθ/
+> - **Adj:** [[northern]] /ˈnɔːðən/, [[seaward]] /ˈsiːwəd/
+> - **Adv:** [[northward]] /ˈnɔːθwəd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[German Sea]] : Historical name used in some contexts
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[South Sea]] : Geographical opposite
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. North Sea oil
+> 2. North Sea fishing
+> 3. North Sea ferry
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The North Sea is known for its rough waters and strong winds.
+> - **Translation:** Biển Bắc nổi tiếng với biển động và gió mạnh.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Many companies extract natural gas from beneath the North Sea.
+> - **Translation:** Nhiều công ty khai thác khí đốt tự nhiên dưới đáy Biển Bắc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Capitalization**
+> - ❌ **Mistake:** north sea
+> - ✅ **Correction:** North Sea
+> - **Why:** As a proper noun referring to a specific geographical location, both words should be capitalized.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The North Sea has historically been important for trade between the UK and continental Europe."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +78,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **North Sea** (*/nɔːθ siː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The sea located north of Europe, between Great Britain and Scandinavia
+> 🇻🇳 **Vietnamese:** Biển Bắc (của Châu Âu)
+> 🗣️ **IPA:** */nɔːθ siː/*
+> 🧠 **Mental Model:** Một vùng biển lớn ở phía bắc châu Âu, nằm giữa Anh và Scandinavia, nổi tiếng về dầu mỏ và đánh cá
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The sea located north of Europe, between Great Britain and Scandinavia"
+**Vietnamese:** Biển Bắc Âu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**North Sea** (*/nɔːθ siː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **North Sea** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The North Sea ferry connects Hull to Rotterdam overnight.
+> 🇻🇳 **Translation:** Phà Biển Bắc nối Hull với Rotterdam qua đêm.
+> 🔍 **Analysis:** "North Sea" works perfectly here as it specifies which ferry route - the one crossing this particular body of water between UK and Netherlands
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **North Sea**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Economic Activity:** North Sea oil (<VN note> chỉ trữ lượng dầu mỏ lớn dưới đáy biển)
+> 2. **Transportation:** North Sea ferry (<VN note> tuyến phà vượt biển này)
+> 3. **Geography:** North Sea coast (<VN note> các vùng bờ biển dọc Biển Bắc)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **North Sea**:
+"The ships sailed in the northern European waters."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The oil tankers navigated the rough North Sea waters."
+> 💡 **Why it works:** "North Sea" tạo ra hình ảnh cụ thể về một vùng biển nổi tiếng với thời tiết khắc nghiệt và hoạt động khai thác dầu khí
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **North Sea** instead of **northern sea**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **North Sea:** <Tên riêng của một vùng biển cụ thể ở châu Âu>
+> **northern sea:** <Any sea located in the northern hemisphere - không cụ thể>
+> 🧱 **The Barrier:** "North Sea" là proper noun chỉ một location, "northern sea" là common noun chỉ vị trí phía bắc
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're planning a trip from England to Netherlands by boat. You feel practical. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We're taking the North Sea ferry tomorrow evening."
+> 👨‍🎨 **Director's Note:** Cách nói tự nhiên khi chỉ tuyến phà cụ thể vượt qua Biển Bắc
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `norþ + sǣ` to the meaning of **North Sea**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English "norþ" (bắc) và "sǣ" (biển) kết hợp thành "North Sea" - cái tên rất trực diện chỉ vùng biển ở phía bắc châu Âu
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **North Sea**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `norþ` (north) + `sǣ` (sea)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[sea]]
+> - *(adj)* [[northern]]
+> - *(adv)* [[northward]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */nɔːθ siː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**North Sea**
+> 📖 **Meaning:** The sea located north of Europe, between Great Britain and Scandinavia
+> 🇻🇳 **Vietnamese:** Biển Bắc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **North Sea**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The shipping route crosses the north sea.
+> ✅ **Correction:** The shipping route crosses the North Sea.
+> 🧠 **Why:** Proper noun must be capitalized - đây là tên riêng của một vùng biển cụ thể
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **North Sea**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[South Sea]] (Southern hemisphere, near Antarctica)
+> - [[Mediterranean]] (Southern Europe)
+> 🧱 **Contrast:** Đối lập về vị trí địa lý - một ở cực bắc châu Âu, một ở bán cầu nam hoặc nam châu Âu
 
 ---

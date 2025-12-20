@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
 #flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [wave tank, wave tanks, wave pool, testing tank, hydraulic model, flume tank]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /weɪv tæŋk/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** technical/academic
+> **Etymology:** Compound: 'wave' (Old English 'wæfian') + 'tank' (Portuguese 'tanque')
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A tank or basin used to simulate waves for testing
+>
+> **Context Meaning:** A laboratory facility used to study the behavior of waves and their effects on structures, ships, or coastal phenomena
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bể tạo sóng
+> - **Contextual:** bể thử nghiệm sóng, hồ mô phỏng sóng
+>
 > **Nuances:**
-> - ...
+> - Used in engineering and oceanographic research
+> - Can simulate various wave conditions from calm to extreme storms
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Scientific, Controlled, Experimental
+> **Memory Hook:** A tank that creates waves on demand for testing - like a swimming pool for science
+> **📖 Etymology Story:** Wave (dao động của nước) + Tank (bể chứa) = wave tank = bể chứa dùng để tạo và nghiên cứu sóng
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Related:** [[wave]] /weɪv/ (sóng)
+> - **Related:** [[tank]] /tæŋk/ (bể chứa)
+> - **Technical:** [[hydraulics]] /haɪˈdrɔːlɪks/ (thủy lực)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[wave pool]] /weɪv puːl/ : Often for entertainment
+> - [[flume tank]] /fluːm tæŋk/ : Similar but with flowing water
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[calm water]] /kɑːm ˈwɔːtə/ : Still water without waves
+> - [[natural setting]] /ˈnætʃrəl ˈsetɪŋ/ : Real ocean conditions
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. wave tank testing
+> 2. wave tank simulation
+> 3. wave tank facility
+>
+> **1. Engineering Context**
+> - **Sentence:** The offshore platform design was validated in the university's wave tank facility.
+> - **Translation:** Thiết kế nền tảng dầu ngoài khơi đã được xác thực trong cơ sở bể tạo sóng của trường đại học.
+>
+> **2. Research Context**
+> - **Sentence:** Scientists used the wave tank to study tsunami impacts on coastal structures.
+> - **Translation:** Các nhà khoa học đã sử dụng bể tạo sóng để nghiên cứu tác động của sóng thần lên các công trình ven biển.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Wave Tank vs Wave Pool**
+> - ❌ **Mistake:** Let's go swimming in the wave tank.
+> - ✅ **Correction:** Let's go swimming in the wave pool. (The wave tank is for research/testing)
+> - **Why:** Wave tanks are for scientific testing, wave pools are for recreation
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Water is the driving force of all nature."
+> **Source:** [[Leonardo da Vinci]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **wave tank** (*/weɪv tæŋk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A facility used to simulate waves for testing structures and studying wave behavior
+> 🇻🇳 **Vietnamese:** Bể tạo sóng dùng để thử nghiệm và nghiên cứu hành vi của sóng
+> 🗣️ **IPA:** */weɪv tæŋk/*
+> 🧠 **Mental Model:** Một bể nước khổng lồ trong phòng lab có thể tạo ra các loại sóng khác nhau để thử nghiệm
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A laboratory facility for testing the effects of waves on structures and conducting oceanographic research"
+**Vietnamese:** Cơ sở phòng thí nghiệm để thử nghiệm tác động của sóng lên các công trình và tiến hành nghiên cứu hải dương học
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**wave tank** (*/weɪv tæŋk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **wave tank** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The naval architects tested their new hull design in a sophisticated wave tank that could simulate hurricane conditions.
+> 🇻🇳 **Translation:** Các kiến trúc sư hải quân đã thử nghiệm thiết kế vỏ tàu mới của họ trong một bể tạo sóng tinh vi có thể mô phỏng điều kiện bão.
+> 🔍 **Analysis:** "wave tank" thể hiện cơ sở nghiên cứu chuyên dụng, có thể kiểm soát các điều kiện sóng một cách chính xác
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **wave tank**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Research Activity:** wave tank testing (thử nghiệm trong bể sóng)
+> 2. **Simulation Type:** wave tank simulation (mô phỏng bể sóng)
+> 3. **Facility:** wave tank facility (cơ sở bể sóng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **wave tank**:
+"They tested the ship model in water."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The engineers subjected the scale model to extreme wave conditions in a state-of-the-art wave tank."
+> 💡 **Why it works:** "wave tank" cụ thể hóa môi trường thử nghiệm có kiểm soát, thể hiện tính khoa học và chuyên nghiệp
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **wave tank** instead of **[[wave pool]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **wave tank:** Dùng cho nghiên cứu khoa học, thử nghiệm kỹ thuật, có kiểm soát chính xác
+> **wave pool:** Dùng cho giải trí, công viên nước, tạo sóng cho vui chơi
+> 🧱 **The Barrier:** wave tank cho mục đích khoa học, wave pool cho mục đích giải trí
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're touring a marine research facility. The guide shows you a large pool with mechanical wave generators. You're impressed! Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Fascinating! So this wave tank can replicate ocean conditions from calm seas to category 5 hurricanes?"
+> 👨‍🎨 **Director's Note:** "wave tank" thể hiện sự ngưỡng mộ đối với công nghệ nghiên cứu khoa học tiên tiến
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the concepts of 'wave' and 'tank' to the meaning of **wave tank**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Wave (sóng biển tự nhiên) + Tank (bể chứa nhân tạo) → wave tank = nơi chúng ta thu nhỏ đại dương vào phòng lab để nghiên cứu
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **wave tank**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** English compound
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[wave-generated]] (được tạo ra bởi sóng)
+> - *(noun)* [[wave mechanics]] (cơ học sóng)
+> - *(verb)* [[wave-simulate]] (mô phỏng sóng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */weɪv tæŋk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**wave tank**
+> 📖 **Meaning:** A facility for simulating waves for testing
+> 🇻🇳 **Vietnamese:** Bể tạo sóng dùng để thử nghiệm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **wave tank**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The surfers practiced in the university's wave tank."
+> ✅ **Correction:** "The surfers practiced in the wave park." OR "The researchers tested their equipment in the university's wave tank."
+> 🧠 **Why:** Wave tanks không dành cho lướt sóng giải trí - đó là thiết bị nghiên cứu khoa học
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **wave tank**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[natural ocean]] (đại dương tự nhiên)
+> - [[field testing]] (thử nghiệm thực địa)
+> 🧱 **Contrast:** wave tank là môi trường nhân tạo có kiểm soát, trong khi natural ocean là điều kiện thật không thể kiểm soát
 
 ---

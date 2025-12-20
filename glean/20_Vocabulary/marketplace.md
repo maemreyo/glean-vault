@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 #flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [marketplaces, market place, market square, flea market, online marketplace]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈmɑː.kɪt.pleɪs/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Market from Latin mercatus "trade, traffic"; Place from Old English plaque "open space"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:**
+> An open space or building where goods are bought and sold
+>
+> **Context Meaning:**
+> 1. Physical location for commercial transactions
+> 2. Online platform for buying and selling
+  3. Competitive environment for commerce
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** khu chợ, nơi buôn bán, sàn giao dịch
+> - **Contextual:** chợ, trung tâm thương mại, nền tảng giao dịch trực tuyến
+>
 > **Nuances:**
-> - ...
+> - Can be physical or virtual
+> - Historical center of community life
+> - Modern usage includes digital platforms
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Commercial, Bustling, Competitive
+> **Memory Hook:** Think of a farmers' market where vendors sell fresh produce - that's a marketplace
+> **📖 Etymology Story:** From Latin mercatus "trade" and Old English plaque "place." A marketplace is literally "a place of trade" - the heart of commerce since ancient times. Like the ancient agoras where merchants gathered, modern marketplaces continue to be where buyers and sellers meet, whether in physical squares or digital spaces.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - **Noun:** [[market]] /ˈmɑː.kɪt/, [[place]] /pleɪs/
+>
+> **Related Terms:**
+> - [[bazaar]] /bəˈzɑːr/ : oriental market
+> - [[emporium]] /ɪmˈpɔː.ri.əm/ : large retail store
+> - [[exchange]] /ɪksˈtʃeɪndʒ/ : trading place
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[monopoly]] /məˈnɒp.ə.li/ : single seller control
+> - [[warehouse]] /ˈweə.haʊs/ : storage only
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. online marketplace
+> 2. marketplace competition
+> 3. busy marketplace
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The local marketplace comes alive every Sunday with vendors selling fresh produce and handmade crafts.
+> - **Translation:** Khu chợ địa phương trở nên nhộn nhịp mỗi Chủ nhật với các nhà bán hàng rau tươi và đồ thủ công.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Amazon revolutionized e-commerce by creating the world's largest online marketplace.
+> - **Translation:** Amazon đã cách mạng hóa thương mại điện tử bằng cách tạo ra sàn giao dịch trực tuyến lớn nhất thế giới.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Compound Word Spelling**
+> - ❌ **Mistake:** I bought it at the market place.
+> - ✅ **Correction:** I bought it at the marketplace.
+> - **Why:** Marketplace is usually written as one word, not two
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The marketplace is a dynamic arena where supply meets demand and innovation flourishes."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **marketplace** (*/ˈmɑː.kɪt.pleɪs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A place (physical or virtual) where goods and services are bought and sold; a center of commerce
+> 🇻🇳 **Vietnamese:** Nơi (thực hoặc ảo) hàng hóa và dịch vụ được mua bán; trung tâm thương mại
+> 🗣️ **IPA:** */ˈmɑː.kɪt.pleɪs/*
+> 🧠 **Mental Model:** Hình dung chợ nơi người mua bán gặp nhau - đó là marketplace (khu chợ)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A place where goods and services are bought and sold"
+**Vietnamese:** Một nơi hàng hóa và dịch vụ được mua bán
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**marketplace** (*/ˈmɑː.kɪt.pleɪs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **marketplace** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The digital marketplace connects artisans from around the world with customers seeking unique handmade products.
+> 🇻🇳 **Translation:** Sàn giao dịch kỹ thuật số kết nối các nghệ nhân từ khắp nơi trên thế giới với khách hàng tìm kiếm sản phẩm thủ công độc đáo.
+> 🔍 **Analysis:** Marketplace thể hiện sự tiến bộ công nghệ trong thương mại, kết nối toàn cầu
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **marketplace**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Digital:** online marketplace (sàn giao dịch trực tuyến - không gian thương mại điện tử)
+> 2. **Competition:** marketplace competition (cạnh tranh thị trường - môi trường kinh doanh)
+> 3. **Activity:** busy marketplace (chợ đông đúc - mô tả hoạt động)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **marketplace**:
+"People sell things online."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The artisan marketplace showcases independent creators competing with mass-produced goods through quality and uniqueness."
+> 💡 **Why it works:** "Marketplace" tạo cảm giác chuyên nghiệp và có tổ chức hơn "people sell things"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **marketplace** instead of **store**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **marketplace:** Nơi nhiều người bán cạnh nhau (VN: khu chợ, sàn giao dịch)
+> **store:** Một người bán duy nhất (VN: cửa hàng, nhà bán lẻ)
+> 🧱 **The Barrier:** Marketplace là multiple sellers competing, store là single seller (VN: marketplace là nhiều người bán cạnh nhau, store là một người bán duy nhất)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to start selling homemade crafts. You feel encouraging. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You should set up shop on an online marketplace to reach more customers!"
+> 👨‧🎨 **Director's Note:** Marketplace thể hiện kênh kinh doanh hiện đại (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `mercatus` and `plaque` to the meaning of **marketplace**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Market từ Latin mercatus "thương mại", place từ tiếng Anh cổ plaque "không gian". Marketplace nghĩa đen là "nơi của thương mại" - trái tim của buôn bán từ thời cổ. Như quảng trường cổ, marketplace hiện đại vẫn là nơi mua bán gặp nhau.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **marketplace**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `mercatus` (trade) + Old English `plaque` (open space)
+> 👨‧👩‧👧 **Family:**
+> - *(noun)* market (chợ, thị trường)
+> - *(noun)* marketeer (người buôn bán)
+> - *(verb)* market (tiếp thị, quảng bá)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈmɑː.kɪt.pleɪs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**marketplace**
+> 📖 **Meaning:** A place where goods and services are bought and sold
+> 🇻🇳 **Vietnamese:** Một nơi hàng hóa và dịch vụ được mua bán
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **marketplace**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The market place is crowded today"
+> ✅ **Correction:** "The marketplace is crowded today"
+> 🧱 **Why:** Marketplace thường viết liền một chữ
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **marketplace**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[monopoly]] (độc quyền bán hàng)
+> - [[warehouse]] (kho chứa, chỉ lưu trữ không bán)
+> 🧱 **Contrast:** Marketplace has many sellers, monopoly has single seller
 
 ---

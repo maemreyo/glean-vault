@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/education/university-academic-life
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [study abroad consultancy, overseas education consulting, education consultancy services]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈstʌdi əˈbrɔːd kənˈsʌltɪŋ/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** formal/professional
+> **Etymology:** study + abroad + consulting (from Latin consultare "to deliberate")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Professional advisory services for studying in foreign countries
+>
+> **Context Meaning:** A service that helps students plan, apply, and prepare for education in foreign countries
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Tư vấn du học
+> - **Contextual:** Dịch vụ tư vấn du học chuyên nghiệp
+>
 > **Nuances:**
-> - ...
+> - Covers everything from university selection to visa applications
+> - Often includes test preparation and cultural orientation
+> - Professional service, not just informal advice
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, Guidance-oriented, International
+> **Memory Hook:** Imagine a map with pathways connecting students to universities worldwide
+> **📖 Etymology Story:** "Study" + "abroad" + "consulting" (from Latin "consultare" - to gather wisdom). Study abroad consulting literally means "gathering wisdom to guide learning across seas," representing the bridge between students' dreams and international education opportunities.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - **Noun:** [[consulting]] /kənˈsʌltɪŋ/, [[consultant]] /kənˈsʌltənt/, [[consultation]] /ˌkɒnsəlˈteɪʃn/
+> - **Verb:** [[consult]] /kənˈsʌlt/
+> - **Adj:** [[consultative]] /kənˈsʌltətɪv/
+>
+> **Related Terms:**
+> - [[education agent]] /ˌedʒuˈkeɪʃn ˈeɪdʒənt/ : represents educational institutions
+> - [[academic advisor]] /ˌækəˈdemɪk ədˈvaɪzə/ : provides academic guidance
+> - [[career counselor]] /kəˈrɪə ˈkaʊnsələ/ : advises on career paths
+>
+> **Service Types:**
+> - [[visa assistance]] /ˈviːzə əˈsɪstəns/ : help with visa applications
+> - [[university placement]] /ˌjuːnɪˈvɜːsəti ˈpleɪsmənt/ : finding suitable universities
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. study abroad consulting agency
+> 2. professional study abroad consulting
+> 3. free study abroad consulting
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The study abroad consulting company helped her secure admission to three top universities.
+> - **Translation:** Công ty tư vấn du học đã giúp cô ấy nhận được thư mời nhập học từ ba trường đại học hàng đầu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Many parents seek study abroad consulting services to navigate complex application processes.
+> - **Translation:** Nhiều bậc phụ huynh tìm đến dịch vụ tư vấn du học để xử lý các thủ tục xin học phức tạp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** I'm looking for study abroad consulting.
+> - ✅ **Correction:** I'm looking for study abroad consulting services/agency.
+> - **Why:** Usually needs "services," "agency," or "company" to sound natural.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Professional study abroad consulting can significantly increase your chances of admission to top universities."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **study abroad consulting** (*/ˈstʌdi əˈbrɔːd kənˈsʌltɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Professional advisory services that help students plan, apply, and prepare for education in foreign countries
+> 🇻🇳 **Vietnamese:** Dịch vụ tư vấn du học chuyên nghiệp
+> 🗣️ **IPA:** */ˈstʌdi əˈbrɔːd kənˈsʌltɪŋ/*
+> 🧠 **Mental Model:** Dịch vụ chuyên nghiệp hướng dẫn sinh viên toàn diện từ chọn trường đến visa cho việc học ở nước ngoài
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Professional advisory services for studying in foreign countries"
+**Vietnamese:** Dịch vụ tư vấn du học
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**study abroad consulting** (*/ˈstʌdi əˈbrɔːd kənˈsʌltɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **study abroad consulting** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The study abroad consulting firm specializes in placing Asian students in European universities.
+> 🇻🇳 **Translation:** Công ty tư vấn du học chuyên đặt sinh viên châu Á vào các trường đại học châu Âu.
+> 🔍 **Analysis:** Cụm từ này thể hiện tính chuyên nghiệp, phù hợp trong bối cảnh kinh doanh giáo dục, nhấn mạnh dịch vụ tư vấn có phí
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **study abroad consulting**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Service Provider:** study abroad consulting agency (<VN note> công ty tư vấn du học)
+> 2. **Quality:** professional study abroad consulting (<VN note> dịch vụ tư vấn chuyên nghiệp)
+> 3. **Cost:** free study abroad consulting (<VN note> tư vấn du học miễn phí)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **study abroad consulting**:
+"She helps students who want to study in other countries."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She provides comprehensive study abroad consulting services, specializing in US university applications."
+> 💡 **Why it works:** "Study abroad consulting" tạo cảm giác chuyên nghiệp, có hệ thống, phù hợp với mô hình kinh doanh giáo dục
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **study abroad consulting** instead of **study advice**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **study abroad consulting:** <Professional, paid service with comprehensive support - dịch vụ chuyên nghiệp>
+> **study advice:** <Informal guidance, may be free - lời khuyên thông thường>
+> 🧱 **The Barrier:** "Consulting" implies expertise và fees, "advice" có thể từ bất kỳ ai và thường miễn phí
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at an education fair. A student asks about help with applications. You feel professional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our study abroad consulting service includes application assistance, visa support, and pre-departure orientation."
+> 👨‍🎨 **Director's Note:** Cách nói chuyên nghiệp, giới thiệu đầy đủ dịch vụ tư vấn du học
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `consultare` to the meaning of **study abroad consulting**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "consultare" (tìm kiếm sự khôn ngoan), study abroad consulting là "tìm kiếm sự chỉ dẫn cho việc học vượt biển" - kết nối ước mơ với cơ hội giáo dục quốc tế
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **study abroad consulting**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `consultare` (to deliberate, gather wisdom)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[consultant]]
+> - *(verb)* [[consult]]
+> - *(adj)* [[consultative]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈstʌdi əˈbrɔːd kənˈsʌltɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**study abroad consulting**
+> 📖 **Meaning:** Professional advisory services for studying in foreign countries
+> 🇻🇳 **Vietnamese:** Dịch vụ tư vấn du học
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **study abroad consulting**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I need some study abroad consulting for my applications.
+> ✅ **Correction:** I need study abroad consulting services for my applications.
+> 🧠 **Why:** Thường cần thêm "services", "agency", hoặc "company" để nghe tự nhiên - đây là industry term
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **study abroad consulting**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Opposite Concepts:**
+> - [[self-application]] (DIY applications without professional help)
+> - [[domestic education advising]] (Guidance for studying in home country)
+> 🧱 **Contrast:** Một bên là dịch vụ chuyên phí cho nước ngoài, một bên là tự làm hoặc chỉ học trong nước
 
 ---

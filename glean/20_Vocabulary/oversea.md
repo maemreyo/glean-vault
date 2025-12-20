@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
 #flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [overseas]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌəʊvəˈsiː/
+> **Part of Speech:** adjective/adverb
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** over + sea (Old English "ofer" + "sǣ")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Across or beyond the sea
+>
+> **Context Meaning:** In or to a foreign country, especially across a sea or ocean; abroad
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Nước ngoài, hải ngoại
+> - **Contextual:** Ở nước ngoài, vượt biển
+>
 > **Nuances:**
-> - ...
+> - Traditionally meant across the sea, now means any foreign country
+> - Often implies a significant distance from home
+> - Common in contexts of travel, work, or study abroad
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Adventurous, Global, Distant
+> **Memory Hook:** Imagine looking across the vast sea toward distant lands
+> **📖 Etymology Story:** Literally "over the sea," this word captures the ancient concept of crossing oceans to reach foreign lands. In the age of air travel, it has evolved to mean any country abroad, but still carries that sense of distance and adventure from its maritime origins.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[sea]] /siː/
+> - **Adj:** [[overseas]] /ˌəʊvəˈsiː/
+> - **Adv:** [[overseas]] /ˌəʊvəˈsiː/
+> - **Prep:** [[over]] /ˈəʊvə/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[abroad]] /əˈbrɔːd/ : in or to a foreign country
+> - [[foreign]] /ˈfɒrən/ : from another country
+> - [[international]] /ˌɪntəˈnæʃənl/ : between countries
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[domestic]] /dəˈmestɪk/ : relating to one's own country
+> - [[local]] /ˈləʊkl/ : relating to a particular area
+> - [[home]] /həʊm/ : one's own country
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. overseas students
+> 2. overseas market
+> 3. travel overseas
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Many companies expand their operations to overseas markets.
+> - **Translation:** Nhiều công ty mở rộng hoạt động sang thị trường nước ngoài.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She spent two years teaching overseas in Japan.
+> - **Translation:** Cô ấy đã dành hai năm dạy học ở nước ngoài, tại Nhật Bản.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Form**
+> - ❌ **Mistake:** She went oversea to study.
+> - ✅ **Correction:** She went overseas to study.
+> - **Why:** "Overseas" ends with 's' when used as both adjective and adverb.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The university attracts many overseas students from Asia and Europe."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **overseas** (*/ˌəʊvəˈsiː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In or to a foreign country, especially across a sea or ocean; abroad
+> 🇻🇳 **Vietnamese:** Ở nước ngoài, hải ngoại
+> 🗣️ **IPA:** */ˌəʊvəˈsiː/*
+> 🧠 **Mental Model:** Vượt qua biển cả đến một quốc gia khác - cách nói trang trọng của "abroad"
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In or to a foreign country, especially across a sea or ocean"
+**Vietnamese:** Ở nước ngoài
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**overseas** (*/ˌəʊvəˈsiː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **overseas** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The company is planning to establish overseas branches in three continents.
+> 🇻🇳 **Translation:** Công ty đang có kế hoạch thành lập chi nhánh ở nước ngoài trên ba châu lục.
+> 🔍 **Analysis:** "Overseas" phù hợp trong ngữ cảnh kinh doanh, thể hiện quy mô quốc tế, trang trọng hơn "abroad"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **overseas**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Education:** overseas students (<VN note> sinh viên quốc tế, du học sinh)
+> 2. **Business:** overseas market (<VN note> thị trường nước ngoài)
+> 3. **Travel:** travel overseas (<VN note> du lịch nước ngoài, vượt biên)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **overseas**:
+"She works in another country."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She works as a consultant for overseas clients."
+> 💡 **Why it works:** "Overseas" tạo cảm giác chuyên nghiệp và quy mô quốc tế, phù hợp hơn trong bối cảnh kinh doanh
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **overseas** instead of **abroad**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **overseas:** <More formal, suggests distance/travel across water - trang trọng hơn>
+> **abroad:** <More general, any foreign country - thông dụng hơn>
+> 🧱 **The Barrier:** "Overseas" thường dùng trong văn viết, kinh doanh; "abroad" dùng trong văn nói đời thường
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're telling a friend about your brother's new job. You feel proud. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "My brother got an overseas assignment in Singapore for two years."
+> 👨‍🎨 **Director's Note:** Cách nói tự nhiên khi công việc ở nước ngoài, thể hiện tính chuyên nghiệp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `over + sea` to the meaning of **overseas**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "over" (vượt qua) và "sea" (biển cả) - "overseas" nghĩa đen là "vượt qua biển", gợi cảm giác xa xôi, phiêu lưu đến những vùng đất mới
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **overseas**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `ofer` (over) + `sǣ` (sea)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[sea]]
+> - *(adj)* [[foreign]]
+> - *(adv)* [[abroad]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌəʊvəˈsiː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**overseas**
+> 📖 **Meaning:** In or to a foreign country, especially across a sea
+> 🇻🇳 **Vietnamese:** Ở nước ngoài
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **overseas**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** She wants to study oversea after graduation.
+> ✅ **Correction:** She wants to study overseas after graduation.
+> 🧠 **Why:** Luôn có 's' ở cuối "overseas" dù dùng như adj hoặc adv - đây là một ngoại lệ
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **overseas**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[domestic]] (Within the country)
+> - [[local]] (In the same area)
+> 🧱 **Contrast:** "Overseas" là bên ngoài quốc gia, còn "domestic" là bên trong, thị trường nội địa
 
 ---

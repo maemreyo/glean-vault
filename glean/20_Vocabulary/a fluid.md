@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
 #flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [fluids, liquid, gas]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈfluːɪd/
+> **Part of Speech:** noun/adjective
+> **CEFR Level:** B2
+> **Register:** neutral/technical
+> **Etymology:** Latin "fluidus" (flowing, from "fluere" to flow)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A substance that flows
+>
+> **Context Meaning:** A substance that has no fixed shape and yields easily to external pressure; a liquid or gas
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Chất lỏng, chất lưu động
+> - **Contextual:** Chất lỏng, dung dịch, khí
+>
 > **Nuances:**
-> - ...
+> - Includes liquids, gases, and plasma
+> - Contrasts with solids which have fixed shape
+> - Can refer to smooth, elegant movement
+> - Used in scientific, medical, and figurative contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Flowing, Adaptable, Dynamic
+> **Memory Hook:** "Fluid" flows - think of water flowing in a river
+> **📖 Etymology Story:** From Latin "fluidus" meaning "flowing" from "fluere" (to flow). Ancient Romans observed how water and air move freely, taking the shape of their containers. This flowing nature became "fluid" - not just describing liquids, but any substance that refuses to be confined, just as ideas and movements flow through society.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - **Noun:** [[fluid]] /ˈfluːɪd/, [[fluidity]] /fluːˈɪdəti/
+> - **Verb:** [[flow]] /fləʊ/
+> - **Adj:** [[fluid]] /ˈfluːɪd/, [[fluidic]] /fluːˈɪdɪk/
+> - **Adv:** [[fluidly]] /ˈfluːɪdli/
+>
+> **Related Terms:**
+> - [[liquid]] /ˈlɪkwɪd/ : substance between solid and gas
+> - [[gas]] /ɡæs/ : state of matter without fixed shape
+> - [[plasma]] /ˈplæzmə/ : ionized gas
+>
+> **Properties:**
+> - [[viscosity]] /vɪˈskɒsəti/ : resistance to flow
+> - [[pressure]] /ˈpreʃə/ : force applied to fluid
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. fluid dynamics
+> 2. bodily fluids
+> 3. fluid movement
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Blood is a vital body fluid that transports oxygen and nutrients.
+> - **Translation:** Máu là một chất lỏng quan trọng trong cơ thể, vận chuyển oxy và chất dinh dưỡng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The dancer's movements were fluid and graceful.
+> - **Translation:** Các động tác của vũ công trôi chảy và duyên dáng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** Water is fluid.
+> - ✅ **Correction:** Water is a fluid.
+> - **Why:** When "fluid" refers to the substance category, it needs "a". As an adjective, no article needed.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The human body is composed of approximately 60% water and other essential fluids."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a fluid** (*/ə ˈfluːɪd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A substance that flows and has no fixed shape; a liquid or gas
+> 🇻🇳 **Vietnamese:** Chất lỏng/chất khí, chất lưu động
+> 🗣️ **IPA:** */ə ˈfluːɪd/*
+> 🧠 **Mental Model:** Chất có thể chảy và nhận dạng bất kỳ cái gì chứa nó - như nước, khí, hoặc dầu
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A substance that flows and has no fixed shape"
+**Vietnamese:** Chất lỏng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a fluid** (*/ə ˈfluːɪd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a fluid** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Engine oil is a vital fluid that lubricates moving parts and reduces friction.
+> 🇻🇳 **Translation:** Dầu động cơ là một chất lỏng quan trọng giúp bôi trơn các bộ phận chuyển động và giảm ma sát.
+> 🔍 **Analysis:** "A fluid" hoàn hảo ở đây vì nó phân loại dầu như một loại chất lưu động, phù hợp với ngữ cảnh kỹ thuật
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **fluid**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Science:** fluid dynamics (<VN note> động lực học chất lưu)
+> 2. **Medical:** bodily fluids (<VN note> dịch thể cơ thể)
+> 3. **Movement:** fluid motion (<VN note> chuyển động trôi chảy)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a fluid**:
+"The machine needs oil to work properly."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "This hydraulic system relies on a specialized fluid to transmit power efficiently."
+> 💡 **Why it works:** "A fluid" tạo cảm giác khoa học, chính xác, phù hợp với bối cảnh kỹ thuật và hệ thủy lực
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **a fluid** instead of **a liquid**?
+>
+> **a fluid:** <General term includes liquids AND gases - bao gồm cả lỏng và khí>
+> **a liquid:** <Specific state between solid and gas - chỉ chất lỏng>
+> 🧱 **The Barrier:** "Fluid" là category cha, "liquid" là con. Air is a fluid but not a liquid
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why the hydraulic press works. You feel educational. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The press uses a fluid to transfer force from one point to another."
+> 👨‍🎨 **Director's Note:** Cách nói tự nhiên trong bối cảnh khoa học, dùng fluid để chỉ chung chất lỏng/khí trong hệ thống
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `fluere` to the meaning of **a fluid**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "fluere" (chảy), fluid là chất biết "chảy" - như sông chảy, không bị giới hạn bởi hình dạng cố định
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a fluid**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `fluere` (to flow)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[fluidity]]
+> - *(verb)* [[flow]], [[fluctuate]]
+> - *(adj)* [[influent]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈfluːɪd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a fluid**
+> 📖 **Meaning:** A substance that flows and has no fixed shape
+> 🇻🇳 **Vietnamese:** Chất lỏng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a fluid**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Mercury is fluid.
+> ✅ **Correction:** Mercury is a fluid.
+> 🧠 **Why:** Khi "fluid" là noun chỉ loại chất, cần article "a" - đây là lỗi phổ biến với abstract nouns used countably
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
+↔️ **Flip:** What is the opposite of **a fluid**?
+>
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[a solid]] (Definite shape and volume)
+> - [[rigid]] (Not flexible or flowing)
+> 🧱 **Contrast:** "A fluid" chảy và nhận dạng container, "a solid" có hình dạng cố định không đổi
 
 ---

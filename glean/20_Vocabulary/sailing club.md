@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/sport-leisure/leisure-activities
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [yacht club, sailing association, maritime club, boating club]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈseɪlɪŋ klʌb/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A2
+> **Register:** informal/neutral
+> **Etymology:** Compound of "sailing" (from "sail") + "club" (Old Norse "klubba")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An organization for people who sail boats
+>
+> **Context Meaning:** An association or organization where members participate in sailing activities, share boats, and socialize with other sailing enthusiasts
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** câu lạc bộ sailing
+> - **Contextual:** câu lạc bộ buồm, hiệp hội hàng hải, câu lạc bộ du thuyền
+>
 > **Nuances:**
-> - ...
+> - Combines sport, recreation, and social aspects
+> - Often provides training and equipment for members
+> - Can range from casual to competitive sailing focus
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Nautical, Social, Adventurous
+> **Memory Hook:** Think of a group of friends gathering at the waterfront, all sharing a love for wind and waves
+> **📖 Etymology Story:** From "sail" (Old English "segl" - canvas) + "club" (Norse "klubba" - stick to gather around) - literally people gathering around sails and the sea
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[sailing]] /ˈseɪlɪŋ/, [[club]] /klʌb/, [[sailor]] /ˈseɪlər/
+> - **Verb:** [[sail]] /seɪl/
+> - **Adj:** [[nautical]] /ˈnɔːtɪkl/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[yacht club]] /jɒt klʌb/ : Focus on yachts
+> - [[marina]] /məˈriːnə/ : Focus on docking
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms - it's a specific type of organization
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Join a sailing club
+> 2. Sailing club membership
+> 3. Local sailing club
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She learned to sail at the local sailing club during summer vacation.
+> - **Translation:** Cô ấy học sailing tại câu lạc bộ sailing địa phương trong kỳ nghỉ hè.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The sailing club organizes races every weekend in the bay.
+> - **Translation:** Câu lạc bộ sailing tổ chức các cuộc đua mỗi cuối tuần trong vịnh.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Order**
+> - ❌ **Mistake:** club sailing
+> - ✅ **Correction:** sailing club
+> - **Why:** "Sailing" describes the type of club - adjective before noun
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Joining a sailing club opened up a whole new world of adventure and friendship."
+> **Source:** [[Sailing Magazine]]
 
 ---
 
@@ -161,121 +80,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **sailing club** (*/ˈseɪlɪŋ klʌb/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An organization where members participate in sailing activities and socialize
+> 🇻🇳 **Vietnamese:** Câu lạc bộ sailing
+> 🗣️ **IPA:** */ˈseɪlɪŋ klʌb/*
+> 🧠 **Mental Model:** Organization + sailing boats + members + shared interest = community cho sailing enthusiasts
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An organization where members participate in sailing activities"
+**Vietnamese:** Câu lạc bộ sailing
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**sailing club** (*/ˈseɪlɪŋ klʌb/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **sailing club** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The sailing club welcomed new members with a free introductory sailing lesson.
+> 🇻🇳 **Translation:** Câu lạc bộ sailing chào đón thành viên mới với một buổi học sailing miễn phí.
+> 🔍 **Analysis:** Perfect ở đây vì nó shows community building - "sailing club" emphasizes shared activity và inclusive learning environment
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **sailing club**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Membership:** join/become a member of a sailing club (VD: gia nhập/trở thành thành viên)
+> 2. **Activity:** sailing club race/event/trip (VD: cuộc đua/sự kiện/chuyến đi của CLB)
+> 3. **Location:** local/coastal/university sailing club (VD: CLB địa phương/ven biển/trường đại học)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **sailing club**:
+"He met people who liked boats."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He joined the sailing club and met a diverse group of maritime enthusiasts."
+> 💡 **Why it works:** "Sailing club" adds specific context và organized community - readers understand structured social activity
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **sailing club** instead of **boat group**?
+>
+> **sailing club:** Formal organization with membership, training, and structured activities (VN: tổ chức có quy củ)
+> **boat group:** Casual gathering, no formal structure or membership (VN: nhóm tụ tập không chính thức)
+> 🧱 **The Barrier:** Organized institution vs casual gathering
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to learn sailing but has no boat. You feel helpful. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Why don't you join the sailing club? They have boats for beginners!"
+> 👨‍🎨 **Director's Note:** Shows practical solution và community spirit - "sailing club" offers structured learning path
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `sail` + `club` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "segl" (canvas/sail) + Norse "klubba" (gathering stick) - people gathering around the shared passion of using sails to catch wind
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **sailing club**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** English `[compound]` (sail + club)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[sailing]] /ˈseɪlɪŋ/
+> - *(noun)* [[club]] /klʌb/
+> - *(verb)* [[sail]] /seɪl/
+> - *(noun)* [[sailor]] /ˈseɪlər/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈseɪlɪŋ klʌb/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**sailing club**
+> 📖 **Meaning:** Organization for sailing enthusiasts
+> 🇻🇳 **Vietnamese:** Câu lạc bộ sailing
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
-?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+🕵️ **Fix the Error:** Common mistake with **sailing club**?
+>
+> ❌ **Mistake:** "I belong to a club sailing"
+> ✅ **Correction:** "I belong to a sailing club"
+> 🧠 **Why:** "Sailing" acts as adjective describing the type of club - adjective before noun
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What might be the alternative to **sailing club** for water activities?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> **Alternatives:**
+> - [[motorboat club]] /ˈmoʊtərboʊt klʌb/ (engine-powered boats)
+> - [[fishing club]] /ˈfɪʃɪŋ klʌb/ (focused on fishing)
+> 🧱 **Contrast: Wind-powered vs engine-powered; sailing vs fishing focus**

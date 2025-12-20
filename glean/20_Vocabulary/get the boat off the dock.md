@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [boat off dock, remove boat from dock, undock boat, launch boat, depart dock]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɡət ðə boʊt ɒf ðə dɒk/
+> **Part of Speech:** phrasal verb expression
+> **CEFR Level:** B1
+> **Register:** nautical/informal
+> **Etymology:** Combination of "get" (Old English "gietan") + "off" (from "off") + "boat" (Old Norse "båt") + "dock" (Middle Dutch "docke")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To move a boat away from its docking position
+>
+> **Context Meaning:** To untie or disconnect a boat from the dock and move it into the water, preparing for departure
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đưa thuyền khỏi cầu tàu
+> - **Contextual:** rời cầu tàu, khởi hành thuyền
+>
 > **Nuances:**
-> - ...
+> - Implies preparation for departure rather than casual movement
+> - Suggests skill and coordination in handling the boat
+> - Often used as the first step in a sailing or boating journey
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Practical, Nautical, Prepared
+> **Memory Hook:** Visualize untying ropes, pushing away from wooden posts, and feeling the gentle rock as the boat meets open water
+> **📖 Etymology Story:** The phrase combines Old English "gietan" (to obtain) with the action of separation "off" and nautical terms - boat from Norse "båt" and dock from Dutch "docke", creating the essential sailor's action of departure
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[get]] /ɡet/, [[undock]] /ʌnˈdɒk/, [[depart]] /dɪˈpɑːrt/
+> - **Noun:** [[boat]] /boʊt/, [[dock]] /dɒk/, [[departure]] /dɪˈpɑːrtʃər/
+> - **Adj:** [[nautical]] /ˈnɔːtɪkl/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[undock]] /ʌnˈdɒk/ : More technical term
+> - [[cast off]] : Specifically means untying ropes
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[dock the boat]] : To secure at dock
+> - [[tie up]] : To secure with ropes
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Get the boat off the dock quickly
+> 2. Need to get the boat off the dock
+> 3. Help get the boat off the dock
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** We need to get the boat off the dock before the tide goes out.
+> - **Translation:** Chúng tôi cần đưa thuyền khỏi cầu tàu trước khi thủy triều xuống.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The captain signaled it was time to get the boat off the dock.
+> - **Translation:** Thuyền trưởng ra hiệu đã đến lúc rời cầu tàu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Use**
+> - ❌ **Mistake:** get the boat from the dock
+> - ✅ **Correction:** get the boat off the dock
+> - **Why:** "Off" indicates separation from a surface or structure, while "from" indicates origin or source
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Hurry up and get the boat off the dock, or we'll miss the sunset!"
+> **Source:** [[Nautical Literature]]
 
 ---
 
@@ -161,121 +80,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **get the boat off the dock** (*/ɡət ðə boʊt ɒf ðə dɒk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To move a boat away from its docking position and prepare it for departure
+> 🇻🇳 **Vietnamese:** Đưa thuyền khỏi cầu tàu
+> 🗣️ **IPA:** */ɡət ðə boʊt ɒf ðə dɒk/*
+> 🧠 **Mental Model:** Action của untie ropes + push boat away from structure + prepare cho journey = start của boating trip
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To move a boat away from its docking position"
+**Vietnamese:** Đưa thuyền khỏi cầu tàu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**get the boat off the dock** (*/ɡət ðə boʊt ɒf ðə dɒk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **get the boat off the dock** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The experienced sailor carefully got the boat off the dock despite the strong winds.
+> 🇻🇳 **Translation:** Thuyền viên giàu kinh nghiệm cẩn thận đưa thuyền khỏi cầu tàu bất chấp gió mạnh.
+> 🔍 **Analysis:** Perfect ở đây vì nó shows skill trong challenging conditions - "get the boat off the dock" emphasizes the careful preparation và coordination needed
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **get the boat off the dock**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Urgency:** quickly get the boat off the dock (VD: nhanh chóng đưa thuyền khỏi cầu tàu)
+> 2. **Assistance:** help get the boat off the dock (VD: giúp đưa thuyền khỏi cầu tàu)
+> 3. **Timing:** need to get the boat off the dock (VD: cần đưa thuyền khỏi cầu tàu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **get the boat off the dock**:
+"It's time to leave the harbor."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We must get the boat off the dock before the storm arrives."
+> 💡 **Why it works:** "Get the boat off the dock" creates urgency và specific action - readers visualize preparation cho departure thay vì abstract "leave the harbor"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **get the boat off the dock** instead of **leave the harbor**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **get the boat off the dock:** Focuses on the immediate physical action of departure, specific to boats (VN: hành động cụ thể)
+> **leave the harbor:** More general, could mean any form of departure (VN: chung chung hơn)
+> 🧱 **The Barrier:** Specific physical action vs general concept of departure
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at the marina. The weather is changing. You feel it's time to leave. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Everyone aboard! Let's get the boat off the dock now!"
+> 👨‍🎨 **Director's Note:** Shows command và readiness - phrase này signals immediate action và urgency trong boating context
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `get` + `off` + `boat` + `dock` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "gietan" (obtain) + separation "off" + Norse "båt" (boat) + Dutch "docke" (structure) combine to create the essential sailor's action - khi bạn obtain freedom cho boat khỏi fixed structure
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **get the boat off the dock**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** English `[phrasal verb]` (action combination)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[get]] /ɡet/
+> - *(verb)* [[undock]] /ʌnˈdɒk/
+> - *(noun)* [[dock]] /dɒk/
+> - *(noun)* [[boat]] /boʊt/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɡət ðə boʊt ɒf ðə dɒk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**get the boat off the dock**
+> 📖 **Meaning:** To move a boat away from its docking position
+> 🇻🇳 **Vietnamese:** Đưa thuyền khỏi cầu tàu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **get the boat off the dock**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "get the boat from the dock" or "get the boat away the dock"
+> ✅ **Correction:** "get the boat off the dock"
+> 🧠 **Why:** "Off" is the correct preposition for separation from a surface or structure in this phrasal verb
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **get the boat off the dock**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[dock the boat]] (secure boat at dock)
+> - [[tie up the boat]] (secure with ropes)
+> 🧱 **Contrast:** Action of departure vs action of arrival/securing

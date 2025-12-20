@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/arts-architecture/art-forms
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [chord, musical chords, harmony, progression, chord sequence]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə fjuː kɔːrdz/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A2
+> **Register:** musical/informal
+> **Etymology:** From "chord" (Latin "chorda" meaning string of an instrument)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Multiple notes played simultaneously
+>
+> **Context Meaning:** A small number of musical notes played together at the same time to create harmony
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** vài hợp âm
+> - **Contextual:** một vài和弦, vài nốt nhạc cùng lúc
+>
 > **Nuances:**
-> - ...
+> - Usually refers to 3-4 notes played together
+> - Fundamental building blocks of harmony in Western music
+> - Can convey different emotions based on their structure
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Harmonious, Musical, Creative
+> **Memory Hook:** Think of fingers pressing multiple guitar strings or piano keys at once - that's a chord
+> **📖 Etymology Story:** From Latin "chorda" (string/gut) - originally referring to the strings of instruments, evolved to mean the sound created when multiple strings/notes vibrate together in harmony
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[chord]] /kɔːrd/, [[harmony]] /ˈhɑːrməni/
+> - **Verb:** [[harmonize]] /ˈhɑːrmənaɪz/
+> - **Adj:** [[harmonious]] /hɑːrˈmoʊniəs/
+> - **Adv:** [[harmoniously]] /hɑːrˈmoʊniəsli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[harmony]] /ˈhɑːrməni/ : The pleasing combination of notes
+> - [[triad]] /ˈtraɪæd/ : Three-note chord specifically
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[single note]] : One note played alone
+> - [[melody]] : Sequential notes, not simultaneous
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Play a few chords
+> 2. Strum a few chords
+> 3. Simple chords
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The guitarist played a few chords to warm up before the concert.
+> - **Translation:** Tay guitar đã chơi vài hợp âm để làm nóng tay trước buổi hòa nhạc.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She learned to play a few chords on the piano in just one week.
+> - **Translation:** Cô ấy đã học chơi vài hợp âm trên dương cầm chỉ trong một tuần.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with "cord"**
+> - ❌ **Mistake:** I can play a few cords
+> - ✅ **Correction:** I can play a few chords
+> - **Why:** "Chord" is for music, "cord" is for rope/string
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "With just a few chords, she created a melody that moved everyone to tears."
+> **Source:** [[Music Appreciation Text]]
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a few chords** (*/ə fjuː kɔːrdz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A small number of musical notes played simultaneously to create harmony
+> 🇻🇳 **Vietnamese:** Vài hợp âm
+> 🗣️ **IPA:** */ə fjuː kɔːrdz/*
+> 🧠 **Mental Model:** Multiple notes (3-4) pressed/played cùng lúc = harmony foundation trong music
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Multiple musical notes played simultaneously to create harmony"
+**Vietnamese:** Vài hợp âm
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a few chords** (*/ə fjuː kɔːrdz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a few chords** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The beginner guitarist proudly played a few chords for his family.
+> 🇻🇳 **Translation:** Tay guitar mới học tự hào chơi vài hợp âm cho gia đình.
+> 🔍 **Analysis:** Perfect ở đây vì nó shows beginner's achievement - "a few chords" implies basic skill level trong music learning journey
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a few chords**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** play/strum a few chords (VD: chơi/gảy vài hợp âm)
+> 2. **Learning:** learn a few chords (VD: học vài hợp âm)
+> 3. **Type:** simple/basic/major chords (VD: hợp âm đơn giản/cơ bản/trưởng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a few chords**:
+"He played some music."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He strummed a few chords on his old guitar."
+> 💡 **Why it works:** "A few chords" creates specific musical image - readers hear the sound và see the action thay vì vague "played music"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a few chords** instead of **some music**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a few chords:** Specific about playing multiple notes simultaneously for harmony, suggests instrumental skill (VN: cụ thể về kỹ thuật nhạc cụ)
+> **some music:** General, could be listening or any form of music (VN: chung chung về âm nhạc)
+> 🧱 **The Barrier:** Specific musical action vs general music reference
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a campfire. Someone hands you a guitar. Everyone expects you to play. You feel a bit nervous but ready. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Alright everyone, I know a few chords we can all sing along to!"
+> 👨‍🎨 **Director's Note:** Shows casual confidence và musical participation - "a few chords" signals accessible, group-friendly performance
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `chord` (Latin "chorda") to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin "chorda" (string/gut) - originally the physical strings of instruments, evolved to mean the sound created when multiple strings work together in harmony
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a few chords**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `chorda` (string)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[chord]] /kɔːrd/
+> - *(noun)* [[harmony]] /ˈhɑːrməni/
+> - *(verb)* [[harmonize]] /ˈhɑːrmənaɪz/
+> - *(adj)* [[harmonious]] /hɑːrˈmoʊniəs/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə fjuː kɔːrdz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a few chords**
+> 📖 **Meaning:** Multiple musical notes played simultaneously
+> 🇻🇳 **Vietnamese:** Vài hợp âm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a few chords**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She can play a few cords on the guitar"
+> ✅ **Correction:** "She can play a few chords on the guitar"
+> 🧠 **Why:** "Chord" is for music (notes together), "cord" is for rope/string - common homophone confusion
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of playing **a few chords**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> **Opposite Actions:**
+> - [[play a single note]] (one note at a time)
+> - [[play a melody]] (sequential notes)
+> 🧱 **Contrast:** Simultaneous harmony vs sequential single notes

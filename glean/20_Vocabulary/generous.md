@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [generously, generosity, ungenerous, ungently, big-hearted]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈdʒen.ər.əs/
+> **Part of Speech:** adjective
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** From Latin generosus "of noble birth, noble," from genus "race, birth"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:**
+> 1. Giving more than is necessary or expected
+> 2. Kind and liberal in giving
+>
+> **Context Meaning:**
+> 1. Willing to give money, help, or things freely
+> 2. Larger or more plentiful than average
+> 3. Kind, forgiving, or lenient
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hào phóng, rộng lượng, hào hiệp
+> - **Contextual:** bao dung, cho nhiều, lớn hơn trung bình
+>
 > **Nuances:**
-> - ...
+> - Positive trait associated with kindness
+> - Can refer to money, time, or emotions
+> - Often implies nobility of spirit
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Giving, Noble, Kind-hearted
+> **Memory Hook:** Think of someone giving you a bigger piece of cake - that's being generous
+> **📖 Etymology Story:** From Latin generosus "noble birth." Originally, being generous was considered a quality of nobility - those born to high status were expected to give freely to others. Like nobles sharing their wealth with commoners, generosity elevates both giver and receiver, making everyone feel richer in spirit.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[generosity]] /ˌdʒen.əˈrɒs.ə.ti/
+> - **Adv:** [[generously]] /ˈdʒen.ər.əs.li/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[liberal]] /ˈlɪb.ər.əl/ : giving freely
+> - [[magnanimous]] /mæɡˈnæn.ɪ.məs/ : generous in forgiving
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[stingy]] /ˈstɪn.dʒi/ : unwilling to spend
+> - [[mean]] /miːn/ : ungenerous with money
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. generous with
+> 2. generous donation
+> 3. generous portion
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The generous billionaire donated half his fortune to charity.
+> - **Translation:** Tỷ phú hào phóng đã quyên góp một nửa tài sản của mình cho tổ chức từ thiện.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She was generous with her time, always helping students after class.
+> - **Translation:** Cô ấy rất rộng lượng với thời gian của mình, luôn giúp đỡ sinh viên sau giờ học.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Generous vs Grateful**
+> - ❌ **Mistake:** I'm generous for your help.
+> - ✅ **Correction:** I'm grateful for your help.
+> - **Why:** "Generous" is giving to others, "grateful" is receiving thanks
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Generosity is not giving me that which I need more than you do, but it is giving me that which you need more than I do."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +84,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **generous** (*/ˈdʒen.ər.əs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Willing to give more than necessary; kind, liberal in giving money, time, or help
+> 🇻🇳 **Vietnamese:** Sẵn sàng cho đi nhiều hơn cần thiết; tốt bụng, rộng lượng trong việc cho tiền, thời gian, sự giúp đỡ
+> 🗣️ **IPA:** */ˈdʒen.ər.əs/*
+> 🧠 **Mental Model:** Hình dung người cho bạn miếng bánh lớn hơn - đó là generous (hào phóng)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Willing to give more than is necessary or expected"
+**Vietnamese:** Sẵn sàng cho đi nhiều hơn mức cần thiết hoặc mong đợi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**generous** (*/ˈdʒen.ər.əs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **generous** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The generous host offered his guests unlimited food and drinks throughout the evening.
+> 🇻🇳 **Translation:** Chủ nhà hào phóng đã cung cấp cho khách không giới hạn thức ăn và uống suốt buổi tối.
+> 🔍 **Analysis:** Generous thể hiện sự rộng lượng và chu đáo, cho thấy tính cách hiếu khách
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **generous**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality:** generous with (rộng lượng với - đối tượng cho đi)
+> 2. **Action:** generous donation/offering (sự quyên góp rộng lượng)
+> 3. **Quantity:** generous portion/amount (phần/lượng hào phóng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **generous**:
+"He gave me good advice."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The professor shared generous insights that guided my research in unexpected directions."
+> 💡 **Why it works:** "Generous" tạo cảm giác về sự cho đi quý giá hơn "good"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **generous** instead of **kind**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **generous:** Cho đi nhiều hơn mức trung bình (VN: hào phóng, rộng lượng)
+> **kind:** Tốt bụng, đối xử lịch sự (VN: tốt bụng, hiền lành)
+> 🧱 **The Barrier:** Generous là quantity of giving, kind là quality of behavior (VN: generous là số lượng cho đi, kind là chất lượng cách đối xử)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend offers you their spare room when you're between apartments. You feel grateful. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "That's so generous of you! I really appreciate your kindness."
+> 👨‧🎨 **Director's Note:** Generous thể hiện sự cho đi có giá trị (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `generosus` to the meaning of **generous**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin generosus "quý tộc". Ban đầu, generous là phẩm chất của quý tộc - những người có địa vị cao được mong đợi cho đi rộng rãi. Như quý tộc chia sẻ của cải, generosity nâng cả người cho và người nhận.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **generous**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `generosus` (of noble birth)
+> 👨‧👩‧👧 **Family:**
+> - *(noun)* generosity (sự hào phóng, lòng bao dung)
+> - *(adv)* generously (một cách hào phóng)
+> - *(noun)* genus (giống, loại - cùng gốc)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈdʒen.ər.əs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**generous**
+> 📖 **Meaning:** Willing to give more than is necessary or expected
+> 🇻🇳 **Vietnamese:** Sẵn sàng cho đi nhiều hơn mức cần thiết hoặc mong đợi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **generous**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I am generosity"
+> ✅ **Correction:** "I am generous" / "I have generosity"
+> 🧱 **Why:** Generous là tính từ, generosity là danh từ
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **generous**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[stingy]] (keo kiệt)
+> - [[selfish]] (ích kỷ)
+> 🧱 **Contrast:** Generous gives freely, stingy holds tightly
 
 ---

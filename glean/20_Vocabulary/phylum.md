@@ -1,159 +1,76 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
 #flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [phyla, taxonomic rank, biological classification, taxon, division]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfaɪləm/
+> **Part of Speech:** noun
+> **CEFR Level:** C1
+> **Register:** academic/scientific
+> **Etymology:** From Greek "phylon" meaning "tribe" or "race"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A principal taxonomic category ranking above class and below kingdom
+>
+> **Context Meaning:** A major biological classification group that organisms with similar basic organization and characteristics belong to
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ngành
+> - **Contextual:** phân loại sinh học, một nhánh trong hệ thống phân loại
+>
 > **Nuances:**
-> - ...
+> - Second highest taxonomic rank after kingdom
+> - Based on fundamental body plans and developmental patterns
+> - Critical for understanding evolutionary relationships
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Scientific, Hierarchical, Organized
+> **Memory Hook:** Think of a family tree - kingdom is the root, phylum is the main branch, class is smaller branches
+> **📖 Etymology Story:** From Greek "phylon" (tribe/race) - ancient naturalists grouped living things into "tribes" based on their fundamental characteristics, creating the modern phylum system
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[phylum]] /ˈfaɪləm/, [[phyla]] /ˈfaɪlə/ (plural)
+> - **Adj:** [[phylogenetic]] /ˌfaɪləʊdʒəˈnetɪk/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[division]] /dɪˈvɪʒn/ : Used for plants and fungi
+> - [[taxon]] /ˈtæksɒn/ : General term for taxonomic group
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[species]] /ˈspiːʃiːz/ : Most specific taxonomic rank
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Phylum Chordata
+> 2. Belong to a phylum
+> 3. Phylum classification
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Humans belong to the phylum Chordata, characterized by having a spinal cord.
+> - **Translation:** Con người thuộc ngành Chordata, đặc trưng bởi có dây sống.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The phylum Arthropoda includes insects, spiders, and crustaceans.
+> - **Translation:** Ngành Arthropoda bao gồm côn trùng, nhện và giáp xác.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural Form**
+> - ❌ **Mistake:** phylums
+> - ✅ **Correction:** phyla
+> - **Why:** "Phylum" follows Greek pluralization rules, not English
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The new species was difficult to classify as it showed characteristics of two different phyla."
+> **Source:** [[Journal of Taxonomy]]
 
 ---
 
@@ -161,121 +78,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **phylum** (*/ˈfaɪləm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A major taxonomic category in biology ranking above class and below kingdom
+> 🇻🇳 **Vietnamese:** Ngành (phân loại sinh học)
+> 🗣️ **IPA:** */ˈfaɪləm/*
+> 🧠 **Mental Model:** Hierarchy của classification: Kingdom > Phylum > Class > Order > Family > Genus > Species
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A principal taxonomic category ranking above class and below kingdom"
+**Vietnamese:** Ngành (phân loại sinh học)
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**phylum** (*/ˈfaɪləm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **phylum** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** All mammals share the same phylum, which explains their fundamental biological similarities.
+> 🇻🇳 **Translation:** Tất cả động vật có vú cùng thuộc một ngành, điều này giải thích sự tương đồng về sinh học cơ bản của chúng.
+> 🔍 **Analysis:** Perfect ở đây vì nó shows high-level classification connecting diverse species - "phylum" emphasizes fundamental similarities trong diverse group
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **phylum**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Classification:** phylum classification (VD: phân loại ngành)
+> 2. **Membership:** belong to a phylum (VD: thuộc một ngành)
+> 3. **Specific Examples:** Phylum Chordata/Arthropoda/Mollusca (VD: ngành Có dây sống/Chân khớp/Mề)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **phylum**:
+"These animals are grouped together."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "These diverse creatures all belong to the same phylum due to their segmented bodies."
+> 💡 **Why it works:** "Phylum" adds scientific precision và evolutionary context - readers understand deep biological connections thay vì vague grouping
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **phylum** instead of **group**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **phylum:** Specific scientific taxonomic rank with strict criteria, indicates evolutionary relationships (VN: phân loại khoa học chính xác)
+> **group:** General, informal collection, can be based on any characteristic (VN: tập hợp chung chung)
+> 🧱 **The Barrier:** Scientific precision vs casual grouping
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a biologist discovering a new species. It has features of two major groups. You feel confused. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This organism challenges traditional phylum boundaries with its unique characteristics!"
+> 👨‍🎨 **Director's Note:** Shows scientific discovery và questioning - "phylum" indicates fundamental classification system being challenged
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `phylon` (Greek) to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Greek "phylon" (tribe/race) - ancient Greeks organized people into tribes, later naturalists applied this concept to organize living things based on their "tribal" characteristics
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **phylum**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `phylon` (tribe, race)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[phyla]] /ˈfaɪlə/ (plural)
+> - *(adj)* [[phylogenetic]] /ˌfaɪləʊdʒəˈnetɪk/
+> - *(noun)* [[phylogeny]] /faɪˈlɒdʒəni/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfaɪləm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**phylum**
+> 📖 **Meaning:** A major biological classification category
+> 🇻🇳 **Vietnamese:** Ngành (phân loại sinh học)
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **phylum**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The animal belongs to one of the many phylums"
+> ✅ **Correction:** "The animal belongs to one of the many phyla"
+> 🧠 **Why:** "Phylum" is Greek - plural is "phyla", not English "-s"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite level of classification to **phylum**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> **Opposite Levels:**
+> - [[species]] /ˈspiːʃiːz/ (most specific)
+> - [[kingdom]] /ˈkɪŋdəm/ (most broad)
+> 🧱 **Contrast:** Major grouping vs most specific category in taxonomy

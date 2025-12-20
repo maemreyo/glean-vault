@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
 #flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [coastguard, coast guard, coastguards, maritime rescue, coastal protection]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ðə ˈkoʊstɡɑːrd/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** official/formal
+> **Etymology:** Compound of "coast" (Latin "costa" meaning side/slope) and "guard" (French "garde")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A organization that guards the coast
+>
+> **Context Meaning:** A maritime organization responsible for coastal defense, law enforcement, and search and rescue operations at sea
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** lực lượng cảnh sát biển
+> - **Contextual:** đội cứu hộ biển, lực lượng bảo vệ bờ biển
+>
 > **Nuances:**
-> - ...
+> - Often combines military and civilian responsibilities
+> - Critical for maritime safety and security
+> - Works in close cooperation with other emergency services
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Protective, Vigilant, Heroic
+> **Memory Hook:** Think of guardians standing watch on cliffs, scanning the horizon for ships in trouble - that's the coastguard on duty
+> **📖 Etymology Story:** From Latin "costa" (side/slope) + French "garde" (guard) - literally those who guard the coastline where land meets sea, protecting ships and shores
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[coastguard]] /ˈkoʊstɡɑːrd/, [[coast]] /koʊst/, [[guard]] /ɡɑːrd/
+> - **Verb:** [[guard]] /ɡɑːrd/
+> - **Adj:** [[coastal]] /ˈkoʊstl/, [[maritime]] /ˈmærətaɪm/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[maritime rescue service]] : Focus on rescue operations
+> - [[coastal patrol]] : Focus on monitoring
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms - it's a specific organization type
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Call the coastguard
+> 2. Coastguard rescue
+> 3. Join the coastguard
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The coastguard rescued all 15 sailors from the sinking vessel.
+> - **Translation:** Lực lượng cảnh sát biển đã giải cứu tất cả 15 thủy thủ từ con tàu đang chìm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The coastguard helicopter circled overhead searching for survivors.
+> - **Translation:** Trực thăng của lực lượng cảnh sát biển bay vòng phía trên tìm kiếm người sống sót.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Compound Word**
+> - ❌ **Mistake:** coast guard
+> - ✅ **Correction:** coastguard
+> - **Why:** Can be one word (coastguard) or two words (coast guard), but consistency matters
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The coastguard is always ready, 24/7, rain or shine."
+> **Source:** [[Maritime Safety Manual]]
 
 ---
 
@@ -161,121 +79,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **the coastguard** (*/ðə ˈkoʊstɡɑːrd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A maritime organization responsible for coastal defense and search and rescue operations at sea
+> 🇻🇳 **Vietnamese:** Lực lượng cảnh sát biển
+> 🗣️ **IPA:** */ðə ˈkoʊstɡɑːrd/*
+> 🧠 **Mental Model:** Protection organization + coastal areas + sea operations = guardians of coast và maritime safety
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A maritime organization responsible for coastal defense and rescue operations"
+**Vietnamese:** Lực lượng cảnh sát biển
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**the coastguard** (*/ðə ˈkoʊstɡɑːrd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **the coastguard** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The coastguard immediately dispatched three boats to search for the missing fishermen.
+> 🇻🇳 **Translation:** Lực lượng cảnh sát biển ngay lập tức điều ba thuyền đi tìm kiếm những ngư dân mất tích.
+> 🔍 **Analysis:** Perfect ở đây vì nó shows emergency response capability - "the coastguard" emphasizes official responsibility cho maritime safety
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **the coastguard**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Emergency:** call/contact the coastguard (VD: gọi/liên lạc cảnh sát biển)
+> 2. **Action:** coastguard rescue/operation/patrol (VD: cuộc giải cứu/hoạt động/vòng tuần tra của cảnh sát biển)
+> 3. **Personnel:** coastguard officer/vessel (VD: sĩ quan/tàu của cảnh sát biển)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **the coastguard**:
+"Someone helped the people on the sinking ship."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The coastguard coordinated a dramatic nighttime rescue of the stranded crew."
+> 💡 **Why it works:** "The coastguard" adds official authority và specialized expertise - readers understand organized professional response thay vì vague "someone helped"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **the coastguard** instead of **rescuers**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **the coastguard:** Specific official maritime organization with legal authority và training (VN: tổ chức chính thức chuyên trách)
+> **rescuers:** General term for anyone who helps, can be unofficial (VN: người cứu hộ chung chung)
+> 🧱 **The Barrier:** Official authority vs general assistance
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're sailing and see flares in the distance. You need help urgently. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Quick! Radio the coastguard - there's a ship in distress!"
+> 👨‍🎨 **Director's Note:** Shows urgency và knowledge of emergency protocols - "the coastguard" is the correct authority cho maritime emergencies
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `coast` + `guard` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "costa" (side/slope) + French "garde" (guard) - literally those who stand guard where land slopes into sea, protecting the boundary between earth and ocean
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **the coastguard**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `costa` (side) + French `garde` (guard)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[coast]] /koʊst/
+> - *(noun)* [[guard]] /ɡɑːrd/
+> - *(adj)* [[coastal]] /ˈkoʊstl/
+> - *(adj)* [[maritime]] /ˈmærətaɪm/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ðə ˈkoʊstɡɑːrd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**the coastguard**
+> 📖 **Meaning:** Maritime rescue and protection organization
+> 🇻🇳 **Vietnamese:** Lực lượng cảnh sát biển
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **the coastguard**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "We need to call the coastguards" (treating as plural)
+> ✅ **Correction:** "We need to call the coastguard" (organization name)
+> 🧠 **Why:** "The coastguard" is singular - refers to the entire organization, not individual guards
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What might oppose **the coastguard** in their duties?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> **Opposing Forces:**
+> - [[smugglers]] /ˈsmʌɡlərz/ (illegal activities)
+> - [[polluters]] /pəˈluːtərz/ (environmental threats)
+> 🧱 **Contrast:** Protection vs threats to maritime safety
