@@ -85,6 +85,7 @@ What does **strumming** (*/ˈstrʌmɪŋ/*) mean?
 > 🇻🇳 **Vietnamese:** Gảy đàn, vuốt đàn, kéo đàn
 > 🗣️ **IPA:** */ˈstrʌmɪŋ/*
 > 🧠 **Mental Model:** Hành động vuốt ngón tay qua dây đàn để tạo âm thanh liên tục như "vuốt tóc"
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -95,6 +96,7 @@ What does **strumming** (*/ˈstrʌmɪŋ/*) mean?
 → **Target Word?**
 ?
 **strumming** (*/ˈstrʌmɪŋ/*)
+<!--SR:!2025-12-24,4,270-->
 
 ---
 
@@ -105,6 +107,7 @@ Use **strumming** in a sentence.
 > 📝 **Sentence:** The campers gathered around the fire, strumming their guitars and singing folk songs.
 > 🇻🇳 **Vietnamese:** Những người cắm trại tụ tập quanh đống lửa, gảy đàn guitar và hát những bài dân ca.
 > 🔍 **Analysis:** Perfect here - 'strumming' captures the casual, rhythmic guitar playing typical of campfire songs
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -116,6 +119,7 @@ List 3 common collocations for **strumming**.
 > 1. **Instrument:** strumming a guitar/ukulele/banjo (chỉ loại đàn)
 > 2. **Manner:** gently/softly/absentmindedly strumming (chỉ cách gảy)
 > 3. **Musical:** strumming chords/melodies/rhythms (chỉ nội dung)
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -126,6 +130,7 @@ List 3 common collocations for **strumming**.
 ?
 > 🖋️ **Advanced:** "He was strumming his guitar, creating a gentle melody that filled the quiet room."
 > 💡 **Why it works:** 'Strumming' thêm hình ảnh cụ thể về cách chơi - vuốt dây đàn thay vì chỉ nói chung chung
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -136,6 +141,7 @@ List 3 common collocations for **strumming**.
 > **strumming:** Chỉ specific technique - vuốt dây đàn tạo âm liên tục
 > **playing:** General term - có thể bao gồm nhiều techniques
 > 🧱 **The Barrier:** strumming = specific sweeping motion vs playing = any method of making music
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -145,6 +151,7 @@ List 3 common collocations for **strumming**.
 ?
 > 🎬 **Line:** "Nothing beats strumming a ukulele while listening to the ocean waves."
 > 👨‍🎨 **Director's Note:** 'Strumming' tạo cảm giác thư thái, casual - perfect cho beach vibe
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -153,6 +160,7 @@ List 3 common collocations for **strumming**.
 🌱 **Origins:** Link the onomatopoeic root to the meaning of **strumming**.
 ?
 > 📜 **Story:** Từ bắt chước âm thanh 'strum-strum' khi ngón tay vuốt qua dây đàn - word captures cả action và sound
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -165,6 +173,7 @@ Analyze the root/family of **strumming**.
 > - *(verb)* [[strum]] (hành động gảy đàn)
 > - *(noun)* [[strummer]] (người gảy đàn)
 > - *(adj)* [[strummed]] (đã được gảy)
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -175,6 +184,7 @@ Analyze the root/family of **strumming**.
 **strumming**
 > 📖 **Meaning:** Playing strings with sweeping motion
 > 🇻🇳 **Vietnamese:** Gảy đàn, vuốt đàn
+<!--SR:!2025-12-23,3,250-->
 
 ---
 
@@ -185,6 +195,7 @@ Analyze the root/family of **strumming**.
 > ❌ **Mistake:** She was strumming the piano keys.
 > ✅ **Correction:** She was playing/strumming the piano keys.
 > 🧠 **Why:** 'Strumming' chỉ dùng cho string instruments, piano là keyboard/hammer action
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -196,3 +207,4 @@ Analyze the root/family of **strumming**.
 > - [[plucking]] (gảy từng dây riêng lẻ)
 > - [[bowing]] (kéo vĩ cầm)
 > 🧱 **Contrast:** strumming = continuous sweep vs plucking/bowing = individual notes
+<!--SR:!2025-12-21,1,230-->

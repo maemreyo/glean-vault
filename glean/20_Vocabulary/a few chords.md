@@ -87,6 +87,7 @@ What does **a few chords** (*/ə fjuː kɔːrdz/*) mean?
 > 🇻🇳 **Vietnamese:** Vài hợp âm
 > 🗣️ **IPA:** */ə fjuː kɔːrdz/*
 > 🧠 **Mental Model:** Multiple notes (3-4) pressed/played cùng lúc = harmony foundation trong music
+<!--SR:!2025-12-24,4,270-->
 
 ---
 
@@ -97,6 +98,7 @@ What does **a few chords** (*/ə fjuː kɔːrdz/*) mean?
 → **Target Word?**
 ?
 **a few chords** (*/ə fjuː kɔːrdz/*)
+<!--SR:!2025-12-24,4,270-->
 
 ---
 
@@ -107,6 +109,7 @@ Use **a few chords** in a sentence.
 > 📝 **Sentence:** The beginner guitarist proudly played a few chords for his family.
 > 🇻🇳 **Translation:** Tay guitar mới học tự hào chơi vài hợp âm cho gia đình.
 > 🔍 **Analysis:** Perfect ở đây vì nó shows beginner's achievement - "a few chords" implies basic skill level trong music learning journey
+<!--SR:!2025-12-24,4,270-->
 
 ---
 
@@ -118,6 +121,7 @@ List 3 common collocations for **a few chords**.
 > 1. **Action:** play/strum a few chords (VD: chơi/gảy vài hợp âm)
 > 2. **Learning:** learn a few chords (VD: học vài hợp âm)
 > 3. **Type:** simple/basic/major chords (VD: hợp âm đơn giản/cơ bản/trưởng)
+<!--SR:!2025-12-23,3,250-->
 
 ---
 
@@ -128,6 +132,7 @@ List 3 common collocations for **a few chords**.
 ?
 > 🖋️ **Advanced:** "He strummed a few chords on his old guitar."
 > 💡 **Why it works:** "A few chords" creates specific musical image - readers hear the sound và see the action thay vì vague "played music"
+<!--SR:!2025-12-23,3,250-->
 
 ---
 
@@ -138,6 +143,7 @@ List 3 common collocations for **a few chords**.
 > **a few chords:** Specific about playing multiple notes simultaneously for harmony, suggests instrumental skill (VN: cụ thể về kỹ thuật nhạc cụ)
 > **some music:** General, could be listening or any form of music (VN: chung chung về âm nhạc)
 > 🧱 **The Barrier:** Specific musical action vs general music reference
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -147,6 +153,7 @@ List 3 common collocations for **a few chords**.
 ?
 > 🎬 **Line:** "Alright everyone, I know a few chords we can all sing along to!"
 > 👨‍🎨 **Director's Note:** Shows casual confidence và musical participation - "a few chords" signals accessible, group-friendly performance
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -155,6 +162,7 @@ List 3 common collocations for **a few chords**.
 🌱 **Origins:** Link the root `chord` (Latin "chorda") to the meaning.
 ?
 > 📜 **Story:** From Latin "chorda" (string/gut) - originally the physical strings of instruments, evolved to mean the sound created when multiple strings work together in harmony
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -168,6 +176,7 @@ Analyze the root/family of **a few chords**.
 > - *(noun)* [[harmony]] /ˈhɑːrməni/
 > - *(verb)* [[harmonize]] /ˈhɑːrmənaɪz/
 > - *(adj)* [[harmonious]] /hɑːrˈmoʊniəs/
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -178,6 +187,7 @@ Analyze the root/family of **a few chords**.
 **a few chords**
 > 📖 **Meaning:** Multiple musical notes played simultaneously
 > 🇻🇳 **Vietnamese:** Vài hợp âm
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -188,6 +198,7 @@ Analyze the root/family of **a few chords**.
 > ❌ **Mistake:** "She can play a few cords on the guitar"
 > ✅ **Correction:** "She can play a few chords on the guitar"
 > 🧠 **Why:** "Chord" is for music (notes together), "cord" is for rope/string - common homophone confusion
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -199,3 +210,4 @@ Analyze the root/family of **a few chords**.
 > - [[play a single note]] (one note at a time)
 > - [[play a melody]] (sequential notes)
 > 🧱 **Contrast:** Simultaneous harmony vs sequential single notes
+<!--SR:!2025-12-21,1,230-->

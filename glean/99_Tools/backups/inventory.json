@@ -571,5 +571,21 @@
     "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_155217_0be734_Practice Cam 19 Listening Test 02.md",
     "changes_count": 16,
     "tool": "clean_quotes"
+  },
+  {
+    "id": "20251220_231015_0ebc38",
+    "timestamp": "20251220_231015",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_231015_0ebc38_Cam 19 Listening Test 03.md",
+    "changes_count": 128,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251220_231015_034b54",
+    "timestamp": "20251220_231015",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Audioscripts Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_231015_034b54_Audioscripts Cam 19 Listening Test 03.md",
+    "changes_count": 124,
+    "tool": "clean_quotes"
   }
 ]

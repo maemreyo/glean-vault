@@ -88,6 +88,7 @@ What does **finger picking** (*/ˈfɪŋɡər ˈpɪkɪŋ/*) mean?
 > 🇻🇳 **Vietnamese:** Kỹ thuật gảy bằng ngón tay
 > 🗣️ **IPA:** */ˈfɪŋɡər ˈpɪkɪŋ/*
 > 🧠 **Mental Model:** Using fingers separately + pluck individual strings = create complex melodies và harmonies
+<!--SR:!2025-12-23,3,250-->
 
 ---
 
@@ -98,6 +99,7 @@ What does **finger picking** (*/ˈfɪŋɡər ˈpɪkɪŋ/*) mean?
 → **Target Word?**
 ?
 **finger picking** (*/ˈfɪŋɡər ˈpɪkɪŋ/*)
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -108,6 +110,7 @@ Use **finger picking** in a sentence.
 > 📝 **Sentence:** The folk musician's gentle finger picking created a soothing atmosphere in the coffee shop.
 > 🇻🇳 **Translation:** Kỹ thuật gảy nhẹ nhàng bằng ngón tay của nhạc sĩ dân gian đã tạo ra không khí yên ả trong quán cà phê.
 > 🔍 **Analysis:** Perfect ở đây vì nó shows artistic technique creating mood - "finger picking" emphasizes sophisticated, delicate playing style
+<!--SR:!2025-12-23,3,250-->
 
 ---
 
@@ -119,6 +122,7 @@ List 3 common collocations for **finger picking**.
 > 1. **Skill Level:** master/learn/practice finger picking (VD: thành thạo/học/luyện tập finger picking)
 > 2. **Pattern:** finger picking pattern/style/technique (VD: khuôn mẫu/phong cách/kỹ thuật)
 > 3. **Instrument:** guitar/finger picking (VD: guitar finger picking)
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -129,6 +133,7 @@ List 3 common collocations for **finger picking**.
 ?
 > 🖋️ **Advanced:** "He mesmerized the crowd with his intricate finger picking on the acoustic guitar."
 > 💡 **Why it works:** "Finger picking" adds specific technical skill và artistry - readers understand sophisticated guitar technique
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -148,6 +153,7 @@ List 3 common collocations for **finger picking**.
 ?
 > 🎬 **Line:** "I specialize in finger picking - it allows me to play bass and melody together!"
 > 👨‍🎨 **Director's Note:** Shows expertise và musical knowledge - "finger picking" indicates advanced technical ability
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -156,6 +162,7 @@ List 3 common collocations for **finger picking**.
 🌱 **Origins:** Link the roots `finger` + `picking` to the meaning.
 ?
 > 📜 **Story:** From literally "picking" strings with fingers - like carefully selecting each string to pluck, evolved into sophisticated technique creating music with fingertips
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -169,6 +176,7 @@ Analyze the root/family of **finger picking**.
 > - *(verb)* [[pick]] /pɪk/
 > - *(verb)* [[fingerpick]] /ˈfɪŋɡərpɪk/
 > - *(adj)* [[fingerpicked]] /ˈfɪŋɡərpɪkt/
+<!--SR:!2025-12-23,3,250-->
 
 ---
 
@@ -179,6 +187,7 @@ Analyze the root/family of **finger picking**.
 **finger picking**
 > 📖 **Meaning:** Guitar technique using fingers to pluck strings
 > 🇻🇳 **Vietnamese:** Kỹ thuật gảy bằng ngón tay
+<!--SR:!2025-12-24,4,270-->
 
 ---
 

@@ -87,6 +87,7 @@ What does **chord** (*/kɔːd/*) mean?
 > 🇻🇳 **Vietnamese:** Hợp âm (âm nhạc), đường nối (hình học)
 > 🗣️ **IPA:** */kɔːd/*
 > 🧠 **Mental Model:** Nhiều note cùng play → tạo harmony như nhiều dây đàn cùng rung
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -97,6 +98,7 @@ What does **chord** (*/kɔːd/*) mean?
 → **Target Word?**
 ?
 **chord** (*/kɔːd/*)
+<!--SR:!2025-12-23,3,250-->
 
 ---
 
@@ -107,6 +109,7 @@ Use **chord** in a sentence.
 > 📝 **Sentence:** Learning to transition between chords smoothly is essential for any aspiring guitarist.
 > 🇻🇳 **Vietnamese:** Việc học cách chuyển hợp âm một cách mượt mà là điều thiết yếu cho bất kỳ ai muốn trở thành guitarist.
 > 🔍 **Analysis:** Perfect here - 'chords' refers to the fundamental building blocks of guitar music that players must master
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -118,6 +121,7 @@ List 3 common collocations for **chord**.
 > 1. **Musical:** play/strum/strike a chord (chỉ hành động chơi nhạc)
 > 2. **Types:** major/minor/dominant chord (chỉ loại hợp âm)
 > 3. **Figurative:** strike a chord (resonate emotionally)
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -128,6 +132,7 @@ List 3 common collocations for **chord**.
 ?
 > 🖋️ **Advanced:** "The guitarist masterfully played a series of complex chords that created rich, emotional harmonies."
 > 💡 **Why it works:** 'Chords' thêm musical specificity - thay vì generic 'music', chỉ định harmonic elements
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -138,6 +143,7 @@ List 3 common collocations for **chord**.
 > **chord:** Multiple notes simultaneously creating harmony
 > **note:** Single individual pitch
 > 🧱 **The Barrier:** chord = vertical harmony (multiple at once) vs note = horizontal melody (one after another)
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -147,6 +153,7 @@ List 3 common collocations for **chord**.
 ?
 > 🎬 **Line:** "That's a G major chord - notice how the three notes work together to create that rich, full sound?"
 > 👨‍🎨 **Director's Note:** Educational moment - 'chord' perfect để giải thích harmonic structure
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -155,6 +162,7 @@ List 3 common collocations for **chord**.
 🌱 **Origins:** Link the root `khordē` to the meaning of **chord**.
 ?
 > 📜 **Story:** Từ 'khordē' (dây đàn ruột cừu) → khi nhiều dây cùng rung → tạo harmony → 'chord' = cả vật lý (dây) và âm nhạc (hợp âm)
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -167,6 +175,7 @@ Analyze the root/family of **chord**.
 > - *(verb)* [[chord]] (tạo hòa âm)
 > - *(adj)* [[chordal]] (liên quan đến hợp âm)
 > - *(noun)* [[cord]] (sợi dây - không có h)
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -177,6 +186,7 @@ Analyze the root/family of **chord**.
 **chord**
 > 📖 **Meaning:** Multiple notes played simultaneously in harmony
 > 🇻🇳 **Vietnamese:** Hợp âm
+<!--SR:!2025-12-21,1,230-->
 
 ---
 
@@ -187,6 +197,7 @@ Analyze the root/family of **chord**.
 > ❌ **Mistake:** The musician played a beautiful cord.
 > ✅ **Correction:** The musician played a beautiful chord.
 > 🧠 **Why:** 'Chord' = âm nhạc (có h), 'cord' = dây/thắt lưng (không h)
+<!--SR:!2025-12-23,3,250-->
 
 ---
 
@@ -198,3 +209,4 @@ Analyze the root/family of **chord**.
 > - [[note]] (nốt đơn)
 > - [[dissonance]] (vô hòa âm)
 > 🧱 **Contrast:** chord = harmonious combination vs note/dissonance = single pitch/unharmonious
+<!--SR:!2025-12-21,1,230-->
