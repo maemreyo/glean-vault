@@ -1,5 +1,30 @@
 [
   {
+    "id": "20251220_122719_943431",
+    "timestamp": "20251220_122719",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 01.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_122719_943431_Cam 20 Listening Test 01.md",
+    "changes_count": 2,
+    "changes_sample": [
+      "'Bookshelves' -> '[[20_Vocabulary/Bookshelves|Bookshelves]]'",
+      "'Admittedly, it's not a fast way of travelling, but neither is a car when it's stuck in traffic' -> '[[30_Structures/Admittedly, it's not a fast way of travelling, but neither is a car when it's stuck in traffic|Admittedly, it's not a fast way of travelling, but neither is a car when it's stuck in traffic]]'"
+    ]
+  },
+  {
+    "id": "20251220_122719_502d6b",
+    "timestamp": "20251220_122719",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_122719_502d6b_Cam 19 Listening Test 02.md",
+    "changes_count": 255,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'",
+      "'spell' -> '[[20_Vocabulary/spelt|spell]]'",
+      "'but' -> '[[20_Vocabulary/However|but]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'"
+    ]
+  },
+  {
     "id": "20251219_194304_1b8b0f",
     "timestamp": "20251219_194304",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
