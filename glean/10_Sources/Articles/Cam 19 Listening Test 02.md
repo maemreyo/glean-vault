@@ -1,10 +1,10 @@
-### PART 1
+### [[20_Vocabulary/parcel|PART]] 1
 
 **Questions 1–6**
 
-*Complete the form below.*
+*Complete the [[20_Vocabulary/curve|form]] below.*
 
-*Write **ONE WORD AND/OR A NUMBER** for each answer.*
+*Write **ONE WORD [[20_Vocabulary/In addition|AND]]/OR A NUMBER** for each answer.*
 
 |                          |                                                                           |
 | ------------------------ | ------------------------------------------------------------------------- |
@@ -21,59 +21,39 @@
 
 *Write **ONE WORD ONLY** for each answer.*
 
-<table><tbody><tr><td colspan="3" width="582"><h2>A typical 45-minute guitar lesson</h2></td></tr><tr><td width="95"><p><span><strong>Time</strong></span></p></td><td width="265"><p><span><strong>Activity</strong></span></p></td><td width="222"><p><span><strong>Notes</strong></span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>tuning guitars</span></p></td><td width="222"><p><span>using an app or by <strong>7</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>strumming chords using our thumbs</span></p></td><td width="222"><p><span>keeping time while the teacher is <strong>8</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>15 minutes</span></p></td><td width="265"><p><span>playing songs</span></p></td><td width="222"><p><span>often listening to a <strong>9</strong> ………………… of a song</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>playing single notes and simple tunes</span></p></td><td width="222"><p><span>playing together, then <strong>10</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>noting things to practise at home</span></p></td><td width="222"></td></tr></tbody></table>
+<table><tbody><tr><td colspan="3" width="582"><h2>A [[20_Vocabulary/average|typical]] 45-minute guitar lesson</h2></td></tr><tr><td width="95"><p><span><strong>Time</strong></span></p></td><td width="265"><p><span><strong>Activity</strong></span></p></td><td width="222"><p><span><strong>Notes</strong></span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/tune|tuning]] guitars</span></p></td><td width="222"><p><span>using an app or by <strong>7</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/strumming|strumming]] [[20_Vocabulary/chord|chords]] using our [[20_Vocabulary/thumbs|thumbs]]</span></p></td><td width="222"><p><span>keeping time [[20_Vocabulary/Admittedly|while]] the [[20_Vocabulary/trainer|teacher]] is <strong>8</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>15 minutes</span></p></td><td width="265"><p><span>playing songs</span></p></td><td width="222"><p><span>often listening to a <strong>9</strong> ………………… of a song</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>playing single notes [[20_Vocabulary/In addition|and]] simple [[20_Vocabulary/tune|tunes]]</span></p></td><td width="222"><p><span>playing together, then <strong>10</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>noting things to practise at home</span></p></td><td width="222"></td></tr></tbody></table>
 
-Online English Tutors
-
-Writing Correction Services
-
-Listening audio players
-
-Writing practice tests
-
-IELTS listening practice
-
-English Pronunciation Guides
-
-Time Management Courses
-
-English Language Textbooks
-
-Online English tutorials
-
-English Dictionary Apps
-
-### PART 2
+### [[20_Vocabulary/parcel|PART]] 2
 
 **Questions 11–15**
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-## Working as a lifeboat volunteer
+## [[20_Vocabulary/workshop|Working]] as [[20_Vocabulary/a lifeboat volunteer|a lifeboat volunteer]]
 
-**11** What made David leave London and move to Northsea?
+**11** What made David leave London [[20_Vocabulary/In addition|and]] move to [[20_Vocabulary/Northsea|Northsea]]?
 
-**A** He was eager to develop a hobby.
+**A** He was [[20_Vocabulary/eager to|eager to]] develop a hobby.
 
 **B** He wanted to work shorter hours.
 
-**C** He found his job in website design unsatisfying.
+**C** He [[20_Vocabulary/establish|found]] his job in website design [[20_Vocabulary/unsatisfying|unsatisfying]].
 
-**12** The Lifeboat Institution in Northsea was built with money provided by
+**12** The Lifeboat [[20_Vocabulary/Institution|Institution]] in [[20_Vocabulary/Northsea|Northsea]] was built with money provided by
 
-**A** a local organisation.
+**A** a [[20_Vocabulary/neighbour|local]] [[20_Vocabulary/organisation|organisation]].
 
-**B** a local resident.
+**B** a [[20_Vocabulary/neighbour|local]] [[20_Vocabulary/resident|resident]].
 
-**C** the local council.
+**C** the [[20_Vocabulary/neighbour|local]] [[20_Vocabulary/council|council]].
 
-**13** In his health assessment, the doctor was concerned about the fact that David
+**13** In his [[20_Vocabulary/mental health|health]] [[20_Vocabulary/assessment|assessment]], the doctor was concerned about the fact that David
 
 **A** might be colour blind.
 
-**B** was rather short-sighted.
+**B** was rather [[20_Vocabulary/short-sighted|short-sighted]].
 
-**C** had undergone eye surgery.
+**C** had [[20_Vocabulary/undergone|undergone]] eye surgery.
 
 **14** After arriving at the lifeboat station, they aim to launch the boat within
 
@@ -81,145 +61,145 @@ English Dictionary Apps
 
 **B** six to eight minutes.
 
-**C** eight and a half minutes.
+**C** eight [[20_Vocabulary/In addition|and]] a half minutes.
 
-**15** As a 'helmsman', David has the responsibility of deciding
+**15** As a 'helmsman', David has the [[20_Vocabulary/responsible for|responsibility]] of deciding
 
-**A** who will be the members of his crew.
+**A** who [[20_Vocabulary/will|will]] be the members of his crew.
 
-**B** what equipment it will be necessary to take.
+**B** what [[20_Vocabulary/equipment|equipment]] it [[20_Vocabulary/will|will]] be necessary to take.
 
-**C** if the lifeboat should be launched.
+**C** [[20_Vocabulary/suppose|if]] the lifeboat should be launched.
 
-**16** As well as going out on the lifeboat, David
+**16** [[20_Vocabulary/In addition|As well]] as going out on the lifeboat, David
 
 **A** gives talks on safety at sea.
 
-**B** helps with fundraising.
+**B** helps with [[20_Vocabulary/fundraising|fundraising]].
 
 **C** recruits new volunteers.
 
-**Questions 17 and 18**
+**Questions 17 [[20_Vocabulary/In addition|and]] 18**
 
 *Choose **TWO** letters, **A–E**.*
 
-Which **TWO** things does David say about the lifeboat volunteer training?
+Which **TWO** things does David say about the lifeboat volunteer [[20_Vocabulary/trainer|training]]?
 
 **A** The residential course developed his leadership skills.
 
-**B** The training in use of ropes and knots was quite brief.
+**B** The [[20_Vocabulary/trainer|training]] in use of [[20_Vocabulary/rope|ropes]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/knot|knots]] was quite [[20_Vocabulary/brief|brief]].
 
-**C** The training exercises have built up his mental strength.
+**C** The [[20_Vocabulary/trainer|training]] exercises have [[20_Vocabulary/built up|built up]] his [[20_Vocabulary/mental health|mental]] strength.
 
-**D** The casualty care activities were particularly challenging for him.
+**D** The [[20_Vocabulary/casualty|casualty]] [[20_Vocabulary/treatment|care]] activities were particularly challenging for him.
 
-**E** The wave tank activities provided practice in survival techniques.
+**E** The wave tank activities provided practice in [[20_Vocabulary/outlive|survival]] techniques.
 
-**Questions 19 and 20**
+**Questions 19 [[20_Vocabulary/In addition|and]] 20**
 
 *Choose **TWO** letters, **A–E**.*
 
 Which **TWO** things does David find most motivating about the work he does?
 
-**A** working as part of a team
+**A** [[20_Vocabulary/workshop|working]] as [[20_Vocabulary/belong to|part of]] a team
 
-**B** experiences when working in winter
+**B** experiences when [[20_Vocabulary/workshop|working]] in winter
 
 **C** being thanked by those he has helped
 
 **D** the fact that it keeps him fit
 
-**E** the chance to develop new equipment
+**E** the [[20_Vocabulary/opportunity|chance]] to develop new [[20_Vocabulary/equipment|equipment]]
 
-### PART 3
+### [[20_Vocabulary/parcel|PART]] 3
 
 **Questions 21–24**
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**21** At first, Don thought the topic of recycling footwear might be too
+**21** At first, Don thought the topic of recycling [[20_Vocabulary/footwear|footwear]] might be [[20_Vocabulary/In addition|too]]
 
-**A** limited in scope.
+**A** [[20_Vocabulary/limited in scope|limited in scope]].
 
 **B** hard to research.
 
 **C** boring for listeners.
 
-**22** When discussing trainers, Bella and Don disagree about
+**22** When discussing [[20_Vocabulary/trainer|trainers]], Bella [[20_Vocabulary/In addition|and]] Don disagree about
 
 **A** how popular they are among young people.
 
 **B** how suitable they are for school.
 
-**C** how quickly they wear out.
+**C** how quickly they [[20_Vocabulary/worn|wear]] out.
 
-**23** Bella says that she sometimes recycles shoes because
+**23** Bella says that she sometimes recycles [[20_Vocabulary/footwear|shoes]] because
 
-**A** they no longer fit.
+**A** they [[20_Vocabulary/no longer|no longer]] fit.
 
-**B** she no longer likes them.
+**B** she [[20_Vocabulary/no longer|no longer]] likes them.
 
-**C** they are no longer in fashion.
+**C** they are [[20_Vocabulary/no longer|no longer]] in fashion.
 
-**24** What did the article say that confused Don?
+**24** What did the article say that [[20_Vocabulary/disorientation|confused]] Don?
 
-**A** Public consumption of footwear has risen.
+**A** Public [[20_Vocabulary/consumption|consumption]] of [[20_Vocabulary/footwear|footwear]] has risen.
 
-**B** Less footwear is recycled now than in the past.
+**B** Less [[20_Vocabulary/footwear|footwear]] is recycled now than in the [[20_Vocabulary/beyond|past]].
 
-**C** People dispose of more footwear than they used to.
+**C** People [[20_Vocabulary/dispose|dispose]] of more [[20_Vocabulary/footwear|footwear]] than they used to.
 
 **Questions 25–28**
 
-What reasons did the recycling manager give for rejecting footwear, according to the students?
+What reasons did the recycling manager give for rejecting [[20_Vocabulary/footwear|footwear]], according to the students?
 
-*Choose **FOUR** answers from the box and write the correct letter, **A–F**, next to Questions 25–28.*
+*Choose **FOUR** answers from the box [[20_Vocabulary/In addition|and]] write the correct letter, **A–F**, next to Questions 25–28.*
 
 **Reasons**
 
-**A** one shoe was missing
+**A** one [[20_Vocabulary/footwear|shoe]] was missing
 
-**B** the colour of one shoe had faded
+**B** the colour of one [[20_Vocabulary/footwear|shoe]] had faded
 
-**C** one shoe had a hole in it
+**C** one [[20_Vocabulary/footwear|shoe]] had a hole in it
 
-**D** the shoes were brand new
+**D** the [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/brand new|brand new]]
 
-**E** the shoes were too dirty
+**E** the [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/In addition|too]] [[20_Vocabulary/filthy|dirty]]
 
-**F** the stitching on the shoes was broken
+**F** the [[20_Vocabulary/stitching|stitching]] on the [[20_Vocabulary/footwear|shoes]] was broken
 
-**Footwear**
+**[[20_Vocabulary/footwear|Footwear]]**
 
-**25** the high-heeled shoes …………
+**25** the [[20_Vocabulary/high-heeled shoes|high-heeled shoes]] …………
 
-**26** the ankle boots …………
+**26** the ankle [[20_Vocabulary/footwear|boots]] …………
 
-**27** the baby shoes …………
+**27** the baby [[20_Vocabulary/footwear|shoes]] …………
 
-**28** the trainers …………
+**28** the [[20_Vocabulary/trainer|trainers]] …………
 
 **Questions 29–30**
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**29** Why did the project to make 'new' shoes out of old shoes fail?
+**29** Why did the project to make 'new' [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
 
-**A** People believed the 'new' pairs of shoes were unhygienic.
+**A** People believed the 'new' pairs of [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/unhygienic|unhygienic]].
 
-**B** There were not enough good parts to use in the old shoes.
+**B** There were not enough good parts to use in the [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]].
 
-**C** The shoes in the 'new' pairs were not completely alike.
+**C** The [[20_Vocabulary/footwear|shoes]] in the 'new' pairs were not completely alike.
 
-**30** Bella and Don agree that they can present their topic
+**30** Bella [[20_Vocabulary/In addition|and]] Don agree that they can [[20_Vocabulary/presentation|present]] their topic
 
-**A** from a new angle.
+**A** from a new [[20_Vocabulary/perspective|angle]].
 
 **B** with relevant images.
 
-**C** in a straightforward way.
+**C** in [[20_Vocabulary/a straightforward way|a straightforward way]].
 
-### PART 4
+### [[20_Vocabulary/parcel|PART]] 4
 
 
 **Questions 31–40**
@@ -232,43 +212,43 @@ What reasons did the recycling manager give for rejecting footwear, according to
 
 ● more than 1,000 species, 0.05–1.2 millimetres long
 
-● also known as water 'bears' (due to how they **31** …………………) and 'moss piglets'
+● [[20_Vocabulary/In addition|also]] known as water 'bears' (due to how they **31** …………………) [[20_Vocabulary/In addition|and]] '[[20_Vocabulary/moss|moss]] piglets'
 
-**Physical appearance**
+**Physical [[20_Vocabulary/appearance|appearance]]**
 
-● a **32** ………………… round body and four pairs of legs
+● a **32** ………………… round body [[20_Vocabulary/In addition|and]] four pairs of legs
 
 ● claws or **33** ………………… for gripping
 
-● absence of respiratory organs
+● [[20_Vocabulary/absence|absence]] of [[20_Vocabulary/respiratory organs|respiratory organs]]
 
-● body filled with a liquid that carries both **34** ………………… and blood
+● body filled with a liquid that carries both **34** ………………… [[20_Vocabulary/In addition|and]] blood
 
 ● mouth shaped like a **35** ………………… with teeth called stylets
 
 **Habitat**
 
-● often found at the bottom of a lake or on plants
+● often [[20_Vocabulary/establish|found]] at the bottom of a lake or on plants
 
-● very resilient and can exist in very low or high **36** …………………
+● very resilient [[20_Vocabulary/In addition|and]] can exist in very low or high **36** …………………
 
-**Cryptobiosis**
+**[[20_Vocabulary/cryptobiosis|Cryptobiosis]]**
 
 ● In dry conditions, they roll into a ball called a 'tun'.
 
-● They stay alive with a much lower metabolism than usual.
+● They stay alive with a much lower [[20_Vocabulary/metabolism|metabolism]] than [[20_Vocabulary/average|usual]].
 
 ● A type of **37** ………………… ensures their DNA is not damaged.
 
 ● Research is underway to find out how many days they can stay alive in **38** ………………….
 
-**Feeing**
+**[[20_Vocabulary/Feeing|Feeing]]**
 
-● consume liquids, e.g., those found in moss or **39** …………………
+● consume liquids, e.g., those [[20_Vocabulary/establish|found]] in [[20_Vocabulary/moss|moss]] or **39** …………………
 
 ● may eat other tardigrades
 
-**Conservation status**
+**[[20_Vocabulary/conservation|Conservation]] status**
 
 ● They are not considered to be **40** ………………….
 
@@ -349,7 +329,7 @@ COLEMAN: We meet on Thursdays. It used to be 10.30 [[20_Vocabulary/In addition|a
 
 WOMAN: Oh, I see. Well, I'd love to come, [[20_Vocabulary/However|but]] I don't have a guitar.
 
-COLEMAN: Well, you can always buy a second-hand one. There's a website called 'The perfect instrument ' that sells all kinds of guitars, violins [[20_Vocabulary/In addition|and]] so on. I'm sure you'll find something there.
+COLEMAN: Well, you can always buy a [[20_Vocabulary/second-hand|second-hand]] one. There's a website called 'The perfect instrument ' that sells all kinds of guitars, violins [[20_Vocabulary/In addition|and]] so on. I'm sure you'll find something there.
 
 ————————————–
 
@@ -375,7 +355,7 @@ COLEMAN: Gary reminds us where to put our fingers for each [[20_Vocabulary/chord
 
 WOMAN: Do you learn to play any songs?
 
-COLEMAN: Yes – we do at least one song with words [[20_Vocabulary/In addition|and]] chords. I [[20_Vocabulary/average|mean]] that's harder than you [[20_Vocabulary/suppose|think]].
+COLEMAN: Yes – we do at least one song with words [[20_Vocabulary/In addition|and]] [[20_Vocabulary/chord|chords]]. I [[20_Vocabulary/average|mean]] that's harder than you [[20_Vocabulary/suppose|think]].
 
 WOMAN: Oh, I'm sure it is!
 
@@ -387,9 +367,9 @@ COLEMAN: That's the [[20_Vocabulary/stands the test of time|last]] ten minutes o
 
 WOMAN: That must be hard, though.
 
-COLEMAN: It is, [[20_Vocabulary/However|but]] people like it because they can really [[20_Vocabulary/concentration|concentrate]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/suppose|if]] we're all playing well, it sounds quite [[20_Vocabulary/impress|impressive]]. The only trouble is that he sometimes gets us to play one at a time – you know, [[20_Vocabulary/loneliness|alone]].
+COLEMAN: It is, [[20_Vocabulary/However|but]] people like it because they can really [[20_Vocabulary/concentration|concentrate]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/suppose|if]] we're all playing well, it sounds quite [[20_Vocabulary/impress|impressive]]. The only [[20_Vocabulary/bother|trouble]] is that he sometimes gets us to play one at a time – you know, [[20_Vocabulary/loneliness|alone]].
 
-WOMAN: That's scary.
+WOMAN: That's [[20_Vocabulary/scary|scary]].
 
 COLEMAN: It is, [[20_Vocabulary/However|but]] I've got used to it now. At the end he spends about five minutes telling us what to practise for the following week.
 
@@ -397,43 +377,23 @@ WOMAN: Well, thanks Coleman. I'll go [[20_Vocabulary/In addition|and]] have a lo
 
 ### [[20_Vocabulary/parcel|PART]] 2
 
-I never really [[20_Vocabulary/meant|planned]] to be a lifeboat volunteer when I came to live in Northsea. I'd been [[20_Vocabulary/workshop|working]] in London as a website designer, [[20_Vocabulary/However|but]] [[20_Vocabulary/However|although]] that was interesting, I didn't like [[20_Vocabulary/city dweller|city]] life. I'd been really [[20_Vocabulary/keen on|keen on]] boats as a teenager, [[20_Vocabulary/In addition|and]] I thought [[20_Vocabulary/suppose|if]] I went to live by the sea, I might be able to pursue that interest a bit more in my free time. Then I [[20_Vocabulary/establish|found]] that the Lifeboat Institution was looking for volunteers, so I decided to apply.
+I never really [[20_Vocabulary/meant|planned]] to be [[20_Vocabulary/a lifeboat volunteer|a lifeboat volunteer]] when I came to live in [[20_Vocabulary/Northsea|Northsea]]. I'd been [[20_Vocabulary/workshop|working]] in London as [[20_Vocabulary/a website designer|a website designer]], [[20_Vocabulary/However|but]] [[20_Vocabulary/However|although]] that was interesting, I didn't like [[20_Vocabulary/city dweller|city]] life. I'd been really [[20_Vocabulary/keen on|keen on]] boats as [[20_Vocabulary/a teenager|a teenager]], [[20_Vocabulary/In addition|and]] I thought [[20_Vocabulary/suppose|if]] I went to live by the sea, I might be able to [[20_Vocabulary/pursue|pursue]] that interest a bit more in my free time. Then I [[20_Vocabulary/establish|found]] that the Lifeboat [[20_Vocabulary/Institution|Institution]] was looking for volunteers, so I decided to apply.
 
-The Lifeboat Institution building here in Northsea's hard to miss; it's one of the largest in the country. It was built 15 years ago with funds provided by a generous [[20_Vocabulary/participant|member]] of the public, who'd lived here all her life. As the Lifeboat Institution is a charity that relies on that kind of donation, rather than funding provided by the government, that kind of [[20_Vocabulary/rescue|help]] is much needed.
+The Lifeboat [[20_Vocabulary/Institution|Institution]] building here in [[20_Vocabulary/Northsea|Northsea]]'s hard to miss; it's one of the largest in the country. It was built 15 years ago with funds provided by a [[20_Vocabulary/generous|generous]] [[20_Vocabulary/participant|member]] of the public, who'd lived here all her life. As the Lifeboat [[20_Vocabulary/Institution|Institution]] is [[20_Vocabulary/a charity|a charity]] that relies on that kind of donation, rather than funding provided by the government, that kind of [[20_Vocabulary/rescue|help]] is much needed.
 
-When I applied, I had to have a [[20_Vocabulary/mental health|health]] assessment. The doctors were particularly [[20_Vocabulary/keen on|interested in]] my vision. I used to be short-sighted, so I'd had to wear glasses, [[20_Vocabulary/However|but]] I'd had laser eye surgery two years earlier so that was OK. They gave me tests for colour blindness [[20_Vocabulary/In addition|and]] they thought I might have a problem there, [[20_Vocabulary/However|but]] it turned out I was OK.
+When I applied, I had to have a [[20_Vocabulary/mental health|health]] [[20_Vocabulary/assessment|assessment]]. The doctors were particularly [[20_Vocabulary/keen on|interested in]] my [[20_Vocabulary/vision|vision]]. I used to be [[20_Vocabulary/short-sighted|short-sighted]], so I'd had to [[20_Vocabulary/worn|wear]] glasses, [[20_Vocabulary/However|but]] I'd had [[20_Vocabulary/laser eye surgery|laser eye surgery]] two years earlier so that was OK. They gave me tests for [[20_Vocabulary/colour blindness|colour blindness]] [[20_Vocabulary/In addition|and]] they thought I might have a problem there, [[20_Vocabulary/However|but]] it turned out I was OK.
 
-When the coastguard gets an alert, all the volunteers are contacted [[20_Vocabulary/In addition|and]] rush to the lifeboat station. Our [[20_Vocabulary/mark|target]]'s to get there in five minutes, then we try to get the boat off the dock [[20_Vocabulary/In addition|and]] out to sea in another six to eight minutes. Our team's proud that we usually achieve that – the [[20_Vocabulary/average|average]] time across the country's eight [[20_Vocabulary/In addition|and]] a half minutes.
+When [[20_Vocabulary/the coastguard|the coastguard]] gets [[20_Vocabulary/an alert|an alert]], all the volunteers are contacted [[20_Vocabulary/In addition|and]] [[20_Vocabulary/rush to|rush to]] the lifeboat station. Our [[20_Vocabulary/mark|target]]'s to get there in five minutes, then we try to [[20_Vocabulary/get the boat off the dock|get the boat off the dock]] [[20_Vocabulary/In addition|and]] out to sea in another six to eight minutes. Our team's proud that we usually [[20_Vocabulary/achieve|achieve]] that – the [[20_Vocabulary/average|average]] time across the country's eight [[20_Vocabulary/In addition|and]] a half minutes.
 
-Learn English songs
+[[20_Vocabulary/In addition|As well]] as [[20_Vocabulary/steering|steering]] the lifeboat, as a 'helmsman', I have the [[20_Vocabulary/ultimate|ultimate]] [[20_Vocabulary/responsible for|responsibility]] for the lifeboat. I have to [[20_Vocabulary/look over|check]] that the [[20_Vocabulary/equipment|equipment]] we use is in [[20_Vocabulary/workshop|working]] order – we have special life jackets that can [[20_Vocabulary/hold|support]] up four people in the water. [[20_Vocabulary/In addition|And]] it's [[20_Vocabulary/eventually|ultimately]] my decision whether it's safe to launch the boat. [[20_Vocabulary/However|But]] it's very rare not to launch, [[20_Vocabulary/steadily|even]] in the worst weather.
 
-Exam study materials
+[[20_Vocabulary/In addition|As well]] as going out on the lifeboat, my work involves other things [[20_Vocabulary/In addition|too]]. A lot of people [[20_Vocabulary/underestimate|underestimate]] how windy conditions can [[20_Vocabulary/affect|change]] at sea, so I speak to youth groups [[20_Vocabulary/In addition|and]] sailing clubs in the area about [[20_Vocabulary/the sorts of problems|the sorts of problems]] that sailors [[20_Vocabulary/In addition|and]] swimmers can have [[20_Vocabulary/suppose|if]] the weather suddenly gets bad. We [[20_Vocabulary/In addition|also]] have a lot of volunteers who organise activities to raise money for us, [[20_Vocabulary/In addition|and]] we couldn't [[20_Vocabulary/dealing|manage]] without them.
 
-Educational learning [[20_Vocabulary/facilities|resources]]
+The [[20_Vocabulary/trainer|training]] we get is [[20_Vocabulary/a continuous process|a continuous process]], focusing on [[20_Vocabulary/technical competence|technical competence]] [[20_Vocabulary/In addition|and]] safe handling techniques, [[20_Vocabulary/In addition|and]] it's given me the confidence to deal with extreme situations without [[20_Vocabulary/panicking|panicking]]. I was glad I'd done a first [[20_Vocabulary/rescue|aid]] course before I started, as that's a big [[20_Vocabulary/rescue|help]] with the [[20_Vocabulary/casualty|casualty]] [[20_Vocabulary/treatment|care]] activities we do. We've done a lot on how to deal with [[20_Vocabulary/rope|ropes]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/relationship|tie]] [[20_Vocabulary/knot|knots]] – that's an [[20_Vocabulary/essential|essential]] [[20_Vocabulary/an art form|skill]]. After a year, I did [[20_Vocabulary/a one-week residential course|a one-week residential course]], led by specialists. They had [[20_Vocabulary/a wave-tank|a wave-tank]] where they could [[20_Vocabulary/invent|create]] extreme weather conditions – so we could get [[20_Vocabulary/go through|experience]] at what to do [[20_Vocabulary/suppose|if]] the boat turned [[20_Vocabulary/beyond|over]] in a storm at night, for example.
 
-Exam preparation guides
+Since I started, I've had to deal with [[20_Vocabulary/a range of emergency situations|a range of emergency situations]].
 
-Learning apps subscription
-
-Book
-
-Practice exam questions
-
-Listening practice audio
-
-English proficiency certificates
-
-Exam success tips
-
-[[20_Vocabulary/In addition|As well]] as steering the lifeboat, as a 'helmsman', I have the ultimate [[20_Vocabulary/responsible for|responsibility]] for the lifeboat. I have to [[20_Vocabulary/look over|check]] that the [[20_Vocabulary/equipment|equipment]] we use is in [[20_Vocabulary/workshop|working]] order – we have special life jackets that can [[20_Vocabulary/hold|support]] up four people in the water. [[20_Vocabulary/In addition|And]] it's [[20_Vocabulary/eventually|ultimately]] my decision whether it's safe to launch the boat. [[20_Vocabulary/However|But]] it's very rare not to launch, [[20_Vocabulary/steadily|even]] in the worst weather.
-
-[[20_Vocabulary/In addition|As well]] as going out on the lifeboat, my work involves other things [[20_Vocabulary/In addition|too]]. A lot of people underestimate how windy conditions can [[20_Vocabulary/affect|change]] at sea, so I speak to youth groups [[20_Vocabulary/In addition|and]] sailing clubs in the area about the sorts of problems that sailors [[20_Vocabulary/In addition|and]] swimmers can have [[20_Vocabulary/suppose|if]] the weather suddenly gets bad. We [[20_Vocabulary/In addition|also]] have a lot of volunteers who organise activities to raise money for us, [[20_Vocabulary/In addition|and]] we couldn't [[20_Vocabulary/dealing|manage]] without them.
-
-The training we get is a continuous process, focusing on technical competence [[20_Vocabulary/In addition|and]] safe handling techniques, [[20_Vocabulary/In addition|and]] it's given me the confidence to deal with extreme situations without panicking. I was glad I'd done a first [[20_Vocabulary/rescue|aid]] course before I started, as that's a big [[20_Vocabulary/rescue|help]] with the casualty [[20_Vocabulary/treatment|care]] activities we do. We've done a lot on how to deal with ropes [[20_Vocabulary/In addition|and]] [[20_Vocabulary/relationship|tie]] knots – that's an [[20_Vocabulary/essential|essential]] [[20_Vocabulary/an art form|skill]]. After a year, I did a one-week residential course, led by specialists. They had a wave-tank where they could [[20_Vocabulary/invent|create]] extreme weather conditions – so we could get [[20_Vocabulary/go through|experience]] at what to do [[20_Vocabulary/suppose|if]] the boat turned over in a storm at night, for example.
-
-Since I started, I've had to deal with a range of emergency situations.
-
-[[20_Vocabulary/However|But]] the work's hugely motivating. It's not just about [[20_Vocabulary/rescue|saving]] lives – I've learned a lot about the technology involved. My background in IT's been [[20_Vocabulary/beneficial|useful]] here, [[20_Vocabulary/In addition|and]] I can use my expertise to [[20_Vocabulary/rescue|help]] other volunteers. They're a great group – we're like a family really, which helps when you're dragging yourself out of bed on a cold stormy night. [[20_Vocabulary/However|But]] actually, it's the colder months that can be the most rewarding time. That's when the incidents [[20_Vocabulary/tend to|tend to]] be more serious, [[20_Vocabulary/In addition|and]] you realise that you can make a huge difference to the [[20_Vocabulary/impact|outcome]].
+[[20_Vocabulary/However|But]] the work's [[20_Vocabulary/hugely|hugely]] motivating. It's not just about [[20_Vocabulary/rescue|saving]] lives – I've learned a lot about the technology involved. My [[20_Vocabulary/background|background]] in IT's been [[20_Vocabulary/beneficial|useful]] here, [[20_Vocabulary/In addition|and]] I can use my [[20_Vocabulary/expertise|expertise]] to [[20_Vocabulary/rescue|help]] other volunteers. They're a great group – we're like a family really, which helps when you're [[20_Vocabulary/dragging yourself out of bed|dragging yourself out of bed]] on [[20_Vocabulary/a cold stormy night|a cold stormy night]]. [[20_Vocabulary/However|But]] actually, it's the colder months that can be [[20_Vocabulary/the most rewarding time|the most rewarding time]]. That's when the incidents [[20_Vocabulary/tend to|tend to]] be more serious, [[20_Vocabulary/In addition|and]] you realise that you can make a [[20_Vocabulary/enormous|huge]] difference to the [[20_Vocabulary/impact|outcome]].
 
 Learn new skills
 
@@ -441,13 +401,13 @@ So [[20_Vocabulary/suppose|if]] any of you listeners are [[20_Vocabulary/keen on
 
 ### [[20_Vocabulary/parcel|PART]] 3
 
-BELLA: Hi Don – did you get the copy of the article on recycling footwear that I emailed you?
+BELLA: Hi Don – did you get the copy of the article on recycling [[20_Vocabulary/footwear|footwear]] that I emailed you?
 
 DON: Yeah – it's here … I've had a look at it.
 
 BELLA: So do you [[20_Vocabulary/suppose|think]] it's a good topic for our [[20_Vocabulary/presentation|presentation]]?
 
-DON: Well, before I started reading it, I thought recycling footwear, well, [[20_Vocabulary/However|although]] it's quite interesting, [[20_Vocabulary/perhaps|perhaps]] there isn't enough to say about it, cos we put shoes in recycling bins, they go to charity shops [[20_Vocabulary/In addition|and]] that's about it.
+DON: Well, before I started reading it, I thought recycling [[20_Vocabulary/footwear|footwear]], well, [[20_Vocabulary/However|although]] it's quite interesting, [[20_Vocabulary/perhaps|perhaps]] [[30_Structures/there isn't enough to say about it|there isn't enough to say about it]], cos we put [[20_Vocabulary/footwear|shoes]] in recycling bins, they go to [[20_Vocabulary/charity shop|charity shops]] [[20_Vocabulary/In addition|and]] that's about it.
 
 Shop for bestsellers
 
@@ -457,67 +417,67 @@ DON: I realise that now [[20_Vocabulary/In addition|and]] I'm [[20_Vocabulary/ke
 
 BELLA: That's great.
 
-DON: One of the things I didn't realise until I read the article was just how many pairs of trainers get recycled!
+DON: One of the things I didn't realise until I read the article was just how many pairs of [[20_Vocabulary/trainer|trainers]] get recycled!
 
-BELLA: Well, a lot of young people wear them all the time now. They've become more popular than [[20_Vocabulary/average|ordinary]] shoes.
+BELLA: Well, a lot of young people [[20_Vocabulary/worn|wear]] them all the time now. They've become more popular than [[20_Vocabulary/average|ordinary]] [[20_Vocabulary/footwear|shoes]].
 
-DON: I know. I [[20_Vocabulary/guess|guess]] they are very hard-wearing, [[20_Vocabulary/However|but]] don't they look a bit [[20_Vocabulary/formal|casual]] for school [[20_Vocabulary/apron|uniform]]? I don't [[20_Vocabulary/suppose|think]] they're right for that.
+DON: I know. I [[20_Vocabulary/guess|guess]] they are very [[20_Vocabulary/hard-wearing|hard-wearing]], [[20_Vocabulary/However|but]] don't they look a bit [[20_Vocabulary/formal|casual]] for school [[20_Vocabulary/apron|uniform]]? I don't [[20_Vocabulary/suppose|think]] they're right for that.
 
-BELLA: Actually, I [[20_Vocabulary/suppose|think]] some of them look quite smart on pupils … better than a scruffy [[20_Vocabulary/elderly|old]] pair of shoes.
+BELLA: Actually, I [[20_Vocabulary/suppose|think]] some of them look quite smart on [[20_Vocabulary/pupil|pupils]] … better than a [[20_Vocabulary/scruffy|scruffy]] [[20_Vocabulary/elderly|old]] pair of [[20_Vocabulary/footwear|shoes]].
 
-DON: So do you [[20_Vocabulary/hold|keep]] shoes a long time?
+DON: So do you [[20_Vocabulary/hold|keep]] [[20_Vocabulary/footwear|shoes]] a long time?
 
-BELLA: Yes. Though I do [[20_Vocabulary/tend to|tend to]] wear my [[20_Vocabulary/elderly|old]] pairs for doing [[20_Vocabulary/filthy|dirty]] jobs like cleaning my bike.
+BELLA: Yes. Though I do [[20_Vocabulary/tend to|tend to]] [[20_Vocabulary/worn|wear]] my [[20_Vocabulary/elderly|old]] pairs for doing [[20_Vocabulary/filthy|dirty]] jobs like cleaning my bike.
 
-BELLA: I must [[20_Vocabulary/admit|admit]], I've recycled some perfectly good shoes, that haven't gone out of fashion [[20_Vocabulary/In addition|and]] still fit, just because they don't look great on me any more. That's awful isn't it?
+BELLA: I must [[20_Vocabulary/admit|admit]], I've recycled some perfectly good [[20_Vocabulary/footwear|shoes]], that haven't [[20_Vocabulary/go out of fashion|gone out of fashion]] [[20_Vocabulary/In addition|and]] still fit, just because they don't [[30_Structures/look great on me|look great on me]] any more. That's [[20_Vocabulary/awful|awful]] isn't it?
 
-DON: I [[20_Vocabulary/suppose|think]] it's [[20_Vocabulary/average|common]] because there's so much choice. The article did say that recent sales of footwear have increased enormously.
+DON: I [[20_Vocabulary/suppose|think]] it's [[20_Vocabulary/average|common]] because there's so much choice. The article did say that recent sales of [[20_Vocabulary/footwear|footwear]] have increased [[20_Vocabulary/enormous|enormously]].
 
-BELLA: That didn't surprise me.
+BELLA: That didn't [[20_Vocabulary/surprise|surprise]] me.
 
-DON: No. [[20_Vocabulary/However|But]] then it said that the amount of recycled footwear has fallen: it's 6 percent now compared to a previous level of 11 percent. That doesn't seem to make sense.
+DON: No. [[20_Vocabulary/However|But]] then it said that the amount of recycled [[20_Vocabulary/footwear|footwear]] has fallen: it's 6 percent now [[20_Vocabulary/compared to|compared to]] a previous level of 11 percent. That doesn't [[20_Vocabulary/seem to|seem to]] [[20_Vocabulary/make sense|make sense]].
 
-BELLA: That's because not everything goes through the recycling process. Some footwear just isn't good enough to re-sell, for one reason or another, [[20_Vocabulary/In addition|and]] gets rejected.
+BELLA: That's because not everything goes through the recycling process. Some [[20_Vocabulary/footwear|footwear]] just isn't good enough to re-sell, for one reason or another, [[20_Vocabulary/In addition|and]] gets rejected.
 
 ——————————————-
 
-BELLA: So let's find some examples in the article of footwear that was rejected for recycling.
+BELLA: So let's find some examples in the article of [[20_Vocabulary/footwear|footwear]] that was rejected for recycling.
 
 DON: OK. I [[20_Vocabulary/suppose|think]] there are some in the interview with the recycling manager. Yeah – here it is.
 
-BELLA: Mmm. Let's start with the ladies' high-heeled shoes. What did he say about those?
+BELLA: Mmm. Let's start with the ladies' [[20_Vocabulary/high-heeled shoes|high-heeled shoes]]. What did he say about those?
 
-DON: He said they were [[20_Vocabulary/probably|probably]] [[20_Vocabulary/expensive|expensive]] – the material was suede [[20_Vocabulary/In addition|and]] they were beige in colour – it looked like someone had only worn them once, [[20_Vocabulary/However|but]] in a very wet field so the heels were [[20_Vocabulary/In addition|too]] stained with mud [[20_Vocabulary/In addition|and]] grass to re-sell them.
+DON: He said they were [[20_Vocabulary/probably|probably]] [[20_Vocabulary/expensive|expensive]] – the [[20_Vocabulary/material|material]] was [[20_Vocabulary/suede|suede]] [[20_Vocabulary/In addition|and]] they were [[20_Vocabulary/beige in colour|beige in colour]] – it looked like someone had only [[20_Vocabulary/worn|worn]] them once, [[20_Vocabulary/However|but]] in a very [[20_Vocabulary/wet field|wet field]] so the heels were [[20_Vocabulary/In addition|too]] stained with [[20_Vocabulary/mud|mud]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/grass|grass]] to re-sell them.
 
-BELLA: OK … [[20_Vocabulary/In addition|and]] the leather ankle boots. What was wrong with them?
+BELLA: OK … [[20_Vocabulary/In addition|and]] the [[20_Vocabulary/leather|leather]] ankle [[20_Vocabulary/footwear|boots]]. What was wrong with them?
 
-DON: Apparently, the heels were worn – [[20_Vocabulary/However|but]] that wasn't the problem. One of the shoes was a much lighter shade than the other one – it had obviously been left in the sun. I [[20_Vocabulary/suppose|suppose]] [[20_Vocabulary/steadily|even]] second-hand shoes should look the same!
+DON: [[20_Vocabulary/Apparently|Apparently]], the heels were [[20_Vocabulary/worn|worn]] – [[20_Vocabulary/However|but]] that wasn't the problem. One of the [[20_Vocabulary/footwear|shoes]] was a much lighter [[20_Vocabulary/shade|shade]] than the other one – it had [[20_Vocabulary/obviously|obviously]] been left in the sun. I [[20_Vocabulary/suppose|suppose]] [[20_Vocabulary/steadily|even]] [[20_Vocabulary/second-hand|second-hand]] [[20_Vocabulary/footwear|shoes]] should look the same!
 
-BELLA: Sure. Then there were the red baby shoes.
+BELLA: Sure. Then there were the red baby [[20_Vocabulary/footwear|shoes]].
 
-DON: Oh yes – we're told to [[20_Vocabulary/relationship|tie]] shoes together when we put them in a recycling bin, [[20_Vocabulary/However|but]] people often don't bother.
+DON: Oh yes – we're told to [[20_Vocabulary/relationship|tie]] [[20_Vocabulary/footwear|shoes]] together when we put them in a [[20_Vocabulary/recycling bin|recycling bin]], [[20_Vocabulary/However|but]] people often don't [[20_Vocabulary/bother|bother]].
 
-BELLA: You'd [[20_Vocabulary/suppose|think]] it [[20_Vocabulary/will|would]] have been easy to find the other, [[20_Vocabulary/However|but]] it wasn't. That was a shame because they were obviously new.
+BELLA: You'd [[20_Vocabulary/suppose|think]] it [[20_Vocabulary/will|would]] have been easy to find the other, [[20_Vocabulary/However|but]] it wasn't. [[30_Structures/That was a shame|That was a shame]] because they were [[20_Vocabulary/obviously|obviously]] new.
 
-DON: The trainers were interesting. He said they looked like they'd been worn by a marathon runner.
+DON: The [[20_Vocabulary/trainer|trainers]] were interesting. He said they looked like they'd been [[20_Vocabulary/worn|worn]] by a marathon runner.
 
-BELLA: Yeah – weren't they split?
+BELLA: Yeah – weren't they [[20_Vocabulary/split|split]]?
 
-DON: Not exactly. One of the soles was so worn under the foot that you could put your finger through it.
+DON: Not exactly. One of the soles was so [[20_Vocabulary/worn|worn]] under the foot that you could put your finger through it.
 
-BELLA: Well, we could [[20_Vocabulary/Admittedly|certainly]] use some of those examples in our [[20_Vocabulary/presentation|presentation]] to explain why 90 percent of shoes that people take to recycling centres or bins get thrown into landfill.
+BELLA: Well, we could [[20_Vocabulary/Admittedly|certainly]] use some of those examples in our [[20_Vocabulary/presentation|presentation]] to explain why 90 percent of [[20_Vocabulary/footwear|shoes]] that people take to recycling centres or bins get thrown into [[20_Vocabulary/landfill|landfill]].
 
-DON: Mmm. What did you [[20_Vocabulary/suppose|think]] about the project his team set up to avoid this by making new shoes out of the good parts of [[20_Vocabulary/elderly|old]] shoes?
+DON: Mmm. What did you [[20_Vocabulary/suppose|think]] about the project his team set up to avoid this by making new [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] the good parts of [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]]?
 
-BELLA: It sounded like a good idea. They get so many shoes, they should be able to match parts. I wasn't surprised that it failed, though. I [[20_Vocabulary/average|mean]] who wants to buy second-hand shoes really? [[20_Vocabulary/suppose|Think]] of all the germs you could catch!
+BELLA: It sounded like a good idea. They get so many [[20_Vocabulary/footwear|shoes]], they should be able to match parts. I wasn't [[20_Vocabulary/surprise|surprised]] that it failed, though. I [[20_Vocabulary/average|mean]] who wants to buy [[20_Vocabulary/second-hand|second-hand]] [[20_Vocabulary/footwear|shoes]] really? [[20_Vocabulary/suppose|Think]] of all the [[20_Vocabulary/germ|germs]] you could catch!
 
-DON: Well, people didn't refuse them for that reason, did they? It was because the pairs of shoes weren't identical.
+DON: Well, people didn't [[20_Vocabulary/refuse|refuse]] them for that reason, did they? It was because the pairs of [[20_Vocabulary/footwear|shoes]] weren't [[20_Vocabulary/identical|identical]].
 
 BELLA: They still managed to ship them overseas, though.
 
 DON: That's another area we need to [[20_Vocabulary/talk about|discuss]].
 
-BELLA: You know I used to [[20_Vocabulary/bear in mind|consider]] this topic just from my own perspective, by thinking about my own recycling behaviour without looking at the bigger picture. So much happens once shoes leave the recycling area.
+BELLA: You know I used to [[20_Vocabulary/bear in mind|consider]] this topic just from my own [[20_Vocabulary/perspective|perspective]], by thinking about my own recycling behaviour without looking at the bigger picture. So much happens once [[20_Vocabulary/footwear|shoes]] leave the recycling area.
 
 DON: It's not as simple as you first [[20_Vocabulary/suppose|think]], [[20_Vocabulary/In addition|and]] we can show that by taking a very different [[20_Vocabulary/dealing|approach]] to it.
 
@@ -525,21 +485,21 @@ BELLA: [[20_Vocabulary/Unquestionably|Absolutely]]. So let's [[20_Vocabulary/tal
 
 ### [[20_Vocabulary/parcel|PART]] 4
 
-For my project on invertebrates, I chose to study tardigrades. These are microscopic — or to be more precise — near-microscopic animals. There are well over a thousand known species of these tiny animals, which belong to the phylum Tardigrada. Most tardigrades range in length from 0.05 to 1 millimetre, though the largest species can grow to be 1.2 millimetres in length. They are [[20_Vocabulary/In addition|also]] sometimes called 'water bears': 'water' because that's where they thrive best, [[20_Vocabulary/In addition|and]] 'bear' because of the way they move. 'Moss piglet' is another name for tardigrades because of the way they look when viewed from the front. They were first discovered in Germany in 1773 by Johann Goeze, who coined the name Tardigrada.
+For my project on invertebrates, I chose to study tardigrades. These are [[20_Vocabulary/microscopic|microscopic]] — or to be more precise — near-[[20_Vocabulary/microscopic|microscopic]] animals. There are well [[20_Vocabulary/beyond|over]] a thousand known species of these [[20_Vocabulary/tiny|tiny]] animals, which [[20_Vocabulary/belong to|belong to]] the [[20_Vocabulary/phylum|phylum]] Tardigrada. Most tardigrades range in length from 0.05 to 1 millimetre, though the largest species can grow to be 1.2 millimetres in length. They are [[20_Vocabulary/In addition|also]] sometimes called 'water bears': 'water' because that's where they thrive best, [[20_Vocabulary/In addition|and]] 'bear' because of the way they move. '[[20_Vocabulary/moss|Moss]] piglet' is another name for tardigrades because of the way they look when viewed from the front. They were first discovered in Germany in 1773 by Johann Goeze, who [[20_Vocabulary/coined|coined]] the name Tardigrada.
 
-As I say, there are many different species of tardigrade — [[20_Vocabulary/In addition|too]] many to describe here — [[20_Vocabulary/However|but]], generally speaking, the different species [[20_Vocabulary/parcel|share]] similar physical traits. They have a body which is short, [[20_Vocabulary/In addition|and also]] [[20_Vocabulary/curve|rounded]] — a bit like a barrel — [[20_Vocabulary/In addition|and]] the body comprises four segments. Each segment has a pair of legs, at the end of which are between four [[20_Vocabulary/In addition|and]] eight sharp claws. I should [[20_Vocabulary/In addition|also]] say that some species don't have any claws: what they have are discs, [[20_Vocabulary/In addition|and]] these work by means of suction. They enable the tardigrade to cling to surfaces or to [[20_Vocabulary/hold|grip]] its prey. Within the body, there are no lungs, or any organs for breathing at all. Instead, oxygen [[20_Vocabulary/In addition|and also]] blood are transported in a fluid that fills the cavity of the body.
+As I say, there are many different species of [[20_Vocabulary/tardigrade|tardigrade]] — [[20_Vocabulary/In addition|too]] many to describe here — [[20_Vocabulary/However|but]], [[20_Vocabulary/generally speaking|generally speaking]], the different species [[20_Vocabulary/parcel|share]] similar [[20_Vocabulary/physical trait|physical traits]]. They have a body which is short, [[20_Vocabulary/In addition|and also]] [[20_Vocabulary/curve|rounded]] — a bit like [[20_Vocabulary/a barrel|a barrel]] — [[20_Vocabulary/In addition|and]] the body comprises four [[20_Vocabulary/segment|segments]]. Each [[20_Vocabulary/segment|segment]] has a pair of legs, at the end of which are between four [[20_Vocabulary/In addition|and]] eight sharp claws. I should [[20_Vocabulary/In addition|also]] say that some species don't have any claws: what they have are [[20_Vocabulary/disc|discs]], [[20_Vocabulary/In addition|and]] these work by [[20_Vocabulary/means of suction|means of suction]]. They enable the [[20_Vocabulary/tardigrade|tardigrade]] to [[20_Vocabulary/cling|cling]] to surfaces or to [[20_Vocabulary/hold|grip]] its prey. Within the body, there are no lungs, or any organs for breathing at all. Instead, oxygen [[20_Vocabulary/In addition|and also]] blood are transported in [[20_Vocabulary/a fluid|a fluid]] that fills [[20_Vocabulary/the cavity of the body|the cavity of the body]].
 
-As far as the tardigrade's head is concerned, the best way I can describe this is that it looks rather strange — a bit squashed [[20_Vocabulary/steadily|even]] — though many of the websites I looked at described its appearance as cute, which isn't exactly very scientific. The tardigrade's mouth is a kind of tube that can open outwards to [[20_Vocabulary/reveal|reveal]] teeth-like structures known as 'stylets'. These are sharp enough to pierce plant or animal cells.
+As far as the [[20_Vocabulary/tardigrade|tardigrade]]'s head is concerned, the best way I can describe this is that it looks rather strange — [[20_Vocabulary/a bit squashed|a bit squashed]] [[20_Vocabulary/steadily|even]] — though many of the websites I looked at described its [[20_Vocabulary/appearance|appearance]] as cute, which isn't exactly very scientific. The [[20_Vocabulary/tardigrade|tardigrade]]'s mouth is a kind of tube that can open outwards to [[20_Vocabulary/reveal|reveal]] teeth-like structures known as 'stylets'. These are sharp enough to [[20_Vocabulary/pierce|pierce]] plant or animal cells.
 
-So, where are tardigrades [[20_Vocabulary/establish|found]]? Well, they live in every [[20_Vocabulary/parcel|part]] of the world, in a variety of habitats: most commonly, on the bed of a lake, or on many kinds of plants or in very wet environments. There's been some interesting research which has [[20_Vocabulary/establish|found]] that tardigrades are capable of [[20_Vocabulary/outlive|surviving]] radiation [[20_Vocabulary/In addition|and]] very high [[20_Vocabulary/press|pressure]], [[20_Vocabulary/In addition|and]] they're [[20_Vocabulary/In addition|also]] able to withstand temperatures as low as [[20_Vocabulary/downside|minus]] –200 degrees centigrade, or highs of more than 148 degrees centigrade, which is [[20_Vocabulary/incredible|incredibly]] hot.
+So, where are tardigrades [[20_Vocabulary/establish|found]]? Well, they live in every [[20_Vocabulary/parcel|part]] of the world, in a variety of habitats: most commonly, on [[20_Vocabulary/the bed of a lake|the bed of a lake]], or on many kinds of plants or in very wet environments. There's been some interesting research which has [[20_Vocabulary/establish|found]] that tardigrades are [[20_Vocabulary/capable|capable]] of [[20_Vocabulary/outlive|surviving]] [[20_Vocabulary/radiation|radiation]] [[20_Vocabulary/In addition|and]] very high [[20_Vocabulary/press|pressure]], [[20_Vocabulary/In addition|and]] they're [[20_Vocabulary/In addition|also]] able to withstand temperatures as low as [[20_Vocabulary/downside|minus]] –200 degrees centigrade, or highs of more than 148 degrees centigrade, which is [[20_Vocabulary/incredible|incredibly]] hot.
 
 —————————————–
 
-It has been said that tardigrades could [[20_Vocabulary/stands the test of time|survive]] long after human beings have been wiped out, [[20_Vocabulary/steadily|even]] in the event of an asteroid hitting the earth. [[20_Vocabulary/suppose|If]] conditions become [[20_Vocabulary/In addition|too]] extreme [[20_Vocabulary/In addition|and]] tardigrades are at risk of drying out, they enter a state called cryptobiosis. They [[20_Vocabulary/curve|form]] a little ball, called a tun — that's T-U-N — by retracting their head [[20_Vocabulary/In addition|and]] legs, [[20_Vocabulary/In addition|and]] their metabolism drops to less than one percent of [[20_Vocabulary/average|normal]] levels. They can stay in this state for [[20_Vocabulary/decade|decades]], [[20_Vocabulary/In addition|and]] [[20_Vocabulary/suppose|if]] re-introduced to water, when they [[20_Vocabulary/will|will]] come back to life in a matter of a few hours. [[20_Vocabulary/Admittedly|While]] in this state of cryptobiosis, tardigrades produce a protein that protects their DNA. In 2016, scientists revived two tardigrades that had been tuns for more than 30 years. There was a report that in 1948, a 120-year-[[20_Vocabulary/elderly|old]] tun was revived, [[20_Vocabulary/However|but]] this experiment has never been repeated. There are currently several tests taking place in space, to [[20_Vocabulary/affect|determine]] how long tardigrades might be able to [[20_Vocabulary/stands the test of time|survive]] there. I [[20_Vocabulary/suppose|believe]] the record so far is 10 day.
+It has been said that tardigrades could [[20_Vocabulary/stands the test of time|survive]] long after human beings have been [[20_Vocabulary/wiped out|wiped out]], [[20_Vocabulary/steadily|even]] in the event of [[20_Vocabulary/an asteroid|an asteroid]] hitting the earth. [[20_Vocabulary/suppose|If]] conditions become [[20_Vocabulary/In addition|too]] extreme [[20_Vocabulary/In addition|and]] tardigrades are [[20_Vocabulary/at risk of drying out|at risk of drying out]], they enter a state called [[20_Vocabulary/cryptobiosis|cryptobiosis]]. They [[20_Vocabulary/curve|form]] a little ball, called a tun — that's T-U-N — by retracting their head [[20_Vocabulary/In addition|and]] legs, [[20_Vocabulary/In addition|and]] their [[20_Vocabulary/metabolism|metabolism]] drops to less than one percent of [[20_Vocabulary/average|normal]] levels. They can stay in this state for [[20_Vocabulary/decade|decades]], [[20_Vocabulary/In addition|and]] [[20_Vocabulary/suppose|if]] re-introduced to water, when they [[20_Vocabulary/will|will]] come back to life in a matter of a few hours. [[20_Vocabulary/Admittedly|While]] in this state of [[20_Vocabulary/cryptobiosis|cryptobiosis]], tardigrades produce a protein that protects their DNA. In 2016, scientists revived two tardigrades that had been tuns for more than 30 years. There was a report that in 1948, a 120-year-[[20_Vocabulary/elderly|old]] tun was revived, [[20_Vocabulary/However|but]] this experiment has never been repeated. There are currently several tests [[20_Vocabulary/taking place in space|taking place in space]], to [[20_Vocabulary/affect|determine]] how long tardigrades might be able to [[20_Vocabulary/stands the test of time|survive]] there. I [[20_Vocabulary/suppose|believe]] the record so far is 10 day.
 
-So, erm, moving on. In terms of their diet, tardigrades consume liquids in order to [[20_Vocabulary/stands the test of time|survive]]. [[20_Vocabulary/However|Although]] they have teeth, they don't use these for chewing. They suck the juices from moss, or [[20_Vocabulary/remove|extract]] fluid from seaweed, [[20_Vocabulary/However|but]] some species prey on other tardigrades, from other species or within [[20_Vocabulary/themselves|their own]]. I [[20_Vocabulary/suppose|suppose]] this isn't [[20_Vocabulary/a real eye-opener|surprising]], given that tardigrades are [[20_Vocabulary/mainly|mainly]] comprised of liquid [[20_Vocabulary/In addition|and]] are coated with a type of gel.
+So, erm, moving on. In terms of their [[20_Vocabulary/diet|diet]], tardigrades consume liquids in order to [[20_Vocabulary/stands the test of time|survive]]. [[20_Vocabulary/However|Although]] they have teeth, they don't use these for chewing. They suck the juices from [[20_Vocabulary/moss|moss]], or [[20_Vocabulary/remove|extract]] fluid from [[20_Vocabulary/seaweed|seaweed]], [[20_Vocabulary/However|but]] some species prey on other tardigrades, from other species or within [[20_Vocabulary/themselves|their own]]. I [[20_Vocabulary/suppose|suppose]] this isn't [[20_Vocabulary/a real eye-opener|surprising]], given that tardigrades are [[20_Vocabulary/mainly|mainly]] comprised of liquid [[20_Vocabulary/In addition|and]] are coated with a type of [[20_Vocabulary/gel|gel]].
 
-[[20_Vocabulary/Lastly|Finally]], I'd like to [[20_Vocabulary/talk about|mention]] the conservation status of tardigrades. It is estimated that they have been in existence for approximately half a billion years [[20_Vocabulary/In addition|and]], in that time, they have [[20_Vocabulary/outlive|survived]] five mass extinctions. So, it [[20_Vocabulary/will|will]] [[20_Vocabulary/probably|probably]] come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of [[20_Vocabulary/messy nature|Nature]] [[20_Vocabulary/In addition|and]] are not on any endangered list. Some researchers have described them as thriving.
+[[20_Vocabulary/Lastly|Finally]], I'd like to [[20_Vocabulary/talk about|mention]] the [[20_Vocabulary/conservation|conservation]] status of tardigrades. It is estimated that they have been in [[20_Vocabulary/existence|existence]] for [[20_Vocabulary/approximately|approximately]] half a billion years [[20_Vocabulary/In addition|and]], in that time, they have [[20_Vocabulary/outlive|survived]] five mass extinctions. So, it [[20_Vocabulary/will|will]] [[20_Vocabulary/probably|probably]] come as no [[20_Vocabulary/surprise|surprise]] to you, that tardigrades have not been evaluated by the International Union for [[20_Vocabulary/conservation|Conservation]] of [[20_Vocabulary/messy nature|Nature]] [[20_Vocabulary/In addition|and]] are not on any endangered list. Some researchers have described them as thriving.
 
 Does anyone have any questions they'd like to ask?
 
@@ -611,7 +571,7 @@ Does anyone have any questions they'd like to ask?
 
 32 short
 
-33 discs
+33 [[20_Vocabulary/disc|discs]]
 
 34 oxygen
 
@@ -623,6 +583,6 @@ Does anyone have any questions they'd like to ask?
 
 38 space
 
-39 seaweed
+39 [[20_Vocabulary/seaweed|seaweed]]
 
 40 endangered

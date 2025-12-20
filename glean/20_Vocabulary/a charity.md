@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
 #flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [charities, charitable, charitable organization, nonprofit, NGO]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈtʃær.ə.ti/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A2
+> **Register:** neutral/formal
+> **Etymology:** Charity from Latin caritas "affection, love"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:**
+> An organization that helps people in need
+>
+> **Context Meaning:**
+> 1. A specific charitable organization or institution
+> 2. The act of giving help to those in need
+> 3. An institution established to provide help and raise money
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một tổ chức từ thiện, một quỹ từ thiện
+> - **Contextual:** tổ chức giúp đỡ người needy, quỹ từ thiện cụ thể
+>
 > **Nuances:**
-> - ...
+> - Usually non-profit organizations
+> - Focus on specific causes or groups
+> - Relies on donations and volunteers
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Compassionate, Giving, Supportive
+> **Memory Hook:** Think of Red Cross or UNICEF - these are charities that help people
+> **📖 Etymology Story:** From Latin caritas "love," charity literally means "an act of love." When we support or donate to a charity, we're participating in organized love - turning compassion into action. Like many streams joining to become a river, individual acts of charity become a powerful force for good.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - **Noun:** [[charity]] /ˈtʃær.ə.ti/
+> - **Adj:** [[charitable]] /ˈtʃær.ə.tə.bəl/
+>
+> **Related Terms:**
+> - [[donate]] /dəʊˈneɪt/ : to give money or goods
+> - [[foundation]] /faʊnˈdeɪ.ʃən/ : organization for charitable purposes
+> - [[NGO]] /ˌen.dʒiːˈəʊ/ : non-governmental organization
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[for-profit]] /fɔːrˈprɒf.ɪt/ : commercial organization
+> - [[business]] /ˈbɪz.nəs/ : profit-making enterprise
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. donate to a charity
+> 2. support a charity
+> 3. charity work
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She donates to a local charity that helps homeless people find housing.
+> - **Translation:** Cô ấy quyên góp cho một tổ chức từ thiện địa phương giúp người vô gia cư tìm nhà ở.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The charity organized a fundraising event for earthquake victims.
+> - **Translation:** Tổ chức từ thiện đã tổ chức một sự kiện gây quỹ cho nạn nhân động đất.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** He works for charity.
+> - ✅ **Correction:** He works for a charity / for charity.
+> - **Why:** Need article "a" for specific charity organization, or no article when speaking generally
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Charity begins at home, but shouldn't end there."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +84,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a charity** (*/ə ˈtʃær.ə.ti/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An organization that provides help and raises money for people in need
+> 🇻🇳 **Vietnamese:** Một tổ chức cung cấp sự giúp đỡ và gây quỹ cho người có hoàn cảnh khó khăn
+> 🗣️ **IPA:** */ə ˈtʃær.ə.ti/*
+> 🧠 **Mental Model:** Hình dung tổ chức như Hội Chữ Thập Đỏ - đó là a charity (tổ chức từ thiện)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An organization that provides help and raises money for people in need"
+**Vietnamese:** Một tổ chức giúp đỡ và gây quỹ cho người có hoàn cảnh khó khăn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a charity** (*/ə ˈtʃær.ə.ti/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a charity** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The international charity provides clean water to rural communities across Africa.
+> 🇻🇳 **Translation:** Tổ chức từ thiện quốc tế này cung cấp nước sạch cho các cộng đồng nông thôn trên khắp châu Phi.
+> 🔍 **Analysis:** A charity thể hiện tổ chức có mục đích nhân đạo, quy mô quốc tế
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a charity**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** donate to a charity (quyên góp cho tổ chức từ thiện - hành động cho đi)
+> 2. **Support:** support a charity (hỗ trợ tổ chức từ thiện - hành động giúp đỡ)
+> 3. **Work:** charity work (công việc từ thiện - hoạt động tình nguyện)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a charity**:
+"She helps poor people."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She volunteers at a local charity dedicated to supporting underprivileged children in her community."
+> 💡 **Why it works:** "A charity" tạo cảm giác chuyên nghiệp và có tổ chức hơn "helps poor people"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a charity** instead of **government aid**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a charity:** Tổ chức tư nhân, dựa vào quyên góp (VN: tổ chức từ thiện)
+> **government aid:** Trợ giúp từ chính phủ, dùng thuế (VN: viện trợ chính phủ)
+> 🧱 **The Barrier:** Charity là voluntary giving, government aid là taxpayer-funded support (VN: charity là tự nguyện, government aid là từ thuế)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to help earthquake victims. You feel supportive. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You could donate to a charity that specializes in disaster relief."
+> 👨‧🎨 **Director's Note:** A charity thể hiện con đường có tổ chức để giúp đỡ (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `caritas` to the meaning of **a charity**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Charity từ Latin caritas "tình yêu". A charity nghĩa là "hành động của tình yêu". Khi hỗ trợ charity, ta tham gia vào tình yêu có tổ chức - biến lòng trắc ẩn thành hành động.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a charity**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `caritas` (affection, love)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* charitable (nhân từ, vị tha)
+> - *(noun)* charity (lòng nhân ái, tổ chức từ thiện)
+> - *(verb)* donate (quyên góp, tặng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈtʃær.ə.ti/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a charity**
+> 📖 **Meaning:** An organization that provides help and raises money for people in need
+> 🇻🇳 **Vietnamese:** Một tổ chức giúp đỡ và gây quỹ cho người khó khăn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a charity**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "He founded charity to help animals"
+> ✅ **Correction:** "He founded a charity to help animals"
+> 🧱 **Why:** Cần mạo từ "a" trước charity khi nói về một tổ chức cụ thể
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a charity**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[a for-profit organization]] (tổ chức thương mại)
+> - [[a corporation]] (công ty cổ phần)
+> 🧱 **Contrast:** Charity serves social good, for-profit serves shareholders
 
 ---

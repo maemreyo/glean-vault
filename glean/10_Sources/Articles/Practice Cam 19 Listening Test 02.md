@@ -1,10 +1,10 @@
-### PART 1
+### [[20_Vocabulary/parcel|PART]] 1
 
 **Questions 1–6**
 
-*Complete the form below.*
+*Complete the [[20_Vocabulary/curve|form]] below.*
 
-*Write **ONE WORD AND/OR A NUMBER** for each answer.*
+*Write **ONE WORD [[20_Vocabulary/In addition|AND]]/OR A NUMBER** for each answer.*
 
 |                          |                                                                           |
 | ------------------------ | ------------------------------------------------------------------------- |
@@ -21,11 +21,11 @@
 
 *Write **ONE WORD ONLY** for each answer.*
 
-<table><tbody><tr><td colspan="3" width="582"><h2>A typical 45-minute guitar lesson</h2></td></tr><tr><td width="95"><p><span><strong>Time</strong></span></p></td><td width="265"><p><span><strong>Activity</strong></span></p></td><td width="222"><p><span><strong>Notes</strong></span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>tuning guitars</span></p></td><td width="222"><p><span>using an app or by <strong>7</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>strumming chords using our thumbs</span></p></td><td width="222"><p><span>keeping time while the teacher is <strong>8</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>15 minutes</span></p></td><td width="265"><p><span>playing songs</span></p></td><td width="222"><p><span>often listening to a <strong>9</strong> ………………… of a song</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>playing single notes and simple tunes</span></p></td><td width="222"><p><span>playing together, then <strong>10</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>noting things to practise at home</span></p></td><td width="222"></td></tr></tbody></table>
+<table><tbody><tr><td colspan="3" width="582"><h2>A [[20_Vocabulary/average|typical]] 45-minute guitar lesson</h2></td></tr><tr><td width="95"><p><span><strong>Time</strong></span></p></td><td width="265"><p><span><strong>Activity</strong></span></p></td><td width="222"><p><span><strong>Notes</strong></span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/tune|tuning]] guitars</span></p></td><td width="222"><p><span>using an app or by <strong>7</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/strumming|strumming]] [[20_Vocabulary/chord|chords]] using our [[20_Vocabulary/thumbs|thumbs]]</span></p></td><td width="222"><p><span>keeping time [[20_Vocabulary/Admittedly|while]] the [[20_Vocabulary/trainer|teacher]] is <strong>8</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>15 minutes</span></p></td><td width="265"><p><span>playing songs</span></p></td><td width="222"><p><span>often listening to a <strong>9</strong> ………………… of a song</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>playing single notes [[20_Vocabulary/In addition|and]] simple [[20_Vocabulary/tune|tunes]]</span></p></td><td width="222"><p><span>playing together, then <strong>10</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>noting things to practise at home</span></p></td><td width="222"></td></tr></tbody></table>
 
 Online English Tutors
 
-Writing Correction Services
+Writing Correction [[20_Vocabulary/facilities|Services]]
 
 Listening audio players
 
@@ -43,37 +43,37 @@ Online English tutorials
 
 English Dictionary Apps
 
-### PART 2
+### [[20_Vocabulary/parcel|PART]] 2
 
 **Questions 11–15**
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-## Working as a lifeboat volunteer
+## [[20_Vocabulary/workshop|Working]] as [[20_Vocabulary/a lifeboat volunteer|a lifeboat volunteer]]
 
-**11** What made David leave London and move to Northsea?
+**11** What made David leave London [[20_Vocabulary/In addition|and]] move to [[20_Vocabulary/Northsea|Northsea]]?
 
-**A** He was eager to develop a hobby.
+**A** He was [[20_Vocabulary/eager to|eager to]] develop a hobby.
 
 **B** He wanted to work shorter hours.
 
-**C** He found his job in website design unsatisfying.
+**C** He [[20_Vocabulary/establish|found]] his job in website design [[20_Vocabulary/unsatisfying|unsatisfying]].
 
-**12** The Lifeboat Institution in Northsea was built with money provided by
+**12** The Lifeboat [[20_Vocabulary/Institution|Institution]] in [[20_Vocabulary/Northsea|Northsea]] was built with money provided by
 
-**A** a local organisation.
+**A** a [[20_Vocabulary/neighbour|local]] [[20_Vocabulary/organisation|organisation]].
 
-**B** a local resident.
+**B** a [[20_Vocabulary/neighbour|local]] [[20_Vocabulary/resident|resident]].
 
-**C** the local council.
+**C** the [[20_Vocabulary/neighbour|local]] [[20_Vocabulary/council|council]].
 
-**13** In his health assessment, the doctor was concerned about the fact that David
+**13** In his [[20_Vocabulary/mental health|health]] [[20_Vocabulary/assessment|assessment]], the doctor was concerned about the fact that David
 
 **A** might be colour blind.
 
-**B** was rather short-sighted.
+**B** was rather [[20_Vocabulary/short-sighted|short-sighted]].
 
-**C** had undergone eye surgery.
+**C** had [[20_Vocabulary/undergone|undergone]] eye surgery.
 
 **14** After arriving at the lifeboat station, they aim to launch the boat within
 
@@ -81,57 +81,57 @@ English Dictionary Apps
 
 **B** six to eight minutes.
 
-**C** eight and a half minutes.
+**C** eight [[20_Vocabulary/In addition|and]] a half minutes.
 
-**15** As a 'helmsman', David has the responsibility of deciding
+**15** As a 'helmsman', David has the [[20_Vocabulary/responsible for|responsibility]] of deciding
 
-**A** who will be the members of his crew.
+**A** who [[20_Vocabulary/will|will]] be the members of his crew.
 
-**B** what equipment it will be necessary to take.
+**B** what [[20_Vocabulary/equipment|equipment]] it [[20_Vocabulary/will|will]] be necessary to take.
 
-**C** if the lifeboat should be launched.
+**C** [[20_Vocabulary/suppose|if]] the lifeboat should be launched.
 
-**16** As well as going out on the lifeboat, David
+**16** [[20_Vocabulary/In addition|As well]] as going out on the lifeboat, David
 
 **A** gives talks on safety at sea.
 
-**B** helps with fundraising.
+**B** helps with [[20_Vocabulary/fundraising|fundraising]].
 
 **C** recruits new volunteers.
 
-**Questions 17 and 18**
+**Questions 17 [[20_Vocabulary/In addition|and]] 18**
 
 *Choose **TWO** letters, **A–E**.*
 
-Which **TWO** things does David say about the lifeboat volunteer training?
+Which **TWO** things does David say about the lifeboat volunteer [[20_Vocabulary/trainer|training]]?
 
 **A** The residential course developed his leadership skills.
 
-**B** The training in use of ropes and knots was quite brief.
+**B** The [[20_Vocabulary/trainer|training]] in use of [[20_Vocabulary/rope|ropes]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/knot|knots]] was quite [[20_Vocabulary/brief|brief]].
 
-**C** The training exercises have built up his mental strength.
+**C** The [[20_Vocabulary/trainer|training]] exercises have [[20_Vocabulary/built up|built up]] his [[20_Vocabulary/mental health|mental]] strength.
 
-**D** The casualty care activities were particularly challenging for him.
+**D** The [[20_Vocabulary/casualty|casualty]] [[20_Vocabulary/treatment|care]] activities were particularly challenging for him.
 
-**E** The wave tank activities provided practice in survival techniques.
+**E** The wave tank activities provided practice in [[20_Vocabulary/outlive|survival]] techniques.
 
-**Questions 19 and 20**
+**Questions 19 [[20_Vocabulary/In addition|and]] 20**
 
 *Choose **TWO** letters, **A–E**.*
 
 Which **TWO** things does David find most motivating about the work he does?
 
-**A** working as part of a team
+**A** [[20_Vocabulary/workshop|working]] as [[20_Vocabulary/belong to|part of]] a team
 
-**B** experiences when working in winter
+**B** experiences when [[20_Vocabulary/workshop|working]] in winter
 
 **C** being thanked by those he has helped
 
 **D** the fact that it keeps him fit
 
-**E** the chance to develop new equipment
+**E** the [[20_Vocabulary/opportunity|chance]] to develop new [[20_Vocabulary/equipment|equipment]]
 
-IELTS vocabulary resources
+IELTS vocabulary [[20_Vocabulary/facilities|resources]]
 
 Speaking Practice Partners
 
@@ -141,95 +141,95 @@ Practice test platform
 
 Grammar Exercise Workbooks
 
-### PART 3
+### [[20_Vocabulary/parcel|PART]] 3
 
 **Questions 21–24**
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**21** At first, Don thought the topic of recycling footwear might be too
+**21** At first, Don thought the topic of recycling [[20_Vocabulary/footwear|footwear]] might be [[20_Vocabulary/In addition|too]]
 
-**A** limited in scope.
+**A** [[20_Vocabulary/limited in scope|limited in scope]].
 
 **B** hard to research.
 
 **C** boring for listeners.
 
-**22** When discussing trainers, Bella and Don disagree about
+**22** When discussing [[20_Vocabulary/trainer|trainers]], Bella [[20_Vocabulary/In addition|and]] Don disagree about
 
 **A** how popular they are among young people.
 
 **B** how suitable they are for school.
 
-**C** how quickly they wear out.
+**C** how quickly they [[20_Vocabulary/worn|wear]] out.
 
-**23** Bella says that she sometimes recycles shoes because
+**23** Bella says that she sometimes recycles [[20_Vocabulary/footwear|shoes]] because
 
-**A** they no longer fit.
+**A** they [[20_Vocabulary/no longer|no longer]] fit.
 
-**B** she no longer likes them.
+**B** she [[20_Vocabulary/no longer|no longer]] likes them.
 
-**C** they are no longer in fashion.
+**C** they are [[20_Vocabulary/no longer|no longer]] in fashion.
 
-**24** What did the article say that confused Don?
+**24** What did the article say that [[20_Vocabulary/disorientation|confused]] Don?
 
-**A** Public consumption of footwear has risen.
+**A** Public [[20_Vocabulary/consumption|consumption]] of [[20_Vocabulary/footwear|footwear]] has risen.
 
-**B** Less footwear is recycled now than in the past.
+**B** Less [[20_Vocabulary/footwear|footwear]] is recycled now than in the [[20_Vocabulary/beyond|past]].
 
-**C** People dispose of more footwear than they used to.
+**C** People [[20_Vocabulary/dispose|dispose]] of more [[20_Vocabulary/footwear|footwear]] than they used to.
 
 **Questions 25–28**
 
-What reasons did the recycling manager give for rejecting footwear, according to the students?
+What reasons did the recycling manager give for rejecting [[20_Vocabulary/footwear|footwear]], according to the students?
 
-*Choose **FOUR** answers from the box and write the correct letter, **A–F**, next to Questions 25–28.*
+*Choose **FOUR** answers from the box [[20_Vocabulary/In addition|and]] write the correct letter, **A–F**, next to Questions 25–28.*
 
 **Reasons**
 
-**A** one shoe was missing
+**A** one [[20_Vocabulary/footwear|shoe]] was missing
 
-**B** the colour of one shoe had faded
+**B** the colour of one [[20_Vocabulary/footwear|shoe]] had faded
 
-**C** one shoe had a hole in it
+**C** one [[20_Vocabulary/footwear|shoe]] had a hole in it
 
-**D** the shoes were brand new
+**D** the [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/brand new|brand new]]
 
-**E** the shoes were too dirty
+**E** the [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/In addition|too]] [[20_Vocabulary/filthy|dirty]]
 
-**F** the stitching on the shoes was broken
+**F** the [[20_Vocabulary/stitching|stitching]] on the [[20_Vocabulary/footwear|shoes]] was broken
 
-**Footwear**
+**[[20_Vocabulary/footwear|Footwear]]**
 
-**25** the high-heeled shoes …………
+**25** the [[20_Vocabulary/high-heeled shoes|high-heeled shoes]] …………
 
-**26** the ankle boots …………
+**26** the ankle [[20_Vocabulary/footwear|boots]] …………
 
-**27** the baby shoes …………
+**27** the baby [[20_Vocabulary/footwear|shoes]] …………
 
-**28** the trainers …………
+**28** the [[20_Vocabulary/trainer|trainers]] …………
 
 **Questions 29–30**
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**29** Why did the project to make 'new' shoes out of old shoes fail?
+**29** Why did the project to make 'new' [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
 
-**A** People believed the 'new' pairs of shoes were unhygienic.
+**A** People believed the 'new' pairs of [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/unhygienic|unhygienic]].
 
-**B** There were not enough good parts to use in the old shoes.
+**B** There were not enough good parts to use in the [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]].
 
-**C** The shoes in the 'new' pairs were not completely alike.
+**C** The [[20_Vocabulary/footwear|shoes]] in the 'new' pairs were not completely alike.
 
-**30** Bella and Don agree that they can present their topic
+**30** Bella [[20_Vocabulary/In addition|and]] Don agree that they can [[20_Vocabulary/presentation|present]] their topic
 
-**A** from a new angle.
+**A** from a new [[20_Vocabulary/perspective|angle]].
 
 **B** with relevant images.
 
-**C** in a straightforward way.
+**C** in [[20_Vocabulary/a straightforward way|a straightforward way]].
 
-### PART 4
+### [[20_Vocabulary/parcel|PART]] 4
 
 
 **Questions 31–40**
@@ -242,43 +242,43 @@ What reasons did the recycling manager give for rejecting footwear, according to
 
 ● more than 1,000 species, 0.05–1.2 millimetres long
 
-● also known as water 'bears' (due to how they **31** …………………) and 'moss piglets'
+● [[20_Vocabulary/In addition|also]] known as water 'bears' (due to how they **31** …………………) [[20_Vocabulary/In addition|and]] '[[20_Vocabulary/moss|moss]] piglets'
 
-**Physical appearance**
+**Physical [[20_Vocabulary/appearance|appearance]]**
 
-● a **32** ………………… round body and four pairs of legs
+● a **32** ………………… round body [[20_Vocabulary/In addition|and]] four pairs of legs
 
 ● claws or **33** ………………… for gripping
 
-● absence of respiratory organs
+● [[20_Vocabulary/absence|absence]] of [[20_Vocabulary/respiratory organs|respiratory organs]]
 
-● body filled with a liquid that carries both **34** ………………… and blood
+● body filled with a liquid that carries both **34** ………………… [[20_Vocabulary/In addition|and]] blood
 
 ● mouth shaped like a **35** ………………… with teeth called stylets
 
 **Habitat**
 
-● often found at the bottom of a lake or on plants
+● often [[20_Vocabulary/establish|found]] at the bottom of a lake or on plants
 
-● very resilient and can exist in very low or high **36** …………………
+● very resilient [[20_Vocabulary/In addition|and]] can exist in very low or high **36** …………………
 
-**Cryptobiosis**
+**[[20_Vocabulary/cryptobiosis|Cryptobiosis]]**
 
 ● In dry conditions, they roll into a ball called a 'tun'.
 
-● They stay alive with a much lower metabolism than usual.
+● They stay alive with a much lower [[20_Vocabulary/metabolism|metabolism]] than [[20_Vocabulary/average|usual]].
 
 ● A type of **37** ………………… ensures their DNA is not damaged.
 
 ● Research is underway to find out how many days they can stay alive in **38** ………………….
 
-**Feeing**
+**[[20_Vocabulary/Feeing|Feeing]]**
 
-● consume liquids, e.g., those found in moss or **39** …………………
+● consume liquids, e.g., those [[20_Vocabulary/establish|found]] in [[20_Vocabulary/moss|moss]] or **39** …………………
 
 ● may eat other tardigrades
 
-**Conservation status**
+**[[20_Vocabulary/conservation|Conservation]] status**
 
 ● They are not considered to be **40** ………………….
 
@@ -288,7 +288,7 @@ What reasons did the recycling manager give for rejecting footwear, according to
 
 ## Answer Cam 19 Listening Test 02
 
-##### Part 1
+##### [[20_Vocabulary/parcel|Part]] 1
 
 1 Mathieson
 
@@ -308,9 +308,9 @@ What reasons did the recycling manager give for rejecting footwear, according to
 
 9 recording
 
-10 alone
+10 [[20_Vocabulary/loneliness|alone]]
 
-##### Part 2
+##### [[20_Vocabulary/parcel|Part]] 2
 
 11 A
 
@@ -328,7 +328,7 @@ What reasons did the recycling manager give for rejecting footwear, according to
 
 19&20 A, B
 
-##### Part 3
+##### [[20_Vocabulary/parcel|Part]] 3
 
 21 A
 
@@ -350,13 +350,13 @@ What reasons did the recycling manager give for rejecting footwear, according to
 
 30 A
 
-##### Part 4
+##### [[20_Vocabulary/parcel|Part]] 4
 
 31 move
 
 32 short
 
-33 discs
+33 [[20_Vocabulary/disc|discs]]
 
 34 oxygen
 
@@ -368,6 +368,6 @@ What reasons did the recycling manager give for rejecting footwear, according to
 
 38 space
 
-39 seaweed
+39 [[20_Vocabulary/seaweed|seaweed]]
 
 40 endangered

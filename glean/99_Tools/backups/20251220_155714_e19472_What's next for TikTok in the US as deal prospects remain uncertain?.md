@@ -14,7 +14,7 @@ US President Donald Trump initially gave himself until December 16 to comply wit
 
 The popular short-[[20_Vocabulary/curve|form]] video app was due to be banned or sold in the US in January in accordance with a law passed by Congress in 2024.
 
-Lawmakers said at the time ByteDance's links to the Chinese government threatened national security, [[20_Vocabulary/In addition|and]] expressed fears Beijing could force the company to hand [[20_Vocabulary/beyond|over]] data on US users.
+Lawmakers said at the time ByteDance's links to the Chinese government threatened national security, [[20_Vocabulary/In addition|and]] expressed fears Beijing could force the company to hand over data on US users.
 
 It's a concern [[20_Vocabulary/social media|TikTok]] [[20_Vocabulary/In addition|and]] its owners have always said is unfounded.
 

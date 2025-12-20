@@ -18,7 +18,7 @@ BCS, the Chartered [[20_Vocabulary/establish|Institute]] for IT, [warned in Dece
 
 It said the government should look to [[20_Vocabulary/rescue|help]] close the gender gap in order to meet its [ambitious AI goals](https://www.bbc.co.uk/news/articles/crr05jykzkxo).
 
-"We cannot [[20_Vocabulary/invent|create]] high-trust, high-integrity AI systems [[20_Vocabulary/suppose|if]] the profession behind them is missing out on the talents [[20_Vocabulary/In addition|and]] [[20_Vocabulary/perspective|perspective]] of half the [[20_Vocabulary/the number of inhabitants|population]]," said chief executive Sharron Gunn.
+"We cannot [[20_Vocabulary/invent|create]] high-trust, high-integrity AI systems [[20_Vocabulary/suppose|if]] the profession behind them is missing out on the talents [[20_Vocabulary/In addition|and]] perspective of half the [[20_Vocabulary/the number of inhabitants|population]]," said chief executive Sharron Gunn.
 
 Ms Kendall [[20_Vocabulary/will|will]] lead the taskforce alongside Anne-Marie Imafidon, founder of Stemettes, who has been appointed as the Women in Tech Envoy.
 
