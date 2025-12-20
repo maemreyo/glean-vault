@@ -1,5 +1,82 @@
 [
   {
+    "id": "20251220_232943_bd49b1",
+    "timestamp": "20251220_232943",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Audioscripts Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_232943_bd49b1_Audioscripts Cam 19 Listening Test 03.md",
+    "changes_count": 38,
+    "changes_sample": [
+      "'medal' -> '[[20_Vocabulary/medal|medal]]'",
+      "'as soon as' -> '[[30_Structures/as soon as|as soon as]]'",
+      "'the teenage diary of a boy' -> '[[20_Vocabulary/the teenage diary of a boy|the teenage diary of a boy]]'",
+      "'immigration' -> '[[20_Vocabulary/immigration|immigration]]'",
+      "'the language barrier' -> '[[20_Vocabulary/the language barrier|the language barrier]]'"
+    ]
+  },
+  {
+    "id": "20251220_232943_502d6b",
+    "timestamp": "20251220_232943",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_232943_502d6b_Cam 19 Listening Test 02.md",
+    "changes_count": 2,
+    "changes_sample": [
+      "'particularly' -> '[[20_Vocabulary/particularly|particularly]]'",
+      "'particularly' -> '[[20_Vocabulary/particularly|particularly]]'"
+    ]
+  },
+  {
+    "id": "20251220_232943_c11957",
+    "timestamp": "20251220_232943",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Practice Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_232943_c11957_Practice Cam 19 Listening Test 02.md",
+    "changes_count": 1,
+    "changes_sample": [
+      "'particularly' -> '[[20_Vocabulary/particularly|particularly]]'"
+    ]
+  },
+  {
+    "id": "20251220_232942_e7b674",
+    "timestamp": "20251220_232942",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_232942_e7b674_Cam 19 Listening Test 03.md",
+    "changes_count": 39,
+    "changes_sample": [
+      "'a weighing chamber' -> '[[20_Vocabulary/a weighing chamber\\|a weighing chamber]]'",
+      "'medal' -> '[[20_Vocabulary/medal|medal]]'",
+      "'as soon as' -> '[[30_Structures/as soon as|as soon as]]'",
+      "'the teenage diary of a boy' -> '[[20_Vocabulary/the teenage diary of a boy|the teenage diary of a boy]]'",
+      "'immigration' -> '[[20_Vocabulary/immigration|immigration]]'"
+    ]
+  },
+  {
+    "id": "20251220_231936_bd49b1",
+    "timestamp": "20251220_231936",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Audioscripts Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_231936_bd49b1_Audioscripts Cam 19 Listening Test 03.md",
+    "changes_count": 340,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'",
+      "'but' -> '[[20_Vocabulary/However|but]]'",
+      "'go over' -> '[[20_Vocabulary/look over|go over]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'"
+    ]
+  },
+  {
+    "id": "20251220_231936_e7b674",
+    "timestamp": "20251220_231936",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_231936_e7b674_Cam 19 Listening Test 03.md",
+    "changes_count": 428,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'AND' -> '[[20_Vocabulary/In addition|AND]]'",
+      "'Local' -> '[[20_Vocabulary/neighbour|Local]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'",
+      "'turn' -> '[[20_Vocabulary/curve|turn]]'"
+    ]
+  },
+  {
     "id": "20251220_204425_1b8b0f",
     "timestamp": "20251220_204425",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",

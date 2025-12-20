@@ -111,7 +111,7 @@ Which **TWO** things does David say about the lifeboat volunteer [[20_Vocabulary
 
 **C** The [[20_Vocabulary/trainer|training]] exercises have [[20_Vocabulary/built up|built up]] his [[20_Vocabulary/mental health|mental]] strength.
 
-**D** The [[20_Vocabulary/casualty|casualty]] [[20_Vocabulary/treatment|care]] activities were [[20_Vocabulary/particularly|particularly]] challenging for him.
+**D** The [[20_Vocabulary/casualty|casualty]] [[20_Vocabulary/treatment|care]] activities were particularly challenging for him.
 
 **E** The [[20_Vocabulary/a wave-tank|wave tank]] activities provided practice in [[20_Vocabulary/outlive|survival]] techniques.
 
