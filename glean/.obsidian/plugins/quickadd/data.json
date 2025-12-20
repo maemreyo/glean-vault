@@ -59,11 +59,11 @@
       },
       "format": {
         "enabled": true,
-        "format": "ref: {{linkcurrent}}\n\n"
+        "format": "  - {{linkcurrent}}\n"
       },
       "insertAfter": {
         "enabled": true,
-        "after": "status:",
+        "after": "ref:",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
@@ -83,7 +83,7 @@
         "focus": false
       },
       "templater": {
-        "afterCapture": "wholeFile"
+        "afterCapture": "none"
       }
     }
   ],

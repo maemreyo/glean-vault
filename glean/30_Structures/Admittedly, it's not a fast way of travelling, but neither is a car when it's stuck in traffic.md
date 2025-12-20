@@ -31,9 +31,8 @@ tags:
   - structure
 aliases: [] # common variations or shortened forms of the pattern
 status: pending
-ref: [[Cam 20 Listening Test 01]]
-
 ref:
+  - [[Cam 20 Listening Test 01]]
 
 ---
 
