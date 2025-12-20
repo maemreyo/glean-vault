@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
 #flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [pupils, student, learner, schoolchild, apprentice, disciple]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈpjuːpəl/
+> **Part of Speech:** Noun
+> **CEFR Level:** A2
+> **Register:** Formal/Educational
+> **Etymology:** From Latin "pupilla" (little girl, doll, pupil of eye) → Old French "pupille"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A person who is taught by another, especially a schoolchild or student
+>
+> **Context Meaning:** A student under the supervision of a teacher or school
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** học sinh, học trò
+> - **Contextual:** em bé (trong trường mầm non), học viên
+>
 > **Nuances:**
-> - ...
+> - Often used for younger students (primary/secondary school)
+> - Can also refer to the black center part of the eye
+> - Implies a teacher-student relationship
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Eager, Respectful, Growing
+> **Memory Hook:** Picture a young student with wide-open pupils, eagerly absorbing knowledge
+> **📖 Etymology Story:** The Romans called the dark center of the eye "pupilla" meaning "little doll" because they saw a tiny reflection of themselves there. Later, this term extended to mean "student" - someone who reflects what their teacher teaches them
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[pupil]] /ˈpjuːpəl/, [[pupillage]] /ˈpjuːpɪlɪdʒ/
+> - **Verb:** [[teach]] /tiːtʃ/, [[learn]] /lɜːn/
+> - **Adj:** [[pupilar]] /ˈpjuːpɪlə(r)/, [[pupillary]] /ˈpjuːpɪləri/
+> - **Adv:** N/A
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[student]] /ˈstjuːdənt/ : more common for older learners
+> - [[learner]] /ˈlɜːnə(r)/ : emphasizes the learning process
+> - [[apprentice]] /əˈprentɪs/ : learning a trade
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[teacher]] /ˈtiːtʃə(r)/ : person who teaches
+> - [[master]] /ˈmɑːstə(r)/ : expert in a field
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. bright pupil
+> 2. pupil's progress
+> 3. primary school pupil
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The teacher praised her brightest pupil for the excellent essay.
+> - **Translation:** Giáo viên khen ngợi học sinh xuất sắc nhất của cô ấy vì bài luận tuyệt vời.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The school has over three hundred pupils enrolled this year.
+> - **Translation:** Trường có hơn ba trăm học sinh ghi danh trong năm nay.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with eye terminology**
+> - ❌ **Mistake:** Using "pupil" when meaning "student" in university context
+> - ✅ **Correction:** Use "student" for university, "pupil" for school
+> - **Why:** "Pupil" typically refers to younger learners
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires."
+> **Source:** William Arthur Ward
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **pupil** (*/ˈpjuːpəl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A young student under the supervision of a teacher, especially in primary or secondary school
+> 🇻🇳 **Vietnamese:** Học sinh, học trò (đặc biệt ở cấp 1, cấp 2)
+> 🗣️ **IPA:** */ˈpjuːpəl/*
+> 🧠 **Mental Model:** Một đứa trẻ ngồi trong lớp học, mắt mở to, chăm chú lắng nghe giáo viên
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A young person who is learning in school under a teacher's guidance"
+**Vietnamese:** Một người trẻ đang học ở trường dưới sự hướng dẫn của giáo viên
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**pupil** (*/ˈpjuːpəl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **pupil** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new pupil quickly adapted to the school's strict discipline.
+> 🇻🇳 **Translation:** Học sinh mới nhanh chóng thích nghi với kỷ luật nghiêm ngặt của nhà trường.
+> 🔍 **Analysis:** "Pupil" ở đây nhấn mạnh đối tượng học sinh còn nhỏ, đang dưới sự quản lý của nhà trường - từ này tạo cảm giác trang trọng hơn "kid" nhưng gần gũi hơn "student"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **pupil**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Academic Quality:** bright/gifted pupil (học sinh thông minh) - VN: mô tả năng lực học tập
+> 2. **Educational Process:** pupil's progress (tiến bộ của học sinh) - VN: theo dõi sự phát triển
+> 3. **Educational Level:** primary/secondary pupil (học sinh cấp 1/2) - VN: chỉ cấp học
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **pupil**:
+"The kid in my class won the award."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The brightest pupil in our class received the academic excellence award."
+> 💡 **Why it works:** "Pupil" thể hiện môi trường giáo dục trang trọng, "brightest" nhấn mạnh tài năng, tạo nên câu văn chuyên nghiệp và rõ nghĩa hơn
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **pupil** instead of **[[student]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **pupil:** Thường chỉ học sinh nhỏ tuổi (tiểu học, trung học) - VN: nhấn mạnh sự bảo hộ của giáo viên
+> **student:** Dùng cho mọi lứa tuổi, đặc biệt là trung học và đại học - VN: mang tính độc lập hơn
+> 🧱 **The Barrier:** "Pupil" ngụ ý người học cần sự hướng dẫn, còn "student" ngụ ý người học có tính tự chủ và độc lập hơn trong học tập
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a teacher at parent-teacher conference. You're discussing progress. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Your daughter is one of my most dedicated pupils this year."
+> 👨‍🎨 **Director's Note:** "Pupil" thể hiện mối quan hệ giáo viên-học sinh, tạo cảm giác chuyên nghiệp và phù hợp trong bối cảnh hội luận phụ huynh
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `pupilla` (little doll) to the meaning of **pupil**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Người La Mã gọi trung tâm đen của mắt là "pupilla" (con búp bê nhỏ) vì họ thấy hình ảnh phản chiếu nhỏ xíu của mình. Sau đó, từ này được mở rộng để chỉ "học trò" - người phản chiếu những gì giáo viên dạy họ, giống như gương phản chiếu hình ảnh
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **pupil**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `pupilla` (pupil of eye, little doll) → Old French `pupille`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* pupil, student, learner, apprentice
+> - *(adj)* pupilar, pupillary
+> - *(verb)* teach, learn, educate
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈpjuːpəl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**pupil**
+> 📖 **Meaning:** A young student under a teacher's supervision
+> 🇻🇳 **Vietnamese:** Học sinh, học trò
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **pupil**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I am a pupil at Harvard University" (sai bối cảnh)
+> ✅ **Correction:** "I am a student at Harvard University"
+> 🧠 **Why:** "Pupil" dùng cho học sinh nhỏ tuổi, "student" dùng cho sinh viên đại học hoặc người lớn đi học
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **pupil**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[teacher]] (Giáo viên, người dạy)
+> - [[tutor]] (Gia sư, người hướng dẫn riêng)
+> 🧱 **Contrast:** Trong khi "pupil" là người nhận kiến thức, "teacher" là người truyền đạt kiến thức - mối quan hệ đối lập trong giáo dục
 
 ---

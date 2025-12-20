@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/arts-architecture/art-forms
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [strum, strums, strummed, strummer, plucking, picking, guitar playing]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈstrʌmɪŋ/
+> **Part of Speech:** verb (present participle)
+> **CEFR Level:** B1
+> **Register:** informal/neutral
+> **Etymology:** Probably of imitative origin, mimicking the sound of strings being brushed
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To brush strings of a musical instrument with fingers or plectrum
+>
+> **Context Meaning:** Playing a string instrument by sweeping fingers across strings, creating continuous sound
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** gảy đàn, vuốt đàn
+> - **Contextual:** kéo đàn, đàn gảy lướt
+>
 > **Nuances:**
-> - ...
+> - Different from 'plucking' which is more precise
+> - Creates flowing, rhythmic patterns rather than individual notes
+> - Often associated with guitar, ukulele, and similar instruments
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Rhythmic, Casual, Flowing, Musical
+> **Memory Hook:** Imagine fingers strumming like brushing through hair - continuous sweeping motion
+> **📖 Etymology Story:** The word imitates the 'strum-strum' sound when fingers glide across guitar strings. This onomatopoeic word captures both the action and the sound in one expressive term
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[strum]] /strʌm/ : to play strings with sweeping motion
+> - **Noun:** [[strummer]] /ˈstrʌmə/ : one who strums an instrument
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[pluck]] /plʌk/ : pick strings individually
+> - [[fingerpick]] /ˈfɪŋɡəpɪk/ : pick with fingers
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[bow]] /bəʊ/ : play with a bow (violin)
+> - [[strike]] /straɪk/ : hit percussively
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. strumming a guitar/ukulele
+> 2. softly/gently strumming
+> 3. strumming a chord/melody
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She sat on the porch, strumming her guitar and watching the sunset.
+> - **Translation:** Cô ấy ngồi trên hiên nhà, gảy cây đàn guitar và ngắm hoàng hôn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The street musician was strumming a familiar tune that attracted a small crowd.
+> - **Translation:** Nghệ sĩ đường phố đang đàn một giai điệu quen thuộc thu hút một đám đông nhỏ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with 'plucking'**
+> - ❌ **Mistake:** He was strumming individual notes on the violin.
+> - ✅ **Correction:** He was plucking individual notes on the violin.
+> - **Why:** Violins aren't typically strummed; 'plucking' refers to playing individual strings
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Strumming is not just technique; it's the heartbeat of folk music - simple yet profound."
+> **Source:** [[Music Theory]]
 
 ---
 
@@ -161,121 +79,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **strumming** (*/ˈstrʌmɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Playing a string instrument by brushing fingers across strings rhythmically
+> 🇻🇳 **Vietnamese:** Gảy đàn, vuốt đàn, kéo đàn
+> 🗣️ **IPA:** */ˈstrʌmɪŋ/*
+> 🧠 **Mental Model:** Hành động vuốt ngón tay qua dây đàn để tạo âm thanh liên tục như "vuốt tóc"
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Playing strings by sweeping fingers across them"
+**Vietnamese:** Gảy đàn, vuốt đàn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**strumming** (*/ˈstrʌmɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **strumming** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The campers gathered around the fire, strumming their guitars and singing folk songs.
+> 🇻🇳 **Vietnamese:** Những người cắm trại tụ tập quanh đống lửa, gảy đàn guitar và hát những bài dân ca.
+> 🔍 **Analysis:** Perfect here - 'strumming' captures the casual, rhythmic guitar playing typical of campfire songs
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **strumming**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Instrument:** strumming a guitar/ukulele/banjo (chỉ loại đàn)
+> 2. **Manner:** gently/softly/absentmindedly strumming (chỉ cách gảy)
+> 3. **Musical:** strumming chords/melodies/rhythms (chỉ nội dung)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **strumming**:
+"He was playing his guitar."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He was strumming his guitar, creating a gentle melody that filled the quiet room."
+> 💡 **Why it works:** 'Strumming' thêm hình ảnh cụ thể về cách chơi - vuốt dây đàn thay vì chỉ nói chung chung
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **strumming** instead of **playing**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **strumming:** Chỉ specific technique - vuốt dây đàn tạo âm liên tục
+> **playing:** General term - có thể bao gồm nhiều techniques
+> 🧱 **The Barrier:** strumming = specific sweeping motion vs playing = any method of making music
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're relaxing on the beach with a ukulele. You feel peaceful. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Nothing beats strumming a ukulele while listening to the ocean waves."
+> 👨‍🎨 **Director's Note:** 'Strumming' tạo cảm giác thư thái, casual - perfect cho beach vibe
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the onomatopoeic root to the meaning of **strumming**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ bắt chước âm thanh 'strum-strum' khi ngón tay vuốt qua dây đàn - word captures cả action và sound
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **strumming**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Onomatopoeic (imitating string sound)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[strum]] (hành động gảy đàn)
+> - *(noun)* [[strummer]] (người gảy đàn)
+> - *(adj)* [[strummed]] (đã được gảy)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈstrʌmɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**strumming**
+> 📖 **Meaning:** Playing strings with sweeping motion
+> 🇻🇳 **Vietnamese:** Gảy đàn, vuốt đàn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **strumming**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** She was strumming the piano keys.
+> ✅ **Correction:** She was playing/strumming the piano keys.
+> 🧠 **Why:** 'Strumming' chỉ dùng cho string instruments, piano là keyboard/hammer action
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite technique of **strumming**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> **Opposite Techniques:**
+> - [[plucking]] (gảy từng dây riêng lẻ)
+> - [[bowing]] (kéo vĩ cầm)
+> 🧱 **Contrast:** strumming = continuous sweep vs plucking/bowing = individual notes

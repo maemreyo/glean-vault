@@ -1,159 +1,84 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [wear, wore, worn out, wear and tear, well-worn, worn-off]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /wɔːn/
+> **Part of Speech:** adjective/past participle
+> **CEFR Level:** B1
+> **Register:** neutral/informal
+> **Etymology:** Past participle of wear, from Old English werian "to clothe, dress"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:**
+> 1. Affected or damaged by use or overuse
+> 2. Exhausted or very tired
+> 3. Carried or had on the body
+>
+> **Context Meaning:**
+> 1. Damaged or shabby from continued use
+> 2. Weakened by fatigue or stress
+> 3. (Past participle) Having been dressed in
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đã mòn, đã cũ, đã mặc, đã mệt
+> - **Contextual:** đã sờn rách, đã hao mòn, kiệt sức
+>
 > **Nuances:**
-> - ...
+> - Can describe physical objects or emotional states
+> - Implies passage of time and usage
+> - Often used empathetically to describe exhaustion
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Weary, Experienced, Damaged
+> **Memory Hook:** Think of old shoes with holes - they're worn from years of walking
+> **📖 Etymology Story:** From Old English werian "to clothe," worn evolved from "clothed" to "affected by use/clothing." Like clothes that bear the marks of the wearer, things that are worn carry the story of their journey through time and use.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - **Verb:** [[wear]] /weə(r)/
+> - **Noun:** [[wear]] /weə(r)/
+> - **Adj:** [[worn]] /wɔːn/, [[worn-out]] /wɔːn-aʊt/
+>
+> **Related Forms:**
+> - **wear and tear** : damage from normal use
+> - **well-worn** : used often but still functional
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[new]] /njuː/ : fresh, unused
+> - [[fresh]] /freʃ/ : recently made
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. worn out
+> 2. well-worn path
+> 3. worn leather
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** His boots were worn from years of hiking on rugged trails.
+> - **Translation:** Chiếc ủng của anh đã mòn sau nhiều năm đi bộ trên những con đường mòn gồ ghề.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** After the marathon, she felt completely worn and could barely walk.
+> - **Translation:** Sau cuộc thi marathon, cô cảm thấy kiệt sức và gần như không thể đi bộ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Worn vs Warn**
+> - ❌ **Mistake:** I was worn about the danger.
+> - ✅ **Correction:** I was warned about the danger.
+> - **Why:** "Worn" is past participle of wear (damaged/tired), while "warn" means to alert someone.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The worn pages of that old book told stories of countless readers who had traveled through its words."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +86,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **worn** (*/wɔːn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Damaged or changed by long use; exhausted or tired from work or stress; past participle of wear
+> 🇻🇳 **Vietnamese:** Đã mòn, đã sờn rách; đã kiệt sức; quá khứ phân từ của wear
+> 🗣️ **IPA:** */wɔːn/*
+> 🧠 **Mental Model:** Hình dung đôi giàymòn sau nhiều năm đi - đó là worn (đã sờn)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Damaged or changed by long use"
+**Vietnamese:** Bị hao mòn hoặc thay đổi do sử dụng lâu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**worn** (*/wɔːn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **worn** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The worn leather jacket told stories of countless adventures and rainy days.
+> 🇻🇳 **Translation:** Chiếc áo jacket da đã sờn kể những câu chuyện về vô số cuộc phiêu lưu và những ngày mưa.
+> 🔍 **Analysis:** Worn ở đây không chỉ miêu tả vật chất mà còn gợi lên lịch sử và kỷ niệm
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **worn**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Exhaustion:** worn out (kiệt sức - thể hiện sự mệt mỏi tuyệt đối)
+> 2. **Usage:** well-worn (đã qua sử dụng nhiều nhưng vẫn tốt)
+> 3. **Material:** worn leather/fabric (da/vải đã sờn - mô tả vật chất)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **worn**:
+"The old shoes looked bad."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "His worn sneakers bore the scars of a thousand miles, their soles thin and canvas frayed."
+> 💡 **Why it works:** "Worn" tạo hình ảnh giàu cảm xúc về lịch sử sử dụng hơn "looked bad"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **worn** instead of **old**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **worn:** Chỉ rõ sự hao mòn do sử dụng, có dấu vết thời gian (VN: đã sờn, đã mòn)
+> **old:** Chỉ độ tuổi, không nhất thiết đã qua sử dụng nhiều (VN: cũ, lâu năm)
+> 🧱 **The Barrier:** Worn implies usage damage, old implies age (VN: worn là hư hao do dùng, old là tuổi tác)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You've been working 12 hours straight. You feel exhausted. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm completely worn out. I need to rest."
+> 👨‍🎨 **Director's Note:** Worn out thể hiện sự kiệt sức đến giới hạn (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `werian` to the meaning of **worn**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ tiếng Anh cổ werian "mặc quần áo". Worn từ "đã mặc" phát triển thành "bị ảnh hưởng bởi việc mặc/sử dụng". Như quần áo mang dấu vết người mặc, đồ vật worn mang câu chuyện hành trình qua thời gian.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **worn**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `werian` (to clothe, dress)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* wear (mặc, sử dụng làm mòn)
+> - *(noun)* wear (sự hao mòn, quần áo)
+> - *(phrase)* wear and tear (sự hao mòn tự nhiên)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */wɔːn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**worn**
+> 📖 **Meaning:** Damaged or changed by long use
+> 🇻🇳 **Vietnamese:** Bị hao mòn do sử dụng lâu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **worn**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "My shoes are very worned"
+> ✅ **Correction:** "My shoes are very worn"
+> 🧠 **Why:** Worn là past participle, không thêm -ed
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **worn**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[new]] (mới, chưa qua sử dụng)
+> - [[pristine]] (nguyên vẹn, không một vết xước)
+> 🧱 **Contrast:** Worn shows history of use, new shows lack of history
 
 ---

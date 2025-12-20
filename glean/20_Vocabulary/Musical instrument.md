@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
 #flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [instruments, musical instruments, musical gear, music equipment, musical devices, sound-making tools, orchestral instruments, band instruments]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈmjuːzɪkəl ˈɪnstrəmənt/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** A2
+> **Register:** General
+> **Etymology:** From Latin "musicalis" (of or pertaining to music) + "instrumentum" (tool, equipment)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A device created or adapted to make musical sounds
+>
+> **Context Meaning:** Any object used to produce music, ranging from simple percussion to complex electronic devices
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nhạc cụ
+> - **Contextual:** dụng cụ âm nhạc
+>
 > **Nuances:**
-> - ...
+> - Includes both traditional and modern devices
+> - Can be acoustic or electronic
+> - Ranges from simple (triangle) to complex (piano, organ)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Creative, Harmonious, Expressive
+> **Memory Hook:** Think of "in-stru-ment" as "instructions for sound" - devices that follow musical instructions to create beautiful sounds
+> **📖 Etymology Story:** Latin "instrumentum" originally meant "equipment or tool" - musicians turned ordinary tools into magical sound-making devices through the ages, from simple bone flutes to grand concert pianos
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[instrument]] /ˈɪnstrəmənt/
+> - **Adj:** [[instrumental]] /ˌɪnstrəˈmentl/
+> - **Adv:** [[instrumentally]] /ˌɪnstrəˈmentəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[device]] /dɪˈvaɪs/ : general term for equipment
+> - [[apparatus]] /ˌæpəˈreɪtəs/ : more complex system
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[silence]] /ˈsaɪləns/ : absence of sound
+> - [[muted]] /ˈmjuːtɪd/ : sound-deadening
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. play a musical instrument
+> 2. traditional musical instrument
+> 3. learn a musical instrument
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She can play several musical instruments, including the piano and violin.
+> - **Translation:** Cô ấy có thể chơi several nhạc cụ, bao gồm piano và violin.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The museum has an impressive collection of ancient musical instruments.
+> - **Translation:** Bảo tàng có một bộ sưu tập nhạc cụ cổ đại ấn tượng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability Error**
+> - ❌ **Mistake:** I bought two musical equipments.
+> - ✅ **Correction:** I bought two musical instruments.
+> - **Why:** "Instrument" is countable, "equipment" is uncountable in this context
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** The orchestra featured musicians playing over 50 different musical instruments from around the world.
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **musical instrument** (*/ˈmjuːzɪkəl ˈɪnstrəmənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A device created or adapted to make musical sounds (Oxford Dictionary)
+> 🇻🇳 **Vietnamese:** Nhạc cụ (dụng cụ dùng để tạo ra âm nhạc)
+> 🗣️ **IPA:** */ˈmjuːzɪkəl ˈɪnstrəmənt/*
+> 🧠 **Mental Model:** Sound-making tool (ferramenta tạo âm thanh) - bất kỳ vật dụng nào được thiết kế để tạo ra giai điệu và tiết tấu
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A device created or adapted to make musical sounds"
+**Vietnamese:** Nhạc cụ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**musical instrument** (*/ˈmjuːzɪkəl ˈɪnstrəmənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **musical instrument** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Learning to play a musical instrument requires dedication and regular practice.
+> 🇻🇳 **Translation:** Học chơi nhạc cụ đòi hỏi sự cống hiến và luyện tập đều đặn.
+> 🔍 **Analysis:** Perfect here because "musical instrument" specifically refers to any device for creating music (bất kỳ dụng cụ nào để tạo âm nhạc), while "equipment" would be too general
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **musical instrument**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action verbs:** play a musical instrument (hành động chơi - kết hợp chủ yếu với động từ "play")
+> 2. **Adjectives describing type:** traditional/electronic musical instrument (loại hình - mô tả đặc điểm của nhạc cụ)
+> 3. **Acquisition verbs:** learn/buy/collect musical instruments (sở hữu - hành động có được nhạc cụ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **musical instrument**:
+"He likes to make sounds with objects."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He enjoys playing various musical instruments, from the guitar to the saxophone."
+> 💡 **Why it works:** "Musical instruments" is specific (cụ thể) and professional (chuyên nghiệp), showing purposeful creation of music rather than random sounds
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **musical instrument** instead of **equipment**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **musical instrument:** Specific for creating music (dành riêng cho việc tạo âm nhạc)
+> **equipment:** General tools or gear (dụng cụ chung)
+> 🧱 **The Barrier:** Instruments ARE music's voice, equipment just helps - nhạc cụ LÀ tiếng nói của âm nhạc, equipment chỉ hỗ trợ
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** At a music store, you see your dream guitar on display. You feel excited. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I've always wanted to learn this musical instrument!"
+> 👨‍🎨 **Director's Note:** Shows passion (đam mê) and specific desire - không chỉ nói "I want that" mà cụ thể "musical instrument" thể hiện sự trân trọng
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `instrumentum` to the meaning of **musical instrument**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `instrumentum` meant "tool" - ancient craftsmen saw sound as another material to shape (nhân xưa xem âm thanh như vật liệu để định hình), so they created "sound-tools" that became today's musical instruments
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **musical instrument**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `instrumentum` (tool, equipment)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[instrument]] (vật dụng, công cụ)
+> - *(adjective)* [[instrumental]] (quan trọng, thiết yếu)
+> - *(adverb)* [[instrumentally]] (một cách quan trọng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈmjuːzɪkəl ˈɪnstrəmənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**musical instrument**
+> 📖 **Meaning:** A device for making musical sounds
+> 🇻🇳 **Vietnamese:** Nhạc cụ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **musical instrument**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The school bought new musical equipments for the band."
+> ✅ **Correction:** "The school bought new musical instruments for the band."
+> 🧠 **Why:** "Equipment" is uncountable, "instrument" is countable - each violin, flute, or drum is an individual instrument
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **musical instrument**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[muffler]] (cái giảm thanh - thiết bị làm giảm âm thanh)
+> - [[silencer]] (cây tạt tiếng - đồ vật triệt tiêu âm thanh)
+> 🧱 **Contrast:** Instruments CREATE sound, antonyms SUPPRESS sound - nhạc cụ TẠO ra âm thanh, đối triệt TIÊU âm thanh
 
 ---

@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [germs, germ-free, germicide, germ theory, germ warfare, germinal, pathogen, bacteria, virus, microbe]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dʒɜːrm/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** everyday/scientific
+> **Etymology:** From Latin "germen" meaning "sprout, bud, embryo" - something that causes growth
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A small mass of living substance capable of developing into an organism
+>
+> **Context Meaning:** A microorganism, especially one that causes disease; a pathogenic bacterium or virus
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** vi khuẩn, mầm bệnh
+> - **Contextual:** vi trùng, vi sinh vật gây bệnh
+>
 > **Nuances:**
-> - ...
+> - Often used informally to mean any harmful microbe
+> - Scientifically more specific than "microbe"
+> - Can be both singular and collective noun
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Invisible, Dangerous, Pervasive
+> **Memory Hook:** Germ sounds like "grow" with "m" - tiny things that grow to make you sick
+> **📖 Etymology Story:** Latin "germen" meant "sprout" or "seed" - early biologists saw these invisible creatures as seeds of disease that could sprout and grow in the body, like unwanted plants in a garden.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[germ]] /dʒɜːrm/
+> - **Adj:** [[germinal]] /ˈdʒɜːrmɪnl/
+> - **Noun:** [[germination]] /ˌdʒɜːrmɪˈneɪʃn/
+> - **Noun:** [[germicide]] /ˈdʒɜːrmɪsaɪd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[bacteria]] /bækˈtɪəriə/ : specific type
+> - [[microbe]] /ˈmaɪkroʊb/ : general term
+> - [[pathogen]] /ˈpæθədʒən/ : disease-causing agent
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[antibiotic]] /ˌæntibaɪˈɑːtɪk/ : kills germs
+> - [[disinfectant]] /ˌdɪsɪnˈfɛktənt/ : removes germs
+> - [[sterile]] /ˈstɛrəl/ : free from germs
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. spread/carry germs
+> 2. kill/destroy germs
+> 3. germ-free environment
+>
+> **1. Health Context**
+> - **Sentence:** Regular hand washing helps prevent the spread of harmful germs.
+> - **Translation:** Rửa tay thường xuyên giúp ngăn ngừa sự lây lan của vi khuẩn có hại.
+>
+> **2. Scientific Context**
+> - **Sentence:** The scientist identified a new germ responsible for the outbreak.
+> - **Translation:** Nhà khoa học đã xác định một loại vi khuẩn mới chịu trách nhiệm cho đợt bùng phát.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural form**
+> - ❌ **Mistake:** I need to kill all the germ.
+> - ✅ **Correction:** I need to kill all the germs. (plural) OR I need to kill the germ. (singular)
+> - **Why:** Context determines whether singular or plural form is needed
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The germ is nothing; the terrain is everything."
+> **Source:** [[Louis Pasteur]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **germ** (*/dʒɜːrm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A very small living thing, especially a bacterium or virus, that can cause disease; a pathogenic microorganism
+> 🇻🇳 **Vietnamese:** Vi khuẩn, vi trùng, mầm bệnh
+> 🗣️ **IPA:*/dʒɜːrm/*
+> 🧠 **Mental Model:** Sinh vật siêu nhỏ không nhìn thấy - giống như "seed" của bệnh tật, khi vào cơ thể sẽ "sprout" và gây bệnh
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A microscopic organism that can cause disease"
+**Vietnamese:** Sinh vật hiển vi có thể gây bệnh
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**germ** (*/dʒɜːrm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **germ** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The preschool teacher reminded parents to keep sick children at home to prevent germ transmission.
+> 🇻🇳 **Translation:** Giáo viên mầm non nhắc nhở phụ huynh giữ trẻ ốm ở nhà để ngăn ngừa lây lan vi khuẩn.
+> 🔍 **Analysis:** "Germ" được dùng ở đây trong ngữ cảnh education/health - từ này dễ hiểu cho general public, less technical hơn "pathogen" nhưng vẫn传达了 risk
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **germ**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** spread germs (lan truyền vi khuẩn - VN: mô tả transmission mechanism)
+> 2. **Prevention:** germ-free (không vi khuẩn - VN: state of being clean)
+> 3. **Location:** germ warfare (chiến tranh vi sinh vật - VN: military context)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **germ**:
+"Wash your hands to remove bad tiny things."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The hospital's strict hygiene protocols required staff to scrub vigorously to eliminate all disease-causing germs before entering operating rooms."
+> 💡 **Why it works:** "Germ" specific hơn "bad tiny things" - "disease-causing" thêm clarity về danger, "eliminate" stronger hơn "remove"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **germ** instead of **[[bacteria]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **germ:** Dùng trong everyday language, chỉ general microbe gây bệnh (VN: thông thường, vi trùng gây bệnh)
+> **[[bacteria]]:** Dùng trong scientific context, specific type of microorganism (VN: khoa học, cụ thể)
+> 🧱 **The Barrier:** Germ là everyday term cho bất kỳ harmful microbe nào, bacteria là specific category - germ bao gồm bacteria, viruses, và pathogens khác
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend sneezes without covering their mouth. You're concerned about **germs**. React!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Cover your mouth! You're spreading germs everywhere!"
+> 👨‍🎨 **Director's Note:** Natural reaction showing concern - "germs" ở đây là invisible danger, tạo cảm giác urgency về hygiene
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `germen` to the meaning of **germ**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "germen" (sprout/seed) → "germ" (little seed of disease) - từ "mầm cây" thành "mầm bệnh" concept
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **germ**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `germen` (sprout, bud, seed)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* germ
+> - *(noun)* germination (process of sprouting)
+> - *(adj)* germinal (related to beginning/development)
+> - *(noun)* germicide (germ-killing substance)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dʒɜːrm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**germ**
+> 📖 **Meaning:** Disease-causing microorganism
+> 🇻🇳 **Vietnamese:** Vi khuẩn gây bệnh
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **germ**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Be careful of germ in public places.
+> ✅ **Correction:** Be careful of germs in public places.
+> 🧠 **Why:** Khi nói general về nhiều vi khuẩn trong môi trường, dùng plural form "germs" - "germ" là khi chỉ specific one
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of having **germs**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Concepts:**
+> - [[sterile]] (vô trùng - không có vi khuẩn)
+> - [[cleanliness]] (sự sạch sẽ - không có bẩn/vi khuẩn)
+> 🧱 **Contrast:** Germs represent contamination and potential disease; opposite is absence of harmful microorganisms - sterile/clean state
 
 ---

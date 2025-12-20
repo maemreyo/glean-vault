@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/arts-architecture/art-forms
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [chords, triad, harmony, musical chord, major chord, minor chord, chord progression]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kɔːd/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** music/academic
+> **Etymology:** From Greek 'khordē' (string of gut, string of musical instrument) → Latin 'chorda' → Old English 'cord'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Combination of three or more musical notes played together
+>
+> **Context Meaning:** A group of notes (typically 3-4) played simultaneously to create harmony in music
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hợp âm
+> - **Contextual:** dây đàn, dây, thanh âm hài hòa
+>
 > **Nuances:**
-> - ...
+> - Can refer to musical harmony or actual strings/bows
+> - In geometry: a straight line connecting two points on a curve
+> - In anatomy: cord-like structures (vocal cords)
+> - Essential building block of Western harmony
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Harmonious, Mathematical, Musical, Connecting
+> **Memory Hook:** Think of a guitar's strings vibrating together - that's a chord in both senses!
+> **📖 Etymology Story:** Ancient Greeks used sheep gut strings ('khordē') for instruments. When multiple strings vibrated together, they created harmony - hence 'chord' came to mean both the physical strings and the musical harmony they produce
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[chord]] /kɔːd/ : to harmonize
+> - **Noun:** [[chordal]] /ˈkɔːdəl/ : relating to chords
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[triad]] /ˈtraɪəd/ : three-note chord
+> - [[harmony]] /ˈhɑːməni/ : pleasing combination of notes
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[dissonance]] /ˈdɪsənəns/ : lack of harmony
+> - [[note]] /nəʊt/ : single pitch
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. play a chord (music)
+> 2. major/minor chord
+> 3. chord progression/sequence
+> 4. strike a chord (figurative - resonate emotionally)
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The pianist's fingers danced across the keys, playing a beautiful C major chord that filled the concert hall.
+> - **Translation:** Những ngón tay của nghệ sĩ piano múa lướt trên phím, đàn một hợp âm đô trưởng tuyệt đẹp lấp đầy phòng hòa nhạc.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The documentary about poverty struck a chord with viewers, many of whom donated to the cause.
+> - **Translation:** Bộ phim tài liệu về đói nghèo đã chạm đến trái tim khán giả, nhiều người trong số họ đã quyên góp cho quỹ này.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling confusion**
+> - ❌ **Mistake:** c-o-r-d (rope)
+> - ✅ **Correction:** c-h-o-r-d (music)
+> - **Why:** 'Chord' (with h) is musical; 'cord' (without h) refers to rope/string
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A single note is truth, but a chord is beauty - multiple truths coexisting in harmony."
+> **Source:** [[Music Philosophy]]
 
 ---
 
@@ -161,121 +81,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **chord** (*/kɔːd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A group of musical notes played together to create harmony; also a straight line in geometry
+> 🇻🇳 **Vietnamese:** Hợp âm (âm nhạc), đường nối (hình học)
+> 🗣️ **IPA:** */kɔːd/*
+> 🧠 **Mental Model:** Nhiều note cùng play → tạo harmony như nhiều dây đàn cùng rung
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Three or more musical notes played simultaneously"
+**Vietnamese:** Hợp âm, nhiều nốt cùng chơi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**chord** (*/kɔːd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **chord** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Learning to transition between chords smoothly is essential for any aspiring guitarist.
+> 🇻🇳 **Vietnamese:** Việc học cách chuyển hợp âm một cách mượt mà là điều thiết yếu cho bất kỳ ai muốn trở thành guitarist.
+> 🔍 **Analysis:** Perfect here - 'chords' refers to the fundamental building blocks of guitar music that players must master
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **chord**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Musical:** play/strum/strike a chord (chỉ hành động chơi nhạc)
+> 2. **Types:** major/minor/dominant chord (chỉ loại hợp âm)
+> 3. **Figurative:** strike a chord (resonate emotionally)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **chord**:
+"The music sounded good."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The guitarist masterfully played a series of complex chords that created rich, emotional harmonies."
+> 💡 **Why it works:** 'Chords' thêm musical specificity - thay vì generic 'music', chỉ định harmonic elements
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **chord** instead of **note**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **chord:** Multiple notes simultaneously creating harmony
+> **note:** Single individual pitch
+> 🧱 **The Barrier:** chord = vertical harmony (multiple at once) vs note = horizontal melody (one after another)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're teaching piano. Student asks about the beautiful sound. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "That's a G major chord - notice how the three notes work together to create that rich, full sound?"
+> 👨‍🎨 **Director's Note:** Educational moment - 'chord' perfect để giải thích harmonic structure
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `khordē` to the meaning of **chord**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 'khordē' (dây đàn ruột cừu) → khi nhiều dây cùng rung → tạo harmony → 'chord' = cả vật lý (dây) và âm nhạc (hợp âm)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **chord**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `khordē` (gut string)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[chord]] (tạo hòa âm)
+> - *(adj)* [[chordal]] (liên quan đến hợp âm)
+> - *(noun)* [[cord]] (sợi dây - không có h)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kɔːd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**chord**
+> 📖 **Meaning:** Multiple notes played simultaneously in harmony
+> 🇻🇳 **Vietnamese:** Hợp âm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common spelling mistake with **chord**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The musician played a beautiful cord.
+> ✅ **Correction:** The musician played a beautiful chord.
+> 🧠 **Why:** 'Chord' = âm nhạc (có h), 'cord' = dây/thắt lưng (không h)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **chord**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[note]] (nốt đơn)
+> - [[dissonance]] (vô hòa âm)
+> 🧱 **Contrast:** chord = harmonious combination vs note/dissonance = single pitch/unharmonious

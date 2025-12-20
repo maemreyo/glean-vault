@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
 #flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [suctioning, suctioned, suction pump, suction cup, suction device, vacuum suction, oral suction, negative pressure]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsʌkʃn/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B2
+> **Register:** formal/academic/technical
+> **Etymology:** From Latin "suctio" meaning "a drawing out, sucking," from "sugere" "to suck"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The act or process of drawing liquid or gas by removing air pressure
+>
+> **Context Meaning:** A force that creates a partial vacuum to move matter, often used in medical and industrial applications
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự hút, lực hút
+> - **Contextual:** sự hút chân không, lực hút áp suất âm
+>
 > **Nuances:**
-> - ...
+> - Implies creation of pressure differential rather than just "sucking"
+> - Often technical/mechanical rather than biological
+> - Can refer to the force itself or the action of applying it
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Technical, Precise, Mechanical
+> **Memory Hook:** Imagine a vacuum cleaner creating suction (suck-tion) to pull dirt up
+> **📖 Etymology Story:** Ancient Romans understood "sugere" as sucking liquid through straws. Today's suction machines use the same principle - creating negative pressure to draw substances toward or into a container.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[suction]] /ˈsʌkʃn/
+> - **Verb:** [[suck]] /sʌk/
+> - **Verb:** [[suction]] /ˈsʌkʃn/ (medical procedure)
+> - **Adj:** [[suctionable]] /ˈsʌkʃnəbl/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[vacuum]] /ˈvækjuəm/ : more complete lack of matter
+> - [[extraction]] /ɪkˈstrækʃn/ : removal by pulling out
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[pressure]] /ˈpreʃər/ : force pushing outward
+> - [[compression]] /kəmˈpreʃn/ : squeezing together
+> - [[expulsion]] /ɪkˈspʌlʃn/ : forcing out
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. create suction
+> 2. suction pipe/hose
+> 3. strong/powerful suction
+>
+> **1. Medical Context**
+> - **Sentence:** The surgeon used suction to remove blood from the surgical site.
+> - **Translation:** Bác sĩ phẫu thuật đã dùng lực hút để lấy máu ra khỏi vị trí phẫu thuật.
+>
+> **2. Industrial Context**
+> - **Sentence:** The vacuum pump generates suction to lift heavy materials.
+> - **Translation:** Máy bơm chân không tạo ra lực hút để nâng vật nặng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with "sucking"**
+> - ❌ **Mistake:** The suction is working too loudly.
+> - ✅ **Correction:** The suction is working too loudly.
+> - **Why:** "Suction" is the correct technical term, while "sucking" sounds informal/incorrect in technical contexts
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Suction is the flow of a fluid into a partial vacuum, or region of low pressure."
+> **Source:** [[Physics textbooks]]
 
 ---
 
@@ -161,121 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **suction** (*/ˈsʌkʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The action or process of removing air or other gas from a space to create a partial vacuum, causing fluids or loose materials to be drawn in
+> 🇻🇳 **Vietnamese:** Sự hút chân không, lực hút áp suất âm
+> 🗣️ **IPA:*/ˈsʌkʃn/*
+> 🧠 **Mental Model:** Ko hiểu lắm - suction là khi bạn tạo ra không gian có áp suất thấp hơn bên ngoài, làm cho chất lỏng hoặc vật chất bị hút vào đó như khi hút nước bằng ống
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A force that draws liquid or gas by creating a pressure difference"
+**Vietnamese:** Lực hút do chênh lệch áp suất
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**suction** (*/ˈsʌkʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **suction** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The dentist's suction tube removed saliva during the procedure.
+> 🇻🇳 **Translation:** Ống hút của nha sĩ đã loại bỏ nước bọt trong suốt quá trình.
+> 🔍 **Analysis:** "Suction" được dùng ở đây trong ngữ cảnh y khoa, mô tả thiết bị tạo ra lực hút để loại bỏ dịch - từ này chuyên nghiệp hơn "sucking"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **suction**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** powerful suction (lực hút mạnh - VN: mô tả hiệu quả của thiết bị)
+> 2. **Action:** create suction (tạo lực hút - VN: hành động chủ động để tạo áp suất thấp)
+> 3. **Equipment:** suction pump (máy bơm hút - VN: thiết bị tạo ra lực hút)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **suction**:
+"The machine pulled the air out of the container."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The vacuum chamber employed powerful suction to evacuate all air from the container."
+> 💡 **Why it works:** "Suction" cụ thể hơn "pulled air" - nó giải thích rõ cơ chế vật lý (tạo áp suất thấp) và nghe chuyên nghiệp/khoa học hơn
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **suction** instead of **[[vacuum]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **suction:** Dùng khi nhấn mạnh hành động/cơ chế hút do chênh lệch áp suất (VN: lực hút chủ động)
+> **[[vacuum]]:** Dùng khi nhấn mạnh trạng thái không gian trống rỗng hoàn toàn (VN: trạng thái chân không)
+> 🧱 **The Barrier:** Suction là process/action, vacuum là state - suction tạo ra vacuum nhưng không phải lúc nào cũng có complete vacuum
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're buying a new vacuum cleaner. The salesperson asks about your needs. You want good **suction** power. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I need a vacuum cleaner with really strong suction for deep cleaning carpets."
+> 👨‍🎨 **Director's Note:** Đây là cách dùng tự nhiên - "strong suction" là collocation phổ biến khi nói về hiệu quả của máy hút bụi
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `sugere` to the meaning of **suction**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "sugere" (suck) → "suctio" (sucking action) → English "suction" - giống như em bé suck (bú) sữa, suction là principle physics đằng sau hành động đó
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **suction**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `sugere` (to suck, draw)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* suction
+> - *(verb)* suck
+> - *(verb)* suction (medical procedure)
+> - *(adj)* suctionable
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsʌkʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**suction**
+> 📖 **Meaning:** Force created by pressure difference
+> 🇻🇳 **Vietnamese:** Lực hút do chênh lệch áp suất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **suction**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The vacuum cleaner has good suck.
+> ✅ **Correction:** The vacuum cleaner has good suction.
+> 🧠 **Why:** "Suction" là danh từ chỉ lực hút, "suck" là động từ - không thể dùng "suck" như danh từ trong ngữ cảnh này
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **suction**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[pressure]] (force pushing outward - áp suất dương)
+> - [[compression]] (squeezing force - lực nén)
+> 🧱 **Contrast:** Suction pulls inward by reducing pressure, compression pushes outward by increasing pressure
 
 ---

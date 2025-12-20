@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [belongs to, belonging to, belonged to, belong, ownership, membership, part of, associated with]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /bɪˈlɒŋ tuː/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** A2
+> **Register:** formal/informal
+> **Etymology:** From Old English 'gelangan' (to be suitable for, to belong to) + 'to'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To be the property of someone or something; to be a member of a group
+>
+> **Context Meaning:** To be connected with, be part of, or be suitable for something/someone
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thuộc về
+> - **Contextual:** là thành viên của, có liên quan đến, đi với
+>
 > **Nuances:**
-> - ...
+> - Indicates possession, membership, or appropriate classification
+> - Can express emotional connection or fitting in
+> - Used in both literal and abstract contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Inclusive, Connecting, Organizational
+> **Memory Hook:** Imagine items finding their "home" - a book belonging to its shelf, a key belonging to its lock
+> **📖 Etymology Story:** The word 'belong' traces back to Proto-Germanic 'bilengan' meaning 'to care for'. Over time, it evolved to mean 'to be connected with', as if things naturally care for or are destined to be with their owners or groups
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[belonging]] /bɪˈlɒŋɪŋ/ : feeling of being accepted
+> - **Verb:** [[belong]] /bɪˈlɒŋ/ : to be in the right place
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[own]] /əʊn/ : to possess
+> - [[pertain to]] /pəˈteɪn tuː/ : to relate to
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[disown]] /dɪsˈəʊn/ : to reject ownership
+> - [[exclude]] /ɪkˈskluːd/ : to keep out
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. belong to a family/organization/group
+> 2. belong together (romantic context)
+> 3. belong in a category/place
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** This ancient manuscript belongs to the royal collection.
+> - **Translation:** Bản thảo cổ này thuộc về bộ sưu tập của hoàng gia.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** After years of searching, she finally felt she belonged to this community.
+> - **Translation:** Sau nhiều năm tìm kiếm, cô ấy cuối cùng đã cảm thấy mình thuộc về cộng đồng này.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** This belongs *for* me.
+> - ✅ **Correction:** This belongs *to* me.
+> - **Why:** 'Belong' always takes 'to' as its preposition when indicating ownership or membership
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We belong to each other, not just in our shared humanity, but in the intricate web of relationships that define our existence."
+> **Source:** [[Human Connection]]
 
 ---
 
@@ -161,121 +79,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **belong to** (*/bɪˈlɒŋ tuː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To be the property of someone or to be a member of a group
+> 🇻🇳 **Vietnamese:** Thuộc về, là thành viên của
+> 🗣️ **IPA:** */bɪˈlɒŋ tuː/*
+> 🧠 **Mental Model:** Mối quan hệ "thuộc về" - object thuộc về owner, person thuộc về group
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To be owned by someone or be a member of a group"
+**Vietnamese:** Thuộc về, là thành viên của
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**belong to** (*/bɪˈlɒŋ tuː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **belong to** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Every piece of evidence belongs to the prosecution's case file.
+> 🇻🇳 **Translation:** Mọi bằng chứng đều thuộc về hồ sơ vụ án của bên công tố.
+> 🔍 **Analysis:** Perfect here because it shows legal ownership - evidence is 'thuộc về' the case file, establishing clear possession and relevance
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **belong to**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Possession:** belong to someone/something (chỉ sở hữu trực tiếp)
+> 2. **Membership:** belong to a club/organization (chỉ thành viên)
+> 3. **Classification:** belong to a category/species (chỉ phân loại)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **belong to**:
+"This book is mine."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "This first edition belongs to the rare books collection."
+> 💡 **Why it works:** Nâng cấp từ "mine" đơn giản thành "belongs to the collection" thể hiện giá trị và phân loại chính xác hơn
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **belong to** instead of **own**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **belong to:** Dùng khi vật được xác định là của ai/cái gì (passive relationship)
+> **own:** Dùng khi chủ thể chủ động sở hữu (active ownership)
+> 🧱 **The Barrier:** belong to = "is possessed by" vs own = "possesses" - quan hệ đảo ngược
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You find a lost wallet with ID inside. You feel responsible. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This wallet clearly belongs to Mr. Johnson - we should return it immediately."
+> 👨‍🎨 **Director's Note:** Thể hiện trách nhiệm - nhận ra "thuộc về" để hành động đúng đắn
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `gelangan` to the meaning of **belong to**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ gốc 'gelangan' (đáng để chăm sóc) → evolve thành 'belong' (kết nối) như vật tự tìm đến chủ nhân đáng chăm sóc nó
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **belong to**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `gelangan` (to be suitable for)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[belonging]] (cảm giác thuộc về)
+> - *(verb)* [[belong]] (đúng vị trí)
+> - *(adj)* [[belongingless]] (không nơi nương tựa)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */bɪˈlɒŋ tuː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**belong to**
+> 📖 **Meaning:** To be the property of or member of
+> 🇻🇳 **Vietnamese:** Thuộc về, là thành viên của
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **belong to**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** He is belonging to the tennis club.
+> ✅ **Correction:** He belongs to the tennis club.
+> 🧠 **Why:** "Belong to" là state verb, không dùng continuous tense - sự thuộc về là trạng thái tồn tại
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **belong to**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[be excluded from]] (bị loại khỏi)
+> - [[be alienated from]] (bị xa cách)
+> 🧱 **Contrast:** belong to = inclusion vs exclude/alienate = separation

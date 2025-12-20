@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [lifejacket, life vest, buoyancy aid, personal flotation device, PFD, life preserver, life belt, inflatable vest]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /laɪf ˈdʒækɪt/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A2
+> **Register:** everyday/technical
+> **Etymology:** "Life" (from Old English "līf") + "jacket" (from French "jaquette")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A sleeveless upper-body garment designed to keep someone afloat in water
+>
+> **Context Meaning:** A personal flotation device worn to prevent drowning, especially during water activities or emergencies
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** áo phao
+> - **Contextual:** áo phao cứu sinh, thiết bị nổi cá nhân
+>
 > **Nuances:**
-> - ...
+> - Essential safety equipment, not optional
+> - Different types: inflatable, foam-filled, hybrid
+> - Regulations often require them on boats/aircraft
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Protective, Essential, Safety-conscious
+> **Memory Hook:** Life + Jacket = something that saves your life like a coat
+> **📖 Etymology Story:** Originally called "life-belts" in the 19th century - simple cork rings around the waist. Modern "life jackets" evolved from these basic buoyancy aids into sophisticated safety equipment with inflatable chambers and reflective materials.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[jacket]] /ˈdʒækɪt/
+> - **Noun:** [[life]] /laɪf/
+> - **Noun:** [[lifejacket]] /ˈlaɪfˌdʒækɪt/ (one word variant)
+> - **Noun:** [[lifesaver]] /ˈlaɪfˌseɪvər/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[life vest]] /ˈlaɪf ˈvɛst/ : American English term
+> - [[PFD]] /ˌpiːefˈdiː/ : technical abbreviation
+> - [[buoyancy aid]] /ˈbɔɪənsi eɪd/ : less protective version
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - None (safety equipment category)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. wear a life jacket
+> 2. inflatable life jacket
+> 3. put on/fasten a life jacket
+>
+> **1. Safety Instructions**
+> - **Sentence:** All passengers must wear a life jacket during the boat tour.
+> - **Translation:** Tất cả hành khách phải mặc áo phao trong suốt chuyến du thuyền.
+>
+> **2. Emergency Context**
+> - **Sentence:** The flight attendant demonstrated how to use the life jacket stored under the seat.
+> - **Translation:** Tiếp viên hàng không đã diễn thị cách sử dụng áo phao cất dưới ghế.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article usage**
+> - ❌ **Mistake:** You should wear life jacket on boat.
+> - ✅ **Correction:** You should wear a life jacket on a boat.
+> - **Why:** "Life jacket" is a countable noun requiring an article
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A life jacket doesn't work unless you wear it."
+> **Source:** [[Coast Guard safety campaigns]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **life jacket** (*/laɪf ˈdʒækɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A sleeveless jacket made of buoyant material designed to keep a person afloat in water and prevent drowning
+> 🇻🇳 **Vietnamese:** Áo phao cứu sinh, áo phao
+> 🗣️ **IPA:*/laɪf ˈdʒækɪt/*
+> 🧠 **Mental Model:** Chiếc áo đặc biệt làm bằng vật liệu nổi - mặc nó sẽ không chìm khi ở dưới nước, giống như phao nhưng mặc lên người
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A personal flotation device worn to prevent drowning"
+**Vietnamese:** Thiết bị nổi cá nhân mặc để không bị đuối nước
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**life jacket** (*/laɪf ˈdʒækɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **life jacket** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The coast guard regulations require all children under 12 to wear a properly fitted life jacket while on deck.
+> 🇻🇳 **Translation:** Quy định của Tuần duyên yêu cầu tất cả trẻ em dưới 12 tuổi phải mặc áo phao vừa vặn khi ở trên boong.
+> 🔍 **Analysis:** "Life jacket" được dùng ở đây trong ngữ cảnh pháp lý/quy định - từ này mang tính обязательства và safety requirement, không chỉ suggestion
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **life jacket**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** fasten life jacket (cài áo phao - VN: action verb với safety equipment)
+> 2. **Type:** inflatable life jacket (áo phao bơm hơi - VN: mô tả cơ chế hoạt động)
+> 3. **Condition:** mandatory life jacket (áo phao bắt buộc - VN: legal requirement)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **life jacket**:
+"You must wear the floating thing when you go boating."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Maritime safety regulations stipulate that all passengers must don a Coast Guard-approved life jacket before departing."
+> 💡 **Why it works:** "Life jacket" cụ thể và professional hơn "floating thing" - "Coast Guard-approved" thêm detail về safety standards, "stipulate" formal hơn "must"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **life jacket** instead of **[[buoyancy aid]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **life jacket:** Dùng cho mục đích cứu sinh, có khả năng xoay người mặt lên tự động (VN: an toàn tối đa, cứu sinh)
+> **[[buoyancy aid]]:** Dùng cho người biết bơi, chỉ hỗ trợ nổi không xoay người (VN: hỗ trợ, không phải cứu sinh)
+> 🧱 **The Barrier:** Life jacket = lifesaving device, buoyancy aid = swimming support - cái này cứu người, cái kia giúp người bơi tốt hơn
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're on a ferry and the captain announces "All passengers must wear **life jackets**." React as a nervous passenger.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Where can I find the life jackets? I want to put mine on right now!"
+> 👨‍🎨 **Director's Note:** Natural reaction from nervous passenger - "life jackets" ở đây là survival equipment, tạo cảm giác urgency và safety concern
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `jaquette` to the meaning of **life jacket**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** French "jaquette" (small jacket) → English "jacket" → "life jacket" (jacket that saves life) - từ fashion item thành safety equipment
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **life jacket**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Compound word: life + jacket
+> 👨‍👩‍👧 **Family:**
+> - *(compound noun)* life jacket
+> - *(compound noun)* lifejacket (one word)
+> - *(compound noun)* life vest (American variant)
+> - *(compound noun)* life preserver (older term)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */laɪf ˈdʒækɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**life jacket**
+> 📖 **Meaning:** Buoyant garment for water safety
+> 🇻🇳 **Vietnamese:** Áo phao cứu sinh
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **life jacket**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Everyone needs life jacket on water.
+> ✅ **Correction:** Everyone needs a life jacket on the water.
+> 🧠 **Why:** Need article "a" before countable noun "life jacket", and "on the water" is more natural than "on water" in this context
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite concept of wearing a **life jacket**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Concepts:**
+> - [[recklessness]] (sự liều lĩnh - không mặc đồ bảo hộ)
+> - [[endangerment]] (sự nguy hiểm - tự đặt mình vào tình huống nguy)
+> 🧱 **Contrast:** Life jacket represents safety consciousness; opposite is reckless disregard for water safety
 
 ---

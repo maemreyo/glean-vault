@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [pursued, pursuing, pursues, pursuit, follow, chase, seek, aim for, strive for, go after, hunt for]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pəˈsjuː/
+> **Part of Speech:** Verb
+> **CEFR Level:** B2
+> **Register:** Formal/General
+> **Etymology:** From Old French "poursuir" (to follow), from Latin "prosequi" (to follow after, accompany)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To follow or chase with determination
+>
+> **Context Meaning:** 1) To follow or chase someone/something 2) To try to achieve something over time 3) To continue or engage in an activity or course of action
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** theo đuổi, truy đuổi
+> - **Contextual:** theo đuổi mục tiêu, thực hiện, tiếp tục
+>
 > **Nuances:**
-> - ...
+> - Implies determination and continuous effort
+> - Can be physical (chasing) or abstract (goals, dreams)
+> - Often used for long-term goals or ambitions
+> - Formal alternative to "chase" or "follow"
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Determined, Ambitious, Persistent
+> **Memory Hook:** "Pur"+"sue" - think of "suing" with purpose - you're determined to get what you want
+> **📖 Etymology Story:** From Latin "prosequi" meaning "to follow after" - imagine ancient hunters pursuing prey through forests, same determination we use today when pursuing dreams
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[pursue]] /pəˈsjuː/
+> - **Noun:** [[pursuit]] /pəˈsjuːt/
+> - **Adj:** [[pursuant]] /pəˈsuːənt/ (formal)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[chase]] /tʃeɪs/ : more informal, often physical
+> - [[seek]] /siːk/ : more formal, about searching
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[abandon]] /əˈbændən/ : give up on
+> - [[avoid]] /əˈvɔɪd/ : stay away from
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. pursue a career/dream
+> 2. pursue an interest
+> 3. pursue further studies
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She decided to pursue a career in medicine after volunteering at the hospital.
+> - **Translation:** Cô ấy quyết định theo đuổi sự nghiệp y học sau khi tình nguyện tại bệnh viện.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The police pursued the suspect through the narrow streets.
+> - **Translation:** Cảnh sát truy đuổi nghi phạm qua những con hẻm nhỏ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** He is pursuing for his dream.
+> - ✅ **Correction:** He is pursuing his dream.
+> - **Why:** "Pursue" is transitive - no preposition needed before the object
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** Many graduates choose to pursue higher education to improve their job prospects.
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **pursue** (*/pəˈsjuː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To follow or chase someone/something; to try to achieve something over time (Cambridge Dictionary)
+> 🇻🇳 **Vietnamese:** Theo đuổi, truy đuổi, cố gắng đạt được (sự nỗ lực liên tục)
+> 🗣️ **IPA:** */pəˈsjuː/*
+> 🧠 **Mental Model:** Determined chase (sự truy đuổi có mục tiêu) - không chỉ chạy theo mà là nỗ lực bền bỉ để đạt được điều gì đó
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To try to achieve something over time"
+**Vietnamese:** Theo đuổi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**pursue** (*/pəˈsjuː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **pursue** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After graduation, he plans to pursue a master's degree in engineering.
+> 🇻🇳 **Translation:** Sau khi tốt nghiệp, anh ấy dự định theo đuổi bằng thạc sĩ kỹ thuật.
+> 🔍 **Analysis:** Perfect here because "pursue" shows long-term commitment (cam kết lâu dài) - not just "study" but dedicated effort toward academic achievement
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **pursue**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Goals/Ambitions:** pursue a career/dream/goal (mục tiêu - theo đuổi định hướng dài hạn)
+> 2. **Knowledge:** pursue studies/research/education (học thuật - tìm hiểu kiến thức)
+> 3. **Actions:** pursue an interest/hobby/course (hoạt động - tham gia vào việc gì đó)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **pursue**:
+"She wants to be a doctor."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She is determined to pursue a career in medicine."
+> 💡 **Why it works:** "Pursue" is formal (trang trọng) and shows determination (quyết tâm) - implies active effort rather than just wanting
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **pursue** instead of **follow**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **pursue:** Active seeking with goal (tích cực tìm kiếm có mục tiêu)
+> **follow:** Passive tracking (bị động theo sau)
+> 🧱 **The Barrier:** Pursue = leader mindset, Follow = follower mindset - theo đuổi là chủ động, đi theo là bị động
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks about your future plans after college. You feel ambitious. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I want to pursue my passion for sustainable architecture."
+> 👨‍🎨 **Director's Note:** Shows ambition (tham vọng) and clear direction - "pursue" sounds more committed than just "study" or "work in"
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `prosequi` to the meaning of **pursue**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `prosequi` meant "to follow after" - like Roman soldiers pursuing enemies (binh lính La Mã truy đuổi kẻ thù) - today we pursue dreams and goals with the same determination
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **pursue**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `prosequi` (to follow after)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[pursuit]] (sự theo đuổi)
+> - *(noun)* [[pursuer]] (người theo đuổi)
+> - *(adjective)* [[pursuant]] (tuân theo, theo quy định)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pəˈsjuː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**pursue**
+> 📖 **Meaning:** To try to achieve something over time
+> 🇻🇳 **Vietnamese:** Theo đuổi, cố gắng đạt được
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **pursue**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She is pursuing after her dreams."
+> ✅ **Correction:** "She is pursuing her dreams."
+> 🧠 **Why:** No need for "after" - pursue is transitive and includes the meaning of following/going after
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **pursue**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[abandon]] (từ bỏ, bỏ cuộc)
+> - [[neglect]] (phớt lờ, xem nhẹ)
+> 🧱 **Contrast:** Active seeking vs passive avoidance - chủ động tìm kiếm so với bị động né tránh
 
 ---
