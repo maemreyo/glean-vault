@@ -1,159 +1,78 @@
 #flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [leathers, leathered, leathering, leatherette, leather-like, leatherbound]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈleðər/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** Old English lether, from Proto-Germanic *lethraz
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Material made from animal skin
+>
+> **Context Meaning:** Durable, flexible material used for clothing, furniture, and accessories
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** da
+> - **Contextual:** chất da, đồ da
+>
 > **Nuances:**
-> - ...
+> - Can refer to genuine animal hide or synthetic alternatives
+> - Often associated with quality and durability
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Durable, sophisticated, timeless
+> **Memory Hook:** Think of "leather" as weather-worn and weather-resistant - it "leathers" itself against the elements
+> **📖 Etymology Story:** From ancient times when humans learned to preserve animal hides through tanning, creating a material that has clothed and protected humanity for millennia
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[leather]] /ˈleðər/
+> - **Verb:** [[leather]] /ˈleðər/
+> - **Adj:** [[leathery]] /ˈleðəri/
+> - **Adv:** [[leatherily]] (rare)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[hide]] /haɪd/ : raw animal skin
+> - [[skin]] /skɪn/ : outer covering
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[cloth]] /klɒθ/ : woven fabric
+> - [[fabric]] /ˈfæbrɪk/ : textile material
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. leather jacket
+> 2. leather shoes
+> 3. leather sofa
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She carefully maintained her vintage leather handbag, treating it with special conditioner to prevent cracking.
+> - **Translation:** Cô ấy chăm sóc chiếc túi xách da cổ của mình, dùng dầu dưỡng đặc biệt để tránh nứt.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The book was beautifully bound in dark brown leather with gold lettering on the spine.
+> - **Translation:** Quyển sách được đóng bìa bằng da nâu sẫm với các chữ cái màu vàng ở lưng sách.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Uncountable usage**
+> - ❌ **Mistake:** I bought three leathers.
+> - ✅ **Correction:** I bought three leather jackets / pieces of leather.
+> - **Why:** When referring to the material itself, "leather" is uncountable.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Time may change me, but I can't trace time"
+> **Source:** David Bowie (wore iconic leather outfits)
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **leather** (*/ˈleðər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A durable, flexible material made from animal skin that has been treated and preserved through tanning
+> 🇻🇳 **Vietnamese:** Chất da (vật liệu từ động vật được xử lý để bền và dai)
+> 🗣️ **IPA:** */ˈleðər/*
+> 🧠 **Mental Model:** "Animal skin + chemical process = durable material for clothes/furniture"
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A material made from treated animal hide, known for its durability and flexibility"
+**Vietnamese:** Chất da
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**leather** (*/ˈleðər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **leather** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The antique dealer carefully polished the leather-bound book, its cover softening under his experienced hands.
+> 🇻🇳 **Translation:** Nhà buôn đồ cổ cẩn thận đánh bóng quyển sách đóng bìa da, bìa mềm mại dưới bàn tay kinh nghiệm của ông.
+> 🔍 **Analysis:** "Leather" ở đây kết hợp với "bound" để tạo ra "leather-bound" (đóng bìa da), một compound adjective phổ biến, thể hiện sự sang trọng và bền bỉ của sản phẩm.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **leather**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality/Type:** genuine leather (da thật) - indicates authenticity
+> 2. **Product:** leather boots (giày da) - footwear item
+> 3. **Action:** polish leather (đánh bóng da) - maintenance activity
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **leather**:
+"He wore a jacket."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He wore a well-worn leather jacket that had molded to his frame over years of use."
+> 💡 **Why it works:** "Leather" adds sophistication and durability, suggesting quality items that improve with age and use (VN: "leather" tạo cảm giác cao cấp, bền bỉ, gợi nhớ đồ vật đẹp hơn theo thời gian).
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **leather** instead of **faux leather**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **leather:** Genuine animal hide, more expensive, ages well, natural material (VN: da thật, đắt tiền, đẹp theo thời gian)
+> **faux leather:** Synthetic material, cheaper, wears out faster, animal-friendly (VN: da nhân tạo, rẻ hơn, mau hỏng, thân thiện động vật)
+> 🧱 **The Barrier:** Natural vs synthetic, durability vs cost, traditional vs modern ethical concerns (VN: khác biệt cơ bản giữa tự nhiên và nhân tạo, độ bền và giá cả, truyền thống và đạo đức hiện đại).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a luxury store admiring a high-quality bag. You feel impressed by its craftsmanship. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This genuine leather bag is absolutely exquisite - you can feel the superior quality in every stitch."
+> 👨‍🎨 **Director's Note:** Shows appreciation for quality materials and craftsmanship (VN: thể hiện sự trân trọng chất liệu cao cấp và tay nghề thủ công).
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `lether` to the meaning of **leather**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Old English "lether" meaning hide, through ancient tanning practices that transformed raw animal skins into durable material. Just as our ancestors "leathered" themselves against harsh weather with animal skins, today we use this timeless material for protection and style (VN: từ da động vật thô sơ xử lý thành vật liệu bền bỉ, như tổ tiên dùng da để bảo vệ cơ thể).
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **leather**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Germanic `lether` (animal skin)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[leather]] - the material
+> - *(verb)* [[leather]] - to cover with leather
+> - *(adj)* [[leathery]] - resembling leather in texture
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈleðər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**leather**
+> 📖 **Meaning:** Durable material made from animal hide
+> 🇻🇳 **Vietnamese:** Chất da
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **leather**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "These leathers are on sale" (when referring to types/products)
+> ✅ **Correction:** "These leather goods are on sale" or "This leather is on sale"
+> 🧠 **Why:** "Leather" as material is uncountable; must specify products when pluralizing (VN: "leather" là danh từ không đếm được khi chỉ chất liệu).
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **leather**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[cloth]] (thô, mềm hơn, không bền bằng da)
+> - [[synthetic materials]] (nhân tạo, không có cảm giác tự nhiên)
+> 🧱 **Contrast:** Natural animal product vs manufactured textiles, durability vs breathability (VN: da là sản phẩm tự nhiên cao cấp, vải là vật liệu dệt máy, khác biệt về độ bền và thông thoáng).
 
 ---

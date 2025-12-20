@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [bothers, bothered, bothering, bothersome, disturbance, annoy, irritate, trouble, worry, hassle]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈbɒðə(r)/
+> **Part of Speech:** verb/noun
+> **CEFR Level:** B1
+> **Register:** informal/general
+> **Etymology:** Middle English from Old French 'bodier' (to annoy), of Germanic origin
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To cause trouble or inconvenience to someone; to worry or annoy
+>
+> **Context Meaning:** To make someone feel worried or upset; to take the trouble to do something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** làm phiền, phiền toái, bực mình
+> - **Contextual:** lo lắng, bận tâm, làm bực mình
+>
 > **Nuances:**
-> - ...
+> - Can imply mild irritation rather than serious disturbance
+> - Often used in negative constructions ("don't bother")
+> - As a noun, means "trouble" or "inconvenience"
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Mildly Irritating, Persistent
+> **Memory Hook:** Imagine a brother (bo-ther) who keeps annoying you when you're busy
+> **📖 Etymology Story:** From French 'bodier' meaning to annoy, like when someone 'bodders' you with constant requests
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** bother /ˈbɒðə(r)/
+> - **Verb:** bother /ˈbɒðə(r)/
+> - **Adj:** bothersome /ˈbɒðəsəm/
+> - **Adv:** bothersomely /ˈbɒðəsəmli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[annoy]] /əˈnɔɪ/ : to make someone slightly angry
+> - [[disturb]] /dɪˈstɜːb/ : to interrupt what someone is doing
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[comfort]] /ˈkʌmfət/ : to make someone feel better
+> - [[help]] /help/ : to make something easier for someone
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Don't bother + -ing
+> 2. Can't be bothered
+> 3. Bother someone with something
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Sorry to bother you, but could you help me with this?
+> - **Translation:** Xin lỗi làm phiền bạn, nhưng bạn có thể giúp tôi việc này không?
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** I can't be bothered to cook tonight, let's order takeout.
+> - **Translation:** Tối nay tôi lười nấu ăn, gọi đồ ăn mang về đi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect usage with infinitive**
+> - ❌ **Mistake:** I don't bother to wait for him.
+> - ✅ **Correction:** I don't bother waiting for him. / I can't be bothered to wait for him.
+> - **Why:** "Don't bother" is followed by -ing form, while "can't be bothered" takes to-infinitive
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Don't bother me now, I'm busy."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **bother** (*/ˈbɒðə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To cause trouble or inconvenience to someone; to worry or annoy
+> 🇻🇳 **Vietnamese:** Làm phiền, phiền toái, lo lắng
+> 🗣️ **IPA:** */ˈbɒðə(r)/*
+> 🧠 **Mental Model:** Khi ai đó 'bother' bạn, họ làm bạn feel khó chịu hoặc gián đoạn công việc của bạn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To cause someone to feel worried or annoyed; to inconvenience someone"
+**Vietnamese:** Làm phiền, gây khó chịu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**bother** (*/ˈbɒðə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **bother** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The constant noise from construction really bothers me when I'm trying to work.
+> 🇻🇳 **Translation:** Tiếng ồn liên tục từ công trường thực sự làm tôi bực mình khi tôi cố gắng làm việc.
+> 🔍 **Analysis:** 'Bothers' ở đây thể hiện sự gây khó chịu, bực mình liên tục - verb cho thấy subject (noise) là nguyên nhân gây ra sự phiền toái
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **bother**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Negatives:** Don't bother (đừng bận tâm/không cần làm)
+> 2. **State:** Can't be bothered (cảm thấy lười/buồn phiền)
+> 3. **With someone:** Bother someone with (làm phiền ai đó với việc gì)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **bother**:
+"He interrupted me while I was working."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He bothered me with trivial questions while I was trying to meet my deadline."
+> 💡 **Why it works:** 'Bothered' mạnh hơn 'interrupted' vì nó không chỉ có nghĩa gián đoạn mà còn thêm sắc thái gây phiền toái, khó chịu
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **bother** instead of **[[disturb]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **bother:** Dùng cho những sự phiền toái nhỏ, gây khó chịu nhẹ nhàng hơn
+> **[[disturb]]:** Dùng cho sự gián đoạn nghiêm trọng hơn, thường khi làm ai đó mất tập trung hoặc đánh thức họ
+> 🧱 **The Barrier:** Bother is about irritation, disturb is about interruption
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend keeps calling you during an important meeting. You feel annoyed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Please don't bother me during work meetings unless it's an emergency."
+> 👨‍🎨 **Director's Note:** 'Don't bother me thể hiện sự yêu cầu rõ ràng nhưng vẫn lịch sự, phù hợp với văn phòng'
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `bodier` to the meaning of **bother**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Pháp cổ 'bodier' có nghĩa là 'gây bực mình', như khi ai đó liên tục làm phiền bạn (bother) với những yêu cầu nhỏ nhặt - nó không nghiêm trọng nhưng đủ gây khó chịu
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **bother**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** French `bodier` (to annoy)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* bother (làm phiền)
+> - *(adjective)* bothersome (gây bực mình)
+> - *(adverb)* bothersomely (một cách gây bực mình)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈbɒðə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**bother**
+> 📖 **Meaning:** To cause inconvenience or annoyance to someone
+> 🇻🇳 **Vietnamese:** Làm phiền, phiền toái
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **bother**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I bother him to help me with homework
+> ✅ **Correction:** I bothered him into helping me with homework / I kept bothering him about helping with homework
+> 🧠 **Why:** Bother không theo sau bởi infinitive để yêu cầu ai đó làm gì. Dùng 'bother someone into doing' hoặc 'keep bothering about'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **bother**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[comfort]] (làm cho ai đó cảm thấy tốt hơn)
+> - [[relieve]] (giảm bớt gánh nặng hoặc khó chịu)
+> 🧱 **Contrast:** Bother adds stress/annoyance while its antonyms remove stress or provide comfort
 
 ---
