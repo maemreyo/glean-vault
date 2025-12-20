@@ -38,7 +38,7 @@ BT Group boss Allison Kirkby, Revolut chief executive Francesca Carlesi [[20_Voc
 
 It [[20_Vocabulary/In addition|also]] includes TUC assistant general secretary Kate Bell, director of public policy at Uber Emma O'Dwyer, [[20_Vocabulary/In addition|and]] Sue Daley, director of technology [[20_Vocabulary/In addition|and]] [[20_Vocabulary/invent|innovation]] at [[20_Vocabulary/industrial function|industry]] group techUK.
 
-"Entry routes, career [[20_Vocabulary/a few chords|progression]] to leadership, [[20_Vocabulary/In addition|and]] access to [[20_Vocabulary/major city|capital]] are just some of the barriers women in tech still [[20_Vocabulary/dealing|face]] today," Ms Daley said.
+"Entry routes, career progression to leadership, [[20_Vocabulary/In addition|and]] access to [[20_Vocabulary/major city|capital]] are just some of the barriers women in tech still [[20_Vocabulary/dealing|face]] today," Ms Daley said.
 
 "Achieving gender equality is long overdue, [[20_Vocabulary/In addition|and]] I am honoured to join the Women in Tech taskforce alongside Liz Kendall [[20_Vocabulary/In addition|and]] several inspiring women from [[20_Vocabulary/across the industry|across the industry]], [[20_Vocabulary/group cooperation|working together]] [[20_Vocabulary/to chart a path forward|to chart a path forward]] for true gender equality."
 

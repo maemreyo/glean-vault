@@ -113,7 +113,7 @@ Which **TWO** things does David say about the lifeboat volunteer [[20_Vocabulary
 
 **D** The [[20_Vocabulary/casualty|casualty]] [[20_Vocabulary/treatment|care]] activities were particularly challenging for him.
 
-**E** The [[20_Vocabulary/a wave-tank|wave tank]] activities provided practice in [[20_Vocabulary/outlive|survival]] techniques.
+**E** The wave tank activities provided practice in [[20_Vocabulary/outlive|survival]] techniques.
 
 **Questions 19 [[20_Vocabulary/In addition|and]] 20**
 
@@ -177,7 +177,7 @@ Grammar Exercise Workbooks
 
 **B** Less [[20_Vocabulary/footwear|footwear]] is recycled now than in the [[20_Vocabulary/beyond|past]].
 
-**C** People [[20_Vocabulary/dispose|dispose]] of more [[20_Vocabulary/footwear|footwear]] than they [[20_Vocabulary/second-hand|used]] to.
+**C** People [[20_Vocabulary/dispose|dispose]] of more [[20_Vocabulary/footwear|footwear]] than they used to.
 
 **Questions 25–28**
 
@@ -246,13 +246,13 @@ What reasons did the recycling manager give for rejecting [[20_Vocabulary/footwe
 
 **Physical [[20_Vocabulary/appearance|appearance]]**
 
-● a **32** ………………… round [[20_Vocabulary/Institution|body]] [[20_Vocabulary/In addition|and]] four pairs of legs
+● a **32** ………………… round body [[20_Vocabulary/In addition|and]] four pairs of legs
 
 ● claws or **33** ………………… for gripping
 
 ● [[20_Vocabulary/absence|absence]] of [[20_Vocabulary/respiratory organs|respiratory organs]]
 
-● [[20_Vocabulary/Institution|body]] filled with a [[20_Vocabulary/a fluid|liquid]] that carries both **34** ………………… [[20_Vocabulary/In addition|and]] blood
+● body filled with a liquid that carries both **34** ………………… [[20_Vocabulary/In addition|and]] blood
 
 ● mouth shaped like a **35** ………………… with teeth called stylets
 

@@ -1,5 +1,93 @@
 [
   {
+    "id": "20251220_204425_1b8b0f",
+    "timestamp": "20251220_204425",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_204425_1b8b0f_The giant heat pumps designed to warm whole districts.md",
+    "changes_count": 5,
+    "changes_sample": [
+      "'Environment' -> '[[20_Vocabulary/background|Environment]]'",
+      "'gas' -> '[[20_Vocabulary/a fluid|gas]]'",
+      "'used' -> '[[20_Vocabulary/second-hand|used]]'",
+      "'used' -> '[[20_Vocabulary/second-hand|used]]'",
+      "'liquid' -> '[[20_Vocabulary/a fluid|liquid]]'"
+    ]
+  },
+  {
+    "id": "20251220_204425_943431",
+    "timestamp": "20251220_204425",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 01.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_204425_943431_Cam 20 Listening Test 01.md",
+    "changes_count": 12,
+    "changes_sample": [
+      "'used' -> '[[20_Vocabulary/second-hand|used]]'",
+      "'used' -> '[[20_Vocabulary/second-hand|used]]'",
+      "'used' -> '[[20_Vocabulary/second-hand|used]]'",
+      "'used' -> '[[20_Vocabulary/second-hand|used]]'",
+      "'used' -> '[[20_Vocabulary/second-hand|used]]'"
+    ]
+  },
+  {
+    "id": "20251220_204425_502d6b",
+    "timestamp": "20251220_204425",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_204425_502d6b_Cam 19 Listening Test 02.md",
+    "changes_count": 20,
+    "changes_sample": [
+      "'wave tank' -> '[[20_Vocabulary/a wave-tank|wave tank]]'",
+      "'used' -> '[[20_Vocabulary/second-hand|used]]'",
+      "'body' -> '[[20_Vocabulary/Institution|body]]'",
+      "'body' -> '[[20_Vocabulary/Institution|body]]'",
+      "'liquid' -> '[[20_Vocabulary/a fluid|liquid]]'"
+    ]
+  },
+  {
+    "id": "20251220_204425_c11957",
+    "timestamp": "20251220_204425",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Practice Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_204425_c11957_Practice Cam 19 Listening Test 02.md",
+    "changes_count": 5,
+    "changes_sample": [
+      "'wave tank' -> '[[20_Vocabulary/a wave-tank|wave tank]]'",
+      "'used' -> '[[20_Vocabulary/second-hand|used]]'",
+      "'body' -> '[[20_Vocabulary/Institution|body]]'",
+      "'body' -> '[[20_Vocabulary/Institution|body]]'",
+      "'liquid' -> '[[20_Vocabulary/a fluid|liquid]]'"
+    ]
+  },
+  {
+    "id": "20251220_204425_7f46bc",
+    "timestamp": "20251220_204425",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/UK launches taskforce to 'break down barriers' for women in tech.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_204425_7f46bc_UK launches taskforce to 'break down barriers' for women in tech.md",
+    "changes_count": 1,
+    "changes_sample": [
+      "'progression' -> '[[20_Vocabulary/a few chords|progression]]'"
+    ]
+  },
+  {
+    "id": "20251220_204425_e19472",
+    "timestamp": "20251220_204425",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_204425_e19472_What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "changes_count": 3,
+    "changes_sample": [
+      "'Supreme' -> '[[20_Vocabulary/ultimate|Supreme]]'",
+      "'involved' -> '[[20_Vocabulary/involve|involved]]'",
+      "'used' -> '[[20_Vocabulary/second-hand|used]]'"
+    ]
+  },
+  {
+    "id": "20251220_204424_b4d747",
+    "timestamp": "20251220_204424",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Insight of the Day The Extreme Biology and Thermodynamics of Caves.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_204424_b4d747_Insight of the Day The Extreme Biology and Thermodynamics of Caves.md",
+    "changes_count": 1,
+    "changes_sample": [
+      "'body' -> '[[20_Vocabulary/Institution|body]]'"
+    ]
+  },
+  {
     "id": "20251220_155715_1b8b0f",
     "timestamp": "20251220_155715",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",

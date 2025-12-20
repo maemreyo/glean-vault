@@ -19,7 +19,7 @@ MVV Energie is building the world's most [[20_Vocabulary/effective|powerful]] he
 
 The pipe that [[20_Vocabulary/will|will]] supply the heat pump, drawing water from the River Rhine in Germany, is so big that you could walk through it, fully upright, I'm told.
 
-"We plan to take 10,000 litres per second," says Felix Hack, project manager at MVV [[20_Vocabulary/background|Environment]], an energy company, as he describes the 2m diameter pipes that [[20_Vocabulary/will|will]] suck up river water in Mannheim, [[20_Vocabulary/In addition|and]] then return it once heat from the water has been harvested.
+"We plan to take 10,000 litres per second," says Felix Hack, project manager at MVV Environment, an energy company, as he describes the 2m diameter pipes that [[20_Vocabulary/will|will]] suck up river water in Mannheim, [[20_Vocabulary/In addition|and]] then return it once heat from the water has been harvested.
 
 In October, parent firm MVV Energie announced its plan to [[20_Vocabulary/establish|build]] what could be the most [[20_Vocabulary/effective|powerful]] heat pump modules ever. Two units, each with a capacity of 82.5 megawatts.
 
@@ -39,7 +39,7 @@ These networks allow hot water or steam to reach multiple buildings, all connect
 
 "There was a lot of [[20_Vocabulary/press|pressure]] on us to [[20_Vocabulary/affect|change]] the heat generation to new sources, especially renewable sources," explains Mr Hack as he discusses the decommissioning of coal-fired units at the Mannheim plant. The site is right by the Rhine, already has a hefty electricity grid [[20_Vocabulary/associate|connection]], [[20_Vocabulary/In addition|and]] is plugged in to the district heating network, so it makes sense to install the heat [[20_Vocabulary/high-heeled shoes|pumps]] here, he says.
 
-He notes that the technology is [[20_Vocabulary/a possibility|possible]] partly thanks to the availability of very large compressors in the oil [[20_Vocabulary/In addition|and]] [[20_Vocabulary/a fluid|gas]] [[20_Vocabulary/industrial function|industry]] – where they are [[20_Vocabulary/second-hand|used]] to compress fossil fuels for storage or transportation, for example.
+He notes that the technology is [[20_Vocabulary/a possibility|possible]] partly thanks to the availability of very large compressors in the oil [[20_Vocabulary/In addition|and]] gas [[20_Vocabulary/industrial function|industry]] – where they are used to compress fossil fuels for storage or transportation, for example.
 
 ![MVV Energie A large stainless steel pipe with four blue valves on the top and a gauge.](https://ichef.bbci.co.uk/news/240/cpsprodpb/520a/live/2a579f60-c526-11f0-bf7b-db7c049674ab.jpg.webp)
 
@@ -55,9 +55,9 @@ Everllence has plans for heat [[20_Vocabulary/high-heeled shoes|pumps]] [[20_Voc
 
 Everllence is currently [[20_Vocabulary/workshop|working]] on a project in Aalborg, Denmark that [[20_Vocabulary/will|will]] be [[20_Vocabulary/steadily|even]] more [[20_Vocabulary/effective|powerful]] than the system in Mannheim, with a total capacity of 176MW. It [[20_Vocabulary/will|will]] use smaller modules, [[20_Vocabulary/However|however]] – four 44MW units – [[20_Vocabulary/In addition|and]] is due to become operational in 2027, when it [[20_Vocabulary/will|will]] supply nearly one third of all heating demand in the town.
 
-Those 44MW machines are actually the same ones [[20_Vocabulary/second-hand|used]] in a previous project, now fully operational, to the south of Aalborg in Esbjerg. There, they don't run at maximum capacity [[20_Vocabulary/However|but]] rather supply 35MW each.
+Those 44MW machines are actually the same ones used in a previous project, now fully operational, to the south of Aalborg in Esbjerg. There, they don't run at maximum capacity [[20_Vocabulary/However|but]] rather supply 35MW each.
 
-Large hot water storage tanks, each able to [[20_Vocabulary/hold|hold]] 200,000 cubic metres of [[20_Vocabulary/a fluid|liquid]], [[20_Vocabulary/will|will]] give the system added flexibility, adds Mr de Rougemont: "When the electricity [[20_Vocabulary/worth|price]] is high, you stop your heat pump [[20_Vocabulary/In addition|and]] only provide heat from the storage."
+Large hot water storage tanks, each able to [[20_Vocabulary/hold|hold]] 200,000 cubic metres of liquid, [[20_Vocabulary/will|will]] give the system added flexibility, adds Mr de Rougemont: "When the electricity [[20_Vocabulary/worth|price]] is high, you stop your heat pump [[20_Vocabulary/In addition|and]] only provide heat from the storage."
 
 Veronika Wilk at the Austrian [[20_Vocabulary/establish|Institute]] of Technology says, "Heat [[20_Vocabulary/high-heeled shoes|pumps]] [[20_Vocabulary/In addition|and]] district heating systems are a great fit." Such systems can harvest heat from bodies of water or [[20_Vocabulary/steadily|even]] [[20_Vocabulary/sewage|wastewater]] from [[20_Vocabulary/sewage|sewage]] [[20_Vocabulary/treatment|treatment]] plants.
 

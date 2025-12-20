@@ -4,7 +4,7 @@ I've been exploring [[30_Structures/the fascinating intersection|the fascinating
 
 In environments where [[20_Vocabulary/relatively|relative]] [[20_Vocabulary/humidity|humidity]] (RH) reaches 90-100%, the air becomes saturated with [[20_Vocabulary/water vapor|water vapor]]. The creates [[30_Structures/a negligible vapor pressure gradient|a negligible vapor pressure gradient]] between the skin [[20_Vocabulary/In addition|and]] the [[20_Vocabulary/a lively atmosphere|atmosphere]], [[20_Vocabulary/effective|effectively]] inhibiting evaporative cooling.
 
-[[20_Vocabulary/consequently|Consequently]], the human [[20_Vocabulary/Institution|body]] cannot [[20_Vocabulary/dissipate|dissipate]] [[20_Vocabulary/metabolic heat|metabolic heat]], posing a severe risk of [[20_Vocabulary/hyperthermia|hyperthermia]]. ![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)
+[[20_Vocabulary/consequently|Consequently]], the human body cannot [[20_Vocabulary/dissipate|dissipate]] [[20_Vocabulary/metabolic heat|metabolic heat]], posing a severe risk of [[20_Vocabulary/hyperthermia|hyperthermia]]. ![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)
 
 2\. Defining Extremophiles
 
