@@ -6,9 +6,9 @@ Automatically replaces curly quotes with straight quotes in Markdown files.
 Supports dry-run, backup, and restore functionality.
 
 Usage:
-    python3 99_Tools/scripts/clean_quotes.py --file "path/to/file.md"
-    python3 99_Tools/scripts/clean_quotes.py --folder "path/to/folder"
-    python3 99_Tools/scripts/clean_quotes.py --file "file.md" --no-dry-run
+    python3 glean/99_Tools/scripts/clean_quotes.py --file "glean/10_Sources/Articles/file.md"
+    python3 glean/99_Tools/scripts/clean_quotes.py --folder "glean/10_Sources/Articles"
+    python3 glean/99_Tools/scripts/clean_quotes.py --file "glean/10_Sources/Articles/file.md" --no-dry-run
 """
 
 import os
@@ -21,10 +21,17 @@ from pathlib import Path
 
 # Quote mappings
 QUOTE_REPLACEMENTS = {
-    "'": "'",  # Left single curly quote
-    "'": "'",  # Right single curly quote
-    """: '"',  # Left double curly quote
-    """: '"',  # Right double curly quote
+    # Single quotes
+    "\u2018": "'",  # Left single quotation mark
+    "\u2019": "'",  # Right single quotation mark
+    "\u201A": "'",  # Single low-9 quotation mark
+    "\u201B": "'",  # Single high-reversed-9 quotation mark
+    
+    # Double quotes
+    "\u201C": '"',  # Left double quotation mark
+    "\u201D": '"',  # Right double quotation mark
+    "\u201E": '"',  # Double low-9 quotation mark
+    "\u201F": '"',  # Double high-reversed-9 quotation mark
 }
 
 class QuoteCleaner:
@@ -48,24 +55,27 @@ class QuoteCleaner:
             count += original.count(curly)
         return count
     
-    def create_backup(self, file_path, original_content):
+    def create_backup(self, file_path, original_content, changes_count=0):
         """Create a backup of the file before modification"""
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         file_id = abs(hash(str(file_path))) % 1000000
         backup_id = f"{timestamp}_{file_id:06x}"
         
-        backup_file = self.backup_dir / f"{backup_id}.md"
+        backup_file = self.backup_dir / f"{backup_id}_{file_path.name}"
         backup_file.write_text(original_content, encoding='utf-8')
         
         # Update inventory
         inventory = self.load_inventory()
-        relative_path = str(file_path.relative_to(self.vault_root))
+        # relative_path = str(file_path.relative_to(self.vault_root)) if file_path.is_relative_to(self.vault_root) else str(file_path)
         
-        inventory[backup_id] = {
+        inventory.append({
+            "id": backup_id,
             "timestamp": timestamp,
-            "file": relative_path,
-            "backup_file": str(backup_file.name)
-        }
+            "original_path": str(file_path),
+            "backup_path": str(backup_file),
+            "changes_count": changes_count,
+            "tool": "clean_quotes"
+        })
         
         self.save_inventory(inventory)
         return backup_id
@@ -73,8 +83,14 @@ class QuoteCleaner:
     def load_inventory(self):
         """Load backup inventory"""
         if self.inventory_file.exists():
-            return json.loads(self.inventory_file.read_text(encoding='utf-8'))
-        return {}
+            try:
+                data = json.loads(self.inventory_file.read_text(encoding='utf-8'))
+                if isinstance(data, list):
+                    return data
+                return []
+            except Exception:
+                return []
+        return []
     
     def save_inventory(self, inventory):
         """Save backup inventory"""
@@ -111,7 +127,7 @@ class QuoteCleaner:
                 print(f"   (Dry run - no changes made)")
             else:
                 # Create backup
-                backup_id = self.create_backup(file_path, original_content)
+                backup_id = self.create_backup(file_path, original_content, replacements)
                 
                 # Write cleaned content
                 file_path.write_text(cleaned_content, encoding='utf-8')
@@ -166,27 +182,32 @@ class QuoteCleaner:
         print(f"{'ID':<25} | {'Date':<20} | {'File':<40}")
         print("-" * 90)
         
-        for backup_id, info in sorted(inventory.items(), reverse=True):
-            if filter_path and filter_path not in info['file']:
+        for item in sorted(inventory, key=lambda x: x['timestamp'], reverse=True):
+            if filter_path and filter_path not in item['original_path']:
                 continue
             
-            timestamp = datetime.strptime(info['timestamp'], "%Y%m%d_%H%M%S")
+            timestamp = datetime.strptime(item['timestamp'], "%Y%m%d_%H%M%S")
             date_str = timestamp.strftime("%Y-%m-%d %H:%M:%S")
-            file_name = Path(info['file']).name
+            file_name = Path(item['original_path']).name
             
-            print(f"{backup_id:<25} | {date_str:<20} | {file_name:<40}")
+            print(f"{item['id']:<25} | {date_str:<20} | {file_name:<40}")
     
     def restore_backup(self, backup_id):
         """Restore a file from backup"""
         inventory = self.load_inventory()
         
-        if backup_id not in inventory:
+        if not inventory:
+            print("No backups found")
+            return False
+
+        info = next((item for item in inventory if item['id'] == backup_id), None)
+        
+        if not info:
             print(f"❌ Backup ID not found: {backup_id}")
             return False
-        
-        info = inventory[backup_id]
-        backup_file = self.backup_dir / info['backup_file']
-        original_file = self.vault_root / info['file']
+            
+        backup_file = Path(info['backup_path'])
+        original_file = Path(info['original_path'])
         
         if not backup_file.exists():
             print(f"❌ Backup file not found: {backup_file}")
@@ -196,7 +217,7 @@ class QuoteCleaner:
             backup_content = backup_file.read_text(encoding='utf-8')
             original_file.write_text(backup_content, encoding='utf-8')
             
-            print(f"✅ Restored: {info['file']}")
+            print(f"✅ Restored: {info['original_path']}")
             print(f"   From backup: {backup_id}")
             return True
             
@@ -204,9 +225,49 @@ class QuoteCleaner:
             print(f"❌ Error restoring backup: {e}")
             return False
 
+    def resolve_path(self, path_str, is_folder=False):
+        """
+        Resolve a path string to a Path object.
+        1. Check if it exists as is (relative to CWD or absolute)
+        2. Check if it exists relative to vault root
+        3. If it's a file, search for it by name in the vault
+        """
+        # 1. Check relative to CWD or absolute
+        path = Path(path_str).resolve()
+        if path.exists():
+            return path
+            
+        # 2. Check relative to vault root
+        vault_path = (self.vault_root / path_str).resolve()
+        if vault_path.exists():
+            return vault_path
+            
+        # 3. If it's a file name, search in vault
+        if not is_folder:
+            print(f"🔍 Searching for '{path_str}' in vault...")
+            matches = list(self.vault_root.rglob(path_str))
+            
+            if len(matches) == 1:
+                print(f"   Found: {matches[0].relative_to(self.vault_root)}")
+                return matches[0]
+            elif len(matches) > 1:
+                print(f"❌ Ambiguous file name. Found {len(matches)} matches:")
+                for m in matches[:5]:
+                    print(f"   - {m.relative_to(self.vault_root)}")
+                if len(matches) > 5:
+                    print("   ...")
+                return None
+        
+        print(f"❌ Path not found: {path_str}")
+        return None
+
 def find_vault_root():
     """Find vault root by looking for .obsidian folder"""
     current = Path.cwd()
+    
+    # First check if we are in the repo root (above glean)
+    if (current / "glean" / ".obsidian").exists():
+        return current / "glean"
     
     while current != current.parent:
         if (current / ".obsidian").exists():
@@ -266,11 +327,13 @@ Examples:
     elif args.list_backups is not None:
         cleaner.list_backups(args.list_backups if args.list_backups else None)
     elif args.file:
-        file_path = vault_root / args.file if not Path(args.file).is_absolute() else Path(args.file)
-        cleaner.process_file(file_path, dry_run)
+        file_path = cleaner.resolve_path(args.file, is_folder=False)
+        if file_path:
+            cleaner.process_file(file_path, dry_run)
     elif args.folder:
-        folder_path = vault_root / args.folder if not Path(args.folder).is_absolute() else Path(args.folder)
-        cleaner.process_folder(folder_path, dry_run)
+        folder_path = cleaner.resolve_path(args.folder, is_folder=True)
+        if folder_path:
+            cleaner.process_folder(folder_path, dry_run)
     else:
         parser.print_help()
 

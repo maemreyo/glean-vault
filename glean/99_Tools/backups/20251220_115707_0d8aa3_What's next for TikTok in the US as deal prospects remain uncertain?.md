@@ -40,6 +40,6 @@ He is [[20_Vocabulary/parcel|part]] of a group of investors including Reddit co-
 
 He said he wants to operate [[20_Vocabulary/social media|TikTok]] without any of its Chinese technology, including its [[20_Vocabulary/effective|powerful]] recommendation algorithm, [[20_Vocabulary/In addition|and]] that his Project Liberty has developed other technology that could be used instead.
 
-![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
+![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
 
-A green promotional banner with black squares [[20_Vocabulary/In addition|and]] rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."
+A green promotional banner with black squares [[20_Vocabulary/In addition|and]] rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”

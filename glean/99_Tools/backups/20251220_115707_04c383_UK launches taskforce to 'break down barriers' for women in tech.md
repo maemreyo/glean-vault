@@ -42,6 +42,6 @@ It [[20_Vocabulary/In addition|also]] includes TUC assistant general secretary K
 
 "Achieving gender equality is long overdue, [[20_Vocabulary/In addition|and]] I am honoured to join the Women in Tech taskforce alongside Liz Kendall [[20_Vocabulary/In addition|and]] several inspiring women from [[20_Vocabulary/across the industry|across the industry]], [[20_Vocabulary/group cooperation|working together]] [[20_Vocabulary/to chart a path forward|to chart a path forward]] for true gender equality."
 
-![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
+![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
 
-A green promotional banner with black squares [[20_Vocabulary/In addition|and]] rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."
+A green promotional banner with black squares [[20_Vocabulary/In addition|and]] rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”
