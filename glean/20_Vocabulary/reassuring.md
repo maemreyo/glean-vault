@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [reassuringly, reassurance, reassured, reassure, comforting, soothing]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌriːəˈʃʊərɪŋ/
+> **Part of Speech:** Adjective
+> **CEFR Level:** B2
+> **Register:** Neutral/Emotional
+> **Etymology:** From "re-" (again) + "assure" (to make safe) + "-ing" (adjective suffix)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Removing fear or doubt; restoring confidence
+>
+> **Context Meaning:** Making someone feel less worried or anxious about something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** làm cho yên tâm
+> - **Contextual:** trấn an, an ủi, vỗ về
+>
 > **Nuances:**
-> - ...
+> - Often used to describe words, gestures, or actions
+> - Implies previous anxiety or concern
+> - Can be both physical (like a hug) or verbal (like kind words)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Comforting, Supportive, Empathetic
+> **Memory Hook:** Think of someone "assuring" you again ("re-") after you felt worried
+> **📖 Etymology Story:** From Latin "re-" (again) + "securus" (secure, safe). Something reassuring makes you feel "secure again" after feeling worried or unsafe
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[reassurance]] /ˌriːəˈʃʊərəns/, [[reassurance]] /ˌriːəˈʃʊərəns/
+> - **Verb:** [[reassure]] /ˌriːəˈʃʊə(r)/
+> - **Adj:** [[reassuring]] /ˌriːəˈʃʊərɪŋ/, [[reassured]] /ˌriːəˈʃʊərd/
+> - **Adv:** [[reassuringly]] /ˌriːəˈʃʊərɪŋli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[comforting]] /ˈkʌmfətɪŋ/ : providing physical or emotional comfort
+> - [[soothing]] /ˈsuːðɪŋ/ : calming or gentle
+> - [[encouraging]] /ɪnˈkʌrɪdʒɪŋ/ : giving hope or confidence
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[worrying]] /ˈwʌriɪŋ/ : causing anxiety
+> - **alarming]] /əˈlɑːmɪŋ/ : causing concern or fear
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. reassuring smile
+> 2. reassuring words
+> 3. reassuring tone
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The doctor's reassuring tone helped calm the anxious patient.
+> - **Translation:** Giọng điệu trấn an của bác sĩ đã giúp bệnh nhân lo âu bình tĩnh lại.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She gave him a reassuring pat on the shoulder before his presentation.
+> - **Translation:** Cô ấy vỗ vai anh một cách trấn an trước buổi thuyết trình của anh.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect double negative**
+> - ❌ **Mistake:** "The news wasn't un-reassuring"
+> - ✅ **Correction:** "The news was reassuring" or "The news wasn't reassuring"
+> - **Why:** Avoid double negatives - they're confusing
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "A reassuring word costs nothing but is worth everything."
+> **Source:** Unknown proverb
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **reassuring** (*/ˌriːəˈʃʊərɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Making someone feel less worried or anxious; restoring confidence
+> 🇻🇳 **Vietnamese:** Làm cho yên tâm, trấn an, an ủi
+> 🗣️ **IPA:** */ˌriːəˈʃʊərɪŋ/*
+> 🧠 **Mental Model:** Một cái ôm ấm áp hay lời nói dịu dàng làm tan nỗi lo - cảm giác an toàn trở lại sau khi lo lắng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Removing someone's doubts or fears; making them feel confident again"
+**Vietnamese:** Loại bỏ nghi ngờ hoặc sợ hãi của ai đó; làm họ cảm thấy tự tin trở lại
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**reassuring** (*/ˌriːəˈʃʊərɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **reassuring** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The teacher's reassuring nod told the nervous student that her answer was correct.
+> 🇻🇳 **Translation:** Cái gật đầu trấn an của giáo viên cho học sinh lo lắng biết câu trả lời của cô ấy đúng.
+> 🔍 **Analysis:** "Reassuring" thể hiện hành động phi ngôn ngữ truyền đạt sự an tâm, thể hiện sự tinh tế và đồng cảm trong giao tiếp
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **reassuring**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Facial Expression:** reassuring smile/look (nụ cười/ánh mắt trấn an) - VN: biểu cảm khuôn mặt
+> 2. **Communication:** reassuring words/tone (lời nói/giọng điệu an ủi) - VN: giao tiếp bằng lời
+> 3. **Physical Action:** reassuring touch/pat (cái chạm/vỗ trấn an) - VN: hành động thể chất
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **reassuring**:
+"Her nice words helped me."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Her reassuring words about the situation helped calm my racing thoughts."
+> 💡 **Why it works:** "Reassuring" chỉ rõ tác động làm giảm lo âu, tạo cảm giác sâu sắc và cụ thể hơn "nice" thông thường
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **reassuring** instead of **[[nice]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **reassuring:** Chỉ CỤ THỂ hành động GIẢM LO ÂU - VN: có mục đích làm yên tâm
+> **nice:** Chỉ chung chung là THÍCH, TỐT - VN: không chỉ định cảm xúc cụ thể
+> 🧱 **The Barrier:** "Nice" là dễ chịu chung chung, "reassuring" là giải quyết nỗi lo cụ thể
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is worried about their job interview. You want to help. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Don't worry, you've prepared well for this. Everything will be fine."
+> 👨‍🎨 **Director's Note:** Câu nói này mang tính "reassuring" - không chỉ khen ngợi mà trực tiếp giải quyết nỗi lo, tạo sự an tâm
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `re-` (again) + `securus` (secure) to **reassuring**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "re-" (lại, một lần nữa) + "securus" (an toàn, bảo mật). Khi ai đó "reassuring", họ đang làm bạn cảm thấy "an toàn trở lại" sau khi bạn lo lắng hoặc cảm thấy bất an
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **reassuring**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `re-` (again) + `securus` (secure, safe)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* reassure, ensure, secure
+> - *(adj)* reassuring, assured, secure
+> - *(noun)* reassurance, security, assurance
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌriːəˈʃʊərɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**reassuring**
+> 📖 **Meaning:** Making someone feel less worried or anxious
+> 🇻🇳 **Vietnamese:** Làm cho yên tâm, trấn an
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **reassuring**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The news was very un-reassuring" (tiêu cực kép khó hiểu)
+> ✅ **Correction:** "The news was worrying" hoặc "The news was not reassuring"
+> 🧠 **Why:** Tiếng Anh tránh phủ định kép - "un-reassuring" vừa khó hiểu vừa không tự nhiên
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **reassuring**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[alarming]] (Gây báo động, đáng lo ngại)
+> - [[unsettling]] (Gây bất an, khó chịu)
+> 🧱 **Contrast:** Trong khi "reassuring" tạo cảm giác an toàn, "unsettling" tạo cảm giác bất an - hai trạng thái cảm xúc đối lập nhau
 
 ---

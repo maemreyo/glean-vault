@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/language-linguistics/origins-of-language
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [coin a phrase, newly coined, coinage, newly minted, invented, created, coined term, coined word]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kɔɪnd/
+> **Part of Speech:** Verb/Adjective
+> **CEFR Level:** C1
+> **Register:** Formal/Academic
+> **Etymology:** From Old French "coin" (wedge, corner), from Latin "cuneus" (wedge) - referring to the wedge-shaped die used to stamp coins
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To invent or create a new word or phrase
+>
+> **Context Meaning:** 1) To invent a new word or expression 2) To create something new, especially a phrase or concept 3) (adj) Newly created or invented
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sáng tạo, phát minh
+> - **Contextual:** đặt ra (từ mới), tạo ra (cụm từ)
+>
 > **Nuances:**
-> - ...
+> - Often used for linguistic innovation
+> - Implies official recognition or acceptance
+> - Can be used metaphorically for creating concepts
+> - Carries sense of permanence like minted coins
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Creative, Innovative, Precise
+> **Memory Hook:** Think of coins being minted - when you "coin" a phrase, you're stamping it into existence like a coin
+> **📖 Etymology Story:** From Latin "cuneus" (wedge) - ancient metalworkers used wedge-shaped dies to stamp coins, same way writers stamp new words into language - permanent and valuable
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[coin]] /kɔɪnd/
+> - **Noun:** [[coin]] /kɔɪn/ (money)
+> - **Noun:** [[coinage]] /ˈkɔɪnɪdʒ/ (new word)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[create]] /kriˈeɪt/ : general term
+> - [[invent]] /ɪnˈvent/ : more about devices/ideas
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[borrow]] /ˈbɒrəʊ/ : take from existing
+> - [[adopt]] /əˈdɒpt/ : take from others
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. coin a phrase/term
+> 2. newly coined word
+> 3. coin the expression
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Shakespeare coined many words that are still in use today.
+> - **Translation:** Shakespeare đã đặt ra nhiều từ vẫn còn được sử dụng đến ngày nay.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The term "fake news" was recently coined to describe deliberate misinformation.
+> - **Translation:** Thuật ngữ "fake news" gần đây đã được đặt ra để mô tả thông tin sai lệch có chủ đích.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Tense Form Error**
+> - ❌ **Mistake:** Who coine this word?
+> - ✅ **Correction:** Who coined this word?
+> - **Why:** Irregular verb - coin/coined/coined (like find/found/found)
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** The researcher coined a new term to describe this previously unknown phenomenon.
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **coined** (*/kɔɪnd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Invented or created a new word or expression; newly created (Oxford Dictionary)
+> 🇻🇳 **Vietnamese:** Được sáng tạo/đặt ra (mới được tạo ra)
+> 🗣️ **IPA:** */kɔɪnd/*
+> 🧠 **Mental Model:** Word minting (đúc từ) - như đúc tiền xu, tạo ra từ mới có giá trị và lâu dài
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Invented or created a new word"
+**Vietnamese:** Đặt ra từ mới
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**coined** (*/kɔɪnd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **coined** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The scientist coined the term "black hole" to describe regions of spacetime with extreme gravity.
+> 🇻🇳 **Translation:** Nhà khoa học đã đặt ra thuật ngữ "black hole" để mô tả các vùng không-thời gian có lực hấp dẫn cực mạnh.
+> 🔍 **Analysis:** Perfect here because "coined" shows deliberate creation (sự tạo tạo có chủ đích) - not just using words, but officially creating terminology
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **coined**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Creation:** coin a term/phrase/expression (sáng tạo - hành động đặt từ/cụm từ)
+> 2. **Time reference:** recently/newly coined (thời gian - từ vừa được tạo)
+> 3. **Attribution:** coined by [person] (nguồn gốc - người tạo ra)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **coined**:
+"He made up a new word."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The linguist coined a new term to describe this linguistic phenomenon."
+> 💡 **Why it works:** "Coined" is academic (học thuật) and formal (trang trọng) - shows professional creation of terminology, not casual invention
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **coined** instead of **made up**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **coined:** Official, permanent creation (tạo ra chính thức)
+> **made up:** Informal, possibly temporary (tự bịa ra)
+> 🧱 **The Barrier:** Coin = minted value, Make up = temporary invention - coined có giá trị như tiền đúc, made up chỉ là sự sáng kiến nhất thời
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining who created a popular catchphrase. You feel informative. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This phrase was actually coined by a marketing executive in the 1980s."
+> 👨‍🎨 **Director's Note:** Sounds authoritative (có thẩm quyền) and precise (chính xác) - "coined" gives credit for linguistic creation
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `cuneus` to the meaning of **coined**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `cuneus` meant "wedge" - ancient mint workers used wedge-shaped dies to `coin` money (nhà đúc tiền dùng khuôn hình nêm) - today we "coin" words with same permanence and precision
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **coined**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `cuneus` (wedge)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[coin]] (đồng xu)
+> - *(noun)* [[coinage]] (sự đặt từ mới)
+> - *(noun)* [[cuneiform]] (chữ hình nêm)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kɔɪnd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**coined**
+> 📖 **Meaning:** Invented or created a new word or expression
+> 🇻🇳 **Vietnamese:** Được sáng tạo/đặt ra
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **coined**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "This word was coin by Shakespeare."
+> ✅ **Correction:** "This word was coined by Shakespeare."
+> 🧠 **Why:** Past participle needed for passive voice - coin/coined/coined (irregular like find/found/found)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **coined**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[borrowed]] (mượn từ)
+> - [[adopted]] (được chấp nhận/tiếp thu)
+> 🧱 **Contrast:** Original creation vs borrowing existing - sáng tạo mới so với vay mượn sẵn có
 
 ---

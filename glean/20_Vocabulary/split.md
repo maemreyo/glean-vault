@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [splits, splitting, split up, split off, split in two, split apart, split second, split decision, split hairs]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /splɪt/
+> **Part of Speech:** verb/noun/adjective
+> **CEFR Level:** A2
+> **Register:** informal/formal
+> **Etymology:** Old English "splittan" meaning "to split, cleave," probably from Proto-Germanic
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To divide along a line or grain; separate into parts
+>
+> **Context Meaning:** To break or cause to break into parts; divide or share something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tách, chia, nứt
+> - **Contextual:** chia ra, tách ra, chia đôi
+>
 > **Nuances:**
-> - ...
+> - Irregular verb: split-split-split (same forms)
+> - Can describe physical splitting or abstract division
+> - Often implies complete separation, not just partial
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Decisive, Divisive, Sharp
+> **Memory Hook:** Split sounds like the action itself - sharp "pl" sound like breaking wood
+> **📖 Etymology Story:** Old English woodcutters would "splittan" logs along the grain - splitting followed the natural line of separation. Modern "split" keeps this idea of dividing along natural or artificial lines, from splitting atoms to splitting opinions.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[split]] /splɪt/
+> - **Noun:** [[split]] /splɪt/
+> - **Adj:** [[split]] /splɪt/
+> - **Verb:** [[splinter]] /ˈsplɪntər/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[divide]] /dɪˈvaɪd/ : more formal
+> - [[separate]] /ˈsɛprət/ : general separation
+> - [[break]] /breɪk/ : damage, not clean division
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[join]] /dʒɔɪn/ : unite together
+> - [[merge]] /mɜːrdʒ/ : combine into one
+> - [[unite]] /juˈnaɪt/ : make whole
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. split in half/two
+> 2. split the cost/bill
+> 3. split second (moment)
+>
+> **1. Physical Action**
+> - **Sentence:** She carefully split the apple into two equal pieces for the children.
+> - **Translation:** Cô ấy cẩn thận chia quả táo thành hai phần bằng nhau cho trẻ em.
+>
+> **2. Abstract Division**
+> - **Sentence:** The committee was split on whether to approve the proposal.
+> - **Translation:** Ủy ban bị chia rẽ về việc có nên phê duyệt đề xuất hay không.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Past tense confusion**
+> - ❌ **Mistake:** I splited the wood yesterday.
+> - ✅ **Correction:** I split the wood yesterday.
+> - **Why:** "Split" is irregular - past tense is the same as present
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "United we stand, divided we fall."
+> **Source:** [[Aesop]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **split** (*/splɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To divide or break something into two or more parts along a line or grain; to separate or share
+> 🇻🇳 **Vietnamese:** Chia ra, tách ra, chia đôi
+> 🗣️ **IPA:*/splɪt/*
+> 🧠 **Mental Model:** Cành cây bị chẻ dọc - action của dividing along natural line, từ một thành nhiều
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To divide or separate into parts"
+**Vietnamese:** Chia hoặc tách thành nhiều phần
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**split** (*/splɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **split** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The group decided to split the pizza evenly among themselves before leaving.
+> 🇻🇳 **Translation:** Nhóm quyết định chia đều chiếc pizza cho nhau trước khi rời đi.
+> 🔍 **Analysis:** "Split" được dùng ở đây trong nghĩa chia sẻ/ phân chia - nó implies fair division, natural và common trong everyday English cho dividing food/cost
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **split**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Division:** split in half (chia đôi - VN: equal division into two)
+> 2. **Time:** split second (chốc lát - VN: very short time)
+> 3. **Disagreement:** split the vote (phiếu bầu chia rẽ - VN: political context)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **split**:
+"They broke the group into smaller parts."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The workshop split participants into focus groups to tackle different aspects of the problem."
+> 💡 **Why it works:** "Split" active và decisive hơn "broke into smaller parts" - "focus groups" adds specific organizational context, "tackle different aspects" shows purpose
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **split** instead of **[[divide]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **split:** Dùng khi muốn nhấn mạnh sự chia tách mạnh, dứt khoát, thường dọc theo natural line (VN: chẻ, tách mạnh)
+> **[[divide]]:** Dùng khi muốn nhấn mạnh sự phân chia có hệ thống, có tính toán (VN: phân chia, chia đều)
+> 🧱 **The Barrier:** Split = sharp/clean separation (like axe), Divide = systematic/measured separation (like ruler)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You and your friend found money on the street. Suggest **splitting** it.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Let's split it fifty-fifty! Finders keepers, but fair is fair."
+> 👨‍🎨 **Director's Note:** Natural suggestion for equal sharing - "split" ở đây is casual way đề nghị fair division, "fifty-fifty" reinforces equal split concept
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `splittan` to the meaning of **split**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "splittan" (cleave wood) → Modern "split" - từ chẻ dọc thớ gỗ thành chia mọi thứ, từ wood grain đến opinions
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **split**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Proto-Germanic `splittan` (to split, cleave)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* split (irregular: split-split-split)
+> - *(noun)* split (result of splitting)
+> - *(adj)* split (divided)
+> - *(noun)* splinter (small piece broken off)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */splɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**split**
+> 📖 **Meaning:** Divide into parts
+> 🇻🇳 **Vietnamese:** Chia ra
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **split**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We splitted the group yesterday.
+> ✅ **Correction:** We split the group yesterday.
+> 🧠 **Why:** "Split" là irregular verb - present/past/past participle đều là "split", không thêm "-ed"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **split**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[join]] (kết hợp - bringing parts together)
+> - [[unite]] (đoàn kết - making whole again)
+> 🧱 **Contrast:** Split creates separation; opposite is reuniting or joining separate parts into a whole
 
 ---

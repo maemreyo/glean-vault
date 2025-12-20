@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
 #flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [shoes, boots, sandals, footwear collection, footwear industry, shoe]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfʊtweə(r)/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral/technical
+> **Etymology:** From Old English 'fōt' (foot) + Middle English 'were' (gear, equipment)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Things worn on feet; equipment for feet
+>
+> **Context Meaning:** Items worn to protect and comfort feet, including shoes, boots, sandals, and slippers
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đồ đi chân, giày dép
+> - **Contextual:** trang phục chân, dụng cụ bảo vệ chân
+>
 > **Nuances:**
-> - ...
+> - More formal/general than 'shoes' alone
+> - Includes all types of foot coverings
+> - Can be functional (work boots) or fashionable (designer shoes)
+> - Cultural significance varies across societies
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Practical, Protective, Fashionable, Cultural
+> **Memory Hook:** Think 'foot + wear' = what you wear on feet
+> **📖 Etymology Story:** In ancient times, 'foot gear' literally meant equipment for feet - like armor or protection. Modern 'footwear' evolved from this practical concept to include both protection and fashion, reflecting how society views both function and style
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Compound:** footwear industry, footwear collection
+> - **Related:** [[outfit]] /ˈaʊtfɪt/ : complete clothing set
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[shoes]] /ʃuːz/ : most common type
+> - [[footgear]] /ˈfʊtɡɪə(r)/ : older term
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[barefoot]] /ˈbeəfʊt/ : without footwear
+> - [[unshod]] /ʌnˈʃɒd/ : without shoes
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. protective/comfortable/stylish footwear
+> 2. footwear industry/brand/store
+> 3. choose/remove footwear
+> 4. appropriate footwear for...
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The hiking store offers specialized footwear for different terrains and weather conditions.
+> - **Translation:** Cửa hàng đồ đi bộ cung cấp các loại giày dép chuyên dụng cho các loại địa hình và điều kiện thời tiết khác nhau.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Please remove your footwear before entering the temple as a sign of respect.
+> - **Translation:** Vui lòng cởi giày dép trước khi vào chùa để thể hiện sự tôn trọng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability confusion**
+> - ❌ **Mistake:** I need to buy a new footwear.
+> - ✅ **Correction:** I need to buy new footwear/a pair of shoes.
+> - **Why:** 'Footwear' is uncountable - refers to the category, not individual items
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "You can tell a lot about a person by their footwear - where they've been and where they're going."
+> **Source:** [[Fashion Sociology]]
 
 ---
 
@@ -161,121 +81,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **footwear** (*/ˈfʊtweə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Items worn on feet for protection, comfort, or fashion; general term for shoes, boots, etc.
+> 🇻🇳 **Vietnamese:** Đồ đi chân, giày dép
+> 🗣️ **IPA:** */ˈfʊtweə(r)/*
+> 🧠 **Mental Model:** Category word cho mọi thứ đi trên chân - giống như "clothing" nhưng cho feet
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Things worn on feet for protection or fashion"
+**Vietnamese:** Đồ đi chân, giày dép
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**footwear** (*/ˈfʊtweə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **footwear** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The company requires all employees to wear safety footwear in the warehouse area.
+> 🇻🇳 **Vietnamese:** Công ty yêu cầu tất cả nhân viên phải mang đồ bảo hộ chân trong khu vực kho.
+> 🔍 **Analysis:** Perfect here - 'footwear' works as a formal category term covering all required protective shoe types
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **footwear**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality:** protective/specialized/designer footwear (chỉ tính chất)
+> 2. **Business:** footwear industry/brand/retailer (chỉ business context)
+> 3. **Action:** choose/remove/appropriate footwear (chỉ hành động)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **footwear**:
+"You need good shoes for hiking."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Proper hiking footwear is essential for maintaining grip and preventing injuries on rough terrain."
+> 💡 **Why it works:** 'Footwear' more formal/comprehensive - covers boots, shoes, specialized gear thay vì chỉ "shoes"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **footwear** instead of **shoes**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **footwear:** General category term - bao gồm tất cả types
+> **shoes:** Specific type - thường chỉ enclosed foot covering
+> 🧱 **The Barrier:** footwear = umbrella category vs shoes = specific item within category
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is packing for varied weather trip. You advise them. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Don't forget to pack versatile footwear - something that works for both rain and shine activities."
+> 👨‍🎨 **Director's Note:** 'Footwear' perfect để discuss practical preparation covering multiple shoe types
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `fōt + were` to the meaning of **footwear**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Fōt' (foot) + 'were' (gear/equipment) → literal "foot equipment" → modern nghĩa rộng hơn include cả fashion
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **footwear**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `fōt` (foot) + `were` (gear)
+> 👨‍👩‍👧 **Family:**
+> - *(category)* [[footwear]] (đồ đi chân)
+> - *(specific)* [[shoes]], [[boots]], [[sandals]] (các loại cụ thể)
+> - *(related)* [[apparel]] (quần áo - cùng concept 'wear')
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfʊtweə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**footwear**
+> 📖 **Meaning:** Things worn on feet
+> 🇻🇳 **Vietnamese:** Đồ đi chân, giày dép
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common grammar mistake with **footwear**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** She bought three footwears for her trip.
+> ✅ **Correction:** She bought three pairs of footwear/three types of footwear.
+> 🧠 **Why:** 'Footwear' là uncountable noun - không có plural form, dùng 'pairs' hoặc 'types' để count
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **footwear**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[barefoot]] (đ chân trần)
+> - [[unshod]] (không mang giày)
+> 🧱 **Contrast:** footwear = protected feet vs barefoot/unshod = uncovered feet

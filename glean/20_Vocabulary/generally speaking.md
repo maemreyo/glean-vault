@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [generally, generally speaking, broadly speaking, in general, by and large, for the most part]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈdʒenrəli ˈspiːkɪŋ/
+> **Part of Speech:** Discourse marker / Adverbial phrase
+> **CEFR Level:** B1
+> **Register:** Neutral/Semi-formal
+> **Etymology:** From Latin "generalis" (relating to all) + Old English "specan" (to speak)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In most cases; for the most part
+>
+> **Context Meaning:** Used to introduce a general statement that is true in most situations but may have exceptions
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nói chung
+> - **Contextual:** nhìn chung, đại thể, về cơ bản
+>
 > **Nuances:**
-> - ...
+> - Softens statements and makes them less absolute
+> - Often used to begin presentations or express opinions
+> - Indicates awareness of possible exceptions
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Cautious, Considerate, Diplomatic
+> **Memory Hook:** Think of someone speaking "generally" - not making absolute claims but covering the main points
+> **📖 Etymology Story:** From Latin "generalis" (belonging to all) + Old English "specan" (to speak). When you speak "generally," you're speaking about what applies to the majority or general case
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[generality]] /ˌdʒenəˈræləti/
+> - **Verb:** [[speak]] /spiːk/, [[generalize]] /ˈdʒenrəlaɪz/
+> - **Adj:** [[general]] /ˈdʒenrəl/
+> - **Adv:** [[generally]] /ˈdʒenrəli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[in general]] /ɪn ˈdʒenrəl/ : more common alternative
+> - [[broadly speaking]] /ˈbrɔːdli ˈspiːkɪŋ/ : similar meaning
+> - [[by and large]] /baɪ ænd lɑːdʒ/ : more informal
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[specifically]] /spəˈsɪfɪkli/ : referring to details
+> - [[particularly]] /pəˈtɪkjələli/ : emphasizing specifics
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. generally speaking about
+> 2. generally speaking, we
+> 3. safe generally speaking
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Generally speaking, summer is the peak tourist season in coastal areas.
+> - **Translation:** Nói chung, mùa hè là mùa du lịch cao điểm ở các khu vực ven biển.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Generally speaking, children adapt more quickly to new environments than adults.
+> - **Translation:** Nói chung, trẻ em thích nghi với môi trường mới nhanh hơn người lớn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse in formal writing**
+> - ❌ **Mistake:** Using "generally speaking" too frequently in academic papers
+> - ✅ **Correction:** Use "in general" or rephrase to be more specific
+> - **Why:** "Generally speaking" can sound informal in very formal contexts
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Generally speaking, the most successful people are those who are good at prioritizing."
+> **Source:** Common business wisdom
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **generally speaking** (*/ˈdʒenrəli ˈspiːkɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In most cases; usually; for the most part without considering specific exceptions
+> 🇻🇳 **Vietnamese:** Nói chung, nhìn chung, đại thể
+> 🗣️ **IPA:** */ˈdʒenrəli ˈspiːkɪŋ/*
+> 🧠 **Mental Model:** Một phát biểu bao trùm hầu hết các trường hợp, giống như nói "phần lớn..." nhưng lịch sự hơn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In most cases or situations, without specifying all details or exceptions"
+**Vietnamese:** Trong hầu hết các trường hợp hoặc tình huống, không chỉ định tất cả chi tiết hoặc ngoại lệ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**generally speaking** (*/ˈdʒenrəli ˈspiːkɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **generally speaking** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Generally speaking, remote work has increased productivity across many industries.
+> 🇻🇳 **Translation:** Nói chung, làm việc từ xa đã tăng năng suất trong nhiều ngành công nghiệp.
+> 🔍 **Analysis:** "Generally speaking" mềm hóa phát biểu, thừa nhận có thể có ngoại lệ nhưng vẫn nêu xu hướng chính - phù hợp trong bối cảnh kinh doanh hoặc học thuật
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **generally speaking**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Topic Introduction:** Generally speaking about/regarding (Nói chung về/chấm) - VN: bắt đầu chủ đề
+> 2. **Opinion Expression:** Generally speaking, I/we believe (Nói chung, tôi/chúng tôi tin) - VN: bày tỏ quan điểm
+> 3. **Safe Statement:** safe to say generally speaking (có thể nói chung là an toàn) - VN: thận trọng khẳng định
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **generally speaking**:
+"Most people like weekends."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Generally speaking, people tend to be more relaxed and productive during weekends."
+> 💡 **Why it works:** "Generally speaking" thêm vào sắc thái ngoại giao và học thuật, phù hợp với văn viết trang trọng hơn
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **generally speaking** instead of **[[always]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **generally speaking:** Áp dụng cho HẦU HẾT nhưng không phải TẤT CẢ - VN: có ngoại lệ, thừa nhận
+> **always:** Áp dụng cho 100% KHÔNG NGOẠI LỆ - VN: tuyệt đối, không ngoại trừ
+> 🧱 **The Barrier:** "Generally speaking" mở cửa cho ngoại lệ, "always" đóng chặt không có ngoại lệ
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're in a business meeting presenting trends. You need to be diplomatic. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Generally speaking, our Q3 results show positive growth across all departments."
+> 👨‍🎨 **Director's Note:** "Generally speaking" thể hiện sự chuyên nghiệp và cẩn trọng, thừa nhận có thể có biến động nhỏ nhưng xu hướng chung là tích cực
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `generalis` (relating to all) + `specan` (to speak) to **generally speaking**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "general" (chung, tổng quát) trong Latin là "generalis" - "thuộc về tất cả". Khi bạn "generally speaking", bạn đang "nói về cái chung" - nói điều áp dụng cho phần lớn chứ không phải từng trường hợp riêng lẻ
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **generally speaking**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `generalis` (general, universal) + Old English `specan` (to speak)
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* generally speaking, in general, broadly speaking
+> - *(adj)* general, generic, universal
+> - *(adv)* generally, typically, usually
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈdʒenrəli ˈspiːkɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**generally speaking**
+> 📖 **Meaning:** In most cases; usually
+> 🇻🇳 **Vietnamese:** Nói chung, nhìn chung
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **generally speaking**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Generally speaking, always" (mâu thuẫn logic)
+> ✅ **Correction:** "Generally speaking, usually" hoặc chỉ dùng một trong hai
+> 🧠 **Why:** "Generally speaking" thừa nhận có ngoại lệ, không thể kết hợp với "always" (luôn luôn không có ngoại lệ)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **generally speaking**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[specifically]] (Cụ thể, chi tiết)
+> - [[particularly]] (Đặc biệt, riêng biệt)
+> 🧱 **Contrast:** Trong khi "generally speaking" nói về xu hướng chung, "specifically" đi vào chi tiết, trường hợp cụ thể - hai hướng tiếp cận đối lập
 
 ---

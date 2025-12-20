@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [thumb, thumbs up, thumbs down, thumbprint, thumbnail, thumbscrew]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /θʌmz/
+> **Part of Speech:** noun (plural)
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** Plural of thumb, from Old English þūma
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:**
+> 1. The short thick fingers of the hand
+> 2. (idiomatic) Gesture of approval or disapproval
+>
+> **Context Meaning:**
+> 1. Physical thumbs - digits for gripping
+> 2. Thumbs up/down - signals of approval
+> 3. Rule of thumb - general principle
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** các ngón tay cái, cái khen, cái chê
+> - **Contextual:** ngón cái, động tác khen/chê, quy tắc chung
+>
 > **Nuances:**
-> - ...
+> - Thumbs are opposable, enabling precision grip
+> - Thumb gestures vary by culture
+> - Often used metaphorically for approval/disapproval
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Expressive, Essential, Judgmental
+> **Memory Hook:** Picture giving a thumbs up for a good movie - that's using thumbs to show approval
+> **📖 Etymology Story:** From Old English þūma, possibly related to Latin tumere "to swell" - as the thumb is the thickest finger. Thumbs have become powerful symbols of judgment and approval across cultures, transforming from mere digits to universal signs of opinion.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - **Noun:** [[thumb]] /θʌm/
+> - **Verb:** [[thumb]] /θʌm/
+>
+> **Related Expressions:**
+> - [[thumbs up]] : approval
+> - [[thumbs down]] : disapproval
+> - [[rule of thumb]] : general principle
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - None (thumbs are neutral, context determines meaning)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. thumbs up
+> 2. green thumbs
+> 3. twiddle thumbs
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The audience gave the performance a thumbs up with enthusiastic applause.
+> - **Translation:** Khán giả đã vỗ tay tán thưởng và giơ ngón tay cái biểu thị sự đồng tình.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She has green thumbs and can make any plant flourish.
+> - **Translation:** Cô ấy có tài trồng cây và có thể làm cho mọi loại cây phát triển tốt.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Thumb vs Thumbs**
+> - ❌ **Mistake:** I hurt my thumbs.
+> - ✅ **Correction:** I hurt my thumb. (if one) / I hurt my thumbs. (if multiple)
+> - **Why:** Use singular for one thumb, plural for both thumbs
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Opposable thumbs are what separated humans from the rest of the animal kingdom."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +84,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **thumbs** (*/θʌmz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Plural of thumb; short thick fingers of the hand; gestures of approval or disapproval
+> 🇻🇳 **Vietnamese:** Các ngón tay cái; động tác khen/chê bằng ngón tay cái
+> 🗣️ **IPA:** */θʌmz/*
+> 🧠 **Mental Model:** Hình dung giơ ngón tay cái lên xuống - đó là thumbs (cái khen/chê)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The short thick fingers of the hand; gestures of approval"
+**Vietnamese:** Các ngón tay cái dày; các cử chỉ khen/ngợi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**thumbs** (*/θʌmz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **thumbs** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The tour guide waited for thumbs up from everyone before starting the explanation.
+> 🇻🇳 **Translation:** Hướng dẫn viên đợi mọi người giơ ngón tay cái đồng ý trước khi bắt đầu giải thích.
+> 🔍 **Analysis:** Thumbs thể hiện sự đồng thuận, cho thấy cách dùng ngôn ngữ cơ thể phổ biến
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **thumbs**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Approval:** thumbs up (giơ ngón tay cái lên - thể hiện sự đồng ý)
+> 2. **Skill:** green thumbs (tài trồng cây - thành ngữ chỉ khéo tay)
+> 3. **Idleness:** twiddle thumbs (gãi ngón tay cái - thể hiện sự nhàm chán)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **thumbs**:
+"People showed they liked it."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The crowd erupted in cheers, thumbs shooting up like wildfire across the auditorium."
+> 💡 **Why it works:** "Thumbs up" tạo hình ảnh sống động về sự đồng tình hơn "showed they liked it"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **thumbs up** instead of **applause**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **thumbs up:** Cử chỉ đồng ý nhanh, không ồn ào (VN: giơ ngón tay cái)
+> **applause:** Vỗ tay, thể hiện sự tán thưởng rầm rộ (VN: vỗ tay tán thưởng)
+> 🧱 **The Barrier:** Thumbs up là silent approval, applause là audible appreciation (VN: thumbs up là sự im lặng đồng ý, applause là tiếng vỗ tay)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks if you want pizza for dinner. You feel enthusiastic. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Thumbs up! Pizza sounds perfect tonight."
+> 👨‍🎨 **Director's Note:** Thumbs up thể hiện sự nhiệt tình và đồng ý nhanh chóng (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `þūma` to the meaning of **thumbs**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ tiếng Anh cổ þūma, có thể liên quan đến Latin tumere "phình to" - ngón tay cái là ngón dày nhất. Thumbs đã trở thành biểu tượng mạnh mẽ của phán đoán và đồng tình trên nhiều nền văn hóa.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **thumbs**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `þūma` (thumb)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* thumb (ngón tay cái)
+> - *(phrase)* rule of thumb (quy tắc chung)
+> - *(compound)* thumbprint (vân tay cái)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */θʌmz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**thumbs**
+> 📖 **Meaning:** Plural of thumb; short thick fingers of the hand
+> 🇻🇳 **Vietnamese:** Số nhiều của thumb; các ngón tay cái dày của bàn tay
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **thumbs**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The baby is sucking his thumbs"
+> ✅ **Correction:** "The baby is sucking his thumb"
+> 🧠 **Why:** Trẻ em thường chỉ mút một ngón tay cái, nên dùng số ít
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite gesture to **thumbs up**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[thumbs down]] (giơ ngón tay cái xuống)
+> - [[head shake]] (lắc đầu)
+> 🧱 **Contrast:** Thumbs up is approval, thumbs down is disapproval
 
 ---

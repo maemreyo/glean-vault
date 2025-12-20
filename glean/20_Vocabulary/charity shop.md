@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
 #flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [charity shops, thrift store, second-hand shop, charity store, op shop]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈtʃær.ə.ti ʃɒp/
+> **Part of Speech:** compound noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Charity from Latin caritas "affection, love"; Shop from Old English sceoppa "shed, booth"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:**
+> A retail shop selling donated goods to raise money for charitable causes
+>
+> **Context Meaning:**
+> 1. A store that sells second-hand items to fund charity work
+> 2. A place where people donate unwanted items for resale
+> 3. (UK) Known as thrift store in US, op shop in Australia
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cửa hàng từ thiện, tiệm từ thiện
+> - **Contextual:** nơi bán đồ cũ gây quỹ, cửa hàng đồ捐
+>
 > **Nuances:**
-> - ...
+> - Combines retail with social welfare
+> - Promotes recycling and sustainable consumption
+> - Often run by volunteers or charitable organizations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Compassionate, Sustainable, Community-oriented
+> **Memory Hook:** Imagine a shop where you can buy cheap clothes and the money helps poor people - that's a charity shop
+> **📖 Etymology Story:** Charity comes from Latin "love" and shop from Old English "booth." A charity shop literally brings together commerce and love - a marketplace where buying becomes giving. Like love made visible through transactions, these shops transform shopping into an act of compassion.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - **Noun:** [[charity]] /ˈtʃær.ə.ti/, [[shop]] /ʃɒp/
+> - **Adj:** [[charitable]] /ˈtʃær.ə.tə.bəl/
+>
+> **Related Terms:**
+> - [[thrift store]] (US term)
+> - [[second-hand shop]] : general term
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[boutique]] /buːˈtiːk/ : high-end fashion store
+> - [[department store]] : large commercial retailer
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. donate to charity shop
+> 2. browse charity shops
+> 3. volunteer at charity shop
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She found a beautiful vintage dress at the charity shop for only five pounds.
+> - **Translation:** Cô ấy đã tìm thấy một chiếc váng vintage đẹp ở cửa hàng từ thiện với giá chỉ năm bảng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Many charity shops rely on volunteers to sort and price donations.
+> - **Translation:** Nhiều cửa hàng từ thiện phụ thuộc vào tình nguyện viên để phân loại và định giá các đồ vật捐.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Singular vs Plural**
+> - ❌ **Mistake:** I'm going to charity shop.
+> - ✅ **Correction:** I'm going to a charity shop / I'm going to the charity shops.
+> - **Why:** Need article "a" for singular or use plural form when speaking generally.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "One person's trash is another person's treasure, especially in a charity shop."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **charity shop** (*/ˈtʃær.ə.ti ʃɒp/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A shop that sells donated second-hand goods to raise money for charitable causes
+> 🇻🇳 **Vietnamese:** Cửa hàng bán đồ đã qua sử dụng để gây quỹ từ thiện
+> 🗣️ **IPA:** */ˈtʃær.ə.ti ʃɒp/*
+> 🧠 **Mental Model:** Hình dung nơi bán đồ cũ nhưng tiền dùng giúp người nghèo - đó là charity shop
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A shop that sells donated second-hand goods to raise money for charitable causes"
+**Vietnamese:** Cửa hàng bán đồ đã qua sử dụng được捐 để gây quỹ từ thiện
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**charity shop** (*/ˈtʃær.ə.ti ʃɒp/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **charity shop** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The charity shop on High Street supports local homeless shelters with its profits.
+> 🇻🇳 **Translation:** Cửa hàng từ thiện trên đường High Street dùng lợi nhuận để hỗ trợ các nơi trú ẩn cho người vô gia cư địa phương.
+> 🔍 **Analysis:** Charity shop thể hiện mô hình kinh doanh xã hội, kết hợp thương mại và từ thiện
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **charity shop**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** donate to charity shop (捐给慈善商店 - hành động cho đi)
+> 2. **Activity:** browse charity shops (逛慈善商店 - hoạt động xem mua)
+> 3. **Service:** volunteer at charity shop (在慈善商店做义工 - hành động giúp đỡ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **charity shop**:
+"She bought cheap used clothes."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She discovered unique vintage pieces at the local charity shop, knowing her purchase supported community projects."
+> 💡 **Why it works:** "Charity shop" tạo cảm giác về mục đích cao cả hơn "cheap used clothes"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **charity shop** instead of **second-hand shop**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **charity shop:** Bán đồ cũ để từ thiện (VN: cửa hàng từ thiện)
+> **second-hand shop:** Bán đồ cũ vì lợi nhuận (VN: cửa hàng đồ cũ)
+> 🧱 **The Barrier:** Charity shop là social mission, second-hand là commercial purpose (VN: charity shop là sứ mệnh xã hội, second-hand là mục đích thương mại)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to donate clothes they don't wear anymore. You feel supportive. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Great idea! The charity shop downtown would love these donations."
+> 👨‍🎨 **Director's Note:** Charity shop thể hiện sự quan tâm đến cộng đồng (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `caritas` and `sceoppa` to the meaning of **charity shop**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Charity từ Latin caritas "tình yêu", shop từ tiếng Anh cổ sceoppa "ki ốt". Charity shop kết hợp thương mại và tình yêu - nơi mua sắm trở thành cho đi. Như tình yêu hiện hữu qua giao dịch.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **charity shop**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `caritas` (love) + Old English `sceoppa` (shed, booth)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* charitable (nhân từ, từ thiện)
+> - *(noun)* charity (tổ chức từ thiện, lòng nhân ái)
+> - *(verb)* donate (捐赠, tặng cho)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈtʃær.ə.ti ʃɒp/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**charity shop**
+> 📖 **Meaning:** A shop that sells donated second-hand goods to raise money for charitable causes
+> 🇻🇳 **Vietnamese:** Cửa hàng bán đồ đã qua sử dụng để gây quỹ từ thiện
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **charity shop**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I bought this from charity shop"
+> ✅ **Correction:** "I bought this from a charity shop" / "I bought this from the charity shop"
+> 🧠 **Why:** Cần mạo từ "a/the" trước "charity shop"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **charity shop**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[luxury boutique]] (cửa hàng thời trang cao cấp)
+> - [[fast fashion retailer]] (nhà bán lẻ thời trang nhanh)
+> 🧱 **Contrast:** Charity shop sells for social good, luxury/fast fashion sells for profit
 
 ---

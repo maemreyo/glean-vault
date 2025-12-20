@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [hardwearing, hard-wearing, durable, long-lasting, tough, resistant]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /hɑːd ˈweərɪŋ/
+> **Part of Speech:** Adjective
+> **CEFR Level:** B2
+> **Register:** Neutral/Technical
+> **Etymology:** Compound word: "hard" (firm, solid) + "wearing" (from wear, damage through use)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Able to withstand wear or damage through use
+>
+> **Context Meaning:** Designed to last long and resist damage from regular use
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bền, chịu mài mòn
+> - **Contextual:** bền bỉ, chịu được sử dụng nhiều
+>
 > **Nuances:**
-> - ...
+> - Often used for materials, clothing, or equipment
+> - Implies practical durability over aesthetic appeal
+> - Common in product descriptions and technical specifications
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Practical, Resilient, Reliable
+> **Memory Hook:** Think of hiking boots that survive years of mountain trails - they're "hard-wearing"
+> **📖 Etymology Story:** Combines "hard" (from Old English "hard" meaning firm) with "wearing" (from Old English "gerian" - to dress, to wear). Literally something that "wears hard" or resists being worn down
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[wear]] /wɪə(r)/, [[durability]] /ˌdjʊərəˈbɪləti/
+> - **Verb:** [[wear]] /wɪə(r)/, [[withstand]] /wɪðˈstænd/
+> - **Adj:** [[hard-wearing]] /hɑːd ˈweərɪŋ/, [[durable]] /ˈdjʊərəbl/
+> - **Adv:** [[hard-wearingly]] /hɑːd ˈweərɪŋli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[durable]] /ˈdjʊərəbl/ : more common in American English
+> - [[tough]] /tʌf/ : more informal, implies strength
+> - [[resilient]] /rɪˈzɪliənt/ : emphasizes ability to recover
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[fragile]] /ˈfrædʒaɪl/ : easily broken
+> - [[delicate]] /ˈdelɪkət/ : requiring careful handling
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. hard-wearing material
+> 2. hard-wearing fabric
+> 3. hard-wearing shoes
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** These hard-wearing work boots are designed for construction workers.
+> - **Translation:** Đôi ủng bảo hộ lao động bền bỉ này được thiết kế cho công nhân xây dựng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The carpet is made from hard-wearing synthetic fibers perfect for high-traffic areas.
+> - **Translation:** Thảm được làm từ sợi tổng hợp bền bỉ, hoàn hảo cho khu vực có lưu lượng người qua lại cao.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Hyphenation confusion**
+> - ❌ **Mistake:** "hard wearing" (without hyphen when used as adjective)
+> - ✅ **Correction:** "hard-wearing" (with hyphen when before noun)
+> - **Why:** Compound adjectives before nouns need hyphens
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Quality is not expensive, it's priceless. Buy once, buy well - choose hard-wearing materials."
+> **Source:** Traditional craftsmen's wisdom
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **hard-wearing** (*/hɑːd ˈweərɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Designed to withstand frequent use and last a long time without damage
+> 🇻🇳 **Vietnamese:** Bền, chịu mài mòn, bền bỉ
+> 🗣️ **IPA:** */hɑːd ˈweərɪŋ/*
+> 🧠 **Mental Model:** Một vật liệu hoặc sản phẩm có thể sử dụng mãi mà không hỏng - như giày leo núi hay đồ gia dụng chất lượng cao
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Able to resist damage from regular use and last for a long time"
+**Vietnamese:** Có thể chống lại hư hại từ việc sử dụng thường xuyên và tồn tại lâu dài
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**hard-wearing** (*/hɑːd ˈweərɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **hard-wearing** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The restaurant chose hard-wearing tablecloths that could survive daily washing and heavy use.
+> 🇻🇳 **Translation:** Nhà hàng đã chọn những tấm trải bàn bền bỉ có thể chịu được giặt hàng ngày và sử dụng nhiều.
+> 🔍 **Analysis:** "Hard-wearing" nhấn mạnh tính thực tế và độ bền trong môi trường thương mại, nơi vật dụng phải sử dụng liên tục
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **hard-wearing**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Material Description:** hard-wearing material/fabric (vật liệu/vải bền) - VN: mô tả đặc tính vật liệu
+> 2. **Product Type:** hard-wearing shoes/boots (giày/ủng bền) - VN: chỉ sản phẩm cụ thể
+> 3. **Surface Application:** hard-wearing coating/finish (lớp phủ bền) - VN: lớp bảo vệ bề mặt
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **hard-wearing**:
+"The bag is strong and won't break easily."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "This backpack is constructed from hard-wearing nylon canvas designed to withstand extreme weather conditions."
+> 💡 **Why it works:** "Hard-wearing" tạo hình ảnh chuyên nghiệp, kỹ thuật hơn, nhấn mạnh khả năng chịu đựng được thiết kế có chủ đích
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **hard-wearing** instead of **[[strong]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **hard-wearing:** Chỉ khả năng chống mài mòn theo THỜI GIAN - VN: bền lâu, chịu dùng nhiều
+> **strong:** Chỉ sức lực hay sức chịu tại MỘT THỜI ĐIỂM - VN: khỏe, cứng, chịu lực lớn
+> 🧱 **The Barrier:** "Strong" có thể cứng nhưng dễ mòn, "hard-wearing" thì có thể không cứng nhất nhưng bền nhất theo thời gian
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're buying outdoor equipment. The salesperson asks what you need. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I need something hard-wearing that can handle rough terrain and bad weather."
+> 👨‍🎨 **Director's Note:** "Hard-wearing" thể hiện yêu cầu thực tế về độ bền, phù hợp khi mua đồ dùng ngoài trời hoặc dụng cụ lao động
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `hard` + `wearing` to the meaning of **hard-wearing**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Hard" (cứng) từ tiếng Anh cổ nghĩa là kiên định, chắc chắn. "Wearing" (mài mòn) từ quá trình sử dụng làm hao mòn. "Hard-wearing" - thứ mòn một cách "cứng đầu", chống lại quá trình mài mòn tự nhiên của thời gian và sử dụng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **hard-wearing**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `hard` (firm, solid) + Old English `gerian` (to wear)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* hard-wearing, durable, tough, resilient
+> - *(noun)* wear, durability, endurance
+> - *(verb)* wear, withstand, endure
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */hɑːd ˈweərɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**hard-wearing**
+> 📖 **Meaning:** Designed to last long and resist damage from regular use
+> 🇻🇳 **Vietnamese:** Bền, chịu mài mòn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **hard-wearing**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "These hard wearing boots are on sale" (thiếu dấu gạch nối)
+> ✅ **Correction:** "These hard-wearing boots are on sale"
+> 🧠 **Why:** Khi là tính từ ghép đứng trước danh từ, cần dùng dấu gạch nối: hard-wearing boots
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **hard-wearing**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[fragile]] (Dễ vỡ, cần xử lý cẩn thận)
+> - [[disposable]] (Dùng một lần, bỏ được)
+> 🧱 **Contrast:** Trong khi "hard-wearing" tồn tại mãi mãi qua sử dụng, "disposable" được thiết kế để sử dụng một lần rồi bỏ đi - hai khái niệm đối lập trong thiết kế sản phẩm
 
 ---

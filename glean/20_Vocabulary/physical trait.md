@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
 #flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [physical traits, trait, characteristic, feature, attribute, bodily characteristic]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfɪzɪkəl treɪt/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** B2
+> **Register:** Scientific/Academic
+> **Etymology:** From Latin "physicalis" (of nature) + Latin "tractus" (drawing, pull)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A distinguishing quality or characteristic of the body
+>
+> **Context Meaning:** An observable feature or characteristic of an organism's physical appearance or structure
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đặc điểm thể chất
+> - **Contextual:** đặc tính hình thể, đặc điểm ngoại hình
+>
 > **Nuances:**
-> - ...
+> - Often inherited genetically
+> - Can be used in biology, psychology, and anthropology
+> - Distinguishes from behavioral or personality traits
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Scientific, Observable, Distinctive
+> **Memory Hook:** Think of traits that make each person physically unique - like fingerprints
+> **📖 Etymology Story:** "Physical" comes from Greek "physis" (nature), while "trait" comes from Latin "tractare" (to draw/pull). Together they describe the natural features that "pull" or distinguish one organism from another
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[trait]] /treɪt/, [[physicality]] /ˌfɪzɪˈkæləti/
+> - **Verb:** [[characterize]] /ˈkærəktəraɪz/
+> - **Adj:** [[physical]] /ˈfɪzɪkəl/, [[traitorous]] /ˈtreɪtərəs/
+> - **Adv:** [[physically]] /ˈfɪzɪkli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[characteristic]] /ˌkærəktəˈrɪstɪk/ : more general term
+> - [[feature]] /ˈfiːtʃə(r)/ : often refers to facial or prominent attributes
+> - [[attribute]] /ˈætrɪbjuːt/ : quality regarded as characteristic
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[behavioral trait]] /bɪˈheɪvjərəl treɪt/ : relating to behavior rather than appearance
+> - [[personality trait]] /ˌpɜːsəˈnæləti treɪt/ : relating to character rather than body
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. dominant physical trait
+> 2. inherit physical traits
+> 3. distinctive physical trait
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Blue eyes are a recessive physical trait that requires both parents to carry the gene.
+> - **Translation:** Mắt xanh là một đặc điểm thể chất lặn, đòi hỏi cả cha mẹ đều mang gen này.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The cheetah's spotted coat is a physical trait that provides excellent camouflage.
+> - **Translation:** Bộ lốm đốm của báo gêpa là một đặc điểm thể chất giúp ngụy trang tuyệt vời.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with behavioral traits**
+> - ❌ **Mistake:** Describing shyness as a physical trait
+> - ✅ **Correction:** Shyness is a personality or behavioral trait
+> - **Why:** Physical traits relate to the body, not behavior
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Physical traits are the visible characteristics of an organism that can be observed and measured."
+> **Source:** Biology textbook definition
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **physical trait** (*/ˈfɪzɪkəl treɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A distinguishing characteristic or feature of an organism's body that can be observed
+> 🇻🇳 **Vietnamese:** Đặc điểm thể chất, đặc tính hình thể có thể quan sát được
+> 🗣️ **IPA:** */ˈfɪzɪkəl treɪt/*
+> 🧠 **Mental Model:** Những đặc điểm nổi bật trên cơ thể có thể nhìn thấy được như mắt xanh, tóc xoăn, hoặc vân tay
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An observable characteristic or feature of an organism's body"
+**Vietnamese:** Đặc điểm hoặc đặc tính có thể quan sát được của cơ thể sinh vật
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**physical trait** (*/ˈfɪzɪkəl treɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **physical trait** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Height is a physical trait influenced by both genetics and nutrition.
+> 🇻🇳 **Translation:** Chiều cao là một đặc điểm thể chất bị ảnh hưởng bởi cả di truyền và dinh dưỡng.
+> 🔍 **Analysis:** "Physical trait" ở đây nhấn mạnh yếu tố sinh học có thể quan sát và đo lường được, phù hợp trong bối cảnh khoa học hoặc y học
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **physical trait**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Genetic Pattern:** inherit/dominant/recessive physical trait (đặc điểm thể chất di trùyìm/lặn/đặc trưng) - VN: mô tả yếu tố di truyền
+> 2. **Observation:** distinctive/noticeable physical trait (đặc điểm thể chất nổi bật) - VN: nhấn mạnh tính dễ nhận thấy
+> 3. **Scientific Study:** measure/observe physical trait (đo lường/quan sát đặc điểm thể chất) - VN: hành động nghiên cứu
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **physical trait**:
+"She has curly hair."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Her most distinctive physical trait is her naturally curly hair, which she inherited from her grandmother."
+> 💡 **Why it works:** "Physical trait" nâng cấp câu từ mô tả đơn giản sang phân tích khoa học, nhấn mạnh yếu tố di truyền và sự độc đáo
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **physical trait** instead of **[[characteristic]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **physical trait:** Chỉ đặc điểm CỤ THỂ của cơ thể có thể quan sát được - VN: giới hạn trong phạm vi thể chất
+> **characteristic:** Dùng cho BẤT KỲ đặc điểm nào (cả thể chất và tính cách) - VN: phạm vi rộng hơn
+> 🧱 **The Barrier:** "Physical trait" luôn có thể nhìn thấy/đo lường, còn "characteristic" có thể trừu tượng
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a genetics conference. You're explaining inheritance. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Many physical traits follow Mendelian inheritance patterns, making them predictable across generations."
+> 👨‍🎨 **Director's Note:** "Physical trait" thể hiện tính chuyên môn và chính xác trong bối cảnh khoa học, phù hợp với hội nghị di truyền học
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `physicalis` (of nature) + `tractus` (drawing) to **physical trait**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Physical" từ Latin "physicalis" (thuộc về tự nhiên), "trait" từ "tractus" (vẽ, kéo). Kết hợp lại, "physical trait" là những đặc điểm tự nhiên "kéo" hoặc phân biệt một sinh vật với sinh vật khác - như những nét vẽ độc đáo trên cơ thể
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **physical trait**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `physis` (nature) + Latin `tractus` (drawing, pull)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* trait, characteristic, feature, attribute
+> - *(adj)* physical, physiological, anatomical
+> - *(verb)* characterize, distinguish, inherit
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfɪzɪkəl treɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**physical trait**
+> 📖 **Meaning:** An observable characteristic of an organism's body
+> 🇻🇳 **Vietnamese:** Đặc điểm thể chất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **physical trait**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Kindness is her best physical trait" (nhầm lẫn loại đặc điểm)
+> ✅ **Correction:** "Kindness is her best personality trait"
+> 🧠 **Why:** "Physical trait" chỉ đặc điểm cơ thể, "personality trait" mới chỉ tính cách, hành vi
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **physical trait**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[behavioral trait]] (Đặc điểm hành vi, không thể thấy)
+> - [[personality trait]] (Đặc điểm tính cách, bên trong)
+> 🧱 **Contrast:** Trong khi "physical trait" là những gì có thể quan sát bên ngoài, "personality trait" là những đặc điểm bên trong không thể nhìn thấy
 
 ---

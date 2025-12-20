@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 #flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [drag out of bed, drag oneself out of bed, get out of bed reluctantly, struggle to get up]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈdræɡ.ɪŋ jɔːˈself ˈaʊt əv bed/
+> **Part of Speech:** phrasal verb/reflexive expression
+> **CEFR Level:** B2
+> **Register:** informal
+> **Etymology:** Drag from Old English dragan "to draw, pull"; bed from Old English bedd
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:**
+> To force yourself to get out of bed with great difficulty
+>
+> **Context Meaning:**
+> 1. Getting up from bed when feeling extremely tired or reluctant
+> 2. Overcoming reluctance to start the day
+> 3. Physical struggle against fatigue or lack of motivation
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** lôi mình khỏi giường, vật lộn ra khỏi giường
+> - **Contextual:** dậy đúng kiểu cực nhọc, không muốn dậy nhưng phải dậy
+>
 > **Nuances:**
-> - ...
+> - Implies extreme reluctance or exhaustion
+> - Physical metaphor for mental/emotional resistance
+> - Often used humorously or with self-deprecation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Exhausted, Reluctant, Forced
+> **Memory Hook:** Picture yourself literally dragging your heavy body out of bed like pulling a heavy weight
+> **📖 Etymology Story:** From Old English dragan "to pull" - the image of physically pulling something heavy. When we "drag ourselves out of bed," we're pulling our reluctant bodies against the force of exhaustion or comfort. Like dragging treasure from a deep pit, sometimes the greatest victory is just getting up.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - **Verb:** [[drag]] /dræɡ/
+> - **Noun:** [[bed]] /bed/
+>
+> **Related Expressions:**
+> - [[get out of bed on the wrong side]] : wake up in a bad mood
+> - [[hit the snooze button]] : delay getting up
+> - [[burn the midnight oil]] : stay up late
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[jump out of bed]] : get up eagerly
+> - [[spring out of bed]] : get up quickly and energetically
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. dragging yourself out of bed at dawn
+> 2. literally dragging yourself out of bed
+> 3. could barely drag yourself out of bed
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** After working until 3 AM, I was dragging myself out of bed at 7 for the meeting.
+> - **Translation:** Sau khi làm việc đến 3 giờ sáng, tôi đã vật lộn lôi mình khỏi giường lúc 7 giờ để đi họp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** On Monday mornings, most office workers feel like they're dragging themselves out of bed.
+> - **Translation:** Vào sáng thứ Hai, hầu hết nhân viên văn phòng cảm thấy như thể họ đang vật lộn để dậy.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Reflexive Pronoun**
+> - ❌ **Mistake:** I'm dragging out of bed.
+> - ✅ **Correction:** I'm dragging myself out of bed.
+> - **Why:** Need reflexive pronoun "myself/yourself/etc." after "dragging"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The early bird catches the worm, but sometimes even the bird has to drag itself out of the nest."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +84,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **dragging yourself out of bed** (*/ˈdræɡ.ɪŋ jɔːˈself ˈaʊt əv bed/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To force yourself to get out of bed with great difficulty due to exhaustion or reluctance
+> 🇻🇳 **Vietnamese:** Vật lộn/lôi mình ra khỏi giường với khó khăn lớn do mệt mỏi hoặc không muốn
+> 🗣️ **IPA:** */ˈdræɡ.ɪŋ jɔːˈself ˈaʊt əv bed/*
+> 🧠 **Mental Model:** Hình dung kéo cơ thể nặng nề khỏi giường - đó là dragging yourself out of bed
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To force yourself to get out of bed with great difficulty"
+**Vietnamese:** Ép mình dậy khỏi giường với sự khó khăn lớn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**dragging yourself out of bed** (*/ˈdræɡ.ɪŋ jɔːˈself ˈaʊt əv bed/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **dragging yourself out of bed** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After the night shift, she was literally dragging herself out of bed for her daughter's school play.
+> 🇻🇳 **Translation:** Sau ca đêm, cô ấy thực sự vật lộn để dậy đi xem vở kịch của con gái ở trường.
+> 🔍 **Analysis:** Dragging yourself out of bed thể hiện sự mệt mỏi tột cùng nhưng vẫn có trách nhiệm
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **dragging yourself out of bed**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Time:** at dawn/early (sáng sớm - thời điểm khó khăn nhất)
+> 2. **Intensity:** literally/barely (thực sự/hầu như không thể - nhấn mạnh mức độ)
+> 3. **Frequency:** every morning (mỗi sáng - thói quen mệt mỏi)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **dragging yourself out of bed**:
+"It was hard to wake up."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "After three hours of sleep, dragging yourself out of bed felt like climbing Mount Everest."
+> 💡 **Why it works:** "Dragging yourself out of bed" tạo hình ảnh sống động về sự khó khăn hơn "hard to wake up"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **dragging yourself out of bed** instead of **getting up late**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **dragging yourself out of bed:** Vật lộn dậy dù có thể đúng giờ (VN: vật lộn dậy)
+> **getting up late:** Dậy trễ, không phải vật lộn (VN: dậy muộn)
+> 🧱 **The Barrier:** Dragging là internal struggle, late là time issue (VN: dragging là cuộc đấu tranh nội tâm, late là vấn đề thời gian)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks how you feel this morning after studying all night. You feel exhausted. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Ugh, I was dragging myself out of bed this morning. I need coffee!"
+> 👨‍🎨 **Director's Note:**Dragging yourself out of bed thể hiện sự kiệt sức (VN)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `dragan` and `bedd` to the meaning of **dragging yourself out of bed**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Drag từ tiếng Anh cổ dragan "kéo". Khi "dragging yourself out of bed", ta kéo cơ thể không muốn nổi chống lại sức mệt. Như kéo kho báu từ hố sâu, đôi khi chiến thắng lớn nhất chỉ là dậy thôi.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **dragging yourself out of bed**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English `dragan` (to pull) + `bedd` (bed)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* drag (kéo, lê)
+> - *(phrase)* drag one's feet (chần chừ, không muốn làm)
+> - *(idiom)* drag someone through the mud (bôi nhọ ai đó)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈdræɡ.ɪŋ jɔːˈself ˈaʊt əv bed/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**dragging yourself out of bed**
+> 📖 **Meaning:** To force yourself to get out of bed with great difficulty
+> 🇻🇳 **Vietnamese:** Ép mình dậy khỏi giường với sự khó khăn lớn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **dragging yourself out of bed**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "He dragging himself out of bed"
+> ✅ **Correction:** "He's dragging himself out of bed" / "He was dragging himself out of bed"
+> 🧠 **Why:** Cần trợ động từ be + -ing hoặc quá khứ tiếp diễn
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **dragging yourself out of bed**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[jumping out of bed]] (nhảy khỏi giường)
+> - [[springing out of bed]] (bật dậy khỏi giường)
+> 🧱 **Contrast:** Dragging is reluctant effort, jumping/springing is eager energy
 
 ---

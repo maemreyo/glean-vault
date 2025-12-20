@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [apparent, apparently, evidently, seemingly, obviously, clearly, it appears that, it seems that]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈpærəntli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B1
+> **Register:** formal/informal
+> **Etymology:** From "apparent" + "-ly"; from Latin "apparens" meaning "visible, appearing"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In a way that seems to be true, based on appearance or evidence
+>
+> **Context Meaning:** As far as one knows or can judge; based on what seems to be true; seemingly
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** rõ ràng, hiển nhiên
+> - **Contextual:** dường như, có vẻ, theo như có vẻ
+>
 > **Nuances:**
-> - ...
+> - Introduces information that may be surprising or unexpected
+> - Often indicates the speaker is reporting what they've heard/seen
+> - Can imply slight uncertainty or distance from the fact
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Observational, Cautious, Informative
+> **Memory Hook:** Ap + parent + ly = appears to parent = seems like
+> **📖 Etymology Story:** Latin "apparens" meant "coming into view" - something becoming visible. "Apparently" evolved to mean "as it appears to be," like a detective saying "Apparently, the butler did it" based on visible evidence.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adv:** [[apparently]] /əˈpærəntli/
+> - **Adj:** [[apparent]] /əˈpærənt/
+> - **Verb:** [[appear]] /əˈpɪr/
+> - **Noun:** [[appearance]] /əˈpɪrəns/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[seemingly]] /ˈsiːmɪŋli/ : based on appearance
+> - [[evidently]] /ˈɛvɪdəntli/ : based on evidence
+> - [[supposedly]] /səˈpoʊzɪdli/ : claiming but not proven
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[actually]] /ˈæktʃuəli/ : in reality
+> - [[certainly]] /ˈsɜːrtənli/ : without doubt
+> - [[definitely]] /ˈdɛfɪnətli/ : without question
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. apparently unaware/ignorant
+> 2. quite/completely apparently
+> 3. apparently + [clause]
+>
+> **1. Reporting Information**
+> - **Sentence:** Apparently, the meeting has been postponed until next week.
+> - **Translation:** Dường như, cuộc họp đã được dời sang tuần tới.
+>
+> **2. Expressing Surprise**
+> - **Sentence:** She was apparently unaware of the changes to the schedule.
+> - **Translation:** Cô ấy dường như không biết về những thay đổi trong lịch trình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse**
+> - ❌ **Mistake:** Apparently, I went to the store. Apparently, I bought milk. Apparently, I came home.
+> - ✅ **Correction:** I went to the store and bought milk, then came home.
+> - **Why:** "Apparently" should be used sparingly, not for every simple fact
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Apparently there is nothing that cannot happen today."
+> **Source:** [[Mark Twain]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **apparently** (*/əˈpærəntli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** As far as one knows; based on what seems to be true but may not be completely certain
+> 🇻🇳 **Vietnamese:** Dường như, có vẻ, theo như có vẻ
+> 🗣️ **IPA:*/əˈpærəntli/*
+> 🧠 **Mental Model:** Nhìn bề ngoài thì có vẻ vậy - nhưng chưa chắc 100% đúng, như "it looks like" but more formal
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Based on what seems to be true; seemingly"
+**Vietnamese:** Dựa trên những gì có vẻ đúng; dường như
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**apparently** (*/əˈpærəntli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **apparently** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The company's new policy, apparently designed to improve efficiency, has actually decreased productivity.
+> 🇻🇳 **Translation:** Chính sách mới của công ty, dường như được thiết kế để cải thiện hiệu quả, thực chất lại làm giảm năng suất.
+> 🔍 **Analysis:** "Apparently" được dùng ở đây để introduce một unexpected contradiction - nó signals rằng speaker đang reporting information có thể gây surprise cho listener
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **apparently**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Knowledge:** apparently unaware (dường như không biết - VN: lack of awareness)
+> 2. **Surprise:** apparently, no one knew (dường như không ai biết - VN: unexpected information)
+> 3. **Reporting:** apparently, he quit (dường như anh ấy đã nghỉ - VN: reporting secondhand info)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **apparently**:
+"It looks like he won the competition."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Apparently, against all odds, the underdog secured victory in the championship finals."
+> 💡 **Why it works:** "Apparently" formal hơn "it looks like" và adds element của reporting information, "against all odds" adds dramatic context
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **apparently** instead of **[[obviously]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **apparently:** Dùng khi nói về cái gì đó có vẻ đúng nhưng chưa chắc chắn (VN: dường như, có vẻ)
+> **[[obviously]]:** Dùng khi nói về cái gì đó rõ ràng, không thể chối cãi (VN: hiển nhiên, rõ ràng)
+> 🧱 **The Barrier:** Apparently = based on appearance/evidence (could be wrong), Obviously = clearly true (cannot be wrong)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is explaining why they were late. Use **apparently** to show you're listening but slightly doubtful.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "So apparently there was a 'major traffic jam' that made you 30 minutes late?"
+> 👨‍🎨 **Director's Note:** Sarcasm/skepticism - "apparently" trong quotes shows you're repeating their explanation nhưng not completely believing
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `apparens` to the meaning of **apparently**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "apparens" (appearing, visible) → "apparent" (clear, visible) → "apparently" (visibly, seemingly) - từ "coming into view" thành "seeming to be"
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **apparently**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `apparere` (to appear)
+> 👨‍👩‍👧 **Family:**
+> - *(adv)* apparently
+> - *(adj)* apparent
+> - *(verb)* appear
+> - *(noun)* appearance
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈpærəntli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**apparently**
+> 📖 **Meaning:** As far as one can judge
+> 🇻🇳 **Vietnamese:** Dựa trên phán đoán
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **apparently**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Apparently, the sky is blue. (obvious fact)
+> ✅ **Correction:** The sky is blue. (simple fact)
+> 🧠 **Why:** "Apparently" dùng cho information không hoàn toàn certain hoặc có element of surprise - không dùng cho obvious universal truths
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of saying something **apparently**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Concepts:**
+> - [[actually]] (thực sự - opposite of seeming)
+> - [[certainly]] (chắc chắn - opposite of uncertainty)
+> 🧱 **Contrast:** Apparently introduces potential doubt; opposite is stating something with certainty and confirmed facts
 
 ---
