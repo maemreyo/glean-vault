@@ -1,129 +1,110 @@
 #flashcards/structure/grammar-foundation
-<!--
-Select one of the following tags to replace the line above:
-
-# Grammar Foundation
-#flashcards/structure/grammar-foundation/comparison
-#flashcards/structure/grammar-foundation/conditional
-#flashcards/structure/grammar-foundation/passive-voice
-#flashcards/structure/grammar-foundation/cohesion
-
-# Writing Patterns (Task 1)
-#flashcards/structure/writing-patterns/task-1/trend-language
-#flashcards/structure/writing-patterns/task-1/comparative-language
-#flashcards/structure/writing-patterns/task-1/map-describing
-#flashcards/structure/writing-patterns/task-1/process-cycle
-
-# Writing Patterns (Task 2)
-#flashcards/structure/writing-patterns/task-2/introduction-templates
-#flashcards/structure/writing-patterns/task-2/opinion-argumentation
-#flashcards/structure/writing-patterns/task-2/problem-solution-patterns
-#flashcards/structure/writing-patterns/task-2/counter-argument
-
-# Speaking Patterns
-#flashcards/structure/speaking-patterns/part-1
-#flashcards/structure/speaking-patterns/part-2
-#flashcards/structure/speaking-patterns/part-3
--->
-
 ---
 tags:
   - structure
-aliases: [] # common variations or shortened forms of the pattern
-status: pending
+aliases: [looks great on me, looked great on me, looking great on me, will look great on me]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Structural Analysis
-> **Structure Type:** (Question / Statement / Idiom / Pattern)
-> 
+> **Structure Type:** Pattern (Expression of appearance judgment)
+>
 > **Formula / Pattern:**
 > ```text
-> [Subject] + [Verb] + ...
+> [Subject/Noun] + [look(s)] + [great/good/wonderful] + on + [me/him/her/you/etc.]
 > ```
-> 
+>
 > **Components:**
-> - **Component 1:** ...
-> - **Component 2:** ...
+> - **Subject/Noun:** The clothing item, hairstyle, or accessory being evaluated
+> - **Verb of appearance:** look(s) (can be replaced with seem, appear)
+> - **Adjective of quality:** great/good/wonderful/fantastic/amazing
+> - **Preposition:** on (showing the person wearing it)
+> - **Pronoun/Object:** The person wearing the item
 >
 > **Formation Rules:**
-> 1. Rule 1...
-> 2. Rule 2...
+> 1. Subject-verb agreement: "The dress looks..." vs "The shoes look..."
+> 2. Preposition "on" is used for wearing/accessorizing (NOT "in")
+> 3. Adjective comes between verb and preposition
+> 4. Can express past/future with appropriate tense
 
 > [!abstract] Meaning & Usage
 > **Core Meaning:**
-> - **Literal:** ...
-> - **Figurative:** ...
-> 
+> - **Literal:** The visual appearance of something when worn by someone
+> - **Figurative:** A judgment about how something enhances or complements someone's appearance
+>
 > **Functional Meaning:**
-> - **Purpose:** (e.g., to emphasize, to suggest)
-> - **Nuance:** (formal vs informal, intensity)
-> 
+> - **Purpose:** To compliment someone's choice of clothing/accessory
+> - **Nuance:** Casual, friendly, often used when shopping or giving feedback
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** nhìn tuyệt/vẻ/lớn lao trên tôi/bạn/anh ấy...
+> - **Contextual:** Mặc cái này rất hợp/đẹp/hợp với bạn
 
 > [!note] Relations & Connections
 > **Synonyms / Similar Structures:**
-> - [[ word ]] /IPA/ : meaning
-> 
+> - [[suit me well]] /suːt miː wel/ : fits me well, matches my style
+> - [[fits me perfectly]] /fɪts miː ˈpɜːrfɪktli/ : exact size match
+> - [[goes well with]] /ɡoʊz wel wɪð/ : matches well with
+>
 > **Antonyms / Contrasting Structures:**
-> - [[ word ]] /IPA/ : meaning
+> - [[doesn't suit me]] /dʌznt suːt miː/ : doesn't match my appearance
+> - [[look awful on]] /lʊk ˈɔːfəl ɒn/ : looks terrible on someone
 
 > [!success] Usage Examples
-> 
+>
 > **1. Formal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** That tailored blazer looks great on you for the interview.
+> - **Translation:** Chiếc áo khoét may đo đó trông rất chuyên nghiệp khi bạn mặc đi phỏng vấn.
+> - **Analysis:** Used in a professional setting to give a polished compliment.
+>
 > **2. Informal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** Wow, those sneakers look great on me! I'm buying them.
+> - **Translation:** Oa, đôi giày này mình đi nhìn tuyệt thật! Mình sẽ mua nó.
+> - **Analysis:** Casual shopping context, expressing personal satisfaction with appearance.
+>
 > **3. Business/Academic Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
+> - **Sentence:** The new presentation template looks great on screen and maintains brand consistency.
+> - **Translation:** Mẫu trình bày mới trông rất chuyên nghiệp trên màn hình và giữ được sự nhất quán của thương hiệu.
+> - **Analysis:** Extended metaphorical use beyond clothing to visual design elements.
 
 > [!failure] Common Mistakes
-> 
-> **1. Pattern Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
-> 
-> **2. Usage Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+>
+> **1. Preposition Error**
+> - ❌ **Mistake:** That dress looks great **in** me.
+> - ✅ **Correction:** That dress looks great **on** me.
+> - **Why:** "On" indicates something being worn/accessorized, while "in" would imply containment.
+>
+> **2. Word Order Error**
+> - ❌ **Mistake:** On me looks great that shirt.
+> - ✅ **Correction:** That shirt looks great on me.
+> - **Why:** English follows SVO (Subject-Verb-Object) structure, not OSV.
 
 > [!tip] Learning Strategies
-> - **Visual Association:** ...
-> - **Memory Hook:** ...
-> - **Common Collocations:** ...
-> - **Related Structures:** [[ ]] vs [[ ]]
+> - **Visual Association:** Picture someone looking in a mirror while trying on clothes
+> - **Memory Hook:** Think of items sitting "on" a person like ornaments on a Christmas tree
+> - **Common Collocations:** looks good/great/amazing/wonderful/fantastic on
+> - **Related Structures:** [[look great on me]] vs [[suit me well]] - appearance vs style match
 
 > [!quote]- Meta Information
 > | Property | Value |
 > | :--- | :--- |
-> | **Complexity** | (basic/intermediate/advanced) |
-> | **CEFR Level** | (A1/A2/B1/B2/C1/C2) |
-> | **Frequency** | (common/uncommon/rare) |
-> | **Register** | (formal/informal/academic/business) |
-> | **Grammar Focus** | ... |
+> | **Complexity** | basic |
+> | **CEFR Level** | A2-B1 |
+> | **Frequency** | common |
+> | **Register** | informal/business casual |
+> | **Grammar Focus** | prepositions of wearing, appearance verbs |
 
 ---
 
 ## 🧩 Context Analysis (Advanced)
 
 > [!example] Original Source
-> **Quote:** ...
-> **Context:** ...
-> **Effectiveness:** ...
+> **Quote:** "That color really looks great on you."
+> **Context:** Personal stylist advising a client during wardrobe consultation
+> **Effectiveness:** Direct, positive feedback that builds trust and confidence
 
 ---
 
@@ -131,89 +112,89 @@ ref:
 
 ### Card 1: Pattern Recognition
 
-🧩 **Pattern Analysis:** What is the structure pattern for **{{STRUCTURE_NAME}}**?
+🧩 **Pattern Analysis:** What is the structure pattern for **look great on me**?
 ?
-> 🏗️ **Structure:** [Component 1] + [Component 2] ...
-> 🧠 **Logic:** <VN Logic for remembering this pattern>
+> 🏗️ **Structure:** [Noun/Clothing Item] + [look/looks] + [adjective] + on + [pronoun]
+> 🧠 **Logic:** Đồ vật + động từ chỉ vẻ ngoài + tính từ + preposition "on" (trên) + người mặc
 
 ---
 
 ### Card 2: Functional Meaning
 
-🤔 **Meaning:** What does **{{STRUCTURE_NAME}}** express?
+🤔 **Meaning:** What does **look great on me** express?
 ?
-> 📖 **Function:** <Definition/Function>
-> 💡 **Core Vibe:** <Short VN explanation of the "feeling" (e.g., formal regret, polite suggestion)>
+> 📖 **Function:** To compliment how something enhances someone's appearance when worn
+> 💡 **Core Vibe:** Lời khen tích cực về ngoại hình khi mặc đồ - "trông hợp/đẹp lắm!"
 
 ---
 
 ### Card 3: Contextual Usage
 
-❓ **Usage:** When should you use **{{STRUCTURE_NAME}}**?
+❓ **Usage:** When should you use **look great on me**?
 ?
-> 📝 **Context:** <Usage Context (Formal/Informal/Academic)>
-> 🚦 **Signal:** <When to trigger this structure? (VN explanation)>
+> 📝 **Context:** Shopping, giving compliments, fashion advice, casual conversations
+> 🚦 **Signal:** Khi đang đánh giá ngoại hình của ai đó khi mặc/đeo một vật gì đó
 
 ---
 
 ### Card 4: Example & Analysis
 
-✍️ **Production:** Create a sentence with **{{STRUCTURE_NAME}}** about <topic>
+✍️ **Production:** Create a sentence with **look great on me** about trying on sunglasses
 ?
-> 🧪 **Example:** <Example Sentence>
-> 🔍 **Analysis:** <Why this structure works here (VN/EN mix)>
+> 🧪 **Example:** These aviator sunglasses look great on me!
+> 🔍 **Analysis:** Structure hoạt động hoàn hảo khi đánh giá phụ kiện - mắt tàu (aviator sunglasses) là chủ ngữ, "look" là động từ, "great" là tính từ mô tả, "on me" chỉ người đang đeo.
 
 ---
 
 ### Card 5: Error Correction
 
-🕵️ **Spot the Error:** What's wrong with: "<Incorrect Sentence>"
+🕵️ **Spot the Error:** What's wrong with: "That shirt looks great in you"
 ?
-> 🛠️ **Correction:** <Correct Sentence>
-> 🚫 **Trap:** <Explain the common mistake in VN>
+> 🛠️ **Correction:** That shirt looks great on you.
+> 🚫 **Trap:** Sai preposition - "in" dùng cho không gian chứa còn "on" dùng cho vật mặc/đeo trên người
 
 ---
 
 ### Card 6: Comparison (Nuance)
 
-🆚 **Comparison:** How is **{{STRUCTURE_NAME}}** different from [[<related_structure>]]?
+🆚 **Comparison:** How is **look great on me** different from [[suit me well]]?
 ?
-> ⚖️ **Difference:** <Detailed comparison (VN/EN mix)>
-> 🧱 **The Barrier:** <The key distinction>
+> ⚖️ **Difference:** "Look great on me" focuses on immediate visual appearance, while "suit me well" implies long-term style compatibility and appropriateness
+> 🧱 **The Barrier:** Appearance vs Style fit - đẹp ngay tức thì vs phù hợp phong cách tổng thể
 
 ---
 
 ### Card 7: Transformation
 
-🔄 **Transformation:** Transform this sentence using **{{STRUCTURE_NAME}}**: "<Source Sentence>"
+🔄 **Transformation:** Transform this sentence using **look great on me**: "This tie matches my shirt perfectly."
 ?
-> 🔄 **Result:** <Target Sentence>
-> 🧠 **Shift:** <What changed in the meaning/nuance? (VN)>
+> 🔄 **Result:** This tie looks great on me with this shirt.
+> 🧠 **Shift:** Từ sự kết hợp (match) chuyển sang đánh giá ngoại hình tổng thể (look great)
 
 ---
 
 ### Card 8: Writer's Rewrite (Upgrade)
 
-✍️ **Rewrite:** Upgrade this boring sentence using **{{STRUCTURE_NAME}}**: "<Basic Sentence>"
+✍️ **Rewrite:** Upgrade this boring sentence using **look great on me**: "The dress fits you."
 ?
-> 🖋️ **Improved:** "<Advanced Sentence>"
-> 💡 **Effect:** <Explain stylistic improvement in VN>
+> 🖋️ **Improved:** "That evening dress looks absolutely great on you!"
+> 💡 **Effect:** Nâng cấp từ câu mô tả đơn giản sang lời khen đầy cảm xúc và cụ thể hơn
 
 ---
 
 ### Card 9: Metaphor Deconstruction
 
-🧩 **Deconstruct:** In **{{STRUCTURE_NAME}}**, what does "<word/part>" imply?
+🧩 **Deconstruct:** In **look great on me**, what does "on" imply?
 ?
-> 🔍 **Insight:** <Analysis of metaphorical imagery (VN/EN mix)>
+> 🔍 **Insight:** "On" here acts like a display surface - the person becomes a living mannequin showing off the item. It implies the item is being presented/displayed by the person, not contained within them.
 
 ---
 
 ### Card 10: Scenario Reaction (Emotive)
 
-🎭 **Scenario:** <Drama/High-stakes Situation>. You feel <Emotion>. Use **{{STRUCTURE_NAME}}**!
+🎭 **Scenario:** Your best friend tries on a wedding dress for the first time. You're emotional and excited. Use **look great on me**!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this captures the emotion (VN)>
+> 🎬 **Line:** "Oh my goodness! That dress looks absolutely amazing on you! You're going to be the most beautiful bride!"
+> 👨‍🎨 **Director's Note:** Cấu trúc này thể hiện sự ngạc nhiên và xúc động, lời khen chân thành trong khoảnh khắc quan trọng
 
 ---

@@ -1,129 +1,111 @@
 #flashcards/structure/grammar-foundation
-<!--
-Select one of the following tags to replace the line above:
-
-# Grammar Foundation
-#flashcards/structure/grammar-foundation/comparison
-#flashcards/structure/grammar-foundation/conditional
-#flashcards/structure/grammar-foundation/passive-voice
-#flashcards/structure/grammar-foundation/cohesion
-
-# Writing Patterns (Task 1)
-#flashcards/structure/writing-patterns/task-1/trend-language
-#flashcards/structure/writing-patterns/task-1/comparative-language
-#flashcards/structure/writing-patterns/task-1/map-describing
-#flashcards/structure/writing-patterns/task-1/process-cycle
-
-# Writing Patterns (Task 2)
-#flashcards/structure/writing-patterns/task-2/introduction-templates
-#flashcards/structure/writing-patterns/task-2/opinion-argumentation
-#flashcards/structure/writing-patterns/task-2/problem-solution-patterns
-#flashcards/structure/writing-patterns/task-2/counter-argument
-
-# Speaking Patterns
-#flashcards/structure/speaking-patterns/part-1
-#flashcards/structure/speaking-patterns/part-2
-#flashcards/structure/speaking-patterns/part-3
--->
-
 ---
 tags:
   - structure
-aliases: [] # common variations or shortened forms of the pattern
-status: pending
+aliases: [runs the class, ran the class, running the class, will run the class]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Structural Analysis
-> **Structure Type:** (Question / Statement / Idiom / Pattern)
-> 
+> **Structure Type:** Phrasal Verb (Expression of teaching/leading)
+>
 > **Formula / Pattern:**
 > ```text
-> [Subject] + [Verb] + ...
+> [Subject] + run/runs/ran + the + class/course/session/workshop/seminar
 > ```
-> 
+>
 > **Components:**
-> - **Component 1:** ...
-> - **Component 2:** ...
+> - **Subject:** The person conducting the teaching session
+> - **Verb:** run (in appropriate tense)
+> - **Article:** the (can sometimes be replaced with "a" or possessive)
+> - **Object:** class/course/session/workshop/seminar/meeting
 >
 > **Formation Rules:**
-> 1. Rule 1...
-> 2. Rule 2...
+> 1. "Run" here means to conduct, manage, or lead
+> 2. Tense changes based on when the class occurred
+> 3. Can add adverbs: successfully, efficiently, smoothly
+> 4. Can add modifiers before "class": entire, whole, first
+> 5. Object can vary: class, course, session, workshop, program
 
 > [!abstract] Meaning & Usage
 > **Core Meaning:**
-> - **Literal:** ...
-> - **Figurative:** ...
-> 
+> - **Literal:** To physically operate a class session
+> - **Figurative:** To manage, lead, or conduct an educational or training session
+>
 > **Functional Meaning:**
-> - **Purpose:** (e.g., to emphasize, to suggest)
-> - **Nuance:** (formal vs informal, intensity)
-> 
+> - **Purpose:** To indicate responsibility for teaching or managing a group session
+> - **Nuance:** Implies organization, leadership, and active management
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** chạy lớp học/giảng dạy/lớp
+> - **Contextual:** điều hành lớp, đứng lớp, giảng dạy, phụ trách lớp học
 
 > [!note] Relations & Connections
 > **Synonyms / Similar Structures:**
-> - [[ word ]] /IPA/ : meaning
-> 
+> - [[teach the class]] /tiːtʃ ðə klæs/ : instruct the class
+> - [[lead the session]] /liːd ðə ˈseʃn/ : guide the meeting/class
+> - [[conduct the workshop]] /kənˈdʌkt ðə ˈwɜːrkʃɑːp/ : formally manage a workshop
+>
 > **Antonyms / Contrasting Structures:**
-> - [[ word ]] /IPA/ : meaning
+> - [[take the class]] /teɪk ðə klæs/ : attend as a student
+> - [[sit in on]] /sɪt ɪn ɒn/ : observe a class
+> - [[assist with]] /əˈsɪst wɪð/ : help with teaching
 
 > [!success] Usage Examples
-> 
+>
 > **1. Formal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** Professor Johnson will run the advanced seminar next semester.
+> - **Translation:** Giáo sư Johnson sẽ phụ trách seminar cao cấp vào học kỳ tới.
+> - **Analysis:** Academic context indicating responsibility for course leadership.
+>
 > **2. Informal Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
-> 
+> - **Sentence:** Sarah's running the yoga class tonight if you want to join.
+> - **Translation:** Tối nay Sarah đứng lớp yoga nếu bạn muốn tham gia.
+> - **Analysis:** Casual context showing informal teaching arrangement.
+>
 > **3. Business/Academic Context**
-> - **Sentence:** ...
-> - **Translation:** ...
-> - **Analysis:** ...
+> - **Sentence:** I need to prepare materials before I run the training session tomorrow.
+> - **Translation:** Tôi cần chuẩn bị tài liệu trước khi điều hành buổi đào tạo vào ngày mai.
+> - **Analysis:** Professional context emphasizing preparation aspect of running classes.
 
 > [!failure] Common Mistakes
-> 
-> **1. Pattern Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
-> 
-> **2. Usage Error**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+>
+> **1. Incorrect Preposition**
+> - ❌ **Mistake:** I will run **in** the class.
+> - ✅ **Correction:** I will run the class.
+> - **Why:** "Run the class" is transitive - no preposition needed between verb and object.
+>
+> **2. Wrong Verb Choice**
+> - ❌ **Mistake:** I will make the class.
+> - ✅ **Correction:** I will run the class.
+> - **Why:** "Make" implies creation, while "run" implies management/conducting.
 
 > [!tip] Learning Strategies
-> - **Visual Association:** ...
-> - **Memory Hook:** ...
-> - **Common Collocations:** ...
-> - **Related Structures:** [[ ]] vs [[ ]]
+> - **Visual Association:** Picture a conductor leading an orchestra
+> - **Memory Hook:** Think of "running" like managing a small operation or business
+> - **Common Collocations:** run smoothly/efficiently/successfully, run the entire class
+> - **Related Structures:** [[run the class]] vs [[attend the class]] - teacher vs student role
 
 > [!quote]- Meta Information
 > | Property | Value |
 > | :--- | :--- |
-> | **Complexity** | (basic/intermediate/advanced) |
-> | **CEFR Level** | (A1/A2/B1/B2/C1/C2) |
-> | **Frequency** | (common/uncommon/rare) |
-> | **Register** | (formal/informal/academic/business) |
-> | **Grammar Focus** | ... |
+> | **Complexity** | intermediate |
+> | **CEFR Level** | B1-B2 |
+> | **Frequency** | common |
+> | **Register** | formal/informal |
+> | **Grammar Focus** | phrasal verbs, transitive usage |
 
 ---
 
 ## 🧩 Context Analysis (Advanced)
 
 > [!example] Original Source
-> **Quote:** ...
-> **Context:** ...
-> **Effectiveness:** ...
+> **Quote:** "She runs the class with such energy and enthusiasm that students always leave inspired."
+> **Context:** Department head praising teacher's performance
+> **Effectiveness:** Highlights both responsibility and quality of teaching approach
 
 ---
 
@@ -131,89 +113,89 @@ ref:
 
 ### Card 1: Pattern Recognition
 
-🧩 **Pattern Analysis:** What is the structure pattern for **{{STRUCTURE_NAME}}**?
+🧩 **Pattern Analysis:** What is the structure pattern for **run the class**?
 ?
-> 🏗️ **Structure:** [Component 1] + [Component 2] ...
-> 🧠 **Logic:** <VN Logic for remembering this pattern>
+> 🏗️ **Structure:** [Subject] + run/runs/ran + the + [class/course/session/workshop]
+> 🧠 **Logic:** Chủ ngữ + động từ "run" (điều hành) + mạo từ + đối tượng (lớp học/buổi học)
 
 ---
 
 ### Card 2: Functional Meaning
 
-🤔 **Meaning:** What does **{{STRUCTURE_NAME}}** express?
+🤔 **Meaning:** What does **run the class** express?
 ?
-> 📖 **Function:** <Definition/Function>
-> 💡 **Core Vibe:** <Short VN explanation of the "feeling" (e.g., formal regret, polite suggestion)>
+> 📖 **Function:** To indicate responsibility for conducting, managing, or leading an educational session
+> 💡 **Core Vibe:** Vai trò người điều hành - "đứng lớp", "phụ trách", "điều hành"
 
 ---
 
 ### Card 3: Contextual Usage
 
-❓ **Usage:** When should you use **{{STRUCTURE_NAME}}**?
+❓ **Usage:** When should you use **run the class**?
 ?
-> 📝 **Context:** <Usage Context (Formal/Informal/Academic)>
-> 🚦 **Signal:** <When to trigger this structure? (VN explanation)>
+> 📝 **Context:** Describing teaching responsibilities, planning sessions, assigning instructors
+> 🚦 **Signal:** Khi nói về việc giảng dạy, điều hành lớp học, hoặc phụ trách một buổi học/training
 
 ---
 
 ### Card 4: Example & Analysis
 
-✍️ **Production:** Create a sentence with **{{STRUCTURE_NAME}}** about <topic>
+✍️ **Production:** Create a sentence with **run the class** about a substitute teacher
 ?
-> 🧪 **Example:** <Example Sentence>
-> 🔍 **Analysis:** <Why this structure works here (VN/EN mix)>
+> 🧪 **Example:** When the main teacher was sick, Mr. Smith ran the class for the day.
+> 🔍 **Analysis:** Cấu trúc hoàn hảo để diễn tả vai trò tạm thời - "Mr. Smith" là chủ ngữ, "ran" là quá khứ, "the class" là đối tượng được điều hành.
 
 ---
 
 ### Card 5: Error Correction
 
-🕵️ **Spot the Error:** What's wrong with: "<Incorrect Sentence>"
+🕵️ **Spot the Error:** What's wrong with: "She will run a class of students"
 ?
-> 🛠️ **Correction:** <Correct Sentence>
-> 🚫 **Trap:** <Explain the common mistake in VN>
+> 🛠️ **Correction:** She will run the class. OR She will teach a class of students.
+> 🚫 **Trap:** "Run the class" là cụm cố định, không thêm "of students" sau. Muốn nói về học sinh dùng "teach a class of students"
 
 ---
 
 ### Card 6: Comparison (Nuance)
 
-🆚 **Comparison:** How is **{{STRUCTURE_NAME}}** different from [[<related_structure>]]?
+🆚 **Comparison:** How is **run the class** different from [[teach the class]]?
 ?
-> ⚖️ **Difference:** <Detailed comparison (VN/EN mix)>
-> 🧱 **The Barrier:** <The key distinction>
+> ⚖️ **Difference:** "Run the class" emphasizes management and organization, while "teach the class" focuses on instruction and content delivery
+> 🧱 **The Barrier:** Management vs Instruction - việc điều hành vs việc giảng dạy
 
 ---
 
 ### Card 7: Transformation
 
-🔄 **Transformation:** Transform this sentence using **{{STRUCTURE_NAME}}**: "<Source Sentence>"
+🔄 **Transformation:** Transform this sentence using **run the class**: "I am responsible for conducting the workshop."
 ?
-> 🔄 **Result:** <Target Sentence>
-> 🧠 **Shift:** <What changed in the meaning/nuance? (VN)>
+> 🔄 **Result:** I run the workshop.
+> 🧠 **Shift:** Từ cụm từ dài "responsible for conducting" chuyển thành động từ đơn giản "run" thể hiện vai trò chủ động
 
 ---
 
 ### Card 8: Writer's Rewrite (Upgrade)
 
-✍️ **Rewrite:** Upgrade this boring sentence using **{{STRUCTURE_NAME}}**: "<Basic Sentence>"
+✍️ **Rewrite:** Upgrade this boring sentence using **run the class**: "He taught the lesson."
 ?
-> 🖋️ **Improved:** "<Advanced Sentence>"
-> 💡 **Effect:** <Explain stylistic improvement in VN>
+> 🖋️ **Improved:** "He ran the entire class with exceptional professionalism and engagement."
+> 💡 **Effect:** Thêm vào khía cạnh quản lý và chuyên nghiệp, không chỉ là việc dạy bài
 
 ---
 
 ### Card 9: Metaphor Deconstruction
 
-🧩 **Deconstruct:** In **{{STRUCTURE_NAME}}**, what does "<word/part>" imply?
+🧩 **Deconstruct:** In **run the class**, what does "run" imply?
 ?
-> 🔍 **Insight:** <Analysis of metaphorical imagery (VN/EN mix)>
+> 🔍 **Insight:** "Run" metaphorically treats the class like a small business or operation - suggesting smooth functioning, direction, and active management rather than just content delivery.
 
 ---
 
 ### Card 10: Scenario Reaction (Emotive)
 
-🎭 **Scenario:** <Drama/High-stakes Situation>. You feel <Emotion>. Use **{{STRUCTURE_NAME}}**!
+🎭 **Scenario:** Your department head asks who wants to **run the class** on short notice. You're nervous but want to show initiative. Use **run the class**!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this captures the emotion (VN)>
+> 🎬 **Line:** "I know it's last minute, but I'd be happy to run the class. I've already prepared some materials!"
+> 👨‍🎨 **Director's Note:** Cấu trúc này thể hiện sự tự tin và sẵn sàng nhận trách nhiệm, cho thấy vai trò lãnh đạo
 
 ---
