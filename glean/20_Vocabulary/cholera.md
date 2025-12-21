@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/health/physical-health-diet #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [cholerae, vibrio cholerae, asiatic cholera, cholera morbus]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkɒlərə/
+> **Part of Speech:** noun
+> **CEFR Level:** C1
+> **Register:** formal/medical
+> **Etymology:** From Greek "kholera" (bile, jaundice), from "kholē" (bile)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A bacterial infection of the small intestine
+>
+> **Context Meaning:** An acute diarrheal illness caused by infection of the intestine with Vibrio cholerae bacteria
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bệnh tả
+> - **Contextual:** dịch tả, bệnh tả cấp
+>
 > **Nuances:**
-> - ...
+> - Characterized by severe watery diarrhea and dehydration
+> - Can be fatal if untreated but easily preventable with proper sanitation
+> - Historically caused devastating pandemics before modern sanitation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Deadly, preventable, waterborne
+> **Memory Hook:** Imagine "coal-dark" water spreading disease - cholera comes from contaminated water
+> **📖 Etymology Story:** Ancient Greek physicians named this disease "kholera" because they believed it was caused by an excess of black bile in the body, causing the characteristic symptoms of severe diarrhea
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[cholera]] /ˈkɒlərə/ : the disease
+> - **Noun:** [[cholerae]] /kɒləˈriː/ : plural form (scientific)
+> - **Adj:** [[choleraic]] /ˌkɒləˈreɪɪk/ : relating to cholera
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[bacterial dysentery]] /ˌbæktɪəriəl ˈdɪsəntəri/ : similar intestinal infection
+> - [[watery diarrhea]] /ˈwɔːtəri ˌdaɪəˈriːə/ : main symptom
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[health]] /helθ/ : opposite state
+> - [[hygiene]] /ˈhaɪdʒiːn/ : preventive measure
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. contract/develop/get cholera
+> 2. cholera outbreak/epidemic/pandemic
+> 3. cholera bacteria/germ/infection
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Cholera spreads rapidly in areas with inadequate sanitation and contaminated water supplies.
+> - **Translation:** Bệnh tả lây lan nhanh chóng ở những khu vực có hệ thống vệ sinh không đầy đủ và nguồn nước bị ô nhiễm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The oral rehydration solution has dramatically reduced cholera mortality rates worldwide.
+> - **Translation:** Dung dịch bù nước đường uống đã giảm đáng kể tỷ lệ tử vong do bệnh tả trên toàn thế giới.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with other illnesses**
+> - ❌ **Mistake:** "I have cholera" when having regular diarrhea
+> - ✅ **Correction:** Cholera is a specific bacterial infection requiring medical diagnosis
+> - **Why:** Cholera is a serious medical condition, not any type of diarrhea
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Cholera is an easily treatable disease, but without proper medical care, the mortality rate can reach 50%."
+> **Source:** [[World Health Organization]]
 
 ---
 
@@ -161,121 +80,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **cholera** (*/ˈkɒlərə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An acute bacterial infection of the small intestine causing profuse watery diarrhea and rapid dehydration
+> 🇻🇳 **Vietnamese:** Bệnh tả - nhiễm trùng ruột cấp do vi khuẩn gây ra tiêu chảy nặng
+> 🗣️ **IPA:** */ˈkɒlərə/*
+> 🧠 **Mental Model:** Hình ảnh vi khuẩn Vibrio cholerae xâm nhập ruột non, gây ra tình trạng mất nước cấp tính qua tiêu chảy
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A dangerous bacterial infection causing severe watery diarrhea and dehydration"
+**Vietnamese:** Nhiễm trùng vi khuẩn nguy hiểm gây tiêu chảy nghiêm trọng và mất nước
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**cholera** (*/ˈkɒlərə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **cholera** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The rapid response team distributed water purification tablets to prevent the spread of cholera after the earthquake.
+> 🇻🇳 **Translation:** Đội phản ứng nhanh đã phân phát viên lọc nước để ngăn chặn sự lây lan của bệnh tả sau trận động đất.
+> 🔍 **Analysis:** "Cholera" phù hợp ở đây vì nó chỉ rõ loại bệnh dịch lây qua nguồn nước, đặc biệt nguy hiểm sau thiên tai
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **cholera**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Infection:** contract/develop cholera (VN note: mắc bệnh tả - cách nói về việc nhiễm bệnh)
+> 2. **Spread:** cholera outbreak/spreads (VN note: dịch tả bùng phát/lan rộng - mô tả sự lây lan)
+> 3. **Treatment:** cholera treatment/vaccine (VN note: điều trị/vắc-xin tả - biện pháp y tế)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **cholera**:
+"Many people got sick from the bad water."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Contaminated water led to a cholera outbreak that affected thousands in the region."
+> 💡 **Why it works:** "Cholera" chỉ chính xác loại bệnh lây qua nước, thể hiện tính nguy hiểm và cần can thiệp y tế khẩn cấp
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **cholera** instead of **diarrhea**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **cholera:** Nhiễm trùng vi khuẩn cụ thể do Vibrio cholerae, có thể gây tử vong nhanh, lây trong cộng đồng
+> **diarrhea:** Triệu chứng chung của nhiều bệnh, không lây nhiễm như dịch
+> 🧱 **The Barrier:** Cholera là bệnh cụ thể có thể gây đại dịch, diarrhea là triệu chứng phổ biến
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a doctor in rural clinic seeing patients with severe watery diarrhea after flooding. You're alarmed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "These symptoms indicate possible cholera; we need to start rehydration therapy immediately and report to health authorities."
+> 👨‍🎨 **Director's Note:** "Cholera" thể hiện tính cấp cứu, khẩn trương trong y tế công cộng
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `kholē` to the meaning of **cholera**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ gốc Hy Lạp "kholē" nghĩa là "mật", các bác sĩ cổ đại tin rằng bệnh tả gây ra bởi sự mất cân bằng của mật đen trong cơ thể, dẫn đến triệu chứng tiêu chảy nghiêm trọng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **cholera**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `kholē` (bile) --> `kholera` (excess of bile) --> English `cholera`
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[choleraic]]: (thuộc về) bệnh tả
+> - *(noun)* [[cholera bacterium]]: vi khuẩn gây bệnh tả
+> - *(noun)* [[cholera toxin]]: độc tố của vi khuẩn tả
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkɒlərə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**cholera**
+> 📖 **Meaning:** A severe bacterial infection causing watery diarrhea
+> 🇻🇳 **Vietnamese:** Bệnh tả - nhiễm trùng ruột cấp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **cholera**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Using "cholera" for any type of diarrhea
+> ✅ **Correction:** Cholera specifically refers to Vibrio cholerae infection
+> 🧠 **Why:** Not all diarrhea is cholera - cholera is a specific bacterial disease
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **cholera**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[health]] (state of being disease-free)
+> - [[clean water]] (preventive measure)
+> - [[hygiene]] (practice that prevents spread)
+> 🧱 **Contrast:** Cholera is disease state, health is absence of disease

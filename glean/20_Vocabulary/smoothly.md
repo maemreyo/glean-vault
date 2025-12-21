@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [smoothly, smooth, smoothing, smoothed]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsmuːðli/
+> **Part of Speech:** Adverb
+> **CEFR Level:** B1
+> **Register:** Neutral
+> **Etymology:** Old English "smōth" (smooth) + "-ly" adverbial suffix
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In a smooth manner
+>
+> **Context Meaning:** In a way that is free from difficulties, obstacles, or interruptions; without problems
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Một cách trơn tru, suôn sẻ
+> - **Contextual:** Liên tục không gián đoạn, đều đặn
+>
 > **Nuances:**
-> - ...
+> - Implies lack of resistance or friction
+> - Suggests efficiency and grace
+> - Can refer to physical movement or abstract processes
+> - Often indicates successful operation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Effortless, Professional, Flowing
+> **Memory Hook:** Imagine ice gliding perfectly across a surface - no bumps, no resistance
+> **📖 Etymology Story:** From Old English "smōth" meaning even, level surface - like a calm lake without ripples
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[smooth]] /smuːð/ : having even surface
+> - **Verb:** [[smooth]] /smuːð/ : to make smooth
+> - **Noun:** [[smoothness]] /ˈsmuːðnəs/ : quality of being smooth
+> - **Adj:** [[smoothing]] /ˈsmuːðɪŋ/ : calming, relaxing
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[effortlessly]] /ˈefərtləsli/ : without effort
+> - [[seamlessly]] /ˈsiːmləsli/ : without visible joins
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[roughly]] /ˈrʌfli/ : in a rough manner
+> - [[awkwardly]] /ˈɔːkwərdli/ : in an awkward way
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. run smoothly
+> 2. go smoothly
+> 3. move smoothly
+>
+> **1. Example Context 1 (Process)**
+> - **Sentence:** The project progressed smoothly despite initial challenges.
+> - **Translation:** Dự án tiến triển suôn sẻ dù có những thử thách ban đầu.
+>
+> **2. Example Context 2 (Movement)**
+> - **Sentence:** The dancer moved smoothly across the stage.
+> - **Translation:** Vũ công di chuyển trơn tru trên sân khấu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Adjective vs adverb confusion**
+> - ❌ **Mistake:** The car runs smooth.
+> - ✅ **Correction:** The car runs smoothly.
+> - **Why:** "Smooth" is adjective, "smoothly" is adverb modifying "runs"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The negotiations went smoothly, and both parties reached an agreement."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **smoothly** (*/ˈsmuːðli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In a way that is free from difficulties, obstacles, or interruptions
+> 🇻🇳 **Vietnamese:** Một cách không gặp khó khăn, trở ngại hoặc gián đoạn
+> 🗣️ **IPA:** */ˈsmuːðli/*
+> 🧠 **Mental Model:** Giống như phi công hạ cánh máy bay - không có turbulence, không có bump, perfect landing
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a way that is free from difficulties, obstacles, or interruptions"
+**Vietnamese:** Một cách không gặp khó khăn, trở ngại hoặc gián đoạn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**smoothly** (*/ˈsmuːðli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **smoothly** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Despite the complex requirements, the new software integrates smoothly with existing systems.
+> 🇻🇳 **Translation:** Mặc dù yêu cầu phức tạp, phần mềm mới tích hợp suôn sẻ với các hệ thống hiện có.
+> 🔍 **Analysis:** "smoothly" thể hiện sự tương thích và hoạt động hiệu quả, nhấn mạnh không có issues trong quá trình tích hợp
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **smoothly**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Process:** run smoothly (hoạt động suôn sẻ)
+> 2. **Movement:** flow smoothly (chảy trơn, lưu thông tốt)
+> 3. **Progress:** progress smoothly (tiến triển thuận lợi)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **smoothly**:
+"The machine works well."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The precision-engineered components operate smoothly with minimal maintenance required."
+> 💡 **Why it works:** "smoothly" thể hiện sự chính xác và hiệu quả của mechanical process, tạo hình ảnh về perfect operation
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **smoothly** instead of [[easily]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **smoothly:** Không có obstacles, hoạt động liên tục không gián đoạn (VN: trơn tru, suôn sẻ)
+> **easily:** Không khó khăn, không cần effort (VN: dễ dàng)
+> 🧱 **The Barrier:** "smoothly" nhấn mạnh continuity và absence of interruptions, "easily" nhấn mạnh lack of difficulty
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing how the event coordination went. Everything worked perfectly. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Thankfully, everything went smoothly from start to finish."
+> 👨‍🎨 **Director's Note:** "went smoothly" thể hiện relief và satisfaction với perfect execution
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `smōth` to the meaning of **smoothly**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "smōth" (bề mặt bằng phẳng, không gồ ghề) + "-ly" (một cách). Khi action hoặc process diễn ra "smoothly", nó như surface không có bumps - không có obstacles
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **smoothly**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `smōth` (even, level surface)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[smooth]] /smuːð/ (trơn, phẳng)
+> - *(verb)* [[smooth]] /smuːð/ (làm cho trơn)
+> - *(noun)* [[smoothness]] /ˈsmuːðnəs/ (sự trơn tru)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsmuːðli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**smoothly**
+> 📖 **Meaning:** In a way that is free from difficulties or interruptions
+> 🇻🇳 **Vietnamese:** Một cách suôn sẻ, trơn tru
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **smoothly**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The presentation went very smooth
+> ✅ **Correction:** The presentation went very smoothly
+> 🧠 **Why:** "Went" là verb, cần adverb "smoothly" để修饰, không dùng adjective "smooth"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **smoothly**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[roughly]] (một cách gồ ghề, không đều)
+> - [[abruptly]] (một cách đột ngột, gián đoạn)
+> - [[jerky]] (một cách giật cục)
+> 🧱 **Contrast:** "smoothly" là continuous flow, "roughly/abruptly" là với interruptions và uneven movement
 
 ---

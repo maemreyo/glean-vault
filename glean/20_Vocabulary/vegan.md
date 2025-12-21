@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [plant-based, veganism, vegetarian, cruelty-free, dairy-free, egg-free]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈviːɡən/
+> **Part of Speech:** noun/adjective
+> **CEFR Level:** B2
+> **Register:** informal/formal
+> **Etymology:** Coined in 1944 by Donald Watson from "vegetarian" - taking first and last letters to create distinct term
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A person who does not eat or use any animal products.
+>
+> **Context Meaning:** Someone who avoids all animal-derived foods including meat, dairy, eggs, and honey, and often avoids animal products in clothing and other goods.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** người ăn chay trường, người thuần chay
+> - **Contextual:** người ăn chay hoàn toàn, vegan, người không sử dụng sản phẩm động vật
+>
 > **Nuances:**
-> - ...
+> - Stricter than vegetarian - excludes ALL animal products
+> - Can be a diet choice or ethical lifestyle philosophy
+> - Growing movement with environmental and ethical motivations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Principled, Compassionate, Conscious
+> **Memory Hook:** Picture the letters VE-GAN from VEGETARIAN - the "start and end" of vegetarianism, representing completeness
+> **📖 Etymology Story:** 1944, Donald Watson took "VE" from start and "AN" from end of "vegetarian" to create VEGAN - representing the beginning and end of compassionate eating.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[vegan]] /ˈviːɡən/
+> - **Adj:** [[vegan]] /ˈviːɡən/
+> - **Noun:** [[veganism]] /ˈviːɡənɪzəm/
+> - **Adv:** [[veganly]] /ˈviːɡənli/
+>
+> **Related Phrasals:**
+> - [[go vegan]] (adopt vegan lifestyle)
+> - [[vegan-friendly]] (suitable for vegans)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[plant-based]] /plɑːnt beɪst/ : diet without animal products
+> - [[strict vegetarian]] /strɪkt ˌvedʒəˈteəriən/ : avoids all animal products
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[carnivore]] /ˈkɑːnɪvɔː(r)/ : meat-eater
+> - [[omnivore]] /ˈɒmnɪvɔː(r)/ : eats everything
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. vegan diet
+> 2. vegan products
+> 3. go vegan
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The restaurant offers an extensive vegan menu with creative plant-based dishes.
+> - **Translation:** Nhà hàng này có thực đơn vegan phong phú với các món sáng tạo từ thực vật.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She decided to go vegan for ethical reasons related to animal welfare.
+> - **Translation:** Cô quyết định ăn chay hoàn toàn vì lý do đạo đức liên quan đến phúc lợi động vật.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with Vegetarian**
+> - ❌ **Mistake:** "I'm vegan, but I eat cheese and eggs"
+> - ✅ **Correction:** "I'm vegetarian, I eat cheese and eggs" or "I'm vegan, I don't eat any animal products"
+> - **Why:** Vegans avoid ALL animal products including dairy and eggs
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Veganism is a philosophy and way of living which seeks to exclude all forms of exploitation of animals."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +85,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **vegan** (*/ˈviːɡən/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person who does not eat or use any animal products
+> 🇻🇳 **Vietnamese:** Người ăn chay trường, người thuần chay (không dùng ANY sản phẩm động vật)
+> 🗣️ **IPA:** */ˈviːɡən/*
+> 🧠 **Mental Model:** VE + GAN (from VEgetariAN) = hoàn toàn không động vật (strictest form of vegetarianism)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person who does not eat or use any animal products"
+**Vietnamese:** Người ăn chay trường, người thuần chay
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**vegan** (*/ˈviːɡən/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **vegan** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Many athletes are switching to a vegan diet to improve their performance and recovery.
+> 🇻🇳 **Translation:** Nhiều vận động viên đang chuyển sang chế độ ăn thuần chay để cải thiện hiệu suất và phục hồi.
+> 🔍 **Analysis:** Vegan là hoàn hảo vì nó chỉ clearly differentiates từ vegetarian - shows comprehensive lifestyle choice, không chỉ là diet.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **vegan**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Food:** vegan diet, vegan food, vegan recipes, vegan protein
+> 2. **Lifestyle:** vegan lifestyle, vegan products, vegan fashion, vegan cosmetics
+> 3. **Action:** go vegan, vegan-friendly, certified vegan
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **vegan**:
+"She doesn't eat meat."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She follows a strict vegan diet, avoiding all animal products including honey, dairy, and eggs."
+> 💡 **Why it works:** Vegan specifies complete avoidance of animal products - much more precise và shows understanding of dietary restrictions.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **vegan** instead of **vegetarian**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **vegan:** Thuần chay (VN: KHÔNG products động vật whatsoever) - excludes meat, dairy, eggs, honey
+> **vegetarian:** Ăn chay (VN: không thịt nhưng có thể dairy/eggs) - excludes meat only
+> 🧱 **The Barrier:** Complete vs Partial - vegan is total exclusion, vegetarian is partial exclusion of animal products.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're ordering at a restaurant. You have dietary restrictions. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm vegan, so could you please ensure there are no animal products in my meal?"
+> 👨‍🎨 **Director's Note:** Clear dietary communication - shows you understand distinction from vegetarianism và need for careful preparation.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the creation story to the meaning of **vegan**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 1944, Donald Watson extracted "VE" from beginning and "AN" from end of "vegetarian" → VEGAN represents the complete spectrum of plant-based living, from start to finish.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **vegan**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Modern coinage from `vegetarian` (VE...AN) - not classical root
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[vegan]] - person avoiding animal products
+> - *(noun)* [[veganism]] - philosophy/practice of veganism
+> - *(adj)* [[vegan]] - containing no animal products
+> - *(adv)* [[veganly]] - in a vegan manner
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈviːɡən/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**vegan**
+> 📖 **Meaning:** A person who does not eat or use any animal products
+> 🇻🇳 **Vietnamese:** Người ăn chay trường, người thuần chay
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **vegan**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I'm vegan but I eat fish occasionally"
+> ✅ **Correction:** "I'm pescatarian" or "I mostly eat plant-based but occasionally eat fish"
+> 🧠 **Why:** Vegan means NO animal products at all - including fish, dairy, eggs, and honey.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **vegan**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[carnivore]] (meat-eater)
+> - [[omnivore]] (eats both plants and animals)
+> 🧱 **Contrast:** Vegan eats only plants; carnivore eats only meat; omnivore eats everything - spectrum of dietary choices.
 
 ---

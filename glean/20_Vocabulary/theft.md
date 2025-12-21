@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [thief, stealing, stolen, thieves]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /θeft/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** formal, legal
+> **Etymology:** From Old English 'þeofþ' (theft), from 'þeof' (thief), related to 'þeaf' (stolen goods)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The action or crime of stealing
+>
+> **Context Meaning:** Taking someone else's property without permission and with the intention of permanently depriving them of it
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hành vi trộm cắp, sự ăn cắp
+> - **Contextual:** tội trộm cắp, hành vi ăn cắp tài sản
+>
 > **Nuances:**
-> - ...
+> - Legal term with specific definition
+> - Different from robbery (which involves force or threat)
+> - Can refer to the act itself or as a criminal charge
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Criminal, Sneaky, Illegal
+> **Memory Hook:** "Theft" sounds like "thief" with a 't' - what a thief does is theft!
+> **📖 Etymology Story:** In Old English society, 'þeofþ' was taken so seriously that it became one of the fundamental crimes against property. The word has maintained its serious connotation throughout centuries, representing a violation of trust and ownership.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[theft]] /θeft/ : the crime of stealing
+> - **Noun:** [[thief]] /θiːf/ : person who steals
+> - **Verb:** [[steal]] /stiːl/ : to take something without permission
+> - **Adj:** [[stolen]] /ˈstoʊlən/ : taken without permission
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[larceny]] /ˈlɑːrsəni/ : legal term for theft
+> - [[pilfering]] /ˈpɪlfərɪŋ/ : stealing small amounts
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[return]] /rɪˈtɜːrn/ : giving back stolen items
+> - [[restitution]] /ˌrestɪˈtuːʃn/ : compensation for theft
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Petty theft
+> 2. Grand theft
+> 3. Arrested for theft
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The store has security cameras to prevent theft.
+> - **Translation:** Cửa hàng có camera an ninh để ngăn chặn hành vi trộm cắp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** He was charged with theft after stealing the expensive watch.
+> - **Translation:** Anh ta bị buộc tội trộm cắp sau khi ăn cắp chiếc đồng hồ đắt tiền.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing theft and robbery**
+> - ❌ **Mistake:** The theft involved a gun and threats.
+> - ✅ **Correction:** The robbery involved a gun and threats.
+> - **Why:** 'Theft' is taking without permission, while 'robbery' involves force or threat of violence.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "He who steals once is always a thief."
+> **Source:** [[Spanish Proverb]]
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **theft** (*/θeft/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The crime of taking someone else's property without permission
+> 🇻🇳 **Vietnamese:** Hành vi trộm cắp, tội ăn cắp tài sản
+> 🗣️ **IPA:** */θeft/*
+> 🧠 **Mental Model:** Khi ai đó take property của người khác mà không có permission - đó là theft
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The crime of taking someone else's property without permission"
+**Vietnamese:** Hành vi trộm cắp
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**theft** (*/θeft/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **theft** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The museum reported several cases of art theft last year.
+> 🇻🇳 **Translation:** Bảo tàng báo cáo một số trường hợp trộm cắp tác phẩm nghệ thuật vào năm ngoái.
+> 🔍 **Analysis:** 'Theft' là term pháp lý trang trọng, dùng trong official reports và legal contexts, khác với informally 'stealing'
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **theft**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Legal Categories:** petty/grand theft (trộm cắp nhỏ/lớn) - classification theo giá trị tài sản
+> 2. **Prevention:** prevent/deter theft (ngăn chặn/tránh việc trộm cắp) - security measures
+> 3. **Legal Actions:** accused/convicted of theft (bị buộc tội/bị kết án trộm cắp) - legal process
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **theft**:
+"Someone stole from the shop."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The shop owner reported multiple incidents of theft in the past month."
+> 💡 **Why it works:** 'Theft' là term formal và legal, phù hợp với business và police reporting hơn 'stole'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **theft** instead of **[[robbery]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **theft:** Taking property without permission và không có violence hoặc threat (trộm cắp)
+> **[[robbery]]:** Taking property bằng force hoặc threat (cướp giật)
+> 🧱 **The Barrier:** Theft = sneaky taking, Robbery = violent taking
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're reporting a crime to the police. Someone stole your bicycle. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'd like to report a theft - my bicycle was stolen from outside the library."
+> 👨‍🎨 **Director's Note:** 'Theft' là term chính xác khi reporting crime to authorities
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `þeofþ` to the meaning of **theft**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'þeofþ' (theft) từ 'þeof' (thief) - hành vi làm của một thief. The 'th' sound (ð) đã evolved thành modern 'th', nhưng meaning vẫn giữ nguyên: crime của taking without permission
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **theft**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `þeof` (thief)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* theft (hành vi trộm cắp)
+> - *(noun)* thief (kẻ trộm)
+> - *(verb)* steal (ăn cắp)
+> - *(adj)* stolen (bị ăn cắp)
+> - *(plural)* thieves (những kẻ trộm)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */θeft/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**theft**
+> 📖 **Meaning:** The crime of taking someone else's property without permission
+> 🇻🇳 **Vietnamese:** Hành vi trộm cắp, tội ăn cắp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **theft**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The theft involved threatening the clerk with a knife.
+> ✅ **Correction:** The robbery involved threatening the clerk with a knife.
+> 🧠 **Why:** Khi có violence hoặc threat, phải dùng 'robbery', không phải 'theft'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **theft**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[honesty]] (sự trung thực)
+> - [[restitution]] (sự bồi thường, trả lại)
+> 🧱 **Contrast:** Honesty là moral opposite, restitution là legal remedy cho theft
 
 ---

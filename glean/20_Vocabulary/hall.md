@@ -1,159 +1,80 @@
 #flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [halls, hallway, corridor, entrance hall]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /hɔːl/
+> **Part of Speech:** noun
+> **CEFR Level:** A1
+> **Register:** neutral
+> **Etymology:** From Old English 'hall' (royal residence, large room), from Proto-Germanic 'hallō' (covered place)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A large room or building for public gatherings
+>
+> **Context Meaning:** The room or space just inside the main entrance of a house or building; a large room for meetings or events
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sảnh, phòng lớn, phòng hội trường
+> - **Contextual:** sảnh chính, hành lang, phòng khách lớn
+>
 > **Nuances:**
-> - ...
+> - Can refer to the entrance area or a large meeting space
+> - Common in institutional buildings (schools, offices)
+> - Sometimes used as part of compound words (town hall, concert hall)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Spacious, Public, Welcoming
+> **Memory Hook:** A "hall" is where people "huddle" together for meetings or wait at entrances!
+> **📖 Etymology Story:** The ancient Germanic 'hallō' was a covered place where communities gathered. Modern 'halls' maintain this legacy as spaces for assembly, from grand concert halls to humble school hallways.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[hall]] /hɔːl/ : a large room or entrance space
+> - **Noun (pl):** [[halls]] /hɔːlz/ : multiple hall spaces
+> - **Compound:** [[hallway]] /ˈhɔːlweɪ/ : corridor in a building
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[entrance]] /ˈentrəns/ : way in
+> - [[lobby]] /ˈlɑːbi/ : entrance area of a hotel
+> - [[corridor]] /ˈkɔːrɪdər/ : long narrow passage
+>
+> **Compound Forms:**
+> - town hall (tòa thị chính)
+> - concert hall (nhà hòa nhạc)
+> - dining hall (phòng ăn tập thể)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. In the hall
+> 2. Concert hall
+> 3. Town hall
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Please wait for me in the main hall of the building.
+> - **Translation:** Vui lòng đợi tôi ở sảnh chính của tòa nhà.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The graduation ceremony will be held in the school hall.
+> - **Translation:** Lễ tốt nghiệp sẽ được tổ chức tại hội trường của trường học.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing hall and hallway**
+> - ❌ **Mistake:** My office is at the end of the hall.
+> - ✅ **Correction:** My office is at the end of the hallway.
+> - **Why:** 'Hall' usually refers to a large room or entrance area, while 'hallway' is a corridor connecting rooms.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "All the world's a stage, and all the men and women merely players. They have their exits and their entrances."
+> **Source:** [[William Shakespeare]]
 
 ---
 
@@ -161,121 +82,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **hall** (*/hɔːl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A large room for meetings or events; the space just inside the main entrance
+> 🇻🇳 **Vietnamese:** Sảnh, phòng lớn, phòng hội trường
+> 🗣️ **IPA:** */hɔːl/*
+> 🧠 **Mental Model:** Large open space trong building - có thể là entrance area hoặc room cho gatherings
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A large room for meetings or events; the space just inside the main entrance"
+**Vietnamese:** Sảnh, phòng lớn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**hall** (*/hɔːl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **hall** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The students gathered in the school hall for the morning assembly.
+> 🇻🇳 **Translation:** Học sinh tập trung trong phòng hội trường của trường để làm lễ chào cờ buổi sáng.
+> 🔍 **Analysis:** 'Hall' ở đây chỉ large room dành cho assemblies hoặc events, khác với classroom thông thường
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **hall**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Institutional:** town hall/city hall/school hall (tòa thị chính/hội trường trường)
+> 2. **Entertainment:** concert hall/dance hall/exhibition hall (nhà hòa nhạc/phòng khiêu vũ)
+> 3. **Location:** in the hall/main hall/entrance hall (trong sảnh/sảnh chính)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **hall**:
+"The event is in the big room."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The wedding reception will be held in the grand hall of the historic mansion."
+> 💡 **Why it works:** 'Hall' cụ thể và elegant hơn 'big room', thể hiện formal event space
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **hall** instead of **[[room]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **hall:** Larger, more formal space, often for gatherings or public use (sảnh, hội trường)
+> **[[room]]:** More general, can be any enclosed space (phòng)
+> 🧱 **The Barrier:** Hall = large, public, often impressive; Room = general, any size
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're directing guests to the wedding reception area. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Please proceed to the banquet hall through those double doors."
+> 👨‍🎨 **Director's Note:** 'Hall' thể hiện formal, large space suitable cho special events
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `hallō` to the meaning of **hall**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Proto-Germanic 'hallō' (covered place) evolved thành 'hall' - nơi communities gather dưới mái chung. Modern halls vẫn giữ function này như gathering spaces
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **hall**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Proto-Germanic `hallō` (covered place)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* hall (sảnh, phòng lớn)
+> - *(noun)* hallway (hành lang)
+> - *(compound)* town hall (tòa thị chính)
+> - *(compound)* concert hall (nhà hòa nhạc)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */hɔːl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**hall**
+> 📖 **Meaning:** A large room for meetings or events
+> 🇻🇳 **Vietnamese:** Sảnh, phòng lớn, phòng hội trường
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **hall**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I live in the third room on the hall.
+> ✅ **Correction:** I live in the third room on the hallway.
+> 🧠 **Why:** 'Hall' là large room, 'hallway' là corridor. Đi trong corridor dùng 'hallway'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **hall**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - private room (phòng riêng)
+> - closet (tủ quần áo, phòng nhỏ)
+> - cubicle (cabin làm việc nhỏ)
+> 🧱 **Contrast:** Hall là large, public space; antonyms là small, private spaces
 
 ---

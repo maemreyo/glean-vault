@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [last for three days, three-day duration, three days long]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /lɑːsts θriː deɪz/
+> **Part of Speech:** phrase (verb + duration)
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** 'Last' from Old English 'lǣstan' (to continue, endure), 'three' from Proto-Germanic 'þrijiz', 'day' from Old English 'dæg'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To continue for a period of three days
+>
+> **Context Meaning:** The duration of something extends across a three-day period
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** kéo dài ba ngày
+> - **Contextual:** diễn ra trong ba ngày, tồn tại trong ba ngày
+>
 > **Nuances:**
-> - ...
+> - Used to specify exact duration of an event or state
+> - Can refer to future, past, or ongoing activities
+> - Common in scheduling and planning contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Precise, Planning-oriented, Time-conscious
+> **Memory Hook:** Think of a three-day weekend trip - it "lasts three days" from start to finish
+> **📖 Etymology Story:** The ancient concept of time measurement has always been crucial for human activities. 'Last' carries the weight of endurance, while 'three days' marks a complete cycle - long enough for significant events but short enough to plan precisely.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[last]] /lɑːst/ : to continue for a period of time
+> - **Number:** [[three]] /θriː/ : the number 3
+> - **Noun:** [[day]] /deɪ/ : a period of 24 hours
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - spans three days
+> - continues for three days
+> - extends over three days
+>
+> **Related Phrases:**
+> - takes three days
+> - requires three days
+> - a three-day period
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. The festival lasts three days
+> 2. The medicine lasts three days
+> 3. The conference lasts three days
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The music festival lasts three days and attracts thousands of visitors.
+> - **Translation:** Lễ hội âm nhạc kéo dài ba ngày và thu hút hàng ngàn khách tham quan.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** According to the forecast, the storm will last three days.
+> - **Translation:** Theo dự báo, cơn bão sẽ kéo dài ba ngày.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Tense confusion**
+> - ❌ **Mistake:** The conference will lasting three days.
+> - ✅ **Correction:** The conference will last three days.
+> - **Why:** 'Will' already indicates future, so we need the base form 'last', not 'lasting'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** Time is what we want most, but what we use worst.
+> **Source:** [[William Penn]]
 
 ---
 
@@ -161,121 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **lasts three days** (*/lɑːsts θriː deɪz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To continue or exist for a period of three days
+> 🇻🇳 **Vietnamese:** Kéo dài ba ngày, tồn tại trong ba ngày
+> 🗣️ **IPA:** */lɑːsts θriː deɪz/*
+> 🧠 **Mental Model:** Khi một event hoặc situation tiếp tục từ ngày 1 đến ngày 3 - it 'lasts three days'
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To continue or exist for a period of three days"
+**Vietnamese:** Kéo dài ba ngày
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**lasts three days** (*/lɑːsts θriː deɪz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **lasts three days** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The art exhibition lasts three days and showcases works from local artists.
+> 🇻🇳 **Translation:** Triển lãm nghệ thuật kéo dài ba ngày và trưng bày các tác phẩm của các nghệ sĩ địa phương.
+> 🔍 **Analysis:** Phrase này diễn tả duration chính xác, rất hữu ích khi planning hoặc scheduling events
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **lasts three days**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Events:** festival/conference/exhibition lasts three days (lễ hội/hội nghị/triển lãm kéo dài 3 ngày)
+> 2. **Natural Phenomena:** storm/rain/heatwave lasts three days (bão/mưa/nắng nóng kéo dài 3 ngày)
+> 3. **Effects:** medicine/influence/permission lasts three days (thuốc/t ảnh hưởng/giấy phép có hiệu lực 3 ngày)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **lasts three days**:
+"The event is for three days."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The annual tech conference lasts three days, featuring keynote speakers and workshops."
+> 💡 **Why it works:** 'Lasts three days' sounds more natural và formal hơn 'is for three days'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **lasts three days** instead of **takes three days**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **lasts three days:** Dùng khi nói về duration của một state hoặc event (lễ hội kéo dài 3 ngày)
+> **takes three days:** Dùng khi nói về time needed để complete một action (công việc mất 3 ngày để hoàn thành)
+> 🧱 **The Barrier:** 'Lasts' = passive duration, 'takes' = active time requirement
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're planning a weekend getaway. Your friend asks how long the trip will be. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The trip lasts three days - we leave Friday and return Sunday."
+> 👨‍🎨 **Director's Note:** 'Lasts three days' cung cấp thông tin duration một cách clear và concise
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `lǣstan` to the meaning of **lasts three days**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'lǣstan' meant 'to continue, endure' - khi kết hợp với 'three days', nó creates khái niệm về duration được định nghĩa chính xác
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **lasts three days**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `lǣstan` (to continue, endure)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* last (kéo dài)
+> - *(number)* three (ba)
+> - *(noun)* day (ngày)
+> - *(phrase)* three-day-long (diễn ra trong ba ngày)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */lɑːsts θriː deɪz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**lasts three days**
+> 📖 **Meaning:** To continue for a period of three days
+> 🇻🇳 **Vietnamese:** Kéo dài ba ngày
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **lasts three days**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The meeting will be lasting three days.
+> ✅ **Correction:** The meeting will last three days.
+> 🧠 **Why:** After 'will', use base form 'last', not 'lasting'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **lasts three days**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - lasts only one day (kéo dài một ngày)
+> - doesn't last three days (không kéo dài ba ngày)
+> 🧱 **Contrast:** 'Lasts three days' chỉ duration dài, trong khi opposite thể hiện duration ngắn hơn hoặc không đạt được thời gian dự kiến
 
 ---

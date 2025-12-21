@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [grateful, gratefulness, ungrateful, gratefully]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈɡreɪtfʊl/
+> **Part of Speech:** Adjective
+> **CEFR Level:** B1
+> **Register:** Neutral
+> **Etymology:** Latin "gratus" (pleasing, thankful) + "-ful" suffix
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Feeling or showing thanks and appreciation
+>
+> **Context Meaning:** Feeling and showing appreciation for something good done to you or given to you
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Biết ơn, biết ơn
+> - **Contextual:** Trân trọng, cảm kích
+>
 > **Nuances:**
-> - ...
+> - Deep sense of appreciation
+> - Often implies receiving something valuable
+> - More formal than "thankful"
+> - Suggests a lasting feeling
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Appreciative, Humble, Warm-hearted
+> **Memory Hook:** Imagine your heart filled with "great-full" feelings when someone helps you
+> **📖 Etymology Story:** From Latin "gratus" meaning pleasing, like a gift that brings pleasure to both giver and receiver
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[gratitude]] /ˈɡrætɪtuːd/ : quality of being thankful
+> - **Adv:** [[gratefully]] /ˈɡreɪtfʊli/ : in a grateful way
+> - **Adj:** [[ungrateful]] /ʌnˈɡreɪtfʊl/ : not showing thanks
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[thankful]] /ˈθæŋkfʊl/ : feeling gratitude
+> - [[appreciative]] /əˈpriːʃətɪv/ : recognizing value
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[ungrateful]] /ʌnˈɡreɪtfʊl/ : not thankful
+> - [[ingrate]] /ˈɪnɡreɪt/ : ungrateful person
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. deeply grateful
+> 2. grateful for
+> 3. eternally grateful
+>
+> **1. Example Context 1 (Personal)**
+> - **Sentence:** I'm deeply grateful for your support during this difficult time.
+> - **Translation:** Tôi vô cùng biết ơn sự hỗ trợ của bạn trong thời gian khó khăn này.
+>
+> **2. Example Context 2 (Professional)**
+> - **Sentence:** The company expressed grateful recognition to all employees who worked overtime.
+> - **Translation:** Công ty bày tỏ sự trân trọng biết ơn tất cả nhân viên đã làm thêm giờ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition usage**
+> - ❌ **Mistake:** I'm grateful to your help.
+> - ✅ **Correction:** I'm grateful for your help.
+> - **Why:** "Grateful" takes "for" when referring to what you're thankful for, "to" when referring to the person
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "I would be grateful if you could help me with this project."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **grateful** (*/ˈɡreɪtfʊl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Feeling or showing thanks and appreciation for something good received
+> 🇻🇳 **Vietnamese:** Cảm thấy hoặc thể hiện sự biết ơn và trân trọng điều tốt đẹp đã nhận được
+> 🗣️ **IPA:** */ˈɡreɪtfʊl/*
+> 🧠 **Mental Model:** Trái tim đầy ắp sự "great-full" (tuyệt vời và đầy đặn) khi nhận được kindness từ người khác
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Feeling or showing thanks and appreciation for something good received"
+**Vietnamese:** Cảm thấy hoặc thể hiện sự biết ơn và trân trọng điều tốt đẹp đã nhận được
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**grateful** (*/ˈɡreɪtfʊl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **grateful** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After the scholarship was awarded, Maria was profoundly grateful for the opportunity to pursue her dreams.
+> 🇻🇳 **Translation:** Sau khi nhận được học bổng, Maria vô cùng biết ơn cơ hội theo đuổi ước mơ của mình.
+> 🔍 **Analysis:** "grateful" thể hiện sự trân trọng sâu sắc, nhấn mạnh giá trị của cơ hội đã nhận được
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **grateful**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** deeply/eternally grateful (biết ơn sâu sắc/mãi mãi)
+> 2. **Object:** grateful for + noun (biết ơn vì điều gì)
+> 3. **Recipient:** grateful to + person (biết ơn ai đó)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **grateful**:
+"I want to say thanks for your help."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I'm deeply grateful for your guidance throughout this challenging project."
+> 💡 **Why it works:** "grateful" thể hiện sự trân trọng sâu sắc và trang trọng hơn, tạo ấn tượng về sự biết ơn chân thành
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **grateful** instead of [[thankful]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **grateful:** Trạng thái cảm xúc sâu sắc, thường kéo dài, trang trọng hơn (VN: biết ơn sâu sắc, trân trọng)
+> **thankful:** Cảm ơn tại thời điểm, thường cụ thể cho hành động nào đó (VN: cảm ơn)
+> 🧱 **The Barrier:** "grateful" có tính chất bền vững và sâu sắc hơn, như một trạng thái cảm xúc thay vì hành động cảm ơn nhất thời
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your professor wrote you a strong recommendation letter that helped you get into your dream program. You feel overwhelming appreciation. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm eternally grateful for your recommendation - it changed my life."
+> 👨‍🎨 **Director's Note:** "eternally grateful" thể hiện sự biết ơn vô hạn, nhấn mạnh tác động lâu dài
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `gratus` to the meaning of **grateful**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "gratus" (vui vẻ, dễ chịu) + "-ful". Khi ai đó làm điều nice, bạn cảm thấy "great-full" - đầy sự tuyệt vời và dễ chịu
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **grateful**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `gratus` (pleasing, thankful)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[gratitude]] /ˈɡrætɪtuːd/ (sự biết ơn)
+> - *(adv)* [[gratefully]] /ˈɡreɪtfʊli/ (một cách biết ơn)
+> - *(adj)* [[ungrateful]] /ʌnˈɡreɪtfʊl/ (vô ơn)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈɡreɪtfʊl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**grateful**
+> 📖 **Meaning:** Feeling or showing thanks and appreciation
+> 🇻🇳 **Vietnamese:** Biết ơn, trân trọng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **grateful**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I'm grateful to your advice
+> ✅ **Correction:** I'm grateful for your advice
+> 🧠 **Why:** Dùng "for" với điều bạn biết ơn, "to" với người bạn biết ơn: grateful TO you FOR your help
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **grateful**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[ungrateful]] (vô ơn, không biết ơn)
+> - [[entitled]] (cho rằng mình xứng đáng)
+> 🧱 **Contrast:** "grateful" nhận nhận giá trị từ bên ngoài, "entitled" cho rằng đó là quyền lợi của mình
 
 ---

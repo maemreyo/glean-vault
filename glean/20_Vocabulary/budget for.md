@@ -1,159 +1,84 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 #flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [budgeting, allocate funds, financial plan, expense plan, budget allocation]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈbʌdʒɪt fɔː(r)/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B2
+> **Register:** formal/business
+> **Etymology:** "Budget" (from Old French "bougette" - little leather bag) + "for" (indicating purpose) - originally meant a small bag for carrying money
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To set aside or allocate money for a specific purpose or expense.
+>
+> **Context Meaning:** Planning and reserving financial resources for a particular item, project, or period.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** dự toán cho, phân bổ ngân sách cho
+> - **Contextual:** dành ngân sách, lên ngân sách cho, dự trù kinh phí
+>
 > **Nuances:**
-> - ...
+> - Implies careful planning and calculation
+> - Often used in business and government contexts
+> - Can be both noun (budget) and verb (to budget)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Prudent, Planning, Calculating
+> **Memory Hook:** Picture a bulging wallet (bougette) carefully set aside "for" a specific purchase
+> **📖 Etymology Story:** Medieval accountants would carry their "bougette" (leather money bag) and carefully plan what to spend "for" each need - this evolved into modern "budget for" meaning to allocate funds.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[budget for]] /ˈbʌdʒɪt fɔː(r)/
+> - **Noun:** [[budget]] /ˈbʌdʒɪt/
+> - **Noun Person:** [[budgeteer]] /ˌbʌdʒɪˈtɪə(r)/
+> - **Adj:** [[budget-friendly]] /ˈbʌdʒɪt ˈfrendli/
+>
+> **Related Phrasals:**
+> - [[budget on]] (estimate cost)
+> - [[save for]] (put money aside)
+> - [[account for]] (explain spending)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[allocate]] /ˈæləkeɪt/ : distribute resources
+> - [[earmark]] /ˈɪəmɑːk/ : designate for specific use
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[overspend]] /ˌəʊvəˈspend/ : spend too much
+> - [[splurge]] /splɜːdʒ/ : spend extravagantly
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. carefully budget for
+> 2. budget for unexpected expenses
+> 3. budget annually/quarterly
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** We need to budget for at least $5,000 for the annual office party.
+> - **Translation:** Chúng ta cần dự trù ít nhất 5.000 đô la cho bữa tiệc văn phòng hàng năm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The company didn't budget for such a rapid increase in raw material costs.
+> - **Translation:** Công ty không dự toán cho sự tăng giá nhanh như vậy của nguyên vật liệu thô.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** "We budgeted this expense with $1,000"
+> - ✅ **Correction:** "We budgeted for this expense with $1,000"
+> - **Why:** Budget requires "for" when followed by the item being planned for
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "You should always budget for unexpected costs when planning a home renovation."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +86,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **budget for** (*/ˈbʌdʒɪt fɔː(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To set aside or allocate money for a specific purpose or planned expense
+> 🇻🇳 **Vietnamese:** Dự toán cho, phân bổ ngân sách cho, dự trù kinh phí
+> 🗣️ **IPA:** */ˈbʌdʒɪt fɔː(r)/*
+> 🧠 **Mental Model:** Túi tiền (budget) + mục đích (for) = phân tiền cho việc cụ thể
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To set aside money for a specific purpose or expense"
+**Vietnamese:** Dự trù kinh phí, phân bổ ngân sách
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**budget for** (*/ˈbʌdʒɪt fɔː(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **budget for** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The department must budget for at least three new hires next quarter.
+> 🇻🇳 **Translation:** Phòng ban phải dự trù kinh phí cho ít nhất ba nhân viên mới quý tới.
+> 🔍 **Analysis:** Budget for là hoàn hảo vì it's about planning và allocating money in advance - rất professional trong business context.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **budget for**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Planning Level:** carefully budget for, realistically budget for, adequately budget for
+> 2. **Time Frame:** budget annually for, budget quarterly for, budget monthly for
+> 3. **Item Types:** budget for unexpected costs, budget for contingencies, budget for maintenance
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **budget for**:
+"We should plan money for the trip."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We should budget for at least $2,000 for accommodation and meals during the conference trip."
+> 💡 **Why it works:** Budget for sounds much more professional và planned - shows careful calculation và preparation, không chỉ là vague "plan money".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **budget for** instead of **save for**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **budget for:** Plan & allocate money (VN: phân bổ, dự toán) - có tính toán cụ thể
+> **save for:** Put money aside over time (VN: tiết kiệm cho) - tích lũy dần
+> 🧱 **The Barrier:** Planning vs Accumulating - budget for là về allocation trong kho tài sản, save for là về building up the kho.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your manager asks about project costs. You feel prepared. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We've budgeted for all major expenses including a 15% contingency fund."
+> 👨‍🎨 **Director's Note:** Professional response - shows thorough planning và foresight, key trait của good project manager.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `bougette` to the meaning of **budget for**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** French merchants carrying "bougette" (small leather bags) would carefully divide coins "for" different purchases → evolved into "budget for" - the art của planning money allocation before spending.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **budget for**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old French `bougette` (little leather bag/purse)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[budget]] - financial plan
+> - *(verb phrase)* [[budget for]] - to allocate for
+> - *(noun person)* [[budgeteer]] - budget specialist
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈbʌdʒɪt fɔː(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**budget for**
+> 📖 **Meaning:** To set aside or allocate money for a specific purpose or planned expense
+> 🇻🇳 **Vietnamese:** Dự toán cho, phân bổ ngân sách cho
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **budget for**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I need to budget this expense with $500"
+> ✅ **Correction:** "I need to budget for this expense with $500"
+> 🧠 **Why:** Preposition "for" is required after "budget" when followed by the item - budget + for + expense.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **budget for**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[overspend on]] (spend more than planned)
+> - [[squander]] (waste money recklessly)
+> 🧱 **Contrast:** Budget for plans ahead carefully; overspend exceeds the plan; squander ignores planning entirely.
 
 ---

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/health/physical-health-diet #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [cholera outbreak, cholera epidemic, epidemic, outbreak, disease outbreak, plague]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈkɒlərə ˌepɪˈdemɪk/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** formal/academic
+> **Etymology:** From Greek "kholera" (bile) + Greek "epidēmios" (prevalent among the people)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A widespread occurrence of an infectious disease characterized by severe diarrhea and dehydration
+>
+> **Context Meaning:** A severe outbreak of cholera affecting many people in a specific region or population
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một trận dịch tả
+> - **Contextual:** dịch tả bùng phát, đại dịch tả
+>
 > **Nuances:**
-> - ...
+> - Implies sudden, widespread outbreak affecting many people
+> - Medical terminology used in epidemiology and public health
+> - Suggests urgent need for medical intervention
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Alarming, urgent, serious
+> **Memory Hook:** Picture "coal" (cholera) burning through a community, leaving devastation in its wake like an epidemic
+> **📖 Etymology Story:** Ancient Greek doctors believed cholera was caused by imbalanced bile (kholera), and when it spreads through populations (epidēmios), it becomes a deadly epidemic that requires immediate attention
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[cholera]] /ˈkɒlərə/ : the bacterial disease
+> - **Noun:** [[epidemic]] /ˌepɪˈdemɪk/ : widespread disease outbreak
+> - **Adj:** [[epidemic]] /ˌepɪˈdemɪk/ : affecting many people
+> - **Noun:** [[epidemiology]] /ˌepɪˌdiːmiˈɒlədʒi/ : study of disease patterns
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[outbreak]] /ˈaʊtbreɪk/ : sudden occurrence
+> - [[pandemic]] /pænˈdemɪk/ : global epidemic
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[endemic]] /enˈdemɪk/ : limited to specific area
+> - [[sporadic]] /spəˈrædɪk/ : occurring irregularly
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. prevent/control/contain epidemic
+> 2. cholera epidemic spreads/breaks out
+> 3. severe/devastating/deadly epidemic
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The 1854 cholera epidemic in London killed over 600 people before Dr. John Snow identified contaminated water as the source.
+> - **Translation:** Đại dịch tả năm 1854 ở London đã giết chết hơn 600 người trước khi Dr. John Snow xác định nguồn nước bị ô nhiễm là nguyên nhân.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** WHO responded quickly to the cholera epidemic by providing clean water and medical supplies to affected regions.
+> - **Translation:** WHO đã phản ứng nhanh với dịch tả bùng phát bằng cách cung cấp nước sạch và viện trợ y tế cho các khu vực bị ảnh hưởng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Usage Error**
+> - ❌ **Mistake:** "There is a cholera epidemic in my stomach."
+> - ✅ **Correction:** "There is a cholera epidemic affecting the community."
+> - **Why:** Epidemic refers to widespread occurrence in populations, not individual cases
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "During the cholera epidemic of 1849, the mortality rate was staggering, with thousands dying within weeks."
+> **Source:** [[Medical History Journal]]
 
 ---
 
@@ -161,121 +81,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a cholera epidemic** (*/ə ˈkɒlərə ˌepɪˈdemɪk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A widespread outbreak of cholera, an infectious disease causing severe diarrhea and dehydration, affecting many people in a specific area
+> 🇻🇳 **Vietnamese:** Một trận dịch tả bùng phát, ảnh hưởng đến nhiều người trong khu vực
+> 🗣️ **IPA:** */ə ˈkɒlərə ˌepɪˈdemɪk/*
+> 🧠 **Mental Model:** Hình ảnh một làn sóng bệnh tả lan rộng trong cộng đồng, lây nhiễm qua nguồn nước bẩn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A widespread occurrence of cholera affecting many people in a population"
+**Vietnamese:** Một trận dịch tả lan rộng trong cộng đồng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a cholera epidemic** (*/ə ˈkɒlərə ˌepɪˈdemɪk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a cholera epidemic** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The rapid urbanization led to a cholera epidemic that claimed thousands of lives before proper sanitation was implemented.
+> 🇻🇳 **Translation:** Sự đô thị hóa nhanh chóng đã dẫn đến một trận dịch tả, cướp đi sinh mạng của hàng ngàn người trước khi hệ thống vệ sinh được cải thiện.
+> 🔍 **Analysis:** Phrase này phù hợp vì "cholera epidemic" mô tả chính xác tình hình bệnh tả lây lan rộng do điều kiện vệ sinh kém trong quá trình đô thị hóa
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a cholera epidemic**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action/Control:** contain/cholera epidemic (VN note: khống chế dịch - hành động y tế công cộng)
+> 2. **Description:** severe/deadly cholera epidemic (VN note: nguy nan/chết người - mức độ nghiêm trọng)
+> 3. **Occurrence:** cholera epidemic breaks out/spreads (VN note: bùng phát/lan rộng - diễn biến của dịch)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a cholera epidemic**:
+"There was a big health problem in the city."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The city faced a devastating cholera epidemic that overwhelmed its healthcare infrastructure."
+> 💡 **Why it works:** "Cholera epidemic" cho biết chính xác loại bệnh dịch, mức độ lan rộng và tính cấp cứu của vấn đề sức khỏe
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a cholera epidemic** instead of **a disease**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a cholera epidemic:** Dùng khi nói về dịch tả lan rộng trong cộng đồng, có tính cấp cứu, cần sự can thiệp y tế công cộng ngay lập tức
+> **a disease:** Thuật ngữ chung cho bất kỳ bệnh tật nào, không chỉ rõ mức độ lan truyền hay tính cấp bách
+> 🧱 **The Barrier:** Cholera epidemic đặc trưng cho bệnh lây nhiễm qua nguồn nước, lan nhanh trong cộng đồng, trong khi disease là khái niệm rộng hơn
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a public health official addressing the media about increasing diarrhea cases. You feel concerned and urgent. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We've confirmed multiple cases of cholera and fear we may be facing a cholera epidemic if immediate action isn't taken."
+> 👨‍🎨 **Director's Note:** Cụm từ "cholera epidemic" thể hiện tính cấp cứu, khuyến khích hành động nhanh chóng để ngăn chặn dịch lây lan
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `epidēmios` to the meaning of **a cholera epidemic**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ gốc Hy Lạp "epidēmios" có nghĩa là "trong dân chúng" (epi = upon + demos = people), kết hợp với "cholera" (bệnh tả) để chỉ tình trạng bệnh tả lan rộng trong cộng đồng, đòi hỏi sự can thiệp y tế công cộng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a cholera epidemic**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `epidēmios` (among the people) <--> Latin `epidemia` <--> English `epidemic`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[epidemiology]]: nghiên cứu về các đại dịch
+> - *(noun)* [[epidemiologist]]: nhà dịch tễ học
+> - *(adj)* [[epidemic]]: (thuộc về) dịch bệnh
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈkɒlərə ˌepɪˈdemɪk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a cholera epidemic**
+> 📖 **Meaning:** A widespread outbreak of cholera disease
+> 🇻🇳 **Vietnamese:** Một trận dịch tả bùng phát
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a cholera epidemic**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Using "cholera epidemic" to describe a single case
+> ✅ **Correction:** "cholera epidemic" refers to widespread outbreak affecting many
+> 🧠 **Why:** Epidemic implies population-level occurrence, not individual cases
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a cholera epidemic**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[endemic cholera]] (limited to specific area, constant presence)
+> - [[sporadic cases]] (isolated occurrences)
+> 🧱 **Contrast:** Epidemic là dịch lan rộng đột ngột, endemic là bệnh thường xuyên trong khu vực giới hạn

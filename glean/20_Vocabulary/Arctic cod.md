@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/environment/wildlife-conservation #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [Arctic cod, Boreogadus saida, polar fish, Arctic fish species]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈɑːktɪk kɒd/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1-B2
+> **Register:** scientific/academic
+> **Etymology:** "Arctic" from Greek "arktikos" (of the north/bear) + "cod" from Old English "codd"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A species of fish (Boreogadus saida) found in the cold Arctic waters
+>
+> **Context Meaning:** An important food source in Arctic ecosystems, specially adapted to survive in freezing conditions
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cá tuyết Bắc Cực
+> - **Contextual:** cá tuyết Bắc Cực (loài cá đặc trưng của vùng cực Bắc)
+>
 > **Nuances:**
-> - ...
+> - Different from Atlantic cod - a separate species adapted to Arctic conditions
+> - Key species in Arctic food chain, serving as food for seals, whales, and birds
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Resilient, Cold-adapted, Essential
+> **Memory Hook:** Imagine a fish wearing an "Arctic" coat to survive the icy waters
+> **📖 Etymology Story:** The Arctic cod carries its home in its name - "Arctic" from the northern constellations, while "cod" connects to the ancient fishing traditions of northern peoples
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[codfish]], [[cod liver oil]], [[Arctic]] (region)
+> - **Adj:** [[Arctic]] /ˈɑːktɪk/, [[cold-water]] /ˈkəʊld ˈwɔːtə(r)/
+> - **Adv:** [[Arctically]] /ˈɑːktɪkli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[polar cod]] : alternative common name
+> - [[Boreogadus saida]] : scientific name
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[tropical fish]] : opposite climate adaptation
+> - [[warm-water species]] : opposite habitat requirement
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. Arctic cod population
+> 2. feed on Arctic cod
+> 3. Arctic cod fishery
+
+> **1. Example Context 1 (Ecology)**
+> - **Sentence:** Seals and polar bears heavily rely on Arctic cod as their primary food source during winter.
+> - **Translation:** Cá voi và gấu Bắc Cực phụ thuộc nhiều vào cá tuyết Bắc Cực làm nguồn thức ăn chính trong mùa đông.
+>
+> **2. Example Context 2 (Climate Change)**
+> - **Sentence:** Rising Arctic temperatures are affecting the Arctic cod's habitat and breeding patterns.
+> - **Translation:** Nhiệt độ Bắc Cực đang tăng đang ảnh hưởng đến môi trường sống và sinh sản của cá tuyết Bắc Cực.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Species confusion**
+> - ❌ **Mistake:** Confusing Arctic cod with Atlantic cod
+> - ✅ **Correction:** They are different species adapted to different water temperatures
+> - **Why:** Arctic cod has special adaptations for freezing waters that Atlantic cod lacks
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The Arctic cod serves as a crucial link in the Arctic marine food web."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +79,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **Arctic cod** (*/ˈɑːktɪk kɒd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A species of fish (Boreogadus saida) native to Arctic Ocean waters, adapted to survive in extremely cold conditions
+> 🇻🇳 **Vietnamese:** Cá tuyết Bắc Cực
+> 🗣️ **IPA:** */ˈɑːktɪk kɒd/*
+> 🧠 **Mental Model:** Think of a fish wearing natural "antifreeze" in its blood to live in icy northern waters (VN: cá có chất chống đông tự nhiên để sống trong nước lạnh)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A cold-adapted fish species crucial to Arctic marine ecosystems"
+**Vietnamese:** Loài cá thích nghi với lạnh quan trọng trong hệ sinh thái biển Bắc Cực
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**Arctic cod** (*/ˈɑːktɪk kɒd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **Arctic cod** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The declining Arctic cod population threatens the survival of many Arctic marine predators.
+> 🇻🇳 **Translation:** Sự suy giảm dân số cá tuyết Bắc Cực đe dọa sự sống còn của nhiều loài săn mồi biển Bắc Cực.
+> 🔍 **Analysis:** "Arctic cod" specifically identifies this cold-adapted species, distinguishing it from other cod species and emphasizing its Arctic habitat (VN: "Arctic cod" xác định cụ thể loài cá thích nghi lạnh này)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **Arctic cod**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Ecosystem Role:** Arctic cod population (dân số cá tuyết Bắc Cực)
+> 2. **Feeding Behavior:** feed on Arctic cod (ăn cá tuyết Bắc Cực)
+> 3. **Fishing Industry:** sustainable Arctic cod fishery (ngành cá tuyết Bắc Cực bền vững)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **Arctic cod**:
+"The fish is important for seals in cold waters."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The Arctic cod constitutes up to 70% of the harp seal's diet during the winter months."
+> 💡 **Why it works:** "Arctic cod" precisely identifies the species and its importance in the food chain (VN: "Arctic cod" xác định chính xác loài cá và tầm quan trọng của nó)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **Arctic cod** instead of **Atlantic cod**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **Arctic cod:** Species adapted to sub-zero waters (VN: Loài thích nghi với nước dưới độ không)
+> **Atlantic cod:** Temperate water species (VN: Loài sống ở nước ôn đới)
+> 🧱 **The Barrier:** Different species with different temperature adaptations and geographic distributions (VN: Các loài khác nhau có khả năng thích nghi nhiệt độ và phân bố địa lý khác nhau)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're watching a documentary about Arctic wildlife. You see a polar bear hunting. Say what it's likely catching!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Look! The polar bear is hunting for Arctic cod beneath the ice!"
+> 👨‍🎨 **Director's Note:** Shows understanding of Arctic food chain (VN: Thể hiện sự hiểu biết về chuỗi thức ăn Bắc Cực)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `arktikos` (Arctic) to the meaning of **Arctic cod**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Greek "arktikos" meant "of the north" or "of the bear" (referring to constellations). The Arctic cod embodies this northern identity, thriving where few other fish can survive (VN: "arktikos" nghĩa là "của phương Bắc," loài cá này hiện thực hóa bản sắc phương Bắc đó)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **Arctic cod**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `arktikos` (northern) + Old English `codd` (fish)
+> 👨‍👩‍👧 **Family:**
+> - *(related species)* Atlantic cod, Pacific cod
+> - *(habitat)* Arctic waters, polar regions
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈɑːktɪk kɒd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**Arctic cod**
+> 📖 **Meaning:** Cold-adapted fish species of Arctic waters
+> 🇻🇳 **Vietnamese:** Cá tuyết Bắc Cực
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **Arctic cod**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The Arctic cod is the same as the cod we buy for fish and chips."
+> ✅ **Correction:** "The Arctic cod is different from the Atlantic cod typically used for fish and chips."
+> 🧠 **Why:** They are different species adapted to different water temperatures (VN: Chúng là các loài khác nhau, thích nghi với nhiệt độ nước khác nhau)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **Arctic cod**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[tropical fish]] (cá nhiệt đới)
+> - [[warm-water species]] (loài nước ấm)
+> 🧱 **Contrast:** Opposite climate adaptations - one for freezing waters, one for warm waters
 
 ---

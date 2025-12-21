@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/arts-architecture/art-forms #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [venue, multiple venues, various venues, locations, sites, 几个场地, 多个场馆, 不同场所]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsevrəl ˈvenjuːz/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** From Latin "venire" (to come) + French "venir" (to come) + English plural "-s"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** More than two but not many places where events happen
+>
+> **Context Meaning:** Multiple locations or sites where events, performances, or activities take place
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** vài nơi/chỗ
+> - **Contextual:** nhiều địa điểm, nhiều cơ sở, several nơi tổ chức
+>
 > **Nuances:**
-> - ...
+> - "Several" typically means 3-7, not just two or very many
+> - Venues are prepared places for specific activities
+> - Implies variety or choice of locations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Versatile, accommodating, varied
+> **Memory Hook:** "Come" (venire) + "s" (plural) = places where people come together
+> **📖 Etymology Story:** From Latin meaning "places to come," venues are designed as gathering spots where people arrive for shared experiences
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[venue]] /ˈvenjuː/ : single location
+> - **Noun:** [[venues]] /ˈvenjuːz/ : multiple locations
+> - **Phrase:** [[several venues]] /ˈsevrəl ˈvenjuːz/ : multiple sites
+> - **Adj:** [[multi-venue]] /ˈmʌltivenjuː/ : having multiple sites
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[locations]] /loʊˈkeɪʃənz/ : places
+> - [[sites]] /saɪts/ : positions/places
+> - [[facilities]] /fəˈsɪlətiz/ : equipped places
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[single venue]] /ˈsɪŋɡəl ˈvenjuː/ : one location
+> - [[centralized]] /ˈsentrəlaɪzd/ : in one place
+> - [[concentrated]] /ˈkɑːnsntreɪtɪd/ : gathered together
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. book/reserve several venues
+> 2. concert/wedding venues
+> 3. across/in several venues
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The music festival will take place across several venues throughout the city center.
+> - **Translation:** Lễ hội âm nhạc sẽ diễn ra tại nhiều địa điểm khác nhau trong trung tâm thành phố.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** We're considering several venues for the conference, including hotels and convention centers.
+> - **Translation:** Chúng tôi đang xem xét nhiều địa điểm cho hội nghị, bao gồm cả khách sạn và trung tâm hội nghị.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Number agreement**
+> - ❌ **Mistake:** "Several venues is available" (singular verb)
+> - ✅ **Correction:** "Several venues are available" (plural verb)
+> - **Why:** "Venues" is plural, requiring plural verb
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A successful tour requires careful coordination across several venues, each with its unique challenges and charms."
+> **Source:** [[Event Management Guide]]
 
 ---
 
@@ -161,121 +83,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **several venues** (*/ˈsevrəl ˈvenjuːz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Multiple locations (typically 3-7) where events or activities can be held
+> 🇻🇳 **Vietnamese:** Nhiều địa điểm - nhiều nơi (thường 3-7 nơi) có thể tổ chức sự kiện hoặc hoạt động
+> 🗣️ **IPA:** */ˈsevrəl ˈvenjuːz/*
+> 🧠 **Mental Model:** Hình ảnh nhiều địa điểm khác nhau rải rác trong thành phố, mỗi nơi có thể tổ chức sự kiện
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Multiple locations where events or activities take place"
+**Vietnamese:** Nhiều địa điểm nơi sự kiện hoặc hoạt động diễn ra
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**several venues** (*/ˈsevrəl ˈvenjuːz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **several venues** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The art exhibition will be displayed across several venues to accommodate more visitors and showcase diverse collections.
+> 🇻🇳 **Translation:** Triển lãm nghệ thuật sẽ được trưng bày tại nhiều địa điểm để phục vụ nhiều khách tham quan hơn và trưng bày các bộ sưu tập đa dạng.
+> 🔍 **Analysis:** "Several venues" phù hợp để mô tả việc triển lãm được tổ chức tại nhiều địa điểm khác nhau
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **several venues**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** book/reserve/secure several venues (VN note: đặt/trừ chỗ nhiều địa điểm - hành động chuẩn bị)
+> 2. **Type:** conference/wedding/concert venues (VN note: địa điểm hội nghị/cưới/hòa nhạc - loại hình sự kiện)
+> 3. **Distribution:** across/throughout/in several venues (VN note: rải rác/khắp/trong nhiều địa điểm - sự phân bố)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **several venues**:
+"The event will be in different places."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The international film festival will screen movies across several venues, from historic theaters to modern cinemas."
+> 💡 **Why it works:** "Several venues" thể hiện sự có tổ chức và đa dạng địa điểm hơn "different places"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **several venues** instead of **many places**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **several venues:** Chỉ số lượng cụ thể (3-7), những địa điểm được chuẩn bị cho sự kiện
+> **many places:** Số lượng không xác định, có thể bất kỳ đâu, không nhất thiết đã chuẩn bị
+> 🧱 **The Barrier:** Several venues có giới hạn số lượng và mục đích, many places chung chung
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're organizing a city-wide food festival. You're explaining the scale to volunteers. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We'll need to coordinate food stalls across several venues, from the main square to the riverside park."
+> 👨‍🎨 **Director's Note:** "Several venues" thể hiện quy mô lớn và sự phức tạp trong tổ chức
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `venire` to the meaning of **several venues**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "venire" (đến) đã phát triển thành "venue" (nơi người ta đến), và "several venues" nghĩa là "nhiều nơi người ta đến"
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **several venues**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Mixed Origins:** Old English "several" (separate) + Latin/French "venue" (place people come)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[venue]]: một địa điểm
+> - *(adj)* [[multi-venue]]: có nhiều địa điểm
+> - *(verb)* [[venue-hop]]: di chuyển giữa các địa điểm
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsevrəl ˈvenjuːz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**several venues**
+> 📖 **Meaning:** Multiple event locations
+> 🇻🇳 **Vietnamese:** Nhiều địa điểm tổ chức sự kiện
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **several venues**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Using singular verb with plural "venues"
+> ✅ **Correction:** "Several venues ARE" (plural verb)
+> 🧠 **Why:** "Venues" is always plural, requires plural verb agreement
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **several venues**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[single venue]] (một địa điểm)
+> - [[centralized location]] (địa điểm tập trung)
+> - [[one site]] (một nơi)
+> 🧱 **Contrast:** Several venues đa dạng địa điểm, single venue tập trung một nơi

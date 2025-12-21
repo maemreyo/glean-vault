@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [head for, head to, head toward, head towards]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /hed fɔːr/
+> **Part of Speech:** Phrasal Verb
+> **CEFR Level:** B2
+> **Register:** Neutral
+> **Etymology:** Old English "heafod" (head) + "for" (direction)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To move or travel toward a particular place or destination
+>
+> **Context Meaning:** To move in the direction of a place, especially when traveling
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Đi về phía, hướng tới
+> - **Contextual:** Đi đến, tiến tới
+>
 > **Nuances:**
-> - ...
+> - Implies intentional movement toward a destination
+> - Often used for travel or movement
+> - Can suggest purpose or direction in life
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Purposeful, Decisive, Journey-oriented
+> **Memory Hook:** Imagine your head literally pointing toward your destination, leading your body there
+> **📖 Etymology Story:** The physical head leads the body, so when you "head for" somewhere, your intention and movement align like a body following its head's direction
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[head]] /hed/ : top part of body, leader
+> - **Verb:** [[head]] /hed/ : to lead or be in charge
+> - **Adj:** [[headed]] /hedɪd/ : going in a direction
+> - **Adv:** [[headfirst]] /hedfɜːst/ : with head first
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[make for]] /meɪk fɔːr/ : to move toward
+> - [[go toward]] /ɡoʊ təˈwɔːrd/ : to move in direction of
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[head away from]] /hed əˈweɪ frɒm/ : to move opposite direction
+> - [[flee from]] /fliː frɒm/ : to escape from
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. head for home
+> 2. head for trouble
+> 3. head for the exit
+>
+> **1. Example Context 1 (Travel)**
+> - **Sentence:** We should head for the station now if we want to catch the last train.
+> - **Translation:** Chúng ta nên đi về hướng ga bây giờ nếu muốn bắt kịp chuyến tàu cuối.
+>
+> **2. Example Context 2 (Warning)**
+> - **Sentence:** The dark clouds indicate we're heading for a storm.
+> - **Translation:** Những đám mây đen cho thấy chúng ta đang hướng tới một cơn bão.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** We headed to the mountains.
+> - ✅ **Correction:** We headed for the mountains.
+> - **Why:** "Head for" implies direction toward, while "head to" is also acceptable but "head for" emphasizes the destination more strongly
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "It's getting late, let's head for home."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **head for** (*/hed fɔːr/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To move or travel in the direction of a particular place or destination
+> 🇻🇳 **Vietnamese:** Di chuyển hoặc đi du lịch theo hướng đến một nơi cụ thể
+> 🗣️ **IPA:** */hed fɔːr/*
+> 🧠 **Mental Model:** Giống như con vịt quay đầu đi về phía hồ nước - đầu hướng dẫn cả cơ thể
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To move or travel in the direction of a particular place or destination"
+**Vietnamese:** Di chuyển hoặc đi du lịch theo hướng đến một nơi cụ thể
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**head for** (*/hed fɔːr/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **head for** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** As the sun began to set, we decided to head for the campsite before darkness fell.
+> 🇻🇳 **Translation:** Khi mặt trời bắt đầu lặn, chúng tôi quyết định đi về phía khu cắm trại trước khi trời tối.
+> 🔍 **Analysis:** "head for" thể hiện sự chủ động và có mục đích di chuyển đến một điểm đến cụ thể, nhấn mạnh định hướng
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **head for**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Travel Movement:** head for home (về nhà)
+> 2. **Warning/Danger:** head for trouble (gặp rắc rối)
+> 3. **Direction Change:** head for the hills (trốn thoát)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **head for**:
+"We are going to the airport."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We need to head for the airport immediately if we want to catch our flight."
+> 💡 **Why it works:** "head for" thể hiện sự khẩn cấp và chủ động hơn so với "go to", tạo cảm giác có mục đích rõ ràng
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **head for** instead of [[go to]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **head for:** Di chuyển có chủ đích, thường xuyên dùng cho việc đi du lịch, nhấn mạnh hướng đi (VN: có định hướng, mục đích rõ ràng)
+> **go to:** Di chuyển thông thường, không nhấn mạnh chủ đích (VN: đi đến nơi nào đó)
+> 🧱 **The Barrier:** "head for" mang sắc thái chủ động và định hướng mạnh hơn, như thể bạn đang dẫn dắt cuộc hành trình
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a party and it's already 11 PM. You have work tomorrow. You feel tired. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I think it's time for me to head for home."
+> 👨‍🎨 **Director's Note:** "head for home" thể hiện sự chủ động rút lui một cách lịch sự, cho thấy có trách nhiệm với công việc ngày mai
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `heafod` to the meaning of **head for**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English "heafod" (đầu) + "for" (hướng). Đầu là phần dẫn dắt cơ thể, nên "head for" giống như để đầu dẫn dắt cả cơ thể đi về đích
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **head for**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `heafod` (top part, leader)
+> 👨‍👩‍👧 **Family:**
+> - *(phrasal verb)* head out (bắt đầu đi)
+> - *(noun)* [[headquarters]] (trụ sở chính)
+> - *(adj)* [[headstrong]] (cứng đầu, cố chấp)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */hed fɔːr/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**head for**
+> 📖 **Meaning:** To move or travel in the direction of a particular place
+> 🇻🇳 **Vietnamese:** Đi về phía, hướng tới
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **head for**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We are heading to the city
+> ✅ **Correction:** We are heading for the city
+> 🧠 **Why:** "head for" thể hiện rõ hơn về hướng đi và đích đến, mặc dù "head to" cũng có thể dùng nhưng ít phổ biến hơn
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **head for**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[head away from]] (di chuyển đi hướng ngược lại)
+> - [[flee from]] (bỏ trốn khỏi)
+> 🧱 **Contrast:** "head for" là chủ động đi đến, "head away from" là chủ động đi xa, "flee from" là bỏ trốn vì sợ hãi
 
 ---

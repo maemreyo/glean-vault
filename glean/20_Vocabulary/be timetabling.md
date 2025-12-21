@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/education/university-academic-life #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [be timetabling, timetable, schedule, scheduling, planning]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /biː ˈtaɪmˌteɪblɪŋ/
+> **Part of Speech:** phrasal verb (continuous)
+> **CEFR Level:** B2
+> **Register:** educational/academic
+> **Etymology:** "Time" (from Old English "tima") + "table" (from Latin "tabula") + "-ing" (continuous participle)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In the process of creating a schedule or timetable
+>
+> **Context Meaning:** Currently organizing classes, exams, or events into a time schedule
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đang lập thời khóa biểu
+> - **Contextual:** đang sắp xếp lịch trình
+>
 > **Nuances:**
-> - ...
+> - Often used in educational institutions
+> - Continuous tense emphasizes ongoing process
+> - May involve coordination of multiple resources
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized, Coordinating, Planning
+> **Memory Hook:** Imagine arranging events on a time "table" or schedule board
+> **📖 Etymology Story:** "Timetable" emerged from the practice of writing times in tables; adding "-ing" creates the action of creating these schedules
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[timetable]], [[schedule]], [[planning]]
+> - **Verb:** [[timetable]], [[schedule]], [[arrange]], [[coordinate]]
+> - **Adj:** [[scheduled]] /ˈʃedjuːld/, [[organized]] /ˈɔːgənaɪzd/
+> - **Adv:** [[systematically]] /sɪstəˈmætɪkli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[be scheduling]] : more common general term
+> - [[be arranging]] : broader, less specific to time
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms, but [[be canceling]] could be opposite in action
+> - [[be delaying]] : opposite of organizing ahead
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. be timetabling exams
+> 2. be timetabling classes
+> 3. be timetabling for next term
+
+> **1. Example Context 1 (Administration)**
+> - **Sentence:** The registrar's office is timetabling all first-year courses for next semester.
+> - **Translation:** Văn phòng đăng ký đang lập thời khóa biểu cho tất cả các khóa học năm nhất cho học kỳ tới.
+>
+> **2. Example Context 2 (Student)**
+> - **Sentence:** They're timetabling the final exams around the holiday period.
+> - **Translation:** Họ đang sắp xếp lịch thi cuối kỳ quanh kỳ nghỉ lễ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Tense confusion**
+> - ❌ **Mistake:** "We timetable the classes yesterday."
+> - ✅ **Correction:** "We were timetabling the classes yesterday." or "We timetabled the classes yesterday."
+> - **Why:** The context requires past tense, not present
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We're currently timetabling the lecture halls to accommodate all sections."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **be timetabling** (*/biː ˈtaɪmˌteɪblɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In the process of creating or organizing a schedule, especially for classes, exams, or events
+> 🇻🇳 **Vietnamese:** Đang lập thời khóa biểu
+> 🗣️ **IPA:** */biː ˈtaɪmˌteɪblɪŋ/*
+> 🧠 **Mental Model:** Picture someone arranging events on a calendar or time grid (VN: hình dung ai đó đang sắp xếp sự kiện trên lịch)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Currently organizing events or classes into a time schedule"
+**Vietnamese:** Hiện đang tổ chức sự kiện hoặc lớp học vào thời gian biểu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**be timetabling** (*/biː ˈtaɪmˌteɪblɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **be timetabling** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The department is timetabling tutorials to avoid conflicts with laboratory sessions.
+> 🇻🇳 **Translation:** Khoa đang sắp xếp lịch hướng dẫn để tránh trùng lịch với các buổi thực nghiệm.
+> 🔍 **Analysis:** "Be timetabling" emphasizes the ongoing process of scheduling, common in educational contexts (VN: "be timetabling" nhấn mạnh quá trình đang diễn ra của việc sắp xếp lịch)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **be timetabling**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Academic:** be timetabling lectures/exams (đang xếp lịch bài giảng/kiểm tra)
+> 2. **Planning:** be timetabling for next term/year (đang lập lịch cho học kỳ/năm tới)
+> 3. **Coordination:** be timetabling around (sắp xếp lịch xung quanh)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **be timetabling**:
+"They are planning the class times."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The administration is timetabling the intensive language courses to maximize resource utilization."
+> 💡 **Why it works:** "Be timetabling" specifically refers to scheduling activities in time slots (VN: "be timetabling" chỉ riêng việc sắp xếp hoạt động theo khung giờ)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **be timetabling** instead of **be planning**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **be timetabling:** Specifically arranging time slots (VN: Cụ thể sắp xếp các khung giờ)
+> **be planning:** General preparation/organization (VN: Chuẩn bị/tổ chức chung)
+> 🧱 **The Barrier:** Specificity - "timetabling" is about time allocation, "planning" is broader (VN: Tính cụ thể - "timetabling" về phân bổ thời gian)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a school administrator. Your colleague asks what you're busy with. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm timetabling all the mathematics classes for next term, and it's quite complex!"
+> 👨‍🎨 **Director's Note:** Shows professional administrative work (VN: Thể hiện công việc quản lý chuyên nghiệp)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `tabula` (table) to the meaning of **be timetabling**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin "tabula" (writing tablet), evolved to mean arranging times in tables - timetabling is the active creation of these organized time tables (VN: từ "tabula" nghĩa là bảng viết)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **be timetabling**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `tima` (time) + Latin `tabula` (tablet) + Old English `-ende` (present participle)
+> 👨‍👩‍👧 **Family:**
+> - *(base verb)* timetable
+> - *(related)* schedule, calendar, agenda
+> - *(noun form)* timetable
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */biː ˈtaɪmˌteɪblɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**be timetabling**
+> 📖 **Meaning:** Currently creating a schedule
+> 🇻🇳 **Vietnamese:** Đang lập thời khóa biểu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **be timetabling**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "We be timetabling the meetings every Monday."
+> ✅ **Correction:** "We are timetabling the meetings every Monday."
+> 🧠 **Why:** Need auxiliary verb "are/were/will be" for continuous tenses (VN: Cần động từ trợ giúp "are/were/will be" cho thì tiếp diễn)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **be timetabling**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[be canceling]] (đang hủy)
+> - [[be postponing]] (đang hoãn)
+> 🧱 **Contrast:** From organizing schedules to canceling or delaying them
 
 ---

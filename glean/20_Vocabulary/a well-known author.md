@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
 #flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [famous author, renowned writer, popular novelist, acclaimed author, bestselling writer]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə wel ˈnəʊn ˈɔːθə(r)/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** formal/general
+> **Etymology:** "Well" (from Old English "wel") + "known" (past participle of "know") + "author" (from Latin "auctor" - creator)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A writer who is widely recognized and familiar to many people.
+>
+> **Context Meaning:** An author whose work and name are familiar to the general public due to popularity and recognition.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tác giả nổi tiếng
+> - **Contextual:** nhà văn nổi tiếng, tác giả quen thuộc, người viết truyện nổi tiếng
+>
 > **Nuances:**
-> - ...
+> - Implies widespread recognition beyond literary circles
+> - Suggests commercial success or critical acclaim
+> - Can refer to living or deceased writers
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Recognized, Celebrated, Influential
+> **Memory Hook:** Picture an author whose books are everywhere (well-known) in bookstores and libraries
+> **📖 Etymology Story:** Latin "auctor" (one who creates) + Medieval concept of being "well known" throughout the land → modern author whose fame has spread widely.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[author]] /ˈɔːθə(r)/
+> - **Adj:** [[well-known]] /wel ˈnəʊn/
+> - **Verb:** [[author]] /ˈɔːθə(r)/
+> - **Noun:** [[authorship]] /ˈɔːθəʃɪp/
+>
+> **Related Phrasals:**
+> - [[well-known for]] (famous because of)
+> - [[become known as]] (gain recognition as)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[famous author]] /ˈfeɪməs ˈɔːθə(r)/ : widely recognized writer
+> - [[renowned writer]] /rɪˈnaʊnd ˈraɪtə(r)/ : highly acclaimed author
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[unknown author]] /ˌʌnˈnəʊn ˈɔːθə(r)/ : unfamiliar writer
+> - [[obscure writer]] /əbˈskjʊə(r) ˈraɪtə(r)/ : little-known author
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. internationally well-known author
+> 2. become a well-known author
+> 3. well-known author of
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** J.K. Rowling became a well-known author after the success of Harry Potter.
+> - **Translation:** J.K. Rowling trở thành tác giả nổi tiếng sau thành công của Harry Potter.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The bookstore features books by many well-known authors.
+> - **Translation:** Nhà sách này có các sách của nhiều tác giả nổi tiếng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Order**
+> - ❌ **Mistake:** "An author well-known"
+> - ✅ **Correction:** "A well-known author"
+> - **Why:** Well-known is a compound adjective that comes before the noun it modifies
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "She interviewed a well-known author for her school project."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +85,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a well-known author** (*/ə wel ˈnəʊn ˈɔːθə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A writer who is widely recognized and familiar to many people
+> 🇻🇳 **Vietnamese:** Tác giả nổi tiếng, nhà văn quen thuộc
+> 🗣️ **IPA:** */ə wel ˈnəʊn ˈɔːθə(r)/*
+> 🧠 **Mental Model:** Người viết sách + ai cũng biết = tác giả nổi tiếng (recognition beyond literary circles)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A writer who is widely recognized and familiar to many people"
+**Vietnamese:** Tác giả nổi tiếng, nhà văn quen thuộc
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a well-known author** (*/ə wel ˈnəʊn ˈɔːθə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a well-known author** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The festival invited several well-known authors to give readings and sign books.
+> 🇻🇳 **Translation:** Lễ hội đã mời một số tác giả nổi tiếng để đọc truyện và ký sách.
+> 🔍 **Analysis:** A well-known author là hoàn hảo vì nó chỉ ra recognition và popularity - rất natural khi nói về literary events.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a well-known author**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Recognition Level:** internationally well-known author, nationally well-known author, locally well-known author
+> 2. **Genre:** well-known author of mysteries, well-known author of romance novels, well-known children's author
+> 3. **Action:** become a well-known author, interview a well-known author, meet a well-known author
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a well-known author**:
+"The writer is famous."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Stephen King is a well-known author of horror novels with millions of fans worldwide."
+> 💡 **Why it works:** A well-known author sounds much more natural và idiomatic - shows specific recognition trong literary world.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a well-known author** instead of **a famous writer**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a well-known author:** Tác giả nổi tiếng (VN: được recognition bởi nhiều người) - implies widespread familiarity
+> **a famous writer:** Nhà văn nổi tiếng (VN: nổi tiếng hơn, có thể có scandal) - sometimes implies celebrity status
+> 🧱 **The Barrier:** Recognition vs Celebrity - well-known focuses on familiarity, famous can imply broader fame or notoriety.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks about book recommendations. You're excited to share. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You should read this book! It's by a well-known author who writes amazing mysteries."
+> 👨‍🎨 **Director's Note:** Enthusiastic recommendation - showing you value both the author's recognition và quality of writing.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `auctor` to the meaning of **a well-known author**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "auctor" (creator, originator) + Medieval "well-known" concept (recognized throughout land) → modern well-known author - creator whose name recognition has spread far beyond original readers.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a well-known author**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `auctor` (creator, originator) + Old English `wel` (good) + `cnāwan` (to know)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[author]] - person who writes books
+> - *(adj)* [[well-known]] - widely recognized
+> - *(noun)* [[authorship]] - act of writing
+> - *(verb)* [[author]] - to write/create
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə wel ˈnəʊn ˈɔːθə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a well-known author**
+> 📖 **Meaning:** A writer who is widely recognized and familiar to many people
+> 🇻🇳 **Vietnamese:** Tác giả nổi tiếng, nhà văn quen thuộc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a well-known author**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The book was written by an author well-known"
+> ✅ **Correction:** "The book was written by a well-known author"
+> 🧠 **Why:** Well-known is a compound adjective that comes BEFORE the noun - hyphenated when used as a single adjective unit.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a well-known author**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[an unknown author]] (no public recognition)
+> - [[an obscure writer]] (little-known, hard to find)
+> 🧱 **Contrast:** Well-known author has widespread recognition; unknown author has no recognition; obscure writer has limited or niche recognition.
 
 ---

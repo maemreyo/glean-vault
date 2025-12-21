@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
 #flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [desertification, deforestation, land degradation, soil erosion]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dɪˌzɜːtɪfɪˈkeɪʃn/
+> **Part of Speech:** Noun
+> **CEFR Level:** C1
+> **Register:** Academic/Formal
+> **Etymology:** Latin "desertum" (desert) + "-fication" (process of making)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The process of becoming desert
+>
+> **Context Meaning:** The process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Sa mạc hóa
+> - **Contextual:** Quá trình biến đất màu mỡ thành sa mạc
+>
 > **Nuances:**
-> - ...
+> - Gradual environmental degradation
+> - Often human-accelerated process
+> - Irreversible in advanced stages
+> - Major environmental concern globally
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Alarming, Scientific, Urgent
+> **Memory Hook:** Imagine lush green lands slowly fading into yellow sand, like time-lapse photography
+> **📖 Etymology Story:** From Latin "desertum" (abandoned place) - the earth becoming abandoned by life as conditions turn hostile
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[desert]] /ˈdezərt/ : arid region
+> - **Verb:** [[desertify]] /dɪˈzɜːtɪfaɪ/ : to turn into desert
+> - **Adj:** [[desertified]] /dɪˈzɜːtɪfaɪd/ : turned into desert
+> - **Adv:** [[aridly]] /ˈærɪdli/ : in a dry way
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[land degradation]] /lænd ˌdeɡrəˈdeɪʃn/ : deterioration of land
+> - [[soil erosion]] /sɔɪl ɪˈroʊʒn/ : washing away of soil
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[reforestation]] /riːfɔːrɪˈsteɪʃn/ : planting trees again
+> - [[land restoration]] /lænd rɛstəˈreɪʃn/ : restoring land health
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. combat desertification
+> 2. prevent desertification
+> 3. desertification process
+>
+> **1. Example Context 1 (Environmental science)**
+> - **Sentence:** Desertification affects over two-thirds of the world's agricultural land.
+> - **Translation:** Sa mạc hóa ảnh hưởng đến hơn hai phần ba diện tích đất nông nghiệp của thế giới.
+>
+> **2. Example Context 2 (Policy)**
+> - **Sentence:** The UN launched initiatives to combat desertification in Africa.
+> - **Translation:** Liên Hợp Quốc đã triển khai các sáng kiến chống sa mạc hóa ở châu Phi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling confusion**
+> - ❌ **Mistake:** desertication
+> - ✅ **Correction:** desertification
+> - **Why:** Remember: "desert" + "-ification" (the process of making something)
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Climate change accelerates desertification in vulnerable regions."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **desertification** (*/dɪˌzɜːtɪfɪˈkeɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The process by which fertile land becomes desert, typically due to drought, deforestation, or inappropriate agriculture
+> 🇻🇳 **Vietnamese:** Quá trình biến đất màu mỡ thành sa mạc, thường do hạn hán, phá rừng hoặc nông nghiệp không phù hợp
+> 🗣️ **IPA:** */dɪˌzɜːtɪfɪˈkeɪʃn/*
+> 🧠 **Mental Model:** Xem time-lapse của đất xanh dần chuyển thành sa mạc vàng - cây chết, đất khô, không thể trồng trọt được nữa
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The process by which fertile land becomes desert, typically due to drought, deforestation, or inappropriate agriculture"
+**Vietnamese:** Quá trình biến đất màu mỡ thành sa mạc, thường do hạn hán, phá rừng hoặc nông nghiệp không phù hợp
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**desertification** (*/dɪˌzɜːtɪfɪˈkeɪʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **desertification** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Overgrazing and climate change have accelerated desertification in the Sahel region, affecting millions of farmers.
+> 🇻🇳 **Translation:** Chăn thả gia súc quá mức và biến đổi khí hậu đã đẩy nhanh quá trình sa mạc hóa ở vùng Sahel, ảnh hưởng đến hàng triệu nông dân.
+> 🔍 **Analysis:** "desertification" thể hiện quá trình môi trường nghiêm trọng, nhấn mạnh tác động của human activities và climate change
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **desertification**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** combat/fight desertification (chống sa mạc hóa)
+> 2. **Process:** prevent/stop desertification (ngăn ngừa sa mạc hóa)
+> 3. **Impact:** desertification threatens/saffects (sa mạc hóa đe dọa/ảnh hưởng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **desertification**:
+"The land is becoming a desert."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Rapid desertification is threatening the agricultural sustainability of this entire region."
+> 💡 **Why it works:** "desertification" là term khoa học, thể hiện quá trình và urgency, tạo hình ảnh về environmental crisis
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **desertification** instead of [[drought]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **desertification:** Quá trình dài hạn biến đất màu mỡ thành sa mạc, có thể reversed (VN: sa mạc hóa)
+> **drought:** Thiếu mưa tạm thời, có thể temporary (VN: hạn hán)
+> 🧱 **The Barrier:** "desertification" là permanent change, "drought" là temporary condition; drought có thể lead to desertification
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're an environmental scientist explaining climate change impacts to policymakers. The situation is urgent. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "If we don't act now, desertification will render 30% of our agricultural land useless within two decades."
+> 👨‍🎨 **Director's Note:** Sử dụng statistic và timeline cụ thể để thể hiện urgency của environmental issue
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `desertum` to the meaning of **desertification**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "desertum" (nơi bị bỏ hoang) + "-ification" (quá trình biến thành). Khi đất bị abandoned bởi sự sống do conditions quá harsh, nó becomes desert - quá trình này là desertification
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **desertification**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `desertum` (abandoned place) + `-ification` (process of making)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[desert]] /ˈdezərt/ (sa mạc)
+> - *(verb)* [[desertify]] /dɪˈzɜːtɪfaɪ/ (làm sa mạc hóa)
+> - *(noun)* [[deforestation]] /diːfɔːrɪˈsteɪʃn/ (phá rừng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dɪˌzɜːtɪfɪˈkeɪʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**desertification**
+> 📖 **Meaning:** The process by which fertile land becomes desert
+> 🇻🇳 **Vietnamese:** Sa mạc hóa
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **desertification**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We must stop desertication of our lands
+> ✅ **Correction:** We must stop desertification of our lands
+> 🧠 **Why:** Nhớ: "desert" + "-ification". Đây là technical term, spelling chính xác rất quan trọng
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **desertification**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[reforestation]] (tái trồng rừng)
+> - [[land restoration]] (phục hồi đất)
+> - [[afforestation]] (trồng rừng mới)
+> 🧱 **Contrast:** "desertification" là làm mất sự sống khỏi đất, "reforestation/restoration" là bringing life back to land
 
 ---

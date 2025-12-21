@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [provocative, provoke, provoking,挑衅,挑衅行为,激怒]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌprɒvəˈkeɪʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** C1
+> **Register:** formal/academic
+> **Etymology:** From Latin "provocatio" (a calling forth, challenge), from "provocare" (to call forth, challenge)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Action or speech that makes someone annoyed or angry, especially deliberately
+>
+> **Context Meaning:** An act or remark that intentionally provokes or stimulates a reaction, often negative
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự khiêu khích
+> - **Contextual:** hành động khiêu khích, lời nói kích động
+>
 > **Nuances:**
-> - ...
+> - Implies intentional action to elicit response
+> - Can be physical, verbal, or psychological
+> - Often used in conflict, legal, or diplomatic contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Deliberate, challenging, confrontational
+> **Memory Hook:** "Provoke" + "action" = provocation - an action that deliberately challenges someone
+> **📖 Etymology Story:** Ancient Roman leaders would issue "provocatio" - formal challenges to duels or debates, deliberately calling forth reactions from opponents
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[provocation]] /ˌprɒvəˈkeɪʃn/ : the act
+> - **Verb:** [[provoke]] /prəˈvoʊk/ : to cause reaction
+> - **Adj:** [[provocative]] /prəˈvɒkətɪv/ : causing reaction
+> - **Adv:** [[provocatively]] /prəˈvɒkətɪvli/ : in a provocative manner
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[incitement]] /ɪnˈsaɪtmənt/ : urging to action
+> - [[instigation]] /ˌɪnstɪˈɡeɪʃn/ : starting something
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[pacification]] /ˌpæsɪfɪˈkeɪʃn/ : calming
+> - [[appeasement]] /əˈpiːzmənt/ : making peaceful
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. deliberate/unnecessary provocation
+> 2. provocation leads to/results in
+> 3. respond to/ignore provocation
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The diplomat's speech was considered a clear provocation that could escalate tensions between the countries.
+> - **Translation:** Bài phát biểu của nhà ngoại giao được coi là một sự khiêu khích rõ ràng có thể làm leo thang căng thẳng giữa các quốc gia.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Despite repeated provocations, the team maintained their composure and focused on the match.
+> - **Translation:** Mặc dù bị khiêu khích nhiều lần, đội vẫn giữ bình tĩnh và tập trung vào trận đấu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with similar words**
+> - ❌ **Mistake:** "His provocation was very interesting" (wrong context)
+> - ✅ **Correction:** "His provocative statement was very interesting" or "His provocation led to a fight"
+> - **Why:** Provocation is the act of provoking, not the quality of being thought-provoking
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The greatest provocation is often silence in the face of injustice."
+> **Source:** [[Philosophical Writings]]
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **provocation** (*/ˌprɒvəˈkeɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An action or remark deliberately intended to annoy, anger, or provoke a reaction in someone
+> 🇻🇳 **Vietnamese:** Sự khiêu khích - hành động hoặc lời nói cố ý làm người khác tức giận để có phản ứng
+> 🗣️ **IPA:** */ˌprɒvəˈkeɪʃn/*
+> 🧠 **Mental Model:** Hình ảnh một người cố tình chọc tức người khác để có được phản ứng mong muốn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A deliberate action intended to provoke anger or reaction"
+**Vietnamese:** Hành động cố ý để khiêu khích sự tức giận hoặc phản ứng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**provocation** (*/ˌprɒvəˈkeɪʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **provocation** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The military exercise near the border was seen as a deliberate provocation by the neighboring country.
+> 🇻🇳 **Translation:** Cuộc tập trận quân sự gần biên giới bị coi là sự khiêu khích có chủ đích của nước láng giềng.
+> 🔍 **Analysis:** "Provocation" phù hợp vì nó mô tả hành động có chủ đích gây ra căng thẳng trong quan hệ quốc tế
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **provocation**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Description:** deliberate/blatant provocation (VN note: khiêu khích có chủ đích/công khai - tính cố ý)
+> 2. **Reaction:** respond to/ignore provocation (VN note: phản ứng với/bỏ qua khiêu khích - cách ứng phó)
+> 3. **Consequence:** provocation leads to... (VN note: khiêu khích dẫn đến... - kết quả)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **provocation**:
+"He said something to make me angry."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "His constant provocation eventually led to my outburst during the meeting."
+> 💡 **Why it works:** "Provocation" thể hiện hành động có chủ đích, lặp đi lặp lại, không chỉ là "said something" thông thường
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **provocation** instead of **criticism**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **provocation:** Hành động cố ý khiêu khích để gây phản ứng tiêu cực, thường có chủ đích xấu
+> **criticism:** Đánh giá hoặc nhận xét về lỗi sai, có thể mang tính xây dựng
+> 🧱 **The Barrier:** Provocation luôn tiêu cực và có chủ đích, criticism có thể tích cực hoặc tiêu cực
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your rival keeps making snide comments about your work. You're trying to stay professional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I refuse to respond to such childish provocation and will focus on the actual issues at hand."
+> 👨‍🎨 **Director's Note:** "Provocation" thể hiện sự chuyên nghiệp khi nhận ra và từ chối tham gia vào các hành động khiêu khích
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `provocare` to the meaning of **provocation**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "provocare" (pro = forth + vocare = to call) có nghĩa là "kêu gọi ra ngoài", dùng để chỉ việc thách thức hoặc khiêu khích người khác để có phản ứng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **provocation**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `provocare` (to call forth) --> `provocatio` (challenge) --> English `provocation`
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[provoke]]: khiêu khích
+> - *(adj)* [[provocative]]: gây khiêu khích
+> - *(adv)* [[provocatively]]: một cách khiêu khích
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌprɒvəˈkeɪʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**provocation**
+> 📖 **Meaning:** Deliberate action intended to provoke reaction
+> 🇻🇳 **Vietnamese:** Sự khiêu khích có chủ đích
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **provocation**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Using "provocation" for interesting ideas
+> ✅ **Correction:** Use "thought-provoking" for ideas, "provocation" for deliberate challenges
+> 🧠 **Why:** Provocation implies negative intent to provoke, not stimulate thinking
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **provocation**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[pacification]] (calming action)
+> - [[conciliation]] (action to reconcile)
+> - [[de-escalation]] (reducing tension)
+> 🧱 **Contrast:** Provocation increases conflict, pacification reduces it

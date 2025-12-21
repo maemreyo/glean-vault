@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
 #flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [meeting, convention, symposium, seminar, forum, gathering, congress]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkɒnfərəns/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** formal/business
+> **Etymology:** From Latin "conferentia" (bringing together, consultation) via "conferre" (to bring together)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A formal meeting where people with common interests or expertise gather to discuss matters.
+>
+> **Context Meaning:** An organized event, typically spanning multiple days, where professionals, academics, or experts meet to present and discuss specialized topics.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hội nghị, hội thảo
+> - **Contextual:** hội nghị chuyên ngành, hội thảo khoa học, cuộc họp quy mô lớn
+>
 > **Nuances:**
-> - ...
+> - More formal and larger than a typical meeting
+> - Often involves presentations, workshops, and networking
+> - Can be academic, business, or professional in nature
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, Collaborative, Knowledge-Sharing
+> **Memory Hook:** Picture experts "con-fer-ring" (bringing together) knowledge at one place
+> **📖 Etymology Story:** Latin "conferre" (to bring together) + "-entia" (act of) → conference - literally "bringing together" of minds and knowledge.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[conference]] /ˈkɒnfərəns/
+> - **Verb:** [[confer]] /kənˈfɜː(r)/
+> - **Noun:** [[conferee]] /ˌkɒnfəˈriː/
+> - **Adj:** [[conference]] /ˈkɒnfərəns/
+>
+> **Related Phrasals:**
+> - [[call a conference]] (organize meeting)
+> - [[conference call]] (telephone meeting)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[convention]] /kənˈvenʃ(ə)n/ : large formal meeting
+> - [[symposium]] /sɪmˈpəʊziəm/ : academic discussion
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[informal chat]] /ɪnˈfɔːml tʃæt/ : casual conversation
+> - **one-on-one** (private meeting)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. international conference
+> 2. attend a conference
+> 3. conference room
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She will present her research findings at the international education conference.
+> - **Translation:** Cô sẽ trình bày kết quả nghiên cứu của mình tại hội nghị giáo dục quốc tế.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The company holds an annual sales conference to discuss strategy and goals.
+> - **Translation:** Công ty tổ chức hội nghị bán hàng hàng năm để thảo luận chiến lược và mục tiêu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** "She spoke in the conference"
+> - ✅ **Correction:** "She spoke at the conference"
+> - **Why:** We use "at" for events/venues, not "in"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The academic conference brings together researchers from around the world."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +85,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **conference** (*/ˈkɒnfərəns/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A formal meeting where people with common interests or expertise gather to discuss matters
+> 🇻🇳 **Vietnamese:** Hội nghị, hội thảo, cuộc họp quy mô lớn
+> 🗣️ **IPA:** */ˈkɒnfərəns/*
+> 🧠 **Mental Model:** Con + fer + ence = bringing together knowledge (experts gathering to share specialized information)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A formal meeting where people with common interests or expertise gather to discuss matters"
+**Vietnamese:** Hội nghị, hội thảo
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**conference** (*/ˈkɒnfərəns/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **conference** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The climate change conference brought together scientists and policymakers from 195 countries.
+> 🇻🇳 **Translation:** Hội nghị biến đổi khí hậu đã quy tụ các nhà khoa học và nhà hoạch định chính sách từ 195 quốc gia.
+> 🔍 **Analysis:** Conference là hoàn hảo vì nó chỉ ra large-scale formal gathering - very professional trong academic và diplomatic contexts.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **conference**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Type:** international conference, academic conference, business conference, press conference
+> 2. **Action:** attend a conference, organize a conference, speak at a conference
+> 3. **Place:** conference center, conference room, conference hall
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **conference**:
+"People had a big meeting."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The medical association hosted a three-day international conference on breakthrough treatments for rare diseases."
+> 💡 **Why it works:** Conference specifies formal, professional gathering - sounds much more academic và shows organized knowledge exchange.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **conference** instead of **meeting**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **conference:** Hội nghị quy mô (VN: large, formal, specialized) - involves presentations, multiple sessions
+> **meeting:** Cuộc họp (VN: smaller, routine) - typical workplace discussion
+> 🧱 **The Barrier:** Scale & Formality - conference is major event with multiple participants; meeting is routine gathering.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague asks about your business trip. You're excited to share. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm attending a technology conference in San Francisco next week to present our new research."
+> 👨‍🎨 **Director's Note:** Professional announcement - demonstrates you're involved trong important industry knowledge sharing.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `conferre` to the meaning of **conference**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "conferre" (to bring together, compare) → "conferentia" (gathering for consultation) → modern conference - formal assembly where knowledge is brought together.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **conference**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `conferre` (to bring together) + suffix `-entia` (act of)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[conference]] - formal meeting
+> - *(verb)* [[confer]] - to consult/discuss
+> - *(noun)* [[conferee]] - conference participant
+> - *(noun)* [[reference]] - act of referring
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkɒnfərəns/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**conference**
+> 📖 **Meaning:** A formal meeting where people with common interests or expertise gather to discuss matters
+> 🇻🇳 **Vietnamese:** Hội nghị, hội thảo, cuộc họp quy mô lớn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **conference**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I had a conference with my boss about my salary"
+> ✅ **Correction:** "I had a meeting with my boss about my salary"
+> 🧠 **Why:** Conference implies large formal gathering; use meeting for one-on-one or small group discussions.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **conference**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - **informal gathering** (casual get-together)
+> - **one-on-one meeting** (private discussion)
+> 🧱 **Contrast:** Conference is large, formal, public event; informal gathering is casual; one-on-one is private and small-scale.
 
 ---

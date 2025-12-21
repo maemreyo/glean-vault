@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
 #flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [dairy cows, cattle, milk cow, bovine, livestock]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈdeəri kaʊ/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** general/farming
+> **Etymology:** "Dairy" (from Old English "dæge" - female servant) + "cow" (from Old English "cū")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A female cattle specifically bred and kept for milk production.
+>
+> **Context Meaning:** Cows raised on farms primarily for producing milk and dairy products rather than meat.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bò sữa
+> - **Contextual:** bò sữa, bò chuyên cho sữa
+>
 > **Nuances:**
-> - ...
+> - Refers specifically to female cows that have given birth
+> - Distinguished from beef cattle raised for meat
+> - Often part of larger dairy farm operations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Productive, Gentle, Domesticated
+> **Memory Hook:** Picture a gentle cow in green pasture producing milk (dairy) for farmers
+> **📖 Etymology Story:** Medieval dairy maids (dæges) tended to milk cows daily → evolved into modern "dairy cow" - the specialized cow that provides our milk.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[dairy]] /ˈdeəri/
+> - **Noun:** [[cow]] /kaʊ/
+> - **Adj:** [[dairy]] /ˈdeəri/
+> - **Noun:** [[cattle]] /ˈkæt(ə)l/
+>
+> **Related Phrasals:**
+> - [[milk the cow]] (extract milk)
+> - [[raise cattle]] (breed cows)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[milk cow]] /mɪlk kaʊ/ : cow for milk production
+> - [[bovine]] /ˈbəʊvaɪn/ : scientific term for cattle
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[beef cattle]] /biːf ˈkæt(ə)l/ : cows raised for meat
+> - [[bull]] /bʊl/ : male cattle
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. dairy farm
+> 2. milk production
+> 3. pasture-fed
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The dairy cow produces an average of 30 liters of milk per day.
+> - **Translation:** Con bò sữa này sản xuất trung bình 30 lít sữa mỗi ngày.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Modern dairy cows are specially bred for high milk yield.
+> - **Translation:** Bò sữa hiện đại được lai tạo đặc biệt để có sản lượng sữa cao.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Gender Confusion**
+> - ❌ **Mistake:** "The dairy cows produce less meat"
+> - ✅ **Correction:** "Dairy cows are not typically raised for meat production"
+> - **Why:** Dairy cows are specialized for milk, not meat production
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The farmer has 50 dairy cows on his farm."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +85,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **dairy cow** (*/ˈdeəri kaʊ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A female cattle specifically bred and kept for milk production
+> 🇻🇳 **Vietnamese:** Bò sữa, bò chuyên cho sữa
+> 🗣️ **IPA:** */ˈdeəri kaʊ/*
+> 🧠 **Mental Model:** Con bò cái + sản xuất sữa = bò sữa (trái ngược với bò thịt)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A female cattle specifically bred and kept for milk production"
+**Vietnamese:** Bò sữa, bò chuyên cho sữa
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**dairy cow** (*/ˈdeəri kaʊ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **dairy cow** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The Holstein is the most common breed of dairy cow in many countries.
+> 🇻🇳 **Translation:** Giống Holstein là giống bò sữa phổ biến nhất ở nhiều quốc gia.
+> 🔍 **Analysis:** Dairy cow là hoàn hảo vì nó chỉ rõ loại bò được nuôi để lấy sữa - very specific trong farming context.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **dairy cow**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Production:** dairy cow milk, dairy cow yield, dairy cow production
+> 2. **Management:** dairy cow farming, dairy cow breeding, dairy cow nutrition
+> 3. **Types:** Holstein dairy cow, Jersey dairy cow, pasture-fed dairy cow
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **dairy cow**:
+"The animal gives milk."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The Jersey dairy cow produces rich, creamy milk perfect for cheese making."
+> 💡 **Why it works:** Dairy cow sounds much more professional và specific - shows chúng ta đang nói về livestock industry, không chỉ là any animal.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **dairy cow** instead of **cattle**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **dairy cow:** Bò sữa cụ thể (VN: bò cái cho sữa) - chỉ loại bò chuyên sản xuất milk
+> **cattle:** Gia súc chung (VN: bò nói chung) - term bao gồm cả beef cattle và dairy cattle
+> 🧱 **The Barrier:** Specific vs General - dairy cow là specialized type, cattle là general category của tất cả bovine animals.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're visiting a farm. You see white-black spotted cows. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Are those Holstein dairy cows? They're known for their high milk production."
+> 👨‍🎨 **Director's Note:** Natural question showing farming knowledge - demonstrates bạn hiểu difference giữa dairy và beef cattle breeds.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `dæge` to the meaning of **dairy cow**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Anglo-Saxon dairy maids (dæges) milked cows daily → "dairy" became linked to milk production → dairy cow evolved as term for specialized milk-producing cattle.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **dairy cow**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `dæge` (dairy maid) + `cū` (cow)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[dairy]] - place producing milk products
+> - *(noun)* [[cow]] - general term for cattle
+> - *(noun)* [[cattle]] - plural for bovine animals
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈdeəri kaʊ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**dairy cow**
+> 📖 **Meaning:** A female cattle specifically bred and kept for milk production
+> 🇻🇳 **Vietnamese:** Bò sữa, bò chuyên cho sữa
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **dairy cow**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Dairy cows are good for steak"
+> ✅ **Correction:** "Beef cattle are raised for meat; dairy cows are raised for milk"
+> 🧠 **Why:** Dairy cows are specialized for milk production, not meat - different from beef cattle breeds.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **dairy cow**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[beef cattle]] (raised for meat production)
+> - [[bull]] (male cattle used for breeding)
+> 🧱 **Contrast:** Dairy cows produce milk; beef cattle produce meat; bulls produce offspring - each specialized for different purpose.
 
 ---

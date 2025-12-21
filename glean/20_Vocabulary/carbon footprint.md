@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [carbon footprint, carbon emissions, environmental impact, ecological footprint, CO2 emissions]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkɑːbən ˈfʊtprɪnt/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2-C1
+> **Register:** formal/scientific/academic
+> **Etymology:** "Carbon" from Latin "carbo" (coal) + "footprint" metaphor for environmental impact
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The total amount of greenhouse gases produced by human activities
+>
+> **Context Meaning:** A measure of the environmental impact of an individual, organization, or product in terms of carbon dioxide emissions
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** dấu chân carbon
+> - **Contextual:** lượng khí thải carbon
+>
 > **Nuances:**
-> - ...
+> - Measured in metric tons of CO2 equivalent
+> - Includes direct emissions (from fuel combustion) and indirect emissions (from electricity use, supply chain)
+> - Key concept in climate change discussions
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Responsible, Measurable, Impactful
+> **Memory Hook:** Imagine walking on Earth and leaving invisible "carbon" footprints that affect the climate
+> **📖 Etymology Story:** "Footprint" became a metaphor for environmental impact in the 1990s, creating a vivid image of humans treading heavily on Earth's atmosphere
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[carbon]], [[emissions]], [[greenhouse gases]]
+> - **Verb:** [[offset]], [[reduce]], [[calculate]]
+> - **Adj:** [[carbon-neutral]], [[sustainable]], [[environmental]]
+> - **Adv:** [[sustainably]] /səˈsteɪnəbli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[carbon emissions]] : more technical term
+> - [[environmental impact]] : broader term including other impacts
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[carbon neutral]] : zero net emissions
+> - [[carbon negative]] : removing more carbon than produced
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. reduce carbon footprint
+> 2. measure/calculate carbon footprint
+> 3. carbon footprint of
+
+> **1. Example Context 1 (Business)**
+> - **Sentence:** The company aims to reduce its carbon footprint by 50% by 2030.
+> - **Translation:** Công ty đặt mục tiêu giảm 50% lượng khí thải carbon vào năm 2030.
+>
+> **2. Example Context 2 (Personal)**
+> - **Sentence:** Flying less frequently can significantly reduce your personal carbon footprint.
+> - **Translation:** Ít đi máy bay hơn có thể giảm đáng kể lượng khí thải carbon cá nhân của bạn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Limited understanding**
+> - ❌ **Mistake:** Thinking carbon footprint only includes direct fuel use
+> - ✅ **Correction:** It includes both direct and indirect emissions (electricity, food, products)
+> - **Why:** The term encompasses the entire impact chain
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Understanding your carbon footprint is the first step toward reducing your environmental impact."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **carbon footprint** (*/ˈkɑːbən ˈfʊtprɪnt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The total amount of greenhouse gases (especially CO2) released directly or indirectly by an individual, organization, or activity
+> 🇻🇳 **Vietnamese:** Lượng khí thải carbon
+> 🗣️ **IPA:** */ˈkɑːbən ˈfʊtprɪnt/*
+> 🧠 **Mental Model:** Think of invisible "carbon footprints" left behind everything we do, from using electricity to buying food (VN: nghĩ về dấu chân carbon vô hình sau mỗi hành động)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The total environmental impact measured in terms of greenhouse gas emissions"
+**Vietnamese:** Tổng tác động môi trường được đo bằng lượng khí nhà kính
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**carbon footprint** (*/ˈkɑːbən ˈfʊtprɪnt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **carbon footprint** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Remote work can significantly reduce the carbon footprint associated with daily commuting.
+> 🇻🇳 **Translation:** Làm việc từ xa có thể giảm đáng kể lượng khí thải carbon liên quan đến đi lại hàng ngày.
+> 🔍 **Analysis:** "Carbon footprint" specifically quantifies environmental impact in CO2 terms, making abstract climate effects measurable (VN: "carbon footprint" lượng hóa tác động môi trường theo đơn vị CO2)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **carbon footprint**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** reduce/cut carbon footprint (giảm lượng khí thải carbon)
+> 2. **Measurement:** calculate/measure carbon footprint (tính toán/đo lượng khí thải carbon)
+> 3. **Comparison:** larger/smaller carbon footprint (lượng khí thải carbon lớn/hơn)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **carbon footprint**:
+"Planes cause pollution."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Air travel contributes significantly to an individual's annual carbon footprint, accounting for up to 75% of their transportation emissions."
+> 💡 **Why it works:** "Carbon footprint" precisely measures environmental impact in quantifiable terms (VN: "carbon footprint" đo lường chính xác tác động môi trường bằng số liệu cụ thể)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **carbon footprint** instead of **pollution**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **carbon footprint:** Specific measure of greenhouse gas emissions (VN: Đo lường cụ thể lượng khí thải nhà kính)
+> **pollution:** General term for environmental contamination (VN: Thuật ngữ chung về ô nhiễm môi trường)
+> 🧱 **The Barrier:** "Carbon footprint" is quantifiable and specific to climate change, while "pollution" is broad and qualitative (VN: "carbon footprint" định lượng và cụ thể cho biến đổi khí hậu)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to be more environmentally friendly. What should they measure first?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You should start by calculating your carbon footprint to understand where you can make the biggest impact."
+> 👨‍🎨 **Director's Note:** Provides actionable environmental advice (VN: Đưa ra lời khuyên môi trường cụ thể)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the metaphor `footprint` to the meaning of **carbon footprint**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** The footprint metaphor emerged in the 1990s to visualize environmental impact, creating the powerful image of humans leaving heavy carbon imprints on Earth's atmosphere (VN: ẩn dụ "dấu chân" tạo hình ảnh mạnh mẽ về con người để lại dấu ấn carbon nặng nề)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **carbon footprint**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `carbo` (coal/charcoal) + Old English `fot` (foot) + `print` (impression)
+> 👨‍👩‍👧 **Family:**
+> - *(related concepts)* carbon neutral, carbon offset, emissions trading
+> - *(measurement units)* CO2 equivalent, metric tons
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkɑːbən ˈfʊtprɪnt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**carbon footprint**
+> 📖 **Meaning:** Total greenhouse gas emissions from human activities
+> 🇻🇳 **Vietnamese:** Lượng khí thải carbon
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **carbon footprint**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "My car's carbon footprint is just the gas I use."
+> ✅ **Correction:** "My car's carbon footprint includes both fuel consumption and the emissions from manufacturing the vehicle."
+> 🧠 **Why:** Carbon footprint includes both direct and indirect emissions throughout the lifecycle (VN: Bao gồm cả khí thải trực tiếp và gián tiếp)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **carbon footprint**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[carbon neutral]] (trung hòa carbon)
+> - [[carbon negative]] (âm carbon)
+> 🧱 **Contrast:** From measuring emissions to achieving zero or negative emissions
 
 ---

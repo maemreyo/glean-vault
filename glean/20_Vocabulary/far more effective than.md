@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/phrasal-idioms/collocations-by-topic #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [more effective, far more effective, effectiveness comparison]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /fɑː mɔːr ɪˈfektɪv ðæn/
+> **Part of Speech:** phrasal expression (comparative)
+> **CEFR Level:** B2-C1
+> **Register:** formal/academic/business
+> **Etymology:** Combination of comparative "far" (intensifier from Old English "feorr") + "more" (comparative of "much") + "effective" (from Latin "effectivus") + "than" (Old English "þanne")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Significantly better or more successful in producing a desired result
+>
+> **Context Meaning:** Much more efficient or successful in achieving a specific outcome compared to something else
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hiệu quả hơn nhiều
+> - **Contextual:** hiệu quả hơn đáng kể so với
+>
 > **Nuances:**
-> - ...
+> - "Far" acts as an intensifier emphasizing the significant difference
+> - Used to make strong comparisons in business, academic, and formal contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Persuasive, Confident, Analytical
+> **Memory Hook:** Think of looking "far" into the distance to see how much "more effective" one option is than another
+> **📖 Etymology Story:** The combination of "far" (distance) and "more effective" creates an image of a vast improvement, stretching far beyond ordinary comparisons
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[effectiveness]] /ɪˈfektɪvnəs/
+> - **Verb:** [[effect]] /ɪˈfekt/
+> - **Adj:** [[effective]] /ɪˈfektɪv/, [[efficient]] /ɪˈfɪʃənt/
+> - **Adv:** [[effectively]] /ɪˈfektɪvli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[significantly more effective]] : emphasizes statistical or measurable difference
+> - [[considerably more effective]] : formal alternative, often used in academic writing
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[far less effective]] : direct opposite
+> - [[equally effective]] : indicates no significant difference
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. prove far more effective than
+> 2. significantly far more effective than
+> 3. demonstrably far more effective than
+
+> **1. Example Context 1 (Business)**
+> - **Sentence:** The new marketing strategy proved far more effective than our previous approach.
+> - **Translation:** Chiến lược marketing mới đã chứng tỏ hiệu quả hơn nhiều so với cách tiếp cận trước đây của chúng tôi.
+>
+> **2. Example Context 2 (Education)**
+> - **Sentence:** Interactive learning methods are far more effective than traditional lectures for student engagement.
+> - **Translation:** Các phương pháp học tập tương tác hiệu quả hơn nhiều so với bài giảng truyền thống trong việc thu hút sinh viên.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect intensifier usage**
+> - ❌ **Mistake:** "very more effective than"
+> - ✅ **Correction:** "far more effective than" or "much more effective than"
+> - **Why:** "Very" doesn't modify comparative adjectives; use intensifiers like "far," "much," "considerably"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "This approach has proven far more effective than traditional methods in increasing student engagement."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **far more effective than** (*/fɑː mɔːr ɪˈfektɪv ðæn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Significantly better or more successful in producing a desired result when compared to something else
+> 🇻🇳 **Vietnamese:** Hiệu quả hơn đáng kể so với
+> 🗣️ **IPA:** */fɑː mɔːr ɪˈfektɪv ðæn/*
+> 🧠 **Mental Model:** Think of "far" as magnifying glass making the difference "more effective" appear much larger and clearer
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Significantly better in producing desired results compared to"
+**Vietnamese:** Hiệu quả hơn đáng kể so với
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**far more effective than** (*/fɑː mɔːr ɪˈfektɪv ðæn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **far more effective than** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new teaching approach is far more effective than traditional methods for student retention.
+> 🇻🇳 **Translation:** Phương pháp dạy học mới hiệu quả hơn nhiều so với các phương pháp truyền thống trong việc giữ chân sinh viên.
+> 🔍 **Analysis:** "Far" intensifier emphasizes the significant difference, making the comparison stronger than just "more effective than" (VN: "far" tạo sự nhấn mạnh về sự khác biệt lớn, làm cho sự so sánh mạnh hơn là chỉ "more effective than")
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **far more effective than**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Business Results:** prove far more effective than (chứng tỏ hiệu quả hơn nhiều)
+> 2. **Academic Research:** demonstrably far more effective than (chứng minh được hiệu quả hơn nhiều)
+> 3. **Performance Metrics:** consistently far more effective than (liên tục hiệu quả hơn nhiều)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **far more effective than**:
+"The new method works better than the old one."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The new AI-driven approach has proven far more effective than traditional manual processing methods."
+> 💡 **Why it works:** "Far more effective than" creates a professional, emphatic tone that clearly communicates significant improvement (VN: tạo giọng văn chuyên nghiệp, nhấn mạnh sự cải thiện vượt trội)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **far more effective than** instead of **slightly more effective than**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **far more effective than:** Indicates a significant, noticeable difference (VN: Cho thấy sự khác biệt lớn, đáng chú ý)
+> **slightly more effective than:** Suggests a minor improvement (VN: Gợi ý sự cải thiện nhỏ)
+> 🧱 **The Barrier:** The scale of difference - "far" emphasizes substantial improvement while "slightly" minimizes it (VN: Mức độ khác biệt - "far" nhấn mạnh cải thiện lớn trong khi "slightly" giảm thiểu nó)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss asks which marketing strategy worked better. You want to strongly recommend the new approach. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our social media campaign was far more effective than the traditional advertising we've used for years."
+> 👨‍🎨 **Director's Note:** Shows confidence and provides clear recommendation (VN: Thể hiện sự tự tin và đưa ra khuyến nghị rõ ràng)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `feorr` (far) to the meaning of **far more effective than**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "feorr" meant "at a great distance." When we say "far more effective," we're imagining the effectiveness stretching far beyond normal limits, creating a vast improvement (VN: "feorr" nghĩa là "ở khoảng cách xa," tạo hình ảnh về sự hiệu quả vượt xa giới hạn bình thường)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **far more effective than**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `effectivus` (effective) + Old English `feorr` (far)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* effectiveness, efficiency
+> - *(verb)* effect, implement
+> - *(adverb)* effectively, efficiently
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */fɑː mɔːr ɪˈfektɪv ðæn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**far more effective than**
+> 📖 **Meaning:** Significantly better in producing desired results
+> 🇻🇳 **Vietnamese:** Hiệu quả hơn đáng kể so với
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **far more effective than**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "This solution is very more effective than the alternative."
+> ✅ **Correction:** "This solution is far more effective than the alternative."
+> 🧠 **Why:** "Very" cannot modify comparative adjectives; use "far," "much," or "significantly" instead (VN: "Very" không thể bổ sung cho tính từ so sánh hơn)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **far more effective than**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[far less effective than]] (Hiệu quả kém hơn nhiều)
+> - [[equally effective as]] (Hiệu quả như nhau)
+> 🧱 **Contrast:** Changes the direction of comparison from significantly better to significantly worse or equal
 
 ---

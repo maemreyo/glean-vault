@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/psychology-behavior/social-psychology #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [manipulates, manipulating, manipulated, manipulation, control, influence, exploit, 操纵, 控制, 利用]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /məˈnɪpjəleɪt/
+> **Part of Speech:** verb
+> **CEFR Level:** C1
+> **Register:** formal
+> **Etymology:** From Latin "manus" (hand) + "plicare" (to fold), meaning "to handle skillfully"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To handle or control something skillfully
+>
+> **Context Meaning:** To control or influence someone or something cleverly, unfairly, or unscrupulously
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thao túng, kiểm soát
+> - **Contextual:**操控, điều khiển, gây ảnh hưởng, lợi dụng
+>
 > **Nuances:**
-> - ...
+> - Often has negative connotations of deception
+> - Can also mean skillful handling (neutral) in technical contexts
+> - Implies hidden influence or control
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Controlling, cunning, deceptive
+> **Memory Hook:** "Man" (hand) + "pulate" (pull) = pulling strings like puppet master
+> **📖 Etymology Story:** From Latin "hand-fold," manipulate literally means to handle something skillfully with hands, but evolved to mean skillful handling of people and situations
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[manipulate]] /məˈnɪpjəleɪt/ : to control
+> - **Noun:** [[manipulation]] /məˌnɪpjəˈleɪʃn/ : the act
+> - **Noun:** [[manipulator]] /məˈnɪpjəleɪtər/ : person who controls
+> - **Adj:** [[manipulative]] /məˈnɪpjələtɪv/ : controlling nature
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[control]] /kənˈtroʊl/ : direct command
+> - [[influence]] /ˈɪnfluəns/ : affect
+> - [[exploit]] /ɪkˈsplɔɪt/ : use unfairly
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[empower]] /ɪmˈpaʊər/ : give power
+> - [[liberate]] /ˈlɪbəreɪt/ : set free
+> - [[guide]] /ɡaɪd/ : lead honestly
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. manipulate data/figures/statistics
+> 2. emotionally/psychologically manipulate
+> 3. manipulate someone into doing something
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The politician was accused of manipulating public opinion through false promises and misleading statements.
+> - **Translation:** Chính trị gia bị buộc tội thao túng dư luận thông qua những lời hứa sai và các tuyên bố gây hiểu lầm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She learned to manipulate the software tools to create stunning digital artwork.
+> - **Translation:** Cô ấy học cách thao tác các công cụ phần mềm để tạo ra tác phẩm kỹ thuật số tuyệt đẹp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Neutral vs negative usage**
+> - ❌ **Mistake:** Always assuming negative meaning
+> - ✅ **Correction:** Can be neutral in technical contexts
+> - **Why:** Context determines if it's negative (people) or neutral (objects/data)
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The greatest art is to manipulate the emotions of others without their awareness."
+> **Source:** [[Psychological Studies]]
 
 ---
 
@@ -161,121 +83,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **manipulate** (*/məˈnɪpjəleɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To control or influence someone or something skillfully, often in unfair or deceptive ways
+> 🇻🇳 **Vietnamese:** Thao túng/kiểm soát - điều khiển hoặc gây ảnh hưởng đến ai/cái gì một cách khéo léo, thường không công bằng
+> 🗣️ **IPA:** */məˈnɪpjəleɪt/*
+> 🧠 **Mental Model:** Hình ảnh một người điều khiển con rối, kéo dây để người khác hành động theo ý muốn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To control or influence something or someone skillfully and often unfairly"
+**Vietnamese:** Kiểm soát hoặc gây ảnh hưởng đến cái gì hoặc ai đó một cách khéo léo và thường không công bằng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**manipulate** (*/məˈnɪpjəleɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **manipulate** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The advertising campaign attempted to manipulate consumers' emotions to drive sales during the holiday season.
+> 🇻🇳 **Translation:** Chiến dịch quảng cáo cố gắng thao túng cảm xúc của người tiêu dùng để thúc đẩy doanh số trong mùa lễ hội.
+> 🔍 **Analysis:** "Manipulate" phù hợp để mô tả nỗ lực có chủ đích gây ảnh hưởng đến cảm xúc người tiêu dùng vì mục đích thương mại
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **manipulate**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Data:** manipulate/data/statistics/information (VN note: thao túng dữ liệu/thống kê - trong bối cảnh kỹ thuật)
+> 2. **People:** manipulate someone/someone into doing (VN note: thao túng ai đó làm gì - gây ảnh hưởng tiêu cực)
+> 3. **Emotion:** emotionally/psychologically manipulate (VN note: thao túng cảm xúc/tâm lý - phương pháp)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **manipulate**:
+"He changed the numbers to make things look good."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The executive manipulated the quarterly reports to hide the company's financial losses."
+> 💡 **Why it works:** "Manipulated" thể hiện hành động cố ý, có chủ đích và không trung thực hơn "changed"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **manipulate** instead of **persuade**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **manipulate:** Gây ảnh hưởng có chủ đích, thường để lợi dụng, người bị tác động không nhận ra
+> **persuade:** Thuyết phục bằng lập luận hợp lý, người nghe có quyền lựa chọn
+> 🧱 **The Barrier**: Manipulate âm thầm kiểm soát, persuade thuyết phục công khai
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You discover a coworker is taking credit for your ideas. You confront your boss. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I believe she's manipulating the team dynamics to take credit for work she didn't do."
+> 👨‍🎨 **Director's Note:** "Manipulating" thể hiện hành động tinh vi, có chủ đích gây ảnh hưởng tiêu cực
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `manus` + `plicare` to the meaning of **manipulate**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "manus" (tay) + "plicare" (gấp) có nghĩa là "xếp đặt bằng tay", phát triển thành "manipulate" - sự khéo léo trong việc điều khiển
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **manipulate**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `manus` (hand) + `plicare` (to fold) --> `manipulare` (to handle) --> English `manipulate`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[manipulation]]: sự thao túng
+> - *(noun)* [[manipulator]]: người thao túng
+> - *(adj)* [[manipulative]]: có tính thao túng
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */məˈnɪpjəleɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**manipulate**
+> 📖 **Meaning:** To control or influence skillfully, often unfairly
+> 🇻🇳 **Vietnamese:** Thao túng, kiểm soát, điều khiển
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **manipulate**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Always assuming negative connotation
+> ✅ **Correction:** Can be neutral when referring to objects/data
+> 🧠 **Why:** Context matters - people = negative, things = often neutral
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **manipulate**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[empower]] (trao quyền)
+> - [[liberate]] (giải phóng)
+> - [[guide]] (hướng dẫn)
+> 🧱 **Contrast**: Manipulate kiểm soát, empower trao quyền

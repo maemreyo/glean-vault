@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [potential, potent, potentiality, potentials]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pəˈtenʃəli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B2
+> **Register:** neutral to formal
+> **Etymology:** From Latin 'potentialis' (having power), from 'potens' (powerful), from 'posse' (to be able)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In a way that shows or suggests future possibility
+>
+> **Context Meaning:** Possibly; in a way that might happen or develop in the future
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** có khả năng, tiềm năng
+> - **Contextual:** có thể, với khả năng, về mặt tiềm năng
+>
 > **Nuances:**
-> - ...
+> - Expresses uncertainty about future outcomes
+> - Often used to avoid making definite claims
+> - Can suggest both positive and negative possibilities
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Cautious, Forward-looking, Possibility-oriented
+> **Memory Hook:** "Potentially" = something that has "potential" power but hasn't happened yet!
+> **📖 Etymology Story:** From Latin 'potens' (powerful), 'potentially' carries the ancient idea of latent power - something that could become powerful or significant, given the right conditions.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adv:** [[potentially]] /pəˈtenʃəli/ : in a way that might happen
+> - **Adj:** [[potential]] /pəˈtenʃl/ : possible in the future
+> - **Noun:** [[potential]] /pəˈtenʃl/ : latent qualities or abilities
+> - **Noun:** [[potentiality]] /pəˌtenʃiˈæləti/ : the state of being potential
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[possibly]] /ˈpɑːsəbli/ : maybe
+> - [[conceivably]] /kənˈsiːvəbli/ : imaginable
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[actually]] /ˈæktʃuəli/ : in reality
+> - [[definitely]] /ˈdefɪnətli/ : without doubt
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Potentially dangerous
+> 2. Potentially harmful
+> 3. Potentially useful
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The new technology could potentially revolutionize the industry.
+> - **Translation:** Công nghệ mới có thể cách mạng hóa ngành công nghiệp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** This medication is potentially effective for treating the disease.
+> - **Translation:** Loại thuốc này có thể hiệu quả trong việc chữa bệnh.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse in certain contexts**
+> - ❌ **Mistake:** I will potentially go to the store tomorrow.
+> - ✅ **Correction:** I might go to the store tomorrow.
+> - **Why:** 'Potentially' is more formal and sounds awkward in simple, personal situations.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We are all potential criminals, potentially good people and potentially bad."
+> **Source:** [[Fyodor Dostoevsky]]
 
 ---
 
@@ -161,121 +81,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **potentially** (*/pəˈtenʃəli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In a way that might happen or exist; possibly
+> 🇻🇳 **Vietnamese:** Có khả năng, có thể, về mặt tiềm năng
+> 🗣️ **IPA:** */pəˈtenʃəli/*
+> 🧠 **Mental Model:** Khi something có power (potential) để happen nhưng chưa sure - nó "potentially" sẽ happen
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a way that might happen or exist; possibly"
+**Vietnamese:** Có khả năng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**potentially** (*/pəˈtenʃəli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **potentially** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The experiment could potentially lead to groundbreaking discoveries in medicine.
+> 🇻🇳 **Translation:** Thí nghiệm này có thể dẫn đến những khám phá đột phá trong y học.
+> 🔍 **Analysis:** 'Potentially' thể hiện uncertainty về future outcomes, thường dùng trong academic/business contexts để avoid making definite claims
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **potentially**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Risk Assessment:** potentially dangerous/hazardous/risky (có thể nguy hiểm)
+> 2. **Opportunity:** potentially useful/beneficial/valuable (có thể hữu ích)
+> 3. **Outcomes:** potentially successful/disastrous/effective (có thể thành công)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **potentially**:
+"This might cause problems."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "This decision could potentially have far-reaching consequences for the company."
+> 💡 **Why it works:** 'Potentially' thêm layer of formality và uncertainty, phù hợp với business communication
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **potentially** instead of **[[maybe]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **potentially:** More formal, emphasizes possibility and latent qualities (có khả năng)
+> **[[maybe]]:** More informal, simple uncertainty (có thể, có lẽ)
+> 🧱 **The Barrier:** Potentially = formal possibility with implications, Maybe = casual uncertainty
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're discussing the risks of a new business venture. You want to express uncertainty about outcomes. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The market response could potentially be challenging, but also rewarding."
+> 👨‍🎨 **Director's Note:** 'Potentially' thể hiện balanced uncertainty trong professional context
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `potens` to the meaning of **potentially**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'potens' (powerful) + '-tially' = có sức mạnh latent. Khi something có power để happen, nó 'potentially' sẽ happen
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **potentially**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `potens` (powerful), from `posse` (to be able)
+> 👨‍👩‍👧 **Family:**
+> - *(adv)* potentially (có khả năng)
+> - *(adj)* potential (tiềm năng, có thể)
+> - *(noun)* potential (tiềm năng)
+> - *(noun)* potency (sức mạnh, hiệu lực)
+> - *(adj)* potent (mạnh, hiệu quả)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pəˈtenʃəli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**potentially**
+> 📖 **Meaning:** In a way that might happen or exist
+> 🇻🇳 **Vietnamese:** Có khả năng, có thể
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **potentially**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I'm potentially going to the party tonight.
+> ✅ **Correction:** I might go to the party tonight.
+> 🧠 **Why:** 'Potentially' quá formal cho casual situations, 'might' tự nhiên hơn
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **potentially**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - actually (trên thực tế)
+> - definitely (chắc chắn)
+> - certainly (chắc chắn)
+> 🧱 **Contrast:** Potentially là about possibility, Actually/Definitely là about certainty
 
 ---

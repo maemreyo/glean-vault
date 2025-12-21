@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [expensive, costly, overpriced, too expensive, beyond budget, unreasonably priced]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌʌnəˈfɔːdəb(ə)l/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** formal/general
+> **Etymology:** "Un-" (negative prefix) + "affordable" (from "afford" + "-able") - from Old French "aforder"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Not able to be afforded; too expensive for one's financial means.
+>
+> **Context Meaning:** Something that costs more money than a person can reasonably pay or is willing to spend.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** không thể trả nổi, không đủ tiền mua
+> - **Contextual:** đắt quá, quá đắt, vượt quá khả năng tài chính
+>
 > **Nuances:**
-> - ...
+> - Implies the cost is beyond reasonable limits
+> - Can refer to goods, services, or lifestyles
+> - Often used in discussions about housing, healthcare, and education
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Prohibitive, Restrictive, Out of Reach
+> **Memory Hook:** Picture price tag that keeps going up until it says "unaffordable" - you cannot reach it
+> **📖 Etymology Story:** Old French "aforder" (to manage, bear the cost) + negative prefix "un-" → modern unaffordable - what cannot be managed financially.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[unaffordable]] /ˌʌnəˈfɔːdəb(ə)l/
+> - **Adj:** [[affordable]] /əˈfɔːdəb(ə)l/
+> - **Verb:** [[afford]] /əˈfɔːd/
+> - **Noun:** [[affordability]] /əˌfɔːdəˈbɪləti/
+>
+> **Related Phrasals:**
+> - [[out of reach]] (too expensive)
+> - [[beyond one's means]] (cannot afford)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[expensive]] /ɪkˈspensɪv/ : costly
+> - [[prohibitive]] /prəˈhɪbɪtɪv/ : unreasonably expensive
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[affordable]] /əˈfɔːdəb(ə)l/ : reasonably priced
+> - [[cheap]] /tʃiːp/ : low cost
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. unaffordable housing
+> 2. become unaffordable
+> 3. prohibitively unaffordable
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Housing prices in the city have become unaffordable for young professionals.
+> - **Translation:** Giá nhà ở trong thành phố đã trở nên quá đắt đối với các chuyên gia trẻ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Medical treatment was unaffordable without insurance coverage.
+> - **Translation:** Điều trị y tế là không thể trả nổi nếu không có bảo hiểm.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** "It's unaffordable to me"
+> - ✅ **Correction:** "It's unaffordable for me"
+> - **Why:** We use "for" with affordable/unaffordable, not "to"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The rent in this area is unaffordable for most students."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +85,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **unaffordable** (*/ˌʌnəˈfɔːdəb(ə)l/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Too expensive for one's financial means; not able to be afforded
+> 🇻🇳 **Vietnamese:** Không thể trả nổi, quá đắt, vượt quá khả năng tài chính
+> 🗣️ **IPA:** */ˌʌnəˈfɔːdəb(ə)l/*
+> 🧠 **Mental Model:** Un- + afford + able = không có khả năng chi trả (cost beyond financial capacity)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Too expensive for one's financial means; not able to be afforded"
+**Vietnamese:** Không thể trả nổi, quá đắt
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**unaffordable** (*/ˌʌnəˈfɔːdəb(ə)l/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **unaffordable** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Many families find private education unaffordable due to rising tuition fees.
+> 🇻🇳 **Translation:** Nhiều gia đình thấy giáo dục tư nhân là quá đắt do học phí ngày càng tăng.
+> 🔍 **Analysis:** Unaffordable là hoàn hảo vì nó chỉ rõ cost exceeds financial ability - very formal và accurate trong economic discussions.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **unaffordable**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Housing:** unaffordable rent, unaffordable housing, unaffordable property prices
+> 2. **Services:** unaffordable healthcare, unaffordable insurance, unaffordable tuition
+> 3. **Lifestyle:** unaffordable luxury, unaffordable lifestyle, unaffordable living costs
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **unaffordable**:
+"It costs too much."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Without a scholarship, the Ivy League education remains unaffordable for most international students."
+> 💡 **Why it works:** Unaffordable sounds much more formal và precise - shows financial reality analysis, không chỉ là simple "expensive".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **unaffordable** instead of **expensive**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **unaffordable:** Quá đắt (VN: không có khả năng trả) - implies cannot pay despite desire
+> **expensive:** Đắt tiền (VN: giá cao) - may be affordable but costly
+> 🧱 **The Barrier:** Ability vs Cost - unaffordable focuses on financial capability, expensive focuses on price level.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're looking at apartment listings. The prices shock you. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "These rents are completely unaffordable for someone on an entry-level salary."
+> 👨‍🎨 **Director's Note:** Realistic reaction showing financial constraints - demonstrates practical understanding của cost vs income reality.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `aforder` to the meaning of **unaffordable**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old French "aforder" (to manage, bear the cost) + negative "un-" prefix → unaffordable - what cannot be managed financially, beyond one's economic capacity.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **unaffordable**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old French `aforder` (to manage, bear) + prefix `un-` (not) + suffix `-able` (capable of)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[affordable]] - reasonably priced
+> - *(verb)* [[afford]] - to be able to pay for
+> - *(noun)* [[affordability]] - quality being affordable
+> - *(adj)* [[unaffordable]] - too expensive
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌʌnəˈfɔːdəb(ə)l/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**unaffordable**
+> 📖 **Meaning:** Too expensive for one's financial means; not able to be afforded
+> 🇻🇳 **Vietnamese:** Không thể trả nổi, quá đắt, vượt quá khả năng tài chính
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **unaffordable**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "This car is unaffordable to buy"
+> ✅ **Correction:** "This car is unaffordable for me to buy"
+> 🧠 **Why:** Preposition "for" indicates who cannot afford - "to" doesn't work with affordable/unaffordable.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **unaffordable**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[affordable]] (reasonably priced)
+> - [[within budget]] (fits financial limits)
+> 🧱 **Contrast:** Unaffordable exceeds financial capacity; affordable fits within it; within budget specifically matches planned spending.
 
 ---

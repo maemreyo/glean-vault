@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
 #flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [robberies, thief, theft, heist, burglary, loot, plunder, stickup]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈrɒbəri/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/neutral
+> **Etymology:** From Old French "roberie" (act of robbing), from "rober" (to steal), ultimately from Germanic root "raub" (plunder)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The action or crime of taking property illegally from a person or place by force or threat of force.
+>
+> **Context Meaning:** A specific criminal incident where valuable items are stolen through intimidation or violence.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cướp, cướp bóc
+> - **Contextual:** vụ cướp, hành vi cướp bóc
+>
 > **Nuances:**
-> - ...
+> - Involves direct confrontation with victim (unlike theft)
+> - Can be armed or unarmed
+> - Often implies violence or threat of violence
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Aggressive, Urgent, Confrontational
+> **Memory Hook:** Picture a robber in a black mask shouting "This is a robbery!" - the sound echoes "robbery"
+> **📖 Etymology Story:** Germanic tribes shouting "raub!" as they plundered villages evolved into French "roberie" and finally English "robbery" - always carrying that violent energy of taking by force.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[robbery]] /ˈrɒbəri/
+> - **Verb:** [[rob]] /rɒb/
+> - **Noun (person):** [[robber]] /ˈrɒbə(r)/
+> - **Adj:** [[robbery-related]] /rɒbəri rɪˈleɪtɪd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[heist]] /haɪst/ : large-scale robbery
+> - [[burglary]] /ˈbɜːɡləri/ : breaking in to steal (no victim present)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[donation]] /dəʊˈneɪʃn/ : giving willingly
+> - [[restitution]] /ˌrestɪˈtjuːʃn/ : returning what was taken
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. armed robbery
+> 2. bank robbery
+> 3. attempted robbery
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The police were called to the scene of the robbery within minutes of the incident.
+> - **Translation:** Cảnh sát đã được gọi đến hiện trường vụ cướp trong vòng vài phút sau khi sự việc xảy ra.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The museum's most famous painting was stolen during a daring robbery last night.
+> - **Translation:** Bức tranh nổi tiếng nhất của bảo tàng đã bị đánh cắp trong một vụ cướp táo bạo đêm qua.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Robbery vs Theft**
+> - ❌ **Mistake:** "A pickpocket committed robbery"
+> - ✅ **Correction:** "A pickpocket committed theft"
+> - **Why:** Robbery requires direct confrontation or threat; pickpocketing is stealth theft
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A bank robbery is not a spontaneous act of violence; it's a carefully planned operation."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **robbery** (*/ˈrɒbəri/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The crime of taking property from a person or place by force or threat of force
+> 🇻🇳 **Vietnamese:** Tội cướp bóc, hành vi lấy cắp tài sản bằng vũ lực hoặc đe dọa
+> 🗣️ **IPA:** */ˈrɒbəri/*
+> 🧠 **Mental Model:** Cướp = force + steal (có violence/threat)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The crime of taking property by force or threat of force"
+**Vietnamese:** Tội cướp bóc
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**robbery** (*/ˈrɒbəri/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **robbery** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The convenience store has been targeted by three armed robberies this month alone.
+> 🇻🇳 **Translation:** Cửa hàng tiện lợi đã trở thành mục tiêu của ba vụ cướp có vũ trang chỉ trong tháng này.
+> 🔍 **Analysis:** Robbery là đúng vì it implies the thief used weapons and confronted the store workers - có threat và force.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **robbery**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Violence Level:** armed robbery (vũ trang), violent robbery (bạo lực)
+> 2. **Location Type:** bank robbery (ngân hàng), street robbery (đường phố)
+> 3. **Legal Status:** attempted robbery (hành phạm), foiled robbery (bị phá vỡ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **robbery**:
+"Someone stole money from the bank."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The bank robbery resulted in the loss of over $2 million."
+> 💡 **Why it works:** Robbery adds drama và urgency - không chỉ là "stole" mà implies confrontation, force, và crime scene.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **robbery** instead of **theft**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **robbery:** Use khi có direct confrontation, threat, hoặc violence (VN: đối đầu trực tiếp)
+> **theft:** Use khi stolen stealthily, no victim contact (VN: lén lút)
+> 🧱 **The Barrier:** The wall is "force vs stealth" - robbery needs victim presence và intimidation.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You witness a masked person pointing a gun at a cashier. You feel terrified. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Call 911! This is a robbery in progress at the downtown convenience store!"
+> 👨‍🎨 **Director's Note:** Perfect emergency response - robbery conveys immediate danger và need for police intervention.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `raub` to the meaning of **robbery**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Germanic tribes yelling "RAUB!" while plundering villages → French turned it into "roberie" (act of robbing) → English adopted "robbery" - luôn保持了那种暴力夺取的感觉.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **robbery**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Germanic `raub` (plunder, theft by force)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[rob]] - to take by force
+> - *(noun person)* [[robber]] - person who robs
+> - *(noun act)* [[robbery]] - the criminal act
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈrɒbəri/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**robbery**
+> 📖 **Meaning:** The crime of taking property by force or threat of force
+> 🇻🇳 **Vietnamese:** Tội cướp bóc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **robbery**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The thief committed robbery by breaking into the empty house"
+> ✅ **Correction:** "The thief committed burglary by breaking into the empty house"
+> 🧠 **Why:** Robbery requires victim presence & confrontation; empty house = burglary (không có đối đầu).
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **robbery**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[donation]] (voluntary giving)
+> - [[restitution]] (returning stolen goods)
+> 🧱 **Contrast:** Robbery takes by force, donations give willingly; restitution restores what robbery broke.
 
 ---

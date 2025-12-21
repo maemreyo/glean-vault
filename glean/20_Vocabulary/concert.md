@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/arts-architecture/art-forms #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [concerts, performance, musical performance, live music, show, gig, 音乐会, 演唱会, 演奏会]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkɒnsərt/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** From Italian "concerto" (agreement, harmony), from Latin "concertare" (to bring into agreement)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A musical performance given in public, typically by several performers
+>
+> **Context Meaning:** A live music performance event where musicians play or sing for an audience
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** buổi hòa nhạc
+> - **Contextual:** buổi biểu diễn âm nhạc, concert, show nhạc sống
+>
 > **Nuances:**
-> - ...
+> - Can refer to classical, pop, rock, or any genre performance
+> - Usually implies organized event with tickets/audience
+> - Different from informal jam sessions or rehearsals
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Harmonious, collective, entertaining
+> **Memory Hook:** "Con" (together) + "cert" (certain) = coming together certainly for music
+> **📖 Etymology Story:** From Italian "concerto" meaning harmony, because in a concert, all instruments and voices work together in harmony to create beautiful music
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[concert]] /ˈkɒnsərt/ : the performance
+> - **Noun:** [[concertgoer]] /ˈkɒnsərtɡoʊər/ : person who attends concerts
+> - **Adj:** [[concerted]] /kənˈsɜːrtɪd/ : done together
+> - **Verb:** [[concert]] /kənˈsɜːrt/ : to arrange
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[performance]] /pərˈfɔːrməns/ : general performance
+> - [[show]] /ʃoʊ/ : entertainment event
+> - [[recital]] /rɪˈsaɪtl/ : musical performance
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[rehearsal]] /rɪˈhɜːrsəl/ : practice session
+> - [[recording]] /rɪˈkɔːrdɪŋ/ : studio performance
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. attend/go to a concert
+> 2. give/perform a concert
+> 3. concert hall/venue
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The symphony orchestra's concert attracted thousands of music lovers from across the country.
+> - **Translation:** Buổi hòa nhạc của dàn nhạc giao hưởng đã thu hút hàng ngàn người yêu âm nhạc từ khắp cả nước.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She was excited to attend her first rock concert and experience the energy of a live performance.
+> - **Translation:** Cô ấy rất hào hứng tham gia buổi concert rock đầu tiên của mình để trải nghiệm năng lượng của một buổi biểu diễn sống.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling confusion**
+> - ❌ **Mistake:** "I'm going to a concerto" (confusing with Italian term)
+> - ✅ **Correction:** "I'm going to a concert"
+> - **Why:** "Concert" is the English word for the event; "concerto" is a specific musical composition
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Music is the divine way to tell beautiful, poetic things to the heart. That's why concerts touch so many souls."
+> **Source:** [[Music Journalism]]
 
 ---
 
@@ -161,121 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **concert** (*/ˈkɒnsərt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A live musical performance event where musicians perform together for an audience
+> 🇻🇳 **Vietnamese:** Buổi hòa nhạc - sự kiện biểu diễn âm nhạc trực tiếp với khán giả
+> 🗣️ **IPA:** */ˈkɒnsərt/*
+> 🧠 **Mental Model:** Hình ảnh nhiều nghệ sĩ biểu diễn cùng nhau trên sân khấu với khán giả thưởng thức
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A public musical performance by several performers"
+**Vietnamese:** Buổi biểu diễn âm nhạc công cộng bởi nhiều người biểu diễn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**concert** (*/ˈkɒnsərt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **concert** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The outdoor concert was cancelled due to heavy rain, disappointing thousands of fans who had been waiting for months.
+> 🇻🇳 **Translation:** Buổi hòa nhạc ngoài trời đã bị hủy vì mưa lớn, làm thất vọng hàng ngàn người hâm mộ đã chờ đợi nhiều tháng.
+> 🔍 **Analysis:** "Concert" phù hợp để mô tả sự kiện biểu diễn âm nhạc có tổ chức bị hủy do yếu tố thời tiết
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **concert**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Attendance:** attend/go to a concert (VN note: tham dự/đi concert - hành động của khán giả)
+> 2. **Performance:** give/perform a concert (VN note: tổ chức/biểu diễn concert - hành động của nghệ sĩ)
+> 3. **Venue:** concert hall/arena/stadium (VN note: nhà hát/sân vận động - địa điểm tổ chức)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **concert**:
+"We went to see music last night."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We attended an unforgettable classical concert at the Royal Albert Hall last night."
+> 💡 **Why it works:** "Concert" chỉ rõ loại sự kiện âm nhạc, thêm tính cụ thể và chuyên nghiệp
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **concert** instead of **show**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **concert:** Chỉ dành cho biểu diễn âm nhạc, nhấn mạnh yếu tố nghệ thuật và âm nhạc
+> **show:** Tổng quát hơn, có thể包括 kịch, hài, dance, hoặc các hình thức giải trí khác
+> 🧱 **The Barrier:** Concert luôn liên quan đến âm nhạc, show có thể là bất kỳ buổi biểu diễn giải trí nào
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your favorite band announced a world tour. You're thrilled and want to tell your friend. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "They're finally coming to our city! We have to get tickets for their concert!"
+> 👨‍🎨 **Director's Note:** "Concert" thể hiện sự hào hứng đặc biệt với sự kiện âm nhạc trực tiếp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `concertare` to the meaning of **concert**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "concertare" (cùng nhau tạo ra sự đồng thuận) -> Italian "concerto" (sự hòa hợp) -> English "concert" (buổi hòa nhạc nơi nhiều nghệ sĩ cùng nhau biểu diễn)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **concert**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `concertare` (to bring together) --> Italian `concerto` --> English `concert`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[concertgoer]]: người đi xem concert
+> - *(adj)* [[concerted]]: chung sức, đồng lòng
+> - *(verb)* [[concert]]: sắp xếp, phối hợp
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkɒnsərt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**concert**
+> 📖 **Meaning:** Live musical performance event
+> 🇻🇳 **Vietnamese:** Buổi hòa nhạc, buổi biểu diễn âm nhạc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **concert**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Confusing "concert" with "concerto"
+> ✅ **Correction:** Concert is the event, concerto is a musical composition
+> 🧠 **Why:** Concert = sự kiện, concerto = tác phẩm âm nhạc
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **concert**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[rehearsal]] (buổi tập luyện)
+> - [[recording session]] (buổi thu âm)
+> - [[private performance]] (biểu diễn tư nhân)
+> 🧱 **Contrast:** Concert là biểu diễn công chúng, rehearsal là tập luyện riêng

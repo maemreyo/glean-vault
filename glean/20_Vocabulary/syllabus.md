@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/education/university-academic-life #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [syllabus, course outline, curriculum, course content, academic plan]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsɪləbəs/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** academic/educational
+> **Etymology:** Late Latin from Greek "sittuba" (misreading of "syllaba" - table of contents)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An outline of a course of study
+>
+> **Context Meaning:** A document that contains all the information about a course including topics, assignments, deadlines, and policies
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đề cương môn học
+> - **Contextual:** giáo trình, cương lĩnh học tập
+>
 > **Nuances:**
-> - ...
+> - Functions as a contract between instructor and students
+> - Often includes learning objectives, assessment methods, and required materials
+> - Can be modified with reasonable notice
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized, Informative, Contractual
+> **Memory Hook:** Think of a "silly bus" that takes you on a journey through the entire course
+> **📖 Etymology Story:** Originally meaning "label" or "table of contents" in Greek, evolved to become the roadmap of academic courses
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[curriculum]], [[course outline]], [[program]]
+> - **Verb:** [[outline]], [[plan]], [[design]]
+> - **Adj:** [[syllabic]] /sɪˈlæbɪk/, [[academic]] /ˌækəˈdemɪk/
+> - **Adv:** [[syllabically]] /sɪˈlæbɪkli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[course outline]] : more common in US universities
+> - [[curriculum]] : broader term for entire program
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms, but [[impromptu lesson]] could be considered opposite
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. follow the syllabus
+> 2. distribute/review the syllabus
+> 3. changes to the syllabus
+
+> **1. Example Context 1 (University)**
+> - **Sentence:** The professor distributed the syllabus on the first day of class.
+> - **Translation:** Giáo sư đã phát đề cương môn học vào ngày học đầu tiên.
+>
+> **2. Example Context 2 (Student)**
+> - **Sentence:** I always check the syllabus to keep track of assignment deadlines.
+> - **Translation:** Tôi luôn kiểm tra đề cương môn học để theo dõi hạn nộp bài tập.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural confusion**
+> - ❌ **Mistake:** "syllabi" incorrectly used
+> - ✅ **Correction:** "Syllabuses" is preferred plural form
+> - **Why:** Both forms exist, but "syllabuses" is more common in modern English
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Please review the syllabus carefully as it contains important information about course expectations."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +80,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **syllabus** (*/ˈsɪləbəs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A document outlining the content, requirements, and structure of an academic course
+> 🇻🇳 **Vietnamese:** Đề cương môn học
+> 🗣️ **IPA:** */ˈsɪləbəs/*
+> 🧠 **Mental Model:** Think of it as a GPS navigation for your course journey (VN: như GPS điều hướng cho hành trình học tập)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An outline of topics and requirements for an academic course"
+**Vietnamese:** Bản tóm tắt các chủ đề và yêu cầu cho một môn học
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**syllabus** (*/ˈsɪləbəs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **syllabus** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The updated syllabus now includes online resources and virtual office hours.
+> 🇻🇳 **Translation:** Đề cương môn học cập nhật hiện bao gồm cả tài nguyên trực tuyến và giờ văn phòng ảo.
+> 🔍 **Analysis:** "Syllabus" specifically refers to the official course outline document, establishing expectations and requirements (VN: "syllabus" chỉ tài liệu giới thiệu chính thức của môn học)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **syllabus**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Distribution:** distribute/hand out the syllabus (phát đề cương)
+> 2. **Action:** follow/stick to the syllabus (tuân thủ đề cương)
+> 3. **Modification:** revise/update the syllabus (sửa đổi/cập nhật đề cương)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **syllabus**:
+"The teacher told us what we would study."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The professor reviewed the syllabus, detailing the learning objectives, assessment criteria, and required readings for the semester."
+> 💡 **Why it works:** "Syllabus" precisely identifies the official course document with all essential information (VN: "syllabus" xác định tài liệu chính thức của môn học)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **syllabus** instead of **curriculum**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **syllabus:** Single course outline (VN: Đề cương một môn học)
+> **curriculum:** Entire program of study (VN: Toàn bộ chương trình học)
+> 🧱 **The Barrier:** Scope - syllabus is micro (one course), curriculum is macro (entire degree) (VN: Phạm vi - syllabus là vi mô, curriculum là vĩ mô)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You missed the first class. What should you ask your classmate about?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Could you send me a photo of the syllabus? I need to know the requirements and deadlines."
+> 👨‍🎨 **Director's Note:** Shows academic responsibility (VN: Thể hiện trách nhiệm học thuật)
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `sittuba` to the meaning of **syllabus**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From a misreading of Greek "syllaba" (table of contents), creating a word that literally means "label" - perfect for something that outlines course content (VN: từ sự đọc sai "syllaba" nghĩa là mục lục)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **syllabus**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `sittuba` (label) via Latin misreading
+> 👨‍👩‍👧 **Family:**
+> - *(related academic terms)* curriculum, program, course outline
+> - *(plural forms)* syllabuses (preferred), syllabi (acceptable)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsɪləbəs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**syllabus**
+> 📖 **Meaning:** Course outline document
+> 🇻🇳 **Vietnamese:** Đề cương môn học
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **syllabus**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The teacher gave us many syllabuses for all our classes."
+> ✅ **Correction:** "The teachers gave us syllabuses for all our classes." (or "The teacher gave us a syllabus for each class")
+> 🧠 **Why:** Agreement issues - one teacher gives one syllabus per class (VN: Vấn đề sự phù hợp - một giáo viên phát một đề cương cho mỗi lớp)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **syllabus**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[impromptu lesson]] (bài học đột xuất)
+> - [[spontaneous teaching]] (dạy học tự phát)
+> 🧱 **Contrast:** From structured, planned content to unplanned, spontaneous instruction
 
 ---

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/emotions-personality-adjectives #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [delighted, delightful, delighting, delights]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dɪˈlaɪt/
+> **Part of Speech:** noun, verb
+> **CEFR Level:** B2
+> **Register:** neutral to formal
+> **Etymology:** From Old French 'delitier' (to delight, take pleasure in), from Latin 'delectare' (to please, charm)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Great pleasure or joy; something that gives great pleasure
+>
+> **Context Meaning:** A feeling of great pleasure and satisfaction or something that causes this feeling
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** niềm vui, sự thích thú
+> - **Contextual:** sự vui sướng, niềm hạnh phúc lớn lao
+>
 > **Nuances:**
-> - ...
+> - Stronger than 'pleasure' or 'enjoyment'
+> - Often has an element of surprise or unexpected joy
+> - Can be both the feeling and the source of the feeling
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Joyful, Radiant, Expressive
+> **Memory Hook:** "De-light" - when something removes the darkness and brings light, you feel delight!
+> **📖 Etymology Story:** The ancient Romans believed that true 'delectare' was when something so delighted you that it captivated your entire being. This word carries that legacy of being completely charmed by joy.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[delight]] /dɪˈlaɪt/ : feeling of great pleasure
+> - **Verb:** [[delight]] /dɪˈlaɪt/ : to give pleasure to someone
+> - **Adj:** [[delightful]] /dɪˈlaɪtfəl/ : causing delight
+> - **Adj:** [[delighted]] /dɪˈlaɪtɪd/ : feeling great pleasure
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[joy]] /dʒɔɪ/ : a feeling of great pleasure and happiness
+> - [[pleasure]] /ˈpleʒər/ : a feeling of happy satisfaction and enjoyment
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[disappointment]] /ˌdɪsəˈpɔɪntmənt/ : sadness when hopes don't come true
+> - [[misery]] /ˈmɪzəri/ : great suffering or unhappiness
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Take delight in something
+> 2. Much to my delight
+> 3. Delight in doing something
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** To my delight, the surprise party was exactly what she needed.
+> - **Translation:** Đến niềm vui của tôi, bữa tiệc bất ngờ chính là điều cô ấy cần.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She delights in sharing stories about her travels.
+> - **Translation:** Cô ấy rất thích thú khi chia sẻ những câu chuyện về chuyến đi của mình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** She delights with her grandchildren.
+> - ✅ **Correction:** She delights in her grandchildren / Her grandchildren delight her.
+> - **Why:** The verb 'delight' takes 'in' when it means 'to take pleasure in', or uses a direct object when it means 'to give pleasure to'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives."
+> **Source:** [[Albert Einstein]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **delight** (*/dɪˈlaɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A feeling of great pleasure and joy, or something that causes this feeling
+> 🇻🇳 **Vietnamese:** Niềm vui sướng lớn lao, sự thích thú tột độ
+> 🗣️ **IPA:** */dɪˈlaɪt/*
+> 🧠 **Mental Model:** Khi 'light' (ánh sáng) chiếu vào bên trong (de-), tạo ra niềm vui từ sâu trong tâm hồn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A feeling of great pleasure and joy or something that causes this feeling"
+**Vietnamese:** Niềm vui sướng lớn lao
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**delight** (*/dɪˈlaɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **delight** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The children's eyes sparkled with delight when they saw the presents.
+> 🇻🇳 **Translation:** Đôi mắt trẻ em lấp lánh niềm vui khi nhìn thấy những món quà.
+> 🔍 **Analysis:** 'Delight' ở đây thể hiện sự vui sướng tột độ, mạnh hơn 'happiness' vì có yếu tố ngạc nhiên và thích thú
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **delight**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Emotional Response:** much to my delight (đến niềm vui của tôi) - thể hiện sự bất ngờ vui sướng
+> 2. **Action Pattern:** take delight in (thích thú làm gì) - thể hiện sự hưởng thụ tích cực
+> 3. **Cause-Effect:** source of delight (nguồn niềm vui) - chỉ nguyên nhân tạo ra sự vui thích
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **delight**:
+"It was fun to watch the children play."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "It was a delight to watch the children play in the autumn leaves."
+> 💡 **Why it works:** 'Delight' tạo ra hình ảnh sống động về niềm vui sâu sắc và tinh tế hơn 'fun' thông thường
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **delight** instead of **[[happiness]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **delight:** Dùng khi niềm vui đến bất ngờ, mãnh liệt và thường có yếu tố thích thú đặc biệt
+> **[[happiness]]:** Trạng thái vui vẻ chung, kéo dài và ổn định hơn
+> 🧱 **The Barrier:** Delight là đỉnh cao của moment happiness - bất ngờ và интенсив hơn
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You receive an unexpected gift from someone you admire. You feel surprised and joyful. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Oh, what a delightful surprise! I'm absolutely delighted!"
+> 👨‍🎨 **Director's Note:** 'Delightful' miêu tả món quà, 'delighted' miêu tả cảm xúc - thể hiện sự trân trọng và vui sướng
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `delectare` to the meaning of **delight**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'delectare' nghĩa là 'to charm, please' - khi thứ gì đó 'charm' bạn, nó creates một niềm vui sâu sắc (delight) mà làm bạn captivated
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **delight**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `delectare` (to charm, please)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* delight (làm vui lòng)
+> - *(noun)* delight (niềm vui)
+> - *(adj)* delightful (dễ chịu, đáng yêu)
+> - *(adj)* delighted (vui sướng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dɪˈlaɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**delight**
+> 📖 **Meaning:** A feeling of great pleasure and joy
+> 🇻🇳 **Vietnamese:** Niềm vui sướng, sự thích thú
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **delight**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** She delights with cooking gourmet meals
+> ✅ **Correction:** She delights in cooking gourmet meals
+> 🧠 **Why:** 'Delight' as a verb takes 'in' when expressing enjoyment of an activity
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **delight**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[misery]] (sự khổ sở, đau khổ)
+> - [[disappointment]] (sự thất vọng)
+> 🧱 **Contrast:** Misery là trạng thái đau khổ kéo dài, trong khi disappointment là cảm giác thất vọng khi kỳ vọng không thành hiện thực
 
 ---

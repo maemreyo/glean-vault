@@ -1,159 +1,84 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [takes place, took place, taking place, taken place, occur, happen, transpire, unfold]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /teɪk pleɪs/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** "Take" (from Old English "tacan" - to seize) + "Place" (from Latin "platea" - broad street, space) - literally to occupy a space
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To happen, occur, or be held.
+>
+> **Context Meaning:** An event or action happening at a particular time and location.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** diễn ra, xảy ra, tổ chức
+> - **Contextual:** được tổ chức, được tiến hành, diễn ra
+>
 > **Nuances:**
-> - ...
+> - More formal than "happen"
+> - Often used for planned events
+> - Cannot be separated (verb and particle stay together)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized, Formal, Eventful
+> **Memory Hook:** Imagine an event "taking" its spot in the calendar and "place" in the venue
+> **📖 Etymology Story:** Events in medieval towns would "take place" on the "platea" (main square) - the phrase evolved from literally occupying a physical space to meaning "occurring."
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrasal Verb:** [[take place]] /teɪk pleɪs/
+> - **Synonyms:** [[happen]] /ˈhæpən/
+> - **Synonyms:** [[occur]] /əˈkɜː(r)/
+> - **Synonyms:** [[transpire]] /trænˈspaɪə(r)/
+>
+> **Related Phrasals:**
+> - [[take off]] (depart/succeed)
+> - [[take out]] (remove)
+> - [[take over]] (assume control)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[happen]] /ˈhæpən/ : more informal, general
+> - [[occur]] /əˈkɜː(r)/ : more formal, technical
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[cancel]] /ˈkænsl/ : to stop an event
+> - [[postpone]] /pəˈspəʊn/ : to delay an event
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. will take place
+> 2. takes place every
+> 3. due to take place
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The conference will take place from June 15-17 at the convention center.
+> - **Translation:** Hội nghị sẽ diễn ra từ ngày 15-17 tháng 6 tại trung tâm hội nghị.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The final match took place despite the heavy rain.
+> - **Translation:** Trận chung kết vẫn diễn ra bất chấp mưa lớn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Separation Error**
+> - ❌ **Mistake:** "The meeting will take tomorrow place"
+> - ✅ **Correction:** "The meeting will take place tomorrow"
+> - **Why:** "Take place" is inseparable - the verb and particle must stay together
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The robbery took place during the early hours of the morning."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +86,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **take place** (*/teɪk pleɪs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To happen, occur, or be held (especially for planned events)
+> 🇻🇳 **Vietnamese:** Diễn ra, xảy ra, được tổ chức (thường dùng cho sự kiện có kế hoạch)
+> 🗣️ **IPA:** */teɪk pleɪs/*
+> 🧠 **Mental Model:** Event + occupies time/space = "takes place"
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To happen or be held (especially planned events)"
+**Vietnamese:** Diễn ra, xảy ra
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**take place** (*/teɪk pleɪs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **take place** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The wedding ceremony will take place at sunset on the beach.
+> 🇻🇳 **Translation:** Lễ cưới sẽ diễn ra vào lúc hoàng hôn trên bãi biển.
+> 🔍 **Analysis:** Take place là hoàn hảo vì it's a planned event (wedding) happening at a specific time/place - formal và elegant hơn "happen".
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **take place**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Time Markers:** will take place, takes place every Monday, took place yesterday
+> 2. **Location:** takes place in/at, will take place on
+> 3. **Modals:** is due to take place, is set to take place, is scheduled to take place
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **take place**:
+"The event happened next week."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The annual charity gala will take place on December 15th at the Grand Hotel."
+> 💡 **Why it works:** Take place adds formality và professionalism - perfect cho planned events, sounds more polished than "happen".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **take place** instead of **happen**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **take place:** More formal, often for planned/scheduled events (VN: diễn ra, được tổ chức)
+> **happen:** More general, often unexpected or casual (VN: xảy ra, tình cờ)
+> 🧱 **The Barrier:** Planning vs Spontaneity - take place implies organization, happen implies occurrence.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss asks about the meeting schedule. You feel confident. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The quarterly review will take place in Conference Room B at 2 PM sharp."
+> 👨‍🎨 **Director's Note:** Professional choice - take place shows it's an organized, scheduled business meeting, not just something random.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `tacan` and `platea` to the meaning of **take place**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Medieval town criers would announce events that would "tacan" (take/occupy) their "platea" (public square) → evolved into "take place" for any event claiming its time và space in the calendar.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **take place**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `tacan` (to seize) + Latin `platea` (broad space)
+> 👨‍👩‍👧 **Family:**
+> - *(phrasal verb)* [[take place]] - to occur
+> - *(synonym)* [[happen]] - informal occurrence
+> - *(synonym)* [[occur]] - formal occurrence
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */teɪk pleɪs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**take place**
+> 📖 **Meaning:** To happen or be held (especially planned events)
+> 🇻🇳 **Vietnamese:** Diễn ra, xảy ra, được tổ chức
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **take place**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The concert will take on Friday place"
+> ✅ **Correction:** "The concert will take place on Friday"
+> 🧠 **Why:** Phrasal verb inseparable - take and place must stay together. Time/place modifiers come after the complete phrase.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **take place**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[cancel]] (stop event from happening)
+> - [[postpone]] (delay event to later)
+> 🧱 **Contrast:** Take place fills a time slot, cancel removes it, postpone moves it.
 
 ---
