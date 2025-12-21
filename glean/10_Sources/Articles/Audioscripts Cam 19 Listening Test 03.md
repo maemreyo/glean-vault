@@ -224,7 +224,7 @@ JAKE: Yes. One thing…
 
 ### [[20_Vocabulary/parcel|PART]] 4
 
-In today's lecture, I'm [[20_Vocabulary/will|going to]] be talking [[20_Vocabulary/approximately|about]] [[20_Vocabulary/microplastic|microplastics]].
+In today's [[20_Vocabulary/lecture|lecture]], I'm [[20_Vocabulary/will|going to]] be talking [[20_Vocabulary/approximately|about]] [[20_Vocabulary/microplastic|microplastics]].
 
 [[20_Vocabulary/microplastic|Microplastics]] are [[20_Vocabulary/tiny|tiny]] [[20_Vocabulary/piece|pieces]] of plastic smaller than five millimetres in size. Recently there's been a greater [[20_Vocabulary/awareness|awareness]] that there are large quantities of plastic [[20_Vocabulary/refuse|waste]] – big [[20_Vocabulary/In addition|and]] [[20_Vocabulary/tiny|small]] – in the [[20_Vocabulary/background|environment]]. The amount of plastic [[20_Vocabulary/refuse|waste]] in the oceans has received [[20_Vocabulary/widespread|widespread]] [[20_Vocabulary/attention|attention]], [[20_Vocabulary/However|but]] far less is known [[20_Vocabulary/approximately|about]] the effects of [[20_Vocabulary/microplastic|microplastics]] in freshwater [[20_Vocabulary/In addition|and]] [[20_Vocabulary/particularly|particularly]] in [[20_Vocabulary/soil|soil]].
 

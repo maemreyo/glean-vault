@@ -25,7 +25,7 @@ In October, parent [[20_Vocabulary/organisation|firm]] MVV Energie announced its
 
 That's enough to supply [[20_Vocabulary/approximately|around]] 40,000 homes, in total, via a district heating system. MVV Energie aims to [[20_Vocabulary/establish|build]] the system on the site of a coal power plant that is [[20_Vocabulary/convert|converting]] to cleaner technologies.
 
-The scale of the heat [[20_Vocabulary/high-heeled shoes|pumps]] was determined partly by limits on the size of machinery that could be transported through the streets of Mannheim, or potentially via barges along the Rhine. "We're not [[20_Vocabulary/inevitable|sure]] [[20_Vocabulary/approximately|about]] that yet," says Mr Hack. "It might come via the river."
+The scale of the heat [[20_Vocabulary/high-heeled shoes|pumps]] was determined partly by limits on the size of machinery that could be transported through the streets of Mannheim, or [[20_Vocabulary/potentially|potentially]] via barges along the Rhine. "We're not [[20_Vocabulary/inevitable|sure]] [[20_Vocabulary/approximately|about]] that yet," says Mr Hack. "It might come via the river."
 
 One person well [[20_Vocabulary/awareness|aware]] of the project is Alexandre de Rougemont, at Everllence ([[20_Vocabulary/no longer|formerly]] MAN Energy Solutions), another German [[20_Vocabulary/organisation|company]] that [[20_Vocabulary/What's more|also]] makes [[20_Vocabulary/hugely|extremely]] large heat [[20_Vocabulary/high-heeled shoes|pumps]]. "It is a competition, yeah," he says. "We're open [[20_Vocabulary/approximately|about]] it."
 

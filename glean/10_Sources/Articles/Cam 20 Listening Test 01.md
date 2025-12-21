@@ -20,7 +20,7 @@
 
 **11** Heather says [[20_Vocabulary/pottery|pottery]] differs from other art forms because \_\_\_\_
 
-**A** it lasts longer in the ground.
+**A** it [[20_Vocabulary/lasts|lasts]] longer in the ground.
 
 **B** it is practised by more people.
 
@@ -227,6 +227,8 @@ Which **TWO** opinions do both the students express [[20_Vocabulary/approximatel
 
 **WOMAN** I've been meaning to ask you for some advice [[20_Vocabulary/approximately|about]] restaurants. I need to book somewhere to celebrate my sister's 30th birthday, [[20_Vocabulary/In addition|and]] I liked the sound of that place you went to for your mum's 50th.
 
+Exam preparation guides
+
 **MAN** The Junction. Yeah, I'd [[20_Vocabulary/definite|definitely]] [[20_Vocabulary/propose|recommend]] that for a special [[20_Vocabulary/occasion|occasion]]. We had a great time there. Everyone [[20_Vocabulary/actually|really]] [[20_Vocabulary/enjoy|enjoyed]] it.
 
 **WOMAN** Where is it [[20_Vocabulary/repeat|again]]? I can't [[20_Vocabulary/bear in mind|remember]].
@@ -242,6 +244,8 @@ Which **TWO** opinions do both the students express [[20_Vocabulary/approximatel
 **MAN** It's [[20_Vocabulary/uncertain|certainly]] not cheap, [[20_Vocabulary/However|but]] for a special [[20_Vocabulary/occasion|occasion]] I [[20_Vocabulary/suppose|think]] it's fine It's got a great [[20_Vocabulary/a lively atmosphere|atmosphere]] [[20_Vocabulary/In addition|and]] before [[20_Vocabulary/meal|dinner]] you can go up on the roof [[20_Vocabulary/In addition|and]] have a drink It's [[20_Vocabulary/actually|really]] nice up there, [[20_Vocabulary/However|but]] you need to book It's very [[20_Vocabulary/widespread|popular]] as the views are spectacular.
 
 **WOMAN** Sounds good. [[20_Vocabulary/thereby|So]] that's [[20_Vocabulary/definite|definitely]] [[20_Vocabulary/a possibility|a possibility]] then. Is there anywhere else you can [[20_Vocabulary/suppose|think]] of?
+
+[[20_Vocabulary/Bookshelves|Bookshelves]]
 
 **MAN** [[20_Vocabulary/suppose|If]] you want somewhere a bit less [[20_Vocabulary/formal|formal]], then you could [[20_Vocabulary/attempt|try]] Paloma.
 
@@ -331,7 +335,7 @@ making me [[20_Vocabulary/feel isolated|feel isolated]], it [[20_Vocabulary/actu
 
 **TAMARA** Well, what [[20_Vocabulary/approximately|about]] that one in Finland, which showed that [[20_Vocabulary/loneliness|loneliness]] increased the [[20_Vocabulary/endanger|risk]] of [[20_Vocabulary/cancer|cancer]] by [[20_Vocabulary/approximately|about]] 10%? [[20_Vocabulary/In addition|And]] those findings have been [[20_Vocabulary/solid evidence|supported]] by other studies [[20_Vocabulary/In addition|too]].
 
-**DEV** You're right [[20_Vocabulary/approximately|about]] that one. I was [[20_Vocabulary/actually|actually]] thinking of the studies on [[20_Vocabulary/dementia|dementia]]. Some [[20_Vocabulary/establish|found]] no [[20_Vocabulary/associate|association]] between [[20_Vocabulary/loneliness|loneliness]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/dementia|dementia]], [[20_Vocabulary/In addition|and]] others [[20_Vocabulary/establish|found]] the [[20_Vocabulary/opposite|opposite]].
+**DEV** You're right [[20_Vocabulary/approximately|about]] that one. I was [[20_Vocabulary/actually|actually]] thinking of the studies on [[20_Vocabulary/dementia|dementia]]. Some [[20_Vocabulary/establish|found]] no [[20_Vocabulary/association|association]] between [[20_Vocabulary/loneliness|loneliness]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/dementia|dementia]], [[20_Vocabulary/In addition|and]] others [[20_Vocabulary/establish|found]] the [[20_Vocabulary/opposite|opposite]].
 
 **TAMARA** Not [[20_Vocabulary/accurately|exactly]] reliable, then. There's been a lot of [[20_Vocabulary/an experiment|research]] on [[20_Vocabulary/cardiovascular disease|cardiovascular disease]] [[20_Vocabulary/In addition|and]] whether [[20_Vocabulary/loneliness|loneliness]] contributes to that.
 
@@ -375,7 +379,7 @@ making me [[20_Vocabulary/feel isolated|feel isolated]], it [[20_Vocabulary/actu
 
 **DEV** Yeah, the [[20_Vocabulary/an experiment|research]] shows a [[20_Vocabulary/inevitable|certain]] amount of [[20_Vocabulary/solitude|solitude]] is [[20_Vocabulary/beneficial|beneficial for]] [[20_Vocabulary/mental health|wellbeing]], which I appreciate, [[20_Vocabulary/However|but]] [[20_Vocabulary/existence|being]] [[20_Vocabulary/loneliness|alone]] isn't something I [[20_Vocabulary/actually|actually]] [[20_Vocabulary/compared to|like]]. I'd never choose to [[20_Vocabulary/go on|go on]] holiday [[20_Vocabulary/loneliness|alone]], for example.
 
-**TAMARA** Me neither.
+**TAMARA** [[20_Vocabulary/Me neither|Me neither]].
 
 **DEV** Well, let's not… you
 
