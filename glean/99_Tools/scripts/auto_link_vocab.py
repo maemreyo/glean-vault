@@ -743,8 +743,8 @@ def main():
         print("📝 Adding flashcard tags based on ref: field...")
         print("=" * 60)
         process_ref_tags(target_path, dry_run=args.dry_run)
-        return
-    
+        print("\n")
+        
     # Determine target path for workflow options
     target_path = None
     if args.file:

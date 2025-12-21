@@ -75,7 +75,7 @@ English Dictionary Apps
 
 **C** had [[20_Vocabulary/undergone|undergone]] [[20_Vocabulary/laser eye surgery|eye surgery]].
 
-**14** After arriving at the lifeboat station, they aim to launch the boat within
+**14** After arriving at the lifeboat station, they [[20_Vocabulary/objective|aim]] to launch the boat within
 
 **A** five minutes.
 
@@ -111,7 +111,7 @@ Which **TWO** things does David say [[20_Vocabulary/approximately|about]] the li
 
 **C** The [[20_Vocabulary/trainer|training]] exercises have [[20_Vocabulary/built up|built up]] his [[20_Vocabulary/mental health|mental]] [[20_Vocabulary/spine|strength]].
 
-**D** The [[20_Vocabulary/casualty|casualty]] [[20_Vocabulary/treatment|care]] activities were [[20_Vocabulary/particularly|particularly]] challenging for him.
+**D** The [[20_Vocabulary/casualty|casualty]] [[20_Vocabulary/caring|care]] activities were [[20_Vocabulary/particularly|particularly]] challenging for him.
 
 **E** The [[20_Vocabulary/a wave-tank|wave tank]] activities provided practice in [[20_Vocabulary/outlive|survival]] techniques.
 
@@ -147,7 +147,7 @@ Grammar Exercise Workbooks
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**21** At first, Don thought the topic of recycling [[20_Vocabulary/footwear|footwear]] might be [[20_Vocabulary/In addition|too]]
+**21** At first, Don thought the topic of [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary/footwear|footwear]] might be [[20_Vocabulary/In addition|too]]
 
 **A** [[20_Vocabulary/limited in scope|limited in scope]].
 
@@ -159,7 +159,7 @@ Grammar Exercise Workbooks
 
 **A** how [[20_Vocabulary/widespread|popular]] they are among young people.
 
-**B** how suitable they are for school.
+**B** how [[20_Vocabulary/appropriate levels of genetic diversity|suitable]] they are for school.
 
 **C** how quickly they [[20_Vocabulary/worn|wear]] out.
 
@@ -173,15 +173,15 @@ Grammar Exercise Workbooks
 
 **24** What did the article say that [[20_Vocabulary/disorientation|confused]] Don?
 
-**A** Public [[20_Vocabulary/consumption|consumption]] of [[20_Vocabulary/footwear|footwear]] has risen.
+**A** [[20_Vocabulary/publicity|Public]] [[20_Vocabulary/consumption|consumption]] of [[20_Vocabulary/footwear|footwear]] has risen.
 
-**B** Less [[20_Vocabulary/footwear|footwear]] is recycled now than [[20_Vocabulary/no longer|in the past]].
+**B** Less [[20_Vocabulary/footwear|footwear]] is [[20_Vocabulary/waste recycling|recycled]] now than [[20_Vocabulary/no longer|in the past]].
 
 **C** People [[20_Vocabulary/dump|dispose of]] more [[20_Vocabulary/footwear|footwear]] than they [[20_Vocabulary/second-hand|used]] to.
 
 **Questions 25–28**
 
-What reasons did the recycling manager give for [[20_Vocabulary/reject|rejecting]] [[20_Vocabulary/footwear|footwear]], according to the students?
+What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary/supervisor|manager]] give for [[20_Vocabulary/reject|rejecting]] [[20_Vocabulary/footwear|footwear]], according to the students?
 
 *Choose **FOUR** answers from the [[20_Vocabulary/packaging|box]] [[20_Vocabulary/In addition|and]] write the correct letter, **A–F**, next to Questions 25–28.*
 

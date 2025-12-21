@@ -140,6 +140,38 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py --file "glean/20_Vocabulary/ac
 python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/20_Vocabulary" --add-ref-tags --no-dry-run
 ```
 
+### 10. The "All-in-One" Workflow
+You can combine all flags to perform a full system maintenance and update in a single command. Use this to ensure everything is clean, tagged, and linked correctly.
+
+```bash
+python3 glean/99_Tools/scripts/auto_link_vocab.py \
+  --add-ref-tags \
+  --restore-before-link \
+  --clean-quotes \
+  --no-dry-run
+```
+
+**Order of Operations:**
+1. **Add Tags:** Scans `20_Vocabulary` (default) and adds missing flashcard tags.
+2. **Restore Articles:** Restores `10_Sources/Articles` (default) to original state.
+3. **Clean Quotes:** Runs `clean_quotes.py` on articles.
+4. **Link:** Links vocabulary and structures to articles.
+
+**Visual Output:**
+```
+📝 Adding flashcard tags...
+✅ ...
+
+🔄 Step 1: Restoring files...
+...
+
+🧹 Step 2: Cleaning quotes...
+...
+
+🔗 Step 3: Linking vocabulary...
+...
+```
+
 **How it works:**
 1. Reads the `ref:` field from frontmatter
 2. Converts references to flashcard tags (e.g., `[[Cam 19 Listening Test 04]]` → `#flashcards/cam-19-listening-test-04`)

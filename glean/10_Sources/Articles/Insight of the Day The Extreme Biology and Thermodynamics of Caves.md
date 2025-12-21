@@ -8,7 +8,7 @@ In environments where [[20_Vocabulary/relatively|relative]] [[20_Vocabulary/humi
 
 2\. Defining [[20_Vocabulary/cryptobiosis|Extremophiles]]
 
-The term refers to organisms that [[20_Vocabulary/exhibit|exhibit]] optimal growth [[20_Vocabulary/Beneath|under]] [[20_Vocabulary/biodegradable|environmental]] conditions that are considered [[20_Vocabulary/hostile|hostile]] to most [[20_Vocabulary/existence|life]] forms. These [[20_Vocabulary/include|include]] thermophiles (high temperature), acidophiles (low pH), [[20_Vocabulary/In addition|and]] halophiles (high salinity).
+The term refers to organisms that [[20_Vocabulary/exhibit|exhibit]] [[20_Vocabulary/appropriate levels of genetic diversity|optimal]] growth [[20_Vocabulary/Beneath|under]] [[20_Vocabulary/biodegradable|environmental]] conditions that are considered [[20_Vocabulary/hostile|hostile]] to most [[20_Vocabulary/existence|life]] forms. These [[20_Vocabulary/include|include]] thermophiles (high temperature), acidophiles (low pH), [[20_Vocabulary/In addition|and]] halophiles (high salinity).
 
 3\. [[20_Vocabulary/chemosynthesis|Chemosynthesis]] vs. [[20_Vocabulary/photosynthesis|Photosynthesis]]
 
