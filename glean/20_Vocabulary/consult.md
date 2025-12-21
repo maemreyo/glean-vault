@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general #flashcards/cam-19-listening-test-04
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [consulted, consulting, consultation, consultant, consultative]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kənˈsʌlt/
+> **Part of Speech:** verb
+> **CEFR Level:** B2
+> **Register:** formal
+> **Etymology:** Latin consultare "to deliberate, consider"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To seek information or advice from someone; to discuss something with someone before making a decision
+>
+> **Context Meaning:** To ask an expert for their professional opinion; to work together to solve a problem
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tham khảo, tư vấn, hỏi ý kiến
+> - **Contextual:** tham vấn, cố vấn, tìm hiểu
+>
 > **Nuances:**
-> - ...
+> - Can be reciprocal (consult with colleagues)
+> - Can be one-way (consult a doctor/expert)
+> - Implies seeking specialized knowledge
+> - Often used in professional/medical contexts
+> - Suggests careful consideration before action
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, Collaborative, Wise
+> **Memory Hook:** Con-sult = "with the elders" - seeking wisdom from those with experience. Think of "result" - consultation leads to good results.
+> **📖 Etymology Story:** From Latin "consultare" (to deliberate) → consult = "to consider carefully with others". Like ancient leaders gathering wise counselors before making important decisions.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[consult]] /kənˈsʌlt/
+> - **Noun:** [[consultation]] /ˌkɒnsəlˈteɪʃn/
+> - **Noun (person):** [[consultant]] /kənˈsʌltənt/
+> - **Adj:** [[consultative]] /kənˈsʌltətɪv/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[advise]] /ədˈvaɪz/ : give advice to
+> - [[seek advice]] /siːk ədˈvaɪs/ : ask for guidance
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[ignore]] /ɪɡˈnɔːr/ : disregard
+> - [[decide alone]] /dɪˈsaɪd ələʊn/ : make decisions without input
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. consult with someone (tham khảo với ai đó)
+> 2. consult an expert (hỏi chuyên gia)
+> 3. consult a doctor (khám bác sĩ)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** You should consult with your team before implementing the new policy.
+> - **Translation:** Bạn nên tham khảo với đội ngũ của mình trước khi thực hiện chính sách mới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** I need to consult a lawyer about the contract terms.
+> - **Translation:** Tôi cần tư vấn với luật sư về các điều khoản hợp đồng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Consult with vs Consult**
+> - ❌ **Mistake:** "I will consult with a doctor."
+> - ✅ **Correction:** "I will consult a doctor." OR "I will consult with my colleagues."
+> - **Why:** Use "consult with" for two-way discussion between equals. Use "consult" (without with) for seeking expert advice.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "To consult is to recognize that no one person has all the answers."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **consult** (*/kənˈsʌlt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To seek information or advice from someone; to discuss something with others before making a decision
+> 🇻🇳 **Vietnamese:** Tham khảo, tư vấn, hỏi ý kiến
+> 🗣️ **IPA:** */kənˈsʌlt/*
+> 🧠 **Mental Model:** "Wisdom-seeking" - tìm kiếm sự hiểu biết từ người khác trước khi quyết định. Như hỏi đường khi lạc, hoặc tham khảo ý kiến chuyên gia để có quyết định tốt nhất.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To seek professional advice or information; to discuss something with others before deciding"
+**Vietnamese:** Tham khảo, tư vấn, hỏi ý kiến chuyên gia
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**consult** (*/kənˈsʌlt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **consult** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Before making any investment decisions, it's wise to consult a financial advisor.
+> 🇻🇳 **Translation:** Trước khi đưa ra bất kỳ quyết định đầu tư nào, việc khôn ngoan là tham khảo ý kiến cố vấn tài chính.
+> 🔍 **Analysis:** "Consult a financial advisor" thể hiện tìm kiếm chuyên môn của expert. Không cần "with" vì đây là one-way advice seeking (người đi tìm kiếm chuyên gia, không phải thảo luận ngang hàng).
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **consult**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Professional Context:** consult a doctor/lawyer/expert (khám bác sĩ/tư vấn luật sư/chuyên gia) - tìm kiếm chuyên môn
+> 2. **Collaborative:** consult with colleagues/team/manager (tham khảo với đồng nghiệp/đội nhóm/quản lý) - thảo luận hai chiều
+> 3. **Resource:** consult reference materials/documentation (tra cứu tài liệu tham khảo/tài liệu) - tìm kiếm thông tin
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **consult**:
+"I asked my friend for help with my project."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I decided to consult with my mentor who has extensive experience in this field before finalizing the project proposal."
+> 💡 **Why it works:** "Consult with my mentor" thể hiện sự tôn trọng chuyên môn, "extensive experience" thêm chi tiết về năng lực của người được tham khảo, "finalizing the project proposal" cụ thể hóa bối cảnh chuyên nghiệp.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **consult** instead of **[[ask]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **consult:** Tìm kiếm chuyên môn hoặc ý kiến chuyên gia, trang trọng hơn (VN: tham khảo, tư vấn)
+> **[[ask]]:** Hỏi thông tin chung, có thể với bất kỳ ai, thân mật hơn (VN: hỏi)
+> 🧱 **The Barrier:** Consult là "professional seeking" (tìm kiếm chuyên nghiệp), ask là "general questioning" (hỏi thông thường). Consult thường trả phí hoặc ngầm hiểu chuyên môn, ask miễn phí và thông thường.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your team is divided on an important decision. As leader, say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Let's pause and consult with all stakeholders before we proceed - we need everyone's input on this critical decision."
+> 👨‍🎨 **Director's Note:** "Consult with all stakeholders" thể hiện phong cách lãnh đạo dân chủ, tôn trọng đa dạng quan điểm trước khi ra quyết định quan trọng.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `consultare` to the meaning of **consult**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "consultare" (cân nhắc kỹ) → Consult = "to consider carefully with others" (cân nhắc kỹ với người khác). Như vị vua cổ đại hội họp các cố vấn trước khi ra lệnh.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **consult**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `con-` (together) + `sulere` (to consult, take counsel)
+> 👨‍👩‍👧 **Family:**
+> - *(n)* consultation (cuộc tham vấn, cuộc tư vấn)
+> - *(n)* consultant (nhà tư vấn, chuyên gia tư vấn)
+> - *(adj)* consultative (tư vấn, mang tính tham khảo)
+> - *(phrase)* consult with (tham khảo với)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kənˈsʌlt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**consult**
+> 📖 **Meaning:** To seek professional advice or information
+> 🇻🇳 **Vietnamese:** Tham khảo, tư vấn, hỏi ý kiến
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **consult**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I need to consult with my doctor about my symptoms."
+> ✅ **Correction:** "I need to consult my doctor about my symptoms."
+> 🧠 **Why:** Khi tìm kiếm advice từ chuyên gia (doctor, lawyer, expert), không cần "with". "Consult with" chỉ dùng khi thảo luận ngang hàng với đồng nghiệp/peers.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **consult**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[ignore]] (bỏ qua, phớt lờ)
+> - [[decide alone]] (tự quyết định, một mình quyết)
+> 🧱 **Contrast:** Consult là "seek input" (tìm kiếm ý kiến), ignore là "reject input" (phủ nhận ý kiến). Consult là collaborative effort (nỗ lực hợp tác), decide alone là solo decision (quyết định đơn độc).
 
 ---

@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [objectively, objectivity, subjective, objectiveness, aim, goal, target]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əbˈdʒektɪv/ (adj), /əbˈdʒektɪv/ (noun)
+> **Part of Speech:** adjective, noun
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** Medieval Latin objectivus, from objectum "thing presented to the mind"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** (Adj) Not influenced by personal feelings or opinions; (Noun) a goal or target
+>
+> **Context Meaning:** Unbiased and fair; based on facts rather than emotions; something you're trying to achieve
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** khách quan, mục tiêu
+> - **Contextual:** không thiên vị, mục tiêu, mục đích
+>
 > **Nuances:**
-> - ...
+> - As adjective: fair, impartial, based on observable facts
+> - As noun: specific aim, measurable goal, desired outcome
+> - In journalism: reporting without bias
+> - In science: based on empirical evidence
+> - Business context: clear, measurable targets
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Fair, Analytical, Goal-oriented
+> **Memory Hook:** Ob-jective = "object-ive" - based on objects (facts), not subjects (feelings). Like a camera capturing what's actually there, not what the photographer wishes to see.
+> **📖 Etymology Story:** From Latin "objectum" (thing placed before) → objective = "based on the object" (dựa vào sự vật/cái thật), không bị cảm xúc cá nhân chi phối. Like a judge looking only at evidence presented.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[objective]] /əbˈdʒektɪv/
+> - **Adv:** [[objectively]] /əbˈdʒektɪvli/
+> - **Noun:** [[objectivity]] /ˌɒbdʒekˈtɪvəti/
+> - **Noun:** [[objective]] /əbˈdʒektɪv/ (goal)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[impartial]] /ɪmˈpɑːʃl/ : unbiased
+> - [[target]] /ˈtɑːɡɪt/ : goal (noun sense)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[subjective]] /səbˈdʒektɪv/ : based on feelings
+> - [[biased]] /ˈbaɪəst/ : prejudiced
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. objective analysis (phân tích khách quan)
+> 2. main objective (mục tiêu chính)
+> 3. remain objective (giữ thái độ khách quan)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** A journalist should report the news objectively, without personal bias.
+> - **Translation:** Một nhà báo nên đưa tin một cách khách quan, không có định kiến cá nhân.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Our main objective this quarter is to increase customer satisfaction by 20%.
+> - **Translation:** Mục tiêu chính của chúng tôi trong quý này là tăng sự hài lòng của khách hàng lên 20%.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing adjective and noun**
+> - ❌ **Mistake:** "My objective is to be more objective." (correct but repetitive)
+> - ❌ **Mistake:** "We need to be objectivity." (wrong form)
+> - ✅ **Correction:** "We need to be objective." OR "We need objectivity."
+> - **Why:** Distinguish between adjective (objective) and noun (objectivity).
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The objective observer sees things as they are, not as they wish them to be."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +84,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **objective** (*/əbˈdʒektɪv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** (Adj) Not influenced by personal feelings; (Noun) a specific goal or aim
+> 🇻🇳 **Vietnamese:** Khách quan; mục tiêu, mục đích
+> 🗣️ **IPA:** */əbˈdʒektɪv/*
+> 🧠 **Mental Model:** "Fact-based" - dựa trên sự thật, không cảm xúc. Như camera ghi lại cảnh vật y hệt như nó tồn tại. Hoặc "target/goal" - cái bạn hướng tới đạt được.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Not influenced by personal feelings or opinions; based on facts" OR "a goal or target"
+**Vietnamese:** Khách quan; mục tiêu, mục đích
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**objective** (*/əbˈdʒektɪv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **objective** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The scientist maintained an objective perspective throughout the experiment, focusing only on the data.
+> 🇻🇳 **Translation:** Nhà khoa học duy trì quan điểm khách quan trong suốt thí nghiệm, chỉ tập trung vào dữ liệu.
+> 🔍 **Analysis:** "Objective perspective" thể hiện sự không thiên vị, chỉ dựa trên facts/data. Objective ở đây là adjective, mô tả cách tiếp cận khoa học - không để cảm xúc ảnh hưởng đến kết luận.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **objective**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Adj + Noun:** objective analysis/criteria/judgment (phân tích/tiêu chí/đánh giá khách quan) - mô tả tính chất không thiên vị
+> 2. **Noun Combinations:** main/primary/secondary objective (mục tiêu chính/thứ cấp) - thứ tự ưu tiên
+> 3. **Verb + Adj:** remain/stay/keep objective (giữ thái độ khách quan) - duy trì sự không thiên vị
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **objective**:
+"It's important to have goals in business."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Successful companies set clear, measurable objectives and track progress objectively to ensure accountability."
+> 💡 **Why it works:** "Clear, measurable objectives" cụ thể hóa loại goals, "track progress objectively" thêm vế adj thể hiện cách làm việc chuyên nghiệp, không để cảm xúc chi phối.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **objective** instead of **[[goal]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **objective:** Cụ thể, có thể đo lường, thường dùng trong business/academic (VN: mục tiêu cụ thể)
+> **[[goal]]:** Tổng quát hơn, có thể mơ hồ hoặc định hướng dài hạn (VN: mục đích, đích lớn)
+> 🧱 **The Barrier:** Objective là SMART (Specific, Measurable, Achievable, Relevant, Time-bound), goal có thể broad aspirational. Objective là đích đến cụ thể, goal là định hướng chung.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Two team members are arguing. You're the mediator. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Let's all try to remain objective and look at the facts rather than getting emotional about this situation."
+> 👨‍🎨 **Director's Note:** "Remain objective" thể hiện vai trò mediator trung lập, tập trung vào facts thay vì feelings để giải quyết xung đột.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `objectum` to the meaning of **objective**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "objectum" (vật được đặt trước mắt) → Objective = "based on the object" (dựa vào sự vật). Như xét xử chỉ nhìn vào vật chứng, không nghe tin đồn hay cảm xúc.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **objective**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `ob-` (against, before) + `jacere` (to throw)
+> 👨‍👩‍👧 **Family:**
+> - *(adv)* objectively (một cách khách quan)
+> - *(n)* objectivity (tính khách quan)
+> - *(adj)* subjective (chủ quan - antonym)
+> - *(v)* object (phản đối, đối tượng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əbˈdʒektɪv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**objective**
+> 📖 **Meaning:** Not influenced by personal feelings; a goal or target
+> 🇻🇳 **Vietnamese:** Khách quan; mục tiêu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **objective**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The news report was very objectivity."
+> ✅ **Correction:** "The news report was very objective." hoặc "The news report showed great objectivity."
+> 🧠 **Why:** Đừng nhẫm lẫn giữa adjective (objective) và noun (objectivity). Report/objective có thể là adjective, nhưng không thể là "objectivity".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **objective**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[subjective]] (chủ quan, dựa trên cảm xúc cá nhân)
+> - [[biased]] (thiên vị, định kiến)
+> 🧱 **Contrast:** Objective = facts-based (dựa trên sự thật), subjective = feelings-based (dựa trên cảm xúc). Objective = impartial (công tâm), biased = prejudiced (thành kiến).
 
 ---

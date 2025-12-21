@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [oppose, opposed, opposing, opposer, opposite, oppositional, oppositions]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌɒpəˈzɪʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal
+> **Etymology:** Latin oppositio, from opponere "to set against"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The action of opposing; resistance or dissent
+>
+> **Context Meaning:** A group of opponents; the state of being in conflict or disagreement
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự đối lập, sự phản đối, phe đối lập
+> - **Contextual:** sự chống đối, sự phản kháng
+>
 > **Nuances:**
-> - ...
+> - Political: opposing party in government
+> - Physical: force in opposite direction
+> - Personal: disagreement or resistance
+> - Can be active (fighting against) or passive (not agreeing)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Confrontational, Resistant, Balanced
+> **Memory Hook:** Op-position = "oppose" + "position" - the position of opposing, like someone standing against you with hands up blocking your way.
+> **📖 Etymology Story:** From Latin "opponere" (to place against) → opposition is when you place yourself AGAINST something. Like a wall placed against the wind, opposition stands firm against opposing forces.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[opposition]] /ˌɒpəˈzɪʃn/
+> - **Verb:** [[oppose]] /əˈpəʊz/
+> - **Adj:** [[opposed]] /əˈpəʊzd/, [[opposing]] /əˈpəʊzɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[resistance]] /rɪˈzɪstəns/ : the action of opposing
+> - [[disagreement]] /ˌdɪsəˈɡriːmənt/ : lack of consensus
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[support]] /səˈpɔːt/ : backing, assistance
+> - [[agreement]] /əˈɡriːmənt/ : harmony, consensus
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. political opposition (phe đối lập chính trị)
+> 2. face opposition (đối mặt sự phản đối)
+> 3. strong opposition (sự phản đối mạnh mẽ)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The new tax law faced fierce opposition from business owners.
+> - **Translation:** Luật thuế mới đối mặt sự phản đối kịch liệt từ các chủ doanh nghiệp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** In a democracy, the opposition party plays a crucial role in checking government power.
+> - **Translation:** Trong nền dân chủ, đảng đối lập đóng vai trò quan trọng trong việc kiểm soát quyền lực chính phủ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable vs Uncountable**
+> - ❌ **Mistake:** "The oppositions were very strong."
+> - ✅ **Correction:** "The opposition was very strong." OR "The opponents were very strong."
+> - **Why:** Opposition is typically uncountable when referring to resistance, but countable when referring to opposing teams in sports.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "True progress requires not just ideas, but also the ability to overcome opposition."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **opposition** (*/ˌɒpəˈzɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The action of opposing or resisting; a group of opponents; disagreement or conflict
+> 🇻🇳 **Vietnamese:** Sự đối lập, sự phản đối, phe đối lập
+> 🗣️ **IPA:** */ˌɒpəˈzɪʃn/*
+> 🧠 **Mental Model:** "Force against" - giống như vật lý: lực đối lực. Trong chính trị: phe đối lập. Trong cuộc sống: sự chống đối. Luôn có hai phía đang đối đầu nhau.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The action of opposing or resisting; a group of opponents; disagreement"
+**Vietnamese:** Sự phản đối, sự chống đối; phe đối lập
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**opposition** (*/ˌɒpəˈzɪʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **opposition** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Despite strong opposition from environmental groups, the construction project was approved.
+> 🇻🇳 **Translation:** Dù có sự phản đối mạnh mẽ từ các nhóm môi trường, dự án xây dựng vẫn được phê duyệt.
+> 🔍 **Analysis:** "Strong opposition" thể hiện sức chống đối quyết liệt. Opposition ở đây là uncountable noun, không dùng số nhiều. Thể hiện sự xung đột giữa hai phía: xây dựng vs bảo vệ môi trường.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **opposition**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Political:** the opposition party (đảng đối lập) - trong chính trị, đảng không cầm quyền
+> 2. **Action:** face/encounter opposition (đối mặt sự phản đối) - khi gặp sự chống đối
+> 3. **Intensity:** strong/fierce/stubborn opposition (sự phản đối mạnh mẽ) - mô tả mức độ chống đối
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **opposition**:
+"Some people didn't like the plan."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The controversial urban development plan encountered overwhelming opposition from local residents and conservation groups."
+> 💡 **Why it works:** "Overwhelming opposition" mạnh hơn "some people didn't like", thể hiện quy mô và cường độ phản đối lớn, cụ thể hóa đối tượng phản đối.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **opposition** instead of **[[disagreement]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **opposition:** Sự chống đối chủ động, có thể bao gồm hành động (VN: phản đối, chống đối)
+> **[[disagreement]]:** Chỉ là ý kiến trái ngược, không nhất thiết có hành động (VN: bất đồng, không đồng ý)
+> 🧱 **The Barrier:** Opposition là "active resistance" (chống đối tích cực), disagreement là "passive difference" (khác biệt tiêu cực). Opposition thường có tổ chức, disagreement có thể cá nhân.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your company wants to cut benefits. Employees are angry. As manager, say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We're expecting significant opposition from the workforce regarding these proposed benefit cuts."
+> 👨‍🎨 **Director's Note:** "Significant opposition" thể hiện sự hiểu biết về quy mô và sức mạnh của sự phản đối sắp tới, không chỉ là "some complaints".
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `opponere` to the meaning of **opposition**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "opponere" (đặt chống lại) → Opposition là "the state of being placed against" (trạng thái bị đặt chống lại). Như hai người đứng đối diện nhau trong trận đấu, luôn có sự đối đầu.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **opposition**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `ob` (against) + `ponere` (to place, put)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* oppose (phản đối)
+> - *(adj)* opposite (đối lập, trái ngược)
+> - *(adj)* opposed (phản đối, chống đối)
+> - *(n)* opponent (đối thủ, người phản đối)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌɒpəˈzɪʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**opposition**
+> 📖 **Meaning:** The action of opposing; resistance or dissent
+> 🇻🇳 **Vietnamese:** Sự phản đối, sự chống đối
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **opposition**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "There were many oppositions to the new policy."
+> ✅ **Correction:** "There was much opposition to the new policy." hoặc "Many people opposed the new policy."
+> 🧠 **Why:** Opposition thường là uncountable khi nghĩa là "sự phản đối". Khi muốn nói người, dùng "opponents" hoặc "people who oppose".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **opposition**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[support]] (sự ủng hộ, sự hỗ trợ)
+> - [[agreement]] (sự đồng thuận, sự đồng ý)
+> 🧱 **Contrast:** Opposition là lực "chống lại", support là lực "hỗ trợ". Opposition tạo xung đột, support tạo hợp tác. Opposition đẩy đi, support kéo về.
 
 ---

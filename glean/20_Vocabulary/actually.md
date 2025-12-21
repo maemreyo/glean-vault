@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [actual, factual, really, in fact, in reality]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈæktʃuəli/
+> **Part of Speech:** adverb
+> **CEFR Level:** A2-B1
+> **Register:** neutral
+> **Etymology:** Medieval Latin actualis "active, practical", from actus "action"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In reality or fact; really
+>
+> **Context Meaning:** Used to emphasize what is true; used to express surprise or correct something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thực ra, thật ra, trên thực tế
+> - **Contextual:** thật ra, thực ra là, thực sự
+>
 > **Nuances:**
-> - ...
+> - Can correct a misconception: "Actually, I'm not American"
+> - Can add surprising information: "Actually, I've been there"
+> - Can emphasize truth: "I actually mean it"
+> - Common conversational filler
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Honest, Surprising, Clarifying
+> **Memory Hook:** Actually = "actual-ly" - in the way of actual/reality. Think of it as revealing what's ACTUALLY true, not what appears to be true.
+> **📖 Etymology Story:** From Latin "actus" (action) to "actualis" (real) → actually reveals the REAL action behind appearances. Like a magician revealing the trick, actually shows what's truly happening behind the curtain of assumption.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[actuality]] /ˌæktʃuˈæləti/
+> - **Adj:** [[actual]] /ˈæktʃuəl/
+> - **Adv:** [[actually]] /ˈæktʃuəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[really]] /ˈriːəli/ : in truth
+> - [[in fact]] /ɪn fækt/ : in reality
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[apparently]] /əˈpærəntli/ : seemingly
+> - [[supposedly]] /səˈpəʊzɪdli/ : allegedly
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. actually know (thật sự biết)
+> 2. actually happen (thật sự xảy ra)
+> 3. actually quite (thật ra khá)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Actually, I prefer tea over coffee despite what I said yesterday.
+> - **Translation:** Thật ra, tôi thích trà hơn cà phê dù hôm qua tôi đã nói vậy.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The movie was actually better than I expected.
+> - **Translation:** Bộ phim thực sự hay hơn tôi mong đợi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse**
+> - ❌ **Mistake:** "I actually went to the store and actually bought bread and actually paid for it."
+> - ✅ **Correction:** "I went to the store, bought bread, and paid for it."
+> - **Why:** Actually loses emphasis when overused. Use it only when correcting or surprising.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Actually, sometimes the simplest solutions are the most effective."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **actually** (*/ˈæktʃuəli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In reality or fact; really; used to emphasize truth or correct misinformation
+> 🇻🇳 **Vietnamese:** Thực ra, thật ra, trên thực tế
+> 🗣️ **IPA:** */ˈæktʃuəli/*
+> 🧠 **Mental Model:** "Truth revealer" - từ mở màn câu nói để bật mí sự thật, giống như "Actually,..." = "Thật ra là..." trong tiếng Việt.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In reality or fact; really; used to correct or add surprising information"
+**Vietnamese:** Thực ra, thật ra; thực sự là
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**actually** (*/ˈæktʃuəli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **actually** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Despite appearing confident, she was actually quite nervous before the presentation.
+> 🇻🇳 **Translation:** Dù trông tự tin, cô ấy thực ra khá lo lắng trước buổi thuyết trình.
+> 🔍 **Analysis:** Actually ở đây tạo sự đối lập giữa appearance (trông tự tin) và reality (thực ra lo lắng), tạo hiệu ứng bất ngờ và làm rõ sự thật ngược với mong đợi.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **actually**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Correction:** Actually, I'm not... (Thật ra, tôi không phải là...) - dùng để đính chính thông tin sai
+> 2. **Surprise:** I actually quite like... (Tôi thật ra khá thích...) - thể hiện sự thích thú bất ngờ
+> 3. **Emphasis:** She actually meant it (Cô ấy thực sự nghiêm túc) - nhấn mạnh sự thật không phải đùa
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **actually**:
+"I think I might go to the party."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Actually, I've decided to go to the party after all."
+> 💡 **Why it works:** Actually biến sự không chắc chắn thành quyết định chắc chắn, tạo sự ngạc nhiên và thể hiện sự thay đổi quyết định bất ngờ.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **actually** instead of **[[really]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **actually:** Dùng để đính chính hoặc làm rõ sự thật ngược với mong đợi (VN: thật ra, thực ra là)
+> **[[really]]:** Dùng để nhấn mạnh cảm xúc hoặc sự thật đã biết (VN: thực sự, thật sự)
+> 🧱 **The Barrier:** Actually là "truth revealer" (bật mí sự thật), really là "truth amplifier" (khuếch đại sự thật). Actually thay đổi hiểu biết, really củng cố hiểu biết.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend thinks you hate horror movies. You secretly love them. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Actually, I'm a huge horror movie fan! I've just been too embarrassed to admit it."
+> 👨‍🎨 **Director's Note:** Actually ở đây tạo hiệu ứng bất ngờ thú vị, lật ngược hoàn toàn hiểu biết của bạn bè, thể hiện sự thú vị của tính cách.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `actualis` to the meaning of **actually**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "actualis" (thực tế, thực sự) → Actually = "in an actual way" (một cách thực sự). Như camera chụp những gì thực sự xảy ra, không phải những gì tưởng tượng.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **actually**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `actus` (action, deed)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* actual (thực tế, thật sự)
+> - *(n)* actuality (tính thực tế, sự thật)
+> - *(adv)* actually (thực ra, thật ra)
+> - *(phrase)* in actuality (trên thực tế)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈæktʃuəli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**actually**
+> 📖 **Meaning:** In reality or fact; really
+> 🇻🇳 **Vietnamese:** Thực ra, thật ra, thực sự
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **actually**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I'm actually thinking about it." (khi không cần đính chính)
+> ✅ **Correction:** "I'm thinking about it." hoặc "Actually, I've changed my mind."
+> 🧠 **Why:** Actually chỉ nên dùng khi có sự đính chính, thông tin bất ngờ, hoặc nhấn mạnh sự thật ngược với mong đợi. Lạm dụng làm từ yếu đi.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **actually**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[apparently]] (dường như, bề ngoài thì)
+> - [[supposedly]] (theo lời đồn, allegedly)
+> 🧱 **Contrast:** Actually = what IS true (đúng là vậy), apparently = what SEEMS true (dường như vậy). Actually = reality, apparently = appearance.
 
 ---

@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Cam 19 Listening Test 02"
             }
+          },
+          {
+            "id": "fb98363935fdaa64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Vocabulary/disc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "disc"
+            }
           }
         ]
       }
@@ -209,6 +223,12 @@
   },
   "active": "51464ecaaf3f3f5a",
   "lastOpenFiles": [
+    "20_Vocabulary/disc.md",
+    "10_Sources/Articles/Cam 19 Listening Test 02.md",
+    "20_Vocabulary/radiation.md",
+    "20_Vocabulary/the bed of a lake.md",
+    "20_Vocabulary/a barrel.md",
+    "10_Sources/Articles/Cam 20 Listening Test 02.md",
     "99_Tools/backups/20251221_173432_e9ee6d_waste recycling.md",
     "99_Tools/backups/20251221_173432_430771_regret.md",
     "99_Tools/backups/20251221_173009_84b3d4_wrist.md",
@@ -229,12 +249,6 @@
     "99_Tools/backups/20251221_173009_0aa31b_vision.md",
     "99_Tools/backups/20251221_173009_cd5277_vegetarian dish.md",
     "99_Tools/backups/20251221_173009_6c66ab_variety.md",
-    "99_Tools/backups/20251221_173009_c923f5_vague.md",
-    "99_Tools/backups/20251221_173009_90a1d6_upset.md",
-    "99_Tools/backups/20251221_173009_23c5ca_unwanted book.md",
-    "99_Tools/backups/20251221_173009_0635ee_unsatisfying.md",
-    "99_Tools/backups/20251221_173009_012af5_unhygienic.md",
-    "99_Tools/backups/20251221_173009_9640ed_undertaken on.md",
     "99_Tools/scripts/test_ref_tags.py",
     "20_Vocabulary/ambition.md.tmp.76023.1766311008412",
     "20_Vocabulary/immediately.md.tmp.76023.1766309452218",

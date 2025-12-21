@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [appeals, appealed, appealing, appealingly]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈpiːl/
+> **Part of Speech:** verb, noun
+> **CEFR Level:** B2
+> **Register:** formal/informal
+> **Etymology:** Latin appellare "to address, call upon, summon"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To make a serious or formal request, often to the public; to be attractive or interesting
+>
+> **Context Meaning:** To plead with someone or ask for something seriously; to attract or interest someone
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** kêu gọi, kháng cáo, hấp dẫn
+> - **Contextual:** hấp dẫn, thu hút
+>
 > **Nuances:**
-> - ...
+> - Can mean both "request urgently" and "be attractive to"
+> - Legal meaning: to challenge a decision in court
+> - Visual/emotional meaning: to be pleasing or attractive
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Persuasive, Magnetic, Compassionate
+> **Memory Hook:** Think of "appeal" as calling "a-peel" - calling someone to peel away their objections or being as attractive as a peeled fruit ready to eat.
+> **📖 Etymology Story:** From Latin "appellare" meaning "to address", appeal originally meant calling out to someone for help or attention. Like a town crier shouting important news, appeal has the power to draw people in, whether through urgent requests or irresistible charm.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[appeal]] /əˈpiːl/
+> - **Verb:** [[appeal]] /əˈpiːl/
+> - **Adj:** [[appealing]] /əˈpiːlɪŋ/
+> - **Adv:** [[appealingly]] /əˈpiːlɪŋli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[attract]] /əˈtrækt/ : to draw toward
+> - [[petition]] /pəˈtɪʃn/ : formal written request
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[repel]] /rɪˈpel/ : to drive away
+> - [[disinterest]] /dɪsˈɪntrəst/ : lack of interest
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. broad/wide appeal (hấp dẫn rộng rãi)
+> 2. appeal to someone (hấp dẫn ai đó)
+> 3. file an appeal (nộp đơn kháng cáo)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The new smartphone has a broad appeal among young professionals.
+> - **Translation:** Điện thoại thông minh mới có sức hấp dẫn rộng rãi trong giới chuyên gia trẻ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The lawyer decided to appeal the court's decision.
+> - **Translation:** Luật sư quyết định kháng cáo phán quyết của tòa án.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing Appeal with Attract**
+> - ❌ **Mistake:** "The movie appealed me."
+> - ✅ **Correction:** "The movie appealed to me." OR "The movie attracted me."
+> - **Why:** Appeal requires the preposition "to" when talking about being attractive to someone.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "In a world of noise, appeal is the quiet signal that captures attention."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **appeal** (*/əˈpiːl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To make a serious or formal request; to be attractive or interesting to someone
+> 🇻🇳 **Vietnamese:** Kêu gọi, kháng cáo, hấp dẫn, thu hút
+> 🗣️ **IPA:** */əˈpiːl/*
+> 🧠 **Mental Model:** Một từ hai mặt: vừa là "call for help" (kêu gọi sự giúp đỡ), vừa là "attract charm" (sức hấp dẫn). Như một người vừa có thể cầu xin, vừa có sức thu hút tự nhiên.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To be attractive or interesting to someone; to make a serious request"
+**Vietnamese:** Hấp dẫn, thu hút; kêu gọi, cầu xin
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**appeal** (*/əˈpiːl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **appeal** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The campaign's message of hope appealed to voters across all age groups.
+> 🇻🇳 **Translation:** Thông điệp hy vọng của chiến dịch đã hấp dẫn cử tri ở tất cả các nhóm tuổi.
+> 🔍 **Analysis:** Động từ "appealed to" thể hiện sức hấp dẫn tự nhiên của thông điệp, không cần nỗ lực chủ động. "To" là preposition bắt buộc khi appeal có nghĩa là "hấp dẫn".
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **appeal**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Appeal + Noun:** appeal to someone (hấp dẫn ai đó) - cần "to" để chỉ đối tượng bị thu hút
+> 2. **Adjective + Appeal:** broad/wide appeal (sức hấp dẫn rộng rãi) - mô tả phạm vi ảnh hưởng
+> 3. **Legal Context:** file/make/launch an appeal (nộp đơn kháng cáo) - thuật ngữ pháp lý khi thách thức quyết định
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **appeal**:
+"The product was interesting to customers."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The product's sleek design and eco-friendly packaging had broad appeal to environmentally conscious consumers."
+> 💡 **Why it works:** Thay vì "interesting" chung chung, "broad appeal" thể hiện sức hấp dẫn đa dạng, kết hợp với "environmentally conscious" để nhắm đến đối tượng cụ thể.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **appeal** instead of **[[attract]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **appeal:** Thường dùng cho sức hấp dẫn về mặt cảm xúc, đạo đức hoặc lý trí (VN: sức hút từ tâm lý, giá trị)
+> **[[attract]]:** Thường dùng cho sức hút vật lý hoặc cơ bản, như nam châm hút sắt (VN: sức hút vật lý, cơ bản)
+> 🧱 **The Barrier:** Appeal là sức hấp dẫn "từ trong ra ngoài" (internal charm), attract là sức kéo "từ ngoài vào" (external force). Appeal cần thời gian để nhận ra, attract tức thì.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a marketer launching a new product for teenagers. They're skeptical. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We need authentic content that will genuinely appeal to Gen Z's values and sense of humor."
+> 👨‍🎨 **Director's Note:** "Appeal to" thể hiện sự thấu hiểu sâu sắc đối tượng mục tiêu, không chỉ cố gắng bán hàng mà tạo kết nối thật sự.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `appellare` to the meaning of **appeal**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Tiếng Latin "appellare" (kêu gọi) → Appeal vừa là "calling for help" (cầu cứu) vừa là "calling attention" (thu hút chú ý). Như một người vừa có thể cầu xin sự giúp đỡ, vừa có sức quyến rũ tự nhiên thu hút mọi người.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **appeal**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `appellare` (to address, call upon)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* appealing (hấp dẫn)
+> - *(adv)* appealingly (một cách hấp dẫn)
+> - *(phrase)* appeal to (hấp dẫn ai đó)
+> - *(phrase)* file an appeal (kháng cáo)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈpiːl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**appeal**
+> 📖 **Meaning:** To make a serious request; to be attractive
+> 🇻🇳 **Vietnamese:** Kêu gọi, kháng cáo, hấp dẫn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **appeal**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The movie appeals me a lot."
+> ✅ **Correction:** "The movie appeals to me a lot."
+> 🧠 **Why:** Khi appeal có nghĩa là "hấp dẫn", luôn cần preposition "to" sau đó: appeal to someone.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **appeal**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[repel]] (đẩy đi, làm cho ghê tởm)
+> - [[disinterest]] (sự thiếu quan tâm)
+> 🧱 **Contrast:** Appeal thu hút như quyến rũ, repel đẩy đi như lực đẩy từ tính. Appeal tạo sự gần gũi, repel tạo sự xa cách.
 
 ---

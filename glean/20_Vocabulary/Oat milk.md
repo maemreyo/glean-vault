@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [oatmilk, plant-based milk, dairy alternative, oat latte]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əʊt mɪlk/
+> **Part of Speech:** noun (compound)
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Compound of oat (Old English āte) + milk (Old English meolc)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A plant-based milk alternative made from whole oat grains
+>
+> **Context Meaning:** A creamy, dairy-free beverage used as milk substitute; popular in coffee shops
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sữa yến mạch
+> - **Contextual:** sữa yến mạch, sữa hạt yến mạch
+>
 > **Nuances:**
-> - ...
+> - Naturally creamy without additives
+> - Sustainable alternative to dairy milk
+> - Popular among vegans and lactose-intolerant
+> - Known for frothing well in coffee
+> - Mild flavor that doesn't overpower other ingredients
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Sustainable, Gentle, Modern
+> **Memory Hook:** Oat milk = milk from oats (yến mạch) - like magic turning grains into milk! Think of oats soaking up water and releasing creamy goodness.
+> **📖 Etymology Story:** Simple compound: oat (hạt yến mạch) + milk (sữa). Like creating "milk" from plants instead of animals. A modern twist on ancient grains!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[oat milk]] /əʊt mɪlk/
+> - **Related:** [[oat]] /əʊt/, [[latte]] /ˈlæteɪ/, [[barista]] /bəˈriːstə/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[plant milk]] /plɑːnt mɪlk/ : general term
+> - [[dairy-free milk]] /deəri friː mɪlk/ : category descriptor
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[dairy milk]] /deəri mɪlk/ : animal-based milk
+> - [[cow's milk]] /kaʊz mɪlk/ : traditional milk
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. oat milk latte (cà phê latte với sữa yến mạch)
+> 2. barista edition oat milk (sữa yến mạch cho barista)
+> 3. creamy oat milk (sữa yến mạch sánh mịn)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Most coffee shops now offer oat milk as a dairy-free alternative.
+> - **Translation:** Hầu hết các quán cà phê hiện nay đều có sữa yến mạch như một lựa chọn không chứa sữa.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** I switched to oat milk because it's more sustainable than almond milk.
+> - **Translation:** Tôi chuyển sang dùng sữa yến mạch vì nó bền vững hơn sữa hạnh nhân.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Uncountable nature**
+> - ❌ **Mistake:** "I bought three oat milks."
+> - ✅ **Correction:** "I bought three cartons of oat milk."
+> - **Why:** Oat milk is typically uncountable. Need containers/units.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Oat milk: the perfect compromise between taste, texture, and sustainability."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **oat milk** (*/əʊt mɪlk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A plant-based milk alternative made from oats; creamy, dairy-free beverage
+> 🇻🇳 **Vietnamese:** Sữa yến mạch, sữa hạt yến mạch
+> 🗣️ **IPA:** */əʊt mɪlk/*
+> 🧠 **Mental Model:** "Grain milk" - sữa làm từ hạt thay vì động vật. Giống như biến yến mạch thành dạng lỏng sánh mịn như sữa, nhưng hoàn toàn từ thực vật.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A creamy plant-based milk alternative made from whole oat grains"
+**Vietnamese:** Sữa yến mạch, sữa thực vật từ yến mạch
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**oat milk** (*/əʊt mɪlk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **oat milk** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The barista recommended oat milk for my flat white because it froths better than other plant milks.
+> 🇻🇳 **Translation:** Barista khuyên dùng sữa yến mạch cho ly flat white của tôi vì nó tạo bọt tốt hơn các loại sữa thực vật khác.
+> 🔍 **Analysis:** "Oat milk" là uncountable noun. "Froths better" thể hiện đặc tính nổi trội khi dùng trong cà phê - một trong những lý do chính nó phổ biến trong coffee culture.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **oat milk**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Coffee Context:** oat milk latte/cappuccino/flat white (cà phê với sữa yến mạch) - phổ biến trong quán cà phê
+> 2. **Product Type:** barista edition/professional oat milk (sữa yến mạch chuyên nghiệp) - loại đặc biệt cho pha chế
+> 3. **Quality:** creamy/silky/extra creamy oat milk (sữa yến mạch sánh mịn) - mô tả kết cấu
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **oat milk**:
+"I drink plant-based milk in my coffee."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I always choose oat milk for my morning coffee because it creates the perfect microfoam and has a neutral taste that complements the espresso."
+> 💡 **Why it works:** "Oat milk" cụ thể hóa loại sữa thực vật, "perfect microfoam" thể hiện kiến thức về barista, "neutral taste that complements" giải thích lý do chọn lựa một cách chuyên nghiệp.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **oat milk** instead of **[[almond milk]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **oat milk:** Sánh mịn tự nhiên, tạo bọt tốt, ít ảnh hưởng môi trường (VN: sữa yến mạch)
+> **[[almond milk]]:** Nhẹ hơn, vị hạt rõ, cần nhiều nước để sản xuất (VN: sữa hạnh nhân)
+> 🧱 **The Barrier:** Oat milk wins in coffee frothing (tạo bọt), almond milk lighter in taste (vị nhẹ hơn). Oat more sustainable (bền vững hơn), almond more water-intensive (tốn nhiều nước hơn).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're ordering coffee. The barista asks what milk you want. You're lactose intolerant. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'll have an oat milk latte please - it's the only one that doesn't upset my stomach and tastes amazing!"
+> 👨‍🎨 **Director's Note:** "Oat milk latte" thể hiện sự am hiểu về coffee culture hiện đại, đồng thời giải thích lý do cá nhân một cách tự nhiên.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `oat` + `milk` to the meaning of **oat milk**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "āte" (yến mạch) + "meolc" (sữa) → Oat milk = "milk from oats" (sữa từ yến mạch). Một sáng tạo hiện đại biến hạt ngũ cốc cổ xưa thành sữa thay thế bột sữa.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **oat milk**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Compound: Old English `āte` (oat grain) + `meolc` (milk)
+> 👨‍👩‍👧 **Family:**
+> - *(n)* oatmeal (bột yến mạch)
+> - *(n)* oat (hạt yến mạch)
+> - *(adj)* oat-based (làm từ yến mạch)
+> - *(phrase)* dairy-free (không chứa sữa bò)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əʊt mɪlk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**oat milk**
+> 📖 **Meaning:** A plant-based milk alternative made from oats
+> 🇻🇳 **Vietnamese:** Sữa yến mạch
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **oat milk**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Can I have two oat milks in my coffee?"
+> ✅ **Correction:** "Can I have oat milk in my coffee?" hoặc "Can I have two cartons of oat milk?"
+> 🧠 **Why:** Oat milk là uncountable noun, không có số nhiều. Khi đếm, cần dùng đơn vị chứa: cartons, bottles, cups.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **oat milk**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[dairy milk]] (sữa bò, sữa động vật)
+> - [[cow's milk]] (sữa bò cụ thể)
+> 🧱 **Contrast:** Oat milk là plant-based (thực vật), dairy milk là animal-based (động vật). Oat milk sustainable (bền vững), dairy có higher carbon footprint (dấu chân carbon cao hơn).
 
 ---
