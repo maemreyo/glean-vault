@@ -34,6 +34,8 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py [arguments]
 | `--restore <id>` | Restore a specific backup by its ID. |
 | `--restore-all <timestamp>` | Restore all files from a specific session (batch undo). |
 | `--restore-original <path>` | Restore a file or folder to its oldest backup (pre-script state). |
+| `--restore-before-link` | **Workflow:** Restore files to original before linking. |
+| `--clean-quotes` | **Workflow:** Run `clean_quotes.py` before linking. |
 
 ## Use Cases
 
@@ -92,7 +94,36 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-original "glean/10_S
 ```bash
 python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-original "glean/10_Sources/Articles"
 ```
+```
 This will restore **all files** in the folder (and subfolders) that have backup history to their very first backed-up version.
+
+### 8. Workflow Integration: Full Pipeline
+For a complete workflow that restores files, cleans quotes, and then links vocabulary in one command:
+
+```bash
+python3 glean/99_Tools/scripts/auto_link_vocab.py \
+  --folder "glean/10_Sources/Articles" \
+  --restore-before-link \
+  --clean-quotes \
+  --no-dry-run
+```
+
+**Pipeline steps:**
+1. 🔄 **Restore files** to their original pre-script state
+2. 🧹 **Clean quotes** (convert Unicode curly quotes to straight quotes)
+3. 🔗 **Link vocabulary** (create wikilinks to terms)
+
+Each step displays a visual indicator and progress information.
+
+**Individual workflow flags:**
+```bash
+# Only restore before linking
+python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/10_Sources/Articles" --restore-before-link --no-dry-run
+
+# Only clean quotes before linking
+python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/10_Sources/Articles" --clean-quotes --no-dry-run
+```
+
 
 ## Technical Details
 

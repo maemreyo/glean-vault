@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
 #flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [outskirts, suburban, suburbia, fringe, edge, periphery, border, boundary, margin, outer area]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈaʊtskɜːrt/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** from Old English "ut" (out) + "scyrte" (skirt); literally "outer skirt"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The outer parts or fringe area of a town or city
+>
+> **Context Meaning:** The areas on the edge of a city, often less developed than the center
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ngoại ô, vùng ngoại thành
+> - **Contextual:** khu vực ven đô, ngoại vi thành phố
+>
 > **Nuances:**
-> - ...
+> - Usually used in plural form "outskirts"
+> - Implies transition zone between urban and rural
+> - Often residential with lower population density
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Explorer, Observer
+> **Memory Hook:** Imagine a city wearing a skirt - the "out-skirt" is the outer edge protecting the center
+> **📖 Etymology Story:** Medieval cities had defensive walls. The "outskirts" were the areas just outside these walls where travelers and merchants would gather before entering the city, like the outer skirt of a dress that surrounds and protects the main body.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[outskirts]] /ˈaʊtskɜːrts/
+> - **Verb:** [[skirt]] /skɜːrt/
+> - **Adj:** [[outlying]] /ˈaʊtlaɪɪŋ/
+> - **Adv:** [[outwardly]] /ˈaʊtwərdli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[suburb]] /ˈsʌbɜːrb/ : residential area outside city center
+> - [[periphery]] /pəˈrɪfəri/ : outer boundary or edge
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[center]] /ˈsentər/ : the middle point or part
+> - [[downtown]] /ˈdaʊntaʊn/ : central business district
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. on the outskirts
+> 2. live on the outskirts
+> 3. industrial outskirts
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** They bought a house on the outskirts of Paris to escape the city noise.
+> - **Translation:** Họ đã mua một ngôi nhà ở ngoại ô Paris để thoát khỏi sự ồn ào của thành phố.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new factory is being built in the industrial outskirts of the city.
+> - **Translation:** Nhà máy mới đang được xây dựng ở khu công nghiệp ngoại thành.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Singular vs Plural**
+> - ❌ **Mistake:** "I live in the outskirt of the city."
+> - ✅ **Correction:** "I live in the outskirts of the city."
+> - **Why:** "Outskirts" is almost always used in plural form when referring to the outer areas.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The new shopping mall was built on the northern outskirts of town."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **outskirt** (*/ˈaʊtskɜːrt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The outer areas or fringe regions of a town or city, forming a transition zone between urban and rural areas
+> 🇻🇳 **Vietnamese:** Khu vực ngoại ô, vùng ven thành phố
+> 🗣️ **IPA:** */ˈaʊtskɜːrt/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một thành phố giống như một cái váy, "outskirt" (ngoại vi) là phần gấu váy bên ngoài bao bọc lấy phần trung tâm
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The outer parts or fringe area of a town or city"
+**Vietnamese:** khu vực ngoại ô, vùng ven thành phố
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**outskirt** (*/ˈaʊtskɜːrt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **outskirts** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Many families prefer living on the outskirts where they can enjoy more space and cleaner air.
+> 🇻🇳 **Translation:** Nhiều gia đình thích sống ở ngoại ô nơi họ có thể tận hưởng không gian rộng hơn và không khí trong lành hơn.
+> 🔍 **Analysis:** The word works perfectly here because it specifically refers to the transitional zone between city and countryside (VN/EN mix), emphasizing the benefit of less dense population while maintaining city proximity.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **outskirts**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Location:** on the outskirts (chỉ vị trí ở ngoại vi - VN note: có thể dùng "in the" nhưng "on the" phổ biến hơn)
+> 2. **Action:** live on the outskirts (sống ở ngoại thành - VN note: collocation phổ biến nhất với động từ "live")
+> 3. **Description:** industrial/residential outskirts (ngoại ô công nghiệp/như ở - VN note: chỉ đặc điểm của khu vực)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **outskirts**:
+"They moved to the edge of the city."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "They moved to the peaceful outskirts where morning walks meant fresh country air rather than city traffic."
+> 💡 **Why it works:** "Outskirts" creates a vivid contrast between urban chaos and suburban tranquility (VN explanation), painting a picture of lifestyle change beyond just location.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **outskirts** instead of **[[suburb]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **outskirts:** Refers to the immediate edge/transition zone of a city (VN explanation: vùng chuyển tiếp ngay giữa đô thị và nông thôn)
+> **[[suburb]]:** A planned residential community outside the city, often with its own identity (VN explanation: khu dân cư có quy hoạch riêng, thường có bản sắc riêng)
+> 🧱 **The Barrier:** Outskirts emphasize proximity to the city edge, while suburbs focus on residential community characteristics (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're tired of city noise and traffic. Your real estate agent shows you houses. Where do you want to look? Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'd prefer something on the outskirts - close enough for work but far enough for peace."
+> 👨‍🎨 **Director's Note:** This shows the classic urban escape fantasy (VN), using "outskirts" to perfectly capture the desire for balanced urban-rural living.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `skirt` to the meaning of **outskirt**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Like a skirt (gấu váy) that hangs around the edge of clothing, the "outskirts" hang around the edge of a city (VN/EN mix), protecting and framing the urban core while connecting it to surrounding areas.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **outskirt**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `scyrte` (short garment, skirt)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[outskirts]] (areas beyond city center)
+> - *(verb)* [[skirt]] (to go around the edge of)
+> - *(adjective)* [[outlying]] (situated far from center)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈaʊtskɜːrt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**outskirt**
+> 📖 **Meaning:** The outer parts of a town or city
+> 🇻🇳 **Vietnamese:** Khu vực ngoại ô, ngoại thành
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **outskirts**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The new mall is located in the outskirt."
+> ✅ **Correction:** "The new mall is located in the outskirts."
+> 🧠 **Why:** "Outskirts" is almost always used in plural form when referring to areas around a city - this is a fixed plural noun (like "police" or "scissors").
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **outskirts**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[center]] (core urban area, heart of the city)
+> - [[downtown]] (central business district)
+> 🧱 **Contrast:** While outskirts represent the edge and transition to rural areas, the center/downtown represents the urban core and commercial heart of the city.
 
 ---

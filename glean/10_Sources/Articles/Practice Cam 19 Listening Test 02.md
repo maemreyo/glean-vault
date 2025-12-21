@@ -13,7 +13,7 @@
 | **Level**:               | **2**…………………                                                              |
 | **Place**:               | the **3**…………………<br><br>**4**………………… Street<br><br>First floor, Room T347 |
 | **Time**:                | Thursday morning at **5**…………………                                          |
-| **Recommended website**: | ‘The perfect **6**…………………’                                                |
+| **Recommended website**: | 'The perfect **6**…………………'                                                |
 
 **Questions 7–10**
 
@@ -53,7 +53,7 @@ English Dictionary Apps
 
 **11** What made David leave London [[20_Vocabulary/In addition|and]] move to [[20_Vocabulary/Northsea|Northsea]]?
 
-**A** He was [[20_Vocabulary/eager to|eager to]] [[20_Vocabulary/come along|develop]] a hobby.
+**A** He was [[20_Vocabulary/eager to|eager to]] [[20_Vocabulary/build up|develop]] a hobby.
 
 **B** He wanted to work shorter hours.
 
@@ -83,7 +83,7 @@ English Dictionary Apps
 
 **C** eight [[20_Vocabulary/In addition|and]] a half minutes.
 
-**15** As a ‘helmsman’, David has the [[20_Vocabulary/responsible for|responsibility]] of deciding
+**15** As a 'helmsman', David has the [[20_Vocabulary/responsible for|responsibility]] of deciding
 
 **A** who [[20_Vocabulary/will|will]] be the members of his crew.
 
@@ -129,7 +129,7 @@ Which **TWO** things does David find most motivating [[20_Vocabulary/approximate
 
 **D** the fact that it keeps him fit
 
-**E** the [[20_Vocabulary/opportunity|chance]] to [[20_Vocabulary/come along|develop]] new [[20_Vocabulary/equipment|equipment]]
+**E** the [[20_Vocabulary/opportunity|chance]] to [[20_Vocabulary/build up|develop]] new [[20_Vocabulary/equipment|equipment]]
 
 IELTS vocabulary [[20_Vocabulary/facilities|resources]]
 
@@ -213,13 +213,13 @@ What reasons did the recycling manager give for [[20_Vocabulary/reject|rejecting
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**29** Why did the project to make ‘new’ [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
+**29** Why did the project to make 'new' [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
 
-**A** People believed the ‘new’ pairs of [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/unhygienic|unhygienic]].
+**A** People believed the 'new' pairs of [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/unhygienic|unhygienic]].
 
 **B** There were not enough good parts to use in the [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]].
 
-**C** The [[20_Vocabulary/footwear|shoes]] in the ‘new’ pairs were not completely [[20_Vocabulary/identical|alike]].
+**C** The [[20_Vocabulary/footwear|shoes]] in the 'new' pairs were not completely [[20_Vocabulary/identical|alike]].
 
 **30** Bella [[20_Vocabulary/In addition|and]] Don agree that they can [[20_Vocabulary/presentation|present]] their topic
 
@@ -242,7 +242,7 @@ What reasons did the recycling manager give for [[20_Vocabulary/reject|rejecting
 
 ● more than 1,000 species, 0.05–1.2 millimetres long
 
-● [[20_Vocabulary/In addition|also]] known as water ‘bears’ (due to how they **31** …………………) [[20_Vocabulary/In addition|and]] ‘[[20_Vocabulary/moss|moss]] piglets’
+● [[20_Vocabulary/What's more|also]] known as water 'bears' (due to how they **31** …………………) [[20_Vocabulary/In addition|and]] '[[20_Vocabulary/moss|moss]] piglets'
 
 **Physical [[20_Vocabulary/appearance|appearance]]**
 
@@ -264,7 +264,7 @@ What reasons did the recycling manager give for [[20_Vocabulary/reject|rejecting
 
 **[[20_Vocabulary/cryptobiosis|Cryptobiosis]]**
 
-● In dry conditions, they roll into a ball called a ‘tun’.
+● In dry conditions, they roll into a ball called a 'tun'.
 
 ● They stay [[20_Vocabulary/existence|alive]] with a much lower [[20_Vocabulary/metabolism|metabolism]] than [[20_Vocabulary/average|usual]].
 

@@ -6,6 +6,7 @@ import shutil
 import json
 import datetime
 import hashlib
+import subprocess
 import yaml # Requires pyyaml, but we can do simple parsing if dependency is an issue.
 # To avoid dependencies, we will parse simple Frontmatter manually.
 
@@ -505,6 +506,8 @@ def main():
     parser.add_argument("--restore-all", help="Restore all files from a specific session (timestamp prefix)")
     parser.add_argument("--restore-original", help="Restore a specific file to its very first (oldest) backup version")
     parser.add_argument("--migrate-aliases", action="store_true", help="One-time utility: Add 'aliases: []' to existing vocabulary files.")
+    parser.add_argument("--restore-before-link", action="store_true", help="Restore all target files to original before linking (requires --folder or --file)")
+    parser.add_argument("--clean-quotes", action="store_true", help="Run clean_quotes.py on target files before linking (requires --folder or --file)")
     
     parser.set_defaults(dry_run=True)
     
@@ -539,7 +542,71 @@ def main():
         migrate_aliases_field(dry_run=args.dry_run)
         return
     
+    # Determine target path for workflow options
+    target_path = None
+    if args.file:
+        target_path = os.path.abspath(args.file)
+        if not os.path.exists(target_path):
+            potential_path = os.path.join(VAULT_ROOT, args.file)
+            if os.path.exists(potential_path):
+                target_path = potential_path
+    elif args.folder:
+        target_path = os.path.abspath(args.folder)
+        if not os.path.exists(target_path):
+            potential_path = os.path.join(VAULT_ROOT, args.folder)
+            if os.path.exists(potential_path):
+                target_path = potential_path
+    else:
+        # Default to articles dir
+        target_path = ARTICLES_DIR
+    
+    # Handle restore-before-link
+    if args.restore_before_link:
+        if not (args.file or args.folder):
+            print("⚠️  Warning: --restore-before-link requires --file or --folder. Using default Articles directory.")
+        print("\n🔄 Step 1: Restoring files to original state...")
+        print("=" * 60)
+        restore_to_original(target_path)
+        print("\n")
+    
+    # Handle clean-quotes
+    if args.clean_quotes:
+        if not (args.file or args.folder):
+            print("⚠️  Warning: --clean-quotes requires --file or --folder. Using default Articles directory.")
+        print("\n🧹 Step 2: Cleaning quotes..." if args.restore_before_link else "\n🧹 Step 1: Cleaning quotes...")
+        print("=" * 60)
+        
+        # Build clean_quotes.py command
+        clean_script = os.path.join(os.path.dirname(__file__), "clean_quotes.py")
+        
+        if os.path.isdir(target_path):
+            cmd = ["python3", clean_script, "--folder", target_path, "--no-dry-run"]
+        else:
+            cmd = ["python3", clean_script, "--file", target_path, "--no-dry-run"]
+        
+        try:
+            result = subprocess.run(cmd, check=True, capture_output=True, text=True)
+            print(result.stdout)
+            if result.stderr:
+                print(result.stderr)
+        except subprocess.CalledProcessError as e:
+            print(f"❌ Error running clean_quotes.py: {e}")
+            print(e.stdout)
+            print(e.stderr)
+            return
+        print("\n")
+    
     # Normal Processing
+    step_num = 1
+    if args.restore_before_link:
+        step_num += 1
+    if args.clean_quotes:
+        step_num += 1
+    
+    if step_num > 1:
+        print(f"\n🔗 Step {step_num}: Linking vocabulary...")
+        print("=" * 60)
+    
     print(f"Scanning terms in:\n- {VOCAB_DIR}\n- {STRUCT_DIR}")
     terms_map = get_terms()
     
