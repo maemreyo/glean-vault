@@ -1,159 +1,77 @@
 #flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [mud, muddy, mud puddle, mudslide, stick in the mud, mud bath, mud wrestling, clay, dirt, soil]
+status: done
 ref:
-  - [[Cam 19 Listening Test 02]]
+  - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /mʌd/
+> **Part of Speech:** noun
+> **CEFR Level:** A1
+> **Register:** neutral
+> **Etymology:** Old English 'modde', of Germanic origin
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Wet earth
+>
+> **Context Meaning:** Soft, sticky mixture of earth and water; difficult situation
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bùn, bùn đất
+> - **Contextual:** tình thế bế tắc, rắc rối
+>
 > **Nuances:**
-> - ...
+> - Can be literal (physical mud) or metaphorical (muddy situation)
+> - Associated with difficulty, messiness, and getting stuck
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Messy, Difficult, Earthy
+> **Memory Hook:** MUD = Messy Unpleasant Dirt
+> **📖 Etymology Story:** Old English 'modde' → unchanged for centuries, reflecting the timeless nature of earth and water
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[mud]] /mʌd/
+> - **Verb:** [[muddy]] /ˈmʌdi/
+> - **Adj:** [[muddy]] /ˈmʌdi/
+> - **Adv:** [[muddily]] /ˈmʌdɪli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[soil]] /sɔɪl/ : more general term
+> - [[clay]] /kleɪ/ : specific type of earth
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[dryness]] /ˈdraɪnəs/ : lack of moisture
+> - [[solid ground]] /ˈsɒlɪd ɡraʊnd/ : stable surface
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Stuck in the mud (mắc kẹt trong bùn)
+> 2. Mud slide (sạt lở bùn đất)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The children loved playing in the mud after the rainstorm.
+> - **Translation:** Bọn trẻ yêu thích chơi bùn sau cơn mưa lớn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The car got stuck in the mud and we had to push it out.
+> - **Translation:** Chiếc xe bị mắc kẹt trong bùn và chúng tôi đã phải đẩy nó ra.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Uncountable noun**
+> - ❌ **Mistake:** There were many muds on the road.
+> - ✅ **Correction:** There was a lot of mud on the road.
+> - **Why:** 'Mud' is an uncountable noun, doesn't have plural form
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The hikers struggled through the thick mud on the mountain trail."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **mud** (*/mʌd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Soft, sticky mixture of earth and water; messy situation
+> 🇻🇳 **Vietnamese:** Bùn, bùn đất; tình thế bế tắc, rắc rối
+> 🗣️ **IPA:** */mʌd/*
+> 🧠 **Mental Model:** Chất lỏn sệt dính từ đất và nước, gây khó khăn khi di chuyển, giống như vật cản trở con đường
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Soft, sticky mixture of earth and water; messy situation"
+**Vietnamese:** Bùn đất
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**mud** (*/mʌd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **mud** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The festival turned into a muddy mess when unexpected rain flooded the grounds.
+> 🇻🇳 **Translation:** Lễ hội trở thành một mớ bùn lầy lội khi mưa bất ngờ ngập lụt khuôn viên.
+> 🔍 **Analysis:** 'Mud' creates a vivid image of wet earth and chaos, perfect for describing messy outdoor situations
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **mud**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Problems:** stuck in mud/muddy situation (mắc kẹt/tình thế rắc rối) - metaphorical difficulty
+> 2. **Natural phenomena:** mudslide/mudflow (sạt lở/dòng chảy bùn) - geological events
+> 3. **Activities:** mud bath/mud wrestling (tắm bùn/đấu vật bùn) - recreational uses
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **mud**:
+"The road was dirty after the rain."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The unpaved road became an impassable ribbon of mud after the downpour."
+> 💡 **Why it works:** 'Mud' specifically describes the wet earth problem, creating a clearer image than 'dirty'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **mud** instead of **dirt**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **mud:** Đất ướt sệt, gây dính và khó khăn khi di chuyển
+> **dirt:** Đất khô hoặc bẩn chung, không nhất thiết phải ướt
+> 🧱 **The Barrier:** All mud is wet dirt, but not all dirt is mud
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're hiking and the path becomes wet and slippery. What do you warn your friends?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Watch your step! The trail has turned to mud and it's very slippery."
+> 👨‍🎨 **Director's Note:** Sử dụng 'mud' để mô tả cụ thể tình trạng đường ướt sệt nguy hiểm
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the Old English root `modde` to the meaning of **mud**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Tiếng Anh cổ 'modde' → 'mud' hiện đại, một từ gần như không thay đổi qua nhiều thế kỷ, phản ánh bản chất vĩnh cửu của đất và nước
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **mud**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `modde`
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[muddy]] (làm cho bẩn bùn)
+> - *(adj)* [[muddy]] (đầy bùn, không rõ ràng)
+> - *(adv)* [[muddily]] (một cách lầy lội)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */mʌd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**mud**
+> 📖 **Meaning:** Wet earth
+> 🇻🇳 **Vietnamese:** Bùn, bùn đất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **mud**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I need to clean the muds off my boots"
+> ✅ **Correction:** "I need to clean the mud off my boots"
+> 🧠 **Why:** 'Mud' is uncountable, like water or sand - we don't add 's' to make it plural
 
 ---
 
-### Card 12: Antonym Flip
+### Card 12: Metaphorical Usage
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What are metaphorical uses of **mud**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Metaphors:**
+> - [[drag someone's name through mud]] (bôi nhọ danh tiếng người khác)
+> - [[clear as mud]] (rõ như bùn - actually unclear, sarcastic)
+> 🧱 **Extended Meaning:** Mud represents confusion, difficulty, and damaged reputation
 
 ---

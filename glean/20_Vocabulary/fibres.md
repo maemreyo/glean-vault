@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [fiber, fibers, dietary fibre, fibre optic, textile fibre, natural fibres]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfaɪbəz/ (US spelling: fibers)
+> **Part of Speech:** noun (plural)
+> **CEFR Level:** B1
+> **Register:** general/technical
+> **Etymology:** Latin 'fibra' (fiber, filament, thread), from Proto-Indo-European 'gwher-' (to scratch, tear)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Thread-like structures or filaments
+>
+> **Context Meaning:** Natural or synthetic thread-like structures that form textile materials or dietary components that aid digestion
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sợi, chất xơ
+> - **Contextual:** sợi vải, chất xơ thực phẩm
+>
 > **Nuances:**
-> - ...
+> - UK spelling: fibres, US spelling: fibers
+> - Can refer to textile materials or dietary components
+> - Essential component in both clothing industry and nutrition
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Essential, Versatile, Connecting
+> **Memory Hook:** Fibres are like tiny threads that weave together to make cloth or help your digestion
+> **📖 Etymology Story:** From Latin 'fibra' meaning 'thread' - these are the fundamental threads that make up fabrics or the essential threads of nutrition
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun (sg):** fibre/ˈfaɪbə(r)/, fiber/ˈfaɪbər/
+> - **Noun (pl):** fibres/ˈfaɪbəz/, fibers/ˈfaɪbərz/
+> - **Adj:** fibrous/ˈfaɪbrəs/
+> - **Related:** fibreglass/ˈfaɪbəɡlɑːs/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[filament]] /ˈfɪləmənt/ : thin thread
+> - [[thread]] /θred/ : twisted fiber
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[bulk]] /bʌlk/ : mass without defined structure
+> - [[solid]] /ˈsɒlɪd/ : without fiber content
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Natural/synthetic fibres
+> 2. Dietary fibre
+> 3. Muscle fibres
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Cotton and linen are natural fibres commonly used for summer clothing.
+> - **Translation:** Bông và vải lanh là các sợi tự nhiên thường được dùng cho quần áo mùa hè.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Whole grains are rich in dietary fibres that promote digestive health.
+> - **Translation:** Nguyên hạt giàu chất xơ giúp thúc đẩy sức khỏe tiêu hóa.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. UK vs US spelling**
+> - ❌ **Mistake:** I prefer natural **fibers** in my clothing. (UK English)
+> - ✅ **Correction:** I prefer natural **fibres** in my clothing. (UK) or **fibers** (US)
+> - **Why:** Both are correct, but consistency matters within each variant of English
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The fabric contains special fibres that regulate temperature."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **fibres** (*/ˈfaɪbəz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Thread-like structures or filaments, natural or synthetic; dietary components that aid digestion
+> 🇻🇳 **Vietnamese:** Sợi, chất xơ; sợi vải, chất xơ thực phẩm
+> 🗣️ **IPA:** */ˈfaɪbəz/* (US: /ˈfaɪbərz/)
+> 🧠 **Mental Model:** Những 'sợi nhỏ' kết tạo nên vải hoặc 'chất xơ' trong rau củ giúp tiêu hóa
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Thread-like structures that form materials or help with digestion"
+**Vietnamese:** Sợi, chất xơ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**fibres** (*/ˈfaɪbəz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **fibres** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new sports shirt uses advanced synthetic fibres that wick away moisture efficiently.
+> 🇻🇳 **Translation:** Áo thể thao mới sử dụng sợi tổng hợp tiên tiến giúp thấm hút độ ẩm hiệu quả.
+> 🔍 **Analysis:** 'Fibres' ở đây là danh từ số nhiều, chỉ các sợi tổng hợp trong công nghiệp dệt may, nhấn mạnh đặc tính kỹ thuật của vật liệu
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **fibres**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Textiles:** Natural/synthetic fibres (sợi tự nhiên/tổng hợp - phân loại trong dệt may)
+> 2. **Nutrition:** Dietary fibres (chất xơ thực phẩm - dinh dưỡng)
+> 3. **Biology:** Muscle/nerve fibres (sợi cơ/thần kinh - sinh học)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **fibres**:
+"The material is made of threads."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The innovative fabric combines natural and synthetic fibres to create optimal comfort and durability."
+> 💡 **Why it works:** 'Fibres' chính xác hơn 'threads', thể hiện kiến thức chuyên ngành về vật liệu dệt may
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **fibres** instead of **[[threads]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **fibres:** Dùng cho các sợi cơ bản tạo nên vật liệu, có thể tự nhiên hoặc tổng hợp
+> **[[threads]]**: Dùng cho sợi đã được xoắn lại để may vá hoặc khâu
+> 🧱 **The Barrier:** Fibres là sợi gốc, threads là sợi đã qua xử lý - cơ bản vs thành phẩm
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a nutritionist explaining healthy eating. You need to recommend something. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You should increase your intake of dietary fibres from vegetables, fruits, and whole grains."
+> 👨‍🎨 **Director's Note:** Sử dụng 'dietary fibres' thể hiện chuyên môn dinh dưỡng, rõ ràng và cụ thể
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `fibra` to the meaning of **fibres**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'fibra' (sợi, sợi chỉ) - 'fibres' là những sợi cơ bản đan kết tạo nên vải hoặc các thành phần thiết yếu trong dinh dưỡng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **fibres**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `fibra` (fiber, thread)
+> 👨‍👩‍👧 **Family:**
+> - *(noun singular)* fibre/fiber
+> - *(noun plural)* fibres/fibers
+> - *(adjective)* fibrous /ˈfaɪbrəs/ (gần như sợi)
+> - *(compound)* fibreglass /ˈfaɪbəɡlɑːs/ (kính thủy tinh)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfaɪbəz/ (UK) /ˈfaɪbərz/ (US)
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**fibres**
+> 📖 **Meaning:** Thread-like structures; dietary components
+> 🇻🇳 **Vietnamese:** Sợi, chất xơ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **fibres**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The orange contains many **fibers**. (UK English)
+> ✅ **Correction:** The orange contains many **fibres**. (UK) or **fibers** (US)
+> 🧠 **Why:** Fibres (Anh), fibers (Mỹ) - cần nhất quán trong cùng một dạng tiếng Anh
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **fibres**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[solids]] (chất rắn không xơ)
+> - [[processed foods]] (thực phẩm chế biến - thường mất chất xơ)
+> 🧱 **Contrast:** Fibres là các sợi giúp cấu tạo hoặc tiêu hóa, antonyms là các chất không có cấu trúc sợi
 
 ---

@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 #flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [equally hopeless, hopeless, all hopeless, uniformly desperate, equally futile]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɔːl ˈiːkwəli ˈhoʊpləs/
+> **Part of Speech:** adjectival phrase
+> **CEFR Level:** C1
+> **Register:** formal/literary
+> **Etymology:** 'All' (every) + 'equally' (same degree) + 'hopeless' (without hope)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Everyone equally without hope
+>
+> **Context Meaning:** A situation where multiple options, people, or outcomes share the same degree of hopelessness; universally bleak prospects
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tất cả đều vô vọng như nhau
+> - **Contextual:** ai cũng bế tắc như nhau, mọi phương án đều bất khả thi
+>
 > **Nuances:**
-> - ...
+> - Emphasizes shared desperation across multiple options
+> - Used in formal, often philosophical or analytical contexts
+> - Implies comparison has revealed no better alternative
+> - Strong expression of universal failure or impossibility
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Bleak, Analytical, Resigned
+> **Memory Hook:** 'All' + 'equally' + 'hopeless' = everyone has zero chance, same for all
+> **📖 Etymology Story:** Combining 'all' (complete), 'equally' (same level), and 'hopeless' (without hope) creates a powerful phrase for situations where analysis reveals that every possible outcome shares the same bleak fate.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrase:** [[all equally hopeless]] /ɔːl ˈiːkwəli ˈhoʊpləs/
+> - **Adj:** [[hopeless]] /ˈhoʊpləs/
+> - **Adv:** [[equally]] /ˈiːkwəli/
+> - **Related:** [[futile]] /ˈfjuːtaɪl/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[universally bleak]] /ˌjuːnɪˈvɜːrsəli bliːk/ : all grim
+> - [[uniformly desperate]] /ˈjuːnɪfɔːrmli ˈdespərət/ : all hopeless
+> - [[equally futile]] /ˈiːkwəli ˈfjuːtaɪl/ : all pointless
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[all equally promising]] /ɔːl ˈiːkwəli ˈprɑːmɪsɪŋ/ : all hopeful
+> - [[universally optimistic]] /ˌjuːnɪˈvɜːrsəli ˌɑːptɪˈmɪstɪk/ : all positive
+> - [[equally viable]] /ˈiːkwəli ˈvaɪəbl/ : all feasible
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. all equally hopeless options
+> 2. all equally doomed to fail
+> 3. all equally without solution
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** After reviewing all proposals, the committee concluded they were all equally hopeless.
+> - **Translation:** Sau khi xem xét tất cả các đề xuất, ủy ban kết luận rằng chúng đều vô vọng như nhau.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** In this desperate situation, all escape routes seemed all equally hopeless.
+> - **Translation:** Trong tình thế tuyệt vọng này, tất cả các lối thoát đều dường như vô vọng như nhau.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Order**
+> - ❌ **Mistake:** equally hopeless all
+> - ✅ **Correction:** ALL equally hopeless
+> - **Why:** 'All' comes first to modify the group that is equally hopeless.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "When all options are equally hopeless, courage lies in choosing anyway."
+> **Source:** [[Philosophical Reflections on Decision]]
 
 ---
 
@@ -161,121 +84,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **all equally hopeless** (*/ɔːl ˈiːkwəli ˈhoʊpləs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A situation where every option, person, or outcome shares the same complete lack of hope
+> 🇻🇳 **Vietnamese:** Tất cả đều vô vọng như nhau - mọi phương án đều không có hy vọng như nhau
+> 🗣️ **IPA:** */ɔːl ˈiːkwəli ˈhoʊpləs/*
+> 🧠 **Mental Model:** 'No-win everywhere' - every path leads to failure, all equally bad
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "When multiple options or outcomes share the same complete lack of hope"
+**Vietnamese:** Khi nhiều lựa chọn hoặc kết quả có chung sự thiếu hy vọng hoàn toàn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**all equally hopeless** (*/ɔːl ˈiːkwəli ˈhoʊpləs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **all equally hopeless** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The prisoners realized all escape plans were all equally hopeless after the new security measures.
+> 🇻🇳 **Translation:** Những tù nhân nhận ra tất cả các kế hoạch trốn thoát đều vô vọng như nhau sau các biện pháp an ninh mới.
+> 🔍 **Analysis:** 'All equally hopeless' powerfully conveys that after analysis, every possible option shares the same fate of failure.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **all equally hopeless**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Decision context:** all equally hopeless options/choices (lựa chọn vô vọng như nhau - VN: decision analysis)
+> 2. **Outcome prediction:** all equally hopeless doomed/destined (định mệnh vô vọng như nhau - VN: future analysis)
+> 3. **Assessment result:** prove all equally hopeless (chứng minh tất cả đều vô vọng - VN: evaluation conclusion)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **all equally hopeless**:
+"All the ideas were bad."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "After careful analysis, the board concluded that all proposed solutions were all equally hopeless."
+> 💡 **Why it works:** 'All equally hopeless' adds analytical weight and emphasizes comparison, not just simple negativity. VN: nhấn mạnh sự phân tích và so sánh.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **all equally hopeless** instead of **[[all bad]]**?
+>
+> **all equally hopeless:** Analytical assessment showing equal lack of hope (VN: đánh giá phân tích, vô vọng như nhau)
+> **[[all bad]]:** Simple negative judgment (VN: đơn giản là xấu)
+> 🧱 **The Barrier:** 'All equally hopeless' implies comparison and analysis; 'all bad' is basic negativity (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a philosopher discussing existential choices. You feel contemplative. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Perhaps all paths are all equally hopeless, and meaning lies in the journey itself."
+> 👨‍🎨 **Director's Note:** Conveys philosophical resignation and depth (VN: thể hiện sự chiêm nghiệm triết học sâu sắc).
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
-?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+🌱 **Origins:** Link the components to the meaning of **all equally hopeless**.
+>
+> 📜 **Story:** 'All' (complete) + 'equally' (same level) + 'hopeless' (without hope). This powerful combination emerged in analytical writing to describe situations where careful comparison reveals that every available option shares the same bleak outcome (VN/EN mix).
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
-?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+Analyze the phrase **all equally hopeless**.
+>
+> 🌱 **Roots:** Old English 'eall' (all) + Latin 'aequalis' (equal) + Old English 'hope' + '-less' (without)
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* [[all equally hopeless]] - complete shared hopelessness
+> - *(adj)* [[hopeless]] - without hope
+> - *(adv)* [[equally]] - to the same degree
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɔːl ˈiːkwəli ˈhoʊpləs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**all equally hopeless**
+> 📖 **Meaning:** Every option equally without hope
+> 🇻🇳 **Vietnamese:** Tất cả đều vô vọng như nhau
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
-?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+🕵️ **Fix the Error:** Common mistake with **all equally hopeless**?
+>
+> ❌ **Mistake:** The candidates equally hopeless all failed.
+> ✅ **Correction:** The candidates ALL equally hopeless failed.
+> 🧠 **Why:** Word order matters: 'all' comes first to indicate complete inclusion before 'equally hopeless' describes their shared state.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
+↔️ **Flip:** What is the opposite of **all equally hopeless**?
+>
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[all equally promising]] (all have equal hope)
+> - [[universally optimistic]] (all positive)
+> - [[equally viable]] (all feasible)
+> 🧱 **Contrast:** All equally hopeless shares complete failure; all equally promising shares equal potential; universally optimistic sees good everywhere.

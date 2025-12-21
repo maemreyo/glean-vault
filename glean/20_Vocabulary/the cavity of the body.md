@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [cavity, body cavity, hollow space, chest cavity, abdominal cavity, oral cavity, nasal cavity, thoracic cavity]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkævəti/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** medical/academic
+> **Etymology:** From Latin cavus "hollow" via Old French cavite
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A hollow space
+>
+> **Context Meaning:** A hollow area or space within the body, containing organs
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** khoang rỗng
+> - **Contextual:** khoang trong cơ thể, khoang bộ phận
+>
 > **Nuances:**
-> - ...
+> - Medical term for specific spaces within the body
+> - Different from dental cavity (tooth decay)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Medical, Precise, Anatomical
+> **Memory Hook:** Think of a CAVE inside your body - CAVE-ity = hollow space
+> **📖 Etymology Story:** Latin 'cavus' (hollow) → Old French 'cavite' → English 'cavity' - any hollow space in the body
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[cavitation]] /ˌkævɪˈteɪʃn/
+> - **Verb:** [[cavitate]] /ˈkævɪteɪt/
+> - **Adj:** [[cavernous]] /ˈkævənəs/
+> - **Adv:** - (none common)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[hollow]] /ˈhɒləʊ/ : more general term
+> - [[chamber]] /ˈtʃeɪmbə/ : enclosed space
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[solid]] /ˈsɒlɪd/ : not hollow
+> - [[filled]] /fɪld/ : occupied space
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Body cavity (khoang cơ thể)
+> 2. Chest cavity (khoang ngực)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The lungs are located within the chest cavity.
+> - **Translation:** Phổi nằm trong khoang ngực.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The abdominal cavity contains many important organs including the liver and stomach.
+> - **Translation:** Khoang bụng chứa nhiều cơ quan quan trọng bao gồm gan và dạ dày.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with dental term**
+> - ❌ **Mistake:** I have a cavity in my stomach.
+> - ✅ **Correction:** I have a cavity in my tooth. / The stomach is located in the abdominal cavity.
+> - **Why:** 'Cavity' alone often refers to tooth decay, but 'body cavity' is anatomical
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The surgeon carefully accessed the chest cavity through the ribs."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **cavity** (*/ˈkævəti/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A hollow space within the body containing organs
+> 🇻🇳 **Vietnamese:** Khoang rỗng, khoang trong cơ thể
+> 🗣️ **IPA:** */ˈkævəti/*
+> 🧠 **Mental Model:** Không gian rỗng bên trong cơ thể giống như hang động, chứa đựng các cơ quan quan trọng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A hollow space within the body containing organs"
+**Vietnamese:** Khoang rỗng trong cơ thể
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**cavity** (*/ˈkævəti/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **cavity** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The heart is protected within the thoracic cavity, surrounded by the rib cage.
+> 🇻🇳 **Translation:** Tim được bảo vệ trong khoang ngực, bao quanh bởi lồng xương sườn.
+> 🔍 **Analysis:** 'Cavity' precisely describes the anatomical space, more specific than just 'space' or 'area'
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **cavity**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Anatomical locations:** chest/thoracic/abdominal cavity (khoang ngực/bụng) - specific body regions
+> 2. **Medical contexts:** body cavity search/scan (kiểm tra/chiếu khoang cơ thể) - medical procedures
+> 3. **Other contexts:** nasal/oral cavity (khoang mũi/miệng) - head and throat anatomy
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **cavity**:
+"The empty space in the chest contains organs."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The thoracic cavity houses vital organs including the heart and lungs."
+> 💡 **Why it works:** 'Cavity' provides precise anatomical terminology, showing professional understanding of body structure
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **cavity** instead of **space**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **cavity:** Thuộc ngữ y khoa, chỉ không gian rỗng được định nghĩa rõ ràng trong cơ thể
+> **space:** Từ thông thường, có thể chỉ bất kỳ khu vực trống nào
+> 🧱 **The Barrier:** 'Cavity' implies a specific anatomical structure, while 'space' is general and undefined
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining human anatomy to a medical student. You need to describe where organs are located.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The digestive organs are primarily housed within the abdominal cavity."
+> 👨‍🎨 **Director's Note:** Sử dụng 'cavity' để thể hiện sự chính xác y khoa và kiến thức chuyên môn
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `cavus` to the meaning of **cavity**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'cavus' (hang động, rỗng) → 'cavity' là không gian rỗng được định nghĩa trong cơ thể, giống như hang động tự nhiên chứa đựng các cơ quan
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **cavity**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `cavus` (hollow)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[cavernous]] (rỗng rộng, hang động)
+> - *(verb)* [[cavitate]] (tạo ra khoang rỗng)
+> - *(noun)* [[cavitation]] (sự hình thành khoang rỗng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkævəti/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**cavity**
+> 📖 **Meaning:** A hollow space within the body
+> 🇻🇳 **Vietnamese:** Khoang rỗng, khoang cơ thể
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **cavity**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The doctor looked in my cavity"
+> ✅ **Correction:** "The doctor looked in my oral cavity" or "The doctor looked for cavities in my teeth"
+> 🧠 **Why:** 'Cavity' alone often means tooth decay, specify 'oral cavity' for the mouth or 'cavities' for tooth decay
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **cavity**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[solid]] (rắn đặc - completely filled)
+> - [[mass]] (khối rắn - occupies space without hollows)
+> 🧱 **Contrast:** A cavity is empty space designed to contain something, while a solid is completely filled throughout
 
 ---

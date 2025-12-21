@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [approx, approx., roughly, about, around, circa, nearly]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈprɒksɪmətli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** Latin "approximare" (to come near to) from "ad" (to) + "proximus" (nearest)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Close to but not exactly; nearly.
+>
+> **Context Meaning:** Used to indicate that a number, amount, or measurement is close to the actual figure but not precisely accurate. Suggests an estimation or approximation rather than exact value.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** khoảng, xấp xỉ
+> - **Contextual:** ước chừng, đại khái
+>
 > **Nuances:**
-> - ...
+> - More formal than "about" or "around"
+> - Commonly used in academic, scientific, and technical writing
+> - Can be abbreviated as "approx." or "approx"
+> - Indicates educated guess or reasonable estimation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Precise but Flexible, Estimating, Professional
+> **Memory Hook:** Approximate = approach +imate - getting close to the real number.
+> **📖 Etymology Story:** Latin "approximare" (to come near) + "-ly" (adverb suffix). From "approaching" the exact value to "approaching approximately" - the art of getting close without claiming exactness.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[approximate]] /əˈprɒksɪmət/
+> - **Adv:** [[approximately]] /əˈprɒksɪmətli/
+> - **Noun:** [[approximation]] /əˌprɒksɪˈmeɪʃən/
+> - **Verb:** [[approximate]] /əˈprɒksɪmeɪt/ (to estimate)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[roughly]] /ˈrʌfli/ : without precision
+> - [[nearly]] /ˈnɪəli/ : almost
+> - [[about]] /əˈbaʊt/ : approximately (informal)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[exactly]] /ɪɡˈzæktli/ : precisely
+> - [[precisely]] /prɪˈsaɪsli/ : exactly
+> - [[accurately]] /ˈækjərətli/ : correctly
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. approximately 100 people
+> 2. approximately correct
+> 3. approximately equal to
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The stadium can hold approximately 50,000 spectators for major events.
+> - **Translation:** Sân vận động có thể chứa khoảng 50.000 khán giả cho các sự kiện lớn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The project will cost approximately $2 million to complete.
+> - **Translation:** Dự án sẽ tốn khoảng 2 triệu đô la để hoàn thành.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Redundancy**
+> - ❌ **Mistake:** "approximately about 100"
+> - ✅ **Correction:** "approximately 100" hoặc "about 100"
+> - **Why:** Both words mean the same thing
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Science is the art of the approximately perfect."
+> **Source:** [[Albert Einstein]]
 
 ---
 
@@ -161,121 +84,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **approximately** (*/əˈprɒksɪmətli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Close to but not exactly; nearly; used to indicate an estimated rather than exact value.
+> 🇻🇳 **Vietnamese:** Khoảng, xấp xỉ, ước chừng (gần đúng nhưng không chính xác)
+> 🗣️ **IPA: */əˈprɒksɪmətli/*
+> 🧠 **Mental Model:** Như "close enough" - getting near the real number but not claiming exact precision. Professional estimation tool.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Close to but not exactly; nearly"
+**Vietnamese:** Gần đúng nhưng không hoàn toàn, gần
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**approximately** (*/əˈprɒksɪmətli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **approximately** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The research team discovered approximately 200 new species in the unexplored rainforest region.
+> 🇻🇳 **Translation:** Đội nghiên cứu đã khám phá khoảng 200 loài mới trong khu vực rừng nhiệt đới chưa được khám phá.
+> 🔍 **Analysis:** "Approximately" works perfectly ở đây vì it's formal appropriate cho scientific reporting, indicating reasonable estimation without claiming exact count impossible to verify completely.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **approximately**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **With Numbers:** approximately 100, approximately half, approximately 75% (VN note: với số liệu)
+> 2. **Measurements:** approximately 5 meters, approximately 2 hours, approximately 10 kg (VN note: với đơn vị đo lường)
+> 3. **Qualities:** approximately correct, approximately equal, approximately true (VN note: với chất lượng/trạng thái)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **approximately**:
+"There are about 300 students in the school."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The school enrolls approximately 300 students across all grade levels, with slight fluctuations throughout the academic year."
+> 💡 **Why it works:** "Approximately" adds academic formality và precision hơn casual "about", appropriate cho institutional reporting.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **approximately** instead of **about**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **approximately:** More formal, precise estimate (VN: trang trọng, ước tính chính xác hơn)
+> **about:** Casual, general estimate (VN: thông thường, ước tính chung chung)
+> 🧱 **The Barrier:** "Approximately" used in academic, scientific, technical writing; "about" used in everyday conversation. "Approximately" suggests more calculated estimation.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're presenting quarterly sales figures to the board. You need to be precise but acknowledge estimates.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our projections indicate approximately $3.2 million in revenue for Q3, pending final verification of all accounts."
+> 👨‍🎨 **Director's Note:** "Approximately" demonstrates professional precision while acknowledging inherent uncertainty in projections, appropriate cho business communication.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `ad` and `proximus` to the meaning of **approximately**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "ad" (to) + "proximus" (nearest) → "approximare" (come near to) → "approximately". From literally "approaching nearest" đến getting close without claiming arrival at exact destination.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **approximately**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `proximus` (nearest, next)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* approximate - gần đúng
+> - *(adj)* proximal - gần, kế cận
+> - *(adj)* proximity - sự gần gũi
+> - *(verb)* approach - tiếp cận
+> - *(noun)* proxy - người đại diện
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈprɒksɪmətli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**approximately**
+> 📖 **Meaning:** Close to but not exactly; nearly
+> 🇻🇳 **Vietnamese:** Gần đúng nhưng không hoàn toàn, gần
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **approximately**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The train arrives at approximately around 3 PM." (redundant)
+> ✅ **Correction:** "The train arrives at approximately 3 PM." hoặc "The train arrives around 3 PM."
+> 🧠 **Why:** "Approximately" và "around" mean the same thing. Use one or the other, not both together to avoid redundancy.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **approximately**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[exactly]] (chính xác)
+> - [[precisely]] (chính xác, tỉ mỉ)
+> - [[specifically]] (cụ thể)
+> 🧱 **Contrast:** While approximately indicates closeness to truth without claiming exactness, exactly/precisely claims absolute accuracy - the spectrum between estimation và certainty.
 
 ---

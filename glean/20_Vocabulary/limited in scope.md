@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [limited scope, narrow scope, restricted, confined, bounded, finite, limited range]
+status: done
 ref:
-  - [[Cam 19 Listening Test 02]]
+  - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈlɪmɪtɪd ɪn skəʊp/
+> **Part of Speech:** adjective phrase
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** Latin limitare "to bound" + Greek skopos "target, aim"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Restricted within certain boundaries or range
+>
+> **Context Meaning:** Having a narrow range of effect, influence, or application; not comprehensive or extensive
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** giới hạn về phạm vi
+> - **Contextual:** có phạm vi hẹp, không rộng rãi
+>
 > **Nuances:**
-> - ...
+> - Often used in academic/business contexts
+> - Can imply intentional restriction or natural limitation
+> - Frequently modifies studies, projects, or authority
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Restrained, Focused
+> **Memory Hook:** Imagine a flashlight - its beam is "limited in scope" - only illuminates a specific area
+> **📖 Etymology Story:** Picture ancient archers "aiming" (scope) at targets within "boundaries" (limit) - they can only hit what's within their limited range!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[limit]] /ˈlɪmɪt/
+> - **Noun:** [[limitation]] /ˌlɪmɪˈteɪʃn/
+> - **Noun:** [[scope]] /skəʊp/
+> - **Verb:** [[limit]] /ˈlɪmɪt/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[restricted]] /rɪˈstrɪktɪd/ : kept within specific boundaries
+> - [[narrow]] /ˈnærəʊ/ : limited in width or range
+> - [[confined]] /kənˈfaɪnd/ : restricted to small area
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[extensive]] /ɪkˈstensɪv/ : covering large area
+> - [[comprehensive]] /ˌkɒmprɪˈhensɪv/ : complete and thorough
+> - [[unlimited]] /ʌnˈlɪmɪtɪd/ : without boundaries
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. limited in scope and scale
+> 2. necessarily limited in scope
+> 3. deliberately limited in scope
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The pilot study was intentionally limited in scope to test the methodology before full implementation.
+> - **Translation:** Nghiên cứu thí điểm được chủ động giới hạn phạm vi để thử nghiệm phương pháp trước khi triển khai toàn diện.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Due to budget constraints, the project's scope was necessarily limited to three key areas.
+> - **Translation:** Do hạn chế về ngân sách, phạm vi dự việc tất yếu bị giới hạn ở ba lĩnh vực chính.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** "limited for scope"
+> - ✅ **Correction:** "limited in scope"
+> - **Why:** Fixed collocation - always "in scope" not "for scope" or "at scope"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The art of being wise is the art of knowing what to overlook."
+> **Source:** [[William James]]
 
 ---
 
@@ -161,121 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **limited in scope** (*/ˈlɪmɪtɪd ɪn skəʊp/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Having a narrow range of effect, influence, or application; not comprehensive or extensive
+> 🇻🇳 **Vietnamese:** Giới hạn về phạm vi; có phạm vi hẹp
+> 🗣️ **IPA:** */ˈlɪmɪtɪd ɪn skəʊp/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một chiếc đèn pin - chỉ sáng một vùng nhỏ, không phải cả căn phòng (flashlight beam vs entire room)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Having a narrow range of effect or application; not comprehensive"
+**Vietnamese:** Giới hạn về phạm vi; không bao quát
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**limited in scope** (*/ˈlɪmɪtɪd ɪn skəʊp/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **limited in scope** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** While preliminary, the findings are limited in scope and should be interpreted with caution.
+> 🇻🇳 **Translation:** Mặc dù là bước đầu, kết quả có phạm vi hạn chế và cần được diễn giải một cách thận trọng.
+> 🔍 **Analysis:** "limited in scope" thể hiện academic caution, nhấn mạnh research không thể tổng quát hóa, phù hợp scholarly writing
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **limited in scope**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Academic:** necessarily/intentionally limited in scope (tất nhiên/chủ động giới hạn phạm vi) (research constraints)
+> 2. **Project:** deliberately limited in scope (cố tình giới hạn phạm vi) (project management)
+> 3. **Authority:** limited in scope and power (giới hạn về phạm vi và quyền lực) (governance)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **limited in scope**:
+"The study doesn't cover everything."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The research is necessarily limited in scope to urban populations within the United States."
+> 💡 **Why it works:** "limited in scope" tạo cảm giác academic precision thay vì "doesn't cover everything" (quá thông thường)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **limited in scope** instead of **[[small]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **limited in scope:** Giới hạn phạm vi (restricted range) - nhấn mạnh boundaries/parameters, thường intentional
+> **small:** Nhỏ (small size) - chỉ nói về kích thước, không nhất thiết về phạm vi ảnh hưởng
+> 🧱 **The Barrier:** "limited in scope" = restricted boundaries/range, "small" = physical size/quantity
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're presenting research findings at an academic conference. You need to be honest about limitations. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I should note that our study is limited in scope to participants aged 18-25, so generalization requires caution."
+> 👨‍🎨 **Director's Note:** "limited in scope" thể hiện academic honesty, professional acknowledgment of research boundaries
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<limit>` and `<scope>` to the meaning of **limited in scope**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "limitare" (bind/boundary) + Greek "skopos" (target/aim) → aim within boundaries → chỉ focus trong giới hạn nhất định → hiện đại: limited in scope (giới hạn phạm vi)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the roots/family of **limited in scope**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `limitare` (to bound) + Greek `skopos` (target/watch)
+> 👨‍👩‍👧 **Family:**
+> - **limit**: [[limit]] /ˈlɪmɪt/, [[limited]] /ˈlɪmɪtɪd/, [[limitation]] /ˌlɪmɪˈteɪʃn/
+> - **scope**: [[scope]] /skəʊp/, [[telescope]] /ˈtelɪskəʊp/, [[microscope]] /ˈmaɪkrəskəʊp/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈlɪmɪtɪd ɪn skəʊp/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**limited in scope**
+> 📖 **Meaning:** Having a narrow range of effect, influence, or application; not comprehensive or extensive
+> 🇻🇳 **Vietnamese:** Giới hạn về phạm vi; có phạm vi hẹp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **limited in scope**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The investigation was limited on scope."
+> ✅ **Correction:** "The investigation was limited in scope."
+> 🧠 **Why:** Fixed preposition collocation. Luôn dùng "limited in scope", không phải "limited at/on/for scope". Giống như "interested in" không "interested at".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **limited in scope**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[comprehensive]] (toàn diện - bao gồm tất cả aspects)
+> - [[extensive]] (rộng lớn - covering large area/range)
+> - [[unlimited]] (vô hạn - không có boundaries)
+> 🧱 **Contrast:** "limited in scope" = restricted boundaries, "comprehensive" = complete/thorough, "extensive" = large scale
 
 ---

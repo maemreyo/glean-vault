@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
 #flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [withstand, temperature resistance, heat resistance, cold resistance, endure temperature, survive temperature, temperature tolerance]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /wɪðˈstænd ˈtempərətʃər/
+> **Part of Speech:** verb phrase
+> **CEFR Level:** B2
+> **Register:** academic/scientific
+> **Etymology:** withstand (Old English 'withstandan' - to oppose) + temperature (Latin 'temperatura' - moderation, heat)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To remain undamaged or unaffected by extreme temperatures
+>
+> **Context Meaning:** To endure or resist the effects of very high or low temperatures without breaking, melting, or failing
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chịu được nhiệt độ
+> - **Contextual:** chống chịu được nhiệt độ cực đoan
+>
 > **Nuances:**
-> - ...
+> - Implies active resistance rather than passive acceptance
+> - Often used for materials, equipment, or organisms
+> - Suggests durability and resilience under stress
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Resilient, Tough, Enduring
+> **Memory Hook:** Imagine a warrior (with) standing (stand) firm against the fiery breath of a dragon (temperature)
+> **📖 Etymology Story:** The ancient Anglo-Saxons used 'withstandan' to describe warriors standing firm against enemies. Today, materials 'withstand temperature' like modern warriors battling thermal forces.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[withstandability]] /wɪðˌstændəˈbɪləti/
+> - **Verb:** [[withstand]] /wɪðˈstænd/
+> - **Adj:** [[withstandable]] /wɪðˈstændəbl/, [[temperature-resistant]] /ˈtempərətʃər rɪˈzɪstənt/
+> - **Adv:** [[withstandingly]] /wɪðˈstændɪŋli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[endure]] /ɪnˈdjʊər/ : to bear patiently
+> - [[resist]] /rɪˈzɪst/ : to fight against something
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[surrender]] /səˈrendər/ : to give up
+> - [[succumb]] /səˈkʌm/ : to yield to force
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. withstand extreme temperatures
+> 2. withstand high/low temperatures
+> 3. successfully withstand temperatures
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The spacecraft's heat shield is designed to withstand temperatures exceeding 2000°C during atmospheric reentry.
+> - **Translation:** Tấm chắn nhiệt của tàu vũ trụ được thiết kế để chịu được nhiệt độ vượt quá 2000°C khi quay trở lại khí quyển.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** These Arctic microbes can withstand temperatures as low as -40°C due to their unique cellular structure.
+> - **Translation:** Những vi khuẩn Bắc Cực này có thể chịu được nhiệt độ thấp đến -40°C nhờ cấu trúc tế bào độc đáo của chúng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** The material can withstand *with* high temperatures.
+> - ✅ **Correction:** The material can withstand high temperatures.
+> - **Why:** 'Withstand' is a transitive verb and doesn't need 'with' before the object.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The new polymer can withstand temperatures from -50°C to 300°C, making it ideal for aerospace applications."
+> **Source:** [[Materials Science Journal]]
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **withstand temperature** (*/wɪðˈstænd ˈtempərətʃər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To remain undamaged or unaffected by extreme temperatures, either hot or cold
+> 🇻🇳 **Vietnamese:** Chống chịu được nhiệt độ, chịu được nhiệt độ cực đoan
+> 🗣️ **IPA:** */wɪðˈstænd ˈtempərətʃər/*
+> 🧠 **Mental Model:** Material hoặc sinh vật đứng vững như một warrior khi đối mặt với attack của nhiệt độ nóng/lạnh
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To remain undamaged or unaffected by extreme temperatures"
+**Vietnamese:** Chống chịu được nhiệt độ cực đoan
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**withstand temperature** (*/wɪðˈstænd ˈtempərətʃər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **withstand temperature** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The volcanic rock samples collected by the rover can withstand temperatures up to 1200°C, explaining their preservation over millions of years.
+> 🇻🇳 **Translation:** Các mẫu đá núi lửa được rover thu thập có thể chịu được nhiệt độ lên tới 1200°C, giải thích cho sự bảo tồn của chúng trong hàng triệu năm.
+> 🔍 **Analysis:** 'Withstand'在这里perfectly thể hiện sựchống chịu active của đá đối với nhiệt độ cao, không phải是passively bear mà làactively resist
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **withstand temperature**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity Range:** withstand extreme temperatures (chịu nhiệt độ cực đoan - nhấn mạnh mức độ)
+> 2. **Material Property:** withstand high/low temperatures (chịu nhiệt độ cao/thấp - miêu tả đặc tính)
+> 3. **Success Focus:** successfully withstand temperatures (thành công chịu được nhiệt độ - nhấn mạnh kết quả)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **withstand temperature**:
+"The material can handle hot and cold weather."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The carbon-fiber composite can withstand temperatures ranging from -196°C in liquid nitrogen to 200°C in industrial ovens without losing structural integrity."
+> 💡 **Why it works:** 'Withstand' tạo hình ảnh active resistance mạnh mẽ hơn 'handle', đồng thời cung cấp specific temperature range cho academic precision
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **withstand temperature** instead of **survive temperature**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **withstand temperature:** Dùng cho materials, equipment - nhấn mạnh durability, resistance (kháng lại chủ động)
+> **survive temperature:** Dùng cho living organisms - nhấn mạnh endurance, living through (sống sót qua)
+> 🧱 **The Barrier:** 'Withstand' = kháng cự vật lý, 'survive' = tồn tại sinh học
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a materials engineer presenting to NASA. The committee asks about your new heat shield. You feel confident. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our proprietary ceramic matrix composite can withstand temperatures exceeding 3000°C for extended durations, far surpassing current industry standards."
+> 👨‍🎨 **Director's Note:** Professional confidence thể hiện qua specific numbers và technical terms like 'exceeding', 'extended durations'
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `stand` to the meaning of **withstand temperature**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'standan' (đứng) + 'with' (chống lại) = 'withstandan'. Giống như warrior đứng vững chống enemy, materials đứng vững chống thermal attack. Temperature là Latin 'temperatura' (sự cân bằng, nóng) - vậy 'withstand temperature' là đứng vững trước sự tấn công của nóng/lạnh.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **withstand temperature**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `standan` (to stand)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* withstand (chống lại)
+> - *(verb)* understand (hiểu - đứng dưới để hiểu)
+> - *(noun)* withstandability (khả năng chống chịu)
+> - *(adj)* outstanding (nổi bật - đứng ra ngoài)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */wɪðˈstænd ˈtempərətʃər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**withstand temperature**
+> 📖 **Meaning:** To remain undamaged by extreme temperatures
+> 🇻🇳 **Vietnamese:** Chịu được nhiệt độ cực đoan
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **withstand temperature**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The coating protects against and withstands to high temperatures.
+> ✅ **Correction:** The coating protects against and withstands high temperatures.
+> 🧠 **Why:** 'Withstand' là transitive verb, trực tiếp đi với object mà không cần preposition 'to'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **withstand temperature**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[succumb to temperature]] (Đầu hàng trước nhiệt độ - nhấn mạnh sự yếu đuối)
+> - [[fail in extreme temperatures]] (Thất bại trong nhiệt độ khắc nghiệt)
+> 🧱 **Contrast:** 'Withstand' là active resistance, antonyms là passive failure/yielding

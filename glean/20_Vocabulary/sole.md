@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [soles, solely, solo, only, exclusive, single]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /səʊl/ (adjective/noun) /səʊl/ (verb)
+> **Part of Speech:** adjective/noun/verb
+> **CEFR Level:** B2
+> **Register:** formal/literary
+> **Etymology:** Latin 'solus' (alone, single), from Proto-Indo-European 'sol' (whole, firm)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Being the only one; single
+>
+> **Context Meaning (adj):** One and only; not shared or divided
+> **Context Meaning (noun):** The underside of a foot or shoe
+> **Context Meaning (verb):** To provide with the sole of a shoe
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Adjective:** duy nhất, duy nhứt, độc nhất
+> - **Noun:** đế giày, lòng bàn chân
+> - **Verb:** đóng đế giày
+>
 > **Nuances:**
-> - ...
+> - Emphasizes singularity and exclusivity
+> - Can have a slightly formal or literary tone
+> - In legal contexts, means 'unmarried' or 'single'
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Unique, Exclusive, Independent
+> **Memory Hook:** 'Sole' sounds like 'solo' - they both mean 'alone' or 'by yourself'
+> **📖 Etymology Story:** From Latin 'solus' meaning 'alone' - when something is 'sole', it stands alone, unaccompanied, unique in its existence
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** sole /səʊl/
+> - **Noun:** sole /səʊl/
+> - **Verb:** sole /səʊl/
+> - **Adv:** solely /ˈsəʊlli/
+> - **Noun:** solitude /ˈsɒlɪtjuːd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[only]] /ˈəʊnli/ : single, unique (more common)
+> - [[exclusive]] /ɪkˈskluːsɪv/ : not shared, limited
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[multiple]] /ˈmʌltɪpl/ : many, numerous
+> - [[shared]] /ʃeəd/ : used by more than one
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Sole purpose/reason
+> 2. Sole heir/owner
+> 3. Sole responsibility
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The sole reason for the meeting was to discuss the budget crisis.
+> - **Translation:** Lý do duy nhất của cuộc họp là để thảo luận về khủng hoảng ngân sách.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** He is the sole survivor of the plane crash.
+> - **Translation:** Anh ấy là người sống sót duy nhất trong vụ tai nạn máy bay.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with 'soul'**
+> - ❌ **Mistake:** She sold her **soul** to the company.
+> - ✅ **Correction:** She sold her **sole** ownership to the company. (Not her spirit!)
+> - **Why:** 'Sole' (unique/single) vs 'soul' (spirit) - homophones with different meanings
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "He was the sole witness to the incident."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +85,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **sole** (*/səʊl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Being the only one; single and unique; the bottom of a shoe or foot
+> 🇻🇳 **Vietnamese:** Duy nhất, độc nhất; đế giày, lòng bàn chân
+> 🗣️ **IPA:** */səʊl/*
+> 🧠 **Mental Model:** 'Sole' = 'only one' - như 'solo' trong âm nhạc, chỉ một người biểu diễn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "One and only; not shared with anyone else"
+**Vietnamese:** Duy nhất, độc nhất
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**sole** (*/səʊl/*) - adjective
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **sole** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** As the sole representative of our company, I feel both honored and responsible for negotiating this deal.
+> 🇻🇳 **Translation:** Là đại diện duy nhất của công ty chúng tôi, tôi cảm thấy vừa vinh dự vừa có trách nhiệm đàm phán thương vụ này.
+> 🔍 **Analysis:** 'Sole' ở đây nhấn mạnh tính độc nhất và quyền lực duy nhất, tạo cảm giác quan trọng và trách nhiệm lớn
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **sole**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Purpose:** Sole purpose/reason (mục đích/lý do duy nhất - nhấn mạnh mục tiêu chính)
+> 2. **Ownership:** Sole owner/heir (chủ sở hữu/người thừa kế duy nhất - pháp lý)
+> 3. **Responsibility:** Sole responsibility (trách nhiệm duy nhất - nhấn mạnh cá nhân chịu trách nhiệm)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **sole**:
+"She was the only person who knew the truth."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "As the sole witness to the crime, she held the power to determine the defendant's fate."
+> 💡 **Why it works:** 'Sole' trang trọng hơn 'only', thêm cảm giác quyền lực và tầm quan trọng của người duy nhất biết sự thật
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **sole** instead of **[[only]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **sole:** Dùng trong văn viết trang trọng, nhấn mạnh tính độc quyền, không thể thay thế
+> **[[only]]**: Dùng trong văn nói và viết thông thường, đơn giản chỉ có một
+> 🧱 **The Barrier:** Sole mang sắc thái trang trọng và độc quyền, only trung tính hơn và phổ biến hơn
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're accepting an award as the only recipient. You feel humbled. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "As the sole recipient of this award, I accept it on behalf of everyone who supported this project."
+> 👨‍🎨 **Director's Note:** Sử dụng 'sole' thể hiện sự khiêm tốn nhưng vẫn nhấn mạnh vinh dự độc nhất, cho thấy sự rộng lượng
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `solus` to the meaning of **sole**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'solus' (đơn độc) - khi là 'sole', bạn đứng một mình, không có ai khác, độc nhất và đặc biệt
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **sole**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `solus` (alone, single)
+> 👨‍👩‍👧 **Family:**
+> - *(adjective)* sole /səʊl/ (duy nhất)
+> - *(adverb)* solely /ˈsəʊlli/ (chỉ, duy nhất)
+> - *(noun)* solitude /ˈsɒlɪtjuːd/ (sự đơn độc)
+> - *(related)* solo /ˈsəʊləʊ/ (độc tấu, đơn độc)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */səʊl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**sole**
+> 📖 **Meaning:** One and only; unique
+> 🇻🇳 **Vietnamese:** Duy nhất, độc nhất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **sole**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The company needs my **soul** signature on the document.
+> ✅ **Correction:** The company needs my **sole** signature on the document.
+> 🧠 **Why:** Sole (duy nhất) vs soul (linh hồn) - hai từ đồng âm nhưng nghĩa hoàn toàn khác nhau
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **sole**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[multiple]] (nhiều, đa số)
+> - [[shared]] (dùng chung, chia sẻ)
+> 🧱 **Contrast:** Sole là duy nhất không chia sẻ, antonyms là nhiều người cùng chia sẻ hoặc tham gia
 
 ---

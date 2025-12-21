@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [impaired, impairing, impairment, damage, weaken, harm, hurt, deteriorate, compromise]
+status: done
 ref:
-  - [[Cam 19 Listening Test 03]]
+  - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪmˈpeə(r)/
+> **Part of Speech:** verb
+> **CEFR Level:** C1
+> **Register:** formal/medical
+> **Etymology:** Latin impedire "to entangle, impede" from im- "in" + pes "foot"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To make worse or weaken
+>
+> **Context Meaning:** To damage or make something worse, especially the quality or value of something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** làm suy yếu, làm hư hại
+> - **Contextual:** suy giảm chức năng, gây tổn hại
+>
 > **Nuances:**
-> - ...
+> - Often used in medical contexts for bodily functions
+> - Implies reduction in quality, strength, or value
+> - More formal than "damage" or "harm"
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Detrimental, Damaging
+> **Memory Hook:** "Im-pair" - imagine two things "paired" but one is damaged, so they can't work together properly
+> **📖 Etymology Story:** Picture someone with their foot (pes) caught "in" (im-) something - they're impaired, unable to move properly!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[impairment]] /ɪmˈpeəmənt/
+> - **Adj:** [[impaired]] /ɪmˈpeəd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[damage]] /ˈdæmɪdʒ/ : cause physical harm
+> - [[weaken]] /ˈwiːkən/ : make less strong
+> - [[compromise]] /ˈkɒmprəmaɪz/ : weaken or damage
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[enhance]] /ɪnˈhɑːns/ : improve quality
+> - [[strengthen]] /ˈstreŋθn/ : make stronger
+> - [[improve]] /ɪmˈpruːv/ : make better
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. impair judgment
+> 2. impair vision/hearing
+> 3. impair function
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Lack of sleep can impair your ability to concentrate and make decisions.
+> - **Translation:** Thiếu ngủ có thể làm suy yếu khả năng tập trung và ra quyết định của bạn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Loud noise can permanently impair hearing if exposure is prolonged.
+> - **Translation:** Tiếng ồn lớn có thể làm suy giảm thính lực vĩnh viễn nếu tiếp xúc kéo dài.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** " impair for something"
+> - ✅ **Correction:** " impair something"
+> - **Why:** Impair is a transitive verb and doesn't need a preposition before the object
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Your vision will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."
+> **Source:** [[Carl Jung]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **impair** (*/ɪmˈpeə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To damage or make something worse, especially reducing its quality, strength, or value
+> 🇻🇳 **Vietnamese:** Làm suy yếu; làm hư hại; suy giảm chức năng
+> 🗣️ **IPA:** */ɪmˈpeə(r)/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một chiếc kính bị trầy xước - nó impair (làm suy yếu) khả năng nhìn rõ (vision becomes less clear)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To damage or make something worse, reducing its quality or function"
+**Vietnamese:** Làm suy yếu; làm giảm chất lượng/chức năng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**impair** (*/ɪmˈpeə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **impair** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The medication may impair your coordination, so avoid driving after taking it.
+> 🇻🇳 **Translation:** Thuốc có thể làm suy yếu khả năng phối hợp của bạn, vì vậy hãy tránh lái xe sau khi uống.
+> 🔍 **Analysis:** "impair" thể hiện medical warning, nhấn mạnh reduction in bodily function, formal hơn "affect" hay "harm"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **impair**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Medical:** impair vision/hearing/memory (làm suy giảm thị lực/thính lực/trí nhớ) (bodily functions)
+> 2. **Cognitive:** impair judgment/concentration (làm suy yếu khả năng phán đoán/tập trung) (mental abilities)
+> 3. **General:** impair performance/function/quality (làm suy yếu hiệu suất/chức năng/chất lượng) (general abilities)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **impair**:
+"The noise affected his work."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The constant construction noise impaired his ability to focus on complex tasks."
+> 💡 **Why it works:** "impair" tạo cảm giác formal reduction in ability thay vì chỉ "affected" (chung chung)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **impair** instead of **[[damage]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **impair:** Làm suy yếu (weaken/reduce quality) - thường không visible damage, focus on function reduction
+> **damage:** Làm hỏng/hư hại (physical harm) - thường visible/tangible destruction
+> 🧱 **The Barrier:** "impair" = functional reduction without visible damage, "damage" = physical harm/destruction
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a doctor explaining medication side effects to a patient. You need to be clear and professional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This treatment may temporarily impair your immune system, so we'll monitor you closely."
+> 👨‍🎨 **Director's Note:** "impair" thể hiện medical precision, formal language for discussing bodily function reduction
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<ped>` to the meaning of **impair**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "impedire" = im- (in) + pes (foot) → foot caught in something → không thể đi properly → bị hạn chế movement → hiện đại: impair (làm suy yếu chức năng)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **impair**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `pes` (foot) - related to movement and impediment
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[impair]] /ɪmˈpeə(r)/
+> - *(noun)* [[impairment]] /ɪmˈpeəmənt/
+> - *(adj)* [[impaired]] /ɪmˈpeəd/
+> - *(related)* [[impede]] /ɪmˈpiːd/ (obstruct/hinder)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪmˈpeə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**impair**
+> 📖 **Meaning:** To damage or make something worse, especially reducing its quality, strength, or value
+> 🇻🇳 **Vietnamese:** Làm suy yếu; làm hư hại; suy giảm chức năng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **impair**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The bad weather impaired for the construction project."
+> ✅ **Correction:** "The bad weather impaired the construction project."
+> 🧠 **Why:** "impair" là transitive verb, không cần preposition "for" trước object. Dùng trực tiếp: impair + object.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **impair**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[enhance]] (nâng cao - improve quality/function)
+> - [[strengthen]] (củng cố - make stronger)
+> 🧱 **Contrast:** "impair" = reduce/ weaken function, "enhance" = improve quality, "strengthen" = increase power/resistance
 
 ---

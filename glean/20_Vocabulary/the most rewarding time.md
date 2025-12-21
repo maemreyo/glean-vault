@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [rewarding, fulfilling, satisfying, gratifying, worthwhile, meaningful, enriching, valuable, fulfilling experience, most rewarding]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈwɔːdɪŋ/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** formal/informal
+> **Etymology:** From reward + -ing, from Old North French 'rewarder'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Giving satisfaction or pleasure
+>
+> **Context Meaning:** Providing emotional satisfaction, fulfillment, or valuable experience
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đáng thưởng, đáng đền đáp
+> - **Contextual:** đáng giá, mang lại sự thỏa mãn, ý nghĩa
+>
 > **Nuances:**
-> - ...
+> - Emphasizes emotional and psychological benefits, not just material rewards
+> - Often used for experiences, jobs, or activities that provide deep satisfaction
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Fulfilling, Nurturing, Positive
+> **Memory Hook:** REWARD = something valuable you get → REWARDING = something that gives you valuable feelings
+> **📖 Etymology Story:** From 'reward' (something given for merit) + '-ing' → that which gives merit/satisfaction
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[reward]] /rɪˈwɔːd/
+> - **Verb:** [[reward]] /rɪˈwɔːd/
+> - **Adj:** [[rewarded]] /rɪˈwɔːdɪd/
+> - **Adv:** [[rewardingly]] /rɪˈwɔːdɪŋli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[fulfilling]] /fʊlˈfɪlɪŋ/ : emphasizes personal completion
+> - [[gratifying]] /ˈɡrætɪfaɪɪŋ/ : emphasizes pleasure received
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[disappointing]] /ˌdɪsəˈpɔɪntɪŋ/ : not meeting expectations
+> - [[frustrating]] /ˈfrʌstreɪtɪŋ/ : causing annoyance
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Rewarding experience (trải nghiệm đáng giá)
+> 2. Rewarding career (nghề nghiệp ý nghĩa)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Teaching is one of the most rewarding professions.
+> - **Translation:** Giảng dạy là một trong những nghề nghiệp đáng giá nhất.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Volunteering at the shelter was the most rewarding time of my life.
+> - **Translation:** Tình nguyện ở trại tâm lý là thời gian đáng giá nhất trong đời tôi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with 'rewarded'**
+> - ❌ **Mistake:** I feel very rewarded after helping others.
+> - ✅ **Correction:** I feel it was very rewarding to help others.
+> - **Why:** 'Rewarding' describes the experience, 'rewarded' describes receiving something
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The most rewarding time in my career was when I saw my students succeed."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **rewarding** (*/rɪˈwɔːdɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Giving satisfaction, pleasure, or valuable experience; fulfilling
+> 🇻🇳 **Vietnamese:** Đáng giá, đáng đền đáp, mang lại sự thỏa mãn
+> 🗣️ **IPA:** */rɪˈwɔːdɪŋ/*
+> 🧠 **Mental Model:** Cảm giác sâu sắc nhận được giá trị tinh thần khi làm điều gì đó, giống như tìm thấy kho báu trong tâm hồn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Giving satisfaction, pleasure, or valuable experience; fulfilling"
+**Vietnamese:** Đáng giá, mang lại sự thỏa mãn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**rewarding** (*/rɪˈwɔːdɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **rewarding** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Working with children can be extremely rewarding, despite the challenges.
+> 🇻🇳 **Translation:** Làm việc với trẻ em có thể cực kỳ đáng giá, dù có nhiều thử thách.
+> 🔍 **Analysis:** 'Rewarding' emphasizes the emotional fulfillment and satisfaction gained, not just external benefits
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **rewarding**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Experiences:** rewarding experience/journey/career (trải nghiệm/hành trình/nghề nghiệp đáng giá) - life situations
+> 2. **Activities:** rewarding work/volunteering/teaching (công việc/tình nguyện/giảng dạy đáng giá) - specific actions
+> 3. **Intensifiers:** deeply/highly/extremely rewarding (cực kỳ/đặc biệt sâu sắc đáng giá) - emphasis level
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **rewarding**:
+"The job made me feel good."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Mentoring young professionals has been the most rewarding aspect of my career."
+> 💡 **Why it works:** 'Rewarding' adds depth, suggesting meaningful satisfaction beyond just feeling good
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **rewarding** instead of **fun**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **rewarding:** Nhấn mạnh sự thỏa mãn sâu sắc và ý nghĩa lâu dài, thường về mặt tinh thần
+> **fun:** Chỉ sự vui vẻ, thú vị trong thời gian ngắn, thường bề mặt hơn
+> 🧱 **The Barrier:** Fun is temporary pleasure, while rewarding is lasting fulfillment that feeds the soul
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Someone asks why you chose a lower-paying job. You need to explain the non-financial benefits.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "It's the most rewarding work I've ever done - I feel like I'm making a real difference."
+> 👨‍🎨 **Director's Note:** Sử dụng 'rewarding' để nhấn mạnh giá trị tinh thần vượt qua lợi ích vật chất
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `reward` to the meaning of **rewarding**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 'reward' (phần thưởng) + '-ing' (đang cho) → 'rewarding' là cái đang cho bạn phần thưởng tinh thần, mang lại sự thỏa mãn từ sâu bên trong
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **rewarding**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old French 'rewarder' (to regard, reward)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[reward]] (phần thưởng)
+> - *(verb)* [[reward]] (thưởng)
+> - *(adj)* [[rewarded]] (được thưởng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈwɔːdɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**rewarding**
+> 📖 **Meaning:** Giving satisfaction or pleasure
+> 🇻🇳 **Vietnamese:** Đáng giá, đáng đền đáp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **rewarding**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I got rewarding when I helped others"
+> ✅ **Correction:** "It was rewarding to help others" or "I found helping others rewarding"
+> 🧠 **Why:** 'Rewarding' describes the experience/activity, not the person receiving the feeling
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **rewarding**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[disappointing]] (thất vọng - fails to meet expectations)
+> - [[frustrating]] (bực bội - causes difficulty and annoyance)
+> 🧱 **Contrast:** While 'rewarding' fills you with satisfaction, 'disappointing' leaves you feeling let down
 
 ---

@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [absences, missing, lack, not present, away, without]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈæbsəns/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** Latin "absentia" (being away) from "absens" (away, absent)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The state of being away or not present.
+>
+> **Context Meaning:** 1) Non-attendance or non-existence in a place at a given time; 2) Lack of something; 3) The state of being missing or wanting; 4) Inattention to present surroundings.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự vắng mặt, sự thiếu
+> - **Contextual:** sự không có mặt, sự vắng bỏ
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical absence or abstract lack
+> - "Absence makes the heart grow fonder" - famous proverb about distance creating affection
+> - Can indicate either temporary absence or permanent lack
+> - Often used in formal contexts like work, school, or meetings
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Empty, Missing, Noticeable
+> **Memory Hook:** Ab-sence = ab (away) + sense (feeling) - feeling of something being away.
+> **📖 Etymology Story:** From Latin "absentia" meaning "being away". Originally described physical non-presence, evolved to include lack of qualities or attention - the empty space where something should be.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[absence]] /ˈæbsəns/
+> - **Adj:** [[absent]] /ˈæbsənt/
+> - **Adv:** [[absently]] /ˈæbsəntli/
+> - **Verb:** [[absent]] /æbˈsent/ (to keep away)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[lack]] /læk/ : shortage
+> - [[missingness]] /ˈmɪsɪŋnəs/ : state of being missing
+> - [[nonattendance]] /ˌnɒnəˈtendəns/ : not being present
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[presence]] /ˈprezəns/ : being present
+> - [[existence]] /ɪɡˈzɪstəns/ : being present
+> - [[attendance]] /əˈtendəns/ : being present
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. absence of evidence
+> 2. prolonged absence
+> 3. fill the absence
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** His prolonged absence from work raised concerns among his colleagues.
+> - **Translation:** Sự vắng mặt kéo dài của anh ta tại nơi làm việc đã gây ra lo ngại trong số đồng nghiệp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The absence of clear instructions made the task difficult to complete.
+> - **Translation:** Sự thiếu hụt chỉ dẫn rõ ràng đã làm cho nhiệm vụ khó hoàn thành.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** "She was in absence"
+> - ✅ **Correction:** "She was absent" hoặc "In her absence"
+> - **Why:** "Absence" is the state, not something you can be "in"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Absence sharpens love, presence strengthens it."
+> **Source:** [[Thomas Fuller]]
 
 ---
 
@@ -161,121 +84,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **absence** (*/ˈæbsəns/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The state of being away or not present; the lack or non-existence of something.
+> 🇻🇳 **Vietnamese:** Sự vắng mặt, sự thiếu hụt, tình trạng không có mặt
+> 🗣️ **IPA: */ˈæbsəns/*
+> 🧠 **Mental Model:** Như "empty space" - place where something/someone should be but isn't. The void created by non-existence. Like missing puzzle piece.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The state of not being present in a place"
+**Vietnamese:** Tình trạng không có mặt ở một nơi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**absence** (*/ˈæbsəns/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **absence** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The teacher noted his absence from class and marked him tardy for the third time this month.
+> 🇻🇳 **Translation:** Giáo viên ghi nhận sự vắng mặt của anh ấy trong lớp và đánh dấu anh ấy đi muộn lần thứ ba trong tháng.
+> 🔍 **Analysis:** "Absence" works perfectly ở đây vì nó's formal term appropriate cho academic context, conveying official record of non-attendance rather than casual "not being there".
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **absence**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Time Duration:** prolonged absence, extended absence, brief absence (VN note: thời gian)
+> 2. **Abstract Concepts:** absence of evidence, absence of doubt, absence of emotion (VN note: khái niệm trừu tượng)
+> 3. **Contexts:** absence from work, absence of mind, fill someone's absence (VN note: bối cảnh cụ thể)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **absence**:
+"When he wasn't there, things didn't work well."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "In his absence, the team struggled to maintain momentum without his leadership and vision."
+> 💡 **Why it works:** "Absence" elevates description từ simple "not being there" đến formal recognition of impact created by non-presence, emphasizing the void left.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **absence** instead of **lack**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **absence:** Not present in place (VN: không có mặt ở nơi đó)
+> **lack:** Not available at all (VN: không có sẵn, thiếu hụt)
+> 🧱 **The Barrier:** "Absence" refers specifically to someone/something not being present where expected, "lack" refers to insufficiency or nonexistence regardless of location. You can lack something while being present.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why a project failed. You want to highlight missing leadership.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The project's failure can be attributed to the absence of decisive leadership during critical moments."
+> 👨‍🎨 **Director's Note:** "Absence" conveys professional formality while highlighting critical missing element, appropriate cho project analysis.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `absentia` to the meaning of **absence**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "absentia" (being away) + "-ce" (noun suffix). Từ trạng thái "being away" đến abstract concept của any form của non-existence - physical, mental, hay abstract.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **absence**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `esse` (to be) + `abs-` (away from)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* absent - vắng mặt
+> - *(verb)* absent - vắng mặt (formal)
+> - *(adj)* essential - thiết yếu
+> - *(adj)* present - có mặt
+> - *(noun)* presentation - bài trình bày
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈæbsəns/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**absence**
+> 📖 **Meaning:** The state of being away or not present
+> 🇻🇳 **Vietnamese:** Tình trạng vắng mặt hoặc không có mặt
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **absence**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The absence of people were noticeable." (subject-verb agreement)
+> ✅ **Correction:** "The absence of people was noticeable."
+> 🧠 **Why:** "Absence" là singular subject regardless of what follows. The phrase "absence of..." functions as singular noun phrase.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **absence**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[presence]] (sự có mặt)
+> - [[existence]] (sự tồn tại)
+> - [[attendance]] (sự tham dự)
+> 🧱 **Contrast:** While absence creates void và emptiness through non-existence, presence fills space với being và existence - fundamental dichotomy của being versus not-being.
 
 ---

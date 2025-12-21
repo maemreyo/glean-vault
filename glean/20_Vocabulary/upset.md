@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [upset, upsetness, upsetting, upsettingly, upsetted, disturbed, agitated, distressed, worried, anxious]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ʌpˈset/
+> **Part of Speech:** verb/adjective/noun
+> **CEFR Level:** A2
+> **Register:** informal/general
+> **Etymology:** Middle English from Old French 'upset' (overturned), from 'up' + 'set'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To overturn or capsize; to cause to be disturbed**
+>
+> **Context Meaning:** To make someone unhappy, disappointed, or worried; to be in a state of emotional disturbance**
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** làm phiền, làm buồn, khó chịu
+> - **Contextual:** lo lắng, thất vọng, phiền muộn, buồn bã
+>
 > **Nuances:**
-> - ...
+> - Can describe both physical (overturned) and emotional disturbance
+> - As an adjective, means unhappy or worried
+> - As a noun, refers to the state of being worried or an unexpected defeat
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Disturbed, Unsettled, Turbulent
+> **Memory Hook:** Imagine something being turned "up" and "set" down wrong - causing chaos and emotional disturbance
+> **📖 Etymology Story:** From the image of a boat being up-set (overturned) in water, creating turbulence and chaos - just like our emotions when we're upset
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** upset /ʌpˈset/
+> - **Adj:** upset /ʌpˈset/ (same form)
+> - **Noun:** upset /ʌpˈset/ (same form)
+> - **Adv:** upsettingly /ʌpˈsetɪŋli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[distressed]] /dɪˈstrest/ : experiencing emotional pain
+> - [[agitated]] /ˈædʒɪteɪtɪd/ : feeling troubled or nervous
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[calm]] /kɑːm/ : peaceful and untroubled
+> - [[content]] /kənˈtent/ : satisfied and happy
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Get upset about/over something
+> 2. Feel upset by something
+> 3. Upset stomach (physical meaning)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She was upset when she heard she didn't get the job.
+> - **Translation:** Cô ấy buồn khi nghe rằng mình không được nhận công việc đó.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Don't get upset about such a small problem.
+> - **Translation:** Đừng bận tâm về một vấn đề nhỏ như vậy.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect past tense form**
+> - ❌ **Mistake:** I up-set the table yesterday.
+> - ✅ **Correction:** I upset the table yesterday. / The table was upset.
+> - **Why:** 'Upset' is an irregular verb - the past tense and past participle are the same as the base form.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "He seemed upset about the news."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **upset** (*/ʌpˈset/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To make someone unhappy, disappointed, or worried; to be in a state of emotional disturbance**
+> 🇻🇳 **Vietnamese:** Làm phiền, làm buồn, lo lắng, phiền muộn**
+> 🗣️ **IPA:** */ʌpˈset/*
+> 🧠 **Mental Model:** Khi ai đó 'upset', cảm xúc của họ bị lật đổ/upset như con tàu bị lật, gây ra emotional storm**
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To cause emotional disturbance or unhappiness; to make someone worried or disappointed"**
+**Vietnamese:** Làm phiền, làm buồn, lo lắng**
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**upset** (*/ʌpˈset/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **upset** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The children were upset when their parents announced they were moving to another city.**
+> 🇻🇳 **Translation:** Những đứa trẻ đã buồn khi bố mẹ chúng thông báo rằng gia đình sẽ chuyển đến một thành phố khác.**
+> 🔍 **Analysis:** 'Upset' ở đây thể hiện sự buồn bã, thất vọng của trẻ em - adjective sau 'were' cho trạng thái cảm xúc bị disturb**
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **upset**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Emotional state:** get upset about/over (buồn/về điều gì)
+> 2. **Cause:** feel upset by (cảm thấy buồn vì)
+> 3. **Physical:** upset stomach (đau bụng, khó tiêu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **upset**:
+"She was sad about the news."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She was visibly upset by the sudden news of her best friend's departure."**
+> 💡 **Why it works:** 'Upset' mạnh hơn 'sad' vì nó không chỉ có nghĩa buồn mà còn thể hiện sự disturb emotionally, shocking, unexpected**
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **upset** instead of **[[sad]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **upset:** Dùng cho sự phiền muộn, lo lắng gây disturb, thường do unexpected events**
+> **[[sad]]:** Dùng cho nỗi buồn sâu sắc, thường kéo dài, có thể không có nguyên nhân rõ ràng**
+> 🧱 **The Barrier:** Upset implies disturbance and agitation, while sad is quieter and more melancholic**
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend cancels plans at the last minute without explanation. You feel annoyed and disappointed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm quite upset that you cancelled without letting me know beforehand."**
+> 👨‍🎨 **Director's Note:** 'Upset' thể hiện sự kết hợp giữa disappointment và annoyance một cách tự nhiên, phù hợp với tình huống bị let down**
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `up-set` to the meaning of **upset**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 'up' (lên) + 'set' (đặt) tạo ra hình ảnh bị lật úp - từ con tàu bị up-set trên biển đến cảm xúc bị up-set khi có chuyện không mong muốn xảy ra**
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **upset**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** English compound 'up' + 'set' (lên + đặt)**
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* upset (làm phiền, lật úp)
+> - *(adjective)* upset (buồn, phiền muộn)
+> - *(noun)* upset (sự phiền muộn, chiến thắng bất ngờ)
+> - *(adverb)* upsettingly (một cách gây bực mình)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ʌpˈset/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**upset**
+> 📖 **Meaning:** To cause emotional disturbance or unhappiness**
+> 🇻🇳 **Vietnamese:** Làm phiền, làm buồn, lo lắng**
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **upset**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** She was upsad about the test results**
+> ✅ **Correction:** She was upset about the test results**
+> 🧠 **Why:** 'Upset' là một irregular verb và adjective - không thay đổi dạng cho past tense hoặc comparative/superlative**
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **upset**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[calm]] (bình tĩnh, không bị disturb)
+> - [[pleased]] (vui vẻ, hài lòng)
+> 🧱 **Contrast:** Upset involves emotional disturbance and agitation, while its antonyms represent emotional stability and satisfaction**
 
 ---

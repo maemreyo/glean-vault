@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [clung, clinging, clings, cling to, clingy, stick, adhere, hold tight, grip, grasp]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /klɪŋ/
+> **Part of Speech:** verb
+> **CEFR Level:** B1
+> **Register:** general
+> **Etymology:** Old English 'clingan' (to stick together), of Germanic origin
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To hold on tightly or stick to something
+>
+> **Context Meaning:** To hold tightly to someone or something; to stay very close to a person; to refuse to give up an idea or belief
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bám vào, dính vào, bám víu
+> - **Contextual:** níu kéo, không buông bỏ, trung thành với, luyến tiếc
+>
 > **Nuances:**
-> - ...
+> - Can be physical (holding on) or emotional (refusing to let go)
+> - Often implies desperation or strong attachment
+> - Can have positive (loyalty) or negative (inability to move on) connotations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Attached, Dependent, Persistent
+> **Memory Hook:** Imagine 'cling' sounds like 'cling clang' - like metal clinging to a magnet
+> **📖 Etymology Story:** From Old English 'clingan' (to stick together) - when you cling, you stick to something like glue, refusing to separate
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** cling /klɪŋ/
+> - **Past:** clung /klʌŋ/
+> - **Pres. Part.:** clinging /ˈklɪŋɪŋ/
+> - **Adj:** clingy /ˈklɪŋi/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[stick]] /stɪk/ : attach firmly
+> - [[adhere]] /ədˈhɪə(r)/ : stick to a surface
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[release]] /rɪˈliːs/ : let go
+> - [[let go]] /let ɡəʊ/ : stop holding
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Cling to someone/something
+> 2. Cling to hope/dreams/ideas
+> 3. Clinging vines/fabric
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The frightened child clung to his mother's leg during the thunderstorm.
+> - **Translation:** Đứa trẻ sợ hãi đã bám chặt vào chân mẹ trong cơn bão sấm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Some people cling to outdated traditions despite changing times.
+> - **Translation:** Một số người vẫn níu giữ những truyền thống lỗi thời dù thời đại đã thay đổi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Irregular past tense confusion**
+> - ❌ **Mistake:** She clinged to the railing.
+> - ✅ **Correction:** She clung to the railing.
+> - **Why:** 'Cling' has an irregular past tense 'clung', not regular '-ed'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The wet shirt clung uncomfortably to his skin in the humid weather."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **cling** (*/klɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To hold on tightly; to stick to someone or something; to refuse to give up an idea or belief
+> 🇻🇳 **Vietnamese:** Bám vào, dính vào; níu giữ, không buông bỏ
+> 🗣️ **IPA:** */klɪŋ/*
+> 🧠 **Mental Model:** Khi bạn 'cling', bạn hold on tight - physically like holding onto railing, hoặc emotionally như refusing to let go của past - không 'release'
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To hold tightly to someone or something; to refuse to let go"
+**Vietnamese:** Bám vào, níu giữ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**cling** (*/klɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **cling** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Despite multiple job offers, she continued to cling to her dream of becoming an artist.
+> 🇻🇳 **Translation:** Mặc dù có nhiều lời mời làm việc, cô vẫn tiếp tục níu giữ ước mơ trở thành một nghệ sĩ.
+> 🔍 **Analysis:** 'Cling to her dream' thể hiện emotional attachment, 'despite multiple job offers' shows sacrifice, 'continued' emphasizes persistence
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **cling**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Physical:** Cling to/onto (bám chặt vào)
+> 2. **Emotional:** Cling to hope/memories (níu giữ hy vọng/ký ức)
+> 3. **Descriptive:** Clinging fabric/vines (vải dính thân/cây leo)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **cling**:
+"The fabric stuck to her skin."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The silk dress, damp from the rain, clung elegantly to her graceful movements."
+> 💡 **Why it works:** 'Clung elegantly' adds gracefulness, 'silk dress' specifies material, 'graceful movements' creates visual imagery
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **cling** instead of **[[stick]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **cling:** Dùng khi emotional attachment hoặc desperate holding - implies dependence hoặc inability to let go
+> **[[stick]]:** Dùng cho general attachment - more neutral, can be temporary
+> 🧱 **The Barrier:** Cling có emotional dependency, stick là physical attachment
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is still thinking about their ex months after the breakup. They need advice. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You need to stop clinging to the past and start embracing new opportunities."
+> 👨‍🎨 **Director's Note:** 'Clinging to the past' thể hiện inability to move on, 'embracing new opportunities' offers positive alternative
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `clingan` to the meaning of **cling**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'clingan' (to stick together) - khi bạn 'cling', bạn 'stick' như glue đến person hoặc idea, refusing to separate hay let go
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **cling**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `clingan` (to stick together)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* cling (bám vào)
+> - *(past)* clung (đã bám vào)
+> - *(adj)* clingy (hay bám víu, hay níu kéo)
+> - *(pres. part.)* clinging (đang bám vào)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */klɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**cling**
+> 📖 **Meaning:** To hold on tightly
+> 🇻🇳 **Vietnamese:** Bám vào, bám víu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **cling**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The baby clinged to its mother
+> ✅ **Correction:** The baby clung to its mother
+> 🧠 **Why:** 'Cling' là irregular verb - past tense là 'clung' chứ không phải 'clinged'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **cling**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[release]] (thả ra, buông tay)
+> - [[abandon]] (từ bỏ, rời bỏ)
+> 🧱 **Contrast:** Cling holds on desperately, antonyms let go deliberately

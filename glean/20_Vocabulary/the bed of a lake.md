@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
 #flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [lakebed, lake bottom, lake floor, seabed, riverbed, sediment, substrate]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ðə bed əv ə leɪk/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** neutral/scientific
+> **Etymology:** Old English "bed" + Old French "lac" (lake)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The bottom of a lake
+>
+> **Context Meaning:** The ground surface at the bottom of a lake, including sediment and soil
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đáy hồ
+> - **Contextual:** mặt đáy của hồ, vùng trầm tích dưới đáy hồ
+>
 > **Nuances:**
-> - ...
+> - Can be rocky, sandy, or muddy depending on the lake
+> - Important for aquatic ecosystems and geological studies
+> - May contain fossils or archaeological artifacts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Geologist, Archaeologist, Marine Biologist
+> **Memory Hook:** Think of the lake as a giant waterbed with its own bed underneath
+> **📖 Etymology Story:** Old English 'bedd' meant "sleeping place". The lake bed is like the earth's sleeping place beneath the water, where sediment layers build up over time like blankets!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[lakebed]] /ˈleɪkbed/
+> - **Noun:** [[sediment]] /ˈsedɪmənt/
+> - **Adj:** [[lacustrine]] /ləˈkʌstraɪn/ (relating to lakes)
+> - **Related:** [[substrate]] /ˈsʌbstreɪt/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[lake bottom]] /ˈleɪk ˌbɒtəm/ : more common term
+> - [[lake floor]] /ˈleɪk flɔː(r)/ : scientific term
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[surface]] /ˈsɜːfɪs/ : top of the water
+> - [[watershed]] /ˈwɔːtəʃed/ : surrounding land area
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. ancient lake bed
+> 2. rocky lake bed
+> 3. exposed lake bed
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Drought conditions have exposed the bed of the lake, revealing ancient artifacts.
+> - **Translation:** Điều kiện hạn hán đã làm lộ đáy hồ, khám phá ra các cổ vật.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Scientists drilled into the bed of the lake to study climate change patterns.
+> - **Translation:** Các nhà khoa học đã khoan vào đáy hồ để nghiên cứu các mẫu hình biến đổi khí hậu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** "The divers explored in the bed of the lake"
+> - ✅ **Correction:** "The divers explored the bed of the lake" OR "at the bottom of the lake"
+> - **Why:** Use 'the' before 'bed' and preposition 'at' or 'on' for location
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The lake bed holds secrets of ancient climates in its sediment layers."
+> **Source:** [[Scientific American]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **the bed of a lake** (*/ðə bed əv ə leɪk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The bottom surface of a lake, including the ground, sediment, and soil beneath the water
+> 🇻🇳 **Vietnamese:** đáy hồ, mặt đáy của hồ nước
+> 🗣️ **IPA:** */ðə bed əv ə leɪk/*
+> 🧠 **Mental Model:** Giống như nền nhà của một căn phòng đầy nước - là lớp đất/cát/đá dưới cùng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The bottom ground surface of a lake"
+**Vietnamese:** đáy hồ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**the bed of a lake** (*/ðə bed əv ə leɪk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **the bed of a lake** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Fossils were discovered in the bed of the ancient lake.
+> 🇻🇳 **Translation:** Hóa thạch được khám phá trong đáy của cái hồ cổ xưa.
+> 🔍 **Analysis:** Perfect here as it describes the specific location where fossils would be preserved
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **the bed of a lake**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Composition:** muddy lake bed (đáy hồ bùn) -VN: soft sediment bottom
+> 2. **State:** exposed lake bed (đáy hồ trơ trụi) -VN: visible due to low water
+> 3. **Age:** ancient lake bed (đáy hồ cổ) -VN: geological time reference
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **the bed of a lake**:
+"The bottom was covered in mud."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The bed of the lake consisted of layers of sediment deposited over millennia."
+> 💡 **Why it works:** More scientific, specific about geological process and time scale
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **the bed of a lake** instead of **[[seabed]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **the bed of a lake:** Đáy hồ - nước ngọt, thường nông hơn, hệ sinh thái khác
+> **[[seabed]]:** Đáy biển - nước mặn, thường sâu hơn, áp suất cao hơn
+> 🧱 **The Barrier:** Lake beds are freshwater, typically shallower, while seabeds are saltwater environments with different ecosystems
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining to children why the lake is empty during drought. You're being educational. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "When water levels drop, we can actually walk on what's normally the bed of the lake!"
+> 👨‍🎨 **Director's Note:** Makes scientific concept accessible and interesting for children
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `bed` and `lake` to the meaning of **the bed of a lake**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'bedd' meant 'sleeping place'. The lake bed is where water 'rests' on the earth. Like a giant water pillow resting on nature's mattress!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **the bed of a lake**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `bedd` (sleeping place) + French `lac` (lake)
+> 👨‍👩‍👧 **Family:**
+> - *(compound)* [[lakebed]] /ˈleɪkbed/
+> - *(related)* [[riverbed]] /ˈrɪvəbed/
+> - *(related)* [[seabed]] /ˈsiːbed/
+> - *(scientific)* [[lacustrine]] /ləˈkʌstraɪn/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ðə bed əv ə leɪk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**the bed of a lake**
+> 📖 **Meaning:** Bottom of a lake
+> 🇻🇳 **Vietnamese:** đáy hồ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **the bed of a lake**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Fish live in the bed of the lake"
+> ✅ **Correction:** "Fish swim above the bed of the lake" OR "Fish live near the bed of the lake"
+> 🧠 **Why:** Fish swim in water, not in the solid ground at the bottom
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **the bed of a lake**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[lake surface]] (mặt hồ)
+> - [[watershed]] (lưu vực, vùng thu nước)
+> 🧱 **Contrast:** The bed is at the bottom, while surface/watershed refers to the top or surrounding area
 
 ---

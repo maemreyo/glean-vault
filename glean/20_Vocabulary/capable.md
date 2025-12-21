@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [capability, capable of, incapable, capability, competence, competent, ability, able, skilled, proficient]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkeɪpəbl/
+> **Part of Speech:** adjective
+> **CEFR Level:** B1
+> **Register:** formal/general
+> **Etymology:** Late 16th century from French 'capable' or Latin 'capabilis' from 'capere' (to take, hold)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Having the ability or capacity to do something**
+>
+> **Context Meaning:** Having the necessary ability, resources, or qualities to do something effectively**
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** có khả năng
+> - **Contextual:** có đủ năng lực, có đủ khả năng, có thể**
+>
 > **Nuances:**
-> - ...
+> - Often followed by 'of' or 'to'
+> - Implies having the skills and capacity for a specific task
+> - Suggests competence and readiness
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Competent, Empowered, Qualified
+> **Memory Hook:** Think of a cape that gives you superpowers - being 'cap-able' means you have the power to do something
+> **📖 Etymology Story:** From Latin 'capere' (to hold/grasp) - if you can 'hold' a task, you are 'capable' of doing it
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** capable /ˈkeɪpəbl/
+> - **Noun:** capability /ˌkeɪpəˈbɪləti/
+> - **Neg Adj:** incapable /ɪnˈkeɪpəbl/
+> - **Related noun:** capacity /kəˈpæsəti/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[competent]] /ˈkɒmpɪtənt/ : having necessary skills
+> - [[able]] /ˈeɪbl/ : having the power to do something
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[incapable]] /ɪnˈkeɪpəbl/ : unable to do something
+> - [[incompetent]] /ɪnˈkɒmpɪtənt/ : lacking necessary skills
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Capable of (doing something)
+> 2. Fully/highly capable
+> 3. More than capable
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She is highly capable of managing complex projects.
+> - **Translation:** Cô ấy có khả năng rất cao trong việc quản lý các dự án phức tạp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new system is capable of processing thousands of transactions per second.
+> - **Translation:** Hệ thống mới có khả năng xử lý hàng nghìn giao dịch mỗi giây.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Wrong preposition**
+> - ❌ **Mistake:** He is capable in solving difficult problems.
+> - ✅ **Correction:** He is capable of solving difficult problems.
+> - **Why:** 'Capable' is followed by 'of' + gerund, not 'in' + gerund.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We need someone capable of handling multiple responsibilities."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **capable** (*/ˈkeɪpəbl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Having the necessary ability, skills, or qualities to do something effectively**
+> 🇻🇳 **Vietnamese:** Có khả năng, có đủ năng lực**
+> 🗣️ **IPA:** */ˈkeɪpəbl/*
+> 🧠 **Mental Model:** Khi ai đó 'capable', họ có thể 'hold' (capere) task đó - có đủ skills, resources và ability để complete nó successfully**
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Having the necessary ability or qualities to do something effectively"**
+**Vietnamese:** Có khả năng, có đủ năng lực**
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**capable** (*/ˈkeɪpəbl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **capable** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** With her extensive training and experience, Dr. Chen is more than capable of leading this research team.**
+> 🇻🇳 **Translation:** Với đào tạo và kinh nghiệm sâu rộng của mình, bác sĩ Chen hoàn toàn có đủ khả năng dẫn dắt nhóm nghiên cứu này.**
+> 🔍 **Analysis:** 'More than capable' là intensifier phrase nhấn mạnh ability vượt mức yêu cầu, kết hợp với 'of leading' theo đúng structure**
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **capable**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** highly/fully capable (có khả năng rất cao/hoàn toàn có khả năng)
+> 2. **Structure:** capable of (doing) (có khả năng làm gì)
+> 3. **Comparison:** more than capable (hoàn toàn có khả năng, còn hơn cả đủ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **capable**:
+"She can do the job well."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She is remarkably capable of handling the most challenging aspects of this position with minimal supervision."**
+> 💡 **Why it works:** 'Capable' thể hiện inherent ability và competence, kết hợp với 'remarkably' và 'handling challenging aspects' tạo ra hình ảnh vivid về skill level**
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **capable** instead of **[[able]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **capable:** Thường dùng cho broader range của abilities, bao gồm skills, knowledge, và personal qualities. Mang sắc thái competent và well-qualified**
+> **[[able]]:** Thường chỉ physical hoặc mental ability để làm gì, less formal và more immediate**
+> 🧱 **The Barrier:** Capable implies overall competence and qualification, while able focuses on specific ability to perform**
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss is considering who should lead a critical project. You want to recommend your colleague. What do you say?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I believe Sarah is the most capable person for this project - she has both the technical expertise and leadership skills we need."**
+> 👨‍🎨 **Director's Note:** 'Most capable' thể hiện assessment toàn diện về abilities, phù hợp với professional context khi đề xuất người cho important role**
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `capere` to the meaning of **capable**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'capere' (to grasp, hold) - người 'capable' là người có thể 'grasp' và 'hold' tasks/knowledge, metaphor cho việc có đủ capacity và mental grasp để handle responsibilities**
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **capable**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin 'capere' (to hold, grasp, take)**
+> 👨‍👩‍👧 **Family:**
+> - *(adjective)* capable (có khả năng)
+> - *(noun)* capability (khả năng, năng lực)
+> - *(negative)* incapable (không có khả năng)
+> - *(related)* capture (bắt, nắm bắt), capacity (sức chứa)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkeɪpəbl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**capable**
+> 📖 **Meaning:** Having the necessary ability or qualities to do something**
+> 🇻🇳 **Vietnamese:** Có khả năng, có đủ năng lực**
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **capable**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** This machine is capable to process data faster.**
+> ✅ **Correction:** This machine is capable of processing data faster.**
+> 🧠 **Why:** 'Capable' luôn theo sau bởi 'of' + gerund (verb-ing), không phải 'to' + verb. Đây là grammar rule cần nhớ**
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **capable**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[incapable]] (không có khả năng, không đủ năng lực)
+> - [[incompetent]] (thiếu năng lực, không có đủ kỹ năng)
+> 🧱 **Contrast:** Capable suggests having the necessary skills and qualities, while its antonyms indicate lack of ability or qualification**
 
 ---

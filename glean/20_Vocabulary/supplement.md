@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [supplemental, supplementary, addition, complement, extra, add-on, vitamin supplement, dietary supplement]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsʌplɪmənt/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B2
+> **Register:** academic/medical/general
+> **Etymology:** Latin 'supplementum' from 'supplere' (to fill up, complete), from 'sub-' (under) + 'plere' (to fill)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Something added to complete or enhance something else
+>
+> **Context Meaning:**
+> - (Noun) An additional element, book, or substance added to something to make it complete or improve it
+> - (Noun) A pill or preparation containing nutrients, taken to supplement the diet
+> - (Verb) To add something extra to something else to make it more complete
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bổ sung, phẩm bổ sung, phụ lục
+> - **Contextual:** thuốc bổ, thực phẩm chức năng, bổ xung
+>
 > **Nuances:**
-> - ...
+> - As a noun, often implies something additional that improves or completes
+> - Commonly used in health/medical context for dietary supplements
+> - Can refer to additional sections in books or publications
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Supportive, Enhancing, Completing
+> **Memory Hook:** Think of 'supply' + 'ment' - something that supplies what's missing
+> **📖 Etymology Story:** Latin 'supplere' means 'to fill up' - a supplement literally fills up what's lacking, making something complete
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** supplement /ˈsʌplɪmənt/
+> - **Verb:** supplement /ˈsʌplɪmənt/
+> - **Adj:** supplemental /ˌsʌplɪˈmentl/ / supplementary /ˌsʌplɪˈmentri/
+> - **Adv:** supplementarily /ˌsʌplɪˈmentərəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[addition]] /əˈdɪʃn/ : something that is added
+> - [[complement]] /ˈkɒmplɪment/ : something that completes or goes well with something
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[replacement]] /rɪˈpleɪsmənt/ : something that takes the place of another
+> - [[omission]] /əˈmɪʃn/ : the act of leaving something out
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Take supplements
+> 2. Dietary supplements
+> 3. Supplement with
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Many people take vitamin supplements to ensure they get all necessary nutrients.
+> - **Translation:** Nhiều người uống vitamin bổ sung để đảm bảo nhận được tất cả các chất dinh dưỡng cần thiết.
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The book includes a supplement with exercises and additional information.
+> - **Translation:** Cuốn sách bao gồm một phụ lục có các bài tập và thông tin bổ sung.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** The supplement of the diet was helpful.
+> - ✅ **Correction:** The supplement to the diet was helpful.
+> - **Why:** Use 'to' when something is added to complete or enhance something else
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Doctors often recommend supplements for patients with vitamin deficiencies."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +84,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **supplement** (*/ˈsʌplɪmənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Something added to complete or enhance something else; a pill or preparation containing nutrients taken to supplement the diet
+> 🇻🇳 **Vietnamese:** Bổ sung, phẩm bổ sung, thuốc bổ, phụ lục
+> 🗣️ **IPA:** */ˈsʌplɪmənt/*
+> 🧠 **Mental Model:** Giống như 'supply' + 'ment' - cái cung cấp những thứ còn thiếu để làm cho cái gì đó hoàn chỉnh hơn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Something added to something else to make it more complete or to improve it; a vitamin or nutrient preparation"
+**Vietnamese:** Vật bổ sung, phẩm bổ sung, thuốc bổ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**supplement** (*/ˈsʌplɪmənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **supplement** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Athletes often use protein supplements to enhance muscle recovery after intense training sessions.
+> 🇻🇳 **Translation:** Vận động viên thường dùng sản phẩm bổ sung protein để tăng cường phục hồi cơ bắp sau các buổi tập luyện cường độ cao.
+> 🔍 **Analysis:** 'Supplements' ở đây không chỉ là 'thêm vào' mà là 'bổ sung chuyên biệt' - nó chỉ những sản phẩm được thiết kế để cung cấp những chất còn thiếu trong chế độ ăn
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **supplement**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Health Context:** Take supplements / dietary supplements (uống thuốc bổ / thực phẩm chức năng)
+> 2. **Academic Context:** Supplement with / reading supplement (bổ sung bằng / tài liệu đọc bổ sung)
+> 3. **Business Context:** Income supplement / supplement your salary (thu nhập bổ sung / bổ sung thu nhập của bạn)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **supplement**:
+"She added extra vitamins to her diet."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She supplemented her diet with essential vitamins and minerals to address specific nutritional deficiencies."
+> 💡 **Why it works:** 'Supplemented' thể hiện sự chủ động bổ sung những gì còn thiếu một cách có hệ thống, mạnh hơn đơn giản là 'added extra'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **supplement** instead of **[[addition]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **supplement:** Được dùng để bổ sung những gì còn thiếu để làm cho cái gì đó hoàn chỉnh hoặc hiệu quả hơn
+> **[[addition]]:** Chỉ đơn thuần là việc thêm vào, không nhất thiết có mục đích hoàn thiện
+> 🧱 **The Barrier:** Supplement là làm cho hoàn hảo, addition là làm cho nhiều hơn
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend feels tired all the time and lacks energy. You're suggesting health advice. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You should consider taking iron supplements to boost your energy levels, especially during busy periods."
+> 👨‍🎨 **Director's Note:** 'Supplements' thể hiện giải pháp y tế/nutrition cụ thể, chuyên biệt - phù hợp với lời khuyên sức khỏe
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `supplere` to the meaning of **supplement**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'supplere' (to fill up) → 'supplementum' (that which fills up) - một supplement 'lấp đầy' khoảng trống, làm cho cái gì đó trở nên đầy đủ và hoàn chỉnh
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **supplement**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `supplere` (to fill up, complete)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* supplement (vật bổ sung)
+> - *(verb)* supplement (bổ sung)
+> - *(adjective)* supplemental/supplementary (thuộc về sự bổ sung)
+> - *(related)* supply (cung cấp), supplementarity (sự bổ sung)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsʌplɪmənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**supplement**
+> 📖 **Meaning:** Something added to complete or enhance something else
+> 🇻🇳 **Vietnamese:** Vật bổ sung, phẩm bổ sung
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **supplement**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The teacher gave supplement materials for the exam
+> ✅ **Correction:** The teacher gave supplementary materials for the exam
+> 🧠 **Why:** Khi làm tính từ, dùng 'supplementary' hoặc 'supplemental'. 'Supplement' là danh từ hoặc động từ
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **supplement**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[replacement]] (sự thay thế)
+> - [[omission]] (sự bỏ sót)
+> 🧱 **Contrast:** Supplement thêm vào để hoàn thiện, replacement thay thế hoàn toàn, omission là bỏ đi phần quan trọng
 
 ---

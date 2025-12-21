@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
 #flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [HDPE, conventional polyethylene, high-density plastic, #2 plastic, milk jug plastic]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kənˈvenʃənəl ˌhaɪ ˈdensəti ˌpɒliˈeθɪliːn/
+> **Part of Speech:** compound noun
+> **CEFR Level:** C1
+> **Register:** technical/industrial
+> **Etymology:** Conventional (Latin 'conventio' - agreement) + High-Density (Old English 'heah' + French 'densité') + Polyethylene (Greek 'polys' + 'ethyle')
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A widely used form of polyethylene plastic with high density and strength
+>
+> **Context Meaning:** A type of thermoplastic polymer made from petroleum, known for its strength-to-density ratio, commonly used in containers, bottles, and piping
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** polyetylen mật độ cao truyền thống
+> - **Contextual:** nhựa HDPE, nhựa cứng #2
+>
 > **Nuances:**
-> - ...
+> - Distinguished from low-density polyethylene (LDPE) by its crystalline structure
+> - Highly resistant to impact and chemicals
+> - Can be identified by recycling code #2
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Strong, Reliable, Industrial
+> **Memory Hook:** Think of HDPE as "High-Density Power" plastic - strong enough for milk jugs and chemical containers
+> **📖 Etymology Story:** From Latin 'conventional' (following standard practice) + 'high density' (packed tightly) + Greek-derived 'polyethylene' (many ethylene units)
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** polyethylene /ˌpɒliˈeθɪliːn/
+> - **Adj:** conventional /kənˈvenʃənəl/
+> - **Adj:** high-density /ˌhaɪ ˈdensəti/
+> - **Abbr:** HDPE /ˌeɪtʃ diː piː ˈiː/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[HDPE]] /ˌeɪtʃ diː piː ˈiː/ : common abbreviation
+> - [[#2 plastic]] /ˈnʌmbə tuː ˈplæstɪk/ : recycling identification
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[LDPE]] /ˌel diː piː ˈiː/ : low-density polyethylene
+> - [[biodegradable plastic]] /ˌbaɪəʊdeˈɡreɪdəbəl ˈplæstɪk/ : environmentally friendly alternative
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. HDPE containers/bottles
+> 2. Conventional plastic
+> 3. High-density polymer
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Most milk jugs are made from conventional high-density polyethylene due to its durability and food safety.
+> - **Translation:** Hầu hết các hộp sữa được làm từ polyetylen mật độ cao truyền thống vì độ bền và độ an toàn thực phẩm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The recycling center sorts conventional high-density polyethylene separately from other plastics.
+> - **Translation:** Trung tâm tái chế phân loại polyetylen mật độ cao truyền thống riêng biệt với các loại nhựa khác.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing HDPE with other plastics**
+> - ❌ **Mistake:** This plastic bag is made of HDPE.
+> - ✅ **Correction:** This plastic bottle is made of HDPE. (Bags are typically LDPE)
+> - **Why:** HDPE is rigid and used for containers, while LDPE is flexible and used for bags
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We use conventional high-density polyethylene for our packaging due to its recycling compatibility."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **conventional high-density polyethylene** (*/kənˈvenʃənəl ˌhaɪ ˈdensəti ˌpɒliˈeθɪliːn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A widely used form of polyethylene plastic with high density and strength
+> 🇻🇳 **Vietnamese:** Polyetylen mật độ cao truyền thống, nhựa HDPE
+> 🗣️ **IPA:** */kənˈvenʃənəl ˌhaɪ ˈdensəti ˌpɒliˈeθɪliːn/*
+> 🧠 **Mental Model:** Loại nhựa 'cứng' và 'bền' nhất trong nhựa thông thường, dùng làm chai sữa, hộp đựng hóa chất
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A type of strong, dense plastic commonly used for containers and bottles"
+**Vietnamese:** Polyetylen mật độ cao truyền thống
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**conventional high-density polyethylene** (*/kənˈvenʃənəl ˌhaɪ ˈdensəti ˌpɒliˈeθɪliːn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **conventional high-density polyethylene** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The chemical company chose conventional high-density polyethylene for their new industrial containers because of its chemical resistance.
+> 🇻🇳 **Translation:** Công ty hóa chất đã chọn polyetylen mật độ cao truyền thống cho các container công nghiệp mới của họ vì khả năng chống hóa chất.
+> 🔍 **Analysis:** 'Conventional high-density polyethylene' ở đây là thuật ngữ kỹ thuật chính xác, nhấn mạnh đây là loại vật liệu tiêu chuẩn, mật độ cao, phù hợp cho ứng dụng công nghiệp
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **conventional high-density polyethylene**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Products:** HDPE bottles/containers (chai/thùng HDPE - sản phẩm phổ biến)
+> 2. **Properties:** High-density polymer (polymer mật độ cao - đặc tính vật liệu)
+> 3. **Recycling:** #2 plastic/recycling code (nhựa số 2/mã tái chế - nhận diện)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **conventional high-density polyethylene**:
+"The factory makes plastic containers."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The factory specializes in manufacturing containers from conventional high-density polyethylene, ensuring maximum durability and chemical resistance."
+> 💡 **Why it works:** Tên chính xác 'conventional high-density polyethylene' thể hiện sự chuyên môn, nhấn mạnh đặc tính kỹ thuật và ứng dụng cụ thể
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **conventional high-density polyethylene** instead of **[[LDPE]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **conventional high-density polyethylene:** Dùng cho vật thể cứng, chai lọ, container, có độ bền cao hơn
+> **[[LDPE]]** (low-density polyethylene): Dùng cho túi nilon mỏng, linh hoạt, dễ uốn
+> 🧱 **The Barrier:** HDPE cứng và bền, LDPE mềm và dẻo - khác biệt về cấu trúc phân tử và ứng dụng
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining to a client why you chose this material for their product. You need to be convincing. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We selected conventional high-density polyethylene because it offers superior impact resistance and is fully recyclable as #2 plastic."
+> 👨‍🎨 **Director's Note:** Sử dụng thuật ngữ đầy đủ thể hiện chuyên nghiệp, nhấn mạnh lợi ích kỹ thuật và môi trường
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `conventional + high-density + polyethylene` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Conventional' (theo tiêu chuẩn) + 'high-density' (mật độ cao) + 'polyethylene' (nhiều đơn vị ethylene) = loại nhựa tiêu chuẩn được nén chặt tạo nên vật liệu bền
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **conventional high-density polyethylene**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `conventio` (agreement) + Old English `heah` (high) + French `densité` (density) + Greek `polys` (many) + `ethyle` (chemical compound)
+> 👨‍👩‍👧 **Family:**
+> - *(compound noun)* conventional high-density polyethylene (HDPE)
+> - *(abbreviation)* HDPE
+> - *(related)* polymer /ˈpɒlɪmə(r)/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kənˈvenʃənəl ˌhaɪ ˈdensəti ˌpɒliˈeθɪliːn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**conventional high-density polyethylene**
+> 📖 **Meaning:** A widely used form of strong, dense plastic
+> 🇻🇳 **Vietnamese:** Polyetylen mật độ cao truyền thống
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **conventional high-density polyethylene**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** HDPE is used for making plastic bags and wraps.
+> ✅ **Correction:** LDPE is used for making plastic bags and wraps, while HDPE is used for rigid containers.
+> 🧠 **Why:** HDPE cứng và chắc, LDPE mềm và dẻo - mỗi loại có ứng dụng khác nhau
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **conventional high-density polyethylene**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[biodegradable polymer]] (polymer phân hủy sinh học - thân thiện môi trường)
+> - [[LDPE]] (low-density polyethylene - mật độ thấp, mềm dẻo)
+> 🧱 **Contrast:** HDPE là nhựa tổng hợp bền chắc, LDPE là nhựa mềm dẻo, biodegradable polymer là vật liệu tự phân hủy
 
 ---

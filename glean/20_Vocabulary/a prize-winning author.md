@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/arts-architecture/media-literature-film
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [award-winning author, acclaimed writer, prize recipient writer, celebrated author, honored writer]
+status: done
 ref:
-  - [[Cam 19 Listening Test 03]]
+  - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə praɪz ˈwɪnɪŋ ˈɔːθə/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** neutral/formal
+> **Etymology:** "Prize" (Old French "pris" - value) + "winning" + "author" (Latin "auctor" - originator, creator)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A writer who has received an award or prize for their work.
+>
+> **Context Meaning:** An author who has achieved recognition and validation through winning literary awards, competitions, or prizes for their published works, indicating excellence and achievement in the field of writing.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một tác giả đoạt giải
+> - **Contextual:** nhà văn đoạt giải thưởng, nhà văn được trao giải
+>
 > **Nuances:**
-> - ...
+> - Implies peer recognition and critical acclaim
+- Suggests quality and literary merit
+- Can refer to one-time winners or consistently awarded authors
+- Adds credibility and prestige to the author's name
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Celebrated, Accomplished, Validated
+> **Memory Hook:** Prize + winning + author = writer who won the prize lottery.
+> **📖 Etymology Story:** "Prize" from Old French "pris" (value, worth) + "winning" (from Old English "winnan" - to struggle for) + "author" from Latin "auctor" (creator). A creator who has struggled and proven their worth through recognized achievement.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[prize]] /praɪz/ (award)
+> - **Adj:** [[prize-winning]] /praɪz ˈwɪnɪŋ/
+> - **Noun:** [[author]] /ˈɔːθə/ (writer)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[award-winning]] /əˈwɔːd wɪnɪŋ/ : having won awards
+> - [[acclaimed]] /əˈkleɪmd/ : praised by critics
+> - [[distinguished]] /dɪˈstɪŋɡwɪʃt/ : famous and respected
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[unpublished]] /ʌnˈpʌblɪʃt/ : not in print
+> - [[unrecognized]] /ʌnˈrekəɡnaɪzd/ : not acknowledged
+> - [[obscure]] /əbˈskjʊə/ : not well known
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. prize-winning novelist
+> 2. prize-winning book
+> 3. meet a prize-winning author
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The bookstore hosted a signing event with a prize-winning author whose latest novel won the Booker Prize.
+> - **Translation:** Nhà sách đã tổ chức sự kiện ký tặng với một tác giả đoạt giải mà tiểu thuyết mới nhất của cô đã đoạt giải Booker.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** As a prize-winning author, she receives numerous invitations to speak at literary festivals worldwide.
+> - **Translation:** Là một tác giả đoạt giải, cô nhận được rất nhiều lời mời phát biểu tại các lễ hội văn học trên khắp thế giới.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Hyphenation**
+> - ❌ **Mistake:** "prize winning author"
+> - ✅ **Correction:** "prize-winning author"
+> - **Why:** Compound adjective before noun needs hyphen
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Every prize-winning author was once an unknown writer with a dream."
+> **Source:** [[Literary Inspiration]]
 
 ---
 
@@ -161,121 +83,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a prize-winning author** (*/ə praɪz ˈwɪnɪŋ ˈɔːθə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A writer who has received awards or prizes for their published works, indicating recognized excellence in literature.
+> 🇻🇳 **Vietnamese:** Một nhà văn đã nhận được giải thưởng cho tác phẩm đã xuất bản, cho thấy sự xuất sắc được công nhận
+> 🗣️ **IPA: */ə praɪz ˈwɪnɪŋ ˈɔːθə/*
+> 🧠 **Mental Model:** Như "Olympic medalist author" - writer proven themselves through competition, validated by literary "medals" (prizes) that certify excellence.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A writer who has received awards for their literary work"
+**Vietnamese:** Một nhà văn đã nhận được giải thưởng cho tác phẩm văn học
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a prize-winning author** (*/ə praɪz ˈwɪnɪŋ ˈɔːθə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a prize-winning author** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The literature professor invited a prize-winning author to share insights about the creative writing process with her students.
+> 🇻🇳 **Translation:** Giáo sư văn học đã mời một tác giả đoạt giải để chia sẻ những hiểu biết sâu sắc về quy trình sáng tác văn học với học sinh của cô.
+> 🔍 **Analysis:** "A prize-winning author" works perfectly ở đây vì it immediately establishes credibility và authority, suggesting the speaker values proven expertise trong teaching context.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a prize-winning author**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Achievement Description:** prize-winning novelist, prize-winning poet, prize-winning playwright (VN note: mô tả thành tự)
+> 2. **Event Participation:** meet a prize-winning author, interview with prize-winning author (VN note: tham gia sự kiện)
+> 3. **Recognition Level:** internationally acclaimed prize-winning author, multiple prize-winning author (VN note: mức độ công nhận)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a prize-winning author**:
+"The writer who won an award gave a speech."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The Booker Prize-winning author captivated the audience with her poignant reflections on the power of storytelling."
+> 💡 **Why it works:** "Prize-winning author" adds specific prestige và credibility, transforming generic "writer who won" vào established literary authority.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a prize-winning author** instead of **a famous author**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a prize-winning author:** Critically recognized (VN: được giới phê bình công nhận)
+> **a famous author:** Popularly known (VN: nổi tiếng với công chúng)
+> 🧱 **The Barrier:** "Prize-winning" implies literary merit và peer validation, "famous" indicates popularity but not necessarily critical acclaim. Many famous authors aren't prize-winners và vice versa.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're recommending books to a book club. You want to suggest quality literature.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I recommend we read something by a prize-winning author this month - it guarantees literary excellence."
+> 👨‍🎨 **Director's Note:** "Prize-winning author" assures quality và sophistication, appealing to readers seeking intellectually rewarding experiences.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `pris`, `winnan`, and `auctor` to the meaning of **a prize-winning author**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** French "pris" (value/worth) + Old English "winnan" (struggle for) + Latin "auctor" (creator) = "creator who struggled to prove worth". Author literally "authors" their success through recognized achievement.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a prize-winning author**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `auctor` (creator, originator)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* author - tác giả
+> - *(noun)* authority - quyền lực, uy tín
+> - *(verb)* authorize - cho phép, ủy quyền
+> - *(adj)* authentic - chân thực
+> - *(verb)* authenticate - xác thực
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə praɪz ˈwɪnɪŋ ˈɔːθə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a prize-winning author**
+> 📖 **Meaning:** A writer who has received awards for literary work
+> 🇻🇳 **Vietnamese:** Một nhà văn đã nhận được giải thưởng cho tác phẩm văn học
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a prize-winning author**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She is a prize winning author." (missing hyphen)
+> ✅ **Correction:** "She is a prize-winning author."
+> 🧠 **Why:** "Prize-winning" functions as compound adjective modifying "author" và needs hyphen when coming before noun. Without hyphen, it sounds like prize is modifying winning.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a prize-winning author**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[an unpublished author]] (tác giả chưa xuất bản)
+> - [[an obscure writer]] (tác giả vô danh)
+> - [[a struggling author]] (tác giả đang vật lộn)
+> 🧱 **Contrast:** While prize-winning author represents recognized success và validation, unpublished/obscure author represents undiscovered talent - difference between established recognition và aspiring achievement.
 
 ---

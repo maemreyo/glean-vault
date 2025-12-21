@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [independently, independent, on your own, by yourself, without help, self-reliant, autonomous, solo, independently of]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌɪndɪˈpendəntli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B2
+> **Register:** formal/neutral
+> **Etymology:** From in- "not" + dependent "hanging from" + -ly
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Not hanging from others
+>
+> **Context Meaning:** In a way that is free from outside control or influence; autonomously
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một cách độc lập
+> - **Contextual:** tự chủ, tự lực, không phụ thuộc
+>
 > **Nuances:**
-> - ...
+> - Emphasizes self-reliance and autonomy
+> - Can refer to thinking, acting, or existing without support
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Self-reliant, Autonomous, Confident
+> **Memory Hook:** IN-DEPENDENT = NOT DEPENDING on others → INDEPENDENTLY = doing it yourself
+> **📖 Etymology Story:** Latin 'in-' (not) + 'pendere' (to hang) → literally "not hanging from" → standing on your own
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[independence]] /ˌɪndɪˈpendəns/
+> - **Adj:** [[independent]] /ˌɪndɪˈpendənt/
+> - **Verb:** - (none)
+> - **Adv:** [[independently]] /ˌɪndɪˈpendəntli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[autonomously]] /ɔːˈtɒnəməsli/ : more formal
+> - [[solo]] /ˈsəʊləʊ/ : acting alone
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[dependently]] /dɪˈpendəntli/ : relying on others
+> - [[collectively]] /kəˈlektɪvli/ : as a group
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Work independently (làm việc độc lập)
+> 2. Think independently (suy nghĩ độc lập)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She completed the entire project independently, without any assistance.
+> - **Translation:** Cô ấy đã hoàn thành toàn bộ dự án một cách độc lập, không có sự trợ giúp nào.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The researchers worked independently on different aspects of the problem.
+> - **Translation:** Các nhà nghiên cứu đã làm việc độc lập trên các khía cạnh khác nhau của vấn đề.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Double negation**
+> - ❌ **Mistake:** He independently didn't need any help.
+> - ✅ **Correction:** He didn't need any help and worked independently.
+> - **Why:** 'Independently' already implies not needing help, avoid double negative
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The artist developed her unique style by working independently for many years."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +79,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **independently** (*/ˌɪndɪˈpendəntli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In a way that is free from outside control; by oneself without help
+> 🇻🇳 **Vietnamese:** Một cách độc lập, tự lực, không phụ thuộc
+> 🗣️ **IPA:** */ˌɪndɪˈpendəntli/*
+> 🧠 **Mental Model:** Người đứng vững trên hai chân của mình, không cần dựa vào người khác, tự đưa ra quyết định
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a way that is free from outside control; by oneself without help"
+**Vietnamese:** Một cách độc lập
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**independently** (*/ˌɪndɪˈpendəntli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **independently** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The students were encouraged to think independently and question conventional wisdom.
+> 🇻🇳 **Translation:** Sinh viên được khuyến khích suy nghĩ độc lập và đặt câu hỏi cho tri thức thông thường.
+> 🔍 **Analysis:** 'Independently' emphasizes autonomous thinking without external influence, highlighting intellectual freedom
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **independently**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Work/Action:** work/operate/act independently (làm việc/vận hành/hành động độc lập) - professional autonomy
+> 2. **Thinking:** think/reason/decide independently (suy nghĩ/lý luận/quyết định độc lập) - mental autonomy
+> 3. **Existence:** live/exist/verify independently (sống/tồn tại/xác minh độc lập) - self-sufficiency
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **independently**:
+"She did it herself."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She independently designed and implemented the entire software architecture."
+> 💡 **Why it works:** 'Independently' adds professionalism and emphasizes complete self-reliance
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **independently** instead of **alone**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **independently:** Nhấn mạnh sự tự chủ và không phụ thuộc, có thể vẫn làm việc với người khác
+> **alone:** Chỉ đơn độc, không có người khác xung quanh
+> 🧱 **The Barrier:** You can work independently in a team, but you work alone when by yourself
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss offers you help on a task. You want to show confidence but politely decline.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Thank you for the offer, but I prefer to handle this independently to maintain the learning experience."
+> 👨‍🎨 **Director's Note:** Sử dụng 'independently' để thể hiện sự tự tin và mong muốn phát triển bản thân
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `in-` and `pendere` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'in-' (không) + 'pendere' (treo) → 'independently' là "không treo lơ lửng" trên người khác, mà tự đứng vững
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **independently**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `in-` (not) + `pendere` (to hang)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[independent]] (độc lập)
+> - *(noun)* [[independence]] (sự độc lập)
+> - *(related)* [[pendant]] (mặt dây chuyền - thing that hangs)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌɪndɪˈpendəntli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**independently**
+> 📖 **Meaning:** Without help or influence from others
+> 🇻🇳 **Vietnamese:** Một cách độc lập
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **independently**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I independently finished it by myself"
+> ✅ **Correction:** "I finished it independently" or "I finished it by myself"
+> 🧠 **Why:** 'Independently' and 'by myself' are redundant - choose one to avoid repetition
 
 ---
 
-### Card 12: Antonym Flip
+### Card 12: Context Variations
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** In what contexts is **independently** most used?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Common Contexts:**
+> - [[Academic]]: Research independently (nghiên cứu độc lập)
+> - [[Business]]: Operate independently (vận hành độc lập)
+> - [[Personal growth]]: Think independently (suy nghĩ độc lập)
+> 🧱 **Universal Value:** Independence is valued across cultures as a sign of maturity
 
 ---

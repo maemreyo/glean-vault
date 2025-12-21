@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
 #flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [diary entry, diary, journal entry, journal, daily record, personal journal, writing a diary, keeping a diary]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈdaɪəri ˈentri/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** personal/informal
+> **Etymology:** diary (from Latin dies "day") + entry (from Latin entrare "to enter")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Something entered for the day
+>
+> **Context Meaning:** A written record of personal thoughts, experiences, or events for a specific day
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một mục trong nhật ký
+> - **Contextual:** bài viết nhật ký, ghi chép hàng ngày
+>
 > **Nuances:**
-> - ...
+> - Private and personal form of writing
+> - Often contains feelings and reflections
+> - Written for oneself, not for publication
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Introspective, Personal, Reflective
+> **Memory Hook:** DIARY = daily writing + ENTRY = putting words in → DIARY ENTRY = daily thoughts written down
+> **📖 Etymology Story:** Latin 'dies' (day) + Old French 'entree' (entrance) → diary entry is the entrance of daily thoughts into writing
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[diary]] /ˈdaɪəri/, [[entry]] /ˈentri/
+> - **Verb:** [[enter]] /ˈentə(r)/
+> - **Adj:** [[diaristic]] /ˌdaɪəˈrɪstɪk/
+> - **Adv:** - (none)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[journal entry]] /ˈdʒɜːnl ˈentri/ : more formal
+> - [[log entry]] /lɒɡ ˈentri/ : factual record
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - (none - specific writing form)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Write a diary entry (viết một bài nhật ký)
+> 2. Personal diary entry (bài viết nhật ký cá nhân)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She read through her old diary entries and laughed at her teenage worries.
+> - **Translation:** Cô ấy đọc lại các bài viết nhật ký cũ và cười về những nỗi lo tuổi teen của mình.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The diary entry described the historic events from an ordinary person's perspective.
+> - **Translation:** Bài viết nhật ký đã mô tả các sự kiện lịch sử từ góc nhìn của một người bình thường.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural usage**
+> - ❌ **Mistake:** I wrote one diary entrys yesterday.
+> - ✅ **Correction:** I wrote one diary entry yesterday. / I wrote two diary entries yesterday.
+> - **Why:** The plural is 'entries', not 'entrys'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Her diary entry from that day revealed her true feelings about the decision."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **diary entry** (*/ˈdaɪəri ˈentri/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A written record of personal thoughts and experiences for a specific day
+> 🇻🇳 **Vietnamese:** Bài viết nhật ký, ghi chép cá nhân hàng ngày
+> 🗣️ **IPA:** */ˈdaɪəri ˈentri/*
+> 🧠 **Mental Model:** Cửa sổ vào tâm hồn, nơi những suy nghĩ và cảm xúc được ghi lại mỗi ngày như một bức ảnh ký ức
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A written record of personal thoughts and experiences for a specific day"
+**Vietnamese:** Bài viết nhật ký
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**diary entry** (*/ˈdaɪəri ˈentri/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **diary entry** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The diary entry from July 4th, 1944, provided a poignant glimpse into the soldier's life during wartime.
+> 🇻🇳 **Translation:** Bài viết nhật ký ngày 4 tháng 7 năm 1944 đã cung cấp một cái nhìn cảm động về cuộc sống của người lính trong thời chiến.
+> 🔍 **Analysis:** 'Diary entry' specifically identifies a day's personal writing, creating intimacy and historical authenticity
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **diary entry**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Writing:** write/make/keep a diary entry (viết/tạo/giữ bài nhật ký) - the act of writing
+> 2. **Content:** personal/private/emotional diary entry (bài nhật ký cá nhân/riêng tư/cảm xúc) - nature of content
+> 3. **Time:** daily/dated/recent diary entry (bài nhật ký hàng ngày/có ngày/gần đây) - temporal reference
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **diary entry**:
+"She wrote about her day."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Her diary entry captured the bittersweet emotions of her last day at university."
+> 💡 **Why it works:** 'Diary entry' adds personal depth and suggests private, reflective writing
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **diary entry** instead of **blog post**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **diary entry:** Viết riêng tư, cá nhân, thường không định hướng công khai
+> **blog post:** Viết công khai, định hướng độc giả, thường có chủ đề cụ thể
+> 🧱 **The Barrier:** Diary entries are private reflections; blog posts are public communications
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You find an old notebook in your grandmother's attic. What might it contain?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I discovered her diary entries from 1950, revealing stories I'd never heard."
+> 👨‍🎨 **Director's Note:** Sử dụng 'diary entries' để thể hiện sự khám phá những kỷ niệm cá nhân, thân mật
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `dies` and `entrare` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'dies' (ngày) + 'entrare' (bước vào) → diary entry là bước vào trang viết những suy nghĩ của ngày hôm đó
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **diary entry**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `dies` (day) + Old French `entree` (entrance)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[diary]] (nhật ký)
+> - *(noun)* [[entry]] (mục, bài viết)
+> - *(verb)* [[enter]] (điền vào, vào)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈdaɪəri ˈentri/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**diary entry**
+> 📖 **Meaning:** A daily personal writing
+> 🇻🇳 **Vietnamese:** Bài viết nhật ký
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **diary entry**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The diary was full with interesting entrys"
+> ✅ **Correction:** "The diary was full with interesting entries"
+> 🧠 **Why:** The plural of 'entry' follows the -y to -ies rule: entry → entries
 
 ---
 
-### Card 12: Antonym Flip
+### Card 12: Related Forms
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What are similar personal writing forms to **diary entry**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Related Forms:**
+> - [[journal]] (nhật ký - more formal)
+> - [[memoir]] (hồi ký - retrospective life story)
+> 🧱 **Distinction:** Diary is daily; journal can be periodic; memoir covers long periods
 
 ---

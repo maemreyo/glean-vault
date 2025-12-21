@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [obvious, clearly, evidently, apparently, plain to see, self-evident, unmistakable]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈɒbviəsli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B1
+> **Register:** informal/general
+> **Etymology:** From 'obvious' + '-ly'; Latin 'obvius' (from ob- 'in the way of' + via 'way')
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In a way that is easy to see or understand; clearly
+>
+> **Context Meaning:** Used to emphasize that something is very clear, evident, or easily understood by everyone
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** rõ ràng, hiển nhiên, đương nhiên
+> - **Contextual:** tất nhiên rồi, rõ như ban ngày, không thể nghi ngờ
+>
 > **Nuances:**
-> - ...
+> - Can be used to state facts that should be clear to everyone
+> - Sometimes used sarcastically to point out something overlooked
+> - Common in spoken English but can be informal in academic writing
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Evident, Clear, Sometimes Sarcastic
+> **Memory Hook:** Ob-vious-ly = "ob" (trước) + "via" (đường) + "ly" = nằm ngay trên con đường, rất dễ thấy
+> **📖 Etymology Story:** From Latin 'obvius' meaning "in the way, exposed to view" - like something right in your path that you can't miss seeing
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adv:** [[obviously]] /ˈɒbviəsli/
+> - **Adj:** [[obvious]] /ˈɒbviəs/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[clearly]] /ˈklɪəli/ : in a clear manner
+> - [[evidently]] /ˈevɪdəntli/ : as shown by evidence
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[unclearly]] /ʌnˈklɪəli/ : not in a clear way
+> - [[dubiously]] /ˈdjuːbiəsli/ : in a doubtful manner
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Obviously wrong/right/true
+> 2. Obviously, + sentence starter
+> 3. Not obviously related
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Obviously, she's not happy with the decision based on her expression.
+> - **Translation:** Rõ ràng là cô ấy không vui với quyết định đó dựa vào biểu hiện của cô ấy.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** He was obviously trying to hide something when he avoided eye contact.
+> - **Translation:** Anh ấy rõ ràng đang cố che giấu điều gì đó khi tránh giao tiếp bằng mắt.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse in formal writing**
+> - ❌ **Mistake:** Obviously, the experiment shows that water is wet.
+> - ✅ **Correction:** The experiment clearly shows that water is wet. / It is evident from the experiment that water is wet.
+> - **Why:** In formal academic writing, "obviously" can sound condescending. Use "clearly" or "evidently" instead
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Obviously, we need to consider the budget constraints before proceeding."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +79,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **obviously** (*/ˈɒbviəsli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In a way that is easy to see or understand; clearly
+> 🇻🇳 **Vietnamese:** Rõ ràng, hiển nhiên, đương nhiên
+> 🗣️ **IPA:** */ˈɒbviəsli/*
+> 🧠 **Mental Model:** Khi một事实 rõ như ban ngày mà ai cũng thấy - không cần解释 hay prove
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a way that is easily seen or understood; clearly"
+**Vietnamese:** Một cách dễ thấy, dễ hiểu, rõ ràng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**obviously** (*/ˈɒbviəsli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **obviously** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The restaurant was obviously popular as there was a long line of people waiting outside.
+> 🇻🇳 **Translation:** Nhà hàng đó rõ ràng rất nổi tiếng vì có một hàng dài người đang chờ đợi bên ngoài.
+> 🔍 **Analysis:** 'Obviously' ở đây nhấn mạnh một sự thật rất clear từ evidence (hàng dài người) - word này rất common trong spoken English để express something evident
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **obviously**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Description:** obviously wrong/right/true/unhappy (rõ ràng là sai/đúng/đúng/buồn)
+> 2. **Sentence starter:** Obviously, ... (Rõ ràng là, ...)
+> 3. **Negation:** not obviously connected/related (rõ ràng là không liên quan)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **obviously**:
+"It's clear that he's lying."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He's obviously lying - his story keeps changing and he won't make eye contact."
+> 💡 **Why it works:** 'Obviously' works best khi có concrete evidence - câu này thêm specific reasons làm argument更有说服力
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **obviously** instead of **[[apparently]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **obviously:** Something is clear and certain based on evidence you can see
+> **[[apparently]]:** Something seems to be true based on what you've heard or been told
+> 🧱 **The Barrier:** Obviously = what I can see; apparently = what I've been told
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend still believes the Earth is flat despite all evidence. You respond with exasperation. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Obviously, the Earth is round! We have countless photos from space and ships disappear over the horizon!"
+> 👨‍🎨 **Director's Note:** Câu này shows frustration với người who denies obvious facts - 'obviously' thể hiện sự exasperation với những gì nên là clear to everyone
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `ob` + `via` to the meaning of **obviously**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `ob` (trước, trên) + `via` (đường đi). Obvious = nằm ngay trên đường đi, không thể không thấy. Something "obvious" là thing blocking your path - bạn không thể miss nó!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **obviously**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:**
+> - Latin `ob-` (in the way of) + `via` (way, road)
+> 👨‍👩‍👧 **Family:**
+> - *(adjective)* obvious (rõ ràng, hiển nhiên)
+> - *(preposition)* via (thông qua, qua)
+> - *(noun)* via (con đường, đường lớn - trong địa danh)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈɒbviəsli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**obviously**
+> 📖 **Meaning:** In a way that is easy to see or understand; clearly
+> 🇻🇳 **Vietnamese:** Rõ ràng, hiển nhiên
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **obviously**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Obviously you're wrong, but let me explain why.
+> ✅ **Correction:** You're obviously wrong, but let me explain why. / Clearly, you're mistaken...
+> 🧠 **Why:** "Obviously" thường đi sau verb hoặc ở đầu sentence, không thường đứng alone trước subject trừ khi dùng như sentence starter
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **obviously**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[unclearly]] (không rõ ràng)
+> - [[mysteriously]] (một cách bí ẩn)
+> 🧱 **Contrast:** Obviously points to what's immediately visible, while its antonyms suggest what's hidden or requires investigation to understand
 
 ---

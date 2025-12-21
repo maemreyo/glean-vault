@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 #flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [fundraise, fundraiser, fund-raising, charity, donation, campaign, appeal, sponsor, philanthropy, non-profit]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfʌndreɪzɪŋ/
+> **Part of Speech:** noun/verb (compound)
+> **CEFR Level:** B2
+> **Register:** formal/business
+> **Etymology:** Early 20th century; compound of 'fund' + 'raising'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The act of collecting money for a specific purpose or cause**
+>
+> **Context Meaning:** Organized activities to collect voluntary contributions of money or other resources for charitable, political, or other causes**
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** gây quỹ
+> - **Contextual:** huy động vốn, quyên góp, kêu gọi tài trợ**
+>
 > **Nuances:**
-> - ...
+> - Can refer to both the activity and the event itself
+> - Often involves organized campaigns with specific goals
+> - Can be done by individuals, organizations, or communities
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Charitable, Resourceful, Community-minded
+> **Memory Hook:** Imagine people 'raising' funds by lifting up money for a good cause
+> **📖 Etymology Story:** From combining 'fund' (money for a purpose) with 'raising' (lifting up) - literally lifting up financial support for worthy causes
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** fundraising /ˈfʌndreɪzɪŋ/
+> - **Verb:** fundraise /ˈfʌndreɪz/
+> - **Person:** fundraiser /ˈfʌndreɪzə(r)/
+> - **Activity:** fundraiser /ˈfʌndreɪzə(r)/ (event)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[charity drive]] /ˈtʃærəti draɪv/ : organized effort to collect donations
+> - [[donation campaign]] /dəʊˈneɪʃn kæmˈpeɪn/ : planned fundraising initiative
+>
+> **Related Terms:**
+> - [[philanthropy]] /fɪˈlænθrəpi/ : desire to promote welfare
+> - [[sponsorship]] /ˈspɒnsəʃɪp/ : financial support
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Organize/run a fundraising event
+> 2. Fundraising campaign/effort
+> 3. Raise money through fundraising
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The school organized a fundraising event to buy new computers for the library.
+> - **Translation:** Trường học đã tổ chức một sự kiện gây quỹ để mua máy tính mới cho thư viện.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Their fundraising efforts have collected over $50,000 for disaster relief.
+> - **Translation:** Nỗ lực gây quỹ của họ đã quyên góp được hơn 50.000 đô la cho cứu trợ thiên tai.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect verb form**
+> - ❌ **Mistake:** We are fundraisinging for the new hospital.
+> - ✅ **Correction:** We are fundraising for the new hospital. / We are holding a fundraising event.
+> - **Why:** 'Fundraising' is both the noun and the present participle form; 'fundraisinging' is incorrect.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "They're holding a fundraising concert next weekend."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **fundraising** (*/ˈfʌndreɪzɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The organized activity of collecting money voluntarily for charitable, political, or other causes**
+> 🇻🇳 **Vietnamese:** Gây quỹ, huy động vốn, quyên góp**
+> 🗣️ **IPA:** */ˈfʌndreɪzɪŋ/*
+> 🧠 **Mental Model:** Hoạt động tập hợp 'fund' (tiền) thông qua 'raising' (huy động) cho một mục đích tốt đẹp như charity hay community project**
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Organized efforts to collect voluntary contributions of money for charitable or other purposes"**
+**Vietnamese:** Gây quỹ, quyên góp tiền**
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**fundraising** (*/ˈfʌndreɪzɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **fundraising** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The nonprofit organization launched an ambitious fundraising campaign to build shelters for homeless families.**
+> 🇻🇳 **Translation:** Tổ chức phi lợi nhuận đã khởi động một chiến dịch gây quỹ tham vọng xây dựng nơi trú ẩn cho các gia đình vô gia cư.**
+> 🔍 **Analysis:** 'Fundraising campaign' là collocation phổ biến, thể hiện một nỗ lực có tổ chức để raise money, kết hợp với 'ambitious' để emphasis quy mô lớn**
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **fundraising**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Organization:** organize/run/hold fundraising (tổ chức gây quỹ)
+> 2. **Event type:** fundraising event/campaign/concert (sự kiện/chiến dịch/buổi hòa nhạc gây quỹ)
+> 3. **Purpose:** fundraising for/efforts/activities (gây quỹ cho/nỗ lực/hoạt động)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **fundraising**:
+"They collected money for the hospital."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Through innovative fundraising strategies, they successfully raised $2 million for the new children's wing of the hospital."**
+> 💡 **Why it works:** 'Fundraising' thể hiện một organized effort với strategies cụ thể, thay vì chỉ 'collected money' đơn giản, tạo cảm giác professional và well-planned**
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **fundraising** instead of **[[donation]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **fundraising:** Toàn bộ quá trình hoạt động có tổ chức để huy động tiền từ nhiều người, thường với campaigns và events**
+> **[[donation]]:** Hành động cho tiền của một cá nhân/tổ chức, tập trung vào act of giving itself**
+> 🧱 **The Barrier:** Fundraising là proactive effort to collect, donation là voluntary act of giving**
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your community needs to help flood victims. You're proposing action at a town meeting. What do you suggest?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I propose we organize an emergency fundraising drive with multiple events to maximize support for the flood victims."**
+> 👨‍🎨 **Director's Note:** 'Fundraising drive' thể hiện initiative có mục tiêu rõ ràng và urgency, phù hợp với formal setting của town meeting**
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `fund + raising` to the meaning of **fundraising**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 'fund' (khoản tiền cho mục đích) kết hợp với 'raising' (huy động, nâng cao) tạo ra hình ảnh tập hợp financial support từ community - literally raising funds upward cho những worthy causes**
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **fundraising**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** English compound 'fund' (khoản tiền) + 'raising' (huy động)**
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* fundraising (hoạt động gây quỹ)
+> - *(verb)* fundraise (gây quỹ)
+> - *(person)* fundraiser (người gây quỹ/sự kiện gây quỹ)
+> - *(related)* fund (khoản tiền, tài trợ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfʌndreɪzɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**fundraising**
+> 📖 **Meaning:** Organized activity of collecting money for charitable purposes**
+> 🇻🇳 **Vietnamese:** Gây quỹ, hoạt động quyên góp**
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **fundraising**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We need to fundraising more money**
+> ✅ **Correction:** We need to fundraise more money. / We need to do more fundraising.**
+> 🧠 **Why:** 'Fundraising' là noun hoặc present participle, không thể dùng với 'to' nguyên thể. Dùng 'fundraise' as verb hoặc 'do fundraising' as noun phrase**
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite concept of **fundraising**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Contrast Concepts:**
+> - [[expenditure]] (chi tiêu, sử dụng tiền)
+> - [[distribution]] (phân phối tiền đi)
+> 🧱 **Contrast:** Fundraising involves collecting money inward, while its opposites involve spending or distributing money outward**
 
 ---

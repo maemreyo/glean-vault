@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
 #flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [illustrate, illustrator, illustrated, illustrating, diagram, drawing, picture, visual, artwork, graphics]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌɪləˈstreɪʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** formal/academic
+> **Etymology:** Late Middle English from Latin 'illustratio' (illumination), from 'illustrare' (make light)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A drawing or picture that explains or decorates something**
+>
+> **Context Meaning:** A visual representation or drawing designed to explain, decorate, or clarify written text or ideas**
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hình minh họa
+> - **Contextual:** bức tranh minh họa, minh họa, hình vẽ giải thích**
+>
 > **Nuances:**
-> - ...
+> - Can be functional (educational) or decorative
+> - Often accompanies text to provide visual explanation
+> - Includes drawings, photographs, diagrams, and charts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Illuminating, Clarifying, Artistic
+> **Memory Hook:** Think of 'illumination' - an illustration lights up understanding
+> **📖 Etymology Story:** From Latin 'illustrare' (to make light/bright) - illustrations illuminate texts, making ideas clearer and more vivid
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** illustration /ˌɪləˈstreɪʃn/
+> - **Verb:** illustrate /ˈɪləstreɪt/
+> - **Person:** illustrator /ˈɪləstreɪtə(r)/
+> - **Adj:** illustrative /ˈɪləstrətɪv/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[diagram]] /ˈdaɪəɡræm/ : simplified drawing showing structure
+> - [[drawing]] /ˈdrɔːɪŋ/ : picture made with lines
+>
+> **Related Terms:**
+> - [[visual aid]] /ˈvɪʒuəl eɪd/ : educational visual material
+> - [[figure]] /ˈfɪɡə(r)/ : image in text
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Detailed/clear illustration
+> 2. Illustration of/for something
+> 3. Book/magazine illustration
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The biology textbook included detailed illustrations of cell structures.
+> - **Translation:** Sách giáo khoa sinh học có các hình minh họa chi tiết về cấu trúc tế bào.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Her powerful illustration helped children understand the complex concept.
+> - **Translation:** Bức minh họa sống động của cô ấy đã giúp trẻ em hiểu được khái niệm phức tạp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition error**
+> - ❌ **Mistake:** The illustration shows the process with clarity.
+> - ✅ **Correction:** The illustration clarifies the process. / The illustration shows the process clearly.
+> - **Why:** 'Illustration' is a noun, not a verb. Use 'illustrates' as the verb form.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Each chapter is accompanied by colorful illustrations."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **illustration** (*/ˌɪləˈstreɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A visual representation such as a drawing or diagram that explains or decorates written content**
+> 🇻🇳 **Vietnamese:** Hình minh họa, bức tranh giải thích**
+> 🗣️ **IPA:** */ˌɪləˈstreɪʃn/*
+> 🧠 **Mental Model:** Khi text khó hiểu, illustration 'illuminates' (làm sáng) ý tưởng - visual explanation giúp clarify complex concepts**
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A picture or drawing that explains or decorates something in a book or text"**
+**Vietnamese:** Hình ảnh hoặc bản vẽ minh họa cho điều gì trong sách hoặc văn bản**
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**illustration** (*/ˌɪləˈstreɪʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **illustration** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The surgeon's detailed illustration of the procedure helped the medical students visualize the complex anatomy.**
+> 🇻🇳 **Translation:** Hình minh họa chi tiết của bác sĩ phẫu thuật về quy trình đã giúp sinh viên y khoa hình dung được cấu trúc giải phẫu phức tạp.**
+> 🔍 **Analysis:** 'Illustration' kết hợp với 'detailed' để nhấn mạnh educational value, phù hợp với medical context visualization is crucial**
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **illustration**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality:** detailed/clear/vivid illustration (hình minh họa chi tiết/rõ ràng/sống động)
+> 2. **Purpose:** illustration of/for (minh họa của/cho)
+> 3. **Context:** book/magazine/textbook illustration (hình minh họa sách/báo/sách giáo khoa)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **illustration**:
+"The book had pictures."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The art history book featured masterful illustrations that captured the essence of Renaissance techniques."**
+> 💡 **Why it works:** 'Illustrations' thể hiện educational và artistic value, kết hợp với 'masterful' và 'captured essence' tạo ra sophisticated description**
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **illustration** instead of **[[picture]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **illustration:** Specifically created để explain hoặc clarify text, có educational purpose**
+> **[[picture]]:** General term cho visual representation, có thể purely decorative**
+> 🧱 **The Barrier:** Illustration serves explanatory function, while picture serves purely visual representation**
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining a difficult scientific concept to students. You need visual help. What do you request?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Can someone create a clear illustration showing how photosynthesis converts sunlight into energy?"**
+> 👨‍🎨 **Director's Note:** 'Illustration' thể hiện need cho educational visual aid, phù hợp với academic setting khi explaining complex concepts**
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `illustrare` to the meaning of **illustration**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'illustrare' (to make light, illuminate) - illustration là visual tool làm 'sáng tỏ' understanding, như ánh sáng chi照亮 darkness của confusion**
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **illustration**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin 'lustrare' (chiếu sáng) + prefix 'il-' (vào)**
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* illustration (sự minh họa, hình minh họa)
+> - *(verb)* illustrate (minh họa, giải thích bằng hình ảnh)
+> - *(person)* illustrator (họa sĩ minh họa)
+> - *(adjective)* illustrative (mang tính minh họa)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌɪləˈstreɪʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**illustration**
+> 📖 **Meaning:** A drawing or diagram that explains or decorates text**
+> 🇻🇳 **Vietnamese:** Hình minh họa, bản vẽ giải thích**
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **illustration**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The teacher illustrationed the concept on the board.**
+> ✅ **Correction:** The teacher illustrated the concept on the board. / The teacher used an illustration to explain the concept.**
+> 🧠 **Why:** 'Illustration' là noun, verb là 'illustrated'. Đây là common confusion giữa noun và verb forms**
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite concept of **illustration**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Contrast Concepts:**
+> - [[obscuration]] (sự che khuất, làm tối nghĩa)
+> - [[confusion]] (sự bối rối, khó hiểu)
+> 🧱 **Contrast:** Illustration brings clarity through visualization, while its opposites create confusion or hide meaning**
 
 ---

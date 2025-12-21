@@ -1,159 +1,76 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 #flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [extinction, extinct, mass extinctions, biodiversity loss, endangered species, Cretaceous, dinosaurs, fossil, species loss]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /mæs ɪkˈstɪŋkʃn/
+> **Part of Speech:** noun (compound)
+> **CEFR Level:** B2
+> **Register:** academic/scientific
+> **Etymology:** Latin 'extinctio' (extinguishing) + 'mass' (large scale)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The widespread and rapid destruction of most living species**
+>
+> **Context Meaning:** A global event resulting in the loss of a significant proportion of Earth's biodiversity in a relatively short geological time period**
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự tuyệt chủng hàng loạt
+> - **Contextual:** thảm họa tuyệt chủng, sự biến mất hàng loạt, sự diệt vong quy mô lớn**
+>
 > **Nuances:**
-> - ...
+> - Refers to events affecting 75% or more of species
+> - Five major mass extinctions in Earth's history
+> - Currently experiencing sixth potential mass extinction
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Cataclysmic, Irreversible, Transformative
+> **Memory Hook:** Imagine a massive fire ('extinguish') wiping out entire forests of species at once
+> **📖 Etymology Story:** From 'extinguish' (put out fire) - mass extinction is like nature's fire going out, with entire species being extinguished from existence
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - **Noun:** extinction /ɪkˈstɪŋkʃn/
+> - **Compound:** mass extinction /mæs ɪkˈstɪŋkʃn/
+> - **Adj:** extinct /ɪkˈstɪŋkt/
+> - **Verb:** extinguish /ɪkˈstɪŋɡwɪʃ/
+>
+> **Related Terms:**
+> - [[biodiversity]] /ˌbaɪəʊdaɪˈvɜːsəti/ : variety of life
+> - [[fossil record]] /ˈfɒsl ˌrekɔːd/ : evidence of past life
+> - [[ecosystem]] /ˈiːkəʊsɪstəm/ : biological community
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Mass extinction event
+> 2. Prevent/avoid mass extinction
+> 3. Mass extinction of species
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The dinosaurs disappeared during the mass extinction event 65 million years ago.
+> - **Translation:** Khủng long đã biến mất trong sự kiện tuyệt chủng hàng loạt 65 triệu năm trước.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Scientists warn that we may be heading toward another mass extinction.
+> - **Translation:** Các nhà khoa học cảnh báo rằng chúng ta có thể đang hướng tới một cuộc tuyệt chủng hàng loạt khác.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Singular/Plural confusion**
+> - ❌ **Mistake:** Many mass extinctions happened throughout history.
+> - ✅ **Correction:** Several mass extinctions have happened throughout history.
+> - **Why:** While there have been multiple events, 'mass extinction' refers to each individual event. Use 'several' for multiple events.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The fossil record shows evidence of five major mass extinctions."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +78,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **mass extinction** (*/mæs ɪkˈstɪŋkʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A widespread and rapid destruction of most living species on Earth**
+> 🇻🇳 **Vietnamese:** Sự tuyệt chủng hàng loạt, thảm họa tuyệt chủng quy mô lớn**
+> 🗣️ **IPA:** */mæs ɪkˈstɪŋkʃn/*
+> 🧠 **Mental Model:** Khi Earth experiences mass extinction, nó như một global reset button - 75%+ của species bị 'extinguished' (tắt) trong short geological time**
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A global event resulting in the rapid loss of a significant proportion of species"**
+**Vietnamese:** Sự kiện toàn cầu gây ra mất mát nhanh chóng một tỷ lệ lớn các loài**
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**mass extinction** (*/mæs ɪkˈstɪŋkʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **mass extinction** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Climate change and habitat destruction are pushing many species toward the brink, potentially triggering Earth's sixth mass extinction.**
+> 🇻🇳 **Translation:** Biến đổi khí hậu và phá hủy môi trường sống đang đẩy nhiều loài đến bờ vực, có thể gây ra cuộc tuyệt chủng hàng loạt thứ sáu của Trái Đất.**
+> 🔍 **Analysis:** 'Mass extinction' được dùng với 'sixth' để chỉ current crisis, kết hợp với 'brink' tạo urgency và dramatic tone**
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **mass extinction**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Event:** mass extinction event/period (sự kiện/kỳ tuyệt chủng hàng loạt)
+> 2. **Impact:** cause/lead to mass extinction (gây ra/dẫn đến tuyệt chủng hàng loạt)
+> 3. **Historical:** Cretaceous/Permian mass extinction (sự tuyệt chủng hàng loạt kỷ Phấn Trắng/Biệt Trữ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **mass extinction**:
+"Many animals died out in the past."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The Permian mass extinction annihilated 96% of marine species, fundamentally reshaping life on Earth."**
+> 💡 **Why it works:** 'Mass extinction' thể hiện scale catastrophic và scientific precision, kết hợp với statistics để create impact**
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **mass extinction** instead of **[[extinction]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **mass extinction:** Refers to global-scale event destroying many species simultaneously, irreversible catastrophe**
+> **[[extinction]]:** Can refer to individual species disappearing, smaller scale process**
+> 🧱 **The Barrier:** Mass extinction implies systemic collapse, while extinction can be isolated**
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're watching a documentary about Earth's history. You're explaining the dinosaurs' disappearance. What do you say?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The asteroid impact 65 million years ago triggered a mass extinction that ended the dinosaurs' 165-million-year reign."**
+> 👨‍🎨 **Director's Note:** 'Mass extinction' immediately establishes catastrophic scale và scientific context, appropriate cho educational setting**
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `mass + extinction` to the meaning of **mass extinction**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 'mass' (quy mô lớn) kết hợp với 'extinction' (sự tắt lụi) - tạo ra hình ảnh một flame của life being extinguished trên global scale, leaving only fossil evidence behind**
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **mass extinction**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin 'exstinguere' (dập tắt) + English 'mass' (quy mô lớn)**
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* extinction (sự tuyệt chủng)
+> - *(compound)* mass extinction (sự tuyệt chủng hàng loạt)
+> - *(adjective)* extinct (đã tuyệt chủng)
+> - *(related)* extinguish (dập tắt), distinct (riêng biệt)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */mæs ɪkˈstɪŋkʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**mass extinction**
+> 📖 **Meaning:** Widespread destruction of most living species**
+> 🇻🇳 **Vietnamese:** Sự tuyệt chủng hàng loạt**
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **mass extinction**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The dinosaurs were mass extincted.**
+> ✅ **Correction:** The dinosaurs went extinct during a mass extinction.**
+> 🧠 **Why:** 'Extinct' là adjective/verb, không phải passive verb. Dinosaurs 'go extinct' hoặc 'become extinct'. 'Mass extinction' là noun chỉ event**
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite concept of **mass extinction**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Contrast Concepts:**
+> - [[biodiversity boom]] (sự bùng nổ đa dạng sinh học)
+> - [[evolutionary radiation]] (sự bức xạ tiến hóa)
+> 🧱 **Contrast:** Mass extinction involves rapid loss of species, while its opposites involve rapid diversification and emergence of new species**
 
 ---

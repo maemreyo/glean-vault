@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [aware, self-aware, consciousness, realization, perception, mindfulness, alertness, cognizant]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈweənəs/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/neutral
+> **Etymology:** Old English gewær "aware, cautious" + -ness (abstract noun suffix)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The state of knowing or perceiving
+>
+> **Context Meaning:** Knowledge or perception of a situation or fact; concern about something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự nhận biết, sự nhận thức
+> - **Contextual:** sự ý thức, sự hiểu biết, sự quan tâm
+>
 > **Nuances:**
-> - ...
+> - Implies not just knowledge but active consciousness
+> - Can be internal (self-awareness) or external (awareness of issues)
+> - Often used in social, environmental, and health contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Conscious, Perceptive
+> **Memory Hook:** "Aware-ness" - the quality of being "aware" of what's around and within you
+> **📖 Etymology Story:** Picture ancient warriors being "wary" (gewær) - constantly aware of their surroundings - that awareness kept them alive!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[aware]] /əˈweə(r)/
+> - **Adv:** [[awarely]] /əˈweəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[consciousness]] /ˈkɒnʃəsnəs/ : state of being awake and aware
+> - [[perception]] /pəˈsepʃn/ : way of interpreting
+> - [[mindfulness]] /ˈmaɪndflnəs/ : focused awareness
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[ignorance]] /ˈɪɡnərəns/ : lack of knowledge
+> - [[obliviousness]] /əˈblɪviəsnəs/ : unawareness
+> - [[unconsciousness]] /ʌnˈkɒnʃəsnəs/ : lack of awareness
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. raise awareness
+> 2. environmental awareness
+> 3. self-awareness
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The campaign aims to raise awareness about plastic pollution in oceans.
+> - **Translation:** Chiến dịch nhằm nâng cao nhận thức về ô nhiễm nhựa trong đại dương.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Self-awareness is crucial for personal growth and emotional intelligence.
+> - **Translation:** Sự tự nhận thức rất quan trọng cho sự phát triển cá nhân và trí tuệ cảm xúc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable/Uncountable Error**
+> - ❌ **Mistake:** "I have an awareness about this problem."
+> - ✅ **Correction:** "I have awareness of this problem." hoặc "I am aware of this problem."
+> - **Why:** Awareness is typically uncountable when referring to the general state
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."
+> **Source:** [[Marcel Proust]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **awareness** (*/əˈweənəs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The state of knowing or perceiving something; conscious knowledge or recognition
+> 🇻🇳 **Vietnamese:** Sự nhận biết; sự nhận thức; sự ý thức
+> 🗣️ **IPA:** */əˈweənəs/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một light bulb bật lên trong đầu - đó là moment of awareness (sự bừng tỉnh/thức)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The state of being conscious or having knowledge about something"
+**Vietnamese:** Trạng thái có ý thức hoặc biết về điều gì đó
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**awareness** (*/əˈweənəs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **awareness** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The workshop increased participants' awareness of cultural differences in communication styles.
+> 🇻🇳 **Translation:** Workshop đã tăng cường nhận thức của người tham gia về sự khác biệt văn hóa trong phong cách giao tiếp.
+> 🔍 **Analysis:** "awareness" thể hiện educational/developmental context, nhấn mạnh knowledge leading to understanding, formal hơn "understanding"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **awareness**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Social:** raise/increase/promote awareness (nâng cao/tăng cường/quảng bái nhận thức) (public education)
+> 2. **Personal:** self-awareness/environmental awareness (tự nhận thức/nhận thức môi trường) (consciousness types)
+> 3. **Critical:** critical awareness/situation awareness (nhận thức phản biện/nhận thức tình huống) (alertness/analysis)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **awareness**:
+"People need to know about climate change."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Raising public awareness about climate change is essential for implementing effective environmental policies."
+> 💡 **Why it works:** "awareness" tạo cảm giác formal/knowledge-based approach thay vì "know about" (thông thường)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **awareness** instead of **[[knowledge]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **awareness:** Nhận thức (conscious perception) - active, ongoing consciousness, thường dẫn đến action
+> **knowledge:** Kiến thức (information/facts) - stored information, có thể passive
+> 🧱 **The Barrier:** "awareness" = active consciousness leading to change, "knowledge" = accumulated facts/information
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a public health official discussing a new campaign. You want to emphasize education. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our primary goal is to build community awareness about preventive health measures."
+> 👨‍🎨 **Director's Note:** "awareness" thể hiện public health education approach, nhấn mạnh consciousness trước action
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<ware>` to the meaning of **awareness**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "gewær" = wary/cautious + -ness (state of being) → state of being cautious/watchful → state of being conscious/aware → hiện đại: awareness (sự nhận thức)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **awareness**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `warian` (to be wary, cautious)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[awareness]] /əˈweənəs/
+> - *(adj)* [[aware]] /əˈweə(r)/
+> - *(adv)* [[awarely]] /əˈweəli/
+> - *(related)* [[warn]] /wɔːn/ (to make aware of danger)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈweənəs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**awareness**
+> 📖 **Meaning:** The state of knowing or perceiving something; conscious knowledge or recognition
+> 🇻🇳 **Vietnamese:** Sự nhận biết; sự nhận thức; sự ý thức
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **awareness**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She has a good awareness in business."
+> ✅ **Correction:** "She has good business awareness." hoặc "She demonstrates business awareness."
+> 🧠 **Why:** "Awareness" thường đi với adjective hoặc possessive + noun + awareness, không dùng "awareness in". Fixed collocation error.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **awareness**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[ignorance]] (sự ngu dốt - lack of knowledge, often willful)
+> - [[obliviousness]] (sự không để ý - complete lack of attention)
+> 🧱 **Contrast:** "awareness" = conscious perception, "ignorance" = lack of knowledge, "obliviousness" = unaware due to inattention
 
 ---

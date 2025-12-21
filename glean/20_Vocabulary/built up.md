@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [built-up, build up, built up area, accumulation, developed, congested]
+status: done
 ref:
-  - [[Cam 19 Listening Test 02]]
+  - [[Cam 19 Listening Test 03]]
 
 ---
 
-> [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> [!info] Phrasal Analysis
+> **IPA:** /bɪlt ʌp/
+> **Part of Speech:** phrasal verb (past tense) / adjective
+> **CEFR Level:** B1
+> **Register:** general
+> **Etymology:** Build (Old English 'buildan' - construct) + up (preposition/particle indicating increase)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Gradually increased or accumulated
+>
+> **Context Meaning (phrasal verb):** To increase or develop gradually over time
+> **Context Meaning (adj):** Having many buildings and being crowded with people
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **(Verb):** tích lũy dần, phát triển dần, tăng dần
+> - **(Adj):** đông đúc, có nhiều nhà cửa, đã phát triển
+>
 > **Nuances:**
-> - ...
+> - Implies gradual development over time
+> - Can refer to emotions, pressure, knowledge, or physical construction
+> - As adjective, describes urban areas with high density
+> - Often suggests the result of gradual accumulation
 
-> [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> [!tip] 💡 Phrasal Vibe & Story
+> **Personality:** Accumulative, Gradual, Progressive
+> **Memory Hook:** When you 'build up' something, you add more and more over time, like building blocks
+> **📖 Etymology Story:** 'Build' (xây dựng) + 'up' (lên) - 'built up' là kết quả của việc xây dần lên qua thời gian
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrasal verb:** build up /bɪld ʌp/
+> - **Past:** built up /bɪlt ʌp/
+> - **Adj:** built-up /ˈbɪlt ʌp/
+> - **Present:** builds up /bɪldz ʌp/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[accumulate]] /əˈkjuːmjəleɪt/ : gather over time
+> - [[develop]] /dɪˈveləp/ : grow gradually
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[tear down]] /teə(r) daʊn/ : destroy
+> - [[reduce]] /rɪˈdjuːs/ : make less
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Built-up area/region
+> 2. Pressure built up
+> 3. Build up strength/confidence
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The traffic built up during rush hour.
+> - **Translation:** Giao thông tắc nghẽn dần trong giờ cao điểm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** They moved to the countryside to escape the built-up city.
+> - **Translation:** Họ chuyển đến nông thôn để thoát khỏi thành phố đông đúc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing past tense forms**
+> - ❌ **Mistake:** It has **build up** over time.
+> - ✅ **Correction:** It has **built up** over time.
+> - **Why:** 'Build' is an irregular verb: build/built/built
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Stress can build up if you don't take breaks."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +83,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **built up** (*/bɪlt ʌp/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** (1) Gradually increased or accumulated; (2) Having many buildings, crowded
+> 🇻🇳 **Vietnamese:** (1) Tích lũy dần, phát triển dần; (2) Đông đúc, có nhiều nhà cửa
+> 🗣️ **IPA:** */bɪlt ʌp/*
+> 🧠 **Mental Model:** Khi something 'built up', nó 'accumulate' qua thời gian như xây từng viên gạch lên
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
-→ **Target Word?**
+**Definition:** "Gradually increased or accumulated; having many buildings"
+**Vietnamese:** Tích lũy dần; đông đúc
+→ **Target Phrase?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**built up** (*/bɪlt ʌp/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **built up** (adjective) in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The family decided to move from the built-up downtown area to a quieter suburban neighborhood.
+> 🇻🇳 **Translation:** Gia đình quyết định chuyển từ khu trung tâm đông đúc đến một khu phố ngoại ô yên tĩnh hơn.
+> 🔍 **Analysis:** 'Built-up' ở đây là tính từ ghép nối bằng dấu gạch, mô tả khu vực đã được xây dựng nhiều nhà cửa, đông đúc
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **built up**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Urban:** Built-up area/region/city (khu vực/vùng/thành phố đông đúc - quy hoạch đô thị)
+> 2. **Emotion:** Stress/tension/pressure built up (căng thẳng/tạo áp lực dần lên - tâm lý)
+> 3. **Development:** Built up over time/years (xây dựng/phát triển qua thời gian/năm - quá trình)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **built up**:
+"The city has many buildings."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The once-rural landscape transformed into a heavily built-up metropolitan area."
+> 💡 **Why it works:** 'Built-up' mô tả sự phát triển đô thị, chuyên nghiệp hơn 'many buildings'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **built up** instead of **[[developed]]**?
+>
+> **built up:** Nhấn mạnh sự đông đúc, nhiều nhà cửa xây gần nhau, mật độ cao
+> **[[developed]]**: Nhấn mạnh sự phát triển kinh tế-xã hội, hiện đại, có cơ sở hạ tầng
+> 🧱 **The Barrier:** Built up về mật độ xây dựng, developed về mức độ phát triển tổng thể
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing why you moved from your old apartment. You need to explain the crowding. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The neighborhood became too built-up and I couldn't find any parking anymore."
+> 👨‍🎨 **Director's Note:** Sử dụng 'built-up' thể hiện sự đông đúc, phát triển quá mức của khu vực
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
-?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+🌱 **Origins:** Link the components `built + up` to the meaning.
+>
+> 📜 **Story:** 'Built' (đã xây dựng) + 'up' (lên) - 'built up' là kết quả của quá trình xây dần lên qua thời gian
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
-?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+Analyze the components of **built up**.
+>
+> 🌱 **Components:**
+> - Build (Old English 'buildan' - to construct)
+> - Up (preposition indicating increase)
+> 👨‍👩‍👧 **Forms:**
+> - *(verb present)* builds up
+> - *(verb past)* built up
+> - *(adjective)* built-up (with hyphen)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */bɪlt ʌp/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**built up**
+> 📖 **Meaning:** Gradually increased; having many buildings
+> 🇻🇳 **Vietnamese:** Tích lũy dần; đông đúc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
-?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+🕵️ **Fix the Error:** Common mistake with **built up**?
+>
+> ❌ **Mistake:** The pressure has **build up**.
+> ✅ **Correction:** The pressure has **built up**.
+> 🧠 **Why:** Build là động từ bất quy tắc: build/built/built - cần quá khứ phân từ 'built'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
+↔️ **Flip:** What is the opposite of **built up**?
+>
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[rural]] (nông thôn, ít nhà cửa)
+> - [[undeveloped]] (chưa phát triển, hoang sơ)
+> - [[spacious]] (rộng rãi, thoáng đãng)
+> 🧱 **Contrast:** Built up là đông đúc nhiều nhà cửa, antonyms là không gian rộng rãi, chưa phát triển
 
 ---

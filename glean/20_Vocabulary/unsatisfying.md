@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [unsatisfied, unsatisfactorily, unsatisfactory, disappointing, unfulfilling, inadequate]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ʌnˈsætɪsfaɪɪŋ/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** neutral/informal
+> **Etymology:** un- (not) + satisfy (to meet expectations) + -ing
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Not giving satisfaction; disappointing
+>
+> **Context Meaning:** Failing to meet expectations or provide fulfillment
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** không thỏa mãn
+> - **Contextual:** đáng thất vọng, không đủ tốt
+>
 > **Nuances:**
-> - ...
+> - Describes experiences, results, or outcomes
+> - Focuses on the feeling of disappointment
+> - Can be temporary or situational
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Critic, Disappointed Customer, Underwhelmed Observer
+> **Memory Hook:** UN + SATISFYING = NOT satisfying expectations
+> **📖 Etymology Story:** From Latin 'satisfacere' (to make enough). When something is 'unsatisfying', it doesn't make enough - it falls short of what we hoped for. Like a meal that looks good but leaves you still hungry!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[unsatisfying]] /ʌnˈsætɪsfaɪɪŋ/
+> - **Adj:** [[unsatisfied]] /ʌnˈsætɪsfaɪd/
+> - **Adj:** [[unsatisfactory]] /ʌnˌsætɪsˈfæktəri/
+> - **Adv:** [[unsatisfactorily]] /ʌnˌsætɪsˈfæktərəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[disappointing]] /ˌdɪsəˈpɔɪntɪŋ/ : fails to meet hopes
+> - [[unfulfilling]] /ʌnfʊlˈfɪlɪŋ/ : doesn't provide fulfillment
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[satisfying]] /ˈsætɪsfaɪɪŋ/ : gives satisfaction
+> - [[fulfilling]] /fʊlˈfɪlɪŋ/ : provides fulfillment
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. unsatisfying result
+> 2. unsatisfying experience
+> 3. unsatisfying explanation
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The movie's ending was unsatisfying; it left too many questions unanswered.
+> - **Translation:** Kết thúc của bộ phim thật đáng thất vọng, nó để lại quá nhiều câu hỏi chưa được trả lời.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** After years of work, the promotion felt unsatisfying.
+> - **Translation:** Sau nhiều năm làm việc, việc thăng chức tỏ ra không thỏa mãn như mong đợi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Unsatisfied vs Unsatisfying**
+> - ❌ **Mistake:** "I feel unsatisfying with the service"
+> - ✅ **Correction:** "I feel unsatisfied" OR "The service was unsatisfying"
+> - **Why:** Unsatisfied describes feelings, unsatisfying describes the thing causing the feeling
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The unsatisfying nature of temporary solutions reveals our deeper need for permanent change."
+> **Source:** [[General Observation]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **unsatisfying** (*/ʌnˈsætɪsfaɪɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Not giving satisfaction; disappointing or failing to meet expectations
+> 🇻🇳 **Vietnamese:** không thỏa mãn, đáng thất vọng
+> 🗣️ **IPA:** */ʌnˈsætɪsfaɪɪŋ/*
+> 🧠 **Mental Model:** Giống như ăn món ngon nhưng vẫn còn đói, hoặc xem phim hay nhưng kết thúc tệ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Not giving satisfaction; disappointing"
+**Vietnamese:** không thỏa mãn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**unsatisfying** (*/ʌnˈsætɪsfaɪɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **unsatisfying** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The explanation was unsatisfying and didn't answer my question.
+> 🇻🇳 **Translation:** Lời giải thích này thật không thỏa mãn và không trả lời được câu hỏi của tôi.
+> 🔍 **Analysis:** Perfect here because it describes an explanation that fails to meet expectations
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **unsatisfying**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Outcomes:** unsatisfying result (kết quả không thỏa mãn) -VN: disappointing outcome
+> 2. **Experiences:** unsatisfying experience (trải nghiệm đáng thất vọng) -VN: let down by what happened
+> 3. **Food:** unsatisfying meal (bữa ăn không no) -VN: still hungry afterwards
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **unsatisfying**:
+"The ending was bad."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The movie's conclusion was unsatisfying, leaving viewers emotionally detached."
+> 💡 **Why it works:** More precise about why it was bad - it failed to provide emotional closure
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **unsatisfying** instead of **[[disappointing]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **unsatisfying:** Không thỏa mãn - không đáp ứng được expectation, có thể còn thiếu cái gì đó
+> **[[disappointing]]:** Đáng thất vọng - hơn expected but let down, có cảm giác buồn hơn
+> 🧱 **The Barrier:** Unsatisfying lacks fulfillment, disappointing actively lets down hopes
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You finish a 5-course meal but still feel hungry. You're talking to the waiter. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm afraid the portion sizes were rather unsatisfying for the price."
+> 👨‍🎨 **Director's Note:** Polite but clearly expresses disappointment about quantity/quality ratio
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `satisfacere` to the meaning of **unsatisfying**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'satis' (enough) + 'facere' (to make). Unsatisfying literally means "not making enough". Like a coffee that doesn't wake you up - it doesn't make enough difference!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **unsatisfying**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `satis` (enough) + `facere` (to make)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[satisfying]] /ˈsætɪsfaɪɪŋ/
+> - *(adj)* [[unsatisfied]] /ʌnˈsætɪsfaɪd/
+> - *(adj)* [[unsatisfactory]] /ʌnˌsætɪsˈfæktəri/
+> - *(verb)* [[satisfy]] /ˈsætɪsfaɪ/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ʌnˈsætɪsfaɪɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**unsatisfying**
+> 📖 **Meaning:** Not providing satisfaction
+> 🇻🇳 **Vietnamese:** không thỏa mãn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **unsatisfying**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I am unsatisfying with my grades"
+> ✅ **Correction:** "I am unsatisfied with my grades" OR "My grades are unsatisfying"
+> 🧠 **Why:** Unsatisfied describes your feelings, unsatisfying describes the thing causing the feeling
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **unsatisfying**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[satisfying]] (thỏa mãn, đáng hài lòng)
+> - [[fulfilling]] (đầy ý nghĩa, thỏa mãn sâu sắc)
+> 🧱 **Contrast:** Unsatisfying leaves you wanting more, while satisfying meets or exceeds expectations
 
 ---

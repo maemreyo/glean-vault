@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [consume, consumer, consuming, consumed, intake, usage, expenditure, depletion]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kənˈsʌmpʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** Latin consumptionem "a using up, eating" from consumere "consume, waste"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The act of using up resources or eating food
+>
+> **Context Meaning:** The amount of something that is used, eaten, or drunk, or the process of using it up
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự tiêu thụ, sự ăn uống
+> - **Contextual:** mức tiêu thụ, sự tiêu dùng
+>
 > **Nuances:**
-> - ...
+> - Can refer to food/drink intake or resource usage
+> - In economics: total spending by consumers
+> - In medical context: amount of substances taken into body
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Materialistic, Resource-focused
+> **Memory Hook:** "Con-sumption" - completely (con) sum up (sume) - use everything completely
+> **📖 Etymology Story:** Imagine ancient Romans "taking completely" (con-sumere) all the food at a feast, leaving nothing behind - that's consumption!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[consume]] /kənˈsjuːm/
+> - **Noun (agent):** [[consumer]] /kənˈsjuːmə(r)/
+> - **Adj:** [[conspicuous]] /kənˈspɪkjuəs/ (related root)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[intake]] /ˈɪnteɪk/ : amount taken in (food/medicine)
+> - [[expenditure]] /ɪkˈspendɪtʃə(r)/ : spending (economic context)
+> - [[depletion]] /dɪˈpliːʃn/ : using up completely
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[production]] /prəˈdʌkʃn/ : making/growing
+> - [[conservation]] /ˌkɒnsəˈveɪʃn/ : saving/preserving
+> - [[accumulation]] /əˌkjuːmjəˈleɪʃn/ : collecting/building up
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. energy consumption
+> 2. food consumption
+> 3. mass consumption
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Reducing meat consumption is beneficial for both health and the environment.
+> - **Translation:** Giảm tiêu thụ thịt có lợi cho cả sức khỏe và môi trường.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The country's energy consumption has doubled in the last decade.
+> - **Translation:** Mức tiêu thụ năng lượng của quốc gia đã tăng gấp đôi trong thập kỷ qua.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable/Uncountable Error**
+> - ❌ **Mistake:** "We need to reduce our consumptions."
+> - ✅ **Correction:** "We need to reduce our consumption."
+> - **Why:** Consumption is typically uncountable when referring to the general act of consuming.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "There is enough in the world for everyone's need, but not enough for everyone's greed."
+> **Source:** [[Mahatma Gandhi]]
 
 ---
 
@@ -161,121 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **consumption** (*/kənˈsʌmpʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The act of using up resources, eating, or drinking; the amount used
+> 🇻🇳 **Vietnamese:** Sự tiêu thụ; mức tiêu dùng; sự sử dụng
+> 🗣️ **IPA:** */kənˈsʌmpʃn/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một chiếc xe tăng xăng - lượng xăng dùng đi là consumption (resource being used up)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The act of using up resources or the amount used/eaten"
+**Vietnamese:** Sự tiêu thụ; mức tiêu dùng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**consumption** (*/kənˈsʌmpʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **consumption** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The government launched a campaign to reduce alcohol consumption among young adults.
+> 🇻🇳 **Translation:** Chính phủ đã triển khai một chiến dịch giảm tiêu thụ rượu bia ở người trẻ.
+> 🔍 **Analysis:** "consumption" ở đây chỉ mức sử dụng có thể đo lường được của alcohol, phù hợp trong public health context
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **consumption**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Resource:** energy/power/fuel consumption (mức tiêu thụ năng lượng/điện/nhiên liệu) (measurable usage)
+> 2. **Food:** food/meat consumption (mức tiêu thụ thực phẩm/thịt) (eating patterns)
+> 3. **Economic:** consumer consumption/mass consumption (tiêu dùng của người/tiêu dùng hàng loạt) (economic activity)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **consumption**:
+"People are using too much electricity."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Household electricity consumption has reached alarming levels this summer."
+> 💡 **Why it works:** "consumption" tạo cảm giác formal/measurable term thay vì "using too much" (thông thường)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **consumption** instead of **[[usage]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **consumption:** Tiêu thụ (consumption) - thường cho resources được "used up" hoàn toàn (food, energy, materials)
+> **usage:** Sử dụng (usage) - có thể cho việc sử dụng mà không tiêu hao hoàn toàn (software, equipment)
+> 🧱 **The Barrier:** "consumption" = resources depleted/gone, "usage" = general act of using (có thể còn lại)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're an environmental scientist presenting data about resource depletion. You sound professional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our research indicates that global water consumption will exceed supply by 2040 if current trends continue."
+> 👨‍🎨 **Director's Note:** "consumption" thể hiện measurable resource depletion trong academic context, tạo sự tin cậy
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<sumere>` to the meaning of **consumption**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "consumere" = con- (completely) + sumere (take) → take completely → take all resources → hiện đại: consumption (sự tiêu thụ dùng hết)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **consumption**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `sumere` (to take, use up)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[consumption]] /kənˈsʌmpʃn/
+> - *(verb)* [[consume]] /kənˈsjuːm/
+> - *(agent noun)* [[consumer]] /kənˈsjuːmə(r)/
+> - *(adj)* [[consuming]] /kənˈsjuːmɪŋ/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kənˈsʌmpʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**consumption**
+> 📖 **Meaning:** The act of using up resources, eating, or drinking; the amount used
+> 🇻🇳 **Vietnamese:** Sự tiêu thụ; mức tiêu dùng; sự sử dụng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **consumption**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The consumption of sugar are too high."
+> ✅ **Correction:** "The consumption of sugar is too high."
+> 🧠 **Why:** "Consumption" là uncountable noun, luôn đi với động từ số ít (is/was), không thể có "are/were" (common ESL error)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **consumption**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[production]] (sản xuất - tạo ra resources thay vì dùng)
+> - [[conservation]] (bảo tồn - giữ lại thay vì dùng hết)
+> 🧱 **Contrast:** "consumption" = using up resources, "production" = creating resources, "conservation" = preserving resources
 
 ---

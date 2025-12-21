@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [wide range, broad range, extensive range, broad spectrum, wide variety, diverse range, wide array, broad selection]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə waɪd reɪndʒ əv/
+> **Part of Speech:** phrase/expression
+> **CEFR Level:** B1
+> **Register:** general/academic
+> **Etymology:** Combination of Old English 'wīd' (wide) and Old French 'range' (row, rank)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A broad extent or scope of different types or examples
+>
+> **Context Meaning:** A large variety of different things, people, or options covering a broad spectrum
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một phạm vi rộng, một loạt
+> - **Contextual:** đa dạng, phong phú, nhiều loại khác nhau
+>
 > **Nuances:**
-> - ...
+> - Emphasizes variety and diversity
+> - Often used to show comprehensiveness
+> - Can refer to skills, products, opinions, or any category with variety
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Comprehensive, Diverse, Inclusive
+> **Memory Hook:** Imagine a wide road (range) with many different stores along it - that's a wide range of options
+> **📖 Etymology Story:** 'Wide' from Old English meaning 'broad, extensive' + 'range' from French meaning 'line, row' - when you have many different items arranged in a broad row, you have a wide range
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrase:** a wide range of /ə waɪd reɪndʒ əv/
+> - **Related:** broad range of, extensive variety of
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[a variety of]] /ə vaɪˈraɪəti əv/ : many different types
+> - [[diverse]] /daɪˈvɜːs/ : showing variety
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[limited]] /ˈlɪmɪtɪd/ : restricted in scope
+> - [[narrow]] /ˈnærəʊ/ : not broad
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. A wide range of products/services
+> 2. A wide range of skills/abilities
+> 3. A wide range of opinions/views
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The supermarket offers a wide range of organic products from local farms.
+> - **Translation:** Siêu thị cung cấp một loạt các sản phẩm hữu cơ từ các trang trại địa phương.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The conference attracted professionals with a wide range of expertise in renewable energy.
+> - **Translation:** Hội nghị đã thu hút các chuyên gia với nhiều chuyên môn khác nhau trong lĩnh vực năng lượng tái tạo.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect verb agreement**
+> - ❌ **Mistake:** A wide range of options are available.
+> - ✅ **Correction:** A wide range of options is available.
+> - **Why:** The subject is 'range' (singular), not 'options' (plural)
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The museum features a wide range of artifacts from different historical periods."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +79,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a wide range of** (*/ə waɪd reɪndʒ əv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A large variety of different types or examples covering a broad spectrum
+> 🇻🇳 **Vietnamese:** Một phạm vi rộng, một loạt, đa dạng nhiều loại khác nhau
+> 🗣️ **IPA:** */ə waɪd reɪndʒ əv/*
+> 🧠 **Mental Model:** Khi có 'a wide range of' something, bạn có nhiều options khác nhau span từ một extreme đến extreme - không phải limited selection
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A large variety of different types covering a broad spectrum"
+**Vietnamese:** Một loạt, đa dạng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a wide range of** (*/ə waɪd reɪndʒ əv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a wide range of** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The online platform offers a wide range of courses, from basic programming to advanced machine learning.
+> 🇻🇳 **Translation:** Nền tảng trực tuyến cung cấp một loạt các khóa học, từ lập trình cơ bản đến học máy nâng cao.
+> 🔍 **Analysis:** 'A wide range of courses' thể hiện variety across difficulty levels, 'from basic... to advanced' reinforces scope của range
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a wide range of**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Products/Services:** A wide range of products (đa dạng hàng hóa)
+> 2. **Skills:** A wide range of skills (nhiều kỹ năng khác nhau)
+> 3. **Opinions:** A wide range of opinions (quan điểm đa dạng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a wide range of**:
+"They have different books."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The library boasts a wide range of rare manuscripts spanning five centuries of literary history."
+> 💡 **Why it works:** 'Wide range' emphasizes diversity, 'rare manuscripts' chỉ specific valuable items, 'spanning five centuries' adds temporal scope
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a wide range of** instead of **[[many]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a wide range of:** Dùng khi muốn nhấn mạnh variety và diversity across types/categories
+> **[[many]]:** Dùng khi chỉ muốn emphasize quantity số lượng
+> 🧱 **The Barrier:** 'Many' là about number, 'wide range' là about variety và scope
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing your company's capabilities to a potential client. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our team brings together a wide range of expertise, from software development to marketing strategy."
+> 👨‍🎨 **Director's Note:** 'Wide range of expertise' thể hiện comprehensive capabilities, không chỉ limited skills
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `wide` and `range` to the meaning of **a wide range of**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Wide' từ Old English 'wīd' (rộng) và 'range' từ French 'rang' (hàng) - khi có nhiều items trong một hàng rộng, bạn có 'wide range' của variety
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a wide range of**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English `wīd` + Old French `range`
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* a wide range of (một phạm vi rộng)
+> - *(variation)* a broad range of (một phạm vi rộng lớn)
+> - *(related)* a wide variety of (một sự đa dạng rộng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə waɪd reɪndʒ əv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a wide range of**
+> 📖 **Meaning:** A large variety of different types
+> 🇻🇳 **Vietnamese:** Một loạt, đa dạng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a wide range of**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** A wide range of books were on display
+> ✅ **Correction:** A wide range of books was on display
+> 🧠 **Why:** Subject là 'range' (singular), không phải 'books' (plural) - verb phải agree với main noun
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a wide range of**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[a limited range of]] (một phạm vi hạn hẹp)
+> - [[a narrow selection of]] (một lựa chọn hẹp)
+> 🧱 **Contrast:** Wide range emphasizes diversity và variety, antonyms emphasize restriction và limitation

@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [inevitably, unavoidably, unavoidable, certain, sure, destined, fated, inescapable]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪnˈevɪtəbl/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** Latin in- "not" + evitabilis "avoidable" from evitare "avoid"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Impossible to avoid or prevent
+>
+> **Context Meaning:** Certain to happen; unavoidable
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** không thể tránh được
+> - **Contextual:** tất yếu, chắc chắn xảy ra
+>
 > **Nuances:**
-> - ...
+> - Implies a sense of necessity or natural progression
+> - Often used for outcomes that are predictable or predetermined
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Deterministic, Fatalistic
+> **Memory Hook:** "In-avoid-able" - something you cannot avoid no matter what
+> **📖 Etymology Story:** Picture fate itself standing with arms crossed (the Latin prefix "in-" meaning "not") watching as events unfold, unable to be changed or avoided.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[inevitability]] /ɪnˌevɪtəˈbɪləti/
+> - **Adv:** [[inevitably]] /ɪnˈevɪtəbli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[unavoidable]] /ʌnəˈvɔɪdəbl/ : cannot be avoided
+> - [[inescapable]] /ˌɪnɪˈskeɪpəbl/ : impossible to escape
+> - [[certain]] /ˈsɜːtn/ : sure to happen
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[avoidable]] /əˈvɔɪdəbl/ : can be prevented
+> - [[preventable]] /prɪˈventəbl/ : can be stopped
+> - [[uncertain]] /ʌnˈsɜːtn/ : not sure to happen
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. inevitable consequence
+> 2. inevitable outcome
+> 3. inevitable change
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** With such poor preparation, failure was the inevitable outcome.
+> - **Translation:** Với sự chuẩn bị kém như vậy, thất bại là kết quả tất yếu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Technological progress is inevitable in our modern society.
+> - **Translation:** Tiến bộ công nghệ là không thể tránh khỏi trong xã hội hiện đại của chúng ta.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Grammar Error**
+> - ❌ **Mistake:** "The inevitable happened yesterday."
+> - ✅ **Correction:** "The inevitable happened yesterday." (Correct)
+> - **Why:** Some learners incorrectly think "inevitable" needs a noun after it, but it can stand alone to mean "the inevitable event/thing."
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Change is the law of life. And those who look only to the past or present are certain to miss the future."
+> **Source:** [[John F. Kennedy]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **inevitable** (*/ɪnˈevɪtəbl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Certain to happen; impossible to avoid or prevent
+> 🇻🇳 **Vietnamese:** Không thể tránh khỏi; tất yếu xảy ra
+> 🗣️ **IPA:** */ɪnˈevɪtəbl/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một con tàu đang lao về phía thác nước - không thể quay lại hay tránh khỏi (unavoidable destiny)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Impossible to avoid or prevent; certain to happen"
+**Vietnamese:** Không thể tránh khỏi; chắc chắn xảy ra
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**inevitable** (*/ɪnˈevɪtəbl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **inevitable** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** As the climate continues to warm, rising sea levels become an inevitable consequence for coastal cities.
+> 🇻🇳 **Translation:** Khi khí hậu tiếp tục ấm lên, mực nước biển dâng là hậu quả tất yếu đối với các thành phố ven biển.
+> 🔍 **Analysis:** "inevitable" ở đây nhấn mạnh tính tất yếu của khoa học - không phải ý kiến mà là kết quả tất yếu từ nguyên nhân (cause-effect certainty)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **inevitable**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Natural Process:** inevitable consequence (hậu quả tất yếu) (kết quả tự nhiên từ nguyên nhân)
+> 2. **Time/Event:** inevitable outcome (kết quả tất yếu) (kết quả cuối cùng không thể thay đổi)
+> 3. **Change:** inevitable change (sự thay đổi tất yếu) (sự biến đổi không thể ngăn cản của thời gian)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **inevitable**:
+"It was going to happen anyway."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The collapse of the unsound structure was inevitable from the moment construction began."
+> 💡 **Why it works:** "inevitable" tạo cảm giác tính tất yếu dựa trên logic/có thể dự đoán thay vì chỉ nói "it was going to happen" (chỉ nói tương lai)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **inevitable** instead of **[[certain]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **inevitable:** Không thể tránh được (unavoidable) - dùng khi có yếu tố bên ngoài hoặc quy luật tự nhiên không thể thay đổi
+> **certain:** Chắc chắn (sure/guaranteed) - dùng khi có sự khẳng định hoặc bằng chứng
+> 🧱 **The Barrier:** "inevitable" mang tính all-nya/unavoidable destiny, trong khi "certain" chỉ có nghĩa sure/guaranteed (có thể xảy ra hoặc không)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your business is losing money every month despite all efforts. You feel resigned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "After trying every strategy possible, bankruptcy seems inevitable at this point."
+> 👨‍🎨 **Director's Note:** "inevitable" thể hiện sự chấp nhận thực tế tất yếu (fatalistic acceptance) thay vì chỉ nói "it will happen"
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<evit>` to the meaning of **inevitable**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "evitare" = avoid (tránh) + "in-" = not (không) → không thể tránh được (unavoidable) → hiện đại: inevitable (tất yếu xảy ra)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **inevitable**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `evitare` (avoid)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[inevitable]] /ɪnˈevɪtəbl/
+> - *(adv)* [[inevitably]] /ɪnˈevɪtəbli/
+> - *(noun)* [[inevitability]] /ɪnˌevɪtəˈbɪləti/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪnˈevɪtəbl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**inevitable**
+> 📖 **Meaning:** Impossible to avoid or prevent; certain to happen
+> 🇻🇳 **Vietnamese:** Không thể tránh khỏi; tất yếu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **inevitable**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The inevitable will happen." (không tự nhiên)
+> ✅ **Correction:** "The inevitable is bound to happen." hoặc "Inevitable, it will happen."
+> 🧠 **Why:** "The inevitable" là danh từ cụ thể, cần động từ phù hợp. Cách dùng tự nhiên hơn là dùng tính từ trực tiếp.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **inevitable**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[avoidable]] (có thể tránh được - dùng cho hành động/cái có thể ngăn chặn)
+> - [[preventable]] (có thể ngăn ngừa - nhấn mạnh có thể hành động để ngăn trước)
+> 🧱 **Contrast:** "inevitable" = không thể thay đổi destiny, "avoidable/preventable" = có thể kiểm soát/tác động được
 
 ---

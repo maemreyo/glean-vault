@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [meaningfully, meaningfulness, significant, important, valuable, purposeful, substantial]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈmiːnɪŋfl/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** neutral/formal
+> **Etymology:** Middle English mēningful "full of meaning" from mēning + -ful
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Having meaning or significance
+>
+> **Context Meaning:** Having a serious, important, or useful quality; full of meaning or purpose
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** có ý nghĩa, đáng kể
+> - **Contextual:** quan trọng, có giá trị, sâu sắc
+>
 > **Nuances:**
-> - ...
+> - Implies depth and significance beyond surface level
+> - Often associated with emotional impact or importance
+> - Can refer to relationships, work, or experiences
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Profound, Significant
+> **Memory Hook:** "Meaning-full" - full of meaning, not empty or superficial
+> **📖 Etymology Story:** Imagine a treasure chest overflowing with precious jewels - that's what makes life "meaningful" - full of valuable significance!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[meaning]] /ˈmiːnɪŋ/
+> - **Noun:** [[meaningfulness]] /ˈmiːnɪŋfʊlnəs/
+> - **Adv:** [[meaningfully]] /ˈmiːnɪŋfəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[significant]] /sɪɡˈnɪfɪkənt/ : important and meaningful
+> - [[substantial]] /səbˈstænʃl/ : important and considerable
+> - [[purposeful]] /ˈpɜːpəsfl/ : having a clear aim
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[meaningless]] /ˈmiːnɪŋləs/ : without meaning
+> - [[trivial]] /ˈtrɪviəl/ : unimportant
+> - [[superficial]] /ˌsuːpəˈfɪʃl/ : lacking depth
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. meaningful relationship
+> 2. meaningful work
+> 3. meaningful discussion
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** After volunteering abroad, she felt her life had become more meaningful.
+> - **Translation:** Sau khi tình nguyện ở nước ngoài, cô cảm thấy cuộc sống của mình đã trở nên có ý nghĩa hơn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The company aims to provide meaningful employment opportunities for local youth.
+> - **Translation:** Công ty hướng đến việc cung cấp cơ hội việc làm có ý nghĩa cho thanh niên địa phương.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Position Error**
+> - ❌ **Mistake:** "a conversation meaningful"
+> - ✅ **Correction:** "a meaningful conversation"
+> - **Why:** Adjective typically comes before the noun it modifies in English
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The meaning of life is to find your gift. The purpose of life is to give it away."
+> **Source:** [[Pablo Picasso]]
 
 ---
 
@@ -161,121 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **meaningful** (*/ˈmiːnɪŋfl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Having a serious, important, or useful quality; full of meaning, significance, or purpose
+> 🇻🇳 **Vietnamese:** Có ý nghĩa; đáng kể; có giá trị sâu sắc
+> 🗣️ **IPA:** */ˈmiːnɪŋfl/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một cuốn sách thay đổi cuộc đời bạn - đó là meaningful book (full of impact/significance)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Having serious importance, significance, or purpose"
+**Vietnamese:** Có tầm quan trọng; có ý nghĩa sâu sắc
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**meaningful** (*/ˈmiːnɪŋfl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **meaningful** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The professor's feedback was meaningful because it helped me improve my research methodology.
+> 🇻🇳 **Translation:** Phản hồi của giáo sư rất có ý nghĩa vì nó đã giúp tôi cải thiện phương pháp nghiên cứu của mình.
+> 🔍 **Analysis:** "meaningful" ở đây nhấn mạnh feedback có giá trị thực tế/sâu sắc, không chỉ là compliments, thể hiện impact/value
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **meaningful**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Personal:** meaningful relationship/connection/experience (mối quan hệ/kết nối/trải nghiệm có ý nghĩa) (emotional depth)
+> 2. **Professional:** meaningful work/employment/contribution (công việc/làm việc/đóng góp có ý nghĩa) (career satisfaction)
+> 3. **Communication:** meaningful discussion/dialogue/conversation (thảo luận/đối thoại/cuộc trò chuyện có ý nghĩa) (substantive exchange)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **meaningful**:
+"It was an important talk."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "It was a meaningful conversation that changed my perspective on career choices."
+> 💡 **Why it works:** "meaningful" tạo cảm giác depth/impact thay vì chỉ "important" (nói chung chung)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **meaningful** instead of **[[important]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **meaningful:** Có ý nghĩa sâu sắc (deep significance) - có emotional impact, có giá trị nội tại
+> **important:** Quan trọng (important) - có priority, cần attention, nhưng không nhất thiết sâu sắc
+> 🧱 **The Barrier:** "meaningful" = has significance/purpose, "important" = has priority/consequence
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're thanking a mentor who changed your life. You want to express deep gratitude. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Your guidance has been truly meaningful in shaping both my career and personal growth."
+> 👨‍🎨 **Director's Note:** "meaningful" thể hiện deep appreciation, emotional impact, nhấn mạnh lasting value
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<mean>` to the meaning of **meaningful**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "mænan" (to mean/intend) + -ful (full of) → full of intention/significance → đầy meaningfulness → hiện đại: meaningful (có ý nghĩa sâu sắc)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **meaningful**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `mænan` (to mean, intend)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[meaning]] /ˈmiːnɪŋ/
+> - *(adj)* [[meaningful]] /ˈmiːnɪŋfl/
+> - *(adj)* [[meaningless]] /ˈmiːnɪŋləs/
+> - *(adv)* [[meaningfully]] /ˈmiːnɪŋfəli/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈmiːnɪŋfl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**meaningful**
+> 📖 **Meaning:** Having a serious, important, or useful quality; full of meaning, significance, or purpose
+> 🇻🇳 **Vietnamese:** Có ý nghĩa; đáng kể; có giá trị sâu sắc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **meaningful**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The gift was very meaningfully."
+> ✅ **Correction:** "The gift was very meaningful."
+> 🧠 **Why:** "meaningful" là adjective, "meaningfully" là adverb. Chỉ dùng adjective để修饰 noun (the gift), không phải adverb. Common ESL confusion.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **meaningful**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[meaningless]] (vô nghĩa - không có significance/purpose)
+> - [[superficial]] (hời hợt - chỉ bề mặt, không có depth)
+> 🧱 **Contrast:** "meaningful" = deep significance/purpose, "meaningless" = no significance, "superficial" = apparent depth but no real substance
 
 ---

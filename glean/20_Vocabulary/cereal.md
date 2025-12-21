@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
 #flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [cereals, breakfast cereal, grain, breakfast food, porridge, muesli, bran]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsɪəriəl/
+> **Part of Speech:** noun
+> **CEFR Level:** A2
+> **Register:** general
+> **Etymology:** Latin 'cerealis' (of Ceres, goddess of agriculture) → Old French 'cereal'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Grain used for food, such as wheat, corn, or oats; or breakfast food made from roasted grain
+>
+> **Context Meaning:** 1) Any grain cultivated for food 2) Breakfast food made from processed grain, typically eaten with milk
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ngũ cốc, lương thực
+> - **Contextual:** bữa sáng ngũ cốc, cereal ăn sáng, granola
+>
 > **Nuances:**
-> - ...
+> - Can refer to raw grains (wheat, rice) or processed breakfast food
+> - Breakfast cereals come in various forms: flakes, puffs, loops
+> - Often fortified with vitamins and minerals
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Nutritious, Morning, Versatile
+> **Memory Hook:** Cereal = Ceres (Roman goddess of harvest) + al = what we eat from her bounty
+> **📖 Etymology Story:** Named after Ceres, Roman goddess of agriculture and grain - a tribute to the crops that sustain humanity
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[cereal]] /ˈsɪəriəl/
+> - **Adj:** [[cerebral]] /ˈserəbrəl/ (related but different meaning)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[grain]] /ɡreɪn/ : seed of cereal grass
+> - [[breakfast food]] /ˈbrekfəst fuːd/ : food eaten in morning
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[meat]] /miːt/ : animal flesh
+> - [[processed food]] /ˈprəʊsest fuːd/ : food with artificial ingredients
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Eat/have/serve cereal
+> 2. Breakfast/whole-grain/fortified cereal
+> 3. Cereal with milk/sugar
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Most children prefer sweetened cereal with milk for breakfast.
+> - **Translation:** Hầu hết trẻ em thích ngũ cốc ngọt với sữa cho bữa sáng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Wheat and rice are two of the most important cereals grown worldwide.
+> - **Translation:** Lúa mì và lúa gạo là hai trong số ngũ cốc quan trọng nhất được trồng trên toàn thế giới.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable vs uncountable confusion**
+> - ❌ **Mistake:** I bought three cereals at the supermarket.
+> - ✅ **Correction:** I bought three types/boxes of cereal at the supermarket.
+> - **Why:** When referring to the food substance, "cereal" is uncountable. Use "types/kinds/boxes" for countability
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A healthy breakfast might include whole-grain cereal with fresh fruit and low-fat milk."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **cereal** (*/ˈsɪəriəl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** 1) Grain cultivated for food 2) Breakfast food made from processed grain eaten with milk
+> 🇻🇳 **Vietnamese:** Ngũ cốc, lương thực; bữa sáng ngũ cốc
+> 🗣️ **IPA:** */ˈsɪəriəl/*
+> 🧠 **Mental Model:** Bất cứ loại grain nào (wheat, rice, corn) hoặc breakfast food from processed grain - thường ăn với milk cho breakfast
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A breakfast food made from roasted grain, typically eaten with milk"
+**Vietnamese:** Thực phẩm bữa sáng làm từ ngũ cốc rang, thường ăn với sữa
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**cereal** (*/ˈsɪəriəl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **cereal** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The nutritionist recommended choosing whole-grain cereals with minimal added sugar for a healthy breakfast.
+> 🇻🇳 **Translation:** Chuyên gia dinh dưỡng khuyên chọn ngũ cốc nguyên cám với ít đường thêm cho bữa sáng lành mạnh.
+> 🔍 **Analysis:** 'Cereal' ở đây chỉ breakfast cereals - plural form cho types of cereal. Word này very common trong daily English khi talk about breakfast
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **cereal**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** have/eat/serve cereal (ăn/phục vụ ngũ cốc)
+> 2. **Type:** whole-grain/fortified/organic cereal (ngũ cốc nguyên cám/tăng cường vi chất/hữu cơ)
+> 3. **With:** cereal with milk/yogurt/fruit (ngũ cốc với sữa/sữa chua/trái cây)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **cereal**:
+"I ate grain for breakfast."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I started my day with a bowl of iron-fortified cereal topped with fresh berries and almond milk."
+> 💡 **Why it works:** 'Cereal' cụ thể hơn 'grain' vì nó暗示 processed breakfast food, thêm details về iron-fortified, berries, và almond milk làm description vivid và appealing
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **cereal** instead of **[[porridge]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **cereal:** Processed grain, often dry, eaten with milk, usually served cold
+> **[[porridge]]:** Grain cooked in liquid (usually hot milk or water), served hot
+> 🧱 **The Barrier:** Cereal = processed, ready-to-eat; porridge = cooked, hot dish
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at the grocery store and someone asks for a healthy breakfast recommendation. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Try this high-fiber cereal - it's low in sugar and keeps you full until lunch!"
+> 👨‍🎨 **Director's Note:** Câu này cho thấy ability to give practical advice về healthy eating - 'cereal' thể hiện breakfast option phổ biến và nutritious
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `Ceres` to the meaning of **cereal**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin `Ceres` là Roman goddess of agriculture. Cereal được命名 theo goddess này để honor her role trong providing grains cho humanity. Mỗi lần ăn cereal, bạn're literally eating "food of the gods"!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **cereal**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `Ceres` (goddess of agriculture)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* cereals (loại ngũ cốc)
+> - *(related)* ceremony (lễ nghi - originally sacred rites to Ceres)
+> - *(related)* increase (tăng trưởng - originally 'making crops grow')
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsɪəriəl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**cereal**
+> 📖 **Meaning:** Grain used for food or breakfast food made from processed grain
+> 🇻🇳 **Vietnamese:** Ngũ cốc; bữa sáng ngũ cốc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **cereal**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I need to buy some cereals for tomorrow morning.
+> ✅ **Correction:** I need to buy some cereal for tomorrow morning. / I need to buy some boxes of cereal.
+> 🧠 **Why:** Cereal là uncountable khi talking about the food substance. Dùng "cereal" cho general amount hoặc "boxes/types" cho specific quantities
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **cereal**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[meat]] (thịt)
+> - [[protein]] (protein từ động vật)
+> 🧱 **Contrast:** Cereal represents plant-based nutrition from grains, while its antonyms represent animal-based nutrition
 
 ---

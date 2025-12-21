@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [councils, councilor, councillor, council member, council meeting, city council, student council, advisory council]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkaʊnsl/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/official
+> **Etymology:** Latin 'concilium' (assembly, meeting), from 'con-' (together) + 'calare' (to call)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A group of people assembled for consultation or decision-making
+>
+> **Context Meaning:** A formal group of people elected or appointed to make decisions, give advice, or govern
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hội đồng, ủy ban
+> - **Contextual:** cơ quan quyết định, ban cố vấn, hội đồng thành phố
+>
 > **Nuances:**
-> - ...
+> - Implies formal authority and collective decision-making
+> - Often associated with government or organizational governance
+> - Can be advisory or have actual decision-making power
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Authoritative, Collective, Deliberative
+> **Memory Hook:** Imagine people called together to counsel and decide - they form a council
+> **📖 Etymology Story:** From Latin 'concilium' - when people are 'called together' to discuss and decide important matters, they form a council
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** council /ˈkaʊnsl/
+> - **Person:** councilor/councillor /ˈkaʊnsələ(r)/
+> - **Adj:** council-owned /ˈkaʊnsləʊd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[committee]] /kəˈmɪti/ : smaller group for specific purpose
+> - [[board]] /bɔːd/ : group directing an organization
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[individual]] /ˌɪndɪˈvɪdʒuəl/ : single person decision
+> - [[monarchy]] /ˈmɒnəki/ : rule by one person
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. City/town council
+> 2. Council meeting/decision
+> 3. Member of the council
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The city council voted unanimously to approve the new environmental protection policy.
+> - **Translation:** Hội đồng thành phố đã biểu quyết nhất trí thông qua chính sách bảo vệ môi trường mới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The advisory council provided valuable recommendations for improving the university's curriculum.
+> - **Translation:** Ban cố vấn đã đưa ra những khuyến nghị quý giá để cải tiến chương trình giảng dạy của trường đại học.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with 'counsel'**
+> - ❌ **Mistake:** The council advised me to seek legal advice.
+> - ✅ **Correction:** The council decided on the policy. / The counselor advised me.
+> - **Why:** 'Council' is a group; 'counsel' is advice or the person giving it
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The local council announced plans to renovate the historic downtown area."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +80,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **council** (*/ˈkaʊnsl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A formal group of people who meet to make decisions, give advice, or govern
+> 🇻🇳 **Vietnamese:** Hội đồng, ủy ban, cơ quan ra quyết định tập thể
+> 🗣️ **IPA:** */ˈkaʊnsl/*
+> 🧠 **Mental Model:** Một group of people được 'call together' (kêu gọi tập hợp) để discuss và decide - không phải single person mà collective decision-making body
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A group of people elected or appointed to make decisions or govern"
+**Vietnamese:** Hội đồng, ủy ban
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**council** (*/ˈkaʊnsl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **council** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The student council organized a successful charity event that raised over $10,000 for local shelters.
+> 🇻🇳 **Translation:** Hội đồng sinh viên đã tổ chức một sự kiện từ thiện thành công, quyên góp được hơn 10.000 đô la cho các nhà trú ẩn địa phương.
+> 🔍 **Analysis:** 'Council' ở đây là organization body, 'student council' là specific type, 'organized' và 'raised' là verbs showing collective action của group
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **council**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Government:** City/town council (cơ quan quản lý đô thị)
+> 2. **Education:** School/student council (hội đồng học sinh)
+> 3. **Action:** Council meeting/decision/vote (hoạt động của hội đồng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **council**:
+"The group made a decision."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The municipal council, after extensive public consultation, unanimously approved the controversial zoning changes."
+> 💡 **Why it works:** 'Municipal council' chỉ specific type, 'extensive public consultation' thêm context về process, 'unanimously approved' thể hiện collective decision
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **council** instead of **[[committee]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **council:** Dùng cho permanent governing body với broader authority - thường có power thực sự
+> **[[committee]]:** Dùng cho temporary hoặc smaller group cho specific task - thường advisory role
+> 🧱 **The Barrier:** Council có ongoing governing power, committee thường có limited scope và timeframe
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're concerned about a new development in your neighborhood. You want to voice your opinion. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm speaking at tonight's city council meeting to express our community's concerns about the proposed construction."
+> 👨‍🎨 **Director's Note:** 'City council meeting' thể hiện official forum nơi citizens có thể voice concerns
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `concilium` to the meaning of **council**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'concilium' từ 'con-' (cùng nhau) + 'calare' (kêu gọi) - khi people 'called together' để discuss và govern, họ tạo ra council
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **council**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `concilium` (assembly)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* council (hội đồng)
+> - *(person)* councilor/councillor (thành viên hội đồng)
+> - *(adj)* council-owned (thuộc sở hữu của hội đồng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkaʊnsl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**council**
+> 📖 **Meaning:** A group that makes decisions or governs
+> 🇻🇳 **Vietnamese:** Hội đồng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **council**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The council gave me good advice about my career
+> ✅ **Correction:** The council made a decision / The counselor gave me good advice
+> 🧠 **Why:** Council là group, không give advice. Counsel là advice hoặc person who gives advice - different words
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **council**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[individual]] (quyết định cá nhân)
+> - [[dictatorship]] (chế độ độc tài)
+> 🧱 **Contrast:** Council là collective decision-making, antonyms là individual hoặc single-person rule

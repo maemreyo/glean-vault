@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [LASIK, eye surgery, vision correction, refractive surgery, laser vision correction]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
-> [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> [!info] Term Analysis
+> **IPA:** /ˈleɪzər aɪ ˈsɜːdʒəri/
+> **Part of Speech:** compound noun
+> **CEFR Level:** B2
+> **Register:** medical/technical
+> **Etymology:** Laser (Light Amplification by Stimulated Emission of Radiation) + Eye (Old English 'ēage') + Surgery (Old French 'cirurgerie')
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A surgical procedure using laser technology to correct vision problems
+>
+> **Context Meaning:** A medical procedure that uses a laser to reshape the cornea of the eye to correct refractive vision problems such as nearsightedness, farsightedness, and astigmatism
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** phẫu thuật mắt bằng laser
+> - **Contextual:** mổ mắt laser, phẫu thuật khúc xạ mắt
+>
 > **Nuances:**
-> - ...
+> - Often refers specifically to LASIK procedure
+> - Can eliminate or reduce need for glasses/contacts
+> - Usually performed on an outpatient basis
+> - Recovery time is typically short
 
-> [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> [!tip] 💡 Term Vibe & Story
+> **Personality:** Precise, Modern, Transformative
+> **Memory Hook:** Laser eye surgery uses a 'laser beam' to 'fix' your eyes so you can see clearly without glasses
+> **📖 Etymology Story:** 'Laser' (tia sáng tập trung) + 'eye' (mắt) + 'surgery' (phẫu thuật) = dùng tia sáng tập trung để phẫu thuật mắt
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Compound:** laser eye surgery /ˈleɪzər aɪ ˈsɜːdʒəri/
+> - **Related:** LASIK /ˈleɪsɪk/
+> - **Related:** ophthalmologist /ˌɒfθælˈmɒlədʒɪst/
+> - **Related:** cornea /ˈkɔːniə/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[LASIK]] /ˈleɪsɪk/ : specific type of laser eye surgery
+> - [[vision correction]] /ˈvɪʒn kəˈrekʃn/ : general term for procedures
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[glasses]] /ˈɡlɑːsɪz/ : non-surgical vision correction
+> - [[contact lenses]] /ˈkɒntækt lenzɪz/ : removable vision correction
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Undergo laser eye surgery
+> 2. Laser eye surgery candidate
+> 3. Recover from laser eye surgery
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Many people choose laser eye surgery to eliminate their dependence on glasses.
+> - **Translation:** Nhiều người chọn phẫu thuật mắt bằng laser để loại bỏ sự phụ thuộc vào kính.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The surgeon recommended laser eye surgery to correct her severe astigmatism.
+> - **Translation:** Bác sĩ phẫu thuật đã khuyên phẫu thuật mắt bằng laser để chữa loạn thị nặng của cô.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Wrong article usage**
+> - ❌ **Mistake:** I'm considering to have **a** laser eye surgery.
+> - ✅ **Correction:** I'm considering having **laser eye surgery**.
+> - **Why:** 'Laser eye surgery' is typically uncountable when referring to the procedure in general
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Laser eye surgery has become increasingly popular in recent years."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +82,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **laser eye surgery** (*/ˈleɪzər aɪ ˈsɜːdʒəri/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A medical procedure using laser technology to correct vision problems by reshaping the cornea
+> 🇻🇳 **Vietnamese:** Phẫu thuật mắt bằng laser, mổ mắt laser
+> 🗣️ **IPA:** */ˈleɪzər aɪ ˈsɜːdʒəri/*
+> 🧠 **Mental Model:** Dùng 'laser beam' cực chính xác để 'reshape' cornea mắt, giúp nhìn rõ mà không cần kính
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
-→ **Target Word?**
+**Definition:** "A surgical procedure using laser to correct vision problems"
+**Vietnamese:** Phẫu thuật mắt bằng laser
+→ **Target Term?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**laser eye surgery** (*/ˈleɪzər aɪ ˈsɜːdʒəri/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **laser eye surgery** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After undergoing laser eye surgery, she experienced perfect vision for the first time in twenty years.
+> 🇻🇳 **Translation:** Sau khi phẫu thuật mắt bằng laser, cô ấy đã trải qua thị lực hoàn hảo lần đầu tiên sau hai mươi năm.
+> 🔍 **Analysis:** 'Laser eye surgery' ở đây là danh từ cụm, chỉ một thủ thuật y tế cụ thể, đi với 'undergoing' (trải qua)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **laser eye surgery**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** Undergo/have laser eye surgery (thực hiện/phẫu thuật mắt laser - hành động y tế)
+> 2. **Eligibility:** Laser eye surgery candidate (đối tượng phù hợp phẫu thuật mắt laser - y khoa)
+> 3. **Recovery:** Recover from laser eye surgery (ph hồi sau phẫu thuật mắt laser - hậu phẫu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **laser eye surgery**:
+"She had an operation to fix her eyes."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She underwent laser eye surgery to permanently correct her nearsightedness."
+> 💡 **Why it works:** 'Laser eye surgery' chính xác và hiện đại hơn 'operation to fix eyes', thể hiện công nghệ y tế tiên tiến
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **laser eye surgery** instead of **[[wearing glasses]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **laser eye surgery:** Giải pháp vĩnh viễn, thủ thuật y tế công nghệ cao, không cần phụ thiết bị
+> **[[wearing glasses]]**: Giải pháp tạm thời, phụ thuộc thiết bị bên ngoài, không xóa gốc vấn đề
+> 🧱 **The Barrier:** Surgery là giải pháp vĩnh viễn, glasses là giải pháp tạm thời - vĩnh viễn vs tạm thời
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is tired of wearing glasses. You're recommending a solution. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Have you considered laser eye surgery? It could permanently solve your vision problems."
+> 👨‍🎨 **Director's Note:** Sử dụng 'laser eye surgery' thể hiện sự hiểu biết về giải pháp y tế hiện đại, tự nhiên trong giao tiếp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the components `laser + eye + surgery` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Laser' (tia sáng công nghệ cao) + 'eye' (mắt) + 'surgery' (phẫu thuật) = dùng tia sáng tập trung để phẫu thuật, điều trị mắt
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **laser eye surgery**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Components:**
+> - Laser (Light Amplification by Stimulated Emission of Radiation)
+> - Eye (Old English 'ēage')
+> - Surgery (Old French 'cirurgerie')
+> 👨‍👩‍👧 **Related:**
+> - *(procedure)* LASIK /ˈleɪsɪk/
+> - *(specialist)* ophthalmologist /ˌɒfθælˈmɒlədʒɪst/
+> - *(body part)* cornea /ˈkɔːniə/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈleɪzər aɪ ˈsɜːdʒəri/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**laser eye surgery**
+> 📖 **Meaning:** A medical procedure using laser to correct vision
+> 🇻🇳 **Vietnamese:** Phẫu thuật mắt bằng laser
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **laser eye surgery**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** He wants to do **a** laser eye surgery next month.
+> ✅ **Correction:** He wants to have **laser eye surgery** next month.
+> 🧠 **Why:** Laser eye surgery là danh từ không đếm được khi nói về thủ thuật nói chung, không dùng 'a'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **laser eye surgery**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[wearing glasses]] (đeo kính - giải pháp không xâm lấn)
+> - [[using contact lenses]] (dụng kính áp tròng - giải pháp tạm thời)
+> 🧱 **Contrast:** Laser eye surgery là giải pháp vĩnh viễn, antonyms là các giải pháp tạm thời bên ngoài
 
 ---

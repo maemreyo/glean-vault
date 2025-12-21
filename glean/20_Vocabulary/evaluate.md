@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [evaluation, evaluates, evaluating, evaluated, assessment, assess, judge]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪˈvæl.ju.eɪt/
+> **Part of Speech:** verb
+> **CEFR Level:** B2
+> **Register:** academic/professional
+> **Etymology:** From Latin evaluare (to value, estimate), from e- (out) + valere (to be worth)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To judge or calculate the quality, importance, amount, or value of something
+>
+> **Context Meaning:** To assess or form an idea of the value, amount, number, or nature of something through careful consideration
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đánh giá, định giá
+> - **Contextual:** thẩm định, ước tính, xem xét
+>
 > **Nuances:**
-> - ...
+> - Implies systematic assessment rather than quick judgment
+> - Often involves criteria or standards
+> - Can be used in academic, business, and personal contexts
+> - Different from 'judge' - more objective and systematic
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Systematic, Objective, Analytical
+> **Memory Hook:** E = out + value = To find the value = Evaluate
+> **📖 Etymology Story:** Medieval merchants would "evaluate" goods by carefully examining their worth. From weighing gold to assessing craftsmanship, evaluation became essential for fair trade - a practice that evolved into modern assessment methods used in education and business.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[evaluation]] /ɪˌvæl.juˈeɪ.ʃən/ : the assessment process
+> - **Noun:** [[evaluator]] /ɪˈvæl.ju.eɪ.tər/ : person who evaluates
+> - **Adj:** [[evaluative]] /ɪˈvæl.ju.eɪ.tɪv/ : relating to evaluation
+> - **Past:** [[evaluated]] /ɪˈvæl.ju.eɪ.tɪd/ : having been assessed
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[assess]] /əˈses/ : to evaluate or estimate
+> - [[appraise]] /əˈpreɪz/ : to assess the value of
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[ignore]] /ɪɡˈnɔːr/ : to pay no attention to
+> - [[neglect]] /nɪˈɡlekt/ : to fail to consider
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. evaluate performance/results
+> 2. evaluate options/alternatives
+> 3. carefully/critically evaluate
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** We need to evaluate the effectiveness of the new training program.
+> - **Translation:** Chúng ta cần đánh giá hiệu quả của chương trình đào tạo mới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Students were asked to evaluate their own learning progress.
+> - **Translation:** Sinh viên được yêu cầu đánh giá tiến độ học tập của chính mình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** We evaluated about the proposal.
+> - ✅ **Correction:** We evaluated the proposal.
+> - **Why:** Evaluate is a transitive verb - it takes a direct object without a preposition.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Evaluate what you have, not what you lack. True wealth lies in appreciation of the present."
+> **Source:** Wisdom Literature
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **evaluate** (*/ɪˈvæl.ju.eɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To judge or assess the value, quality, importance, or significance of something through careful analysis
+> 🇻🇳 **Vietnamese:** Đánh giá, thẩm định; xét đoán giá trị, chất lượng hoặc tầm quan trọng của cái gì đó thông qua phân tích cẩn thận
+> 🗣️ **IPA:** */ɪˈvæl.ju.eɪt/*
+> 🧠 **Mental Model:** "Xem xét kỹ lưỡng để ra kết luận" - không chỉ nhìn bề ngoài mà phân tích sâu để hiểu giá trị thật
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To assess the value or quality of something carefully"
+**Vietnamese:** Đánh giá giá trị hoặc chất lượng của một cách cẩn thận
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**evaluate** (*/ɪˈvæl.ju.eɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **evaluate** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The committee will evaluate each application based on academic merit and financial need.
+> 🇻🇳 **Translation:** Ủy ban sẽ đánh giá từng đơn đăng ký dựa trên thành tích học tập và nhu cầu tài chính.
+> 🔍 **Analysis:** "Evaluate" perfectly captures the systematic assessment process, showing how decisions are made through careful consideration of multiple criteria rather than quick impressions.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **evaluate**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Performance:** evaluate performance/criteria (đánh giá hiệu suất/tiêu chí) - because systematic assessment requires criteria
+> 2. **Decision Making:** evaluate options/alternatives (đánh giá lựa chọn) - because choices need assessment
+> 3. **Research:** evaluate data/evidence (đánh giá dữ liệu/bằng chứng) - because information needs validation
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **evaluate**:
+"We need to look at this."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We need to carefully evaluate the long-term implications of this decision before proceeding."
+> 💡 **Why it works:** "Evaluate" transforms a casual observation into a professional assessment, implying systematic analysis and careful judgment rather than casual consideration.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **evaluate** instead of [[look at]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **evaluate:** Đánh giá có hệ thống dựa trên criteria, analysis, và judgment
+> **look at:** Chỉ đơn giản là xem xét một cách surface-level
+> 🧱 **The Barrier:** Evaluate implies deep assessment, trong khi look at chỉ là casual observation
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a manager reviewing an employee's performance. You need to be fair. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I will evaluate your performance based on objective criteria and measurable results from this quarter."
+> 👨‍🎨 **Director's Note:** Professional and objective tone, emphasizing fairness and systematic assessment
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `valere` to the meaning of **evaluate**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin e- ("ra") + valere ("có giá trị") → Evaluate là "đưa ra giá trị của cái gì đó", từ examining đến determining worth
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **evaluate**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `valere` (to be worth, strong)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[valuable]] : having great value
+> - *(adj)* [[equivalent]] : equal in value
+> - *(noun)* [[validity]] : quality of being well-founded
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪˈvæl.ju.eɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**evaluate**
+> 📖 **Meaning:** To assess value or quality systematically
+> 🇻🇳 **Vietnamese:** Đánh giá có hệ thống
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **evaluate**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "We need to evaluate about the situation"
+> ✅ **Correction:** "We need to evaluate the situation"
+> 🧠 **Why:** Evaluate doesn't need 'about' - it takes a direct object. You evaluate something, not evaluate about something
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **evaluate**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[ignore]] (to pay no attention)
+> - [[dismiss]] (to reject without consideration)
+> 🧱 **Contrast:** To evaluate is to carefully assess value, while to ignore or dismiss is to refuse assessment
 
 ---

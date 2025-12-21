@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [separate cage, separate cages, isolation cage, individual cage, confinement]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈsepərət keɪdʒ/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** general
+> **Etymology:** 'Separate' from Latin 'separare' - 'to pull apart' + 'cage' from Latin 'cavea' - 'enclosure'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An individual enclosure
+>
+> **Context Meaning:** A container or enclosure that keeps an animal or object apart from others; used for isolation, protection, or individual housing
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một cái lồng riêng
+> - **Contextual:** chuồng cách ly, lồng độc lập
+>
 > **Nuances:**
-> - ...
+> - Implies isolation from others of the same kind
+> - Used in zoos, labs, animal breeding, and sometimes metaphorically
+> - Can be for protection, quarantine, or separation purposes
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Isolating, Protective, Controlled
+> **Memory Hook:** 'Separate' + 'cage' = a cage that keeps something separate and alone
+> **📖 Etymology Story:** Latin 'separare' meant to pull apart. Combined with 'cavea' (cage), it creates the concept of an enclosure designed specifically to keep things apart from each other, ensuring separation.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrase:** [[a separate cage]] /ə ˈsepərət keɪdʒ/
+> - **Adj:** [[separate]] /ˈsepərət/
+> - **Noun:** [[cage]] /keɪdʒ/
+> - **Verb:** [[separate]] /ˈsepəreɪt/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[isolation cage]] /ˌaɪsəˈleɪʃn keɪdʒ/ : for quarantine
+> - [[individual enclosure]] /ˌɪndɪˈvɪdʒuəl ɪnˈkloʊʒər/ : separate housing
+> - [[private cage]] /ˈpraɪvət keɪdʒ/ : personal space
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[shared cage]] /ʃerd keɪdʒ/ : common space
+> - [[open enclosure]] /ˈoʊpən ɪnˈkloʊʒər/ : not confined
+> - [[community habitat]] /kəˈmjuːnəti ˈhæbətæt/ : group living
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. keep in a separate cage
+> 2. needs a separate cage
+> 3. separate cage for quarantine
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The sick bird was moved to a separate cage to prevent spreading the disease.
+> - **Translation:** Con chim bị bệnh được chuyển đến một cái lồng riêng để ngăn ngừa lây lan bệnh.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** New animals are kept in a separate cage for observation before joining the main group.
+> - **Translation:** Động vật mới được giữ trong lồng riêng để quan sát trước khi vào đàn chính.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** The animal needs separate cage.
+> - ✅ **Correction:** The animal needs A separate cage.
+> - **Why:** 'Separate cage' is a countable noun phrase requiring an article ('a' or 'the').
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Sometimes separation in a cage is necessary for the safety of the individual and the group."
+> **Source:** [[Animal Care Manual]]
 
 ---
 
@@ -161,121 +83,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a separate cage** (*/ə ˈsepərət keɪdʒ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An individual enclosure used to keep an animal or object apart from others
+> 🇻🇳 **Vietnamese:** Một cái lồng riêng - enclosure dùng để cách ly động vật khỏi những cái khác
+> 🗣️ **IPA:** */ə ˈsepərət keɪdʒ/*
+> 🧠 **Mental Model:** 'Solo room' - individual housing that provides isolation
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An individual enclosure for keeping something apart from others"
+**Vietnamese:** Một cái lồng riêng biệt để giữ thứ gì đó tách riêng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a separate cage** (*/ə ˈsepərət keɪdʒ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a separate cage** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The zookeeper placed the aggressive hamster in a separate cage for everyone's safety.
+> 🇻🇳 **Translation:** Người trông nuôi vườn thú đặt con chuột hamster hung hăng vào một cái lồng riêng để đảm bảo an toàn cho mọi người.
+> 🔍 **Analysis:** 'A separate cage' emphasizes isolation for safety reasons, clearly explaining why separation is necessary.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a separate cage**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action of placing:** put/keep in a separate cage (để vào lồng riêng - VN: act of isolating)
+> 2. **Reason for separation:** quarantine/observation separate cage (lồng cách ly/quan sát - VN: isolation purpose)
+> 3. **Need requirement:** needs/requires a separate cage (cần lồng riêng - VN: expressing necessity)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a separate cage**:
+"The animal needed its own space."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The injured animal required a separate cage for proper recovery."
+> 💡 **Why it works:** 'A separate cage' specifically indicates physical isolation, while 'its own space' is vague. VN: chỉ rõ sự cách ly vật lý.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a separate cage** instead of **[[alone]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a separate cage:** Physical isolation in enclosure (VN: cách ly vật lý trong lồng)
+> **[[alone]]:** State of being by oneself (VN: trạng thái cô đơn)
+> 🧱 **The Barrier:** 'A separate cage' is physical confinement; 'alone' is emotional/social state without physical barrier (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a vet explaining treatment for a sick pet. You feel professional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We'll need to keep him in a separate cage to monitor his recovery."
+> 👨‍🎨 **Director's Note:** Conveys medical authority and explains treatment protocol clearly (VN: thể hiện y đức và giải thích rõ ràng).
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots to the meaning of **a separate cage**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'separare' (to pull apart) + 'cavea' (enclosure). Created for situations where animals or items needed to be physically pulled apart and kept separate for safety or observation (VN/EN mix).
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the phrase **a separate cage**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin 'separare' (separate) + 'cavea' (cage)
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* [[a separate cage]] - individual enclosure
+> - *(adj)* [[separate]] - not together
+> - *(noun)* [[cage]] - enclosure for animals
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈsepərət keɪdʒ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a separate cage**
+> 📖 **Meaning:** An individual enclosure
+> 🇻🇳 **Vietnamese:** Một cái lồng riêng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a separate cage**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The animal is staying in separate cage.
+> ✅ **Correction:** The animal is staying in A separate cage.
+> 🧠 **Why:** Need article 'a' before 'separate cage' because it's a countable noun phrase. We specify which type: separate (not shared).
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a separate cage**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[shared cage]] (multiple animals together)
+> - [[open habitat]] (no confinement)
+> - [[community enclosure]] (group living space)
+> 🧱 **Contrast:** Separate cage isolates; shared cage groups; open habitat frees; community encourages social interaction.

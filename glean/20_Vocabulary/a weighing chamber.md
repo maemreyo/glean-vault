@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
 #flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [weighing chamber, weighing chambers, balance chamber, weighing room, analytical balance]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈweɪɪŋ tʃeɪmbər/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** technical/scientific
+> **Etymology:** 'Weighing' from Old English 'wegen' - 'to determine weight' + 'chamber' from Latin 'camera' - 'room, chamber'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A room for measuring mass
+>
+> **Context Meaning:** A controlled environment or enclosure designed for precise measurement of weight/mass, typically with stable conditions to ensure accuracy
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một phòng cân
+> - **Contextual:** phòng cân đo, buồng đo khối lượng, phòng cân chính xác
+>
 > **Nuances:**
-> - ...
+> - Essential for scientific experiments, pharmaceutical manufacturing, quality control
+> - Features: temperature control, vibration isolation, air flow management
+> - Different from regular scale rooms - requires environmental controls
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Precise, Controlled, Scientific
+> **Memory Hook:** 'Weighing' + 'chamber' = special room where accurate weighing happens
+> **📖 Etymology Story:** 'Weigh' comes from Old English 'wegen' (to carry, determine weight). 'Chamber' is Latin 'camera' (room). Combined for scientific spaces where precision requires a dedicated 'weighing room' separated from disturbances.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrase:** [[a weighing chamber]] /ə ˈweɪɪŋ tʃeɪmbər/
+> - **Noun:** [[weighing]] /ˈweɪɪŋ/
+> - **Noun:** [[chamber]] /ˈtʃeɪmbər/
+> - **Verb:** [[weigh]] /weɪ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[balance room]] /ˈbæləns ruːm/ : for precision weighing
+> - [[analytical chamber]] /ˌænəˈlɪtɪkl tʃeɪmbər/ : for chemical analysis
+> - [[measurement room]] /ˈmeʒərmənt ruːm/ : general measurements
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[open space]] /ˈoʊpən speɪs/ : uncontrolled environment
+> - [[field measurement]] /fiːld ˈmeʒərmənt/ : outdoor weighing
+> - [[rough area]] /rʌf ˈeriə/ : imprecise location
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. climate-controlled weighing chamber
+> 2. analytical weighing chamber
+> 3. weighing chamber for precision
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The pharmaceutical company built a Class 1000 weighing chamber for sterile drug preparation.
+> - **Translation:** Công ty dược phẩm đã xây dựng một phòng cân đạt chuẩn Class 1000 để chuẩn bị thuốc vô trùng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Scientists use the weighing chamber to measure samples with microgram precision.
+> - **Translation:** Các nhà khoa học sử dụng phòng cân để đo mẫu với độ chính xác micrôgam.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** They installed weighing chamber.
+> - ✅ **Correction:** They installed A weighing chamber.
+> - **Why:** 'Weighing chamber' is countable; needs article 'a' when singular.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Precision requires isolation - the weighing chamber is where accuracy meets environment."
+> **Source:** [[Laboratory Design Standards]]
 
 ---
 
@@ -161,121 +83,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a weighing chamber** (*/ə ˈweɪɪŋ tʃeɪmbər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A specially controlled room for precise weight measurements, isolated from environmental disturbances
+> 🇻🇳 **Vietnamese:** Một phòng cân đo - phòng đặc biệt được kiểm soát để đo trọng lượng chính xác
+> 🗣️ **IPA:** */ə ˈweɪɪŋ tʃeɪmbər/*
+> 🧠 **Mental Model:** 'Science weighing room' - protected space where tiny weight differences matter
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A controlled environment room designed for precise measurement of weight or mass"
+**Vietnamese:** Một môi trường được kiểm soát để đo trọng lượng chính xác
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a weighing chamber** (*/ə ˈweɪɪŋ tʃeɪmbər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a weighing chamber** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The laboratory's new weighing chamber maintains constant temperature to ensure measurement accuracy.
+> 🇻🇳 **Translation:** Phòng cân mới của phòng thí nghiệm duy trì nhiệt độ không đổi để đảm bảo độ chính xác của phép đo.
+> 🔍 **Analysis:** 'A weighing chamber' specifically identifies a specialized environment for precision weighing, emphasizing the controlled conditions needed.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a weighing chamber**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Control specification:** climate-controlled/temperature-controlled weighing chamber (phòng cân kiểm soát khí hậu/nhiệt độ - VN: environmental control)
+> 2. **Precision type:** analytical/micro weighing chamber (phòng cân phân tích/vi mô - VN: precision level)
+> 3. **Purpose use:** weighing chamber for experiments/quality control (phòng cân cho thử nghiệm/kiểm soát chất lượng - VN: application)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a weighing chamber**:
+"Scientists need a special room to weigh things accurately."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The research team requires a climate-controlled weighing chamber for nanosample analysis."
+> 💡 **Why it works:** 'A weighing chamber' provides the precise technical term, adding scientific credibility. VN: dùng thuật ngữ kỹ thuật chính xác.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **a weighing chamber** instead of **[[room]]**?
+>
+> **a weighing chamber:** Specialized controlled environment (VN: phòng chuyên dụng, được kiểm soát)
+> **[[room]]:** General space (VN: phòng thông thường)
+> 🧱 **The Barrier:** 'Weighing chamber' implies precision and environmental controls; 'room' is just any space (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a lab manager explaining quality protocols. You feel professional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "All sensitive measurements must be conducted in the weighing chamber."
+> 👨‍🎨 **Director's Note:** Conveys authority about scientific procedures (VN: thể hiện quyền hạn về quy trình khoa học).
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
-?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+🌱 **Origins:** Link the roots to the meaning of **a weighing chamber**.
+>
+> 📜 **Story:** Old English 'wegen' (to weigh) + Latin 'camera' (room). When precision became critical in science, special 'weighing rooms' were created - chambers isolated from air currents, temperature changes, and vibrations (VN/EN mix).
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
-?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+Analyze the compound **a weighing chamber**.
+>
+> 🌱 **Roots:** Old English 'wegen' (weigh) + Latin 'camera' (chamber)
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* [[a weighing chamber]] - controlled weighing room
+> - *(verb)* [[weigh]] - measure weight
+> - *(noun)* [[chamber]] - enclosed space
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈweɪɪŋ tʃeɪmbər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a weighing chamber**
+> 📖 **Meaning:** A controlled room for precise weighing
+> 🇻🇳 **Vietnamese:** Một phòng cân
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
-?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+🕵️ **Fix the Error:** Common mistake with **a weighing chamber**?
+>
+> ❌ **Mistake:** We need weighing chamber for our experiments.
+> ✅ **Correction:** We need A weighing chamber for our experiments.
+> 🧠 **Why:** 'Weighing chamber' is countable. Need article 'a' when referring to one such room, unless using 'the' for specific one already mentioned.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
+↔️ **Flip:** What is the opposite of **a weighing chamber**?
+>
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[open laboratory]] (uncontrolled environment)
+> - [[field station]] (outdoor measurements)
+> - [[rough workspace]] (imprecise conditions)
+> 🧱 **Contrast:** Weighing chamber controls environment; open lab has normal conditions; field station is outdoor; rough workspace lacks precision.

@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
 #flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [suspects, suspected, suspecting, suspicion, suspicious, doubt, mistrust, alleged]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /səˈspekt/ (verb) /ˈsʌspekt/ (noun)
+> **Part of Speech:** verb/noun
+> **CEFR Level:** B2
+> **Register:** formal/neural
+> **Etymology:** Latin suspectare "to look up at, respect, suspect" from suspicere "look up at, distrust"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To have doubts about the truth or reliability of something
+>
+> **Context Meaning:**
+> (Verb) To believe someone is guilty of something without proof
+> (Noun) A person believed to have committed a crime
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nghi ngờ, nghi phạm
+> - **Contextual:** (động từ) nghi ngờ, (danh từ) nghi phạm
+>
 > **Nuances:**
-> - ...
+> - Implies uncertainty rather than certainty
+> - Can be used for both criminal and general doubts
+> - In law: accused person not yet convicted
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Skeptical, Cautious
+> **Memory Hook:** "Sus-pect" - under (sus) looking (spect) - looking under the surface for something wrong
+> **📖 Etymology Story:** Imagine ancient Romans "looking up at" (suspicere) someone suspiciously, wondering if they're trustworthy - that's suspicion!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[suspicion]] /səˈspɪʃn/
+> - **Noun:** [[suspect]] /ˈsʌspekt/
+> - **Adj:** [[suspicious]] /səˈspɪʃəs/
+> - **Adv:** [[suspiciously]] /səˈspɪʃəsli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[doubt]] /daʊt/ : be uncertain about (general)
+> - [[mistrust]] /ˌmɪsˈtrʌst/ : have no confidence in
+> - [[allege]] /əˈledʒ/ : claim without proof
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[trust]] /trʌst/ : believe in reliability
+> - [[believe]] /bɪˈliːv/ : accept as true
+> - [[confirm]] /kənˈfɜːm/ : establish the truth
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. police suspect
+> 2. prime suspect
+> 3. suspect foul play
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The police arrested a suspect in connection with the robbery.
+> - **Translation:** Cảnh sát đã bắt một nghi phạm liên quan đến vụ cướp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** I suspect he's not telling us the whole truth about the incident.
+> - **Translation:** Tôi nghi ngờ anh ta không nói cho chúng ta toàn bộ sự thật về vụ việc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Pronunciation Error**
+> - ❌ **Mistake:** Using wrong stress pattern for noun/verb
+> - ✅ **Correction:** verb: /səˈspekt/, noun: /ˈsʌspekt/
+> - **Why:** Stress shifts in noun vs verb form - similar to record, protest, increase
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Innocent until proven guilty."
+> **Source:** [[William Blackstone]]
 
 ---
 
@@ -161,121 +85,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **suspect** (*/səˈspekt/* - verb, */ˈsʌspekt/* - noun) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** (v) To have doubts or believe someone guilty without proof; (n) A person believed to have committed a crime
+> 🇻🇳 **Vietnamese:** (động từ) nghi ngờ; (danh từ) nghi phạm
+> 🗣️ **IPA:** verb: */səˈspekt/*, noun: */ˈsʌspekt/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một detective nhìn vào một crowd - anh ta suspect (nghi ngờ) ai là suspect (nghi phạm) (looking for guilty party)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To believe someone is guilty without proof"
+**Vietnamese:** Nghi ngờ có lỗi mà chưa có bằng chứng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**suspect** (*/səˈspekt/* - verb)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **suspect** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The teacher began to suspect cheating when she noticed identical answers on three tests.
+> 🇻🇳 **Translation:** Giáo viên bắt đầu nghi ngờ gian lận khi cô nhận thấy câu trả lời giống hệt nhau trong ba bài kiểm tra.
+> 🔍 **Analysis:** "suspect" thể hiện doubt/gut feeling without concrete evidence, phù hợp trong context của suspicion (nghi ngờ)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **suspect**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Crime:** suspect someone of something (nghi ngờ ai đó làm gì) (allegation without proof)
+> 2. **Health:** suspect illness/disease (nghi ngờ bệnh) (medical diagnosis before confirmation)
+> 3. **Authority:** prime suspect (nghi phạm chính) (most likely guilty person)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **suspect**:
+"I think he stole the money."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I suspect him of embezzling company funds based on the suspicious financial transactions."
+> 💡 **Why it works:** "suspect" tạo cảm giác formal/accusation but without certainty thay vì "think" (thông thường)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **suspect** instead of **[[accuse]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **suspect:** Nghi ngờ (doubt/believe) - chưa có bằng chứng chắc chắn, vẫn là opinion
+> **accuse:** Buộc tội (charge formally) - có bằng chứng hoặc formal allegation
+> 🧱 **The Barrier:** "suspect" = personal doubt/gut feeling, "accuse" = formal charge/allegation
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a detective reporting to your chief about a new case lead. You're being professional but cautious. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Based on the evidence gathered so far, I suspect the victim's business partner may be involved."
+> 👨‍🎨 **Director's Note:** "suspect" thể hiện professional judgment without formal charge, thể hiện investigation process
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<specere>` to the meaning of **suspect**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "suspicere" = sub- (up from under) + specere (look) → look up at → examine closely → tìm evidence để doubt → hiện đại: suspect (nghi ngờ)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **suspect**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `specere` (to look, see)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[suspect]] /səˈspekt/
+> - *(noun)* [[suspect]] /ˈsʌspekt/
+> - *(noun)* [[suspicion]] /səˈspɪʃn/
+> - *(adj)* [[suspicious]] /səˈspɪʃəs/
+> - *(related)* [[inspect]] /ɪnˈspekt/ (look into)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */səˈspekt/* (verb) */ˈsʌspekt/* (noun)
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**suspect**
+> 📖 **Meaning:** (v) To have doubts or believe someone guilty without proof; (n) A person believed to have committed a crime
+> 🇻🇳 **Vietnamese:** (động từ) nghi ngờ; (danh từ) nghi phạm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **suspect**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I suspect that he is the murder."
+> ✅ **Correction:** "I suspect that he is the murderer."
+> 🧠 **Why:** "murder" là the crime (hành động), "murderer" là the person who commits it (người phạm tội). Common ESL confusion.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **suspect**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[trust]] (tin tưởng - accept reliability without doubt)
+> - [[exonerate]] (min oan - officially clear of suspicion)
+> 🧱 **Contrast:** "suspect" = believe guilty without proof, "trust" = believe innocent/reliable, "exonerate" = prove innocent
 
 ---

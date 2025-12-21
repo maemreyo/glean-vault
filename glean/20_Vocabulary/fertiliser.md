@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
 #flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [fertilizer, fertilize, fertilizing, fertilization, nutrient, manure, compost]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfɜː.tɪ.laɪ.zər/ (UK) /ˈfɝː.tə.laɪ.zər/ (US)
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** agricultural/scientific
+> **Etymology:** From Latin fertilis (fruitful, productive) + -izer (agent suffix)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A substance added to soil to make plants grow better
+>
+> **Context Meaning:** Chemical or natural material containing nutrients that improve soil fertility and promote plant growth
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** phân bón
+> - **Contextual:** chất bón, phân hóa học, phân hữu cơ
+>
 > **Nuances:**
-> - ...
+> - Can be organic (manure, compost) or inorganic (chemical compounds)
+> - Essential for modern agriculture and food production
+> - Environmental concerns about overuse and runoff
+> - Regional spelling differences: fertiliser (UK), fertilizer (US)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Nourishing, Productive, Chemical
+> **Memory Hook:** Fertil = make fertile + izer = thing that does = Thing that makes soil fertile
+> **📖 Etymology Story:** Ancient farmers discovered that adding animal waste to fields made crops grow better - the first "fertilizers." Modern science refined this into precise nutrient formulas, but the principle remains: feeding the soil feeds the world.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[fertilize]] /ˈfɜː.tɪ.laɪz/ : to make fertile
+> - **Noun:** [[fertilization]] /ˌfɜː.tɪ.laɪˈzeɪ.ʃən/ : the act of fertilizing
+> - **Adj:** [[fertile]] /ˈfɜː.taɪl/ : capable of producing vegetation
+> - **Adj:** [[fertilized]] /ˈfɜː.tɪ.laɪzd/ : having been fertilized
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[plant food]] /ˈplɑːnt fuːd/ : common term for garden fertilizer
+> - [[nutrient]] /ˈnjuː.tri.ənt/ : substance providing nourishment
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[contaminant]] /kənˈtæm.ɪ.nənt/ : substance that pollutes
+> - [[toxin]] /ˈtɒk.sɪn/ : poisonous substance
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. apply/spread fertilizer
+> 2. chemical/organic fertilizer
+> 3. fertilizer runoff/pollution
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Farmers use nitrogen-rich fertiliser to increase crop yields.
+> - **Translation:** Nông dân sử dụng phân bón giàu nitơ để tăng năng suất cây trồng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Excessive use of chemical fertiliser can damage local ecosystems.
+> - **Translation:** Lạm dụng phân bón hóa học có thể làm hại hệ sinh thái địa phương.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling Variation**
+> - ❌ **Mistake:** Always using one spelling (fertilizer/fertiliser)
+> - ✅ **Correction:** Use 'fertilizer' in American English, 'fertiliser' in British English
+> - **Why:** Both are correct but regionally preferred.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The fertilizer of the mind is new knowledge, just as the fertilizer of the soil is nutrients."
+> **Source:** Agricultural Philosophy
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **fertiliser** (*/ˈfɜː.tɪ.laɪ.zər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A substance added to soil or plants to provide nutrients and improve growth; can be chemical or natural
+> 🇻🇳 **Vietnamese:** Phân bón; chất dinh dưỡng cho đất để cây trồng phát triển tốt hơn, có thể là hóa học hoặc hữu cơ
+> 🗣️ **IPA:** */ˈfɜː.tɪ.laɪ.zər/* (UK) */ˈfɝː.tə.laɪ.zər/ (US)
+> 🧠 **Mental Model:** "Vitamin cho cây trồng" - thức ăn bổ sung giúp đất màu mỡ và cây phát triển
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A substance added to soil to provide nutrients for plants"
+**Vietnamese:** Chất thêm vào đất để cung cấp dinh dưỡng cho cây
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**fertiliser** (*/ˈfɜː.tɪ.laɪ.zər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **fertiliser** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The agricultural scientist developed an organic fertiliser that boosts crop yield without harming the environment.
+> 🇻🇳 **Translation:** Nhà khoa học nông nghiệp đã phát triển một loại phân bón hữu cơ giúp tăng năng suất cây trồng mà không gây hại cho môi trường.
+> 🔍 **Analysis:** "Fertiliser" precisely identifies the agricultural input, showing its role in sustainable farming and highlighting the distinction between organic and chemical varieties.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **fertiliser**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Application:** apply/spread fertiliser (bón/rắc phân) - because it needs to be distributed properly
+> 2. **Types:** chemical/organic fertiliser (phân hóa học/phân hữu cơ) - by composition and origin
+> 3. **Environmental:** fertiliser runoff (chảy trôi phân bón) - because of environmental concerns
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **fertiliser**:
+"The garden needed food for plants."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The vegetable garden required nitrogen-rich fertiliser to restore soil fertility after the previous harvest."
+> 💡 **Why it works:** "Fertiliser" replaces the vague "food for plants" with precise agricultural terminology, immediately establishing context about soil management and crop nutrition.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **fertiliser** instead of [[soil]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **fertiliser:** Chỉ chất bổ sung dinh dưỡng cho đất
+> **soil:** Chỉ tầng đất mặt nơi cây trồng phát triển
+> 🧱 **The Barrier:** Fertiliser là cái bạn thêm vào soil, không phải soil itself
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining modern farming challenges to someone interested in sustainable agriculture. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We need to balance fertiliser use carefully - enough to feed the crops, but not so much that it pollutes our waterways."
+> 👨‍🎨 **Director's Note:** Knowledgeable and balanced tone, showing understanding of agricultural complexity
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `fertile` to the meaning of **fertiliser**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin fertilis ("màu mỡ, đẻo phá") + -izer ("tác nhân") → Fertiliser là "chất làm cho đất trở nên màu mỡ", giúp đất có khả năng sinh trưởng tốt hơn
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **fertiliser**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `ferre` (to bear, carry)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[fertile]] : capable of producing offspring or vegetation
+> - *(noun)* [[fertility]] : the quality of being fertile
+> - *(noun)* [[infertile]] : not fertile
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfɜː.tɪ.laɪ.zər/* (UK) */ˈfɝː.tə.laɪ.zər/ (US)
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**fertiliser**
+> 📖 **Meaning:** Substance that improves soil fertility
+> 🇻🇳 **Vietnamese:** Phân bón cải tạo đất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **fertiliser**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The plants need more fertiliser to grown"
+> ✅ **Correction:** "The plants need more fertiliser to grow"
+> 🧠 **Why:** The verb is 'grow' (without 'n'), not 'grown' (which is the past participle)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What might harm plants instead of helping them like **fertiliser**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Harmful substances:**
+> - [[herbicide]] (kills weeds)
+> - [[pesticide]] (kills pests)
+> 🧱 **Contrast:** Fertiliser nourishes plants, while pesticides and herbicides protect them by eliminating threats
 
 ---

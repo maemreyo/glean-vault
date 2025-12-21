@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [brilliant, brilliant idea, brilliant performance, brilliant mind, brilliant student, exceptionally good, genius, outstanding]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈbrɪljənt/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** informal/formal
+> **Etymology:** From French brillant, from briller "to shine"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Shining brightly
+>
+> **Context Meaning:** Exceptionally clever or talented; magnificent; impressive
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** rực rỡ, lấp lánh
+> - **Contextual:** xuất sắc, tuyệt vời, thông minh xuất chúng
+>
 > **Nuances:**
-> - ...
+> - Can describe both literal brightness and metaphorical excellence
+> - Stronger than 'good' or 'clever'
+> - Often used for impressive performance or ideas
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Exceptional, Impressive, Radiant
+> **Memory Hook:** BRILLIANT = DIAMOND brilliant = sparkling + excellent quality
+> **📖 Etymology Story:** French 'briller' (to shine) + '-ant' → literally 'shining', extended to mean 'excellently shining' in ability or performance
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[brilliance]] /ˈbrɪljəns/
+> - **Verb:** [[brilliant]] /ˈbrɪljənt/ (archaic)
+> - **Adj:** [[brilliant]] /ˈbrɪljənt/
+> - **Adv:** [[brilliantly]] /ˈbrɪljəntli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[excellent]] /ˈeksələnt/ : consistently high quality
+> - [[outstanding]] /aʊtˈstændɪŋ/ : stands out from others
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[mediocre]] /ˌmiːdiˈəʊkər/ : average, ordinary
+> - [[poor]] /pɔː(r)/ : low quality
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Brilliant idea (ý tưởng xuất sắc)
+> 2. Brilliant performance (màn trình diễn tuyệt vời)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She came up with a brilliant solution to the complex problem.
+> - **Translation:** Cô ấy đã đưa ra một giải pháp xuất sắc cho vấn đề phức tạp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The sun was brilliant on the crystal clear waters of the lake.
+> - **Translation:** Ánh mặt trời rực rỡ trên mặt nước trong vắt của hồ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse in British English**
+> - ❌ **Mistake:** "Brilliant!" as response to everything (UK informal overuse)
+> - ✅ **Correction:** Save 'brilliant' for truly exceptional things
+> - **Why:** Overuse reduces the word's impact
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The scientist's brilliant discovery revolutionized our understanding of the universe."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **brilliant** (*/ˈbrɪljənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Exceptionally clever, talented, or impressive; shining brightly
+> 🇻🇳 **Vietnamese:** Xuất sắc, tuyệt vời, rực rỡ, thông minh xuất chúng
+> 🗣️ **IPA:** */ˈbrɪljənt/*
+> 🧠 **Mental Model:** Kim cương lấp lánh vừa có vẻ ngoài sáng chói vừa có chất lượng bên trong tuyệt hảo
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Exceptionally clever, talented, or impressive; shining brightly"
+**Vietnamese:** Xuất sắc, rực rỡ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**brilliant** (*/ˈbrɪljənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **brilliant** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The pianist gave a brilliant performance that moved the entire audience to tears.
+> 🇻🇳 **Translation:** Nghệ sĩ dương cầm đã mang đến một màn trình diễn xuất sắc khiến toàn bộ khán giả xúc động đến bật khóc.
+> 🔍 **Analysis:** 'Brilliant' emphasizes exceptional talent and emotional impact, stronger than just 'good' or 'excellent'
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **brilliant**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intelligence:** brilliant mind/student/idea (t trí/em bé/ý tưởng xuất sắc) - intellectual excellence
+> 2. **Performance:** brilliant performance/success/move (màn trình diễn/thành công/đi bộ tuyệt vời) - outstanding execution
+> 3. **Appearance:** brilliant sunshine/smile/color (ánh nắng/nụ cười/màu sắc rực rỡ) - literal brightness
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **brilliant**:
+"She had a good idea."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She proposed a brilliant solution that would save the company millions."
+> 💡 **Why it works:** 'Brilliant' elevates the idea from merely 'good' to exceptionally clever and valuable
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **brilliant** instead of **clever**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **brilliant:** Thể hiện sự xuất chúng, vượt trội, gần như thiên tài
+> **clever:** Chỉ sự thông minh, khéo léo thông thường
+> 🧱 **The Barrier:** 'Clever' is smart, while 'brilliant' is exceptionally brilliant, like comparing a spark to the sun
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague just solved an impossible problem at work. What do you say?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "That's absolutely brilliant! I never would have thought of that approach."
+> 👨‍🎨 **Director's Note:** Sử dụng 'brilliant' để thể hiện sự ngạc nhiên và ngưỡng mộ trước sự thông minh vượt trội
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `briller` to the meaning of **brilliant**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Pháp 'briller' (tỏa sáng) + '-ant' (đang) → 'brilliant' từ "đang tỏa sáng" về cả nghĩa đen (lấp lánh) và nghĩa trắng (xuất sắc)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **brilliant**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** French `briller` (to shine)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[brilliance]] (sự rực rỡ, sự xuất sắc)
+> - *(adv)* [[brilliantly]] (một cách xuất sắc/rực rỡ)
+> - *(related)* [[brilliantine]] (dầu xả tóc)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈbrɪljənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**brilliant**
+> 📖 **Meaning:** Exceptionally clever or impressive
+> 🇻🇳 **Vietnamese:** Xuất sắc, tuyệt vời
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **brilliant**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The weather is brilliant today" (US usage)
+> ✅ **Correction:** "The weather is beautiful/gorgeous today" (US) / "The weather is brilliant today" (UK)
+> 🧠 **Why:** 'Brilliant' for weather is more common in British English; Americans might find it unusual
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **brilliant**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[mediocre]] (trung bình, tầm thường - lacking excellence)
+> - [[dull]] (tầm thường, nhạt nhẽo - neither bright nor clever)
+> 🧱 **Contrast:** While 'brilliant' shines with excellence, 'mediocre' lacks any special quality
 
 ---

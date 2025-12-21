@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [intake, caloric intake, nutrient intake, daily intake, dietary intake, consumption, eating, nutrition, diet, calories]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /fuːd ˈɪnteɪk/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** medical/scientific
+> **Etymology:** Old English 'fōda' (food) + Middle French 'intaker' (to take in)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The process of taking food into the body
+>
+> **Context Meaning:** The amount of food consumed by a person or animal; the process of eating and drinking for nourishment
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** lượng thức ăn nạp vào, sự tiêu thụ thực phẩm
+> - **Contextual:** chế độ ăn, lượng calo nạp vào, dinh dưỡng nạp vào
+>
 > **Nuances:**
-> - ...
+> - Often used in nutritional and medical contexts
+> - Can refer to quantity, frequency, or type of food consumed
+> - Important for health and diet management
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Nutritional, Measured, Health-conscious
+> **Memory Hook:** 'Food in-take' - food 'taken in' by the body for energy and nutrients
+> **📖 Etymology Story:** Combines 'food' (nourishment) with 'intake' (taking in) - represents the fundamental process of consuming nutrients for survival and health
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrase:** food intake /fuːd ˈɪnteɪk/
+> - **Related:** calorie intake /ˈkæləri ˈɪnteɪk/
+> - **Related:** nutrient intake /ˈnjuːtriənt ˈɪnteɪk/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[consumption]] /kənˈsʌmpʃn/ : using up food
+> - [[diet]] /ˈdaɪət/ : food habits
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[fasting]] /ˈfɑːstɪŋ/ : not eating
+> - [[abstinence]] /ˈæbstɪnəns/ : avoiding food
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Monitor/regulate food intake
+> 2. High/low food intake
+> 3. Daily/weekly food intake
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The nutritionist recommended reducing my daily food intake to lose weight safely.
+> - **Translation:** Chuyên gia dinh dưỡng đã khuyên giảm lượng thức ăn nạp vào hàng ngày để giảm cân an toàn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Athletes must carefully monitor their food intake to maintain peak performance.
+> - **Translation:** Vận động viên phải theo dõi cẩn thận lượng thức ăn nạp vào để duy trì thành tích đỉnh cao.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect verb form**
+> - ❌ **Mistake:** I food intake too much sugar.
+> - ✅ **Correction:** My food intake includes too much sugar. / I consume too much sugar.
+> - **Why:** 'Food intake' is a noun phrase, not a verb
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The study examined the relationship between food intake and energy levels in teenagers."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +80,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **food intake** (*/fuːd ˈɪnteɪk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The amount of food consumed; the process of eating and drinking for nourishment and energy
+> 🇻🇳 **Vietnamese:** Lượng thức ăn nạp vào, sự tiêu thụ thực phẩm, quá trình ăn uống để dinh dưỡng
+> 🗣️ **IPA:** */fuːd ˈɪnteɪk/*
+> 🧠 **Mental Model:** Khi nói về 'food intake', bạn đang nói về total amount và types của food mà body 'takes in' trong một period time - like fuel cho engine
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The amount of food consumed by a person for nourishment"
+**Vietnamese:** Lượng thức ăn nạp vào
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**food intake** (*/fuːd ˈɪnteɪk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **food intake** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The doctor advised me to track my daily food intake to identify potential food allergies.
+> 🇻🇳 **Translation:** Bác sĩ đã khuyên tôi theo dõi lượng thức ăn nạp vào hàng ngày để xác định dị ứng thực phẩm tiềm ẩn.
+> 🔍 **Analysis:** 'Track my daily food intake' shows monitoring action, 'identify potential allergies' provides medical purpose, 'daily' specifies time frame
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **food intake**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Monitoring:** Monitor/track/record food intake (theo dõi lượng thức ăn)
+> 2. **Control:** Regulate/reduce/increase food intake (điều chỉnh lượng thức ăn)
+> 3. **Time:** Daily/weekly food intake (lượng thức ăn hàng ngày/tuần)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **food intake**:
+"She doesn't eat much."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The marathon runner maintains precise control over her food intake to optimize performance and recovery time."
+> 💡 **Why it works:** 'Precise control over food intake' emphasizes scientific approach, 'optimize performance' connects nutrition với athletic goals, 'recovery time' adds specific context
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **food intake** instead of **[[diet]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **food intake:** Dùng khi focus trên quantity và process of consuming - medical/scientific context
+> **[[diet]]:** Dùng khi focus trên types và patterns of eating - lifestyle choice
+> 🧱 **The Barrier:** Food intake là about amount and process, diet là about composition và habits
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to gain muscle weight at the gym. They're asking for advice. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You'll need to increase your protein-rich food intake and time it properly around your workouts."
+> 👨‍🎨 **Director's Note:** 'Increase food intake' focuses trên quantity, 'protein-rich' specifies type, 'time it properly' adds strategic element
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `food` and `intake` to the meaning of **food intake**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Food' (Old English 'fōda' - nourishment) + 'intake' (taking in) - food intake là fundamental process của 'taking in nourishment' để sustain life và health
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **food intake**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English `fōda` + Middle French `intaker`
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* food intake (lượng thức ăn nạp vào)
+> - *(variation)* calorie intake (lượng calo nạp vào)
+> - *(related)* nutrition intake (lượng dinh dưỡng nạp vào)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */fuːd ˈɪnteɪk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**food intake**
+> 📖 **Meaning:** The amount of food consumed
+> 🇻🇳 **Vietnamese:** Lượng thức ăn tiêu thụ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **food intake**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I need to food intake more vegetables
+> ✅ **Correction:** I need to increase my vegetable intake / My food intake should include more vegetables
+> 🧠 **Why:** 'Food intake' là noun phrase, không phải verb - bạn 'increase intake' hoặc 'include something in your intake'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **food intake**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[fasting]] (nhịn ăn)
+> - [[restriction]] (sự hạn chế ăn uống)
+> 🧱 **Contrast:** Food intake is consuming nourishment, antonyms are avoiding hoặc severely limiting consumption

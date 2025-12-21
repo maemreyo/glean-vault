@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/law-crime-politics/crime-punishment
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [casualties, victim, fatality, loss, wounded, injured]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkæʒuəlti/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/neutral
+> **Etymology:** Latin "casualis" (by chance) from "casus" (fall, accident)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A person killed or injured in war or in an accident.
+>
+> **Context Meaning:** 1) A person injured or killed in a war or accident; 2) In a military context, someone lost to a unit through death, wounds, illness, capture, or disappearance; 3) A person or thing lost or destroyed as a result of an event or circumstance.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thương vong, nạn nhân
+> - **Contextual:** người bị thương/lac, tổn thất
+>
 > **Nuances:**
-> - ...
+> - Can refer to both injured and dead people (not just fatalities)
+> - In military context, includes captured or missing personnel
+> - Often used in formal reports and news coverage
+> - The plural form "casualties" is more commonly used than singular
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Solemn, Objective, Statistical
+> **Memory Hook:** Casual ties - accidents create loose/casual ties to life.
+> **📖 Etymology Story:** From Latin "casualis" meaning "by chance," showing how casualties happen by unfortunate chance events, not by design. The word evolved to mean someone who "falls" by accident or misfortune.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[casualty]] /ˈkæʒuəlti/ (plural: casualties)
+> - **Adj:** [[casual]] /ˈkæʒuəl/ (relaxed, not serious)
+> - **Adv:** [[casually]] /ˈkæʒuəli/ (in a relaxed way)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[victim]] /ˈvɪktɪm/ : person harmed by crime or disaster
+> - [[fatality]] /fəˈtæləti/ : death caused by accident/war
+> - [[loss]] /lɒs/ : general term for something gone
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[survivor]] /səˈvaɪvə/ : person who remains alive
+> - [[safe]] /seɪf/ : not in danger
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. civilian casualties
+> 2. mass casualties
+> 3. report casualties
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The earthquake resulted in hundreds of casualties, including both injured and deceased.
+> - **Translation:** Trận động đất gây ra hàng trăm thương vong, bao gồm cả người bị thương và người đã chết.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The military commander refused to discuss the exact number of casualties in the battle.
+> - **Translation:** Tư lệnh quân sự từ chối thảo luận về con số thương vong chính xác trong trận chiến.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Misunderstanding Scope**
+> - ❌ **Mistake:** Assuming casualties means only deaths
+> - ✅ **Correction:** Casualties includes both injured and dead
+> - **Why:** The term encompasses all losses, not just fatalities
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The first casualty of war is truth."
+> **Source:** [[Historical Proverb]]
 
 ---
 
@@ -161,121 +82,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **casualty** (*/ˈkæʒuəlti/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person killed or injured in war or in an accident; a person lost to a unit through death, wounds, illness, capture, or disappearance.
+> 🇻🇳 **Vietnamese:** Thương vong, nạn nhân, người bị thương hoặc chết
+> 🗣️ **IPA: */ˈkæʒuəlti/*
+> 🧠 **Mental Model:** Như một "số liệu thống kê" về người bị ảnh hưởng - bao gồm cả injured và dead, không chỉ fatalities. Casualties là tổng số losses trong disaster/war.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person killed or injured in war or an accident"
+**Vietnamese:** Người bị chết hoặc bị thương trong chiến tranh hay tai nạn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**casualty** (*/ˈkæʒuəlti/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **casualty** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The hospital reported twenty casualties from the train accident, but fortunately none were life-threatening.
+> 🇻🇳 **Translation:** Bệnh viện báo cáo hai mươi thương vong từ tai nạn tàu hỏa, nhưng may mắn không có ca nào đe dọa tính mạng.
+> 🔍 **Analysis:** "Casualty" phù hợp ở đây vì nó cover cả injured people (không chỉ deaths), thể hiện formal reporting term thường dùng trong emergency situations.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **casualty**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Casualty Types:** civilian casualties, military casualties, mass casualties (VN note: loại hình thương vong)
+> 2. **Casualty Reporting:** report casualties, count casualties, assess casualties (VN note: hành động báo cáo/đánh giá)
+> 3. **Casualty Impact:** reduce casualties, prevent casualties, accept casualties (VN note: tác động đến thương vong)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **casualty**:
+"Many people were hurt in the explosion."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Emergency services reported multiple casualties following the explosion at the industrial facility."
+> 💡 **Why it works:** "Casualties" là formal term encompassing cả injured và deceased, thể hiện professional reporting style và precise military/emergency services terminology.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **casualty** instead of **victim**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **casualty:** Dùng trong context of war/accidents, bao gồm cả injured và dead (VN: thương vong trong chiến tranh/tai nạn)
+> **victim:** Wider scope, includes crime, disaster, abuse victims (VN: nạn nhân phạm tội/bạo lực)
+> 🧱 **The Barrier:** Casualty is more specific to war/accident contexts và has military/emergency services usage, victim covers broader harm contexts.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a news reporter covering a natural disaster. You need to inform the public accurately about the human impact.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Authorities are still assessing the full extent of casualties as rescue teams continue to search through the debris."
+> 👨‍🎨 **Director's Note:** Using "casualties" maintains journalistic objectivity và accuracy, acknowledging that final counts include both injuries and fatalities.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `casus` to the meaning of **casualty**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "casus" (fall, accident) → "casualis" (by chance) → "casualty". People who "fall" by chance in war/accidents, like leaves falling from trees in a storm - unintended losses through random misfortune.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **casualty**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `cadere/casus` (to fall)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* casual - tình cờ, không chính thức
+> - *(noun)* occasion - dịp, sự kiện
+> - *(verb)* occasion - gây ra
+> - *(noun)* cascade - thác nước, chuỗi phản ứng
+> - *(noun)* decadence - sự suy đồi
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkæʒuəlti/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**casualty**
+> 📖 **Meaning:** A person killed or injured in war or accident
+> 🇻🇳 **Vietnamese:** Người bị chết hoặc bị thương trong chiến tranh hoặc tai nạn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **casualty**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "There were 5 casualties in the accident, all dead." (redundant)
+> ✅ **Correction:** "There were 5 casualties, including 2 fatalities." hoặc "There were 5 deaths in the accident."
+> 🧠 **Why:** Casualty already covers deaths, so saying "dead casualties" là redundant. Use "fatalities" cho specific deaths.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **casualty**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[survivor]] (người sống sót)
+> - [[evacuee]] (người được sơ tán an toàn)
+> 🧱 **Contrast:** While casualty represents loss and harm, survivor represents resilience and preservation despite the same circumstances.
 
 ---

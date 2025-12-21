@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
 #flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [seaweed, seaweeds, sea-weed, kelp, algae, algal]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsiːwiːd/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** general/scientific
+> **Etymology:** Compound of 'sea' + 'weed' - plants growing in the sea
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Marine plants or algae
+>
+> **Context Meaning:** Marine plants and algae that grow in oceans, seas, and other bodies of water; includes various types from microscopic to large kelp forests
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** rong biển
+> - **Contextual:** tảo biển, rong tảo
+>
 > **Nuances:**
-> - ...
+> - Not actually 'weeds' but essential marine organisms
+> - Can be used for food, fertilizer, industrial products
+> - Different types: green, brown, red seaweed, each with unique properties
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Aquatic, Nutritious, Sustainable
+> **Memory Hook:** Sea + weed = plants that grow in the sea like underwater weeds
+> **📖 Etymology Story:** Simply 'sea' + 'weed' - early English speakers saw marine plants as 'weeds of the sea'. Though they're not weeds at all but vital marine organisms, the name stuck, hiding their true importance.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[seaweed]] /ˈsiːwiːd/
+> - **Noun (plural):** [[seaweeds]] /ˈsiːwiːdz/
+> - **Related:** [[algae]] /ˈældʒiː/
+> - **Related:** [[kelp]] /kelp/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[algae]] /ˈældʒiː/ : aquatic plants
+> - [[marine vegetation]] /məˈriːn ˌvedʒəˈteɪʃn/ : sea plants
+> - [[kelp]] /kelp/ : large brown seaweed
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[land plant]] /lænd plænt/ : terrestrial vegetation
+> - [[coral]] /ˈkɔːrəl/ : marine animal (not plant)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. edible seaweed
+> 2. seaweed cultivation/farming
+> 3. seaweed wrap/treatment
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Japanese cuisine uses various types of seaweed in sushi and soups.
+> - **Translation:** Ẩm thực Nhật Bản sử dụng nhiều loại rong biển trong sushi và súp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Seaweed extracts are common ingredients in cosmetics and skincare products.
+> - **Translation:** Chiết xuất rong biển là thành phần phổ biến trong mỹ phẩm và sản phẩm chăm sóc da.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable/Uncountable Usage**
+> - ❌ **Mistake:** The soup needs some seaweeds.
+> - ✅ **Correction:** The soup needs some seaweed. (usually uncountable)
+> - **Why:** 'Seaweed' is typically uncountable when referring to it as food/ingredient. Use plural only for different types.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Seaweed forests are the lungs of the ocean, producing oxygen and sustaining marine life."
+> **Source:** [[Marine Biology Journal]]
 
 ---
 
@@ -161,121 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **seaweed** (*/ˈsiːwiːd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Marine plants and algae growing in oceans, used for food and various products
+> 🇻🇳 **Vietnamese:** Rong biển, tảo biển - thực vật sống trong đại dương
+> 🗣️ **IPA:** */ˈsiːwiːd/*
+> 🧠 **Mental Model:** 'Underwater garden' - plants that grow in the ocean instead of on land
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Marine plants or algae that grow in the ocean"
+**Vietnamese:** Thực vật hoặc tảo sống trong biển
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**seaweed** (*/ˈsiːwiːd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **seaweed** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The beach was covered in seaweed after the storm brought it ashore.
+> 🇻🇳 **Translation:** Bãi biển phủ đầy rong biển sau khi cơn bão đưa chúng vào bờ.
+> 🔍 **Analysis:** 'Seaweed' specifically identifies marine vegetation washed ashore, distinguishing it from land debris or sea trash.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **seaweed**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Food context:** edible seaweed (rong biển ăn được - VN: for cooking/sushi)
+> 2. **Agriculture:** seaweed farming/cultivation (nuôi trồng rong biển - VN: commercial production)
+> 3. **Beauty/health:** seaweed extract/wrap (chiết xuất/rong biển - VN: cosmetics/products)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **seaweed**:
+"The Japanese eat ocean plants."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Traditional Japanese cuisine incorporates various types of seaweed for nutrition and flavor."
+> 💡 **Why it works:** 'Seaweed' is the precise term, more specific and natural than 'ocean plants'. VN: dùng từ chính xác.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **seaweed** instead of **[[algae]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **seaweed:** General term, includes large marine plants (VN: rong biển, đại chúng)
+> **[[algae]]:** Scientific term, includes microscopic forms (VN: tảo, thuật ngữ khoa học)
+> 🧱 **The Barrier:** 'Seaweed' is common usage for visible marine plants; 'algae' is broader scientific term (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a Japanese restaurant trying sushi for the first time. You feel curious. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "What type of seaweed is used to wrap these sushi rolls?"
+> 👨‍🎨 **Director's Note:** Shows natural curiosity about ingredients in culinary context (VN: thể hiện sự tò mò tự nhiên).
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the concept to the meaning of **seaweed**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Simple compound word: 'sea' + 'weed'. Early fishermen saw marine plants as 'weeds' of the ocean, not realizing their vital role in marine ecosystems and human nutrition (VN/EN mix).
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the compound **seaweed**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Compound of Old English 'sǣ' (sea) + 'wēod' (weed, plant)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[seaweed]] - marine plant
+> - *(noun)* [[seaweeds]] - different types of marine plants
+> - *(related)* [[algae]] - scientific term
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsiːwiːd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**seaweed**
+> 📖 **Meaning:** Marine plants growing in the ocean
+> 🇻🇳 **Vietnamese:** Rong biển
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **seaweed**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I bought three fresh seaweeds at the market.
+> ✅ **Correction:** I bought some fresh seaweed at the market.
+> 🧠 **Why:** 'Seaweed' is usually uncountable when referring to food/ingredient. Use plural only when talking about different types.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **seaweed**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[land plant]] (grows on soil not water)
+> - [[coral]] (marine animal, not plant)
+> - [[freshwater plant]] (grows in rivers/lakes not sea)
+> 🧱 **Contrast:** Seaweed grows in salt water; land plants need soil; coral is animal; freshwater plants need non-salty water.

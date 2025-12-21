@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [makes sense, made sense, making sense, doesn't make sense, it makes sense, logical, reasonable, understandable, coherent, comprehensible, sensible]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /meɪk sens/
+> **Part of Speech:** phrase/idiom
+> **CEFR Level:** B1
+> **Register:** general
+> **Etymology:** Combination of Old English 'macian' (to make) and Latin 'sensus' (feeling, perception)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To create understanding or clarity
+>
+> **Context Meaning:** To be logical, reasonable, or understandable; to have a clear meaning or explanation
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** có lý, hợp lý, dễ hiểu
+> - **Contextual:** hợp logic, có ý nghĩa, có thể giải thích được
+>
 > **Nuances:**
-> - ...
+> - Used to evaluate whether information is logical or understandable
+> - Can express agreement or comprehension
+> - Negative form often used to indicate confusion
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Logical, Clear, Rational
+> **Memory Hook:** Imagine arranging puzzle pieces (making) until you can see the complete picture (sense)
+> **📖 Etymology Story:** When information 'makes' you achieve 'sense', your brain successfully creates understanding from chaos
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrase:** make sense /meɪk sens/
+> - **Related:** makes sense /meɪks sens/, made sense /meɪd sens/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[be logical]] /biː ˈlɒdʒɪkl/ : to follow reason
+> - [[be reasonable]] /biː ˈriːznəbl/ : to be fair and rational
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[make no sense]] /meɪk nəʊ sens/ : to be illogical
+> - [[be confusing]] /biː kənˈfjuːzɪŋ/ : to cause bewilderment
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. It makes sense to...
+> 2. Makes perfect sense
+> 3. Doesn't make any sense
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** After the professor's explanation, the complex theory finally made sense to me.
+> - **Translation:** Sau khi giáo sư giải thích, lý thuyết phức tạp đó cuối cùng đã trở nên dễ hiểu với tôi.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** It makes sense to bring an umbrella since dark clouds are gathering.
+> - **Translation:** Việc mang theo ô là hợp lý vì những đám mây đen đang kéo đến.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect preposition usage**
+> - ❌ **Mistake:** This makes sense for me.
+> - ✅ **Correction:** This makes sense to me.
+> - **Why:** We use 'to' not 'for' when indicating who understands something
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The pieces of evidence suddenly made sense when presented together."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +79,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **make sense** (*/meɪk sens/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To be logical, reasonable, or understandable; to have clear meaning
+> 🇻🇳 **Vietnamese:** Có lý, hợp lý, dễ hiểu, có thể giải thích được
+> 🗣️ **IPA:** */meɪk sens/*
+> 🧠 **Mental Model:** Khi một idea hoặc situation 'makes sense', brain của bạn 'connects the dots' và thấy được logical pattern - không còn confusion
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To be logical, reasonable, or have a clear explanation"
+**Vietnamese:** Hợp lý, có nghĩa, dễ hiểu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**make sense** (*/meɪk sens/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **make sense** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Despite its complexity, the scientist's explanation of quantum mechanics made perfect sense to the physics students.
+> 🇻🇳 **Translation:** Mặc dù phức tạp, lời giải thích của nhà khoa học về cơ học lượng tử hoàn toàn dễ hiểu với các sinh viên vật lý.
+> 🔍 **Analysis:** 'Made perfect sense' thể hiện complete understanding - verb 'made' ở past tense vì action đã xảy ra, 'perfect' intensifier cho level của understanding
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **make sense**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Decision-making:** It makes sense to... (đưa ra recommendation hợp lý)
+> 2. **Understanding:** Suddenly makes sense (khi đột ngột hiểu ra)
+> 3. **Clarity:** Makes perfect/clear sense (nhấn mạnh level của understanding)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **make sense**:
+"His idea was good."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "His unconventional approach to the problem actually made more sense than traditional methods after careful analysis."
+> 💡 **Why it works:** 'Made more sense' thể hiện comparative logic, 'unconventional' và 'traditional' tạo contrast, 'careful analysis' thêm credibility
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **make sense** instead of **[[be correct]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **make sense:** Dùng khi something có thể được reasoned hoặc understood - focus trên logical coherence
+> **[[be correct]]:** Dùng khi something is factually right or accurate - focus trên accuracy
+> 🧱 **The Barrier:** Something can make sense (logical) but not be correct (factually wrong)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague explains a new project plan. You finally understand how it will work. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Ah, now that makes perfect sense! The connection between Phase 1 and Phase 2 wasn't clear before."
+> 👨‍🎨 **Director's Note:** 'Now that makes perfect sense' thể hiện moment of realization, với emphasis trên timing và clarity
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `make` and `sense` to the meaning of **make sense**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Make' từ Old English 'macian' (tạo ra) và 'sense' từ Latin 'sensus' (cảm nhận) - khi bạn 'make sense', bạn actively tạo ra understanding từ raw information
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **make sense**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English `macian` + Latin `sensus`
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* make sense (hiểu được)
+> - *(present)* makes sense (hiểu được - hiện tại)
+> - *(past)* made sense (đã hiểu được)
+> - *(negative)* doesn't make sense (không hợp lý)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */meɪk sens/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**make sense**
+> 📖 **Meaning:** To be logical and understandable
+> 🇻🇳 **Vietnamese:** Có lý, hợp lý
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **make sense**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Your explanation makes sense for me
+> ✅ **Correction:** Your explanation makes sense to me
+> 🧠 **Why:** 'To' là correct preposition khi chỉ person who understands - 'makes sense TO someone' chứ không phải 'FOR someone'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **make sense**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[make no sense]] (hoàn toàn không hợp lý)
+> - [[be nonsense]] (vô nghĩa, lố bịch)
+> 🧱 **Contrast:** Make sense tạo clarity và understanding, antonyms tạo confusion và disbelief

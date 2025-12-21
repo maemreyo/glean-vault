@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
 #flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [cryptobiotic, anhydrobiosis, suspended animation, dormant state, survival state, extremophiles]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌkrɪptəʊbaɪˈəʊsɪs/
+> **Part of Speech:** noun
+> **CEFR Level:** C1
+> **Register:** scientific/academic
+> **Etymology:** From Greek "kryptos" (hidden) + "biosis" (mode of life)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Hidden life; a state of suspended animation
+>
+> **Context Meaning:** A physiological state in which an organism's metabolic activity reduces to an undetectable level, allowing survival under extreme environmental conditions
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ẩn sinh, trạng thái tạm ngừng sinh hoạt
+> - **Contextual:** trạng thái ngủ đông cực hạn, sự sống ẩn
+>
 > **Nuances:**
-> - ...
+> - Not death, but extreme life slowdown
+> - Can be triggered by dehydration, freezing, or oxygen deprivation
+> - Organism can remain in this state for years or decades
+> - Reversible when conditions improve
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Mysterious, Resilient, Scientific
+> **Memory Hook:** "Crypto" like hidden/cryptic + "biosis" = HIDDEN LIFE - like a secret agent who can pause their heartbeat
+> **📖 Etymology Story:** Ancient Greek philosophers pondered the boundaries between life and death. Modern scientists discovered "kryptos biosis" - some organisms literally hide from death by pressing pause on life itself, surviving conditions that should kill anything alive.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[cryptobiosis]] /ˌkrɪptəʊbaɪˈəʊsɪs/
+> - **Adj:** [[cryptobiotic]] /ˌkrɪptəbaɪˈɒtɪk/
+> - **Related:** [[anabiosis]] /ˌænəbaɪˈəʊsɪs/ (recovery from cryptobiosis)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[suspended animation]] /səˈspendɪd ˌænɪˈmeɪʃn/ : more common term
+> - [[anhydrobiosis]] /ˌænhaidrəʊbaɪˈəʊsɪs/ : specifically dehydration-induced
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[active metabolism]] /ˈæktɪv məˈtæbəlɪzəm/ : normal metabolic activity
+> - [[homeostasis]] /ˌhəʊmiəʊˈsteɪsɪs/ : stable internal conditions
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. enter cryptobiosis
+> 2. cryptobiotic state
+> 3. survive through cryptobiosis
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Tardigrades can enter cryptobiosis when dehydrated, surviving for decades without water.
+> - **Translation:** Gấu nước có thể进入 trạng thái ẩn sinh khi mất nước, sống sót hàng chục năm mà không cần nước.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The research team studied how certain brine shrimp use cryptobiosis to withstand extreme temperatures.
+> - **Translation:** Nhóm nghiên cứu đã изучить cách một số loài tôm muối sử dụng trạng thái ẩn sinh để chịu được nhiệt độ khắc nghiệt.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with death**
+> - ❌ **Mistake:** "The organism died through cryptobiosis."
+> - ✅ **Correction:** "The organism survived through cryptobiosis."
+> - **Why:** Cryptobiosis is a survival mechanism, not death - it preserves life
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "In cryptobiosis, life doesn't end - it just presses pause."
+> **Source:** [[Biology Journal]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **cryptobiosis** (*/ˌkrɪptəʊbaɪˈəʊsɪs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A state of suspended animation where metabolic activity becomes undetectable, allowing survival under extreme conditions
+> 🇻🇳 **Vietnamese:** Trạng thái ẩn sinh; tình trạng sinh hoạt tạm dừng gần như hoàn toàn để sống sót trong điều kiện khắc nghiệt
+> 🗣️ **IPA:** */ˌkrɪptəʊbaɪˈəʊsɪs/*
+> 🧠 **Mental Model:** Like power-saving mode for living beings - cơ thể "tắt gần như hoàn toàn" để tiết kiệm năng lượng khi môi trường quá khắc nghiệt
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A reversible state of suspended animation in which an organism's metabolic activities are reduced to undetectable levels"
+**Vietnamese:** Trạng thái ngủ đông có thể đảo ngược trong đó các hoạt động trao đổi chất của sinh vật giảm xuống mức không thể phát hiện được
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**cryptobiosis** (*/ˌkrɪptəʊbaɪˈəʊsɪs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **cryptobiosis** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The resilience of tardigrades in space is attributed to their ability to enter cryptobiosis, protecting them from radiation and extreme temperatures.
+> 🇻🇳 **Translation:** Sức sống phi thường của gấu nước trong không gian được cho là do khả năng进入 trạng thái ẩn sinh, giúp chúng chống lại bức xạ và nhiệt độ khắc nghiệt.
+> 🔍 **Analysis:** Perfect here because it shows cryptobiosis as a specific scientific mechanism explaining extraordinary survival abilities
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **cryptobiosis**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Trigger:** enter cryptobiosis (vào trạng thái ẩn sinh)
+> 2. **State:** cryptobiotic state (trạng thái ẩn sinh)
+> 3. **Recovery:** recover from cryptobiosis (phục hồi sau trạng thái ẩn sinh)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **cryptobiosis**:
+"The tiny animal could survive without water."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The microscopic tardigrade achieves its legendary resilience by entering cryptobiosis, effectively pausing all metabolic processes until conditions improve."
+> 💡 **Why it works:** "Cryptobiosis" provides scientific precision and creates imagery of life literally pressing pause
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **cryptobiosis** instead of **[[hibernation]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **cryptobiosis:** Trạng thái sinh học gần như chết hẳn, không có hoạt động trao đổi chất, có thể kéo dài hàng chục năm
+> **[[hibernation]]:** Trạng thái ngủ đông mùa, vẫn có hoạt động trao đổi chất giảm sút, chỉ kéo dài vài tháng
+> 🧱 **The Barrier:** Hibernation là giảm tốc độ, cryptobiosis là dừng hẳn gần như hoàn toàn
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining to a child how some "water bears" survived being dried for 100 years. You feel amazed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "It's incredible! These tiny creatures use cryptobiosis - they basically become like living dust until someone adds water!"
+> 👨‍🎨 **Director's Note:** Makes complex science accessible and creates powerful visual of life as dust
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<kryptos>` and `<biosis>` to the meaning of **cryptobiosis**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Greek 'kryptos' meant 'hidden' like a secret treasure, while 'biosis' meant 'life'. Cryptobiosis literally means 'hidden life' - organisms playing hide-and-seek with death itself by making their life undetectable
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **cryptobiosis**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:**
+> - Greek `kryptos` (hidden) → English `crypto-`
+> - Greek `biosis` (mode of life) → English `biosis`
+> 👨‍👩‍👧 **Related Forms:**
+> - *(adj)* [[cryptobiotic]] (thuộc về trạng thái ẩn sinh)
+> - *(antonym)* [[anabiosis]] (sự hồi sinh)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌkrɪptəʊbaɪˈəʊsɪs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**cryptobiosis**
+> 📖 **Meaning:** State of suspended animation allowing survival in extreme conditions
+> 🇻🇳 **Vietnamese:** Trạng thái tạm ngừng sinh hoạt giúp sống sót trong điều kiện khắc nghiệt
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **cryptobiosis**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The bacteria died but came back to life through cryptobiosis."
+> ✅ **Correction:** "The bacteria survived through cryptobiosis and later revived."
+> 🧠 **Why:** Organisms don't die during cryptobiosis - they survive in suspended state. "Revived" or "recovered" is more accurate than "came back to life"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **cryptobiosis**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[active metabolism]] (trao đổi chất tích cực) - normal biological activity
+> - [[homeostasis]] (thăng bằng nội môi) - stable functioning state
+> 🧱 **Contrast:** While cryptobiosis represents near-complete metabolic shutdown, active metabolism shows normal biological functioning
 
 ---

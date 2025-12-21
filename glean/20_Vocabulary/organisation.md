@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [organization, company, corporation, enterprise, institution, firm, agency, department, bureau, entity]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌɔːɡənaɪˈzeɪʃən/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** formal/business/academic
+> **Etymology:** Greek 'organon' (tool, instrument) + Latin '-izatio' + French '-ation'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An organized body of people with a particular purpose
+>
+> **Context Meaning:** A structured group of people working together in a coordinated way to achieve specific goals or objectives
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tổ chức
+> - **Contextual:** cơ quan, công ty, tổ chức xã hội
+>
 > **Nuances:**
-> - ...
+> - British spelling: organisation, American spelling: organization
+> - Can be commercial, non-profit, governmental, or social
+> - Implies hierarchy, structure, and systematic operation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Structured, Systematic, Purpose-Driven
+> **Memory Hook:** Organ + ization = making organs (parts) work together like a body
+> **📖 Etymology Story:** From Greek 'organon' (tool) - Romans saw humans as tools working together. Today's organisations are like living bodies with different organs (departments) working in harmony.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[organisation]] /ˌɔːɡənaɪˈzeɪʃən/, [[organizer]] /ˈɔːɡənaɪzə/
+> - **Verb:** [[organise]] /ˈɔːɡənaɪz/ (UK), [[organize]] /ˈɔːrɡənaɪz/ (US)
+> - **Adj:** [[organised]] /ˈɔːɡənaɪzd/ (UK), [[organized]] /ˈɔːrɡənaɪzd/ (US), [[organisational]] /ˌɔːɡənaɪˈzeɪʃənl/
+> - **Adv:** [[organisationally]] /ˌɔːɡənaɪˈzeɪʃənəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[institution]] /ˌɪnstɪˈtjuːʃən/ : established organization
+> - [[enterprise]] /ˈentəpraɪz/ : business undertaking
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[chaos]] /ˈkeɪɒs/ : complete disorder
+> - [[disorganization]] /dɪsˌɔːɡənaɪˈzeɪʃən/ : lack of organization
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. international/global organisation
+> 2. non-profit/profit-making organisation
+> 3. join/form an organisation
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The World Health Organisation is a specialised United Nations agency concerned with international public health.
+> - **Translation:** Tổ chức Y tế Thế giới là một cơ quan chuyên biệt của Liên Hợp Quốc phụ trách về sức khỏe cộng đồng quốc tế.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She joined a charitable organisation that provides education for underprivileged children.
+> - **Translation:** Cô ấy tham gia một tổ chức từ thiện cung cấp giáo dục cho trẻ em có hoàn cảnh khó khăn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling Variant**
+> - ❌ **Mistake:** Our organisation works closely with other organization's.
+> - ✅ **Correction:** Our organisation works closely with other organizations.
+> - **Why:** Be consistent with spelling (UK: organisation/organisations, US: organization/organizations)
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "An organisation, no matter how well designed, is only as good as the people who live and work in it."
+> **Source:** [[ dee Hock, Founder of Visa]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **organisation** (*/ˌɔːɡənaɪˈzeɪʃən/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A structured group of people working together in a coordinated way to achieve specific objectives, with defined roles and systematic operation
+> 🇻🇳 **Vietnamese:** Tổ chức, cơ cấu có hệ thống, tập thể làm việc có mục tiêu
+> 🗣️ **IPA:** */ˌɔːɡənaɪˈzeɪʃən/*
+> 🧠 **Mental Model:** Giống một body với các organs (phòng ban) khác nhau working together để đạt common goal
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A structured group of people working together systematically to achieve specific goals"
+**Vietnamese:** Tổ chức có cấu trúc, tập thể có mục tiêu chung
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**organisation** (*/ˌɔːɡənaɪˈzeɪʃən/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **organisation** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The non-governmental organisation has established sustainable development projects across twelve different countries.
+> 🇻🇳 **Translation:** Tổ chức phi chính phủ này đã thiết lập các dự án phát triển bền vững tại mười hai quốc gia khác nhau.
+> 🔍 **Analysis:** 'Organisation'在这里perfectly体现了structured entity的性质, 而不是简单的group或team
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **organisation**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Scope/Scale:** international/global organisation (tổ chức quốc tế/toàn cầu - chỉ quy mô)
+> 2. **Purpose/Type:** non-profit/charitable organisation (tổ chức phi lợi nhuận/từ thiện - chỉ mục tiêu)
+> 3. **Action/Process:** join/form/lead an organisation (tham gia/thành lập/lãnh đạo tổ chức - chỉ hành động)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **organisation**:
+"The company helps poor people."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The humanitarian organisation implements microfinance initiatives across developing nations to alleviate poverty through sustainable economic empowerment."
+> 💡 **Why it works:** 'Organisation' tạo formal, structured tone hơn 'company', đồng thời 'humanitarian' clarifies non-commercial purpose
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **organisation** instead of **team**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **organisation:** Larger, more structured entity - có hierarchy, formal structure, long-term existence
+> **team:** Smaller, temporary group - tập trung vào specific task, less formal
+> 🧱 **The Barrier:** 'Organisation' = institutional permanence, 'team' = project-based collaboration
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a job interview. They ask about your ideal workplace. You feel professional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm seeking a forward-thinking organisation that values innovation, promotes professional development, and maintains a culture of collaborative excellence."
+> 👨‍🎨 **Director's Note:** Professional vocabulary với corporate buzzwords thể hiện career consciousness và alignment với business values
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `organ` to the meaning of **organisation**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Greek 'organon' = công cụ, bộ phận. Romans coi society như body với organs khác nhau. Organisation = "làm cho các organs work together". Giống như heart, lungs, brain coordinate trong body, departments coordinate trong organisation.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **organisation**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `organon` (tool, instrument)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* organisation (tổ chức)
+> - *(noun)* organ (cơ quan, cơ quan nhạc)
+> - *(verb)* organise/organize (tổ chức)
+> - *(adj)* organised/organized (có tổ chức)
+> - *(noun)* organism (sinh vật)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌɔːɡənaɪˈzeɪʃən/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**organisation**
+> 📖 **Meaning:** A structured group of people working toward common goals
+> 🇻🇳 **Vietnamese:** Tổ chức có cơ cấu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **organisation**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The organisation have many employees.
+> ✅ **Correction:** The organisation has many employees.
+> 🧠 **Why:** 'Organisation' là singular noun, dù kết thúc bằng -s, nó vẫn takes singular verb. 'Organisations' mới là plural form.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **organisation**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[chaos]] (sự hỗn loạn - hoàn toàn vô tổ chức)
+> - [[disarray]] (sự bừa bộn - thiếu trật tự)
+> 🧱 **Contrast:** 'Organisation' là systematic structure, antonyms là complete lack of order/randomness

@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [detached, detaching, detachment, detachable, unattached, disconnect, separate, disengage, withdraw]
+status: done
 ref:
-  - [[Cam 19 Listening Test 03]]
+  - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dɪˈtætʃ/
+> **Part of Speech:** verb
+> **CEFR Level:** B2
+> **Register:** formal/technical
+> **Etymology:** Old French 'detacher' (to unfasten), from 'de-' (undo) + 'attacher' (to attach)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To unfasten or disconnect
+>
+> **Context Meaning:** To separate or disconnect something from what it was attached to; to become emotionally distant
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tách ra, tháo ra, gỡ ra
+> - **Contextual:** thoát ly, xa cách, không vướng bận
+>
 > **Nuances:**
-> - ...
+> - Can be literal (physical separation) or figurative (emotional distance)
+> - Implies previous connection that is being broken
+> - Often suggests a deliberate action of separation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Independent, Separated, Objective
+> **Memory Hook:** 'De-tach' = 'undo' the 'attachment' - separate what was connected
+> **📖 Etymology Story:** From French 'detacher' - 'de-' (undo) + 'attacher' (attach) - when you detach, you're literally undoing an attachment, whether physical or emotional
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** detach /dɪˈtætʃ/
+> - **Adj:** detached /dɪˈtætʃt/, detachable /dɪˈtætʃəbl/
+> - **Noun:** detachment /dɪˈtætʃmənt/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[disconnect]] /ˌdɪskəˈnekt/ : break connection
+> - [[separate]] /ˈsepəreɪt/ : keep apart
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[attach]] /əˈtætʃ/ : fasten or connect
+> - [[connect]] /kəˈnekt/ : join together
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Detach from someone/something
+> 2. Detach yourself from
+> 3. Emotionally detached
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Please detach the trailer from the car before parking in the garage.
+> - **Translation:** Vui lòng tháo rơ-moóc ra khỏi xe trước khi đậu xe vào garage.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** A good therapist helps you detach from unhealthy emotional patterns.
+> - **Translation:** Một nhà trị liệu giỏi giúp bạn thoát ly khỏi các pattern cảm xúc không lành mạnh.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** He detached of his emotions.
+> - ✅ **Correction:** He detached himself from his emotions.
+> - **Why:** 'Detach FROM something' or 'detach yourself FROM something' - never 'of'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "She had to detach the broken piece from the machine carefully."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +80,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **detach** (*/dɪˈtætʃ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To separate or disconnect something from what it was attached to; to become emotionally distant
+> 🇻🇳 **Vietnamese:** Tách ra, gỡ ra, thoát ly; xa cách về mặt cảm xúc
+> 🗣️ **IPA:** */dɪˈtætʃ/*
+> 🧠 **Mental Model:** Khi bạn 'detach' something, bạn break connection - physical (unplug) hoặc emotional (create distance) - từ 'attached' sang 'unattached'
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To separate or disconnect something from what it was attached to"
+**Vietnamese:** Tách ra, tháo ra
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**detach** (*/dɪˈtætʃ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **detach** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The surgeon had to carefully detach the scar tissue from the surrounding muscle during the operation.
+> 🇻🇳 **Translation:** Bác sĩ phẫu thuật phải cẩn thận tách mô sẹo ra khỏi cơ xung quanh trong ca mổ.
+> 🔍 **Analysis:** 'Carefully detach' shows precision needed, 'scar tissue from surrounding muscle' illustrates physical separation, 'during the operation' adds medical context
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **detach**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Physical:** Detach from/unplug/gently detach (tách ra/ngắt kết nối/tách ra nhẹ nhàng)
+> 2. **Emotional:** Emotionally detached/detach from feelings (xa cách cảm xúc/tách khỏi cảm xúc)
+> 3. **Action:** Detach yourself from (tự tách mình khỏi)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **detach**:
+"He removed the part."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The engineer carefully detached the damaged motherboard from the casing to inspect the circuit damage."
+> 💡 **Why it works:** 'Carefully detached' emphasizes precision, 'damaged motherboard' specifies component, 'inspect the circuit damage' provides purpose
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **detach** instead of **[[remove]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **detach:** Dùng khi breaking a specific connection hoặc attachment - implies something was previously connected
+> **[[remove]]:** Dùng cho general taking away - không necessarily implies prior connection
+> 🧱 **The Barrier:** Detach breaks specific connections, remove là general taking away
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is too emotionally invested in a toxic work situation. You're giving advice. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You need to detach yourself from the office politics and focus on your own well-being."
+> 👨‍🎨 **Director's Note:** 'Detach yourself from' thể hiện active separation, 'office politics' specifies negative influence, 'well-being' shows positive focus
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `detacher` to the meaning of **detach**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** French 'detacher' - 'de-' (undo) + 'attacher' (attach) - detach là action của undoing attachment, returning to state of being unattached
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **detach**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** French `detacher` (to unfasten)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* detach (tách ra)
+> - *(adj)* detached (xa cách, không gắn bó), detachable (có thể tháo rời)
+> - *(noun)* detachment (sự xa cách, đơn vị quân sự)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dɪˈtætʃ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**detach**
+> 📖 **Meaning:** To separate from what is attached
+> 🇻🇳 **Vietnamese:** Tách ra, tháo rời
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **detach**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I need to detach this document of the email
+> ✅ **Correction:** I need to detach this document from the email
+> 🧠 **Why:** Preposition luôn là 'FROM' - detach something FROM something else, never 'of'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **detach**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[attach]] (gắn vào, đính kèm)
+> - [[connect]] (kết nối)
+> 🧱 **Contrast:** Detach breaks connections and creates separation, antonyms create or maintain connections

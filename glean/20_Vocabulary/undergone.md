@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [undergo, underwent, undergone, undergoes, experiencing, enduring, suffering, subjected to]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌʌndəˈɡɒn/
+> **Part of Speech:** verb (past participle of undergo)
+> **CEFR Level:** B2
+> **Register:** formal/neutral
+> **Etymology:** Old English undergān "undergo, endure, submit to" from under- + gān "go"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To experience or be subjected to something
+>
+> **Context Meaning:** To experience or endure something, typically something unpleasant or difficult
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** trải qua, chịu đựng
+> - **Contextual:** đã trải qua, đã chịu đựng
+>
 > **Nuances:**
-> - ...
+> - Often used for difficult or transformative experiences
+> - Implies passive endurance rather than active choice
+> - Commonly appears in medical and formal contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Resilient, Patient
+> **Memory Hook:** "Under-go" - you go under/through something difficult and come out the other side
+> **📖 Etymology Story:** Picture yourself walking "under" a storm cloud, having to "go" through it completely before reaching clear skies again.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[undergo]] /ˌʌndəˈɡəʊ/
+> - **Past:** [[underwent]] /ˌʌndəˈwent/
+> - **Pres Part:** [[undergoing]] /ˌʌndəˈɡəʊɪŋ/
+> - **3rd Sing:** [[undergoes]] /ˌʌndəˈɡəʊz/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[experience]] /ɪkˈspɪəriəns/ : go through (neutral)
+> - [[endure]] /ɪnˈdjʊə(r)/ : suffer through (negative connotation)
+> - [[face]] /feɪs/ : confront (active)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[avoid]] /əˈvɔɪd/ : stay away from
+> - [[escape]] /ɪˈskeɪp/ : get away from
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. undergone surgery
+> 2. undergone changes
+> 3. undergone transformation
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The patient has undergone three major surgeries this year.
+> - **Translation:** Bệnh nhân đã trải qua ba cuộc phẫu thuật lớn trong năm nay.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The city has undergone significant changes since the new mayor took office.
+> - **Translation:** Thành phố đã trải qua những thay đổi đáng kể kể từ khi thị trưởng mới nhậm chức.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Irregular Verb Error**
+> - ❌ **Mistake:** "She has undergo a difficult time."
+> - ✅ **Correction:** "She has undergone a difficult time."
+> - **Why:** Undergone is the past participle form used with have/has/had.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We must be willing to let go of the life we have planned, so as to have the life that is waiting for us."
+> **Source:** [[Joseph Campbell]]
 
 ---
 
@@ -161,121 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **undergone** (*/ˌʌndəˈɡɒn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Experienced or been subjected to something, typically something difficult or transformative
+> 🇻🇳 **Vietnamese:** Đã trải qua; đã chịu đựng
+> 🗣️ **IPA:** */ˌʌndəˈɡɒn/*
+> 🧠 **Mental Model:** Hãy tưởng tượng đi qua một đường hầm tối - bạn phải chịu đựng/đi qua hết mới thấy ánh sáng (enduring passage through difficulty)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Experienced or been subjected to something difficult"
+**Vietnamese:** Đã trải qua; đã chịu đựng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**undergone** (*/ˌʌndəˈɡɒn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **undergone** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After undergoing extensive training, the recruits were ready for their first mission.
+> 🇻🇳 **Translation:** Sau khi trải qua huấn luyện intensively, tân binh đã sẵn sàng cho nhiệm vụ đầu tiên của họ.
+> 🔍 **Analysis:** "undergone" thể hiện quá trình hoàn thành một trải nghiệm khó khăn/nhất định (completed difficult process), phù hợp với ngữ cảnh training (huấn luyện)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **undergone**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Medical:** undergone surgery/treatment (đã phẫu thuật/điều trị) (passive medical experience)
+> 2. **Change:** undergone changes/transformation (đã thay đổi/biến đổi) (transformation process)
+> 3. **Process:** undergone training/evaluation (đã đào tạo/đánh giá) (formal process completion)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **undergone**:
+"She had a lot of bad experiences."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She had undergone numerous hardships that shaped her character."
+> 💡 **Why it works:** "undergone" tạo cảm giác chịu đựng/passive endurance thay vì chỉ "had experiences" (chung chung)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **undergone** instead of **[[experienced]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **undergone:** Trải qua/cầu chịu đựng (endured) - thường cho experiences khó khăn hoặc processes nhất định, tính passive hơn
+> **experienced:** Trải nghiệm (experienced) - neutral hơn, có thể là tốt hoặc xấu, active hơn
+> 🧱 **The Barrier:** "undergone" mang passive endurance + thường negative/difficult, "experienced" neutral/can be positive
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing your company's difficult restructuring process. You want to sound professional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our organization has undergone significant restructuring to adapt to market changes."
+> 👨‍🎨 **Director's Note:** "undergone" thể hiện sự chịu đựng/passive endurance trong formal business context, thể hiện chuyên nghiệp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<under-gān>` to the meaning of **undergone**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "undergān" = under + go (đi dưới/qua) → đi qua hardship → hiện đại: undergone (đã trải qua/cầu chịu đựng)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **undergone**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `gān` (go, travel)
+> 👨‍👩‍👧 **Family:**
+> - *(base verb)* [[undergo]] /ˌʌndəˈɡəʊ/
+> - *(past)* [[underwent]] /ˌʌndəˈwent/
+> - *(past participle)* [[undergone]] /ˌʌndəˈɡɒn/
+> - *(present participle)* [[undergoing]] /ˌʌndəˈɡəʊɪŋ/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌʌndəˈɡɒn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**undergone**
+> 📖 **Meaning:** Experienced or been subjected to something, typically something difficult or transformative
+> 🇻🇳 **Vietnamese:** Đã trải qua; đã chịu đựng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **undergone**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The building was undergo renovations."
+> ✅ **Correction:** "The building underwent renovations." hoặc "The building has undergone renovations."
+> 🧠 **Why:** "undergone" là past participle, cần "has/have/had" hoặc dùng past form "underwent" cho past simple
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **undergone**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[avoided]] (tránh né - chủ động không trải qua)
+> - [[escaped]] (trốn thoát - thoát khỏi experience)
+> 🧱 **Contrast:** "undergone" = passive endurance through something, "avoided/escaped" = active avoidance of something
 
 ---

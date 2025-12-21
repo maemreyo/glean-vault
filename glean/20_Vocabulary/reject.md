@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [rejected, rejecting, rejection, turn down, refuse, decline, dismiss, spurn, rebuff]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈdʒekt/
+> **Part of Speech:** verb/noun
+> **CEFR Level:** B2
+> **Register:** formal/neutral
+> **Etymology:** Latin 'reicere' (to throw back), from 're-' (back) + 'iacere' (to throw)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To throw back, dismiss as inadequate or unacceptable
+>
+> **Context Meaning:**
+> - (Verb) To dismiss as inadequate, inappropriate, or not to one's taste
+> - (Verb) To refuse to accept, consider, submit to, or take for some purpose
+> - (Noun) A person or thing dismissed as failing to meet standards
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** từ chối, bác bỏ, loại trừ
+> - **Contextual:** thải hồi, không chấp nhận, cho rớt
+>
 > **Nuances:**
-> - ...
+> - Stronger than 'refuse' - implies judgment of inadequacy
+> - Can be used in academic, professional, and social contexts
+> - As a noun, often refers to failed candidates or products
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Decisive, Critical, Selective
+> **Memory Hook:** Imagine throwing something back because it's not good enough - that's rejecting
+> **📖 Etymology Story:** Latin 're-' (back) + 'iacere' (to throw) → to 'throw back' something because it doesn't meet standards
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** reject /ˈriːdʒekt/
+> - **Verb:** reject /rɪˈdʒekt/
+> - **Noun:** rejection /rɪˈdʒekʃn/
+> - **Adj:** rejected /rɪˈdʒektɪd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[refuse]] /rɪˈfjuːz/ : to show unwillingness to do something
+> - [[decline]] /dɪˈklaɪn/ : to politely refuse
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[accept]] /əkˈsept/ : to agree to take or receive
+> - [[approve]] /əˈpruːv/ : to officially agree to or accept
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Reject an application/proposal
+> 2. Reject out of hand
+> 3. Overwhelmingly reject
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The committee had to reject several applicants due to insufficient qualifications.
+> - **Translation:** Hội đồng đã phải từ chối một số ứng viên vì không đủ tiêu chuẩn.
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She couldn't reject such a generous offer.
+> - **Translation:** Cô ấy không thể từ chối một lời đề nghị hào phóng như vậy.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Pronunciation confusion**
+> - ❌ **Mistake:** I will REJECT it (stress on first syllable).
+> - ✅ **Correction:** I will reJECT it (stress on second syllable).
+> - **Why:** As a verb, 'reject' has stress on the second syllable. As a noun, it has stress on the first syllable
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The editor rejected the manuscript due to lack of originality."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +84,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **reject** (*/rɪˈdʒekt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To dismiss as inadequate, inappropriate, or not to one's taste; to refuse to accept
+> 🇻🇳 **Vietnamese:** Từ chối, bác bỏ, loại trừ, thải hồi
+> 🗣️ **IPA:** */rɪˈdʒekt/*
+> 🧠 **Mental Model:** 'Re-' (back) + 'ject' (throw) → ném trở lại cái gì đó vì nó không đủ tốt, không đạt standard
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To dismiss as inadequate or inappropriate; to refuse to accept, consider, or submit to"
+**Vietnamese:** Từ chối, bác bỏ vì không đủ tiêu chuẩn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**reject** (*/rɪˈdʒekt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **reject** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The university rejected over 80% of applications due to limited spaces and strict admission criteria.
+> 🇻🇳 **Translation:** Đại học đã từ chối hơn 80% hồ sơ ứng tuyển do số lượng có hạn và tiêu chí tuyển sinh nghiêm ngặt.
+> 🔍 **Analysis:** 'Rejected' ở đây thể hiện quyết định có judgment, không đơn thuần là refuse - nó暗示 applicants không meet standards đã được set ra
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **reject**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Formal/Academic:** reject an application/proposal/manuscript (từ chối hồ sơ/đề nghị/tay nghề)
+> 2. **Emotional:** reject out of hand (từ chối ngay lập tức)
+> 3. **Strength:** utterly/completely/overwhelmingly reject (từ chối hoàn/toàn bộ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **reject**:
+"She didn't accept his apology."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She coldly rejected his insincere apology, refusing to accept his hollow words."
+> 💡 **Why it works:** 'Rejected' thể hiện judgment mạnh mẽ hơn 'didn't accept' - nó暗示 sự xem xét và kết luận là inadequate hoặc insincere
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **reject** instead of **[[refuse]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **reject:** Dùng sau khi đã consider và judge là inadequate, không phù hợp tiêu chuẩn
+> **[[refuse]]:** Đơn thuần là không willing, có thể không cần consider
+> 🧱 **The Barrier:** Reject là judgment + refusal, refuse chỉ là refusal
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend offers to help but does everything poorly. You need to stop them. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I appreciate your willingness to help, but I must reject your method as it's causing more problems than solving them."
+> 👨‍🎨 **Director's Note:** 'Reject' thể hiện quyết định dựa trên evaluation, phù hợp với việc chỉ ra phương pháp không hiệu quả
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `re- + iacere` to the meaning of **reject**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 're-' (back) + 'iacere' (to throw) → khi bạn 'reject' cái gì đó, bạn metaphorically 'throw it back' vì nó không good enough
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **reject**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `re-` (back) + `iacere` (to throw)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* reject /rɪˈdʒekt/ (từ chối)
+> - *(noun)* reject /ˈriːdʒekt/ (vật bị loại)
+> - *(noun)* rejection /rɪˈdʒekʃn/ (sự từ chối)
+> - *(adjective)* rejected /rɪˈdʒektɪd/ (bị từ chối)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈdʒekt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**reject**
+> 📖 **Meaning:** To dismiss as inadequate or refuse to accept
+> 🇻🇳 **Vietnamese:** Từ chối, bác bỏ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **reject**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The REJECTed applicant felt disappointed
+> ✅ **Correction:** The reJECTed applicant felt disappointed.
+> 🧠 **Why:** Verb 'reject' có stress ở syllable thứ hai. Nhưng khi là past participle 'rejected', vẫn giữ stress ở syllable hai: re-JECT-ed
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **reject**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[accept]] (chấp nhận)
+> - [[approve]] (phê duyệt)
+> 🧱 **Contrast:** Reject là dismiss as inadequate, accept/approve là welcome as adequate or suitable
 
 ---

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
 #flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [steel drums, steelpan, pan, steeldrum, steelpans, Trinidad, calypso, Caribbean music, percussion]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /stiːl drʌm/
+> **Part of Speech:** noun (compound)
+> **CEFR Level:** B1
+> **Register:** general/technical
+> **Etymology:** 20th century Caribbean; from 'steel' + 'drum', invented in Trinidad and Tobago
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A percussion instrument made from a metal oil barrel, hammered to produce different musical notes**
+>
+> **Context Meaning:** A Caribbean musical instrument that produces melodious tones when struck with beaters; central to calypso and steelband music**
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** trống thép
+> - **Contextual:** trống thép Caribbean, trống dầu, nhạc cụ Trinidad**
+>
 > **Nuances:**
-> - ...
+> - Actually crafted from 55-gallon oil barrels
+> - Different areas of the drum surface produce different notes
+> - Played with rubber-tipped sticks called beaters
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Melodious, Rhythmic, Cultural
+> **Memory Hook:** Imagine steel barrels from an oil refinery being transformed into musical instruments that create Caribbean rhythms
+> **📖 Etymology Story:** Born in Trinidad when people discovered discarded oil barrels could be hammered into tunable instruments - turning industrial waste into cultural treasure
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** steel drum /stiːl drʌm/
+> - **Alternative:** steelpan /ˈstiːlpæn/
+> - **Player:** pannist /ˈpænɪst/
+> - **Music style:** calypso /kəˈlɪpsəʊ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[steelpan]] /ˈstiːlpæn/ : alternative name
+> - [[pan]] /pæn/ : informal short form
+>
+> **Related Terms:**
+> - [[percussion]] /pəˈkʌʃn/ : instrument family
+> - [[Caribbean]] /ˌkærəˈbiːən/ : region of origin
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Play the steel drums
+> 2. Steel drum music/band
+> 3. Caribbean steel drums
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The steel drum band played lively calypso music at the festival.
+> - **Translation:** Ban nhạc trống thép đã chơi nhạc calypso sôi động tại lễ hội.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Steel drums originated in Trinidad and Tobago in the 1930s.
+> - **Translation:** Trống thép có nguồn gốc từ Trinidad và Tobago vào những năm 1930.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with regular drums**
+> - ❌ **Mistake:** Steel drums are played with drumsticks like regular drums.
+> - ✅ **Correction:** Steel drums are played with rubber-tipped beaters, not regular drumsticks.
+> - **Why:** The playing technique and sticks are different to protect the tuned surface and produce the right tone.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The rhythmic sound of steel drums filled the air."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **steel drum** (*/stiːl drʌm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A percussion instrument made from a metal oil barrel, hammered to produce different musical notes**
+> 🇻🇳 **Vietnamese:** Trống thép, trống dầu Caribbean**
+> 🗣️ **IPA:** */stiːl drʌm/*
+> 🧠 **Mental Model:** Một oil barrel thép bị hammer thành mặt phẳng với các vùng khác nhau tạo ra different notes khi đánh với rubber beaters**
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A Caribbean percussion instrument made from a metal oil barrel that produces melodious tones"**
+**Vietnamese:** Trống thép Caribbean, nhạc cụ từ thùng phi dầu**
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**steel drum** (*/stiːl drʌm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **steel drum** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The cruise ship featured a local steel drum band that entertained passengers with traditional Caribbean melodies.**
+> 🇻🇳 **Translation:** Tàu du lịch có một ban nhạc trống thép địa phương giải trí cho hành khách với những giai điệu Caribbean truyền thống.**
+> 🔍 **Analysis:** 'Steel drum band' là fixed phrase chỉ ensemble chơi steel drums, thể hiện văn hóa âm nhạc Caribbean một cách authentic**
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **steel drum**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Performance:** play the steel drums (chơi trống thép)
+> 2. **Music context:** steel drum music/band (nhạc/ban nhạc trống thép)
+> 3. **Cultural:** Caribbean steel drums (trống thép Caribbean)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **steel drum**:
+"The musician played a Caribbean instrument."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The musician skillfully played the steel drum, its melodic tones echoing the vibrant spirit of Trinidad."**
+> 💡 **Why it works:** 'Steel drum' specific và evocative, tạo ra hình ảnh rõ nét về văn hóa Caribbean thay vì generic 'instrument'**
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **steel drum** instead of **[[drum]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **steel drum:** Specific percussion instrument từ oil barrel, tạo ra melodious pitches, đặc trưng của Caribbean music**
+> **[[drum]]:** General term cho percussion instruments, thường tạo ra rhythmic beats hơn là melodies**
+> 🧱 **The Barrier:** Steel drums produce pitched melodies while regular drums primarily provide rhythm and beat**
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a Caribbean beach festival hearing tropical music. Describe the sound!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The mesmerizing sound of steel drums transported me to the sunny beaches of Trinidad."**
+> 👨‍🎨 **Director's Note:** 'Steel drums' immediately establishes cultural setting và tạo ra atmospheric description cho tropical scene**
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the invention of **steel drum** to Trinidad's history.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Khởi nguồn từ Trinidad 1930s khi người ta discovered discarded oil barrels có thể be transformed into musical instruments - turning industrial waste vào cultural treasure represents resourcefulness và artistic innovation**
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **steel drum**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** English compound 'steel' (thép) + 'drum' (trống)**
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* steel drum (trống thép)
+> - *(alternative)* steelpan (trống thép)
+> - *(player)* pannist (người chơi steel drum)
+> - *(music style)* calypso (thể loại nhạc đi kèm)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */stiːl drʌm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**steel drum**
+> 📖 **Meaning:** A Caribbean percussion instrument made from a metal oil barrel**
+> 🇻🇳 **Vietnamese:** Trống thép Caribbean, trống dầu**
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **steel drum**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The drummer hit the steel drum with wooden sticks**
+> ✅ **Correction:** The pannist played the steel drum with rubber-tipped beaters**
+> 🧠 **Why:** Steel drums require special rubber-tipped beaters để produce correct tones và avoid damaging the hammered surface. Người chơi được gọi là 'pannist', không phải 'drummer'**
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite concept of **steel drum**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Contrast Concepts:**
+> - [[classical instrument]] (nhạc cụ cổ điển như violin, piano)
+> - [[electronic instrument]] (nhạc cụ điện tử như synthesizer)
+> 🧱 **Contrast:** Steel drums are acoustic, handmade folk instruments from recycled materials, unlike mass-produced classical or electronic instruments**
 
 ---

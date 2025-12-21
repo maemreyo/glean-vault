@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [subsequent, subsequently, ingest, ingestion]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsʌbsɪkwənt ɪnˈdʒestʃən/
+> **Part of Speech:** adjective phrase + noun
+> **CEFR Level:** C1
+> **Register:** formal/academic/medical
+> **Etymology:** Subsequent: Latin subsequentem (following); Ingestion: Latin ingerere (to pour in)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The following act of taking something into the body
+>
+> **Context Meaning:** The next occurrence of consuming or absorbing substances, typically food, drink, or information, after a previous event
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** việc hấp thụ/nhập vào tiếp theo
+> - **Contextual:** việc tiêu hóa tiếp theo; việc tiếp nhận thông tin sau đó
+>
 > **Nuances:**
-> - ...
+> - Common in medical and biological contexts
+> - Can refer to physical consumption or metaphorical information intake
+> - Subsequent emphasizes sequence - something happened before this
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Scientific, Sequential, Precise
+> **Memory Hook:** Subsequent = sub (under) + sequent (following) = coming after. Ingestion = in + gest (carry) = carrying in. Together: taking in what comes next!
+> **📖 Etymology Story:** Latin "subsequi" = to follow closely. When animals hunt, they often eat prey multiple times. Each following meal is a "subsequent ingestion" - the next time they take in sustenance!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[ingestion]] /ɪnˈdʒestʃən/
+> - **Noun:** [[subsequence]] /ˈsʌbsɪkwəns/
+> - **Adj:** [[subsequent]] /ˈsʌbsɪkwənt/
+> - **Verb:** [[ingest]] /ɪnˈdʒest/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[following consumption]] /ˈfɒləʊɪŋ kənˈsʌmpʃn/ : next eating/absorption
+> - [[later intake]] /ˈleɪtə(r) ɪnteɪk/ : taking in afterwards
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[initial ingestion]] /ɪˈnɪʃl ɪnˈdʒestʃən/ : first consumption
+> - [[preceding consumption]] /priːˈsiːdɪŋ kənˈsʌmpʃn/ : earlier eating
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. subsequent ingestion of
+> 2. prevent subsequent ingestion
+> 3. after subsequent ingestion
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The doctor advised waiting two hours before the subsequent ingestion of medication.
+> - **Translation:** Bác sĩ khuyên nên đợi hai giờ trước khi uống liều thuốc tiếp theo.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The study examined patients' symptoms after subsequent ingestion of the allergen.
+> - **Translation:** Nghi cứu đã xem xét các triệu chứng của bệnh nhân sau khi tiếp xúc với dị nguyên lần tiếp theo.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word order confusion**
+> - ❌ **Mistake:** "The ingestion subsequent of food..."
+> - ✅ **Correction:** "The subsequent ingestion of food..." (adjective before noun)
+> - **Why:** In English, adjectives usually come before the nouns they modify
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Each subsequent ingestion of information builds upon the foundation of prior knowledge."
+> **Source:** [[Educational Psychology Text]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **subsequent ingestion** (*/ˈsʌbsɪkwənt ɪnˈdʒestʃən/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The next occurrence of taking something into the body; the following act of consuming or absorbing substances
+> 🇻🇳 **Vietnamese:** Việc hấp thụ/nhập vào tiếp theo; hành động tiêu thụ hoặc hấp thụ chất tiếp theo
+> 🗣️ **IPA:** */ˈsʌbsɪkwənt ɪnˈdʒestʃən/*
+> 🧠 **Mental Model:** Subsequent (tiếp theo) + ingestion (hấp thụ) = lần吸收/ăn uống tiếp theo sau một lần trước đó
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The following act of taking in food, drink, medicine or other substances into the body"
+**Vietnamese:** Hành động tiếp theo đưa thức ăn, đồ uống, thuốc hoặc các chất khác vào cơ thể
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**subsequent ingestion** (*/ˈsʌbsɪkwənt ɪnˈdʒestʃən/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **subsequent ingestion** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Poison control warned that symptoms might not appear until after the subsequent ingestion of water activated the chemical.
+> 🇻🇳 **Translation:** Trung tâm kiểm soát độc substances cảnh báo rằng các triệu chứng có thể không xuất hiện cho đến khi uống nước tiếp theo kích hoạt hóa chất.
+> 🔍 **Analysis:** Perfect medical usage showing sequence - the chemical was ingested once, but symptoms only appeared after WATER was ingested subsequently!
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **subsequent ingestion**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Medical:** prevent subsequent ingestion (động từ + danh từ - ngăn ngừa + việc hấp thụ tiếp theo)
+> 2. **Timing:** hours after subsequent ingestion (thời gian + sau + việc hấp thụ tiếp theo)
+> 3. **Substance:** subsequent ingestion of food/medication (danh từ + của + vật thể)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **subsequent ingestion**:
+" Eating more made him sick."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The patient's nausea intensified with each subsequent ingestion of food, suggesting a progressive gastrointestinal reaction."
+> 💡 **Why it works:** Advanced version shows medical precision, sequential progression, and specific physiological response - much more informative than basic "eating more"!
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **subsequent ingestion** instead of **eating more**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **subsequent ingestion:** Formal, medical/technical term; emphasizes sequence and can include non-food substances (tiêu hóa tiếp theo - thuật ngữ y học)
+> **eating more:** Informal, food-specific, focuses on quantity rather than sequence (ăn nhiều hơn - thông thường)
+> 🧱 **The Barrier:** Subsequent ingestion can include medicine, chemicals, information. Eating more only refers to food quantity. One follows events, the other increases quantity!
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining a drug's warning label to someone. You feel medically authoritative. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Don't take any other medications for at least 4 hours after the initial dose, as any subsequent ingestion could cause dangerous interactions."
+> 👨‍🎨 **Director's Note:** Perfect pharmaceutical warning - uses precise medical terminology to clearly communicate sequential risks!
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `subsequent` and `ingestion` to their meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "subsequi" = to follow closely + "ingerere" = to pour into/gestate. Imagine ancient healers tracking patients' responses to each medicine dose - each "following pouring in" of medicine revealed new effects!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **subsequent ingestion**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `sequi` (to follow) + `gerere` (to carry, bear)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[subsequent]] - following in time
+> - *(noun)* [[sequence]] - series of related events
+> - *(verb)* [[ingest]] - to take into the body
+> - *(noun)* [[digestion]] - breaking down what's ingested
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsʌbsɪkwənt ɪnˈdʒestʃən/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**subsequent ingestion**
+> 📖 **Meaning:** The next act of taking in substances
+> 🇻🇳 **Vietnamese:** Việc hấp thụ tiếp theo; lần tiêu hóa sau đó
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **subsequent ingestion**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The subsequent ingestion from the meal made me full."
+> ✅ **Correction:** "The subsequent ingestion of food made me full."
+> 🧠 **Why:** Ingestion needs the preposition 'of' before what is being ingested. You don't ingest 'from' something, you ingest 'of' something!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **subsequent ingestion**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[initial ingestion]] (first consumption - lần hấp thụ ban đầu)
+> - [[preceding intake]] (earlier consumption - lần nạp vào trước đó)
+> 🧱 **Contrast:** While subsequent ingestion follows and builds upon previous consumption, initial ingestion is the starting point - the first time something enters the system!
 
 ---

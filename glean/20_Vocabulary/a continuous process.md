@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [continuous processing, ongoing process, continual, uninterrupted, perpetual, constant]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə kənˈtɪn.ju.əs ˈprəʊ.ses/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** academic/business
+> **Etymology:** From Latin continuus (uninterrupted) + processus (progression)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A series of actions or steps that continue without interruption
+>
+> **Context Meaning:** An ongoing operation or development that progresses steadily without breaks
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** quá trình liên tục
+> - **Contextual:** quy trình không ngừng, diễn ra liên tục
+>
 > **Nuances:**
-> - ...
+> - Implies steady, ongoing development without pause
+> - Often used in manufacturing, business processes, and natural phenomena
+> - Can refer to both literal processes and abstract concepts like learning
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Persistent, Relentless, Methodical
+> **Memory Hook:** Continuous = without break + Process = series of steps = Steps that never stop
+> **📖 Etymology Story:** Ancient Roman engineers designed aqueducts as "continuous processes" - water flowing without interruption from source to city. This concept of unbroken flow inspired modern ideas about continuous improvement and ongoing operations.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[process]] /ˈprəʊ.ses/ : a series of actions
+> - **Adj:** [[continuous]] /kənˈtɪn.ju.əs/ : without interruption
+> - **Adv:** [[continuously]] /kənˈtɪn.ju.əs.li/ : without stopping
+> - **Verb:** [[continue]] /kənˈtɪn.juː/ : to keep going
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[ongoing]] /ˈɒn.ɡəʊ.ɪŋ/ : currently happening
+> - [[uninterrupted]] /ˌʌn.ɪn.təˈrʌp.tɪd/ : without breaks
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[intermittent]] /ˌɪn.təˈmɪt.ənt/ : occurring at irregular intervals
+> - [[discontinuous]] /ˌdɪs.kənˈtɪn.ju.əs/ : broken, not continuous
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. continuous process of improvement
+> 2. continuous process of learning
+> 3. continuous process of development
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Language acquisition is a continuous process that requires regular practice.
+> - **Translation:** Việc tiếp thu ngôn ngữ là một quá trình liên tục đòi hỏi sự luyện tập thường xuyên.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The factory uses a continuous process to manufacture steel.
+> - **Translation:** Nhà máy sử dụng quy trình liên tục để sản xuất thép.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Usage Error**
+> - ❌ **Mistake:** We need a continuous process to check emails.
+> - ✅ **Correction:** We need to check emails continuously. / Email checking should be a continuous process.
+> - **Why:** "Continuous process" refers to an ongoing system, while "continuously" describes how an action is performed.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Education is not preparation for life; education is life itself. It's a continuous process of growth."
+> **Source:** John Dewey
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a continuous process** (*/ə kənˈtɪn.ju.əs ˈprəʊ.ses/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A series of actions or operations that proceed without interruption or pause
+> 🇻🇳 **Vietnamese:** Một quá trình liên tục; chuỗi hành động không ngừng nghỉ, diễn ra liên tục
+> 🗣️ **IPA:** */ə kənˈtɪn.ju.əs ˈprəʊ.ses/*
+> 🧠 **Mental Model:** Giống như một dòng sông chảy không ngừng - không có điểm dừng, luôn tiến về phía trước
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A series of actions that proceed without interruption"
+**Vietnamese:** Quá trình không ngừng nghỉ, diễn ra liên tục
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a continuous process** (*/ə kənˈtɪn.ju.əs ˈprəʊ.ses/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a continuous process** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Learning is a continuous process that extends throughout our entire lives.
+> 🇻🇳 **Translation:** Học tập là một quá trình liên tục kéo dài trong suốt cuộc đời của chúng ta.
+> 🔍 **Analysis:** "A continuous process" works perfectly to describe learning as an ongoing journey without clear endpoints, emphasizing the lifelong nature of acquiring knowledge and skills.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a continuous process**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Development/Growth:** continuous process of growth (quá trình tăng trưởng liên tục) - because development never truly ends
+> 2. **Improvement:** continuous process of improvement (quá trình cải tiến liên tục) - because perfection requires constant effort
+> 3. **Change:** continuous process of change (quá trình thay đổi liên tục) - because nothing remains static
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a continuous process**:
+"We need to keep getting better."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Innovation must be a continuous process of refinement and adaptation to market needs."
+> 💡 **Why it works:** "A continuous process" transforms a casual statement into a strategic principle, suggesting systematic, ongoing effort rather than occasional attempts.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a continuous process** instead of [[regular activity]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a continuous process:** Nhấn mạnh tính không ngừng nghỉ, không có interruption, diễn ra liên tục
+> **regular activity:** Chỉ nhấn mạnh tính thường xuyên, có thể có gián đoạn giữa các lần
+> 🧱 **The Barrier:** A continuous process implies seamless flow without breaks, trong khi regular activity chỉ có nghĩa là xảy ra thường xuyên nhưng có thể có khoảng nghỉ
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining quality control to new factory workers. You want to emphasize it never stops. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Quality assurance isn't a one-time check; it's a continuous process that happens at every stage of production."
+> 👨‍🎨 **Director's Note:** Professional and educational tone, emphasizing the perpetual nature of quality monitoring
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `continere` to the meaning of **a continuous process**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin continere ("to hold together") + processus ("forward movement") → A continuous process là "sự tiến về phía trước mà không bị đứt gãy", giữ cho mọi thứ kết nối và流动
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a continuous process**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `continere` (to hold together)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[continual]] : recurring frequently
+> - *(adj)* [[continuity]] : state of being continuous
+> - *(verb)* [[continue]] : to persist in an activity
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə kənˈtɪn.ju.əs ˈprəʊ.ses/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a continuous process**
+> 📖 **Meaning:** An unbroken series of actions or developments
+> 🇻🇳 **Vietnamese:** Quá trình liên tục không gián đoạn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a continuous process**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Breathing is a continuous process that we can stop anytime"
+> ✅ **Correction:** "Breathing is a continuous process that we cannot stop" OR "Breathing is an automatic process"
+> 🧠 **Why:** A continuous process, by definition, cannot be stopped at will. Don't contradict the word's meaning in the same sentence.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a continuous process**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[an intermittent process]] (stops and starts)
+> - [[a discrete event]] (happens once, isolated)
+> 🧱 **Contrast:** A continuous process flows without breaks, while an intermittent process has pauses and starts
 
 ---

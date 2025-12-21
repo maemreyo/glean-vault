@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [appearances, look, looks, seem, seem like, outward look, first impression]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈpɪərəns/
+> **Part of Speech:** noun
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** Latin "apparentia" (appearance, display) from "apparere" (to appear)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The way that someone or something looks; outward qualities or signs.
+>
+> **Context Meaning:** 1) The outward look or aspect of someone or something; 2) An act of appearing in a particular place or in public; 3) Something that seems to be true but may not be.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** vẻ ngoài, ngoại hình
+> - **Contextual:** sự xuất hiện, bề ngoài, vẻ bề ngoài
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical looks or the way things present themselves
+> - "Appearances can be deceiving" - what appears may not be reality
+> - Often used in first impressions and superficial judgments
+> - Can also mean formal presence at events
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Superficial, Deceptive, Observational
+> **Memory Hook:** Appear-ance - the way things appear to our eyes.
+> **📖 Etymology Story:** From Latin "apparere" (to appear) + "-ance" (noun suffix). Originally described the act of becoming visible, evolved to include both the quality of being visible and how something looks when visible - the mask that meets the eye.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[appear]] /əˈpɪə/
+> - **Adv:** [[apparently]] /əˈpærəntli/
+> - **Adj:** [[apparent]] /əˈpærənt/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[look]] /lʊk/ : physical appearance
+> - [[aspect]] /ˈæspekt/ : particular appearance
+> - [[exterior]] /ɪkˈstɪəriə/ : outer surface
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[reality]] /riˈæləti/ : actual nature
+> - [[substance]] /ˈsʌbstəns/ : true character
+> - [[essence]] /ˈesəns/ : inner nature
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. physical appearance
+> 2. first appearance
+> 3. judge by appearance
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Don't judge people by their appearance; character is more important.
+> - **Translation:** Đừng đánh giá con người qua vẻ ngoài; tính cách quan trọng hơn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The athlete made his first appearance at the Olympics this year.
+> - **Translation:** Vận động viên đã có lần xuất hiện đầu tiên tại Olympic năm nay.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability**
+> - ❌ **Mistake:** "He changed his appearances"
+> - ✅ **Correction:** "He changed his appearance"
+> - **Why:** "Appearance" is usually uncountable when referring to general looks
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Appearances can be deceiving; always look deeper."
+> **Source:** [[Common Proverb]]
 
 ---
 
@@ -161,121 +83,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **appearance** (*/əˈpɪərəns/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The way that someone or something looks to the eye; outward signs or qualities; the act of appearing somewhere.
+> 🇻🇳 **Vietnamese:** Vẻ ngoài, ngoại hình, sự xuất hiện, bề ngoài
+> 🗣️ **IPA: */əˈpɪərəns/*
+> 🧠 **Mental Model:** Như "book cover" - cái nhìn đầu tiên bên ngoài, nhưng không guaranteed reflect nội dung. Appearance là surface-level presentation mà người khác see.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The way someone or something looks to others"
+**Vietnamese:** Cách một người hoặc vật gì đó trông như thế nào đối với người khác
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**appearance** (*/əˈpɪərəns/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **appearance** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Despite his rugged appearance, the professor was known for his gentle nature and brilliant mind.
+> 🇻🇳 **Translation:** Mặc dù vẻ ngoài thô ráp của mình, vị giáo sư nổi tiếng với tính cách nhẹ nhàng và trí tuệ xuất sắc.
+> 🔍 **Analysis:** "Appearance" works perfectly ở đây vì nó tạo contrast giữa exterior look và inner qualities, highlighting common theme về không judging by appearances.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **appearance**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Physical Looks:** physical appearance, personal appearance, outward appearance (VN note: ngoại hình cơ thể)
+> 2. **First Impressions:** first appearance, initial appearance, make an appearance (VN note: lần xuất hiện đầu tiên)
+> 3. **Deception Theme:** judge by appearance, keep up appearances, deceptive appearance (VN note: chủ đánh giá qua vẻ ngoài)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **appearance**:
+"She looked different after the vacation."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "After her month-long retreat, her appearance reflected a newfound tranquility and inner peace."
+> 💡 **Why it works:** "Appearance" elevates description từ simple "look" đến comprehensive outward presentation,暗示 internal changes manifest externally.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **appearance** instead of **look**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **appearance:** More formal, comprehensive (VN: trang trọng, toàn diện)
+> **look:** Casual, temporary state (VN: thông thường, tạm thời)
+> 🧱 **The Barrier:** "Appearance" refers to overall outward presentation including style, manner, và presence, "look" là specific facial expression hoặc style at particular moment.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're giving advice about job interviews. You want to emphasize first impressions.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Remember, professional appearance can open doors before you even speak a word."
+> 👨‍🎨 **Director's Note:** "Appearance" sounds more serious và comprehensive than "looks", appropriate cho professional context.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `apparere` to the meaning of **appearance**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "apparere" (to appear, become visible) + "-ance" (quality/state). Từ "becoming visible" đến "how something looks when visible" - transformation từ action đến quality.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **appearance**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `parere` (to appear, show oneself)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* appear - xuất hiện, hiện ra
+> - *(adj)* apparent - rõ ràng, hiển nhiên
+> - *(adv)* apparently - rõ ràng là, dường như
+> - *(adj)* transparent - trong suốt
+> - *(verb)* disappear - biến mất
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈpɪərəns/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**appearance**
+> 📖 **Meaning:** The way someone or something looks to the eye
+> 🇻🇳 **Vietnamese:** Cách một người hoặc vật gì đó trông như thế nào
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **appearance**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She has a beautiful appearance." (unnatural phrasing)
+> ✅ **Correction:** "She is beautiful." hoặc "Her appearance is striking."
+> 🧠 **Why:** "Appearance" usually describes how someone looks overall, không used với adjectives like "beautiful" directly. More natural để describe person directly.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **appearance**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[reality]] (thực tế)
+> - [[substance]] (bản chất)
+> - [[inner self]] (con người bên trong)
+> 🧱 **Contrast:** While appearance là surface-level presentation, reality/substance represents true nature beneath surface - difference between mask và face.
 
 ---

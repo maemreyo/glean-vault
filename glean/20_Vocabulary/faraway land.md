@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [distant land, remote region, foreign country, exotic place, far-off territory, distant shore]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌfɑːrəˈweɪ ˈlænd/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** general/poetic
+> **Etymology:** 'faraway' from Old English 'feor' (far) + 'away', 'land' from Old English 'land'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A place that is very distant from where one currently is
+>
+> **Context Meaning:** An exotic, remote, or foreign country/region, often with romantic or mysterious connotations
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đất xa xôi, vùng đất xa lạ
+> - **Contextual:** xứ sở xa lạ, miền đất hẹn ước, vùng đất xa xôi
+>
 > **Nuances:**
-> - ...
+> - Often carries romantic or adventurous connotations
+> - Can imply a place that is different in culture, appearance, or atmosphere
+> - Sometimes used metaphorically for abstract concepts or goals
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Adventurous, Romantic, Mysterious
+> **Memory Hook:** Imagine a place 'far away' beyond the horizon, a 'land' waiting to be discovered
+> **📖 Etymology Story:** Old English 'feor' (far) + 'away' combines with 'land' to describe territories so distant they seem almost mythical
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** land /ˈlænd/
+> - **Adj:** faraway /ˈfɑːrəweɪ/
+> - **Adv:** far away /ˈfɑːr əˈweɪ/
+> - **Compound:** faraway lands /ˈfɑːrəweɪ ˈlændz/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[distant]] /ˈdɪstənt/ : far away in space or time
+> - [[remote]] /rɪˈməʊt/ : far away and difficult to get to
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[nearby]] /ˌnɪəˈbaɪ/ : close in distance
+> - [[home]] /həʊm/ : one's own country or place of origin
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Travel to faraway lands
+> 2. Stories from faraway lands
+> 3. Dreams of faraway lands
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The explorer told fascinating stories about his travels to faraway lands.
+> - **Translation:** Nhà thám hiểm kể những câu chuyện hấp dẫn về các chuyến đi đến những vùng đất xa xôi.
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** As a child, I often dreamed of visiting faraway lands and experiencing different cultures.
+> - **Translation:** Khi còn nhỏ, tôi thường mơ ước đến thăm những vùng đất xa lạ và trải nghiệm các nền văn hóa khác nhau.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect usage with article**
+> - ❌ **Mistake:** I want to explore faraway land.
+> - ✅ **Correction:** I want to explore faraway lands. / I want to explore a faraway land.
+> - **Why:** 'Faraway land' usually needs 'a' for singular or uses plural 'lands' when referring to multiple distant places
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "They came from a faraway land to seek new opportunities."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **faraway land** (*/ˌfɑːrəˈweɪ ˈlænd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A distant place, often foreign or exotic, that is far from where one currently is
+> 🇻🇳 **Vietnamese:** Đất xa xôi, vùng đất xa lạ
+> 🗣️ **IPA:** */ˌfɑːrəˈweɪ ˈlænd/*
+> 🧠 **Mental Model:** Một nơi chốn 'far away' - rất xa, và 'land' - vùng đất, tạo thành hình ảnh về một miền đất xa xôi đầy bí ẩn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A distant, remote region or country, often with romantic or mysterious connotations"
+**Vietnamese:** Vùng đất xa xôi, xứ sở xa lạ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**faraway land** (*/ˌfɑːrəˈweɪ ˈlænd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **faraway land** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The sailors returned with treasures and tales from a mysterious faraway land across the ocean.
+> 🇻🇳 **Translation:** Những thủy thủ trở về với của cải và những câu chuyện từ một vùng đất xa lạ bí ẩn bên kia đại dương.
+> 🔍 **Analysis:** 'Faraway land' ở đây tạo ra không khí phiêu lưu và bí ẩn - nó không chỉ có nghĩa xa về địa lý mà còn gợi cảm giác khác biệt văn hóa, chưa được khám phá
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **faraway land**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Travel/Exploration:** Travel to/explore faraway lands (du lịch/khám phá những vùng đất xa xôi)
+> 2. **Stories/Tales:** Stories from/tales of faraway lands (câu chuyện/truyền thuyết về những miền đất xa lạ)
+> 3. **Dreams/Imagination:** Dreams of/imagining faraway lands (mơ tưởng/hình dung về những vùng đất xa xôi)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **faraway land**:
+"She wanted to visit foreign countries."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She longed to explore faraway lands where ancient traditions still thrived untouched by modern civilization."
+> 💡 **Why it works:** 'Faraway lands' mạnh hơn 'foreign countries' vì nó không chỉ nói về nước ngoài mà còn gợi lên hình ảnh những miền đất đầy bí ẩn, phiêu lưu và sự khác biệt văn hóa sâu sắc
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **faraway land** instead of **[[foreign country]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **faraway land:** Mang sắc thái lãng mạn, phiêu lưu, bí ẩn, thường chỉ những nơi xa xôi, ít người biết đến
+> **[[foreign country]]:** Trung tính, chỉ đơn thuần là một quốc gia khác, thường dùng trong bối cảnh chính thức, hành chính
+> 🧱 **The Barrier:** Faraway land là cảm xúc và hình ảnh, foreign country là thực tế và địa lý
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're looking at travel photos of exotic destinations with a friend. You feel inspired to explore. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "These photos make me want to pack my bags and journey to faraway lands I've never even heard of."
+> 👨‍🎨 **Director's Note:** 'Faraway lands' thể hiện khát khao phiêu lưu, khám phá những nơi chưa biết - phù hợp với cảm hứng du lịch
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `feor + away + land` to the meaning of **faraway land**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'feor' (xa) kết hợp với 'away' (rời đi) và 'land' (đất) - tạo thành hình ảnh về những vùng đất nằm ở khoảng cách xa đến mức tưởng như không thể chạm tới, mang theo sự huyền bí và khao khát khám phá
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **faraway land**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `feor` (far/distant) + `land` (ground/territory)
+> 👨‍👩‍👧 **Family:**
+> - *(adjective)* faraway (xa xôi, xa lạ)
+> - *(adverb)* far away (ở xa)
+> - *(noun)* land (đất, vùng đất, quốc gia)
+> - *(compound)* faraway lands (nhiều vùng đất xa xôi)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌfɑːrəˈweɪ ˈlænd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**faraway land**
+> 📖 **Meaning:** A distant, remote, or exotic place far from one's current location
+> 🇻🇳 **Vietnamese:** Đất xa xôi, vùng đất xa lạ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **faraway land**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The merchant imported goods from faraway land
+> ✅ **Correction:** The merchant imported goods from faraway lands. / The merchant imported goods from a faraway land.
+> 🧠 **Why:** Khi nói chung chung về những vùng đất xa xôi, dùng plural 'lands'. Khi nói về một nơi cụ thể, cần có article 'a' trước 'faraway land'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **faraway land**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[home]] (nhà quê, quê hương)
+> - [[nearby place]] (nơi gần)
+> 🧱 **Contrast:** Faraway land là nơi xa lạ, đầy hấp dẫn để khám phá; trong khi home/nearby place là nơi quen thuộc, bình thường
 
 ---

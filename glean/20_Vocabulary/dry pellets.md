@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
 #flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [pellet, pellets, feed pellets, food pellets, compressed food, animal feed]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /draɪ ˈpeləts/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** technical/general
+> **Etymology:** dry (from Old English 'drȳge') + pellet (from French 'pelote' - ball)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Small, compressed, dried pieces of material shaped into cylinders or spheres
+>
+> **Context Meaning:** Small, hard, dried food particles formed into compact shapes, typically used as animal feed or as fuel
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hạt khô, viên cám khô
+> - **Contextual:** thức ăn viên khô, hạt nhiên liệu nén, cám viên
+>
 > **Nuances:**
-> - ...
+> - Often used for animal feed due to easy storage and controlled portions
+> - Can also refer to compressed wood for fuel (wood pellets)
+> - Uniform shape and size allows for automated feeding systems
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Compact, Efficient, Uniform
+> **Memory Hook:** Pellets = small balls (like pellet gun ammo) + dry = khô khô → khô tròn
+> **📖 Etymology Story:** From French 'pelote' meaning "ball" - like small balls of yarn or clay, compressed and dried for easy handling and storage
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[pellet]] /ˈpelət/, [[dryness]] /ˈdraɪnəs/
+> - **Adj:** [[dry]] /draɪ/
+> - **Verb:** [[pelletize]] /ˈpelətaɪz/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[feed nuggets]] /fiːd ˈnʌɡɪts/ : compressed animal food pieces
+> - [[compressed feed]] /kəmˈprest fiːd/ : tightly packed animal food
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[wet feed]] /wet fiːd/ : moist animal food
+> - [[loose feed]] /luːs fiːd/ : uncompressed animal food
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Feed/dispense/store dry pellets
+> 2. Pellets of wood/plastic
+> 3. Pellet stove/mill
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The farm uses automatic feeders to dispense dry pellets to the cattle twice daily.
+> - **Translation:** Nông trại sử dụng máy cho ăn tự động để phát cám viên khô cho gia súc hai lần một ngày.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Wood pellets have become an increasingly popular source of renewable energy for home heating.
+> - **Translation:** Hạt gỗ nén đã trở thành nguồn năng lượng tái tạo ngày càng phổ biến để sưởi ấm gia đình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural confusion**
+> - ❌ **Mistake:** The machine produces many dry pellet.
+> - ✅ **Correction:** The machine produces many dry pellets.
+> - **Why:** 'Pellet' is countable and needs 's' for plural when referring to multiple units
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The laboratory mice were fed a measured amount of dry pellets each day to ensure consistent nutrition."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +80,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **dry pellets** (*/draɪ ˈpeləts/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Small, compressed, dried pieces of material shaped into cylinders or spheres, typically used as feed or fuel
+> 🇻🇳 **Vietnamese:** Hạt khô, viên cám khô, thức ăn viên nén
+> 🗣️ **IPA:** */draɪ ˈpeləts/*
+> 🧠 **Mental Model:** Những viên nhỏ tròn tròn hoặc hình trụ, khô và cứng - như cám viên cho thú hoặc pellet gỗ để làm fuel
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Small, compressed, dried pieces of material formed into compact shapes for storage and use"
+**Vietnamese:** Những mảnh vật liệu nhỏ, nén, khô được định hình cho dễ lưu trữ và sử dụng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**dry pellets** (*/draɪ ˈpeləts/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **dry pellets** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The pet store sells various types of dry pellets for different animals, from fish to rabbits.
+> 🇻🇳 **Translation:** Cửa hàng thú cưng bán nhiều loại cám viên khô cho các loài động vật khác nhau, từ cá đến thỏ.
+> 🔍 **Analysis:** 'Dry pellets' ở đây chỉ thức ăn cho thú đã được processed và dried để dễ storage và preserve - term này common trong pet/farming context
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **dry pellets**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** feed/dispense/store dry pellets (cho ăn/phát/lưu trữ hạt khô)
+> 2. **Material:** wood/plastic/food dry pellets (hạt khô gỗ/nhựa/thực phẩm)
+> 3. **Equipment:** pellet stove/mill/feeder (lò/nhà máy/máy cho ăn viên)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **dry pellets**:
+"The animals eat compressed food."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The laboratory rodents receive measured portions of protein-rich dry pellets to ensure consistent nutrition."
+> 💡 **Why it works:** 'Dry pellets' specific hơn 'compressed food' vì暗示 uniform shape, processed form, và standardized nutrition - rất scientific và precise
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **dry pellets** instead of **[[kibble]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **dry pellets:** General term for any compressed dried material, can be for fuel or various feeds
+> **[[kibble]]:** Specifically pet food, usually for dogs/cats, often larger pieces
+> 🧱 **The Barrier:** Pellets = broader category including fuel and animal feed; kibble = specific pet food type
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining how your new eco-friendly heating system works. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Instead of oil, our heating system burns dry pellets made from compressed wood waste - it's much more sustainable!"
+> 👨‍🎨 **Director's Note:** Câu này shows environmental awareness và explains technical concept in accessible way - 'dry pellets' sound scientific nhưng still easy to understand
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `pelote` to the meaning of **dry pellets**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** French `pelote` nghĩa là "ball". Imagine những small balls được compressed và dried - đó chính là pellets. Like making small meatballs rồi drying them cho lâu hỏng!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **dry pellets**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:**
+> - Old English `drȳge` (dry) → dry
+> - French `pelote` (ball) → pellet
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* pellet gun (súng bắn đạn bi)
+> - *(noun)* pillulation (viên thuốc)
+> - *(verb)* pelletize (làm thành viên)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */draɪ ˈpeləts/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**dry pellets**
+> 📖 **Meaning:** Small, compressed dried material in cylindrical or spherical form
+> 🇻🇳 **Vietnamese:** Hạt khô, viên cám khô
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **dry pellets**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The feed machine output dry pellets at a rapid rate.
+> ✅ **Correction:** The feed machine outputs dry pellets at a rapid rate.
+> 🧠 **Why:** "Output" là regular verb, không cần "output" - có thể dùng "produces", "dispenses", hoặc "outputs" (đúng) nhưng "output" (không có s) là sai
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **dry pellets**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[wet mash]] (thức ăn ướt nghiền)
+> - [[loose grain]] (nguyên liệu dạng hạt rời)
+> 🧱 **Contrast:** Dry pellets are compressed and dehydrated for preservation and efficiency, while their antonyms are moist and unprocessed forms
 
 ---

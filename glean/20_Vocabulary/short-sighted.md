@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [shortsightedly, short-sightedness, myopic, nearsighted, shortsighted]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈʃɔːt.saɪ.tɪd/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** formal/informal
+> **Etymology:** Compound word: short + sight (from Old English siht)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Unable to see distant objects clearly
+>
+> **Context Meaning:** Lacking foresight; not considering the long-term consequences of actions
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cận thị, mắt lồi
+> - **Contextual:** thiển cận, thiếu tầm nhìn xa trông rộng
+>
 > **Nuances:**
-> - ...
+> - Has both literal (vision) and figurative (decision-making) meanings
+> - Often carries negative connotations when used figuratively
+> - Implies poor judgment due to focusing only on immediate concerns
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Impulsive, Immediate-focused, Reckless
+> **Memory Hook:** Short = limited + Sight = vision = Limited vision, both literally and figuratively
+> **📖 Etymology Story:** Ancient hunters needed both near vision for tracking and far vision for spotting prey. Those who could only focus on what was close were called "short-sighted" - a term that evolved to describe anyone missing the bigger picture in life's decisions.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[short-sightedness]] /ˈʃɔːt.saɪ.tɪd.nəs/ : the quality of being short-sighted
+> - **Adv:** [[short-sightedly]] /ˈʃɔːt.saɪ.tɪd.li/ : in a short-sighted manner
+> - **Adj:** [[nearsighted]] /ˈnɪə.saɪ.tɪd/ : American spelling variant
+> - **Adj:** [[myopic]] /maɪˈɒp.ɪk/ : medical/technical term
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[improvident]] /ɪmˈprɒv.ɪ.dənt/ : not providing for the future
+> - [[unwise]] /ʌnˈwaɪz/ : lacking good judgment
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[far-sighted]] /ˈfɑː.saɪ.tɪd/ : showing careful consideration for the future
+> - [[visionary]] /ˈvɪʒ.ən.ər.i/ : having original ideas about the future
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. short-sighted decision/choice
+> 2. short-sighted approach/policy
+> 3. short-sighted view/perspective
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Cutting education funding was a short-sighted decision that will harm future generations.
+> - **Translation:** Việc cắt giảm ngân sách giáo dục là một quyết định thiển cận sẽ gây hại cho các thế hệ tương lai.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** He needs glasses for his short-sightedness; he can't read signs from a distance.
+> - **Translation:** Anh ấy cần kính do bị cận thị; anh không thể đọc các biển báo từ xa.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling Error**
+> - ❌ **Mistake:** He's short-sightedly ambitious.
+> - ✅ **Correction:** His ambition is short-sighted. / He is short-sightedly ambitious.
+> - **Why:** Short-sightedly is an adverb modifying verbs, not nouns. Use the adjective form for nouns.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A society grows great when old men plant trees whose shade they know they shall never sit in."
+> **Source:** Greek Proverb (opposite of short-sighted thinking)
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **short-sighted** (*/ˈʃɔːt.saɪ.tɪd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Lacking foresight or consideration for long-term consequences; also literally unable to see distant objects
+> 🇻🇳 **Vietnamese:** Thiển cận, thiếu tầm nhìn xa; (nghĩa đen) bị cận thị
+> 🗣️ **IPA:** */ˈʃɔːt.saɪ.tɪd/*
+> 🧠 **Mental Model:** Người chỉ nhìn thấy cái gì ngay trước mắt, không nghĩ đến tương lai xa
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Lacking foresight; not considering long-term consequences"
+**Vietnamese:** Thiển cận, thiếu tầm nhìn xa trông rộng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**short-sighted** (*/ˈʃɔːt.saɪ.tɪd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **short-sighted** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The company's short-sighted focus on quarterly profits led to its eventual bankruptcy.
+> 🇻🇳 **Translation:** Sự tập trung thiển cận vào lợi nhuận hàng quý đã dẫn đến sự phá sản cuối cùng của công ty.
+> 🔍 **Analysis:** "Short-sighted" powerfully criticizes the company's lack of strategic planning, showing how immediate gains sacrificed long-term sustainability, creating a strong cautionary example.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **short-sighted**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Planning:** short-sighted policy (chính sách thiển cận) - because policies should always consider future impacts
+> 2. **Decision Making:** short-sighted decision (quyết định thiển cận) - because decisions have long-term consequences
+> 3. **Perspective:** short-sighted view (quan điểm thiển cận) - because views shape future actions
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **short-sighted**:
+"That was a bad plan."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "That was a short-sighted plan that prioritized immediate convenience over sustainable growth."
+> 💡 **Why it works:** "Short-sighted" adds analytical depth, identifying exactly why the plan was bad - not just flawed, but dangerously focused on the present at the expense of the future.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **short-sighted** instead of [[stupid]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **short-sighted:** Chỉ thiếu tầm nhìn, có thể thông minh nhưng chỉ tập trung vào hiện tại
+> **stupid:** Tổng chỉ lack of intelligence, kém thông minh nói chung
+> 🧱 **The Barrier:** Short-sighted nhấn mạnh lỗi trong planning/judgment, trong khi stupid là chỉ trích overall intelligence
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to quit university to start a business with no research or planning. You're concerned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Don't be so short-sighted! At least finish your degree while developing the business on the side."
+> 👨‍🎨 **Director's Note:** Shows concern while advising caution, emphasizes the importance of backup plans
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `sight` to the meaning of **short-sighted**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ short (ngắn, hạn chế) + sight (thị lực, tầm nhìn) → Short-sighted là "tầm nhìn bị giới hạn ở cự ly ngắn", không chỉ về mắt mà còn về judgment
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **short-sighted**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `siht` (vision, appearance)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[insight]] : deep understanding
+> - *(noun)* [[oversight]] : unintentional failure to notice
+> - *(verb)* [[foresee]] : to see or predict beforehand
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈʃɔːt.saɪ.tɪd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**short-sighted**
+> 📖 **Meaning:** Lacking consideration for future consequences
+> 🇻🇳 **Vietnamese:** Thiển cận, thiếu tầm nhìn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **short-sighted**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "His shortsighted prevented him from seeing the big picture"
+> ✅ **Correction:** "His short-sightedness prevented him from seeing the big picture"
+> 🧠 **Why:** Short-sighted is the adjective, short-sightedness is the noun form meaning "the quality of being short-sighted"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **short-sighted**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[far-sighted]] (planning for the distant future)
+> - [[visionary]] (having foresight and original ideas)
+> 🧱 **Contrast:** Short-sighted focuses only on immediate needs, while far-sighted considers long-term implications and future generations
 
 ---

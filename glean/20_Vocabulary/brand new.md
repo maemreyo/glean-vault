@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [brand-new, brandnew, completely new, fresh, pristine, mint condition, unused, untouched]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌbrænd ˈnjuː/
+> **Part of Speech:** adjective phrase
+> **CEFR Level:** A2
+> **Register:** informal/neutral
+> **Etymology:** 'Brand' from Old English 'brand' (burning, torch), 'new' from Old English 'nīwe'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Completely new and unused, as if freshly made
+>
+> **Context Meaning:**
+> - Absolutely new and unused, fresh from the manufacturer
+> - In perfect, untouched condition
+> - Recently created or introduced
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hoàn toàn mới, mới tinh
+> - **Contextual:** mới toanh, chưa qua sử dụng, mới nguyên
+>
 > **Nuances:**
-> - ...
+> - Emphasizes complete newness, often implying perfect condition
+> - 'Brand' intensifies 'new' to mean completely or totally new
+> - Can be used literally (products) or figuratively (ideas, methods)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Fresh, Perfect, Untouched
+> **Memory Hook:** Imagine something so new it still has the 'brand' (manufacturer's mark) on it
+> **📖 Etymology Story:** 'Brand' originally meant 'fire' or 'burn' - like branding cattle. Something 'brand new' is so fresh it's as if just branded with the maker's mark
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** brand /brænd/
+> - **Adj:** new /njuː/
+> - **Phrase:** brand new /ˌbrænd ˈnjuː/
+> - **Related:** brand-new (hyphenated form)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[fresh]] /freʃ/ : recently made, obtained, or arrived
+> - [[pristine]] /ˈprɪstiːn/ : in its original condition; unspoiled
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[secondhand]] /ˈsekəndhænd/ : already used by someone else
+> - [[worn]] /wɔːn/ : damaged and shabby as a result of much use
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Brand new car/house/phone
+> 2. Still brand new
+> 3. Look brand new
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She just bought a brand new laptop with the latest features.
+> - **Translation:** Cô ấy vừa mua một chiếc laptop mới tinh với những tính năng mới nhất.
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** After renovation, the kitchen looked brand new.
+> - **Translation:** Sau khi cải tạo, căn bếp trông mới toanh.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Adjective position**
+> - ❌ **Mistake:** A car brand new.
+> - ✅ **Correction:** A brand new car.
+> - **Why:** 'Brand new' is an adjective phrase that comes BEFORE the noun it modifies
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The museum displayed several brand new artifacts discovered last month."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +84,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **brand new** (*/ˌbrænd ˈnjuː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Completely new, fresh and unused; in perfect condition as if just made
+> 🇻🇳 **Vietnamese:** Hoàn toàn mới, mới tinh, mới toanh, chưa qua sử dụng
+> 🗣️ **IPA:** */ˌbrænd ˈnjuː/*
+> 🧠 **Mental Model:** 'Brand' như 'thương hiệu' còn dính mới -> vật còn mới tinh như vừa xuất xưởng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Completely new and unused; fresh from the manufacturer in perfect condition"
+**Vietnamese:** Mới tinh, hoàn toàn mới, chưa qua sử dụng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**brand new** (*/ˌbrænd ˈnjuː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **brand new** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The company just launched their brand new smartphone with revolutionary features.
+> 🇻🇳 **Translation:** Công ty vừa ra mắt điện thoại thông minh mới tinh của họ với các tính năng cách mạng.
+> 🔍 **Analysis:** 'Brand new' ở đây nhấn mạnh sự mới hoàn toàn - không chỉ mới mà còn là phiên bản mới nhất, chưa từng có trước đây, tạo excitement cho sản phẩm
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **brand new**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Products:** brand new car/phone/computer (xe/điện thoại/máy tính mới tinh)
+> 2. **Condition:** still brand new / looks brand new (vẫn còn rất mới / trông mới toanh)
+> 3. **Possessions:** my brand new / his brand new (cái... mới tinh của tôi/anh ấy)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **brand new**:
+"He showed me his recent purchase."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He proudly showed off his brand new sports car, gleaming under the showroom lights."
+> 💡 **Why it works:** 'Brand new' tạo cảm giác excitement và perfection mạnh mẽ hơn 'recent purchase' - nó gợi hình ảnh về cái gì đó untouched, perfect và đáng tự hào
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **brand new** instead of **[[new]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **brand new:** Nhấn mạnh sự mới hoàn toàn, chưa từng sử dụng, perfect condition
+> **[[new]]:** Chỉ đơn thuần là mới, có thể đã được sử dụng một chút
+> 🧱 **The Barrier:** Brand new là 100% new, new chỉ là relatively new
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend just got the latest phone and wants to show you. You're impressed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Wow, is that the brand new iPhone? Let me see all the features!"
+> 👨‍🎨 **Director's Note:** 'Brand new iPhone' thể hiện excitement và sự quan tâm đến sản phẩm mới nhất - phù hợp với not khí công nghệ
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `brand + new` to the meaning of **brand new**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Brand' từ 'burning' - như khi người ta đốt 'brand' mark onto cattle. Something 'brand new' còn 'fresh' đến mức như vừa được 'branded' với dấu hiệu của nhà sản xuất
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **brand new**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `brand` (burning, torch, mark) + `nīwe` (new)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* brand (thương hiệu, dấu hiệu)
+> - *(adjective)* new (mới)
+> - *(phrase)* brand new (hoàn toàn mới)
+> - *(related)* brand-new (hyphenated form), branding (việc xây dựng thương hiệu)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌbrænd ˈnjuː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**brand new**
+> 📖 **Meaning:** Completely new and unused
+> 🇻🇳 **Vietnamese:** Hoàn toàn mới, mới tinh
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **brand new**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I bought shoes brand new yesterday
+> ✅ **Correction:** I bought brand new shoes yesterday.
+> 🧠 **Why:** 'Brand new' là adjective phrase đứng TRƯỚC noun. Không thể đặt nó sau noun như vậy
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **brand new**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[secondhand]] (đồ đã qua sử dụng)
+> - [[worn out]] (đã cũ, mòn)
+> 🧱 **Contrast:** Brand new là untouched perfect condition, secondhand/worn out là đã có signs of use
 
 ---

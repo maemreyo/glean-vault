@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [lungs, pulmonary, respiratory, lung capacity, lung disease, lung cancer]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /lʌŋ/
+> **Part of Speech:** noun
+> **CEFR Level:** A2
+> **Register:** medical/general
+> **Etymology:** Old English 'lungen' (lungs), from Proto-Germanic 'lungwō'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Either of the two organs in the chest that remove carbon dioxide from and bring oxygen to the blood
+>
+> **Context Meaning:** A vital respiratory organ that allows breathing and oxygen exchange in vertebrates
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** phổi
+> - **Contextual:** lá phổi, cơ quan hô hấp
+>
 > **Nuances:**
-> - ...
+> - Humans have two lungs (left and right)
+> - Essential for breathing and oxygenating blood
+> - Subject to various diseases (cancer, pneumonia, etc.)
+> - Can be damaged by smoking and pollution
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Essential, Delicate, Life-giving
+> **Memory Hook:** Your lungs are like 'bellows' that help you breathe - in and out, in and out
+> **📖 Etymology Story:** Từ Old English 'lungen' - lá phổi, cơ quan thiết yếu cho sự sống, giúp trao đổi khí và duy trì sự sống
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** lung /lʌŋ/
+> - **Adj:** pulmonary /ˈpʌlmənəri/
+> - **Adj:** lunged /lʌŋd/
+> - **Related:** respiratory /rəˈspɪrətri/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[respiratory organ]] /rəˈspɪrətri ˈɔːɡən/ : breathing organ (formal)
+> - [[breathing organ]] /ˈbriːðɪŋ ˈɔːɡən/ : air exchange organ
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - None (essential organ)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Lung capacity/function
+> 2. Lung cancer/disease
+> 3. Artificial lung
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Smoking severely damages the lungs and reduces breathing capacity.
+> - **Translation:** Hút thuốc lá gây tổn thương nghiêm trọng cho phổi và giảm sức chứa hô hấp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The doctor listened to the patient's lungs with a stethoscope.
+> - **Translation:** Bác sĩ đã nghe phổi của bệnh nhân bằng ống nghe.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Singular/plural confusion**
+> - ❌ **Mistake:** The human body has one **lung**.
+> - ✅ **Correction:** The human body has two **lungs**.
+> - **Why:** Humans typically have two lungs (left and right)
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The pollution can damage your lungs over time."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **lung** (*/lʌŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Either of the two organs in the chest that remove carbon dioxide from and bring oxygen to the blood
+> 🇻🇳 **Vietnamese:** Phổi, lá phổi
+> 🗣️ **IPA:** */lʌŋ/*
+> 🧠 **Mental Model:** 'Lung' là cơ quan như 'bóng' trong ngực, giúp bạn 'breathe in' oxygen và 'breathe out' carbon dioxide
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Either of the two organs in the chest that remove carbon dioxide and bring oxygen to the blood"
+**Vietnamese:** Phổi, lá phổi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**lung** (*/lʌŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **lung** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The marathon runner had developed exceptional lung capacity through years of training.
+> 🇻🇳 **Translation:** Vận động viên marathon đã phát triển sức chứa phổi phi thường qua nhiều năm rèn luyện.
+> 🔍 **Analysis:** 'Lung' ở đây là danh từ, kết hợp với 'capacity' để chỉ khả năng hô hấp, thể hiện khía cạnh y tế/thể thao
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **lung**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Health:** Lung capacity/function/disease (sức chứa/chức năng/bệnh phổi - y tế)
+> 2. **Medical:** Lung transplant/cancer (ghép phổi/ung thư phổi - y học)
+> 3. **Condition:** Healthy/damaged lung (phổi khỏe/tổn thương - trạng thái)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **lung**:
+"The smoke hurt his breathing."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The toxic smoke severely damaged his lung tissue, compromising his respiratory function."
+> 💡 **Why it works:** 'Lung' chính xác và y học hơn, thể hiện hiểu biết về cơ quan cụ thể bị ảnh hưởng
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **lung** instead of **[[heart]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **lung:** Cơ quan hô hấp, trao đổi khí oxygen/carbon dioxide, nằm trong lồng ngực
+> **[[heart]]**: Cơ quan tuần hoàn, bơm máu đi nuôi cơ thể, cũng nằm trong lồng ngực
+> 🧱 **The Barrier:** Lung xử lý không khí, heart xử lý máu - hai cơ quan thiết yếu nhưng chức năng khác nhau
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're advising someone about the dangers of smoking. You need to be persuasive. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Every cigarette you smoke damages your lungs and reduces your life expectancy."
+> 👨‍🎨 **Director's Note:** Sử dụng 'lungs' trực tiếp và rõ ràng, tạo cảm giác cấp bách về sức khỏe
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `lungen` to the meaning of **lung**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English 'lungen' có nghĩa là phổi - cơ quan thiết yếu giúp con người và động vật thở và sống sót
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **lung**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `lungen` (lungs)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* lung /lʌŋ/ (phổi)
+> - *(adjective)* pulmonary /ˈpʌlmənəri/ (thuổi về phổi)
+> - *(adjective)* lunged /lʌŋd/ (có phổi)
+> - *(related)* respiratory /rəˈspɪrətri/ (hô hấp)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */lʌŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**lung**
+> 📖 **Meaning:** Either of the two organs in the chest that remove carbon dioxide from and bring oxygen to the blood
+> 🇻🇳 **Vietnamese:** Phổi, lá phổi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **lung**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Humans have one **lung**.
+> ✅ **Correction:** Humans have two **lungs**.
+> 🧠 **Why:** Người ta thường có hai lá phổi (trái và phải), ngoại trừ một số trường hợp bất thường
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **lung**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - Không có antonym trực tiếp (essential organ)
+> - **Contrast with:**
+>   - [[unhealthy lung]] (phổi không khỏe mạnh)
+>   - [[artificial lung]] (phổi nhân tạo)
+> 🧱 **Contrast:** Lung là cơ quan tự nhiên thiết yếu, không có antonym thực sự
 
 ---

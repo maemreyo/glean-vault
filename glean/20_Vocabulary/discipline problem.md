@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
 #flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [discipline issues, behavioral problems, misbehavior, conduct problems, student discipline]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈdɪsəplɪn ˈprɒbləm/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** formal/educational
+> **Etymology:** discipline (from Latin 'disciplina' - teaching, learning) + problem (from Greek 'problema' - obstacle)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A behavioral issue that requires correction or intervention
+>
+> **Context Meaning:** A persistent pattern of behavior that goes against established rules and expectations, particularly in educational or institutional settings, requiring disciplinary action
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** vấn đề kỷ luật, vấn đề kỷ cương
+> - **Contextual:** hành vi vi phạm kỷ luật, vấn đề về thái độ, sự cố kỷ luật
+>
 > **Nuances:**
-> - ...
+> - Implies repeated behavior rather than isolated incidents
+> - Usually refers to issues that disrupt learning or social harmony
+> - Can range from minor disruptions to serious behavioral concerns
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Disruptive, Challenging, Correctable
+> **Memory Hook:** Discipline = teaching + problem = behavior that needs teaching/correction
+> **📖 Etymology Story:** From Latin 'disciplina' meaning "instruction or training" - a discipline problem is essentially a situation where more instruction/training in behavior is needed
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[discipline]] /ˈdɪsəplɪn/, [[problem]] /ˈprɒbləm/
+> - **Verb:** [[discipline]] /ˈdɪsəplɪn/
+> - **Adj:** [[disciplinary]] /ˌdɪsəˈplɪnəri/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[behavioral issue]] /bɪˈheɪvjərəl ˈɪʃuː/ : problem with conduct or behavior
+> - [[conduct disorder]] /ˈkɒndʌkt dɪsˈɔːdə(r)/ : more severe psychological term
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[good behavior]] /ɡʊd bɪˈheɪvjə(r)/ : appropriate conduct
+> - [[model student]] /ˈmɒdl ˈstjuːdənt/ : exemplary behavior
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Have/cause/create discipline problems
+> 2. Deal with/address/handle discipline problems
+> 3. Serious/minor/ongoing discipline problems
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The teacher had to deal with a discipline problem when several students refused to do their homework.
+> - **Translation:** Giáo viên phải xử lý một vấn đề kỷ luật khi nhiều học sinh từ chối làm bài tập về nhà.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The school implemented a new program to reduce discipline problems among teenagers.
+> - **Translation:** Trường học đã thực hiện một chương trình mới để giảm các vấn đề kỷ luật ở lứa tuổi thanh thiếu niên.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with punishment**
+> - ❌ **Mistake:** We need more discipline problems to control students.
+> - ✅ **Correction:** We need better discipline to control students. / We need to solve discipline problems.
+> - **Why:** A discipline problem IS the problem, not the solution. You solve/handle/resolve discipline problems
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The main discipline problem in our school is students using phones during class."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +80,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **discipline problem** (*/ˈdɪsəplɪn ˈprɒbləm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A behavioral issue that requires correction or intervention, especially in educational settings
+> 🇻🇳 **Vietnamese:** Vấn đề kỷ luật, hành vi vi phạm quy định
+> 🗣️ **IPA:** */ˈdɪsəplɪn ˈprɒbləm/*
+> 🧠 **Mental Model:** Khi student breaks rules repeatedly - đó là discipline problem cần intervention để correct behavior
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A persistent pattern of behavior that goes against established rules and requires correction"
+**Vietnamese:** Vấn đề về hành vi chống đối quy tắc cần sửa chữa
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**discipline problem** (*/ˈdɪsəplɪn ˈprɒbləm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **discipline problem** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The principal called a meeting to discuss the increasing discipline problems in the ninth grade.
+> 🇻🇳 **Translation:** Hiệu trưởng đã召集 một cuộc họp để thảo luận về các vấn đề kỷ luật ngày càng gia tăng ở lớp chín.
+> 🔍 **Analysis:** 'Discipline problems' ở đây chỉ những recurring behavior issues disrupting school environment - term này正式用在 education context để describe ongoing behavioral challenges
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **discipline problem**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Occurrence:** cause/create/have discipline problems (gây ra/tạo ra/có vấn đề kỷ luật)
+> 2. **Action:** address/handle/deal with discipline problems (giải quyết/xử lý đối phó với vấn đề kỷ luật)
+> 3. **Nature:** serious/minor/ongoing discipline problems (vấn đề kỷ luật nghiêm trọng/nhỏ/thường xuyên)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **discipline problem**:
+"Some students don't follow rules."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The school is implementing a counseling program to address the growing discipline problem among first-year students."
+> 💡 **Why it works:** 'Discipline problem' professional hơn 'don't follow rules' và暗示 đây là institutional issue cần systematic approach
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **discipline problem** instead of **[[mistake]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **discipline problem:** Implies ongoing pattern of behavior, usually affecting others, requiring intervention
+> **[[mistake]]:** Isolated error or accident, not necessarily willful, may not affect others
+> 🧱 **The Barrier:** Problem = pattern requiring system-level response; mistake = individual incident requiring correction
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a teacher reporting to parents about their child. You need to discuss behavioral issues professionally. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'd like to discuss a discipline problem we've noticed recently - your son has been consistently talking during tests, which affects other students."
+> 👨‍🎨 **Director's Note:** Câu này shows professional communication về behavioral issue - cụ thể, có evidence, và focus on impact rather than blame
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `disciplina` to the meaning of **discipline problem**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `disciplina` nghĩa là "teaching or training". A discipline problem literally là một situation nơi additional "teaching" về proper behavior cần thiết - nó là một learning opportunity cho correct conduct
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **discipline problem**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:**
+> - Latin `disciplina` (teaching, instruction) → discipline
+> - Greek `problema` (obstacle, difficulty) → problem
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* disciple (học trò, người theo)
+> - *(adjective)* disciplinary (liên quan đến kỷ luật)
+> - *(verb)* discipline (rèn luyện, kỷ luật)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈdɪsəplɪn ˈprɒbləm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**discipline problem**
+> 📖 **Meaning:** A behavioral issue requiring correction, particularly in educational settings
+> 🇻🇳 **Vietnamese:** Vấn đề kỷ luật, vấn đề về hành vi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **discipline problem**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We need to discipline the problem student.
+> ✅ **Correction:** We need to address the discipline problem. / We need to discipline the student.
+> 🧠 **Why:** You address/handle/solve a discipline problem (vấn đề), but you discipline a student (người). Don't mix these up!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **discipline problem**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[exemplary behavior]] (hành vi mẫu mực)
+> - [[positive conduct]] (hành xử tích cực)
+> 🧱 **Contrast:** Discipline problem represents behavior that requires correction, while its antonyms represent behavior worth emulating
 
 ---

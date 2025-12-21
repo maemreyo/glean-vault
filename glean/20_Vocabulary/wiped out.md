@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 #flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [wipe out, wiped out, wipes out, wiping out, wipeout, wipe-out]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /waɪp aʊt/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B2
+> **Register:** informal/neutral
+> **Etymology:** Combination of 'wipe' (clean by rubbing) + 'out' (completely, to nothing)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To remove completely
+>
+> **Context Meaning:** 1. To destroy or eliminate completely 2. To make extremely tired 3. To delete or erase completely 4. To spend all of something (money)
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** xóa sổ, tiêu diệt hoàn toàn
+> - **Contextual:** kiệt sức, hao hết tiền, xóa bỏ
+>
 > **Nuances:**
-> - ...
+> - Implies total destruction or removal
+> - Can refer to physical destruction, exhaustion, or depletion
+> - Stronger and more complete than just 'remove' or 'delete'
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Decisive, Final, Exhausting
+> **Memory Hook:** Imagine wiping a whiteboard completely clean until nothing remains
+> **📖 Etymology Story:** 'Wipe' comes from Old English 'wipian' - to clean. Adding 'out' amplifies the action to mean complete removal. Like wiping until something is 'out' of existence entirely.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrasal Verb:** [[wipe out]] /waɪp aʊt/
+> - **Noun:** [[wipeout]] /ˈwaɪpaʊt/
+> - **Related:** [[wipe]] /waɪp/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[eliminate]] /ɪˈlɪmɪneɪt/ : remove completely
+> - [[exhaust]] /ɪɡˈzɔːst/ : make very tired
+> - [[delete]] /dɪˈliːt/ : remove data
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[preserve]] /prɪˈzɜːrv/ : keep safe
+> - [[save]] /seɪv/ : keep from destruction
+> - [[restore]] /rɪˈstɔːr/ : bring back
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. completely/totally wiped out
+> 2. wipe out the population/species
+> 3. feeling wiped out
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The tsunami wiped out entire coastal villages.
+> - **Translation:** Con sóng thần đã xóa sổ toàn bộ các làng mọc ven biển.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** After running the marathon, I was completely wiped out.
+> - **Translation:** Sau khi chạy marathon, tôi đã kiệt sức hoàn toàn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Position**
+> - ❌ **Mistake:** The system wipe out all the data.
+> - ✅ **Correction:** The system wiped OUT all the data. (past tense: wiped)
+> - **Why:** 'Wipe' and 'out' must stay together as a phrasal verb. Also need correct past tense.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "One wipeout can wipe out years of progress."
+> **Source:** [[Environmental Impact Report]]
 
 ---
 
@@ -161,121 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **wipe out** (*/waɪp aʊt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To destroy or eliminate completely; to make extremely tired; to delete entirely
+> 🇻🇳 **Vietnamese:** Xóa sổ, tiêu diệt hoàn toàn; làm kiệt sức; xóa bỏ hoàn toàn
+> 🗣️ **IPA:** */waɪp aʊt/*
+> 🧠 **Mental Model:** 'Eraser to nothing' - complete removal until nothing remains
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To destroy or eliminate something completely"
+**Vietnamese:** Tiêu diệt hoặc xóa bỏ hoàn toàn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**wipe out** (*/waɪp aʊt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **wipe out** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The computer virus threatened to wipe out all our important files.
+> 🇻🇳 **Translation:** Virus máy tính đe dọa sẽ xóa sổ tất cả các tệp quan trọng của chúng tôi.
+> 🔍 **Analysis:** 'Wipe out' emphasizes the total destruction risk, stronger than 'damage' or 'delete', adding urgency to the threat.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **wipe out**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Destruction scale:** completely/totally wipe out (xóa sổ hoàn toàn - VN: emphasizing totality)
+> 2. **Biological impact:** wipe out species/population (tiêu diệt loài/dân số - VN: extinction context)
+> 3. **Physical state:** feeling/looking wiped out (cảm thấy/trông kiệt sức - VN: exhaustion)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **wipe out**:
+"The fire destroyed everything."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The inferno wiped out the entire neighborhood in minutes."
+> 💡 **Why it works:** 'Wipe out' adds dramatic totality and speed, while 'destroyed' is more neutral. VN: nhấn mạnh sự hủy diệt hoàn toàn.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **wipe out** instead of **[[destroy]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **wipe out:** Complete, total elimination (VN: xóa sổ, tiêu diệt hoàn toàn)
+> **[[destroy]]:** General act of breaking something (VN: phá hủy, làm hỏng)
+> 🧱 **The Barrier:** 'Wipe out' implies total removal to nothing; 'destroy' can mean partial damage (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You've just finished an intense workout. You feel exhausted. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "That workout completely wiped me out!"
+> 👨‍🎨 **Director's Note:** Shows informal, natural expression of total exhaustion (VN: thể hiện sự mệt mỏi tự nhiên).
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the concept of 'wiping' to the meaning of **wipe out**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'wipian' meant to clean by rubbing. Adding 'out' creates a physical metaphor - like wiping a slate until all marks are 'out' of sight, meaning complete removal or erasure (VN/EN mix).
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the phrasal verb **wipe out**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English 'wipian' (to wipe)
+> 👨‍👩‍👧 **Family:**
+> - *(phrasal verb)* [[wipe out]] - to eliminate completely
+> - *(noun)* [[wipeout]] - a disaster or complete failure
+> - *(verb)* [[wipe]] - to clean by rubbing
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */waɪp aʊt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**wipe out**
+> 📖 **Meaning:** To eliminate completely
+> 🇻🇳 **Vietnamese:** Xóa sổ, tiêu diệt hoàn toàn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **wipe out**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The scandal wipe out the politician's career.
+> ✅ **Correction:** The scandal wiped OUT the politician's career.
+> 🧠 **Why:** Need correct past tense 'wiped' and keep 'wipe' and 'out' together as an inseparable phrasal verb.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **wipe out**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[preserve]] (keep instead of destroying)
+> - [[save]] (rescue from elimination)
+> - [[restore]] (bring back what was wiped out)
+> 🧱 **Contrast:** Wipe out removes completely; preserve saves; protect keeps safe; restore returns what was lost.

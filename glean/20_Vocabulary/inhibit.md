@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [inhibit, inhibited, inhibits, inhibiting, inhibitor, inhibition, inhibitory]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪnˈhɪbɪt/
+> **Part of Speech:** verb
+> **CEFR Level:** C1
+> **Register:** formal/scientific
+> **Etymology:** From Latin 'inhibere' - 'to restrain, hold back, keep in'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To hold back or restrain
+>
+> **Context Meaning:** 1. To prevent or slow down a process or activity 2. To make someone feel self-conscious and unable to act naturally 3. (Biology/Chemistry) To slow down or prevent a reaction
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** kìm hãm, ngăn cản
+> - **Contextual:** ức chế, làm ngại ngùng, cản trở
+>
 > **Nuances:**
-> - ...
+> - Stronger than 'prevent' - implies active restraint
+> - Used in psychology (social inhibition), biology (enzyme inhibition), chemistry
+> - Can be external (rules inhibit) or internal (fear inhibits)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Restrictive, Cautious, Controlled
+> **Memory Hook:** 'Inhibit' = in (holding) + hibit (like habit) = holding back your habits/actions
+> **📖 Etymology Story:** Latin 'inhibere' combined 'in-' (in, on) + 'habere' (to hold, have). Imagine literally 'holding in' an action or reaction, keeping it from expressing itself - the essence of inhibition.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[inhibit]] /ɪnˈhɪbɪt/
+> - **Noun:** [[inhibition]] /ˌɪnhɪˈbɪʃn/
+> - **Noun:** [[inhibitor]] /ɪnˈhɪbɪtər/
+> - **Adj:** [[inhibited]] /ɪnˈhɪbɪtɪd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[restrain]] /rɪˈstreɪn/ : hold back
+> - [[suppress]] /səˈpres/ : hold down
+> - [[hinder]] /ˈhɪndər/ : obstruct
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[encourage]] /ɪnˈkɜːrɪdʒ/ : promote
+> - [[facilitate]] /fəˈsɪlɪteɪt/ : make easier
+> - [[stimulate]] /ˈstɪmjəleɪt/ : activate
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. inhibit growth/development
+> 2. socially inhibited
+> 3. inhibit enzyme/reaction
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** High interest rates can inhibit economic growth.
+> - **Translation:** Lãi suất cao có thể kìm hãm tăng trưởng kinh tế.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The medication is designed to inhibit the production of stomach acid.
+> - **Translation:** Thuốc được thiết kế để ức chế sản xuất axit dạ dày.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Confusion**
+> - ❌ **Mistake:** Lack of confidence inhibits him to speak.
+> - ✅ **Correction:** Lack of confidence inhibits him FROM speaking.
+> - **Why:** 'Inhibit' takes preposition 'from' when followed by an action/verb.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Fear inhibits action; courage overcomes inhibition."
+> **Source:** [[Psychology of Performance]]
 
 ---
 
@@ -161,121 +83,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **inhibit** (*/ɪnˈhɪbɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To restrain, hinder, or prevent an action or process; to hold back from acting
+> 🇻🇳 **Vietnamese:** Kìm hãm, ngăn cản, ức chế - làm chậm hoặc ngăn chặn hành động/quá trình
+> 🗣️ **IPA:** */ɪnˈhɪbɪt/*
+> 🧠 **Mental Model:** 'Brakes on action' - internal or external force slowing or stopping movement
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To restrain or prevent a process or activity from occurring"
+**Vietnamese:** Kìm hãm hoặc ngăn chặn một quá trình hoặc hoạt động
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**inhibit** (*/ɪnˈhɪbɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **inhibit** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The strict rules inhibited the children's creativity and natural curiosity.
+> 🇻🇳 **Translation:** Các quy tắc nghiêm ngặt đã kìm hãm sự sáng tạo và tò mò tự nhiên của trẻ em.
+> 🔍 **Analysis:** 'Inhibit' precisely describes how rules actively suppressed natural tendencies, stronger than just 'prevented'.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **inhibit**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Biological context:** inhibit growth/enzyme (kìm hãm sự tăng trưởng/enzyme - VN: biological suppression)
+> 2. **Psychological:** socially/behaviorally inhibited (ngại ngùng xã hội/hành vi - VN: personal restraint)
+> 3. **Economic:** inhibit investment/development (cản trở đầu tư/phát triển - VN: economic constraints)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **inhibit**:
+"The rules stopped students from being creative."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Rigid educational structures inhibited students' creative expression."
+> 💡 **Why it works:** 'Inhibit' adds formal precision and implies active suppression, not just prevention. VN: nhấn mạnh sự kìm hãm chủ động.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **inhibit** instead of **[[prevent]]**?
+>
+> **inhibit:** Active restraint, holding back (VN: kìm hãm, ức chế chủ động)
+> **[[prevent]]:** Stopping something from happening (VN: ngăn ngừa, không cho xảy ra)
+> 🧱 **The Barrier:** 'Inhibit' suggests internal/active suppression; 'prevent' is external blocking (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a psychologist discussing social anxiety. You feel empathetic. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Social anxiety can severely inhibit a person's ability to form relationships."
+> 👨‍🎨 **Director's Note:** Conveys professional understanding of psychological barriers (VN: thể hiện sự thấu hiểu chuyên môn).
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `inhibere` to the meaning of **inhibit**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `inhibere` (to hold in, restrain). Ancient Romans used this to describe literally 'holding in' emotions or actions. Today 'inhibit' still carries that sense of active restraint holding something back from expression (VN/EN mix).
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **inhibit**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `inhibere` (to hold in, restrain)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[inhibit]] - to restrain
+> - *(noun)* [[inhibition]] - the act of restraining
+> - *(noun)* [[inhibitor]] - something that inhibits
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪnˈhɪbɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**inhibit**
+> 📖 **Meaning:** To restrain or hold back
+> 🇻🇳 **Vietnamese:** Kìm hãm, ngăn cản
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **inhibit**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The drug inhibits the bacteria growing.
+> ✅ **Correction:** The drug inhibits the bacteria FROM growing.
+> 🧠 **Why:** 'Inhibit' needs preposition 'from' before an action/verb. It inhibits something FROM doing something.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **inhibit**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[encourage]] (support instead of restraining)
+> - [[facilitate]] (make easier instead of harder)
+> - [[stimulate]] (activate instead of suppress)
+> 🧱 **Contrast:** Inhibit restrains action; encourage promotes action; facilitate enables; stimulate triggers activity.

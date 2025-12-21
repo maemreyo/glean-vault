@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [particular, specifics, especially, specifically, notably, in particular, above all]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pəˈtɪkjələli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B2
+> **Register:** formal/general
+> **Etymology:** From 'particular' + '-ly'; Latin 'particularis' from 'pars' (part)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To a greater degree; more than usual or than others
+>
+> **Context Meaning:** Used to single out one person, thing, or aspect of a situation for special attention; especially
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đặc biệt, riêng, nhất là
+> - **Contextual:** một cách đặc biệt, đáng chú ý là, mà nhất là
+>
 > **Nuances:**
-> - ...
+> - Emphasizes one specific item among others
+> - Often used to introduce an important example or exception
+> - More formal than 'especially' but similar in meaning
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Focused, Emphasizing, Selective
+> **Memory Hook:** Particular = part + icular → ly = "phần đặc biệt" → một cách đặc biệt
+> **📖 Etymology Story:** From Latin 'particularis' meaning "concerning a small part" - like zooming in on one piece of a larger picture
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[particular]] /pəˈtɪkjələ(r)/
+> - **Adv:** [[particularly]] /pəˈtɪkjələli/
+> - **Adj:** particular /pəˈtɪkjələ(r)/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[especially]] /ɪˈspeʃəli/ : more formal but similar meaning
+> - [[specifically]] /spəˈsɪfɪkli/ : with precision and exactness
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[generally]] /ˈdʒenrəli/ : in most cases, usually
+> - [[broadly]] /ˈbrɔːdli/ : in general terms
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Particularly interested/pleased/concerned
+> 2. Not particularly good/bad
+> 3. Particularly in/during
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** I enjoy all kinds of music, particularly jazz and classical.
+> - **Translation:** Tôi thích mọi loại nhạc, đặc biệt là nhạc jazz và cổ điển.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The restaurant is popular, particularly on weekends when it gets very crowded.
+> - **Translation:** Nhà hàng này rất nổi tiếng, đặc biệt là vào cuối tuần khi nó rất đông khách.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Position in sentence**
+> - ❌ **Mistake:** I particularly like sports, football.
+> - ✅ **Correction:** I particularly like sports, especially football. / I like sports, particularly football.
+> - **Why:** When giving examples, use 'especially' or restructure with 'particularly' before the main point
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Many students struggle with mathematics, particularly calculus and advanced statistics."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **particularly** (*/pəˈtɪkjələli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Used to single out one person, thing, or aspect for special attention; especially
+> 🇻🇳 **Vietnamese:** Đặc biệt, nhất là, riêng
+> 🗣️ **IPA:** */pəˈtɪkjələli/*
+> 🧠 **Mental Model:** Khi bạn highlight một phần đặc biệt trong toàn bộ - như dùng highlighter để emphasize most important point
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To a greater extent than others; especially"
+**Vietnamese:** Đặc biệt, nhất là, hơn những cái khác
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**particularly** (*/pəˈtɪkjələli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **particularly** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new software is helpful for all departments, but particularly for the marketing team.
+> 🇻🇳 **Translation:** Phần mềm mới này hữu ích cho tất cả các phòng ban, nhưng đặc biệt là đội ngũ marketing.
+> 🔍 **Analysis:** 'Particularly' ở đây emphasis on marketing team như một special case - word này helps specify cái nổi bật nhất trong một group
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **particularly**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Feelings:** particularly pleased/concerned/interested (đặc biệt hài lòng/lo lúng/quan tâm)
+> 2. **Quality:** not particularly good/bad/easy (không quá tốt/xấu/dễ)
+> 3. **Focus:** particularly in/during/at (đặc biệt trong/vào/tại)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **particularly**:
+"I like vegetables, but I really like carrots."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I enjoy various vegetables, but I'm particularly fond of carrots for their sweetness and versatility."
+> 💡 **Why it works:** 'Particularly fond' sounds more sophisticated và tạo emphasis mạnh hơn 'really like'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **particularly** instead of **[[especially]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **particularly:** Slightly more formal, emphasizes one item as distinct from others
+> **[[especially]]:** More common in everyday speech, emphasizes importance
+> 🧱 **The Barrier:** Particularly highlights uniqueness, especially highlights importance
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks about your trip to Europe. You want to highlight your favorite city. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I enjoyed every city we visited, but I was particularly impressed by Prague's architecture and atmosphere."
+> 👨‍🎨 **Director's Note:** Câu này cho thấy ability to make polite distinctions trong khi still acknowledging overall positive experience
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `pars` to the meaning of **particularly**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin `pars` có nghĩa là "part" (phần). Particular = one specific part. Particularly = "trong cách của một phần đặc biệt" - zoom in on that special part
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **particularly**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `pars` (part)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* particular (chi tiết, đồ riêng)
+> - *(adjective)* particular (đặc biệt, kén chọn)
+> - *(noun)* particle (hạt, particle - một phần rất nhỏ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pəˈtɪkjələli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**particularly**
+> 📖 **Meaning:** To a greater degree than is usual or than others; especially
+> 🇻🇳 **Vietnamese:** Đặc biệt, nhất là, hơn hẳn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **particularly**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The movie was particularly, very boring.
+> ✅ **Correction:** The movie was particularly boring. / The movie was very, very boring.
+> 🧠 **Why:** Particularly là một adverb, không đi với another intensifier như very trong cùng position. Choose one or use different structure
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **particularly**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[generally]] (nói chung, thường là)
+> - [[broadly]] (một cách rộng rãi, tổng quát)
+> 🧱 **Contrast:** Particularly zooms in on specifics, while its antonyms zoom out to see the big picture
 
 ---

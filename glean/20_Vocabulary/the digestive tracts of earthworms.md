@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
 #flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [earthworm digestion, worm digestive system, gastrointestinal tract of annelids, earthworm gut, vermicomposting, annelid digestion]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ðə daɪˈdʒestɪv trækts ɒv ˈɜːθwɜːmz/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** academic/scientific
+> **Etymology:** 'Digestive' from Latin 'digestus' (separated), 'tract' from Latin 'tractus' (drawing, pulling), 'earthworm' compound of 'earth' + 'worm'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The tubular system through which food passes and is digested in earthworms
+>
+> **Context Meaning:**
+> - The specialized digestive system of earthworms (annelids)
+> - A complete digestive tube running from mouth to anus
+> - Key biological system studied in ecology, soil science, and vermicomposting research
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đường tiêu hóa của giun đất
+> - **Contextual:** hệ tiêu hóa của giun đất, ống tiêu hóa của loài giun biểu sinh
+>
 > **Nuances:**
-> - ...
+> - Earthworms have a complete digestive system unlike many simpler invertebrates
+> - Key for soil enrichment and nutrient cycling in ecosystems
+> - Studied for environmental science and sustainable agriculture
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Efficient, Transformative, Essential
+> **Memory Hook:** Imagine earth as food traveling through a worm's tube system - that's the digestive tract
+> **📖 Etymology Story:** Latin 'digestus' (separated) + 'tractus' (drawing) - the digestive tract 'draws through and separates' nutrients from soil
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** digestive tract /daɪˈdʒestɪv trækt/
+> - **Noun:** earthworm /ˈɜːθwɜːm/
+> - **Adj:** digestive /daɪˈdʒestɪv/
+> - **Related:** digestion /daɪˈdʒestʃn/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[gastrointestinal tract]] /ˌɡæstrəʊɪnˈtestɪnl trækt/ : the stomach and intestines
+> - [[alimentary canal]] /ˌælɪˈmentəri kəˈnæl/ : the whole passage along which food passes through the body
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms - this describes a specific biological system
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Study the digestive tracts
+> 2. Through the digestive tract
+> 3. Digestive tract efficiency
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Researchers studied the digestive tracts of earthworms to understand their role in soil enrichment.
+> - **Translation:** Các nhà nghiên cứu đã nghiên cứu đường tiêu hóa của giun đất để hiểu vai trò của chúng trong việc làm giàu đất.
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The digestive tracts of earthworms contain specialized bacteria that break down organic matter.
+> - **Translation:** Đường tiêu hóa của giun đất chứa các vi khuẩn chuyên biệt phân hủy chất hữu cơ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural vs. singular confusion**
+> - ❌ **Mistake:** The digestive tract of earthworms is efficient.
+> - ✅ **Correction:** The digestive tracts of earthworms are efficient.
+> - **Why:** Use plural 'tracts' when referring to multiple earthworms. Use singular when discussing one earthworm
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The digestive tracts of earthworms play a crucial role in breaking down dead organic material in soil."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **the digestive tracts of earthworms** (*/ðə daɪˈdʒestɪv trækts ɒv ˈɜːθwɜːmz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The tubular digestive systems in earthworms that process soil and organic matter
+> 🇻🇳 **Vietnamese:** Đường tiêu hóa của giun đất, hệ tiêu hóa của giun đất
+> 🗣️ **IPA:** */ðə daɪˈdʒestɪv trækts ɒv ˈɜːθwɜːmz/*
+> 🧠 **Mental Model:** 'Digestive' = tiêu hóa, 'tract' = ống/đường, 'earthworms' = giun đất → hệ thống ống tiêu hóa của giun đất
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The specialized tubular systems in earthworms through which food passes and nutrients are extracted"
+**Vietnamese:** Hệ thống ống tiêu hóa chuyên biệt trong giun đất để xử lý thức ăn và hấp thụ dinh dưỡng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**the digestive tracts of earthworms** (*/ðə daɪˈdʒestɪv trækts ɒv ˈɜːθwɜːmz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **the digestive tracts of earthworms** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The study revealed that the digestive tracts of earthworms can break down complex organic compounds, making nutrients available to plants.
+> 🇻🇳 **Translation:** Nghiên cứu cho thấy đường tiêu hóa của giun đất có thể phân hủy các hợp chất hữu cơ phức tạp, làm cho dinh dưỡng có sẵn cho thực vật.
+> 🔍 **Analysis:** 'The digestive tracts of earthworms' là thuật ngữ khoa học chính xác, thể hiện sự nghiên cứu chuyên sâu về hệ thống sinh học của loài giun
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **the digestive tracts of earthworms**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Research:** study/examine/analyze the digestive tracts (nghiên cứu/khám phá/phân tích đường tiêu hóa)
+> 2. **Function:** efficiency/capacity/processing power of digestive tracts (hiệu quả/khả năng/năng lực xử lý của đường tiêu hóa)
+> 3. **Ecological role:** the digestive tracts in nutrient cycling (vai trò của đường tiêu hóa trong chu trình dinh dưỡng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **the digestive tracts of earthworms**:
+"Worms help soil."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The digestive tracts of earthworms transform organic waste into nutrient-rich humus, dramatically improving soil fertility."
+> 💡 **Why it works:** 'The digestive tracts of earthworms' thể hiện sự hiểu biết khoa học sâu sắc, chính xác hơn nhiều so với 'worms' - nó tập trung vào cơ chế sinh học cụ thể
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **the digestive tracts of earthworms** instead of **[[worm digestion]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **the digestive tracts of earthworms:** Cụm từ khoa học chính xác, nhấn mạnh cấu trúc giải phẫu
+> **[[worm digestion]]:** Tổng quát hơn, chỉ đề cập đến quá trình
+> 🧱 **The Barrier:** Digestive tracts là cấu trúc vật lý, digestion là quá trình hóa học/sinh học
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining composting to a biology class. You want to emphasize the scientific mechanism. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "What makes vermicomposting so effective is the digestive tracts of earthworms, which contain specialized microorganisms that accelerate decomposition."
+> 👨‍🎨 **Director's Note:** Cụm từ thể hiện knowledge chuyên môn, phù hợp với bối cảnh giảng dạy khoa học
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `digest- + tract` to the meaning of **the digestive tracts of earthworms**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'digestus' (đã tách ra) + 'tractus' (sự kéo) → digestive tract 'kéo thức ăn qua và tách nutrients' - hệ thống này trong giun đất giúp 'digest' organic materials thành rich soil
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **the digestive tracts of earthworms**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `digestus` (digested) + `tractus` (drawing, pulling) + Old English `earth` + `wyrm`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* digestive tract (đường tiêu hóa)
+> - *(noun)* digestion (sự tiêu hóa)
+> - *(adjective)* digestive (thuộc về tiêu hóa)
+> - *(compound)* earthworm (giun đất)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ðə daɪˈdʒestɪv trækts ɒv ˈɜːθwɜːmz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**the digestive tracts of earthworms**
+> 📖 **Meaning:** The tubular systems in earthworms that process food and extract nutrients
+> 🇻🇳 **Vietnamese:** Đường tiêu hóa của giun đất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **the digestive tracts of earthworms**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The digestive tract of earthworms contains beneficial bacteria.
+> ✅ **Correction:** The digestive tracts of earthworms contain beneficial bacteria. / The digestive tract of an earthworm contains beneficial bacteria.
+> 🧠 **Why:** Khi nói về nhiều earthworms (plural), dùng plural 'tracts'. Khi nói về một earthworm (singular), dùng singular 'tract'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite concept to **the digestive tracts of earthworms**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Contrasting Systems:**
+> - [[digestive tracts of carnivores]] (đường tiêu hóa của động vật ăn thịt)
+> - [[simple gastric cavities]] (dạ dày đơn giản của động vật đơn bào)
+> 🧱 **Contrast:** Earthworm digestive tracts process soil/organic matter continuously, carnivore systems process meat intermittently
 
 ---

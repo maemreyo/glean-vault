@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [mixture, mix, mixed, mixing, blend, combination, composite, medley, assortment, fusion]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈmɪkstʃə(r)/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** general
+> **Etymology:** Latin 'mixtura' (a mixing), from 'mixtus' (mixed)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A combination of different substances or elements
+>
+> **Context Meaning:** The result of combining two or more different things; a blend of various elements that maintain their individual characteristics
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hỗn hợp, sự pha trộn
+> - **Contextual:** sự kết hợp, sự trộn lẫn, hỗn hợp nhiều chất
+>
 > **Nuances:**
-> - ...
+> - Implies elements are physically combined but not chemically changed
+> - Can refer to tangible substances or abstract concepts
+> - Components often remain distinguishable in the mixture
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Diverse, Combined, Integrated
+> **Memory Hook:** Imagine 'mix-ture' - the result of 'mixing' different things together
+> **📖 Etymology Story:** From Latin 'mixtura' - when you create a mixture, you're actively combining different elements while keeping their individual properties intact
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** mixture /ˈmɪkstʃə(r)/
+> - **Verb:** mix /mɪks/
+> - **Adj:** mixed /mɪkst/, mixing /ˈmɪksɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[blend]] /blend/ : smooth combination
+> - [[combination]] /ˌkɒmbɪˈneɪʃn/ : joining of elements
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[pure]] /pjʊə(r)/ : not mixed
+> - [[separate]] /ˈsepərət/ : not combined
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. A mixture of different types/kinds
+> 2. A strange/interesting/complex mixture
+> 3. A mixture of cultures/styles
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The salad was a delicious mixture of fresh vegetables, herbs, and olive oil.
+> - **Translation:** Món salad là một hỗn hợp thơm ngon gồm rau tươi, thảo mộc và dầu ô liu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The city's architecture shows a fascinating mixture of colonial and modern styles.
+> - **Translation:** Kiến trúc của thành phố cho thấy sự pha trộn hấp dẫn giữa các phong cách thuộc địa và hiện đại.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable vs uncountable confusion**
+> - ❌ **Mistake:** I need many mixture of paint.
+> - ✅ **Correction:** I need many mixtures of paint. / I need a mixture of paints.
+> - **Why:** 'Mixture' is countable when referring to different combinations, uncountable when referring to the general concept
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The discussion revealed a mixture of opinions from all participants."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +80,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a mixture** (*/ə ˈmɪkstʃə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A combination of two or more different substances or elements that are physically combined but retain their individual properties
+> 🇻🇳 **Vietnamese:** Một hỗn hợp, sự pha trộn của nhiều yếu tố khác nhau
+> 🗣️ **IPA:** */ə ˈmɪkstʃə(r)/*
+> 🧠 **Mental Model:** Khi bạn có 'mixture', bạn có multiple things blended together nhưng mỗi element vẫn maintains its identity - không become something entirely new
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A combination of different elements that are physically combined but maintain their individual characteristics"
+**Vietnamese:** Hỗn hợp, sự kết hợp
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a mixture** (*/ə ˈmɪkstʃə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a mixture** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The classroom was a fascinating mixture of students from over fifteen different cultural backgrounds.
+> 🇻🇳 **Translation:** Lớp học là một sự pha trộn hấp dẫn của học sinh từ hơn mười lăm nền tảng văn hóa khác nhau.
+> 🔍 **Analysis:** 'Fascinating mixture' emphasizes diversity, 'fifteen different cultural backgrounds' specifies variety, 'classroom' provides setting context
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a mixture**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Composition:** A mixture of X and Y (hỗn hợp của X và Y)
+> 2. **Quality:** A rich/diverse/complex mixture (hỗn hợp phong phú/đa dạng/phức tạp)
+> 3. **Types:** A mixture of cultures/ideas/styles (sự kết hợp văn hóa/tư tưởng/phong cách)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a mixture**:
+"The drink had different flavors."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The bartender created a complex mixture of tropical juices, rare herbs, and artisanal spirits."
+> 💡 **Why it works:** 'Complex mixture' shows sophistication, specific ingredients add detail, 'artisanal spirits' implies quality craftsmanship
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a mixture** instead of **[[a blend]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a mixture:** Dùng khi elements remain distinguishable - you can still see/tell the different components
+> **[[a blend]]:** Dùng khi elements are so smoothly combined they become difficult to distinguish
+> 🧱 **The Barrier:** Mixture maintains individuality, blend creates unity
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing your team's working style to a new colleague. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our team uses a mixture of traditional methods and innovative approaches to solve problems."
+> 👨‍🎨 **Director's Note:** 'Mixture of traditional and innovative' shows balanced approach, combining stability với creativity
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `mixtura` to the meaning of **a mixture**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'mixtura' (sự pha trộn) - khi tạo 'mixture', bạn actively combine different things but maintain their unique characteristics trong final combination
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a mixture**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `mixtura` (a mixing)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* mixture (hỗn hợp)
+> - *(verb)* mix (pha trộn)
+> - *(adj)* mixed (được pha trộn), mixing (đang pha trộn)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈmɪkstʃə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a mixture**
+> 📖 **Meaning:** A combination of different elements
+> 🇻🇳 **Vietnamese:** Một hỗn hợp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a mixture**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The conversation was mixture of English and French
+> ✅ **Correction:** The conversation was a mixture of English and French
+> 🧠 **Why:** Need article 'a' before 'mixture' khi it's countable - it's 'a mixture of something'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a mixture**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[a pure substance]] (chất tinh khiết)
+> - [[a single element]] (một yếu tố đơn lẻ)
+> 🧱 **Contrast:** Mixture combines multiple elements, antonyms focus trên single, uncomposed form

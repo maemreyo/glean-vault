@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [respiratory system, lungs, breathing organs, pulmonary, airways, respiratory tract]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈspaɪrətri ˈɔːɡənz/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** medical/scientific
+> **Etymology:** respiratory (from Latin 'respirare' - to breathe) + organs (from Latin 'organum' - instrument)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The parts of the body involved in breathing and gas exchange
+>
+> **Context Meaning:** The anatomical structures that facilitate breathing, including nose, throat, windpipe, and lungs, responsible for oxygen intake and carbon dioxide removal
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cơ quan hô hấp, cơ quan breathing
+> - **Contextual:** bộ phận hô hấp, hệ hô hấp, cơ quan thở
+>
 > **Nuances:**
-> - ...
+> - Complex system working together for gas exchange
+> - Includes upper and lower respiratory tracts
+> - Essential for oxygenating blood and removing waste gases
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Vital, Efficient, Life-sustaining
+> **Memory Hook:** Respiratory = "re-spir-atory" = "again-breathe" + organs = cơ quan giúp bạn breathe again and again
+> **📖 Etymology Story:** From Latin 'respirare' meaning "to breathe again" - every breath is a renewal, giving life moment by moment
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[respiration]] /ˌrespəˈreɪʃn/, [[organ]] /ˈɔːɡən/
+> - **Adj:** [[respiratory]] /rɪˈspaɪrətri/
+> - **Verb:** [[respire]] /rɪˈspaɪə(r)/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[breathing apparatus]] /ˈbriːðɪŋ ˌæpəˈreɪtəs/ : system for breathing
+> - [[pulmonary system]] /ˈpʌlmənəri ˈsɪstəm/ : lungs and related structures
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[digestive organs]] /daɪˈdʒestɪv ˈɔːɡənz/ : organs for processing food
+> - [[circulatory system]] /ˌsɜːkjəˈleɪtəri ˈsɪstəm/ : heart and blood vessels
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Affect/damage/protect respiratory organs
+> 2. Upper/lower respiratory organs
+> 3. Respiratory organs include/consist of
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Smoking severely damages the respiratory organs, particularly the lungs and airways.
+> - **Translation:** Hút thuốc gây tổn hại nghiêm trọng cho cơ quan hô hấp, đặc biệt là phổi và đường thở.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The respiratory organs work continuously to supply oxygen to the body and remove carbon dioxide.
+> - **Translation:** Các cơ quan hô hấp hoạt động liên tục để cung cấp oxy cho cơ thể và loại bỏ carbon dioxide.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect article usage**
+> - ❌ **Mistake:** The respiratory system includes important respiratory organ.
+> - ✅ **Correction:** The respiratory system includes important respiratory organs.
+> - **Why:** 'Organs' should be plural since the system contains multiple organs (nose, throat, lungs)
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Pollution can cause inflammation of the respiratory organs, leading to various breathing problems."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +80,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **respiratory organs** (*/rɪˈspaɪrətri ˈɔːɡənz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The body parts involved in breathing and gas exchange, including nose, throat, windpipe, and lungs
+> 🇻🇳 **Vietnamese:** Cơ quan hô hấp, cơ quan breathing
+> 🗣️ **IPA:** */rɪˈspaɪrətri ˈɔːɡənz/*
+> 🧠 **Mental Model:** System của tubes và chambers trong body giúp bring air in và out - như complex ventilation system cho body
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The anatomical structures that facilitate breathing and gas exchange in the body"
+**Vietnamese:** Các cấu trúc giải phẫu giúp việc breathing và trao đổi gas trong cơ thể
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**respiratory organs** (*/rɪˈspaɪrətri ˈɔːɡənz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **respiratory organs** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The surgeon specializes in procedures involving the respiratory organs, particularly lung transplants and tracheal reconstruction.
+> 🇻🇳 **Translation:** Bác sĩ phẫu thuật chuyên về các thủ thuật liên quan đến cơ quan hô hấp, đặc biệt là cấy phổi và tái tạo khí quản.
+> 🔍 **Analysis:** 'Respiratory organs' ở đây là medical term formal - phrase này used trong academic/professional contexts để refer to entire breathing system
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **respiratory organs**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Health:** damage/affect/protect respiratory organs (gây tổn hại/ảnh hưởng/bảo vệ cơ quan hô hấp)
+> 2. **Location:** upper/lower respiratory organs (cơ quan hô hấp trên/dưới)
+> 3. **Function:** respiratory organs filter/warm/moisten air (cơ quan hô hấp lọc/làm ẩm/không khí)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **respiratory organs**:
+"Air pollution hurts breathing."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Prolonged exposure to industrial pollutants severely compromises the function of respiratory organs, leading to chronic respiratory conditions."
+> 💡 **Why it works:** 'Respiratory organs' medical precise hơn 'breathing' và thêm scientific weight,搭配 với pollutants và chronic conditions tạo academic tone
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **respiratory organs** instead of **[[lungs]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **respiratory organs:** Entire system including nose, throat, windpipe, and lungs
+> **[[lungs]]:** Specifically the two main organs for gas exchange
+> 🧱 **The Barrier:** Respiratory organs = complete breathing system; lungs = core oxygen-processing organs
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why divers need special training before deep dives. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Water pressure affects respiratory organs dramatically at depth, which is why divers must understand pressure equalization techniques."
+> 👨‍🎨 **Director's Note:** Câu này shows technical knowledge và explains complex physiological concept - 'respiratory organs' professional term appropriate cho diving safety discussion
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `spirare` to the meaning of **respiratory organs**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `spirare` nghĩa là "to breathe". `Re-` có nghĩa là "again". Respiratory organs giúp bạn "breathe again and again" - mỗi breath là renewal of life. That's why 'spirit' và 'respiration' share same root!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **respiratory organs**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:**
+> - Latin `spirare` (to breathe) → respiratory
+> - Greek `organon` (instrument, tool) → organ
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* spirit (linh hồn - breath of life)
+> - *(noun)* conspiracy (âm mưu - breathing together)
+> - *(noun)* transpire (hơi ra - breathe through)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈspaɪrətri ˈɔːɡənz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**respiratory organs**
+> 📖 **Meaning:** The body parts responsible for breathing and gas exchange
+> 🇻🇳 **Vietnamese:** Cơ quan hô hấp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **respiratory organs**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The respiratory organ is essential for life.
+> ✅ **Correction:** The respiratory organs are essential for life. / The respiratory system is essential for life.
+> 🧠 **Why:** Body system consists of multiple organs working together. Use plural 'organs' hoặc singular 'system' cho entire system
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **respiratory organs**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[digestive organs]] (cơ quan tiêu hóa)
+> - [[excretory system]] (hệ thống thải trừ)
+> 🧱 **Contrast:** Respiratory organs handle air and gases, while their antonyms handle food processing and waste elimination
 
 ---

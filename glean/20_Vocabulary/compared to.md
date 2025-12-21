@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [compared to, in comparison with, compared with, unlike, like, as opposed to, versus, in contrast to]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kəmˈpeəd tuː/
+> **Part of Speech:** phrasal preposition
+> **CEFR Level:** A2
+> **Register:** neutral/formal
+> **Etymology:** compare (from Latin comparare "to pair, match") + to
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Paired with
+>
+> **Context Meaning:** In relation to; when measured against; in comparison with
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** so với
+> - **Contextual:** khi so với, so sánh với
+>
 > **Nuances:**
-> - ...
+> - Used to highlight similarities or differences
+> - Common in analytical and evaluative contexts
+> - Can introduce both favorable and unfavorable comparisons
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Analytical, Comparative, Evaluative
+> **Memory Hook:** COMPARE = examine similarities + TO = against → COMPARED TO = measuring against something
+> **📖 Etymology Story:** Latin 'comparare' (to pair together) → 'compared to' pairs two things for evaluation
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[comparison]] /kəmˈpærɪsn/
+> - **Verb:** [[compare]] /kəmˈpeə(r)/
+> - **Adj:** [[comparative]] /kəmˈpærətɪv/
+> - **Adv:** [[comparatively]] /kəmˈpærətɪvli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[in comparison with]] /ɪn kəmˈpærɪsn wɪð/ : more formal
+> - [[versus]] /ˈvɜːsəs/ : direct opposition
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - (none - comparative phrase)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Compared to last year (so với năm ngoái)
+> 2. Small compared to (nhỏ so với)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Compared to other cities, Tokyo has extremely efficient public transportation.
+> - **Translation:** So với các thành phố khác, Tokyo có hệ thống giao thông công cộng cực kỳ hiệu quả.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new model is quite affordable compared to its predecessor.
+> - **Translation:** Mẫu mới khá phải chăng so với phiên bản trước đó.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect following verb form**
+> - ❌ **Mistake:** Compared to other students, she studies more hard.
+> - ✅ **Correction:** Compared to other students, she studies harder.
+> - **Why:** When comparing actions, use the comparative form (harder)
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Compared to previous generations, young people are more digitally connected."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +79,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **compared to** (*/kəmˈpeəd tuː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In relation to; when measured against another thing for comparison
+> 🇻🇳 **Vietnamese:** So với, khi so sánh với
+> 🗣️ **IPA:** */kəmˈpeəd tuː/*
+> 🧠 **Mental Model:** Cán cân tư tưởng, đặt hai thứ lên hai đĩa để xem nào nặng hơn, giống nhau hay khác nhau
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In relation to; when measured against another thing for comparison"
+**Vietnamese:** So với
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**compared to** (*/kəmˈpeəd tuː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **compared to** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Compared to traditional teaching methods, online learning offers greater flexibility.
+> 🇻🇳 **Translation:** So với các phương pháp giảng dạy truyền thống, học trực tuyến mang lại sự linh hoạt lớn hơn.
+> 🔍 **Analysis:** 'Compared to' establishes a clear point of reference for evaluation, making the comparison explicit
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **compared to**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Time references:** Compared to last year/week/month (so với năm/tuần/tháng trước) - temporal comparison
+> 2. **Quality:** Small/large/high/low compared to (nhỏ/lớn/cao/thấp so với) - quantitative comparison
+> 3. **Groups:** Compared to others/people/countries (so với người khác/người/quốc gia) - group comparison
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **compared to**:
+"This phone is better."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Compared to its predecessor, this phone offers significantly improved camera quality."
+> 💡 **Why it works:** 'Compared to' establishes a clear reference point for the comparison
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **compared to** instead of **than**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **compared to:** Dùng để bắt đầu câu so sánh, tạo bối cảnh rõ ràng
+> **than:** Dùng sau tính từ so sánh, nối trực tiếp hai đối tượng
+> 🧱 **The Barrier:** 'Compared to X, Y is...' vs 'Y is ...er than X' - different sentence structures
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why a product costs more. What do you say?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Compared to similar products, our version uses premium materials, justifying the higher price."
+> 👨‍🎨 **Director's Note:** Sử dụng 'compared to' để cung cấp bối cảnh và biện minh cho sự khác biệt về giá
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `comparare` to the meaning of **compared to**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'comparare' (ghép đôi, so sánh) + 'to' (với) → 'compared to' là hành động ghép hai thứ lại để xem chúng tương đồng hay khác biệt
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **compared to**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `comparare` (to pair, match)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[compare]] (so sánh)
+> - *(noun)* [[comparison]] (sự so sánh)
+> - *(adj)* [[comparable]] (có thể so sánh được)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kəmˈpeəd tuː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**compared to**
+> 📖 **Meaning:** In relation to; in comparison with
+> 🇻🇳 **Vietnamese:** So với
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **compared to**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Compared to her brother, she is more tall"
+> ✅ **Correction:** "Compared to her brother, she is taller"
+> 🧠 **Why:** Use comparative forms (taller, not more tall) after 'compared to' when comparing adjectives
 
 ---
 
-### Card 12: Antonym Flip
+### Card 12: Alternative Forms
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+↔️ **Flip:** What are alternatives to **compared to**?
+>
+> **Alternatives:**
+> - [[unlike]] (không giống - emphasizes difference)
+> - [[similar to]] (giống như - emphasizes similarity)
+> - [[in contrast with]] (trái ngược với - strong opposition)
+> 🧱 **Usage:** Choose based on whether emphasizing similarity, difference, or opposition
 
 ---

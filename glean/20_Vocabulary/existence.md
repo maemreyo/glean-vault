@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [existence, exist, being, life, reality, presence, alive, existing, come into existence, proof of existence]
+status: done
 ref:
-  - [[Cam 19 Listening Test 02]]
+  - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪɡˈzɪstəns/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/philosophical
+> **Etymology:** From Latin existentia, from existere "to stand forth, emerge"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The state of being
+>
+> **Context Meaning:** The fact or state of living or having objective reality
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự tồn tại
+> - **Contextual:** sự sống, thực tại
+>
 > **Nuances:**
-> - ...
+> - Can refer to life, reality, or the fact that something exists
+> - Used in philosophical, scientific, and everyday contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Philosophical, Fundamental, Eternal
+> **Memory Hook:** EXIST + ENCE → existence is the state of existing
+> **📖 Etymology Story:** Latin 'existere' (to stand out, emerge) + '-ence' → existence is emerging from nothingness into being
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[existence]] /ɪɡˈzɪstəns/
+> - **Verb:** [[exist]] /ɪɡˈzɪst/
+> - **Adj:** [[existent]] /ɪɡˈzɪstənt/
+> - **Adv:** [[existentially]] /ˌeɡzɪˈstenʃəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[being]] /ˈbiːɪŋ/ : more philosophical
+> - [[life]] /laɪf/ : specifically living organisms
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[nonexistence]] /ˌnɒnɪɡˈzɪstəns/ : not existing
+> - [[nothingness]] /ˈnʌθɪŋnəs/ : absence of existence
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Proof of existence (bằng chứng về sự tồn tại)
+> 2. Come into existence (bắt đầu tồn tại)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The existence of extraterrestrial life remains unproven.
+> - **Translation:** Sự tồn tại của sự sống ngoài Trái Đất vẫn chưa được chứng minh.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The company came into existence in 1990 and has grown rapidly since.
+> - **Translation:** Công ty bắt đầu tồn tại vào năm 1990 và đã phát triển nhanh chóng kể từ đó.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Subject-verb agreement**
+> - ❌ **Mistake:** The existence of these problems are concerning.
+> - ✅ **Correction:** The existence of these problems is concerning.
+> - **Why:** 'Existence' is singular, so use 'is' not 'are'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The existence of dark matter was first proposed to explain gravitational effects."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **existence** (*/ɪɡˈzɪstəns/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The state or fact of being real or living; having objective reality
+> 🇻🇳 **Vietnamese:** Sự tồn tại, sự sống, thực tại
+> 🗣️ **IPA:** */ɪɡˈzɪstəns/*
+> 🧠 **Mental Model:** Trạng thái có thật, từ không có đến có, giống như ánh sáng bừng lên trong bóng tối
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The state or fact of being real or living; having objective reality"
+**Vietnamese:** Sự tồn tại
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**existence** (*/ɪɡˈzɪstəns/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **existence** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The discovery of ancient fossils provided evidence of the existence of dinosaurs millions of years ago.
+> 🇻🇳 **Translation:** Việc phát hiện ra hóa thạch cổ đại đã cung cấp bằng chứng về sự tồn tại của khủng hàng triệu năm trước.
+> 🔍 **Analysis:** 'Existence' emphasizes the factual reality of something, stronger than just 'presence' or 'being'
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **existence**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Proof/Evidence:** proof/evidence of existence (bằng chứng về sự tồn tại) - verification
+> 2. **Beginning:** come into existence/begin existence (bắt đầu tồn tại) - origin
+> 3. **Threat:** threaten/endanger existence (đe dọa sự tồn tại) - survival
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **existence**:
+"Aliens might be real."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The existence of extraterrestrial intelligence remains one of humanity's greatest unanswered questions."
+> 💡 **Why it works:** 'Existence' adds philosophical weight and scientific precision to the concept
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **existence** instead of **life**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **existence:** Khái niệm triết học rộng hơn, bao gồm cả vật vô cơ và các khái niệm trừu tượng
+> **life:** Chỉ riêng sự sống của sinh vật, có giới hạn hơn
+> 🧱 **The Barrier:** Life is biological, while existence can be conceptual or abstract
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're discussing environmental conservation. You need to emphasize urgency.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The very existence of entire species hangs in the balance due to climate change."
+> 👨‍🎨 **Director's Note:** Sử dụng 'existence' để nhấn mạnh sự nghiêm trọng, toàn bộ sự sống đang bị đe dọa
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `existere` to the meaning of **existence**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'existere' (thể hiện nổi bật) + '-ence' (trạng thái) → 'existence' là trạng thái nổi lên từ không-thành-có đến có-thật
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **existence**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `existere` (to stand forth, emerge)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[exist]] (tồn tại)
+> - *(adj)* [[existent]] (hiện hữu)
+> - *(adv)* [[existentially]] (theo phương diện tồn tại)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪɡˈzɪstəns/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**existence**
+> 📖 **Meaning:** The state of being real or alive
+> 🇻🇳 **Vietnamese:** Sự tồn tại, sự sống
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **existence**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "In my opinion, the existence of ghosts are real"
+> ✅ **Correction:** "In my opinion, the existence of ghosts is real"
+> 🧠 **Why:** 'Existence' is always singular regardless of what follows it in the "of" phrase
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **existence**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[nonexistence]] (sự không tồn tại - complete absence)
+> - [[nothingness]] (chân không, hư vô - philosophical concept)
+> 🧱 **Contrast:** While existence means having being, nonexistence is the complete lack of being
 
 ---

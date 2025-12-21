@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
 #flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [gelled, gelling, gelatinous, jelly, solidify, set, congeal, thicken]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dʒel/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B2
+> **Register:** neutral/technical
+> **Etymology:** Latin gelu "frost, cold" - related to freezing
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A jelly-like substance
+>
+> **Context Meaning:**
+> (Noun) A thick, semi-solid substance used in various products
+> (Verb) To set or become solid like gel
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** gel, chất gel
+> - **Contextual:** (danh từ) gel, (động từ) đông đặc lại
+>
 > **Nuances:**
-> - ...
+> - Can be natural or synthetic
+> - Used in cosmetics, food, medical, and laboratory contexts
+> - Has a unique texture between liquid and solid
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Viscous, Flexible
+> **Memory Hook:** "Gel" sounds like "jelly" - they're similar semi-solid substances
+> **📖 Etymology Story:** Picture ancient Romans seeing frost (gelu) turn water into a semi-solid state - that's the origin of "gel"!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[gelatin]] /ˈdʒelətɪn/
+> - **Adj:** [[gelatinous]] /dʒəˈlætɪnəs/
+> - **Related:** [[jelly]] /ˈdʒeli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[jelly]] /ˈdʒeli/ : fruit preserve
+> - [[paste]] /peɪst/ : thick semi-liquid
+> - [[ointment]] /ˈɔɪntmənt/ : medicinal cream
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[liquid]] /ˈlɪkwɪd/ : flowing substance
+> - [[gas]] /ɡæs/ : air-like substance
+> - [[solid]] /ˈsɒlɪd/ : firm substance
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. hair gel
+> 2. gel capsules
+> 3. gel electrophoresis
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She applied hair gel to keep her style in place all day.
+> - **Translation:** Cô thoa gel lên tóc để giữ kiểu tóc suốt cả ngày.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The medicine comes in gel capsules for faster absorption.
+> - **Translation:** Thuốc được bào chế dạng gel nang để hấp thụ nhanh hơn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling Error**
+> - ❌ **Mistake:** "jell" instead of "gel"
+> - ✅ **Correction:** "gel" (noun), "jell" (verb - less common)
+> - **Why:** "Gel" is the noun spelling; "jell" as verb is rare and mostly American
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Beauty is the purgation of superfluities."
+> **Source:** [[Michelangelo]]
 
 ---
 
@@ -161,121 +84,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **gel** (*/dʒel/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** (n) A thick, semi-solid, jelly-like substance; (v) To set or become solid like gel
+> 🇻🇳 **Vietnamese:** (danh từ) gel, chất đặc quánh; (động từ) đông đặc lại
+> 🗣️ **IPA:** */dʒel/*
+> 🧠 **Mental Model:** Hãy tưởng tượng hair gel - chất bán lỏng, bán rắn, giữ shape (semi-solid that holds shape)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A thick, semi-solid, jelly-like substance used in various products"
+**Vietnamese:** Chất bán lỏng/bán rắn như jelly dùng trong các sản phẩm
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**gel** (*/dʒel/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **gel** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The laboratory technician prepared an agarose gel for DNA electrophoresis analysis.
+> 🇻🇳 **Translation:** Kỹ thuật viên phòng thí nghiệm đã chuẩn bị gel agarose để phân tích điện di DNA.
+> 🔍 **Analysis:** "gel" thể hiện scientific context, phù hợp lab terminology, thể hiện chuyên ngành hơn "jelly"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **gel**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Cosmetic:** hair/styling gel (gel tạo kiểu tóc) (beauty products)
+> 2. **Medical:** gel capsules/tablets/ointment (viên/tuốc gel) (pharmaceutical forms)
+> 3. **Scientific:** gel electrophoresis/agarose gel (điện di gel/gel agarose) (lab techniques)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **gel**:
+"The thick substance held her hair in place."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The styling gel provided strong hold while maintaining flexibility throughout the day."
+> 💡 **Why it works:** "gel" tạo cảm giác specific product type thay vì "thick substance" (chung chung)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **gel** instead of **[[cream]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **gel:** Gel (bán rắn, trong) - texture nhẹ, không dầu, thẩm thấu nhanh
+> **cream:** Kem (bánh bơ) - texture dày, giàu dầu, dưỡng ẩm
+> 🧱 **The Barrier:** "gel" = lightweight, non-greasy, quick absorption, "cream" = thick, moisturizing, oil-based
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a salon explaining to a client what product you're using for their hairstyle. You sound professional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm applying a medium-hold styling gel that will give your hair texture without stiffness."
+> 👨‍🎨 **Director's Note:** "gel" thể hiện professional hair product knowledge, specific terminology
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<gelu>` to the meaning of **gel**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "gelu" = frost/ice cold → water freezing thành semi-solid → trạng thái between liquid and solid → hiện đại: gel (chất bán lỏng/bán rắn)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **gel**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `gelu` (frost, ice cold)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[gel]] /dʒel/
+> - *(noun)* [[gelatin]] /ˈdʒelətɪn/
+> - *(adj)* [[gelatinous]] /dʒəˈlætɪnəs/
+> - *(related)* [[congeal]] /kənˈdʒiːl/ (freeze/solidify)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dʒel/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**gel**
+> 📖 **Meaning:** (n) A thick, semi-solid, jelly-like substance; (v) To set or become solid like gel
+> 🇻🇳 **Vietnamese:** (danh từ) gel, chất đặc quánh; (động từ) đông đặc lại
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **gel**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I need some hair jell to style my hair."
+> ✅ **Correction:** "I need some hair gel to style my hair."
+> 🧠 **Why:** "Gel" là đúng spelling cho noun. "Jell" là verb nhưng rất hiếm dùng. Common spelling error, đặc biệt với non-native speakers.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **gel**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[liquid]] (chất lỏng - flows freely, no structure)
+> - [[gas]] (khí - expands to fill container)
+> 🧱 **Contrast:** "gel" = semi-solid with structure, "liquid" = flows without shape, "gas" = no definite shape/volume
 
 ---

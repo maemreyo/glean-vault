@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [repeats, repeated, repeating, repetition, repetitive, again, reiterate, duplicate, echo]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈpiːt/
+> **Part of Speech:** verb
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** Old French repeter "repeat, say again" from Latin repetere "do again, say again"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To say or do something again
+>
+> **Context Meaning:** To say, write, or do something again, either for emphasis or because it wasn't understood the first time
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** lặp lại
+> - **Contextual:** nhắc lại, làm lại, nói lại
+>
 > **Nuances:**
-> - ...
+> - Can indicate inability to understand (need to repeat)
+> - Used for emphasis or reinforcement
+> - In music/media: to play or broadcast again
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Patient, Persistent
+> **Memory Hook:** "Re-peat" - re means "again", so do it again
+> **📖 Etymology Story:** Ancient Roman messengers running "back" (re-) to "seek" (petere) someone they missed, needing to deliver the message again.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[repetition]] /ˌrepəˈtɪʃn/
+> - **Adj:** [[repetitive]] /rɪˈpetətɪv/
+> - **Adv:** [[repeatedly]] /rɪˈpiːtɪdli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[reiterate]] /riˈɪtəreɪt/ : say again for emphasis
+> - [[duplicate]] /ˈdjuːplɪkeɪt/ : make an exact copy
+> - [[echo]] /ˈekəʊ/ : repeat what someone says
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[innovate]] /ˈɪnəveɪt/ : do something new
+> - [[originate]] /əˈrɪdʒɪneɪt/ : create something first
+> - [[cease]] /siːs/ : stop doing something
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. repeat yourself
+> 2. repeat after me
+> 3. repeat performance
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Could you please repeat your name? I didn't catch it the first time.
+> - **Translation:** Bạn có thể lặp lại tên của mình được không? Tôi không nghe rõ lần đầu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The teacher asked the students to repeat the exercise at home.
+> - **Translation:** Giáo viên yêu cầu học sinh lặp lại bài tập ở nhà.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Grammar Error**
+> - ❌ **Mistake:** "I repeat again what I said."
+> - ✅ **Correction:** "I repeat what I said." hoặc "I say again what I said."
+> - **Why:** "Repeat" already means "do again", so "repeat again" is redundant.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Those who cannot remember the past are condemned to repeat it."
+> **Source:** [[George Santayana]]
 
 ---
 
@@ -161,121 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **repeat** (*/rɪˈpiːt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To say, write, or do something again, either for emphasis or clarification
+> 🇻🇳 **Vietnamese:** Lặp lại; nhắc lại; làm lại
+> 🗣️ **IPA:** */rɪˈpiːt/*
+> 🧠 **Mental Model:** Hãy tưởng tượng pressing replay trên một bài hát - nghe lại lần nữa (play again for clarity/emphasis)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To say or do something again"
+**Vietnamese:** Lặp lại; nhắc lại
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**repeat** (*/rɪˈpiːt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **repeat** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The comedian had to repeat his joke because the audience didn't laugh the first time.
+> 🇻🇳 **Translation:** Nghệ sĩ hài phải kể lại câu chuyện đùa của mình vì khán giả không cười lần đầu.
+> 🔍 **Analysis:** "repeat" ở đây chỉ hành động làm lại vì không đạt hiệu quả lần đầu, thể hiện clarity/impact needs
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **repeat**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Instruction:** repeat after me (lặp lại theo tôi) (learning/teaching context)
+> 2. **Redundancy:** repeat yourself (lặp lại chính mình) (unnecessary repetition)
+> 3. **Performance:** repeat performance (diễn xuất lại) (doing something successfully again)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **repeat**:
+"Can you say that one more time?"
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Could you please repeat the instructions? I want to ensure I understand them correctly."
+> 💡 **Why it works:** "repeat" tạo cảm giác formal/request for clarity thay vì "say that again" (thân mật hơn)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **repeat** instead of **[[copy]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **repeat:** Lặp lại/làm lại (do again) - có thể có sự khác biệt nhỏ, focus vào action
+> **copy:** Sao chép (duplicate) - tạo bản giống hệt, focus trên product/result
+> 🧱 **The Barrier:** "repeat" = action again (có thể khác biệt), "copy" = exact reproduction (giống hệt)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're in a noisy restaurant and can't hear what your friend just said. You need to ask politely. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm sorry, could you repeat that? It's quite noisy in here."
+> 👨‍🎨 **Director's Note:** "repeat" thể hiện polite request for clarity trong social situation, tự nhiên hơn "say again"
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<petere>` to the meaning of **repeat**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "repetere" = re- (again) + petere (seek/attack) → seek again → tìm lại/làm lại → hiện đại: repeat (lặp lại)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **repeat**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `petere` (seek, aim for, attack)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[repeat]] /rɪˈpiːt/
+> - *(noun)* [[repetition]] /ˌrepəˈtɪʃn/
+> - *(adj)* [[repetitive]] /rɪˈpetətɪv/
+> - *(adv)* [[repeatedly]] /rɪˈpiːtɪdli/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈpiːt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**repeat**
+> 📖 **Meaning:** To say, write, or do something again, either for emphasis or clarification
+> 🇻🇳 **Vietnamese:** Lặp lại; nhắc lại; làm lại
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **repeat**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Don't repeat again." (redundant)
+> ✅ **Correction:** "Don't repeat." hoặc "Don't say it again."
+> 🧠 **Why:** "repeat" đã bao hàm nghĩa "again", nên "repeat again" là redundant. Giống như nói "ATM machine" trong tiếng Anh.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **repeat**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[originate]] (sáng tạo/lần đầu - làm cái mới)
+> - [[cease]] (ngừng lại - dừng không làm nữa)
+> 🧱 **Contrast:** "repeat" = do something multiple times, "originate" = create something new, "cease" = stop doing entirely
 
 ---

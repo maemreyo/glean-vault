@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [outwardly, outward appearance, outward expression, external, visible]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈaʊtwəd/
+> **Part of Speech:** adjective/adverb
+> **CEFR Level:** B2
+> **Register:** neutral to formal
+> **Etymology:** Old English "ut" (out) + "weard" (toward, direction)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Relating to the external or surface; away from the center.
+>
+> **Context Meaning:** 1) (adj) Of or relating to the external or surface; 2) (adj) Relating to how people appear to others rather than how they really are; 3) (adv) Moving or directed toward the outside.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hướng ngoại, bên ngoài
+> - **Contextual:** bề ngoài, bên trong ra, bên ngoài
+>
 > **Nuances:**
-> - ...
+> - Often contrasts with "inward" (internal/hidden)
+> - Can refer to physical direction or emotional expression
+> - Suggests appearance may not match reality
+> - Used in psychology to describe observable behaviors
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Superficial, Directed, Visible
+> **Memory Hook:** Out-ward = toward the outside, external direction.
+> **📖 Etymology Story:** Old English "ut" (out) + "weard" (direction toward). Originally meant moving or facing outward, expanded to include anything external or observable - the visible part versus the hidden interior.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[outward]] /ˈaʊtwəd/
+> - **Adv:** [[outwardly]] /ˈaʊtwədli/
+> - **Noun:** [[outwardness]] /ˈaʊtwədnəs/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[external]] /ɪkˈstɜːnəl/ : outside
+> - [[visible]] /ˈvɪzəbl/ : can be seen
+> - [[surface]] /ˈsɜːfɪs/ : top layer
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[inward]] /ˈɪnwəd/ : internal
+> - [[inner]] /ˈɪnə/ : inside
+> - [[hidden]] /ˈhɪdən/ : concealed
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. outward appearance
+> 2. outward journey
+> 3. outward calm
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Despite his outward confidence, he was actually very nervous about the presentation.
+> - **Translation:** Mặc dù tự tin bề ngoài, anh ấy thực sự rất lo lắng về bài thuyết trình.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The ship began its outward journey to the New World at dawn.
+> - **Translation:** Con tàu bắt đầu hành trình hướng ra thế giới mới vào bình minh.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition**
+> - ❌ **Mistake:** "outward to"
+> - ✅ **Correction:** "outward from"
+> - **Why:** Direction is "from" inside "to" outside
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Outward appearance is often a mask hiding inward reality."
+> **Source:** [[Philosophical Text]]
 
 ---
 
@@ -161,121 +83,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **outward** (*/ˈaʊtwəd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Relating to the external or surface; away from the center; how things appear rather than what they really are.
+> 🇻🇳 **Vietnamese:** Thuộc về bên ngoài, hướng ra ngoài, bề ngoài so với bên trong
+> 🗣️ **IPA: */ˈaʊtwəd/*
+> 🧠 **Mental Model:** Như "facing outside" - direction pointing away từ center, hoặc "visible layer" mà người khác see. Opposite của "inward".
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Relating to the external rather than the internal"
+**Vietnamese:** Liên quan đến bên ngoài thay vì bên trong
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**outward** (*/ˈaʊtwəd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **outward** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The psychologist noted the patient's outward improvement while recognizing deeper issues still needed addressing.
+> 🇻🇳 **Translation:** Nhà tâm lý ghi nhận sự cải thiện bề ngoài của bệnh nhân trong khi nhận thức các vấn đề sâu sắc hơn vẫn cần giải quyết.
+> 🔍 **Analysis:** "Outward" works perfectly ở đây vì nó creates contrast giữa observable improvements và underlying issues, highlighting gap between appearance và reality.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **outward**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Physical Direction:** outward journey, outward flow, outward expansion (VN note: hướng vật lý)
+> 2. **Appearance vs Reality:** outward appearance, outward signs, outward behavior (VN note: vẻ ngoài so với thực tế)
+> 3. **Emotional Expression:** outward calm, outward expression, outward display (VN note: biểu hiện cảm xúc)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **outward**:
+"She looked calm but was worried inside."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Her outward composure betrayed none of the anxiety churning within her."
+> 💡 **Why it works:** "Outward" elevates simple contrast đến sophisticated psychological observation, creating tension between appearance và internal state.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **outward** instead of **external**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **outward:** Direction/appearance focus (VN: hướng/phô bày)
+> **external:** Source/location focus (VN: nguồn/vị trí)
+> 🧱 **The Barrier:** "Outward" implies movement/direction outward hoặc contrast appearance vs reality, "external" refers đến anything outside regardless of direction or appearance aspect.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing a character in a story who has a complex personality. You want to show their hidden nature.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "His outward cheerfulness masked a deep melancholy that only surfaced when he thought no one was watching."
+> 👨‍🎨 **Director's Note:** "Outward" creates psychological depth, suggesting deliberate masking of true emotions.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `ut` and `weard` to the meaning of **outward**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "ut" (out) + "weard" (toward/direction) = "facing outward". From physical direction away từ center đến metaphorical "facing the world" - what we show versus what we hide.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **outward**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `weard` (direction, toward)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* inward - hướng vào trong
+> - *(adj)* toward - hướng tới
+> - *(adj)* forward - hướng về phía trước
+> - *(adj)* backward - hướng về phía sau
+> - *(verb)* ward off - đẩy lùi
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈaʊtwəd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**outward**
+> 📖 **Meaning:** Relating to the external or surface
+> 🇻🇳 **Vietnamese:** Thuộc về bên ngoài hoặc bề mặt
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **outward**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "He had an outward personality." (awkward)
+> ✅ **Correction:** "He had an outgoing personality." hoặc "His outward appearance was friendly."
+> 🧠 **Why:** "Outward" typically modifies appearance, signs, or direction. Use "outgoing" cho personality types. "Outward" describes what others can see, not personality trait itself.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **outward**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[inward]] (hướng vào trong)
+> - [[inner]] (bên trong)
+> - [[internal]] (nội tại)
+> 🧱 **Contrast:** While outward represents visible direction và what others can see, inward represents hidden direction và internal reality - the eternal tension between appearance và essence.
 
 ---

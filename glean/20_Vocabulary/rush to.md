@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [rushed to, rushing to, hurry to, dash to, race to, hasten to]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
-> [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> [!info] Phrasal Analysis
+> **IPA:** /rʌʃ tuː/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B1
+> **Register:** general/informal
+> **Etymology:** Rush (from Middle English 'ruschen' - to hasten) + to (preposition indicating direction)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To move or act with urgent haste toward someone or something
+>
+> **Context Meaning:** To hurry quickly to get somewhere or to do something, often because of urgency, excitement, or limited time
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** vội đến, vội vã đến
+> - **Contextual:** hối hả đến, lao đến, vội vã làm gì
+>
 > **Nuances:**
-> - ...
+> - Implies urgency and speed
+> - Can be physical movement or quick action
+> - Often used in emergencies or time-pressured situations
+> - Can suggest eagerness or excitement
 
-> [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> [!tip] 💡 Phrasal Vibe & Story
+> **Personality:** Urgent, Energetic, Impulsive
+> **Memory Hook:** When you 'rush to' somewhere, you move like you're in a 'rush' (vội vã) to get there quickly
+> **📖 Etymology Story:** Từ 'rush' (vội vã) + 'to' (đến) - di chuyển hoặc hành động với sự cấp bách, không chần chừ
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrasal verb:** rush to /rʌʃ tuː/
+> - **Present:** rushes to /rʌʃɪz tuː/
+> - **Past:** rushed to /rʌʃt tuː/
+> - **Related:** rush hour /rʌʃ ˈaʊə(r)/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[hurry to]] /ˈhʌri tuː/ : move quickly to
+> - [[dash to]] /dæʃ tuː/ : run quickly to
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[take one's time]] /teɪk wʌns taɪm/ : proceed slowly
+> - [[delay]] /dɪˈleɪ/ : postpone, put off
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Rush to get somewhere
+> 2. Rush to do something
+> 3. Rush to someone's aid
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** We had to rush to catch the last train home.
+> - **Translation:** Chúng tôi phải vội vã để kịp chuyến tàu cuối cùng về nhà.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Don't rush to conclusions without all the facts.
+> - **Translation:** Đừng vội kết luận khi chưa có tất cả sự thật.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Wrong preposition**
+> - ❌ **Mistake:** She rushed **for** the hospital.
+> - ✅ **Correction:** She rushed **to** the hospital.
+> - **Why:** 'Rush to' indicates direction toward a place; 'rush for' would mean hurrying to obtain something
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "People rushed to buy the new product."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +82,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **rush to** (*/rʌʃ tuː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To move or act with urgent haste toward someone or something
+> 🇻🇳 **Vietnamese:** Vội đến, vội vã đến, hối hả đến
+> 🗣️ **IPA:** */rʌʃ tuː/*
+> 🧠 **Mental Model:** Khi 'rush to', bạn di chuyển hoặc hành động với tốc độ cao vì có gì đó cấp bách
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
-→ **Target Word?**
+**Definition:** "To move or act with urgent haste toward someone or something"
+**Vietnamese:** Vội đến, vội vã đến
+→ **Target Phrase?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**rush to** (*/rʌʃ tuː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **rush to** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The firefighters rushed to the scene as soon as they received the emergency call.
+> 🇻🇳 **Translation:** Lính cứu hỏa đã vội vã đến hiện trường ngay sau khi nhận được cuộc gọi khẩn cấp.
+> 🔍 **Analysis:** 'Rushed to' ở đây là động từ quá khứ chỉ hành động di chuyển nhanh chóng, nhấn mạnh sự cấp bách của tình huống khẩn cấp
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **rush to**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Location:** Rush to the hospital/scene/store (vội đến bệnh viện/hiện trường/cửa hàng - địa điểm khẩn cấp)
+> 2. **Action:** Rush to help/assist/rescue (vội giúp/trợ/cứu - hành động khẩn cấp)
+> 3. **Decision:** Rush to conclusions/judgments (vội kết luận/đánh giá - hành động não bộ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **rush to**:
+"She quickly went to the meeting."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She rushed to the meeting upon learning about the urgent budget crisis."
+> 💡 **Why it works:** 'Rushed to' mạnh hơn 'quickly went', thể hiện sự cấp bách và quan trọng của cuộc họp
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **rush to** instead of **[[go to quickly]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **rush to:** Nhấn mạnh sự cấp bách, tính quan trọng, thường do áp lực thời gian hoặc tình huống khẩn cấp
+> **[[go to quickly]]**: Chỉ đơn giản là di chuyển nhanh, không nhất thiết có yếu tố cấp bách
+> 🧱 **The Barrier:** Rush to có yếu tố cảm xúc và cấp bách, go to quickly chỉ về tốc độ
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You hear your child crying in the next room. You're concerned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I need to rush to see what's wrong with the baby."
+> 👨‍🎨 **Director's Note:** Sử dụng 'rush to' thể hiện sự lo lắng và cấp bách của phụ huynh khi nghe con khóc
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the components `rush + to` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Rush' (vội vã, cấp bách) + 'to' (đến) - hành động di chuyển hoặc làm gì đó với sự cấp bách, không do dự
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **rush to**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Components:**
+> - Rush (Middle English 'ruschen' - to hasten)
+> - To (preposition of direction)
+> 👨‍👩‍👧 **Related:**
+> - *(present)* rushes to /rʌʃɪz tuː/
+> - *(past)* rushed to /rʌʃt tuː/
+> - *(related)* rush hour /rʌʃ ˈaʊə(r)/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rʌʃ tuː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**rush to**
+> 📖 **Meaning:** To move or act with urgent haste
+> 🇻🇳 **Vietnamese:** Vội đến, vội vã đến
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **rush to**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** They rushed **in** the airport.
+> ✅ **Correction:** They rushed **to** the airport.
+> 🧠 **Why:** Cần giới từ 'to' để chỉ hướng di chuyển đến một nơi, 'in' chỉ vị trí bên trong
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **rush to**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[take one's time getting to]] (cẩn trọng đi đến)
+> - [[delay going to]] (trì hoãn việc đến)
+> - [[stroll to]] (đi dạo đến)
+> 🧱 **Contrast:** Rush to là vội vã cấp bách, antonyms là từ từ, không vội vàng
 
 ---

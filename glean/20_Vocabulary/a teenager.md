@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/psychology-behavior/child-development
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [teen, teen, adolescent, youth, young adult, teen years]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈtiːneɪdʒə/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** "teen" (from thirteen to nineteen) + "age" (Old English "yldan" - period of life)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A person aged between 13 and 19 years old.
+>
+> **Context Meaning:** Someone in the developmental stage between childhood and adulthood, characterized by puberty, identity formation, peer influence, and increasing independence. A period of rapid physical, emotional, and social change.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một thiếu niên, một thanh thiếu niên
+> - **Contextual:** vị thành niên, người tuổi teen
+>
 > **Nuances:**
-> - ...
+> - Not just age range, but a distinct developmental stage
+> - Associated with rebellion, identity crisis, and peer pressure
+> - Cultural expectations and experiences vary globally
+> - Often misunderstood phase of life crucial for development
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Rebellious, Transformative, Searching
+> **Memory Hook:** Teenager = teen + age - the "teens" age (thirteen-nineteen).
+> **📖 Etymology Story:** "Teen" comes from numbers ending in "-teen" (thirteen to nineteen), marking this unique age group. "Age" from Old English "yldan" meaning period of life. Together they capture the tumultuous "teen numbers" years between childhood and adulthood.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[teenager]] /ˈtiːneɪdʒə/
+> - **Adj:** [[teenage]] /ˈtiːneɪdʒ/
+> - **Noun:** [[adolescence]] /ˌædəʊˈlesəns/
+> - **Noun:** [[teen]] /tiːn/ (informal)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[adolescent]] /ˌædəʊˈlesənt/ : more formal term
+> - [[youth]] /juːθ/ : broader age range
+> - [[young person]] /jʌŋ ˈpɜːsən/ : general term
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[adult]] /ˈædʌlt/ : fully mature person
+> - [[child]] /tʃaɪld/ : pre-pubescent person
+> - [[senior citizen]] /ˈsiːniə ˈsɪtɪzən/ : elderly person
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. typical teenager
+> 2. teenage behavior
+> 3. as a teenager
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** As a teenager, I was obsessed with music and spent hours learning to play guitar.
+> - **Translation:** Khi còn là thiếu niên, tôi bị ám ảnh bởi âm nhạc và dành hàng giờ để học guitar.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The study examined how social media affects teenager mental health and self-esteem.
+> - **Translation:** Nghiên cứu đã xem xét mạng xã hội ảnh hưởng đến sức khỏe tinh thần và lòng tự trọng của thanh thiếu niên như thế nào.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** "He is teenager"
+> - ✅ **Correction:** "He is a teenager"
+> - **Why:** "Teenager" is countable and requires an article
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Being a teenager is like being in a pressure cooker with a faulty release valve."
+> **Source:** [[Psychology Today]]
 
 ---
 
@@ -161,121 +84,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a teenager** (*/ə ˈtiːneɪdʒə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person aged between 13 and 19, in the transitional stage between childhood and adulthood.
+> 🇻🇳 **Vietnamese:** Một người từ 13-19 tuổi, ở giai đoạn chuyển tiếp từ thơ ấu đến trưởng thành
+> 🗣️ **IPA: */ə ˈtiːneɪdʒə/*
+> 🧠 **Mental Model:** Như "bridge period" - connecting childhood island với adult mainland. Time of transformation, confusion, và identity building.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person aged between 13 and 19 years old"
+**Vietnamese:** Một người độ tuổi từ 13 đến 19
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a teenager** (*/ə ˈtiːneɪdʒə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a teenager** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** As a teenager, Maya developed a passion for environmental activism that would shape her future career.
+> 🇻🇳 **Translation:** Khi còn là thiếu niên, Maya đã phát triển niềm đam mê với hoạt động vì môi trường đã định hình sự nghiệp tương lai của cô.
+> 🔍 **Analysis:** "A teenager" works perfectly ở đây vì nó identifies specific developmental period when passions và future directions often emerge, creating narrative về formative years.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a teenager**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Developmental Stage:** typical teenager, teenager problems, teenager years (VN note: giai đoạn phát triển)
+> 2. **Behavioral:** rebellious teenager, moody teenager, independent teenager (VN note: hành vi đặc trưng)
+> 3. **Social Context:** raise a teenager, teenager friends, teenager culture (VN note: bối cảnh xã hội)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a teenager**:
+"When he was young, he liked sports."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "As a teenager, he discovered his athletic potential and joined the school basketball team."
+> 💡 **Why it works:** "A teenager" specifies crucial developmental period when athletic abilities emerge và identities form, adding depth đến generic "when he was young".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a teenager** instead of **a young person**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a teenager:** Specific age 13-19 (VN: độ tuổi cụ thể 13-19)
+> **a young person:** General, broader range (VN: người trẻ nói chung)
+> 🧱 **The Barrier:** "Teenager" refers specifically to adolescent developmental stage với unique psychological/social challenges, "young person" là general term không indicating specific life stage.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're giving advice to parents about understanding their children. You want to explain this difficult age.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Remember that being a teenager is about finding identity - they're not being difficult, they're becoming themselves."
+> 👨‍🎨 **Director's Note:** "A teenager" creates empathetic connection, reminding parents this is temporary but crucial developmental phase.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `teen` and `age` to the meaning of **a teenager**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Teen" (from thirteen-nineteen) + "age" (life period) = "the teen ages". Captures unique decade where every year ends in "-teen" - literally numbered years of transition.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a teenager**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `yldan` (age, period of life)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* teenage - thuộc tuổi teen
+> - *(noun)* adolescence - tuổi vị thành niên
+> - *(adj)* adolescent - vị thành niên
+> - *(noun)* aging - sự già đi
+> - *(adj)* aged - đã có tuổi
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈtiːneɪdʒə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a teenager**
+> 📖 **Meaning:** A person aged between 13 and 19 years old
+> 🇻🇳 **Vietnamese:** Một người từ 13-19 tuổi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a teenager**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The classroom was full of teenagers." (when it's a mixed age group)
+> ✅ **Correction:** "The classroom was full of adolescents." hoặc "The classroom had teenagers and young adults."
+> 🧠 **Why:** "Teenager" specifically means 13-19 years old. Use "adolescents" cho broader age range hoặc ensure accuracy.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a teenager**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[an adult]] (người lớn)
+> - [[a child]] (đứa trẻ)
+> - [[a senior]] (người cao tuổi)
+> 🧱 **Contrast:** While teenager represents transition và becoming, adult represents completion của development, và child represents beginning - different phases life journey.
 
 ---

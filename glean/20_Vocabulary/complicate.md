@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [complicated, complicating, complication, complex, complexify, intricate]
+status: done
 ref:
-  - [[Cam 19 Listening Test 03]]
+  - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkɒm.plɪ.keɪt/
+> **Part of Speech:** verb
+> **CEFR Level:** B2
+> **Register:** formal/informal
+> **Etymology:** From Latin complicare (to fold together), from com- (together) + plicare (to fold)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To make something more complex or difficult
+>
+> **Context Meaning:** To cause something to become more difficult, involved, or intricate than necessary
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** làm phức tạp hóa
+> - **Contextual:** làm rắc rối, gây khó khăn, làm phức tạp thêm
+>
 > **Nuances:**
-> - ...
+> - Often used with negative connotations
+> - Can be used reflexively: things complicate themselves
+> - Different from 'complex' - complicate is the action, complex is the state
+> - Common in both professional and personal contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Confusing, Messy, Problematic
+> **Memory Hook:** Com = together + plic = fold = To fold things together into a messy pile = Complicate
+> **📖 Etymology Story:** Ancient Romans would "complicare" - fold together different threads when weaving complex patterns. A simple fold became complicated when too many threads were involved, just like modern situations become complicated when too many factors are mixed together.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[complication]] /ˌkɒm.plɪˈkeɪ.ʃən/ : a problem that makes something more difficult
+> - **Adj:** [[complicated]] /ˈkɒm.plɪ.keɪ.tɪd/ : complex and difficult to understand
+> - **Adj:** [[complicative]] /ˈkɒm.plɪ.keɪ.tɪv/ : causing complication
+> - **Past:** [[complicated]] /ˈkɒm.plɪ.keɪ.tɪd/ : having been made complex
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[confuse]] /kənˈfjuːz/ : to make unclear
+> - [[entangle]] /ɪnˈtæŋ.ɡəl/ : to make twisted or complicated
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[simplify]] /ˈsɪm.plɪ.faɪ/ : to make easier or simpler
+> - [[clarify]] /ˈklær.ɪ.faɪ/ : to make clearer
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. complicate matters/things
+> 2. further complicate
+> 3. unnecessarily complicate
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Don't complicate the issue by bringing up unrelated problems.
+> - **Translation:** Đừng làm phức tạp thêm vấn đề bằng cách nêu lên những vấn đề không liên quan.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new regulations will only complicate the application process.
+> - **Translation:** Các quy định mới sẽ chỉ làm phức tạp hóa quy trình nộp đơn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Form Error**
+> - ❌ **Mistake:** The situation is very complicate.
+> - ✅ **Correction:** The situation is very complicated.
+> - **Why:** Complicate is a verb; complicated is the adjective.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The art of simplifying is to eliminate the unnecessary and not complicate the necessary."
+> **Source:** Management Philosophy
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **complicate** (*/ˈkɒm.plɪ.keɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To make something more complex, difficult, or involved than it needs to be
+> 🇻🇳 **Vietnamese:** Làm phức tạp hóa, làm rắc rối; biến cái đơn giản thành phức tạp một cách không cần thiết
+> 🗣️ **IPA:** */ˈkɒm.plɪ.keɪt/*
+> 🧠 **Mental Model:** Hành động gộp nhiều thứ vào nhau làm cho vấn đề trở nên khó hiểu hơn - như vò nhiều sợi dây lại với nhau
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To make something more complex or difficult than necessary"
+**Vietnamese:** Làm cho cái gì đó trở nên phức tạp hoặc khó khăn hơn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**complicate** (*/ˈkɒm.plɪ.keɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **complicate** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** His refusal to accept help only served to complicate an already difficult situation.
+> 🇻🇳 **Translation:** Việc anh ấy từ chối nhận sự giúp đỡ chỉ làm thêm phức tạp cho một tình huống vốn đã khó khăn.
+> 🔍 **Analysis:** "Complicate" effectively shows how someone's action made a bad situation worse, emphasizing the cause-and-effect relationship in making problems more complex.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **complicate**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Problems:** complicate matters/the situation (làm phức tạp vấn đề/tình hình) - because problems become worse with complexity
+> 2. **Processes:** complicate the process/procedure (làm phức tạp quy trình) - because efficiency is reduced by complexity
+> 3. **Unnecessarily:** unnecessarily complicate (làm phức tạp không cần thiết) - because simplicity is often better
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **complicate**:
+"This makes things harder."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Your constant changes to the plan will only complicate our chances of success."
+> 💡 **Why it works:** "Complicate" transforms a simple statement into a sophisticated criticism, showing how actions create unnecessary complexity that hinders achievement.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **complicate** instead of [[make difficult]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **complicate:** Nhấn mạnh việc tạo ra additional complexity hoặc entanglement, không chỉ difficulty
+> **make difficult:** Chỉ general statement về increasing difficulty
+> 🧱 **The Barrier:** Complicate suggests creating interwoven problems, trong khi make difficult chỉ đơn giản là làm cho cái gì đó khó hơn
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your team is trying to make a simple decision, but someone keeps bringing up irrelevant details. You're frustrated. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Please stop trying to complicate this! We need to focus on the core issue, not get lost in details."
+> 👨‍🎨 **Director's Note:** Direct and frustrated tone, clearly requesting simplicity and focus
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `plicare` to the meaning of **complicate**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin com- ("cùng nhau") + plicare ("gấp lại") → Complicate là "gấp nhiều thứ lại với nhau", biến cái phẳng thành cái lộn xộn, như khi bạn gộp quá nhiều yếu tố vào một vấn đề
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **complicate**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `plicare` (to fold)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[explicit]] : folded out, explained
+> - *(adj)* [[implicit]] : folded in, implied
+> - *(verb)* [[duplicate]] : to fold twice
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkɒm.plɪ.keɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**complicate**
+> 📖 **Meaning:** To make something needlessly complex
+> 🇻🇳 **Vietnamese:** Làm phức tạp hóa
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **complicate**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "This is a complicate problem"
+> ✅ **Correction:** "This is a complicated problem"
+> 🧠 **Why:** Complicate is the verb (action), complicated is the adjective (description). You describe a problem as "complicated," not "complicate."
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **complicate**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[simplify]] (to make easier or less complex)
+> - [[streamline]] (to make more efficient)
+> 🧱 **Contrast:** To complicate is to add unnecessary complexity; to simplify is to reduce complexity to its essential elements
 
 ---

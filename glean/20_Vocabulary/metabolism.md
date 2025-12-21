@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [metabolism, metabolic, metabolize, metabolizing, metabolized, metabolite]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /məˈtæbəlɪzəm/
+> **Part of Speech:** noun
+> **CEFR Level:** C1
+> **Register:** scientific/medical
+> **Etymology:** From Greek 'metabolē' - 'a change, change of condition', from 'metaballein' - 'to change, turn about'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A change or transformation
+>
+> **Context Meaning:** 1. The chemical processes that occur within a living organism to maintain life 2. The sum of all physical and chemical changes in the body
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự trao đổi chất
+> - **Contextual:** quá trình chuyển hóa, chuyển hóa sinh học
+>
 > **Nuances:**
-> - ...
+> - Includes both building up (anabolism) and breaking down (catabolism) processes
+> - Essential for converting food to energy and building blocks
+> - Determines how efficiently the body burns calories
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Transformative, Energetic, Biological
+> **Memory Hook:** Think of 'meta-' (change) + 'bolism' (throw) = throwing changes through your body
+> **📖 Etymology Story:** Greek physicians observed how food 'metaballein' - changed and transformed inside the body. This process of constant transformation, where nutrients become energy and tissues, became known as metabolism.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[metabolism]] /məˈtæbəlɪzəm/
+> - **Verb:** [[metabolize]] /məˈtæbəlaɪz/
+> - **Adj:** [[metabolic]] /ˌmetəˈbɒlɪk/
+> - **Noun:** [[metabolite]] /məˈtæbəlaɪt/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[biochemical processes]] /ˌbaɪoʊˈkemɪkl ˈprɑːsesɪz/ : body chemistry
+> - [[energy conversion]] /ˈenərdʒi kənˈvɜːrʒn/ : energy transformation
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[stagnation]] /stæɡˈneɪʃn/ : lack of change
+> - [[equilibrium]] /ˌiːkwɪˈlɪbriəm/ : balanced state without change
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. slow/fast metabolism
+> 2. boost/raise metabolism
+> 3. metabolic rate/process
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Regular exercise helps boost your metabolism and burn more calories.
+> - **Translation:** Tập thể dục thường xuyên giúp tăng cường trao đổi chất và đốt nhiều calo hơn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The liver plays a crucial role in the body's metabolism of drugs.
+> - **Translation:** Gan đóng vai trò quan trọng trong quá trình chuyển hóa thuốc của cơ thể.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling Confusion**
+> - ❌ **Mistake:** metabilism
+> - ✅ **Correction:** metabolism
+> - **Why:** Remember: 'meta' + 'bol' + 'ism' - the pattern of change.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Metabolism is the fire that keeps the engine of life running."
+> **Source:** [[Biochemistry Textbook]]
 
 ---
 
@@ -161,121 +81,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **metabolism** (*/məˈtæbəlɪzəm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The chemical processes in living organisms that convert food into energy and building blocks
+> 🇻🇳 **Vietnamese:** Quá trình trao đổi chất, chuyển hóa hóa học trong cơ thể sống
+> 🗣️ **IPA:** */məˈtæbəlɪzəm/*
+> 🧠 **Mental Model:** 'Body factory processing' - continuous transformation of materials to sustain life
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The chemical processes in the body that convert food into energy"
+**Vietnamese:** Quá trình hóa học chuyển đổi thức ăn thành năng lượng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**metabolism** (*/məˈtæbəlɪzəm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **metabolism** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Athletes generally have a faster metabolism than sedentary people.
+> 🇻🇳 **Translation:** Vận động viên thường có tốc độ trao đổi chất nhanh hơn người ít vận động.
+> 🔍 **Analysis:** 'Metabolism' precisely describes the body's energy conversion rate, explaining why some people burn calories faster.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **metabolism**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Speed description:** slow/fast metabolism (trao đổi chất chậm/nhanh - VN: rate of energy burning)
+> 2. **Action verbs:** boost/raise metabolism (tăng cường trao đổi chất - VN: actively improving metabolism)
+> 3. **Scientific terms:** metabolic rate/disease (tốc độ trao đổi chất/bệnh chuyển hóa - VN: technical aspects)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **metabolism**:
+"His body processes food quickly."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "His rapid metabolism allows him to maintain his weight despite eating large meals."
+> 💡 **Why it works:** 'Metabolism' provides the precise biological term for food processing, adding scientific accuracy. VN: dùng thuật ngữ sinh học chính xác.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **metabolism** instead of **[[digestion]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **metabolism:** All chemical processes in the body (VN: toàn bộ quá trình hóa học)
+> **[[digestion]]:** Breaking down food in the digestive system (VN: chỉ tiêu hóa thức ăn)
+> 🧱 **The Barrier:** 'Metabolism' includes digestion plus cellular processes; 'digestion' is just the first step (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a nutritionist explaining weight management. You feel educational. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Understanding your metabolism is key to achieving your fitness goals!"
+> 👨‍🎨 **Director's Note:** Conveys professional insight into body processes for health improvement (VN: thể hiện kiến thức chuyên môn).
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `metaballein` to the meaning of **metabolism**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Greek `meta-` (change) + `ballein` (to throw) = `metaballein` (to change about). Ancient Greeks saw food as being 'thrown about' and transformed in the body, creating the concept of constant metabolic change (VN/EN mix).
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **metabolism**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `metaballein` (to change about, transform)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[metabolism]] - the change process
+> - *(verb)* [[metabolize]] - to undergo metabolism
+> - *(adj)* [[metabolic]] - related to metabolism
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */məˈtæbəlɪzəm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**metabolism**
+> 📖 **Meaning:** The body's chemical processes for energy conversion
+> 🇻🇳 **Vietnamese:** Sự trao đổi chất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **metabolism**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I have a good metabolism because I exercise a lot.
+> ✅ **Correction:** I have a FAST metabolism because I exercise a lot.
+> 🧠 **Why:** We describe metabolism's speed (fast/slow), not its quality (good/bad). It's about rate, not value judgment.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **metabolism**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[stagnation]] (lack of chemical activity)
+> - [[homeostasis]] (maintaining stable state without change)
+> 🧱 **Contrast:** Metabolism is active transformation; stagnation is inactivity; homeostasis is maintaining balance without change.

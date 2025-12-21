@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/environment/pollution-waste-management
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [synthetic clothes, synthetic fibers, artificial fibers, polyester clothing, nylon garments]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /sɪnˈθetɪk ˈkləʊðɪŋ/
+> **Part of Speech:** phrase (noun phrase)
+> **CEFR Level:** B2
+> **Register:** general/technical
+> **Etymology:** Greek "synthetikos" (put together) + Old English "clath" (cloth)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Clothing made from artificial fibers created through chemical synthesis rather than natural sources.
+>
+> **Context Meaning:** Garments manufactured from man-made materials like polyester, nylon, acrylic, and spandex, which are produced through chemical processes using petroleum products or plant-based materials converted into fibers.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** quần áo tổng hợp
+> - **Contextual:** trang phục nhân tạo, quần áo sợi tổng hợp
+>
 > **Nuances:**
-> - ...
+> - Often chosen for durability, wrinkle resistance, and quick-drying properties
+> - Major source of microplastic pollution during washing
+> - Includes both fully synthetic and blended fabrics
+> - Performance advantages vs environmental concerns creates ethical dilemma
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Modern, Practical, Problematic
+> **Memory Hook:** Synthetic = sin-thetic - seems convenient but has hidden sins (microplastics).
+> **📖 Etymology Story:** "Synthetic" from Greek "synthetikos" meaning "put together", referring to man-made creation. Combined with "clothing" from Old English, creates modern term for artificial garments that nature never intended - clothing chemically assembled rather than naturally grown.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
-> **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
-> **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - **Noun:** [[synthetic]] /sɪnˈθetɪk/ (artificial material)
+> - **Adj:** [[synthetic]] /sɪnˈˈθetɪk/ (man-made)
+> - **Adv:** [[synthetically]] /sɪnˈθetɪkli/ (artificially)
+> - **Noun:** [[synthesis]] /ˈsɪnθəsɪs/ (combination)
+>
+> **Related Terms:**
+> - [[microfiber]] /ˈmaɪkrəʊfaɪbə/ : very fine synthetic fiber
+> - [[polyester]] /ˌpɒliˈestə/ : common synthetic fabric
+> - [[microplastic release]] /ˌmaɪkrəʊˈplæstɪk rɪˈliːs/ : shedding of plastic particles
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. wash synthetic clothing
+> 2. synthetic clothing fibers
+> 3. buy synthetic clothing
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Washing synthetic clothing releases millions of microplastic fibers into water systems.
+> - **Translation:** Giặt quần áo tổng hợp giải phóng hàng triệu sợi nhựa vi mô vào hệ thống nước.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Athletes prefer synthetic clothing for its moisture-wicking properties during intense exercise.
+> - **Translation:** Vận động viên ưa chuộng quần áo tổng hợp vì tính năng hút ẩm trong khi tập luyện cường độ cao.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Care Instructions**
+> - ❌ **Mistake:** Washing synthetic clothing with hot water
+> - ✅ **Correction:** Use cold water and gentle cycles
+> - **Why:** Hot water increases microplastic release and damages synthetic fibers
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Every time we wash synthetic clothing, we unknowingly contribute to ocean plastic pollution."
+> **Source:** [[Environmental Impact Study]]
 
 ---
 
@@ -161,121 +79,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **synthetic clothing** (*/sɪnˈθetɪk ˈkləʊðɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Clothing made from artificial fibers created through chemical synthesis rather than from natural sources like cotton or wool.
+> 🇻🇳 **Vietnamese:** Quần áo làm từ sợi nhân tạo/tổng hợp, không phải từ tự nhiên
+> 🗣️ **IPA: */sɪnˈθetɪk ˈkləʊðɪŋ/*
+> 🧠 **Mental Model:** Như "plastic clothes" - quần áo được tạo ra từ chemicals trong factory, không grown in fields. Convenient nhưng có hidden environmental cost.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Clothing made from artificial fibers created through chemical processes"
+**Vietnamese:** Quần áo được làm từ sợi nhân tạo tạo ra qua quá trình hóa học
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**synthetic clothing** (*/sɪnˈθetɪk ˈkləʊðɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **synthetic clothing** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The environmental study recommended reducing purchases of synthetic clothing to minimize microplastic pollution.
+> 🇻🇳 **Translation:** Nghiên cứu môi trường khuyến nghị giảm mua quần áo tổng hợp để giảm thiểu ô nhiễm nhựa vi mô.
+> 🔍 **Analysis:** "Synthetic clothing" works perfectly ở đây vì nó specific identifies the problem source (man-made fabrics) trong environmental context, creating clear cause-effect relationship.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **synthetic clothing**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Environmental Impact:** wash synthetic clothing, synthetic clothing pollution, microplastics from synthetic clothing (VN note: tác động môi trường)
+> 2. **Product Features:** synthetic clothing materials, synthetic clothing performance, durable synthetic clothing (VN note: đặc tính sản phẩm)
+> 3. **Consumer Actions:** buy synthetic clothing, wear synthetic clothing, care for synthetic clothing (VN note: hành động người dùng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **synthetic clothing**:
+"Artificial fabrics are bad for the environment."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Research indicates that washing synthetic clothing accounts for 35% of primary microplastic pollution in marine environments."
+> 💡 **Why it works:** "Synthetic clothing" là precise term thay vì vague "artificial fabrics", providing specific category với documented environmental impact data.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **synthetic clothing** instead of **artificial fabrics**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **synthetic clothing:** Specific to garments, fashion context (VN: quần áo nhân tạo)
+> **artificial fabrics:** Broader, includes upholstery, industrial use (VN: vải nhân tạo nói chung)
+> 🧱 **The Barrier:** Synthetic clothing refers specifically to wearable items và carries fashion/consumer context, artificial fabrics là general technical term cho any man-made textiles.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're giving a presentation about sustainable fashion choices. You need to explain a major environmental concern.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Most people don't realize that every load of synthetic clothing we wash releases thousands of plastic fibers into our waterways."
+> 👨‍🎨 **Director's Note:** Using "synthetic clothing" creates specific connection between daily habits và environmental impact, making abstract pollution tangible và personal.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `synthetikos` and `clath` to the meaning of **synthetic clothing**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Greek "synthetikos" (put together) + Old English "clath" (cloth) = "put-together cloth". Unlike natural fibers grown by nature, synthetic clothing là assembled chemically - literally man-made fabric created piece by piece trong laboratories.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **synthetic clothing**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `synthesis` (putting together, composition)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* synthesis - sự tổng hợp
+> - *(adj)* synthetic - nhân tạo, tổng hợp
+> - *(noun)* synthetics - hàng tổng hợp
+> - *(noun)* photosynthesis - quang hợp
+> - *(noun)* hypothesis - giả thuyết
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */sɪnˈθetɪk ˈkləʊðɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**synthetic clothing**
+> 📖 **Meaning:** Clothing made from artificial fibers through chemical synthesis
+> 🇻🇳 **Vietnamese:** Quần áo làm từ sợi nhân tạo qua tổng hợp hóa học
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **synthetic clothing**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Synthetic clothings are cheaper than natural ones." (pluralization error)
+> ✅ **Correction:** "Synthetic clothing items are cheaper" hoặc "Synthetic clothing is cheaper"
+> 🧠 **Why:** "Clothing" là collective noun, không có plural form "clothings". Use "items" hoặc "garments" cho individual pieces, hoặc keep "clothing" singular.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **synthetic clothing**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[natural fiber clothing]] (quần áo sợi tự nhiên)
+> - [[organic clothing]] (quần áo hữu cơ)
+> 🧱 **Contrast:** While synthetic clothing comes from chemical factories và pollutes với microplastics, natural fiber clothing comes from plants/animals và biodegrades harmlessly.
 
 ---

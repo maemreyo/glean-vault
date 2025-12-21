@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [digestion, gastrointestinal tract, GI tract, stomach, intestine, digest, gastrointestinal]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /daɪˈdʒes.tɪv ˈsɪs.təm/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** medical/academic
+> **Etymology:** From Latin digestus (arranged, distributed) + Greek systema (organized whole)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The group of organs working together to break down food and absorb nutrients
+>
+> **Context Meaning:** The biological system responsible for processing food, extracting energy, and eliminating waste
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hệ tiêu hóa
+> - **Contextual:** hệ thống tiêu hóa, bộ máy tiêu hóa
+>
 > **Nuances:**
-> - ...
+> - Includes multiple organs: mouth, esophagus, stomach, intestines, liver, pancreas
+> - Essential for converting food into energy and building blocks
+> - Can refer to both the physical organs and the overall process
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Systematic, Transformative, Essential
+> **Memory Hook:** Digestive = breaks down food + System = working together = Body's food processing factory
+> **📖 Etymology Story:** Ancient Greek physicians discovered that food doesn't just disappear - it undergoes a "digestive" transformation. They mapped out the "system" of organs working like a sophisticated factory, breaking down meals into the energy that powers human life.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[digestion]] /daɪˈdʒes.tʃən/ : the process of breaking down food
+> - **Verb:** [[digest]] /daɪˈdʒest/ : to break down food in the body
+> - **Adj:** [[digestible]] /daɪˈdʒes.tə.bəl/ : able to be digested
+> - **Adj:** [[digested]] /daɪˈdʒes.tɪd/ : having been digested
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[gastrointestinal tract]] /ˌgæs.trəʊ.ɪnˈtes.tɪn.əl trækt/ : medical term
+> - [[GI tract]] /ˌdʒiːˈaɪ trækt/ : abbreviation of gastrointestinal tract
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms - it's an essential biological system
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. healthy digestive system
+> 2. improve/maintain digestive system
+> 3. digestive system problems/disorders
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Fiber is essential for maintaining a healthy digestive system.
+> - **Translation:** Chất xơ rất cần thiết để duy trì một hệ tiêu hóa khỏe mạnh.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The doctor explained how the digestive system breaks down carbohydrates into simple sugars.
+> - **Translation:** Bác sĩ giải thích hệ tiêu hóa làm thế nào để phân tích carbohydrate thành đường đơn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling Error**
+> - ❌ **Mistake:** digestive sistem
+> - ✅ **Correction:** digestive system
+> - **Why:** System is spelled with 'y' in English, not 'i' in this context.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The digestive system is the foundation of health - it's not just what we eat, but what we absorb."
+> **Source:** Medical Textbook
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **digestive system** (*/daɪˈdʒes.tɪv ˈsɪs.təm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The group of organs in the body that work together to break down food into nutrients and absorb them
+> 🇻🇳 **Vietnamese:** Hệ tiêu hóa; nhóm cơ quan cùng nhau làm việc để phân hóa thức ăn và hấp thụ dinh dưỡng
+> 🗣️ **IPA:** */daɪˈdʒes.tɪv ˈsɪs.təm/*
+> 🧠 **Mental Model:** Nhà máy xử lý thực phẩm của cơ thể - từ miệng đến dạ dày đến ruột, biến thức ăn thành năng lượng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The group of organs that break down food and absorb nutrients"
+**Vietnamese:** Hệ thống cơ quan tiêu hóa và hấp thụ dinh dưỡng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**digestive system** (*/daɪˈdʒes.tɪv ˈsɪs.təm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **digestive system** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Stress can significantly affect your digestive system, leading to various health issues.
+> 🇻🇳 **Translation:** Căng thẳng có thể ảnh hưởng đáng kể đến hệ tiêu hóa của bạn, dẫn đến các vấn đề sức khỏe khác nhau.
+> 🔍 **Analysis:** "Digestive system" correctly refers to the entire biological system, showing how psychological factors impact physical health, demonstrating the word's use in health contexts.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **digestive system**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Health Status:** healthy digestive system (hệ tiêu hóa khỏe mạnh) - because we want it to function well
+> 2. **Function:** support/maintain digestive system (hỗ trợ/duy trì hệ tiêu hóa) - because it needs care to work properly
+> 3. **Problems:** digestive system disorders (rối loạn hệ tiêu hóa) - because things can go wrong with it
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **digestive system**:
+"My stomach hurts."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "My digestive system is struggling to process the rich, spicy meal I had last night."
+> 💡 **Why it works:** "Digestive system" transforms a simple complaint into a more precise health observation, indicating understanding that multiple organs are involved in processing food.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **digestive system** instead of [[stomach]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **digestive system:** Toàn bộ hệ thống từ miệng đến ruột, bao gồm tất cả các cơ quan tham gia tiêu hóa
+> **stomach:** Chỉ riêng bộ phận dạ dày, một phần của hệ tiêu hóa
+> 🧱 **The Barrier:** Digestive system là whole system, trong khi stomach chỉ là one component của system đó
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why chewing food thoroughly is important to a child. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "When you chew well, you're helping your digestive system do its job properly. It's the first step in good digestion!"
+> 👨‍🎨 **Director's Note:** Educational and encouraging tone, making complex biology understandable to children
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `digest` to the meaning of **digestive system**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin digestere ("phân tách, phân bố") + Greek systema ("tổ chức") → Digestive system là "hệ thống được tổ chức để phân tách thức ăn", biến nó thành phần nhỏ hơn để cơ thể hấp thụ
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **digestive system**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `digere` (to arrange, distribute)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[digest]] : a summary or condensation
+> - *(noun)* [[indigestion]] : difficulty digesting food
+> - *(adj)* [[digestible]] : able to be processed by the system
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */daɪˈdʒes.tɪv ˈsɪs.təm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**digestive system**
+> 📖 **Meaning:** The bodily system that processes food
+> 🇻🇳 **Vietnamese:** Hệ tiêu hóa của cơ thể
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **digestive system**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I have good digestions"
+> ✅ **Correction:** "I have good digestion" OR "I have a healthy digestive system"
+> 🧠 **Why:** Digestion is the process (uncountable), while digestive system is the set of organs
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What happens when the **digestive system** doesn't work properly?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Problems:**
+> - [[indigestion]] (difficulty processing food)
+> - [[malabsorption]] (inability to absorb nutrients)
+> 🧱 **Contrast:** A healthy digestive system efficiently extracts nutrients, while digestive disorders prevent proper nourishment
 
 ---

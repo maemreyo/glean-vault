@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
 #flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [residents, residency, residential, reside, inhabitant, dweller, occupant, local, citizen, neighbor]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈrezɪdənt/
+> **Part of Speech:** noun/adjective
+> **CEFR Level:** B1
+> **Register:** formal/general
+> **Etymology:** Middle English from Latin 'resident-' (remaining), from 'residere' (to remain, settle)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Someone who lives somewhere permanently or for a long time**
+>
+> **Context Meaning:** A person who lives in a particular place; having a home in a specific location**
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cư dân, người resident
+> - **Contextual:** người dân địa phương, người ở, người cư trú**
+>
 > **Nuances:**
-> - ...
+> - Implies more permanence than just 'staying'
+> - Can refer to both people and positions (e.g., resident doctor)
+> - Used in official and legal contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Established, Local, Committed
+> **Memory Hook:** Think of someone who 'resides' (sits down) and stays in one place
+> **📖 Etymology Story:** From Latin 're' (back) + 'sedere' (to sit) - someone who sits back and stays in one place, making it their home
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** resident /ˈrezɪdənt/
+> - **Verb:** reside /rɪˈzaɪd/
+> - **Adj:** residential /ˌrezɪˈdenʃl/
+> - **Noun:** residence /ˈrezɪdəns/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[inhabitant]] /ɪnˈhæbɪtənt/ : person living in a place
+> - [[dweller]] /ˈdwelə(r)/ : person living somewhere
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[visitor]] /ˈvɪzɪtə(r)/ : person staying temporarily
+> - [[tourist]] /ˈtʊərɪst/ : person traveling for pleasure
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Local resident(s)
+> 2. Permanent/temporary resident
+> 3. Resident of/in
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The local residents protested against the construction of the new factory.
+> - **Translation:** Người dân địa phương đã phản đối việc xây dựng nhà máy mới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She has been a resident of this city for over twenty years.
+> - **Translation:** Bà đã là cư dân của thành phố này hơn hai mươi năm.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Wrong preposition**
+> - ❌ **Mistake:** He is resident at this address.
+> - ✅ **Correction:** He is resident at this address. (formal) / He lives at this address. (common)
+> - **Why:** While 'resident at' is grammatically correct, it's very formal. 'Lives at' is more common in everyday speech.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The new policy will affect all residents of the district."
+> **Source:** [[Cam 19 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **resident** (*/ˈrezɪdənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person who lives in a particular place permanently or for an extended period**
+> 🇻🇳 **Vietnamese:** Cư dân, người dân địa phương, người ở**
+> 🗣️ **IPA:** */ˈrezɪdənt/*
+> 🧠 **Mental Model:** Người 're-sides' (ngồi lại) ở một nơi - có sự kết nối và permanence với nơi đó, không chỉ là temporary visitor**
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person who lives in a particular place on a long-term basis"**
+**Vietnamese:** Cư dân, người ở lâu dài**
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**resident** (*/ˈrezɪdənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **resident** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** As a long-term resident of the coastal town, she had witnessed many changes over the decades.**
+> 🇻🇳 **Translation:** Với tư cách là cư dân lâu năm của thị trấn ven biển, bà đã chứng kiến nhiều thay đổi trong nhiều thập kỷ.**
+> 🔍 **Analysis:** 'Long-term resident' nhấn mạnh sự permanence và deep connection với nơi ở, phù hợp với việc witness changes over time**
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **resident**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Identity:** local resident (cư dân địa phương)
+> 2. **Duration:** permanent/temporary resident (cư dân thường trú/tạm trú)
+> 3. **Location:** resident of/in (cư dân của/tại)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **resident**:
+"People who live here are worried."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Long-term residents of the neighborhood are increasingly concerned about the rising crime rates."**
+> 💡 **Why it works:** 'Long-term residents' thể hiện deep connection và stake in community, tạo ra emotional weight hơn là generic 'people who live here'**
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **resident** instead of **[[person]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **resident:** Nhấn mạnh sự permanent connection với nơi ở, có legal status và community involvement**
+> **[[person]]:** General term, không thể hiện relationship với specific location**
+> 🧱 **The Barrier:** Resident implies belonging and permanence, while person is neutral about location attachment**
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a community meeting discussing parking problems. You want to emphasize you live there. What do you say?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "As a resident of this street for fifteen years, I can assure you the parking situation has become unbearable."**
+> 👨‍🎨 **Director's Note:** 'Resident of this street' establishes credibility và personal investment in the issue, phù hợp với community meeting context**
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `re + sidere` to the meaning of **resident**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 're' (back) + 'sidere' (to sit) - người 'resident' là người 'sits back' và remains ở một place, tạo ra sense of belonging và stability trong community**
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **resident**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin 're' + 'sidere' (ngồi lại)**
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* resident (cư dân)
+> - *(verb)* reside (sống, cư trú)
+> - *(adjective)* residential (thuộc về cư dân, khu dân cư)
+> - *(noun)* residence (nơi ở, nhà ở)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈrezɪdənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**resident**
+> 📖 **Meaning:** A person living permanently in a place**
+> 🇻🇳 **Vietnamese:** Cư dân, người dân địa phương**
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **resident**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The residents of this building is very friendly.**
+> ✅ **Correction:** The residents of this building are very friendly.**
+> 🧠 **Why:** 'Residents' là plural subject, cần dùng plural verb 'are'. Đây là common error do subject-verb agreement**
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **resident**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[visitor]] (khách thăm, người ở tạm thời)
+> - [[non-resident]] (người không resident, người ở ngoài)
+> 🧱 **Contrast:** Resident implies long-term settlement and community belonging, while its antonyms indicate temporary presence or external status**
 
 ---

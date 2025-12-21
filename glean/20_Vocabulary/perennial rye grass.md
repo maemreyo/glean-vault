@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
 #flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [perennial, rye grass, perennial ryegrass, perennial rye, grasses, turfgrass]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pəˈreniəl raɪ ɡræs/
+> **Part of Speech:** compound noun
+> **CEFR Level:** B2
+> **Register:** agricultural/botanical
+> **Etymology:** 'Perennial' from Latin 'perennis' - 'lasting through the year' + 'rye grass' - type of grass
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Long-lasting rye grass
+>
+> **Context Meaning:** A type of grass that lives for more than two years, commonly used for pasture, lawns, and erosion control; known for its rapid growth and nutritional value
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cỏ lúa mì lâu năm
+> - **Contextual:** cối ba năm, cỏ anh đạo
+>
 > **Nuances:**
-> - ...
+> - Unlike annual grasses, it regrows each year without replanting
+> - Preferred for sustainable grazing and permanent lawns
+> - Two main types: perennial and annual rye grass
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Persistent, Resilient, Agricultural
+> **Memory Hook:** 'Perennial' = per (through) + annual (year) = through the years
+> **📖 Etymology Story:** Latin 'perennis' combined the idea of lasting 'per' (through) + 'annus' (year). Farmers prized plants that lasted through seasons, making 'perennial' a mark of agricultural reliability and sustainability.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[perennial]] /pəˈreniəl/
+> - **Noun:** [[rye grass]] /raɪ ɡræs/
+> - **Compound:** [[perennial rye grass]] /pəˈreniəl raɪ ɡræs/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[turfgrass]] /ˈtɜːrfɡræs/ : lawn grass
+> - [[pasture grass]] /ˈpæstʃər ɡræs/ : grazing grass
+> - [[lawn grass]] /lɔːn ɡræs/ : grass for lawns
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[annual grass]] /ˈænjuəl ɡræs/ : lives one year
+> - [[temporary grass]] /ˈtempəreri ɡræs/ : short-lived
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. perennial rye grass seed
+> 2. grow/plant perennial rye grass
+> 3. perennial rye grass pasture
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Farmers prefer perennial rye grass for sustainable grazing because it regrows each year.
+> - **Translation:** Nông dân ưa thích cỏ lúa mì lâu năm để chăn thả bền vững vì nó mọc lại mỗi năm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new sports stadium uses durable perennial rye grass for its playing field.
+> - **Translation:** Sân vận động mới sử dụng cỏ lúa mì lâu năm bền bỉ cho sân thi đấu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Compound Spacing**
+> - ❌ **Mistake:** perennialryegrass
+> - ✅ **Correction:** perennial rye grass (or perennial ryegrass)
+> - **Why:** Keep the components clear and separated or use the standard hyphenated form 'perennial ryegrass'.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Perennial rye grass is the backbone of sustainable pastures, feeding livestock year after year."
+> **Source:** [[Agricultural Sustainability Guide]]
 
 ---
 
@@ -161,121 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **perennial rye grass** (*/pəˈreniəl raɪ ɡræs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A type of grass that lives for many years and regrows each season without replanting
+> 🇻🇳 **Vietnamese:** Cỏ lúa mì lâu năm - loại cỏ sống nhiều năm và mọc lại hàng mùa
+> 🗣️ **IPA:** */pəˈreniəl raɪ ɡræs/*
+> 🧠 **Mental Model:** 'Forever grass' - grass that keeps coming back year after year
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A long-lasting type of grass used for pasture and lawns that regrows yearly"
+**Vietnamese:** Loại cỏ lâu năm dùng cho đồng cỏ và sân vườn, mọc lại hàng năm
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**perennial rye grass** (*/pəˈreniəl raɪ ɡræs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **perennial rye grass** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The pasture was renovated with drought-resistant perennial rye grass.
+> 🇻🇳 **Translation:** Đồng cỏ được cải tạo với cỏ lúa mì lâu năm chịu hạn.
+> 🔍 **Analysis:** 'Perennial rye grass' precisely identifies a sustainable grass variety, emphasizing its long-term nature and agricultural value.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **perennial rye grass**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Planting action:** plant/grow perennial rye grass (trồng cỏ lúa mì lâu năm - VN: cultivation)
+> 2. **Product form:** perennial rye grass seed (hạt cỏ lúa mì lâu năm - VN: planting material)
+> 3. **Location use:** perennial rye grass pasture/lawn (đồng cỏ/sân cỏ lúa mì - VN: application area)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **perennial rye grass**:
+"The farmer planted grass that comes back every year."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The farmer established perennial rye grass for low-maintenance pasture management."
+> 💡 **Why it works:** 'Perennial rye grass' is the precise agricultural term, adding professional accuracy. VN: dùng thuật ngữ nông nghiệp chính xác.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **perennial rye grass** instead of **[[grass]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **perennial rye grass:** Specific grass variety, lives many years (VN: cỏ lúa mì cụ thể, lâu năm)
+> **[[grass]]:** General term for many grass types (VN: cỏ chung)
+> 🧱 **The Barrier:** 'Perennial rye grass' specifies variety and longevity; 'grass' is too general (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a landscaper recommending lawn options. You feel professional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I recommend perennial rye grass for its durability and year-round coverage."
+> 👨‍🎨 **Director's Note:** Shows expert knowledge of sustainable lawn solutions (VN: thể hiện kiến thức chuyên môn).
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots to the meaning of **perennial rye grass**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin `perennis` (lasting through the year) + 'rye grass' (grass variety). Farmers through history valued plants that returned yearly without replanting - the 'perennial' promise of reliability (VN/EN mix).
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the compound **perennial rye grass**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `per-` (through) + `annus` (year) + Old English `rye` + `grass`
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[perennial]] - lasting many years
+> - *(noun)* [[rye grass]] - type of grass
+> - *(compound)* [[perennial rye grass]] - long-lasting grass variety
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pəˈreniəl raɪ ɡræs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**perennial rye grass**
+> 📖 **Meaning:** Grass that lives for many years
+> 🇻🇳 **Vietnamese:** Cỏ lâu năm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **perennial rye grass**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We need to reseed the perennial rye grass every year.
+> ✅ **Correction:** We DON'T need to reseed the perennial rye grass every year.
+> 🧠 **Why:** 'Perennial' means it lives many years and regrows without replanting. That's its main advantage over annual grasses!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **perennial rye grass**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[annual rye grass]] (lives only one season)
+> - [[temporary grass]] (short-term cover)
+> - [[seasonal grass]] (doesn't last year-round)
+> 🧱 **Contrast:** Perennial lasts many years; annual needs yearly replanting; temporary/grass is short-term solution.

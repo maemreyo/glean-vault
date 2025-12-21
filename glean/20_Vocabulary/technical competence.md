@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 #flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [technically competent, technical competency, competencies, skill, proficiency, expertise]
+status: done
 ref:
   - [[Cam 19 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈtek.nɪ.kəl ˈkɒm.pɪ.təns/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** professional/business
+> **Etymology:** From Greek tekhnikos (art, skill) + Latin competentia (meeting together, agreement)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The skill, knowledge, and ability required to perform technical tasks effectively
+>
+> **Context Meaning:** Professional expertise in specialized fields involving practical or mechanical skills
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** năng lực kỹ thuật, trình độ chuyên môn
+> - **Contextual:** kỹ năng chuyên môn, khả năng thực hành kỹ thuật
+>
 > **Nuances:**
-> - ...
+> - Implies not just knowledge but practical application ability
+> - Often used in job descriptions and performance evaluations
+> - Can refer to both hard technical skills and systematic knowledge
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, Expert, Systematic, Precise
+> **Memory Hook:** Technical = machine/system skills + Competence = ability = The power to make things work
+> **📖 Etymology Story:** In medieval guilds, a craftsman needed "technical competence" - not just knowing how things worked (tekhnikos), but proving ability through apprentice work. This tradition continues today in modern technical fields.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[competence]] /ˈkɒm.pɪ.təns/ : the ability to do something well
+> - **Noun:** [[competency]] /ˈkɒm.pɪ.tən.si/ : variant of competence, often used in HR
+> - **Adj:** [[competent]] /ˈkɒm.pɪ.tənt/ : having the necessary ability
+> - **Adj:** [[technical]] /ˈtek.nɪ.kəl/ : relating to practical or mechanical skills
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[expertise]] /ˌek.spɜːˈtiːz/ : expert knowledge or skill
+> - [[proficiency]] /prəˈfɪʃ.ən.si/ : a high degree of skill
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[incompetence]] /ɪnˈkɒm.pɪ.təns/ : lack of ability or skill
+> - [[ineptitude]] /ɪnˈep.tɪ.tjuːd/ : lack of skill or ability
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. demonstrate/show technical competence
+> 2. require/need technical competence
+> 3. lack of technical competence
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The job requires technical competence in at least three programming languages.
+> - **Translation:** Công việc này đòi hỏi năng lực kỹ thuật về ít nhất ba ngôn ngữ lập trình.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She was promoted due to her outstanding technical competence and leadership skills.
+> - **Translation:** Cô ấy được thăng chức nhờ năng lực kỹ thuật xuất sắc và kỹ năng lãnh đạo.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Grammar Error**
+> - ❌ **Mistake:** He has a good technical competent.
+> - ✅ **Correction:** He has good technical competence.
+> - **Why:** Competence is a noun, while competent is the adjective form.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Technical competence without wisdom is useless; wisdom without technical competence is powerless."
+> **Source:** Engineering Proverb
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **technical competence** (*/ˈtek.nɪ.kəl ˈkɒm.pɪ.təns/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The skill and knowledge required to perform technical tasks effectively in a specific field
+> 🇻🇳 **Vietnamese:** Năng lực kỹ thuật; khả năng và kiến thức chuyên môn để thực hiện các công việc kỹ thuật
+> 🗣️ **IPA:** */ˈtek.nɪ.kəl ˈkɒm.pɪ.təns/*
+> 🧠 **Mental Model:** Không chỉ biết lý thuyết mà còn có ability thực hành kỹ thuật thành thạo
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The skill and knowledge required to perform technical tasks effectively"
+**Vietnamese:** Năng lực kỹ thuật; kỹ năng thực hành chuyên môn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**technical competence** (*/ˈtek.nɪ.kəl ˈkɒm.pɪ.təns/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **technical competence** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The engineering team demonstrated exceptional technical competence in solving the complex structural problem.
+> 🇻🇳 **Translation:** Đội ngũ kỹ sư đã thể hiện năng lực kỹ thuật vượt trội trong việc giải quyết vấn đề kết cấu phức tạp.
+> 🔍 **Analysis:** "Technical competence" emphasizes both theoretical knowledge and practical skills. It shows these engineers don't just understand the principles but can effectively apply them to solve real problems.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **technical competence**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Assessment:** demonstrate technical competence (chứng minh năng lực kỹ thuật) - because competence must be shown through action
+> 2. **Requirement:** require technical competence (đòi hỏi năng lực kỹ thuật) - because certain jobs need specific technical skills
+> 3. **Development:** develop technical competence (phát triển năng lực kỹ thuật) - because skills grow through training and practice
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **technical competence**:
+"He was good with computers."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He possessed exceptional technical competence in network security and database management."
+> 💡 **Why it works:** "Technical competence" elevates "good with computers" to professional expertise, indicating systematic knowledge and recognized skill level in specific technical areas.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **technical competence** instead of [[skill]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **technical competence:** Dùng trong professional context, bao gồm cả knowledge và ability, thường trong technical fields
+> **skill:** Dùng rộng hơn, có thể cho non-technical abilities, thường chỉ single ability
+> 🧱 **The Barrier:** Technical competence implies comprehensive professional expertise validated by standards, trong khi skill có thể đơn giản và tự nhiên hơn
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're interviewing candidates for a senior developer position. You need to assess their qualifications. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We need to verify your technical competence through both theoretical questions and practical coding exercises."
+> 👨‍🎨 **Director's Note:** Professional and objective tone, emphasizing the comprehensive nature of technical assessment
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `techne` to the meaning of **technical competence**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Greek techne ("art, craft, skill") + Latin competentia ("ability, fitness") → Technical competence là "khả năng thực hành những kỹ năng chuyên môn", không chỉ biết mà còn làm được
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **technical competence**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `tekhnikos` (artful, systematic)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[technical]]: relating to particular subject or skill
+> - *(noun)* [[technician]]: person skilled in practical techniques
+> - *(noun)* [[technology]]: application of scientific knowledge
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈtek.nɪ.kəl ˈkɒm.pɪ.təns/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**technical competence**
+> 📖 **Meaning:** Professional expertise in specialized technical fields
+> 🇻🇳 **Vietnamese:** Năng lực chuyên môn kỹ thuật
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **technical competence**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She has many technical competences"
+> ✅ **Correction:** "She has many technical competencies" OR "She has technical competence in many areas"
+> 🧠 **Why:** Competence is usually uncountable when referring to overall ability, while competencies (plural) refers to specific skill sets
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **technical competence**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[technical incompetence]] (lack of technical skill)
+> - [[ineptitude]] (clumsiness, lack of skill)
+> 🧱 **Contrast:** Technical competence indicates mastery and expertise, while incompetence suggests inability to perform required tasks
 
 ---

@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [struggle, struggling with, in difficulty, having trouble, finding it hard, facing challenges]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈstrʌɡlɪŋ/
+> **Part of Speech:** verb/adjective
+> **CEFR Level:** B1
+> **Register:** general
+> **Etymology:** Middle English 'strugglen' - of Scandinavian origin; related to 'strog' (violent)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Making forceful efforts to get free of restraint or constriction; experiencing difficulty
+>
+> **Context Meaning:** Having trouble doing something or dealing with a situation; fighting against difficulties or challenges
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đang vật lộn, đang vất vả
+> - **Contextual:** đang gặp khó khăn, đang cố gắng, đang chịu đựng
+>
 > **Nuances:**
-> - ...
+> - Implies effort against resistance
+> - Can be physical or mental struggle
+> - Often suggests temporary difficulty, not permanent inability
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Determined, Resilient, Under Pressure
+> **Memory Hook:** Struggle = "strong" + "battle" - fighting hard against something
+> **📖 Etymology Story:** From Old Norse 'strúgla' meaning "to struggle, be laborious" - like a fish struggling against the current, fighting to move forward
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[struggle]] /ˈstrʌɡl/
+> - **Noun:** [[struggle]] /ˈstrʌɡl/
+> - **Adj:** [[struggling]] /ˈstrʌɡlɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[floundering]] /ˈflaʊndərɪŋ/ : struggling helplessly
+> - [[grappling]] /ˈɡræplɪŋ/ : trying hard to deal with
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[thriving]] /ˈθraɪvɪŋ/ : prospering, flourishing
+> - [[succeeding]] /səkˈsiːdɪŋ/ : achieving goals
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Struggling to do something
+> 2. Struggling with/against something
+> 3. Financially/emotionally struggling
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Many small businesses are struggling to survive during the economic recession.
+> - **Translation:** Nhiều doanh nghiệp nhỏ đang vật lộn để tồn tại trong thời kỳ suy thoái kinh tế.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She's struggling with the decision whether to accept the job offer abroad.
+> - **Translation:** Cô ấy đang gặp khó khăn trong việc quyết định có chấp nhận lời mời làm việc ở nước ngoài hay không.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect preposition usage**
+> - ❌ **Mistake:** He is struggling in his homework.
+> - ✅ **Correction:** He is struggling with his homework.
+> - **Why:** Use "with" for what you're dealing with, "against" for opposition, "to" for attempts
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The team was struggling to meet the deadline, but they managed to finish just in time."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **struggling** (*/ˈstrʌɡlɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Having difficulty doing something or dealing with a situation; making forceful efforts against resistance
+> 🇻🇳 **Vietnamese:** Đang vật lộn, đang gặp khó khăn, đang cố gắng
+> 🗣️ **IPA:** */ˈstrʌɡlɪŋ/*
+> 🧠 **Mental Model:** Khi bạn try hard but gặp resistance - like swimming against current hoặc trying lift heavy weight. Effort là có nhưng progress chậm
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Experiencing difficulty in doing something or dealing with a situation"
+**Vietnamese:** Gặp khó khăn trong việc làm gì đó hoặc đối mặt với tình huống
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**struggling** (*/ˈstrʌɡlɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **struggling** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The struggling artist worked two jobs to support himself while pursuing his passion for painting.
+> 🇻🇳 **Translation:** Người nghệ sĩ đang vật lộn đã làm hai công việc để tự nuôi sống mình theo đuổi đam mê hội họa.
+> 🔍 **Analysis:** 'Struggling' ở đây là adjective modifying artist - word này thể hiện financial difficulty nhưng vẫn暗示 determination và continued effort
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **struggling**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Effort:** struggling to + verb (đang vật lộn để + động từ)
+> 2. **Challenge:** struggling with/against + noun (đang vật lộn với/chống lại + danh từ)
+> 3. **Area:** financially/emotionally/academically struggling (đang gặp khó khăn về tài chính/tinh thần/học thuật)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **struggling**:
+"The company is having problems."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The struggling startup burned through its cash reserves while trying to gain market share in a competitive industry."
+> 💡 **Why it works:** 'Struggling startup' evokes image của company fighting để survive - thêm details về cash reserves và market competition làm narrative compelling
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **struggling** instead of **[[failing]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **struggling:** Still trying, making efforts, possibility of success
+> **[[failing]]**: Giving up, near certain failure, little hope
+> 🧱 **The Barrier:** Struggling = fighting; failing = surrendering
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks how you're managing your new responsibilities. You're finding it challenging but still trying. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Honestly, I'm struggling a bit with the workload, but I'm getting better at managing my time."
+> 👨‍🎨 **Director's Note:** Câu này shows honesty và vulnerability nhưng cũng demonstrates growth mindset - 'struggling' acknowledges difficulty while implying continued effort
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `strugla` to the meaning of **struggling**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old Norse `strúgla` nghĩa là "to struggle, be laborious". Imagine someone 'struggling' trong mud - every step requires enormous effort. That's the essence của struggle!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **struggling**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old Norse `strúgla` (to struggle)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* struggle (cuộc vật lộn)
+> - *(adjective)* strapping (khỏe mạnh - 'strong' như trong struggle)
+> - *(related)* stronghold (pháo đài - nơi strong defense)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈstrʌɡlɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**struggling**
+> 📖 **Meaning:** Having difficulty or making forceful efforts to deal with something
+> 🇻🇳 **Vietnamese:** Đang vật lộn, đang gặp khó khăn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **struggling**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The company is struggling on paying its debts.
+> ✅ **Correction:** The company is struggling to pay its debts. / The company is struggling with its debts.
+> 🧠 **Why:** 'Struggling to' + verb hoặc 'struggling with' + noun. Không dùng 'struggling on' trong ngữ cảnh này
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **struggling**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[thriving]] (đang phát triển mạnh mẽ)
+> - [[excelling]] (đang xuất sắc)
+> 🧱 **Contrast:** Struggling represents effort against resistance, while its antonyms represent smooth progress and success
 
 ---

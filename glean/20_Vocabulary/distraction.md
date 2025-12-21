@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [distracted, distracting, distractions, distract, diversion, interference, disturbance, interruption, diversionary]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dɪˈstrækʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** general
+> **Etymology:** Latin 'distractio' (a pulling apart), from 'distrahere' (to draw away)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The act of drawing attention away from something
+>
+> **Context Meaning:** Something that prevents concentration or draws attention away from what should be focused on
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự xao lãng, sự phân tâm
+> - **Contextual:** yếu tố gây xao lãng, sự làm gián đoạn, sự quấy rối
+>
 > **Nuances:**
-> - ...
+> - Can be external (noise, movement) or internal (thoughts, worries)
+> - Often implies negative impact on concentration or productivity
+> - Can be temporary or persistent
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Disruptive, Divisive, Attention-stealing
+> **Memory Hook:** Imagine 'dis-tract-ion' as 'dis-tract' (distract) happening, pulling your attention away
+> **📖 Etymology Story:** From Latin 'distractio' - literally 'pulling apart' - when distractions occur, your attention is pulled away from your focus, splitting your concentration
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** distraction /dɪˈstrækʃn/
+> - **Verb:** distract /dɪˈstrækt/
+> - **Adj:** distracted /dɪˈstræktɪd/, distracting /dɪˈstræktɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[interruption]] /ˌɪntəˈrʌpʃn/ : breaking the flow
+> - [[diversion]] /daɪˈvɜːʃn/ : turning attention aside
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[focus]] /ˈfəʊkəs/ : concentration
+> - [[concentration]] /ˌkɒnsnˈtreɪʃn/ : focused attention
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Constant/constant distraction
+> 2. Avoid distractions
+> 3. Major/minor distraction
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The constant noise from construction outside was a major distraction during my exam preparation.
+> - **Translation:** Tiếng ồn liên tục từ công trường bên ngoài là một sự xao lãng lớn trong quá trình ôn thi của tôi.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Smartphones have become the biggest source of distraction in modern workplaces.
+> - **Translation:** Điện thoại thông minh đã trở thành nguồn gây xao lãng lớn nhất tại nơi làm việc hiện đại.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable vs uncountable confusion**
+> - ❌ **Mistake:** Too many distraction can affect productivity.
+> - ✅ **Correction:** Too many distractions can affect productivity.
+> - **Why:** When referring to multiple instances, use plural 'distractions'; 'distraction' as uncountable refers to the general state
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Students need a quiet environment free from distractions to study effectively."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +80,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **distraction** (*/dɪˈstrækʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Something that draws attention away and prevents concentration
+> 🇻🇳 **Vietnamese:** Sự xao lãng, sự phân tâm, yếu tố làm mất tập trung
+> 🗣️ **IPA:** */dɪˈstrækʃn/*
+> 🧠 **Mental Model:** Khi bạn bị 'distraction', attention của bạn bị 'pull away' từ task chính - brain bạn split focus giữa nhiều things
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Something that prevents concentration by drawing attention away"
+**Vietnamese:** Sự xao lãng, sự phân tâm
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**distraction** (*/dɪˈstrækʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **distraction** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Despite the tempting distraction of social media notifications, she managed to finish her thesis ahead of schedule.
+> 🇻🇳 **Translation:** Bất cứ sự xao lãng hấp dẫn từ thông báo của mạng xã hội, cô ấy vẫn hoàn thành luận văn của mình trước thời hạn.
+> 🔍 **Analysis:** 'Tempting distraction' thể hiện attraction của distraction, 'despite' shows resistance, 'managed to finish' demonstrates overcoming challenges
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **distraction**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Impact:** Welcome/unwelcome distraction (khiến bạn muốn/distress)
+> 2. **Frequency:** Constant/occasional distraction (liên tục/thỉnh thoảng)
+> 3. **Source:** Source/cause of distraction (nguồn gốc gây xao lãng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **distraction**:
+"The noise bothered me."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The incessant chatter from the adjacent cubicle became an unbearable distraction that shattered my concentration."
+> 💡 **Why it works:** 'Incessant chatter' cụ thể hóa noise, 'unbearable distraction' nhấn mạnh severity, 'shattered my concentration' creates vivid imagery
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **distraction** instead of **[[interruption]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **distraction:** Dùng khi attention bị pulled away nhưng work continues - internal hoặc external factor
+> **[[interruption]]:** Dùng khi action bị stopped bởi external event - someone actively interrupts
+> 🧱 **The Barrier:** Distraction là về focus, interruption là về action being stopped
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague keeps checking their phone during your important presentation. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "If the notifications on your phone are causing a distraction, please put it on silent mode."
+> 👨‍🎨 **Director's Note:** 'Causing a distraction' thể hiện negative impact mà không confrontational, professional way để address issue
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `distractio` to the meaning of **distraction**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'distractio' từ 'dis-' (tách ra) + 'trahere' (kéo) - khi attention bị 'pulled apart' từ focus, bạn bị 'distracted'
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **distraction**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `distractio` (pulling apart)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* distraction (sự xao lãng)
+> - *(verb)* distract (làm xao lãng)
+> - *(adj)* distracted (bị phân tâm), distracting (gây xao lãng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dɪˈstrækʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**distraction**
+> 📖 **Meaning:** Something that prevents concentration
+> 🇻🇳 **Vietnamese:** Sự xao lãng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **distraction**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The TV was a big distraction to my studies
+> ✅ **Correction:** The TV was a big distraction from my studies
+> 🧠 **Why:** 'Distraction FROM something' chứ không phải 'TO' - distraction pulls attention AWAY FROM focus
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **distraction**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[focus]] (sự tập trung)
+> - [[concentration]] (sự chú tâm)
+> 🧱 **Contrast:** Distraction pulls attention away, antonyms help maintain attention on target

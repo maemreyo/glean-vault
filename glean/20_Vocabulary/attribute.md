@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [attributes, attributed, attributing, quality, characteristic, feature, ascribe, assign]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈtrɪbjuːt/ (verb) /ˈætrɪbjuːt/ (noun)
+> **Part of Speech:** verb/noun
+> **CEFR Level:** B2
+> **Register:** academic/formal
+> **Etymology:** Latin 'attribuere' (to assign, bestow), from 'ad' (to) + 'tribuere' (to assign, give)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To regard something as being caused by or belonging to someone/something
+>
+> **Context Meaning (verb):** To say or think that something is the result or work of a particular person or thing
+> **Context Meaning (noun):** A quality or feature regarded as a characteristic or inherent part of someone or something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Verb:** quy cho, cho là do, gán cho
+> - **Noun:** thuộc tính, đặc tính, đặc điểm
+>
 > **Nuances:**
-> - ...
+> - As a verb, implies a causal connection or responsibility
+> - As a noun, refers to inherent qualities or characteristics
+> - Stress pattern changes: aTTriBUTE (verb) vs ATTriBUTE (noun)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Analytical, Discerning, Scholarly
+> **Memory Hook:** When you atTRIBute something, you GIVE it (tribute) to someone/something as the cause
+> **📖 Etymology Story:** From Latin 'ad' (to) + 'tribuere' (to give) - literally 'to give to' someone/something what they deserve or what belongs to them
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** attribute /ˈætrɪbjuːt/
+> - **Verb:** attribute /əˈtrɪbjuːt/
+> - **Noun:** attribution /ˌætrɪˈbjuːʃn/
+> - **Adj:** attributable /əˈtrɪbjuːtəbl/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[ascribe]] /əˈskraɪb/ : attribute something to (more formal)
+> - [[characteristic]] /ˌkærəktəˈrɪstɪk/ : typical feature (noun only)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[deny]] /dɪˈnaɪ/ : refuse to accept connection
+> - [[disown]] /dɪsˈəʊn/ : refuse to acknowledge responsibility
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Attribute something to someone/something
+> 2. Personal attributes
+> 3. Positive/negative attributes
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She attributes her success to hard work and perseverance.
+> - **Translation:** Cô quy thành công của mình cho sự chăm chỉ và kiên trì.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Intelligence is not the only attribute required for leadership.
+> - **Translation:** Trí thông minh không phải là thuộc tính duy nhất cần có để lãnh đạo.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Wrong stress pattern**
+> - ❌ **Mistake:** I **ATtribute** my success to luck.
+> - ✅ **Correction:** I at**TRIBute** my success to luck. (Verb stress on 2nd syllable)
+> - **Why:** Noun: AT-trib-ute, Verb: at-TRIB-ute - the stress shift is crucial
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We can attribute this discovery to years of research."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **attribute** (*/əˈtrɪbjuːt/ - verb; /ˈætrɪbjuːt/ - noun) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** (Verb) to regard as caused by; (Noun) a quality or characteristic
+> 🇻🇳 **Vietnamese:** (Động từ) quy cho, cho là do; (Danh từ) thuộc tính, đặc tính
+> 🗣️ **IPA:** */əˈtrɪbjuːt/ (verb) /ˈætrɪbjuːt/ (noun)/*
+> 🧠 **Mental Model:** Khi 'attribute' (verb) bạn 'give credit/blame' cho ai đó; Khi là 'attribute' (noun) nó là 'characteristic' của một thứ gì đó
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To say or think that something is the result of a particular person or thing"
+**Vietnamese:** Quy cho, cho là do
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**attribute** (*/əˈtrɪbjuːt/*) - verb
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **attribute** (verb) in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The doctor attributed the patient's recovery to their positive attitude and strong will to live.
+> 🇻🇳 **Translation:** Bác sĩ quy sự hồi phục của bệnh nhân cho thái độ tích cực và ý chí sống mạnh mẽ.
+> 🔍 **Analysis:** 'Attributed' ở đây là động từ quá khứ, nhấn mạnh mối quan hệ nhân-quả, với stress ở âm tiết thứ hai, theo sau là 'to' để giới thiệu nguyên nhân
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **attribute**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Causation:** Attribute X to Y (quy X cho Y - kết nối nguyên nhân kết quả)
+> 2. **Qualities:** Personal/positive attributes (thuộc tính cá nhân/tích cực - đặc điểm con người)
+> 3. **Analysis:** Attribute importance/significance to (cho tầm quan trọng/yếu nghĩa cho - đánh giá)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **attribute**:
+"She said her success was because of luck."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She attributed her remarkable success to a combination of strategic planning and fortunate timing."
+> 💡 **Why it works:** 'Attributed' trang trọng hơn 'said was because of', thể hiện sự phân tích chuyên nghiệp và cân bằng các yếu tố
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **attribute** instead of **[[give credit to]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **attribute:** Dùng trong ngữ cảnh trang trọng, học thuật, phân tích nguyên nhân một cách khách quan
+> **[[give credit to]]**: Dùng trong giao tiếp hàng ngày, công nhận đóng góp một cách trực tiếp
+> 🧱 **The Barrier:** Attribute mang sắc thái phân tích khách quan, give credit to mang sắc thái công nhận chủ quan
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're analyzing why a project failed. You need to identify the causes professionally. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We attribute the project's failure primarily to inadequate market research and poor resource allocation."
+> 👨‍🎨 **Director's Note:** Sử dụng 'attribute' thể hiện sự chuyên nghiệp trong phân tích, tránh đổ lỗi trực tiếp mà tập trung vào nguyên nhân khách quan
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `ad + tribuere` to the meaning of **attribute**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'ad' (đến) + 'tribuere' (phân chia, trao) - khi 'attribute', bạn 'trao' kết quả cho nguyên nhân gây ra nó
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **attribute**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `ad` (to) + `tribuere` (to assign, give)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* attribute /əˈtrɪbjuːt/ (quy cho)
+> - *(noun)* attribute /ˈætrɪbjuːt/ (thuộc tính)
+> - *(noun)* attribution /ˌætrɪˈbjuːʃn/ (sự quy cho)
+> - *(adjective)* attributable /əˈtrɪbjuːtəbl/ (có thể quy cho)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈtrɪbjuːt/ (verb) /ˈætrɪbjuːt/ (noun)
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**attribute**
+> 📖 **Meaning:** To regard as caused by; a quality or characteristic
+> 🇻🇳 **Vietnamese:** Quy cho; thuộc tính
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **attribute**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I **ATtribute** my success to luck.
+> ✅ **Correction:** I at**TRIBute** my success to luck.
+> 🧠 **Why:** Danh từ: AT-trib-ute (stress 1), Động từ: at-TRIB-ute (stress 2) - sự thay đổi trọng âm rất quan trọng
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **attribute** (verb)?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[discredit]] (từ chối công nhận)
+> - [[disassociate]] (tách rời liên quan)
+> 🧱 **Contrast:** Attribute kết nối nguyên nhân-kết quả, antonyms cắt đứt hoặc phủ nhận sự kết nối đó
 
 ---

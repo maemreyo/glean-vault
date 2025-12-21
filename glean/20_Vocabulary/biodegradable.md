@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
 #flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [biodegradation, biodegrade, eco-friendly, compostable, decomposable, environmental, sustainable, green, bio-based]
+status: done
 ref:
   - [[Cam 19 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌbaɪəʊdɪˈɡreɪdəbl/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** scientific/environmental
+> **Etymology:** Greek 'bios' (life) + 'degradable' (able to break down)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Able to be broken down by living things
+>
+> **Context Meaning:** Capable of being decomposed by bacteria and other living organisms, returning to natural elements without harming the environment
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** có khả năng phân hủy sinh học
+> - **Contextual:** tự phân hủy, phân hủy được, thân thiện với môi trường
+>
 > **Nuances:**
-> - ...
+> - Breaks down naturally without leaving harmful residues
+> - Timeframe for degradation varies greatly
+> - Distinguished from simply being degradable (which may require industrial processes)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Eco-friendly, Natural, Sustainable
+> **Memory Hook:** 'Bio-' (life) + 'degradable' (can be broken down) = broken down by life itself
+> **📖 Etymology Story:** From Greek 'bios' (life) - when something is biodegradable, living organisms like bacteria can eat and break it down, returning it to nature's cycle
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** biodegradable /ˌbaɪəʊdɪˈɡreɪdəbl/
+> - **Verb:** biodegrade /ˌbaɪəʊdɪˈɡreɪd/
+> - **Noun:** biodegradation /ˌbaɪəʊdɪɡreɪˈdeɪʃn/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[compostable]] /ˈkɒmpɒstəbl/ : can become compost
+> - [[eco-friendly]] /ˈiːkəʊ ˈfrendli/ : not harmful to environment
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[non-biodegradable]] /ˌnɒn ˌbaɪəʊdɪˈɡreɪdəbl/ : cannot be broken down naturally
+> - [[persistent]] /pəˈsɪstənt/ : remains in environment
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Biodegradable materials/products
+> 2. Fully/partially biodegradable
+> 3. Biodegradable packaging/waste
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Many companies are switching to biodegradable packaging to reduce plastic pollution.
+> - **Translation:** Nhiều công ty đang chuyển sang sử dụng bao bì có khả năng phân hủy sinh học để giảm ô nhiễm nhựa.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The coffee shop uses biodegradable cups made from plant-based materials.
+> - **Translation:** Quán cà phê sử dụng ly có khả năng phân hủy sinh học làm từ vật liệu thực vật.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling confusion**
+> - ❌ **Mistake:** biodegradeable
+> - ✅ **Correction:** biodegradable
+> - **Why:** 'Bio' + 'degradable' - only one 'e' between the roots
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Biodegradable products help reduce the amount of waste in our landfills."
+> **Source:** [[Cam 19 Listening Test 03]]
 
 ---
 
@@ -161,121 +80,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **biodegradable** (*/ˌbaɪəʊdɪˈɡreɪdəbl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Capable of being broken down by bacteria and other living organisms into natural substances
+> 🇻🇳 **Vietnamese:** Có khả năng phân hủy sinh học, có thể bị vi sinh vật phân rã thành các chất tự nhiên
+> 🗣️ **IPA:** */ˌbaɪəʊdɪˈɡreɪdəbl/*
+> 🧠 **Mental Model:** Khi một vật 'biodegradable', bacteria và microorganisms có thể 'eat' nó, breaking it down thành natural elements - không còn pollution
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Able to be broken down naturally by living organisms without harming the environment"
+**Vietnamese:** Có thể phân hủy sinh học
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**biodegradable** (*/ˌbaɪəʊdɪˈɡreɪdəbl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **biodegradable** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The innovative startup created biodegradable plastic alternatives from seaweed that decompose within months.
+> 🇻🇳 **Translation:** Công ty khởi nghiệp đổi mới đã tạo ra các chất thay thế nhựa phân hủy sinh học từ rong biển, có khả năng phân rã trong vài tháng.
+> 🔍 **Analysis:** 'Biodegradable plastic alternatives' shows innovation, 'from seaweed' specifies natural source, 'decompose within months' adds timeframe benefit
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **biodegradable**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Products:** Biodegradable packaging/bags/products (bao bì/túi/sản phẩm phân hủy sinh học)
+> 2. **Materials:** Biodegradable plastics/compostable materials (nhựa phân hủy/vật liệu ủ phân)
+> 3. **Process:** Fully/partially biodegradable (phân hủy hoàn toàn/một phần)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **biodegradable**:
+"The bag is good for the environment."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The biodegradable shopping bag, made from cornstarch, completely dissolves in compost within 180 days."
+> 💡 **Why it works:** 'Biodegradable' specifies environmental benefit, 'made from cornstarch' identifies natural material, '180 days' provides concrete timeframe
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **biodegradable** instead of **[[recyclable]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **biodegradable:** Dùng khi item breaks down naturally into the environment - không cần processing facility
+> **[[recyclable]]:** Dùng khi item can be reprocessed into new materials - needs collection và manufacturing
+> 🧱 **The Barrier:** Biodegradable returns to nature, recyclable becomes new products through human processes
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're shopping for picnic supplies and want to make an eco-friendly choice. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Do you have biodegradable plates and cutlery? I want to minimize our environmental impact."
+> 👨‍🎨 **Director's Note:** 'Biodegradable' shows environmental consciousness, 'minimize environmental impact' explains motivation
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `bio` and `degradable` to the meaning of **biodegradable**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Greek 'bios' (sống) + 'degradable' (có thể bị phá vỡ) - khi something là 'biodegradable', living things có thể break it down, returning nó natural cycle
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **biodegradable**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Greek `bios` (life) + English `degradable`
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* biodegradable (có khả năng phân hủy sinh học)
+> - *(verb)* biodegrade (phân hủy sinh học)
+> - *(noun)* biodegradation (sự phân hủy sinh học)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌbaɪəʊdɪˈɡreɪdəbl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**biodegradable**
+> 📖 **Meaning:** Able to be broken down by living organisms
+> 🇻🇳 **Vietnamese:** Có thể phân hủy sinh học
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **biodegradable**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** This product is biodegradeable
+> ✅ **Correction:** This product is biodegradable
+> 🧠 **Why:** Spelling là 'bio' + 'degradable' - chỉ có một 'e' giữa hai root words, không phải 'biodegradeable'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **biodegradable**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[non-biodegradable]] (không phân hủy sinh học)
+> - [[synthetic]] (nhân tạo, tổng hợp)
+> 🧱 **Contrast:** Biodegradable returns to nature naturally, antonyms persist trong environment indefinitely
