@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [retired, retiring, retirement, step down, resign, leave work, stop working, pension off]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈtaɪə(r)/
+> **Part of Speech:** Verb
+> **CEFR Level:** B1
+> **Register:** Neutral/Formal
+> **Etymology:** Old French 'retirer' (to withdraw), from Latin 're-' (back) + 'tirare' (to draw)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To withdraw or pull back
+>
+> **Context Meaning:**
+> 1. To leave employment or stop working, typically upon reaching a certain age
+> 2. To withdraw from use or circulation
+> 3. To go to bed or rest for the night
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Nghỉ hưu, rút lui
+> - **Contextual:** Giảm thiểu, nghỉ ngơi, rút lui khỏi sử dụng
+>
 > **Nuances:**
-> - ...
+> - Often implies permanent cessation of work
+> - Can be voluntary or involuntary
+> - May involve receiving pension benefits
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Peaceful, Transitional, Final
+> **Memory Hook:** Think of 're-tire' - to 'tire' again or to 'pull back' from the race of work life!
+> **📖 Etymology Story:** The word comes from Old French 'retirer' meaning 'to withdraw'. Like a military general pulling troops back from battle, when we retire, we withdraw from the workforce. The prefix 're-' means 'back' and 'tirer' means 'to draw' - literally 'to draw back' from one's career.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[retirement]] /rɪˈtaɪəmənt/, [[retiree]] /ˌretɪəˈriː/
+> - **Adj:** [[retired]] /rɪˈtaɪəd/, [[retiring]] /rɪˈtaɪərɪŋ/
+> - **Verb:** [[retire]] /rɪˈtaɪə(r)/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[resign]] /rɪˈzaɪn/ : To formally leave a job, often voluntarily
+> - [[step down]] /step ˈdaʊn/ : To leave a position of authority
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[work]] /wɜːk/ : To be employed or actively engaged in labor
+> - [[return]] /rɪˈtɜːn/ : To come back to work after retirement
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. retire early
+> 2. retire from work
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** My father decided to retire at 62 to pursue his passion for gardening.
+> - **Translation:** Bố tôi quyết định nghỉ hưu ở tuổi 62 để theo đuổi niềm đam mê làm vườn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The company will retire this software model at the end of the year.
+> - **Translation:** Công ty sẽ ngừng sử dụng mẫu phần mềm này vào cuối năm.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** She retired of her job last month.
+> - ✅ **Correction:** She retired from her job last month.
+> - **Why:** The correct preposition with 'retire' when indicating leaving a position is 'from', not 'of'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Retirement is not the end of the road. It is the beginning of the open highway."
+> **Source:** [[Retirement Planning Guide]]
 
 ---
 
@@ -161,121 +83,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **retire** (*/rɪˈtaɪə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** 1) To leave employment or stop working, typically upon reaching a certain age 2) To withdraw from use 3) To go to bed or rest
+> 🇻🇳 **Vietnamese:** 1) Nghỉ hưu, rút lui 2) Ngừng sử dụng, loại bỏ 3) Đi ngủ, nghỉ ngơi
+> 🗣️ **IPA:** */rɪˈtaɪə(r)/*
+> 🧠 **Mental Model:** Hành động rút lui (withdrawing) - như việc rút quân khỏi chiến trường hoặc rút lui khỏi cuộc đua làm việc
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To leave employment or stop working, typically upon reaching a certain age; to withdraw from use; to go to bed or rest"
+**Vietnamese:** Nghỉ hưu, rút lui; ngừng sử dụng; đi ngủ, nghỉ ngơi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**retire** (*/rɪˈtaɪə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **retire** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After thirty years of dedicated service to the company, the CEO announced she would retire at the end of the fiscal year.
+> 🇻🇳 **Translation:** Sau ba mươi năm phục vụ tận tụy cho công ty, CEO thông báo bà sẽ nghỉ hưu vào cuối năm tài chính.
+> 🔍 **Analysis:** 'Retire' hoàn hảo ở đây vì nó diễn tả sự kết thúc sự nghiệp một cách trang trọng và có kế hoạch, mang ý nghĩa về sự kết thúc tự nguyện sau một chặng đường dài, thay vì chỉ nói "stop working" một cách đơn giản.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **retire**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Timing:** retire early (nghỉ hưu sớm) (<VN note để chỉ việc nghỉ hưu trước tuổi thông thường>)
+> 2. **From Position:** retire from position/service (nghỉ hưu khỏi chức vụ/dịch vụ) (<VN note để chỉ việc rút lui từ một vai trò cụ thể>)
+> 3. **To Place:** retire to bed (đi ngủ) (<VN note cách nói trang trọng hơn cho việc đi ngủ>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **retire**:
+"He stopped working when he was 65."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "After four decades of shaping young minds as an educator, he chose to retire at 65 with plans to volunteer at community centers."
+> 💡 **Why it works:** 'Retire' nâng cấp câu bằng cách mang sắc thái trang trọng, có kế hoạch và tích cực hơn 'stop working', cho thấy đây là một giai đoạn chuyển tiếp có chủ đích chứ không chỉ đơn thuần là sự kết thúc.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **retire** instead of **quit**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **retire:** Permanent withdrawal from work, usually after long service or at certain age; often with pension
+> **quit:** To leave a job, often suddenly or before reaching typical retirement age
+> 🧱 **The Barrier:** 'retire' = planned, permanent end to career; 'quit' = often immediate, possibly temporary departure
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague just turned 60 and mentions feeling tired of the corporate routine. You feel supportive. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Have you considered when you might retire? It could be a wonderful new chapter with more time for your hobbies."
+> 👨‍🎨 **Director's Note:** Perfect supportive approach focusing on positive aspects of retirement
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `re-` + `tirer` to the meaning of **retire**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 're-' meant 'back' and 'tirare' meant 'to draw'. When someone retires, they literally 'draw back' from their working life, like pulling back from the front lines after years of service.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **retire**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `re-` (back) + `tirare` (to draw, pull)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[retirement]] /rɪˈtaɪəmənt/ (sự nghỉ hưu)
+> - *(noun)* [[retiree]] /ˌretɪəˈriː/ (người đã nghỉ hưu)
+> - *(adj)* [[retired]] /rɪˈtaɪəd/ (đã nghỉ hưu)
+> - *(adj)* [[retiring]] /rɪˈtaɪərɪŋ/ (sắp nghỉ hưu; nhút nhát)
+> - *(noun)* [[retreat]] /rɪˈtriːt/ (sự rút lui, nơi nghỉ dưỡng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈtaɪə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**retire**
+> 📖 **Meaning:** To leave employment or stop working, typically upon reaching a certain age; to withdraw from use; to go to bed or rest
+> 🇻🇳 **Vietnamese:** Nghỉ hưu, rút lui; ngừng sử dụng; đi ngủ, nghỉ ngơi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **retire**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** My grandpa retired his job last year.
+> ✅ **Correction:** My grandpa retired from his job last year.
+> 🧠 **Why:** 'Retire' is intransitive when referring to leaving work and needs the preposition 'from' to specify what one is retiring from
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **retire**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[work]] (<To be actively engaged in employment>)
+> - [[return to work]] (<To come back to work after retirement>)
+> - [[re-enter workforce]] (<To start working again after leaving>)
+> 🧱 **Contrast:** While 'retire' means permanently leaving the workforce, 'work' implies active engagement in employment or labor.
 
 ---

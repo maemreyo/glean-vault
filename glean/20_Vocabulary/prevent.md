@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [stop, avoid, hinder, obstruct, block, deter, avert, preclude]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /prɪˈvent/
+> **Part of Speech:** Verb
+> **CEFR Level:** B1
+> **Register:** Neutral/Formal
+> **Etymology:** Latin 'praevenire' (to come before, anticipate), from 'prae-' (before) + 'venire' (to come)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To come before something happens
+>
+> **Context Meaning:**
+> 1. To stop something from happening or existing
+> 2. To keep someone from doing something
+> 3. To act in advance to stop an undesirable event
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Ngăn chặn, ngăn ngừa
+> - **Contextual:** Tiêu diệt, phòng tránh, làm cho không thể xảy ra
+>
 > **Nuances:**
-> - ...
+> - Implies proactive action before something happens
+> - Stronger than 'discourage' but less forceful than 'prohibit'
+> - Often used in health, safety, and crime prevention contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Proactive, Protective, Preventive
+> **Memory Hook:** Think of 'pre-' (before) + 'vent' (coming/arriving) - to prevent is to 'come before' an event to stop it!
+> **📖 Etymology Story:** The word comes from Latin 'praevenire' where 'prae-' means 'before' and 'venire' means 'to come'. Like a guard who arrives before trouble starts, when we prevent something, we come before it with actions to stop it from happening at all.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[prevention]] /prɪˈvenʃn/, [[preventive]] /prɪˈventɪv/
+> - **Adj:** [[preventable]] /prɪˈventəbl/, [[preventive]] /prɪˈventɪv/
+> - **Verb:** [[prevent]] /prɪˈvent/
+> - **Adv:** [[preventively]] /prɪˈventɪvli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[stop]] /stɒp/ : More general, can be after something starts
+> - [[avoid]] /əˈvɔɪd/ : To stay away from something
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[cause]] /kɔːz/ : To make something happen
+> - [[allow]] /əˈlaʊ/ : To permit something to happen
+> - [[encourage]] /ɪnˈkʌrɪdʒ/ : To promote or support something
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. prevent disease
+> 2. prevent accidents
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Regular exercise can help prevent many chronic diseases.
+> - **Translation:** Tập thể dục đều đặn có thể giúp ngăn ngừa nhiều bệnh mãn tính.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new security measures were designed to prevent unauthorized access.
+> - **Translation:** Các biện pháp an ninh mới được thiết kế để ngăn chặn truy cập trái phép.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** We must prevent them to enter the building.
+> - ✅ **Correction:** We must prevent them from entering the building.
+> - **Why:** The correct construction is 'prevent someone from doing something', not 'prevent someone to do something'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "An ounce of prevention is worth a pound of cure." - Benjamin Franklin, emphasizing the value of preventing problems before they occur.
+> **Source:** [[Poor Richard's Almanack]]
 
 ---
 
@@ -161,121 +84,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **prevent** (*/prɪˈvent/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To stop something from happening; to act in advance to stop an undesirable event
+> 🇻🇳 **Vietnamese:** Ngăn chặn, ngăn ngừa, phòng tránh
+> 🗣️ **IPA:** */prɪˈvent/*
+> 🧠 **Mental Model:** Hành động chủ động (proactive action) - đến trước vấn đề để ngăn nó xảy ra, giống như hàng rào chắn trước nguy cơ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To stop something from happening; to act in advance to stop an undesirable event"
+**Vietnamese:** Ngăn chặn, ngăn ngừa, phòng tránh
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**prevent** (*/prɪˈvent/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **prevent** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The cybersecurity team implemented advanced protocols to prevent data breaches and protect sensitive information.
+> 🇻🇳 **Translation:** Đội ngũ an ninh mạng đã thực hiện các giao thức tiên tiến để ngăn chặn rò rỉ dữ liệu và bảo vệ thông tin nhạy cảm.
+> 🔍 **Analysis:** 'Prevent' hoàn hảo ở đây vì nó diễn tả hành động chủ động, phòng ngừa trước khi nguy cơ xảy ra, nhấn mạnh tính phòng thủ và bảo vệ thay vì chỉ "stop" sau khi sự việc đã xảy ra.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **prevent**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Health:** prevent disease/illness (ngăn ngừa bệnh tật) (<VN note vì thường dùng trong y tế công cộng>)
+> 2. **Safety:** prevent accidents/injuries (ngăn ngừa tai nạn/thương tích) (<VN note để chỉ các biện pháp an toàn>)
+> 3. **Action:** prevent someone from doing something (ngăn ai đó làm gì) (<VN note cấu trúc ngữ pháp phổ biến>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **prevent**:
+"We stopped the fire from spreading."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The firefighters acted swiftly to prevent the fire from spreading to adjacent buildings."
+> 💡 **Why it works:** 'Prevent' nâng cấp câu bằng cách nhấn mạnh hành động chủ động, kịp thời trước khi nguy cơ xảy ra, thể hiện tính chuyên nghiệp và hiệu quả của đội cứu hỏa.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **prevent** instead of **stop**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **prevent:** Proactive action before something starts; eliminates possibility
+> **stop:** Reactive action after something has started; interrupts ongoing process
+> 🧱 **The Barrier:** 'prevent' = before it starts; 'stop' = after it starts
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague is about to send an email with confidential information to the wrong recipient. You feel urgent. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Wait! Let me help you double-check that recipient list to prevent any data leaks!"
+> 👨‍🎨 **Director's Note:** Perfect emergency intervention showing proactive protection of sensitive information
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `prae-` + `venire` to the meaning of **prevent**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'prae-' meant 'before' and 'venire' meant 'to come'. Like a watchman who arrives before danger reaches the city, when we prevent something, we arrive before the problem with actions that keep it from ever coming at all.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **prevent**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `prae-` (before) + `venire` (to come)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[prevention]] /prɪˈvenʃn/ (sự ngăn ngừa)
+> - *(adj)* [[preventive]] /prɪˈventɪv/ (phòng ngừa)
+> - *(adj)* [[preventable]] /prɪˈventəbl/ (có thể ngăn ngừa được)
+> - *(noun)* [[event]] /ɪˈvent/ (sự kiện - những thứ 'come'/'happen')
+> - *(verb)* [[convene]] /kənˈviːn/ (họp tập - 'come together')
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */prɪˈvent/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**prevent**
+> 📖 **Meaning:** To stop something from happening; to act in advance to stop an undesirable event
+> 🇻🇳 **Vietnamese:** Ngăn chặn, ngăn ngừa, phòng tránh
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **prevent**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The warning signs prevented that the accident happened.
+> ✅ **Correction:** The warning signs prevented the accident from happening.
+> 🧠 **Why:** The correct construction is 'prevent something from happening', not 'prevent that something happened'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **prevent**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[cause]] (<To bring about or make something happen>)
+> - [[allow]] (<To permit or enable something to happen>)
+> - [[encourage]] (<To actively promote or support something>)
+> 🧱 **Contrast:** While 'prevent' stops something before it happens, 'cause' actively brings something into existence.
 
 ---

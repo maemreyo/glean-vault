@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
 #flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [sustainable, sustainability, renewable source, eco-friendly, green energy, sustainable resources, 可持续来源, 可持续资源]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /səˈsteɪnəbl sɔːs/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** B2
+> **Register:** Academic/Environmental
+> **Etymology:** Latin "sustinere" (to hold up) + Old French "sourse" (origin)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A source that can maintain itself without depletion
+>
+> **Context Meaning:** A resource or supply that can be used indefinitely without being used up or harming the environment
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Nguồn bền vững
+> - **Contextual:** Nguồn tài nguyên có thể duy trì lâu dài
+>
 > **Nuances:**
-> - ...
+> - Implies renewable and environmentally friendly
+> - Balances present needs with future availability
+> - Often refers to energy, materials, or food sources
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Environmental
+> **Memory Hook:** "Sustain" (duy trì) + "able" (có thể) = có thể duy trì mãi mãi
+> **📖 Etymology Story:** "Sustainable" từ Latin "sustinere" (hold up, maintain) - resource có thể "hold up itself" mà không run out.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[sustainability]] /səˌsteɪnəˈbɪləti/, [[source]] /sɔːs/
+> - **Verb:** [[sustain]] /səˈsteɪn/, [[sustained]] /səˈsteɪnd/
+> - **Adj:** [[sustainable]] /səˈsteɪnəbl/, [[unsustainable]] /ˌʌnsəˈsteɪnəbl/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[renewable source]] /rɪˈnjuːəbl sɔːs/ : naturally replenishing
+> - [[green resource]] /ɡriːn ˈriːsɔːs/ : environmentally friendly
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[non-renewable source]] /ˌnɒnrɪˈnjuːəbl sɔːs/ : finite resource
+> - [[depleting resource]] /dɪˈpliːtɪŋ ˈriːsɔːs/ : running out
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. sustainable energy source
+> 2. sustainable food source
+> 3. develop sustainable sources
+>
+> **1. Example Context 1 (Energy)**
+> - **Sentence:** Solar panels provide a sustainable source of electricity for remote areas.
+> - **Translation:** Pin mặt trời cung cấp nguồn điện bền vững cho các vùng sâu vùng xa.
+>
+> **2. Example Context 2 (Agriculture)**
+> - **Sentence:** Diversified crops create a more sustainable source of food security.
+> - **Translation:** Trồng đa dạng các loại cây tạo ra nguồn an ninh lương thực bền vững hơn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with abundance**
+> - ❌ **Mistake:** "The oil well is a sustainable source."
+> - ✅ **Correction:** "The oil well is not a sustainable source as oil is finite."
+> - **Why:** "Sustainable" means renewable or maintainable, not just plentiful.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We do not inherit the earth from our ancestors; we borrow it from our children."
+> **Source:** Native American Proverb
 
 ---
 
@@ -161,121 +80,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **sustainable source** (*/səˈsteɪnəbl sɔːs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A resource or supply that can be used continuously without depletion or environmental harm
+> 🇻🇳 **Vietnamese:** Một nguồn tài nguyên hoặc nguồn cung có thể được sử dụng liên tục mà không cạn kiệt hoặc gây hại cho môi trường
+> 🗣️ **IPA:** */səˈsteɪnəbl sɔːs/*
+> 🧠 **Mental Model:** Tưởng tượng magic cup - no matter how much bạn take, nó refills itself. Đó là "sustainable source".
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A supply that can be maintained indefinitely without being exhausted"
+**Vietnamese:** Một nguồn cung có thể duy trì vô thời hạn mà không bị cạn kiệt
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**sustainable source** (*/səˈsteɪnəbl sɔːs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **sustainable source** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Wind turbines represent a sustainable source of clean energy for coastal communities.
+> 🇻🇳 **Translation:** Tua-bin gió đại diện cho nguồn năng lượng sạch bền vững cho các cộng đồng ven biển.
+> 🔍 **Analysis:** "Sustainable source" perfect ở đây vì nó emphasize indefinite availability và environmental benefit - không chỉ "energy source".
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **sustainable source**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Energy:** sustainable energy/power source (nguồn năng lượng/điện bền vững)
+> 2. **Food:** sustainable food/water source (nguồn thực phẩm/nước bền vững)
+> 3. **Economic:** sustainable income/source of revenue (nguồn thu nhập bền vững)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **sustainable source**:
+"We need to find better energy options."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We must transition to sustainable sources that can meet our energy needs without compromising future generations."
+> 💡 **Why it works:** "Sustainable source" specific và forward-looking - imply responsibility toward future generations.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **sustainable source** instead of **[[renewable source]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **sustainable source:** Dùng khi muốn emphasize environmental impact và social balance
+> **[[renewable source]]:** Dùng khi chỉ nói về natural replenishment
+> 🧱 **The Barrier:** Sustainable source là holistic concept, renewable source chỉ technical replenishment.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining your company's environmental policy. You feel responsible. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our commitment is to transition entirely to sustainable sources by 2030, ensuring zero carbon footprint."
+> 👨‍🎨 **Director's Note:** "Sustainable source" professional và visionary - shows long-term environmental commitment.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots to the meaning of **sustainable source**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Sustainable" từ Latin "sustinere" (to hold up) + "source" từ Old French "sourse" (origin). Nguồn có thể "hold itself up" mãi mãi!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **sustainable source**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `sustinere` (<to hold up, maintain>) + Old French `sourse` (<origin>)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[sustainable]] (bền vững)
+> - *(verb)* [[sustain]] (duy trì)
+> - *(noun)* [[sustainability]] (tính bền vững)
+> - *(related)* [[resource]] (nguồn tài nguyên)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */səˈsteɪnəbl sɔːs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**sustainable source**
+> 📖 **Meaning:** Maintainable resource
+> 🇻🇳 **Vietnamese:** Nguồn tài nguyên có thể duy trì
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **sustainable source**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Coal is a sustainable source because we have a lot of it."
+> ✅ **Correction:** "Coal is not a sustainable source because it will eventually run out."
+> 🧠 **Why:** "Sustainable" means renewable/infinite, not just abundant.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **sustainable source**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[non-renewable source]] (nguồn không thể tái tạo)
+> - [[finite resource]] (nguồn hữu hạn)
+> - [[depleting supply]] (nguồn cung cạn kiệt)
+> 🧱 **Contrast:** Sustainable source là infinite/renewable, antonyms là finite/depleting.
 
 ---

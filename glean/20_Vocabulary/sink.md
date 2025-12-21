@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [sinks, sinking, sank, sunk, sinkable, sank, sunken, submerge, descend, drop, fall]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /sɪŋk/
+> **Part of Speech:** verb/noun
+> **CEFR Level:** B1
+> **Register:** general
+> **Etymology:** Old English 'sincan' from Proto-Germanic '*sinkwaną', meaning to submerge
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To go down below the surface; to descend
+>
+> **Context Meaning:** To move downward or be absorbed; a fixed basin with faucet for washing
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chìm, chìm xuống, bồn rửa
+> - **Contextual:** giảm dần, tụt xuống, dung nạp
+>
 > **Nuances:**
-> - ...
+> - Can indicate physical downward movement or gradual decline
+> - As noun, refers to kitchen/bathroom fixture
+> - Metaphorically used for disappointment or failure
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Descending, Absorbing
+> **Memory Hook:** Think of a ship sinking (going down) or water disappearing down the drain sink
+> **📖 Etymology Story:** From Old English 'sincan' meaning to submerge - like how water sinks into the ground or how ships sink into the sea
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** sink /sɪŋk/
+> - **Verb:** sink /sɪŋk/
+> - **Adj:** sunken /ˈsʌnkən/
+> - **Adv:** sinkingly (rare)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[submerge]] /səbˈmɜːdʒ/ : to put under water completely
+> - [[descend]] /dɪˈsend/ : to move downward
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[float]] /fləʊt/ : to stay on surface
+> - [[rise]] /raɪz/ : to move upward
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Sink slowly/quickly
+> 2. Sink into (despair, chair)
+> 3. Heart sinks
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The ship began to sink after hitting the iceberg.
+> - **Translation:** Con tàu bắt đầu chìm sau khi va vào tảng băng trôi.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She washed the dishes in the kitchen sink.
+> - **Translation:** Cô ấy rửa bát ở bồn rửa bếp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Irregular past tense**
+> - ❌ **Mistake:** The ship sinked yesterday.
+> - ✅ **Correction:** The ship sank yesterday.
+> - **Why:** Sink is an irregular verb - sink-sank-sunk, not sink-sinked
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The tiny boat began to sink in the middle of the lake."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **sink** (*/sɪŋk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To go down below the surface; to descend gradually
+> 🇻🇳 **Vietnamese:** Chìm, đi xuống, tụt dần
+> 🗣️ **IPA:** */sɪŋk/*
+> 🧠 **Mental Model:** Khi cái gì đó 'sink', nó đi xuống dưới - như tàu chìm xuống biển, mặt trời lặn xuống chân trời, hoặc tâm trạng chìm xuống thất vọng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To move downward or be absorbed; a fixed basin with faucet for washing"
+**Vietnamese:** Chìm xuống; bồn rửa
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**sink** (*/sɪŋk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **sink** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** My heart sank when I realized I had missed the final exam.
+> 🇻🇳 **Translation:** Tim tôi chìm xuống khi nhận ra mình đã lỡ kỳ thi cuối kỳ.
+> 🔍 **Analysis:** 'Heart sank' là một idiom phổ biến thể hiện cảm giác thất vọng, lo lắng - không phải tim thật sự lún xuống mà là cảm xúc 'tụt dần'
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **sink**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Movement:** Sink slowly/quickly (chìm từ từ/nhanh chóng)
+> 2. **Emotional:** Heart sinks (tim chìm xuống - cảm giác thất vọng)
+> 3. **Action:** Sink into (chìm vào - ghế, giường, tuyệt vọng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **sink**:
+"The bad news made me sad."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "My heart sank when I heard the devastating news about the project cancellation."
+> 💡 **Why it works:** 'Heart sank' tạo hình ảnh cảm xúc tụt dần mạnh mẽ hơn 'made me sad', thể hiện sự sụp đổ đột ngột của cảm xúc
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **sink** instead of **[[fall]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **sink:** Dùng cho sự di chuyển xuống dưới từ từ hoặc gradual, thường trong chất lỏng hoặc dần dần
+> **[[fall]]:** Dùng cho sự rơi xuống nhanh hơn, thường do mất thăng bằng hoặc gravity
+> 🧱 **The Barrier:** Sink là gradual descent, fall is rapid drop
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see your expensive ring slip off your finger and fall into the deep water. You react immediately!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "No! My ring is sinking into the water! I need to grab it before it sinks too deep!"
+> 👨‍🎨 **Director's Note:** 'Sinking' thể hiện sự di chuyển xuống dưới của vật thể trong nước, tạo cảm giác cấp bách và thất vọng
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `sincan` to the meaning of **sink**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English 'sincan' có nghĩa là chìm xuống - giống như cách nước thấm xuống đất (sink into ground) hoặc cách con tàu dần dần chìm xuống đáy biển
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **sink**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Proto-Germanic `*sinkwaną` (to sink, submerge)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* sink (chìm)
+> - *(adj)* sunken (đã chìm, lún xuống)
+> - *(noun)* sink (bồn rửa - từ concept của things 'sinking' into it)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */sɪŋk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**sink**
+> 📖 **Meaning:** To go down below the surface; a basin for washing
+> 🇻🇳 **Vietnamese:** Chìm xuống; bồn rửa
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **sink**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The little boat sinked in the storm
+> ✅ **Correction:** The little boat sank in the storm
+> 🧠 **Why:** Sink là irregular verb - present: sink, past: sank, past participle: sunk (không dùng -ed)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **sink**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[float]] (nổi trên bề mặt)
+> - [[rise]] (đi lên, tăng lên)
+> - [[emerge]] (hiện lên từ dưới)
+> 🧱 **Contrast:** Sink là đi xuống dưới, antonyms là đi lên hoặc ở lại trên bề mặt
 
 ---

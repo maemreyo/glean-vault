@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [undertake, undertaken, took on, took upon, assumed, accepted, shouldered, embraced]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌʌndəˈteɪkən ɒn/
+> **Part of Speech:** phrasal verb (past participle form)
+> **CEFR Level:** C1
+> **Register:** formal/business
+> **Etymology:** From Old English "under" + "taken" - literally "to take under oneself"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To accept or begin a task or responsibility
+>
+> **Context Meaning:** To commit oneself to and start a course of action, especially something difficult or challenging
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đảm nhận, nhận lời
+> - **Contextual:** bắt đầu thực hiện, gánh vác
+>
 > **Nuances:**
-> - ...
+> - Implies willingness and conscious decision to accept responsibility
+> - Often used for significant projects, roles, or challenges
+> - Formal register suggests serious commitment
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, responsible, decisive
+> **Memory Hook:** Picture someone literally "taking on" a heavy backpack of responsibilities - they're undertaking a challenge
+> **📖 Etymology Story:** Medieval knights would "undertake" quests by literally taking the mission's banner under their arm. This gesture symbolized accepting the full responsibility and honor of the mission, evolving into our modern business term for accepting challenging projects.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[undertaking]] /ˈʌndəteɪkɪŋ/
+> - **Verb:** [[undertake]] /ˌʌndəˈteɪk/
+> - **Past Participle:** undertaken /ˌʌndəˈteɪkən/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[assumed]] /əˈsjuːmd/ : taken on (a role or responsibility)
+> - [[shouldered]] /ˈʃəʊldəd/ : accepted a burden or responsibility
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[avoided]] /əˈvɔɪdɪd/ : stayed away from
+> - [[declined]] /dɪˈklaɪnd/ : refused to accept
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. undertaken a project/task
+> 2. undertaken research
+> 3. undertaken a journey
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She has undertaken on herself to mentor three junior employees.
+> - **Translation:** Cô ấy đã tự nhận trách nhiệm làm mentor cho ba nhân viên cấp dưới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The company has undertaken on a massive digital transformation.
+> - **Translation:** Công ty đã bắt đầu một cuộc chuyển đổi số quy mô lớn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** "He undertaken to do the project"
+> - ✅ **Correction:** "He undertook to do the project" OR "He has undertaken on the project"
+> - **Why:** Different constructions require different tenses and prepositions
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Having undertaken on the responsibility, she couldn't back down now."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **undertaken on** (*/ˌʌndəˈteɪkən ɒn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** (phrasal verb) To have accepted and begun a responsibility, task, or course of action, especially something challenging
+> 🇻🇳 **Vietnamese:** (cụm động từ) Đã nhận và bắt đầu thực hiện một trách nhiệm, nhiệm vụ hoặc hành động, đặc biệt là việc thách thức
+> 🗣️ **IPA:** */ˌʌndəˈteɪkən ɒn/*
+> 🧠 **Mental Model:** Khi bạn "undertake on" một task, bạn như đang lift lên một gánh nặng và bắt đầu carry nó - show commitment và responsibility.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "to have accepted and begun a difficult responsibility or task"
+**Vietnamese:** đã nhận và bắt đầu một trách nhiệm hoặc nhiệm vụ khó khăn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**undertaken on** (*/ˌʌndəˈteɪkən ɒn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **undertaken on** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The research team has undertaken on a groundbreaking study of climate change effects.
+> 🇻🇳 **Translation:** Đội nghiên cứu đã bắt đầu một nghiên cứu đột phá về tác động của biến đổi khí hậu.
+> 🔍 **Analysis:** "Undertaken on" cho thấy sự chủ động nhận trách nhiệm với dự án nghiêm túc - "groundbreaking study" nhấn mạnh tầm quan trọng và difficulty của task.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **undertaken on**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Professional Context:** undertaken a project/responsibility (đảm nhận dự án/trách nhiệm - formal business setting)
+> 2. **Academic Context:** undertaken research/studies (tiến hành nghiên cứu/học tập - academic environment)
+> 3. **Personal Challenge:** undertaken a journey/quest (bắt đầu hành trình/sứ mệnh - personal development)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **undertaken on**:
+"She decided to do the difficult project."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She has undertaken on the challenge of restructuring the entire department."
+> 💡 **Why it works:** "Undertaken on" tạo cảm giác formal và chủ động hơn "decided to do", "challenge of restructuring" cho thấy quy mô và difficulty thay vì "difficult project" chung chung.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **undertaken on** instead of **[[started]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **undertaken on:** Nhấn mạnh việc chủ động nhận trách nhiệm, thường với việc khó khăn hoặc quan trọng, mang tính formal
+> **started:** Chỉ đơn giản là bắt đầu, không có hàm ý về mức độ khó hay trách nhiệm
+> 🧱 **The Barrier:** "Undertaken on" carries weight of commitment và responsibility, trong khi "started" chỉ temporal beginning - difference in attitude và significance.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague just got promoted and must lead a critical project. You want to encourage them. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Now that you've undertaken on this leadership role, remember: great challenges forge great leaders!"
+> 👨‍🎨 **Director's Note:** Sử dụng "undertaken on" để công nhận responsibility và significance của vai trò mới, tạo motivation thông qua hình ảnh "forge great leaders".
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `under + taken` to the meaning of **undertaken on**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "under" (beneath) + "taken" (to take) → imagine literally taking something under your protection → modern: "undertake" nghĩa là nhận responsibility → "undertaken on" thể hiện đã chính thức accept và begin một task quan trọng.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **undertaken on**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `under` (under) + `tacan` (to take)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[undertake]] /ˌʌndəˈteɪk/
+> - *(noun)* [[undertaking]] /ˈʌndəteɪkɪŋ/
+> - *(adj)* *undertaken* /ˌʌndəˈteɪkən/ (past participle)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌʌndəˈteɪkən ɒn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**undertaken on**
+> 📖 **Meaning:** To have formally accepted and begun a responsibility or task
+> 🇻🇳 **Vietnamese:** Đã chính thức nhận và bắt đầu một trách nhiệm hoặc nhiệm vụ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **undertaken on**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "He will undertaken on the task tomorrow"
+> ✅ **Correction:** "He will undertake the task tomorrow" OR "He has undertaken on the task"
+> 🧠 **Why:** "Undertaken" is past participle requiring auxiliary verb (has/have) - present tense uses "undertake"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **undertaken on**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[shirked]] (evaded or avoided responsibility)
+> - [[refused]] (declined to accept)
+> - [[abandoned]] (gave up after starting)
+> 🧱 **Contrast:** While "undertaken on" shows courage and commitment to face challenges, "shirked" shows avoidance and lack of responsibility.
 
 ---

@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 #flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [accept the challenge, face the challenge, meet the challenge, take on, confront, tackle, undertake, embrace the test]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /teɪk ʌp ðə ˈtʃælɪndʒ/
+> **Part of Speech:** phrasal verb / idiom
+> **CEFR Level:** B2
+> **Register:** general/formal
+> **Etymology:** Combination of Old English 'tacan' (to take) + 'up' + Old French 'chalenge' (claim, accusation)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To accept and attempt something difficult that tests your ability
+>
+> **Context Meaning:** To willingly accept a difficult task or situation and commit to dealing with it
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nhận thử thách, đối mặt thử thách
+> - **Contextual:** đứng lên nhận nhiệm vụ khó khăn, không lùi bước
+>
 > **Nuances:**
-> - ...
+> - Implies willingness and enthusiasm, not forced acceptance
+> - Suggests active engagement rather than passive tolerance
+> - Often used in professional, sports, or personal development contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Courageous, Proactive
+> **Memory Hook:** Imagine physically taking up (lifting) a heavy challenge that others have left on the ground
+> **📖 Etymology Story:** From Old English 'tacan' (take) + 'up' + French 'chalenge' - like lifting up a gauntlet thrown down as a challenge in medieval times
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrase:** take up the challenge /teɪk ʌp ðə ˈtʃælɪndʒ/
+> - **Related:** take on /teɪk ɒn/
+> - **Variation:** rise to the challenge /raɪz tə ðə ˈtʃælɪndʒ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[accept the challenge]] : similar meaning
+> - [[confront]] : to face directly
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[back down]] : to withdraw from challenge
+> - [[avoid]] : to stay away from
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Willingly/Eagerly take up the challenge
+> 2. Take up the challenge of + -ing
+> 3. Ready to take up the challenge
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** When the company faced bankruptcy, the new CEO was ready to take up the challenge.
+> - **Translation:** Khi công ty đối mặt với phá sản, CEO mới đã sẵn sàng nhận thử thách.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She took up the challenge of learning a new language at age 60.
+> - **Translation:** Bà đã nhận thử thách học một ngôn ngữ mới ở tuổi 60.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect preposition**
+> - ❌ **Mistake:** I will take in the challenge.
+> - ✅ **Correction:** I will take up the challenge.
+> - **Why:** This idiom requires 'up' as the correct particle, not 'in'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Many athletes take up the challenge of competing at the Olympic level."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **take up the challenge** (*/teɪk ʌp ðə ˈtʃælɪndʒ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To willingly accept and attempt something difficult that tests your ability
+> 🇻🇳 **Vietnamese:** Nhận thử thách, đối mặt thử thách khó khăn
+> 🗣️ **IPA:** */teɪk ʌp ðə ˈtʃælɪndʒ/*
+> 🧠 **Mental Model:** Khi bạn 'take up the challenge', bạn chủ động nhận một cái gì đó khó khăn - như việc nhặt lên quả nặng mà người khác bỏ xuống
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To willingly accept a difficult task or situation and commit to dealing with it"
+**Vietnamese:** Chủ động nhận nhiệm vụ khó khăn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**take up the challenge** (*/teɪk ʌp ðə ˈtʃælɪndʒ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **take up the challenge** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Despite having no experience, John decided to take up the challenge of managing the entire project.
+> 🇻🇳 **Translation:** Mặc dù không có kinh nghiệm, John quyết định nhận thử thách quản lý toàn bộ dự án.
+> 🔍 **Analysis:** 'Take up the challenge' thể hiện sự chủ động và dũng cảm đối mặt với việc khó khăn - nhấn mạnh sự tự nguyện rather than bị ép buộc
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **take up the challenge**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Attitude:** Willingly/eagerly take up the challenge (chủ động/nhiệt tình nhận thử thách)
+> 2. **Content:** Take up the challenge of + verb-ing (nhận thử thách làm gì đó)
+> 3. **State:** Ready/prepared to take up the challenge (sẵn sàng nhận thử thách)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **take up the challenge**:
+"She agreed to do the difficult job."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She enthusiastically took up the challenge of turning around the failing department."
+> 💡 **Why it works:** 'Took up the challenge' thể hiện sự chủ động và nhiệt huyết mạnh mẽ hơn 'agreed', tạo hình ảnh dũng cảm đối mặt với khó khăn
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **take up the challenge** instead of **[[face]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **take up the challenge:** Nhấn mạnh sự chủ động, tự nguyện nhận lấy thử thách
+> **[[face]]:** Chỉ đơn giản là đối mặt với tình huống, có thể không chủ động
+> 🧱 **The Barrier:** Take up implies willingness to accept, face implies mere confrontation
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss offers you a promotion but it requires moving to another country and learning a new culture. You feel excited! Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'll definitely take up the challenge! This is exactly the opportunity I've been waiting for."
+> 👨‍🎨 **Director's Note:** 'Take up the challenge' thể hiện sự nhiệt tình và chủ động đối mặt với thay đổi lớn, phù hợp với bối cảnh phát triển sự nghiệp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the phrase to its medieval roots.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ medieval times, khi ai đó ném găng tay (gauntlet) xuống đất như một 'challenge' - người đối diện phải 'take it up' (nhặt lên) để chấp nhận đấu tay đôi - tượng trưng cho việc đối mặt thử thách
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **take up the challenge**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:**
+> - 'Take' từ Old English 'tacan' (lấy, nhận)
+> - 'Challenge' từ Old French 'chalenge' (tuyên bố, khiêu chiến)
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* take up the challenge (nhận thử thách)
+> - *(variant)* rise to the challenge (vượt qua thử thách)
+> - *(related)* take on (nhận việc)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */teɪk ʌp ðə ˈtʃælɪndʒ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**take up the challenge**
+> 📖 **Meaning:** To willingly accept and attempt something difficult
+> 🇻🇳 **Vietnamese:** Nhận thử thách, đối mặt khó khăn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **take up the challenge**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I will take on this challenge
+> ✅ **Correction:** I will take up this challenge / I will take on this challenge
+> 🧠 **Why:** Cả hai đều đúng nhưng 'take up' nhấn mạnh việc chấp nhận ban đầu, 'take on' nhấn mạnh việc thực hiện. Với idiom đầy đủ là 'take up the challenge'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **take up the challenge**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[back down]] (lùi bước, từ chối)
+> - [[avoid the challenge]] (tránh né thử thách)
+> - [[shy away from]] (e ngại, né tránh)
+> 🧱 **Contrast:** Take up là chủ động đối mặt, antonyms là trốn tránh hoặc từ chối
 
 ---

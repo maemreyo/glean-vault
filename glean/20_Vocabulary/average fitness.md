@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [average fitness level, moderate fitness, normal fitness, typical fitness, standard fitness, intermediate fitness]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈævərɪdʒ ˈfɪtnəs/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** B1
+> **Register:** General/Informal
+> **Etymology:** From Arabic "awar" (damage) + Old Norse "fit" (suitable)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The typical or expected level of physical health and ability
+>
+> **Context Meaning:** A moderate or standard level of physical conditioning that is neither excellent nor poor
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Sức khỏe trung bình
+> - **Contextual:** Trình độ thể lực vừa phải, sức khỏe thông thường
+>
 > **Nuances:**
-> - ...
+> - Implies meeting minimum health standards but not excelling
+> - Often used as a baseline for improvement goals
+> - Can be positive (maintaining health) or negative (not reaching potential)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Balanced, Stable, Achievable
+> **Memory Hook:** Average = normal/middle, fitness = health = average fitness = normal health level
+> **📖 Etymology Story:** Medieval merchants used "average" to describe dividing losses fairly among all. Today, "average fitness" represents the fair middle ground between peak athletes and sedentary lifestyles - the balanced state most people can achieve and maintain.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[average]] /ˈævərɪdʒ/, [[fitness]] /ˈfɪtnəs/, [[fit]] /fɪt/, [[fitness level]] /ˈfɪtnəs ˌlevəl/
+> - **Verb:** [[average]] /ˈævərɪdʒ/, [[fit]] /fɪt/, [[exercise]] /ˈeksəsaɪz/
+> - **Adj:** [[average]] /ˈævərɪdʒ/, [[fit]] /fɪt/, [[physically fit]] /ˈfɪzɪkli fɪt/
+> - **Adv:** [[averagely]] /ˈævərɪdʒli/, [[moderately]] /ˈmɒdərətli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[moderate fitness]] /ˈmɒdərət ˈfɪtnəs/ : Neither too high nor too low
+> - [[decent shape]] /ˈdiːsənt ʃeɪp/ : Informal way to say reasonably fit
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[peak fitness]] /piːk ˈfɪtnəs/ : Maximum physical conditioning
+> - [[poor fitness]] /pɔːr ˈfɪtnəs/ : Below standard physical condition
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Maintain average fitness
+> 2. Above average fitness
+> 3. Average fitness for age
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Most adults struggle to maintain average fitness levels while working desk jobs.
+> - **Translation:** Hầu hết người lớn khó duy trì mức sức khỏe trung bình khi làm công việc văn phòng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The gym program targets individuals with average fitness who want to improve gradually.
+> - **Translation:** Chương trình gym nhắm vào những người có sức khỏe trung bình muốn cải thiện dần dần.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** "He has an average fitness"
+> - ✅ **Correction:** "He has average fitness"
+> - **Why:** "Fitness" is uncountable in this context and doesn't take an article.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Having average fitness is better than having no fitness at all."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **average fitness** (*/ˈævərɪdʒ ˈfɪtnəs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A moderate or typical level of physical health and conditioning that meets general health standards but is not exceptional
+> 🇻🇳 **Vietnamese:** Sức khỏe/thể lực trung bình, mức độ thể chất vừa phải
+> 🗣️ **IPA:** */ˈævərɪdʒ ˈfɪtnəs/*
+> 🧠 **Mental Model:** Giống như điểm C trong học tập - không tệ nhưng cũng không xuất sắc, đủ tốt để duy trì sức khỏe cơ bản.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The typical or moderate level of physical conditioning that most people have"
+**Vietnamese:** Mức độ thể chất thông thường hoặc vừa phải mà hầu hết mọi người có
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**average fitness** (*/ˈævərɪdʒ ˈfɪtnəs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **average fitness** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Despite not being an athlete, she maintained average fitness through daily walks and weekly yoga sessions.
+> 🇻🇳 **Translation:** Dù không phải vận động viên, cô ấy vẫn duy trì sức khỏe trung bình thông qua việc đi bộ hàng ngày và tập yoga hàng tuần.
+> 🔍 **Analysis:** "Average fitness" hoạt động tốt ở đây vì nó mô tả realistic expectation - không phải là vận động viên chuyên nghiệp nhưng vẫn quan tâm đến sức khỏe, tạo ra mục tiêu dễ đạt được cho người bình thường.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **average fitness**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Maintenance:** maintain average fitness (duy trì sức khỏe trung bình - nhấn mạnh sự bền bỉ)
+> 2. **Comparison:** above/below average fitness (trên/dưới trung bình - so sánh với tiêu chuẩn)
+> 3. **Demographic:** average fitness for [age group] (sức khỏe trung bình cho [nhóm tuổi] - phân loại theo nhân khẩu học)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **average fitness**:
+"His health was okay."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "At forty-five, his doctor confirmed he had average fitness for his age group, with room for improvement in cardiovascular endurance."
+> 💡 **Why it works:** "Average fitness" cụ thể hơn "okay health" vì nó đặt vào thang đo tiêu chuẩn, cho thấy so sánh với nhóm tuổi và ngụ ý có mục tiêu cải thiện rõ ràng.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **average fitness** instead of **good health**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **average fitness:** Chỉ mức độ thể chất cụ thể, có thể đo lường được, tập trung vào khả năng vận động
+> **good health:** Khái niệm rộng hơn, bao gồm cả sức khỏe tinh thần, không bệnh tật, không chỉ về thể chất
+> 🧱 **The Barrier:** Average fitness = metric của thể chất; Good health = trạng thái tổng thể của cơ thể và tinh thần
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to start exercising but feels intimidated by marathon runners. You feel encouraging. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You don't need to be an elite athlete - starting from average fitness is perfectly fine and improving from there is what really matters."
+> 👨‍🎨 **Director's Note:** "Average fitness" được sử dụng để làm giảm áp lực, tạo ra một baseline thực tế và achievable, thay vì so sánh với các vận động viên chuyên nghiệp.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `fit` to the meaning of **average fitness**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "fit" trong tiếng Norse cổ có nghĩa là "phù hợp" - giống như miếng ghép vừa vặn. "Average fitness" nghĩa là cơ thể bạn "phù hợp" với yêu cầu sức khỏe cơ bản, không cần phải là siêu phẩm nhưng vẫn hoàn thành tốt chức năng sống.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **average fitness**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old Norse `fit` (suitable, fitting) + Arabic `awar` (damage, loss - evolved to mean equal distribution)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* fit, unfit, fitting
+> - *(noun)* fitness, outfit, profit
+> - *(verb)* fit, outfit, benefit
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈævərɪdʒ ˈfɪtnəs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**average fitness**
+> 📖 **Meaning:** A moderate level of physical conditioning
+> 🇻🇳 **Vietnamese:** Sức khỏe trung bình/thể lực vừa phải
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **average fitness**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She has a good average fitness"
+> ✅ **Correction:** "She has good average fitness" or "She has a good fitness level"
+> 🧠 **Why:** "Average" là tính từ mô tả "fitness", không cần thêm "good". Có thể dùng "good" để chỉnh mức fitness hoặc thay bằng "good fitness level".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **average fitness**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[peak fitness]] (Maximum physical conditioning, often athletic level)
+> - [[sedentary lifestyle]] (Minimal physical activity, below average fitness)
+> 🧱 **Contrast:** Average = maintaining baseline health; Peak/sedentary = extremes of physical conditioning
 
 ---

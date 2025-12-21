@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [overprotective, over protection, overly protective, too protective, helicopter parent, smothering, controlling, coddling, sheltering]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌəʊvə prəˈtektɪv/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** informal/general
+> **Etymology:** Over- (prefix meaning 'too much') + Protective (from Latin 'protectus' - covered, shielded)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Protecting someone too much
+>
+> **Context Meaning:** Excessively protective to the point of being harmful or limiting independence
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** quá bao bọc, quá bảo vệ
+> - **Contextual:** che chở quá mức, cưng chiều quá đáng, ngột ngạt
+>
 > **Nuances:**
-> - ...
+> - Often used in parenting contexts
+> - Implies good intentions but negative outcomes
+> - Can hinder development and independence
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Smothering, Anxious, Controlling
+> **Memory Hook:** Think of a bubble wrap around a person - protecting but suffocating
+> **📖 Etymology Story:** Từ 'protect' nghĩa là 'shield' - khi bạn 'over-protect', bạn shield someone quá nhiều, giống như putting them trong a glass case where they can't grow hoặc experience life
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** over-protective /ˌəʊvə prəˈtektɪv/
+> - **Adv:** over-protectively /ˌəʊvə prəˈtektɪvli/
+> - **Noun:** over-protection /ˌəʊvə prəˈtekʃn/
+>
+> **Related forms:**
+> - **Noun:** protection /prəˈtekʃn/
+> - **Verb:** protect /prəˈtekt/
+> - **Adj:** protective /prəˈtektɪv/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[smothering]] /ˈsmʌðərɪŋ/ : overwhelming with attention that deprives independence
+> - [[controlling]] /kənˈtrəʊlɪŋ/ : wanting to control others' actions
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[neglectful]] /nɪˈɡlektfl/ : not giving enough care or attention
+> - [[permissive]] /pəˈmɪsɪv/ : allowing too much freedom
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Over-protective parent
+> 2. Over-protective of someone
+> 3. Tend to be over-protective
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Over-protective parents often struggle to let their children make their own mistakes.
+> - **Translation:** Cha mẹ quá bao bọc thường khó khăn trong việc để con cái tự mắc lỗi.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** His over-protective nature meant his friends never felt trusted to handle their own problems.
+> - **Translation:** Bản tính quá bao bọc của anh ấy có nghĩa là bạn bè không bao giờ cảm thấy được tin tưởng để tự xử lý vấn đề của mình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Hyphenation error**
+> - ❌ **Mistake:** She is over protective.
+> - ✅ **Correction:** She is over-protective.
+> - **Why:** When 'over' is used as a prefix with an adjective, it's usually hyphenated
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Being over-protective can prevent children from developing resilience and problem-solving skills."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +85,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **over-protective** (*/ˌəʊvə prəˈtektɪv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Protecting someone too much, to the point of being harmful or limiting independence
+> 🇻🇳 **Vietnamese:** Bảo vệ ai đó quá nhiều, đến mức gây hại hoặc hạn chế sự độc lập
+> 🗣️ **IPA:** */ˌəʊvə prəˈtektɪv/*
+> 🧠 **Mental Model:** Khi bạn shield someone từ mọi challenge - giống như placing them trong a protective bubble, nhưng bubble này prevents them từ growing và learning
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Excessively protective in a way that limits someone's independence or development"
+**Vietnamese:** Quá bảo vệ một cách làm hạn chế sự độc lập hoặc phát triển của ai đó
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**over-protective** (*/ˌəʊvə prəˈtektɪv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **over-protective** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The teacher's over-protective approach prevented students from developing critical thinking skills.
+> 🇻🇳 **Translation:** Cách tiếp cận quá bao bọc của giáo viên đã ngăn cản sinh viên phát triển kỹ năng tư duy phản biện.
+> 🔍 **Analysis:** 'Over-protective approach' thể hiện methodological protection - adjective này thường criticizes good intentions với negative consequences, đặc biệt trong education và parenting
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **over-protective**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Parenting:** Over-protective parent/mother/father (cha/mẹ/bố quá bao bọc)
+> 2. **Relationships:** Over-protective of/about someone (quá bao bọc ai đó)
+> 3. **Behavior:** Tend to be/become over-protective (có xu hướng trở nên quá bao bọc)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **over-protective**:
+"Her parents worry too much."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Her over-protective parents still check her homework and call her friends' parents to confirm plans."
+> 💡 **Why it works:** 'Over-protective parents' specific và vivid hơn 'worry too much' - cho thấy exact behaviors thể hiện过度保护
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **over-protective** instead of **[[caring]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **over-protective:** Negative connotation, quá mức, gây hại cho development
+> **[[caring]]:** Positive connotation, appropriate level of concern và support
+> 🧱 **The Barrier:** Caring nurtures growth, over-protecting stifles it
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to quit their stable job to pursue their passion. You want to support but you're worried. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'll support your decision, but I promise not to be over-protective by questioning every choice you make."
+> 👨‍🎨 **Director's Note:** 'Not to be over-protective' thể hiện self-awareness về tendency to worry too much, showing trust trong friend's decision-making
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the prefix `over-` and root `protect` to the meaning of **over-protective**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Over-' nghĩa là 'too much' và 'protect' là 'to shield' - over-protective là khi bạn shield someone quá nhiều, như building walls so high around a garden that sunlight can't reach the plants
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **over-protective**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `protego` (I cover, shield) + prefix `over-` (excessive)
+> 👨‍👩‍👧 **Family:**
+> - *(adjective)* protective (bảo vệ), over-protective (quá bảo vệ)
+> - *(verb)* protect (bảo vệ)
+> - *(noun)* protection (sự bảo vệ), over-protection (sự bảo vệ quá mức)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌəʊvə prəˈtektɪv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**over-protective**
+> 📖 **Meaning:** Protecting someone too much, to the point of being harmful
+> 🇻🇳 **Vietnamese:** Bảo vệ ai đó quá nhiều, đến mức gây hại
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **over-protective**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** She acts over protective towards her younger brother.
+> ✅ **Correction:** She acts over-protectively towards her younger brother. / She is over-protective towards her younger brother.
+> 🧠 **Why:** 'Over-protective' là adjective, 'over-protectively' là adverb. Khi modifying verb 'acts', cần adverb form
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **over-protective**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[neglectful]] (bỏ bê, không quan tâm)
+> - [[permissive]] (thả lỏng, quá dung túng)
+> 🧱 **Contrast:** Over-protective provides too much care, neglectful provides too little care, while permissive provides too much freedom without guidance
 
 ---

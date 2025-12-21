@@ -30,16 +30,16 @@ Members of the Trump administration had indicated the deal [[20_Vocabulary/will|
 
 Neither [[20_Vocabulary/social media|TikTok]]'s Chinese owner ByteDance nor Beijing have since announced approval of a sale, [[20_Vocabulary/However|despite]] Trump's [[20_Vocabulary/claim|claims]].
 
-When Trump signed his most recent executive order extending the deadline to January, he said in an online [[20_Vocabulary/parcel|post]] it [[20_Vocabulary/will|would]] lead to a deal [[20_Vocabulary/existence|being]] completed.
+When Trump signed his most recent executive order extending the deadline to January, he said in an online [[20_Vocabulary/parcel|post]] it [[20_Vocabulary/will|would]] [[20_Vocabulary/resulted in|lead to]] a deal [[20_Vocabulary/existence|being]] completed.
 
 [[20_Vocabulary/absence|Without]] naming Trump's hand-selected investors, Mr McCourt told the BBC he was concerned "[[20_Vocabulary/approximately|about]] a [[20_Vocabulary/concentration|concentration]] of power [[20_Vocabulary/In addition|and]] [[20_Vocabulary/impact|influence]] because platforms [[20_Vocabulary/compared to|like]] [[20_Vocabulary/social media|TikTok]] are very influencing".
 
-He is [[20_Vocabulary/parcel|part]] of a group of investors including Reddit co-founder Alexis Ohanian [[20_Vocabulary/In addition|and]] Canadian investor Kevin O'Leary.
+He is [[20_Vocabulary/belong to|part of]] a group of investors including Reddit co-founder Alexis Ohanian [[20_Vocabulary/In addition|and]] Canadian investor Kevin O'Leary.
 
 "My hope [[20_Vocabulary/will|would]] be that whatever happens, that it is shut down or sold, [[20_Vocabulary/In addition|and]] lands in the hands of people that comply with the [[20_Vocabulary/legislation|law]]," he said.
 
-He said he wants to operate [[20_Vocabulary/social media|TikTok]] [[20_Vocabulary/absence|without]] any of its Chinese technology, including its [[20_Vocabulary/effective|powerful]] recommendation algorithm, [[20_Vocabulary/In addition|and]] that his Project Liberty has [[20_Vocabulary/built up|developed]] other technology that could be [[20_Vocabulary/second-hand|used]] instead.
+He said he wants to operate [[20_Vocabulary/social media|TikTok]] [[20_Vocabulary/absence|without]] any of its Chinese technology, including its [[20_Vocabulary/effective|powerful]] recommendation algorithm,[[20_Vocabulary/In addition|and]] that his Project Liberty has [[20_Vocabulary/built up|developed]] other technology that could be [[20_Vocabulary/second-hand|used]] instead.
 
-![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
+![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
 
-A [[20_Vocabulary/biodegradable|green]] promotional banner with black squares [[20_Vocabulary/In addition|and]] rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."
+A [[20_Vocabulary/biodegradable|green]] promotional banner with black squares [[20_Vocabulary/In addition|and]] rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”

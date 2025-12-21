@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [far end, farthest end, farthest point, remote end, distant end, furthest point]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ðə fɑːr end/
+> **Part of Speech:** phrase (noun phrase)
+> **CEFR Level:** B2
+> **Register:** general/neutral
+> **Etymology:** Old English 'feorr' (far) + Old English 'ende' (end)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The most distant or remote point of something
+>
+> **Context Meaning:** The point that is furthest away from the current position or from where someone is; the extreme point of a place or object
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** phía xa nhất, điểm cuối cùng phía xa
+> - **Contextual:** nơi xa xôi nhất, vùng xa tận cùng, điểm cuối phía xa
+>
 > **Nuances:**
-> - ...
+> - Always used with a reference point (from where we are/stand)
+> - Can refer to physical distance or metaphorical distance
+> - Often implies difficulty reaching or accessing that point
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Distant, Remote, Inaccessible
+> **Memory Hook:** Imagine standing at one end of a long bridge - 'the far end' is where you can barely see
+> **📖 Etymology Story:** From Old English 'feorr' (far, distant) combined with 'ende' (boundary, termination), creating a phrase that marks the ultimate boundary of distance from the observer
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** end /end/, distance /ˈdɪstəns/, extremity /ɪkˈstreməti/
+> - **Adj:** far /fɑː/, distant /ˈdɪstənt/, remote /rɪˈməʊt/, furthest /ˈfɜːðɪst/
+> - **Adv:** far /fɑː/, away /əˈweɪ/, remotely /rɪˈməʊtli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[farthest point]] /ˈfɑːðɪst pɔɪnt/ : the most distant location
+> - [[remote area]] /rɪˈməʊt ˈeəriə/ : a place far from civilization
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[near end]] /nɪər end/ : the closest point
+> - [[starting point]] /ˈstɑːtɪŋ pɔɪnt/ : where something begins
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. At the far end
+> 2. From the far end
+> 3. The far end of
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The rescue team had to hike to the far end of the canyon to reach the stranded hikers.
+> - **Translation:** Đội cứu hộ phải đi bộ đến điểm cuối cùng phía xa của hẻm núi để tiếp cận những người đi bộ đường dài bị mắc kẹt.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** From the far end of the beach, we could barely see the lifeguard tower.
+> - **Translation:** Từ phía xa nhất của bãi biển, chúng tôi hầu như không thể nhìn thấy tháp cứu hộ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect omission of 'the'**
+> - ❌ **Mistake:** He lives at far end of street.
+> - ✅ **Correction:** He lives at the far end of the street.
+> - **Why:** 'The far end' is a set phrase that requires the definite article 'the' before 'far end'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The library extends to the far end of the campus, past the science buildings."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **the far end** (*/ðə fɑːr end/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The most distant or remote point of something from the observer's position
+> 🇻🇳 **Vietnamese:** Phía xa nhất, điểm cuối cùng phía xa
+> 🗣️ **IPA:** */ðə fɑːr end/*
+> 🧠 **Mental Model:** Khi bạn đứng ở một đầu của cái gì đó, 'the far end' là điểm ở phía đối diện xa nhất - nơi bạn phải đi hết quãng đường để đến được
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The most distant or remote point from where someone is standing or positioned"
+**Vietnamese:** Phía xa nhất, điểm cuối cùng phía xa
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**the far end** (*/ðə fɑːr end/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **the far end** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The emergency exit is located at the far end of the corridor, beyond the elevators.
+> 🇻🇳 **Translation:** Lối thoát hiểm nằm ở cuối dãy hành lang phía xa, vượt qua thang máy.
+> 🔍 **Analysis:** 'The far end' được dùng để chỉ vị trí xa nhất so với một điểm tham chiếu (ở đây là vị trí của người nói), tạo ra sự đối lập về không gian rõ ràng
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **the far end**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Location:** At the far end (ở phía xa nhất)
+> 2. **Movement:** To the far end (đến phía xa nhất)
+> 3. **Reference:** From the far end (từ phía xa nhất)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **the far end**:
+"He walked to the end of the room."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He walked to the far end of the enormous ballroom, where the orchestra was setting up."
+> 💡 **Why it works:** 'The far end' tạo ra hình ảnh về khoảng cách và sự rộng lớn của phòng khiêu vũ, đồng thời nhấn mạnh sự xa cách giữa hai đầu phòng
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **the far end** instead of **[[the opposite end]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **the far end:** Dùng khi muốn nhấn mạnh khoảng cách và sự xa xôi, thường từ góc nhìn của người nói
+> **[[the opposite end]]:** Dùng khi muốn chỉ đầu đối diện một cách trung tính, không nhất thiết có ý xa xôi
+> 🧱 **The Barrier:** Far end emphasizes distance while opposite end emphasizes position
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're in a huge supermarket looking for the dairy section. An employee points across the store. What do they say?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The dairy section is at the far end of aisle 12, past the frozen foods."
+> 👨‍🎨 **Director's Note:** 'The far end' thể hiện rõ sự rộng lớn của siêu thị và khoảng cách cần di chuyển, giúp định vị dễ dàng hơn
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `feorr` and `ende` to the meaning of **the far end**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English 'feorr' (xa, distant) và 'ende' (điểm kết thúc, biên giới) - khi kết hợp lại thành 'the far end' để chỉ điểm biên giới xa nhất từ vị trí của người quan sát
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **the far end**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** English `far` + `end`
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* far (xa)
+> - *(adj)* distant (xa xôi)
+> - *(adj)* remote (hẻo lánh)
+> - *(adj)* furthest (xa nhất)
+> - *(noun)* distance (khoảng cách)
+> - *(noun)* extremity (cực điểm)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ðə fɑːr end/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**the far end**
+> 📖 **Meaning:** The most distant or remote point from the observer's position
+> 🇻🇳 **Vietnamese:** Phía xa nhất, điểm cuối cùng phía xa
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **the far end**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Please sit at far end of table.
+> ✅ **Correction:** Please sit at the far end of the table.
+> 🧠 **Why:** 'The far end' luôn cần mạo từ 'the' vì nó là một cụm từ cố định chỉ một vị trí cụ thể và duy nhất
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **the far end**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[the near end]] (điểm gần nhất)
+> - [[this end]] (phía này)
+> - [[the starting point]] (điểm khởi đầu)
+> 🧱 **Contrast:** Far end refers to maximum distance while near end refers to minimum distance from observer

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [persuades, persuaded, persuading, convince, influence, sway, coax, urge, induce, win over]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pəˈsweɪd/
+> **Part of Speech:** verb
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** From Latin "persuadere" - "to advise, make agree"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To cause someone to do something through reasoning or argument
+>
+> **Context Meaning:** To convince someone to believe or do something through discussion, argument, or appeal
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thuyết phục, thuyết phục
+> - **Contextual:** làm cho tin, thuyết phục bằng lời lẽ
+>
 > **Nuances:**
-> - ...
+> - Involves communication and reasoning (not force)
+> - Can appeal to emotions, logic, or both
+> - Success depends on the persuader's skill and the listener's openness
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Charming, influential, articulate
+> **Memory Hook:** Per-SUADE - you need to SWEET-talk someone to persuade them!
+> **📖 Etymology Story:** Ancient Roman orators would "persuadere" citizens by speaking "suavely" (smoothly) to win their agreement. The art of persuasion was so valued that it became one of the core subjects of education - teaching people how to move minds without moving mountains.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[persuasion]] /pəˈsweɪʒn/
+> - **Verb:** [[persuade]] /pəˈsweɪd/
+> - **Adj:** [[persuasive]] /pəˈsweɪsɪv/
+> - **Adv:** [[persuasively]] /pəˈsweɪsɪvli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[convince]] /kənˈvɪns/ : to make someone believe firmly
+> - [[influence]] /ˈɪnfluəns/ : to affect someone's character or actions
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[discourage]] /dɪˈskʌrɪdʒ/ : to make someone less confident
+> - [[dissuade]] /dɪˈsweɪd/ : to advise against something
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. persuade someone to do something
+> 2. hard/easy to persuade
+> 3. persuade someone of something
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She tried to persuade her friends to join the charity run.
+> - **Translation:** Cô ấy cố gắng thuyết phục bạn bè tham gia chạy bộ từ thiện.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** He's very stubborn and difficult to persuade.
+> - **Translation:** Anh ấy rất cố chấp và khó thuyết phục.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Structure Pattern**
+> - ❌ **Mistake:** "I persuaded him buying the car"
+> - ✅ **Correction:** "I persuaded him to buy the car"
+> - **Why:** Persuade follows the pattern "persuade someone to do something"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Persuade yourself that you can, and you're halfway there."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **persuade** (*/pəˈsweɪd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** (verb) To cause someone to do or believe something through reasoning, argument, or appealing to their feelings and interests
+> 🇻🇳 **Vietnamese:** (động từ) Khiến ai đó làm hoặc tin điều gì đó thông qua lập luận, tranh cãi hoặc đánh vào tình cảm và lợi ích của họ
+> 🗣️ **IPA:** */pəˈsweɪd/*
+> 🧠 **Mental Model:** Persuade là mental judo - bạn use words và reasoning để move người khác's opinion thay vì force họ, aligning他们的 thoughts với yours.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "to make someone do something by talking to them"
+**Vietnamese:** làm cho ai đó làm gì đó bằng cách nói chuyện với họ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**persuade** (*/pəˈsweɪd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **persuade** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The politician used facts and emotional stories to persuade voters to support her policies.
+> 🇻🇳 **Translation:** Nữ chính trị gia đã sử dụng sự thật và những câu chuyện cảm động để thuyết phục cử tri ủng hộ chính sách của bà.
+> 🔍 **Analysis:** "Persuade" được kết hợp với cả "facts" (logical appeal) và "emotional stories" (emotional appeal) cho thấy comprehensive approach đến persuasion - combining logos và pathos cho maximum effect.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **persuade**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action Pattern:** persuade someone to do something (thuyết phục ai làm gì - most common structure)
+> 2. **Difficulty Level:** hard/easy to persuade (khó/dễ thuyết phục - describing the person)
+> 3. **Belief Pattern:** persuade someone of something (làm ai tin vào điều gì - changing beliefs)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **persuade**:
+"She convinced him to try the new restaurant."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She masterfully persuaded her skeptical friend to sample the restaurant's signature dish by describing its exotic flavors."
+> 💡 **Why it works:** "Masterfully persuaded" shows skill, "skeptical friend" creates obstacle, "sample" và "signature dish" thêm specificity, "exotic flavors" paints vivid picture.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **persuade** instead of **[[convince]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **persuade:** Focus trên getting someone to take action, có thể appeal đến emotion
+> **convince:** Focus trên changing someone's belief or opinion, primarily logical
+> 🧱 **The Barrier:** Persuade là "do it", convince là "believe it" - bạn có thể convince someone it's true but still fail to persuade them to act on it.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your team wants to adopt a new workflow that management might reject. You feel hopeful but strategic. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'll prepare a persuasive presentation highlighting the cost savings and efficiency gains - we need to persuade them this is the future."
+> 👨‍🎨 **Director's Note:** Sử dụng "persuasive presentation" show planned approach, "highlighting" demonstrates method, "this is the future" adds urgency và vision.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `persuadere` to the meaning of **persuade**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "per" (through) + "suadere" (to advise, urge) → literally "to urge through reasoning" → Roman Senate members would persuade through skillful oration → modern meaning: influencing decisions through communication.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **persuade**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `per` + `suadere`
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[persuade]] /pəˈsweɪd/
+> - *(noun)* [[persuasion]] /pəˈsweɪʒn/
+> - *(adj)* [[persuasive]] /pəˈsweɪsɪv/
+> - *(adv)* [[persuasively]] /pəˈsweɪsɪvli/
+> - *(related)* [[dissuade]] /dɪˈsweɪd/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pəˈsweɪd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**persuade**
+> 📖 **Meaning:** To influence someone's actions or beliefs through communication
+> 🇻🇳 **Vietnamese:** Ảnh hưởng đến hành động hoặc niềm tin của ai đó thông qua giao tiếp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **persuade**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The advertisement persuaded me buying the product"
+> ✅ **Correction:** "The advertisement persuaded me to buy the product"
+> 🧠 **Why:** Persuade requires "to + infinitive" when indicating the action being persuaded - it's one of those verbs that needs this structure (like "tell", "ask", "want").
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **persuade**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[dissuade]] (to advise against an action)
+> - [[discourage]] (to make someone less willing)
+> - [[intimidate]] (to force through fear rather than reason)
+> 🧱 **Contrast:** While persuade wins cooperation through appeal and reason, dissuade prevents action through caution and counter-arguments - one opens doors, the other closes them.
 
 ---

@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 #flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [keystone species, cornerstone species, ecosystem engineer, foundation species, critical species, indicator species]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈkiːstəʊn ˈspiːʃiːz/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** academic/scientific
+> **Etymology:** 'Keystone' from architectural term for central wedge stone (Old English 'ā') + 'species' from Latin 'species'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A species on which other species in an ecosystem largely depend
+>
+> **Context Meaning:** An organism that helps define an entire ecosystem; without it, the ecosystem would be dramatically different or cease to exist
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** loài chủ chốt, loài then chốt
+> - **Contextual:** loài nền tảng, loài quyết định hệ sinh thái
+>
 > **Nuances:**
-> - ...
+> - Not necessarily the most abundant species
+> - Disproportionate impact relative to abundance
+> - Removal triggers cascade effect
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Foundational, Critical, Influential
+> **Memory Hook:** Like the keystone in an arch that holds everything together - remove it and the whole structure collapses
+> **📖 Etymology Story:** Từ 'keystone' (viên đá khóa mái vòm) + 'species' (loài) - loài này giữ toàn bộ hệ sinh thái đứng vững như viên đá khóa giữ mái vòm
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrase:** keystone species /ˈkiːstəʊn ˈspiːʃiːz/
+> - **Related:** ecosystem engineer /ˈiːkəʊsɪstəm ˌendʒɪˈnɪə(r)/
+> - **Related:** foundation species /faʊnˈdeɪʃn ˈspiːʃiːz/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[cornerstone species]] : similar concept
+> - [[critical species]] : species vital to ecosystem
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[invasive species]] : harmful to ecosystem
+> - [[redundant species]] : can be removed without impact
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Identify/protect a keystone species
+> 2. Collapse of keystone species
+> 3. Keystone species concept
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Sea otters are a keystone species in kelp forest ecosystems.
+> - **Translation:** Rái biển là loài chủ chốt trong hệ sinh thái rong biển tảo bẹ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The disappearance of bees would be catastrophic as they're a keystone species for pollination.
+> - **Translation:** Sự biến mất của ong sẽ là thảm họa vì chúng là loài chủ chốt cho thụ phấn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with dominant species**
+> - ❌ **Mistake:** The most numerous animal is always the keystone species.
+> - ✅ **Correction:** A keystone species isn't necessarily the most numerous, just the most important.
+> - **Why:** Keystone species are defined by impact, not abundance
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Scientists are studying how the loss of this keystone species might affect the entire food web."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a keystone species** (*/ə ˈkiːstəʊn ˈspiːʃiːz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A species that has a disproportionately large effect on its ecosystem relative to its abundance
+> 🇻🇳 **Vietnamese:** Loài chủ chốt, loài then chốt trong hệ sinh thái
+> 🗣️ **IPA:** */ə ˈkiːstəʊn ˈspiːʃiːz/*
+> 🧠 **Mental Model:** Loài này như 'viên đá khóa' của hệ sinh thái - mất nó đi, cả hệ thống sẽ sụp đổ như mái vòm mất viên đá trung tâm
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An organism on which many other species in an ecosystem depend for survival"
+**Vietnamese:** Loài sinh vật mà nhiều loài khác phụ thuộc vào để tồn tại
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a keystone species** (*/ə ˈkiːstəʊn ˈspiːʃiːz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a keystone species** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Wolves were reintroduced to Yellowstone as they are a keystone species that controls deer populations.
+> 🇻🇳 **Translation:** Chó sói được tái giới thiệu ở Yellowstone vì chúng là loài chủ chốt kiểm soát quần thể hươu.
+> 🔍 **Analysis:** 'Keystone species' thể hiện vai trò quyết định của sói - không phải because số lượng nhiều mà vì impact lớn đến toàn ecosystem
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a keystone species**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Identification:** Identify/recognize a keystone species (nhận diện loài chủ chốt)
+> 2. **Action:** Protect/restore/remove a keystone species (bảo vệ/phục hồi/loại bỏ loài chủ chốt)
+> 3. **Impact:** Collapse/disappearance of a keystone species (sự sụp đổ/biến mất của loài chủ chốt)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a keystone species**:
+"This animal is very important."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The sea star is a keystone species whose presence maintains the biodiversity of the entire tidal ecosystem."
+> 💡 **Why it works:** 'Keystone species' thể hiện tầm quan trọng khoa học, mạnh hơn 'very important'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a keystone species** instead of **[[a dominant species]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a keystone species:** Impact lớn không quan tâm đến số lượng
+> **[[a dominant species]]:** Số lượng nhiều nhất trong ecosystem
+> 🧱 **The Barrier:** Keystone is about impact, dominant is about numbers
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why we must save a specific animal that isn't cute or famous. Emphasize its importance!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "It may not be as famous as pandas, but this small insect is a keystone species - without it, our entire forest ecosystem would collapse."
+> 👨‍🎨 **Director's Note:** 'Keystone species' thể hiện tầm quan trọng khoa học, phù hợp với việc vận động bảo vệ động vật
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the architectural concept to ecology.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 'keystone' trong kiến trúc - viên đá giữ mái vòm không sụp đổ. 'Keystone species' giữ toàn bộ ecosystem không sụp đổ như cách viên đá giữ mái vòm
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **a keystone species**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Components:**
+> - 'Keystone' từ 'key' + 'stone' - viên đá khóa
+> - 'Species' từ Latin 'species' - kiểu, loài
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* keystone species (loài chủ chốt)
+> - *(related)* ecosystem engineer (kỹ sư hệ sinh thái)
+> - *(related)* indicator species (loài chỉ thị)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈkiːstəʊn ˈspiːʃiːz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a keystone species**
+> 📖 **Meaning:** A species crucial to ecosystem survival
+> 🇻🇳 **Vietnamese:** Loài chủ chốt, loài then chốt
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a keystone species**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Lions are keystone species because they are the biggest predators
+> ✅ **Correction:** Lions may be keystone species because they control herbivore populations, not because they're big
+> 🧠 **Why:** Keystone status comes from ecological impact, not size or strength
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a keystone species**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[invasive species]] (loài xâm lấn - có hại)
+> - [[redundant species]] (loài dư thừa - không ảnh hưởng khi mất đi)
+> - [[non-native species]] (loài không bản địa)
+> 🧱 **Contrast:** Keystone maintains ecosystem, invasive species destroys it
 
 ---

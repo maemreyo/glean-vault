@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [left behind, leaving behind, leaves behind, leave behind, abandoned, forsaken, forgotten, deserted]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /left bɪˈhaɪnd/
+> **Part of Speech:** phrasal verb (past participle form)
+> **CEFR Level:** B1
+> **Register:** informal/general
+> **Etymology:** Combination of 'left' (past participle of 'leave') and 'behind' (Old English 'be' + 'hindan')
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To fail to take someone or something with you when you go away
+>
+> **Context Meaning:** 1) To abandon or forsake someone/something 2) To be outpaced by others 3) To not progress at the same rate as others
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** để lại, bỏ lại phía sau
+> - **Contextual:** bị bỏ lại, tụt lại phía sau, không theo kịp
+>
 > **Nuances:**
-> - ...
+> - Can be literal (forgot to take something) or figurative (failed to keep up)
+> - Often has negative connotations of abandonment or being outpaced
+> - Common in contexts of progress, competition, and relationships
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Abandoned, Outpaced, Forgotten
+> **Memory Hook:** Imagine being 'left behind' at a train station - everyone moves forward but you stay where you are
+> **📖 Etymology Story:** From ancient military tactics where soldiers would be literally 'left behind' if they couldn't keep pace with the marching army - evolved to mean falling behind in any race or progress
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** leave behind /liːv bɪˈhaɪnd/ (to abandon)
+> - **Past:** left behind /left bɪˈhaɪnd/ (was abandoned)
+> - **Present:** leaves behind /liːvz bɪˈhaɪnd/ (abandons)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[abandon]] /əˈbændən/ : desert completely
+> - [[forsake]] /fɔːˈseɪk/ : give up completely
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[keep up]] /kiːp ʌp/ : maintain pace with
+> - [[bring along]] /brɪŋ əˈlɒŋ/ : take with you
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Get left behind
+> 2. Feeling left behind
+> 3. Leave someone behind
+> 4. Left behind in the dust
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Many older workers feel left behind by rapid technological changes in the workplace.
+> - **Translation:** Nhiều công nhân lớn tuổi cảm thấy bị bỏ lại phía sau bởi những thay đổi công nghệ nhanh chóng tại nơi làm việc.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** I realized I had left my wallet behind when I reached the airport check-in counter.
+> - **Translation:** Tôi nhận ra mình đã quên ví ở lại khi đến quầy làm thủ tục sân bay.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect word order**
+> - ❌ **Mistake:** I behind left my books.
+> - ✅ **Correction:** I left my books behind.
+> - **Why:** In phrasal verbs, the particle 'behind' comes after the object
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "No child should be left behind in our education system."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **left behind** (*/left bɪˈhaɪnd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To be abandoned or outpaced; to fail to keep up with others' progress
+> 🇻🇳 **Vietnamese:** Bị bỏ lại, để lại phía sau, không theo kịp
+> 🗣️ **IPA:** */left bɪˈhaɪnd/*
+> 🧠 **Mental Model:** Khi bạn bị 'left behind', bạn giống như người còn lại sau khi mọi người đã đi xa - cả về mặt vật lý và sự tiến bộ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Failed to keep pace with others; abandoned"
+**Vietnamese:** Không theo kịp, bị bỏ lại phía sau
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**left behind** (*/left bɪˈhaɪnd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **left behind** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Traditional businesses that refused to adapt to digital transformation found themselves left behind in today's competitive market.
+> 🇻🇳 **Translation:** Các doanh nghiệp truyền thống từ chối thích ứng với chuyển đổi số nhận thấy mình bị bỏ lại phía sau trong thị trường cạnh tranh ngày nay.
+> 🔍 **Analysis:** 'Left behind' ở đây thể hiện sự tụt hậu trong cuộc đua kinh doanh - những doanh nghiệp không đổi mới sẽ bị competitors vượt qua
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **left behind**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Emotional:** Feeling left behind (cảm thấy bị bỏ rơi) - emotional isolation
+> 2. **Progress:** Get left behind (bị bỏ lại phía sau) - failure to advance
+> 3. **Physical:** Leave belongings behind (để lại đồ đạc) - forgetting items
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **left behind**:
+"She couldn't match the others' progress."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "As technology accelerated at breakneck speed, she found herself tragically left behind, unable to grasp the digital skills that had become essential in her field."
+> 💡 **Why it works:** 'Left behind' tạo ra hình ảnh mạnh mẽ về sự tụt hậu, giàu cảm xúc hơn là 'couldn't match progress' khô khan
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **left behind** instead of **[[delayed]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **left behind:** Dùng khi bị người khác vượt xa - thể hiện sự chênh lệch lớn, thường mang tính cạnh tranh
+> **[[delayed:** Dùng khi bị chậm trễ về thời gian - có thể do yếu tố khách quan
+> 🧱 **The Barrier:** Left behind là về sự tụt hậu so với người khác, delayed là về sự chậm trễ so với lịch trình
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friends are all getting promotions and higher salaries while you remain in the same position. You feel frustrated. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I feel completely left behind in my career while everyone else is moving up so quickly."
+> 👨‍🎨 **Director's Note:** 'Feel left behind' thể hiện cảm giác tự ti và tụt hậu trong sự nghiệp - một cảm xúc rất phổ biến trong môi trường làm việc cạnh tranh
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `leave` and `behind` to the meaning of **left behind**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Leave' có nghĩa là rời đi, 'behind' có nghĩa là ở phía sau - kết hợp lại tạo ra hình ảnh bị ở lại khi mọi người đã đi xa, giống như binh lính bị bỏ lại sau khi đội quân đã tiến xa
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **left behind**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English 'lǣfan' (to leave) + 'be' + 'hindan' (behind)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* leave (rời đi), leave behind (bỏ lại)
+> - *(noun)* leftover (đồ thừa), leavings (cái còn lại)
+> - *(adj)* left-handed (táy trái), leftfield (không thông thường)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */left bɪˈhaɪnd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**left behind**
+> 📖 **Meaning:** Abandoned or outpaced by others
+> 🇻🇳 **Vietnamese:** Bị bỏ lại phía sau, không theo kịp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **left behind**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The progress left me behind to understand
+> ✅ **Correction:** The progress left me behind / I was left behind by the progress
+> 🧠 **Why:** 'Left behind' có thể là transitive (leave someone behind) hoặc passive (be left behind), nhưng không thể kết hợp cả hai cách
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **left behind**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[kept up]] (theo kịp) - maintained pace
+> - [[brought along]] (đưa theo) - included in progress
+> 🧱 **Contrast:** Left behind means exclusion from progress, while antonyms indicate inclusion and keeping pace with others
 
 ---

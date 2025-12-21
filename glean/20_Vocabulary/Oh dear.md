@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [oh my, oh my god, oh gosh, goodness, gosh, oh no, dear me, alas, unfortunately, sadly]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əʊ dɪə(r)/
+> **Part of Speech:** interjection/exclamation
+> **CEFR Level:** A2
+> **Register:** informal
+> **Etymology:** Oh (interjection from Middle English) + Dear (from Old English 'deore' meaning precious, costly)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An expression of surprise, concern, or disappointment
+>
+> **Context Meaning:** Used to show sympathy, worry, or to acknowledge an unfortunate situation
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ôi, ơi, trời ơi
+> - **Contextual:** thật không may, thật đáng tiếc, ôi không
+>
 > **Nuances:**
-> - ...
+> - Polite and mild expression of disappointment or sympathy
+> - Less dramatic than "Oh my God"
+> - Often used when hearing bad news
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Empathetic, Gentle, Concerned
+> **Memory Hook:** Think of saying "Oh, my dear person" when someone tells you something unfortunate
+> **📖 Etymology Story:** From 'deore' meaning 'precious' - when we say "Oh dear," we're acknowledging that something valuable or important has been affected
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Interjection:** Oh dear /əʊ dɪə(r)/
+> - **Related:** dear /dɪə(r)/ (adj), dearly /ˈdɪəli/ (adv)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[oh no]] /əʊ nəʊ/ : stronger expression of disappointment
+> - [[alas]] /əˈlæs/ : more formal expression of sadness
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[oh good]] /əʊ ɡʊd/ : expression of relief
+> - [[thank goodness]] /θæŋk ˈɡʊdnəs/ : expression of relief
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Oh dear, I'm afraid...
+> 2. Oh dear, what a shame
+> 3. Oh dear me
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Oh dear, I completely forgot about our meeting this afternoon.
+> - **Translation:** Ôi, tôi hoàn toàn quên mất cuộc họp của chúng ta buổi chiều nay.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Oh dear, that's not the result we were hoping for.
+> - **Translation:** Thật không may, đó không phải là kết quả mà chúng ta mong đợi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Inappropriate formality**
+> - ❌ **Mistake:** Oh dear, the financial report shows catastrophic losses. (too mild for serious situation)
+> - ✅ **Correction:** This is deeply concerning - the financial report shows catastrophic losses.
+> - **Why:** "Oh dear" is too mild and informal for serious business problems
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Oh dear, I seem to have misplaced my glasses again."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **Oh dear** (*/əʊ dɪə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An expression used to show surprise, sympathy, or mild disappointment
+> 🇻🇳 **Vietnamese:** Một cách diễn đạt thể hiện sự ngạc nhiên, đồng cảm hoặc thất vọng nhẹ
+> 🗣️ **IPA:** */əʊ dɪə(r)/*
+> 🧠 **Mental Model:** Khi bạn hear bad news, polite reaction là "Oh dear" - như một soft cushion cho disappointing situations
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An expression of sympathy or mild disappointment"
+**Vietnamese:** Cụm từ diễn đạt sự đồng cảm hoặc thất vọng nhẹ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**Oh dear** (*/əʊ dɪə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **Oh dear** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Oh dear, I've spilled coffee all over your important documents.
+> 🇻🇳 **Translation:** Ôi không, tôi đã làm đổ cà phê lên tất cả các tài liệu quan trọng của bạn.
+> 🔍 **Analysis:** 'Oh dear' thể hiện sự regret nhẹ nhàng, lịch sự - interjection này vừa acknowledge the mistake mà không quá dramatic, phù hợp với social situations
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **Oh dear**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Followed by bad news:** Oh dear, I'm afraid... (Ôi, tôi sợ là...)
+> 2. **Expressing sympathy:** Oh dear, what a pity/shame (Thật đáng tiếc)
+> 3. **Self-criticism:** Oh dear, that was careless of me (Ôi, tôi đã quá bất cẩn)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **Oh dear**:
+"That's too bad."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Oh dear, that's not the outcome we were working toward."
+> 💡 **Why it works:** 'Oh dear, that's not the outcome' thể hiện sự disappointment một cách professional và diplomatic hơn 'that's too bad'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **Oh dear** instead of **[[that sucks]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **Oh dear:** Dùng trong polite/formal contexts, thể hiện sympathy một cách nhẹ nhàng, lịch sự
+> **[[that sucks]]:** Dùng trong informal contexts, mạnh và trực tiếp hơn
+> 🧱 **The Barrier:** Oh dear is polite and mild, that sucks is informal and blunt
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague tells you their presentation file got corrupted 10 minutes before the meeting. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Oh dear, let me help you recreate the key points quickly."
+> 👨‍🎨 **Director's Note:** 'Oh dear' thể hiện sympathy ngay lập tức, sau đó transition đến solution - shows empathy and problem-solving attitude
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `deore` to the meaning of **Oh dear**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English 'deore' có nghĩa là 'precious, valuable' - khi ta nói "Oh dear," ta đang acknowledge rằng something valuable đã bị mất hoặc something unfortunate đã xảy ra với something/someone quý giá
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **Oh dear**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `deore` (precious, costly)
+> 👨‍👩‍👧 **Family:**
+> - *(interjection)* Oh dear (ôi, trời ơi)
+> - *(adjective)* dear (thân yêu, đắt tiền)
+> - *(adverb)* dearly (một cách thân thương, đắt giá)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əʊ dɪə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**Oh dear**
+> 📖 **Meaning:** An expression of surprise, sympathy or disappointment
+> 🇻🇳 **Vietnamese:** Một cách diễn đạt sự ngạc nhiên, đồng cảm hoặc thất vọng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **Oh dear**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Oh dear, I won the lottery! (using for good news)
+> ✅ **Correction:** Oh wonderful! I won the lottery!
+> 🧠 **Why:** Oh dear chỉ dùng cho bad or disappointing news, không dùng cho good news
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **Oh dear**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[oh good]] (tuyệt vời)
+> - [[thank goodness]] (may quá, cảm ơn trời)
+> 🧱 **Contrast:** Oh dear expresses disappointment while antonyms express relief or good fortune
 
 ---

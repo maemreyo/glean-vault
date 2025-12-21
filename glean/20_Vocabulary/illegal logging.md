@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
 #flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [unauthorized tree cutting, illegal timber harvesting, forest crime, timber poaching, unlawful deforestation]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪˈliːɡl ˈlɒɡɪŋ/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** C1
+> **Register:** Formal/Academic
+> **Etymology:** Latin 'illegalis' (unlawful) + Old Norse 'lag' (felled tree) + Old English '-ing' (suffix)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Against the law cutting of trees
+>
+> **Context Meaning:** The unlawful harvest, transportation, purchase, or sale of timber in violation of national laws or international agreements, often occurring in protected forest areas
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Khai thác gỗ bất hợp pháp, đốn gỗ trái phép
+> - **Contextual:** Nạn phá rừng trái pháp luật, khai thác lâm sản bất hợp pháp
+>
 > **Nuances:**
-> - ...
+> - Major contributor to deforestation and habitat loss
+> - Often involves organized criminal networks
+> - Links to corruption and weak governance in affected regions
+> - Significant source of funding for conflicts in some areas
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Destructive, Criminal, Unsustainable
+> **Memory Hook:** Think of it as trees being 'logged' (cut down) 'illegally' (against the law) - a crime against nature!
+> **📖 Etymology Story:** 'Illegal' comes from Latin 'illegalis' - not lawful, against the law. 'Logging' originally meant cutting 'lagged' (marked) trees. When combined, they describe the dark business of cutting trees that have been marked for protection, stealing nature's resources while breaking society's rules.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[logging]] /ˈlɒɡɪŋ/, [[legality]] /lɪˈɡæləti/, [[log]] /lɒɡ/
+> - **Adj:** [[illegal]] /ɪˈliːɡl/, [[logged]] /lɒɡd/
+> - **Verb:** [[log]] /lɒɡ/
+> - **Adv:** [[illegally]] /ɪˈliːɡəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[poaching]] /ˈpəʊtʃɪŋ/ : Usually for animals, but can include plants
+> - [[unauthorized harvesting]] /ʌnˈɔːθəraɪzd ˈhɑːrvɪstɪŋ/ : More general term
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[sustainable forestry]] /səˈsteɪnəbl ˈfɒrɪstri/ : Environmentally responsible tree management
+> - [[legal logging]] /ˈliːɡl ˈlɒɡɪŋ/ : Lawful timber harvesting
+> - [[forest conservation]] /ˈfɒrɪst ˌkɒnsəˈveɪʃn/ : Protecting forests
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. combat illegal logging
+> 2. illegal logging activities
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The government implemented satellite monitoring to detect illegal logging activities in national parks.
+> - **Translation:** Chính phủ đã triển khai giám sát vệ tinh để phát hiện các hoạt động khai thác gỗ bất hợp pháp trong các công viên quốc gia.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Illegal logging threatens the habitat of countless species and contributes to climate change.
+> - **Translation:** Việc khai thác gỗ bất hợp pháp đe dọa môi trường sống của vô số loài và góp phần vào biến đổi khí hậu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Hyphenation**
+> - ❌ **Mistake:** The illegal-logging problem requires urgent attention.
+> - ✅ **Correction:** The illegal logging problem requires urgent attention.
+> - **Why:** When 'illegal' modifies 'logging', they form a compound adjective without a hyphen unless used before a noun as a single adjective.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Illegal logging is not just about stealing trees; it's about stealing the future from our children and the planet from all of us."
+> **Source:** [[Environmental Protection Agency]]
 
 ---
 
@@ -161,121 +82,126 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **illegal logging** (*/ɪˈliːɡl ˈlɒɡɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The unlawful harvest, transportation, purchase, or sale of timber in violation of national laws or international agreements
+> 🇻🇳 **Vietnamese:** Khai thác gỗ bất hợp pháp, đốn gỗ trái phép
+> 🗣️ **IPA:** */ɪˈliːɡl ˈlɒɡɪŋ/*
+> 🧠 **Mental Model:** Hành động tội phạm (criminal activity) - như việc trộm cắp tài sản thiên nhiên, vi phạm cả luật pháp và đạo đức
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The unlawful harvest, transportation, purchase, or sale of timber in violation of national laws or international agreements"
+**Vietnamese:** Khai thác gỗ bất hợp pháp, đốn gỗ trái phép
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**illegal logging** (*/ɪˈliːɡl ˈlɒɡɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **illegal logging** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The international community condemned the illegal logging operations that were destroying acres of pristine rainforest daily.
+> 🇻🇳 **Translation:** Cộng đồng quốc tế lên án các hoạt động khai thác gỗ bất hợp pháp đang hủy hoang hàng acres rừng nhiệt đới nguyên sinh mỗi ngày.
+> 🔍 **Analysis:** 'Illegal logging' hoàn hảo ở đây vì nó không chỉ mô tả hành động đốn cây mà còn nhấn mạnh tính chất tội phạm, có tổ chức và tầm quốc tế của vấn đề, thể hiện sự nghiêm trọng và cần hành động quyết liệt.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **illegal logging**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** combat/prevent illegal logging (chống ngăn/phòng ngừa khai thác gỗ bất hợp pháp) (<VN note vì đây là các biện pháp đối phó>)
+> 2. **Description:** rampant illegal logging (khai thác gỗ bất hợp pháp tràn lan) (<VN note để nhấn mạnh mức độ nghiêm trọng>)
+> 3. **Impact:** illegal logging threatens (khai thác gỗ bất hợp pháp đe dọa) (<VN note để chỉ hậu quả>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **illegal logging**:
+"People are cutting down protected trees."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Organized crime syndicates profit from illegal logging in protected rainforests, supplying the international timber market."
+> 💡 **Why it works:** Cụm từ này nâng cấp câu bằng cách thể hiện tính chất có tổ chức, phi pháp và quy mô quốc tế của vấn đề, thay vì chỉ nói chung chung "cutting down trees".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **illegal logging** instead of **deforestation**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **illegal logging:** Specific unlawful activity; criminal act; breaks specific laws; often commercial
+> **deforestation:** General removal of forests; may be legal or illegal; broader term
+> 🧱 **The Barrier:** 'illegal logging' = unlawful criminal act; 'deforestation' = general forest removal (may be legal)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're discussing forest conservation at a community meeting. You feel concerned about enforcement. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We need stricter penalties for illegal logging - without real consequences, these criminal activities will continue to destroy our forests!"
+> 👨‍🎨 **Director's Note:** Perfect concerned citizen advocating for stronger legal protection of forests
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `illegal` + `logging` to the meaning of **illegal logging**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Illegal' comes from 'not lawful' - against society's rules. 'Logging' began with cutting marked trees. When combined, they describe the dark business of cutting trees marked for protection - stealing nature while breaking human laws.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **illegal logging**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `illegalis` (unlawful) + Old Norse `lag` (felled tree)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[logging]] /ˈlɒɡɪŋ/ (sự khai thác gỗ)
+> - *(noun)* [[legality]] /lɪˈɡæləti/ (tính hợp pháp)
+> - *(noun)* [[log]] /lɒɡ/ (khúc gỗ)
+> - *(adj)* [[legal]] /ˈliːɡl/ (hợp pháp)
+> - *(verb)* [[log]] /lɒɡ/ (khai thác gỗ, ghi chép)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪˈliːɡl ˈlɒɡɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**illegal logging**
+> 📖 **Meaning:** The unlawful harvest, transportation, purchase, or sale of timber in violation of national laws or international agreements
+> 🇻🇳 **Vietnamese:** Khai thác gỗ bất hợp pháp, đốn gỗ trái phép
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **illegal logging**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The illegal loggers are destroying the forest.
+> ✅ **Correction:** People engaged in illegal logging are destroying the forest.
+> 🧠 **Why:** While 'illegal loggers' is technically correct, the more formal and precise term is 'people engaged in illegal logging' when discussing this criminal activity in formal contexts
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **illegal logging**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[sustainable forestry]] (<Environmentally responsible tree management>)
+> - [[legal timber harvesting]] (<Lawful cutting of trees>)
+> - [[forest conservation]] (<Protecting forests>)
+> - [[reforestation]] (<Replanting forests>)
+> 🧱 **Contrast:** While 'illegal logging' destroys forests unlawfully, 'sustainable forestry' manages forests responsibly to ensure their long-term health and continued productivity.
 
 ---

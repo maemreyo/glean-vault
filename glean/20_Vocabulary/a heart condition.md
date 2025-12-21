@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [heart condition, heart disease, cardiac condition, cardiovascular disease, heart problem, heart disorder, heart ailment, cardiac disease]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə hɑːt kənˈdɪʃn/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** medical/formal
+> **Etymology:** Heart (Old English 'heorte') + Condition (Latin 'conditio' - state of being)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A medical problem affecting the heart
+>
+> **Context Meaning:** Any disease or disorder that affects the heart's structure or function
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một bệnh về tim, một căn bệnh tim
+> - **Contextual:** bệnh tim mạch, chứng bệnh tim, tình trạng bệnh lý về tim
+>
 > **Nuances:**
-> - ...
+> - Formal medical terminology used by healthcare professionals
+> - Can range from mild to life-threatening conditions
+> - Often requires ongoing medical management
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Serious, Medical, Vital
+> **Memory Hook:** Think of your heart's 'condition' - its state of health, like weather conditions affecting your day
+> **📖 Etymology Story:** Từ 'condition' nghĩa là 'state of being' - heart condition là the current state của someone's heart health, có thể tốt hoặc cần medical attention
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** condition /kənˈdɪʃn/, heart /hɑːt/
+> - **Adj:** cardiac /ˈkɑːdiæk/, cardiovascular /ˌkɑːdiəʊˈvæskjələ(r)/
+> - **Adv:** conditionally /kənˈdɪʃənəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[heart disease]] /hɑːt dɪˈziːz/ : more general term for heart problems
+> - [[cardiovascular disease]] /ˌkɑːdiəʊˈvæskjələ dɪˈziːz/ : diseases involving heart and blood vessels
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[healthy heart]] /ˈhelθi hɑːt/ : a heart functioning normally
+> - [[cardiac fitness]] /ˈkɑːdiæk ˈfɪtnəs/ : good heart health condition
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Diagnosed with a heart condition
+> 2. Manage a heart condition
+> 3. Serious heart condition
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The athlete retired early after being diagnosed with a serious heart condition.
+> - **Translation:** Vận động viên đó đã giải nghệ sớm sau khi được chẩn đoán mắc một bệnh tim nghiêm trọng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Regular exercise and a balanced diet can help prevent developing a heart condition.
+> - **Translation:** Tập thể dục đều đặn và chế độ ăn cân bằng có thể giúp ngăn ngừa việc phát triển bệnh tim.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Inappropriate casual usage**
+> - ❌ **Mistake:** I can't go to the party, I have a heart condition. (when just feeling tired)
+> - ✅ **Correction:** I can't go to the party, I'm not feeling well.
+> - **Why:** 'Heart condition' is a serious medical term that should not be used casually for minor complaints
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Patients with a heart condition should avoid strenuous activities without medical supervision."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a heart condition** (*/ə hɑːt kənˈdɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A medical problem or disease affecting the heart's structure or function
+> 🇻🇳 **Vietnamese:** Một vấn đề y khoa hoặc bệnh ảnh hưởng đến cấu trúc hoặc chức năng của tim
+> 🗣️ **IPA:** */ə hɑːt kənˈdɪʃn/*
+> 🧠 **Mental Model:** Heart's 'condition' = state/health status của tim - như medical condition cần doctor's attention và proper management
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A disease or disorder affecting the heart"
+**Vietnamese:** Một căn bệnh hoặc rối loạn ảnh hưởng đến tim
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a heart condition** (*/ə hɑːt kənˈdɪʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a heart condition** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** My grandfather has lived with a heart condition for over twenty years thanks to proper medical care.
+> 🇻🇳 **Translation:** Ông tôi đã sống với bệnh tim hơn hai mươi năm nhờ vào chăm sóc y tế đúng đắn.
+> 🔍 **Analysis:** 'Lived with a heart condition' thể hiện chronic nature - noun phrase này được dùng trong medical context formal, thường đi với verbs như diagnose, manage, treat
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a heart condition**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Medical diagnosis:** Be diagnosed with/suffer from a heart condition (được chẩn đoán/mắc bệnh tim)
+> 2. **Management:** Treat/manage/control a heart condition (điều trị/quản lý/kiểm soát bệnh tim)
+> 3. **Severity:** Serious/mild/congenital heart condition (bệnh tim nghiêm trọng/nhẹ/bẩm sinh)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a heart condition**:
+"He has heart problems."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He was born with a congenital heart condition that requires regular monitoring."
+> 💡 **Why it works:** 'Congenital heart condition' specific và medical hơn 'heart problems' - cho biết rõ nature và seriousness của condition
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a heart condition** instead of **[[heart trouble]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a heart condition:** Medical term, formal, specific diagnosis - dùng trong healthcare settings
+> **[[heart trouble]]:** Informal, vague, general discomfort - dùng trong casual conversation
+> 🧱 **The Barrier:** Heart condition is medically precise, heart trouble is casually vague
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend suggests running a marathon but you have medical restrictions. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'd love to, but I have a heart condition that prevents high-intensity exercise."
+> 👨‍🎨 **Director's Note:** 'Have a heart condition' là cách chính xác và appropriate để explain medical limitation mà không oversharing personal details
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `condition` to the meaning of **a heart condition**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'condition' nghĩa là 'a state of being' - heart condition là the current state hoặc situation của heart health, cần được assessed và managed như bất kỳ condition nào khác
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a heart condition**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `conditio` (state of being), Old English `heorte` (heart)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* condition (tình trạng), heart (trái tim)
+> - *(adjective)* cardiac (thuộc về tim), conditional (có điều kiện)
+> - *(medical term)* cardiovascular (thuộc về tim mạch)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə hɑːt kənˈdɪʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a heart condition**
+> 📖 **Meaning:** A disease or disorder affecting the heart
+> 🇻🇳 **Vietnamese:** Một căn bệnh hoặc rối loạn ảnh hưởng đến tim
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a heart condition**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** My heart condition hurts when I exercise.
+> ✅ **Correction:** My heart hurts when I exercise due to my heart condition. / I have chest pain when I exercise because of my heart condition.
+> 🧠 **Why:** 'Heart condition' là diagnosis, không phải là thing gây pain trực tiếp - cần explain relationship giữa condition và symptoms
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a heart condition**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[healthy heart]] (trái tim khỏe mạnh)
+> - [[cardiovascular health]] (sức khỏe tim mạch)
+> 🧱 **Contrast:** A heart condition indicates disease while antonyms indicate optimal heart function and wellness
 
 ---

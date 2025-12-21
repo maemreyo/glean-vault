@@ -4,7 +4,7 @@ source: "https://www.bbc.com/news/articles/c17p44w87rno"
 author:
   - "[[Chris Baraniuk]]"
 published: 2025-12-16
-[[20_Vocabulary/invent|created]]: 2025-12-16
+[[20_Vocabulary/coined|created]]: 2025-12-16
 description: "Across Europe [[20_Vocabulary/enormous|huge]] heat [[20_Vocabulary/high-heeled shoes|pumps]] are [[20_Vocabulary/existence|being]] installed that can heat tens of thousands of homes."
 tags:
   - "clippings"
@@ -31,7 +31,7 @@ One person well [[20_Vocabulary/awareness|aware]] of the project is Alexandre de
 
 Heat [[20_Vocabulary/high-heeled shoes|pumps]] soak up heat from the air, ground or, in these cases, bodies of water. Refrigerants inside the heat [[20_Vocabulary/high-heeled shoes|pumps]] evaporate when they are warmed [[20_Vocabulary/steadily|even]] slightly.
 
-By compressing the refrigerant, you boost that heat further. This [[20_Vocabulary/identical|same]] process occurs in heat [[20_Vocabulary/high-heeled shoes|pumps]] [[20_Vocabulary/meant|designed]] to supply [[20_Vocabulary/sole|single]] homes, it just happens on a much larger scale in giant heat [[20_Vocabulary/high-heeled shoes|pumps]] that [[20_Vocabulary/serve|serve]] entire [[20_Vocabulary/city dweller|city]] districts.
+By compressing the refrigerant, you [[20_Vocabulary/promote|boost]] that heat further. This [[20_Vocabulary/identical|same]] process occurs in heat [[20_Vocabulary/high-heeled shoes|pumps]] [[20_Vocabulary/meant|designed]] to supply [[20_Vocabulary/sole|single]] homes, it just happens on a much larger scale in giant heat [[20_Vocabulary/high-heeled shoes|pumps]] that [[20_Vocabulary/serve|serve]] entire [[20_Vocabulary/city dweller|city]] districts.
 
 As towns [[20_Vocabulary/In addition|and]] cities [[20_Vocabulary/approximately|around]] the world [[20_Vocabulary/pursue|seek]] to decarbonise, many are deciding to purchase large heat [[20_Vocabulary/high-heeled shoes|pumps]], which can attach to district heating networks.
 
@@ -39,7 +39,7 @@ These networks allow hot water or steam to [[20_Vocabulary/achieve|reach]] multi
 
 "There was a lot of [[20_Vocabulary/press|pressure]] on us to [[20_Vocabulary/affect|change]] the heat generation to new sources, [[20_Vocabulary/particularly|especially]] renewable sources," explains Mr Hack as he discusses the decommissioning of coal-fired units at the Mannheim plant. The site is right by the Rhine, already has a hefty electricity grid [[20_Vocabulary/associate|connection]], [[20_Vocabulary/In addition|and]] is plugged in to the district heating network, [[20_Vocabulary/thereby|so]] [[20_Vocabulary/make sense|it makes sense]] to install the heat [[20_Vocabulary/high-heeled shoes|pumps]] here, he says.
 
-He notes that the technology is [[20_Vocabulary/a possibility|possible]] partly thanks to the availability of very large compressors in the oil [[20_Vocabulary/In addition|and]] [[20_Vocabulary/a fluid|gas]] [[20_Vocabulary/industrial function|industry]] – where they are [[20_Vocabulary/second-hand|used]] to compress [[20_Vocabulary/mass extinction|fossil]] fuels for storage or transportation, for example.
+He notes that the technology is [[20_Vocabulary/a possibility|possible]] partly thanks to the availability of very large compressors in the oil [[20_Vocabulary/In addition|and]] [[20_Vocabulary/a fluid|gas]] [[20_Vocabulary/industrial function|industry]] – where they are [[20_Vocabulary/second-hand|used]] to [[20_Vocabulary/press so hard|compress]] [[20_Vocabulary/mass extinction|fossil]] fuels for storage or transportation, for example.
 
 ![MVV Energie A large stainless steel pipe with four blue valves on the top and a gauge.](https://ichef.bbci.co.uk/news/240/cpsprodpb/520a/live/2a579f60-c526-11f0-bf7b-db7c049674ab.jpg.webp)
 
@@ -57,9 +57,9 @@ Everllence is currently [[20_Vocabulary/workshop|working]] on a project in Aalbo
 
 Those 44MW machines are actually the [[20_Vocabulary/identical|same]] ones [[20_Vocabulary/second-hand|used]] in a previous project, now fully operational, to the south of Aalborg in Esbjerg. There, they don't run at maximum capacity [[20_Vocabulary/However|but]] rather supply 35MW each.
 
-Large hot water storage tanks, each [[20_Vocabulary/capable|able]] to [[20_Vocabulary/hold|hold]] 200,000 cubic metres of [[20_Vocabulary/a fluid|liquid]], [[20_Vocabulary/will|will]] give the system added flexibility, adds Mr de Rougemont: "When the electricity [[20_Vocabulary/worth|price]] is high, you stop your heat pump [[20_Vocabulary/In addition|and]] [[20_Vocabulary/sole|only]] provide heat from the storage."
+Large hot water storage tanks, each [[20_Vocabulary/capable|able]] to [[20_Vocabulary/hold|hold]] 200,000 cubic metres of [[20_Vocabulary/a fluid|liquid]], [[20_Vocabulary/will|will]] give the system added flexibility, adds Mr de Rougemont: "When the electricity [[20_Vocabulary/worth|price]] is high, you [[20_Vocabulary/prevent|stop]] your heat pump [[20_Vocabulary/In addition|and]] [[20_Vocabulary/sole|only]] provide heat from the storage."
 
-Veronika Wilk at the Austrian [[20_Vocabulary/establish|Institute]] of Technology says, "Heat [[20_Vocabulary/high-heeled shoes|pumps]] [[20_Vocabulary/In addition|and]] district heating systems are a great fit." Such systems can harvest heat from bodies of water or [[20_Vocabulary/steadily|even]] [[20_Vocabulary/sewage|wastewater]] from [[20_Vocabulary/sewage|sewage]] [[20_Vocabulary/treatment|treatment]] plants.
+Veronika Wilk at the Austrian [[20_Vocabulary/establish|Institute]] of Technology says, "Heat [[20_Vocabulary/high-heeled shoes|pumps]] [[20_Vocabulary/In addition|and]] district heating systems are a great fit." Such systems can harvest heat from bodies of water or [[20_Vocabulary/steadily|even]] [[20_Vocabulary/sewage|wastewater]] from [[20_Vocabulary/sewage|sewage treatment]] plants.
 
 Dr Wilk notes that, when you use multiple large heat [[20_Vocabulary/high-heeled shoes|pumps]] on a district heating network, you [[20_Vocabulary/obtain|gain]] flexibility [[20_Vocabulary/In addition|and]] efficiency. You could run two [[20_Vocabulary/beyond|out of]] four heat [[20_Vocabulary/high-heeled shoes|pumps]] in the autumn, say, when less heat is required than during the depths of winter.
 
@@ -81,6 +81,6 @@ There are no heat [[20_Vocabulary/high-heeled shoes|pumps]] in the UK that rival
 
 The minimum [[20_Vocabulary/meant|planned]] capacity of the network is 12MW. It [[20_Vocabulary/will|will]] [[20_Vocabulary/physical trait|feature]] three 4MW air-to-water heat [[20_Vocabulary/high-heeled shoes|pumps]], with the first unit due to become operational in 2028.
 
-Keith [[20_Vocabulary/apron|Baker]] at Glasgow Caledonian University, who researches district heating systems, says the UK has [[20_Vocabulary/opportunity|opportunities]] to make more of this technology. Water in disused mines, which maintains a [[20_Vocabulary/relatively|relatively]] [[20_Vocabulary/steadily|stable]] temperature, [is beginning to supply](https://www.bbc.co.uk/news/articles/c2lk1y582r0o) larger heat [[20_Vocabulary/high-heeled shoes|pumps]] here, for example.
+Keith [[20_Vocabulary/apron|Baker]] at Glasgow Caledonian University, who researches district heating systems, says the UK has [[20_Vocabulary/opportunity|opportunities]] to make more of this technology. Water in disused [[20_Vocabulary/mining|mines]], which maintains a [[20_Vocabulary/relatively|relatively]] [[20_Vocabulary/steadily|stable]] temperature, [is beginning to supply](https://www.bbc.co.uk/news/articles/c2lk1y582r0o) larger heat [[20_Vocabulary/high-heeled shoes|pumps]] here, for example.
 
 [[20_Vocabulary/parcel|Post]]-[[20_Vocabulary/industrial function|industrial]] [[20_Vocabulary/In addition|and]] rural areas where there is adequate space to install heat [[20_Vocabulary/high-heeled shoes|pumps]] [[20_Vocabulary/In addition|and]] heat storage tanks are "the sweet spots", he says.

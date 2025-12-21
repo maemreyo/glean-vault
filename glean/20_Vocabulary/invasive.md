@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 #flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [invasively, invasiveness, invade, invasion, non-native, exotic species, aggressive spread]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪnˈveɪsɪv/
+> **Part of Speech:** adjective
+> **CEFR Level:** C1
+> **Register:** scientific/academic/formal
+> **Etymology:** Latin 'invasivus' from 'invidere' (to invade, to enter)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Tending to invade; spreading quickly and aggressively
+>
+> **Context Meaning:** Spreading rapidly in an environment and causing damage, especially referring to non-native species that harm native ecosystems; also used in medical contexts for procedures that break the skin
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** xâm lấn, xâm nhập
+> - **Contextual:** có khả năng xâm lấn, lan rộng nhanh, gây hại, ngoại lai xâm hại
+>
 > **Nuances:**
-> - ...
+> - Strongly negative connotation in ecological contexts
+> - Implies unwanted and harmful spread
+> - Often used for species, diseases, or medical procedures
+> - Suggests aggressive expansion that's hard to control
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Aggressive, Overwhelming, Unwanted
+> **Memory Hook:** Think of 'invasive' weeds that invade a garden like an army, taking over everything
+> **📖 Etymology Story:** From Latin 'invasivus' - describing something that 'invades' or enters where it's not wanted, like species that invade new territories and disrupt native ecosystems
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** invasion /ɪnˈveɪʒn/, invasiveness /ɪnˈveɪsɪvnəs/
+> - **Verb:** invade /ɪnˈveɪd/
+> - **Adj:** invasive /ɪnˈveɪsɪv/
+> - **Adv:** invasively /ɪnˈveɪsɪvli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[aggressive]] /əˈɡresɪv/ : forceful and spreading rapidly
+> - [[encroaching]] /ɪnˈkrəʊtʃɪŋ/ : gradually taking over territory
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[native]] /ˈneɪtɪv/ : belonging naturally to a place
+> - [[indigenous]] /ɪnˈdɪdʒənəs/ : originating naturally in an area
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Invasive species
+> 2. Invasive surgery
+> 3. Invasive plants
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Kudzu vine is an invasive species that has destroyed millions of acres of forest in the southeastern United States.
+> - **Translation:** Cây nho Kudzu là một loài xâm lấn đã phá hủy hàng triệu mẫu rừng ở miền đông nam Hoa Kỳ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The doctor recommended non-invasive treatment options before considering surgery.
+> - **Translation:** Bác sĩ đã đề xuất các phương pháp điều trị không xâm lấn trước khi cân nhắc phẫu thuật.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with 'invaded'**
+> - ❌ **Mistake:** The garden was invasive by weeds.
+> - ✅ **Correction:** The garden was invaded by weeds. / Invasive weeds took over the garden.
+> - **Why:** 'Invasive' describes the species/characteristic, not the action of being invaded
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Invasive species pose one of the greatest threats to biodiversity worldwide."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **invasive** (*/ɪnˈveɪsɪv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Spreading quickly and aggressively in an environment and causing damage; entering where not wanted
+> 🇻🇳 **Vietnamese:** Xâm lấn, xâm nhập, lan rộng nhanh gây hại
+> 🗣️ **IPA:** */ɪnˈveɪsɪv/*
+> 🧠 **Mental Model:** Khi một cái gì đó 'invasive', nó xâm chiếm không gian của người khác như quân đội - lan rộng nhanh, khó kiểm soát và gây hại
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Tending to spread rapidly and cause damage, especially referring to non-native species in an ecosystem"
+**Vietnamese:** Có khả năng xâm lấn, lan rộng nhanh gây hại
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**invasive** (*/ɪnˈveɪsɪv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **invasive** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The national park is struggling to control invasive bamboo species that threaten native plant diversity.
+> 🇻🇳 **Translation:** Vườn quốc gia đang vật lộn để kiểm soát các loài tre xâm lấn đe dọa sự đa dạng của thực vật bản địa.
+> 🔍 **Analysis:** 'Invasive' mô tả đặc tính của loài tre - lan rộng nhanh, cạnh tranh và gây hại cho hệ sinh thái bản địa, nhấn mạnh tính phá hoại của nó
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **invasive**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Ecological:** Invasive species (loài xâm lấn)
+> 2. **Medical:** Invasive procedure/surgery (phẫu thuật/thủ thuật xâm lấn)
+> 3. **Plants:** Invasive plants/weds (cây dại xâm lấn)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **invasive**:
+"Foreign plants are spreading everywhere."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Invasive plant species are rapidly colonizing wetlands, displacing native flora and disrupting delicate ecosystems."
+> 💡 **Why it works:** 'Invasive' tạo ra hình ảnh về sự xâm lấn có chủ đích và gây hại, mạnh hơn 'foreign' vì nó nhấn mạnh tác động tiêu cực và sự lan rộng không kiểm soát
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **invasive** instead of **[[foreign]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **invasive:** Dùng khi muốn nhấn mạnh sự lan rộng nhanh và gây hại của loài ngoại lai
+> **[[foreign]]:** Chỉ đơn thuần có nguồn gốc từ nước khác, không nhất thiết gây hại
+> 🧱 **The Barrier:** Invasive implies harm and aggression while foreign only indicates origin
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a park ranger explaining to tourists why they shouldn't transport firewood. What do you warn about?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Moving firewood can spread invasive insects that destroy entire forests."
+> 👨‍🎨 **Director's Note:** 'Invasive' thể hiện rõ mối đe dọa của côn trùng ngoại lai, nhấn mạnh khả năng phá hoại hệ sinh thái rừng
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `invasivus` to the meaning of **invasive**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'invasivus' (từ in- vào + vadere đi) - mô tả những thứ xâm nhập vào nơi chúng không thuộc về và gây ảnh hưởng tiêu cực, như quân đội xâm chiếm lãnh thổ
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **invasive**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `invidere` (to invade, enter)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* invade (xâm lấn)
+> - *(noun)* invasion (cuộc xâm lấn)
+> - *(adj)* invasive (có tính xâm lấn)
+> - *(noun)* invasiveness (tính xâm lấn)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪnˈveɪsɪv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**invasive**
+> 📖 **Meaning:** Spreading quickly and aggressively in an environment and causing damage; entering where not wanted
+> 🇻🇳 **Vietnamese:** Xâm lấn, xâm nhập, lan rộng nhanh gây hại
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **invasive**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The garden was invasive by weeds that grew too fast.
+> ✅ **Correction:** The garden was overrun by invasive weeds that grew too fast.
+> 🧠 **Why:** 'Invasive' là tính từ mô tả đặc tính của loài cây, không phải trạng thái bị xâm lấn của khu vườn
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **invasive**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[native]] (bản địa)
+> - [[indigenous]] (địa phương)
+> - [[endemic]] (đặc hữu)
+> 🧱 **Contrast:** Invasive species are foreign and harmful while native/indigenous species belong naturally to the ecosystem

@@ -419,32 +419,80 @@ def restore_session(session_prefix):
             
     print(f"Restoration complete. {success_count}/{len(entries)} files restored.")
 
-def restore_to_original(filepath):
+def restore_to_original(path):
+    """
+    Restore a file or all files in a folder to their oldest backup version.
+    """
     inventory = load_inventory()
-    abs_target = os.path.abspath(filepath)
+    abs_path = os.path.abspath(path)
     
-    # Filter entries for this file
-    entries = [item for item in inventory if item.get("original_path") == abs_target]
-    
-    if not entries:
-        print(f"Error: No backup history found for '{os.path.basename(filepath)}'.")
-        return
-    
-    # Sort by timestamp ascending to find the oldest (original) one
-    entries.sort(key=lambda x: x["timestamp"])
-    oldest_entry = entries[0]
-    
-    backup_path = oldest_entry["backup_path"]
-    if not os.path.exists(backup_path):
-        print(f"Error: The oldest backup file is missing at {backup_path}")
-        return
+    # Check if path is a directory
+    if os.path.isdir(abs_path):
+        print(f"Restoring all files in folder: {abs_path}")
         
-    print(f"Restoring '{os.path.basename(filepath)}' to its OLDEST version ({oldest_entry['timestamp']})...")
-    try:
-        shutil.copy2(backup_path, abs_target)
-        print("Restore successful.")
-    except Exception as e:
-        print(f"Error restoring file: {e}")
+        # Collect all unique original paths within this directory
+        files_to_restore = []
+        for item in inventory:
+            orig_path = item.get("original_path")
+            if orig_path and orig_path.startswith(abs_path):
+                files_to_restore.append(orig_path)
+        
+        # Remove duplicates
+        files_to_restore = list(set(files_to_restore))
+        
+        if not files_to_restore:
+            print(f"Error: No backup history found for any files in '{path}'.")
+            return
+        
+        print(f"Found {len(files_to_restore)} file(s) with backup history.")
+        success_count = 0
+        
+        for file_path in sorted(files_to_restore):
+            # Find oldest backup for this file
+            entries = [item for item in inventory if item.get("original_path") == file_path]
+            if not entries:
+                continue
+                
+            entries.sort(key=lambda x: x["timestamp"])
+            oldest_entry = entries[0]
+            backup_path = oldest_entry["backup_path"]
+            
+            if not os.path.exists(backup_path):
+                print(f"  ⚠️  Skipping '{os.path.basename(file_path)}': backup missing")
+                continue
+            
+            print(f"  ✅ Restoring '{os.path.basename(file_path)}' (from {oldest_entry['timestamp']})")
+            try:
+                shutil.copy2(backup_path, file_path)
+                success_count += 1
+            except Exception as e:
+                print(f"  ❌ Error restoring '{os.path.basename(file_path)}': {e}")
+        
+        print(f"\nRestored {success_count}/{len(files_to_restore)} files successfully.")
+        
+    else:
+        # Single file restore (original behavior)
+        entries = [item for item in inventory if item.get("original_path") == abs_path]
+        
+        if not entries:
+            print(f"Error: No backup history found for '{os.path.basename(path)}'.")
+            return
+        
+        # Sort by timestamp ascending to find the oldest (original) one
+        entries.sort(key=lambda x: x["timestamp"])
+        oldest_entry = entries[0]
+        
+        backup_path = oldest_entry["backup_path"]
+        if not os.path.exists(backup_path):
+            print(f"Error: The oldest backup file is missing at {backup_path}")
+            return
+            
+        print(f"Restoring '{os.path.basename(path)}' to its OLDEST version ({oldest_entry['timestamp']})...")
+        try:
+            shutil.copy2(backup_path, abs_path)
+            print("Restore successful.")
+        except Exception as e:
+            print(f"Error restoring file: {e}")
 
 def main():
     parser = argparse.ArgumentParser(description="Auto-link vocabulary in articles.")

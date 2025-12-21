@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [decision-making, decision process, making decisions, decision making, decision, choices, judgments, reasoning, problem-solving, critical thinking]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ðə dɪˈsɪʒən meɪkɪŋ ˈprəʊses/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** Decision (Latin 'decidere' - to cut off) + Making (Old English 'macian' - to make) + Process (Latin 'processus' - progression)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The series of steps involved in making a choice or reaching a conclusion
+>
+> **Context Meaning:** The cognitive process of selecting a course of action from among multiple alternatives
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** quá trình ra quyết định, quy trình quyết định
+> - **Contextual:** quá trình đưa ra quyết định, quy trình lựa chọn
+>
 > **Nuances:**
-> - ...
+> - Implies a systematic approach rather than random choice
+> - Often involves weighing options and considering consequences
+> - Can be individual or collective
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Methodical, Deliberate, Analytical
+> **Memory Hook:** Imagine cutting away options (de-cide) like pruning branches to find the best path forward
+> **📖 Etymology Story:** From Latin 'decidere' meaning 'to cut off' - like cutting away impossible choices until only the best decision remains, then 'making' it happen through a structured 'process'
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** decision /dɪˈsɪʒən/, process /ˈprəʊses/
+> - **Verb:** decide /dɪˈsaɪd/, make /meɪk/, process /ˈprəʊses/
+> - **Adj:** decisive /dɪˈsaɪsɪv/, decisional /dɪˈsɪʒənəl/, procedural /prəˈsiːdʒərəl/
+> - **Adv:** decisively /dɪˈsaɪsɪvli/, procedurally /prəˈsiːdʒərəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[reasoning]] /ˈriːzənɪŋ/ : the process of thinking about something in a logical way
+> - [[judgment]] /ˈdʒʌdʒmənt/ : the ability to make considered decisions
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[impulse]] /ˈɪmpʌls/ : a sudden strong desire to do something
+> - [[instinct]] /ˈɪnstɪŋkt/ : natural tendency to behave in a certain way
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Rational decision-making process
+> 2. Involved in the decision-making process
+> 3. Streamline the decision-making process
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company implemented a new decision-making process to improve efficiency and transparency.
+> - **Translation:** Công ty đã triển khai một quy trình ra quyết định mới để cải thiện hiệu quả và tính minh bạch.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Understanding the consumer decision-making process is crucial for effective marketing strategies.
+> - **Translation:** Việc hiểu rõ quá trình ra quyết định của người tiêu dùng là rất quan trọng cho các chiến lược marketing hiệu quả.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect verb form**
+> - ❌ **Mistake:** The decision-making process are complex.
+> - ✅ **Correction:** The decision-making process is complex.
+> - **Why:** The subject is 'process' (singular), not 'decision' or 'making'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The decision-making process should always include gathering relevant data and analyzing potential outcomes."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **the decision-making process** (*/ðə dɪˈsɪʒən meɪkɪŋ ˈprəʊses/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The cognitive process of selecting a course of action from among multiple alternatives
+> 🇻🇳 **Vietnamese:** Quá trình nhận thức để lựa chọn một hành động từ nhiều phương án khác nhau
+> 🗣️ **IPA:** */ðə dɪˈsɪʒən meɪkɪŋ ˈprəʊses/*
+> 🧠 **Mental Model:** Một quy trình có các bước để cut off (loại bỏ) các lựa chọn không tốt và chọn ra best option - như một cái funnel or filter system
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The series of steps involved in choosing between alternatives"
+**Vietnamese:** Quá trình các bước liên quan đến việc lựa chọn giữa các phương án
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**the decision-making process** (*/ðə dɪˈsɪʒən meɪkɪŋ ˈprəʊses/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **the decision-making process** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Our team follows a structured decision-making process that includes brainstorming, evaluating options, and reaching consensus.
+> 🇻🇳 **Translation:** Đội ngũ của chúng tôi tuân theo một quy trình ra quyết định có cấu trúc bao gồm brainstorm, đánh giá các lựa chọn và đạt được sự đồng thuận.
+> 🔍 **Analysis:** 'Structured decision-making process' thể hiện một quy trình có hệ thống, có các bước rõ ràng - noun phrase này thường đi với các verbs như follow, implement, streamline
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **the decision-making process**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality descriptors:** Rational/logical/strategic decision-making process (quy trình ra quyết định hợp lý/llogic/chiến lược)
+> 2. **Action verbs:** Streamline/simplify/improve the decision-making process (đơn giản hóa/cải thiện quy trình ra quyết định)
+> 3. **Stakeholder involvement:** Involve/include stakeholders in the decision-making process (bao gồm các bên liên quan trong quy trình ra quyết định)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **the decision-making process**:
+"We need a better way to choose things."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We need to streamline our decision-making process to reduce delays and improve stakeholder satisfaction."
+> 💡 **Why it works:** 'Streamline our decision-making process' mạnh hơn 'better way to choose' vì nó thể hiện sự cải thiện có hệ thống, chuyên nghiệp và hiệu quả hơn trong việc ra quyết định
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **the decision-making process** instead of **[[choice]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **the decision-making process:** Dùng cho cả quy trình, các bước có hệ thống để đi đến quyết định - academic/business context
+> **[[choice]]:** Chỉ dùng cho hành động lựa chọn cuối cùng, kết quả của quá trình
+> 🧱 **The Barrier:** Decision-making process là journey (quá trình), choice là destination (kết quả)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your team takes weeks to make simple decisions. You're frustrated with the inefficiency. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We need to implement a more efficient decision-making process with clear timelines and accountability."
+> 👨‍🎨 **Director's Note:** 'Implement a more efficient decision-making process' thể hiện sự chuyên nghiệp, giải pháp có hệ thống thay vì chỉ phàn nàn về việc chậm chạp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `decidere` to the meaning of **the decision-making process**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'decidere' có nghĩa là 'cắt off' - trong decision-making process, chúng ta 'cắt away' các options không phù hợp, giống như pruning tree branches để lại only the best path forward
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **the decision-making process**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `decidere` (to cut off), `processus` (progression)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* decision (quyết định), decisive (quyết đoán)
+> - *(noun)* process (quy trình), procedure (thủ tục)
+> - *(verb)* decide (quyết định), process (xử lý)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ðə dɪˈsɪʒən meɪkɪŋ ˈprəʊses/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**the decision-making process**
+> 📖 **Meaning:** The cognitive process of selecting a course of action from alternatives
+> 🇻🇳 **Vietnamese:** Quá trình nhận thức để lựa chọn hành động từ các phương án
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **the decision-making process**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We have good decision-making processes in our company.
+> ✅ **Correction:** We have a good decision-making process in our company. / We have good decision-making processes in our company.
+> 🧠 **Why:** Có thể dùng singular 'a... process' khi nói về one system, hoặc plural 'processes' khi có nhiều different processes cho different situations
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **the decision-making process**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[impulse action]] (hành động bộc phát, không suy nghĩ)
+> - [[spontaneous reaction]] (phản ứng tự nhiên, tức thời)
+> 🧱 **Contrast:** Decision-making process involves deliberate analysis while antonyms involve immediate action without consideration
 
 ---

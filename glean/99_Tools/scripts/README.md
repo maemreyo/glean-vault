@@ -32,6 +32,8 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py [arguments]
 | `--no-dry-run` | Apply changes to the files. **Triggers automatic backup.** |
 | `--list-backups [path]` | List available backups. Optionally filter by original file path. |
 | `--restore <id>` | Restore a specific backup by its ID. |
+| `--restore-all <timestamp>` | Restore all files from a specific session (batch undo). |
+| `--restore-original <path>` | Restore a file or folder to its oldest backup (pre-script state). |
 
 ## Use Cases
 
@@ -79,10 +81,18 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-all 20251219_113004
 ```
 
 ### 7. Restore to Original Version
-If you want to completely reset a file to its state before you ever used this script (the very first backup):
+If you want to completely reset a **file** or **folder** to its state before you ever used this script (the very first backup):
+
+**Restore a single file:**
 ```bash
 python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-original "glean/10_Sources/Articles/MyFile.md"
 ```
+
+**Restore all files in a folder:**
+```bash
+python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-original "glean/10_Sources/Articles"
+```
+This will restore **all files** in the folder (and subfolders) that have backup history to their very first backed-up version.
 
 ## Technical Details
 

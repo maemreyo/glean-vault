@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [degrades, degrading, degraded, degradation, deteriorate, break down, decay, worsen]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dɪˈɡreɪd/
+> **Part of Speech:** verb
+> **CEFR Level:** C1
+> **Register:** formal/academic/technical
+> **Etymology:** Latin 'degradare' from 'de-' (down) + 'gradus' (step, degree)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To break down or deteriorate; to lower in character or quality
+>
+> **Context Meaning:** To gradually get worse or lower in quality, value, or character; to cause something to be less respected or impressive
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** làm suy giảm, làm xấu đi, suy thoái
+> - **Contextual:** làm giảm chất lượng, làm suy yếu, phá hủy, làm mất giá trị
+>
 > **Nuances:**
-> - ...
+> - Often implies a gradual process of deterioration
+> - Can refer to physical breakdown or moral/quality decline
+> - Commonly used in environmental and technical contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Corrosive, Destructive, Declining
+> **Memory Hook:** Imagine something slowly 'stepping down' (de-grade) in quality until it's worthless
+> **📖 Etymology Story:** From Latin 'degradare' - literally 'to step down', like descending a staircase of quality, with each step representing a lower level of value or integrity
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** degradation /ˌdeɡrəˈdeɪʃn/
+> - **Verb:** degrade /dɪˈɡreɪd/
+> - **Adj:** degradable /dɪˈɡreɪdəbl/, degrading /dɪˈɡreɪdɪŋ/
+> - **Adv:** degradably /dɪˈɡreɪdəbli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[deteriorate]] /dɪˈtɪəriəreɪt/ : to become progressively worse
+> - [[corrode]] /kəˈrəʊd/ : to destroy gradually by chemical action
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[improve]] /ɪmˈpruːv/ : to get better
+> - [[enhance]] /ɪnˈhɑːns/ : to increase in quality
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Degrade the environment
+> 2. Degrade in quality
+> 3. Degrade into chaos
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Plastic waste takes hundreds of years to degrade in marine environments.
+> - **Translation:** Rác thải nhựa cần hàng trăm năm để phân hủy trong môi trường biển.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The constant criticism began to degrade his confidence over time.
+> - **Translation:** Sự chỉ trích liên tục bắt đầu làm suy giảm sự tự tin của anh ấy theo thời gian.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect preposition usage**
+> - ❌ **Mistake:** The materials degrade on the sun.
+> - ✅ **Correction:** The materials degrade in the sun.
+> - **Why:** 'Degrade' typically takes 'in' when referring to environmental conditions that cause deterioration
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Pollution can degrade air quality and harm public health."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **degrade** (*/dɪˈɡreɪd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To gradually break down, deteriorate, or lower in quality, value, or character
+> 🇻🇳 **Vietnamese:** Làm suy giảm, làm xấu đi, suy thoái
+> 🗣️ **IPA:** */dɪˈɡreɪd/*
+> 🧠 **Mental Model:** Khi một cái gì đó 'degrade', nó từ từ đi xuống thang chất lượng - từng bước một cho đến khi trở nên tệ hơn, yếu hơn hoặc hư hỏng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To gradually become worse or lower in quality; to cause something to be less respected"
+**Vietnamese:** Làm suy giảm chất lượng, làm mất giá trị
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**degrade** (*/dɪˈɡreɪd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **degrade** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The harsh weather conditions will eventually degrade the ancient monument if not properly protected.
+> 🇻🇳 **Translation:** Điều kiện thời tiết khắc nghiệt cuối cùng sẽ làm suy giảm di tích cổ nếu không được bảo vệ đúng cách.
+> 🔍 **Analysis:** 'Degrade' ở đây thể hiện quá trình hư hại từ từ do tác động của môi trường, nhấn mạnh sự suy giảm chất lượng theo thời gian
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **degrade**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Environmental:** Degrade the environment (phá hoại môi trường)
+> 2. **Quality:** Degrade in quality (suy giảm về chất lượng)
+> 3. **Behavior:** Degrade into + noun (suy thoái thành)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **degrade**:
+"The old building fell apart."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Without proper maintenance, the once-grand hotel began to degrade into a crumbling ruin."
+> 💡 **Why it works:** 'Degrade' tạo ra hình ảnh về quá trình suy thoái từ từ theo thời gian, mạnh hơn 'fell apart' vì nó nhấn mạnh sự mất dần giá trị và sự hư hại có hệ thống
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **degrade** instead of **[[destroy]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **degrade:** Dùng cho quá trình suy giảm từ từ, từng bước, thường mất thời gian
+> **[[destroy]]:** Dùng cho hành động phá hủy ngay lập tức, hoàn toàn
+> 🧱 **The Barrier:** Degrade is gradual deterioration while destroy is immediate elimination
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining to students why recycling is important. How would you warn about plastic?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "When plastic ends up in nature, it takes centuries to degrade, releasing harmful chemicals all the while."
+> 👨‍🎨 **Director's Note:** 'Degrade' thể hiện rõ quá trình phân hủy chậm của nhựa, nhấn mạnh tác động môi trường lâu dài
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `degradare` to the meaning of **degrade**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'degradare' (de- xuống + gradus bước) - tượng trưng cho việc đi xuống từng bậc thang của chất lượng, như một sự suy thoái có hệ thống từng bước một
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **degrade**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `degradare` (to step down, reduce in rank)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* degrade (làm suy giảm)
+> - *(noun)* degradation (sự suy thoái)
+> - *(adj)* degradable (có thể phân hủy)
+> - *(adj)* degrading (khiếm nhã, làm xấu đi)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dɪˈɡreɪd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**degrade**
+> 📖 **Meaning:** To gradually break down or deteriorate in quality, value, or character
+> 🇻🇳 **Vietnamese:** Làm suy giảm, làm xấu đi, suy thoái
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **degrade**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The company's reputation degraded because of their good service.
+> ✅ **Correction:** The company's reputation improved because of their good service.
+> 🧠 **Why:** 'Degrade' mang nghĩa tiêu cực, không thể dùng với ngữ cảnh tích cực như 'good service'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **degrade**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[enhance]] (nâng cao, cải thiện)
+> - [[preserve]] (bảo tồn)
+> - [[strengthen]] (làm mạnh hơn)
+> 🧱 **Contrast:** Degrade lowers quality while enhance/preserve maintains or improves quality

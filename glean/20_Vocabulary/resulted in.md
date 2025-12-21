@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [result in, lead to, cause, bring about, give rise to, produce, cause, create, effect]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈzʌltɪd ɪn/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From Latin 'resultari' (to result) + 'in' (preposition)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To cause something to happen or exist
+>
+> **Context Meaning:** To cause a particular situation or effect; to lead to a certain outcome
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** dẫn đến, gây ra
+> - **Contextual:** kết quả là, hậu quả là
+>
 > **Nuances:**
-> - ...
+> - Used for cause and effect relationships
+> - Often in past tense when describing completed events
+> - More formal than 'caused'
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Consequential, Connected
+> **Memory Hook:** Think of a chain reaction - one action results in another
+> **📖 Etymology Story:** Từ Latin 'resultari' - 'nhảy ra khỏi', kết quả 'nhảy ra khỏi' nguyên nhân - action results IN effect
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrase:** resulted in /rɪˈzʌltɪd ɪn/
+> - **Base:** result /rɪˈzʌlt/
+> - **Related:** resulting from /rɪˈzʌltɪŋ frɒm/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[led to]] : caused to happen
+> - [[brought about]] : caused something to occur
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[prevented]] : stopped from happening
+> - [[avoided]] : kept away from
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Resulted in + noun (e.g., success, failure)
+> 2. Resulted in changes/improvements
+> 3. Negatively/Positively resulted in
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The heavy rains resulted in severe flooding across the region.
+> - **Translation:** Mưa lớn đã dẫn đến lũ lụt nghiêm trọng trên khắp vùng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** His hard work resulted in a well-deserved promotion.
+> - **Translation:** Sự chăm chỉ của anh ấy đã dẫn đến việc thăng chức xứng đáng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Tense confusion**
+> - ❌ **Mistake:** The meeting result in a new decision.
+> - ✅ **Correction:** The meeting resulted in a new decision.
+> - **Why:** Need past tense 'resulted' for completed past events
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The scientific breakthrough resulted in significant advances in medicine."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **resulted in** (*/rɪˈzʌltɪd ɪn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To cause a particular situation or effect to happen
+> 🇻🇳 **Vietnamese:** Dẫn đến, gây ra, kết quả là
+> 🗣️ **IPA:** */rɪˈzʌltɪd ɪn/*
+> 🧠 **Mental Model:** Khi A 'results in' B, A là nguyên nhân và B là kết quả - như domino, cái này đổ dẫn đến cái kia đổ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To cause a particular situation or effect; to lead to a certain outcome"
+**Vietnamese:** Gây ra, dẫn đến kết quả cụ thể
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**resulted in** (*/rɪˈzʌltɪd ɪn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **resulted in** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The company's investment in new technology resulted in increased productivity.
+> 🇻🇳 **Translation:** Đầu tư của công ty vào công nghệ mới đã dẫn đến năng suất tăng cao.
+> 🔍 **Analysis:** 'Resulted in' thể hiện mối quan hệ nhân-quả rõ ràng - investment (nguyên nhân) → increased productivity (kết quả)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **resulted in**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Outcomes:** Resulted in success/failure/change (dẫn đến thành công/thất bại/thay đổi)
+> 2. **Consequences:** Resulted in problems/benefits (gây ra vấn đề/lợi ích)
+> 3. **Action:** Resulted in improvements/increases (dẫn đến cải thiện/tăng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **resulted in**:
+"This caused a problem."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The miscommunication resulted in significant delays to the project timeline."
+> 💡 **Why it works:** 'Resulted in' trang trọng và rõ ràng hơn 'caused', thể hiện mối quan hệ nhân-quả chuyên nghiệp
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **resulted in** instead of **[[caused]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **resulted in:** Trang trọng, nhấn mạnh kết quả cuối cùng
+> **[[caused]]:** Trực tiếp, có thể dùng trong mọi tình huống
+> 🧱 **The Barrier:** Resulted in là formal và tập trung vào outcome, caused là direct và common
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why a project failed. You need to show the chain of events. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The lack of planning resulted in poor coordination, which ultimately resulted in project failure."
+> 👨‍🎨 **Director's Note:** 'Resulted in' thể hiện mối quan hệ nhân-quả rõ ràng, phù hợp với báo cáo chuyên nghiệp
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `resultari` to the meaning.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'resultari' - kết quả 'nhảy ra khỏi' nguyên nhân. Khi một action 'results in' một effect, effect là outcome đã 'nhảy ra' từ action đó
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **resulted in**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `resultari` (to result) from 're-' (back) + 'saltare' (to jump)
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* resulted in (đã dẫn đến)
+> - *(verb)* result (kết quả là)
+> - *(noun)* result (kết quả)
+> - *(adj)* resultant (kết quả từ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈzʌltɪd ɪn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**resulted in**
+> 📖 **Meaning:** To cause a particular situation to happen
+> 🇻🇳 **Vietnamese:** Dẫn đến, gây ra
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **resulted in**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The changes resulted for better performance
+> ✅ **Correction:** The changes resulted in better performance
+> 🧠 **Why:** 'Resulted in' không 'resulted for' - dùng 'in' để chỉ kết quả
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **resulted in**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[prevented]] (ngăn chặn)
+> - [[avoided]] (tránh)
+> - [[stopped]] (đừng lại)
+> 🧱 **Contrast:** Resulted in tạo ra kết quả, antonyms là ngăn không cho kết quả xảy ra
 
 ---

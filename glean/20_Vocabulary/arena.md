@@ -1,159 +1,78 @@
 #flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [stadium, coliseum, amphitheater, venue, playing field, sports complex, battleground, stage]
+status: done
 ref:
-  - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈriːnə/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** From Latin "harena" (sand) - referring to the sand-covered area of Roman amphitheaters
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A central area for sports or entertainment, originally covered in sand
+>
+> **Context Meaning:** 1. A place where sports or entertainments take place 2. A field of activity or competition
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sân vận động, đấu trường
+> - **Contextual:** lĩnh vực, môi trường cạnh tranh
+>
 > **Nuances:**
-> - ...
+> - Can be literal (physical venue) or metaphorical (field of activity)
+> - Evokes images of competition and public spectacle
+> - Often implies large scale and public attention
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Grand, competitive, spectacular
+> **Memory Hook:** Arena sounds like "area for" - area for big events!
+> **📖 Etymology Story:** Roman gladiators fought on "harena" (sand) that soaked up blood. This sandy battleground became known as the arena. Today, whether in sports or business, the "arena" is still where battles are fought - just with different rules and no sand!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[arena]] /əˈriːnə/
+> - **Adj:** N/A
+> - **Adv:** N/A
+> - **Verb:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[stadium]] /ˈsteɪdiəm/ : large venue for sports with tiered seating
+> - [[venue]] /ˈvenjuː/ : place where events happen
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - N/A (no direct antonyms)
+> - [[practice field]] /ˈpræktɪs fiːld/ : for private training, not public competition
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. political arena
+> 2. step into the arena
+> 3. international arena
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The rock band performed to a sold-out arena.
+> - **Translation:** Ban nhạc rock đã biểu diễn trước một đấu trường chật kín khán giả.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She entered the political arena to fight for change.
+> - **Translation:** Cô bước vào lĩnh vực chính trị để đấu tranh cho sự thay đổi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling**
+> - ❌ **Mistake:** "areana" or "arina"
+> - ✅ **Correction:** "arena" (A-R-E-N-A)
+> - **Why:** Common phonetic spelling error
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The world is an arena of constant change and competition."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **arena** (*/əˈriːnə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** (noun) 1. A large enclosed area for sports or entertainment 2. A sphere of activity or competition
+> 🇻🇳 **Vietnamese:** (danh từ) 1. Khu vực lớn có rào chắn cho thể thao hoặc giải trí 2. Lĩnh vực hoạt động hoặc cạnh tranh
+> 🗣️ **IPA:** */əˈriːnə/*
+> 🧠 **Mental Model:** Arena là nơi battles happen - có thể literal (sports stadium) hoặc metaphorical (business arena) - nơi public witness competition.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "a place where sports or public entertainment take place"
+**Vietnamese:** một nơi nơi diễn ra thể thao hoặc giải trí công cộng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**arena** (*/əˈriːnə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **arena** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The startup had to compete in the global marketplace arena against tech giants.
+> 🇻🇳 **Translation:** Công ty khởi nghiệp phải cạnh tranh trong đấu trường thị trường toàn cầu với các gã khổng lồ công nghệ.
+> 🔍 **Analysis:** "Marketplace arena" là metaphor sử dụng "arena" để mô tả competitive business environment, tạo hình ảnh dramatic của battle with giants, nhấn mạnh difficulty và public nature của competition.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **arena**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Sports Context:** sports arena/crowd (sân thể thao/đám đông - physical venue and spectators)
+> 2. **Metaphorical:** political/business arena (lĩnh vực chính trị/kinh doanh - field of competition)
+> 3. **Action:** enter/step into the arena (bước vào đấu trường - joining a competition)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **arena**:
+"She works in international business."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She dominates the international trade arena with innovative strategies."
+> 💡 **Why it works:** "International trade arena" tạo hình ảnh competitive field, "dominates" thêm dramatic flavor, "innovative strategies" gives specificity thay vì "works in" passive.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **arena** instead of **[[stadium]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **arena:** Có thể là literal hoặc metaphorical, nhấn mạnh aspect của competition và public spectacle
+> **stadium:** Chỉ physical structure, specifically cho sports với tiered seating
+> 🧱 **The Barrier:** Arena là concept (place of battle), stadium là structure (building) - business có arena nhưng không có stadium.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is hesitant about public speaking. You want to encourage them. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Every expert was once a beginner in the arena - you've got to step in to own it!"
+> 👨‍🎨 **Director's Note:** Sử dụng "in the arena" như metaphor cho public performance, tạo hình ảnh heroic của facing challenges, "own it" là motivational phrase phù hợp.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `harena` to the meaning of **arena**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "harena" (sand) → Roman amphitheaters spread sand to soak up gladiators' blood → "arena" became term cho central fighting area → expanded đến any place of public competition → modern usage bao gồm cả literal venues và metaphorical fields.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **arena**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `harena` (sand)
+> 👨‍👩‍👧 **Family:**
+> - *(related)* [[arenaceous]] /ˌærəˈneɪʃəs/ (sandy, sand-like)
+> - *(compound)* [[arena football]] /əˈriːnə ˈfʊtbɔːl/
+> - *(borrowed)* [[coliseum]] /ˌkɒliˈsiːəm/ (type of arena)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈriːnə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**arena**
+> 📖 **Meaning:** A place of competition or public entertainment, either physical or metaphorical
+> 🇻🇳 **Vietnamese:** Nơi cạnh tranh hoặc giải trí công chúng, có thể là vật lý hoặc ẩn dụ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **arena**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The concert took place at a beautiful arena"
+> ✅ **Correction:** "The concert took place in a beautiful arena"
+> 🧠 **Why:** Events happen "in" an arena (enclosed space) chứ không phải "at" - "at" dùng cho specific points, "in" cho enclosed spaces.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **arena**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Opposite Concepts:**
+> - [[private space]] (personal, non-public area)
+> - [[practice field]] (for preparation, not competition)
+> - [[backstage]] (behind the scenes, away from public view)
+> 🧱 **Contrast:** While arena represents public competition and spectacle, private space represents personal preparation and intimacy - one is for show, the other for growth.
 
 ---

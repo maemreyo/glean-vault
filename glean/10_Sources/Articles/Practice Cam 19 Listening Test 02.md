@@ -13,7 +13,7 @@
 | **Level**:               | **2**…………………                                                              |
 | **Place**:               | the **3**…………………<br><br>**4**………………… Street<br><br>First floor, Room T347 |
 | **Time**:                | Thursday morning at **5**…………………                                          |
-| **Recommended website**: | 'The perfect **6**…………………'                                                |
+| **Recommended website**: | ‘The perfect **6**…………………’                                                |
 
 **Questions 7–10**
 
@@ -21,7 +21,7 @@
 
 *Write **ONE WORD [[20_Vocabulary/sole|ONLY]]** for each answer.*
 
-<table><tbody><tr><td colspan="3" width="582"><h2>A [[20_Vocabulary/average|typical]] 45-[[20_Vocabulary/tiny|minute]] guitar lesson</h2></td></tr><tr><td width="95"><p><span><strong>Time</strong></span></p></td><td width="265"><p><span><strong>Activity</strong></span></p></td><td width="222"><p><span><strong>Notes</strong></span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/tune|tuning]] guitars</span></p></td><td width="222"><p><span>using an app or by <strong>7</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/strumming|strumming]] [[20_Vocabulary/chord|chords]] using our [[20_Vocabulary/thumbs|thumbs]]</span></p></td><td width="222"><p><span>keeping time [[20_Vocabulary/Admittedly|while]] the [[20_Vocabulary/trainer|teacher]] is <strong>8</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>15 minutes</span></p></td><td width="265"><p><span>playing songs</span></p></td><td width="222"><p><span>often listening to a <strong>9</strong> ………………… of a song</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>playing [[20_Vocabulary/sole|single]] notes [[20_Vocabulary/In addition|and]] simple [[20_Vocabulary/tune|tunes]]</span></p></td><td width="222"><p><span>playing together, then <strong>10</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>noting things to practise at home</span></p></td><td width="222"></td></tr></tbody></table>
+<table><tbody><tr><td colspan="3" width="582"><h2>A [[20_Vocabulary/average|typical]] 45-[[20_Vocabulary/tiny|minute]] guitar lesson</h2></td></tr><tr><td width="95"><p><span><strong>Time</strong></span></p></td><td width="265"><p><span><strong>Activity</strong></span></p></td><td width="222"><p><span><strong>Notes</strong></span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/tune|tuning]] guitars</span></p></td><td width="222"><p><span>using an app or by <strong>7</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/strumming|strumming]] [[20_Vocabulary/chord|chords]] using our [[20_Vocabulary/thumbs|thumbs]]</span></p></td><td width="222"><p><span>[[20_Vocabulary/worth keeping|keeping]] time [[20_Vocabulary/Admittedly|while]] the [[20_Vocabulary/trainer|teacher]] is <strong>8</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>15 minutes</span></p></td><td width="265"><p><span>playing songs</span></p></td><td width="222"><p><span>often listening to a <strong>9</strong> ………………… of a song</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>playing [[20_Vocabulary/sole|single]] notes [[20_Vocabulary/In addition|and]] simple [[20_Vocabulary/tune|tunes]]</span></p></td><td width="222"><p><span>playing together, then <strong>10</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>noting things to practise at home</span></p></td><td width="222"></td></tr></tbody></table>
 
 Online English Tutors
 
@@ -53,7 +53,7 @@ English Dictionary Apps
 
 **11** What made David leave London [[20_Vocabulary/In addition|and]] move to [[20_Vocabulary/Northsea|Northsea]]?
 
-**A** He was [[20_Vocabulary/eager to|eager to]] develop a hobby.
+**A** He was [[20_Vocabulary/eager to|eager to]] [[20_Vocabulary/come along|develop]] a hobby.
 
 **B** He wanted to work shorter hours.
 
@@ -61,11 +61,11 @@ English Dictionary Apps
 
 **12** The Lifeboat [[20_Vocabulary/Institution|Institution]] in [[20_Vocabulary/Northsea|Northsea]] was built with money provided by
 
-**A** a [[20_Vocabulary/neighbour|local]] [[20_Vocabulary/organisation|organisation]].
+**A** a [[20_Vocabulary/resident|local]] [[20_Vocabulary/organisation|organisation]].
 
-**B** a [[20_Vocabulary/neighbour|local]] [[20_Vocabulary/resident|resident]].
+**B** a [[20_Vocabulary/resident|local]] [[20_Vocabulary/resident|resident]].
 
-**C** the [[20_Vocabulary/neighbour|local]] [[20_Vocabulary/council|council]].
+**C** the [[20_Vocabulary/resident|local]] [[20_Vocabulary/council|council]].
 
 **13** In his [[20_Vocabulary/mental health|health]] [[20_Vocabulary/assessment|assessment]], the doctor was concerned [[20_Vocabulary/approximately|about]] the fact that David
 
@@ -83,7 +83,7 @@ English Dictionary Apps
 
 **C** eight [[20_Vocabulary/In addition|and]] a half minutes.
 
-**15** As a 'helmsman', David has the [[20_Vocabulary/responsible for|responsibility]] of deciding
+**15** As a ‘helmsman’, David has the [[20_Vocabulary/responsible for|responsibility]] of deciding
 
 **A** who [[20_Vocabulary/will|will]] be the members of his crew.
 
@@ -91,7 +91,7 @@ English Dictionary Apps
 
 **C** [[20_Vocabulary/suppose|if]] the lifeboat should be launched.
 
-**16** [[20_Vocabulary/In addition|As well]] as going out on the lifeboat, David
+**16** [[20_Vocabulary/as well as|As well as]] going out on the lifeboat, David
 
 **A** gives talks on safety at sea.
 
@@ -129,7 +129,7 @@ Which **TWO** things does David find most motivating [[20_Vocabulary/approximate
 
 **D** the fact that it keeps him fit
 
-**E** the [[20_Vocabulary/opportunity|chance]] to develop new [[20_Vocabulary/equipment|equipment]]
+**E** the [[20_Vocabulary/opportunity|chance]] to [[20_Vocabulary/come along|develop]] new [[20_Vocabulary/equipment|equipment]]
 
 IELTS vocabulary [[20_Vocabulary/facilities|resources]]
 
@@ -175,9 +175,9 @@ Grammar Exercise Workbooks
 
 **A** Public [[20_Vocabulary/consumption|consumption]] of [[20_Vocabulary/footwear|footwear]] has risen.
 
-**B** Less [[20_Vocabulary/footwear|footwear]] is recycled now than in the [[20_Vocabulary/beyond|past]].
+**B** Less [[20_Vocabulary/footwear|footwear]] is recycled now than [[20_Vocabulary/no longer|in the past]].
 
-**C** People [[20_Vocabulary/dispose|dispose]] of more [[20_Vocabulary/footwear|footwear]] than they [[20_Vocabulary/second-hand|used]] to.
+**C** People [[20_Vocabulary/dump|dispose of]] more [[20_Vocabulary/footwear|footwear]] than they [[20_Vocabulary/second-hand|used]] to.
 
 **Questions 25–28**
 
@@ -203,7 +203,7 @@ What reasons did the recycling manager give for [[20_Vocabulary/reject|rejecting
 
 **25** the [[20_Vocabulary/high-heeled shoes|high-heeled shoes]] …………
 
-**26** the ankle [[20_Vocabulary/footwear|boots]] …………
+**26** the [[20_Vocabulary/ankle boot|ankle boots]] …………
 
 **27** the baby [[20_Vocabulary/footwear|shoes]] …………
 
@@ -213,13 +213,13 @@ What reasons did the recycling manager give for [[20_Vocabulary/reject|rejecting
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**29** Why did the project to make 'new' [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
+**29** Why did the project to make ‘new’ [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
 
-**A** People believed the 'new' pairs of [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/unhygienic|unhygienic]].
+**A** People believed the ‘new’ pairs of [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/unhygienic|unhygienic]].
 
 **B** There were not enough good parts to use in the [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]].
 
-**C** The [[20_Vocabulary/footwear|shoes]] in the 'new' pairs were not completely [[20_Vocabulary/identical|alike]].
+**C** The [[20_Vocabulary/footwear|shoes]] in the ‘new’ pairs were not completely [[20_Vocabulary/identical|alike]].
 
 **30** Bella [[20_Vocabulary/In addition|and]] Don agree that they can [[20_Vocabulary/presentation|present]] their topic
 
@@ -242,7 +242,7 @@ What reasons did the recycling manager give for [[20_Vocabulary/reject|rejecting
 
 ● more than 1,000 species, 0.05–1.2 millimetres long
 
-● [[20_Vocabulary/In addition|also]] known as water 'bears' (due to how they **31** …………………) [[20_Vocabulary/In addition|and]] '[[20_Vocabulary/moss|moss]] piglets'
+● [[20_Vocabulary/In addition|also]] known as water ‘bears’ (due to how they **31** …………………) [[20_Vocabulary/In addition|and]] ‘[[20_Vocabulary/moss|moss]] piglets’
 
 **Physical [[20_Vocabulary/appearance|appearance]]**
 
@@ -264,7 +264,7 @@ What reasons did the recycling manager give for [[20_Vocabulary/reject|rejecting
 
 **[[20_Vocabulary/cryptobiosis|Cryptobiosis]]**
 
-● In dry conditions, they roll into a ball called a 'tun'.
+● In dry conditions, they roll into a ball called a ‘tun’.
 
 ● They stay [[20_Vocabulary/existence|alive]] with a much lower [[20_Vocabulary/metabolism|metabolism]] than [[20_Vocabulary/average|usual]].
 

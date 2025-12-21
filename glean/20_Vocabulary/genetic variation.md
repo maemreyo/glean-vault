@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
 #flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [genetic variations, genetic diversity, genetic variability, genotypic variation, genetic mutation, genetic adaptation, genetic polymorphism]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dʒəˈnetɪk ˌveəriˈeɪʃn/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** B2
+> **Register:** Academic
+> **Etymology:** From Greek "genesis" (origin) + Latin "variatio" (change, difference)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The differences in DNA sequences between individuals within a population
+>
+> **Context Meaning:** The diversity of genetic makeup among organisms, including mutations, gene flow, and recombination
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Biến đổi gen
+> - **Contextual:** Sự đa dạng di truyền
+>
 > **Nuances:**
-> - ...
+> - Includes both visible traits and hidden genetic differences
+> - Essential for species adaptation and evolution
+> - Can be beneficial, neutral, or harmful
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Scholarly
+> **Memory Hook:** Think of "genes" that "vary" - nature's way of creating diversity through changes in genetic code
+> **📖 Etymology Story:** From Greek "genesis" meaning "origin" combined with Latin "variare" meaning "to change" - literally "origin changes" that drive evolution
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[genetic variation]] /dʒəˈnetɪk ˌveəriˈeɪʃn/
+> - **Verb:** [[vary]] /ˈveəri/
+> - **Adj:** [[genetic]] /dʒəˈnetɪk/, [[genetically varied]] /dʒəˈnetɪkli ˈveərid/
+> - **Adv:** [[genetically]] /dʒəˈnetɪkli/, [[genetically diverse]] /dʒəˈnetɪkli daɪˈvɜːs/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[genetic diversity]] /dʒəˈnetɪk daɪˈvɜːsəti/ : broader range of genetic differences
+> - [[genetic variability]] /dʒəˈnetɪk ˌveəriəˈbɪləti/ : capacity for genetic change
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[genetic uniformity]] /dʒəˈnetɪk ˌjuːnɪˈfɔːməti/ : lack of genetic differences
+> - [[genetic homogeneity]] /dʒəˈnetɪk ˌhɒməʊdʒəˈniːəti/ : genetic sameness
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. maintain genetic variation
+> 2. high/low genetic variation
+> 3. genetic variation within/between populations
+>
+> **1. Example Context 1 (Evolution)**
+> - **Sentence:** Genetic variation provides the raw material for natural selection to act upon.
+> - **Translation:** Biến đổi gen cung cấp nguyên liệu thô cho quá trình chọn lọc tự nhiên.
+>
+> **2. Example Context 2 (Conservation)**
+> - **Sentence:** The cheetah population suffers from low genetic variation, making it vulnerable to disease.
+> - **Translation:** Quần thể báo săn chịu đựng từ biến đổi gen thấp, khiến chúng dễ bị tổn thương bởi bệnh tật.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with genetic mutation**
+> - ❌ **Mistake:** "All genetic variation is caused by mutations."
+> - ✅ **Correction:** "Genetic variation includes mutations, but also gene flow and recombination."
+> - **Why:** Variation has multiple sources beyond just mutations.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Without genetic variation, a population cannot evolve in response to changing environmental variables."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **genetic variation** (*/dʒəˈnetɪk ˌveəriˈeɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Differences in DNA sequences between individuals of the same species
+> 🇻🇳 **Vietnamese:** Sự khác biệt trong chuỗi DNA giữa các cá thể cùng loài
+> 🗣️ **IPA:** */dʒəˈnetɪk ˌveəriˈeɪʃn/*
+> 🧠 **Mental Model:** Tưởng tượng mỗi người có một "code DNA" hơi khác nhau, giống như sách cùng nội dung nhưng có vài từ khác nhau - đó chính là variation.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Differences in genetic material between individuals or populations"
+**Vietnamese:** Sự khác biệt về vật chất di truyền giữa các cá thể hoặc quần thể
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**genetic variation** (*/dʒəˈnetɪk ˌveəriˈeɪʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **genetic variation** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Scientists study genetic variation to understand how species adapt to changing environments.
+> 🇻🇳 **Translation:** Các nhà khoa học nghiên cứu biến đổi gen để hiểu loài nào thích nghi với môi trường thay đổi.
+> 🔍 **Analysis:** Word này perfect vì nó capture đúng khái niệm "sự đa dạng ở cấp độ gene" - không chỉ khác biệt bề ngoài mà khác biệt cả ở code DNA bên trong.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **genetic variation**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Measurement:** high genetic variation (đo lường mức độ đa dạng)
+> 2. **Conservation:** maintain genetic variation (bảo tồn sự đa dạng)
+> 3. **Research:** study genetic variation (nghiên cứu sự khác biệt)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **genetic variation**:
+"Differences between animals help them survive."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Genetic variation within the population enables natural selection to favor traits that enhance survival."
+> 💡 **Why it works:** "Genetic variation" chỉ chính xác "sự khác biệt ở level gene" - academic hơn, science hơn "differences" thông thường.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **genetic variation** instead of **genetic diversity**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **genetic variation:** Dùng khi nói về specific differences trong DNA (point mutations, alleles khác nhau)
+> **[[genetic diversity]]:** Dùng khi nói về overall scope của differences - toàn bộ spectrum
+> 🧱 **The Barrier:** Variation là micro-level (cái gì khác biệt), diversity là macro-level (bao nhiêu sự khác biệt tồn tại)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a conservation biologist explaining why a small island population is at risk. You feel concerned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This isolated population has critically low genetic variation, making them extremely vulnerable to disease outbreaks."
+> 👨‍🎨 **Director's Note:** "Genetic variation" hits harder vì nó academic và precise - nói đúng vấn đề core của conservation biology.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `gen` to the meaning of **genetic variation**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "genus" (race, kind) + "variare" (to change) - sự "thay đổi trong kind" mà tạo nên diversity. Evolution bắt đầu từ đây!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **genetic variation**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `genesis` (<origin, birth>)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[variation]] (sự thay đổi)
+> - *(adj)* [[genetic]] (thuộc về gene)
+> - *(noun)* [[genetics]] (môn di truyền học)
+> - *(noun)* [[gene]] (đơn vị di truyền)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */dʒəˈnetɪk ˌveəriˈeɪʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**genetic variation**
+> 📖 **Meaning:** Genetic differences between organisms
+> 🇻🇳 **Vietnamese:** Sự biến đổi di truyền
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **genetic variation**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The genetic variation between humans and chimpanzees is significant."
+> ✅ **Correction:** "The genetic difference between humans and chimpanzees is significant."
+> 🧠 **Why:** "Variation" dùng cho differences WITHIN species, "difference" dùng cho differences BETWEEN species.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **genetic variation**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[genetic uniformity]] (tất cả individuals có same genetic makeup)
+> - [[genetic homogeneity]] (thiếu genetic diversity)
+> 🧱 **Contrast:** Variation là diversity of genes, uniformity là sameness of genes.
 
 ---

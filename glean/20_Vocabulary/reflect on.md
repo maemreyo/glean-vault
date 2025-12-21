@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [contemplate, ponder, think about, consider deeply, meditate on, mull over, deliberate]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈflekt ɒn/
+> **Part of Speech:** Phrasal verb
+> **CEFR Level:** B2
+> **Register:** Formal/Academic
+> **Etymology:** Latin 'reflectere' (to bend back) + Old English 'on' (on, upon)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To think carefully about something
+>
+> **Context Meaning:**
+> 1. To think deeply and carefully about past events, experiences, or information
+> 2. To consider thoughtfully before making a decision
+> 3. To express or give back thoughts about something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Suy ngẫm về, suy nghĩ về
+> - **Contextual:** Chiêm nghiệm, trầm ngâm, xem xét kỹ
+>
 > **Nuances:**
-> - ...
+> - Implies deeper thinking than just 'think about'
+> - Often involves looking back at past events
+> - Can suggest mental reflection like a mirror reflecting an image
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Contemplative, Thoughtful, Introspective
+> **Memory Hook:** Imagine your mind as a mirror - when you 'reflect on' something, you're holding it up to your mind to see it clearly from all angles!
+> **📖 Etymology Story:** 'Reflect' comes from Latin 're-' (back) + 'flectere' (to bend). Like light bouncing off a mirror, when we reflect on something, we bend our thoughts back to examine it carefully. Adding 'on' directs this mental examination toward a specific subject.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[reflection]] /rɪˈflekʃn/, [[reflectiveness]] /rɪˈflektɪvnəs/
+> - **Adj:** [[reflective]] /rɪˈflektɪv/, [[reflected]] /rɪˈflektɪd/
+> - **Verb:** [[reflect]] /rɪˈflekt/
+> - **Adv:** [[reflectively]] /rɪˈflektɪvli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[contemplate]] /ˈkɒntəmpleɪt/ : To think deeply about something for a long time
+> - [[ponder]] /ˈpɒndə(r)/ : To think about something carefully
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[act impulsively]] /ækt ˈɪmpʌlsɪvli/ : To do something without thinking
+> - [[react immediately]] /riˈækt ɪˈmiːdiətli/ : To respond without reflection
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. reflect on the past
+> 2. reflect on one's experience
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** As the year comes to an end, it's natural to reflect on what we've accomplished and what we've learned.
+> - **Translation:** Khi năm sắp kết thúc, việc suy ngẫm về những gì chúng ta đã đạt được và học được là điều tự nhiên.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The professor asked students to reflect on the ethical implications of their research.
+> - **Translation:** Giáo sư yêu cầu sinh viên suy ngẫm về những tác động đạo đức của nghiên cứu của họ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition**
+> - ❌ **Mistake:** We need to reflect in our decisions.
+> - ✅ **Correction:** We need to reflect on our decisions.
+> - **Why:** The phrasal verb 'reflect' requires the preposition 'on' when followed by the object of reflection.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The unexamined life is not worth living." - Socrates, encouraging us to reflect on our existence.
+> **Source:** [[Philosophy Texts]]
 
 ---
 
@@ -161,121 +83,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **reflect on** (*/rɪˈflekt ɒn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To think deeply and carefully about past events, experiences, or information; to consider thoughtfully before making a decision
+> 🇻🇳 **Vietnamese:** Suy ngẫm về, chiêm nghiệm, xem xét kỹ lưỡng
+> 🗣️ **IPA:** */rɪˈflekt ɒn/*
+> 🧠 **Mental Model:** Hành động tư duy sâu (deep thinking) - như việc soi gương vào quá khứ để nhìn nhận rõ ràng hơn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To think deeply and carefully about past events, experiences, or information; to consider thoughtfully before making a decision"
+**Vietnamese:** Suy ngẫm về, chiêm nghiệm, xem xét kỹ lưỡng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**reflect on** (*/rɪˈflekt ɒn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **reflect on** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Before making this life-changing decision, I needed time to reflect on what truly mattered to me.
+> 🇻🇳 **Translation:** Trước khi đưa ra quyết định thay đổi cuộc đời này, tôi cần thời gian để suy ngẫm về điều gì thực sự quan trọng với mình.
+> 🔍 **Analysis:** 'Reflect on' hoàn hảo ở đây vì nó diễn tả sự suy xét sâu sắc, có chủ đích về các giá trị cá nhân, thay vì chỉ "think about" một cách bề ngoài. Cụm từ này nhấn mạnh quá trình nội tâm và sự tự nhận thức.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **reflect on**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Time Reference:** reflect on the past/year (suy ngẫm về quá khứ/năm) (<VN note vì thường dùng để nhìn lại thời gian đã qua>)
+> 2. **Experience:** reflect on one's experience/journey (suy ngẫm về kinh nghiệm/hành trình) (<VN note để chỉ việc chiêm nghiệm những gì đã trải qua>)
+> 3. **Learning:** reflect on lessons learned (suy ngẫm về bài học) (<VN note để rút ra kinh nghiệm từ sự kiện>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **reflect on**:
+"I think about what happened yesterday."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I need time to reflect on yesterday's events and understand their deeper implications."
+> 💡 **Why it works:** 'Reflect on' nâng cấp câu bằng cách tạo ra hình ảnh về sự phân tích sâu sắc, có chiều sâu hơn 'think about', cho thấy đây là một quá trình tư duy có chủ đích và kỹ lưỡng.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **reflect on** instead of **think about**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **reflect on:** Deeper, more careful consideration; often involves past events; implies looking inward
+> **think about:** More general; can be about anything; less formal
+> 🧱 **The Barrier:** 'reflect on' = deep, introspective thinking; 'think about' = general consideration
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend just had a job interview and is trying to decide whether to accept the offer. You feel wise. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Take some time to reflect on how this opportunity aligns with your long-term goals before making your decision."
+> 👨‍🎨 **Director's Note:** Perfect thoughtful advice encouraging deeper consideration rather than impulsive action
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `reflect` to the meaning of **reflect on**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'reflectere' meant 'to bend back' - like light bouncing off a mirror. When we reflect on something, we bend our thoughts back to examine it carefully, seeing different angles like light reflecting off surfaces.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **reflect on**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `re-` (back) + `flectere` (to bend)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[reflection]] /rɪˈflekʃn/ (sự suy ngẫm, sự phản chiếu)
+> - *(noun)* [[flexible]] /ˈfleksəbl/ (linh hoạt - có thể uốn cong)
+> - *(verb)* [[deflect]] /dɪˈflekt/ (lệch hướng)
+> - *(verb)* [[inflect]] /ɪnˈflekt/ (uốn cong, biến đổi)
+> - *(noun)* [[inflection]] /ɪnˈflekʃn/ (sự uốn cong, ngữ điệu)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈflekt ɒn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**reflect on**
+> 📖 **Meaning:** To think deeply and carefully about past events, experiences, or information; to consider thoughtfully before making a decision
+> 🇻🇳 **Vietnamese:** Suy ngẫm về, chiêm nghiệm, xem xét kỹ lưỡng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **reflect on**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** She reflects about her childhood often.
+> ✅ **Correction:** She reflects on her childhood often.
+> 🧠 **Why:** The correct preposition with 'reflect' in this context is 'on', not 'about' - we reflect 'on' something
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **reflect on**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[act impulsively]] (<To do something without careful thought>)
+> - [[react immediately]] (<To respond without reflection>)
+> - [[dismiss without thought]] (<To reject consideration>)
+> 🧱 **Contrast:** While 'reflect on' implies careful, deliberate consideration, 'act impulsively' suggests taking action without any thoughtful analysis.
 
 ---

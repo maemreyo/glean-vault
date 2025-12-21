@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
 #flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [backpack, knapsack, rucksac, daypack, hiking pack, travel bag, school bag, pack]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈrʌksæk/
+> **Part of Speech:** Noun
+> **CEFR Level:** B1
+> **Register:** Neutral/Informal
+> **Etymology:** German 'Rucksack' from 'Rücken' (back) + 'Sack' (bag)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A bag carried on the back
+>
+> **Context Meaning:** A bag with shoulder straps that allow it to be carried on one's back, typically made of canvas or nylon, used for hiking, traveling, or carrying belongings
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Balo, ba lô
+> - **Contextual:** Balo du lịch, ba lô leo núi, cặp đi học
+>
 > **Nuances:**
-> - ...
+> - Often associated with outdoor activities and travel
+> - Can range from small daypacks to large expedition packs
+> - Term is more common in British English; Americans often say 'backpack'
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Adventurous, Practical, Mobile
+> **Memory Hook:** Think of it as a 'sack' (bag) on your 'ruck' (back) - that's a rucksack!
+> **📖 Etymology Story:** The word comes directly from German 'Rucksack' - literally 'back-sack'. German explorers and soldiers popularized these practical bags, and the word traveled with them into English. Like many German compound words, it perfectly describes what it is: a sack for your back.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[rucksack]] /ˈrʌksæk/, [[pack]] /pæk/, [[backpack]] /ˈbækpæk/
+> - **Adj:** N/A
+> - **Verb:** [[pack]] /pæk/, [[rucksack]] (rare verb)
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[backpack]] /ˈbækpæk/ : More common in American English
+> - [[knapsack]] /ˈnæpsæk/ : Often smaller, older term
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[handbag]] /ˈhændbæɡ/ : Carried in hand
+> - [[suitcase]] /ˈsuːtkeɪs/ : Pulled, with wheels usually
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. pack a rucksack
+> 2. lightweight rucksack
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The hiker carefully packed his rucksack with essentials for the three-day trek.
+> - **Translation:** Người đi bộ đường dài đã cẩn thận xếp đồ vào balo của mình với những thứ cần thiết cho chuyến đi ba ngày.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Students often use rucksacks to carry their books and laptops to class.
+> - **Translation:** Sinh viên thường dùng balo để mang sách và laptop đến lớp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural Form**
+> - ❌ **Mistake:** I bought two new rucksacks for our trip.
+> - ✅ **Correction:** I bought two new rucksacks for our trip.
+> - **Why:** The plural is correct, but many speakers mistakenly think it's irregular. It follows regular -s pluralization.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The world is a book and those who do not travel read only one page." - St. Augustine, inspiring us to pack our rucksacks and explore.
+> **Source:** [[Travel Quotes Collection]]
 
 ---
 
@@ -161,121 +80,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **rucksack** (*/ˈrʌksæk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A bag with shoulder straps that allow it to be carried on one's back, typically used for hiking, traveling, or carrying belongings
+> 🇻🇳 **Vietnamese:** Balo, ba lô, túi đeo lưng
+> 🗣️ **IPA:** */ˈrʌksæk/*
+> 🧠 **Mental Model:** Túi đeo lưng (back-carrying bag) - thiết bị giải phóng đôi tay, cho phép mang nhiều đồ khi di chuyển
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A bag with shoulder straps that allow it to be carried on one's back, typically used for hiking, traveling, or carrying belongings"
+**Vietnamese:** Balo, ba lô, túi đeo lưng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**rucksack** (*/ˈrʌksæk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+What does **rucksack** (*/ˈrʌksæk/*) mean?
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The mountaineer adjusted the straps of his rucksack to distribute the weight evenly across his shoulders.
+> 🇻🇳 **Translation:** Nhà leo núi đã điều chỉnh các quai của balo để phân bổ trọng lượng đều lên vai.
+> 🔍 **Analysis:** 'Rucksack' hoàn hảo ở đây vì nó không chỉ là một chiếc túi thông thường mà còn là thiết bị chuyên dụng cho hoạt động ngoài trời, với các tính năng kỹ thuật (quai điều chỉnh, phân bổ trọng lượng) cần thiết cho việc leo núi.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **rucksack**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** pack a rucksack (xếp đồ vào balo) (<VN note vì đây là hành động chuẩn bị trước chuyến đi>)
+> 2. **Description:** lightweight rucksack (balo nhẹ) (<VN note để nhấn mạnh tính di động>)
+> 3. **Usage:** hiking rucksack (balo leo núi) (<VN note để chỉ loại balo chuyên dụng>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **rucksack**:
+"He carried his bag on his back."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He shouldered his weathered rucksack, its straps well-worn from countless journeys through mountain passes."
+> 💡 **Why it works:** 'Rucksack' nâng cấp câu bằng cách tạo ra hình ảnh cụ thể về một người du lịch/nhà thám hiểm, mang sắc thái phiêu lưu và kinh nghiệm hơn một cái 'bag' chung chung.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **rucksack** instead of **backpack**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **rucksack:** More common in British English; often implies larger, more serious packs for hiking/expedition
+> **backpack:** More common in American English; can refer to any size, including school bags
+> 🧱 **The Barrier:** 'rucksack' = UK/serious hiking; 'backpack' = US/general purpose
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're planning a weekend hiking trip and your friend asks what to bring. You feel prepared. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Don't forget a comfortable rucksack with good shoulder straps - you'll want to keep your hands free on the trails!"
+> 👨‍🎨 **Director's Note:** Perfect practical advice focusing on the functional benefits of a rucksack for hiking
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `Rücken` + `Sack` to the meaning of **rucksack**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** German 'Rücken' means 'back' and 'Sack' means 'bag'. German soldiers and hikers carried these 'back-bags' and the compound word traveled intact into English, keeping its perfect descriptive power.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **rucksack**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** German `Rücken` (back) + `Sack` (bag, sack)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[backpack]] /ˈbækpæk/ (balo - từ tiếng Anh)
+> - *(noun)* [[knapsack]] /ˈnæpsæk/ (balo nhỏ)
+> - *(noun)* [[satchel]] /ˈsætʃəl/ (cặp đeo chéo)
+> - *(verb)* [[unpack]] /ʌnˈpæk/ (đỡ đồ ra)
+> - *(verb)* [[pack]] /pæk/ (đóng gói)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈrʌksæk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**rucksack**
+> 📖 **Meaning:** A bag with shoulder straps that allow it to be carried on one's back, typically used for hiking, traveling, or carrying belongings
+> 🇻🇳 **Vietnamese:** Balo, ba lô, túi đeo lưng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **rucksack**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** My rucksacks is too heavy for long hikes.
+> ✅ **Correction:** My rucksack is too heavy for long hikes. OR My rucksacks are too heavy for long hikes.
+> 🧠 **Why:** Subject-verb agreement: 'rucksack' (singular) needs 'is'; 'rucksacks' (plural) needs 'are'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **rucksack**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[handbag]] (<Small bag carried in hand>)
+> - [[suitcase]] (<Luggage with handle, often wheeled>)
+> - [[briefcase]] (<Formal bag for documents, carried by hand>)
+> 🧱 **Contrast:** While a 'rucksack' is carried on the back leaving hands free, a 'handbag' or 'briefcase' is carried by hand, limiting mobility but offering easier access to contents.
 
 ---

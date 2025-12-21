@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
 #flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [rhythm, rhythmic, rhythms, beat, tempo, cadence, flow, pattern, pulse, meter]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈrɪðəm/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** general/poetic
+> **Etymology:** Greek 'rhythmos' (flow, measured movement) via Latin 'rhythmus'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A regular pattern of movement or sound
+>
+> **Context Meaning:** A strong, regular repeated pattern of movement or sound in music, speech, or nature
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một nhịp điệu
+> - **Contextual:** nhịp điệu, điệp khúc, nhịp nhàng
+>
 > **Nuances:**
-> - ...
+> - Can refer to musical patterns or natural cycles
+> - Often implies regularity and predictability
+> - Can be applied to abstract concepts like daily routines
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Flowing, Regular, Musical, Natural
+> **Memory Hook:** Think of your heartbeat (rhythm) - steady, predictable pattern
+> **📖 Etymology Story:** Từ Greek 'rhythmos' nghĩa là 'flow' - rhythm là natural flow of sounds hoặc movements theo một pattern đều đặn, như water flowing theo steady beat
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** rhythm /ˈrɪðəm/
+> - **Adj:** rhythmic /rɪˈðmɪk/, rhythmical /rɪˈðmɪkəl/
+> - **Adv:** rhythmically /rɪˈðmɪkli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[beat]] /biːt/ : the main pulse in music
+> - [[tempo]] /ˈtempəʊ/ : the speed or pace of music
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[irregularity]] /ɪˌreɡjəˈlærəti/ : lack of pattern or consistency
+> - [[chaos]] /ˈkeɪɒs/ : complete disorder and confusion
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Catch a rhythm
+> 2. Fall into a rhythm
+> 3. Rhythm of life
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The drummer established a complex rhythm that the entire band followed.
+> - **Translation:** Tay trống đã tạo ra một nhịp điệu phức tạp mà cả ban nhạc đã theo sau.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** After a few weeks, the new interns fell into the rhythm of office life.
+> - **Translation:** Sau vài tuần, các thực tập sinh mới đã hòa nhịp với cuộc sống văn phòng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect article usage**
+> - ❌ **Mistake:** I like rhythm in this song.
+> - ✅ **Correction:** I like the rhythm in this song. / I like the rhythms in this song.
+> - **Why:** When referring to a specific rhythm, use 'the'. When referring to multiple rhythmic patterns, use plural 'rhythms'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The ocean waves created a soothing rhythm that helped me relax."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a rhythm** (*/ə ˈrɪðəm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A strong, regular repeated pattern of movement or sound
+> 🇻🇳 **Vietnamese:** Một pattern đều đặn, lặp lại của movement hoặc sound
+> 🗣️ **IPA:** */ə ˈrɪðəm/*
+> 🧠 **Mental Model:** Như một steady beat hoặc pulse - natural pattern mà bạn có thể follow, như heartbeat, music beat, hoặc waves lapping
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A regular pattern of sounds or movements in time"
+**Vietnamese:** Một pattern đều đặn của âm thanh hoặc chuyển động theo thời gian
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a rhythm** (*/ə ˈrɪðəm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a rhythm** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The train wheels created a steady rhythm as we traveled through the countryside.
+> 🇻🇳 **Translation:** Bánh xe tàu tạo ra một nhịp điệu đều đặn khi chúng tôi đi qua vùng nông thôn.
+> 🔍 **Analysis:** 'Steady rhythm' thể hiện pattern đều đặn, predictably repeating - noun này thường đi với adj như steady, complex, soothing để mô tả đặc tính của rhythm
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a rhythm**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Musical contexts:** Catch/follow/keep a rhythm (bắt/đuổi/giữ nhịp)
+> 2. **Natural cycles:** Rhythm of nature/life/seasons (nhịp điệu của tự nhiên/cuộc sống/mùa)
+> 3. **Adaptation:** Fall into/get into a rhythm (hòa nhịp/đã quen với nhịp điệu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a rhythm**:
+"The sound repeated regularly."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The raindrops created a soothing rhythm on the tin roof."
+> 💡 **Why it works:** 'Soothing rhythm' tạo imagery mạnh hơn, gợi cảm giác peaceful và relaxing thay vì chỉ nói đơn thuần 'sound repeated regularly'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a rhythm** instead of **[[a pattern]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a rhythm:** Dùng cho temporal patterns - patterns in TIME, có musical quality, thường involves sound/movement
+> **[[a pattern]]:** Dùng cho visual hoặc structural patterns, không nhất thiết có temporal element
+> 🧱 **The Barrier:** Rhythm is about flow in time, pattern is about arrangement in space
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're teaching a dance class and students are struggling to stay coordinated. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Listen carefully to the music and find the rhythm - let your body naturally follow the beat."
+> 👨‍🎨 **Director's Note:** 'Find the rhythm' thể hiện việc cảm nhận và hòa vào natural flow của music, thay vì cố gắng count beats một cách mechanical
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `rhythmos` to the meaning of **a rhythm**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Greek 'rhythmos' có nghĩa là 'flow, measured movement' - rhythm là measured flow, như một river flowing với steady current, có predictable pattern nhưng vẫn dynamic và alive
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a rhythm**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `rhythmos` (flow, measured movement)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* rhythm (nhịp điệu)
+> - *(adjective)* rhythmic (có nhịp điệu)
+> - *(adverb)* rhythmically (một cách có nhịp điệu)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈrɪðəm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a rhythm**
+> 📖 **Meaning:** A regular pattern of sounds or movements in time
+> 🇻🇳 **Vietnamese:** Một pattern đều đặn của âm thanh hoặc chuyển động theo thời gian
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a rhythm**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The music has good rhythm.
+> ✅ **Correction:** The music has a good rhythm. / The music has good rhythms.
+> 🧠 **Why:** Khi nói về specific rhythm, cần article 'a'. Khi nói về multiple different rhythmic patterns, dùng plural 'rhythms'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a rhythm**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[chaos]] (sự hỗn loạn)
+> - [[irregularity]] (sự không đều đặn)
+> 🧱 **Contrast:** A rhythm provides structure and predictability while its antonyms represent disorder and unpredictability
 
 ---

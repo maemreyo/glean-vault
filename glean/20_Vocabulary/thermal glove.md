@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
 #flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [thermal gloves, heated gloves, insulated gloves, warming gloves, heat-retaining gloves, temperature-regulated gloves]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈθɜːrməl ɡlʌv/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** B2
+> **Register:** Informal/Technical
+> **Etymology:** From Greek "thermē" (heat) + Old Norse "glofi" (glove)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A glove designed to retain or generate heat
+>
+> **Context Meaning:** Specialized hand wear that maintains warmth through insulation or heating elements
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Găng tay giữ nhiệt
+> - **Contextual:** Găng tay nóng, găng tay sưởi ấm
+>
 > **Nuances:**
-> - ...
+> - Can be passive (insulated) or active (battery-powered heating)
+> - Used in cold climates, medical therapy, or industrial settings
+> - Emphasizes function over fashion
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Protective, Comforting, Technical
+> **Memory Hook:** Think of "thermos" (keeps drinks hot) + "glove" (worn on hands) = thermal glove keeps hands hot
+> **📖 Etymology Story:** Ancient Greeks discovered that trapping heat was crucial for survival. Their word "thermē" (heat) evolved to describe any technology that manages temperature, leading to "thermal" gloves that act like personal portable heaters for your hands.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[thermal]] /ˈθɜːrməl/, [[glove]] /ɡlʌv/, [[thermostat]] /ˈθɜːrməˌstæt/, [[thermodynamics]] /ˌθɜːrmoʊdaɪˈnæmɪks/
+> - **Verb:** [[heat]] /hiːt/, [[insulate]] /ˈɪnsjʊleɪt/, [[regulate]] /ˈreɡjʊleɪt/
+> - **Adj:** [[heated]] /ˈhiːtɪd/, [[insulated]] /ˈɪnsjʊleɪtɪd/, [[thermal]] /ˈθɜːrməl/
+> - **Adv:** [[thermally]] /ˈθɜːrməli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[heated glove]] /ˈhiːtɪd ɡlʌv/ : Active warming with electricity
+> - [[insulated glove]] /ˈɪnsjʊleɪtɪd ɡlʌv/ : Passive heat retention
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[cooling glove]] /ˈkuːlɪŋ ɡlʌv/ : Designed to reduce temperature
+> - [[breathable glove]] /ˈbriːðəbəl ɡlʌv/ : Allows heat to escape
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Battery-powered thermal gloves
+> 2. Thermal glove liners
+> 3. Rechargeable thermal gloves
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The mountaineer relied on her thermal gloves to prevent frostbite at -30°C.
+> - **Translation:** Nhà leo núi phụ thuộc vào đôi găng tay giữ nhiệt của cô để tránh bị phỏng lạnh ở -30°C.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Physical therapists recommend thermal gloves for patients with arthritis to improve circulation.
+> - **Translation:** Các nhà vật lý trị liệu khuyên dùng găng tay giữ nhiệt cho bệnh nhân viêm khớp để cải thiện tuần hoàn máu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Form**
+> - ❌ **Mistake:** "thermal gloveS" when referring to one pair
+> - ✅ **Correction:** "thermal gloves" (plural form used for a pair)
+> - **Why:** English treats a pair of gloves as plural, even when referring to one set.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The arctic expedition was impossible without thermal gloves and heated boots."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **thermal glove** (*/ˈθɜːrməl ɡlʌv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A specialized glove designed to maintain or generate heat to keep hands warm in cold conditions
+> 🇻🇳 **Vietnamese:** Găng tay giữ nhiệt/găng tay sưởi ấm
+> 🗣️ **IPA:** */ˈθɜːrməl ɡlʌv/*
+> 🧠 **Mental Model:** Giống như một bình giữ nhiệt mini cho tay, giữ ấm bằng cách cách nhiệt hoặc tạo nhiệt tích cực.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A glove with built-in heating elements or insulation designed to keep hands warm in cold conditions"
+**Vietnamese:** Găng tay có khả năng tạo nhiệt hoặc giữ nhiệt để làm ấm tay trong điều kiện lạnh
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**thermal glove** (*/ˈθɜːrməl ɡlʌv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **thermal glove** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The skier's fingers remained toasty warm despite the blizzard, thanks to her battery-powered thermal gloves.
+> 🇻🇳 **Translation:** Ngón tay người trượt tuyết vẫn ấm áp dù có bão tuyết, nhờ vào đôi găng tay sưởi ấm dùng pin của cô ấy.
+> 🔍 **Analysis:** "Thermal glove" hoàn hảo ở đây vì nó mô tả chính xác công nghệ giữ nhiệt tích cực (battery-powered) khác biệt với găng tay thông thường, nhấn mạnh giải pháp công nghệ cho thời tiết khắc nghiệt.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **thermal glove**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Technology Type:** battery-powered thermal gloves (găng tay sưởi dùng pin - mô tả nguồn nhiệt tích cực)
+> 2. **Layering:** thermal glove liners (lót găng tay giữ nhiệt - lớp bên trong để tăng cường giữ nhiệt)
+> 3. **Feature:** rechargeable thermal gloves (găng tay sưởi sạc lại - nhấn mạnh tính tái sử dụng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **thermal glove**:
+"She wore warm gloves in winter."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The research scientist wore specialized thermal gloves with adjustable temperature settings while conducting experiments in the subzero laboratory."
+> 💡 **Why it works:** "Thermal gloves" tạo ra hình ảnh công nghệ và chuyên nghiệp hơn "warm gloves" thông thường, gợi ý chức năng giữ nhiệt có chủ đích thay vì chỉ là găng tay dày.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **thermal glove** instead of **winter glove**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **thermal glove:** Chỉ găng tay có công nghệ giữ nhiệt đặc biệt (cách nhiệt cao cấp hoặc tạo nhiệt tích cực)
+> **winter glove:** Bất kỳ găng tay nào dùng vào mùa đông, có thể chỉ là găng tay len hoặc da dày
+> 🧱 **The Barrier:** Thermal = công nghệ/chức năng giữ nhiệt chủ động; Winter = thời điểm sử dụng, không nhất thiết có công nghệ đặc biệt
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're preparing for an ice fishing trip in Alaska. Your friend asks if regular gloves will work. You feel concerned about safety. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Don't risk frostbite - you'll need proper thermal gloves with at least 8 hours of battery life out here on the ice."
+> 👨‍🎨 **Director's Note:** Sử dụng "thermal gloves" thay vì "warm gloves" nhấn mạnh nhu cầu về công nghệ giữ nhiệt chủ động để an toàn ở điều kiện cực lạnh, không chỉ là sự ấm áp thông thường.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `thermē` to the meaning of **thermal glove**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Người Hy Lạp cổ đại dùng "thermē" để chỉ nhiệt - bí quyết sống còn. Ngày nay, "thermal gloves" mang di sản đó, biến bàn tay bạn thành ốc đảo ấm áp giữa sa mạc băng giá, giữ nguyên "thermē" cho dù xung quanh là cái chết cóng.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **thermal glove**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `thermē` (heat, warmth)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* thermometer, thermostat, thermos
+> - *(adj)* thermal, thermodynamic
+> - *(verb)* heat, warm
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈθɜːrməl ɡlʌv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**thermal glove**
+> 📖 **Meaning:** A glove with heating technology or superior insulation
+> 🇻🇳 **Vietnamese:** Găng tay giữ nhiệt/công nghệ sưởi ấm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **thermal glove**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I bought a thermal glove for skiing"
+> ✅ **Correction:** "I bought thermal gloves for skiing"
+> 🧠 **Why:** "Glove" luôn đi với dạng số nhiều "gloves" khi nói về một đôi, giống như "scissors" hoặc "pants" - ngay cả khi chỉ mua một bộ.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **thermal glove**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[cooling glove]] (Used in medical/industrial settings to reduce hand temperature)
+> - [[mesh glove]] (Designed for maximum ventilation in hot conditions)
+> 🧱 **Contrast:** Thermal traps heat in; cooling/mesh gloves release heat out
 
 ---

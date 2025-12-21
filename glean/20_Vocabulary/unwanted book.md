@@ -1,159 +1,79 @@
 #flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [unwanted books, discarded book, rejected book, unnecessary book, superfluous book]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ʌnˈwɒntɪd bʊk/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** B1
+> **Register:** General/Formal
+> **Etymology:** Old English "un" (not) + "wont" (to desire) + Old English "bōc" (book)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A book that nobody wants or needs
+>
+> **Context Meaning:** A book that is not needed, desired, or useful to its current owner; may be donated, discarded, or given away
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Sách không mong muốn
+> - **Contextual:** Sách không cần, sách thừa, sách muốn bỏ đi
+>
 > **Nuances:**
-> - ...
+> - Can refer to outdated textbooks, duplicate copies, or books that no longer interest the owner
+> - Often used in context of decluttering, moving, or library donations
+> - Neutral term - doesn't necessarily mean the book is bad quality
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Neglected, Redundant, Ready for new home
+> **Memory Hook:** Un- (not) + wanted (desired) + book = unwanted book = book nobody wants
+> **📖 Etymology Story:** In medieval times, "unwanted" meant something without a home or purpose. An "unwanted book" isn't necessarily evil or bad - it's simply a story waiting for a new reader who will treasure it, like a homeless book seeking shelter.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[book]] /bʊk/, [[want]] /wɒnt/, [[desire]] /dɪˈzaɪər/, [[donation]] /dəʊˈneɪʃən/
+> - **Verb:** [[want]] /wɒnt/, [[unwant]] /ʌnˈwɒnt/, [[discard]] /dɪˈskɑːd/, [[donate]] /dəʊˈneɪt/
+> - **Adj:** [[unwanted]] /ʌnˈwɒntɪd/, [[unneeded]] /ʌnˈniːdɪd/, [[surplus]] /ˈsɜːplʌs/
+> - **Adv:** [[unwantedly]] /ʌnˈwɒntɪdli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[unneeded book]] /ʌnˈniːdɪd bʊk/ : Not necessary or required
+> - [[superfluous book]] /suːˈpɜːfluəs bʊk/ : More than needed, extra
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[treasured book]] /ˈtreʒəd bʊk/ : Highly valued and cherished
+> - [[wanted book]] /ˈwɒntɪd bʊk/ : Desired or sought after
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Get rid of unwanted books
+> 2. Unwanted book collection
+> 3. Donate unwanted books
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The library accepts unwanted books as donations for their annual book sale.
+> - **Translation:** Thư viện chấp nhận sách không cần thiết như là quyên góp cho cuộc bán sách hàng năm của họ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Before moving, she sorted through her shelves and identified several unwanted books to give away.
+> - **Translation:** Trước khi chuyển nhà, cô ấy sắp xếp lại kệ sách và xác định một vài cuốn sách không cần thiết để cho đi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Order**
+> - ❌ **Mistake:** "book unwanted"
+> - ✅ **Correction:** "unwanted book"
+> - **Why:** "Unwanted" is an adjective that comes before the noun "book" in English.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "One person's unwanted book is another's treasure."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **unwanted book** (*/ʌnˈwɒntɪd bʊk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A book that is not needed, desired, or useful to its current owner and can be given away or discarded
+> 🇻🇳 **Vietnamese:** Sách không mong muốn/sách không cần thiết, sách thừa muốn bỏ đi
+> 🗣️ **IPA:** */ʌnˈwɒntɪd bʊk/*
+> 🧠 **Mental Model:** Giống như quần áo không mặc nữa - không có nghĩa là xấu, chỉ là người hiện tại không cần nữa và muốn cho người khác có thể sử dụng.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A book that is no longer needed or desired by its owner"
+**Vietnamese:** Một cuốn sách không còn cần thiết hoặc được mong muốn bởi chủ nhân của nó
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**unwanted book** (*/ʌnˈwɒntɪd bʊk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **unwanted book** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The campus book drive collected over 500 unwanted books from graduating students.
+> 🇻🇳 **Translation:** Chiến dịch quyên góp sách trong khuôn viên trường đã thu thập được hơn 500 cuốn sách không cần thiết từ các sinh viên sắp tốt nghiệp.
+> 🔍 **Analysis:** "Unwanted book" hoàn hảo ở đây vì nó trung tính và không phán xét - chỉ đơn giản là những cuốn sách không còn cần thiết cho sinh viên đã tốt nghiệp nhưng vẫn có giá trị cho người khác, thể hiện tính tuần hoàn của sách.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **unwanted book**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** get rid of unwanted books (loại bỏ sách không cần thiết - hành động dọn dẹp)
+> 2. **Collection:** pile of unwanted books (đống sách không cần - số lượng nhiều)
+> 3. **Destination:** unwanted books for charity (sách không cần cho từ thiện - mục đích tặng
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **unwanted book**:
+"She had old books she didn't need."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "As part of her minimalist journey, she identified every unwanted book on her shelves, deciding which to donate and which to recycle."
+> 💡 **Why it works:** "Unwanted book" cụ thể và trang trọng hơn "old books she didn't need", gợi ý quá trình có chủ đích (minimalist journey) và hành động có trách nhiệm (donate/recycle).
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **unwanted book** instead of **bad book**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **unwanted book:** Trung tính, chỉ là không cần thiết hoặc không phù hợp với chủ nhân hiện tại, vẫn có giá trị với người khác
+> **bad book:** Mang tính phán xét, chỉ là sách chất lượng kém, nội dung tệ, không có giá trị
+> 🧱 **The Barrier:** Unwanted = cá nhân không cần (subjective); Bad = sách kém (objective quality)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is moving to a smaller apartment and complains about too many books. You feel helpful. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Let me help you sort through those shelves - we can box up the unwanted books and take them to the library donation bin."
+> 👨‍🎨 **Director's Note:** "Unwanted books" thể hiện thái độ tích cực - không phải vứt đi mà là tìm chủ nhân mới cho sách, nhấn mạnh giá trị tuần hoàn và tính hữu ích của sách cho người khác.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `want` to the meaning of **unwanted book**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ "want" trong tiếng Anh cổ có nghĩa là "thiếu" (lacking). Khi thêm tiền tố "un-" tạo thành "unwanted" - không thiếu, không cần. "Unwanted book" là cuốn sách mà người chủ không "thiếu" trong cuộc sống, sẵn sàng chia sẻ cho người đang cần nó.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **unwanted book**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old Norse `vanta` (to lack, want) + Old English `bōc` (book, written document)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* wanted, unwanted, wantedness
+> - *(noun)* want, wanting, bookishness
+> - *(verb)* want, desire, require
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ʌnˈwɒntɪd bʊk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**unwanted book**
+> 📖 **Meaning:** A book not needed or desired by its current owner
+> 🇻🇳 **Vietnamese:** Sách không cần thiết, sách muốn cho đi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **unwanted book**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "These are books unwanted"
+> ✅ **Correction:** "These are unwanted books"
+> 🧠 **Why:** "Unwanted" là tính từ phải đứng trước danh từ "books" nó mô tả, không thể đứng sau động từ "are" như vậy.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **unwanted book**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[treasured book]] (Cherished and highly valued by its owner)
+> - [[bestseller]] (Popular and in high demand)
+> - [[collector's item]] (Rare and sought after)
+> 🧱 **Contrast:** Unwanted = surplus to needs; Treasured/bestseller = highly desired and valued
 
 ---

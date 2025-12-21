@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [instantly, right away, at once, without delay, promptly, straight away, forthwith, directly]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪˈmiːdiətli/
+> **Part of Speech:** Adverb
+> **CEFR Level:** B1
+> **Register:** Neutral/Formal
+> **Etymology:** From Latin 'immediatus' (without anything between), from 'im-' (not) + 'mediatus' (middle, intervening)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Without delay or interval
+>
+> **Context Meaning:** At once; without any delay or intervention between two actions or events
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Ngay lập tức, ngay lập tức
+> - **Contextual:** Ngay, liền, ngay tức thì
+>
 > **Nuances:**
-> - ...
+> - Implies urgency and direct succession of events
+> - Stronger than 'soon' but less formal than 'forthwith'
+> - Can indicate either temporal immediacy or spatial closeness
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Urgent, Efficient, Direct
+> **Memory Hook:** Imagine no 'medium' (nothing in the middle) - that's 'immediate'! When there's nothing between one moment and the next, it happens immediately.
+> **📖 Etymology Story:** The word comes from Latin 'immediatus' where 'im-' means 'not' and 'mediatus' means 'in the middle'. So something that happens 'immediately' happens without anything in the middle - no gap, no delay, just direct succession.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[immediacy]] /ɪˈmiːdiəsi/, [[immediate]] /ɪˈmiːdiət/
+> - **Adj:** [[immediate]] /ɪˈmiːdiət/
+> - **Adv:** [[immediately]] /ɪˈmiːdiətli/
+> - **Verb:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[instantly]] /ˈɪnstəntli/ : Emphasizes the instantaneous nature
+> - [[promptly]] /ˈprɒmptli/ : Suggests quick response to a stimulus
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[later]] /ˈleɪtə(r)/ : At a subsequent time
+> - [[eventually]] /ɪˈventʃuəli/ : After some time or delay
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. respond immediately
+> 2. immediately available
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** When the fire alarm rang, everyone evacuated the building immediately.
+> - **Translation:** Khi chuông báo cháy vang lên, mọi người đã ngay lập tức di tản khỏi tòa nhà.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new software update is immediately available for download.
+> - **Translation:** Bản cập nhật phần mềm mới đã có sẵn để tải ngay lập tức.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Redundancy**
+> - ❌ **Mistake:** I immediately called him right away.
+> - ✅ **Correction:** I immediately called him OR I called him right away.
+> - **Why:** 'Immediately' and 'right away' have the same meaning; using both is redundant.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "In emergency situations, action must be taken immediately to prevent further harm."
+> **Source:** [[First Aid Manual]]
 
 ---
 
@@ -161,121 +80,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **immediately** (*/ɪˈmiːdiətli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** At once; without any delay or intervention between two actions or events
+> 🇻🇳 **Vietnamese:** Ngay lập tức, ngay tức thì
+> 🗣️ **IPA:** */ɪˈmiːdiətli/*
+> 🧠 **Mental Model:** Không có khoảng trống thời gian (no time gap) - hành động nối tiếp nhau trực tiếp mà không có độ trễ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "At once; without any delay or intervention between two actions or events"
+**Vietnamese:** Ngay lập tức, ngay tức thì
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**immediately** (*/ɪˈmiːdiətli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **immediately** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The doctor responded immediately to the emergency call, arriving at the scene within minutes.
+> 🇻🇳 **Translation:** Bác sĩ đã ngay lập tức phản hồi với cuộc gọi khẩn cấp, đến hiện trường trong vài phút.
+> 🔍 **Analysis:** 'Immediately' hoàn hảo ở đây vì nó nhấn mạnh tốc độ phản hồi không độ trễ trong tình huống khẩn cấp, cho thấy tính chuyên nghiệp và sự quan trọng của hành động.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **immediately**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Actions:** take immediate action (hành động ngay lập tức) (<VN note vì thường dùng trong tình huống khẩn cấp>)
+> 2. **Response:** respond immediately (phản hồi ngay lập tức) (<VN note để nhấn mạnh sự chủ động và kịp thời>)
+> 3. **Availability:** immediately available (có sẵn ngay) (<VN note để chỉ thứ gì đó có thể sử dụng ngay không cần chờ đợi>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **immediately**:
+"She started crying after hearing the news."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She burst into tears immediately upon hearing the devastating news."
+> 💡 **Why it works:** 'Immediately' nâng cấp câu bằng cách nhấn mạnh sự tức thì của phản ứng cảm xúc, tạo ra hiệu quả mạnh mẽ hơn và cho thấy mức độ ảnh hưởng của tin tức.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **immediately** instead of **soon**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **immediately:** Indicates no delay or interval; action happens right now
+> **soon:** Indicates something will happen in the near future but with some delay
+> 🧱 **The Barrier:** 'Immediately' = zero time gap; 'soon' = some time gap (short but existent)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your phone shows an urgent message from your boss about a server crash. You feel responsible. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'll address this issue immediately and report back within the hour."
+> 👨‍🎨 **Director's Note:** Perfect professional tone showing urgency and commitment to quick resolution
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `mediatus` to the meaning of **immediately**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'mediatus' meant 'in the middle' - like a mediator standing between two parties. When we add 'im-' (not), we get 'immediatus' - with nothing in the middle, like two events touching directly without any space between them.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **immediately**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `medius` (middle) + prefix `im-` (not) + suffix `-ate` + adverbial `-ly`
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[immediate]] /ɪˈmiːdiət/ (ngay lập tức)
+> - *(noun)* [[immediacy]] /ɪˈmiːdiəsi/ (tính tức thời)
+> - *(noun)* [[media]] /ˈmiːdiə/ (phương tiện truyền thông - những thứ ở giữa)
+> - *(noun)* [[intermediate]] /ˌɪntəˈmiːdiət/ (trung gian)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪˈmiːdiətli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**immediately**
+> 📖 **Meaning:** At once; without any delay or intervention between two actions or events
+> 🇻🇳 **Vietnamese:** Ngay lập tức, ngay tức thì
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **immediately**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I will immediately to call you when I arrive.
+> ✅ **Correction:** I will call you immediately when I arrive.
+> 🧠 **Why:** 'Immediately' is an adverb and should not be placed between 'will' and the bare infinitive 'to call'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **immediately**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[eventually]] (<After some delay or at an unspecified future time>)
+> - [[later]] (<At a time in the future; afterward>)
+> - [[gradually]] (<Progressing slowly over time>)
+> 🧱 **Contrast:** While 'immediately' indicates zero time gap between events, 'eventually' suggests an indefinite period of delay before something happens.
 
 ---

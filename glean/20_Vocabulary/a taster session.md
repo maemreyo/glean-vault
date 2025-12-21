@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/education/university-academic-life
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [taster session, trial class, sample lesson, introductory session, demo class, preview course, workshop sampler]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈteɪstə ˈseʃn/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** informal/educational
+> **Etymology:** From "taste" (sample) + "session" (period of activity) - literally "a period to sample"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A short trial period to experience something before committing
+>
+> **Context Meaning:** An introductory class or workshop that allows people to experience a course or activity before deciding to enroll
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** buổi học thử
+> - **Contextual:** buổi trải nghiệm, buổi giới thiệu khóa học
+>
 > **Nuances:**
-> - ...
+> - Designed to be enticing but not comprehensive
+> - Free or low-cost to encourage participation
+> - Often highlights the most exciting aspects of the full course
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Welcoming, enticing, introductory
+> **Memory Hook:** Like tasting food before ordering the full meal - you sample the class before committing!
+> **📖 Etymology Story:** Medieval merchants would offer "tasters" of wine before selling. Modern educators adapted this concept - let students "taste" the knowledge before buying the full course. The best taster sessions leave students hungry for more!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[taste]] /teɪst/ , [[session]] /ˈseʃn/
+> - **Verb:** [[taste]] /teɪst/
+> - **Adj:** [[tasty]] /ˈteɪsti/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[trial class]] /ˈtraɪəl klɑːs/ : experimental lesson
+> - [[demo lesson]] /ˈdeməʊ ˈlesn/ : demonstration of teaching
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[full course]] /fʊl kɔːs/ : complete program
+> - [[commitment]] /kəˈmɪtmənt/ : binding obligation
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. free taster session
+> 2. attend a taster session
+> 3. taster session for beginners
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The gym offers a free taster session to new members.
+> - **Translation:** Phòng gym cung cấp buổi học thử miễn phí cho thành viên mới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She signed up for the pottery taster session and discovered a new hobby.
+> - **Translation:** Cô đăng ký buổi học làm gốm thử và khám phá ra một sở thích mới.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** "I attended a taster session of the course"
+> - ✅ **Correction:** "I attended a taster session for the course"
+> - **Why:** Preposition "for" indicates purpose, "of" indicates possession
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The university's taster sessions helped high school students choose their majors."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a taster session** (*/ə ˈteɪstə ˈseʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** (noun phrase) A short, introductory class or workshop that allows people to experience what a full course would be like before committing
+> 🇻🇳 **Vietnamese:** (cụm danh từ) Một lớp học hoặc buổi workshop giới thiệu ngắn gọn cho phép người trải nghiệm khóa học đầy đủ sẽ như thế nào trước khi cam kết
+> 🗣️ **IPA:** */ə ˈteɪstə ˈseʃn/*
+> 🧠 **Mental Model:** Taster session như food sampling - bạn get a "taste" của activity để decide nếu bạn want the "full meal" (complete course).
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "a short trial class to experience something before deciding to join"
+**Vietnamese:** một lớp học thử ngắn để trải nghiệm điều gì đó trước khi quyết định tham gia
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a taster session** (*/ə ˈteɪstə ˈseʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a taster session** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The coding bootcamp offered a free taster session to attract potential students.
+> 🇻🇳 **Translation:** Lớp học lập trình intensively đã cung cấp buổi học thử miễn phí để thu hút học viên tiềm năng.
+> 🔍 **Analysis:** "Free taster session" là common strategy để attract customers, "attract potential students" cho thấy purpose của nó như marketing tool - cho thấy relationship giữa sampling và conversion.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a taster session**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Marketing:** free/complimentary taster session (buổi học thử miễn phí - incentive to try)
+> 2. **Participation:** attend/join a taster session (tham gia buổi học thử - action taken)
+> 3. **Target Audience:** taster session for beginners/newcomers (dành cho người mới bắt đầu - specifying level)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a taster session**:
+"They had a trial class for the dance course."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The dance studio's complimentary taster session sparked her passion for Latin rhythms."
+> 💡 **Why it works:** "Complimentary taster session" sounds professional hơn "trial class", "sparked her passion" tạo emotional impact, "Latin rhythms" gives specificity thay vì generic "dance course".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a taster session** instead of **[[a demonstration]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a taster session:** Focus trên participant experience, hands-on involvement, personal discovery
+> **a demonstration:** Focus trên expert showing skills, passive observation, performance focus
+> 🧱 **The Barrier:** Taster session là "try it yourself", demonstration là "watch me do it" - difference between active participation và passive viewing.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is unsure about joining an expensive photography course. You want to help them decide. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Why not ask if they offer a taster session? It's better than wasting money on something you might not enjoy!"
+> 👨‍🎨 **Director's Note:** Sử dụng "taster session" như practical solution, "wasting money" appeals to practical concerns, shows understanding của financial hesitation.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `taste` + `session` to the meaning of **a taster session**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Taste" (French "taster" - to try by mouth) + "session" (Latin "sessio" - act of sitting) → imagine sitting down to taste knowledge → modern educational borrowing: sample learning before full commitment - như tasting menu before ordering full meal.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a taster session**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `taxare` (to touch, handle) → Old French `taster` → English `taste`
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[taste]] /teɪst/
+> - *(noun)* [[taster]] /ˈteɪstə/ (person who tastes)
+> - *(adj)* [[tasteful]] /ˈteɪstfʊl/
+> - *(phrase)* [[taster menu]] /ˈteɪstə ˈmenjuː/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈteɪstə ˈseʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a taster session**
+> 📖 **Meaning:** An introductory trial class allowing experience before commitment
+> 🇻🇳 **Vietnamese:** Một lớp học thử nghiệm giới thiệu cho phép trải nghiệm trước khi cam kết
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a taster session**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I want to taste the session" (confusing literal and figurative meanings)
+> ✅ **Correction:** "I want to attend a taster session"
+> 🧠 **Why:** "Taste" trong "taster session" là compound adjective, không phải literal action của tasting - you "attend" hoặc "take part in" session, không "taste" nó.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a taster session**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Opposite Concepts:**
+> - [[full commitment]] (complete dedication without trial)
+> - [[enrollment]] (formal registration for entire course)
+> - [[long-term program]] (extended educational commitment)
+> 🧱 **Contrast:** While taster session offers risk-free sampling, full commitment requires investment and dedication - one is exploration, the other is execution.
 
 ---

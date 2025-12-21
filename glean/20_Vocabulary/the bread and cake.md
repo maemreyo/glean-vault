@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 #flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [bread and cake, bread and pastry, daily sustenance, basic necessities, staple foods]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ðə bred ænd keɪk/
+> **Part of Speech:** Idiomatic phrase/Noun phrase
+> **CEFR Level:** B2
+> **Register:** Informal/Figurative
+> **Etymology:** Old English "bread" + Old Norse "kaka" (cake)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Basic food items representing daily sustenance
+>
+> **Context Meaning:** Essential items or fundamental needs; metaphorically represents basic necessities or good things in life
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Bánh mì và bánh ngọt
+> - **Contextual:** Cơm áo gạo tiền, những nhu cầu cơ bản, điều tốt đẹp nhất
+>
 > **Nuances:**
-> - ...
+> - Often used hyperbolically to mean "everything" or "all good things"
+> - Can represent the contrast between necessities (bread) and luxuries (cake)
+> - Sometimes implies taking both essential and desirable things
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Abundant, Satisfying, Complete
+> **Memory Hook:** Bread = basic food, Cake = treat food = bread and cake = having both necessities and luxuries
+> **📖 Etymology Story:** Medieval peasants dreamed of having both "bread" (survival) and "cake" (celebration). This phrase evolved to represent having everything - from daily essentials to life's pleasures, the complete package of human needs and wants.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[bread]] /bred/, [[cake]] /keɪk/, [[bakery]] /ˈbeɪkəri/, [[pastry]] /ˈpeɪstri/
+> - **Verb:** [[bake]] /beɪk/, [[earn]] /ɜːrn/, [[provide]] /prəˈvaɪd/
+> - **Adj:** [[fresh]] /freʃ/, [[baked]] /beɪkt/, [[delicious]] /dɪˈlɪʃəs/
+> - **Adv:** [[daily]] /ˈdeɪli/, [[freshly]] /ˈfreʃli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[everything]] /ˈevriθɪŋ/ : All things, complete set
+> - [[the works]] /ðə wɜːrks/ : All available options
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[bare essentials]] /beər ɪˈsenʃəlz/ : Only necessities
+> - [[scraps]] /skræps/ : Insufficient amount
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Want the bread and cake
+> 2. Have your bread and cake
+> 3. Bread and cake situation
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She wanted the bread and cake - a high salary AND flexible working hours.
+> - **Translation:** Cô ấy muốn có tất cả - lương cao VÀ giờ làm việc linh hoạt.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Why choose? You can have the bread and cake in this deal.
+> - **Translation:** Tại sao phải chọn? Bạn có thể có tất cả trong thương vụ này.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** "I want bread and cake" (literal meaning)
+> - ✅ **Correction:** "I want the bread and cake" (idiomatic meaning)
+> - **Why:** The definite article "the" makes it idiomatic for "everything" rather than literal food items.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "She's not satisfied with just bread - she wants the bread and cake."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **the bread and cake** (*/ðə bred ænd keɪk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Everything one could want; both necessities and luxuries; the complete package of benefits
+> 🇻🇳 **Vietnamese:** Tất cả mọi thứ, cơm áo gạo tiền và cả xa hoa, có cả cần thiết và sung túc
+> 🗣️ **IPA:** */ðə bred ænd keɪk/*
+> 🧠 **Mental Model:** Giống như vừa có cơm no (bread) lại vừa có tráng miệng ngon (cake) - muốn gì có nấy, trọn vẹn.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Having both essential needs and luxury desires; wanting everything"
+**Vietnamese:** Có cả những thứ cần thiết và những thứ xa hoa; muốn tất cả mọi thứ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**the bread and cake** (*/ðə bred ænd keɪk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **the bread and cake** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new job offer included the bread and cake: excellent pay, health benefits, and four weeks of vacation.
+> 🇻🇳 **Translation:** Lời đề nghị công việc mới có tất cả: lương tuyệt vời, bảo hiểm sức khỏe, và bốn tuần nghỉ phép.
+> 🔍 **Analysis:** "The bread and cake" hoạt động hoàn hảo ở đây vì nó diễn tả sự sung túc của offer - không chỉ có những gì cơ bản (lương) mà còn cả những perks hấp dẫn (benefits, vacation), thể hiện "want everything, get everything".
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **the bread and cake**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Desire:** want/have the bread and cake (muốn/có tất cả - biểu thị sự tham vọng hoặc sung túc)
+> 2. **Choice:** choose between bread and cake (chọn giữa cần thiết và xa xỉ - quyết định khó khăn)
+> 3. **Possession:** get the bread and cake (đạt được tất cả - thành công trọn vẹn)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **the bread and cake**:
+"She got everything she wanted."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Through smart negotiation, she secured the bread and cake - a corner office with both the salary she demanded and the work-life balance she craved."
+> 💡 **Why it works:** "The bread and cake" tạo hình ảnh cụ thể hơn "everything" - cho thấy sự đối lập giữa những gì cơ bản (salary) và những gì xa xỉ (work-life balance), gợi ý sự thông minh trong thương lượng.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **the bread and cake** instead of **everything**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **the bread and cake:** Nhấn mạnh sự phong phú, có cả thứ thiết yếu lẫn xa xỉ, gợi hình ảnh thực phẩm
+> **everything:** Trung tính, chỉ có nghĩa là "tất cả", không có hình ảnh hay cảm xúc
+> 🧱 **The Barrier:** Bread and cake = hình ảnh ẩm thực, so sánh giữa cần thiết và xa xỉ; Everything = khái niệm trừu tượng, bao gồm tất cả
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague got an amazing job offer with high salary AND work from home option. You feel amazed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Wow, you really got the bread and cake with that offer - remote work AND that salary bump?"
+> 👨‍🎨 **Director's Note:** "The bread and cake" thể hiện sự ngạc nhiên và ngưỡng mộ trước sự sung túc, nhấn mạnh rằng họ đã đạt được cả hai thứ tưởng chừng khó có cùng lúc.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `bread` and `cake` to the meaning of **the bread and cake**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Bread - lúa mì và sự sống. Cake - mật ong và lễ hội. Người xưa mơ ước ngày có cả hai. "The bread and cake" sinh ra từ khát vọng trọn vẹn: không chỉ sống sót mà còn sống sung túc, không chỉ cơm no áo ấm mà còn ngọt ngào.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **the bread and cake**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `bread` (morsel, food) + Old Norse `kaka` (sweet bread)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* bread, cake, bakery, baker
+> - *(verb)* bake, earn, provide
+> - *(adj)* baked, fresh-baked, wholesome
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ðə bred ænd keɪk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**the bread and cake**
+> 📖 **Meaning:** Having both necessities and luxuries; everything desirable
+> 🇻🇳 **Vietnamese:** Có tất cả mọi thứ cần thiết và sung túc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **the bread and cake**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I want bread and cake for breakfast" (như literal food)
+> ✅ **Correction:** "I want the bread and cake in this negotiation" (idiomatic meaning)
+> 🧠 **Why:** Thể hiện nghĩa nghĩa tượng trưng "tất cả mọi thứ" cần có "the", còn không có "the" chỉ hiểu theo nghĩa đen là thực phẩm.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **the bread and cake**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[bare bones]] (Only the absolute minimum)
+> - [[bread and water]] (Basic sustenance, no luxuries)
+> 🧱 **Contrast:** Bread and cake = complete abundance; Bare bones/bread and water = minimal survival
 
 ---

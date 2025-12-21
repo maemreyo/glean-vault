@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 #flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [coastal region, coastal zone, shoreline, seacoast, coast, waterfront, seafront, beach area]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkəʊstəl ˈeəriə/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** B2
+> **Register:** Neutral/Academic
+> **Etymology:** From Latin 'coasta' (rib, side) + 'area' (open space)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A land region near the coast or sea
+>
+> **Context Meaning:** The geographical region where land meets the sea, including beaches, cliffs, and adjacent inland areas affected by maritime influences
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Vùng duyên hải, khu vực ven biển
+> - **Contextual:** Vùng bờ biển, khu vực ven bờ biển
+>
 > **Nuances:**
-> - ...
+> - Often implies ecological significance and vulnerability
+> - Can include both natural and developed areas
+> - Subject to tidal influences and coastal processes
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Environmental, Protective, Dynamic
+> **Memory Hook:** Imagine the 'coast' as the edge where the 'ocean' meets the 'land' - this transition zone is the coastal area where marine and terrestrial life interact.
+> **📖 Etymology Story:** The word 'coast' comes from Latin 'costa' meaning 'rib' or 'side', as if the land has ribs or sides that touch the sea. When combined with 'area' (from Latin 'area' meaning 'open space'), it creates the image of an open space along the side of the land where it meets the ocean.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[coast]] /kəʊst/, coastline /ˈkəʊstlaɪn/, coastal zone /ˈkəʊstəl zəʊn/
+> - **Adj:** [[coastal]] /ˈkəʊstəl/
+> - **Verb:** [[coast]] /kəʊst/
+> - **Adv:** coastally /ˈkəʊstəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[seaside]] /ˈsiːsaɪd/ : More informal, often referring to tourist areas
+> - [[shoreline]] /ˈʃɔːlaɪn/ : Focuses specifically on the line where water meets land
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[inland]] /ˌɪnˈlænd/ : Referring to areas away from the coast
+> - [[interior]] /ɪnˈtɪəriə(r)/ : The inner parts of a country
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. coastal erosion
+> 2. coastal management
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The coastal area is home to diverse ecosystems including mangroves, coral reefs, and nesting grounds for sea turtles.
+> - **Translation:** Vùng duyên hải là nơi sinh sống của các hệ sinh thái đa dạng bao gồm rừng ngập mặn, rạn san hô và các khu vực sinh sản của rùa biển.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Rapid development in coastal areas has led to habitat loss for many marine species.
+> - **Translation:** Sự phát triển nhanh chóng ở các khu vực ven biển đã dẫn đến mất môi trường sống cho nhiều loài sinh vật biển.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** They live in coastal area without proper infrastructure.
+> - ✅ **Correction:** They live in a coastal area without proper infrastructure.
+> - **Why:** 'Coastal area' is a countable noun phrase and requires an article when used in the singular.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Coastal areas are among the most productive and diverse ecosystems on Earth, yet they face unprecedented threats from climate change and human activities."
+> **Source:** [[Environmental Science Textbook]]
 
 ---
 
@@ -161,121 +80,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **coastal area** (*/ˈkəʊstəl ˈeəriə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A geographical region where land meets the sea, including beaches, cliffs, and adjacent inland areas
+> 🇻🇳 **Vietnamese:** Vùng duyên hải, khu vực ven biển
+> 🗣️ **IPA:** */ˈkəʊstəl ˈeəriə/*
+> 🧠 **Mental Model:** Khu vực chuyển tiếp (transition zone) giữa đất liền và đại dương, nơi có sự tương tác độc đáo giữa hệ sinh thái trên cạn và dưới nước
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A geographical region where land meets the sea, including beaches, cliffs, and adjacent inland areas"
+**Vietnamese:** Vùng duyên hải, khu vực ven biển
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**coastal area** (*/ˈkəʊstəl ˈeəriə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **coastal area** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Many migratory birds rely on the coastal area as a crucial stopover during their long journey.
+> 🇻🇳 **Translation:** Nhiều chim di trú phụ thuộc vào vùng duyên hải như một điểm dừng chân quan trọng trong hành trình dài của chúng.
+> 🔍 **Analysis:** Cụm này hoàn hảo ở đây vì nó chỉ một khu vực địa lý cụ thể có đặc điểm sinh thái riêng biệt, nơi chim di trú tìm thức ăn và nghỉ ngơi. 'Coastal' mô tả vị trí ven biển, còn 'area' xác định một không gian đủ rộng để hỗ trợ các hoạt động sinh học.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **coastal area**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Ecological Features:** coastal erosion (sự xói lở ven biển) (<VN note vì đây là hiện tượng tự nhiên đặc trưng của vùng ven biển>)
+> 2. **Human Activities:** coastal management (quản lý ven biển) (<VN note vì cần có chính sách đặc biệt để bảo vệ và phát triển bền vững>)
+> 3. **Geographic Description:** urban coastal area (khu vực ven biển đô thị hóa) (<VN note để phân biệt với vùng ven biển tự nhiên)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **coastal area**:
+"The place near the ocean has many animals."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The coastal area provides critical habitat for numerous species, including endangered marine turtles and migratory shorebirds."
+> 💡 **Why it works:** Cụm từ này nâng cấp câu từ chung chung ("place near the ocean") lên một thuật ngữ địa lý và sinh thái học chính xác, nhấn mạnh tầm quan trọng của khu vực chuyển tiếp giữa đất và biển.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **coastal area** instead of **seaside**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **coastal area:** Used in academic, environmental, and planning contexts; refers to any land region near the coast including natural zones, not just tourist areas
+> **seaside:** More informal and tourism-focused; often specifically refers to resorts or beaches for recreation
+> 🧱 **The Barrier:** 'coastal area' covers the entire geographical and ecological zone, while 'seaside' typically just refers to developed tourist sections of the coast
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're an environmental scientist presenting at a conference about climate change impacts. You feel concerned about biodiversity loss. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The coastal area represents one of the most vulnerable ecosystems to rising sea levels, with potential loss of critical habitat for countless species."
+> 👨‍🎨 **Director's Note:** Perfect academic tone showing scientific concern while highlighting the ecological importance of the coastal zone
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `costa` to the meaning of **coastal area**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'costa' meant 'rib' - like ribs protecting our body, coastlines protect the land. The coastal area became the breathing zone where land and ocean exchange life, nutrients, and energy.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **coastal area**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `costa` (rib, side) + `area` (open space, level ground)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[coast]] /kəʊst/ (đường bờ biển)
+> - *(adj)* [[coastal]] /ˈkəʊstəl/ (thuộc về bờ biển)
+> - *(noun)* [[coastline]] /ˈkəʊstlaɪn/ (đường bờ)
+> - *(noun)* [[coastguard]] /ˈkəʊstɡɑːd/ (lực lượng bảo vệ bờ biển)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkəʊstəl ˈeəriə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**coastal area**
+> 📖 **Meaning:** A geographical region where land meets the sea, including beaches, cliffs, and adjacent inland areas
+> 🇻🇳 **Vietnamese:** Vùng duyên hải, khu vực ven biển
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **coastal area**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The government must protect coastals from pollution.
+> ✅ **Correction:** The government must protect coastal areas from pollution.
+> 🧠 **Why:** 'Coastal' is an adjective and cannot be pluralized; we must use 'coastal areas' when referring to multiple regions
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **coastal area**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[inland region]] (<Refers to areas away from the sea>)
+> - [[interior zone]] (<Opposite of coastal transition zone>)
+> - [[hinterland]] (<The land behind the coast>)
+> 🧱 **Contrast:** While coastal areas are characterized by marine influence and tidal action, inland regions are shaped by continental conditions and are typically drier.
 
 ---

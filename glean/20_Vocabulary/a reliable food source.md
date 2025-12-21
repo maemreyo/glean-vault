@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
 #flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [dependable food supply, trustworthy food source, consistent food provider, stable food resource, food security]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə rɪˈlaɪəbəl fuːd sɔːs/
+> **Part of Speech:** Noun phrase
+> **CEFR Level:** B2
+> **Register:** Academic/Formal
+> **Etymology:** Latin 're-' (back) + 'ligere' (to bind) + Old English 'fōda' (food) + Latin 'surgere' (to rise)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A trustworthy place from which food comes
+>
+> **Context Meaning:** A consistent and dependable supply of food that can be counted on to provide sustenance, either for individuals, communities, or ecosystems
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Nguồn thực phẩm đáng tin cậy
+> - **Contextual:** Nguồn cung cấp lương thực ổn định, nguồn thức ăn tin cậy
+>
 > **Nuances:**
-> - ...
+> - Implies consistency and dependability over time
+> - Can refer to natural sources (crops, animals) or systems (farms, markets)
+> - Often used in discussions of food security and sustainability
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Dependable, Sustainable, Essential
+> **Memory Hook:** Think of 'reliable' as something you can 'rely' on + 'food source' where food 'comes from' - together they mean food you can count on!
+> **📖 Etymology Story:** 'Reliable' comes from Latin 'relegare' - to bind together, like promises that bind people. 'Source' comes from Latin 'surgere' - to rise up, like a spring rising from the earth. Together, they describe food that rises consistently like a faithful spring, binding communities to sustenance they can trust.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[reliability]] /rɪˌlaɪəˈbɪləti/, [[reliance]] /rɪˈlaɪəns/, [[source]] /sɔːs/, [[food]] /fuːd/
+> - **Adj:** [[reliable]] /rɪˈlaɪəbl/, [[sourced]] /sɔːst/
+> - **Verb:** [[rely]] /rɪˈlaɪ/, [[source]] /sɔːs/
+> - **Adv:** [[reliably]] /rɪˈlaɪəbli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[dependable food supply]] /dɪˈpendəbl fuːd səˈplaɪ/ : Emphasizes trustworthiness
+> - [[consistent food provider]] /kənˈsɪstənt fuːd prəˈvaɪdə(r)/ : Focuses on regularity
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[unreliable food source]] /ʌnrɪˈlaɪəbl fuːd sɔːs/ : Cannot be depended upon
+> - [[seasonal food source]] /ˈsiːzənl fuːd sɔːs/ : Available only at certain times
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. establish a reliable food source
+> 2. access to reliable food source
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Diversifying crops is essential for establishing a reliable food source for the community.
+> - **Translation:** Đa dạng hóa cây trồng là điều cần thiết để thiết lập nguồn thực phẩm đáng tin cậy cho cộng đồng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The region's fishing industry provides a reliable food source for coastal populations.
+> - **Translation:** Ngành công nghiệp cá biển của khu vực cung cấp nguồn thực phẩm đáng tin cậy cho dân cư ven biển.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Adjective-Noun Agreement**
+> - ❌ **Mistake:** We need reliables food sources for food security.
+> - ✅ **Correction:** We need reliable food sources for food security.
+> - **Why:** 'Reliable' is an adjective and doesn't change form; 'food sources' is the noun phrase being described.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Food security exists when all people, at all times, have physical and economic access to sufficient, safe, and nutritious food that meets their dietary needs and food preferences for an active and healthy life."
+> **Source:** [[FAO Definition]]
 
 ---
 
@@ -161,121 +80,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a reliable food source** (*/ə rɪˈlaɪəbəl fuːd sɔːs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A consistent and dependable supply of food that can be counted on to provide sustenance
+> 🇻🇳 **Vietnamese:** Nguồn thực phẩm đáng tin cậy, nguồn cung cấp lương thực ổn định
+> 🗣️ **IPA:** */ə rɪˈlaɪəbəl fuːd sɔːs/*
+> 🧠 **Mental Model:** Nguồn cung cấp ổn định (stable supply) - như một dòng suối chảy đều đặn, luôn có thể dựa vào được
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A consistent and dependable supply of food that can be counted on to provide sustenance"
+**Vietnamese:** Nguồn thực phẩm đáng tin cậy, nguồn cung cấp lương thực ổn định
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a reliable food source** (*/ə rɪˈlaɪəbəl fuːd sɔːs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a reliable food source** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Urban agriculture initiatives are transforming rooftops into a reliable food source for city dwellers.
+> 🇻🇳 **Translation:** Các sáng kiến nông nghiệp đô thị đang biến mái nhà thành nguồn thực phẩm đáng tin cậy cho người dân thành thị.
+> 🔍 **Analysis:** Cụm từ này hoàn hảo ở đây vì nó không chỉ chỉ nơi lấy thức ăn mà còn nhấn mạnh tính ổn định và đáng tin cậy, rất quan trọng trong bối cảnh an ninh lương thực đô thị.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a reliable food source**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Establishment:** establish a reliable food source (thiết lập nguồn thực phẩm đáng tin cậy) (<VN note vì đây là hành động tạo ra sự ổn định>)
+> 2. **Access:** access to reliable food source (tiếp cận nguồn thực phẩm đáng tin cậy) (<VN note để chỉ khả năng có được lương thực>)
+> 3. **Importance:** vital reliable food source (nguồn thực phẩm đáng tin cậy thiết yếu) (<VN note để nhấn mạnh tầm quan trọng>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a reliable food source**:
+"The farm grows good food."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Through sustainable farming practices, the organic farm has become a reliable food source for the entire region."
+> 💡 **Why it works:** Cụm từ này nâng cấp câu bằng cách nhấn mạnh tính ổn định và đáng tin cậy của nguồn cung cấp, cho thấy tầm quan trọng của nông trại đối với cộng đồng thay vì chỉ nói "grows good food".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a reliable food source** instead of **food availability**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a reliable food source:** Consistent, dependable supply over time; implies stability and trust
+> **food availability:** Food is present but may not be consistently available; temporary state
+> 🧱 **The Barrier:** 'reliable food source' = consistent over time; 'food availability' = present but potentially temporary
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're discussing community resilience with local leaders. You feel concerned about sustainability. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We must invest in local farming to ensure every neighborhood has a reliable food source during emergencies."
+> 👨‍🎨 **Director's Note:** Perfect forward-thinking approach focusing on long-term food security planning
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `reliable` + `source` to the meaning of **a reliable food source**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Reliable' came from 'bind together' - like promises binding people. 'Source' meant 'to rise up' like a spring from earth. Together, they describe food that rises consistently like a faithful spring, binding communities to sustenance they can trust day after day.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a reliable food source**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `relegare` (to bind) + `surgere` (to rise)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[reliable]] /rɪˈlaɪəbl/ (đáng tin cậy)
+> - *(noun)* [[reliability]] /rɪˌlaɪəˈbɪləti/ (sự đáng tin cậy)
+> - *(noun)* [[source]] /sɔːs/ (nguồn)
+> - *(noun)* [[resource]] /rɪˈzɔːs/ (nguồn tài nguyên)
+> - *(verb)* [[rely]] /rɪˈlaɪ/ (dựa vào)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə rɪˈlaɪəbəl fuːd sɔːs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a reliable food source**
+> 📖 **Meaning:** A consistent and dependable supply of food that can be counted on to provide sustenance
+> 🇻🇳 **Vietnamese:** Nguồn thực phẩm đáng tin cậy, nguồn cung cấp lương thực ổn định
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a reliable food source**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The supermarket is a reliability food source for urban residents.
+> ✅ **Correction:** The supermarket is a reliable food source for urban residents.
+> 🧠 **Why:** The correct adjective form is 'reliable', not 'reliability' (which is a noun)
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a reliable food source**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[an unreliable food source]] (<Cannot be depended upon>)
+> - [[a seasonal food source]] (<Available only during certain times>)
+> - [[an intermittent food supply]] (<Irregular, unpredictable availability>)
+> 🧱 **Contrast:** While 'a reliable food source' provides consistent, dependable nourishment, 'an unreliable food source' creates uncertainty and potential food insecurity.
 
 ---

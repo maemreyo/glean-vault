@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [accompany, join, progress, develop, advance, attend, show up, arrive, make progress]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kʌm əˈlɒŋ/
+> **Part of Speech:** Phrasal verb (intransitive)
+> **CEFR Level:** B1
+> **Register:** Informal/Neutral
+> **Etymology:** Old English 'cuman' (to come) + Middle English 'along' (in company with, together)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To move in company with someone or something
+>
+> **Context Meaning:**
+> 1. To accompany someone or go with them
+> 2. To arrive or appear
+> 3. To make progress or develop
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Đi cùng, tham gia, đi theo
+> - **Contextual:** Đến, xuất hiện, tiến triển, phát triển
+>
 > **Nuances:**
-> - ...
+> - Often used in invitations or encouragement
+> - Can indicate unexpected arrival
+> - Sometimes implies gradual progress or development
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Welcoming, Encouraging, Casual
+> **Memory Hook:** Imagine someone 'coming' and moving 'along' with you - they're joining your journey or activity.
+> **📖 Etymology Story:** The phrase combines 'come' (from Old English 'cuman') with 'along' (from Old English 'andlang', meaning "in the same direction"). Originally, it described physical movement in the same direction as someone else, like walking along a path together. Over time, it evolved to include more abstract forms of companionship and progress.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Base Verb:** [[come]] /kʌm/
+> - **Related Phrasals:** [[come across]], [[come up with]], [[come through]]
+> - **Prepositional Phrase:** along with /əˈlɒŋ wɪð/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[accompany]] /əˈkʌmpəni/ : More formal
+> - [[join]] /dʒɔɪn/ : To become a member or participant
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[leave]] /liːv/ : To depart or go away from
+> - [[stay behind]] /steɪ bɪˈhaɪnd/ : Not to accompany
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. come along nicely
+> 2. come along with us
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** "Would you like to come along with us to the cinema tonight?"
+> - **Translation:** "Bạn có muốn đi cùng chúng tôi đến rạp chiếu phim tối nay không?"
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The project is coming along nicely, and we should finish ahead of schedule.
+> - **Translation:** Dự án đang tiến triển tốt đẹp, và chúng tôi sẽ hoàn thành sớm hơn lịch dự kiến.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Particle Separation**
+> - ❌ **Mistake:** I wish you would come with along us.
+> - ✅ **Correction:** I wish you would come along with us.
+> - **Why:** In 'come along', 'along' is an adverbial particle that always follows 'come' and cannot be separated by the object.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Success doesn't just come along. You have to go out and get it."
+> **Source:** [[Motivational Speech]]
 
 ---
 
@@ -161,121 +82,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **come along** (*/kʌm əˈlɒŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** 1) To accompany someone or go with them 2) To make progress or develop 3) To arrive or appear
+> 🇻🇳 **Vietnamese:** 1) Đi cùng, tham gia 2) Tiến triển, phát triển 3) Đến, xuất hiện
+> 🗣️ **IPA:** */kʌm əˈlɒŋ/*
+> 🧠 **Mental Model:** Hành động tham gia (joining action) hoặc sự tiến triển (progression) - như việc đi theo ai đó hoặc một công việc đang chuyển động theo chiều tích cực
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To accompany someone or go with them; to make progress or develop; to arrive or appear"
+**Vietnamese:** Đi cùng, tham gia; tiến triển, phát triển; đến, xuất hiện
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**come along** (*/kʌm əˈlɒŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **come along** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Several new team members came along during the second quarter, strengthening our project delivery capabilities.
+> 🇻🇳 **Translation:** Vài thành viên mới của nhóm đã tham gia trong quý thứ hai, củng cố khả năng thực hiện dự án của chúng tôi.
+> 🔍 **Analysis:** 'Come along' hoàn hảo ở đây vì nó diễn tả sự tham gia tự nhiên và kịp thời của các thành viên mới, tạo cảm giác về một sự kiện tích cực và chào đón, thay vì chỉ nói "joined" hoặc "arrived" một cách đơn điệu.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **come along**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Progress:** come along nicely/well (tiến triển tốt đẹp) (<VN note để mô tả sự phát triển tích cực>)
+> 2. **Invitation:** come along with us/me (đi cùng chúng tôi/tôi) (<VN note cách mời gọi thân thiện>)
+> 3. **Opportunity:** come along at the right time (đến đúng lúc) (<VN note để chỉ sự xuất hiện oportunely>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **come along**:
+"Can you join us for dinner?"
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We're trying that new Italian place tonight - would you like to come along?"
+> 💡 **Why it works:** 'Come along' tạo ra lời mời tự nhiên và thân thiện hơn 'join', mang sắc thái gần gũi và không trang trọng như 'accompany', phù hợp với việc rủ rê bạn bè.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **come along** instead of **accompany**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **come along:** Informal, friendly, suggests joining an ongoing activity or journey
+> **accompany:** More formal, often implies providing company or protection
+> 🧱 **The Barrier:** 'come along' = casual joining; 'accompany' = formal escorting or being with someone
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friends are planning a weekend trip to the mountains. You feel excited and want to join. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "That sounds amazing! Can I come along too?"
+> 👨‍🎨 **Director's Note:** Perfect casual enthusiasm showing desire to join the group activity
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `come` + `along` to the meaning of **come along**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Come' meant 'to move toward' and 'along' meant 'in the same direction'. Together, they created the image of moving together in the same direction, like friends walking along the same path toward the same destination.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **come along**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `cuman` (to come) + `andlang` (along, in the same direction)
+> 👨‍👩‍👧 **Family:**
+> - *(phrasal verb)* [[come across]] (tình cờ gặp)
+> - *(phrasal verb)* [[come up with]] (nghĩ ra)
+> - *(phrasal verb)* [[come through]] (vượt qua, thành công)
+> - *(idiom)* [[come rain or shine]] (dù mưa hay nắng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kʌm əˈlɒŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**come along**
+> 📖 **Meaning:** To accompany someone or go with them; to make progress or develop; to arrive or appear
+> 🇻🇳 **Vietnamese:** Đi cùng, tham gia; tiến triển, phát triển; đến, xuất hiện
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **come along**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The opportunity was come along when I needed it most.
+> ✅ **Correction:** The opportunity came along when I needed it most.
+> 🧠 **Why:** 'Come along' is a phrasal verb that takes the past tense 'came' not 'was come'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **come along**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[stay behind]] (<To not accompany or remain while others depart>)
+> - [[drop out]] (<To quit or abandon participation>)
+> - [[fall behind]] (<To fail to keep pace with progress>)
+> 🧱 **Contrast:** While 'come along' suggests joining and progressing with others, 'stay behind' indicates remaining while others move forward or depart.
 
 ---

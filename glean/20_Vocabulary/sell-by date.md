@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
 #flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [expiration date, best before date, use by date, expiry date, date stamp, freshness date, shelf life]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /sel baɪ deɪt/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** commercial/practical
+> **Etymology:** Modern retail terminology combining 'sell' (Old English 'sellan') + 'by' + 'date' (from Latin 'datus')
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A date printed on food products indicating when they should be sold
+>
+> **Context Meaning:** The last date a retailer should display a product for sale; food may still be safe to eat after this date
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ngày bán hết, hạn bán
+> - **Contextual:** ngày sử dụng tốt nhất, hạn bán lẻ
+>
 > **Nuances:**
-> - ...
+> - Different from 'use by date' (safety deadline)
+> - More about quality than safety
+> - Often leads to food waste when misunderstood
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Commercial, Time-sensitive
+> **Memory Hook:** Store must sell BY this date - think of it as the deadline for selling, not for eating
+> **📖 Etymology Story:** Modern retail invention - storeSELLs BY this DATE to ensure freshness for customers
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Phrase:** sell-by date /sel baɪ deɪt/
+> - **Related:** use-by date /juːz baɪ deɪt/
+> - **Related:** best-before date /best bɪˈfɔː deɪt/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[expiration date]] : more general term
+> - [[expiry date]] : British English version
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[production date]] : when it was made
+> - [[packaging date]] : when it was packaged
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Check the sell-by date
+> 2. Past/beyond the sell-by date
+> 3. Extend the sell-by date
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The milk is still good three days past its sell-by date.
+> - **Translation:** Sữa vẫn dùng được được ba ngày sau khi quá hạn bán.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Supermarkets often discount items near their sell-by date.
+> - **Translation:** Siêu thị thường giảm giá các mặt hàng gần đến hạn bán.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with use-by date**
+> - ❌ **Mistake:** I can't eat this - it's past the sell-by date.
+> - ✅ **Correction:** Let me check - if it's only past the sell-by date but not the use-by date, it might still be okay.
+> - **Why:** Sell-by is for stores, use-by is for safety
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "These products are marked down because they're approaching their sell-by date."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,126 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **sell-by date** (*/sel baɪ deɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A date on food products indicating when retailers should stop selling them
+> 🇻🇳 **Vietnamese:** Hạn bán, ngày bán hết
+> 🗣️ **IPA:** */sel baɪ deɪt/*
+> 🧠 **Mental Model:** Ngày mà cửa hàng phải BÁN HẾT sản phẩm - không phải ngày hết dùng, chỉ là deadline cho việc bán
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The last date a retailer should display a product for sale; food may still be safe after"
+**Vietnamese:** Hạn bán lẻ, ngày cuối cùng cửa hàng được bán
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**sell-by date** (*/sel baɪ deɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **sell-by date** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The bread is on sale because tomorrow is its sell-by date.
+> 🇻🇳 **Translation:** Bánh mì đang được giảm giá vì mai là hạn bán của nó.
+> 🔍 **Analysis:** 'Sell-by date' thể hiện ngày cuối cùng cửa hàng được phép bán - bánh mì vẫn ăn được sau ngày này, chỉ không được bán nữa
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **sell-by date**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Checking:** Check/look at the sell-by date (kiểm tra hạn bán)
+> 2. **Status:** Past/near/beyond the sell-by date (qua/gần hạn bán)
+> 3. **Action:** Extend/reach the sell-by date (gia hạn/đến hạn bán)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **sell-by date**:
+"The food has a date on it."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The yogurt is perfectly fine to eat - we're only one day past the sell-by date, not the use-by date."
+> 💡 **Why it works:** 'Sell-by date' tạo sự phân biệt rõ ràng giữa hạn bán và hạn dùng, thể hiện hiểu biết về food safety
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **sell-by date** instead of **[[use-by date]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **sell-by date:** Hạn bán cho cửa hàng - để đảm bảo chất lượng
+> **[[use-by date]]:** Hạn dùng cho người tiêu dùng - để đảm bảo an toàn
+> 🧱 **The Barrier:** Sell-by is about quality for retailers, use-by is about safety for consumers
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at the grocery store and see an employee marking down items. You're curious. Ask why!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Excuse me, are these items discounted because they're approaching their sell-by date?"
+> 👨‍🎨 **Director's Note:** 'Sell-by date' thể hiện hiểu biết về cách cửa hàng quản lý hàng hóa, phù hợp với bối cảnh mua sắm thông minh
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Explain the modern origin of **sell-by date**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Thuật ngữ hiện đại ra đời khi supermarkets cần quản lý hàng hóa - 'SELL by DATE' nói rõ đây là ngày cuối cùng để BÁN, không phải ngày hết dùng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **sell-by date**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Components:**
+> - 'Sell' từ Old English 'sellan' (bán)
+> - 'By' (trước, không muộn hơn)
+> - 'Date' từ Latin 'datus' (được cho, ngày tháng)
+> 👨‍👩‍👧 **Family:**
+> - *(phrase)* sell-by date (hạn bán)
+> - *(related)* use-by date (hạn dùng)
+> - *(related)* best-before (tốt nhất trước khi)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */sel baɪ deɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**sell-by date**
+> 📖 **Meaning:** The date by which a product should be sold
+> 🇻🇳 **Vietnamese:** Hạn bán, ngày hết hạn bán
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **sell-by date**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** I threw away the yogurt because it was past its sell-by date
+> ✅ **Correction:** I checked if it was past its use-by date before throwing it away
+> 🧠 **Why:** Sell-by date chỉ cho cửa hàng biết khi nào phải bán hết, không phải ngày hết dùng an toàn
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **sell-by date**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[production date]] (ngày sản xuất)
+> - [[packaging date]] (ngày đóng gói)
+> - [[manufacturing date]] (ngày chế biến)
+> 🧱 **Contrast:** Sell-by là ngày cuối cùng bán, antonyms là ngày đầu tiên sản xuất
 
 ---

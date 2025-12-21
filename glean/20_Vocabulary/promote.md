@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
 #flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [promotion, promoting, promoted, advancement, boost, encourage, foster, support, 提升, 晋升, 促进]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /prəˈməʊt/
+> **Part of Speech:** Verb
+> **CEFR Level:** B1
+> **Register:** Formal/Business
+> **Etymology:** From Latin "promovere" meaning "to move forward"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To move forward or advance in position
+>
+> **Context Meaning:** To support or actively encourage the growth, development, or acceptance of something; to raise someone to a higher position or rank
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Thúc đẩy
+> - **Contextual:** Quảng bá, đề bạt, thăng chức
+>
 > **Nuances:**
-> - ...
+> - Can apply to careers (promotion), ideas, products, or causes
+> - Implies active effort to advance something
+> - In business contexts, often refers to career advancement
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Ambitious
+> **Memory Hook:** "Pro-" (forward) + "mote" (move) = to move something forward
+> **📖 Etymology Story:** Từ Latin "pro-" (forward) + "movere" (to move) - literally "to move forward" - whether it's moving up the career ladder hay moving product into market.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[promotion]] /prəˈməʊʃn/
+> - **Verb:** [[promote]] /prəˈməʊt/, [[promoted]] /prəˈməʊtɪd/, [[promoting]] /prəˈməʊtɪŋ/
+> - **Adj:** [[promotional]] /prəˈməʊʃənl/
+> - **Adv:** [[promotionally]] /prəˈməʊʃənəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[advance]] /ədˈvɑːns/ : move forward in position
+> - [[encourage]] /ɪnˈkʌrɪdʒ/ : give support to
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[demote]] /diːˈməʊt/ : reduce in rank
+> - [[hinder]] /ˈhɪndə(r)/ : obstruct or impede
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. promote growth/development
+> 2. promote awareness/understanding
+> 3. get promoted
+>
+> **1. Example Context 1 (Career)**
+> - **Sentence:** She was promoted to senior manager after years of dedicated service.
+> - **Translation:** Cô ấy được thăng chức lên quản lý cấp cao sau nhiều năm phục vụ tận tụy.
+>
+> **2. Example Context 2 (Marketing)**
+> - **Sentence:** The company will promote its new product through social media campaigns.
+> - **Translation:** Công ty sẽ quảng bá sản phẩm mới của mình thông qua các chiến dịch truyền thông xã hội.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition usage**
+> - ❌ **Mistake:** "They promoted for the position."
+> - ✅ **Correction:** "They promoted her to the position."
+> - **Why:** "Promote someone TO a position" is the correct structure.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Promote what you love instead of bashing what you hate."
+> **Source:** Modern Wisdom
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **promote** (*/prəˈməʊt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To actively support the growth, advancement, or acceptance of something; to raise to a higher position
+> 🇻🇳 **Vietnamese:** Chủ động hỗ trợ sự phát triển, tiến bộ hoặc chấp nhận của điều gì đó; nâng lên vị trí cao hơn
+> 🗣️ **IPA:** */prəˈməʊt/*
+> 🧠 **Mental Model:** Tưởng tượng pushing something forward - whether it's career ladder "promote" (đẩy lên) hay pushing idea "promote" (lan tỏa).
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To advance someone to a higher position or rank"
+**Vietnamese:** Thăng tiến ai đó lên vị trí hoặc cấp bậc cao hơn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**promote** (*/prəˈməʊt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **promote** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The organization promotes environmental awareness through educational programs.
+> 🇻🇳 **Translation:** Tổ chức này thúc đẩy nhận thức về môi trường thông qua các chương trình giáo dục.
+> 🔍 **Analysis:** "Promote" perfect ở đây vì nó active hơn "support" - imply intentional effort to advance awareness.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **promote**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Career:** promote to (thăng chức lên)
+> 2. **Business:** promote sales/products (khuyến mãi/quảng bá sản phẩm)
+> 3. **Social:** promote understanding/cooperation (thúc đẩy sự hiểu biết/hợp tác)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **promote**:
+"The company will help the new product."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The company will heavily promote the new product through targeted digital marketing campaigns."
+> 💡 **Why it works:** "Promote" active và business-oriented - stronger hơn "help" vì nó imply strategic marketing efforts.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **promote** instead of **[[encourage]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **promote:** Dùng khi có active effort/systematic approach để advance something
+> **[[encourage]]:** Dùng khi chỉ give moral support/confidence
+> 🧱 **The Barrier:** Promote là active advancement, encourage là passive support.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why eco-friendly practices should be adopted. You feel passionate. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We must actively promote sustainable practices to protect our planet for future generations."
+> 👨‍🎨 **Director's Note:** "Promote" powerful vì nó imply taking action - không chỉ believe mà còn spread và advance the cause.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `movere` to the meaning of **promote**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "pro-" (forward) + "movere" (move) - literally "to move forward". Whether moving up career ladder hoặc moving idea into public consciousness!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **promote**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `movere` (<to move>)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[demote]] (giáng chức - move down)
+> - *(verb)* [[motion]] (sự vận động)
+> - *(verb)* [[motivate]] (thúc đẩy - make move)
+> - *(noun)* [[promotion]] (sự thăng chức/quảng bá)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */prəˈməʊt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**promote**
+> 📖 **Meaning:** To advance or support
+> 🇻🇳 **Vietnamese:** Thúc đẩy hoặc hỗ trợ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **promote**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The campaign promotes to buy local products."
+> ✅ **Correction:** "The campaign promotes buying local products."
+> 🧠 **Why:** "Promote" thường followed by noun/gerund, không phải "promote to + verb".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **promote**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[demote]] (giáng chức - lower in rank)
+> - [[hinder]] (cản trở - obstruct progress)
+> - [[discourage]] (làm nản lòng - reduce confidence)
+> 🧱 **Contrast:** Promote là advancing, antonyms là holding back hoặc lowering.
 
 ---

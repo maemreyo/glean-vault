@@ -1,0 +1,3 @@
+This is Ireland's Dún Briste, [[30_Structures/a towering 150-foot sea stack|a towering 150-foot sea stack]] standing just off the coast. [[30_Structures/It is a striking reminder|It is a striking reminder]] that the Earth's [[20_Vocabulary/coat|surface]] can [[20_Vocabulary/affect|change]] rapidly [[20_Vocabulary/In addition|and]] [[20_Vocabulary/catastrophically|catastrophically]]. [[30_Structures/The sheer vertical cliffs|The sheer vertical cliffs]], sharp edges, [[20_Vocabulary/In addition|and]] [[20_Vocabulary/Apparently|clearly]] [[20_Vocabulary/outward|visible]] rock layers all point to rapid formation, not slow [[20_Vocabulary/In addition|and]] gentle processes stretched [[20_Vocabulary/beyond|over]] millions of years.
+
+![[Pasted image 20251218102206.png]]

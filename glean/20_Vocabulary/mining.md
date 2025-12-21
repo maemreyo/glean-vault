@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
 #flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [mine, mines, mined, miner, quarry, excavation, extraction, drill, dig, unearth]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈmaɪnɪŋ/
+> **Part of Speech:** noun/gerund
+> **CEFR Level:** B2
+> **Register:** technical/academic
+> **Etymology:** From Old French 'mine' (pit, shaft) from Celtic 'mena' (ore, metal)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The process of extracting valuable minerals or other geological materials from the earth
+>
+> **Context Meaning:** The industry and activity of extracting coal, metals, diamonds, etc. from underground; also metaphorically for extracting data/value
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** khai thác mỏ, ngành khai khoáng
+> - **Contextual:** khai thác dữ liệu, khai thác thông tin
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical extraction of minerals
+> - Extended to data mining, cryptocurrency mining
+> - Environmental concerns often associated with mining
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Extractive, Industrious
+> **Memory Hook:** Think of miners with headlamps going deep into mines to find valuable treasures
+> **📖 Etymology Story:** From Celtic 'mena' meaning ore/metal - mining is literally the act of getting the valuable 'mena' out of the earth
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** mining /ˈmaɪnɪŋ/
+> - **Verb:** mine /maɪn/
+> - **Noun (person):** miner /ˈmaɪnə(r)/
+> - **Noun (place):** mine /maɪn/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[extraction]] /ɪkˈstrækʃn/ : the act of taking out
+> - [[quarrying]] /ˈkwɒriɪŋ/ : specifically for stone
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[replanting]] : planting again
+> - [[restoration]] : returning to original state
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Coal/diamond/gold mining
+> 2. Underground mining
+> 3. Data mining
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The region's economy depends heavily on coal mining.
+> - **Translation:** Kinh tế của khu vực này phụ thuộc nhiều vào việc khai thác than đá.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Data mining helps companies discover patterns in customer behavior.
+> - **Translation:** Khai thác dữ liệu giúp các công ty phát hiện ra các mẫu hành vi của khách hàng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. -ing form confusion**
+> - ❌ **Mistake:** They are working in a mining.
+> - ✅ **Correction:** They are working in a mine / They are working in mining.
+> - **Why:** 'Mining' is the activity/process, 'mine' is the place where it happens
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The mining industry has transformed the landscape of the entire region."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **mining** (*/ˈmaɪnɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The process of extracting valuable minerals or geological materials from the earth
+> 🇻🇳 **Vietnamese:** Khai thác mỏ, khai khoáng
+> 🗣️ **IPA:** */ˈmaɪnɪŋ/*
+> 🧠 **Mental Model:** Khi 'mining', người ta đào sâu vào lòng đất để lấy ra những thứ quý giá - như đào vàng, than, hoặc data từ kho lớn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The industry and activity of extracting coal, metals, diamonds, etc. from underground"
+**Vietnamese:** Ngành khai thác khoáng sản
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**mining** (*/ˈmaɪnɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **mining** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Bitcoin mining requires powerful computers and consumes enormous amounts of electricity.
+> 🇻🇳 **Translation:** Khai thác Bitcoin đòi hỏi máy tính mạnh và tiêu thụ lượng điện khổng lồ.
+> 🔍 **Analysis:** 'Mining' ở đây mở rộng sang lĩnh vực kỹ thuật số - khai thác cryptocurrency, không chỉ khai thác vật lý, thể hiện sự tiến hóa của từ
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **mining**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Resource Type:** Coal/gold/diamond mining (khai thác than/vàng/kim cương)
+> 2. **Method:** Underground/open-pit mining (khai thác hầm lõm/khai thác lộ thiên)
+> 3. **Modern Context:** Data/cryptocurrency mining (khai thác dữ liệu/tiền mã hóa)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **mining**:
+"The company extracts materials from the ground."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The company specializes in sustainable lithium mining to support the renewable energy sector."
+> 💡 **Why it works:** 'Mining' tạo hình ảnh ngành công nghiệp chuyên nghiệp hơn 'extracts materials', 'sustainable lithium' thêm context hiện đại
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **mining** instead of **[[drilling]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **mining:** Khai thác từ lòng đất rộng lớn, thường theo đường hầm hoặc đào hố
+> **[[drilling]]:** Khoan sâu vào đất theo lỗ hẹp, thường tìm dầu/nước
+> 🧱 **The Barrier:** Mining là extraction from wide areas, drilling is penetration through narrow points
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to invest in cryptocurrencies. You warn them about the environmental impact. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Before investing in crypto, you should research the environmental impact of cryptocurrency mining."
+> 👨‍🎨 **Director's Note:** 'Mining' thể hiện đúng thuật ngữ kỹ thuật về việc khai thác crypto, phù hợp với bối cảnh thảo luận đầu tư
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `mena` to the meaning of **mining**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Celtic 'mena' có nghĩa là quặng/kim loại - 'mining' là hành động đi tìm và khai thác những 'mena' quý giá đó từ lòng đất, như cách người ta đào vàng từ mỏ
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **mining**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Celtic `mena` (ore, metal) → Old French `mine` (pit, shaft)
+> 👨‍👩‍👧 **Family:**
+> - *(gerund)* mining (việc khai thác)
+> - *(verb)* mine (khai thác)
+> - *(person)* miner (người thợ mỏ)
+> - *(place)* mine (hầm mỏ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈmaɪnɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**mining**
+> 📖 **Meaning:** The process of extracting minerals from the earth
+> 🇻🇳 **Vietnamese:** Khai thác mỏ, khai khoáng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **mining**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** My uncle works at mining
+> ✅ **Correction:** My uncle works in mining / My uncle works at a mine
+> 🧠 **Why:** 'In mining' = ngành công nghiệp, 'at a mine' = địa điểm cụ thể. Không dùng 'at mining'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **mining**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[restoration]] (phục hồi lại cảnh quan)
+> - [[reforestation]] (trồng lại rừng)
+> - [[conservation]] (bảo tồn tài nguyên)
+> 🧱 **Contrast:** Mining là khai thác tài nguyên, antonyms là phục hồi hoặc bảo tồn
 
 ---

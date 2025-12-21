@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [push firmly, apply pressure, compress, squeeze, press hard, exert force, put pressure on]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pres səʊ hɑːd/
+> **Part of Speech:** Phrasal verb phrase
+> **CEFR Level:** A2
+> **Register:** Informal/Neutral
+> **Etymology:** Old French 'presser' (to press) + Old English 'heard' (hard, firm)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To apply firm pressure to something
+>
+> **Context Meaning:**
+> 1. To apply strong physical pressure to an object
+> 2. To put someone under significant stress or pressure
+> 3. To make persistent efforts or requests
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Nhấn mạnh, ép mạnh, đè mạnh
+> - **Contextual:** Gây áp lực, nỗ lực rất nhiều, cố gắng quá sức
+>
 > **Nuances:**
-> - ...
+> - Can be literal (physical pressure) or figurative (emotional/mental pressure)
+> - 'So' acts as an intensifier, not separable from 'hard'
+> - Often implies effort that might be excessive
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Forceful, Intense, Demanding
+> **Memory Hook:** Picture yourself trying to close an overstuffed suitcase - you have to 'press so hard' to make it close!
+> **📖 Etymology Story:** The word 'press' comes from Latin 'pressare' meaning 'to press, squeeze'. When we add 'so hard', we're emphasizing the intensity of this pressing action, like squeezing juice from a tough fruit or trying to fit too much into a small space.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Base Verb:** [[press]] /pres/
+> - **Related Phrasals:** [[press on]], [[press for]], [[press into]]
+> - **Noun:** [[pressure]] /ˈpreʃə(r)/, [[compression]] /kəmˈpreʃn/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[squeeze]] /skwiːz/ : To apply pressure from multiple sides
+> - [[compress]] /kəmˈpres/ : To press together to reduce volume
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[release]] /rɪˈliːs/ : To let go or stop applying pressure
+> - [[gently press]] /ˈdʒentli pres/ : To apply light pressure
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. press so hard on
+> 2. press so hard against
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** If you press so hard on the screen, it might crack.
+> - **Translation:** Nếu bạn nhấn quá mạnh vào màn hình, nó có thể bị nứt.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Don't press so hard on yourself to be perfect - nobody is.
+> - **Translation:** Đừng đặt áp lực quá lớn lên bản thân để trở nên hoàn hảo - không ai là hoàn hảo cả.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Order**
+> - ❌ **Mistake:** You're pressing hard so on the button.
+> - ✅ **Correction:** You're pressing so hard on the button.
+> - **Why:** 'So' must come before 'hard' in this construction - it's an intensifier for 'hard', not a separate word.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Don't press so hard on yourself that you break under the pressure. Sometimes the gentlest touch achieves the most."
+> **Source:** [[Self-Help Book]]
 
 ---
 
@@ -161,121 +82,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **press so hard** (*/pres səʊ hɑːd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** 1) To apply strong physical pressure 2) To put someone under significant stress 3) To make persistent efforts
+> 🇻🇳 **Vietnamese:** 1) Nhấn mạnh, ép mạnh 2) Gây áp lực lớn 3) Nỗ lực rất nhiều
+> 🗣️ **IPA:** */pres səʊ hɑːd/*
+> 🧠 **Mental Model:** Hành động dùng sức mạnh (using force) để tạo ra áp lực - như việc đè ép vật lý hoặc gây áp lực tinh thần
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To apply strong physical pressure; to put someone under significant stress; to make persistent efforts"
+**Vietnamese:** Nhấn mạnh, ép mạnh; gây áp lực lớn; nỗ lực rất nhiều
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**press so hard** (*/pres səʊ hɑːd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **press so hard** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The detective watched as the suspect began to sweat when he pressed so hard for details about that night.
+> 🇻🇳 **Translation:** Thám tử quan sát khi nghi phạm bắt đầu đổ mồ hôi khi anh ta gây áp lực lớn để hỏi các chi tiết về đêm đó.
+> 🔍 **Analysis:** 'Press so hard' hoàn hảo ở đây vì nó diễn tả sự gây áp lực mạnh mẽ và liên tục trong việc tra hỏi, tạo hình ảnh về việc tạo ra căng thẳng tâm lý để khai thác thông tin, thay vì chỉ nói "asked persistently".
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **press so hard**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Physical Action:** press so hard on (nhấn mạnh vào) (<VN note khi tác động lực lên vật thể>)
+> 2. **Pressure:** press so hard against (đè mạnh lên) (<VN note khi chống hoặc ép vào một bề mặt>)
+> 3. **Request/Demand:** press so hard for (đòi hỏi mãnh liệt) (<VN note khi kiên trì yêu cầu điều gì>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **press so hard**:
+"She tried hard to convince him."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She pressed so hard for him to change his mind that he finally agreed to reconsider."
+> 💡 **Why it works:** 'Press so hard' nâng cấp câu bằng cách tạo ra hình ảnh trực quan về sự nỗ lực và áp lực liên tục, nhấn mạnh tính quyết tâm và sự bền bỉ hơn 'tried hard'.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **press so hard** instead of **insist**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **press so hard:** Implies continuous pressure or effort; can be physical or emotional; suggests struggle against resistance
+> **insist:** More about maintaining a position or opinion firmly; usually verbal/conceptual
+> 🧱 **The Barrier:** 'press so hard' = active pressure application; 'insist' = verbal position maintenance
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're helping someone carry groceries and you see the bag about to rip. You feel concerned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Be careful not to press so hard on that bag - I think it's about to break!"
+> 👨‍🎨 **Director's Note:** Perfect warning tone showing concern about potential damage from excessive pressure
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `press` + `hard` to the meaning of **press so hard**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Press' came from Latin 'pressare' - to squeeze, like making wine from grapes. 'Hard' comes from Old English 'heard' - firm, unyielding. Together, they describe using unyielding force to squeeze something, like pressing olives so hard that every drop of oil comes out.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **press so hard**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `pressare` (to press) + Old English `heard` (hard, firm)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[pressure]] /ˈpreʃə(r)/ (áp lực)
+> - *(noun)* [[impression]] /ɪmˈpreʃn/ (ấn tượng, dấu vết)
+> - *(verb)* [[compress]] /kəmˈpres/ (nén, ép lại)
+> - *(verb)* [[express]] /ɪkˈspres/ (bày tỏ - literally "press out" feelings)
+> - *(adjective)* [[hard]] /hɑːd/ (cứng, mạnh)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pres səʊ hɑːd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**press so hard**
+> 📖 **Meaning:** To apply strong physical pressure; to put someone under significant stress; to make persistent efforts
+> 🇻🇳 **Vietnamese:** Nhấn mạnh, ép mạnh; gây áp lực lớn; nỗ lực rất nhiều
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **press so hard**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Don't to press so hard - you might break it.
+> ✅ **Correction:** Don't press so hard - you might break it.
+> 🧠 **Why:** After 'don't' (do not), we use the base form 'press', not 'to press'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **press so hard**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[press gently]] (<To apply light pressure>)
+> - [[ease up]] (<To reduce pressure or intensity>)
+> - [[let up]] (<To stop applying pressure>)
+> 🧱 **Contrast:** While 'press so hard' implies maximum pressure application, 'press gently' suggests minimal, careful force, and 'ease up' indicates reducing existing pressure.
 
 ---

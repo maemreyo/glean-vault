@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [regular, regularity, regular schedule, frequent, frequently, routine, periodically]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈreɡjələli/
+> **Part of Speech:** Adverb
+> **CEFR Level:** A2
+> **Register:** Neutral
+> **Etymology:** From Latin "regularis" meaning "according to rule"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** At regular intervals; in a fixed pattern
+>
+> **Context Meaning:** Done or happening often, with equal or similar amounts of space or time between instances
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Một cách đều đặn
+> - **Contextual:** Thường xuyên, đều đặn
+>
 > **Nuances:**
-> - ...
+> - Implies predictable pattern or schedule
+> - More systematic than "frequently" or "often"
+> - Can refer to time, space, or occurrence patterns
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized
+> **Memory Hook:** Think of "regular" (đều đặn) + "-ly" (một cách) = happening in a regular way
+> **📖 Etymology Story:** Từ Latin "regula" (rule) → "regularis" (theo quy tắc) → "regularly" (theo quy tắc đều đặn) - action that follows rules of consistency.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[regularity]] /ˌreɡjəˈlærəti/
+> - **Verb:** [[regulate]] /ˈreɡjəleɪt/, [[regulated]] /ˈreɡjəleɪtɪd/, [[regulating]] /ˈreɡjəleɪtɪŋ/
+> - **Adj:** [[regular]] /ˈreɡjələ(r)/, [[irregular]] /ɪˈreɡjələ(r)/
+> - **Adv:** [[regularly]] /ˈreɡjələli/, [[irregularly]] /ɪˈreɡjələli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[frequently]] /ˈfriːkwəntli/ : often, many times
+> - [[periodically]] /ˌpɪəriˈɒdɪkli/ : at periodic intervals
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[irregularly]] /ɪˈreɡjələli/ : not at regular intervals
+> - [[occasionally]] /əˈkeɪʒnəli/ : from time to time
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. exercise regularly
+> 2. check regularly
+> 3. meet regularly
+>
+> **1. Example Context 1 (Health)**
+> - **Sentence:** She exercises regularly to maintain her physical fitness.
+> - **Translation:** Cô ấy tập thể dục đều đặn để duy trì thể lực.
+>
+> **2. Example Context 2 (Work)**
+> - **Sentence:** Our team meets regularly every Monday morning.
+> - **Translation:** Đội của chúng tôi họp đều đặn vào sáng thứ Hai hàng tuần.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Position in sentence**
+> - ❌ **Mistake:** "I go regularly to the gym."
+> - ✅ **Correction:** "I regularly go to the gym." or "I go to the gym regularly."
+> - **Why:** Adverb placement depends on emphasis but usually before main verb or at end.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Success is the sum of small efforts repeated regularly."
+> **Source:** Robert Collier
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **regularly** (*/ˈreɡjələli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** At regular, predictable intervals; in a consistent, repeated manner
+> 🇻🇳 **Vietnamese:** Vào những thời điểm đều đặn, có thể đoán trước; một cách nhất quán, lặp đi lặp lại
+> 🗣️ **IPA:** */ˈreɡjələli/*
+> 🧠 **Mental Model:** Tưởng tượng clock's hands - chúng move "regularly" (đều đặn). Hoặc bus schedule - bus đến "regularly" (theo lịch trình đều đặn).
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a consistent, repeated pattern with equal intervals"
+**Vietnamese:** Một cách nhất quán, lặp lại với các khoảng bằng nhau
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**regularly** (*/ˈreɡjələli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **regularly** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The system updates regularly to ensure optimal performance.
+> 🇻🇳 **Translation:** Hệ thống cập nhật đều đặn để đảm bảo hiệu suất tối ưu.
+> 🔍 **Analysis:** "Regularly" perfect ở đây vì nó imply scheduled, predictable updates - không chỉ "often" mà còn "theo pattern".
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **regularly**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Health:** exercise/visit regularly (tập thể dục/thăm khám đều đặn)
+> 2. **Maintenance:** check/service regularly (kiểm tra/bảo dưỡng định kỳ)
+> 3. **Communication:** contact/meet regularly (liên lạc/gặp gỡ thường xuyên)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **regularly**:
+"He often checks his emails."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He regularly checks his emails throughout the workday."
+> 💡 **Why it works:** "Regularly" imply routine và consistency - stronger hơn "often" vì nó suggest systematic approach.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **regularly** instead of **[[frequently]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **regularly:** Dùng khi nói về predictable pattern/schedule
+> **[[frequently]]:** Dùng khi nói về high frequency (không cần pattern)
+> 🧱 **The Barrier:** Regularly có pattern (đều đặn), frequently chỉ high rate (thường xuyên nhưng có thể random).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a manager explaining your team's meeting schedule. You feel organized. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We meet regularly every Tuesday to review progress and plan ahead."
+> 👨‍🎨 **Director's Note:** "Regularly" professional vì nó imply structured, reliable scheduling - shows good organization.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `regula` to the meaning of **regularly**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "regula" (rule) → "regularis" (following rules) → "regularly" (theo rules của consistency). Action happens "according to the rules" của timing!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **regularly**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `regula` (<rule, straight piece of wood>)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[regular]] (đều đặn, theo quy tắc)
+> - *(adj)* [[irregular]] (bất thường, không đều)
+> - *(verb)* [[regulate]] (điều chỉnh, quy định)
+> - *(noun)* [[regulation]] (quy định, sự điều chỉnh)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈreɡjələli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**regularly**
+> 📖 **Meaning:** In a consistent, repeated pattern
+> 🇻🇳 **Vietnamese:** Một cách đều đặn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **regularly**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I regular go to church on Sundays."
+> ✅ **Correction:** "I regularly go to church on Sundays."
+> 🧠 **Why:** Cần thêm "-ly" để làm adjective "regular" thành adverb "regularly".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **regularly**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[irregularly]] (bất thường, không đều)
+> - [[sporadically]] (thỉnh thoảng, không đều)
+> - [[occasionally]] (thỉnh thoảng)
+> 🧱 **Contrast:** Regularly là predictable consistency, antonyms là randomness/infrequency.
 
 ---

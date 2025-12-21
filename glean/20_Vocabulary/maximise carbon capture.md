@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
 #flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [maximize, maximize carbon capture, carbon sequestration, carbon storage, CO2 capture, carbon absorption, greenhouse gas reduction, carbon removal]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈmæksɪmaɪz ˈkɑːbən ˈkæptʃə(r)/
+> **Part of Speech:** verb phrase
+> **CEFR Level:** C1
+> **Register:** scientific/academic
+> **Etymology:** Maximise (from Latin 'maximus' - greatest) + Carbon (from Latin 'carbo' - coal) + Capture (from Latin 'captura' - taking, holding)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To increase to the highest level the capturing of carbon
+>
+> **Context Meaning:** To optimize and enhance the removal and storage of carbon dioxide from the atmosphere to combat climate change
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tối đa hóa việc thu giữ carbon
+> - **Contextual:** tối ưu hóa thu giữ CO2, tăng cường hấp thụ carbon, lưu trữ carbon tối đa
+>
 > **Nuances:**
-> - ...
+> - Environmental/climate change terminology
+> - Focuses on both natural and technological solutions
+> - Critical component of climate mitigation strategies
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Scientific, Urgent, Solution-oriented
+> **Memory Hook:** Think of a vacuum cleaner sucking CO2 from air - 'maximise' means making it as powerful as possible
+> **📖 Etymology Story:** Từ 'maximus' (greatest) + 'carbo' (coal) + 'captura' (to catch) - maximise carbon capture là making the greatest effort để 'catch' carbon dioxide từ atmosphere, như giant vacuum cleaning our air
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** maximise /ˈmæksɪmaɪz/, capture /ˈkæptʃə(r)/
+> - **Noun:** maximisation /ˌmæksɪmaɪˈzeɪʃn/, carbon /ˈkɑːbən/, capture /ˈkæptʃə(r)/
+> - **Adj:** maximum /ˈmæksɪməm/, carbon-neutral /ˈkɑːbən ˈnjuːtrəl/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[carbon sequestration]] /ˌkɑːbən siːˈkwestreɪʃn/ : long-term storage of carbon
+> - [[CO2 removal]] /ˌsiːəʊˈtuː rɪˈmuːvl/ : eliminating CO2 from atmosphere
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[carbon emissions]] /ˈkɑːbən ɪˈmɪʃnz/ : release of CO2 into atmosphere
+> - [[greenhouse effect]] /ˈɡriːnhaʊs ɪˈfekt/ : trapping of heat in atmosphere
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Maximise carbon capture through reforestation
+> 2. Technologies to maximise carbon capture
+> 3. Strategies to maximise carbon capture
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The research team developed new materials to maximise carbon capture from industrial emissions.
+> - **Translation:** Nhóm nghiên cứu đã phát triển vật liệu mới để tối đa hóa việc thu giữ carbon từ khí thải công nghiệp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Protecting ocean ecosystems is crucial to maximise carbon capture naturally.
+> - **Translation:** Bảo vệ hệ sinh thái biển rất quan trọng để tối đa hóa việc thu giữ carbon một cách tự nhiên.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling variation**
+> - ❌ **Mistake:** We need to maximize carbon capture. (American spelling in British context)
+> - ✅ **Correction:** We need to maximise carbon capture. (British spelling)
+> - **Why:** 'Maximise' with 's' is British English spelling, 'maximize' with 'z' is American English
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "To combat climate change, we must both reduce emissions and maximise carbon capture through natural and technological means."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **maximise carbon capture** (*/ˈmæksɪmaɪz ˈkɑːbən ˈkæptʃə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To increase to the highest level the removal and storage of carbon dioxide from the atmosphere
+> 🇻🇳 **Vietnamese:** Tăng lên mức cao nhất việc loại bỏ và lưu trữ carbon dioxide khỏi khí quyển
+> 🗣️ **IPA:** */ˈmæksɪmaɪz ˈkɑːbən ˈkæptʃə(r)/*
+> 🧠 **Mental Model:** Khi bạn 'maximise carbon capture', bạn làm cho processes remove CO2 từ air become as efficient as possible - như tuning engine để peak performance trong cleaning atmosphere
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To optimize and enhance the removal of CO2 from the atmosphere to combat climate change"
+**Vietnamese:** Tối ưu hóa và nâng cao việc loại bỏ CO2 khỏi khí quyển để chống biến đổi khí hậu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**maximise carbon capture** (*/ˈmæksɪmaɪz ˈkɑːbən ˈkæptʃə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **maximise carbon capture** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The government invested billions in new technologies designed to maximise carbon capture and slow global warming.
+> 🇻🇳 **Translation:** Chính phủ đã đầu tư hàng tỷ vào các công nghệ mới được thiết kế để tối đa hóa việc thu giữ carbon và làm chậm sự nóng lên toàn cầu.
+> 🔍 **Analysis:** 'Maximise carbon capture' trong environmental policy context - verb phrase này thể hiện proactive solution-oriented approach, thường đi với strategies, technologies, investments
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **maximise carbon capture**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Methods:** Through reforestation/technology/natural solutions (thông qua trồng rừng/công nghệ/giải pháp tự nhiên)
+> 2. **Purpose:** To combat climate change/reduce global warming (để chống biến đổi khí hậu/giảm nóng lên toàn cầu)
+> 3. **Scale:** Globally/nationally/individually maximise carbon capture (tối đa hóa thu giữ carbon toàn cầu/quốc gia/cá nhân)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **maximise carbon capture**:
+"We need to remove CO2 from the air."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Scientists are developing advanced bio-engineering solutions to maximise carbon capture from industrial sources."
+> 💡 **Why it works:** 'Maximise carbon capture' specific và scientific hơn 'remove CO2' - cho biết optimization goal và context trong climate science
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **maximise carbon capture** instead of **[[reduce emissions]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **maximise carbon capture:** Active removal của existing CO2 từ atmosphere
+> **[[reduce emissions]]:** Prevention của releasing new CO2 vào atmosphere
+> 🧱 **The Barrier:** Carbon capture cleans up existing pollution, emission reduction prevents new pollution
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a climate conference explaining your company's environmental initiative. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our new manufacturing process doesn't just cut emissions - we're actively working to maximise carbon capture through innovative filtration systems."
+> 👨‍🎨 **Director's Note:** 'Maximise carbon capture' thể hiện proactive, beyond-compliance approach - shows leadership trong environmental responsibility
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `maximus`, `carbo`, and `captura` to the meaning of **maximise carbon capture**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Maximum' (greatest) + 'carbon' (CO2 trong coal/oil) + 'capture' (to catch) - maximise carbon capture là making greatest effort để catch và trap carbon molecules, like khi bạn set best net để catch most butterflies
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **maximise carbon capture**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `maximus` (greatest), `carbo` (coal), `captura` (seizing)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* maximise (tối đa hóa), capture (bắt, thu giữ)
+> - *(noun)* maximum (cực đại), carbon (carbon), capture (sự thu giữ)
+> - *(compound)* carbon-neutral (trung hòa carbon), carbon footprint (dấu chân carbon)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈmæksɪmaɪz ˈkɑːbən ˈkæptʃə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**maximise carbon capture**
+> 📖 **Meaning:** To increase to the highest level the removal of CO2 from the atmosphere
+> 🇻🇳 **Vietnamese:** Tăng lên mức cao nhất việc loại bỏ CO2 khỏi khí quyển
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **maximise carbon capture**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We want to maximaze carbon capture.
+> ✅ **Correction:** We want to maximise carbon capture.
+> 🧠 **Why:** British spelling là 'maximise' với 's', American spelling là 'maximize' với 'z'. Cần consistent với audience/region
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **maximise carbon capture**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[increase carbon emissions]] (tăng phát thải carbon)
+> - [[reduce carbon storage]] (giảm lưu trữ carbon)
+> 🧱 **Contrast:** Maximising carbon capture actively removes CO2 while antonyms contribute to adding more CO2 to the atmosphere
 
 ---

@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [while, whereas, although, however, but, though, meanwhile, 在期间, 然而]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /waɪlst/
+> **Part of Speech:** Conjunction/Adverb
+> **CEFR Level:** B2
+> **Register:** Formal/Literary
+> **Etymology:** Old English "hwilst" from "hwil" (time)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** During the time that; at the same time as
+>
+> **Context Meaning:** While; whereas; during the time that something else is happening
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Trong khi
+> - **Contextual:** Trong lúc, trong khi đó
+>
 > **Nuances:**
-> - ...
+> - More formal/literary than "while"
+> - British English prefers "whilst" in formal writing
+> - Can indicate contrast or simultaneous action
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Sophisticated
+> **Memory Hook:** Think of "while" with extra "-st" for formality
+> **📖 Etymology Story:** Từ Old English "hwilst" (trong thời gian đó) - poetic variant của "while". Thêm "-st" làm nó sound more formal và elegant.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Conj:** [[while]] /waɪl/, [[whilst]] /waɪlst/
+> - **Noun:** [[while]] /waɪl/ (một lúc, một chốc)
+> - **Phrase:** [[meanwhile]] /ˈmiːnwaɪl/ (trong lúc đó)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[while]] /waɪl/ : more common, less formal
+> - [[whereas]] /weərˈæz/ : contrasts two facts
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - N/A (conjunction has no true antonyms)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. whilst doing something
+> 2. whilst others...
+> 3. whilst it is true...
+>
+> **1. Example Context 1 (Simultaneous actions)**
+> - **Sentence:** She read whilst listening to soft music.
+> - **Translation:** Cô ấy đọc sách trong khi nghe nhạc nhẹ.
+>
+> **2. Example Context 2 (Contrast)**
+> - **Sentence:** He remained calm whilst others panicked.
+> - **Translation:** Anh ấy vẫn giữ bình tĩnh trong khi những người khác hoảng sợ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse in informal contexts**
+> - ❌ **Mistake:** "I'll call you whilst I'm driving."
+> - ✅ **Correction:** "I'll call you while I'm driving."
+> - **Why:** "Whilst" too formal for casual conversation.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Whilst we can't control the waves, we can learn to surf."
+> **Source:** Modern Philosophy
 
 ---
 
@@ -161,121 +79,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **whilst** (*/waɪlst/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** During the time that; at the same time as; whereas (formal)
+> 🇻🇳 **Vietnamese:** Trong thời gian mà; cùng lúc với; trong khi đó (trang trọng)
+> 🗣️ **IPA:** */waɪlst/*
+> 🧠 **Mental Model:** Tưởng tượng hai events happening parallel - "whilst" connects chúng với formal flair.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "During the time that something else is happening"
+**Vietnamese:** Trong thời gian mà điều khác đang xảy ra
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**whilst** (*/waɪlst/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **whilst** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The team worked tirelessly whilst maintaining high standards of quality.
+> 🇻🇳 **Translation:** Đội đã làm việc không mệt mỏi trong khi vẫn duy trì tiêu chuẩn chất lượng cao.
+> 🔍 **Analysis:** "Whilst" elegant ở đây vì nó formal và adds sophistication - perfect cho business/academic context.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **whilst**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Simultaneous:** whilst doing/working/reading (trong khi làm/làm việc/đọc)
+> 2. **Contrast:** whilst others/although/but (trong khi người khác/mặc dù)
+> 3. **Concession:** whilst it's true/although (mặc dù đúng là)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **whilst**:
+"He studied while listening to music."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He immersed himself in complex physics equations whilst listening to classical compositions."
+> 💡 **Why it works:** "Whilst" adds academic elegance - sounds more intellectual và sophisticated.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **whilst** instead of **[[while]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **whilst:** Dùng trong formal/literary contexts, British English
+> **[[while]]:** Dùng trong everyday contexts, American English
+> 🧱 **The Barrier:** Whilst là formal variant, while là common usage.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're writing a formal report comparing two approaches. You feel professional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Method A yields quick results whilst Method B provides greater long-term sustainability."
+> 👨‍🎨 **Director's Note:** "Whilst" perfect cho formal writing - adds polish và academic tone.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root to the meaning of **whilst**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English "hwilst" - poetic version của "while". Adding "-st" là common trong older English để tạo formal sound, giống như "amongst" cho "among".
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **whilst**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `hwīl` (<period of time>)
+> 👨‍👩‍👧 **Family:**
+> - *(conj)* [[while]] (trong khi)
+> - *(conj)* [[whereas]] (trong khi đó - contrast)
+> - *(adv)* [[meanwhile]] (trong lúc đó)
+> - *(phrase)* [[once in a while]] (thỉnh thoảng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */waɪlst/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**whilst**
+> 📖 **Meaning:** During; at the same time
+> 🇻🇳 **Vietnamese:** Trong khi; cùng lúc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **whilst**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I like tea whilst I don't like coffee."
+> ✅ **Correction:** "I like tea whilst my brother prefers coffee." or "I like tea but I don't like coffee."
+> 🧠 **Why:** "Whilst" dùng cho simultaneous actions hoặc contrasts, không phải contradictions.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What indicates opposite timing to **whilst**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Opposite Concepts:**
+> - [[before]] (trước khi - not simultaneous)
+> - [[after]] (sau khi - not simultaneous)
+> - [[instead]] (thay vì -替代)
+> 🧱 **Contrast:** Whilst indicates simultaneous, opposites indicate sequential timing.
 
 ---

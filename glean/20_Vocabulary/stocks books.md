@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [stock books, books in stock, inventory books, book stock, book supply, stock of books]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /stɒks bʊks/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** business/commercial
+> **Etymology:** Combination of 'stock' (Old English 'stocc' meaning trunk or base) and 'book' (Old English 'bōc' related to beech tree, whose bark was used for writing)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Books that are currently available for sale or distribution
+>
+> **Context Meaning:** A collection or inventory of books kept in a store or warehouse for sale to customers
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sách có sẵn, sách trong kho
+> - **Contextual:** kho sách, tồn kho sách
+>
 > **Nuances:**
-> - ...
+> - Refers specifically to books that are physically available for immediate purchase
+> - Used in bookstore management, publishing, and library contexts
+> - Different from 'books on order' which haven't arrived yet
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized, Available, Ready
+> **Memory Hook:** Imagine a bookstore with 'stocks' (piles) of 'books' ready for customers - like a stock market but for literature
+> **📖 Etymology Story:** Stock comes from the idea of a tree trunk/stump (solid foundation), while book originally meant writing on beech bark - together they represent the solid foundation of available written knowledge
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** stock /stɒk/ (inventory), book /bʊk/ (written work)
+> - **Verb:** stock /stɒk/ (to supply), book /bʊk/ (to reserve)
+> - **Adj:** stocked /stɒkt/ (supplied), bookish /ˈbʊkɪʃ/ (fond of reading)
+> - **Adv:** currently /ˈkʌrəntli/ (at present)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[inventory]] /ˈɪnvəntri/ : a complete list of items
+> - [[collection]] /kəˈlekʃn/ : a group of things
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[out of stock]] /aʊt əv stɒk/ : not available
+> - [[backorder]] /ˈbækɔːdə/ : ordered but not yet delivered
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Keep books in stock
+> 2. Run out of stock
+> 3. Large stock of books
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The library needs to maintain adequate stocks books to meet student demand during the exam period.
+> - **Translation:** Thư viện cần duy trì đủ sách trong kho để đáp ứng nhu cầu của sinh viên trong kỳ thi.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Our online store shows 500 copies in stocks books ready for immediate shipping.
+> - **Translation:** Cửa hàng trực tuyến của chúng tôi hiển thị 500 bản sách có sẵn sẵn sàng để giao hàng ngay lập tức.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect pluralization**
+> - ❌ **Mistake:** We have many stocks books available.
+> - ✅ **Correction:** We have many books in stock / We have a large stock of books.
+> - **Why:** 'Stock books' is treated as a compound concept, not 'stocks' as a plural
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Please check if we have enough stocks books for the upcoming semester."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **stocks books** (*/stɒks bʊks/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Books that are currently available for sale or distribution; inventory of books in a store
+> 🇻🇳 **Vietnamese:** Sách có sẵn, kho sách, tồn kho sách
+> 🗣️ **IPA:** */stɒks bʊks/*
+> 🧠 **Mental Model:** Khi một cửa hàng sách có 'stocks books', nghĩa là họ có sách sẵn sàng để bán ngay lập tức - không cần đặt hàng trước
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Books that are physically available in a store for immediate purchase"
+**Vietnamese:** Sách có sẵn để mua ngay
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**stocks books** (*/stɒks bʊks/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **stocks books** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The bookstore manager ordered 1000 more copies to ensure they always have sufficient stocks books for the bestseller.
+> 🇻🇳 **Translation:** Người quản lý nhà sách đã đặt thêm 1000 bản để đảm bảo họ luôn có đủ sách trong kho cho cuốn sách bán chạy.
+> 🔍 **Analysis:** 'Stocks books' ở đây thể hiện khái niệm quản lý tồn kho trong ngành bán lẻ sách - manager cần đảm bảo đủ 'stock' để không mất doanh thu
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **stocks books**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Availability:** In stock books (sách có sẵn) - books currently available
+> 2. **Quantity:** Large/good stocks of books (lượng sách lớn/đủ) - sufficient quantity
+> 3. **Action:** Keep/maintain stocks books (duy trì kho sách) - inventory management action
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **stocks books**:
+"The store had books available."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The university bookstore prided itself on maintaining comprehensive stocks books across all academic disciplines."
+> 💡 **Why it works:** 'Stocks books' mạnh hơn 'books available' vì nó thể hiện khái niệm quản lý kho bài bản và sự sẵn có có hệ thống
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **stocks books** instead of **[[books on shelf]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **stocks books:** Dùng trong ngữ cảnh kinh doanh, quản lý kho - thể hiện sách có sẵn để bán (có thể trong kho)
+> **[[books on shelf]]:** Dùng để mô tả sách đang thực tế đặt trên kệ - có thể thấy trực tiếp
+> 🧱 **The Barrier:** Stock books là khái niệm kinh doanh về tồn kho, books on shelf là mô tả vật lý
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a bookstore customer asking about availability. You want to know if the book is available now. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Do you have this title in stocks books or do I need to order it?"
+> 👨‍🎨 **Director's Note:** 'In stocks books' thể hiện cách hỏi chuyên nghiệp về tình hình tồn kho trong ngành bán lẻ sách
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `stocc` and `bōc` to the meaning of **stocks books**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 'stocc' (gốc cây) tượng trưng cho nền tảng vững chắc của hàng tồn kho, còn 'bōc' (vỏ cây dẻ) tượng trưng cho sách - kết hợp lại tạo ra hình ảnh kho sách vững chắc chứa đựng tri thức
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **stocks books**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** English `stocc` (tree trunk/base) + `bōc` (beech bark for writing)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* stock (tồn kho), stocking (lắp đặt kho)
+> - *(noun)* book (sách), booking (đặt chỗ)
+> - *(verb)* stock (nhập kho), book (đặt trước)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */stɒks bʊks/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**stocks books**
+> 📖 **Meaning:** Books available for immediate purchase in inventory
+> 🇻🇳 **Vietnamese:** Sách có sẵn trong kho
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **stocks books**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We need to order more stocks books
+> ✅ **Correction:** We need to stock more books / We need more books in stock
+> 🧠 **Why:** Stock books là danh từ ghép chỉ trạng thái sẵn có, không phải là cái để 'order' trực tiếp
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **stocks books**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[out of stock books]] (hết sách) - not available for purchase
+> - [[backordered books]] (sách chờ giao) - ordered but not yet received
+> 🧱 **Contrast:** Stocks books means immediately available, while antonyms indicate unavailability or delayed availability
 
 ---

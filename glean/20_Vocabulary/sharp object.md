@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [sharp objects, pointed object, piercing object, blade, cutting tool, sharp instrument, pointed weapon, jagged object]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ʃɑːp ˈɒbdʒekt/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A2
+> **Register:** neutral/safety
+> **Etymology:** From Old English "scearp" (keen, cutting) + Latin "objectum" (thing thrown before)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An item with a fine edge or point capable of cutting or piercing
+>
+> **Context Meaning:** Any tool, weapon, or item that has an edge or point sharp enough to cause injury
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** vật sắc nhọn
+> - **Contextual:** đồ vật nhọn, vật có thể gây thương tích
+>
 > **Nuances:**
-> - ...
+> - Often appears in safety warnings and regulations
+> - Can be tools, weapons, or accidental hazards
+> - Context determines whether it's useful or dangerous
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Cautious, safety-conscious, precise
+> **Memory Hook:** "Sharp" like knife + "object" = anything pointy that can hurt you
+> **📖 Etymology Story:** Ancient toolmakers discovered that sharpening stones made them useful for hunting and building. But they also learned these "sharp objects" could cause harm, leading to the first safety warnings in human history - "Handle with care!"
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[sharpness]] /ˈʃɑːpnəs/ , [[object]] /ˈɒbdʒekt/
+> - **Adj:** [[sharp]] /ʃɑːp/
+> - **Adv:** [[sharply]] /ˈʃɑːpli/
+> - **Verb:** [[sharpen]] /ˈʃɑːpən/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[pointed object]] /ˈpɔɪntɪd ˈɒbdʒekt/ : having a sharp tip
+> - [[cutting tool]] /ˈkʌtɪŋ tuːl/ : designed for cutting
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[blunt object]] /blʌnt ˈɒbdʒekt/ : without sharp edge or point
+> - [[soft object]] /sɒft ˈɒbdʒekt/ : yielding to pressure
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. handle with care
+> 2. keep away from children
+> 3. sharp object injury
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Please dispose of sharp objects in the designated container.
+> - **Translation:** Vui lòng bỏ đồ vật sắc nhọn vào thùng chứa quy định.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The workshop was full of sharp objects, so safety goggles were required.
+> - **Translation:** Xưởng có đầy đồ vật sắc nhọn, nên bắt buộc phải đeo kính bảo hộ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural Formation**
+> - ❌ **Mistake:** "sharp objects" pronounced as /ʃɑːps ˈɒbdʒekts/
+> - ✅ **Correction:** /ʃɑːp ˈɒbdʒekts/ (only 'objects' becomes plural)
+> - **Why:** 'Sharp' is an adjective, only the noun 'objects' pluralizes
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "No sharp objects are allowed in the cabin luggage."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **sharp object** (*/ʃɑːp ˈɒbdʒekt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** (noun phrase) Any item with an edge or point capable of cutting or piercing, potentially dangerous if handled improperly
+> 🇻🇳 **Vietnamese:** (cụm danh từ) Bất kỳ vật phẩm nào có cạnh hoặc đầu nhọn có khả năng cắt hoặc đâm, có thể nguy hiểm nếu xử lý không đúng cách
+> 🗣️ **IPA:** */ʃɑːp ˈɒbdʒekt/*
+> 🧠 **Mental Model:** Sharp object là item có edge hoặc point nhọn có thể cut hoặc pierce - think knives, scissors, needles, broken glass.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "an item with a sharp edge or point that can cause injury"
+**Vietnamese:** một vật có cạnh hoặc đầu nhọn có thể gây thương tích
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**sharp object** (*/ʃɑːp ˈɒbdʒekt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **sharp object** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The security guard confiscated the sharp object before allowing entry to the concert.
+> 🇻🇳 **Translation:** Vệ sĩ đã tịch thu vật sắc nhọn trước khi cho phép vào hòa nhạc.
+> 🔍 **Analysis:** "Sharp object" được sử dụng trong security context để chỉ loại items bị prohibited, cho thấy function của nó như một safety term chung chung cho tất cả dangerous items.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **sharp object**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Safety Warning:** handle with care (cẩn thận khi sử dụng - standard safety instruction)
+> 2. **Child Safety:** keep away from children (giữ xa trẻ em - protection measure)
+> 3. **Medical Context:** sharp object injury (chấn thương do vật sắc nhọn - clinical terminology)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **sharp object**:
+"Be careful with that knife."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Treat every sharp object with the respect it deserves - a moment's carelessness can lead to permanent injury."
+> 💡 **Why it works:** "Sharp object" thay cho "knife" tạo broader scope, "respect it deserves" personifies danger, "permanent injury" emphasizes severity hơn "be careful".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **sharp object** instead of **[[weapon]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **sharp object:** Technical, neutral term描述physical property, có thể là tool hoặc weapon
+> **weapon:** Chỉ items designed với intent to harm, có legal và moral implications
+> 🧱 **The Barrier:** "Sharp object" là description, "weapon" là classification - same item có thể là cả hai tùy context và intent.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see a child reaching for a pair of scissors on a table. You feel alarmed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Stop! That's a sharp object - it could hurt you. Let me help you with the cutting."
+> 👨‍🎨 **Director's Note:** Sử dụng "sharp object" thay vì "scissors" để emphasize dangerous property, teach safety concept, sau đó offer help để giải quyết nhu cầu của child một cách an toàn.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `scearp` + `objectum` to the meaning of **sharp object**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "scearp" (cutting, keen) + Latin "objectum" (thing thrown forth) → imagine ancient hunters throwing sharp stones → evolved thành bất kỳ vật nào có cutting hoặc piercing capability → modern safety term cho potential hazards.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **sharp object**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English `scearp` + Latin `objectum`
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[sharp]] /ʃɑːp/
+> - *(noun)* [[sharpness]] /ˈʃɑːpnəs/
+> - *(verb)* [[sharpen]] /ˈʃɑːpən/
+> - *(compound)* [[sharp-eyed]] /ˌʃɑːp ˈaɪd/
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ʃɑːp ˈɒbdʒekt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**sharp object**
+> 📖 **Meaning:** An item with a cutting edge or piercing point that may cause injury
+> 🇻🇳 **Vietnamese:** Một vật phẩm có cạnh cắt hoặc đầu đâm có thể gây thương tích
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **sharp object**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Be careful with this sharps object" (in a hospital)
+> ✅ **Correction:** "Be careful with these sharps" OR "Be careful with this sharp object"
+> 🧠 **Why:** Medical field uses "sharps" (plural noun) để chỉ needles và related items, nhưng "sharp object" là general term cho non-medical contexts.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **sharp object**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[blunt object]] (dull edge, cannot cut easily)
+> - [[soft object]] (yields to pressure, cannot pierce)
+> - [[rounded object]] (no edges or points, safe to handle)
+> 🧱 **Contrast:** While sharp objects concentrate force to cut or pierce, blunt objects distribute force and are generally safer for everyday handling.
 
 ---
