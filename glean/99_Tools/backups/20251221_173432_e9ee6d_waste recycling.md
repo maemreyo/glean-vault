@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 
 ---
 tags:

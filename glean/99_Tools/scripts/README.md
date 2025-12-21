@@ -36,6 +36,7 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py [arguments]
 | `--restore-original <path>` | Restore a file or folder to its oldest backup (pre-script state). |
 | `--restore-before-link` | **Workflow:** Restore files to original before linking. |
 | `--clean-quotes` | **Workflow:** Run `clean_quotes.py` before linking. |
+| `--add-ref-tags` | Add flashcard tags based on `ref:` field in frontmatter. |
 
 ## Use Cases
 
@@ -123,6 +124,47 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/10_Sources/Art
 # Only clean quotes before linking
 python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/10_Sources/Articles" --clean-quotes --no-dry-run
 ```
+
+
+### 9. Auto-Tag from Ref Field
+Automatically add flashcard tags based on the `ref:` field in vocabulary frontmatter:
+
+```bash
+# Process entire vocabulary folder (default)
+python3 glean/99_Tools/scripts/auto_link_vocab.py --add-ref-tags --no-dry-run
+
+# Process specific file
+python3 glean/99_Tools/scripts/auto_link_vocab.py --file "glean/20_Vocabulary/accelerate.md" --add-ref-tags --no-dry-run
+
+# Process specific folder
+python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/20_Vocabulary" --add-ref-tags --no-dry-run
+```
+
+**How it works:**
+1. Reads the `ref:` field from frontmatter
+2. Converts references to flashcard tags (e.g., `[[Cam 19 Listening Test 04]]` → `#flashcards/cam-19-listening-test-04`)
+3. Appends tags to the existing flashcard tag line (first line)
+
+**Example transformation:**
+```markdown
+# Before
+#flashcards/vocabulary/topic-specific/sci-tech/technology
+
+---
+ref:
+  - [[Cam 19 Listening Test 04]]
+---
+
+# After
+#flashcards/vocabulary/topic-specific/sci-tech/technology #flashcards/cam-19-listening-test-04
+
+---
+ref:
+  - [[Cam 19 Listening Test 04]]
+---
+```
+
+✨ **Note:** The script automatically skips files that already have the tags, so it's safe to run multiple times.
 
 
 ## Technical Details
