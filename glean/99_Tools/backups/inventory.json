@@ -1,5 +1,53 @@
 [
   {
+    "id": "20251221_150656_1b8b0f",
+    "timestamp": "20251221_150656",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_150656_1b8b0f_The giant heat pumps designed to warm whole districts.md",
+    "changes_count": 1,
+    "changes_sample": [
+      "'prevent' -> '[[20_Vocabulary/prevent|prevent]]'"
+    ]
+  },
+  {
+    "id": "20251221_150655_4d9aaa",
+    "timestamp": "20251221_150655",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 04.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_150655_4d9aaa_Cam 19 Listening Test 04.md",
+    "changes_count": 559,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'materials' -> '[[20_Vocabulary/material|materials]]'",
+      "'AND' -> '[[20_Vocabulary/In addition|AND]]'",
+      "'supervisor' -> '[[20_Vocabulary/supervisor|supervisor]]'",
+      "'coat' -> '[[20_Vocabulary/coat|coat]]'"
+    ]
+  },
+  {
+    "id": "20251221_150655_502d6b",
+    "timestamp": "20251221_150655",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_150655_502d6b_Cam 19 Listening Test 02.md",
+    "changes_count": 1,
+    "changes_sample": [
+      "'variety' -> '[[20_Vocabulary/variety|variety]]'"
+    ]
+  },
+  {
+    "id": "20251221_150654_e7b674",
+    "timestamp": "20251221_150654",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_150654_e7b674_Cam 19 Listening Test 03.md",
+    "changes_count": 6,
+    "changes_sample": [
+      "'Bakery' -> '[[20_Vocabulary/bakery|Bakery]]'",
+      "'prevent' -> '[[20_Vocabulary/prevent\\|prevent]]'",
+      "'packaging' -> '[[20_Vocabulary/packaging|packaging]]'",
+      "'entrance' -> '[[20_Vocabulary/entrance|entrance]]'",
+      "'variety' -> '[[20_Vocabulary/variety|variety]]'"
+    ]
+  },
+  {
     "id": "20251221_071637_1b8b0f",
     "timestamp": "20251221_071637",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
@@ -811,6 +859,14 @@
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Audioscripts Cam 19 Listening Test 03.md",
     "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251220_231015_034b54_Audioscripts Cam 19 Listening Test 03.md",
     "changes_count": 124,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251221_151039_0b2583",
+    "timestamp": "20251221_151039",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 04.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_151039_0b2583_Cam 19 Listening Test 04.md",
+    "changes_count": 139,
     "tool": "clean_quotes"
   }
 ]

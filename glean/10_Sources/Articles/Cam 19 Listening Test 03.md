@@ -36,7 +36,7 @@
 
 *Write **ONE WORD [[20_Vocabulary/sole|ONLY]]** for each answer.*
 
-<table><tbody><tr><td colspan="3" width="560"><h2>Shopping</h2></td></tr><tr><td width="109"></td><td width="152"><span><strong>To buy</strong></span></td><td width="299"><span><strong>Other ideas</strong></span></td></tr><tr><td width="109"><span><strong>Fish market</strong></span></td><td width="152"><span>a dozen prawns</span></td><td width="299"><span>a handful of <strong>7</strong> ……………… ([[20_Vocabulary/genre|type]] of [[20_Vocabulary/seaweed|seaweed]])</span></td></tr><tr><td width="109"><span><strong>Organic shop</strong></span></td><td width="152"><span>beans [[20_Vocabulary/In addition|and]] a <strong>8</strong> ……………… for dessert</span></td><td width="299"><span>spices [[20_Vocabulary/In addition|and]] <strong>9</strong> ………………</span></td></tr><tr><td width="109"><span><strong>Bakery</strong></span></td><td width="152"><span>a brown loaf</span></td><td width="299"><span>a <strong>10</strong> ……………… tart</span></td></tr></tbody></table>
+<table><tbody><tr><td colspan="3" width="560"><h2>Shopping</h2></td></tr><tr><td width="109"></td><td width="152"><span><strong>To buy</strong></span></td><td width="299"><span><strong>Other ideas</strong></span></td></tr><tr><td width="109"><span><strong>Fish market</strong></span></td><td width="152"><span>a dozen prawns</span></td><td width="299"><span>a handful of <strong>7</strong> ……………… ([[20_Vocabulary/genre|type]] of [[20_Vocabulary/seaweed|seaweed]])</span></td></tr><tr><td width="109"><span><strong>Organic shop</strong></span></td><td width="152"><span>beans [[20_Vocabulary/In addition|and]] a <strong>8</strong> ……………… for dessert</span></td><td width="299"><span>spices [[20_Vocabulary/In addition|and]] <strong>9</strong> ………………</span></td></tr><tr><td width="109"><span><strong>[[20_Vocabulary/bakery|Bakery]]</strong></span></td><td width="152"><span>a brown loaf</span></td><td width="299"><span>a <strong>10</strong> ……………… tart</span></td></tr></tbody></table>
 
 ### [[20_Vocabulary/parcel|PART]] 2
 
@@ -195,7 +195,7 @@ Complete the flowchart below.
 
 **↓**
 
-| Take measurements using an electronic scale.  Place them in [[20_Vocabulary/a weighing chamber\|a weighing chamber]] to prevent **29** …………………. |
+| Take measurements using an electronic scale.  Place them in [[20_Vocabulary/a weighing chamber\|a weighing chamber]] to [[20_Vocabulary/prevent\|prevent]] **29** …………………. |
 | --- |
 
 **↓**
@@ -290,7 +290,7 @@ SHANNON: Right.
 
 LEON: Do you need to buy vegetables [[20_Vocabulary/In addition|too]]?
 
-SHANNON: I do, [[20_Vocabulary/In addition|and]] I want to avoid all the plastic packaging in the supermarket!
+SHANNON: I do, [[20_Vocabulary/In addition|and]] I want to avoid all the plastic [[20_Vocabulary/packaging|packaging]] in the supermarket!
 
 LEON: Well, there's a really nice organic shop there. Now what's it called … it's the name of a flower. I know, it's ' Rose '. ***Q4***
 
@@ -300,7 +300,7 @@ LEON: Yeah – it sells vegetables [[20_Vocabulary/In addition|and]] quite a lot
 
 SHANNON: [[20_Vocabulary/In addition|And]] where's that?
 
-LEON: Well, as you [[20_Vocabulary/achieve|reach]] the market, you'll see a big grey building on your left – I [[20_Vocabulary/suppose|think]] it [[20_Vocabulary/second-hand|used]] to be a [[20_Vocabulary/Warehouse|warehouse]]. Anyway, now it's a restaurant upstairs, [[20_Vocabulary/However|but]] the ground floor has two shops either side of the entrance [[20_Vocabulary/In addition|and]] it's the one on the left.
+LEON: Well, as you [[20_Vocabulary/achieve|reach]] the market, you'll see a big grey building on your left – I [[20_Vocabulary/suppose|think]] it [[20_Vocabulary/second-hand|used]] to be a [[20_Vocabulary/Warehouse|warehouse]]. Anyway, now it's a restaurant upstairs, [[20_Vocabulary/However|but]] the ground floor has two shops either side of the [[20_Vocabulary/entrance|entrance]] [[20_Vocabulary/In addition|and]] it's the one on the left.
 
 SHANNON: That's easy enough.
 
@@ -348,7 +348,7 @@ LEON: No problem.
 
 SHANNON: I know bread doesn't really go with curry [[20_Vocabulary/However|but]] I always [[20_Vocabulary/compared to|like]] to have some in case.
 
-LEON: As I said – all the bread is home-made [[20_Vocabulary/In addition|and]] there's lots of variety. I [[20_Vocabulary/compared to|like]] the brown bread myself.
+LEON: As I said – all the bread is home-made [[20_Vocabulary/In addition|and]] there's lots of [[20_Vocabulary/variety|variety]]. I [[20_Vocabulary/compared to|like]] the brown bread myself.
 
 SHANNON: Mm, sounds good.
 
@@ -482,7 +482,7 @@ In today's lecture, I'm [[20_Vocabulary/will|going to]] be talking [[20_Vocabula
 
 [[20_Vocabulary/microplastic|Microplastics]] can enter the [[20_Vocabulary/background|environment]] via a number of different sources. Threads [[20_Vocabulary/In addition|and]] microfibres [[20_Vocabulary/detach|detach]] from [[20_Vocabulary/synthetic clothing|synthetic clothing]] ***Q31*** every time they're put in a washing machine, [[20_Vocabulary/In addition|and]] these find their way into the water system. Other sources [[20_Vocabulary/comprise|include]] big [[20_Vocabulary/piece|pieces]] of plastic [[20_Vocabulary/refuse|waste]] that are already in the [[20_Vocabulary/background|environment]], [[20_Vocabulary/In addition|and]] these break down into [[20_Vocabulary/microscopic|microscopic]] [[20_Vocabulary/particles|particles]] [[20_Vocabulary/beyond|over]] a period of time. On a larger scale, factory [[20_Vocabulary/refuse|waste]] is another route, as are tyres which [[20_Vocabulary/worn|wear]] down as cars, [[20_Vocabulary/lorries|lorries]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/thereby|so]] on travel along road surfaces.
 
-We already understand some of the [[20_Vocabulary/impact|impacts]] of [[20_Vocabulary/microplastic|microplastics]] from studies [[20_Vocabulary/involve|involving]] fish [[20_Vocabulary/In addition|and]] other animals. There is [[20_Vocabulary/solid evidence|evidence]] that [[20_Vocabulary/microplastic|microplastics]] [[20_Vocabulary/harm|harm]] [[20_Vocabulary/tiny|small]] creatures in a variety of ways, such as by damaging their mouths, ***Q32***, or by [[20_Vocabulary/impair|impairing]] their [[20_Vocabulary/capable|ability]] to feed, for example when [[20_Vocabulary/microplastic|microplastics]] [[20_Vocabulary/obtain|get]] lodged in their [[20_Vocabulary/digestive system|digestive system]].
+We already understand some of the [[20_Vocabulary/impact|impacts]] of [[20_Vocabulary/microplastic|microplastics]] from studies [[20_Vocabulary/involve|involving]] fish [[20_Vocabulary/In addition|and]] other animals. There is [[20_Vocabulary/solid evidence|evidence]] that [[20_Vocabulary/microplastic|microplastics]] [[20_Vocabulary/harm|harm]] [[20_Vocabulary/tiny|small]] creatures in a [[20_Vocabulary/variety|variety]] of ways, such as by damaging their mouths, ***Q32***, or by [[20_Vocabulary/impair|impairing]] their [[20_Vocabulary/capable|ability]] to feed, for example when [[20_Vocabulary/microplastic|microplastics]] [[20_Vocabulary/obtain|get]] lodged in their [[20_Vocabulary/digestive system|digestive system]].
 
 [[20_Vocabulary/surprise|Surprisingly]] [[20_Vocabulary/perhaps|perhaps]], it is likely that humans [[20_Vocabulary/consumption|consume]] [[20_Vocabulary/microplastic|microplastics]], as these have been detected in [[20_Vocabulary/a wide range of|a wide range of]] food [[20_Vocabulary/In addition|and]] drink [[20_Vocabulary/goods|products]], including bottled water, [[20_Vocabulary/In addition|as well]] as in water that comes direct from the tap. [[20_Vocabulary/In addition|What's more]], salt [[20_Vocabulary/In addition|and]] many kinds of seafood have [[20_Vocabulary/In addition|also]] been [[20_Vocabulary/establish|found]] to [[20_Vocabulary/hold|contain]] [[20_Vocabulary/microplastic|microplastics]]. ***Q33***
 
