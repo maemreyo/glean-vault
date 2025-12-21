@@ -227,8 +227,6 @@ Which **TWO** opinions do both the students express [[20_Vocabulary/approximatel
 
 **WOMAN** I've been meaning to ask you for some advice [[20_Vocabulary/approximately|about]] restaurants. I need to book somewhere to celebrate my sister's 30th birthday, [[20_Vocabulary/In addition|and]] I liked the sound of that place you went to for your mum's 50th.
 
-Exam preparation guides
-
 **MAN** The Junction. Yeah, I'd [[20_Vocabulary/definite|definitely]] [[20_Vocabulary/propose|recommend]] that for a special [[20_Vocabulary/occasion|occasion]]. We had a great time there. Everyone [[20_Vocabulary/actually|really]] [[20_Vocabulary/enjoy|enjoyed]] it.
 
 **WOMAN** Where is it [[20_Vocabulary/repeat|again]]? I can't [[20_Vocabulary/bear in mind|remember]].
@@ -244,8 +242,6 @@ Exam preparation guides
 **MAN** It's [[20_Vocabulary/uncertain|certainly]] not cheap, [[20_Vocabulary/However|but]] for a special [[20_Vocabulary/occasion|occasion]] I [[20_Vocabulary/suppose|think]] it's fine It's got a great [[20_Vocabulary/a lively atmosphere|atmosphere]] [[20_Vocabulary/In addition|and]] before [[20_Vocabulary/meal|dinner]] you can go up on the roof [[20_Vocabulary/In addition|and]] have a drink It's [[20_Vocabulary/actually|really]] nice up there, [[20_Vocabulary/However|but]] you need to book It's very [[20_Vocabulary/widespread|popular]] as the views are spectacular.
 
 **WOMAN** Sounds good. [[20_Vocabulary/thereby|So]] that's [[20_Vocabulary/definite|definitely]] [[20_Vocabulary/a possibility|a possibility]] then. Is there anywhere else you can [[20_Vocabulary/suppose|think]] of?
-
-[[20_Vocabulary/Bookshelves|Bookshelves]]
 
 **MAN** [[20_Vocabulary/suppose|If]] you want somewhere a bit less [[20_Vocabulary/formal|formal]], then you could [[20_Vocabulary/attempt|try]] Paloma.
 
