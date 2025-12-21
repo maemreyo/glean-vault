@@ -2,7 +2,7 @@
 
 **Questions 1–6**
 
-*Complete the [[20_Vocabulary/curve|form]] [[20_Vocabulary/Beneath|below]].*
+*Complete the [[20_Vocabulary/curve|form]] below.*
 
 *Write **ONE WORD [[20_Vocabulary/In addition|AND]]/OR A NUMBER** for each answer.*
 
@@ -17,7 +17,7 @@
 
 **Questions 7–10**
 
-*Complete the table [[20_Vocabulary/Beneath|below]].*
+*Complete the table below.*
 
 *Write **ONE WORD [[20_Vocabulary/sole|ONLY]]** for each answer.*
 
@@ -109,7 +109,7 @@ Which **TWO** things does David say [[20_Vocabulary/approximately|about]] the li
 
 **B** The [[20_Vocabulary/trainer|training]] in use of [[20_Vocabulary/rope|ropes]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/knot|knots]] was quite [[20_Vocabulary/brief|brief]].
 
-**C** The [[20_Vocabulary/trainer|training]] exercises have [[20_Vocabulary/built up|built up]] his [[20_Vocabulary/mental health|mental]] [[20_Vocabulary/spine|strength]].
+**C** The [[20_Vocabulary/trainer|training]] exercises have [[20_Vocabulary/built up|built up]] his [[20_Vocabulary/mental health|mental]] strength.
 
 **D** The [[20_Vocabulary/casualty|casualty]] [[20_Vocabulary/treatment|care]] activities were [[20_Vocabulary/particularly|particularly]] challenging for him.
 
@@ -183,7 +183,7 @@ Grammar Exercise Workbooks
 
 What reasons did the recycling manager give for [[20_Vocabulary/reject|rejecting]] [[20_Vocabulary/footwear|footwear]], according to the students?
 
-*Choose **FOUR** answers from the [[20_Vocabulary/packaging|box]] [[20_Vocabulary/In addition|and]] write the correct letter, **A–F**, next to Questions 25–28.*
+*Choose **FOUR** answers from the box [[20_Vocabulary/In addition|and]] write the correct letter, **A–F**, next to Questions 25–28.*
 
 **Reasons**
 
@@ -205,7 +205,7 @@ What reasons did the recycling manager give for [[20_Vocabulary/reject|rejecting
 
 **26** the [[20_Vocabulary/ankle boot|ankle boots]] …………
 
-**27** the [[20_Vocabulary/toddler|baby]] [[20_Vocabulary/footwear|shoes]] …………
+**27** the baby [[20_Vocabulary/footwear|shoes]] …………
 
 **28** the [[20_Vocabulary/trainer|trainers]] …………
 
@@ -234,7 +234,7 @@ What reasons did the recycling manager give for [[20_Vocabulary/reject|rejecting
 
 **Questions 31–40**
 
-*Complete the notes [[20_Vocabulary/Beneath|below]].*
+*Complete the notes below.*
 
 *Write **ONE WORD [[20_Vocabulary/sole|ONLY]]** for each answer.*
 

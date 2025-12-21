@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
 #flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [cattle rearing, raising cattle, cattle farming, livestock farming, ranching, animal husbandry, breeding cattle]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈrɪərɪŋ ˈkætl/
+> **Part of Speech:** noun phrase (gerund + noun)
+> **CEFR Level:** B2
+> **Register:** neutral/specialized
+> **Etymology:** 'Rear' from Old English 'rǣran' (to raise, bring up); 'Cattle' from Old French 'chatel' (property)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The activity of breeding and raising cattle for meat, milk, or other products
+>
+> **Context Meaning:** The practice of caring for and breeding cattle as livestock, typically for agricultural or commercial purposes
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chăn nuôi gia súc, nuôi bò
+> - **Contextual:** việc nuôi bò, chăn nuôi gia súc, ngành chăn nuôi bò
+>
 > **Nuances:**
-> - ...
+> - Implies long-term care from birth to maturity
+> - Includes feeding, breeding, and health management
+> - Can refer to both dairy and beef cattle
+> - Major contributor to global agricultural economy
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Traditional, Essential, Economic
+> **Memory Hook:** Imagine 'raising' cattle from calves (rear-ing) - bringing them up carefully like children
+> **📖 Etymology Story:** From Old English 'rǣran' (to raise) + Old French 'chatel' (property) - literally 'raising property', reflecting cattle's historical value as wealth
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** cattle /ˈkætl/, ranching /ˈræntʃɪŋ/, husbandry /ˈhʌzbəndri/
+> - **Verb:** rear /rɪə(r)/, raise /reɪz/, breed /briːd/
+> - **Adj:** agricultural /ˌæɡrɪˈkʌltʃərəl/, livestock /ˈlaɪfstɒk/
+> - **Adv:** agriculturally /ˌæɡrɪˈkʌltʃərəli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[cattle farming]] /ˈkætl ˈfɑːmɪŋ/ : the activity of keeping cattle
+> - [[livestock raising]] /ˈlaɪfstɒk ˈreɪzɪŋ/ : breeding animals for food or other products
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[crop farming]] /ˈkrɒp ˈfɑːmɪŋ/ : growing plants for food
+> - [[arable farming]] /ˈærəbl ˈfɑːmɪŋ/ : farming that grows crops rather than animals
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Rearing cattle for meat/milk
+> 2. Traditional/intensive/extensive cattle rearing
+> 3. Rearing cattle on grasslands/ranches
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The family has been rearing cattle on their ranch for over three generations.
+> - **Translation:** Gia đình đã chăn nuôi bò ở nông trại của họ hơn ba thế hệ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Sustainable practices in rearing cattle can reduce the environmental impact of livestock production.
+> - **Translation:** Các thực hành bền vững trong việc nuôi bò có thể giảm thiểu tác động môi trường của sản phẩm gia súc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Using 'cattle' as singular**
+> - ❌ **Mistake:** I saw one cattle in the field.
+> - ✅ **Correction:** I saw one cow/bull in the field. / I saw cattle in the field.
+> - **Why:** 'Cattle' is a plural-only noun. Use 'cow', 'bull', 'calf', or 'head of cattle' for singular
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Rearing cattle requires significant investment in land, feed, and veterinary care."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **rearing cattle** (*/ˈrɪərɪŋ ˈkætl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The activity of breeding and raising cattle for meat, milk, or other products; caring for cattle from birth to maturity
+> 🇻🇳 **Vietnamese:** Chăn nuôi gia súc, nuôi bò, việc chăm sóc bò từ lúc sinh ra đến khi trưởng thành
+> 🗣️ **IPA:** */ˈrɪərɪŋ ˈkætl/*
+> 🧠 **Mental Model:** Giống như việc nuôi con - 'rear' là nuôi dưỡng, chăm sóc từ nhỏ đến lớn, nhưng với cattle (bò) để lấy meat/milk/lợi ích kinh tế
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The practice of caring for and breeding cattle as livestock for agricultural or commercial purposes"
+**Vietnamese:** Thực hành nuôi dưỡng và chăn nuôi bò như gia súc cho mục đích nông nghiệp hoặc thương mại
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**rearing cattle** (*/ˈrɪərɪŋ ˈkætl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **rearing cattle** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The documentary highlighted the challenges of rearing cattle sustainably in regions affected by climate change.
+> 🇻🇳 **Translation:** Bộ tài liệu đã nêu bật những thách thức của việc chăn nuôi bò một cách bền vững ở các khu vực bị ảnh hưởng bởi biến đổi khí hậu.
+> 🔍 **Analysis:** 'Rearing cattle sustainably' thể hiện hiện đại hóa ngành chăn nuôi - noun phrase này kết hợp traditional practice với modern environmental awareness, phù hợp trong agricultural context
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **rearing cattle**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Purpose:** Rearing cattle for meat/dairy/beef (nuôi bò để lấy thịt/sữa/bò thịt)
+> 2. **Method:** Traditional/intensive/extensive cattle rearing (chăn nuôi bò truyền thống/thâm canh/quảng canh)
+> 3. **Location:** Rearing cattle on farms/ranches/grasslands (nuôi bò ở nông trại/trang trại/đồng cỏ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **rearing cattle**:
+"They raise animals on the farm."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The family specializes in rearing cattle for premium organic beef, using rotational grazing practices."
+> 💡 **Why it works:** 'Rearing cattle for premium organic beef' mạnh hơn 'raise animals' vì nó chỉ rõ species, purpose, và quality level - thể hiện specialized agricultural practice
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **rearing cattle** instead of **[[raising animals]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **rearing cattle:** Dùng khi nói specifically về chăn nuôi bò với mục đích commercial/agricultural, implying long-term care và breeding
+> **[[raising animals]]:** Dùng general cho việc nuôi bất kỳ animal nào, có thể là pets hoặc farm animals
+> 🧱 **The Barrier:** Rearing cattle là specialized agricultural practice, raising animals là general care activity
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining your family business to someone interested in agriculture. Describe what you do!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We've been rearing cattle for dairy production for fifty years, focusing on sustainable farming methods."
+> 👨‍🎨 **Director's Note:** Câu này thể hiện traditional expertise combined với modern values - 'rearing cattle for dairy production' cho thấy specialized knowledge trong agricultural sector
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `rǣran` + `chatel` to the meaning of **rearing cattle**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English 'rǣran' (nuôi dưỡng, nâng lên) + Old French 'chatel' (tài sản) - 'rearing cattle' literal là 'nuoi dưỡng tài sản', phản ánh giá trị của bò như wealth và livelihood trong lịch sử nông nghiệp
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **rearing cattle**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English 'rǣran' (to raise) + Old French 'chatel' (property)
+> 👨‍👩‍👧 **Family:**
+> - *(noun phrase)* rearing cattle (chăn nuôi bò)
+> - *(verb)* rear/raise (nuôi, chăm sóc)
+> - *(noun)* cattle (gia súc, bò)
+> - *(noun)* ranching/farming (nghề chăn nuôi/nông nghiệp)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈrɪərɪŋ ˈkætl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**rearing cattle**
+> 📖 **Meaning:** The activity of breeding and raising cattle for meat, milk, or other products
+> 🇻🇳 **Vietnamese:** Chăn nuôi bò, nuôi gia súc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **rearing cattle**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** He is good at rearing cattles
+> ✅ **Correction:** He is good at rearing cattle / He is good at raising cows
+> 🧠 **Why:** 'Cattle' là plural-only noun - không có 'cattles'. Dùng 'cattle' cho plural, hoặc 'cow/bull/calf' cho singular
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **rearing cattle**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[crop cultivation]] (trồng trọt)
+> - [[arable farming]] (nông nghiệp trồng trọt)
+> 🧱 **Contrast:** Rearing cattle là livestock farming (động vật), crop cultivation/arable farming là plant-based agriculture (thực vật)
 
 ---

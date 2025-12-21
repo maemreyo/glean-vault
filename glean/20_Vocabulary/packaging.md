@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 #flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [package, packaged, wrapping, container, box, wrapper, packaging design, product packaging]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈpækɪdʒɪŋ/
+> **Part of Speech:** noun/gerund
+> **CEFR Level:** B1
+> **Register:** general/business
+> **Etymology:** From 'pack' + '-age' (suffix forming nouns); Old English 'paccan' meaning to bundle
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Materials used to wrap or protect goods
+>
+> **Context Meaning:** The container or wrapping in which a product is sold, stored, or transported; also the design and presentation of product wrappings
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bao bì, gói hàng
+> - **Contextual:** vỏ hộp, bao bì sản phẩm, thiết kế bao bì, đóng gói
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical materials or the process of packing
+> - In marketing, crucial for product appeal and brand identity
+> - Environmental concerns have led to sustainable packaging trends
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Protective, Commercial, Presentable, Environmental
+> **Memory Hook:** Think of "package" + "ing" - the act of making a package
+> **📖 Etymology Story:** From 'pack' meaning to bundle together, packaging evolved from simple protective wrapping to sophisticated marketing tool that speaks before the product does
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** packaging /ˈpækɪdʒɪŋ/
+> - **Noun:** package /ˈpækɪdʒ/
+> - **Verb:** package /ˈpækɪdʒ/
+> - **Verb:** pack /pæk/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[wrapping]] /ˈræpɪŋ/ : material used to cover something
+> - [[container]] /kənˈteɪnə(r)/ : something that holds or contains
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[contents]] /ˈkɒntents/ : what is inside the packaging
+> - [[unpackaged]] /ʌnˈpækɪdʒd/ : not wrapped or contained
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Attractive/eye-catching packaging
+> 2. Sustainable/eco-friendly packaging
+> 3. Packaging design/industry
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company redesigned its packaging to be more environmentally friendly.
+> - **Translation:** Công ty đã thiết kế lại bao bì sản phẩm để thân thiện với môi trường hơn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Minimalist packaging has become a trend among luxury brands.
+> - **Translation:** Bao bì tối giản đã trở thành xu hướng của các thương hiệu cao cấp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Uncountable noun usage**
+> - ❌ **Mistake:** They used many packagings for the products.
+> - ✅ **Correction:** They used many types of packaging for the products.
+> - **Why:** Packaging is typically uncountable; use 'types of packaging' for varieties
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The bright, colorful packaging caught the children's attention immediately."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **packaging** (*/ˈpækɪdʒɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Materials used to wrap, protect, and present products for sale or transport
+> 🇻🇳 **Vietnamese:** Bao bì, vật liệu dùng để bọc và bảo vệ sản phẩm
+> 🗣️ **IPA:** */ˈpækɪdʒɪŋ/*
+> 🧠 **Mental Model:** Packaging là product's "clothing" - nó protects, attracts attention, và communicates brand value trước khi customer sees actual product
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The materials in which a product is wrapped or contained for sale or distribution"
+**Vietnamese:** Vật liệu mà một sản phẩm được bọc hoặc chứa để bán hoặc phân phối
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**packaging** (*/ˈpækɪdʒɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **packaging** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The startup's innovative packaging reduced shipping costs by 40% while improving product protection.
+> 🇻🇳 **Translation:** Bao bì sáng tạo của startup đã giảm chi phí vận chuyển 40% đồng thời cải thiện việc bảo vệ sản phẩm.
+> 🔍 **Analysis:** 'Packaging' ở đây không chỉ là wrapping mà là strategic business decision affecting costs và sustainability
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **packaging**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Marketing appeal:** attractive/eye-catching packaging (bao bì hấp dẫn/thu hút)
+> 2. **Environmental focus:** sustainable/eco-friendly/recyclable packaging (bao bì bền vững/thân thiện môi trường)
+> 3. **Industry context:** packaging design/solution/industry (thiết kế/giải pháp/ngành bao bì)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **packaging**:
+"The product was wrapped nicely."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The innovative packaging featured biodegradable materials and a resealable design that extended product freshness."
+> 💡 **Why it works:** 'Packaging' chuyên nghiệp hơn 'wrapped' - bao hàm both function và design considerations,暗示商业思考
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **packaging** instead of **[[wrapping]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **packaging:** Commercial term, bao hàm design, branding, protection cho products
+> **[[wrapping:**** Simpler term, chủ yếu về act của covering something, thường cho gifts
+> 🧱 **The Barrier:** Packaging là commercial strategy, wrapping là simple covering action
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're evaluating two similar products. One has basic packaging, the other has premium packaging. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Though the products are identical, the superior packaging creates a perception of higher quality and better value."
+> 👨‍🎨 **Director's Note:** 'Packaging' thể hiện marketing acumen, phù hợp với business/consumer psychology context
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `paccan` to the meaning of **packaging**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English 'paccan' (bundle things together) - packaging evolved từ simple bundling để protect thành sophisticated visual language của brand
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **packaging**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `paccan` (to pack, bundle)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* packaging (bao bì, vật liệu đóng gói)
+> - *(noun)* package (gói hàng, bao bì)
+> - *(verb)* package (đóng gói)
+> - *(verb)* pack (đóng gói, sắp xếp)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈpækɪdʒɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**packaging**
+> 📖 **Meaning:** The materials used to wrap and protect products for sale
+> 🇻🇳 **Vietnamese:** Bao bì, vật liệu đóng gói sản phẩm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **packaging**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** We need to improve our packagings to compete better.
+> ✅ **Correction:** We need to improve our packaging to compete better. / We need to improve our packaging designs.
+> 🧠 **Why:** Packaging là uncountable noun. Dùng 'types of packaging' hoặc 'packaging designs' để nói về variations
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **packaging**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[the contents]] (nội dung bên trong)
+> - [[unpackaged goods]] (hàng không có bao bì)
+> 🧱 **Contrast:** Packaging là outer protection/presentation, trong khi antonyms là actual product hoặc lack of external wrapping
 
 ---

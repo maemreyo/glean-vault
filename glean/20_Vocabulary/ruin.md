@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [ruins, ruined, ruining, destroy, destruction, damage, wreck, devastate, spoil]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈruːɪn/ (verb), /ˈruːɪns/ (noun)
+> **Part of Speech:** verb/noun
+> **CEFR Level:** B1
+> **Register:** neutral/general
+> **Etymology:** From Old French 'ruiner' (to collapse), from Latin 'ruina' (a collapse, downfall)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To damage something so badly that it loses all its value, pleasure, or purpose; physical destruction
+>
+> **Context Meaning:** To destroy or severely damage; the state of being destroyed or severely damaged
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** phá hủy, làm hư hỏng, tàn phá
+> - **Contextual:** làm cho hỏng bét, phá nát, đập phá
+>
 > **Nuances:**
-> - ...
+> - Can refer to both physical destruction and abstract damage (reputation, relationships)
+> - Often implies irreversible damage
+> - As a noun 'ruins' often refers to remains of ancient buildings
+> - Can be used for gradual or sudden destruction
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Destructive, Final, Tragic
+> **Memory Hook:** Imagine a beautiful castle crumbling to dust - that's ruin
+> **📖 Etymology Story:** From Latin 'ruina' (a fall, collapse) -> Old French 'ruiner' -> English 'ruin' - originally about buildings falling, now extended to anything that can 'fall' from grace
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** ruin /ˈruːɪn/, ruins /ˈruːɪnz/
+> - **Verb:** ruin /ˈruːɪn/
+> - **Adj:** ruined /ˈruːɪnd/, ruinous /ˈruːɪnəs/
+> - **Adv:** ruinously /ˈruːɪnəsli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[destroy]] /dɪˈstrɔɪ/ : to damage something so badly that it no longer exists
+> - [[damage]] /ˈdæmɪdʒ/ : to harm something making it less attractive, useful, or valuable
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[build]] /bɪld/ : to make something by putting materials together
+> - [[preserve]] /prɪˈzɜːv/ : to keep something in its original state
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Ruin someone's reputation/chances/life
+> 2. Financial/complete/utter ruin
+> 3. Leave something in ruins
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The heavy rains could ruin the crops if they continue for much longer.
+> - **Translation:** Mưa lớn có thể phá hoại mùa màng nếu chúng tiếp tục lâu hơn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The scandal ruined his political career and left his reputation in ruins.
+> - **Translation:** Vụ bê bối đã phá hủy sự nghiệp chính trị của ông và để lại uy tín của ông trong tình trạng tàn tạ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Using for minor damage**
+> - ❌ **Mistake:** I ruined my shirt with a small coffee stain.
+> - ✅ **Correction:** I stained my shirt with coffee. / I damaged my shirt with a coffee stain.
+> - **Why:** 'Ruin' implies complete destruction. Use 'stain', 'damage', or 'spoil' for minor issues
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The fire left the entire neighborhood in ruins."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +82,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **ruin** (*/ˈruːɪn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To damage something so badly that it loses all its value, pleasure, or purpose; the state of being destroyed or severely damaged
+> 🇻🇳 **Vietnamese:** Phá hủy, làm hư hỏng nặng, tàn phá, tình trạng bị phá hủy
+> 🗣️ **IPA:** */ˈruːɪn/* (verb), */ˈruːɪns/* (noun)
+> 🧠 **Mental Model:** Giống như breaking một vật thành những mảnh không thể sửa được - không chỉ là 'break' mà là 'destroy completely'
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To damage something so badly that it loses all its value or purpose"
+**Vietnamese:** Làm hư hỏng cái gì đó đến mức mất hết giá trị hoặc mục đích sử dụng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**ruin** (*/ˈruːɪn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **ruin** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The unfair review threatened to ruin the restaurant's reputation after years of hard work.
+> 🇻🇳 **Translation:** Đánh giá không công bằng đe dọa phá hủy danh tiếng của nhà hàng sau nhiều năm làm việc chăm chỉ.
+> 🔍 **Analysis:** 'Ruin the restaurant's reputation' thể hiện sự phá hủy abstract value - verb này mạnh hơn 'damage' vì nó implies permanent, severe damage khó phục hồi
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **ruin**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Abstract:** Ruin someone's reputation/chances/life (phá hủy danh tiếng/cơ hội/cuộc đời)
+> 2. **Physical:** Ruin buildings/cities/structures (phá hủy nhà cửa/thành phố/công trình)
+> 3. **Financial:** Financial/complete/utter ruin (sự sụp đổ tài chính/toàn diện)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **ruin**:
+"The rain damaged the garden."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The torrential downpour threatened to ruin the carefully cultivated garden, washing away months of tender care."
+> 💡 **Why it works:** 'Threatened to ruin the carefully cultivated garden' mạnh hơn 'damaged the garden' vì nó nhấn mạnh severity và potential complete loss, thể hiện emotional investment
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **ruin** instead of **[[damage]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **ruin:** Dùng khi nói về destruction nearly complete hoặc irreversible - mất hết value/function
+> **[[damage]]:** Dùng khi nói về harm making something less valuable/functional nhưng vẫn có thể repair
+> 🧱 **The Barrier:** Ruin là near-total destruction, damage là partial harm
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is about to post an angry message online. Advise them!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Don't send that message now - it could ruin your professional reputation permanently."
+> 👨‍🎨 **Director's Note:** Câu này thể hiện warning về severe, lasting consequences - 'ruin your reputation' nhấn mạnh damage khó phục hồi đến image
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `ruina` to the meaning of **ruin**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'ruina' (sự sụp đổ) - giống như một building collapsing thành rubble, 'ruin' expanded thành bất kỳ cái gì bị 'collapsed' hoặc destroyed từ glory hoặc usefulness
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **ruin**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin 'ruina' (a collapse, downfall)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* ruin (phá hủy)
+> - *(noun)* ruin (sự sụp đổ), ruins (phế tích)
+> - *(adjective)* ruined (bị phá hủy), ruinous (gây tàn phá)
+> - *(adverb)* ruinously (một cách gây tàn phá)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈruːɪn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**ruin**
+> 📖 **Meaning:** To damage something so badly that it loses all its value, pleasure, or purpose
+> 🇻🇳 **Vietnamese:** Phá hủy, làm hỏng bét
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **ruin**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The little rain ruined our picnic plans
+> ✅ **Correction:** The rain spoiled our picnic plans / The rain ruined our outdoor wedding plans
+> 🧠 **Why:** 'Ruin' quá strong cho minor inconvenience. Dùng 'spoil' cho minor disruptions, 'ruin' cho major, significant impacts
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **ruin**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[build]] (xây dựng)
+> - [[restore]] (khôi phục)
+> - [[preserve]] (bảo tồn)
+> 🧱 **Contrast:** Ruin là phá hủy/đánh sập, antonyms là tạo ra/bảo vệ/khôi phục lại
 
 ---

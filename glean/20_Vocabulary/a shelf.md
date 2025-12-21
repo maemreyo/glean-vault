@@ -1,159 +1,79 @@
 #flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [shelf, shelves, shelving, bookshelf, rack, ledge, mantelpiece, display shelf, storage shelf]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ʃelf/
+> **Part of Speech:** noun phrase (article + noun)
+> **CEFR Level:** A2
+> **Register:** general
+> **Etymology:** Old English 'scylfe' meaning 'split, shelf, ledge', from Proto-Germanic 'skelf-' meaning to split
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A flat piece of wood, metal, or glass attached to a wall or forming part of a piece of furniture
+>
+> **Context Meaning:** A horizontal surface used for storing or displaying objects, typically books, decorations, or household items
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một cái kệ, một cái giá
+> - **Contextual:** kệ để sách, giá bát, mantelpiece, cái mũ
+>
 > **Nuances:**
-> - ...
+> - Can be built into walls or freestanding
+> - Essential for organization and display
+> - Types: bookshelf, display shelf, storage shelf, floating shelf
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized, Supportive, Display-oriented
+> **Memory Hook:** Think of a shell on a wall - shelf sounds like shell but it holds things instead of creatures
+> **📖 Etymology Story:** From Old English 'scylfe' meaning to split - shelves were literally split pieces of wood attached to walls to create storage space
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Singular:** a shelf /ə ʃelf/
+> - **Plural:** shelves /ʃelvz/
+> - **Verb:** shelve /ʃelv/
+> - **Related:** shelving /ˈʃelvɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[rack]] /ræk/ : a framework for holding objects
+> - [[ledge]] /ledʒ/ : a narrow horizontal projection
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[floor]] /flɔː(r)/ : the surface of the ground
+> - [[container]] /kənˈteɪnə(r)/ : an object for holding something
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Put/place something on a shelf
+> 2. Top/bottom shelf
+> 3. Shelf life (of products)
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She carefully arranged the antique vases on a shelf above the fireplace.
+> - **Translation:** Cô ấy cẩn thận sắp xếp các chiếc bình cổ trên một cái kệ phía trên lò sưởi.
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The library has thousands of books packed neatly on its shelves.
+> - **Translation:** Thư viện có hàng ngàn cuốn sách được sắp xếp gọn gàng trên các cái kệ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural formation**
+> - ❌ **Mistake:** I bought three shelfs.
+> - ✅ **Correction:** I bought three shelves.
+> - **Why:** Shelf has an irregular plural form: shelf → shelves (f → ves)
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Please put that book back on the shelf when you're finished."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a shelf** (*/ə ʃelf/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A flat horizontal surface for storing or displaying objects
+> 🇻🇳 **Vietnamese:** Một cái kệ, một cái giá để đồ
+> 🗣️ **IPA:** */ə ʃelf/*
+> 🧠 **Mental Model:** A shelf là flat surface bạn attach to wall hoặc piece of furniture để display hoặc store items - như một tiny floor ở trên cao
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A flat piece of wood or other material attached to a wall for placing objects on"
+**Vietnamese:** Một mặt phẳng bằng gỗ hoặc vật liệu khác gắn vào tường để đặt đồ vật
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a shelf** (*/ə ʃelf/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a shelf** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The professor had so many books that they were stacked two deep on every shelf.
+> 🇻🇳 **Translation:** Giáo sư có quá nhiều sách đến mức chúng được xếp chồng lên nhau hai lớp trên mỗi cái kệ.
+> 🔍 **Analysis:** 'Shelf' ở đây là vocabulary cơ bản nhưng trong context học thuật cho thấy professor's expertise qua sách overload
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a shelf**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Placement actions:** put/place/keep on a shelf (để trên kệ)
+> 2. **Location:** top/bottom/middle shelf (kệ trên/dưới/giữa)
+> 3. **Types:** book/display/kitchen shelf (kệ sách/trưng bày/nhà bếp)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a shelf**:
+"There was stuff on the wall."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "A single wooden shelf held her most treasured possessions: faded photographs and her grandmother's locket."
+> 💡 **Why it works:** 'Shelf' tạo organized display image,暗示这些东西都很重要，不只是随意摆放的 'stuff'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a shelf** instead of **[[a table]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a shelf:** Gắn vào tường hoặc vertical structure, save floor space, display items
+> **[[a table]]:** Freestanding furniture, có legs, work surface
+> 🧱 **The Barrier:** Shelf là vertical storage, table là horizontal workspace - shelf displays, table serves
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're helping someone decorate their new apartment. They need storage for books. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We should install a floating shelf in the living room - it'll showcase your book collection and save floor space."
+> 👨‍🎨 **Director's Note:** 'Shelf' thể hiện practical storage solution, phù hợp với home decoration context
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `scylfe` to the meaning of **a shelf**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English 'scylfe' (để tách ra) - shelf ban đầu là split piece of wood bạn 'tách ra' từ larger piece để create storage level
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a shelf**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Proto-Germanic `skelf-` (to split)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* shelf (cái kệ)
+> - *(plural)* shelves (nhiều cái kệ)
+> - *(verb)* shelve (để lên kệ, gác lại)
+> - *(noun)* shelving (hệ thống kệ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ʃelf/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a shelf**
+> 📖 **Meaning:** A horizontal surface attached to a wall for storage or display
+> 🇻🇳 **Vietnamese:** Một cái kệ, một cái giá
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a shelf**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The kitchen has many shelfs for spices.
+> ✅ **Correction:** The kitchen has many shelves for spices.
+> 🧠 **Why:** Shelf có irregular plural: shelf → shelves (f → ves), giống knife → knives, wife → wives
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a shelf**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[the floor]] (sàn nhà, bề mặt dưới)
+> - [[a basket]] (rổ, cái để chứa ở dưới)
+> 🧱 **Contrast:** Shelf là elevated storage/trưng bày, trong khi antonyms là ground-level storage hoặc surface
 
 ---

@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [ambitious, ambitions, ambitious person, career ambition, political ambition, drive, aspiration, goal-oriented, determination]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
-
+> **IPA:** /æmˈbɪʃən/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** From Latin 'ambitio' (going around, canvassing for votes), from 'ambire' (to go around)
+>
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Strong desire to achieve something
+>
+> **Context Meaning:** A powerful drive to succeed, accomplish goals, or attain power, honor, or fame
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tham vọng, hoài bão
+> - **Contextual:** khát vọng thành công, ý chí phấn đấu
+>
 > **Nuances:**
-> - ...
+> - Can be positive (drive to achieve) or negative (excessive desire for power)
+> - Often associated with career and personal development goals
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Driven, Determined, Goal-Oriented
+> **Memory Hook:** Imagine someone 'going around' (ambire) seeking votes - that's ambition in action
+> **📖 Etymology Story:** Roman politicians would 'go around' (ambire) the forum seeking votes - this political canvassing became 'ambitio', the root of our modern ambition
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[ambition]] /æmˈbɪʃən/
+> - **Adj:** [[ambitious]] /æmˈbɪʃəs/
+> - **Adv:** [[ambitiously]] /æmˈbɪʃəsli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[aspiration]] /ˌæspəˈreɪʃən/ : hope or ambition
+> - [[drive]] /draɪv/ : motivation
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[apathy]] /ˈæpəθi/ : lack of interest
+> - [[contentment]] /kənˈtentmənt/ : satisfaction with what one has
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. political ambition
+> 2. achieve ambition
+> 3. lifelong ambition
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Her ambition was to become a doctor and help people in underserved communities.
+> - **Translation:** Tham vọng của cô là trở thành bác sĩ và giúp đỡ người dân ở các cộng đồng ít được phục vụ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** unchecked ambition can lead to corruption.
+> - **Translation:** Tham vọng không bị kiểm soát có thể dẫn đến tham nhũng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability**
+> - ❌ **Mistake:** "He has many ambitions"
+> - ✅ **Correction:** "He has many ambitions" or "He has great ambition"
+> - **Why:** Both are correct, but 'ambition' as uncountable refers to the quality, countable refers to specific goals
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Ambition is the path to success. Persistence is the vehicle you arrive in."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **ambition** (*/æmˈbɪʃən/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A strong desire to achieve success, power, or accomplish goals
+> 🇻🇳 **Vietnamese:** Tham vọng, hoài bão, khát vọng thành công
+> 🗣️ **IPA:** */æmˈbɪʃən/*
+> 🧠 **Mental Model:** Fire within - ngọn lửa bên thôi thúc bạn đạt được mục tiêu lớn
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A strong desire to achieve something"
+**Vietnamese:** Tham vọng, hoài bão
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**ambition** (*/æmˈbɪʃən/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **ambition** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** From a young age, his ambition was to build a company that would change the world.
+> 🇻🇳 **Translation:** Từ khi còn trẻ, hoài bão của anh là xây dựng một công ty sẽ thay đổi thế giới.
+> 🔍 **Analysis:** Perfect here because 'ambition' conveys a deep, long-term drive beyond ordinary goals
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **ambition**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Type:** political ambition (tham vọng chính trị)
+> 2. **Action:** fulfill ambition (thực hiện tham vọng)
+> 3. **Quality:** great ambition (tham vọng lớn)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **ambition**:
+"She really wanted to be successful."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Her ambition drove her to work tirelessly toward her goals."
+> 💡 **Why it works:** 'Ambition' adds depth - not just wanting success, but having the drive to pursue it relentlessly
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **ambition** instead of [[goal]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **ambition:** Khát vọng sâu sắc, định hình con người (VN)
+> **[[goal]]:** Mục tiêu cụ thể, có thể đo lường
+> 🧱 **The Barrier:** Ambition là ngọn lửa bên, goal là đích đến - cái là động lực, cái là kết quả
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend just got a promotion and is already planning their next career move. Comment on their drive!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Your ambition is truly inspiring!"
+> 👨‍🎨 **Director's Note:** 'Ambition' thể hiện sự ngưỡng mộ với động lực và khát vọng của họ
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `ambire` (to go around) to the meaning of **ambition**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'ambire' (đi vòng quanh) → chính khách đi vận động phiếu → 'ambitio' (sự vận động) → 'ambition' (khát vọng)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **ambition**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin 'ambire' (to go around)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[ambitious]] (having ambition)
+> - *(adv)* [[ambitiously]] (in an ambitious manner)
+> - *(noun)* [[ambitiousness]] (the quality of being ambitious)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */æmˈbɪʃən/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**ambition**
+> 📖 **Meaning:** Strong desire to achieve
+> 🇻🇳 **Vietnamese:** Tham vọng, hoài bão
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **ambition**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "His ambition is being rich."
+> ✅ **Correction:** "His ambition is to become rich" or "He is ambitious about becoming rich."
+> 🧠 **Why:** 'Ambition' usually needs 'to do' something, not 'being' something
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **ambition**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[lethargy]] (lack of energy)
+> - [[satisfaction]] (contentment with current state)
+> 🧱 **Contrast:** Ambition là luôn hướng lên, satisfaction là hài lòng hiện tại - cái là khát khao, cái là thỏa mãn
 
 ---

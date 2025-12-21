@@ -2,7 +2,7 @@
 
 **Questions 1–6**
 
-*Complete the notes below.*
+*Complete the notes [[20_Vocabulary/Beneath|below]].*
 
 *Write **ONE WORD [[20_Vocabulary/In addition|AND]]/OR A NUMBER** for each answer.*
 
@@ -22,7 +22,7 @@
 
 ● called **4** ‘……………….’
 
-● below a restaurant in the large, grey building
+● [[20_Vocabulary/Beneath|below]] a restaurant in the large, grey building
 
 ● [[20_Vocabulary/appearance|look]] for the large **5** ………………. [[20_Vocabulary/beyond|outside]]
 
@@ -32,7 +32,7 @@
 
 **Questions 7–10**
 
-*Complete the table below.*
+*Complete the table [[20_Vocabulary/Beneath|below]].*
 
 *Write **ONE WORD [[20_Vocabulary/sole|ONLY]]** for each answer.*
 
@@ -44,7 +44,7 @@
 
 What information is given [[20_Vocabulary/approximately|about]] each of the following festival [[20_Vocabulary/workshop|workshops]]?
 
-*Choose **SIX** answers from the box [[20_Vocabulary/In addition|and]] write the correct letter, **A–H**, next to Questions 11–16.*
+*Choose **SIX** answers from the [[20_Vocabulary/packaging|box]] [[20_Vocabulary/In addition|and]] write the correct letter, **A–H**, next to Questions 11–16.*
 
 **Information**
 
@@ -148,7 +148,7 @@ Which **TWO** [[20_Vocabulary/piece|pieces]] of advice does the speaker give to 
 
 **A** Are mice [[20_Vocabulary/capable|capable of]] [[20_Vocabulary/over-protective|controlling]] their [[20_Vocabulary/food intake|food intake]]?
 
-**B** Does an increase in sugar [[20_Vocabulary/resulted in|lead to]] [[20_Vocabulary/mental health|health]] problems?
+**B** Does an [[20_Vocabulary/build up|increase]] in sugar [[20_Vocabulary/resulted in|lead to]] [[20_Vocabulary/mental health|health]] problems?
 
 **C** How much do supplements of different kinds [[20_Vocabulary/affect|affect]] [[20_Vocabulary/mental health|health]]?
 
@@ -162,9 +162,9 @@ Which **TWO** [[20_Vocabulary/piece|pieces]] of advice does the speaker give to 
 
 **Questions 26-30**
 
-Complete the flowchart below.
+Complete the flowchart [[20_Vocabulary/Beneath|below]].
 
-*Choose **FIVE** answers from the box [[20_Vocabulary/In addition|and]] write the correct letter, **A–H**, next to Questions 26-30.*
+*Choose **FIVE** answers from the [[20_Vocabulary/packaging|box]] [[20_Vocabulary/In addition|and]] write the correct letter, **A–H**, next to Questions 26-30.*
 
 **A** size
 
@@ -209,7 +209,7 @@ Complete the flowchart below.
 
 **Questions 31–40**
 
-*Complete the notes below.*
+*Complete the notes [[20_Vocabulary/Beneath|below]].*
 
 *Write **ONE WORD [[20_Vocabulary/sole|ONLY]]** for each answer.*
 
@@ -474,7 +474,7 @@ CLARE: [[20_Vocabulary/However|But]] we can’t [[20_Vocabulary/hold|hold]] them
 
 Shop for bestsellers
 
-JAKE: [[20_Vocabulary/accurately|Exactly]]. [[20_Vocabulary/thereby|So]] you need something called [[20_Vocabulary/a weighing chamber|a weighing chamber]] to [[20_Vocabulary/prevent|stop]] the mice from running [[20_Vocabulary/absence|away]]. It sounds [[20_Vocabulary/complicate|complicated]], [[20_Vocabulary/However|but]] actually you can just use a plastic box with holes in the top. ***Q29***
+JAKE: [[20_Vocabulary/accurately|Exactly]]. [[20_Vocabulary/thereby|So]] you need something called [[20_Vocabulary/a weighing chamber|a weighing chamber]] to [[20_Vocabulary/prevent|stop]] the mice from running [[20_Vocabulary/absence|away]]. It sounds [[20_Vocabulary/complicate|complicated]], [[20_Vocabulary/However|but]] actually you can just use a plastic [[20_Vocabulary/packaging|box]] with holes in the top. ***Q29***
 
 CLARE: OK. [[20_Vocabulary/thereby|So]] [[20_Vocabulary/no longer|once]] we’ve measured the weight [[20_Vocabulary/obtain|gain]] of each mouse we can work out the [[20_Vocabulary/average|average]] for each group, [[20_Vocabulary/as well as|as well as]] the [[20_Vocabulary/average|standard]] deviation. [[20_Vocabulary/In addition|And]] then see where we go from there. That sounds cool, I [[20_Vocabulary/suppose|think]] the students [[20_Vocabulary/will|will]] [[20_Vocabulary/enjoy|enjoy]] it. ***Q30***
 
@@ -498,7 +498,7 @@ It is very difficult to [[20_Vocabulary/accurately|accurately]] [[20_Vocabulary/
 
 A team from the Anglia Ruskin University in Cambridge has carried out a [[20_Vocabulary/an experiment|study]] of the effects of [[20_Vocabulary/microplastic|microplastics]] on [[20_Vocabulary/the digestive tracts of earthworms|the digestive tracts of earthworms]]. These worms, which live in topsoil, are an [[20_Vocabulary/essential|essential]] [[20_Vocabulary/segment|component]] of our agricultural system. By feeding on [[20_Vocabulary/soil|soil]], they [[20_Vocabulary/a mixture|mix]] [[20_Vocabulary/nutrition|nutrients]] into it, [[20_Vocabulary/thereby|thereby]] making it more fertile. ***Q36***
 
-The researchers [[20_Vocabulary/gel|set]] out to discover whether the introduction of [[20_Vocabulary/microplastic|microplastics]] into the [[20_Vocabulary/soil|soil]] – [[20_Vocabulary/In addition|and]] [[20_Vocabulary/the subsequent ingestion|the subsequent ingestion]] of these by [[20_Vocabulary/earthworm|earthworms]] – [[20_Vocabulary/will|would]] [[20_Vocabulary/impact|impact]] [[20_Vocabulary/soil|soil]] [[20_Vocabulary/attribute|quality]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/eventually|ultimately]] [[20_Vocabulary/inhibit|inhibit]] plant growth. ***Q37***. The [[20_Vocabulary/brief|short]] answer was, yes, it did. After placing three different types of [[20_Vocabulary/microplastic|microplastic]] [[20_Vocabulary/particles|particles]] into the [[20_Vocabulary/soil|soil]], they planted [[20_Vocabulary/perennial rye grass|perennial rye grass]]. The [[20_Vocabulary/particles|particles]] of [[20_Vocabulary/microplastic|microplastic]], which included [[20_Vocabulary/biodegradable|biodegradable]] PLA [[20_Vocabulary/In addition|and]] [[20_Vocabulary/conventional high-density polyethylene|conventional high-density polyethylene]], or [[20_Vocabulary/conventional high-density polyethylene|HDPE]], were then ingested by the [[20_Vocabulary/earthworm|earthworms]] in the [[20_Vocabulary/soil|soil]]. The [[20_Vocabulary/impact|result]] was that the worms [[20_Vocabulary/disorientation|lost]] weight rapidly. ***Q38***. What’s more, a lower percentage than [[20_Vocabulary/average|normal]] of the [[20_Vocabulary/perennial rye grass|rye grass]] seeds [[20_Vocabulary/germinate|germinated]], [[20_Vocabulary/In addition|and]] the researchers concluded that this was a direct [[20_Vocabulary/impact|result]] of the [[20_Vocabulary/earthworm|earthworms]] [[20_Vocabulary/existence|being]] unable to fulfil their [[20_Vocabulary/average|normal]] role in making [[20_Vocabulary/soil|soil]] more fertile. The team [[20_Vocabulary/In addition|also]] discovered that there was an increase in the amount of [[20_Vocabulary/acid|acid]] [[20_Vocabulary/establish|found]] in the [[20_Vocabulary/soil|soil]], ***Q39***, [[20_Vocabulary/In addition|and]] this was [[20_Vocabulary/attribute|attributed]] [[20_Vocabulary/mainly|mainly]] to the [[20_Vocabulary/microplastic|microplastic]] [[20_Vocabulary/particles|particles]] from conventional [[20_Vocabulary/conventional high-density polyethylene|HDPE]] plastic.
+The researchers [[20_Vocabulary/gel|set]] out to discover whether the introduction of [[20_Vocabulary/microplastic|microplastics]] into the [[20_Vocabulary/soil|soil]] – [[20_Vocabulary/In addition|and]] [[20_Vocabulary/the subsequent ingestion|the subsequent ingestion]] of these by [[20_Vocabulary/earthworm|earthworms]] – [[20_Vocabulary/will|would]] [[20_Vocabulary/impact|impact]] [[20_Vocabulary/soil|soil]] [[20_Vocabulary/attribute|quality]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/eventually|ultimately]] [[20_Vocabulary/inhibit|inhibit]] plant growth. ***Q37***. The [[20_Vocabulary/brief|short]] answer was, yes, it did. After [[20_Vocabulary/placement|placing]] three different types of [[20_Vocabulary/microplastic|microplastic]] [[20_Vocabulary/particles|particles]] into the [[20_Vocabulary/soil|soil]], they planted [[20_Vocabulary/perennial rye grass|perennial rye grass]]. The [[20_Vocabulary/particles|particles]] of [[20_Vocabulary/microplastic|microplastic]], which included [[20_Vocabulary/biodegradable|biodegradable]] PLA [[20_Vocabulary/In addition|and]] [[20_Vocabulary/conventional high-density polyethylene|conventional high-density polyethylene]], or [[20_Vocabulary/conventional high-density polyethylene|HDPE]], were then ingested by the [[20_Vocabulary/earthworm|earthworms]] in the [[20_Vocabulary/soil|soil]]. The [[20_Vocabulary/impact|result]] was that the worms [[20_Vocabulary/disorientation|lost]] weight rapidly. ***Q38***. What’s more, a lower percentage than [[20_Vocabulary/average|normal]] of the [[20_Vocabulary/perennial rye grass|rye grass]] seeds [[20_Vocabulary/germinate|germinated]], [[20_Vocabulary/In addition|and]] the researchers concluded that this was a direct [[20_Vocabulary/impact|result]] of the [[20_Vocabulary/earthworm|earthworms]] [[20_Vocabulary/existence|being]] unable to fulfil their [[20_Vocabulary/average|normal]] role in making [[20_Vocabulary/soil|soil]] more fertile. The team [[20_Vocabulary/In addition|also]] discovered that there was an [[20_Vocabulary/build up|increase]] in the amount of [[20_Vocabulary/acid|acid]] [[20_Vocabulary/establish|found]] in the [[20_Vocabulary/soil|soil]], ***Q39***, [[20_Vocabulary/In addition|and]] this was [[20_Vocabulary/attribute|attributed]] [[20_Vocabulary/mainly|mainly]] to the [[20_Vocabulary/microplastic|microplastic]] [[20_Vocabulary/particles|particles]] from conventional [[20_Vocabulary/conventional high-density polyethylene|HDPE]] plastic.
 
 The conclusions of the [[20_Vocabulary/an experiment|study]] make for very interesting reading – I’ve included the reference in the notes to give you at the end of this session. To summarise, the authors [[20_Vocabulary/propose|proposed]] the idea that we need to regard [[20_Vocabulary/soil|soil]] as we [[20_Vocabulary/will|would]] regard any other process in [[20_Vocabulary/messy nature|nature]]. This means we should [[20_Vocabulary/admit|accept]] the [[20_Vocabulary/implication|implications]] of [[20_Vocabulary/soil|soil]] [[20_Vocabulary/existence|being]] [[20_Vocabulary/depend on|dependent on]] [[20_Vocabulary/decay|decaying]] [[20_Vocabulary/In addition|and]] dead matter constantly [[20_Vocabulary/existence|being]] passed through the bodies of [[20_Vocabulary/earthworm|earthworms]]. That is, when [[20_Vocabulary/soil|soil]] becomes [[20_Vocabulary/impoverish|impoverished]] by [[20_Vocabulary/the presence of microplastics|the presence of microplastics]], not [[20_Vocabulary/sole|only]] ecosystems [[20_Vocabulary/However|but]] [[20_Vocabulary/In addition|also]] the whole of [[20_Vocabulary/Institution|society]] are negatively [[20_Vocabulary/impact|impacted]]. ***Q40***
 

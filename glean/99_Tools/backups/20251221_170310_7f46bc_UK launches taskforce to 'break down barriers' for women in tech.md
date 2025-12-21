@@ -2,7 +2,7 @@
 
 ![DSIT Anne-Marie Imafidon takes a selfie on her smartphone of a crowd of women behind her. Technology secretary Liz Kendall stands in the centre, wearing a white shirt and black trousers, and smiling.](https://ichef.bbci.co.uk/news/240/cpsprodpb/ff57/live/f38ab2a0-d9d5-11f0-ba85-09c2975a5393.jpg.webp)
 
-The group contains some of the most [[20_Vocabulary/eye-catching|prominent]] women in UK tech, including Dr Anne-Marie Imafidon, BT Group boss Allison Kirkby [[20_Vocabulary/In addition|and]] Dr Hayaatun Sillem,
+The group contains some of the most prominent women in UK tech, including Dr Anne-Marie Imafidon, BT Group boss Allison Kirkby [[20_Vocabulary/In addition|and]] Dr Hayaatun Sillem,
 
 The government has launched a new taskforce it says [[20_Vocabulary/will|will]] [[20_Vocabulary/rescue|help]] women "enter, stay [[20_Vocabulary/In addition|and]] lead" in the UK tech sector.
 

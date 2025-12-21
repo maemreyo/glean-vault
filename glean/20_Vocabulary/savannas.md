@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 #flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [savanna, tropical grassland, grassland, plain, prairie, steppe, veld, pampas]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /səˈvænəz/
+> **Part of Speech:** noun (plural)
+> **CEFR Level:** C1
+> **Register:** academic/scientific
+> **Etymology:** From Spanish 'zavana' (treeless plain), from Taino 'zabana'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Flat grassy plains in tropical or subtropical regions with few trees
+>
+> **Context Meaning:** Tropical grassland ecosystems characterized by scattered trees and continuous grass cover, with distinct wet and dry seasons
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đồng cỏ, đồng bằng cỏ, thảo nguyên nhiệt đới
+> - **Contextual:** xavan, đồng cỏ cây thưa, thảo nguyên có cây rải rác
+>
 > **Nuances:**
-> - ...
+> - Distinguished from forests by having continuous grass cover
+> - Supports unique wildlife adapted to seasonal rainfall patterns
+> - Often maintained by periodic fires and large herbivores
+> - Critical for carbon sequestration and biodiversity
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Wild, Expansive, Seasonal
+> **Memory Hook:** Imagine a vast grassy landscape where trees stand apart like islands in a sea of grass
+> **📖 Etymology Story:** From Taino 'zabana' through Spanish 'zavana' -> English 'savanna' - the original word describing the vast grassy plains where ancient peoples hunted and lived
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** savanna /səˈvænə/ (singular), savannah /səˈvænə/
+> - **Adj:** savanna-like /səˈvænəlaɪk/, savannan /səˈvænən/
+> - **Related:** grassland /ˈɡrɑːslænd/, plain /pleɪn/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[grassland]] /ˈɡrɑːslænd/ : land covered with grass rather than trees
+> - [[prairie]] /ˈpreri/ : extensive treeless grassland in North America
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[forest]] /ˈfɒrɪst/ : large area covered chiefly with trees
+> - [[rainforest]] /ˈreɪnfɒrɪst/ : dense tropical forest with high rainfall
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. African/Australian/South American savannas
+> 2. Tropical/subtropical savannas
+> 3. Savannas support/host/sustain
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** African savannas support diverse wildlife including elephants, lions, and zebras adapted to seasonal rainfall patterns.
+> - **Translation:** Các đồng cỏ châu Phi hỗ trợ động vật hoang dã đa dạng gồm voi, sư tử và ngựa vằn đã thích nghi với lượng mưa theo mùa.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Climate change threatens the delicate balance of savannas, potentially converting them to deserts or forests.
+> - **Translation:** Biến đổi khí hậu đe dọa sự cân bằng mong manh của các đồng cỏ, có thể biến chúng thành sa mạc hoặc rừng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing with prairie**
+> - ❌ **Mistake:** The American Midwest is covered in savannas.
+> - ✅ **Correction:** The American Midwest is covered in prairies. / Africa has extensive savannas.
+> - **Why:** 'Prairies' are temperate grasslands without trees, while 'savannas' are tropical with scattered trees
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Savannas play a crucial role in supporting migratory wildlife and traditional pastoral communities."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **savannas** (*/səˈvænəz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Flat grassy plains in tropical or subtropical regions with scattered trees and distinct wet/dry seasons
+> 🇻🇳 **Vietnamese:** Đồng cỏ, thảo nguyên nhiệt đới, đồng cỏ cây thưa
+> 🗣️ **IPA:** */səˈvænəz/*
+> 🧠 **Mental Model:** Giống như một biển cỏ rộng lớn với vài cây đứng riêng lẻ - không quá rậm như forest, không trống trơn như desert
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Tropical grassland ecosystems characterized by scattered trees and continuous grass cover"
+**Vietnamese:** Hệ sinh thái đồng cỏ nhiệt đới đặc trưng bởi cây rải rác và cỏ liên tục
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**savannas** (*/səˈvænəz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **savannas** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The annual migration of wildebeest across the Serengeti savannas represents one of Earth's greatest natural spectacles.
+> 🇻🇳 **Translation:** Cuộc di cư hàng năm của linh dương đầu bò qua các đồng cỏ Serengeti là một trong những kỳ quan thiên nhiên vĩ đại nhất của Trái Đất.
+> 🔍 **Analysis:** 'Serengeti savannas' thể hiện location cụ thể - plural noun này nhấn mạnh đây là một hệ sinh thái rộng lớn, characteristic của châu Phi với seasonal rainfall và wildlife đặc trưng
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **savannas**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Geographical:** African/Australian/South American savannas (đồng cỏ châu Phi/Úc/Nam Mỹ)
+> 2. **Ecological:** Tropical/subtropical savannas (đồng cỏ nhiệt đới/á nhiệt đới)
+> 3. **Wildlife:** Savannas support/host/maintain wildlife (đồng cỏ nuôi/duy trì động vật hoang dã)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **savannas**:
+"There are grasslands in Africa with animals."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The African savannas sustain complex ecosystems where apex predators and herbivores have coexisted for millennia."
+> 💡 **Why it works:** 'African savannas' mạnh hơn 'grasslands in Africa' vì nó chỉ rõ hệ sinh thái đặc trưng, với scattered trees và seasonal patterns, không chỉ là generic grasslands
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **savannas** instead of **[[prairies]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **savannas:** Dùng cho tropical/subtropical grasslands với scattered trees và distinct wet/dry seasons
+> **[[prairies]]:** Dùng cho temperate grasslands, mostly treeless, với hơn 50% là grass species
+> 🧱 **The Barrier:** Savannas are tropical with trees, prairies are temperate without trees
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a wildlife documentary narrator describing the landscape. Set the scene!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Across the vast savannas, acacia trees dot the horizon as herds of elephants graze on the golden grass beneath the scorching sun."
+> 👨‍🎨 **Director's Note:** Câu này tạo vivid image của savanna ecosystem - scattered trees, vast grasslands, và wildlife characteristic của African savannas
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `zabana` to the meaning of **savannas**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Taino 'zabana' (treeless plain) -> Spanish 'zavana' -> English 'savanna' - từ ngữ Caribbean mô tả những đồng bằng cỏ rộng lớn, nơi người indigenous hunting và living alongside nature
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **savannas**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Taino 'zabana' (treeless plain)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* savanna/savannah (đồng cỏ)
+> - *(noun)* grassland (đồng cỏ)
+> - *(noun)* plain (đồng bằng)
+> - *(noun)* prairie (thảo nguyên ôn đới)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */səˈvænəz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**savannas**
+> 📖 **Meaning:** Flat grassy plains in tropical or subtropical regions with few trees
+> 🇻🇳 **Vietnamese:** Đồng cỏ, thảo nguyên nhiệt đới
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **savannas**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The Amazon rainforest is surrounded by savannas
+> ✅ **Correction:** The Amazon rainforest is bordered by tropical savannas in some regions
+> 🧠 **Why:** Amazon rainforest chủ yếu surrounded bởi 'rainforest' và 'transitional forests', không phải 'savannas'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **savannas**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[rainforests]] (rừng mưa nhiệt đới)
+> - [[deserts]] (sa mạc)
+> 🧱 **Contrast:** Savannas có grass và scattered trees với moderate rainfall, rainforests có dense trees với high rainfall, deserts có very little vegetation với minimal rainfall
 
 ---

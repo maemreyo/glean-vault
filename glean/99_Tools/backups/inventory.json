@@ -1,5 +1,121 @@
 [
   {
+    "id": "20251221_170311_1b8b0f",
+    "timestamp": "20251221_170311",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_170311_1b8b0f_The giant heat pumps designed to warm whole districts.md",
+    "changes_count": 3,
+    "changes_sample": [
+      "'flexibility' -> '[[20_Vocabulary/flexibility|flexibility]]'",
+      "'flexibility' -> '[[20_Vocabulary/flexibility|flexibility]]'",
+      "'under' -> '[[20_Vocabulary/Beneath|under]]'"
+    ]
+  },
+  {
+    "id": "20251221_170311_943431",
+    "timestamp": "20251221_170311",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 01.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_170311_943431_Cam 20 Listening Test 01.md",
+    "changes_count": 8,
+    "changes_sample": [
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'Location' -> '[[20_Vocabulary/placement\\|Location]]'",
+      "'increase' -> '[[20_Vocabulary/build up|increase]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'location' -> '[[20_Vocabulary/placement|location]]'"
+    ]
+  },
+  {
+    "id": "20251221_170311_4d9aaa",
+    "timestamp": "20251221_170311",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 04.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_170311_4d9aaa_Cam 19 Listening Test 04.md",
+    "changes_count": 21,
+    "changes_sample": [
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'Location' -> '[[20_Vocabulary/placement|Location]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'box' -> '[[20_Vocabulary/packaging|box]]'",
+      "'Location' -> '[[20_Vocabulary/placement|Location]]'"
+    ]
+  },
+  {
+    "id": "20251221_170311_502d6b",
+    "timestamp": "20251221_170311",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_170311_502d6b_Cam 19 Listening Test 02.md",
+    "changes_count": 5,
+    "changes_sample": [
+      "'success' -> '[[20_Vocabulary/a sense of achievement|success]]'",
+      "'success' -> '[[20_Vocabulary/a sense of achievement|success]]'",
+      "'baby' -> '[[20_Vocabulary/toddler|baby]]'",
+      "'under' -> '[[20_Vocabulary/Beneath|under]]'",
+      "'grow' -> '[[20_Vocabulary/build up|grow]]'"
+    ]
+  },
+  {
+    "id": "20251221_170311_c11957",
+    "timestamp": "20251221_170311",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Practice Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_170311_c11957_Practice Cam 19 Listening Test 02.md",
+    "changes_count": 6,
+    "changes_sample": [
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'strength' -> '[[20_Vocabulary/spine|strength]]'",
+      "'box' -> '[[20_Vocabulary/packaging|box]]'",
+      "'baby' -> '[[20_Vocabulary/toddler|baby]]'"
+    ]
+  },
+  {
+    "id": "20251221_170310_7f46bc",
+    "timestamp": "20251221_170310",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/UK launches taskforce to 'break down barriers' for women in tech.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_170310_7f46bc_UK launches taskforce to 'break down barriers' for women in tech.md",
+    "changes_count": 1,
+    "changes_sample": [
+      "'prominent' -> '[[20_Vocabulary/eye-catching|prominent]]'"
+    ]
+  },
+  {
+    "id": "20251221_170310_e7b674",
+    "timestamp": "20251221_170310",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_170310_e7b674_Cam 19 Listening Test 03.md",
+    "changes_count": 11,
+    "changes_sample": [
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'box' -> '[[20_Vocabulary/packaging|box]]'",
+      "'increase' -> '[[20_Vocabulary/build up|increase]]'"
+    ]
+  },
+  {
+    "id": "20251221_170310_5a41e2",
+    "timestamp": "20251221_170310",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_170310_5a41e2_Cam 20 Listening Test 02.md",
+    "changes_count": 596,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'AND' -> '[[20_Vocabulary/In addition|AND]]'",
+      "'Local' -> '[[20_Vocabulary/resident|Local]]'",
+      "'councils' -> '[[20_Vocabulary/council|councils]]'"
+    ]
+  },
+  {
+    "id": "20251221_170310_b4d747",
+    "timestamp": "20251221_170310",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Insight of the Day The Extreme Biology and Thermodynamics of Caves.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251221_170310_b4d747_Insight of the Day The Extreme Biology and Thermodynamics of Caves.md",
+    "changes_count": 1,
+    "changes_sample": [
+      "'under' -> '[[20_Vocabulary/Beneath|under]]'"
+    ]
+  },
+  {
     "id": "20251221_165126_1b8b0f",
     "timestamp": "20251221_165126",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",

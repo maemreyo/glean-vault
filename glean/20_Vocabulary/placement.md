@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [placements, placed, placing, position, location, arrangement, disposition, deployment, installation, assignment]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈpleɪsmənt/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From Old French 'placement' (act of placing), from Latin 'placementem' (a placing)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The action of putting someone or something in a particular place or position
+>
+> **Context Meaning:** The act of finding suitable employment, accommodation, or position for someone; the arrangement of objects in a particular location
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự sắp đặt, sự bố trí, vị trí
+> - **Contextual:** sự tìm việc, việc bố trí vị trí, sự phân công
+>
 > **Nuances:**
-> - ...
+> - Often implies strategic or deliberate arrangement
+> - In education: refers to assigning students to appropriate levels
+> - In employment: finding suitable positions for job seekers
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Strategic, Deliberate, Organized
+> **Memory Hook:** Place + ment = The act of finding the right PLACE for something/someone
+> **📖 Etymology Story:** From Latin 'ponere' (to put) -> Old French 'placement' -> English 'placement' - the art of putting things in their perfect spots
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** placement /ˈpleɪsmənt/, place /pleɪs/
+> - **Verb:** place /pleɪs/
+> - **Adj:** placeable /ˈpleɪsəbl/
+> - **Adv:** placement-wise /ˈpleɪsməntwaɪz/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[arrangement]] /əˈreɪndʒmənt/ : the action of organizing things
+> - [[positioning]] /pəˈzɪʃənɪŋ/ : the strategic placement of something
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[removal]] /rɪˈmuːvl/ : taking something away from its place
+> - [[displacement]] /dɪsˈpleɪsmənt/ : moving something from its proper place
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Job/work placement
+> 2. Product placement
+> 3. Strategic/careful placement
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The university offers career placement services to help graduates find suitable employment.
+> - **Translation:** Đại học cung cấp dịch vụ hỗ trợ tìm việc để giúp sinh viên tốt nghiệp tìm được công việc phù hợp.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The strategic placement of advertisements increased brand visibility significantly.
+> - **Translation:** Việc bố trí quảng cáo một cách chiến lược đã tăng đáng kể tầm nhìn của thương hiệu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Using 'placement' for simple location**
+> - ❌ **Mistake:** What is the placement of the bookstore?
+> - ✅ **Correction:** What is the location of the bookstore? / Where is the bookstore located?
+> - **Why:** 'Placement' implies deliberate arrangement, not just existing location
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Career placement services have become essential in today's competitive job market."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **placement** (*/ˈpleɪsmənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The action of putting someone or something in a particular place or position; the act of finding suitable employment or position
+> 🇻🇳 **Vietnamese:** Sự sắp đặt, sự bố trí, vị trí, việc tìm vị trí phù hợp
+> 🗣️ **IPA:** */ˈpleɪsmənt/*
+> 🧠 **Mental Model:** Giống như việc tìm parking slot cho xe - đặt đúng thứ đúng vào đúng chỗ cho phù hợp và hiệu quả
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The action of finding suitable employment or position for someone"
+**Vietnamese:** Việc tìm việc hoặc vị trí phù hợp cho ai đó
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**placement** (*/ˈpleɪsmənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **placement** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The careful placement of furniture in the small apartment created an illusion of more space.
+> 🇻🇳 **Translation:** Việc bố trí đồ đạc cẩn thận trong căn hộ nhỏ đã tạo ra ảo giác về không gian rộng hơn.
+> 🔍 **Analysis:** 'Careful placement' thể hiện sự sắp đặt có chủ đích và kỹ lưỡng - noun này nhấn mạnh tính chiến lược trong việc bố trí vị trí, không chỉ đơn giản là đặt xuống
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **placement**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Career context:** Job/work/career placement (việc tìm việc/giai đoạn sự nghiệp)
+> 2. **Business context:** Product/strategic placement (vị trí sản phẩm/bố trí chiến lược)
+> 3. **Education context:** Student/course placement (phân bổ sinh viên/lớp học)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **placement**:
+"The company helped me find a job."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Through their executive placement service, the company matched my skills with the perfect position at a leading tech firm."
+> 💡 **Why it works:** 'Executive placement service' mạnh hơn 'helped find a job' vì nó chỉ rõ đây là dịch vụ chuyên nghiệp, có chọn lọc, và nhắm vào vị trí cấp cao
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **placement** instead of **[[location]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **placement:** Dùng khi nói về sự sắp đặt có chủ đích, có chiến lược - action của việc đặt đúng vị trí
+> **[[location]]:** Dùng khi nói về nơi chốn, vị trí hiện tại của vật/người - state of being somewhere
+> 🧱 **The Barrier:** Placement là action (hành động bố trí), location là state (trạng thái tại nơi đó)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're an HR manager explaining your company's recruitment strategy. Emphasize how you match candidates with roles!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our candidate placement process ensures that each professional is matched with a position that maximizes their potential and contributes to our organizational goals."
+> 👨‍🎨 **Director's Note:** Câu này thể hiện sự chuyên nghiệp và chiến lược trong quy trình tuyển dụng - 'placement process' cho thấy đây là quy trình có hệ thống
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `ponere` to the meaning of **placement**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'ponere' (để, đặt) evolved thành 'placement' trong tiếng Anh - nghệ thuật đặt người hoặc vật vào đúng vị trí, giống như placing quân cờ trên bàn cờ chiến lược
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **placement**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin 'ponere' (to put, to place)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* placement (sự sắp đặt)
+> - *(noun)* place (nơi chốn)
+> - *(verb)* place (đặt, để)
+> - *(noun)* replacement (sự thay thế)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈpleɪsmənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**placement**
+> 📖 **Meaning:** The action of putting someone or something in a particular place or position
+> 🇻🇳 **Vietnamese:** Sự sắp đặt, sự bố trí
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **placement**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Thank you for your placement in the meeting yesterday
+> ✅ **Correction:** Thank you for your participation/attendance in the meeting yesterday
+> 🧠 **Why:** 'Placement' là việc bố trí vị trí, không phải sự tham dự - dùng 'participation' hoặc 'attendance' cho việc tham gia cuộc họp
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **placement**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[removal]] (sự di dời, lấy đi)
+> - [[misplacement]] (sự đặt sai chỗ)
+> 🧱 **Contrast:** Placement là đặt đúng vị trí có chủ đích, removal/misplacement là lấy đi hoặc đặt sai vị trí
 
 ---

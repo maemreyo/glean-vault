@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
 #flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [toddlers, toddler years, toddler stage, toddlerhood, toddler bed, toddler activities, little one, baby, infant, preschooler]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
-
+> **IPA:** /ˈtɒdlər/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** From 'toddle' (to walk with short unsteady steps) + '-er' (agent suffix)
+>
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A young child who is just learning to walk
+>
+> **Context Meaning:** A child typically between 1-3 years old, characterized by unsteady walking and early language development
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** trẻ mới biết đi, trẻ nhỏ
+> - **Contextual:** trẻ con độ tuổi 1-3, trẻ đang tập đi
+>
 > **Nuances:**
-> - ...
+> - Specifically refers to the walking stage, not just age
+> - Implies a developmental phase of exploration and independence
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Curious, Unsteady, Exploring
+> **Memory Hook:** Picture a little one 'toddling' around - wobbly but determined to explore the world
+> **📖 Etymology Story:** From 'toddle' (to walk unsteadily) + '-er' → one who toddles, perfectly capturing this stage of wobbly early walking
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[toddler]] /ˈtɒdlər/
+> - **Verb:** [[toddle]] /ˈtɒdl/ (to walk unsteadily)
+> - **Related:** [[toddling]] /ˈtɒdlɪŋ/ (the act)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[young child]] /jʌŋ tʃaɪld/ : general term
+> - [[toddling child]] /ˈtɒdlɪŋ tʃaɪld/ : emphasizes walking
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[teenager]] /ˈtiːneɪdʒər/ : adolescent
+> - [[adult]] /ˈædʌlt/ : fully grown
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. toddler years
+> 2. toddler stage
+> 3. toddler group
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The playground has a special area for toddlers with soft padding.
+> - **Translation:** Sân chơi có khu vực riêng cho trẻ mới biết đi với lớp đệm mềm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Toddler tantrums are a normal part of development.
+> - **Translation:** Cơn giận hờn của trẻ mới biết đi là một phần bình thường của sự phát triển.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Age Range**
+> - ❌ **Mistake:** Calling a 6-month-old baby a toddler
+> - ✅ **Correction:** A toddler must be walking, typically 1-3 years
+> - **Why:** 'Toddler' specifically refers to the walking stage
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Toddlers are tiny explorers in a giant world."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **toddler** (*/ˈtɒdlər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A young child (typically 1-3 years old) who is learning to walk with unsteady steps
+> 🇻🇳 **Vietnamese:** Trẻ mới biết đi, trẻ nhỏ độ tuổi 1-3
+> 🗣️ **IPA:** */ˈtɒdlər/*
+> 🧠 **Mental Model:** Wobbly walker - một đứa trẻ đang tập đi, bước không vững nhưng ham khám phá
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A young child who is just learning to walk"
+**Vietnamese:** Trẻ mới biết đi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**toddler** (*/ˈtɒdlər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **toddler** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The daycare center has separate rooms for babies and toddlers.
+> 🇻🇳 **Translation:** Trung tâm giữ trẻ có phòng riêng cho trẻ sơ sinh và trẻ mới biết đi.
+> 🔍 **Analysis:** Perfect here because it distinguishes between non-walking babies and walking toddlers
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **toddler**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Development:** toddler stage (giai đoạn trẻ mới biết đi)
+> 2. **Activity:** toddler group (nhóm trẻ mới biết đi)
+> 3. **Behavior:** toddler tantrum (cơn giận hờn của trẻ nhỏ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **toddler**:
+"The little kid was learning to walk."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The toddler took his first unsteady steps across the room."
+> 💡 **Why it works:** 'Toddler' immediately creates an image of a wobbly but determined 1-2 year old exploring
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **toddler** instead of [[baby]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **toddler:** Đã biết đi, giai đoạn bắt đầu khám phá độc lập (VN)
+> **[[baby]]:** Chưa biết đi, giai đoạn bế ẵm hoàn toàn
+> 🧱 **The Barrier:** Toddler = giai đoạn đi chập chững, baby = giai đoạn bế ẵm
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a restaurant and see a family with a very young child just learning to walk. Describe them!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Look at that adorable toddler exploring the restaurant!"
+> 👨‍🎨 **Director's Note:** 'Toddler' cho thấy bạn nhận ra đây là trẻ đang tập đi, không còn là em bé sơ sinh
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `toddle` to the meaning of **toddler**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 'toddle' (đi không vững) + '-er' (người) → toddler là người đang toddle, chính xác mô tả giai đoạn tập đi của trẻ
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **toddler**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** From 'toddle' (verb)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[toddle]] (to walk unsteadily)
+> - *(noun)* [[toddling]] (the act of toddling)
+> - *(related)* [[toddlerhood]] (the state of being a toddler)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈtɒdlər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**toddler**
+> 📖 **Meaning:** A young child learning to walk
+> 🇻🇳 **Vietnamese:** Trẻ mới biết đi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **toddler**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "My 6-month-old daughter is such an active toddler."
+> ✅ **Correction:** "My 6-month-old daughter is an active baby."
+> 🧠 **Why:** Toddler phải đã biết đi, 6 tháng còn quá nhỏ - phải dùng baby
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **toddler** in terms of age?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[teenager]] (13-19 years old)
+> - [[elderly]] (old person)
+> 🧱 **Contrast:** Toddler là đầu đời, elderly là cuối đời - cái là bắt đầu, cái là kết thúc
 
 ---

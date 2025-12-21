@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [devastated, devastating, devastation, destroy, ruin, wreck, desolate, ravage, obliterate]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈdevəsteɪt/
+> **Part of Speech:** verb
+> **CEFR Level:** C1
+> **Register:** formal/emphatic
+> **Etymology:** From Latin 'devastare' (to lay waste), from 'vastare' (to make empty), from 'vastus' (empty)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To destroy or damage something so badly that it no longer exists or cannot be used
+>
+> **Context Meaning:** To cause severe and widespread damage or destruction; to overwhelm with shock or grief
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tàn phá, hủy diệt, phá hoại nghiêm trọng
+> - **Contextual:** tàn phá nặng nề, phá nát, làm tan nát
+>
 > **Nuances:**
-> - ...
+> - Stronger than 'damage' or 'destroy' - implies near-total destruction
+> - Can refer to physical places, emotions, or lives
+> - Often used for natural disasters, wars, or emotional shocks
+> - Carries emotional weight of shock and tragedy
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Catastrophic, Overwhelming, Tragic
+> **Memory Hook:** De (completely) + vastate (make empty) = to make completely empty
+> **📖 Etymology Story:** From Latin 'vastus' (empty, desolate) - to devastate is to turn something into a wasteland, making it completely empty of life, value, or function
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** devastation /ˌdevəˈsteɪʃn/
+> - **Verb:** devastate /ˈdevəsteɪt/
+> - **Adj:** devastated /ˈdevəsteɪtɪd/, devastating /ˈdevəsteɪtɪŋ/
+> - **Adv:** devastatingly /ˈdevəsteɪtɪŋli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[obliterate]] /əˈblɪtəreɪt/ : to destroy completely so that nothing is left
+> - [[ravage]] /ˈrævɪdʒ/ : to cause severe damage to something
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[rebuild]] /ˌriːˈbɪld/ : to construct something again after it has been damaged
+> - [[preserve]] /prɪˈzɜːv/ : to keep something in its original state
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Devastating effects/consequences/impact
+> 2. Completely/totally utterly devastate
+> 3. Devastated by/news/fire/war
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The hurricane devastated the coastal town, leaving thousands homeless.
+> - **Translation:** Cơn bão đã tàn phá thị trấn ven biển, làm hàng ngàn người mất nhà cửa.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She was devastated by the news of her friend's sudden death.
+> - **Translation:** Cô ấy tan nát vì tin tức về cái chết đột ngột của người bạn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Using for minor problems**
+> - ❌ **Mistake:** The bad grade devastated me.
+> - ✅ **Correction:** The bad grade disappointed me. / I was devastated by failing all my exams.
+> - **Why:** 'Devastate' implies severe, overwhelming impact. Use for major disasters or tragedies, not everyday disappointments
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The wildfire devastated thousands of acres of forest habitat."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +82,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **devastate** (*/ˈdevəsteɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To destroy or damage something so badly that it no longer exists or cannot be used; to overwhelm with shock or grief
+> 🇻🇳 **Vietnamese:** Tàn phá, hủy diệt hoàn toàn, làm tan nát, gây tổn thương nặng nề
+> 🗣️ **IPA:** */ˈdevəsteɪt/*
+> 🧠 **Mental Model:** Giống như turning một thriving thành phố thành wasteland - không chỉ 'damage' mà là 'make completely empty và unusable'
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To cause severe and widespread damage or destruction; to overwhelm with shock or grief"
+**Vietnamese:** Gây ra thiệt hại nghiêm trọng và lan rộng; làm cho ai đó choáng váng vì sốc hoặc đau buồn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**devastate** (*/ˈdevəsteɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **devastate** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The economic crisis devastated small businesses across the region, forcing many to close permanently.
+> 🇻🇳 **Translation:** Cuộc khủng hoảng kinh tế đã tàn phá các doanh nghiệp nhỏ trên toàn khu vực, buộc nhiều nơi phải đóng cửa vĩnh viễn.
+> 🔍 **Analysis:** 'Devastated small businesses' thể hiện severe, widespread economic damage - verb này mạnh hơn 'hurt' hoặc 'damage' vì nó implies near-total destruction across entire sector, phù hợp với scale của economic crisis
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **devastate**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Natural disasters:** Earthquake/tsunami/fire devastates area (động đất/sóng thần/cháy tàn phá khu vực)
+> 2. **Emotional impact:** Devastated by news/loss/tragedy (tan nát vì tin mất mát/thảm kịch)
+> 3. **Complete destruction:** Completely/totally/utterly devastate (tàn phá hoàn toàn/toàn diện)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **devastate**:
+"The war damaged the city."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The prolonged conflict devastated the once-thriving metropolis, reducing centuries of cultural heritage to rubble."
+> 💡 **Why it works:** 'Devastated the once-thriving metropolis' mạnh hơn 'damaged the city' vì nó nhấn mạnh near-total destruction, loss of prosperity, và cultural significance, thể hiện tragedy magnitude
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **devastate** instead of **[[destroy]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **devastate:** Dùng khi muốn nhấn mạnh severe, widespread destruction với emotional impact - thường implies leaving behind wasteland
+> **[[destroy]]:** Dùng khi nói về complete elimination nhưng不一定 có emotional weight
+> 🧱 **The Barrier:** Devastate adds emotional shock and scope, destroy is more mechanical/neutral
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're reporting on a natural disaster. Describe the impact!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The tornado has devastated entire communities, leaving behind a trail of destruction that will take years to rebuild."
+> 👨‍🎨 **Director's Note:** Câu này thể hiện catastrophic impact - 'devastated entire communities' nhấn mạnh both physical destruction và human tragedy, phù hợp với disaster reporting
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `vastus` to the meaning of **devastate**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'vastus' (trống rỗng, hoang vu) -> 'devastate' là 'make completely empty' - giống như turning một flourishing area thành barren wasteland, empty của life và value
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **devastate**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin 'vastus' (empty, desolate)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* devastate (tàn phá)
+> - *(noun)* devastation (sự tàn phá)
+> - *(adjective)* devastated (bị tàn phá), devastating (gây tàn phá)
+> - *(adverb)* devastatingly (một cách gây tàn phá)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈdevəsteɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**devastate**
+> 📖 **Meaning:** To destroy or damage something so badly that it no longer exists or cannot be used
+> 🇻🇳 **Vietnamese:** Tàn phá, hủy diệt
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **devastate**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The traffic jam devastated my schedule
+> ✅ **Correction:** The traffic jam ruined my day / The pandemic devastated the tourism industry
+> 🧠 **Why:** 'Devastate' quá strong cho minor inconveniences. Dùng cho major disasters, tragedies, hoặc severe impacts affecting large areas/groups
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **devastate**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[rebuild]] (xây dựng lại)
+> - [[restore]] (khôi phục)
+> - [[nurture]] (nuôi dưỡng, chăm sóc)
+> 🧱 **Contrast:** Devastate là phá hủy hoàn toàn, antonyms là constructing/healing/preserving
 
 ---
