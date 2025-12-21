@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/agriculture-food/food-science #flashcards/cam-19-listening-test-04
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [figs, fig tree, fresh fig, dried fig, fig fruit]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /fɪɡ/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral/culinary
+> **Etymology:** From Latin ficus
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A soft, sweet fruit with many tiny seeds
+>
+> **Context Meaning:** A pear-shaped fruit of the fig tree, eaten fresh or dried, known for its sweet taste and unique texture
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** quả vả
+> - **Contextual:** quả sung, quả ổi
+>
 > **Nuances:**
-> - ...
+> - Can be eaten fresh or dried
+> - Has a unique soft texture with numerous seeds
+> - Often used in both sweet and savory dishes
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Ancient, Sweet, Mediterranean
+> **Memory Hook:** Fig sounds like "big" - big taste in a small package
+> **📖 Etymology Story:** Latin "ficus" gave us "fig" - one of humanity's oldest cultivated fruits. Adam and Eve used fig leaves for clothing, Romans considered it sacred, and Mediterranean cultures have treasured it for millennia. This ancient fruit connects us to our earliest agricultural roots.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[fig tree]] /fɪɡ triː/
+> - **Noun:** [[fig leaf]] /fɪɡ liːf/
+> - **Adj:** figgy /ˈfɪɡ.i/
+> - **Noun:** [[figment]] /ˈfɪɡ.mənt/ (related root)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - No direct synonyms - unique fruit
+> - [[common fig]] /ˈkɒm.ən fɪɡ/ : specific variety
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms - fruit category
+> - [[savory fruit]] /ˈseɪ.və.ri fruːt/ : contrasting taste profile
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. fresh fig
+> 2. dried fig
+> 3. fig tree
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The market sells fresh figs during the summer season.
+> - **Translation:** Chợ bán quả vả tươi trong mùa hè.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Fig jam is a popular spread for breakfast toast.
+> - **Translation:** Mứt quả vả là một loại phổ biến để phết trên bánh mì sáng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Pronunciation**
+> - ❌ **Mistake:** /faɪɡ/ (like "dig")
+> - ✅ **Correction:** /fɪɡ/ (short "i" sound)
+> - **Why:** Vowel sound is short, not long
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "She picked a ripe fig from the tree in her garden."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **fig** (*/fɪɡ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A soft, sweet fruit with many tiny seeds, eaten fresh or dried, from the fig tree
+> 🇻🇳 **Vietnamese:** Quả vả/quả sung - loại trái cây mềm, ngọt, có nhiều hạt nhỏ
+> 🗣️ **IPA:** */fɪɡ/*
+> 🧠 **Mental Model:** Một "pear-shaped fruit" với "soft texture" và "tiny seeds" - like nature's candy filled with crunchies
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A soft, sweet fruit with many tiny seeds, eaten fresh or dried"
+**Vietnamese:** Quả vả - trái cây mềm ngọt có nhiều hạt
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**fig** (*/fɪɡ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **fig** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The Mediterranean salad was garnished with fresh fig and goat cheese.
+> 🇻🇳 **Translation:** Món salad Địa Trung Hải được trang trí bằng quả vả tươi và phô mai dê.
+> 🔍 **Analysis:** "fig" hoàn hảo vì nó chỉ specific fruit có sweet taste và soft texture balances savory goat cheese. "Fruit" quá general, "pear" hoặc "plum" sẽ give different taste profile và texture characteristics.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **fig**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **State:** fresh/dried/ripe fig (VN: tình trạng quả)
+> 2. **Product:** fig jam/paste/preserve (VN: sản phẩm từ quả)
+> 3. **Source:** fig tree/leaf/variety (VN: nguồn gốc)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **fig**:
+"I ate some sweet fruit."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I enjoyed a ripe fig with its honey-like sweetness and unique seed-filled texture."
+> 💡 **Why it works:** "fig" specific hơn "sweet fruit" vì nó conjures exact taste profile (honey-like), texture (soft với seeds), và cultural context (Mediterranean, ancient fruit), tạo vivid sensory experience.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **fig** instead of [[date]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **fig:** Soft, moist, tiny seeds, subtle sweetness (VN: mềm, ẩm, hạt nhỏ, ngọt nhẹ)
+> **[[date]]:** Chewy, dense, large seed, intense sweetness (VN: dai, đặc, hạt to, ngọt đậm)
+> 🧱 **The Barrier:** Texture - fig is delicate with many tiny seeds, date is dense with single large seed
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a farmer's market. You discover an unusual fruit. You feel curious. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I've never tried a fresh fig before - what do they taste like compared to the dried ones?"
+> 👨‍🎨 **Director's Note:** Shows openness to new experiences và authentic curiosity, demonstrates interest trong culinary exploration với specific fruit knowledge.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `ficus` to the meaning of **fig**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "ficus" gave us both the tree and fruit. Ancient Romans considered figs sacred, believing them gifts from Bacchus. The word traveled through time, preserving memories of Mediterranean groves where these fruits have grown for over 5000 years.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **fig**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin "ficus" (fig tree)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[fig tree]]: the plant that produces figs
+> - *(noun)* [[fig leaf]]: leaf from the tree, metaphorically means concealment
+> - *(noun)* [[figment]]: imagination (from same root idea of shaping/formation)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */fɪɡ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**fig**
+> 📖 **Meaning:** A sweet, soft fruit with many tiny seeds
+> 🇻🇳 **Vietnamese:** Quả vả - loại trái cây mềm ngọt
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **fig**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I love figs, but I don't like the big seed" (incorrect description)
+> ✅ **Correction:** "I love figs, but I'm not used to the many tiny seeds"
+> 🧠 **Why:** Figs have many tiny seeds, not one large seed like dates or peaches
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **fig**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[savory ingredient]] (contrasting taste profile)
+> - [[crisp vegetable]] (opposite texture)
+> 🧱 **Contrast:** Fig represents sweet, soft fruit category; opposites represent different food categories with contrasting flavors and textures
 
 ---

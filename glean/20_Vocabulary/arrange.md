@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [arranges, arranged, arranging, arrangement, organize, order, plan, schedule, coordinate, set up, prepare]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈreɪndʒ/
+> **Part of Speech:** verb
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** from Old French "arengier" (to draw up in line, arrange)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To put things in a particular order or position
+>
+> **Context Meaning:** To organize, plan, or prepare something; to make preparations or plans for something to happen
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sắp xếp, bố trí
+> - **Contextual:** sắp đặt, thu xếp, tổ chức
+>
 > **Nuances:**
-> - ...
+> - Can involve physical objects or abstract concepts
+> - Implies thoughtful organization or planning
+> - Often used for events, meetings, and appointments
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organizer, Planner
+> **Memory Hook:** "Arrange" = a + range - putting things in their proper range or order
+> **📖 Etymology Story:** From Old French "arengier" meaning "to draw up in line", arrange draws elements into lines of order (VN/EN mix) - like an artist carefully positioning elements in a painting to create perfect harmony and balance.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[arrangement]] /əˈreɪndʒmənt/
+> - **Verb:** [[arrange]] /əˈreɪndʒ/
+> - **Adj:** [[arranged]] /əˈreɪndʒd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[organize]] /ˈɔːrɡənaɪz/ : put into order
+> - [[schedule]] /ˈskedʒuːl/ : plan for specific time
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[disorganize]] /dɪsˈɔːrɡənaɪz/ : make disorderly
+> - [[scatter]] /ˈskætər/ : throw randomly
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. arrange a meeting
+> 2. arrange flowers
+> 3. arrange in order
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Could you arrange a meeting with the clients for next Tuesday?
+> - **Translation:** Bạn có thể thu xếp một cuộc gặp với khách hàng vào thứ Ba tới không?
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She skillfully arranged the flowers in a beautiful vase.
+> - **Translation:** Cô ấy khéo léo sắp xếp những bông hoa trong một bình đẹp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Arrange vs Organize**
+> - ❌ **Mistake:** "I need to arrange my desk."
+> - ✅ **Correction:** "I need to organize my desk."
+> - **Why:** "Arrange" often implies arranging with others or for others, while "organize" is more for personal order.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Please arrange the documents in alphabetical order."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **arrange** (*/əˈreɪndʒ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To organize, plan, or put things in a particular order; to make preparations for something to happen
+> 🇻🇳 **Vietnamese:** Sắp xếp, bố trí, sắp đặt, thu xếp
+> 🗣️ **IPA:** */əˈreɪndʒ/*
+> 🧠 **Mental Model:** "Arrange" giống như người chơi xếp hình - đặt từng mảnh đúng vị trí để tạo nên bức tranh hoàn chỉnh (VN explanation using English keywords)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To organize or put things in order; to make plans"
+**Vietnamese:** sắp xếp, bố trí, sắp đặt
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**arrange** (*/əˈreɪndʒ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **arrange** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The wedding coordinator will arrange all the details for the ceremony and reception.
+> 🇻🇳 **Translation:** Điều phối viên đám cưới sẽ sắp đặt tất cả các chi tiết cho lễ thành hôn và tiệc cưới.
+> 🔍 **Analysis:** "Arrange" works perfectly here showing professional planning (VN/EN mix), emphasizing careful coordination of multiple elements to create a successful event.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **arrange**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Events/Appointments:** arrange a meeting/appointment/wedding (sắp xếp một cuộc họp/hẹn/đám cưới - VN note: các sự kiện quan trọng)
+> 2. **Physical:** arrange flowers/furniture/books in order (sắp xếp hoa/nội thất/sách theo thứ tự - VN note: vật chất)
+> 3. **Financial:** arrange financing/payment/insurance (sắp đặt tài chính/thanh toán/bảo hiểm - VN note: các dịch vụ tài chính)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **arrange**:
+"I need to plan the party."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We need to arrange catering, music, and decorations for the annual company celebration."
+> 💡 **Why it works:** "Arrange" adds professional coordination (VN explanation), transforming simple planning into detailed organization of multiple service providers and elements.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **arrange** instead of **[[plan]]**?
+>
+> **arrange**: Focus on coordination and logistics (VN explanation: tập trung vào phối hợp và hậu cần)
+> **[[plan]]**: Focus on strategy and timeline (VN explanation: tập trung vào chiến lược và thời gian)
+> 🧱 **The Barrier:** Arrange handles the "how" of implementation, while plan handles the "what" and "when" (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss needs an urgent conference call with international clients. What do you offer to do? Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'll arrange the video conference and send out the invitations right away."
+> 👨‍🎨 **Director's Note:** This shows proactive assistance (VN), using "arrange" to demonstrate capability in handling complex coordination across time zones.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root to the meaning of **arrange**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Old French "arengier" meaning "to draw up in line", arrange draws elements into orderly lines (VN/EN mix) - like a conductor arranging musicians in perfect harmony to create beautiful music.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **arrange**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old French `arengier` (to draw up in line, arrange)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[arrangement]] (the act of arranging)
+> - *(adjective)* [[rearrangeable]] (able to be arranged again)
+> - *(related)* [[range]] (line or row)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈreɪndʒ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**arrange**
+> 📖 **Meaning:** To organize or put in order
+> 🇻🇳 **Vietnamese:** Sắp xếp, bố trí, tổ chức
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **arrange**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I arranged my clothes this morning."
+> ✅ **Correction:** "I organized my clothes this morning."
+> 🧠 **Why:** Use "arrange" when you're setting things up for others or coordinating with people. Use "organize" for personal tidying or ordering. Don't mix them up!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **arrange**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[disorganize]] (to make messy)
+> - [[scatter]] (to spread randomly)
+> - [[disrupt]] (to break up arrangement)
+> 🧱 **Contrast:** While arrange creates order through thoughtful organization, disorganize creates chaos through random distribution, and scatter breaks apart any established order.
 
 ---

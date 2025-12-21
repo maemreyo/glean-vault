@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/environment/wildlife-conservation #flashcards/cam-19-listening-test-04
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [reforestation project, large-scale forest restoration, afforestation project, tree-planting initiative]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌlɑːdʒ skeɪl ˌriː.fɒ.rɪˈsteɪ.ʃən ˈprɒdʒ.ekts/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** academic/environmental
+> **Etymology:** Large + scale + re- + forest + -ation + project
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Big projects to recreate forests
+>
+> **Context Meaning:** Extensive environmental initiatives to plant trees and restore forest ecosystems over large areas
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** các dự án tái trồng rừng quy mô lớn
+> - **Contextual:** các dự án trồng lại rừng rộng lớn, chương trình phục hồi hệ sinh thái rừng
+>
 > **Nuances:**
-> - ...
+> - Involves planting millions of trees
+> - Long-term environmental commitment
+> - Often government or NGO-led initiatives
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Ambitious, Green, Restorative
+> **Memory Hook:** Large-scale = big area, Reforestation = re-forest = make forests again
+> **📖 Etymology Story:** "Large-scale" (big in scope) + "Reforestation" (Latin re- "again" + forestation "making forests"). When humans realized deforestation was harming our planet, they began "large-scale reforestation projects" - ambitious efforts to heal the Earth by recreating the forests we lost.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[reforestation]] /ˌriː.fɒ.rɪˈsteɪ.ʃən/
+> - **Verb:** [[reforest]] /ˌriːˈfɒr.ɪst/
+> - **Noun:** [[forest]] /ˈfɒr.ɪst/
+> - **Noun:** [[project]] /ˈprɒdʒ.ekt/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[afforestation]] /æf.ə.rɪ.steɪ.ʃən/ : creating new forests
+> - [[forest restoration]] /ˈfɒr.ɪst res.təˈreɪ.ʃən/ : bringing back damaged forests
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[deforestation]] /diː.fɒr.ɪˈsteɪ.ʃən/ : clearing forests
+> - [[urbanization]] /ˌɜː.bən.aɪˈzeɪ.ʃən/ : converting land to cities
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. implement reforestation projects
+> 2. fund large-scale projects
+> 3. successful reforestation
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** China has implemented some of the world's most ambitious large-scale reforestation projects.
+> - **Translation:** Trung Quốc đã thực hiện một số dự án tái trồng rừng quy mô lớn tham vọng nhất thế giới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** These large-scale reforestation projects aim to combat climate change by absorbing carbon dioxide.
+> - **Translation:** Các dự án tái trồng rừng quy mô lớn này nhằm chống lại biến đổi khí hậu bằng cách hấp thụ carbon dioxide.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Hyphenation**
+> - ❌ **Mistake:** reforestation projects (as one word)
+> - ✅ **Correction:** reforestation projects (two words)
+> - **Why:** Reforestation is one word, projects is separate
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Large-scale reforestation projects are essential for biodiversity conservation."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **large-scale reforestation projects** (*/ˌlɑːdʒ skeɪl ˌriː.fɒ.rɪˈsteɪ.ʃən ˈprɒdʒ.ekts/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Extensive initiatives to plant trees and restore forest ecosystems over large geographical areas
+> 🇻🇳 **Vietnamese:** Các dự án tái trồng rừng quy mô lớn - các sáng kiến rộng lớn trồng lại cây và phục hồi hệ sinh thái rừng
+> 🗣️ **IPA:** */ˌlɑːdʒ skeɪl ˌriː.fɒ.rɪˈsteɪ.ʃən ˈprɒdʒ.ekts/*
+> 🧠 **Mental Model:** "Big projects" để "reforest" (make forests again) - planting millions của trees trên vast areas để combat deforestation
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Extensive initiatives to plant trees and restore forest ecosystems over large areas"
+**Vietnamese:** Các dự án lớn trồng cây và phục hồi hệ sinh thái rừng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**large-scale reforestation projects** (*/ˌlɑːdʒ skeɪl ˌriː.fɒ.rɪˈsteɪ.ʃən ˈprɒdʒ.ekts/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **large-scale reforestation projects** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The government announced funding for large-scale reforestation projects to restore degraded lands.
+> 🇻🇳 **Translation:** Chính phủ đã công bố kinh phí cho các dự án tái trồng rừng quy mô lớn để phục hồi các vùng đất bị suy thoái.
+> 🔍 **Analysis:** "large-scale reforestation projects" hoàn hảo vì nó thể hiện comprehensive environmental effort. "Planting trees" quá simple, "environmental projects" quá general. Cụm từ này captures cả scope (large-scale), action (reforestation), và formal nature (projects).
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **large-scale reforestation projects**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Implementation:** implement/launch/execute reforestation projects (VN: thực hiện)
+> 2. **Support:** fund/support/invest in projects (VN: hỗ trợ)
+> 3. **Outcome:** successful/ambitious/mega projects (VN: kết quả, quy mô)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **large-scale reforestation projects**:
+"They want to plant many trees to help the environment."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Environmental groups are advocating for large-scale reforestation projects to sequester carbon and restore biodiversity."
+> 💡 **Why it works:** "large-scale reforestation projects" professional và specific hơn, thể hiện planned, coordinated efforts với specific environmental goals (carbon sequestration, biodiversity), tạo tone academic/technical hơn.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **large-scale reforestation projects** instead of [[tree planting]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **large-scale reforestation projects:** Systematic, planned, massive scope, scientific approach (VN: hệ thống, có kế hoạch, quy mô lớn)
+> **[[tree planting]]:** Simple action, can be small scale, informal (VN: hành động đơn giản, quy mô nhỏ)
+> 🧱 **The Barrier:** Scope & Intent - reforestation = ecosystem restoration, tree planting = basic action
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at an environmental conference. Someone asks about solutions to desertification. You feel expert. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Large-scale reforestation projects combined with sustainable land management offer the most effective solution."
+> 👨‍🎨 **Director's Note:** Demonstrates technical knowledge và comprehensive understanding, shows awareness của multi-faceted solutions cho environmental challenges.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots to the meaning of **large-scale reforestation projects**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Large" (size) + "scale" (measurement) = massive scope. "Re-" (again) + "forest" (woods) + "-ation" (process) = making forests again. When humanity faced climate crisis, we conceived these "large-scale reforestation projects" - ambitious plans to give back to Earth what we took.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **large-scale reforestation projects**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Multiple: Latin "largus" (large) + "scala" (ladder/scale) + "re-" (again) + "forest" (woods)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[reforest]]: to plant trees to create a forest again
+> - *(noun)* [[deforestation]]: opposite process - clearing forests
+> - *(adj)* [[forested]]: covered with trees
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌlɑːdʒ skeɪl ˌriː.fɒ.rɪˈsteɪ.ʃən ˈprɒdʒ.ekts/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**large-scale reforestation projects**
+> 📖 **Meaning:** Extensive initiatives to restore forest ecosystems
+> 🇻🇳 **Vietnamese:** Các dự án tái trồng rừng quy mô lớn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **large-scale reforestation projects**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Large scale reforestation projects" (missing hyphen)
+> ✅ **Correction:** "Large-scale reforestation projects"
+> 🧠 **Why:** "Large-scale" acts as a compound adjective modifying "reforestation projects" - needs hyphen when before noun
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **large-scale reforestation projects**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[deforestation programs]] (systematic forest clearing)
+> - [[urban development initiatives]] (converting land to cities)
+> 🧱 **Contrast:** Reforestation restores ecosystems; opposites destroy or convert natural habitats
 
 ---

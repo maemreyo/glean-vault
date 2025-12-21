@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [branding, branded, brands, logo, trademark, trade name, product line, brand identity, brand name, rebrand]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /brænd/
+> **Part of Speech:** noun, verb
+> **CEFR Level:** B2
+> **Register:** formal/business
+> **Etymology:** Old English *brand* "burning, sword," from Proto-Germanic *brandaz* "fire, burning, torch." Commercial sense developed from "mark made by burning" (c.1400) to "trademark" (1827).
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A type of product manufactured by a particular company under a particular name; a mark of identification.
+>
+> **Context Meaning:** A unique design, sign, symbol, words, or a combination of these, employed in creating an image that identifies a product and differentiates it from its competitors.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thương hiệu
+> - **Contextual:** nhãn hiệu, tên thương mại
+>
 > **Nuances:**
-> - ...
+> - Not just the name but the entire personality and reputation associated with a product/company
+> - Implies consistency, quality, and customer recognition
+> - Can refer to both the product line and the company's reputation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, Confident, Business-savvy
+> **Memory Hook:** Imagine a rancher **branding** cattle with a hot iron - that permanent mark identifies ownership. Companies do the same with products!
+> **📖 Etymology Story:** Ancient craftsmen would burn their unique mark into their creations - from swords to pottery. This "brand" proved authenticity and quality. Today's commercial brands still serve the same purpose: they're the burned-in identity that tells customers "this is ours, and it's quality."
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[brand]] /brænd/
+> - **Verb:** [[brand]] /brænd/
+> - **Adj:** [[branded]] /'brændɪd/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[trademark]] /'treɪdmɑːrk/ : legal protection aspect
+> - [[label]] /'leɪbl/ : the specific name/mark on packaging
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[generic]] /dʒə'nerɪk/ : unbranded product
+> - [[unmarked]] /ʌn'mɑːrkt/ : without identification
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. luxury brand (thương hiệu cao cấp)
+> 2. brand loyalty (sự trung thành với thương hiệu)
+> 3. brand awareness (nhận diện thương hiệu)
+> 4. brand new (công khai, mới nguyên)
+> 5. brand identity (bộ nhận diện thương hiệu)
+>
+> **1. Business Context**
+> - **Sentence:** Apple has built one of the most valuable brands in the world through innovative design and consistent quality.
+> - **Translation:** Apple đã xây dựng một trong những thương hiệu giá trị nhất thế giới thông qua thiết kế đổi mới và chất lượng nhất quán.
+>
+> **2. Marketing Context**
+> - **Sentence:** Our rebranding strategy aims to position the company as more eco-friendly and socially responsible.
+> - **Translation:** Chiến lược tái định vị thương hiệu của chúng tôi nhằm định vị công ty thân thiện với môi trường và có trách nhiệm xã hội hơn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Brand vs. Company**
+> - ❌ **Mistake:** I work for Google brand.
+> - ✅ **Correction:** I work for Google/Google's brand team.
+> - **Why:** "Brand" refers to the product identity or marketing aspect, not the organization itself.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Your brand is what other people say about you when you're not in the room."
+> **Source:** [[Jeff Bezos]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **brand** (*/brænd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A distinctive name, design, symbol, or combination used to identify and differentiate a product or company from competitors in the marketplace.
+> 🇻🇳 **Vietnamese:** Thương hiệu - một cái tên, thiết kế, biểu tượng đặc trưng dùng để nhận biết và phân biệt sản phẩm hoặc công ty.
+> 🗣️ **IPA:** */brænd/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một dấu ấn nóng (hot iron mark) trên da bò - đó chính là "brand", một dấu hiệu không thể xóa nhòa cho biết đây là sản phẩm của ai.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A unique identification that distinguishes a product or company from its competitors in the market"
+**Vietnamese:** Một hình thức nhận biết độc đáo phân biệt sản phẩm hoặc công ty với đối thủ cạnh tranh trên thị trường
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**brand** (*/brænd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **brand** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Nike's swoosh logo is instantly recognizable worldwide, making it one of the most powerful **brand** symbols in history.
+> 🇻🇳 **Vietnamese:** Logo swoosh của Nike được nhận ra ngay lập tức trên toàn thế giới, khiến nó trở thành một trong những biểu tượng thương hiệu mạnh nhất lịch sử.
+> 🔍 **Analysis:** "Brand" ở đây không chỉ là logo mà còn bao gồm cả giá trị, uy tín và cảm xúc mà gắn liền với sản phẩm.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **brand**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Brand Recognition:** When customers can identify a brand just by its logo or packaging (Khi khách hàng nhận ra thương hiệu chỉ qua logo hoặc bao bì)
+> 2. **Brand Extension:** Using an established brand name for new products in different categories (Sử dụng thương hiệu đã có tên tuổi cho sản phẩm mới trong các danh mục khác)
+> 3. **Brand Ambassador:** A famous person who represents and promotes a brand (Người nổi tiếng đại diện và quảng bá cho thương hiệu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **brand**:
+"This company makes good phones."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Samsung has established itself as a premium **brand** in the smartphone market, competing directly with Apple's iPhone."
+> 💡 **Why it works:** "Brand" nâng cấp câu nói đơn giản bằng cách nhấn mạnh về giá trị thương hiệu, định vị thị trường và sự cạnh tranh, chứ không chỉ nói về việc sản xuất điện thoại.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **brand** instead of [[company]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **brand:** Refers specifically to the market identity, reputation, and customer perception of products/services (Liên quan đến hình ảnh trên thị trường, danh tiếng và nhận thức của khách hàng về sản phẩm/dịch vụ)
+> **company:** Refers to the business organization itself (Liên quan đến tổ chức kinh doanh)
+> 🧱 **The Barrier:** A single company can have multiple brands, and sometimes a brand can be more famous than its parent company - not the same thing!
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend says they only buy Nike shoes. You ask why. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I guess I'm just loyal to the **brand** - I trust their quality and like how they represent athletic achievement."
+> 👨‍🎨 **Director's Note:** Shows understanding of "brand" as more than just products - includes trust, values, and identity.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `brand` (to burn) to the meaning of **brand**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** The word "brand" comes from Old English "brand" meaning "fire" or "burning." Ranchers would burn their unique mark onto cattle to claim ownership. Today, companies burn their identity into customers' minds through consistent branding!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **brand**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `brand` (burning, fire)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[brand]] - trade name, product line
+> - *(verb)* [[brand]] - to mark, to label, to promote
+> - *(adjective)* [[branded]] - marked with a brand name
+> - *(compound)* [[branding]] - the process of creating a brand
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */brænd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**brand**
+> 📖 **Meaning:** A distinctive name or trademark used to identify a product or manufacturer
+> 🇻🇳 **Vietnamese:** Thương hiệu, nhãn hiệu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **brand**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I love this brand's companies" (using brand for organization)
+> ✅ **Correction:** "I love this company's brands" or "I love this brand"
+> 🧠 **Why:** A company owns brands; brands don't own companies. Remember: company = organization, brand = product identity.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **brand**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[generic]] (unbranded product with no specific manufacturer identity)
+> - [[no-name]] (product without brand recognition)
+> 🧱 **Contrast:** While branded products emphasize unique identity and quality, generic products focus on being basic alternatives without brand premiums.
 
 ---

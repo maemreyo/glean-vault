@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [regrets, regretted, regretting, regretful, remorse, sorry, lament, mourn, rue, bemoan, wish undone, hindsight]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈɡret/
+> **Part of Speech:** verb/noun
+> **CEFR Level:** B1
+> **Register:** neutral to formal
+> **Etymology:** from Old French "regreter" (to lament, miss)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To feel sad or disappointed about something done or not done
+>
+> **Context Meaning:** A feeling of sadness or disappointment over something that has happened or been done, especially a loss or missed opportunity
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hối tiếc, tiếc nuối
+> - **Contextual:** lấy làm tiếc, ân hận, tiếc
+>
 > **Nuances:**
-> - ...
+> - Can be about actions taken or not taken
+> - Often implies looking back with wisdom gained
+> - Can range from mild disappointment to deep sorrow
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Reflective, Wise
+> **Memory Hook:** "Re-gret" = again weep - crying again over past mistakes
+> **📖 Etymology Story:** From Old French "regreter" meaning "to weep again", regret is crying again over what cannot be changed (VN/EN mix) - like waves repeatedly washing over the shore of our memories, each lap bringing renewed sadness.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[regret]] /rɪˈɡret/, [[regrettable]] /rɪˈɡretəbl/
+> - **Verb:** [[regret]] /rɪˈɡret/
+> - **Adj:** [[regretful]] /rɪˈɡretfl/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[remorse]] /rɪˈmɔːrs/ : deep regret for wrongdoing
+> - [[lament]] /ləˈment/ : express grief or sorrow
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[satisfaction]] /ˌsætɪsˈfækʃn/ : contentment with outcomes
+> - [[celebrate]] /ˈseləbreɪt/ : rejoice about
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. deeply regret
+> 2. regret to inform
+> 3. have no regrets
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She regretted not studying harder for the examination.
+> - **Translation:** Cô ấy hối tiếc vì không học chăm chỉ hơn cho kỳ thi.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** I regret to inform you that your application was unsuccessful.
+> - **Translation:** Tôi rất lấy làm tiếc phải thông báo rằng đơn đăng ký của bạn không thành công.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Regret vs Sorry**
+> - ❌ **Mistake:** "I regret breaking your cup."
+> - ✅ **Correction:** "I'm sorry for breaking your cup." or "I regret breaking your cup."
+> - **Why:** "Regret" is more formal and internal feeling, while "sorry" is direct apology to someone.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "He had no regrets about choosing the path less traveled."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **regret** (*/rɪˈɡret/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To feel sad or disappointed about something you did or didn't do; a feeling of sorrow or disappointment over past events
+> 🇻🇳 **Vietnamese:** Hối tiếc, tiếc nuối, ân hận
+> 🗣️ **IPA:** */rɪˈɡret/*
+> 🧠 **Mental Model:** "Regret" giống như nhìn vào gương hậu kiến - bạn thấy rõ những gì đã xảy ra và ước mình làm khác đi (VN explanation using English keywords)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To feel sad or disappointed about something done or not done"
+**Vietnamese:** hối tiếc, tiếc nuối, ân hận
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**regret** (*/rɪˈɡret/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **regret** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The CEO publicly regretted the decision to lay off hundreds of employees.
+> 🇻🇳 **Translation:** CEO đã công khai hối tiếc về quyết định sa thải hàng trăm nhân viên.
+> 🔍 **Analysis:** "Regret" works perfectly here showing formal acknowledgment (VN/EN mix) of a difficult business decision with emotional weight and professional responsibility.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **regret**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** deeply/bitterly/sincerely regret (hối tiếc sâu sắc/thú vị/chân thành - VN note: nhấn mạnh mức độ)
+> 2. **Formal:** regret to inform/announce (rất lấy làm tiếc thông báo/báo - VN note: trang trọng, chuyên nghiệp)
+> 3. **Absence:** have no/live with no regrets (không có/sống mà không có hối tiếc - VN note: sự chấp nhận)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **regret**:
+"I feel bad about my choices."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Looking back, she regretted prioritizing career over family during those formative years."
+> 💡 **Why it works:** "Regret" adds depth and specificity (VN explanation), transforming vague guilt into poignant reflection on life choices with implied wisdom gained through experience.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **regret** instead of **[[guilt]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **regret:** Sadness about outcomes (VN explanation: buồn về kết quả)
+> **[[guilt]]**: Feeling of responsibility for wrongdoing (VN explanation: cảm giác chịu trách nhiệm về việc làm sai)
+> 🧱 **The Barrier:** Regret is about wishing things were different, while guilt is about feeling responsible for harm (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks if you'd change anything about your college years. How do you respond? Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I don't regret my major, but I do regret not studying abroad when I had the chance."
+> 👨‍🎨 **Director's Note:** This shows nuanced reflection (VN), using "regret" strategically to acknowledge missed opportunities while affirming overall life path.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root to the meaning of **regret**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Old French "regreter" meaning "to weep again", regret makes us weep again (VN/EN mix) for what cannot be changed - like a fountain of sorrow that keeps returning to the source of our past actions.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **regret**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old French `regreter` (to lament, weep again)
+> 👨‍👩‍👧 **Family:**
+> - *(adjective)* [[regretful]] (full of regret)
+> - *(adverb)* [[regretfully]] (with regret)
+> - *(noun)* [[regrettable]] (deserving regret)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈɡret/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**regret**
+> 📖 **Meaning:** To feel sad about past actions
+> 🇻🇳 **Vietnamese:** Hối tiếc, tiếc nuối, ân hận
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **regret**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I regret you weren't there."
+> ✅ **Correction:** "I regret that you weren't there." or "I'm sorry you weren't there."
+> 🧠 **Why:** "Regret" needs "that" when followed by a clause about someone else's situation. For personal apologies, use "I'm sorry" instead!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **regret**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[satisfaction]] (contentment with decisions)
+> - [[celebration]] (joyful remembrance)
+> - [[contentment]] (peace with choices made)
+> 🧱 **Contrast:** While regret looks back with sadness over past choices, satisfaction reflects peace and contentment with the path taken and outcomes achieved.
 
 ---

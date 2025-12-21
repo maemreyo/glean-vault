@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/health/physical-health-diet #flashcards/cam-19-listening-test-04
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [asthmatic, asthma attack, asthma inhaler, bronchial asthma]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈæs.mə/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** medical
+> **Etymology:** From Greek asthma "panting, shortness of breath"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Gasping for air
+>
+> **Context Meaning:** A chronic respiratory condition causing difficulty in breathing due to inflamed and narrowed airways
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bệnh hen suyễn
+> - **Contextual:** bệnh asthma, chứng khó thở, bệnh hen phế quản
+>
 > **Nuances:**
-> - ...
+> - Often triggered by allergens or environmental factors
+> - Characterized by wheezing and breathlessness
+> - Can be managed with medication and lifestyle changes
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Restrictive, Chronic, Manageable
+> **Memory Hook:** Asthma sounds like "as ma" - as in "I can't ma-ster my breathing"
+> **📖 Etymology Story:** Ancient Greek physicians noticed patients gasping for air and called it "asthma" - "panting". For 2500 years, this word has described the struggle of those whose airways rebel, making every breath a battle we now know how to fight with modern medicine.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[asthma]] /ˈæs.mə/
+> - **Adj:** [[asthmatic]] /æsˈmæt.ɪk/
+> - **Noun:** [[asthmatic]] /æsˈmæt.ɪk/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[bronchial asthma]] /ˈbrɒŋ.ki.əl ˈæs.mə/ : asthma affecting bronchial tubes
+> - [[respiratory condition]] /res.pɪˈreɪ.tər.i kənˈdɪʃ.ən/ : general breathing problem
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[healthy breathing]] /ˈhel.θi ˈbriː.ðɪŋ/ : normal respiratory function
+> - [[clear airways]] /klɪəˈeər.weɪz/ : unobstructed breathing passages
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. asthma attack
+> 2. asthma sufferer
+> 3. childhood asthma
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Air pollution can trigger asthma attacks in sensitive individuals.
+> - **Translation:** Ô nhiễm không khí có thể gây ra các cơn hen suyễn ở những người nhạy cảm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She carries an inhaler for emergency asthma treatment.
+> - **Translation:** Cô ấy mang theo bình xịt để điều trị hen suyễn khẩn cấp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** He has asthma
+> - ✅ **Correction:** He has asthma
+> - **Why:** Asthma is uncountable disease name, doesn't take "a/an"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Regular exercise can help manage asthma symptoms when done properly."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **asthma** (*/ˈæs.mə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A chronic respiratory condition causing breathing difficulty due to inflamed, narrowed airways
+> 🇻🇳 **Vietnamese:** Bệnh hen suyễn - bệnh mạn tính về đường hô hấp gây khó thở do đường thở bị viêm và hẹp
+> 🗣️ **IPA:** */ˈæs.mə/*
+> 🧠 **Mental Model:** "Breathing problem" nơi airways become "narrowed" và "inflamed" - như trying to breathe through a tiny straw
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A chronic respiratory condition causing breathing difficulty due to inflamed airways"
+**Vietnamese:** Bệnh hen suyễn - bệnh hô hấp mạn tính gây khó thở
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**asthma** (*/ˈæs.mə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **asthma** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The doctor diagnosed the child with asthma after noting recurring episodes of wheezing.
+> 🇻🇳 **Translation:** Bác sĩ chẩn đoán đứa trẻ bị hen suyễn sau khi ghi nhận các đợt khò khè tái phát.
+> 🔍 **Analysis:** "asthma" hoàn hảo vì nó chỉ specific medical condition characterized bởi chronic nature và specific symptoms. "Breathing problems" quá general, "allergies" có thể không chính xác. "Asthma" captures exact medical diagnosis.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **asthma**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Medical Event:** asthma attack/episode (VN: cơn hen)
+> 2. **Person:** asthma sufferer/patient (VN: người bệnh)
+> 3. **Age/Timing:** childhood/adult/onset asthma (VN: độ tuổi, thời điểm)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **asthma**:
+"He has trouble breathing sometimes."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "His exercise-induced asthma requires careful management during physical activities."
+> 💡 **Why it works:** "asthma" medical precise hơn "trouble breathing", thể hiện chronic condition với specific triggers (exercise) và management needs, tạo clinical, informed tone.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **asthma** instead of [[allergies]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **asthma:** Specific respiratory condition, chronic, airway obstruction (VN: bệnh hô hấp cụ thể)
+> **[[allergies]]:** Immune system reaction, can affect any body part (VN: phản ứng miễn dịch)
+> 🧱 **The Barrier:** System - asthma = respiratory system only, allergies = whole body immune response
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend starts coughing during exercise. They seem distressed. You feel concerned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Do you have asthma? Should I help you use your inhaler?"
+> 👨‍🎨 **Director's Note:** Shows awareness của common medical condition, appropriate concern, và knowledge của emergency response - demonstrates medical literacy và empathy.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `asthma` to the meaning of **asthma**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Greek "asthma" meant "panting" - the sound of desperate gasping for air. Ancient physicians watched patients struggle to breathe, their chests heaving, and gave this condition a name that sounds like the struggle itself - a word that has described this battle for breath for millennia.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **asthma**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek "asthma" (panting, short breath)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[asthmatic]]: relating to or suffering from asthma
+> - *(noun)* [[asthmatic]]: person who has asthma
+> - *(compound)* [[asthma inhaler]]: device for asthma medication
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈæs.mə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**asthma**
+> 📖 **Meaning:** A chronic respiratory condition causing breathing difficulty
+> 🇻🇳 **Vietnamese:** Bệnh hen suyễn - bệnh hô hấp mạn tính
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **asthma**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "He suffers from asthmas" (incorrect plural)
+> ✅ **Correction:** "He suffers from asthma"
+> 🧠 **Why:** Asthma is a disease name, uncountable noun, never pluralized
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **asthma**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[healthy respiratory system]] (normal lung function)
+> - [[clear airways]] (unobstructed breathing)
+> 🧱 **Contrast:** Asthma involves obstructed, inflamed airways; opposites represent normal, unrestricted breathing
 
 ---

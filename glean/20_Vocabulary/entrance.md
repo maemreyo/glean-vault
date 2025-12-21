@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/functional-words #flashcards/cam-19-listening-test-04
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [enter, entry, doorway, gateway, access point, admission, entryway, door, gate, way in, ingress]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈentrəns/
+> **Part of Speech:** noun
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** from Old French "entrance" (entry, entering)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A door, gate, or other opening by which one enters
+>
+> **Context Meaning:** The act of entering or the place where something enters; permission to enter
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** lối vào, cổng vào
+> - **Contextual:** sự vào, lối đi vào, điểm ra vào
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical opening or the act of entering
+> - Also used metaphorically for beginning or admission
+> - Often used in compound forms (main entrance, front entrance)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Gateway Keeper, Guide
+> **Memory Hook:** "En-trance" - you're in a trance when you enter somewhere amazing
+> **📖 Etymology Story:** From Latin "intra" (within) + "trance" (from Latin "trahere" - to draw). An entrance draws you within (VN/EN mix), beckoning you to cross the threshold from outside to inside, from unknown to known.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[entrance]] /ˈentrəns/, [[entry]] /ˈentri/
+> - **Verb:** [[enter]] /ˈentər/
+> - **Adj:** [[entrancing]] /ɪnˈtrænsɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[entryway]] /ˈentriweɪ/ : a passage for entering
+> - [[gateway]] /ˈɡeɪtweɪ/ : an opening that can be closed
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[exit]] /ˈeɡzɪt/ : way out
+> - [[departure]] /dɪˈpɑːrtʃər/ : act of leaving
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. main entrance
+> 2. front entrance
+> 3. entrance exam
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Please use the main entrance on the west side of the building.
+> - **Translation:** Vui lòng sử dụng lối vào chính ở phía tây của tòa nhà.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She passed the entrance examination with flying colors.
+> - **Translation:** Cô ấy đã vượt qua kỳ thi tuyển với điểm số xuất sắc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Entrance vs Enter**
+> - ❌ **Mistake:** "I entrance the room quietly."
+> - ✅ **Correction:** "I enter the room quietly."
+> - **Why:** "Entrance" is a noun (the place or act), while "enter" is the verb (the action of going in).
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The grand entrance to the palace was decorated with marble columns."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **entrance** (*/ˈentrəns/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A door, gate, or opening by which one enters a place; also the act of entering or permission to enter
+> 🇻🇳 **Vietnamese:** Lối vào, cổng vào, sự vào, điểm ra vào
+> 🗣️ **IPA:** */ˈentrəns/*
+> 🧠 **Mental Model:** "Entrance" là cánh cổng chia thế giới bên ngoài và bên trong (VN explanation using English keywords) - là điểm chuyển tiếp từ không gian này sang không gian khác
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A door, gate, or opening by which one enters; the act of entering"
+**Vietnamese:** lối vào, cổng vào, sự vào
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**entrance** (*/ˈentrəns/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **entrance** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The concert hall has three entrances - front, side, and backstage.
+> 🇻🇳 **Translation:** Nhà hát hòa nhạc có ba lối vào - chính, hông và sân khấu.
+> 🔍 **Analysis:** "Entrance" works perfectly here as it clearly identifies access points (VN/EN mix), helping people navigate the venue efficiently with multiple entry options.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **entrance**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Location:** main/front/side entrance (lối vào chính/trước/hông - VN note: chỉ vị trí của lối vào)
+> 2. **Type:** emergency/service entrance (lối vào khẩn cấp/phục vụ - VN note: chỉ chức năng của lối vào)
+> 3. **Abstract:** entrance exam/requirements/criteria (kỳ thi/yêu cầu/tiêu chí tuyển - VN note: dùng trong giáo dục, tuyển dụng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **entrance**:
+"Show me where to come in."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Please use the side entrance marked 'Staff Only' after 6 PM."
+> 💡 **Why it works:** "Entrance" adds precision (VN explanation), transforming vague instruction into clear direction with specific location and time conditions.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **entrance** instead of **[[entry]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **entrance:** Focuses on physical doorway or opening (VN explanation: tập trung vào cửa ra vào vật lý)
+> **[[entry]]:** More general, can be act of entering or record/log (VN explanation: rộng hơn, có thể là hành động vào hoặc bản ghi)
+> 🧱 **The Barrier:** Entrance emphasizes location, while entry emphasizes action or record (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're organizing a large event. Instructions for guests? Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "VIP guests should use the north entrance; general admission through the main entrance."
+> 👨‍🎨 **Director's Note:** This shows clear crowd management (VN), using "entrance" strategically to guide different groups efficiently.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `trahere` to the meaning of **entrance**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin "trahere" meaning "to draw" (kéo), with prefix "intra" meaning "within" (bên trong), an entrance draws you within (VN/EN mix) - like a magnetic pull that beckons you from outside to inside.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **entrance**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `intra` (within) + `trahere` (to draw, pull)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[enter]] (to go into a place)
+> - *(noun)* [[entry]] (act of entering or record)
+> - *(adjective)* [[entrancing]] (captivating, fascinating)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈentrəns/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**entrance**
+> 📖 **Meaning:** A door, gate, or opening by which one enters
+> 🇻🇳 **Vietnamese:** Lối vào, cổng vào, cửa vào
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **entrance**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Where is the entrance to park?"
+> ✅ **Correction:** "Where is the entrance to the park?" or "Where do I enter the park?"
+> 🧠 **Why:** "Entrance" needs "to the [place]" not just "to". Don't forget the article before the location name!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **entrance**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[exit]] (way out of a place)
+> - [[departure]] (act of leaving)
+> - [[egress]] (formal term for exit)
+> 🧱 **Contrast:** While an entrance marks the beginning of presence in a space or the start of a journey, an exit marks the end of presence or the completion of that journey.
 
 ---

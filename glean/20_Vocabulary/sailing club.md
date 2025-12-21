@@ -1,4 +1,4 @@
-#flashcards/vocabulary/sport-leisure/leisure-activities
+#flashcards/vocabulary/sport-leisure/leisure-activities #flashcards/cam-19-listening-test-02
 
 ---
 tags:

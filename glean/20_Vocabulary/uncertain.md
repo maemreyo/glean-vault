@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [uncertainty, certainly, uncertainly, unsure, doubtful, ambiguous, questionable, unclear, indefinite, unsureness]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ʌnˈsɜːrtn/
+> **Part of Speech:** adjective
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** from "un-" (not) + "certain" (sure, fixed)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Not able to be relied on; not known or definite
+>
+> **Context Meaning:** Feeling doubt about something; not confident or sure about what will happen
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** không chắc chắn
+> - **Contextual:** do dự, không chắc chắn, lăn tăn
+>
 > **Nuances:**
-> - ...
+> - Describes both situations and emotional states
+> - Can imply risk or unpredictability
+> - Often used when expressing hesitation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Hesitant, Cautious
+> **Memory Hook:** When you're uncertain, you're standing at a crossroads with multiple paths ahead
+> **📖 Etymology Story:** From Latin "incertus" meaning "unsteady, wavering". Being uncertain is like standing on unsteady ground - you're unsure of your footing and what the next step might bring.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[uncertainty]] /ʌnˈsɜːrtnti/
+> - **Adv:** [[uncertainly]] /ʌnˈsɜːrtntli/
+> - **Adj:** [[uncertain]] /ʌnˈsɜːrtn/, [[unsure]] /ʌnˈʃʊr/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[doubtful]] /ˈdaʊtfl/ : feeling uncertain about something
+> - [[indefinite]] /ɪnˈdefənət/ : not clearly defined
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[certain]] /ˈsɜːrtn/ : sure, confident
+> - [[definite]] /ˈdefənət/ : clearly known
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. uncertain future
+> 2. uncertain about
+> 3. highly uncertain
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She was uncertain about accepting the job offer in another city.
+> - **Translation:** Cô ấy do dự về việc nhận lời đề nghị công việc ở một thành phố khác.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The economic outlook remains uncertain due to global instability.
+> - **Translation:** Triển vọng kinh tế vẫn còn không chắc chắn do sự bất ổn toàn cầu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Uncertain vs Unsure**
+> - ❌ **Mistake:** "I'm uncertain to go to the party."
+> - ✅ **Correction:** "I'm uncertain about going to the party."
+> - **Why:** "Uncertain" requires "about" when followed by an action or situation you're doubting.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The outcome of the experiment was uncertain until the last minute."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **uncertain** (*/ʌnˈsɜːrtn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Not sure or confident about something; feeling doubt about what is true or what will happen
+> 🇻🇳 **Vietnamese:** Không chắc chắn, do dự, lăn tăn
+> 🗣️ **IPA:** */ʌnˈsɜːrtn/*
+> 🧠 **Mental Model:** Một người "uncertain" giống như người đứng trước ngã ba đường, không biết chọn lối nào để đi (VN explanation using English keywords)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Not sure or confident; feeling doubt"
+**Vietnamese:** không chắc chắn, do dự, lăn tăn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**uncertain** (*/ʌnˈsɜːrtn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **uncertain** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The weather forecast was uncertain, so we couldn't plan our outdoor activities.
+> 🇻🇳 **Translation:** Dự báo thời tiết không chắc chắn, vì vậy chúng tôi không thể lên kế hoạch cho các hoạt động ngoài trời.
+> 🔍 **Analysis:** "Uncertain" works perfectly here as it expresses unpredictability (VN/EN mix), indicating lack of reliable information needed for decision-making.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **uncertain**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Future/Outlook:** uncertain future/times/outlook (tương lai/thời gian/triển vọng không chắc chắn - VN note: chỉ sự không thể đoán trước)
+> 2. **Personal Feeling:** uncertain about/of (không chắc chắn về - VN note: cảm giác cá nhân do dự)
+> 3. **Degree:** highly/somewhat uncertain (rất/hơi không chắc chắn - VN note: nhấn mạnh mức độ do dự)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **uncertain**:
+"I don't know what will happen next."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The future remains uncertain as economic indicators point in contradictory directions."
+> 💡 **Why it works:** "Uncertain" adds sophistication (VN explanation), transforming simple ignorance into a nuanced observation of complexity and unpredictability.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **uncertain** instead of **[[unsure]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **uncertain:** More formal, often describes situations or futures (VN explanation: trang trọng hơn, thường mô tả tình huống/tương lai)
+> **[[unsure]]:** More personal, describes feelings about knowledge (VN explanation: cá nhân hơn, mô tả cảm giác về kiến thức)
+> 🧱 **The Barrier:** Uncertain implies external unpredictability, while unsure implies internal doubt (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks if you can attend their wedding next month, but you're waiting for exam results. How do you respond? Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm still uncertain about my schedule - the exam results haven't come out yet."
+> 👨‍🎨 **Director's Note:** This shows diplomatic hesitation (VN), using "uncertain" to indicate genuine scheduling conflict while avoiding commitment.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `certain` to the meaning of **uncertain**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin "certus" meaning "determined, resolved", adding "un-" creates the opposite meaning (VN/EN mix) - like a resolved decision that has become un-decided, wavering between possibilities.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **uncertain**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `certus` (certain, determined) + prefix `un-` (not)
+> 👨‍👩‍👧 **Family:**
+> - *(adjective)* [[unsure]] (lacking confidence)
+> - *(noun)* [[uncertainty]] (the state of being unsure)
+> - *(related)* [[certainty]] (the state of being sure)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ʌnˈsɜːrtn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**uncertain**
+> 📖 **Meaning:** Not sure or confident; feeling doubt
+> 🇻🇳 **Vietnamese:** Không chắc chắn, do dự, lăn tăn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **uncertain**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I'm uncertain if to accept the offer."
+> ✅ **Correction:** "I'm uncertain whether to accept the offer."
+> 🧠 **Why:** After "uncertain", use "whether" (not "if") when presenting alternatives. Also, you can say "uncertain about accepting" - remember the preposition rules!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **uncertain**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[certain]] (sure, confident, definite)
+> - [[confident]] (feeling sure about oneself)
+> - [[assured]] (definite and without doubt)
+> 🧱 **Contrast:** While uncertainty implies hesitation and doubt, certainty represents confidence and conviction about outcomes or truths.
 
 ---

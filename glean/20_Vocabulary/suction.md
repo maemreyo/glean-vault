@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/sci-tech/technology
+#flashcards/vocabulary/topic-specific/sci-tech/technology #flashcards/cam-19-listening-test-02
 
 ---
 tags:

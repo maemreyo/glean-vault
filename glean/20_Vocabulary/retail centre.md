@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [shopping centre, shopping mall, retail complex, retail park, mall, marketplace, retail hub]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈriːteɪl ˈsentə/
+> **Part of Speech:** noun (compound noun)
+> **CEFR Level:** B2
+> **Register:** formal/business
+> **Etymology:** retail (from Old French 'retailler' - to cut into pieces, sell in small quantities) + centre (from Greek 'kentron' - sharp point, center)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A shopping complex containing multiple retail stores and businesses
+>
+> **Context Meaning:** A building or group of buildings containing various shops, stores, and commercial establishments typically sharing parking facilities and managed as a single unit
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** trung tâm thương mại
+> - **Contextual:** khu mua sắm, trung tâm bán lẻ
+>
 > **Nuances:**
-> - ...
+> - Larger than individual shops but smaller than full-scale shopping malls
+> - Often serves as a community hub for local shopping needs
+> - Can include both indoor and outdoor shopping areas
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Commercial, Centralized, Community-focused
+> **Memory Hook:** "RETAIL + CENTRE" - imagine all the cutting/retailing happening in one central location
+> **📖 Etymology Story:** The word comes from Old French 'retailler' meaning 'to cut into pieces', reflecting how merchants originally cut larger goods into smaller portions for sale. When combined with 'centre' (from Greek 'kentron' meaning central point), it creates the image of multiple small-scale retail operations gathered in one central hub.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[retail]] /ˈriːteɪl/, [[retailer]] /riːˈteɪlə/, [[centre]] /ˈsentə/
+> - **Verb:** [[retail]] /riːˈteɪl/
+> - **Adj:** [[retail]] (attributive) /ˈriːteɪl/, [[central]] /ˈsentrəl/
+> - **Adv:** [[centrally]] /ˈsentrəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[shopping centre]] /ˈʃɒpɪŋ ˈsentə/ : Common alternative term
+> - [[shopping mall]] /ˈʃɒpɪŋ mɔːl/ : Usually larger, fully enclosed
+> - [[retail park]] /ˈriːteɪl pɑːk/ : Usually outdoor, with big-box stores
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[marketplace]] /ˈmɑːkɪtpleɪs/ : Often more traditional, open-air
+> - [[individual shop]] /ˌɪndɪˈvɪdʒuəl ʃɒp/ : Single retail establishment
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. newly opened retail centre
+> 2. out-of-town retail centre
+> 3. town centre retail development
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The new retail centre has revitalized the local economy, creating over 200 jobs.
+> - **Translation:** Trung tâm thương mại mới đã làm sống lại nền kinh tế địa phương, tạo ra hơn 200 việc làm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** With its convenient parking and variety of stores, the retail centre attracts shoppers from neighboring towns.
+> - **Translation:** Với chỗ đỗ xe tiện lợi và đa dạng cửa hàng, trung tâm thương mại thu hút người mua sắm từ các thị trấn lân cận.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** I'm going to retail centre.
+> - ✅ **Correction:** I'm going to the retail centre.
+> - **Why:** 'Retail centre' is a singular countable noun and requires a determiner.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** The proposed retail centre would include parking for over 1,000 vehicles and create significant employment opportunities.
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **retail centre** (*/ˈriːteɪl ˈsentə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A shopping complex containing multiple retail stores and businesses sharing facilities
+> 🇻🇳 **Vietnamese:** trung tâm thương mại, khu mua sắm với nhiều cửa hàng
+> 🗣️ **IPA:** */ˈriːteɪl ˈsentə/*
+> 🧠 **Mental Model:** Một "shopping mall" nhỏ hơn, tập hợp nhiều cửa hàng bán lẻ trong một khu vực, có chung bãi đỗ xe
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A building or group of buildings containing various shops and commercial establishments"
+**Vietnamese:** "Trung tâm thương mại"
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**retail centre** (*/ˈriːteɪl ˈsentə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **retail centre** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The council approved plans for a new out-of-town retail centre to reduce traffic congestion in the city center.
+> 🇻🇳 **Translation:** Hội đồng đã phê duyệt kế hoạch xây dựng trung tâm thương mại mới ngoài thị trấn để giảm ùn tắc giao thông ở trung tâm thành phố.
+> 🔍 **Analysis:** "Retail centre" works perfectly here as it refers to a planned commercial development with multiple stores, designed to serve the community's shopping needs
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **retail centre**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Location-based:** out-of-town retail centre (trung tâm thương mại ngoại thành) - describes location strategy
+> 2. **Development phase:** new/retail centre (trung tâm thương mại mới) - indicates recent construction
+> 3. **Scale descriptor:** large/retail centre (trung tâm thương mại lớn) - specifies size/importance
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **retail centre**:
+"The shops are all in one place."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The retail centre consolidates over fifty specialty stores under one roof."
+> 💡 **Why it works:** "Retail centre" đặc biệt hơn vì nó mô tả cụ thể một complex thương mại được quy hoạch, không chỉ là "cửa hàng ở một nơi"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **retail centre** instead of **shopping mall**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **retail centre:** Thường có quy mô vừa và nhỏ, có thể ngoài trời hoặc kết hợp trong/ngoài trời, tập trung vào tiện ích hàng ngày
+> **shopping mall:** Luôn lớn hơn, thường có nhiều tầng, hoàn toàn trong nhà, có nhiều tiện ích giải trí
+> 🧱 **The Barrier:** Kích thước và mức độ phức tạp - retail centre hơn về tiện lợi, shopping mall hơn về trải nghiệm
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your town needs economic development. You're optimistic. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "A new retail centre would be just what our town needs to boost local business and create jobs!"
+> 👨‍🎨 **Director's Note:** Fits the hopeful, community-focused tone perfectly
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `retailler` to the meaning of **retail centre**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 'retail' trong tiếng Pháp cổ 'retailler' nghĩa là 'cắt thành từng miếng nhỏ' - mô tả cách người bán chia nhỏ hàng hóa. 'Retail centre' là nơi tập hợp nhiều hoạt động bán lẻ nhỏ như vậy ở một điểm trung tâm
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **retail centre**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** French `retailler` (cắt nhỏ) + Greek `kentron` (điểm trung tâm)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[retailer]] /riːˈteɪlə/ (nhà bán lẻ)
+> - *(verb)* [[retail]] /riːˈteɪl/ (bán lẻ)
+> - *(adj)* [[central]] /ˈsentrəl/ (trung tâm)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈriːteɪl ˈsentə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**retail centre**
+> 📖 **Meaning:** A shopping complex containing multiple retail stores
+> 🇻🇳 **Vietnamese:** trung tâm thương mại
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **retail centre**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** Let's go to shopping centre
+> ✅ **Correction:** Let's go to the shopping centre
+> 🧠 **Why:** Cần mạo từ 'the' vì nó là danh từ đếm được số ít, chỉ định nơi cụ thể
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **retail centre**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[individual shop]] (cửa hàng riêng lẻ) - One store vs many stores
+> - [[marketplace]] (chợ) - Traditional/organic vs planned/organized
+> 🧱 **Contrast:** Retail centre tập trung vào sự tổ chức và tiện nghi, trong khi marketplace và individual shop tập trung vào tính truyền thống và độc lập
 
 ---

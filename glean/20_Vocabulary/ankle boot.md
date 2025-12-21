@@ -1,4 +1,4 @@
-#flashcards/vocabulary/fashion/appearance
+#flashcards/vocabulary/fashion/appearance #flashcards/cam-19-listening-test-02
 
 ---
 tags:

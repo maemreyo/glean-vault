@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words
+#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-01
 
 ---
 tags:

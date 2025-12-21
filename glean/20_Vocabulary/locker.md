@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/functional-words #flashcards/cam-19-listening-test-04
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [lockers, storage locker, gym locker, school locker, locker room]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈlɒk.ər/
+> **Part of Speech:** noun
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** From lock + -er (agent suffix)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Something that locks
+>
+> **Context Meaning:** A small lockable storage compartment, typically found in schools, gyms, or workplaces for personal belongings
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tủ khóa
+> - **Contextual:** tủ đựng đồ, tủ có khóa, ngăn tủ cá nhân
+>
 > **Nuances:**
-> - ...
+> - Usually individual-use storage
+> - May be rented or assigned
+> - Often in public or semi-public spaces
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Secure, Private, Personal
+> **Memory Hook:** Lock + er = thing that locks - a cabinet that locks
+> **📖 Etymology Story:** "Lock" (Old English "loc" - fastening) + "-er" (thing that does). As society needed places to store valuables safely while away, "lockers" evolved - first as simple locked chests, now as the familiar metal or plastic compartments in schools and gyms.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[lock]] /lɒk/
+> - **Verb:** [[lock]] /lɒk/
+> - **Noun:** [[locker room]] /ˈlɒk.ə ruːm/
+> - **Verb:** [[lock up]] /lɒk ʌp/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[storage compartment]] /ˈstɔː.rɪdʒ kəmˈpɑːt.mənt/ : generic storage space
+> - [[cabinet]] /ˈkæb.ɪ.nət/ : storage furniture
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[open shelf]] /ˈəʊ.pən ʃelf/ : unlocked storage
+> - [[public space]] /ˈpʌb.lɪk speɪs/ : non-private area
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. gym locker
+> 2. school locker
+> 3. combination lock
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Students store their books and jackets in their assigned lockers between classes.
+> - **Translation:** Học sinh cất sách và áo khoác vào tủ khóa được phân công của họ giữa các giờ học.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Don't forget your key or you won't be able to open your locker.
+> - **Translation:** Đừng quên chìa khóa của bạn nếu không bạn sẽ không thể mở tủ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** I put my phone at locker
+> - ✅ **Correction:** I put my phone in the/my locker
+> - **Why:** Use "in" for inside, need article for specific locker
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Please leave your valuables in the locker before entering the pool area."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **locker** (*/ˈlɒk.ər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A small lockable storage compartment for personal belongings, often in public places
+> 🇻🇳 **Vietnamese:** Tủ khóa - ngăn tủ nhỏ có khóa để đựng đồ cá nhân
+> 🗣️ **IPA:** */ˈlɒk.ər/*
+> 🧠 **Mental Model:** Một "small cabinet" có "lock" để store personal belongings - như ở school, gym, workplace
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A small lockable storage compartment for personal belongings"
+**Vietnamese:** Tủ khóa - ngăn tủ có khóa để đựng đồ cá nhân
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**locker** (*/ˈlɒk.ər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **locker** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The swimming pool provides lockers for visitors to store their clothes and electronics.
+> 🇻🇳 **Translation:** Hồ bơi cung cấp tủ khóa để khách tham quan cất quần áo và thiết bị điện tử.
+> 🔍 **Analysis:** "locker" hoàn hảo vì nó chỉ specific type của storage có lock facility ở public venue. "Cabinet" hoặc "shelf" không imply security aspect. "Locker" captures both storage và security functions.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **locker**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Location:** gym/school/workplace locker (VN: nơi đặt tủ)
+> 2. **Action:** open/close/rent locker (VN: hành động)
+> 3. **Feature:** combination/key/digital locker (VN: loại khóa)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **locker**:
+"I need a place to put my stuff."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I need to rent a locker at the station to store my luggage while I explore the city."
+> 💡 **Why it works:** "locker" specific hơn "place" vì nó indicates secure, temporary storage option available tại public venues, thể hiện practical solution cho traveler.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **locker** instead of [[cabinet]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **locker:** Individual, lockable, often in public spaces (VN: cá nhân, có khóa, nơi công cộng)
+> **[[cabinet]]:** Furniture, often unlocked, home/office (VN: nội thất, thường không khóa, nhà/văn phòng)
+> 🧱 **The Barrier:** Purpose - locker = secure temporary storage, cabinet = organized display/storage
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at the gym. You need to store your phone and wallet. You feel practical. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Excuse me, where can I find an available locker for my belongings?"
+> 👨‍🎨 **Director's Note:** Shows practical thinking và correct terminology, demonstrates awareness của security needs và facility amenities.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `lock` and `-er` to the meaning of **locker**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "loc" (fastening, bolt) + "-er" (thing that does). When people needed secure places in public venues, they created "lockers" - things that lock. From simple locked chests in medieval inns to modern metal compartments, evolution of secure storage.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **locker**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English "loc" (to fasten) + "-er" (suffix indicating thing)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[lock]]: the mechanism that secures
+> - *(verb)* [[lock]]: to secure with a lock
+> - *(noun)* [[locker room]]: area with lockers
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈlɒk.ər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**locker**
+> 📖 **Meaning:** A lockable storage compartment
+> 🇻🇳 **Vietnamese:** Tủ khóa - ngăn tủ có khóa
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **locker**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I keep my books in my locker" (if talking about home storage)
+> ✅ **Correction:** "I keep my books in my bookcase/cupboard at home" OR "I keep my books in my school locker"
+> 🧠 **Why:** Lockers are typically in public/institutional settings, not homes
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **locker**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[open shelf]] (unrestricted access)
+> - [[common area]] (shared, non-private space)
+> 🧱 **Contrast:** Locker offers private, secure storage; opposites offer open, accessible storage
 
 ---

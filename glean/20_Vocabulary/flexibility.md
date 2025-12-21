@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [flexible, adaptability, adaptable, pliable, pliability, supple, supple-ness, versatile, versatility, elastic, elasticity]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌfleksə'bɪləti/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** Latin *flexibilis* "able to bend," from *flectere* "to bend, to turn." Related to *flexus* "a bending."
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The quality of bending easily without breaking; suppleness.
+>
+> **Context Meaning:** The ability to change or be changed easily according to the situation; adaptability to new or changing requirements or circumstances.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự linh hoạt, sự dẻo dai
+> - **Contextual:** sự thích ứng, tính linh hoạt
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical (body) or abstract (situations) flexibility
+> - Implies strength through adaptability, not weakness
+> - Essential quality in modern work and life contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Adaptable, Open-minded, Resilient
+> **Memory Hook:** Think of bamboo - it **flexes** in the wind but never breaks. That's **flexibility** - strength through bending, not resisting.
+> **📖 Etymology Story:** From Latin "flectere" (to bend), flexibility literally means "the ability to bend." Ancient philosophers praised the flexible mind like bamboo that bends with wind but doesn't break - surviving through adaptation, not rigidity.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[flexibility]] /ˌfleksə'bɪləti/
+> - **Verb:** [[flex]] /fleks/
+> - **Adj:** [[flexible]] /'fleksəbl/
+> - **Adv:** [[flexibly]] /'fleksəbli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[adaptability]] /əˌdæptə'bɪləti/ : ability to adjust to new conditions
+> - [[versatility]] /ˌvɜːrsə'tɪləti/ : ability to do many different things
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[rigidity]] /rɪ'dʒɪdəti/ : stiffness, inflexibility
+> - [[inflexibility]] /ɪnˌfleksə'bɪləti/ : inability to change
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. work flexibility (sự linh hoạt trong công việc)
+> 2. mental flexibility (sự linh hoạt về tư duy)
+> 3. flexibility training (tập luyện tăng sự dẻo dai)
+> 4. schedule flexibility (lịch trình linh hoạt)
+> 5. strategic flexibility (sự linh hoạt chiến lược)
+>
+> **1. Workplace Context**
+> - **Sentence:** The company offers **flexibility** in working hours, allowing employees to start between 8 AM and 10 AM.
+> - **Translation:** Công ty cung cấp sự linh hoạt về giờ làm việc, cho phép nhân viên bắt đầu làm việc từ 8 giờ đến 10 giờ sáng.
+>
+> **2. Physical Context**
+> - **Sentence:** Regular yoga practice has improved my **flexibility** and reduced back pain.
+> - **Translation:** Việc tập yoga thường xuyên đã cải thiện sự dẻo dai của tôi và giảm đau lưng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Flexibility vs. Compromise**
+> - ❌ **Mistake:** She showed flexibility by accepting lower pay.
+> - ✅ **Correction:** She showed flexibility by adjusting her work schedule.
+> - **Why:** Flexibility refers to adaptability in methods/arrangements, not necessarily giving something up.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The measure of intelligence is the ability to change."
+> **Source:** [[Albert Einstein]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **flexibility** (*/ˌfleksə'bɪləti/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The quality of being able to adapt or change easily to new conditions; the capability of bending without breaking.
+> 🇻🇳 **Vietnamese:** Sự linh hoạt, sự dẻo dai - khả năng thích ứng hoặc thay đổi dễ dàng với điều kiện mới; khả năng uốn cong mà không gãy.
+> 🗣️ **IPA:** */ˌfleksə'bɪləti/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một cây tre trong gió - nó uốn cong (flexible) thay vì chống lại, và sống sót. Đó chính là "flexibility", sức mạnh đến từ việc thích ứng chứ không phải cứng nhắc.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The quality of being able to change or be changed easily according to the situation"
+**Vietnamese:** Chất lượng có thể thay đổi hoặc bị thay đổi dễ dàng theo tình huống
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**flexibility** (*/ˌfleksə'bɪləti/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **flexibility** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Modern entrepreneurs need **flexibility** to pivot their business models when market conditions change rapidly.
+> 🇻🇳 **Vietnamese:** Các doanh nhân hiện đại cần sự linh hoạt để chuyển đổi mô hình kinh doanh khi điều kiện thị trường thay đổi nhanh chóng.
+> 🔍 **Analysis:** "Flexibility" ở đây chỉ khả năng thích ứng chiến lược, không chỉ là thay đổi nhỏ - nó thể hiện tư duy kinh doanh hiện đại cần thiết.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **flexibility**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Work Flexibility:** Adaptive working arrangements like remote work or flexible hours (Sự linh hoạt công việc - các sắp xếp làm việc thích ứng như làm việc từ xa hoặc giờ linh hoạt)
+> 2. **Mental Flexibility:** Ability to think creatively and adapt perspectives (Sự linh hoạt tư duy - khả năng sáng tạo và thích ứng góc nhìn)
+> 3. **Physical Flexibility:** Range of motion in joints and muscles (Sự dẻo dai thể chất - phạm vi chuyển động của khớp và cơ bắp)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **flexibility**:
+"She can change her plans easily."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Her professional **flexibility** allows her to adapt to sudden project changes without compromising quality or deadlines."
+> 💡 **Why it works:** "Flexibility" nâng cấp câu nói bằng cách chuyển từ tính cá nhân đơn giản thành chuyên môn, nhấn mạnh khả năng thích ứng trong môi trường công việc hiện đại.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **flexibility** instead of [[adaptability]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **flexibility:** More about immediate adjustment capability and range of options (Liên quan nhiều hơn đến khả năng điều chỉnh ngay lập tức và phạm vi lựa chọn)
+> **adaptability:** More about longer-term adjustment to fundamentally new situations (Liên quan nhiều hơn đến sự điều chỉnh dài hạn cho tình huống hoàn toàn mới)
+> 🧱 **The Barrier:** Flexibility is bending with the wind; adaptability is growing new roots in different soil!
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss wants to implement a new software system that will change everyone's workflow. Respond!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Change can be challenging, but I appreciate the **flexibility** this new system will offer us in managing projects more efficiently."
+> 👨‍🎨 **Director's Note:** Shows positive attitude toward change and understanding of flexibility as a beneficial quality.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `flectere` (to bend) to the meaning of **flexibility**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin "flectere" meaning "to bend," flexibility embodies the wisdom of bending rather than breaking. Like the reed that survives storms by bending with the wind, flexibility allows us to navigate life's changes through adaptation, not resistance.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **flexibility**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `flectere` (to bend, turn)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[flexibility]] - quality of being able to bend/adapt
+> - *(adjective)* [[flexible]] - able to bend or adapt
+> - *(verb)* [[flex]] - to bend or contract muscles
+> - *(adverb)* [[flexibly]] - in a flexible manner
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌfleksə'bɪləti/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**flexibility**
+> 📖 **Meaning:** The quality of being able to change or adapt easily to different conditions
+> 🇻🇳 **Vietnamese:** Sự linh hoạt, khả năng thay đổi hoặc thích ứng dễ dàng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **flexibility**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "We need flexibility to work every weekend" (misusing as justification)
+> ✅ **Correction:** "We need flexibility in our project timeline to accommodate unexpected challenges"
+> 🧠 **Why:** Flexibility means adaptable options, not unlimited availability. It's about smart adjustment, not just saying yes to everything!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **flexibility**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[rigidity]] (stiffness, resistance to change)
+> - [[inflexibility]] (inability to adapt)
+> 🧱 **Contrast:** While flexibility enables survival through adaptation like bamboo in wind, rigidity often leads to breaking under pressure like a brittle tree that cannot bend.
 
 ---

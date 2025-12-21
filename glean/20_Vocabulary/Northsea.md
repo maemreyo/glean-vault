@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
+#flashcards/vocabulary/topic-specific/travel-culture/tourism-types #flashcards/cam-19-listening-test-02
 
 ---
 tags:

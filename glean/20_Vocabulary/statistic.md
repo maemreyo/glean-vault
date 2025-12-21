@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/sci-tech/scientific-research #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [statistics, statistical, data, figures, numbers, demographics, analysis, quantitative, probability, census, survey]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /stəˈtɪstɪk/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** academic to formal
+> **Etymology:** from German "Statistik" (study of political states)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A numerical fact or piece of data
+>
+> **Context Meaning:** A fact or piece of data obtained from a study of a large quantity of numerical data; the science of collecting and analyzing numerical data
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** số liệu thống kê
+> - **Contextual:** chỉ số thống kê, dữ liệu thống kê
+>
 > **Nuances:**
-> - ...
+> - Can refer to single data point or the entire field
+> - Used extensively in research, business, and policy
+> - Often pluralized when referring to multiple data points
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Data Analyst, Researcher
+> **Memory Hook:** "Statistic" = state + stick - numbers that stick to the state of things
+> **📖 Etymology Story:** From German "Statistik" originally meaning "political science of states", statistics began as counting people and resources for governance (VN/EN mix) - transforming abstract numbers into concrete knowledge about populations and phenomena.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[statistic]] /stəˈtɪstɪk/, [[statistics]] /stəˈtɪstɪks/
+> - **Adj:** [[statistical]] /stəˈtɪstɪkl/
+> - **Adv:** [[statistically]] /stəˈtɪstɪkli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[data point]] /ˈdeɪtə pɔɪnt/ : individual piece of information
+> - [[figure]] /ˈfɪɡər/ : numerical value
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[anecdote]] /ˈænɪkdoʊt/ : personal story
+> - [[opinion]] /əˈpɪnjən/ : personal belief
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. alarming statistic
+> 2. according to statistics
+> 3. vital statistics
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** A recent statistic shows that 80% of people check their phones within 15 minutes of waking up.
+> - **Translation:** Một số liệu thống kê gần đây cho thấy 80% người dùng kiểm tra điện thoại trong vòng 15 phút sau khi thức dậy.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The company tracks various statistics to measure employee satisfaction.
+> - **Translation:** Công ty theo dõi các chỉ số thống kê khác nhau để đo lường sự hài lòng của nhân viên.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Statistic vs Statistics**
+> - ❌ **Mistake:** "The statistics shows improvement."
+> - ✅ **Correction:** "The statistic shows improvement." or "The statistics show improvement."
+> - **Why:** "Statistic" is singular (one data point), "statistics" is plural (multiple data points) or refers to the field.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Statistics don't lie, but liars use statistics."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **statistic** (*/stəˈtɪstɪk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A numerical fact or data collected for analysis; a piece of information obtained from studying numerical data
+> 🇻🇳 **Vietnamese:** Số liệu thống kê, chỉ số thống kê
+> 🗣️ **IPA:** */stəˈtɪstɪk/*
+> 🧠 **Mental Model:** "Statistic" giống như một bức ảnh chụp nhanh thực tại - con số hóa bức tranh toàn cảnh (VN explanation using English keywords)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A numerical fact or piece of data from analysis"
+**Vietnamese:** số liệu thống kê, chỉ số thống kê
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**statistic** (*/stəˈtɪstɪk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **statistic** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The most concerning statistic revealed that only 30% of plastic bottles are actually recycled.
+> 🇻🇳 **Translation:** Số liệu thống kê đáng lo ngại nhất cho thấy chỉ 30% chai nhựa thực sự được tái chế.
+> 🔍 **Analysis:** "Statistic" works perfectly here highlighting specific finding (VN/EN mix), presenting quantified information that supports environmental concerns with objective evidence.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **statistic**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Qualifiers:** alarming/shocking/interesting statistic (số liệu thống kê đáng lo/ngạc nhiên/thú vị - VN note: mô tả tính chất)
+> 2. **Sources:** official/latest/demographic statistic (số liệu thống kê chính thức/mới nhất/dân số học - VN note: nguồn gốc)
+> 3. **Context:** key/vital/important statistic (số liệu thống kê chủ yếu/cần thiết/quan trọng - VN note: tầm quan trọng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **statistic**:
+"Many people use social media."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "A striking statistic reveals that the average person spends over two hours daily on social media platforms."
+> 💡 **Why it works:** "Statistic" adds credibility and specificity (VN explanation), transforming vague claim into factual evidence with measurable implications.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **statistic** instead of **[[data]]**?
+>
+> **statistic**: Processed, analyzed numerical information (VN explanation: thông tin số đã qua xử lý, phân tích)
+> **[[data]]**: Raw information before analysis (VN explanation: thông tin thô chưa qua phân tích)
+> 🧱 **The Barrier:** Statistics are the insights derived from data, while data is the raw material from which statistics are born (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're presenting research findings to your team. How do you introduce the key finding? Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The most telling statistic from our survey is that 85% of customers would pay more for sustainable products."
+> 👨‍🎨 **Director's Note:** This shows persuasive communication (VN), using "statistic" to lend authority and objectivity to the business recommendation.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root to the meaning of **statistic**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From German "Statistik" originally studying "states" (countries), statistics transforms abstract reality into countable truths (VN/EN mix) - turning the chaos of human activity into ordered patterns that reveal deeper understanding.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **statistic**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** German `Statistik` (political science of states) from Italian `statista` (statesman)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[statistics]] (multiple data points or the field)
+> - *(adjective)* [[statistical]] (relating to statistics)
+> - *(related)* [[status]] (state or condition)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */stəˈtɪstɪk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**statistic**
+> 📖 **Meaning:** A numerical fact or piece of data
+> 🇻🇳 **Vietnamese:** Số liệu thống kê, chỉ số thống kê
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **statistic**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The statistics is impressive."
+> ✅ **Correction:** "The statistic is impressive." or "The statistics are impressive."
+> 🧠 **Why:** Remember: "Statistic" (singular, s-end) and "statistics" (plural, s-end but plural verb). The field "statistics" takes singular verb: "Statistics is a fascinating subject."
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **statistic**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[anecdote]] (personal story rather than data)
+> - [[hypothesis]] (theory rather than proven fact)
+> - [[opinion]] (belief rather than evidence)
+> 🧱 **Contrast:** While statistics provide objective numerical evidence collected from large samples, anecdotes offer subjective personal experiences, hypotheses propose unproven theories, and opinions express personal beliefs without supporting data.
 
 ---

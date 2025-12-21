@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
+#flashcards/vocabulary/topic-specific/sci-tech/technology #flashcards/cam-19-listening-test-04
 
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [accelerates, accelerated, accelerating, acceleration, speed up, hasten, quicken, expedite, rush, advance, progress rapidly]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əkˈseləreɪt/
+> **Part of Speech:** verb
+> **CEFR Level:** B2
+> **Register:** formal to neutral
+> **Etymology:** from Latin "accelerare" (to hasten, quicken)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To increase in speed or rate
+>
+> **Context Meaning:** To make something happen faster or more quickly; to speed up progress or development
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tăng tốc, tăng tốc độ
+> - **Contextual:** thúc đẩy, đẩy nhanh, làm cho nhanh hơn
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical movement or abstract processes
+> - Often used in technical and scientific contexts
+> - Implies controlled increase, not chaotic speed
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Progressive, Dynamic
+> **Memory Hook:** Accelerator pedal in a car - press it to go faster
+> **📖 Etymology Story:** From Latin "ad-" (to) + "celer" (swift). To accelerate is literally to add swiftness (VN/EN mix) - like giving wings to something that was moving slowly, helping it achieve its potential speed.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[acceleration]] /əkˌseləˈreɪʃn/
+> - **Verb:** [[accelerate]] /əkˈseləreɪt/
+> - **Adj:** [[accelerated]] /əkˈseləreɪtɪd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[speed up]] /spiːd ʌp/ : increase speed (phrasal)
+> - [[hasten]] /ˈheɪsn/ : cause something to happen sooner
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[decelerate]] /diːˈseləreɪt/ : reduce speed
+> - [[slow down]] /sloʊ daʊn/ : decrease speed (phrasal)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. accelerate growth
+> 2. accelerate change
+> 3. rapidly accelerate
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company decided to accelerate production to meet customer demand.
+> - **Translation:** Công ty quyết định tăng tốc sản xuất để đáp ứng nhu cầu của khách hàng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Climate change has accelerated in recent decades due to human activity.
+> - **Translation:** Biến đổi khí hậu đã đẩy nhanh trong những thập kỷ gần đây do hoạt động của con người.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Accelerate vs Speed Up**
+> - ❌ **Mistake:** "The car accelerated down."
+> - ✅ **Correction:** "The car sped up." or "The car accelerated."
+> - **Why:** "Accelerate" is intransitive when referring to a vehicle speeding up by itself; don't add unnecessary prepositions.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The new technology will accelerate our research significantly."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **accelerate** (*/əkˈseləreɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To increase speed or rate of something; to cause progress or development to happen faster
+> 🇻🇳 **Vietnamese:** Tăng tốc, tăng tốc độ, thúc đẩy, đẩy nhanh
+> 🗣️ **IPA:** */əkˈseləreɪt/*
+> 🧠 **Mental Model:** "Accelerate" giống như đạp chân ga xe hơi - làm cho mọi thứ di chuyển nhanh hơn (VN explanation using English keywords)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To increase speed or rate of something"
+**Vietnamese:** tăng tốc, tăng tốc độ, thúc đẩy
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**accelerate** (*/əkˈseləreɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **accelerate** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The pandemic has accelerated the shift toward remote work worldwide.
+> 🇻🇳 **Translation:** Đại dịch đã đẩy nhanh sự chuyển đổi sang làm việc từ xa trên toàn thế giới.
+> 🔍 **Analysis:** "Accelerate" works perfectly here as it describes rapid change in a societal trend (VN/EN mix), emphasizing how the crisis sped up an already ongoing transformation.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **accelerate**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Business/Growth:** accelerate growth/development/expansion (thúc đẩy tăng trưởng/phát triển/mở rộng - VN note: thường dùng trong kinh doanh)
+> 2. **Process/Change:** accelerate change/transition/reform (đẩy nhanh sự thay đổi/chuyển đổi/cải cách - VN note: chỉ quá trình xã hội, chính trị)
+> 3. **Movement:** accelerate the pace/process (tăng tốc độ/quy trình - VN note: chỉ tốc độ chung)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **accelerate**:
+"We need to make things happen faster."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We must accelerate the implementation of our digital transformation strategy."
+> 💡 **Why it works:** "Accelerate" adds urgency and precision (VN explanation), transforming vague impatience into strategic action with clear direction.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **accelerate** instead of **[[speed up]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **accelerate:** More formal, often for processes and development (VN explanation: trang trọng hơn, thường dùng cho quá trình)
+> **[[speed up]]:** More common, often for physical movement (VN explanation: thông dụng hơn, thường dùng cho chuyển động)
+> 🧱 **The Barrier:** Accelerate suggests controlled increase in rate, while speed up can be more casual (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your project is behind schedule. What do you tell your team? Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We need to accelerate our progress - let's find ways to work more efficiently!"
+> 👨‍🎨 **Director's Note:** This shows leadership under pressure (VN), using "accelerate" to inspire action rather than panic.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `celer` to the meaning of **accelerate**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin "celer" meaning "swift" (nhanh), with prefix "ad-" meaning "toward" (hướng đến), "accelerate" means moving toward swiftness (VN/EN mix) - like helping a runner find their second wind and achieve maximum speed.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **accelerate**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `celer` (swift, quick) + prefix `ad-` (to, toward)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[acceleration]] (the act of increasing speed)
+> - *(adjective)* [[accelerated]] (made faster)
+> - *(related)* [[celerity]] (swiftness of movement)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əkˈseləreɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**accelerate**
+> 📖 **Meaning:** To increase speed or rate of something
+> 🇻🇳 **Vietnamese:** Tăng tốc, thúc đẩy, đẩy nhanh
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **accelerate**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The car accelerated to the highway."
+> ✅ **Correction:** "The car accelerated onto the highway." or "The car sped up on the highway."
+> 🧠 **Why:** "Accelerate" doesn't need a preposition when describing speed increase. Use "onto" for entering the highway, not "to".
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **accelerate**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[decelerate]] (to reduce speed gradually)
+> - [[slow down]] (to decrease speed - more casual)
+> - [[delay]] (to make something slower or late)
+> 🧱 **Contrast:** While accelerating increases the rate of progress or speed, decelerating reduces it in a controlled manner - the gas pedal versus the brake.
 
 ---

@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [crimes, criminal, criminology, unlawful, illegal, offense, felony, misdemeanor, violation, wrongdoing, delinquency]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kraɪm/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** formal/legal
+> **Etymology:** Old French *crime* "crime, guilt, sin," from Latin *crimen* "charge, accusation, offense," from cernere "to decide, to separate."
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An act or omission prohibited and punishable by law.
+>
+> **Context Meaning:** An action or activity that constitutes an offense against society or the state, punishable by law through the criminal justice system.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tội phạm, tội ác
+> - **Contextual:** hành vi phạm tội, sự phạm pháp
+>
 > **Nuances:**
-> - ...
+> - Implies violation of established legal codes, not just moral wrongs
+> - Requires proof beyond reasonable doubt in many legal systems
+> - Can range from minor offenses to serious felonies
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Serious, Legal, Social
+> **Memory Hook:** **CRIME** = "Cannot Resist Involving My Emotions" - crimes often stem from loss of emotional control or rational thinking.
+> **📖 Etymology Story:** From Latin "crimen" meaning "accusation," crime began as society's way to separate unacceptable behavior. When we commit crimes, we separate ourselves from social norms, requiring the legal system to decide consequences and restore social balance.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[crime]] /kraɪm/
+> - **Verb:** [[criminate]] /'krɪmɪneɪt/
+> - **Adj:** [[criminal]] /'krɪmɪnl/
+> - **Adv:** [[criminally]] /'krɪmɪnəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[offense]] /ə'fens/ : legal violation
+> - [[wrongdoing]] /'rɒŋduːɪŋ/ : general term for bad actions
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[justice]] /'dʒʌstɪs/ : fairness and legal righteousness
+> - [[lawfulness]] /'lɔːfəlnəs/ : compliance with law
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. commit a crime (phạm tội)
+> 2. crime rate (tỷ lệ tội phạm)
+> 3. organized crime (tội phạm có tổ chức)
+> 4. violent crime (tội phạm bạo lực)
+> 5. crime scene (hiện trường vụ án)
+>
+> **1. Legal Context**
+> - **Sentence:** The detective collected evidence from the **crime** scene to identify the perpetrator.
+> - **Translation:** Thám tử thu thập bằng chứng từ hiện trường vụ án để xác định thủ phạm.
+>
+> **2. Social Context**
+> - **Sentence:** Poverty and lack of education often contribute to higher **crime** rates in urban areas.
+> - **Translation:** Nghèo đói và thiếu giáo dục thường góp phần vào tỷ lệ tội phạm cao hơn ở các khu vực đô thị.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Crime vs. Sin**
+> - ❌ **Mistake:** Lying to your friend is a crime.
+> - ✅ **Correction:** Lying to your friend is morally wrong but not necessarily a crime.
+> - **Why:** Crimes violate legal codes, while sins violate moral/religious codes. Not all immoral acts are criminal.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The first lesson of economics is scarcity: there is never enough of anything to satisfy all those who want it. The first lesson of politics is to disregard the first lesson of economics."
+> **Source:** [[Thomas Sowell]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **crime** (*/kraɪm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An illegal act or omission that is prohibited by law and punishable by the state through the criminal justice system.
+> 🇻🇳 **Vietnamese:** Tội phạm - một hành vi hoặc sự không hành động bất hợp pháp bị luật pháp cấm và có thể bị nhà nước trừng phạt.
+> 🗣️ **IPA:** */kraɪm/*
+> 🧠 **Mental Model:** Hãy tưởng nhiệm một danh sách các quy tắc xã hội (luật pháp) - khi bạn phá vỡ các quy tắc này, bạn đã phạm "crime", và xã hội sẽ có hình phạt.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An action that breaks the law and is punishable by the state"
+**Vietnamese:** Một hành vi phá vỡ luật pháp và có thể bị nhà nước trừng phạt
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**crime** (*/kraɪm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **crime** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Cyber **crime** has increased significantly during the pandemic as criminals exploit people working from home.
+> 🇻🇳 **Vietnamese:** Tội phạm mạng đã tăng đáng kể trong đại dịch khi tội phạm lợi dụng người dân làm việc tại nhà.
+> 🔍 **Analysis:** "Crime" ở đây chỉ cả hành vi phạm pháp (cyber) và bối cảnh hiện đại (pandemic), thể hiện sự tiến hóa của tội phạm trong thời đại số.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **crime**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **White-collar Crime:** Non-violent crimes committed by business professionals (Tội phạm cổ cồn trắng - tội phạm phi bạo lực do các chuyên viên kinh doanh thực hiện)
+> 2. **Crime Prevention:** Measures taken to stop crime from occurring (Phòng chống tội phạm - các biện pháp ngăn chặn tội phạm xảy ra)
+> 3. **Hate Crime:** Criminal act motivated by prejudice against a protected group (Tội phạm thù hận - hành vi phạm pháp thúc đẩy bởi định kiến chống lại nhóm được bảo vệ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **crime**:
+"He did something illegal."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The investigation revealed a sophisticated financial **crime** involving offshore accounts and money laundering."
+> 💡 **Why it works:** "Crime" nâng cấp câu nói bằng cách chỉ rõ loại tội phạm (financial), độ phức tạp (sophisticated) và các chi tiết cụ thể (offshore accounts).
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **crime** instead of [[sin]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **crime:** Violation of legal statutes, punishable by the state (Vi phạm các quy định pháp luật, bị nhà nước trừng phạt)
+> **sin:** Violation of moral or religious principles, punishable by divine or social judgment (Vi phạm các nguyên tắc đạo đức hoặc tôn giáo, bị phán xét bởi thượng đế hoặc xã hội)
+> 🧱 **The Barrier:** Legal vs. Moral! All crimes may be sins, but not all sins are crimes. Law = society's rules, Religion = spiritual rules.
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see someone shoplifting. What do you think to yourself?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Shoplifting might seem minor, but it's still a **crime** that affects everyone through higher prices."
+> 👨‍🎨 **Director's Note:** Shows understanding that even small crimes have broader social consequences.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `crimen` (accusation, decision) to the meaning of **crime**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin "crimen" meaning "accusation" or "decision," crime represents society's judgment on unacceptable behavior. When someone commits a crime, society must decide (cernere) how to separate justice from injustice through legal consequences.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **crime**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `crimen` (accusation, charge, offense) from `cernere` (to decide, to separate)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[crime]] - illegal act
+> - *(noun)* [[criminal]] - person who commits crime
+> - *(adjective)* [[criminal]] - related to crime
+> - *(adverb)* [[criminally]] - in a criminal manner
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kraɪm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**crime**
+> 📖 **Meaning:** An illegal act punishable by law
+> 🇻🇳 **Vietnamese:** Hành vi bất hợp pháp bị pháp luật trừng phạt
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **crime**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "It's a crime to waste food" (using metaphorically as very wrong)
+> ✅ **Correction:** "It's wasteful to waste food" or "It feels like a crime to waste food, but it's not illegal"
+> 🧠 **Why:** While we use "crime" metaphorically for very wrong actions, technically crime means illegal acts punishable by law. Don't confuse moral wrongness with criminality!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **crime**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[justice]] (fair treatment and legal righteousness)
+> - [[lawfulness]] (compliance with legal requirements)
+> 🧱 **Contrast:** While crime represents society's violations requiring punishment, justice represents the system that restores balance and lawfulness represents compliance with social rules.
 
 ---

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles #flashcards/cam-19-listening-test-04
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [supervisors, manager, overseer, team leader, line manager]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsuː.pə.vaɪ.zər/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** business/professional
+> **Etymology:** From Latin super "over" + visor "one who sees"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** One who oversees or watches over
+>
+> **Context Meaning:** A person responsible for overseeing the work, performance, and development of other employees or a specific department
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** người giám sát
+> - **Contextual:** quản lý, cấp trên, người giám sát trực tiếp
+>
 > **Nuances:**
-> - ...
+> - Direct line management responsibility
+> - Balance of oversight and support role
+> - Often first point of contact for employees
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Accountable, Supportive, Authoritative
+> **Memory Hook:** Super (over) + Visor (sees) = someone who sees over the work
+> **📖 Etymology Story:** Latin "super" (over, above) combined with "visor" (one who sees) created the image of someone positioned above, looking down to oversee work. Medieval workshops had "supervisors" who literally stood on raised platforms to watch craftsmen below.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[supervision]] /ˌsuː.pəˈvɪʒ.ən/
+> - **Verb:** [[supervise]] /ˈsuː.pə.vaɪz/
+> - **Noun:** [[supervisory]] /ˌsuː.pəˈvaɪ.zər.i/
+> - **Adj:** [[supervisory]] /ˌsuː.pəˈvaɪ.zər.i/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[manager]] /ˈmæn.ɪ.dʒər/ : broader organizational role
+> - [[overseer]] /ˌəʊ.vəˈsiːə/ : watches over work progress
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[subordinate]] /səˈbɔː.dɪ.nət/ : person under supervision
+> - [[employee]] /ɪmˈplɔɪ.iː/ : general staff position
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. direct supervisor
+> 2. report to supervisor
+> 3. supervisor approval
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** All employees must submit their timesheets to their supervisor by Friday.
+> - **Translation:** Tất cả nhân viên phải nộp bảng chấm công cho người giám sát của họ trước thứ Sáu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** My supervisor scheduled a performance review for next week.
+> - **Translation:** Người giám sát của tôi đã lên lịch đánh giá hiệu suất cho tuần tới.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** supervisor of me
+> - ✅ **Correction:** my supervisor
+> - **Why:** Use possessive pronoun, not "of" for possession
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Please consult your supervisor before making any major decisions."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **supervisor** (*/ˈsuː.pə.vaɪ.zər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person responsible for overseeing and directing the work of others in an organization
+> 🇻🇳 **Vietnamese:** Người giám sát - người chịu trách nhiệm chỉ đạo và theo dõi công việc của người khác
+> 🗣️ **IPA:** */ˈsuː.pə.vaɪ.zər/*
+> 🧠 **Mental Model:** Một "manager" ở "front-line" who "oversees" daily work - như bridge giữa staff và upper management
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person responsible for overseeing and directing the work of others"
+**Vietnamese:** Người chịu trách nhiệm giám sát công việc của nhân viên
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**supervisor** (*/ˈsuː.pə.vaɪ.zər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **supervisor** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The supervisor conducted a training session to improve team productivity.
+> 🇻🇳 **Translation:** Người giám sát đã tổ chức một buổi đào tạo để cải thiện năng suất của nhóm.
+> 🔍 **Analysis:** "supervisor" hoàn hảo vì nó thể hiện direct management role có responsibility cho training và team development. "Boss" quá informal, "manager" có thể imply higher level, "supervisor" đúng cho frontline management role.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **supervisor**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Hierarchy:** direct/immediate/line supervisor (VN: cấp trực tiếp)
+> 2. **Action:** report to/consult supervisor (VN: hành động báo cáo)
+> 3. **Authority:** supervisor approval/permission/decision (VN: thẩm quyền)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **supervisor**:
+"My boss checked my work."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "My supervisor reviewed the project documentation and provided feedback for improvement."
+> 💡 **Why it works:** "supervisor" specific hơn "boss" vì nó chỉ rõ relationship (direct oversight) và professional context. "Checked" casual, "reviewed" thể hiện formal assessment process.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **supervisor** instead of [[manager]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **supervisor:** Direct oversight of daily tasks, hands-on, operational (VN: giám sát trực tiếp)
+> **[[manager]]:** Broader scope, strategic, multiple teams (VN: quản lý tổng thể)
+> 🧱 **The Barrier:** Scope - supervisor micro-level, manager macro-level
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You need time off for a family emergency. You feel professional but urgent. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I need to inform my supervisor about an urgent family matter that requires immediate leave."
+> 👨‍🎨 **Director's Note:** Shows proper workplace protocol với correct terminology, thể hiện respect cho authority chain trong professional setting.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `super` and `visor` to the meaning of **supervisor**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "super" (over, above) và "visor" (one who sees) combine thành "one who sees from above". Medieval craftsmen worked under "supervisors" who literally stood on elevated platforms to oversee entire workshops, ensuring quality và efficiency.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **supervisor**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin "super" (over) + "visus" (seeing)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[supervise]]: to watch over work
+> - *(noun)* [[supervision]]: act of supervising
+> - *(adj)* [[supervisory]]: related to supervision
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsuː.pə.vaɪ.zər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**supervisor**
+> 📖 **Meaning:** Person who oversees and directs work of others
+> 🇻🇳 **Vietnamese:** Người giám sát - người chỉ đạo công việc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **supervisor**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I am the supervisor of the team" (unnecessary preposition)
+> ✅ **Correction:** "I am the team supervisor" OR "I supervise the team"
+> 🧠 **Why:** English typically uses compound nouns (team supervisor) rather than prepositional phrases
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **supervisor**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[subordinate]] (person under supervision)
+> - [[trainee]] (person being taught and supervised)
+> 🧱 **Contrast:** Supervisor has authority and responsibility; opposites are under direction and learning
 
 ---

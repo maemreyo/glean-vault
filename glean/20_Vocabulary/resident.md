@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
+#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning #flashcards/cam-19-listening-test-02
 
 ---
 tags:

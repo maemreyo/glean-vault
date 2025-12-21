@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [barbecues, BBQ, barbeque, grilling, cookout, grill, smoke, roasted, charred, outdoor cooking, barbecue sauce]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /'bɑːbɪkjuː/
+> **Part of Speech:** noun, verb
+> **CEFR Level:** B1
+> **Register:** informal/social
+> **Etymology:** From Spanish *barbacoa*, from Taino (Haitian) *barbacoa* "framework of sticks," referring to the wooden framework on which meat was dried or roasted.
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A meal or gathering at which meat, fish, or other food is cooked outdoors on a rack over an open fire or on a portable grill.
+>
+> **Context Meaning:** Both the cooking method (grilling/smoking meat slowly over low heat) and the social event where people gather for outdoor cooking and eating.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nướng ngoài trời, tiệc nướng
+> - **Contextual:** BBQ, thịt nướng, nướng barbecue
+>
 > **Nuances:**
-> - ...
+> - Implies outdoor cooking and social gathering
+> - In American English, often associated with specific sauces and cooking techniques
+> - Can refer to both the event and the cooking style/food itself
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Social, Casual, Festive
+> **Memory Hook:** Picture friends gathered around a grill - "BAR-B-CUE" sounds like the place you go to drink beer (bar) and queue up for food!
+> **📖 Etymology Story:** The Taino people of the Caribbean taught Spanish explorers their method of cooking meat on a wooden frame called "barbacoa." This technique spread worldwide, evolving into today's beloved BBQ traditions that bring people together around fire and food.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[barbecue]] /'bɑːbɪkjuː/
+> - **Verb:** [[barbecue]] /'bɑːbɪkjuː/
+> - **Adj:** N/A
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[grill]] /ɡrɪl/ : cooking method
+> - [[cookout]] /'kʊkaʊt/ : the social event
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[indoor cooking]] : opposite setting
+> - [[boil]] : opposite cooking method
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. barbecue sauce (nước sốt BBQ)
+> 2. have a barbecue (tổ chức tiệc nướng)
+> 3. barbecue chicken (gà nướng BBQ)
+> 4. barbecue ribs (sườn nướng)
+> 5. summer barbecue (tiệc nướng mùa hè)
+>
+> **1. Social Gathering Context**
+> - **Sentence:** We're having a **barbecue** this weekend - would you like to come?
+> - **Translation:** Cuối tuần này chúng tôi sẽ tổ chức tiệc nướng - bạn có muốn đến không?
+>
+> **2. Cooking Context**
+> - **Sentence:** The chef slowly **barbecued** the pork ribs for six hours to achieve perfect tenderness.
+> - **Translation:** Đầu bếp đã nướng sườn heo trong sáu tiếng để đạt được độ mềm hoàn hảo.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Barbecue vs. Grill**
+> - ❌ **Mistake:** I barbecued the steak for 5 minutes.
+> - ✅ **Correction:** I grilled the steak for 5 minutes.
+> - **Why:** Barbecue implies slow cooking over low heat, while grilling is quick, high-heat cooking.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Barbecue may not be the road to world peace, but it's a start."
+> **Source:** [[Anthony Bourdain]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **barbecue** (*/'bɑːbɪkjuː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A method of cooking meat slowly over low, indirect heat and the social gathering where this food is served, typically outdoors.
+> 🇻🇳 **Vietnamese:** Tiệc nướng/nướng BBQ - phương pháp nướng thịt chậm trên nhiệt thấp và sự tụ họp xã hội nơi món ăn này được phục vụ.
+> 🗣️ **IPA:** */'bɑːbɪkjuː/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một khu vườn, bạn bè quây quần quanh bếp nướng, khói bốc lên thơm lừng - đó chính là "barbecue", kết hợp hoàn hảo giữa ẩm thực và giao lưu xã hội.
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An outdoor meal or gathering where food is cooked over an open fire or grill"
+**Vietnamese:** Bữa ăn hoặc sự tụ họp ngoài trời nơi thức ăn được nướng trên lửa trần hoặc vỉ nướng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**barbecue** (*/'bɑːbɪkjuː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **barbecue** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The family reunion featured a traditional Texas **barbecue** with brisket that had been smoking for twelve hours.
+> 🇻🇳 **Vietnamese:** Lại đoàn gia đình có đặc sản là barbecue kiểu Texas với thịt bò được hun khói trong mười hai tiếng.
+> 🔍 **Analysis:** "Barbecue" ở đây chỉ cả sự kiện (lại đoàn) và phương pháp nướng đặc trưng của Texas (hun khói chậm), không chỉ đơn thuần là nướng thịt.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **barbecue**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Summer Barbecue:** Casual outdoor gathering during warm weather (Tiệc nướng mùa hè - sự tụ họp ngoài trời không trang trọng trong thời tiết ấm)
+> 2. **Barbecue Sauce:** Thick, sweet and spicy sauce used for basting meat (Nước sốt BBQ - sốt đặc ngọt và cay dùng để quét thịt)
+> 3. **Electric Barbecue:** Modern grill using electricity instead of charcoal (Bếp nướng điện - vỉ nướng hiện đại dùng điện thay than)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **barbecue**:
+"We cooked meat outside."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We hosted a backyard **barbecue** and slow-smoked ribs for six hours until they fell off the bone."
+> 💡 **Why it works:** "Barbecue" nâng cấp câu nói bằng cách thêm yếu tố xã hội (hosted), phương pháp nướng đặc trưng (slow-smoked) và kết quả tuyệt vời (fell off the bone).
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **barbecue** instead of [[grill]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **barbecue:** Slow cooking method (hours) over low, indirect heat, often with smoke (Phương pháp nướng chậm (giờ) trên nhiệt thấp gián tiếp, thường có khói)
+> **grill:** Fast cooking method (minutes) over high, direct heat (Phương pháp nướng nhanh (phút) trên nhiệt cao trực tiếp)
+> 🧱 **The Barrier:** Time and temperature! Barbecue = low and slow, Grill = hot and fast. Think marathon vs. sprint!
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** It's a beautiful Saturday. Your friend asks what your plans are. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Nothing much, just firing up the **barbecue** if you want to stop by for some grilled burgers and good times!"
+> 👨‍🎨 **Director's Note:** Uses "barbecue" naturally as both the cooking method and social invitation.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `barbacoa` (wooden frame) to the meaning of **barbecue**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Taino "barbacoa" meaning "wooden framework," the structure used to slowly smoke meat. Spanish explorers brought this Caribbean cooking method to the world, and now "barbecue" represents both the technique and the happy gatherings it creates!
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **barbecue**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Spanish `barbacoa` (from Taino) - wooden framework for cooking
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[barbecue]] - outdoor cooking event/meat cooked this way
+> - *(verb)* [[barbecue]] - to cook meat slowly over low heat
+> - *(abbreviation)* [[BBQ]] - informal short form
+> - *(compound)* [[barbecue sauce]] - sauce for this cooking method
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */'bɑːbɪkjuː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**barbecue**
+> 📖 **Meaning:** An outdoor social gathering with grilled food, or the method of slow-cooking meat over low heat
+> 🇻🇳 **Vietnamese:** Tiệc nướng ngoài trời, hoặc phương pháp nướng thịt chậm trên nhiệt thấp
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **barbecue**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I'll barbecue the vegetables for 2 minutes" (confusing with grilling)
+> ✅ **Correction:** "I'll grill the vegetables for 2 minutes" or "I'll barbecue the pork shoulder for 6 hours"
+> 🧠 **Why:** Barbecue specifically means slow cooking with indirect heat (hours), while grilling is fast direct heat (minutes). Time matters!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **barbecue**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[indoor dining]] (eating inside, no outdoor element)
+> - [[boil]] (cooking in water, opposite of fire-based cooking)
+> 🧱 **Contrast:** While barbecue celebrates outdoor cooking and social gathering around fire, indoor dining focuses on controlled environment cooking, often with less social emphasis.
 
 ---

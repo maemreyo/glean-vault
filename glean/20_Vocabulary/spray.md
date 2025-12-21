@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/functional-words #flashcards/cam-19-listening-test-04
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [sprays, sprayed, spraying, sprayer, splash, scatter, sprinkle, mist, aerosol, atomize, spread liquid]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /spreɪ/
+> **Part of Speech:** verb/noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** from Middle Dutch "sprayen" (to sprinkle, scatter)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To scatter liquid in small droplets; the act or device for doing this
+>
+> **Context Meaning:** To apply liquid in fine droplets to a surface; the liquid itself applied in this manner
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** xịt, phun
+> - **Contextual:** nước phun, sương, bình xịt
+>
 > **Nuances:**
-> - ...
+> - Can be both verb (action) and noun (liquid/device)
+> - Implies fine droplets rather than pouring
+> - Often used for pesticides, perfume, paint, or water
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Gardener, Cleaner
+> **Memory Hook:** "Spray" sounds like spreading water in the air
+> **📖 Etymology Story:** From Old Dutch "sprayen" meaning "to scatter", spray scatters liquid like rain scattering seeds (VN/EN mix) - transforming liquid into a cloud of tiny droplets that settle gently on surfaces.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[spray]] /spreɪ/, [[sprayer]] /ˈspreɪər/
+> - **Verb:** [[spray]] /spreɪ/
+> - **Adj:** [[sprayed]] /spreɪd/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[sprinkle]] /ˈsprɪŋkəl/ : scatter in small drops
+> - [[mist]] /mɪst/ : fine spray of liquid
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[pour]] /pɔːr/ : flow in a stream
+> - [[collect]] /kəˈlekt/ : gather together
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. spray paint
+> 2. pepper spray
+> 3. spray bottle
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The gardener will spray the plants with insecticide tomorrow morning.
+> - **Translation:** Người làm vườn sẽ phun thuốc trừ sâu cho cây vào sáng mai.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Please use the air freshener spray to eliminate the odor.
+> - **Translation:** Vui lòng sử dụng bình xịt khử mùi để loại bỏ mùi khó chịu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spray vs Splash**
+> - ❌ **Mistake:** "Be careful not to spray water on your clothes."
+> - ✅ **Correction:** "Be careful not to splash water on your clothes."
+> - **Why:** "Spray" implies controlled droplets, while "splash" suggests uncontrolled splattering.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The artist used spray paint to create the mural on the wall."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **spray** (*/spreɪ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To scatter liquid in fine droplets; liquid applied in this way or a device for doing so
+> 🇻🇳 **Vietnamese:** Xịt, phun; nước phun, bình xịt
+> 🗣️ **IPA:** */spreɪ/*
+> 🧠 **Mental Model:** "Spray" giống như mưa bụi - những giọt nước li ti bay không trung và rơi xuống bề mặt (VN explanation using English keywords)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To scatter liquid in fine droplets"
+**Vietnamese:** xịt, phun, rắc
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**spray** (*/spreɪ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **spray** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The farmer needs to spray the crops with organic fertilizer before sunset.
+> 🇻🇳 **Translation:** Nông dân cần phun phân hữu cơ cho cây trồng trước khi mặt trời lặn.
+> 🔍 **Analysis:** "Spray" works perfectly here indicating controlled application (VN/EN mix) of liquid nutrients to plants in fine droplets for even distribution.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **spray**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Products:** spray paint/perfume/deodorant (sơn nước/nước hoa/xịt khử mùi - VN note: các sản phẩm dạng xịt)
+> 2. **Gardening:** spray water/pesticide/fertilizer (phun nước/thuốc trừ sâu/phân bón - VN note: hoạt động làm vườn)
+> 3. **Equipment:** spray bottle/gun/nozzle (bình xịt/súng xịt/vòi xịt - VN note: thiết bị xịt)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **spray**:
+"He put water on the plants."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He carefully sprayed the delicate orchids with a fine mist of water."
+> 💡 **Why it works:** "Sprayed" adds precision and gentleness (VN explanation), transforming rough action into careful cultivation technique appropriate for sensitive plants.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **spray** instead of **[[sprinkle]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **spray:** Uses pressure to create fine droplets (VN explanation: dùng áp lực tạo giọt nước li ti)
+> **[[sprinkle]]:** Scatters by hand or gentle motion (VN explanation: rắc bằng tay hoặc chuyển động nhẹ)
+> 🧱 **The Barrier:** Spray implies mechanical force and finer droplets, while sprinkle suggests gentler, often manual distribution (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see a spider in your bathroom. What do you do? Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'll grab the bug spray to handle this eight-legged visitor!"
+> 👨‍🎨 **Director's Note:** This shows practical problem-solving (VN), using "spray" as the go-to solution for pest control in modern households.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root to the meaning of **spray**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Middle Dutch "sprayen" meaning "to scatter", spray transforms liquid into scattered droplets (VN/EN mix) - like nature scattering seeds with wind, spray scatters water through air to cover surfaces evenly.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **spray**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Middle Dutch `sprayen` (to scatter, sprinkle)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[sprayer]] (device for spraying)
+> - *(related)* [[spray paint]] (paint applied by spraying)
+> - *(cousin)* [[sprig]] (small stem that might be sprinkled)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */spreɪ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**spray**
+> 📖 **Meaning:** To scatter liquid in fine droplets
+> 🇻🇳 **Vietnamese:** Xịt, phun, rắc nước
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **spray**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The car sprayed mud all over me."
+> ✅ **Correction:** "The car splashed mud all over me."
+> 🧠 **Why:** "Splash" is for uncontrolled wet scattering (like mud), while "spray" is for controlled fine droplets (like perfume or paint). Don't mix them up!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **spray**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[collect]] (gather together)
+> - [[absorb]] (soak up liquid)
+> - [[contain]] (hold within)
+> 🧱 **Contrast:** While spray scatters liquid outward in fine droplets, collect gathers things together, absorb takes liquid in, and contain keeps liquid from spreading.
 
 ---

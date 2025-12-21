@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/health/physical-health-diet #flashcards/cam-19-listening-test-04
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [frostbitten, frostbiting, hypothermia, cold injury, tissue damage, freezing, ice burn, exposure, frostnip, chilblains]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfrɔːstbaɪt/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B2
+> **Register:** medical to neutral
+> **Etymology:** from Old English "forst" (frost) + "bite" (to wound)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Injury caused by freezing
+>
+> **Context Meaning:** Medical condition where skin and underlying tissues freeze due to exposure to extreme cold, resulting in damage and potential loss of body parts
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tê cóng, đông cứng
+> - **Contextual:** chấn thương do lạnh, tổn thương do đóng băng
+>
 > **Nuances:**
-> - ...
+> - Medical emergency requiring immediate attention
+> - Progresses through stages from mild to severe
+> - Can cause permanent tissue damage or amputation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Winter Explorer, Mountaineer
+> **Memory Hook:** Frost bites like an animal - it chews away at your flesh when you're exposed to extreme cold
+> **📖 Etymology Story:** From Old English "forst" (frost) + "bite" (wound with teeth), frostbite is when frost bites like teeth into your flesh (VN/EN mix) - the cold literally gnaws at your tissues, leaving marks as if bitten by invisible ice teeth.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[frostbite]] /ˈfrɔːstbaɪt/, [[frost]] /frɔːst/
+> - **Verb:** [[frostbite]] /ˈfrɔːstbaɪt/
+> - **Adj:** [[frostbitten]] /ˈfrɔːstbɪtn/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[cold injury]] /koʊld ˈɪndʒəri/ : tissue damage from cold
+> - [[hypothermia]] /ˌhaɪpəʊˈθɜːrmiə/ : dangerous body temperature drop
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[frostbite prevention]] /ˈfrɔːstbaɪt prɪˈvenʃn/ : avoiding cold injury
+> - [[warmth]] /wɔːrmθ/ : comfortable heat
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. suffer frostbite
+> 2. frostbite treatment
+> 3. prevent frostbite
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The mountaineer developed frostbite on his fingers during the expedition.
+> - **Translation:** Nhà leo núi bị tê cóng ở ngón tay trong chuyến thám hiểm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Proper winter clothing can help prevent frostbite in extreme conditions.
+> - **Translation:** Quần áo mùa đông phù hợp có thể giúp ngăn ngừa tê cóng trong điều kiện khắc nghiệt.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Frostbite vs Frostnip**
+> - ❌ **Mistake:** "My fingers have frostbite from touching the ice cream."
+> - ✅ **Correction:** "My fingers have frostnip from touching the ice cream."
+> - **Why:** "Frostnip" is mild, surface freezing; "frostbite" is deeper, more serious tissue damage.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Immediate medical attention is crucial for severe frostbite cases."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **frostbite** (*/ˈfrɔːstbaɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Injury to body tissues caused by freezing, resulting from exposure to extreme cold; can range from mild to severe tissue damage
+> 🇻🇳 **Vietnamese:** Tê cóng, đông cứng, chấn thương do lạnh
+> 🗣️ **IPA:** */ˈfrɔːstbaɪt/*
+> 🧠 **Mental Model:** "Frostbite" giống như bị "cắn" bởi cái lạnh - hơi lạnh "cắn" vào thịt và làm tổn thương các mô (VN explanation using English keywords)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Injury to body tissues caused by freezing from extreme cold exposure"
+**Vietnamese:** tê cóng, đông cứng, chấn thương do lạnh
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**frostbite** (*/ˈfrɔːstbaɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **frostbite** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Emergency room doctors treated several cases of frostbite during the record-breaking cold snap.
+> 🇻🇳 **Translation:** Bác sĩ phòng cấp cứu đã điều trị nhiều trường hợp tê cóng trong đợt lạnh kỷ lục.
+> 🔍 **Analysis:** "Frostbite" works perfectly here describing medical condition (VN/EN mix), clearly identifying the cold-related emergency requiring professional medical intervention.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **frostbite**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Severity:** mild/severe/extreme frostbite (tê cóng nhẹ/nghiêm trọng/cực độ - VN note: mức độ tổn thương)
+> 2. **Action:** suffer/get/treat frostbite (bị/mắc/điều trị tê cóng - VN note: trải qua và xử lý)
+> 3. **Prevention:** prevent/avoid/risk of frostbite (ngăn ngừa/tránh/nguy cơ tê cóng - VN note: phòng tránh)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **frostbite**:
+"My hands hurt from the cold."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The extreme cold caused early signs of frostbite on his exposed fingertips, turning them white and numb."
+> 💡 **Why it works:** "Frostbite" adds medical seriousness (VN explanation), transforming simple discomfort into dangerous condition requiring immediate attention.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **frostbite** instead of **[[hypothermia]]**?
+>
+> **frostbite**: Local tissue freezing (VN explanation: đóng băng cục bộ mô)
+> **[[hypothermia]]**: Dangerous body temperature drop (VN explanation: giảm nhiệt độ cơ thể nguy hiểm)
+> 🧱 **The Barrier:** Frostbite affects specific body parts, while hypothermia affects whole body temperature (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see someone with white, numb fingers after playing in snow. What do you tell them? Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You might be getting frostbite! Let's get inside and warm those hands gradually with warm water!"
+> 👨‍🎨 **Director's Note:** This shows urgent concern (VN), using "frostbite" to identify serious condition requiring immediate action and proper first aid.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the components to the meaning of **frostbite**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Old English "forst" (frost) + "bite" (to wound), frostbite literally bites with frost (VN/EN mix) - like invisible ice teeth gnawing at exposed flesh, leaving the mark of cold's vicious attack.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **frostbite**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Components:** Old English `forst` (frost, frozen vapor) + `bite` (to wound, cut with teeth)
+> 👨‍👩‍👧 **Family:**
+> - *(adjective)* [[frostbitten]] (affected by frostbite)
+> - *(related)* [[frost]] (ice crystals)
+> - *(cousin)* [[nip]] (pinching sensation, as in frostnip)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfrɔːstbaɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**frostbite**
+> 📖 **Meaning:** Injury caused by freezing body tissues
+> 🇻🇳 **Vietnamese:** Tê cóng, đông cứng, chấn thương do lạnh
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **frostbite**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I have frostbite on my tongue from eating ice cream too fast."
+> ✅ **Correction:** "I have brain freeze from eating ice cream too fast."
+> 🧠 **Why:** "Frostbite" requires prolonged exposure to freezing air/objects. Quick cold sensations from food are "brain freeze" or "ice cream headache" - not true frostbite!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **frostbite**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[warmth]] (comfortable temperature)
+> - [[protection]] (shielding from cold)
+> - [[circulation]] (blood flow that prevents freezing)
+> 🧱 **Contrast:** While frostbite represents tissue damage from extreme cold freezing, warmth provides protective heat, protection offers insulation from cold, and proper circulation prevents tissues from reaching freezing temperatures.
 
 ---

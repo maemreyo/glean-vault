@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/functional-words #flashcards/cam-19-listening-test-04
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [schedule, program, timetable, plan, itinerary, order of business, topics, items]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈdʒendə/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/business
+> **Etymology:** from Latin 'agenda' - things to be done, neuter plural of 'agendum' (thing to be done), from 'agere' - to do, drive
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Things to be done or dealt with
+>
+> **Context Meaning:** A list of items to be discussed at a formal meeting, or a list of matters to be attended to; a plan or schedule of activities
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chương trình nghị sự
+> - **Contextual:** kế hoạch, lịch trình, nội dung cuộc họp
+>
 > **Nuances:**
-> - ...
+> - Originally a plural form (things to be done) now used as singular
+> - Implies organization and prioritization
+> - Can refer to both meeting topics and future plans
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized, Purposeful, Strategic
+> **Memory Hook:** "A + GENDA" - imagine A-grade goals to do
+> **📖 Etymology Story:** From Latin 'agenda' literally meaning "things to be done", plural of 'agendum'. Originally from 'agere' - to do, to drive. Think of it as your "to-do" list that drives the meeting forward - the things you must actively DO, not just discuss.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[agenda]] /əˈdʒendə/, [[agent]] /ˈeɪdʒənt/
+> - **Verb:** [[act]] /ækt/, [[do]] /duː/
+> - **Adj:** [[agentic]] /eɪˈdʒentɪk/
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[schedule]] /ˈʃedjuːl/ : More about timing than content
+> - [[programme]] /ˈprəʊɡræm/ : More detailed, often with durations
+> - [[timetable]] /ˈtaɪmteɪbəl/ : Focuses on time slots
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[spontaneity]] /ˌspɒntəˈneɪəti/ : Unplanned actions
+> - [[impromptu]] /ɪmˈprɒmptjuː/ : Without preparation
+> - [[chaos]] /ˈkeɪɒs/ : Disorder, no plan
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. set the agenda
+> 2. hidden agenda
+> 3. political agenda
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The first item on our agenda is the quarterly budget review.
+> - **Translation:** Mục đầu tiên trong chương trình nghị sự của chúng ta là xem xét ngân sách hàng quý.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The committee failed to address the most important items on the agenda.
+> - **Translation:** Ủy ban đã không giải quyết được các mục quan trọng nhất trong chương trình nghị sự.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural Form**
+> - ❌ **Mistake:** The agendas for both meetings are similar.
+> - ✅ **Correction:** The agenda for both meetings is similar.
+> - **Why:** 'Agenda' is now treated as a singular collective noun in modern usage.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** We need to clear the agenda before we can discuss new business.
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **agenda** (*/əˈdʒendə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A list of items or topics to be discussed at a meeting; a plan of activities to be done
+> 🇻🇳 **Vietnamese:** chương trình nghị sự, kế hoạch công việc
+> 🗣️ **IPA:** */əˈdʒendə/*
+> 🧠 **Mental Model:** Một "to-do list" chính thức cho cuộc họp, liệt kê tất cả những việc cần thảo luận và giải quyết
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A list of items to be discussed or things to be done"
+**Vietnamese:** "Chương trình nghị sự"
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**agenda** (*/əˈdʒendə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **agenda** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The chairperson distributed the meeting agenda two days in advance.
+> 🇻🇳 **Translation:** Chủ tịch đã phân phát chương trình nghị sự cuộc họp trước hai ngày.
+> 🔍 **Analysis:** "Agenda" hoàn hảo ở đây vì nó chỉ danh sách có tổ chức các chủ đề sẽ được thảo luận trong cuộc họp chính thức
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **agenda**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action-oriented:** set/establish/follow agenda (đặt/làm theo nghị sự) - management of topics
+> 2. **Descriptive:** busy/heavy/full agenda (nghị sự dày đặc) - quantity of items
+> 3. **Adjective modifiers:** hidden/political/personal agenda (nghị sự ẩn/chính sách/cá nhân) - nature/motive
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **agenda**:
+"We have many things to discuss in the meeting."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Our agenda includes twelve priority items for strategic review."
+> 💡 **Why it works:** "Agenda" chuyên nghiệp hơn vì nó chỉ một danh sách có cấu trúc và thứ tự, không phải "things" không xác định
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **agenda** instead of **schedule**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **agenda:** Tập trung vào NỘI DUNG và chủ đề cần thảo luận, thứ tự ưu tiên
+> **schedule:** Tập trung vào THỜI GIAN và khi nào các hoạt động diễn ra
+> 🧱 **The Barrier:** Agenda là CÁI GÌ, schedule là KHI NÀO - agenda cho nội dung, schedule cho thời điểm
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're running an important meeting. You're in control. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Let's stick to the agenda and keep this meeting focused and productive!"
+> 👨‍🎨 **Director's Note:** Shows leadership and meeting management skills
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `agere` to the meaning of **agenda**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'agere' nghĩa là 'làm, thúc đẩy' - agenda là "những việc cần làm", những chủ đề sẽ thúc đẩy cuộc họp tiến lên
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **agenda**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `agere` (làm, thúc đẩy) → `agenda` (những việc cần làm)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[agent]] /ˈeɪdʒənt/ (người đại diện, người thực hiện)
+> - *(verb)* [[act]] /ækt/ (hành động)
+> - *(adj)* [[active]] /ˈæktɪv/ (chủ động)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈdʒendə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**agenda**
+> 📖 **Meaning:** A list of items for discussion in a meeting
+> 🇻🇳 **Vietnamese:** chương trình nghị sự
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **agenda**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** What are the agendas for today?
+> ✅ **Correction:** What is the agenda for today?
+> 🧠 **Why:** "Agenda" là danh từ tập hợp số ít trong tiếng Anh hiện đại, dù bắt nguồn từ số nhiều trong Latin
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **agenda**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[spontaneity]] (tính tự phát) - Planned vs unplanned
+> - [[open discussion]] (thảo luận tự do) - Structured vs free-flowing
+> - [[chaos]] (hỗn loạn) - Organized vs disorganized
+> 🧱 **Contrast:** Agenda có cấu trúc và có chủ đích, spontaneity tự nhiên và không lên kế hoạch
 
 ---

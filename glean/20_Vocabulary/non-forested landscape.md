@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/environment/wildlife-conservation #flashcards/cam-19-listening-test-04
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [open landscape, treeless terrain, grassland, plain, meadow, field, non-wooded area, cleared land]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /nɒn ˈfɒrɪstɪd ˈlændskeɪp/
+> **Part of Speech:** noun phrase (adjective + noun)
+> **CEFR Level:** C1
+> **Register:** academic/geographic
+> **Etymology:** non- (Latin negative prefix) + forested (from Old French 'forest') + landscape (from Dutch 'landschap' - region, tract of land)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A natural scene or area without trees or forest coverage
+>
+> **Context Meaning:** An area of land that lacks significant tree cover, characterized by open terrain, grasslands, mountains, or other vegetation types but not forests
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cảnh quan không rừng
+> - **Contextual:** vùng đất trọc, địa hình không có rừng, thảo nguyên
+>
 > **Nuances:**
-> - ...
+> - Can be naturally treeless (alpine, grasslands) or cleared by human activity
+> - Includes various terrains: plains, meadows, tundra, desert shrublands
+> - Important ecological classification for biodiversity and conservation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Open, Exposed, Natural
+> **Memory Hook:** "NON + FORESTED" - imagine removing all trees from a landscape, leaving only open space
+> **📖 Etymology Story:** 'Non-' from Latin meaning 'not' + 'forested' from Old French + 'landscape' from Dutch 'landschap' (region/patch of land). Literally "a patch of land that is not forested" - describing open vistas where trees don't dominate the scenery.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[landscape]] /ˈlændskeɪp/, [[forest]] /ˈfɒrɪst/
+> - **Verb:** [[landscape]] /ˈlændskeɪp/
+> - **Adj:** [[forested]] /ˈfɒrɪstɪd/, [[treeless]] /ˈtriːləs/, [[woody]] /ˈwʊdi/
+> - **Adv:** [[naturally]] /ˈnætʃrəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[grassland]] /ˈɡrɑːslænd/ : Specifically grass-covered areas
+> - [[plain]] /pleɪn/ : Large flat area without trees
+> - [[meadow]] /ˈmedəʊ/ : Grassland, often with wildflowers
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[forested landscape]] /ˈfɒrɪstɪd ˈlændskeɪp/ : Area covered with trees
+> - [[woodland]] /ˈwʊdlənd/ : Land covered with trees
+> - [[jungle]] /ˈdʒʌŋɡəl/ : Dense tropical forest
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. vast non-forested landscape
+> 2. mountainous non-forested landscape
+> 3. preserve non-forested landscape
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The conservation project aims to protect both forested and non-forested landscapes for biodiversity.
+> - **Translation:** Dự án bảo tồn nhằm bảo vệ cả cảnh quan có rừng và không có rừng cho đa dạng sinh học.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Alpine regions are characterized by non-forested landscapes above the tree line.
+> - **Translation:** Các vùng Alpine đặc trưng với cảnh quan không có rừng trên đường giới hạn cây cối.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Hyphenation**
+> - ❌ **Mistake:** We traveled through the non forested landscape.
+> - ✅ **Correction:** We traveled through the non-forested landscape.
+> - **Why:** 'Non-forested' is hyphenated when used as an adjective before a noun.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** The park includes both forested and non-forested landscapes, supporting different ecosystems.
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **non-forested landscape** (*/nɒn ˈfɒrɪstɪd ˈlændskeɪp/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An area of land or natural scenery without significant tree coverage
+> 🇻🇳 **Vietnamese:** cảnh quan không có rừng, vùng đất trọc không có cây cối
+> 🗣️ **IPA:** */nɒn ˈfɒrɪstɪd ˈlændskeɪp/*
+> 🧠 **Mental Model:** Một vùng đất rộng lớn không có cây, như thảo nguyên, đồng bằng hoặc vùng núi cao trên đường giới hạn cây
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An area of land without forest coverage"
+**Vietnamese:** "Vùng đất không có rừng"
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**non-forested landscape** (*/nɒn ˈfɒrɪstɪd ˈlændskeɪp/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **non-forested landscape** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The hike offered panoramic views across the non-forested landscape of the high plateau.
+> 🇻🇳 **Translation:** Cuộc đi bộ đường dài cung cấp tầm nhìn toàn cảnh ra cảnh quan không có rừng của cao nguyên.
+> 🔍 **Analysis:** "Non-forested landscape" hoàn hảo ở đây vì nó mô tả chính xác đặc điểm của cao nguyên - một vùng đất rộng lớn không có cây cối, tạo ra tầm nhìn không bị che khuất
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **non-forested landscape**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Size descriptors:** vast/expansive non-forested landscape (cảnh quan không rừng bao la) - scale/scope
+> 2. **Terrain type:** mountainous/alpine non-forested landscape (cảnh quan không rừng núi non) - topography
+> 3. **Human interaction:** protected/conserved non-forested landscape (cảnh quan không rừng được bảo vệ) - conservation status
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **non-forested landscape**:
+"The area had no trees."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The conservation area preserves the unique non-forested landscape of native grasses and wildflowers."
+> 💡 **Why it works:** "Non-forested landscape" học thuật hơn vì nó phân loại cảnh quan theo hệ sinh thái, không chỉ là sự thiếu vắng cây cối
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **non-forested landscape** instead of **grassland**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **non-forested landscape:** Học thuật hơn, bao gồm tất cả các loại hình không có cây (đá, sỏi, tuyết, tundra)
+> **grassland:** Cụ thể hơn, chỉ khu vực có thảm cỏ
+> 🧱 **The Barrier:** Phạm vi - non-forested landscape là phân loại rộng, grassland là loại hình cụ thể
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're studying ecosystems. You're analytical. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This non-forested landscape supports unique species adapted to open conditions!"
+> 👨‍🎨 **Director's Note:** Demonstrates scientific observation and ecological awareness
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `landskip` to the meaning of **non-forested landscape**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Dutch 'landschap' (vùng đất) + English 'non-' (không) + 'forested' (có rừng) - mô tả một vùng đất không bị che phủ bởi rừng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **non-forested landscape**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Dutch `landschap` (vùng đất) + French `forest` (rừng) + Latin `non-` (phủ định)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[deforested]] /diːˈfɒrɪstɪd/ (bị phá rừng)
+> - *(noun)* [[grassland]] /ˈɡrɑːslænd/ (đồng cỏ)
+> - *(noun)* [[terrain]] /təˈreɪn/ (địa hình)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */nɒn ˈfɒrɪstɪd ˈlændskeɪp/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**non-forested landscape**
+> 📖 **Meaning:** An area without forest coverage
+> 🇻🇳 **Vietnamese:** cảnh quan không có rừng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **non-forested landscape**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** The non-forested landscapes are beautiful
+> ✅ **Correction:** The non-forested landscape is beautiful
+> 🧠 **Why:** Khi nói chung chung về một loại hình cảnh quan, dùng số ít "landscape" như một danh từ tập hợp
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **non-forested landscape**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[forested area]] (vùng có rừng) - Without vs with trees
+> - [[woodland]] (khu rừng thưa) - Open vs wooded terrain
+> - [[rainforest]] (rừng mưa) - Treeless vs dense forest
+> 🧱 **Contrast:** Non-forested landscape có tầm nhìn mở, forested area bị che khuất bởi cây cối
 
 ---

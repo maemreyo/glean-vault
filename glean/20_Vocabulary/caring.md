@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/emotions-personality-adjectives #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [care, caring, cares, cared, compassionate, thoughtful, considerate, kind, empathetic, nurturing, supportive]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkerɪŋ/
+> **Part of Speech:** adjective
+> **CEFR Level:** B1
+> **Register:** neutral to warm
+> **Etymology:** from Old English "carian" (to be anxious, to care for)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Displaying kindness and concern for others
+>
+> **Context Meaning:** Showing empathy and consideration for people's needs and feelings
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** quan tâm, chu đáo
+> - **Contextual:** nhân ái, bao dung, biết lo lắng cho người khác
+>
 > **Nuances:**
-> - ...
+> - Implies genuine emotional investment
+> - Often used to describe personality traits
+> - Can describe both actions and character
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Nurturer, Empath
+> **Memory Hook:** To care is to carry someone's feelings in your heart
+> **📖 Etymology Story:** The word "care" comes from the Proto-Germanic "karo" meaning "lament, care, grief". A "caring" person is one who carries the burdens of others, sharing their sorrows and joys.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[care]] /ker/
+> - **Verb:** [[care]] /ker/
+> - **Adj:** [[caring]] /ˈkerɪŋ/, [[careful]] /ˈkerfl/
+> - **Adv:** [[carefully]] /ˈkerfəli/, [[caringly]] /ˈkerɪŋli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[compassionate]] /kəmˈpæʃənət/ : feeling sympathy for others' suffering
+> - [[thoughtful]] /ˈθɔːtfl/ : considering others' needs
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[indifferent]] /ɪnˈdɪfərənt/ : showing no concern
+> - [[selfish]] /ˈselfɪʃ/ : concerned primarily with oneself
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. caring person
+> 2. caring attitude
+> 3. truly caring
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She has a very caring nature and always helps her neighbors.
+> - **Translation:** Cô ấy có bản chất rất nhân ái và luôn giúp đỡ hàng xóm.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The nursing staff was praised for their caring approach to patients.
+> - **Translation:** Đội ngũ y tá được khen ngợi vì cách tiếp cận chu đáo với bệnh nhân.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Caring vs Careful**
+> - ❌ **Mistake:** "Be caring not to break the glass."
+> - ✅ **Correction:** "Be careful not to break the glass."
+> - **Why:** "Caring" means showing concern for others, while "careful" means taking care to avoid mistakes or danger.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "A caring community is built on small acts of kindness."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **caring** (*/ˈkerɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Displaying kindness, empathy, and concern for the well-being of others
+> 🇻🇳 **Vietnamese:** Quan tâm, chu đáo, biết lo lắng cho người khác
+> 🗣️ **IPA:** */ˈkerɪŋ/*
+> 🧠 **Mental Model:** Một người "caring" giống như một người mẹ bao bọc, luôn đặt cảm xúc và nhu cầu của người khác lên trước (VN explanation using English keywords)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Displaying kindness and concern for others"
+**Vietnamese:** quan tâm, chu đáo, biết lo lắng cho người khác
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**caring** (*/ˈkerɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **caring** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The teacher's caring attitude helped the shy student gain confidence.
+> 🇻🇳 **Translation:** Thái độ quan tâm của giáo viên đã giúp học sinh nhút nhát đó tự tin hơn.
+> 🔍 **Analysis:** "Caring" works perfectly here as it describes the teacher's empathetic approach (VN/EN mix), showing emotional support that goes beyond professional duty.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **caring**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Person Description:** caring person/nature (người quan tâm/bản chất quan tâm - VN note: mô tả tính cách)
+> 2. **Professional Context:** caring professional/staff (nhân viên chu đáo - VN note: thường dùng trong y tế, giáo dục)
+> 3. **Relationship:** caring relationship/parent (mối quan hệ/bố mẹ quan tâm - VN note: chỉ sự tương tác trong gia đình, tình bạn)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **caring**:
+"She was nice to the children."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Her caring nature meant each child felt seen and valued in her classroom."
+> 💡 **Why it works:** "Caring" adds emotional depth beyond "nice" (VN explanation), suggesting genuine investment in children's well-being rather than surface-level politeness.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **caring** instead of **[[kind]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **caring:** Implies ongoing emotional investment and concern (VN explanation: sự quan tâm sâu sắc, liên tục)
+> **[[kind]]:** Refers to individual acts of generosity or gentleness (VN explanation: hành tử tốt bụng, lịch sự)
+> 🧱 **The Barrier:** Caring describes a lasting emotional state, while kind describes specific behaviors (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is going through a difficult divorce. What quality do you show them? Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm here for you - just trying to be a caring friend during this tough time."
+> 👨‍🎨 **Director's Note:** This shows emotional support (VN), using "caring" to express genuine concern beyond surface-level help.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `care` to the meaning of **caring**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Old English "carian" meaning "to be anxious about", "caring" evolved to mean carrying someone's worries (VN/EN mix) - not as a burden, but as shared concern that lightens the load.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **caring**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Proto-Germanic `karo` (care, anxiety, lament)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[care]] (to look after, be concerned about)
+> - *(adjective)* [[careful]] (attentive to avoid error)
+> - *(noun)* [[caregiver]] (someone who provides care)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkerɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**caring**
+> 📖 **Meaning:** Showing kindness and concern for others
+> 🇻🇳 **Vietnamese:** Quan tâm, chu đáo, nhân ái
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **caring**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Be caring when crossing the street."
+> ✅ **Correction:** "Be careful when crossing the street."
+> 🧠 **Why:** "Caring" = showing concern for others; "Careful" = taking precautions to avoid danger. Don't mix up these look-alikes!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **caring**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[indifferent]] (showing no interest or concern)
+> - [[selfish]] (caring only about oneself)
+> - [[callous]] (insensitive to others' feelings)
+> 🧱 **Contrast:** While a caring person invests emotionally in others' well-being, an indifferent person remains emotionally detached regardless of circumstances.
 
 ---

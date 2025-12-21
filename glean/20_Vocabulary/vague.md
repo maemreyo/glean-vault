@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [vaguely, vagueness, vagueish, unclear, ambiguous, fuzzy, indistinct, unclear, hazy, imprecise, uncertain]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /veɪɡ/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** from Latin "vagus" (wandering, uncertain)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Not clearly expressed or understood; lacking precision
+>
+> **Context Meaning:** Something that is unclear, imprecise, or lacking definite details
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** mơ hồ, không rõ ràng
+> - **Contextual:** mơ màng, chung chung, mập mờ
+>
 > **Nuances:**
-> - ...
+> - Often implies intentional lack of clarity
+> - Can describe memories, statements, or ideas
+> - Suggests something is difficult to grasp or define
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Mysterious, Evasive
+> **Memory Hook:** A vague memory is like a fog - you know something is there but can't see it clearly
+> **📖 Etymology Story:** From Latin "vagus" meaning "wandering", a vague idea wanders in your mind without settling into clear form. Like smoke that dissipates before you can catch it, vague thoughts elude precise definition.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[vagueness]] /ˈveɪɡnəs/
+> - **Adv:** [[vaguely]] /ˈveɪɡli/
+> - **Adj:** [[vague]] /veɪɡ/, [[vagueish]] /ˈveɪɡɪʃ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[ambiguous]] /æmˈbɪɡjuəs/ : having more than one possible meaning
+> - [[unclear]] /ʌnˈklɪr/ : not easy to understand
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[precise]] /prɪˈsaɪs/ : exact and accurate
+> - [[specific]] /spəˈsɪfɪk/ : clearly defined
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. vague idea/notion
+> 2. vague memory
+> 3. vague description
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She had only a vague memory of what happened that night.
+> - **Translation:** Cô ấy chỉ có một ký ức mơ hồ về những gì đã xảy ra đêm đó.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The politician gave vague answers to the journalist's questions.
+> - **Translation:** Chính trị gia đã đưa ra những câu trả lời mơ hồ cho các câu hỏi của nhà báo.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Vague vs Ambiguous**
+> - ❌ **Mistake:** "His instructions were vague because they had two meanings."
+> - ✅ **Correction:** "His instructions were ambiguous because they had two meanings."
+> - **Why:** "Vague" means lacking detail, while "ambiguous" means having multiple possible interpretations.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "I have a vague recollection of meeting him before."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **vague** (*/veɪɡ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Not clearly expressed, understood, or remembered; lacking precision or detail
+> 🇻🇳 **Vietnamese:** Mơ hồ, không rõ ràng, chung chung, mập mờ
+> 🗣️ **IPA:** */veɪɡ/*
+> 🧠 **Mental Model:** Một ý tưởng "vague" giống như hình ảnh trong sương mù - bạn biết có cái gì đó ở đó nhưng không thể nhìn thấy chi tiết rõ ràng (VN explanation using English keywords)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Not clearly expressed or understood; lacking precision"
+**Vietnamese:** mơ hồ, không rõ ràng, chung chung
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**vague** (*/veɪɡ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **vague** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The witness could only provide a vague description of the suspect's appearance.
+> 🇻🇳 **Translation:** Nhân chứng chỉ có thể cung cấp một mô tả mơ hồ về ngoại hình của nghi phạm.
+> 🔍 **Analysis:** "Vague" works perfectly here as it indicates insufficient detail (VN/EN mix), showing that while some information exists, it's too imprecise to be truly useful for identification.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **vague**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Mental State:** vague idea/notion/concept (ý tưởng/khái niệm mơ hồ - VN note: chỉ sự thiếu rõ ràng trong suy nghĩ)
+> 2. **Memory:** vague memory/recollection (ký ức/hoài niệm mơ hồ - VN note: chỉ sự không rõ ràng của quá khứ)
+> 3. **Communication:** vague answer/response/explanation (câu trả lời/đáp ứng/giải thích mơ hồ - VN note: chỉ sự thiếu chi tiết trong giao tiếp)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **vague**:
+"His explanation wasn't clear."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "His explanation was intentionally vague, leaving us more confused than informed."
+> 💡 **Why it works:** "Vague" adds a dimension of intentional obfuscation (VN explanation), suggesting deliberate withholding of clarity rather than accidental confusion.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **vague** instead of **[[unclear]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **vague:** Implies lack of specific details or precision (VN explanation: thiếu chi tiết cụ thể, không chính xác)
+> **[[unclear]]:** Means difficult to understand or see (VN explanation: khó hiểu, khó nhìn thấy)
+> 🧱 **The Barrier:** Vague describes insufficient information, while unclear describes difficulty in comprehension (VN/EN mix).
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss asks about your weekend plans but you don't want to commit to anything. How do you respond? Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I have some vague ideas, but nothing definite yet - I'll keep you posted!"
+> 👨‍🎨 **Director's Note:** This shows diplomatic evasion (VN), using "vague" to maintain flexibility while avoiding outright refusal.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `vagus` to the meaning of **vague**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin "vagus" meaning "wandering", vague thoughts wander aimlessly in your mind (VN/EN mix) without settling into clear form, like clouds drifting across the sky without defined shape.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **vague**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `vagus` (wandering, uncertain)
+> 👨‍👩‍👧 **Family:**
+> - *(adverb)* [[vaguely]] (in a way that lacks precision)
+> - *(noun)* [[vagueness]] (the quality of being unclear)
+> - *(related)* [[divagate]] (to wander off topic)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */veɪɡ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**vague**
+> 📖 **Meaning:** Not clearly expressed or understood
+> 🇻🇳 **Vietnamese:** Mơ hồ, không rõ ràng, chung chung
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **vague**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The directions were vague because they pointed two ways."
+> ✅ **Correction:** "The directions were ambiguous because they pointed two ways."
+> 🧠 **Why:** "Vague" = not enough detail; "Ambiguous" = multiple possible meanings. Don't confuse lack of clarity with multiple interpretations!
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **vague**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[specific]] (clearly defined and detailed)
+> - [[precise]] (exact and accurate)
+> - [[explicit]] (clearly expressed without ambiguity)
+> 🧱 **Contrast:** While vague information lacks sufficient detail for understanding, specific/precise information provides exact details that eliminate confusion.
 
 ---

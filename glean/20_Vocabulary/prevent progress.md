@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/phrasal-idioms/collocations-by-verb #flashcards/cam-19-listening-test-04
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [hinder progress, impede progress, obstruct progress, block progress, stall progress]
+status: done
 ref:
   - [[Cam 19 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /prɪˈvent ˈprəʊ.ɡres/
+> **Part of Speech:** verb phrase
+> **CEFR Level:** B2
+> **Register:** formal/business
+> **Etymology:** From Latin praevenire "to come before" + Latin progressus "going forward"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To stop something from moving forward
+>
+> **Context Meaning:** To obstruct or hinder development, improvement, or advancement of something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ngăn cản tiến trình
+> - **Contextual:** cản trở sự phát triển, làm trì hoãn tiến độ
+>
 > **Nuances:**
-> - ...
+> - Can be active obstruction or passive hindrance
+> - Often used in business, political, or project contexts
+> - May imply intentional or unintentional blocking
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Obstructive, Limiting, Restrictive
+> **Memory Hook:** Prevent = stop before, Progress = moving forward - stopping forward movement
+> **📖 Etymology Story:** Latin "praevenire" (to come before) originally meant anticipate or prevent. Combined with "progressus" (advancing forward), it creates the image of standing in front of moving advancement, blocking its path forward.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[prevent]] /prɪˈvent/
+> - **Verb:** [[progress]] /prəʊˈɡres/
+> - **Noun:** [[prevention]] /prɪˈven.ʃən/
+> - **Noun:** [[progress]] /ˈprəʊ.ɡres/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[hinder progress]] /ˈhɪn.də ˈprəʊ.ɡres/ : make progress difficult
+> - [[impede development]] /ɪmˈpiːd dɪˈvel.əp.mənt/ : delay or obstruct development
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[facilitate progress]] /fəˈsɪl.ɪ.teɪt ˈprəʊ.ɡres/ : make progress easier
+> - [[promote development]] /prəˈməʊt dɪˈvel.əp.mənt/ : encourage advancement
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. would prevent progress
+> 2. prevent economic progress
+> 3. prevent scientific progress
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Bureaucratic delays often prevent progress on important infrastructure projects.
+> - **Translation:** Sự trì hoãn hành chính thường ngăn cản tiến trình các dự án cơ sở hạ tầng quan trọng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Lack of funding will prevent progress in cancer research.
+> - **Translation:** Việc thiếu kinh phí sẽ cản trở tiến độ nghiên cứu ung thư.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Error**
+> - ❌ **Mistake:** prevent progress to happen
+> - ✅ **Correction:** prevent progress from happening
+> - **Why:** Use "from + -ing" after prevent to show what is being stopped
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We must not let outdated regulations prevent progress in renewable energy."
+> **Source:** [[Cam 19 Listening Test 04]]
 
 ---
 
@@ -161,121 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **prevent progress** (*/prɪˈvent ˈprəʊ.ɡres/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To stop or hinder forward movement, development, or advancement
+> 🇻🇳 **Vietnamese:** Ngăn cản tiến trình - cản trở sự phát triển hoặc tiến lên phía trước
+> 🗣️ **IPA:** */prɪˈvent ˈprəʊ.ɡres/*
+> 🧠 **Mental Model:** Đặt "barrier" trước "moving forward" - như traffic jam blocking movement, làm cho development không thể advance
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To stop or hinder forward movement and development"
+**Vietnamese:** Ngăn cản sự tiến lên, cản trở sự phát triển
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**prevent progress** (*/prɪˈvent ˈprəʊ.ɡres/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **prevent progress** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Without proper funding, the committee will have to prevent progress on the urban renewal project.
+> 🇻🇳 **Translation:** Nếu không có đủ kinh phí, ủy ban sẽ phải ngăn cản tiến trình dự án cải tạo đô thị.
+> 🔍 **Analysis:** "prevent progress" hoàn hảo vì nó thể hiện active decision để halt forward movement. "Stop" hoặc "delay" không có same weight formal và implication của conscious intervention vào development process.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **prevent progress**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Cause:** prevent economic/scientific/social progress (VN: lĩnh vực bị ảnh hưởng)
+> 2. **Condition:** would/could/might prevent progress (VN: mức độ chắc chắn)
+> 3. **Action:** actively/deliberately prevent progress (VN: chủ động ngăn cản)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **prevent progress**:
+"Bad rules stopped the project."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Outdated regulations would prevent progress on sustainable development initiatives."
+> 💡 **Why it works:** "prevent progress" formal và specific hơn "stop", thể hiện systematic obstruction của development, tạo tone chuyên nghiệp cho business/policy contexts.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **prevent progress** instead of [[stop development]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **prevent progress:** Proactive blocking, often before it starts, implies foresight (VN: chủ động ngăn chặn)
+> **[[stop development]]: Halting what's already moving, reactive (VN: dừng lại cái đang chạy)
+> 🧱 **The Barrier:** Timing - prevent is before, stop is during
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague wants to skip safety protocols to finish faster. You feel responsible. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I understand the deadline pressure, but bypassing safety procedures could prevent progress in the long run."
+> 👨‍🎨 **Director's Note:** Shows wisdom và forward-thinking, framing short-term gain as potentially preventing larger progress - powerful persuasive approach.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `praevenire` to the meaning of **prevent progress**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "praevenire" means "to come before" - like arriving early to intercept. When we "prevent progress", we metaphorically "come before" advancement, intercepting its forward motion. It's the image of standing before progress itself, saying "you shall not pass."
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **prevent progress**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin "praevenire" (come before) + "progressus" (going forward)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[prevent]]: stop something from happening
+> - *(verb)* [[progress]]: move forward or develop
+> - *(noun)* [[prevention]]: action of preventing
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */prɪˈvent ˈprəʊ.ɡres/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**prevent progress**
+> 📖 **Meaning:** To hinder or stop forward development
+> 🇻🇳 **Vietnamese:** Ngăn cản sự phát triển, cản trở tiến trình
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **prevent progress**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "They prevented progress to happen" (wrong structure)
+> ✅ **Correction:** "They prevented progress from happening"
+> 🧠 **Why:** After prevent, use "from + gerund" (-ing form) not "to + infinitive"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **prevent progress**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[facilitate progress]] (make advancement easier)
+> - [[accelerate development]] (speed up growth)
+> 🧱 **Contrast:** Prevent progress creates barriers; opposites remove barriers and actively help forward movement
 
 ---

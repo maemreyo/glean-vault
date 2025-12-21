@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general
+#flashcards/vocabulary/general #flashcards/cam-20-listening-test-01
 ---
 tags:
   - vocabulary

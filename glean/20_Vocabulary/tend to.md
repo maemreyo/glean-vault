@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
+#flashcards/vocabulary/phrasal-idioms/collocations-by-verb #flashcards/cam-20-listening-test-01
 ---
 tags:
   - vocabulary

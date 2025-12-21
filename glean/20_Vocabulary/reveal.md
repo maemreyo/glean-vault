@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-01
 ---
 tags:
   - vocabulary

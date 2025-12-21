@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
+#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration #flashcards/cam-19-listening-test-02
 
 ---
 tags:

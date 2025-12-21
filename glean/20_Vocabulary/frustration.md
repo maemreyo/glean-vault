@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/emotions-personality-adjectives
+#flashcards/vocabulary/general/emotions-personality-adjectives #flashcards/cam-20-listening-test-01
 
 ---
 tags:
