@@ -2,13 +2,13 @@ I've been exploring [[30_Structures/the fascinating intersection|the fascinating
 
 1\. [[30_Structures/evaporative cooling inhibition|Evaporative Cooling Inhibition]]
 
-In environments where [[20_Vocabulary/relatively|relative]] [[20_Vocabulary/humidity|humidity]] (RH) reaches 90-100%, the air becomes saturated with [[20_Vocabulary/water vapor|water vapor]]. The creates [[30_Structures/a negligible vapor pressure gradient|a negligible vapor pressure gradient]] between the skin [[20_Vocabulary/In addition|and]] the [[20_Vocabulary/a lively atmosphere|atmosphere]], [[20_Vocabulary/effective|effectively]] [[20_Vocabulary/inhibit|inhibiting]] evaporative cooling.
+In environments where [[20_Vocabulary/relatively|relative]] [[20_Vocabulary/humidity|humidity]] (RH) reaches 90-100%, the air becomes saturated with [[20_Vocabulary/water vapor|water vapor]]. The creates [[30_Structures/a negligible vapor pressure gradient|a negligible vapor pressure gradient]] between the skin [[20_Vocabulary/In addition|and]] the [[20_Vocabulary/a lively atmosphere|atmosphere]], [[20_Vocabulary/effective|effectively]] inhibiting evaporative cooling.
 
-[[20_Vocabulary/consequently|Consequently]], the human [[20_Vocabulary/Institution|body]] cannot [[20_Vocabulary/dissipate|dissipate]] [[20_Vocabulary/metabolic heat|metabolic heat]], posing a severe [[20_Vocabulary/endanger|risk]] of [[20_Vocabulary/hyperthermia|hyperthermia]]. ![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)
+[[20_Vocabulary/consequently|Consequently]], the human [[20_Vocabulary/Institution|body]] cannot [[20_Vocabulary/dissipate|dissipate]] [[20_Vocabulary/metabolic heat|metabolic heat]], posing a severe risk of [[20_Vocabulary/hyperthermia|hyperthermia]]. ![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)![🥵](https://static.xx.fbcdn.net/images/emoji.php/v9/te/2/16/1f975.png)
 
-2\. Defining [[20_Vocabulary/cryptobiosis|Extremophiles]]
+2\. Defining Extremophiles
 
-The term refers to organisms that [[20_Vocabulary/exhibit|exhibit]] optimal growth under [[20_Vocabulary/biodegradable|environmental]] conditions that are considered [[20_Vocabulary/hostile|hostile]] to most [[20_Vocabulary/existence|life]] forms. These [[20_Vocabulary/include|include]] thermophiles (high temperature), acidophiles (low pH), [[20_Vocabulary/In addition|and]] halophiles (high salinity).
+The term refers to organisms that [[20_Vocabulary/exhibit|exhibit]] optimal growth under environmental conditions that are considered [[20_Vocabulary/hostile|hostile]] to most life forms. These [[20_Vocabulary/include|include]] thermophiles (high temperature), acidophiles (low pH), [[20_Vocabulary/In addition|and]] halophiles (high salinity).
 
 3\. [[20_Vocabulary/chemosynthesis|Chemosynthesis]] vs. [[20_Vocabulary/photosynthesis|Photosynthesis]]
 
@@ -18,7 +18,7 @@ In the [[20_Vocabulary/absence|absence]] of [[20_Vocabulary/solar radiation|sola
 
 One of the most [[20_Vocabulary/a real eye-opener|astounding]] discoveries is [[30_Structures/the "reanimation" of microbes trapped within fluid inclusions of giant crystals|the "reanimation" of microbes trapped within fluid inclusions of giant crystals]] for [[20_Vocabulary/beyond|over]] 50,000 years. This demonstrates an [[20_Vocabulary/incredible|incredible]] capacity for [[30_Structures/metabolic stasis|metabolic stasis]] [[20_Vocabulary/In addition|and]] long-term [[20_Vocabulary/outlive|survival]] in resourse-depleted environments.
 
-Caves are [[20_Vocabulary/essential|essentially]] "natural laboratories" that provide insights into the limits of [[20_Vocabulary/existence|life]] [[20_Vocabulary/In addition|and]] potential extraterrestrial biology.
+Caves are [[20_Vocabulary/essential|essentially]] "natural laboratories" that provide insights into the limits of life [[20_Vocabulary/In addition|and]] potential extraterrestrial biology.
 
 [#microbiology](https://www.facebook.com/hashtag/microbiology?__eep__=6&__cft__[0]=AZYAj-iMQFZG2iWziE8kQYTSm0sv7Ws1RPUrRA07ugzGabZ5xq-0myB3nrwzyF6mCUtD2EoHlhkACgTtITNHQ-K9Y6ijuBORcfXkiML-rFE4TkKn7EMTRLL-FJZRouQ4cxxFtAbqrmwWL2a9zBWTB_hMetdjdnYX9kKEx4RTYHGr3D-pA-jnlq6blLLHGASzR7A&__tn__=*NK-R) [#thermodynamics](https://www.facebook.com/hashtag/thermodynamics?__eep__=6&__cft__[0]=AZYAj-iMQFZG2iWziE8kQYTSm0sv7Ws1RPUrRA07ugzGabZ5xq-0myB3nrwzyF6mCUtD2EoHlhkACgTtITNHQ-K9Y6ijuBORcfXkiML-rFE4TkKn7EMTRLL-FJZRouQ4cxxFtAbqrmwWL2a9zBWTB_hMetdjdnYX9kKEx4RTYHGr3D-pA-jnlq6blLLHGASzR7A&__tn__=*NK-R) [#extremophile](https://www.facebook.com/hashtag/extremophile?__eep__=6&__cft__[0]=AZYAj-iMQFZG2iWziE8kQYTSm0sv7Ws1RPUrRA07ugzGabZ5xq-0myB3nrwzyF6mCUtD2EoHlhkACgTtITNHQ-K9Y6ijuBORcfXkiML-rFE4TkKn7EMTRLL-FJZRouQ4cxxFtAbqrmwWL2a9zBWTB_hMetdjdnYX9kKEx4RTYHGr3D-pA-jnlq6blLLHGASzR7A&__tn__=*NK-R) [#glitteringcavern](https://www.facebook.com/hashtag/glitteringcavern?__eep__=6&__cft__[0]=AZYAj-iMQFZG2iWziE8kQYTSm0sv7Ws1RPUrRA07ugzGabZ5xq-0myB3nrwzyF6mCUtD2EoHlhkACgTtITNHQ-K9Y6ijuBORcfXkiML-rFE4TkKn7EMTRLL-FJZRouQ4cxxFtAbqrmwWL2a9zBWTB_hMetdjdnYX9kKEx4RTYHGr3D-pA-jnlq6blLLHGASzR7A&__tn__=*NK-R)
 
