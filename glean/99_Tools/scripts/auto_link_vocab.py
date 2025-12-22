@@ -562,10 +562,19 @@ def process_file(filepath, terms_map, sorted_term_keys, dry_run=True):
     changes_made = []
     new_lines = []
     file_modified = False
+    
+    # Track if we're inside an HTML table
+    in_html_table = False
 
     for line in lines:
-        # Check if line is a table row (starts with | potentially preceded by whitespace)
-        is_table_row = line.lstrip().startswith('|')
+        # Check if we're entering/exiting an HTML table
+        if '<table' in line.lower():
+            in_html_table = True
+        if '</table>' in line.lower():
+            in_html_table = False
+        
+        # Check if line is a table row (either Markdown or inside HTML table)
+        is_table_row = line.lstrip().startswith('|') or in_html_table
         
         def replace_func(match):
             g1 = match.group(1) # Wikilink

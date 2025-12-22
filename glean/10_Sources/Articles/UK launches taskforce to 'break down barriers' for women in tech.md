@@ -18,7 +18,7 @@ BCS, the Chartered [[20_Vocabulary/establish|Institute]] for IT, [warned in Dece
 
 It said the government should [[20_Vocabulary/appearance|look]] to [[20_Vocabulary/rescue|help]] close the gender gap in [[20_Vocabulary/arrange|order]] to meet its [ambitious AI goals](https://www.bbc.co.uk/news/articles/crr05jykzkxo).
 
-"We cannot [[20_Vocabulary/resulted in|create]] high-trust, high-integrity AI systems [[20_Vocabulary/suppose|if]] the profession behind them is [[20_Vocabulary/absence|missing]] out on the talents [[20_Vocabulary/In addition|and]] [[20_Vocabulary/perspective|perspective]] of half the [[20_Vocabulary/the number of inhabitants|population]]," said chief executive Sharron Gunn.
+"We cannot [[20_Vocabulary/resulted in|create]] high-trust, high-integrity AI systems [[20_Vocabulary/suppose|if]] the profession behind them is [[20_Vocabulary/absence|missing]] out on the talents [[20_Vocabulary/In addition|and]] [[20_Vocabulary/perspective|perspective]] of half the [[20_Vocabulary/population density|population]]," said chief executive Sharron Gunn.
 
 Ms Kendall [[20_Vocabulary/will|will]] lead the taskforce alongside Anne-Marie Imafidon, founder of Stemettes, who has been appointed as the Women in Tech [[20_Vocabulary/ambassador|Envoy]].
 
@@ -42,6 +42,6 @@ It [[20_Vocabulary/What's more|also]] includes TUC assistant general secretary K
 
 "[[20_Vocabulary/achieve|Achieving]] gender equality is long overdue, [[20_Vocabulary/In addition|and]] I am honoured to [[20_Vocabulary/come along|join]] the Women in Tech taskforce alongside Liz Kendall [[20_Vocabulary/In addition|and]] several inspiring women from [[30_Structures/across the industry|across the industry]], [[20_Vocabulary/group cooperation|working together]] [[30_Structures/to chart a path forward|to chart a path forward]] for true gender equality."
 
-![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
+![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
 
-A [[20_Vocabulary/biodegradable|green]] [[20_Vocabulary/publicity|promotional]] banner with black squares [[20_Vocabulary/In addition|and]] rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."
+A [[20_Vocabulary/biodegradable|green]] [[20_Vocabulary/publicity|promotional]] banner with black squares [[20_Vocabulary/In addition|and]] rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”

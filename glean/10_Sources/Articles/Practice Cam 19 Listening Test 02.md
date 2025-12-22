@@ -13,7 +13,7 @@
 | **Level**:               | **2**…………………                                                              |
 | **Place**:               | the **3**…………………<br><br>**4**………………… Street<br><br>First floor, Room T347 |
 | **Time**:                | Thursday morning at **5**…………………                                          |
-| **Recommended website**: | 'The perfect **6**…………………'                                                |
+| **Recommended website**: | ‘The perfect **6**…………………’                                                |
 
 **Questions 7–10**
 
@@ -21,7 +21,14 @@
 
 *Write **ONE WORD [[20_Vocabulary/sole|ONLY]]** for each answer.*
 
-<table><tbody><tr><td colspan="3" width="582"><h2>A [[20_Vocabulary/average|typical]] 45-[[20_Vocabulary/tiny|minute]] guitar lesson</h2></td></tr><tr><td width="95"><p><span><strong>Time</strong></span></p></td><td width="265"><p><span><strong>Activity</strong></span></p></td><td width="222"><p><span><strong>Notes</strong></span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/tune|tuning]] guitars</span></p></td><td width="222"><p><span>using an app or by <strong>7</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>[[20_Vocabulary/strumming|strumming]] [[20_Vocabulary/chord|chords]] using our [[20_Vocabulary/thumbs|thumbs]]</span></p></td><td width="222"><p><span>[[20_Vocabulary/worth keeping|keeping]] time [[20_Vocabulary/Admittedly|while]] the [[20_Vocabulary/trainer|teacher]] is <strong>8</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>15 minutes</span></p></td><td width="265"><p><span>playing songs</span></p></td><td width="222"><p><span>often listening to a <strong>9</strong> ………………… of a song</span></p></td></tr><tr><td width="95"><p><span>10 minutes</span></p></td><td width="265"><p><span>playing [[20_Vocabulary/sole|single]] notes [[20_Vocabulary/In addition|and]] simple [[20_Vocabulary/tune|tunes]]</span></p></td><td width="222"><p><span>playing together, then <strong>10</strong> …………………</span></p></td></tr><tr><td width="95"><p><span>5 minutes</span></p></td><td width="265"><p><span>noting things to practise at home</span></p></td><td width="222"></td></tr></tbody></table>
+| A [[20_Vocabulary/average\|typical]] 45-[[20_Vocabulary/tiny\|minute]] guitar lesson |
+| --- |
+| Time | Activity | Notes |
+| 5 minutes | [[20_Vocabulary/tune\|tuning]] guitars | using an app or by 7 ………………… |
+| 10 minutes | [[20_Vocabulary/strumming\|strumming]] [[20_Vocabulary/chord\|chords]] using our [[20_Vocabulary/thumbs\|thumbs]] | [[20_Vocabulary/worth keeping\|keeping]] time [[20_Vocabulary/Admittedly\|while]] the [[20_Vocabulary/trainer\|teacher]] is 8 ………………… |
+| 15 minutes | playing songs | often listening to a 9 ………………… of a song |
+| 10 minutes | playing [[20_Vocabulary/sole\|single]] notes [[20_Vocabulary/In addition\|and]] simple [[20_Vocabulary/tune\|tunes]] | playing together, then 10 ………………… |
+| 5 minutes | noting things to practise at home |  |
 
 Online English Tutors
 
@@ -83,7 +90,7 @@ English Dictionary Apps
 
 **C** eight [[20_Vocabulary/In addition|and]] a half minutes.
 
-**15** As a 'helmsman', David has the [[20_Vocabulary/responsible for|responsibility]] of deciding
+**15** As a ‘helmsman’, David has the [[20_Vocabulary/responsible for|responsibility]] of deciding
 
 **A** who [[20_Vocabulary/will|will]] be the members of his crew.
 
@@ -213,13 +220,13 @@ What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**29** Why did the [[20_Vocabulary/scheme|project]] to make 'new' [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
+**29** Why did the [[20_Vocabulary/scheme|project]] to make ‘new’ [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
 
-**A** People believed the 'new' pairs of [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/unhygienic|unhygienic]].
+**A** People believed the ‘new’ pairs of [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/unhygienic|unhygienic]].
 
 **B** There were not enough good parts to use in the [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]].
 
-**C** The [[20_Vocabulary/footwear|shoes]] in the 'new' pairs were not completely [[20_Vocabulary/identical|alike]].
+**C** The [[20_Vocabulary/footwear|shoes]] in the ‘new’ pairs were not completely [[20_Vocabulary/identical|alike]].
 
 **30** Bella [[20_Vocabulary/In addition|and]] Don agree that they can [[20_Vocabulary/presentation|present]] their topic
 
@@ -242,7 +249,7 @@ What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary
 
 ● more than 1,000 species, 0.05–1.2 millimetres long
 
-● [[20_Vocabulary/What's more|also]] known as water 'bears' (due to how they **31** …………………) [[20_Vocabulary/In addition|and]] '[[20_Vocabulary/moss|moss]] piglets'
+● [[20_Vocabulary/What's more|also]] known as water ‘bears’ (due to how they **31** …………………) [[20_Vocabulary/In addition|and]] ‘[[20_Vocabulary/moss|moss]] piglets’
 
 **Physical [[20_Vocabulary/appearance|appearance]]**
 
@@ -254,7 +261,7 @@ What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary
 
 ● [[20_Vocabulary/Institution|body]] filled with a [[20_Vocabulary/a fluid|liquid]] that carries both **34** ………………… [[20_Vocabulary/In addition|and]] blood
 
-● mouth shaped [[20_Vocabulary/compared to|like]] a **35** ………………… with teeth called stylets
+● mouth shaped [[20_Vocabulary/For instance|like]] a **35** ………………… with teeth called stylets
 
 **Habitat**
 
@@ -264,7 +271,7 @@ What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary
 
 **[[20_Vocabulary/cryptobiosis|Cryptobiosis]]**
 
-● In dry conditions, they roll into a ball called a 'tun'.
+● In dry conditions, they roll into a ball called a ‘tun’.
 
 ● They stay [[20_Vocabulary/existence|alive]] with a much lower [[20_Vocabulary/metabolism|metabolism]] than [[20_Vocabulary/average|usual]].
 
