@@ -111,6 +111,32 @@ def restore_backup(backup_id):
     except Exception as e:
         print(f"Error restoring file: {e}")
 
+def get_phase_mapping(base_tag):
+    """
+    Returns a dictionary mapping card numbers to the full tag string.
+    Phases:
+    1. Foundation: 1, 10
+    2. Activation: 2, 3, 4
+    3. Differentiation: 6, 11, 12
+    4. Mastery: 5, 7, 8
+    5. Addition: 9
+    """
+    phases = {
+        '01-foundation': [1, 10],
+        '02-activation': [2, 3, 4],
+        '03-differentiation': [6, 11, 12],
+        '04-mastery': [5, 7, 8],
+        '05-addition': [9]
+    }
+    
+    card_map = {}
+    for phase_suffix, card_nums in phases.items():
+        full_tag = f"{base_tag}/{phase_suffix}"
+        for card_num in card_nums:
+            card_map[card_num] = full_tag
+            
+    return card_map
+
 def convert_ref_to_tag(ref_text):
     """
     Convert a reference like 'Cam 19 Listening Test 02' to '#flashcards/cam-19-listening-test-02'
@@ -186,7 +212,8 @@ def parse_frontmatter_refs(filepath):
 
 def add_ref_tags_to_file(filepath, dry_run=True):
     """
-    Read the ref: field from frontmatter, generate tags, and add them to the flashcard tag line.
+    Read the ref: field from frontmatter, generate base tags, and add phase-specific tags to each card.
+    Also removes the old ref tag from the header line if present.
     """
     try:
         # 1. Parse refs from frontmatter
@@ -195,52 +222,71 @@ def add_ref_tags_to_file(filepath, dry_run=True):
         if not refs:
             return False, "No refs found"
             
-        # 2. Generate tags from refs
-        ref_tags = [convert_ref_to_tag(ref) for ref in refs]
+        # 2. Generate base tag from first ref (usually there's only one)
+        base_tag = convert_ref_to_tag(refs[0])
         
-        # 3. Read the file
+        # 3. Get phase mapping
+        card_map = get_phase_mapping(base_tag)
+        
+        # 4. Read the file
         with open(filepath, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
+            content = f.read()
             
-        if not lines:
+        if not content:
             return False, "Empty file"
             
-        # 4. Find the flashcard tag line (first line starting with #flashcards)
-        flashcard_line_idx = -1
-        for i, line in enumerate(lines):
-            if line.strip().startswith('#flashcards'):
-                flashcard_line_idx = i
-                break
-                
-        if flashcard_line_idx == -1:
-            return False, "No flashcard tag line found"
-            
-        # 5. Check if ref tags already exist
-        current_line = lines[flashcard_line_idx].strip()
-        tags_to_add = []
+        # 5. Remove old ref tag from header (first line starting with #flashcards)
+        lines = content.splitlines()
+        new_lines = []
+        tag_removed = False
         
-        for ref_tag in ref_tags:
-            if ref_tag not in current_line:
-                tags_to_add.append(ref_tag)
-                
-        if not tags_to_add:
-            return False, "Tags already present"
-            
-        # 6. Add tags to the end of the line
-        new_line = current_line + ' ' + ' '.join(tags_to_add) + '\n'
+        for line in lines:
+            if not tag_removed and line.strip().startswith('#flashcards') and base_tag in line:
+                # This is the old header tag - remove it
+                # Check if it already has phase tags (meaning we already processed this file)
+                if re.search(re.escape(base_tag) + r'/\d{2}-', line):
+                    return False, "Already has phase tags"
+                    
+                # Remove the tag line entirely if it's just the tag
+                parts = line.split()
+                new_parts = [p for p in parts if base_tag not in p]
+                if new_parts:
+                    new_lines.append(' '.join(new_parts))
+                # else: skip the line (it was just the tag)
+                tag_removed = True
+            else:
+                new_lines.append(line)
         
+        content = '\n'.join(new_lines)
+        
+        # 6. Inject phase tags before card headers
+        def replace_card_header(match):
+            card_num = int(match.group(1))
+            original_header = match.group(0)
+            
+            if card_num in card_map:
+                tag_to_insert = card_map[card_num]
+                return f"{tag_to_insert}\n{original_header}"
+            return original_header
+        
+        # Pattern: ### Card (\d+)
+        card_header_pattern = re.compile(r'(?m)^### Card (\d+)')
+        new_content = card_header_pattern.sub(replace_card_header, content)
+        
+        if content == new_content and not tag_removed:
+            return False, "No changes needed"
+            
         if dry_run:
-            return True, f"Would add: {', '.join(tags_to_add)}"
+            return True, f"Would add phase tags for {base_tag}"
         else:
             # 7. Create backup
-            backup_id = create_backup(filepath, [f"Added ref tags: {', '.join(tags_to_add)}"])
+            backup_id = create_backup(filepath, [f"Added phase tags for {base_tag}"])
             
             # 8. Update the file
-            lines[flashcard_line_idx] = new_line
             with open(filepath, 'w', encoding='utf-8') as f:
-                f.writelines(lines)
+                f.write(new_content)
                 
-            return True, f"Added: {', '.join(tags_to_add)} (backup: {backup_id})"
+            return True, f"Added phase tags (backup: {backup_id})"
             
     except Exception as e:
         return False, f"Error: {e}"
