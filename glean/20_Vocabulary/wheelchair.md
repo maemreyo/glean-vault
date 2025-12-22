@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/health/physical-health-diet
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [wheelchairs, wheelchair user, wheelchair accessible, wheelchair bound, manual wheelchair, electric wheelchair, motorized wheelchair, wheelchair ramp, wheelchair access]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈwiːltʃeə/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** wheel + chair → chair with wheels (compound word)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** a chair fitted with wheels for use by someone who cannot walk
+>
+> **Context Meaning:** mobility aid with wheels, used by people who have difficulty walking due to illness, injury, or disability
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** xe lăn
+> - **Contextual:** xe đẩy người tàn tật, xe lăn điện, xe lăn tay
+>
 > **Nuances:**
-> - ...
+> - Essential mobility device, not just furniture
+> - Represents independence for many users
+> - Range from basic manual to advanced powered models
+> - Associated concepts of accessibility and inclusion
+> - Proper terminology important: "person who uses a wheelchair" not "wheelchair bound"
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Enabling, Independent, Supportive, Accessible
+> **Memory Hook:** wheel + chair = chair that moves on wheels
+> **📖 Etymology Story:** Simple compound word that changed lives. Like adding wheels to freedom itself. When wheels met chairs, mobility became possible for those who couldn't walk.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[wheelchair]], [[wheelchair user]]
+> - **Verb:** No verb form (but: to wheelchair - informal verb)
+> - **Adj:** [[wheelchair-accessible]]
+> - **Adv:** No adverb form
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - No true synonyms (specific device)
+> - Related: [[mobility aid]], [[walker]], [[scooter]]
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms (equipment category)
+> - Conceptually: [[restriction]], [[immobility]]
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. wheelchair accessible
+> 2. wheelchair user
+> 3. electric wheelchair
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The museum installed wheelchair ramps to improve accessibility.
+> - **Translation:** Bảo tàng đã lắp đặt dốc xe lăn để cải thiện khả năng tiếp cận.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** After the accident, he used a wheelchair for six months during recovery.
+> - **Translation:** Sau vụ tai nạn, anh đã dùng xe lăn trong sáu tháng trong thời gian hồi phục.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Person-First Language**
+> - ❌ **Mistake:** "He is a wheelchair."
+> - ✅ **Correction:** "He uses a wheelchair." OR "He is a wheelchair user."
+> - **Why:** The wheelchair is equipment, not identity. Use person-first language.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The new bus service is wheelchair accessible, featuring dedicated spaces and ramps."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **wheelchair** (*/ˈwiːltʃeə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A chair with wheels for people who cannot walk or have difficulty walking
+> 🇻🇳 **Vietnamese:** Xe lăn
+> 🗣️ **IPA:** */ˈwiːltʃeə/*
+> 🧠 **Mental Model:** Chair + wheels = mobile seat for movement assistance
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A chair with wheels for people who cannot walk"
+**Vietnamese:** Xe lăn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**wheelchair** (*/ˈwiːltʃeə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **wheelchair** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The airport provides complimentary wheelchair service for passengers with reduced mobility.
+> 🇻🇳 **Translation:** Sân bay cung cấp dịch vụ xe lăn miễn phí cho hành khách có khả năng di chuyển hạn chế.
+> 🔍 **Analysis:** Perfect because "wheelchair" specifically identifies the mobility aid - precise and respectful terminology
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **wheelchair**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **User:** wheelchair user/patient/passenger (person who uses it)
+> 2. **Type:** electric/manual/power wheelchair (describing kind)
+> 3. **Access:** wheelchair accessible/ramp/space (infrastructure)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **wheelchair**:
+"The building has special entrances for disabled people."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The building features wheelchair-accessible entrances with automated doors and ramps."
+> 💡 **Why it works:** "Wheelchair-accessible" is specific, inclusive language that precisely describes the accommodation
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **wheelchair** instead of **[[chair]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **wheelchair:** Mobility device with wheels (VN: xe lăn)
+> **[[chair]]:** Furniture for sitting (VN: cái ghế)
+> 🧱 **The Barrier:** Mobility vs. Static - wheelchair enables movement; chair is stationary
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're designing a public building. What accessibility features do you include?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We need to ensure all areas are wheelchair accessible with wide corridors and elevators."
+> 👨‍🎨 **Director's Note:** "Wheelchair" immediately communicates the specific accessibility requirement
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Explain how **wheelchair** got its name.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Simple compound: wheel + chair. Like adding wheels to freedom itself. When someone added wheels to a chair, they created mobility for those who couldn't walk - revolutionary in its simplicity and impact.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **wheelchair**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Compound word: `wheel` (circular disc for movement) + `chair` (seat)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[wheelchair]], [[wheel]], [[chair]]
+> - *(adjective)* [[wheelchair-accessible]]
+> - *(compound)* wheelchair user, wheelchair ramp
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈwiːltʃeə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**wheelchair**
+> 📖 **Meaning:** A chair with wheels for mobility
+> 🇻🇳 **Vietnamese:** Xe lăn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "She is wheelchair-bound and can't leave her home."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "She uses a wheelchair and requires accessible transportation to leave her home."
+> 🧠 **Why:** Person-first language emphasizes the person, not the equipment. Avoid "wheelchair-bound" as it suggests limitation rather than enablement.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What conceptually contrasts with **wheelchair**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - No direct antonyms (equipment category)
+> - Contrast concepts: [[ambulation]] (walking), [[mobility]] (free movement)
+> - Barriers: [[inaccessibility]], [[restriction]]
+> 🧱 **Contrast:** Enablement vs. Barrier - wheelchair enables movement; barriers prevent it
 
 ---

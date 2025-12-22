@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/arts-architecture/media-literature-film
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [parades, marching, procession, demonstration, march, pageantry, ceremonial, parade route, parade ground, victory parade]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pəˈreɪd/
+> **Part of Speech:** noun, verb
+> **CEFR Level:** B2
+> **Register:** neutral to formal
+> **Etymology:** Spanish 'parada' (stopping place, display) → French 'parade' → English parade (showing off)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** public procession, especially celebrating a special day or event
+>
+> **Context Meaning:** organized public march, often with floats, bands, and displays, typically celebrating or commemorating something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cuộc diễu hành
+> - **Contextual:** cuộc diễu binh, show diễn, trưng bày
+>
 > **Nuances:**
-> - ...
+> - Can be military (formal, disciplined) or celebratory (festive)
+> - Often implies public spectacle and ceremonial nature
+> - Can also mean to display something ostentatiously
+> - In modern usage, can refer to fashion parades/catwalk shows
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Spectacular, Ceremonial, Public, Celebratory
+> **Memory Hook:** para- (alongside) + -ade (action) = action alongside others in procession
+> **📖 Etymology Story:** From Spanish military 'parada' - where troops would halt and display their weapons. This evolved into marching displays for the public. Like soldiers showing off, a parade shows off to spectators.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[parade]], [[parader]], [[pageantry]]
+> - **Verb:** [[parade]], [[march]], [[process]]
+> - **Adj:** [[parade-ground]]
+> - **Adv:** No common adverb form
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[procession]] /prəˈseʃən/ : people moving in orderly line (formal)
+> - [[march]] /mɑːtʃ/ : walking together in organized way (often protest)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[retreat]] /rɪˈtriːt/ : withdrawal from public view
+> - [[disperse]] /dɪˈspɜːs/ : scatter and break formation
+> - [[conceal]] /kənˈsiːl/ : hide from public
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. victory parade
+> 2. fashion parade
+> 3. lead the parade
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The victory parade drew thousands of spectators to the city center.
+> - **Translation:** Cuộc diễu hành chiến thắng đã thu hút hàng ngàn khán giả đến trung tâm thành phố.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The models paraded the latest designs down the runway.
+> - **Translation:** Các người mẫu trình diễn những thiết kế mới nhất trên sàn diễn thời trang.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** "They paraded through the streets with their victory."
+> - ✅ **Correction:** "They paraded through the streets in celebration of their victory."
+> - **Why:** When celebrating something, use "in celebration of" or simply state what is being celebrated.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The carnival parade featured elaborate floats and costumes from around the world."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +83,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **parade** (*/pəˈreɪd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Public procession or display, often celebratory; to march or walk ostentatiously
+> 🇻🇳 **Vietnamese:** Cuộc diễu hành; diễu hành khoe khoang
+> 🗣️ **IPA:** */pəˈreɪd/*
+> 🧠 **Mental Model:** Public + procession + celebration = marching display for everyone to see
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Public procession, especially celebrating a special day"
+**Vietnamese:** Cuộc diễu hành
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**parade** (*/pəˈreɪd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **parade** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The annual Thanksgiving parade features giant balloons and marching bands.
+> 🇻🇳 **Translation:** Cuộc diễu hành Tạ ơn hàng năm có những khối khí khổng lồ và các ban nhạc diễu hành.
+> 🔍 **Analysis:** Perfect choice because "parade" captures the festive, organized nature of this public celebration with multiple elements (balloons, bands) moving together.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **parade**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Military Context:** victory parade, military parade (formal, ceremonial)
+> 2. **Fashion Context:** fashion parade, parade down the runway (display/show)
+> 3. **Action Verbs:** lead/join/watch a parade (participation verbs)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **parade**:
+"The soldiers walked through the city to celebrate."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The triumphant soldiers paraded through the city streets, medals gleaming."
+> 💡 **Why it works:** "Paraded" adds spectacle, pride, and public celebration - much more vivid than simple "walked"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **parade** instead of **[[march]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **parade:** Spectacular, celebratory display (VN: diễu hành trang trọng)
+> **[[march]]:** Walking together, often with purpose/protest (VN: đi hành quân, tuần hành)
+> 🧱 **The Barrier:** Celebration vs Purpose - parade is about showing off/spectacle; march is about purposeful movement
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your sports team just won the championship. Describe the celebration.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The entire city turned out to watch our team parade through the streets with the trophy!"
+> 👨‍🎨 **Director's Note:** "Parade" perfectly captures the public, celebratory nature of a championship celebration
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the Spanish root to the meaning of **parade**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Spanish 'parada' = stopping place to display troops. Like soldiers stopping to show their skills, modern parades stop frequently to show off floats and performers to the crowd.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **parade**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Spanish `parar` (to stop, to display)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[parade]], [[parader]], [[pageantry]]
+> - *(verb)* [[parade]], [[parading]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */pəˈreɪd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**parade**
+> 📖 **Meaning:** Public procession or display
+> 🇻🇳 **Vietnamese:** Cuộc diễu hành
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The fashion models marched down the runway."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The fashion models paraded down the runway."
+> 🧠 **Why:** In fashion context, "parade" (or more commonly "walked") is used to describe the deliberate, showy movement of displaying clothes
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **parade**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[retreat]] (withdrawal from public view)
+> - [[disperse]] (scatter and break formation)
+> - [[conceal]] (hide from sight)
+> 🧱 **Contrast:** Public display vs. Hiding - parade is about being seen by everyone; antonyms involve hiding or dispersing
 
 ---

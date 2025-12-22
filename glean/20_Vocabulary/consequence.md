@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [consequences, consequent, consequently, in consequence, as a consequence, face the consequences, suffer the consequences, result, outcome, effect, aftermath]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkɒnsɪkwəns/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal to neutral
+> **Etymology:** Latin 'consequi' (to follow with) → Old French 'consequence' → English consequence
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** a result or effect of an action
+>
+> **Context Meaning:** something that happens as a result of a particular action or set of conditions
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hậu quả, kết quả
+> - **Contextual:** hệ quả, tác dụng, kết cục
+>
 > **Nuances:**
-> - ...
+> - Often implies logical connection between cause and effect
+> - Can be negative (common) or neutral/positive
+> - Used in formal, academic, and legal contexts
+> - Emphasizes the direct relationship between action and outcome
+> - Often carries weight of importance or significance
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Logical, Inevitable, Serious, Result-oriented
+> **Memory Hook:** con + sequence = with sequence → follows in sequence
+> **📖 Etymology Story:** From Latin 'consequi' - to follow with. Like dominoes falling, each consequence follows inevitably from what came before. What you do sets off a chain of consequences.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[consequence]], [[consequent]]
+> - **Verb:** No direct verb form
+> - **Adj:** [[consequent]], [[consequential]]
+> - **Adv:** [[consequently]]
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[result]] /rɪˈzʌlt/ : outcome (neutral)
+> - [[outcome]] /ˈaʊtkʌm/ : final result
+> - [[effect]] /ɪˈfekt/ : change produced by action
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[cause]] /kɔːz/ : something that produces an effect
+> - [[origin]] /ˈɒrɪdʒɪn/ : beginning point
+> - [[source]] /sɔːs/ : where something comes from
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. face the consequences
+> 2. as a consequence
+> 3. direct consequence
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company's bankruptcy was a direct consequence of poor financial management.
+> - **Translation:** Sự phá sản của công ty là hậu quả trực tiếp của việc quản lý tài chính kém.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** He must face the consequences of his actions in court.
+> - **Translation:** Anh ta phải đối mặt với hậu quả của hành động của mình tại tòa án.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural Usage**
+> - ❌ **Mistake:** "Consequences of global warming are severe."
+> - ✅ **Correction:** "The consequences of global warming are severe."
+> - **Why:** When consequences refers to specific outcomes, it usually needs an article (the) or determiner.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The long-term consequences of deforestation include climate change and loss of biodiversity."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +85,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **consequence** (*/ˈkɒnsɪkwəns/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A result or effect that follows from an action or condition
+> 🇻🇳 **Vietnamese:** Hậu quả, kết quả, hệ quả
+> 🗣️ **IPA:** */ˈkɒnsɪkwəns/*
+> 🧠 **Mental Model:** Cause → follows → result = inevitable outcome of previous action
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A result or effect of an action"
+**Vietnamese:** Hậu quả, kết quả
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**consequence** (*/ˈkɒnsɪkwəns/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **consequence** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The economic crisis was an inevitable consequence of years of overspending.
+> 🇻🇳 **Translation:** Cuộc khủng hoảng kinh tế là hậu quả không thể tránh khỏi của nhiều năm chi tiêu quá tay.
+> 🔍 **Analysis:** Perfect because "consequence" emphasizes the direct cause-and-effect relationship - overspending directly caused the crisis
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **consequence**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Facing:** face/accept/take the consequences (dealing with results)
+> 2. **Connection:** as a/in consequence of (causal relationship)
+> 3. **Quality:** direct/serious/unintended consequences (describing type)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **consequence**:
+"The decision had many effects."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The decision had far-reaching consequences that affected every department."
+> 💡 **Why it works:** "Consequences" implies important, significant outcomes - more formal and weighty than "effects"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **consequence** instead of **[[result]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **consequence:** Emphasizes logical connection and importance (VN: hậu quả, hệ quả)
+> **[[result]]:** Neutral outcome (VN: kết quả)
+> 🧱 **The Barrier:** Importance/Logic vs. Neutrality - consequence implies meaningful cause-effect; result is just what happened
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend cheated on an exam and got caught. What do you say?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You'll have to face the consequences of your actions."
+> 👨‍🎨 **Director's Note:** "Consequences" perfectly captures the serious, inevitable outcomes of wrongdoing
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the Latin root to the meaning of **consequence**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'consequi' = to follow with. Like a shadow that follows you everywhere, consequences follow every action you take - you can't escape them.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **consequence**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `consequi` (to follow with)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[consequence]], [[consequent]]
+> - *(adjective)* [[consequential]]
+> - *(adverb)* [[consequently]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkɒnsɪkwəns/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**consequence**
+> 📖 **Meaning:** A result or effect of an action
+> 🇻🇳 **Vietnamese:** Hậu quả, kết quả
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "Pollution has terrible consequence on environment."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Pollution has terrible consequences on the environment."
+> 🧠 **Why:** When referring to multiple outcomes, use plural "consequences" with determiner "the" for specific effects.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **consequence**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[cause]] (the action that produces effect)
+> - [[origin]] (the starting point)
+> - [[source]] (where something begins)
+> 🧱 **Contrast:** Result vs. Origin - consequence is what comes after; antonyms are what comes before
 
 ---

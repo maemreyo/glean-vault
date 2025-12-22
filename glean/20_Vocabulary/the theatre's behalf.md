@@ -150,7 +150,7 @@ List 3 common collocations for **on [someone's] behalf**.
 🎭 **Scenario:** You're at a formal event representing your organization. You need to make a statement. Say it!
 ?
 > 🎬 **Line:** "On behalf of the organizing committee, I'd like to welcome everyone tonight."
-> 👨‍🎨 **Director's Note:** This fits the formal, official opening tone. "On behalf of" immediately establishes your authority và role as representative.
+> 👨‍🎨 **Director's Note:** This fits the formal, official opening tone. "On behalf of" immediately establishes your authority vai role as representative.
 
 ---
 

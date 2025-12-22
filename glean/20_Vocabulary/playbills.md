@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/arts-architecture/media-literature-film
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [playbill, programs, theatre programs, show programs, performance programs, theatrical programs, billboards, posters, flyers, handbills, cast lists]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈpleɪbɪlz/
+> **Part of Speech:** noun (plural)
+> **CEFR Level:** C1
+> **Register:** specialized
+> **Etymology:** play + bill (public notice) → playbill (notice about a play)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** posters or programs containing information about theatrical performances
+>
+> **Context Meaning:** printed notices or booklets giving details about plays, including cast, scenes, and other performance information
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tờ rơi kịch, chương trình kịch
+> - **Contextual:** sách giới thiệu kịch, tờ chương trình biểu diễn
+>
 > **Nuances:**
-> - ...
+> - Historical term dating back to Victorian theater era
+> - Often collectible items for theater enthusiasts
+> - Can range from simple flyers to elaborate booklets
+> - Contains essential information: cast, scenes, venue, times
+> - Part of theatrical culture and memorabilia
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Informative, Theatrical, Cultural, Historical
+> **Memory Hook:** play + bill = notice for a play
+> **📖 Etymology Story:** Like a bill (public notice) but specifically for plays. In Victorian London, these were posted on walls and handed out to attract audiences. The 'bill' aspect comes from posting notices for public viewing.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[playbills]] (plural), [[playbill]] (singular), [[program]]
+> - **Verb:** No verb form
+> - **Adj:** theatrical, promotional
+> - **Adv:** No adverb form
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[programs]] /ˈprəʊɡræmz/ : performance guides
+> - [[flyers]] /ˈflaɪəz/ : promotional leaflets
+> - [[posters]] /ˈpəʊstəz/ : large public notices
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms (category of informational material)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. collect playbills
+> 2. historical playbills
+> 3. distribute playbills
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The museum's theater collection includes vintage playbills from Broadway's golden age.
+> - **Translation:** Bộ sưu tập sân khấu của bảo tàng bao gồm các playbills cổ từ thời kỳ hoàng kim của Broadway.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The volunteers handed out playbills to audience members entering the theater.
+> - **Translation:** Các tình nguyện viên phát playbills cho khán giả đang vào rạp hát.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural Usage**
+> - ❌ **Mistake:** "I found an old playbills from 1950."
+> - ✅ **Correction:** "I found old playbills from 1950."
+> - **Why:** Playbills is already plural; doesn't need 'an' before it.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The British Library's digitised collection of programmes contains playbills dating back to the 18th century."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +83,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **playbills** (*/ˈpleɪbɪlz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Posters or booklets containing information about theatrical performances
+> 🇻🇳 **Vietnamese:** Tờ rơi/tờ chương trình kịch hát
+> 🗣️ **IPA:** */ˈpleɪbɪlz/*
+> 🧠 **Mental Model:** Play information + public notice = program/details for theater show
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Posters or programs with details about plays"
+**Vietnamese:** Tờ rơi/tờ chương trình kịch
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**playbills** (*/ˈpleɪbɪlz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **playbills** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The theater archives contain thousands of playbills documenting performance history over two centuries.
+> 🇻🇳 **Translation:** Lưu trữ nhà hát chứa hàng ngàn playbills ghi lại lịch sử biểu diễn trong hơn hai thế kỷ.
+> 🔍 **Analysis:** Perfect because "playbills" specifically refers to theatrical programs - more precise and evocative than just "programs" or "flyers"
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **playbills**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Collection:** collect/display/historical playbills (ownership/display)
+> 2. **Distribution:** hand out/distribute playbills (giving to audience)
+> 3. **Description:** vintage/original/rare playbills (describing type/age)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **playbills**:
+"The theater gave information about the show."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The ushers distributed playbills listing the cast and scenes before the performance began."
+> 💡 **Why it works:** "Playbills" is specific theatrical vocabulary that immediately creates a vivid image of traditional theater-going
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **playbills** instead of **[[programs]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **playbills:** Specifically for theater/plays (VN: chương trình kịch)
+> **[[programs]]:** General term for any event guide (VN: chương trình chung)
+> 🧱 **The Barrier:** Specific vs. General - playbills are exclusively theatrical; programs can be for concerts, sports, etc.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're giving a tour of a theater museum. What do you show visitors?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Here we have original playbills from Shakespeare's time, showing how audiences learned about performances."
+> 👨‍🎨 **Director's Note:** "Playbills" immediately establishes historical theatrical context and cultural significance
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the components 'play' and 'bill' to the meaning of **playbills**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** 'Play' (theatrical performance) + 'bill' (public notice). Like a restaurant bill shows what you ate, playbills show what you'll see - the 'menu' of theatrical entertainment.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **playbills**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Compound word: `play` (theatrical performance) + `bill` (public notice)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[playbills]], [[playbill]], [[program]], [[poster]]
+> - *(related)* [[theater]], [[performance]], [[cast]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈpleɪbɪlz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**playbills**
+> 📖 **Meaning:** Theatrical programs or posters
+> 🇻🇳 **Vietnamese:** Tờ rơi/tờ chương trình kịch hát
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "She collected playbills from each musical she attended."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "She collected playbills from each musical she attended."
+> 🧠 **Why:** This is actually correct! But if we want to use 'programs' instead: "She collected programs from each musical she attended." Both work, but playbills is more theatrical.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **playbills**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - No direct antonyms as playbills is a category of informational material
+> - In contrast: [[tickets]] (for admission, not information)
+> - [[reviews]] (opinions after, not information before)
+> 🧱 **Contrast:** Information vs. Access - playbills provide details; tickets provide admission
 
 ---
