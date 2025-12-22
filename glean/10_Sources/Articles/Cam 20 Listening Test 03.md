@@ -20,7 +20,7 @@
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**11** Who was [[20_Vocabulary/responsible for|responsible for]] starting the community [[20_Vocabulary/scheme|project]]?
+**11** Who was [[20_Vocabulary/responsible for|responsible for]] starting [[20_Vocabulary/the community project|the community project]]?
 
 **A** the castle owners
 

@@ -844,6 +844,7 @@ def main():
     parser.add_argument("--restore-original", help="Restore a specific file to its very first (oldest) backup version")
     parser.add_argument("--migrate-aliases", action="store_true", help="One-time utility: Add 'aliases: []' to existing vocabulary files.")
     parser.add_argument("--restore-before-link", action="store_true", help="Restore all target files to original before linking (requires --folder or --file)")
+    parser.add_argument("--no-restore", action="store_true", help="Skip auto-restore to original before linking (by default, files are restored)")
     parser.add_argument("--clean-quotes", action="store_true", help="Run clean_quotes.py on target files before linking (requires --folder or --file)")
     parser.add_argument("--add-ref-tags", action="store_true", help="Add flashcard tags based on 'ref:' field in frontmatter")
     
@@ -922,14 +923,17 @@ def main():
         # Default to articles dir
         target_path = ARTICLES_DIR
     
-    # Handle restore-before-link
-    if args.restore_before_link:
+    # Auto-restore before linking (DEFAULT behavior, unless --no-restore)
+    should_auto_restore = not args.no_restore and not args.dry_run
+    
+    if should_auto_restore or args.restore_before_link:
         if not (args.file or args.folder):
-            print("⚠️  Warning: --restore-before-link requires --file or --folder. Using default Articles directory.")
-        print("\n🔄 Step 1: Restoring files to original state...")
+            print("⚠️  Warning: Auto-restore requires --file or --folder. Using default Articles directory.")
+        print("\n🔄 Auto-restoring files to original state before linking...")
         print("=" * 60)
         restore_to_original(target_path)
-        print("\n")
+        print("=" * 60)
+        print()
     
     # Handle clean-quotes
     if args.clean_quotes:
