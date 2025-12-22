@@ -11,10 +11,14 @@
             "id": "9023177bda5d114e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10_Sources/Articles/Cam 20 Listening Test 03.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cam 20 Listening Test 03"
             }
           }
         ]
@@ -205,6 +209,9 @@
   },
   "active": "9023177bda5d114e",
   "lastOpenFiles": [
+    "10_Sources/Articles/Audioscripts Cam 20 Listening Test 03.md",
+    "10_Sources/Articles/Cam 20 Listening Test 03.md",
+    "10_Sources/Articles/Audioscripts Cam 20 Listening Test 03 1.md",
     "20_Vocabulary/_test_card_11_v3.md",
     "99_Tools/scripts/migrate_card_11_v3.py",
     "20_Vocabulary/_test_card_11_v2.md",
@@ -234,9 +241,6 @@
     "20_Vocabulary/lasts three days.md",
     "20_Vocabulary/In addition.md",
     "99_Tools/backups/20251221_202315_1b8b0f_The giant heat pumps designed to warm whole districts.md",
-    "99_Tools/backups/20251221_202315_943431_Cam 20 Listening Test 01.md",
-    "99_Tools/backups/20251221_202315_1bf52a_Audioscripts Cam 19 Listening Test 02.md",
-    "99_Tools/backups/20251221_202315_4d9aaa_Cam 19 Listening Test 04.md",
     "99_Tools/scripts/test_ref_tags.py",
     "20_Vocabulary/ambition.md.tmp.76023.1766311008412",
     "20_Vocabulary/immediately.md.tmp.76023.1766309452218",
