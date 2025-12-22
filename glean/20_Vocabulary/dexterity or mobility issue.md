@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [dexterity issue, mobility issue, dexterity problems, mobility problems, physical limitation, motor skill difficulty]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dekˈsterəti ɔː məʊˈbɪləti ˈɪʃuː/
+> **Part of Speech:** Noun Phrase (Medical/Clinical)
+> **CEFR Level:** C1
+> **Register:** Formal/Medical
+> **Etymology:** Latin 'dexter' (right-handed, skillful) + Latin 'mobilis' (movable)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Difficulty with physical movement or manipulation
+>
+> **Context Meaning:** A medical condition affecting either fine motor skills (dexterity) or the ability to move around (mobility), or both
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Vấn đề về sự khéo léo hoặc khả năng di chuyển
+> - **Contextual:** Vấn đề về vận động tinh hoặc vận động thô
+>
 > **Nuances:**
-> - ...
+> - Dexterity: fine motor skills, especially hands/fingers
+> - Mobility: ability to move body from place to place
+> - Can be temporary (injury) or permanent (condition)
+> - Often requires accommodations or assistive devices
+> - Medical terminology used by healthcare professionals
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Clinical, Compassionate, Technical
+> **Memory Hook:** Dexter = skillful (like Dexter the lab), mobility = movement, issue = problem - problems with skillful movement
+> **📖 Etymology Story:** Dexterity from Latin 'dexter' (right-hand side) - historically associated with skill because most people are right-handed. Mobility from Latin 'mobilis' (movable). Together: challenges with either precise movements or general body movement.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[dexterity]], [[mobility]], [[issue]], [[impairment]]
+> - **Verb:** [[move]], [[manipulate]], [[accommodate]]
+> - **Adj:** [[dexterous]], [[mobile]], [[impaired]], [[accessible]]
+> - **Adv:** [[dexterously]], [[mobilely]]
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[motor impairment]] : More clinical term
+> - [[physical limitation]] : Broader term
+> - [[movement disorder]] : More medical
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[full mobility]] : Complete ability to move
+> - [[normal dexterity]] : Standard fine motor skills
+> - [[physical capability]] : Full physical function
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. have a dexterity issue
+> 2. mobility issue affects
+> 3. accommodate mobility issues
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The workplace was modified to accommodate employees with mobility issues.
+> - **Translation:** Nơi làm việc đã được điều chỉnh để phù hợp với nhân viên có vấn đề về khả năng di chuyển.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Arthritis can cause dexterity issues, making it difficult to button shirts.
+> - **Translation:** Viêm khớp có thể gây ra các vấn đề về sự khéo léo, khiến việc cài cúc áo trở nên khó khăn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Usage**
+> - ❌ **Mistake:** He has mobility issue.
+> - ✅ **Correction:** He has mobility issues.
+> - **Why:** Usually plural as multiple challenges or aspects are involved, not just one single issue.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Students with dexterity or mobility issues may require additional time for examinations."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +85,119 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **dexterity or mobility issue** (*/dekˈsterəti ɔː məʊˈbɪləti ˈɪʃuː/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A medical condition affecting either fine motor skills (dexterity - hand/finger control) or the ability to move the body around (mobility), or both.
+> 🇻🇳 **Vietnamese:** Vấn đề về vận động tinh hoặc vận động thô
+> 🗣️ **IPA:** */dekˈsterəti ɔː məʊˈbɪləti ˈɪʃuː/*
+> 🧠 **Mental Model:** Dexterity = fine motor skills (writing, buttoning), Mobility = large movements (walking, climbing stairs). Issue = medical condition hindering these abilities.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A medical condition affecting either fine motor skills or the ability to move around"
+**Vietnamese:** Vấn đề về vận động tinh hoặc khả năng di chuyển
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**dexterity or mobility issue** (*/dekˈsterəti ɔː məʊˈbɪləti ˈɪʃuː/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **dexterity or mobility issue** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The library installed automatic doors to assist patrons with mobility issues.
+> 🇻🇳 **Translation:** Thư viện đã lắp đặt cửa tự động để giúp đỡ những độc giả có vấn đề về khả năng di chuyển.
+> 🔍 **Analysis:** Word này perfect vì nó medically precise nhưng respectful. Nó describes physical challenges without defining person by their limitations.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **dexterity or mobility issue**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Medical:** have/experience/develop dexterity or mobility issues (health context)
+> 2. **Accessibility:** accommodate/address/consider dexterity or mobility issues (design context)
+> 3. **Impact:** affects/impacts/limits dexterity or mobility issues (consequence context)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **dexterity or mobility issue**:
+"The old man found it hard to walk and use his hands."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The elderly gentleman struggled with daily tasks due to progressive dexterity and mobility issues."
+> 💡 **Why it works:** "Dexterity and mobility issues" hits harder vì nó medically precise và respectful. Nó separates fine motor challenges from larger movement problems.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **dexterity or mobility issue** instead of **[[physical disability]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **dexterity or mobility issue:** More specific, medical term, focuses on particular functions (VN: vấn đề y khoa cụ thể)
+> **[[physical disability]]:** Broader, can include any physical limitation (VN: khuyết tật thể chất rộng hơn)
+> 🧱 **The Barrier:** Specificity vs. Generality - issue points to specific challenges, disability is broader legal/social term.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why someone needs special workplace accommodations. Be professional and clear. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The employee requires an ergonomic workstation due to dexterity issues that affect typing and mouse use."
+> 👨‍🎨 **Director's Note:** This fits the professional workplace tone. Medical term shows seriousness while remaining solution-focused.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `dexter` to the meaning of **dexterity issue**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'dexter' meant 'right-hand' - associated with skill because right was dominant hand. Dexterity issues literally mean problems with right-handed skill, expanded to any fine motor control difficulties.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **dexterity or mobility issue**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `dexter` (right-handed, skillful) + `mobilis` (movable)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[dexterity]], [[dexterousness]], [[mobility]], [[immobility]]
+> - *(adjective)* [[dexterous]], [[mobile]], [[immobile]]
+> - *(adverb)* [[dexterously]], [[mobilely]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */dekˈsterəti ɔː məʊˈbɪləti ˈɪʃuː/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**dexterity or mobility issue**
+> 📖 **Meaning:** Medical condition affecting fine motor skills or body movement
+> 🇻🇳 **Vietnamese:** Vấn đề về vận động tinh hoặc vận động thô
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "My grandmother has dexterity issue with her hands."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "My grandmother has dexterity issues with her hands."
+> 🧠 **Why:** Typically plural because multiple aspects of dexterity (grip strength, finger coordination, fine control) are usually affected, not just one single issue.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **dexterity or mobility issue**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[full physical capability]] (complete bodily function)
+> - [[normal motor function]] (standard movement abilities)
+> 🧱 **Contrast:** Impairment vs. Capability - dexterity/mobility issues indicate specific functional limitations, while full capability means unrestricted movement.

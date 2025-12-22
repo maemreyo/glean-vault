@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
 #flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [illiterate, illiteracy, unable to read, unable to write, non-reader, functional illiteracy]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪˈlɪtərət/
+> **Part of Speech:** Adjective
+> **CEFR Level:** B2
+> **Register:** Formal/Educational
+> **Etymology:** Latin 'in-' (not) + 'litteratus' (lettered, educated)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Not able to read or write
+>
+> **Context Meaning:** Unable to read and write; having little or no education, especially in basic literacy skills
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Mù chữ
+> - **Contextual:** Không biết đọc, không biết viết
+>
 > **Nuances:**
-> - ...
+> - Can mean complete inability or significant difficulty with reading/writing
+> - Sometimes used metaphorically for ignorance in specific areas
+> - Often carries social stigma
+> - Can be temporary (learning) or permanent (due to circumstances)
+> - "Functional illiteracy" means limited literacy skills for daily life
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Educational, Disadvantaged, Challenging
+> **Memory Hook:** Illiterate = "ill" (not/sick) + "literate" (able to read) - sick with inability to read
+> **📖 Etymology Story:** Latin 'in-' (not) + 'littera' (letter). Originally meant "unlettered" - someone who hasn't learned their letters. The word grew from describing people who never learned the alphabet to encompassing all reading/writing difficulties.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[illiteracy]], [[literacy]]
+> - **Verb:** [[read]], [[write]]
+> - **Adj:** [[illiterate]], [[literate]], [[semi-literate]]
+> - **Adv:** [[illiterately]]
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[uneducated]] : Broader term
+> - [[non-reader]] : Specific to reading
+> - [[unschooled]] : Lack of formal education
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[literate]] : Able to read and write
+> - [[educated]] : Has received education
+> - [[well-read]] : Reads extensively
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. functionally illiterate
+> 2. illiterate population
+> 3. remain illiterate
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Adult education programs help people who are illiterate gain essential reading and writing skills.
+> - **Translation:** Các chương trình giáo dục người lớn giúp những người mù chữ có được các kỹ năng đọc và viết thiết yếu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Many elderly people remained illiterate due to limited educational opportunities in their youth.
+> - **Translation:** Nhiều người cao tuổi vẫn mù chữ do cơ hội giáo dục hạn chế khi còn trẻ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Usage**
+> - ❌ **Mistake:** He is illiteracy.
+> - ✅ **Correction:** He is illiterate. / He suffers from illiteracy.
+> - **Why:** "Illiterate" describes the person, "illiteracy" is the condition/situation.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The government launched campaigns to reduce illiteracy in rural areas."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +85,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **illiterate** (*/ɪˈlɪtərət/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Unable to read and write; having little or no education in basic literacy skills, either completely or functionally limited.
+> 🇻🇳 **Vietnamese:** Mù chữ / Không biết đọc viết
+> 🗣️ **IPA:** */ɪˈlɪtərət/*
+> 🧠 **Mental Model:** Giống như being "not lettered" - someone who never learned their ABCs. Can be complete inability hoặc just limited enough để affect daily life.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Unable to read and write"
+**Vietnamese:** Mù chữ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**illiterate** (*/ɪˈlɪtərət/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **illiterate** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The foundation provides free tutoring to help illiterate adults learn to read and write.
+> 🇻🇳 **Translation:** Quỹ基金会 cung cấp tutoring miễn phí để giúp người lớn mù chữ học đọc và viết.
+> 🔍 **Analysis:** Word này perfect vì nó precise educational term. Nó formal but clear, focusing on specific skill limitation mà không judgmental about intelligence.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **illiterate**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Degree:** functionally/partially/completely illiterate (extent of literacy)
+> 2. **Population:** illiterate population/adults/children (demographic context)
+> 3. **Action:** become/remain illiterate (state change)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **illiterate**:
+"Many people can't read or write in that country."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Educational initiatives target the 15% of adults who remain illiterate in rural communities."
+> 💡 **Why it works:** "Illiterate" hits harder vì nó specific educational term. Nó transforms vague statement into precise policy discussion with statistics.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **illiterate** instead of **[[uneducated]]**?
+>
+> **illiterate:** Specific to reading/writing skills, measurable ability (VN: không biết đọc viết)
+> **[[uneducated]]:** Broader, includes all lack of learning (VN: thiếu học, không có giáo dục)
+> 🧱 **The Barrier:** Specific vs. General - illiterate focuses on literacy skills, uneducated encompasses all learning deficits.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why a community needs educational support. Be compassionate but clear about the need. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Many adults in this area are functionally illiterate and need basic literacy programs to improve their daily lives."
+> 👨‍🎨 **Director's Note:** This fits the educational advocacy tone. "Illiterate" states the problem clearly without stigma, focusing on skills that can be learned.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `littera` to the meaning of **illiterate**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'littera' meant 'letter'. 'Litteratus' meant 'lettered' or educated. Adding 'in-' (not) created 'illitteratus' - someone not lettered, who never learned their letters, the alphabet.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **illiterate**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `littera` (letter)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[illiteracy]], [[literacy]], [[literature]]
+> - *(verb)* no direct verbs
+> - *(adjective)* [[illiterate]], [[literate]], [[literary]]
+> - *(adverb)* [[literally]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪˈlɪtərət/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**illiterate**
+> 🇻🇳 **Vietnamese:** Mù chữ, không biết đọc viết
+> 📖 **Meaning:** Unable to read and write
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The illiteracy rate affects many illiterates in the country."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The illiteracy rate affects many illiterate people in the country."
+> 🧠 **Why:** "Illiteracy" is the condition/statistic, "illiterate" describes the person. Use "illiterate people" not "illiterates" for natural phrasing.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
+↔️ **Flip:** What is the opposite of **illiterate**?
+>
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[literate]] (able to read and write)
+> - [[well-read]] (reads extensively and knowledgeably)
+> 🧱 **Contrast:** Inability vs. Ability - illiterate cannot read/write basic texts, while literate has these fundamental skills, and well-read has advanced reading abilities.

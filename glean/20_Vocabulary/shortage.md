@@ -1,280 +1,215 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
 #flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [shortage, shortages, food shortage, water shortage, housing shortage, labor shortage, staff shortage, supply shortage]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈʃɔːtɪdʒ/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** Middle English short ('lacking') + -age ('condition of') → English
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** a state of being short or lacking
+>
+> **Context Meaning:** a situation where there is not enough of something that is needed
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự thiếu hụt
+> - **Contextual:** sự khan hiếm, sự thiếu, sự thiếu thốn
+>
 > **Nuances:**
-> - ...
+> - Implies a mismatch between supply and demand
+> - Often used for essential resources (food, water, housing, staff)
+> - Can be temporary or chronic depending on circumstances
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Urgent, Critical, Concerning
+> **Memory Hook:** short (not enough) + age (condition) = condition of not having enough
+> **📖 Etymology Story:** From Middle English 'short' meaning 'lacking' + '-age' indicating condition. Like a cup that's too short to hold all the water needed, a shortage means we've fallen short of what we require.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[short]] /ʃɔːt/ - ngắn, thiếu
+> - **Adv:** [[shortly]] /ˈʃɔːtli/ - ngắn gọn, sớm
+> - **Verb:** [[shorten]] /ˈʃɔːtn/ - làm cho ngắn lại
+> - **Noun:** [[shortage]] /ˈʃɔːtɪdʒ/ - sự thiếu hụt
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[scarcity]] /ˈskeəsəti/ : sự khan hiếm (more formal, economic term)
+> - [[lack]] /læk/ : sự thiếu (more general)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[surplus]] /ˈsɜːpləs/ : sự dư thừa
+> - [[abundance]] /əˈbʌndəns/ : sự phong phú, dồi dào
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. severe shortage
+> 2. face a shortage
+> 3. shortage of
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The city is facing a severe shortage of affordable housing.
+> - **Translation:** Thành phố đang đối mặt với sự thiếu hụt nghiêm trọng nhà giá cả phải chăng.
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** There's a shortage of qualified teachers in rural areas.
+> - **Translation:** Có sự thiếu hụt giáo viên có đủ tiêu chuẩn ở khu vực nông thôn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable/Uncountable**
+> - ❌ **Mistake:** "There is shortage of water"
+> - ✅ **Correction:** "There is a shortage of water" or "There are shortages"
+> - **Why:** 'Shortage' is countable when referring to specific instances, but uncountable in general statements about lack.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The shortage of skilled workers in the technology sector has led to higher salaries."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-03/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **shortage** (*/ˈʃɔːtɪdʒ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A situation where there is not enough of something that is needed
+> 🇻🇳 **Vietnamese:** Sự thiếu hụt, sự khan hiếm, tình trạng không đủ
+> 🗣️ **IPA:** */ˈʃɔːtɪdʒ/*
+> 🧠 **Mental Model:** Short (thiếu) + age (trạng thái) = tình trạng thiếu hụt
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A situation where there is not enough of something that is needed"
+**Vietnamese:** Sự thiếu hụt, sự khan hiếm, tình trạng không đủ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**shortage** (*/ˈʃɔːtɪdʒ/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **shortage** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The hospital declared a shortage of blood donors and urgently called for volunteers.
+> 🇻🇳 **Translation:** Bệnh viện tuyên bố tình trạng thiếu hụt người hiến máu và kêu gọi khẩn cấp các tình nguyện viên.
+> 🔍 **Analysis:** "Shortage" emphasizes a critical gap between need and availability, creating urgency for action.
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **shortage**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** severe/critical/acute shortage (thiếu hụt nghiêm trọng - degree of lack)
+> 2. **Action:** face/tackle/address a shortage (đối mặt/giải quyết tình trạng thiếu - responding to it)
+> 3. **Resource:** shortage of water/food/housing (thiếu nước/thức ăn/nhà ở - specifying what's lacking)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **shortage**:
+"There isn't enough water in the city."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The metropolitan region is experiencing an unprecedented water shortage due to prolonged drought and population growth."
+> 💡 **Why it works:** "Shortage" frames the issue as a serious supply-demand problem requiring systematic solutions.
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **shortage** instead of **lack**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **shortage:** Specific supply-demand imbalance (quantifiable need vs availability)
+> **lack:** General absence or insufficiency (more abstract)
+> 🧱 **The Barrier:** Shortage = measurable gap; Lack = general insufficiency
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your company can't complete a project because you don't have enough skilled workers. Explain the situation to management.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We're experiencing a critical shortage of qualified engineers, which may delay our project timeline unless we implement immediate recruitment measures."
+> 👨‍🎨 **Director's Note:** Shows professional problem identification with specific resource constraints affecting business outcomes.
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root to the meaning of **shortage**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Middle English 'short' (lacking/insufficient) + '-age' (condition/state). Like trying to reach something but falling 'short' - a shortage is the condition of falling short of what we need. Your supply falls short of demand.
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-03/05-addition
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **shortage**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Middle English `short` ('lacking, insufficient')
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[short]] /ʃɔːt/ - ngắn, thiếu
+> - *(verb)* [[shorten]] /ˈʃɔːtn/ - làm cho ngắn lại
+> - *(adv)* [[shortly]] /ˈʃɔːtli/ - ngắn gọn, sớm
+> - *(noun)* [[shortfall]] /ˈʃɔːtfɔːl/ - sự thiếu hụt (similar meaning)
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-03/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈʃɔːtɪdʒ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**shortage**
+> 📖 **Meaning:** A situation where there is not enough of something that is needed
+> 🇻🇳 **Vietnamese:** Sự thiếu hụt, sự khan hiếm, tình trạng không đủ
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The country is suffering from shortage in medical supplies."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The country is suffering from a shortage of medical supplies."
+> 🧠 **Why:** Preposition rule: 'shortage' takes 'of' not 'in' when specifying what is lacking, and usually needs 'a' when referring to a specific shortage.
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **shortage**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[surplus]] - sự dư thừa (not enough vs too much)
+> - [[abundance]] - sự dồi dào (scarcity vs plenty)
+> - [[oversupply]] - sự cung cấp quá mức (insufficient vs excess)
+> 🧱 **Contrast:** Shortage creates problems from insufficiency; surplus creates problems from excess.
 
 ---

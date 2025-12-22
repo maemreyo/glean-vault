@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [hampered, hamper, hinder, impede, obstruct, restrain]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈhæmpəd/
+> **Part of Speech:** Adjective/Verb
+> **CEFR Level:** B2
+> **Register:** Formal/Literary
+> **Etymology:** From Old French 'hamper' (to fetter, encumber)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Restricted or held back from free movement or action
+>
+> **Context Meaning:** (adj) Hindered, obstructed, or made difficult to proceed; (v) to prevent or impede progress or free movement
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Bị cản trở, bị trở ngại
+> - **Contextual:** Gây khó khăn, làm trì hoãn
+>
 > **Nuances:**
-> - ...
+> - Suggests external constraints rather than internal limitations
+> - Can be physical (hampered by tight clothes) or abstract (hampered by lack of resources)
+> - Implies preventing full potential or optimal performance
+> - More formal than "held back" or "stopped"
+> - Often used in passive voice
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Restrictive, Frustrating, Limiting
+> **Memory Hook:** Imagine trying to walk while your pants are hampered - they're holding you back
+> **📖 Etymology Story:** Old French 'hamper' meant to fetter or shackle animals. The image of ropes restraining movement evolved to mean any restriction preventing free action or progress.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[hamper]], [[hindrance]], [[impediment]]
+> - **Verb:** [[hamper]], [[hinder]], [[impede]]
+> - **Adj:** [[hampered]], [[hindered]], [[restricted]]
+> - **Adv:** [[hamperedly]]
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[hinder]] : More common in everyday speech
+> - [[impede]] : More formal, stronger obstruction
+> - [[obstruct]] : More physical blocking
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[facilitate]] : To make easier
+> - [[enable]] : To make possible
+> - [[assist]] : To help forward
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. hampered by
+> 2. hampered progress
+> 3. severely hampered
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The rescue operation was hampered by severe weather conditions.
+> - **Translation:** Hoạt động cứu hộ bị cản trở bởi điều kiện thời tiết khắc nghiệt.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** His research was hampered by limited access to necessary equipment.
+> - **Translation:** Nghiên cứu của ông bị trở ngại do việc tiếp cận thiết bị cần thiết bị hạn chế.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition**
+> - ❌ **Mistake:** The project hampered from lack of funding.
+> - ✅ **Correction:** The project was hampered by lack of funding.
+> - **Why:** Use "by" to indicate what is causing the restriction, not "from."
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Communication was hampered by the language barrier between the teams."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +85,119 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **hampered** (*/ˈhæmpəd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Restricted, hindered, or obstructed from free movement or progress; prevented from acting or proceeding with full freedom.
+> 🇻🇳 **Vietnamese:** Bị cản trở / Bị trở ngại
+> 🗣️ **IPA:** */ˈhæmpəd/*
+> 🧠 **Mental Model:** Giống như walking through mud hoặc wearing tight shoes - something holding you back from moving freely hoặc achieving full potential.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Hindered or obstructed from making progress"
+**Vietnamese:** Bị cản trở
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**hampered** (*/ˈhæmpəd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **hampered** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The investigation was hampered by inconsistent witness testimonies.
+> 🇻🇳 **Translation:** Cuộc điều tra bị cản trở bởi những lời khai không nhất quán của nhân chứng.
+> 🔍 **Analysis:** Word này perfect vì nó formal và precise. Nó captures sense của external obstacles preventing optimal progress mà không sounds too dramatic như "blocked" hoặc "stopped."
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **hampered**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Cause:** hampered by/through/due to (what restricts)
+> 2. **Impact:** hampered progress/development/efforts (what's affected)
+> 3. **Degree:** severely/slightly/significantly hampered (extent of restriction)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **hampered**:
+"The bad weather stopped the rescue work."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Rescue efforts were hampered by torrential rain and poor visibility."
+> 💡 **Why it works:** "Hampered" hits harder vì nó suggests ongoing difficulty rather than complete stoppage. Nó implies struggle against obstacles with some progress still possible.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **hampered** instead of **[[stopped]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **hampered:** Slowed down but still possible, creates ongoing difficulty (VN: bị cản trở, vẫn có thể tiếp tục)
+> **[[stopped]]:** Completely halted, no progress possible (VN: bị dừng hẳn, không thể tiếp tục)
+> 🧱 **The Barrier:** Difficulty vs. Impossibility - hampered makes things harder, stopped makes them impossible.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your project is facing multiple challenges. Explain the situation professionally. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our timeline has been hampered by supply chain disruptions, but we're finding alternative solutions."
+> 👨‍🎨 **Director's Note:** This fits professional project management tone. "Hampered" acknowledges serious problems while showing determination to overcome them.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `hamper` to the meaning of **hampered**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old French 'hamper' meant to fetter animals with ropes. Like a hampered animal can't move freely, modern 'hampered' describes anything restricted by external constraints from reaching full potential.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **hampered**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old French `hamper` (to fetter, encumber)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[hamper]], [[hamperer]]
+> - *(verb)* [[hamper]], [[unhamper]]
+> - *(adjective)* [[hampered]], [[unhampered]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈhæmpəd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**hampered**
+> 🇻🇳 **Vietnamese:** Bị cản trở, bị trở ngại
+> 📖 **Meaning:** Hindered or restricted from free action
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The team hampered from completing the task on time."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The team was hampered from completing the task on time." OR "The team was hampered in completing the task on time."
+> 🧠 **Why:** Usually passive "was hampered" + preposition "by" (what causes it) or "in" (what activity is affected).
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **hampered**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[facilitated]] (made easier, enabled)
+> - [[unhindered]] (without obstruction)
+> 🧱 **Contrast:** Restriction vs. Enablement - hampered creates obstacles to progress, while facilitated removes barriers and promotes forward movement.

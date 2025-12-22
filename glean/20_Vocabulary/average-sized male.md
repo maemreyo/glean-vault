@@ -1,159 +1,83 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [average-sized male, average male, typical male, standard male, normal-sized male]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈævərɪdʒ saɪzd meɪl/
+> **Part of Speech:** Noun Phrase
+> **CEFR Level:** B1
+> **Register:** Neutral/Slightly Clinical
+> **Etymology:** Latin 'averia' (damaged goods, financial loss) + Old English 'male' (male person)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A man of typical or normal physical dimensions
+>
+> **Context Meaning:** An adult male whose height, weight, and build fall within the standard range for the population
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Nam giới có kích thước trung bình
+> - **Contextual:** Đàn ông có vóc dáng trung bình, nam giới tầm thường
+>
 > **Nuances:**
-> - ...
+> - Used in medical, ergonomic, and anthropometric contexts
+> - Implies neither exceptionally large nor small
+> - Often serves as reference standard for design (clothing, equipment)
+> - Can vary significantly between populations and regions
+> - Statistical concept based on population averages
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Normative, Statistical, Reference-point
+> **Memory Hook:** Average = middle point, sized = dimensions, male = man - the guy who represents the middle of the bell curve for male measurements
+> **📖 Etymology Story:** Average originally meant 'damage sustained at sea' - shared among ship owners. Evolved to mean 'division into equal parts' -> middle/typical value. Combined with modern understanding of body sizing.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[average]], [[size]], [[male]], [[man]]
+> - **Verb:** [[average]], [[measure]]
+> - **Adj:** [[average]], [[sized]], [[typical]], [[standard]]
+> - **Adv:** [[averagely]]
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[typical male]] : More colloquial
+> - [[standard male]] : More for design/manufacturing
+> - [[ordinary male]] : More everyday language
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[exceptional male]] : Unusually large or small
+> - [[atypical male]] : Non-standard dimensions
+> - [[extreme-sized male]] : At either end of size spectrum
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. designed for average-sized males
+> 2. compared to average-sized males
+> 3. average-sized male population
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The car seat was designed to comfortably accommodate an average-sized male driver.
+> - **Translation:** Ghế xe hơi được thiết kế để phù hợp thoải mái với một tài xế nam giới có kích thước trung bình.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The safety equipment was tested using dummies modeled after average-sized males.
+> - **Translation:** Thiết bị an toàn đã được kiểm tra bằng các mannequin mô phỏng nam giới có kích thước trung bình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Hyphenation**
+> - ❌ **Mistake:** average sized male
+> - ✅ **Correction:** average-sized male
+> - **Why:** When "average" and "sized" work together as a compound adjective before "male," they need a hyphen.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The ergonomic study focused on the requirements of average-sized males in the workplace."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +85,119 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **average-sized male** (*/ˈævərɪdʒ saɪzd meɪl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An adult man whose physical dimensions (height, weight, build) fall within the typical or standard range for the male population.
+> 🇻🇳 **Vietnamese:** Nam giới có kích thước trung bình / Đàn ông vóc dáng thường
+> 🗣️ **IPA:** */ˈævərɪdʒ saɪzd meɪl/*
+> 🧠 **Mental Model:** Giống như middle point của bell curve - not exceptionally tall/short or heavy/thin, but typical statistical average used as reference.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An adult man whose physical dimensions fall within the typical range for the population"
+**Vietnamese:** Nam giới có kích thước trung bình
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**average-sized male** (*/ˈævərɪdʒ saɪzd meɪl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **average-sized male** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The office chairs were selected based on ergonomics suitable for average-sized males.
+> 🇻🇳 **Translation:** Những chiếc ghế văn phòng được lựa chọn dựa trên yếu tố công thái học phù hợp với nam giới có kích thước trung bình.
+> 🔍 **Analysis:** Word này perfect vì nó scientifically precise trong design context. Nó refers đến statistical standard mà không judgmental about body types.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **average-sized male**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Design:** designed for/built to suit average-sized males (product development)
+> 2. **Comparison:** compared to/relative to average-sized males (research context)
+> 3. **Population:** percentage of/proportion of average-sized males (demographics)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **average-sized male**:
+"The desk was made for a regular man."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The workstation dimensions were calculated to accommodate an average-sized male between 5'9" and 5'11"."
+> 💡 **Why it works:** "Average-sized male" hits harder vì nó technical và precise. Nó transforms vague "regular man" into specific anthropometric reference point.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **average-sized male** instead of **[[normal man]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **average-sized male:** Statistical, objective, based on population measurements (VN: số liệu đo lường)
+> **[[normal man]]:** Subjective, can imply value judgment (VN: người bình thường)
+> 🧱 **The Barrier:** Statistical vs. Moral - average-sized refers to measurements, normal can imply good/bad judgments.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why a piece of equipment doesn't fit someone. Be objective and technical. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This harness was designed for average-sized males, so we'll need to find a different size for you."
+> 👨‍🎨 **Director's Note:** This fits the professional, non-judgmental tone. Technical term focuses on design limitations, not personal characteristics.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `average` to the meaning of **average-sized male**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'averia' meant goods damaged at sea. Owners would calculate the 'average' - equal shares of loss. This mathematical middle concept evolved to mean statistical middle value in any measurement, including body dimensions.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **average-sized male**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `averia` (damage/financial loss) + Old English `male` (male person)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[average]], [[averages]], [[maleness]]
+> - *(verb)* [[average]]
+> - *(adjective)* [[average]], [[averaged]], [[male]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈævərɪdʒ saɪzd meɪl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**average-sized male**
+> 🇻🇳 **Vietnamese:** Nam giới có kích thước trung bình
+> 📖 **Meaning:** Man whose physical dimensions are typical for population
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The clothes were made for the average sized male."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The clothes were made for the average-sized male."
+> 🧠 **Why:** When "average" and "sized" work together as a compound adjective before a noun, they need to be hyphenated.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **average-sized male**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[exceptional male]] (unusually large or small)
+> - [[atypical build]] (non-standard body proportions)
+> 🧱 **Contrast:** Standard vs. Outlier - average-sized male represents the statistical middle, while exceptional males fall outside the typical range.

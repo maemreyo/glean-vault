@@ -1,280 +1,215 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
 #flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [voice access, voice command, voice control, speech recognition, voice recognition, voice-activated, voice-activated system, voice interface]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /vɔɪs ˈækses/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** technical, formal
+> **Etymology:** Old French vois ('voice') + Latin accessus ('approach, entrance') → English
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** the ability to enter or use something through voice
+>
+> **Context Meaning:** technology that allows users to control devices or software using spoken commands
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** truy cập bằng giọng nói
+> - **Contextual:** điều khiển bằng giọng nói, nhận dạng giọng nói
+>
 > **Nuances:**
-> - ...
+> - Enables hands-free operation of devices
+> - Essential accessibility feature for users with mobility impairments
+> - Increasingly common in smart devices and applications
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Innovative, Accessible, Efficient
+> **Memory Hook:** voice (speaking) + access (entry) = enter system with your voice
+> **📖 Etymology Story:** From Latin 'accessus' meaning 'approach' + Old French 'vois' meaning 'voice'. Like having a key that responds to your voice, voice access technology transforms speech into commands, allowing your voice to unlock and control technology.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[voice]] /vɔɪs/ - giọng nói
+> - **Noun:** [[access]] /ˈækses/ - sự truy cập, lối vào
+> - **Noun:** [[accessibility]] /əkˌsesəˈbɪləti/ - tính khả dụng, khả năng tiếp cận
+> - **Verb:** [[access]] /ˈækses/ - truy cập
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[voice control]] /vɔɪs kənˈtrəʊl/ : điều khiển bằng giọng nói (focuses on control)
+> - [[speech recognition]] /spiːtʃ ˌrekəɡˈnɪʃn/ : nhận dạng giọng nói (focuses on recognition)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[manual control]] /ˈmænjuəl kənˈtrəʊl/ : điều khiển bằng tay
+> - [[touchscreen]] /ˈtʌtʃskriːn/ : màn hình cảm ứng
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. voice access technology
+> 2. enable voice access
+> 3. voice access features
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The new smartphone includes voice access features for users with dexterity difficulties.
+> - **Translation:** Điện thoại thông minh mới có các tính năng truy cập bằng giọng nói cho người dùng gặp khó khăn về khéo léo.
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Voice access allows hands-free operation of navigation systems while driving.
+> - **Translation:** Truy cập bằng giọng nói cho phép vận hành không cần tay của hệ thống định vị khi lái xe.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Order**
+> - ❌ **Mistake:** "access voice" when referring to the technology
+> - ✅ **Correction:** "voice access"
+> - **Why:** This is a fixed compound noun where 'voice' modifies 'access' to indicate the method of access.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Voice access is particularly useful for people with dexterity or mobility issues."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-03/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **voice access** (*/vɔɪs ˈækses/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Technology that allows users to control devices or software using spoken commands
+> 🇻🇳 **Vietnamese:** Truy cập bằng giọng nói, điều khiển bằng giọng nói
+> 🗣️ **IPA:** */vɔɪs ˈækses/*
+> 🧠 **Mental Model:** Voice (giọng nói) + Access (truy cập) = dùng giọng nói để điều khiển thiết bị
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Technology that allows users to control devices or software using spoken commands"
+**Vietnamese:** Truy cập bằng giọng nói, điều khiển bằng giọng nói
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**voice access** (*/vɔɪs ˈækses/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **voice access** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The smart home system uses voice access to let users control lights, temperature, and security without touching any switches.
+> 🇻🇳 **Translation:** Hệ thống nhà thông minh sử dụng truy cập bằng giọng nói để người dùng điều khiển đèn, nhiệt độ và bảo mật mà không cần chạm bất kỳ công tắc nào.
+> 🔍 **Analysis:** "Voice access" describes an accessibility feature that enables control through speech commands, emphasizing its role in hands-free operation.
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **voice access**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Technology:** voice access technology (công nghệ truy cập giọng nói - the system itself)
+> 2. **Action:** enable voice access (bật truy cập giọng nói - activating feature)
+> 3. **Feature:** voice access features (tính năng truy cập giọng nói - capabilities)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **voice access**:
+"You can control the device with your voice."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The device implements advanced voice access technology, allowing users to navigate menus and input data through natural speech commands."
+> 💡 **Why it works:** "Voice access technology" sounds more technical and professional, highlighting the sophisticated nature of speech-based control systems.
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **voice access** instead of **voice control**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **voice access:** Emphasizes entry/initialization through voice (accessibility focus)
+> **voice control:** Emphasizes ongoing operation through voice (operation focus)
+> 🧱 **The Barrier:** Access = getting into/starting with voice; Control = managing/operating with voice
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're designing an app for elderly users. How would you ensure they can use it easily?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We should implement voice access functionality to make the app more accessible for elderly users who may have difficulty with small touchscreen buttons."
+> 👨‍🎨 **Director's Note:** Shows understanding of accessibility needs and how voice access can help users with physical limitations.
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots to the meaning of **voice access**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'accessus' (approach/entrance) + Old French 'vois' (voice). Just as a key gives you 'access' to a locked door, your 'voice' becomes the key that unlocks technology. Voice access transforms your speech from mere sound into a powerful tool for entering and controlling digital spaces.
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-03/05-addition
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **voice access**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `accessus` ('approach, entrance') + Old French `vois` ('voice')
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[voice]] /vɔɪs/ - giọng nói
+> - *(noun)* [[access]] /ˈækses/ - sự truy cập
+> - *(noun)* [[accessibility]] /əkˌsesəˈbɪləti/ - tính khả dụng
+> - *(noun)* [[accessory]] /əkˈsesəri/ - phụ kiện (things that provide access)
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-03/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */vɔɪs ˈækses/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**voice access**
+> 📖 **Meaning:** Technology that allows users to control devices or software using spoken commands
+> 🇻🇳 **Vietnamese:** Truy cập bằng giọng nói, điều khiển bằng giọng nói
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The software provides access voice for hands-free operation."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The software provides voice access for hands-free operation."
+> 🧠 **Why:** 'Voice access' is a fixed compound noun where 'voice' acts as an adjective modifying 'access'. The order cannot be reversed.
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **voice access**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[manual input]] - nhập liệu thủ công (voice vs hands)
+> - [[touch interface]] - giao diện cảm ứng (speech vs touch)
+> - [[keyboard control]] - điều khiển bằng bàn phím (verbal vs typed)
+> 🧱 **Contrast:** Voice access enables control without physical contact; manual methods require physical interaction with devices.
 
 ---

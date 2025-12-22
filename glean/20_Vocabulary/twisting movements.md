@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [twist, twisting, rotational movement, spiral movement, torsion, writhing]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈtwɪstɪŋ ˈmuːvmənts/
+> **Part of Speech:** Noun Phrase
+> **CEFR Level:** B1
+> **Register:** Neutral/Medical
+> **Etymology:** Old English 'twist' (to join by intertwining) + Old French 'movement' (movement, from movere "to move")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Actions involving turning or rotating parts of the body
+>
+> **Context Meaning:** Body motions that involve rotation around a central axis, often used in exercise, dance, or medical descriptions
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Các chuyển động xoắn
+> - **Contextual:** Các động tác vặn người, xoay người
+>
 > **Nuances:**
-> - ...
+> - Can describe deliberate exercise movements or involuntary motions
+> - Often associated with flexibility exercises or pain symptoms
+> - May imply circular or spiral motion patterns
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Flexible, Dynamic, Medically-informative
+> **Memory Hook:** Imagine twisting a wet towel - that spiral, wringing motion is exactly what "twisting movements" feel like
+> **📖 Etymology Story:** Twist comes from Old English 'twistan' meaning to divide into two parts by winding. Movement from Latin 'movere' - to move. Together: motions that wind the body into new positions.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[twist]], [[movement]], [[rotation]]
+> - **Verb:** [[twist]], [[rotate]], [[spiral]]
+> - **Adj:** [[twisted]], [[rotational]], [[flexible]]
+> - **Adv:** [[twistedly]], [[rotationally]]
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[rotational movements]] : More technical, medical term
+> - [[spiral movements]] : Emphasizes circular patterns
+> - [[torsion]] : More scientific/mechanical
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[linear movements]] : Straight-line motions
+> - [[static position]] : No movement
+> - [[rigid posture]] : Stiff, unbending position
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. perform twisting movements
+> 2. avoid twisting movements
+> 3. twisting movements of the spine
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The yoga instructor demonstrated gentle twisting movements to improve spinal flexibility.
+> - **Translation:** Huấn luyện viên yoga đã biểu diễn các chuyển động xoắn nhẹ nhàng để cải thiện sự linh hoạt của cột sống.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The doctor advised the patient to avoid sudden twisting movements after back surgery.
+> - **Translation:** Bác sĩ đã khuyên bệnh nhân nên tránh các chuyển động xoắn đột ngột sau phẫu thuật lưng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural Usage**
+> - ❌ **Mistake:** The exercise involves twisting movement.
+> - ✅ **Correction:** The exercise involves twisting movements.
+> - **Why:** Usually plural as multiple different twisting actions are performed, not just one.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Patients with back problems should avoid sudden twisting movements."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +83,119 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **twisting movements** (*/ˈtwɪstɪŋ ˈmuːvmənts/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Body motions involving rotation or turning around a central axis, often used in exercises, dance, or medical contexts.
+> 🇻🇳 **Vietnamese:** Các chuyển động xoắn / Các động tác vặn người
+> 🗣️ **IPA:** */ˈtwɪstɪŋ ˈmuːvmənts/*
+> 🧠 **Mental Model:** Giống như vắt khăn - body rotates quanh central axis (spine), tạo spiral motion. Thường dùng trong exercise hoặc pain description.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Body motions that involve rotating or turning parts of the body, especially the spine"
+**Vietnamese:** Các chuyển động xoắn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**twisting movements** (*/ˈtwɪstɪŋ ˈmuːvmənts/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **twisting movements** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The physiotherapist recommended gentle twisting movements to relieve lower back pain.
+> 🇻🇳 **Translation:** Chuyên gia vật lý trị liệu đã khuyên các chuyển động xoắn nhẹ nhàng để giảm đau lưng dưới.
+> 🔍 **Analysis:** Word này perfect vì nó medically precise nhưng vẫn easily understood. Nó captures essence của rotational motions mà không quá technical như "torsion".
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **twisting movements**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** perform/do twisting movements (trong exercise context)
+> 2. **Avoidance:** avoid/sudden twisting movements (medical context)
+> 3. **Location:** twisting movements of the spine/body (anatomical context)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **twisting movements**:
+"The exercise involved turning your body from side to side."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The exercise involved controlled twisting movements to engage the core muscles."
+> 💡 **Why it works:** "Twisting movements" hits harder vì nó provides technical precision và sounds more professional trong exercise/medical context. Nó implies deliberate, controlled motion.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **twisting movements** instead of **[[turning motions]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **twisting movements:** More technical, implies rotation around an axis, often medical/exercise context (VN: chuyển động xoắn chuyên nghiệp)
+> **[[turning motions]]:** More general, simpler term for any directional change (VN: các động tác quay đơn giản)
+> 🧱 **The Barrier:** Technical precision vs. general description - twisting implies spiral/rotational pattern, turning is broader.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing back exercises to a friend. Explain what they should avoid. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Be careful to avoid any sudden twisting movements that could strain your back."
+> 👨‍🎨 **Director's Note:** This fits the vibe vì nó sounds concerned và medically informed. Common phrase trong exercise instruction.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `twist` to the meaning of **twisting movements**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English 'twistan' meant to divide by winding - like twisting rope. Movement from Latin 'movere'. Combine: motions that wind/unwind the body like twisting fabric into new shapes.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **twisting movements**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `twist` (to intertwine, wind)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[twist]], [[twister]], [[movement]]
+> - *(verb)* [[twist]], [[untwist]], [[twist around]]
+> - *(adjective)* [[twisted]], [[twisty]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈtwɪstɪŋ ˈmuːvmənts/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**twisting movements**
+> 📖 **Meaning:** Body motions involving rotation or turning
+> 🇻🇳 **Vietnamese:** Các chuyển động xoắn, động tác vặn người
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The doctor said I should not do twisting movement for my back."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The doctor said I should not do twisting movements for my back."
+> 🧠 **Why:** Usually plural because multiple different twisting actions are involved, not just one single movement.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **twisting movements**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[linear movements]] (straight-line motions)
+> - [[static poses]] (holding still positions)
+> 🧱 **Contrast:** Rotation vs. Straight line - twisting involves spinning around an axis, linear is forward/backward or side-to-side without rotation.

@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 #flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [oyster shell, shells, seashells, mollusk shells, bivalve shells]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈɔɪstə ʃelz/
+> **Part of Speech:** Noun Phrase
+> **CEFR Level:** B1
+> **Register:** Neutral/Scientific
+> **Etymology:** Old French 'oistre' (oyster) + Old English 'scell' (shell)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The hard protective outer coverings of oysters
+>
+> **Context Meaning:** The calcareous exterior shells that protect oysters, often found washed up on beaches or used in various applications
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** Vỏ sò
+> - **Contextual:** Vỏ hào, vỏ sò điệp
+>
 > **Nuances:**
-> - ...
+> - Often irregular in shape with rough, ridged texture
+> - Can vary in color from white to gray, brown, or bluish
+> - May contain pearls in rare cases
+> - Used in various ways: decoration, lime production, habitat creation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Protective, Marine, Textural
+> **Memory Hook:** Think of "oyster" = treasure box from the sea, "shells" = the armor protecting the treasure inside
+> **📖 Etymology Story:** Oyster from Greek 'ostreon' related to 'bone' - referring to the hard shell-like structure. Shell from Old English 'scell' meaning shell, husk, or pod. Together: the bony protective covering of marine creatures.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[oyster]], [[shell]], [[pearl]], [[calcium]]
+> - **Verb:** [[shell]], [[collect]], [[crush]]
+> - **Adj:** [[oyster]], [[shelled]], [[calcified]]
+> - **Adv:** [[oyster-white]]
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[seashells]] : More general, includes shells from various sea creatures
+> - [[bivalve shells]] : More scientific, refers to two-part shells
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[soft-bodied]] : Creatures without hard shells
+> - [[naked mollusks]] : Shell-less relatives
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. collect oyster shells
+> 2. oyster shells on the beach
+> 3. crushed oyster shells
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Children collected oyster shells along the shoreline during low tide.
+> - **Translation:** Trẻ em đã thu nhặt vỏ sò dọc theo bờ biển lúc thủy triều xuống.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Crushed oyster shells are sometimes used to improve soil drainage in gardens.
+> - **Translation:** Vỏ sò nghiền đôi khi được sử dụng để cải thiện thoát nước đất trong vườn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countability**
+> - ❌ **Mistake:** I found many oysters shell.
+> - ✅ **Correction:** I found many oyster shells.
+> - **Why:** "Oyster" here acts as an adjective describing the type of shells, so "shell" must be plural.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The beach was covered with oyster shells washed ashore by the storm."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +82,119 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **oyster shells** (*/ˈɔɪstə ʃelz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The hard protective outer coverings of oysters, typically irregular, rough-textured, and found in coastal areas.
+> 🇻🇳 **Vietnamese:** Vỏ sò / Vỏ hào
+> 🗣️ **IPA:** */ˈɔɪstə ʃelz/*
+> 🧠 **Mental Model:** Giống như armor của marine creature - hard, calcareous, irregular shape, thường washed up on beaches. Có thể contain pearls bên trong.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The hard protective outer coverings of oysters, often found on beaches"
+**Vietnamese:** Vỏ sò
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**oyster shells** (*/ˈɔɪstə ʃelz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **oyster shells** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The artist used polished oyster shells to create a beautiful mosaic for the garden path.
+> 🇻🇳 **Translation:** Nghệ sĩ đã dùng vỏ sò đánh bóng để tạo nên một bức tranh khảm tuyệt đẹp cho lối đi trong vườn.
+> 🔍 **Analysis:** Word này perfect vì nó paints a vivid picture của something both natural và beautiful. Nó evokes coastal imagery và texture.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **oyster shells**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** collect/gather/find oyster shells (beach activities)
+> 2. **Location:** oyster shells on the beach/shoreline (natural occurrence)
+> 3. **Processed:** crushed/ground oyster shells (industrial/agricultural use)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **oyster shells**:
+"The ground was covered with hard white things from the sea."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The path was lined with crushed oyster shells, gleaming white in the sunlight."
+> 💡 **Why it works:** "Oyster shells" hits harder vì nó provides specific imagery và texture. Nó connects reader với coastal environment và adds sensory detail.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **oyster shells** instead of **[[seashells]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **oyster shells:** Specific to oysters, typically rough, irregular, often used industrially (VN: vỏ sò/hào đặc trưng)
+> **[[seashells]]:** General term for any marine creature shells (VN: vỏ sinh vật biển nói chung)
+> 🧱 **The Barrier:** Specific vs. General - oyster shells are one type of seashell with distinct characteristics.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're walking on the beach after a storm. You see many of these. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Wow, the storm must have been strong - look at all these oyster shells washed up on the shore!"
+> 👨‍🎨 **Director's Note:** This fits the beachcombing vibe perfectly. Conveys surprise và appreciation của natural phenomena.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `oyster` to the meaning of **oyster shells**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Greek 'ostreon' (bone) gave us 'oyster' - these creatures have bone-like shells. Shell from Old English 'scell' (pod/husk). Together: bone-like protective coverings from the sea.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **oyster shells**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `ostreon` (bone, shell)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[oyster]], [[shell]], [[osteo-]] (bone prefix)
+> - *(verb)* [[shell]], [[shuck]]
+> - *(adjective)* [[oyster-white]], [[shell-like]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈɔɪstə ʃelz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**oyster shells**
+> 📖 **Meaning:** Hard protective coverings of oysters
+> 🇻🇳 **Vietnamese:** Vỏ sò, vỏ hào
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The beach had beautiful oysters shell everywhere."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The beach had beautiful oyster shells everywhere."
+> 🧠 **Why:** When "oyster" acts as an adjective describing the type of shells, the noun "shell" must be plural. Only "oyster" (the animal) would be singular.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **oyster shells**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[soft-bodied creatures]] (mollusks without shells)
+> - [[naked mollusks]] (shell-less sea creatures)
+> 🧱 **Contrast:** Protection vs. Vulnerability - oyster shells provide hard armor, while soft-bodied creatures lack this protection.

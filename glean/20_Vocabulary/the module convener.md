@@ -1,280 +1,215 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
 #flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [module convener, course convener, academic coordinator, course organizer, program coordinator, module leader, course director]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈmɒdjuːl kənˈviːnə/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** academic
+> **Etymology:** Latin modulus ('small measure') + Old French convenir ('come together') → English
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** one who calls together or gathers people for a specific academic unit
+>
+> **Context Meaning:** a university staff member responsible for organizing and managing a specific module or course
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** người tổ chức môn học
+> - **Contextual:** người phụ trách môn học, coordinator môn học
+>
 > **Nuances:**
-> - ...
+> - Primarily used in British and Commonwealth universities
+> - Combines administrative and academic responsibilities
+> - Acts as the main point of contact for students in that module
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized, Authoritative, Supportive
+> **Memory Hook:** module (course unit) + convene (gather people) = one who gathers students for a course
+> **📖 Etymology Story:** From Latin 'convenire' meaning 'to come together'. Like bringing all the pieces of a puzzle together, a module convener brings together students, content, and resources to create a complete learning experience.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[convenor]] /kənˈviːnə/ - người triệu tập
+> - **Noun:** [[convention]] /kənˈvenʃn/ - hội nghị, quy ước
+> - **Verb:** [[convene]] /kənˈviːn/ - triệu tập, họp mặt
+> - **Noun:** [[module]] /ˈmɒdjuːl/ - môn học, đơn vị học tập
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[course coordinator]] /kɔːs kəʊˈɔːdɪneɪtə/ : người điều phối khóa học (more general)
+> - [[program director]] /ˈprəʊɡræm daɪˈrektə/ : giám đốc chương trình (higher level)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[student]] /ˈstjuːdnt/ : sinh viên
+> - [[participant]] /pɑːˈtɪsɪpənt/ : người tham gia
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. module convener's office
+> 2. contact the module convener
+> 3. module convener's responsibility
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** You should email the module convener if you have any questions about the assignment requirements.
+> - **Translation:** Bạn nên email cho người phụ trách môn học nếu có câu hỏi về yêu cầu bài tập.
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The module convener will deliver the introductory lecture next Monday.
+> - **Translation:** Người phụ trách môn học sẽ giảng bài giảng giới thiệu vào thứ Hai tới.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Choice**
+> - ❌ **Mistake:** "module teacher" when referring to the coordinator
+> - ✅ **Correction:** "module convener" or "module leader"
+> - **Why:** The convener may not be the primary teacher; they organize and manage the entire module, which could involve multiple lecturers.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "If you have any questions about the module, you can contact the module convener."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-03/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **module convener** (*/ˈmɒdjuːl kənˈviːnə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A university staff member responsible for organizing and managing a specific course or module
+> 🇻🇳 **Vietnamese:** Người phụ trách môn học, người tổ chức môn học
+> 🗣️ **IPA:** */ˈmɒdjuːl kənˈviːnə/*
+> 🧠 **Mental Model:** Module (course unit) + Convene (gather) = người tập hợp (gathers) resources cho môn học
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A university staff member responsible for organizing and managing a specific course or module"
+**Vietnamese:** Người phụ trách môn học
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**module convener** (*/ˈmɒdjuːl kənˈviːnə/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **module convener** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The module convener announced that the deadline would be extended by one week due to technical issues.
+> 🇻🇳 **Translation:** Người phụ trách môn học thông báo rằng hạn chót sẽ được gia hạn một tuần do sự cố kỹ thuật.
+> 🔍 **Analysis:** "Module convener" functions as the authoritative figure who makes administrative decisions about the course, showing their role as both organizer and decision-maker.
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **module convener**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Contact:** contact the module convener (liên hệ người phụ trách - seeking help)
+> 2. **Responsibility:** module convener's responsibility (trách nhiệm người phụ trách - duty/role)
+> 3. **Office:** module convener's office (văn phòng người phụ trách - location)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **module convener**:
+"The person in charge of the course helped us."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The module convener provided comprehensive guidance on our research project requirements."
+> 💡 **Why it works:** "Module convener" precisely identifies the academic role, conveying authority and specific responsibility that "person in charge" lacks.
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **module convener** instead of **lecturer**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **module convener:** Organizes and manages entire module (administrative + academic)
+> **lecturer:** Primarily teaches classes (focused on delivery)
+> 🧱 **The Barrier:** Convener = manager/organizer of course; Lecturer = teacher/deliverer of content
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're struggling with understanding the assessment criteria for your course. Who should you contact?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I need to schedule an appointment with the module convener to clarify the assessment rubric."
+> 👨‍🎨 **Director's Note:** Shows understanding that the convener is the ultimate authority on assessment matters, not just a regular teacher.
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `convene` to the meaning of **module convener**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'convenire' (come together) + 'modulus' (small measure) = one who brings together all elements of a course unit. Like a conductor bringing together musicians, the convener harmonizes students, content, and assessment into one cohesive learning experience.
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-03/05-addition
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **module convener**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `convenire` ('to come together')
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[convene]] /kənˈviːn/ - triệu tập, tập hợp
+> - *(noun)* [[convenor]] /kənˈviːnə/ - người triệu tập
+> - *(noun)* [[convention]] /kənˈvenʃn/ - hội nghị, quy ước
+> - *(noun)* [[module]] /ˈmɒdjuːl/ - đơn vị học tập
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-03/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈmɒdjuːl kənˈviːnə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**module convener**
+> 📖 **Meaning:** A university staff member responsible for organizing and managing a specific course or module
+> 🇻🇳 **Vietnamese:** Người phụ trách môn học
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "I need to talk with the module teacher about the exam schedule."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "I need to talk with the module convener about the exam schedule."
+> 🧠 **Why:** In UK university context, "convener" or "leader" is the correct term for the person with administrative authority over a module, not "teacher."
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **module convener**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[student]] - sinh viên (organizer vs participant)
+> - [[course participant]] - người tham gia khóa học (leader vs follower)
+> - [[module taker]] - người học môn học (manager vs learner)
+> 🧱 **Contrast:** Conveners create and manage structure; students participate within that structure.
 
 ---

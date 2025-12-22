@@ -1,280 +1,215 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [interesting comparison, interesting contrast, fascinating comparison, striking comparison, comparison, compare, comparing, comparative]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈɪntrəstɪŋ kəmˈpærɪsn/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** Latin interesse ('to be between, matter') + Latin comparare ('to pair together, match') → English
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** a fascinating examination of similarities and differences
+>
+> **Context Meaning:** an engaging or noteworthy analysis comparing two or more things
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một sự so sánh thú vị
+> - **Contextual:** một sự so sánh đáng chú ý, một sự đối chiếu thú vị
+>
 > **Nuances:**
-> - ...
+> - Implies the comparison reveals unexpected or insightful connections
+> - Often used to introduce analytical observations
+> - Can be used in academic, business, or casual contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Analytical, Insightful, Curious
+> **Memory Hook:** interesting (captures attention) + comparison (finding connections) = discovery of relationships
+> **📖 Etymology Story:** From Latin 'interesse' (to be between/matter) + 'comparare' (to match). Like finding the threads that connect different fabrics, an interesting comparison reveals patterns we hadn't noticed before.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[comparison]] /kəmˈpærɪsn/ - sự so sánh
+> - **Verb:** [[compare]] /kəmˈpeə/ - so sánh
+> - **Adj:** [[comparative]] /kəmˈpærətɪv/ - so sánh, tương đối
+> - **Adj:** [[interesting]] /ˈɪntrəstɪŋ/ - thú vị
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[fascinating contrast]] /ˈfæsɪneɪtɪŋ ˈkɒntræst/ : sự tương phản hấp dẫn (highlights differences)
+> - [[striking parallel]] /ˈstraɪkɪŋ ˈpærəlel/ : sự tương đồng đáng chú ý (emphasizes similarities)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[similarity]] /ˌsɪməˈlærəti/ : sự tương đồng (only sameness)
+> - [[difference]] /ˈdɪfrəns/ : sự khác biệt (only distinction)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. draw an interesting comparison
+> 2. make an interesting comparison
+> 3. interesting comparison between
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The speaker drew an interesting comparison between ancient Roman and modern social media.
+> - **Translation:** Diễn giả đã đưa ra một sự so sánh thú vị giữa mạng xã hội thời La Mã cổ đại và hiện đại.
+
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** There's an interesting comparison to be made between the two business models.
+> - **Translation:** Có một sự so sánh thú vị có thể thực hiện giữa hai mô hình kinh doanh.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** "interesting comparison of A and B"
+> - ✅ **Correction:** "interesting comparison between A and B"
+> - **Why:** When comparing two distinct items, 'between' is more precise than 'of'.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "It's an interesting comparison to make."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-03/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **interesting comparison** (*/ˈɪntrəstɪŋ kəmˈpærɪsn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An engaging or noteworthy analysis comparing two or more things to reveal insights
+> 🇻🇳 **Vietnamese:** Sự so sánh thú vị, sự đối chiếu đáng chú ý
+> 🗣️ **IPA:** */ˈɪntrəstɪŋ kəmˈpærɪsn/*
+> 🧠 **Mental Model:** Interesting (gây chú ý) + Comparison (so sánh) = việc tìm ra connection thú vị
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An engaging or noteworthy analysis comparing two or more things to reveal insights"
+**Vietnamese:** Sự so sánh thú vị, đáng chú ý
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**interesting comparison** (*/ˈɪntrəstɪŋ kəmˈpærɪsn/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **interesting comparison** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The documentary made an interesting comparison between how different cultures celebrate the same festival.
+> 🇻🇳 **Translation:** Bộ phim tài liệu đã đưa ra một sự so sánh thú vị về cách các nền văn hóa khác nhau ăn mừng cùng một lễ hội.
+> 🔍 **Analysis:** "Interesting comparison" introduces analytical observation that reveals cultural insights through juxtaposition.
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **interesting comparison**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** draw an interesting comparison (đưa ra sự so sánh - introducing analysis)
+> 2. **Relation:** interesting comparison between (sự so sánh thú vị giữa - connecting items)
+> 3. **Possibility:** there's an interesting comparison (có một sự so sánh - suggesting insight)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **interesting comparison**:
+"When we look at both things, we see some connections."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "When examining both phenomena, we discover an interesting comparison between their evolutionary patterns."
+> 💡 **Why it works:** "Interesting comparison" elevates the observation from casual noting to analytical insight, suggesting deeper meaning.
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **interesting comparison** instead of **similarity**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **interesting comparison:** Analytical process examining both differences and similarities (reveals insights)
+> **similarity:** Focus only on what things have in common (lists common points)
+> 🧱 **The Barrier:** Comparison = analytical discovery process; Similarity = result of finding sameness
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're analyzing two different solutions to a problem and notice they work similarly. Introduce your observation.
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "There's an interesting comparison to be made between how both approaches handle user feedback."
+> 👨‍🎨 **Director's Note:** Shows academic/analytical approach introducing insightful observation through formal comparison.
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots to the meaning of **interesting comparison**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'interesse' (to be between/matter) + 'comparare' (to match/pair). When something 'interests' us, it matters - it sits between us and understanding. When we 'compare,' we pair things to see relationships. An interesting comparison matches things in ways that matter to our understanding.
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-03/05-addition
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **interesting comparison**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `comparare` ('to pair together') + `interesse` ('to matter')
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[compare]] /kəmˈpeə/ - so sánh
+> - *(noun)* [[comparison]] /kəmˈpærɪsn/ - sự so sánh
+> - *(adj)* [[comparative]] /kəmˈpærətɪv/ - so sánh, tương đối
+> - *(adj)* [[interesting]] /ˈɪntrəstɪŋ/ - thú vị
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-03/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈɪntrəstɪŋ kəmˈpærɪsn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**interesting comparison**
+> 📖 **Meaning:** An engaging or noteworthy analysis comparing two or more things to reveal insights
+> 🇻🇳 **Vietnamese:** Sự so sánh thú vị, đáng chú ý
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The professor made an interesting comparison of the two theories."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The professor made an interesting comparison between the two theories."
+> 🧠 **Why:** When distinctly different items are being compared, 'between' is the preposition that correctly establishes the relationship being analyzed.
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **interesting comparison**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[isolated study]] - nghiên cứu riêng lẻ (connecting vs separating)
+> - [[unrelated analysis]] - phân tích không liên quan (finding connections vs examining independently)
+> - [[mere observation]] - quan sát đơn thuần (analytical comparison vs casual noting)
+> 🧱 **Contrast:** Interesting comparison actively seeks patterns; isolated study examines things separately.
 
 ---
