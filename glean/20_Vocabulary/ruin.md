@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -80,6 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **ruin** (*/ˈruːɪn/*) mean?
@@ -91,6 +92,7 @@ What does **ruin** (*/ˈruːɪn/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To damage something so badly that it loses all its value or purpose"
@@ -101,6 +103,7 @@ What does **ruin** (*/ˈruːɪn/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **ruin** in a sentence.
@@ -111,6 +114,7 @@ Use **ruin** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **ruin**.
@@ -122,6 +126,7 @@ List 3 common collocations for **ruin**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **ruin**:
@@ -132,6 +137,7 @@ List 3 common collocations for **ruin**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **ruin** instead of **[[damage]]**?
@@ -142,6 +148,7 @@ List 3 common collocations for **ruin**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend is about to post an angry message online. Advise them!
@@ -151,6 +158,7 @@ List 3 common collocations for **ruin**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `ruina` to the meaning of **ruin**.
@@ -159,6 +167,7 @@ List 3 common collocations for **ruin**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **ruin**.
@@ -172,6 +181,7 @@ Analyze the root/family of **ruin**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈruːɪn/*
@@ -182,6 +192,7 @@ Analyze the root/family of **ruin**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **ruin**?
@@ -192,6 +203,7 @@ Analyze the root/family of **ruin**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **ruin**?

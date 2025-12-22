@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/general/functional-words
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **actually** (*/ˈæktʃuəli/*) mean?
@@ -90,6 +91,7 @@ What does **actually** (*/ˈæktʃuəli/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "In reality or fact; really; used to correct or add surprising information"
@@ -100,6 +102,7 @@ What does **actually** (*/ˈæktʃuəli/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **actually** in a sentence.
@@ -110,6 +113,7 @@ Use **actually** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **actually**.
@@ -121,6 +125,7 @@ List 3 common collocations for **actually**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **actually**:
@@ -131,6 +136,7 @@ List 3 common collocations for **actually**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **actually** instead of **[[really]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **actually**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend thinks you hate horror movies. You secretly love them. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **actually**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `actualis` to the meaning of **actually**.
@@ -158,6 +166,7 @@ List 3 common collocations for **actually**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **actually**.
@@ -171,6 +180,7 @@ Analyze the root/family of **actually**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈæktʃuəli/*
@@ -181,6 +191,7 @@ Analyze the root/family of **actually**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **actually**?
@@ -191,6 +202,7 @@ Analyze the root/family of **actually**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **actually**?

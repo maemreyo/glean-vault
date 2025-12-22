@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
 ---
 tags:
   - vocabulary
@@ -77,6 +77,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **kiln** (*/kɪln/*) mean?
@@ -88,6 +89,7 @@ What does **kiln** (*/kɪln/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A furnace for baking pottery and bricks"
@@ -98,6 +100,7 @@ What does **kiln** (*/kɪln/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **kiln** in a sentence.
@@ -108,6 +111,7 @@ Use **kiln** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **kiln**.
@@ -119,6 +123,7 @@ List 3 common collocations for **kiln**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **kiln**:
@@ -129,6 +134,7 @@ List 3 common collocations for **kiln**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **kiln** instead of **oven**?
@@ -139,6 +145,7 @@ List 3 common collocations for **kiln**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're touring a ceramics studio. The guide points to a large brick structure.
@@ -148,6 +155,7 @@ List 3 common collocations for **kiln**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `<culina>` to the meaning of **kiln**.
@@ -156,6 +164,7 @@ List 3 common collocations for **kiln**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **kiln**.
@@ -168,6 +177,7 @@ Analyze the root/family of **kiln**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */kɪln/*
@@ -178,6 +188,7 @@ Analyze the root/family of **kiln**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **kiln**?
@@ -188,6 +199,7 @@ Analyze the root/family of **kiln**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **kiln**?

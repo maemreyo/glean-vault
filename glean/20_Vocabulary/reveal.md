@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/abstract-concepts
 ---
 tags:
   - vocabulary
@@ -77,6 +77,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **reveal** (*/rɪˈviːl/*) mean?
@@ -88,6 +89,7 @@ What does **reveal** (*/rɪˈviːl/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To make secret information known"
@@ -98,6 +100,7 @@ What does **reveal** (*/rɪˈviːl/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **reveal** in a sentence.
@@ -108,6 +111,7 @@ Use **reveal** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **reveal**.
@@ -119,6 +123,7 @@ List 3 common collocations for **reveal**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **reveal**:
@@ -129,6 +134,7 @@ List 3 common collocations for **reveal**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **reveal** instead of **show**?
@@ -139,6 +145,7 @@ List 3 common collocations for **reveal**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're announcing groundbreaking research findings to reporters.
@@ -148,6 +155,7 @@ List 3 common collocations for **reveal**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `<velum>` to the meaning of **reveal**.
@@ -156,6 +164,7 @@ List 3 common collocations for **reveal**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **reveal**.
@@ -168,6 +177,7 @@ Analyze the root/family of **reveal**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */rɪˈviːl/*
@@ -178,6 +188,7 @@ Analyze the root/family of **reveal**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **reveal**?
@@ -188,6 +199,7 @@ Analyze the root/family of **reveal**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **reveal**?

@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/health/healthcare-systems #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/health/healthcare-systems
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **clinical form** (*/ˈklɪnɪkəl fɔːm/*) mean?
@@ -89,6 +90,7 @@ What does **clinical form** (*/ˈklɪnɪkəl fɔːm/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Official medical document for recording patient information and consent"
@@ -99,6 +101,7 @@ What does **clinical form** (*/ˈklɪnɪkəl fɔːm/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **clinical form** in a sentence.
@@ -109,6 +112,7 @@ Use **clinical form** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **clinical form**.
@@ -120,6 +124,7 @@ List 3 common collocations for **clinical form**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **clinical form**:
@@ -130,6 +135,7 @@ List 3 common collocations for **clinical form**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **clinical form** instead of [[paper]]?
@@ -141,6 +147,7 @@ List 3 common collocations for **clinical form**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're at the hospital reception for the first time. The staff hands you documents.
@@ -150,6 +157,7 @@ List 3 common collocations for **clinical form**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots to the meaning of **clinical form**.
@@ -158,6 +166,7 @@ List 3 common collocations for **clinical form**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the components of **clinical form**.
@@ -170,6 +179,7 @@ Analyze the components of **clinical form**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈklɪnɪkəl fɔːm/*
@@ -180,6 +190,7 @@ Analyze the components of **clinical form**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **clinical form**?
@@ -190,6 +201,7 @@ Analyze the components of **clinical form**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Context Application
 
 📝 **Apply:** When would you encounter a **clinical form**?

@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **rucksack** (*/ˈrʌksæk/*) mean?
@@ -89,6 +90,7 @@ What does **rucksack** (*/ˈrʌksæk/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A bag with shoulder straps that allow it to be carried on one's back, typically used for hiking, traveling, or carrying belongings"
@@ -99,6 +101,7 @@ What does **rucksack** (*/ˈrʌksæk/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 What does **rucksack** (*/ˈrʌksæk/*) mean?
@@ -109,6 +112,7 @@ What does **rucksack** (*/ˈrʌksæk/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **rucksack**.
@@ -120,6 +124,7 @@ List 3 common collocations for **rucksack**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **rucksack**:
@@ -130,6 +135,7 @@ List 3 common collocations for **rucksack**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **rucksack** instead of **backpack**?
@@ -140,6 +146,7 @@ List 3 common collocations for **rucksack**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're planning a weekend hiking trip and your friend asks what to bring. You feel prepared. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **rucksack**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `Rücken` + `Sack` to the meaning of **rucksack**.
@@ -157,6 +165,7 @@ List 3 common collocations for **rucksack**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **rucksack**.
@@ -171,6 +180,7 @@ Analyze the root/family of **rucksack**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈrʌksæk/*
@@ -181,6 +191,7 @@ Analyze the root/family of **rucksack**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **rucksack**?
@@ -191,6 +202,7 @@ Analyze the root/family of **rucksack**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **rucksack**?

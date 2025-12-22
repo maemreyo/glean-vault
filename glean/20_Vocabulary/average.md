@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **average** (*/ˈævərɪdʒ/*) mean?
@@ -89,6 +90,7 @@ What does **average** (*/ˈævərɪdʒ/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A standard or level that is considered typical or normal"
@@ -99,6 +101,7 @@ What does **average** (*/ˈævərɪdʒ/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **average** in a sentence.
@@ -109,6 +112,7 @@ Use **average** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **average**.
@@ -120,6 +124,7 @@ List 3 common collocations for **average**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **average**:
@@ -130,6 +135,7 @@ List 3 common collocations for **average**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **average** instead of **[[normal]]**?
@@ -140,6 +146,7 @@ List 3 common collocations for **average**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your boss asks if your team's performance is good. You want to be honest but diplomatic. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **average**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `average` to the meaning of **average**.
@@ -157,6 +165,7 @@ List 3 common collocations for **average**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **average**.
@@ -169,6 +178,7 @@ Analyze the root/family of **average**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈævərɪdʒ/*
@@ -179,6 +189,7 @@ Analyze the root/family of **average**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **average**?
@@ -189,6 +200,7 @@ Analyze the root/family of **average**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **average**?

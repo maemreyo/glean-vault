@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 
 ---
 tags:
@@ -81,6 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **reflect on** (*/rɪˈflekt ɒn/*) mean?
@@ -92,6 +93,7 @@ What does **reflect on** (*/rɪˈflekt ɒn/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To think deeply and carefully about past events, experiences, or information; to consider thoughtfully before making a decision"
@@ -102,6 +104,7 @@ What does **reflect on** (*/rɪˈflekt ɒn/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **reflect on** in a sentence.
@@ -112,6 +115,7 @@ Use **reflect on** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **reflect on**.
@@ -123,6 +127,7 @@ List 3 common collocations for **reflect on**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **reflect on**:
@@ -133,6 +138,7 @@ List 3 common collocations for **reflect on**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **reflect on** instead of **think about**?
@@ -143,6 +149,7 @@ List 3 common collocations for **reflect on**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend just had a job interview and is trying to decide whether to accept the offer. You feel wise. Say it!
@@ -152,6 +159,7 @@ List 3 common collocations for **reflect on**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `reflect` to the meaning of **reflect on**.
@@ -160,6 +168,7 @@ List 3 common collocations for **reflect on**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **reflect on**.
@@ -174,6 +183,7 @@ Analyze the root/family of **reflect on**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */rɪˈflekt ɒn/*
@@ -184,6 +194,7 @@ Analyze the root/family of **reflect on**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **reflect on**?
@@ -194,6 +205,7 @@ Analyze the root/family of **reflect on**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **reflect on**?

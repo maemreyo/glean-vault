@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 
 ---
 tags:
@@ -80,6 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **have a look around** (*/hæv ə lʊk əˈraʊnd/*) mean?
@@ -91,6 +92,7 @@ What does **have a look around** (*/hæv ə lʊk əˈraʊnd/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To explore a place in a casual, relaxed way"
@@ -101,6 +103,7 @@ What does **have a look around** (*/hæv ə lʊk əˈraʊnd/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **have a look around** in a sentence.
@@ -111,6 +114,7 @@ Use **have a look around** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **have a look around**.
@@ -122,6 +126,7 @@ List 3 common collocations for **have a look around**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **have a look around**:
@@ -132,6 +137,7 @@ List 3 common collocations for **have a look around**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **have a look around** instead of **inspect**?
@@ -142,6 +148,7 @@ List 3 common collocations for **have a look around**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You've just arrived at a beautiful vacation resort. You feel excited and curious. Say it!
@@ -151,6 +158,7 @@ List 3 common collocations for **have a look around**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots to the meaning of **have a look around**.
@@ -159,6 +167,7 @@ List 3 common collocations for **have a look around**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **have a look around**.
@@ -172,6 +181,7 @@ Analyze the root/family of **have a look around**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */hæv ə lʊk əˈraʊnd/*
@@ -182,6 +192,7 @@ Analyze the root/family of **have a look around**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **have a look around**?
@@ -192,6 +203,7 @@ Analyze the root/family of **have a look around**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **have a look around**?

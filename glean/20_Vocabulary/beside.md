@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/functional-words
 ---
 tags:
   - vocabulary
@@ -76,6 +76,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **beside** (*/bɪˈsaɪd/*) mean?
@@ -87,6 +88,7 @@ What does **beside** (*/bɪˈsaɪd/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "At the side of; next to"
@@ -97,6 +99,7 @@ What does **beside** (*/bɪˈsaɪd/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **beside** in a sentence.
@@ -107,6 +110,7 @@ Use **beside** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **beside**.
@@ -118,6 +122,7 @@ List 3 common collocations for **beside**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **beside**:
@@ -128,6 +133,7 @@ List 3 common collocations for **beside**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **beside** instead of **next to**?
@@ -138,6 +144,7 @@ List 3 common collocations for **beside**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're at a crowded café. Your friend is looking for you. You want to guide them precisely.
@@ -147,6 +154,7 @@ List 3 common collocations for **beside**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `<side>` to the meaning of **beside**.
@@ -155,6 +163,7 @@ List 3 common collocations for **beside**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **beside**.
@@ -167,6 +176,7 @@ Analyze the root/family of **beside**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */bɪˈsaɪd/*
@@ -177,6 +187,7 @@ Analyze the root/family of **beside**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **beside**?
@@ -187,6 +198,7 @@ Analyze the root/family of **beside**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **beside**?

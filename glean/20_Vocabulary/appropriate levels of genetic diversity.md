@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **appropriate levels of genetic diversity** (*/əˈproʊpriət ˈlevəlz əv dʒəˈnetɪk daɪˈvɜːrsəti/*) mean?
@@ -89,6 +90,7 @@ What does **appropriate levels of genetic diversity** (*/əˈproʊpriət ˈlevə
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The right balance of genetic variation within a species"
@@ -99,6 +101,7 @@ What does **appropriate levels of genetic diversity** (*/əˈproʊpriət ˈlevə
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **appropriate levels of genetic diversity** in a sentence.
@@ -109,6 +112,7 @@ Use **appropriate levels of genetic diversity** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **appropriate levels of genetic diversity**.
@@ -120,6 +124,7 @@ List 3 common collocations for **appropriate levels of genetic diversity**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **appropriate levels of genetic diversity**:
@@ -130,6 +135,7 @@ List 3 common collocations for **appropriate levels of genetic diversity**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **appropriate levels of genetic diversity** instead of **[[genetic variation]]**?
@@ -140,6 +146,7 @@ List 3 common collocations for **appropriate levels of genetic diversity**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're a conservation biologist explaining why pandas struggle to reproduce. What's the key concept? Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **appropriate levels of genetic diversity**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `genetic` and `diverse` to the meaning.
@@ -157,6 +165,7 @@ List 3 common collocations for **appropriate levels of genetic diversity**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **appropriate levels of genetic diversity**.
@@ -169,6 +178,7 @@ Analyze the root/family of **appropriate levels of genetic diversity**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */əˈproʊpriət ˈlevəlz əv dʒəˈnetɪk daɪˈvɜːrsəti/*
@@ -179,6 +189,7 @@ Analyze the root/family of **appropriate levels of genetic diversity**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **appropriate levels of genetic diversity**?
@@ -189,6 +200,7 @@ Analyze the root/family of **appropriate levels of genetic diversity**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **appropriate levels of genetic diversity**?

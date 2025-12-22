@@ -1,4 +1,4 @@
-#flashcards/vocabulary/arts-architecture/media-literature-film #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/arts-architecture/media-literature-film
 
 ---
 tags:
@@ -81,6 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a prize-winning author** (*/ə praɪz ˈwɪnɪŋ ˈɔːθə/*) mean?
@@ -92,6 +93,7 @@ What does **a prize-winning author** (*/ə praɪz ˈwɪnɪŋ ˈɔːθə/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A writer who has received awards for their literary work"
@@ -102,6 +104,7 @@ What does **a prize-winning author** (*/ə praɪz ˈwɪnɪŋ ˈɔːθə/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a prize-winning author** in a sentence.
@@ -112,6 +115,7 @@ Use **a prize-winning author** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a prize-winning author**.
@@ -123,6 +127,7 @@ List 3 common collocations for **a prize-winning author**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a prize-winning author**:
@@ -133,6 +138,7 @@ List 3 common collocations for **a prize-winning author**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a prize-winning author** instead of **a famous author**?
@@ -143,6 +149,7 @@ List 3 common collocations for **a prize-winning author**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're recommending books to a book club. You want to suggest quality literature.
@@ -152,6 +159,7 @@ List 3 common collocations for **a prize-winning author**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `pris`, `winnan`, and `auctor` to the meaning of **a prize-winning author**.
@@ -160,6 +168,7 @@ List 3 common collocations for **a prize-winning author**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **a prize-winning author**.
@@ -174,6 +183,7 @@ Analyze the root/family of **a prize-winning author**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə praɪz ˈwɪnɪŋ ˈɔːθə/*
@@ -184,6 +194,7 @@ Analyze the root/family of **a prize-winning author**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **a prize-winning author**?
@@ -194,6 +205,7 @@ Analyze the root/family of **a prize-winning author**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a prize-winning author**?

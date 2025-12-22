@@ -158,7 +158,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line)
+### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
 What does **{{WORD}}** (*/<ipa>/*) mean?
 ?
@@ -169,7 +169,7 @@ What does **{{WORD}}** (*/<ipa>/*) mean?
 
 ---
 
-### Card 2: Production (Reverse)
+### Card 2: Production (Reverse) [Phase 2: Activation]
 
 **Definition:** "<English Definition>"
 **Vietnamese:** <Vietnamese Definition>
@@ -179,7 +179,7 @@ What does **{{WORD}}** (*/<ipa>/*) mean?
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line)
+### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
 Use **{{WORD}}** in a sentence.
 ?
@@ -189,7 +189,7 @@ Use **{{WORD}}** in a sentence.
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line)
+### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
 List 3 common collocations for **{{WORD}}**.
 ?
@@ -200,7 +200,7 @@ List 3 common collocations for **{{WORD}}**.
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite")
+### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
 🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
 "<Basic Sentence>"
@@ -210,7 +210,7 @@ List 3 common collocations for **{{WORD}}**.
 
 ---
 
-### Card 6: Nuance Barrier (Comparison)
+### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
 🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
 ?
@@ -220,7 +220,7 @@ List 3 common collocations for **{{WORD}}**.
 
 ---
 
-### Card 7: Scenario Reaction
+### Card 7: Scenario Reaction [Phase 4: Mastery]
 
 🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
 ?
@@ -229,7 +229,7 @@ List 3 common collocations for **{{WORD}}**.
 
 ---
 
-### Card 8: Etymology Story
+### Card 8: Etymology Story [Phase 4: Mastery]
 
 🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
 ?
@@ -237,7 +237,7 @@ List 3 common collocations for **{{WORD}}**.
 
 ---
 
-### Card 9: Word Family & Roots
+### Card 9: Word Family & Roots [Phase 5: Addition]
 
 Analyze the root/family of **{{WORD}}**.
 ?
@@ -248,7 +248,7 @@ Analyze the root/family of **{{WORD}}**.
 
 ---
 
-### Card 10: IPA Decoding (with Context)
+### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
 > 🔊 */<ipa>/*
 ?
@@ -258,7 +258,7 @@ Analyze the root/family of **{{WORD}}**.
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction)
+### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
 🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
 ?
@@ -268,7 +268,7 @@ Analyze the root/family of **{{WORD}}**.
 
 ---
 
-### Card 12: Antonym Flip
+### Card 12: Antonym Flip [Phase 3: Differentiation]
 
 ↔️ **Flip:** What is the opposite of **{{WORD}}**?
 ?

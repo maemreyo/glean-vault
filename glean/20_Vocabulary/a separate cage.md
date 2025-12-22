@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic #flashcards/cam-19-listening-test-03
+#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 
 ---
 tags:
@@ -81,6 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a separate cage** (*/ə ˈsepərət keɪdʒ/*) mean?
@@ -92,6 +93,7 @@ What does **a separate cage** (*/ə ˈsepərət keɪdʒ/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "An individual enclosure for keeping something apart from others"
@@ -102,6 +104,7 @@ What does **a separate cage** (*/ə ˈsepərət keɪdʒ/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a separate cage** in a sentence.
@@ -112,6 +115,7 @@ Use **a separate cage** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a separate cage**.
@@ -123,6 +127,7 @@ List 3 common collocations for **a separate cage**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a separate cage**:
@@ -133,6 +138,7 @@ List 3 common collocations for **a separate cage**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a separate cage** instead of **[[alone]]**?
@@ -143,6 +149,7 @@ List 3 common collocations for **a separate cage**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're a vet explaining treatment for a sick pet. You feel professional. Say it!
@@ -152,6 +159,7 @@ List 3 common collocations for **a separate cage**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots to the meaning of **a separate cage**.
@@ -160,6 +168,7 @@ List 3 common collocations for **a separate cage**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the phrase **a separate cage**.
@@ -172,6 +181,7 @@ Analyze the phrase **a separate cage**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə ˈsepərət keɪdʒ/*
@@ -182,6 +192,7 @@ Analyze the phrase **a separate cage**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **a separate cage**?
@@ -192,6 +203,7 @@ Analyze the phrase **a separate cage**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a separate cage**?

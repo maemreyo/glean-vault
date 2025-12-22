@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/health/physical-health-diet #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/topic-specific/health/physical-health-diet
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **metabolism** (*/məˈtæbəlɪzəm/*) mean?
@@ -90,6 +91,7 @@ What does **metabolism** (*/məˈtæbəlɪzəm/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The chemical processes in the body that convert food into energy"
@@ -100,6 +102,7 @@ What does **metabolism** (*/məˈtæbəlɪzəm/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **metabolism** in a sentence.
@@ -110,6 +113,7 @@ Use **metabolism** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **metabolism**.
@@ -121,6 +125,7 @@ List 3 common collocations for **metabolism**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **metabolism**:
@@ -131,6 +136,7 @@ List 3 common collocations for **metabolism**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **metabolism** instead of **[[digestion]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **metabolism**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're a nutritionist explaining weight management. You feel educational. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **metabolism**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `metaballein` to the meaning of **metabolism**.
@@ -158,6 +166,7 @@ List 3 common collocations for **metabolism**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **metabolism**.
@@ -170,6 +179,7 @@ Analyze the root/family of **metabolism**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */məˈtæbəlɪzəm/*
@@ -180,6 +190,7 @@ Analyze the root/family of **metabolism**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **metabolism**?
@@ -190,6 +201,7 @@ Analyze the root/family of **metabolism**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **metabolism**?

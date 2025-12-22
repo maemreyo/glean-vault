@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
 
 ---
 tags:
@@ -82,6 +82,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **moss** (*/mɒs/*) mean?
@@ -93,6 +94,7 @@ What does **moss** (*/mɒs/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A small, primitive green plant without flowers that grows in clumps or mats in damp, shady places"
@@ -103,6 +105,7 @@ What does **moss** (*/mɒs/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **moss** in a sentence.
@@ -113,6 +116,7 @@ Use **moss** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **moss**.
@@ -124,6 +128,7 @@ List 3 common collocations for **moss**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **moss**:
@@ -134,6 +139,7 @@ List 3 common collocations for **moss**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **moss** instead of **[[grass]]**?
@@ -144,6 +150,7 @@ List 3 common collocations for **moss**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're walking in an old, damp forest. Everything around you is green and soft. Say it!
@@ -153,6 +160,7 @@ List 3 common collocations for **moss**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `mos` to the meaning of **moss**.
@@ -161,6 +169,7 @@ List 3 common collocations for **moss**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **moss**.
@@ -174,6 +183,7 @@ Analyze the root/family of **moss**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */mɒs/*
@@ -184,6 +194,7 @@ Analyze the root/family of **moss**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **moss**?
@@ -194,6 +205,7 @@ Analyze the root/family of **moss**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **moss**?

@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/functional-words
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **in addition** (*/ɪn əˈdɪʃn/*) mean?
@@ -90,6 +91,7 @@ What does **in addition** (*/ɪn əˈdɪʃn/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "As an extra point; used to add further information to what has already been stated"
@@ -100,6 +102,7 @@ What does **in addition** (*/ɪn əˈdɪʃn/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **in addition** in a sentence.
@@ -110,6 +113,7 @@ Use **in addition** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **in addition**.
@@ -122,6 +126,7 @@ List 3 common collocations for **in addition**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **in addition**:
@@ -132,6 +137,7 @@ List 3 common collocations for **in addition**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **in addition** instead of **also**?
@@ -142,6 +148,7 @@ List 3 common collocations for **in addition**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're presenting benefits of a new proposal. You need to add another important point smoothly. Say it!
@@ -151,6 +158,7 @@ List 3 common collocations for **in addition**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `addere` to the meaning of **in addition**.
@@ -159,6 +167,7 @@ List 3 common collocations for **in addition**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **in addition**.
@@ -173,6 +182,7 @@ Analyze the root/family of **in addition**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ɪn əˈdɪʃn/*
@@ -183,6 +193,7 @@ Analyze the root/family of **in addition**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **in addition**?
@@ -193,6 +204,7 @@ Analyze the root/family of **in addition**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **in addition**?

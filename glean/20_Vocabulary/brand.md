@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
 
 ---
 tags:
@@ -81,6 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **brand** (*/brænd/*) mean?
@@ -92,6 +93,7 @@ What does **brand** (*/brænd/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A unique identification that distinguishes a product or company from its competitors in the market"
@@ -102,6 +104,7 @@ What does **brand** (*/brænd/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **brand** in a sentence.
@@ -112,6 +115,7 @@ Use **brand** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **brand**.
@@ -123,6 +127,7 @@ List 3 common collocations for **brand**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **brand**:
@@ -133,6 +138,7 @@ List 3 common collocations for **brand**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **brand** instead of [[company]]?
@@ -143,6 +149,7 @@ List 3 common collocations for **brand**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend says they only buy Nike shoes. You ask why. Say it!
@@ -152,6 +159,7 @@ List 3 common collocations for **brand**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `brand` (to burn) to the meaning of **brand**.
@@ -160,6 +168,7 @@ List 3 common collocations for **brand**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **brand**.
@@ -173,6 +182,7 @@ Analyze the root/family of **brand**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */brænd/*
@@ -183,6 +193,7 @@ Analyze the root/family of **brand**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **brand**?
@@ -193,6 +204,7 @@ Analyze the root/family of **brand**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **brand**?

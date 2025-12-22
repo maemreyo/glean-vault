@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/work-economy/business-models #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/topic-specific/work-economy/business-models
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **packaging** (*/ˈpækɪdʒɪŋ/*) mean?
@@ -90,6 +91,7 @@ What does **packaging** (*/ˈpækɪdʒɪŋ/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The materials in which a product is wrapped or contained for sale or distribution"
@@ -100,6 +102,7 @@ What does **packaging** (*/ˈpækɪdʒɪŋ/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **packaging** in a sentence.
@@ -110,6 +113,7 @@ Use **packaging** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **packaging**.
@@ -121,6 +125,7 @@ List 3 common collocations for **packaging**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **packaging**:
@@ -131,6 +136,7 @@ List 3 common collocations for **packaging**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **packaging** instead of **[[wrapping]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **packaging**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're evaluating two similar products. One has basic packaging, the other has premium packaging. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **packaging**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `paccan` to the meaning of **packaging**.
@@ -158,6 +166,7 @@ List 3 common collocations for **packaging**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **packaging**.
@@ -171,6 +180,7 @@ Analyze the root/family of **packaging**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈpækɪdʒɪŋ/*
@@ -181,6 +191,7 @@ Analyze the root/family of **packaging**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **packaging**?
@@ -191,6 +202,7 @@ Analyze the root/family of **packaging**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **packaging**?

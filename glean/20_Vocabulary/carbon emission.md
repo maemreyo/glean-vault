@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **carbon emission** (*/ˈkɑːrbən ɪˈmɪʃn/*) mean?
@@ -89,6 +90,7 @@ What does **carbon emission** (*/ˈkɑːrbən ɪˈmɪʃn/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The release of carbon compounds into the atmosphere"
@@ -99,6 +101,7 @@ What does **carbon emission** (*/ˈkɑːrbən ɪˈmɪʃn/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **carbon emissions** in a sentence.
@@ -109,6 +112,7 @@ Use **carbon emissions** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **carbon emission**.
@@ -120,6 +124,7 @@ List 3 common collocations for **carbon emission**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **carbon emission**:
@@ -130,6 +135,7 @@ List 3 common collocations for **carbon emission**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **carbon emission** instead of **[[pollution]]**?
@@ -140,6 +146,7 @@ List 3 common collocations for **carbon emission**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your company wants to go green. What's the first thing to address? Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **carbon emission**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots to the meaning of **carbon emission**.
@@ -157,6 +165,7 @@ List 3 common collocations for **carbon emission**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **carbon emission**.
@@ -169,6 +178,7 @@ Analyze the root/family of **carbon emission**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈkɑːrbən ɪˈmɪʃn/*
@@ -179,6 +189,7 @@ Analyze the root/family of **carbon emission**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **carbon emission**?
@@ -189,6 +200,7 @@ Analyze the root/family of **carbon emission**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **carbon emission**?

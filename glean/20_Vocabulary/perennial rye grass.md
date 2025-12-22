@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming #flashcards/cam-19-listening-test-03
+#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **perennial rye grass** (*/pəˈreniəl raɪ ɡræs/*) mean?
@@ -90,6 +91,7 @@ What does **perennial rye grass** (*/pəˈreniəl raɪ ɡræs/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A long-lasting type of grass used for pasture and lawns that regrows yearly"
@@ -100,6 +102,7 @@ What does **perennial rye grass** (*/pəˈreniəl raɪ ɡræs/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **perennial rye grass** in a sentence.
@@ -110,6 +113,7 @@ Use **perennial rye grass** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **perennial rye grass**.
@@ -121,6 +125,7 @@ List 3 common collocations for **perennial rye grass**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **perennial rye grass**:
@@ -131,6 +136,7 @@ List 3 common collocations for **perennial rye grass**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **perennial rye grass** instead of **[[grass]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **perennial rye grass**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're a landscaper recommending lawn options. You feel professional. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **perennial rye grass**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots to the meaning of **perennial rye grass**.
@@ -158,6 +166,7 @@ List 3 common collocations for **perennial rye grass**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the compound **perennial rye grass**.
@@ -170,6 +179,7 @@ Analyze the compound **perennial rye grass**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */pəˈreniəl raɪ ɡræs/*
@@ -180,6 +190,7 @@ Analyze the compound **perennial rye grass**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **perennial rye grass**?
@@ -190,6 +201,7 @@ Analyze the compound **perennial rye grass**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **perennial rye grass**?

@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/functional-words
 
 ---
 tags:
@@ -81,6 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **however** (*/haʊˈevər/*) mean?
@@ -92,6 +93,7 @@ What does **however** (*/haʊˈevər/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Used to introduce a contrasting statement"
@@ -102,6 +104,7 @@ What does **however** (*/haʊˈevər/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **however** in a sentence.
@@ -112,6 +115,7 @@ Use **however** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **however**.
@@ -123,6 +127,7 @@ List 3 common collocations for **however**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **however**:
@@ -133,6 +138,7 @@ List 3 common collocations for **however**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **however** instead of **but**?
@@ -143,6 +149,7 @@ List 3 common collocations for **however**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're presenting sales results. Sales are up, but costs are also up. You want to show both sides. Say it!
@@ -152,6 +159,7 @@ List 3 common collocations for **however**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `ever` to the meaning of **however**.
@@ -160,6 +168,7 @@ List 3 common collocations for **however**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **however**.
@@ -173,6 +182,7 @@ Analyze the root/family of **however**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */haʊˈevər/*
@@ -183,6 +193,7 @@ Analyze the root/family of **however**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **however**?
@@ -193,6 +204,7 @@ Analyze the root/family of **however**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **however**?

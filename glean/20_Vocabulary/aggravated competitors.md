@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **aggravated competitors** (*/ˈæɡrəveɪtɪd kəmˈpetɪtəz/*) mean?
@@ -90,6 +91,7 @@ What does **aggravated competitors** (*/ˈæɡrəveɪtɪd kəmˈpetɪtəz/*) mea
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Business rivals who have intensified their competitive tactics to become more challenging or problematic"
@@ -100,6 +102,7 @@ What does **aggravated competitors** (*/ˈæɡrəveɪtɪd kəmˈpetɪtəz/*) mea
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **aggravated competitors** in a sentence.
@@ -110,6 +113,7 @@ Use **aggravated competitors** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **aggravated competitors**.
@@ -121,6 +125,7 @@ List 3 common collocations for **aggravated competitors**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **aggravated competitors**:
@@ -131,6 +136,7 @@ List 3 common collocations for **aggravated competitors**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **aggravated competitors** instead of **[[strong rivals]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **aggravated competitors**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're presenting quarterly results to the board. Explain why profits are down!
@@ -150,6 +157,7 @@ List 3 common collocations for **aggravated competitors**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `aggravare` and `competere` to the meaning of **aggravated competitors**.
@@ -158,6 +166,7 @@ List 3 common collocations for **aggravated competitors**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **aggravated competitors**.
@@ -174,6 +183,7 @@ Analyze the root/family of **aggravated competitors**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈæɡrəveɪtɪd kəmˈpetɪtəz/*
@@ -184,6 +194,7 @@ Analyze the root/family of **aggravated competitors**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **aggravated competitors**?
@@ -194,6 +205,7 @@ Analyze the root/family of **aggravated competitors**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **aggravated competitors**?

@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/general/functional-words
 
 ---
 tags:
@@ -82,6 +82,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **brand new** (*/ˌbrænd ˈnjuː/*) mean?
@@ -93,6 +94,7 @@ What does **brand new** (*/ˌbrænd ˈnjuː/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Completely new and unused; fresh from the manufacturer in perfect condition"
@@ -103,6 +105,7 @@ What does **brand new** (*/ˌbrænd ˈnjuː/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **brand new** in a sentence.
@@ -113,6 +116,7 @@ Use **brand new** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **brand new**.
@@ -124,6 +128,7 @@ List 3 common collocations for **brand new**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **brand new**:
@@ -134,6 +139,7 @@ List 3 common collocations for **brand new**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **brand new** instead of **[[new]]**?
@@ -144,6 +150,7 @@ List 3 common collocations for **brand new**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend just got the latest phone and wants to show you. You're impressed. Say it!
@@ -153,6 +160,7 @@ List 3 common collocations for **brand new**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `brand + new` to the meaning of **brand new**.
@@ -161,6 +169,7 @@ List 3 common collocations for **brand new**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **brand new**.
@@ -174,6 +183,7 @@ Analyze the root/family of **brand new**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌbrænd ˈnjuː/*
@@ -184,6 +194,7 @@ Analyze the root/family of **brand new**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **brand new**?
@@ -194,6 +205,7 @@ Analyze the root/family of **brand new**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **brand new**?

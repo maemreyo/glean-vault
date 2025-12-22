@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-19-listening-test-03
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **fibres** (*/ˈfaɪbəz/*) mean?
@@ -90,6 +91,7 @@ What does **fibres** (*/ˈfaɪbəz/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Thread-like structures that form materials or help with digestion"
@@ -100,6 +102,7 @@ What does **fibres** (*/ˈfaɪbəz/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **fibres** in a sentence.
@@ -110,6 +113,7 @@ Use **fibres** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **fibres**.
@@ -121,6 +125,7 @@ List 3 common collocations for **fibres**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **fibres**:
@@ -131,6 +136,7 @@ List 3 common collocations for **fibres**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **fibres** instead of **[[threads]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **fibres**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're a nutritionist explaining healthy eating. You need to recommend something. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **fibres**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `fibra` to the meaning of **fibres**.
@@ -158,6 +166,7 @@ List 3 common collocations for **fibres**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **fibres**.
@@ -171,6 +180,7 @@ Analyze the root/family of **fibres**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈfaɪbəz/ (UK) /ˈfaɪbərz/ (US)
@@ -181,6 +191,7 @@ Analyze the root/family of **fibres**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **fibres**?
@@ -191,6 +202,7 @@ Analyze the root/family of **fibres**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **fibres**?

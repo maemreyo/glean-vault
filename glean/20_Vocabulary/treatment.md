@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/health/healthcare-systems #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/health/healthcare-systems
 
 ---
 tags:
@@ -80,6 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **treatment** (*/ˈtriːtmənt/*) mean?
@@ -91,6 +92,7 @@ What does **treatment** (*/ˈtriːtmənt/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Medical care given to a patient for an illness or injury"
@@ -101,6 +103,7 @@ What does **treatment** (*/ˈtriːtmənt/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **treatment** in a sentence.
@@ -112,6 +115,7 @@ Use **treatment** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **treatment**.
@@ -124,6 +128,7 @@ List 3 common collocations for **treatment**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **treatment**:
@@ -134,6 +139,7 @@ List 3 common collocations for **treatment**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **treatment** instead of [[cure]]?
@@ -144,6 +150,7 @@ List 3 common collocations for **treatment**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend has been diagnosed with a chronic illness. They're scared about the process ahead. Say it!
@@ -154,6 +161,7 @@ List 3 common collocations for **treatment**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `tractare` to the meaning of **treatment**.
@@ -162,6 +170,7 @@ List 3 common collocations for **treatment**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **treatment**.
@@ -176,6 +185,7 @@ Analyze the root/family of **treatment**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈtriːtmənt/*
@@ -186,6 +196,7 @@ Analyze the root/family of **treatment**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **treatment**?
@@ -196,6 +207,7 @@ Analyze the root/family of **treatment**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **treatment**?

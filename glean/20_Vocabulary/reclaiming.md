@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -83,6 +83,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **reclaiming** (*/riːˈkleɪmɪŋ/*) mean?
@@ -94,6 +95,7 @@ What does **reclaiming** (*/riːˈkleɪmɪŋ/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The process of restoring something to its former state or ownership"
@@ -104,6 +106,7 @@ What does **reclaiming** (*/riːˈkleɪmɪŋ/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **reclaiming** in a sentence.
@@ -114,6 +117,7 @@ Use **reclaiming** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **reclaiming**.
@@ -125,6 +129,7 @@ List 3 common collocations for **reclaiming**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **reclaiming**:
@@ -135,6 +140,7 @@ List 3 common collocations for **reclaiming**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **reclaiming** instead of **[[fixing]]**?
@@ -145,6 +151,7 @@ List 3 common collocations for **reclaiming**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your abandoned childhood park is being converted into a shopping mall. You feel nostalgic and protective. Say it!
@@ -154,6 +161,7 @@ List 3 common collocations for **reclaiming**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `claim` to the meaning of **reclaiming**.
@@ -162,6 +170,7 @@ List 3 common collocations for **reclaiming**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **reclaiming**.
@@ -175,6 +184,7 @@ Analyze the root/family of **reclaiming**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */riːˈkleɪmɪŋ/*
@@ -185,6 +195,7 @@ Analyze the root/family of **reclaiming**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **reclaiming**?
@@ -195,6 +206,7 @@ Analyze the root/family of **reclaiming**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **reclaiming**?

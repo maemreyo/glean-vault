@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science #flashcards/cam-19-listening-test-03
+#flashcards/vocabulary/topic-specific/agriculture-food/food-science
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **dry pellets** (*/draɪ ˈpeləts/*) mean?
@@ -89,6 +90,7 @@ What does **dry pellets** (*/draɪ ˈpeləts/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Small, compressed, dried pieces of material formed into compact shapes for storage and use"
@@ -99,6 +101,7 @@ What does **dry pellets** (*/draɪ ˈpeləts/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **dry pellets** in a sentence.
@@ -109,6 +112,7 @@ Use **dry pellets** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **dry pellets**.
@@ -120,6 +124,7 @@ List 3 common collocations for **dry pellets**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **dry pellets**:
@@ -130,6 +135,7 @@ List 3 common collocations for **dry pellets**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **dry pellets** instead of **[[kibble]]**?
@@ -140,6 +146,7 @@ List 3 common collocations for **dry pellets**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're explaining how your new eco-friendly heating system works. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **dry pellets**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `pelote` to the meaning of **dry pellets**.
@@ -157,6 +165,7 @@ List 3 common collocations for **dry pellets**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **dry pellets**.
@@ -171,6 +180,7 @@ Analyze the root/family of **dry pellets**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */draɪ ˈpeləts/*
@@ -181,6 +191,7 @@ Analyze the root/family of **dry pellets**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **dry pellets**?
@@ -191,6 +202,7 @@ Analyze the root/family of **dry pellets**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **dry pellets**?

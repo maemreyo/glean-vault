@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **impression** (*/ɪmˈpreʃn/*) mean?
@@ -90,6 +91,7 @@ What does **impression** (*/ɪmˈpreʃn/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "An idea, feeling, or opinion about someone or something, especially one formed without conscious thought"
@@ -101,6 +103,7 @@ What does **impression** (*/ɪmˈpreʃn/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **impression** in a sentence.
@@ -111,6 +114,7 @@ Use **impression** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **impression**.
@@ -122,6 +126,7 @@ List 3 common collocations for **impression**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **impression**:
@@ -132,6 +137,7 @@ List 3 common collocations for **impression**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **impression** instead of **[[opinion]]**?
@@ -142,6 +148,7 @@ List 3 common collocations for **impression**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Meeting your future in-laws for the first time. You want them to like you. What must you manage?
@@ -151,6 +158,7 @@ List 3 common collocations for **impression**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `press` to the meaning of **impression**.
@@ -159,6 +167,7 @@ List 3 common collocations for **impression**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **impression**.
@@ -171,6 +180,7 @@ Analyze the root/family of **impression**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ɪmˈpreʃn/*
@@ -181,6 +191,7 @@ Analyze the root/family of **impression**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **impression**?
@@ -191,6 +202,7 @@ Analyze the root/family of **impression**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **impression**?

@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **sustainable source** (*/səˈsteɪnəbl sɔːs/*) mean?
@@ -89,6 +90,7 @@ What does **sustainable source** (*/səˈsteɪnəbl sɔːs/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A supply that can be maintained indefinitely without being exhausted"
@@ -99,6 +101,7 @@ What does **sustainable source** (*/səˈsteɪnəbl sɔːs/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **sustainable source** in a sentence.
@@ -109,6 +112,7 @@ Use **sustainable source** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **sustainable source**.
@@ -120,6 +124,7 @@ List 3 common collocations for **sustainable source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **sustainable source**:
@@ -130,6 +135,7 @@ List 3 common collocations for **sustainable source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **sustainable source** instead of **[[renewable source]]**?
@@ -140,6 +146,7 @@ List 3 common collocations for **sustainable source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're explaining your company's environmental policy. You feel responsible. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **sustainable source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots to the meaning of **sustainable source**.
@@ -157,6 +165,7 @@ List 3 common collocations for **sustainable source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **sustainable source**.
@@ -170,6 +179,7 @@ Analyze the root/family of **sustainable source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */səˈsteɪnəbl sɔːs/*
@@ -180,6 +190,7 @@ Analyze the root/family of **sustainable source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **sustainable source**?
@@ -190,6 +201,7 @@ Analyze the root/family of **sustainable source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **sustainable source**?

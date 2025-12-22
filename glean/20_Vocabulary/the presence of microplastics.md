@@ -1,4 +1,4 @@
-#flashcards/vocabulary/environment/pollution-waste-management #flashcards/cam-19-listening-test-03
+#flashcards/vocabulary/environment/pollution-waste-management
 
 ---
 tags:
@@ -76,6 +76,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **the presence of microplastics** (*/ðə ˈprezəns ɒv ˌmaɪkrəʊˈplæstɪks/*) mean?
@@ -87,6 +88,7 @@ What does **the presence of microplastics** (*/ðə ˈprezəns ɒv ˌmaɪkrəʊ�
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The existence of tiny plastic particles detected in a substance or environment"
@@ -97,6 +99,7 @@ What does **the presence of microplastics** (*/ðə ˈprezəns ɒv ˌmaɪkrəʊ�
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **the presence of microplastics** in a sentence.
@@ -107,6 +110,7 @@ Use **the presence of microplastics** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **the presence of microplastics**.
@@ -118,6 +122,7 @@ List 3 common collocations for **the presence of microplastics**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **the presence of microplastics**:
@@ -128,6 +133,7 @@ List 3 common collocations for **the presence of microplastics**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **the presence of microplastics** instead of **microplastic pollution**?
@@ -138,6 +144,7 @@ List 3 common collocations for **the presence of microplastics**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're presenting research findings at an environmental conference. You need to report your discovery objectively.
@@ -147,6 +154,7 @@ List 3 common collocations for **the presence of microplastics**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `praesentia` to the meaning of **the presence of microplastics**.
@@ -155,6 +163,7 @@ List 3 common collocations for **the presence of microplastics**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **the presence of microplastics**.
@@ -169,6 +178,7 @@ Analyze the root/family of **the presence of microplastics**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ðə ˈprezəns ɒv ˌmaɪkrəʊˈplæstɪks/*
@@ -179,6 +189,7 @@ Analyze the root/family of **the presence of microplastics**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **the presence of microplastics**?
@@ -189,6 +200,7 @@ Analyze the root/family of **the presence of microplastics**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **the presence of microplastics**?

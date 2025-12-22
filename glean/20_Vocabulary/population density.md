@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **population density** (*/ˌpɒpjʊˈleɪʃn ˈdensəti/*) mean?
@@ -90,6 +91,7 @@ What does **population density** (*/ˌpɒpjʊˈleɪʃn ˈdensəti/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The measurement of people per unit of area, indicating how crowded a place is"
@@ -100,6 +102,7 @@ What does **population density** (*/ˌpɒpjʊˈleɪʃn ˈdensəti/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **population density** in a sentence.
@@ -110,6 +113,7 @@ Use **population density** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **population density**.
@@ -121,6 +125,7 @@ List 3 common collocations for **population density**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **population density**:
@@ -131,6 +136,7 @@ List 3 common collocations for **population density**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **population density** instead of **[[crowding]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **population density**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're explaining why housing is so expensive in your city. Give the main reason!
@@ -150,6 +157,7 @@ List 3 common collocations for **population density**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `populus` and `densus` to the meaning of **population density**.
@@ -158,6 +166,7 @@ List 3 common collocations for **population density**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **population density**.
@@ -174,6 +183,7 @@ Analyze the root/family of **population density**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌpɒpjʊˈleɪʃn ˈdensəti/*
@@ -184,6 +194,7 @@ Analyze the root/family of **population density**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **population density**?
@@ -194,6 +205,7 @@ Analyze the root/family of **population density**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **high population density**?

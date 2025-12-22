@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/health/physical-health-diet #flashcards/cam-19-listening-test-03
+#flashcards/vocabulary/topic-specific/health/physical-health-diet
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **nutrition** (*/nuːˈtrɪʃn/*) mean?
@@ -90,6 +91,7 @@ What does **nutrition** (*/nuːˈtrɪʃn/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The scientific study of how food affects the body, including the processes of taking in and utilizing nutrients"
@@ -100,6 +102,7 @@ What does **nutrition** (*/nuːˈtrɪʃn/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **nutrition** in a sentence.
@@ -110,6 +113,7 @@ Use **nutrition** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **nutrition**.
@@ -121,6 +125,7 @@ List 3 common collocations for **nutrition**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **nutrition**:
@@ -131,6 +136,7 @@ List 3 common collocations for **nutrition**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **nutrition** instead of **[[food]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **nutrition**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend complains of always feeling tired despite eating regularly. You feel concerned. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **nutrition**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `<nutrire>` to the meaning of **nutrition**.
@@ -158,6 +166,7 @@ List 3 common collocations for **nutrition**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **nutrition**.
@@ -170,6 +179,7 @@ Analyze the root/family of **nutrition**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */nuːˈtrɪʃn/*
@@ -180,6 +190,7 @@ Analyze the root/family of **nutrition**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **nutrition**?
@@ -190,6 +201,7 @@ Analyze the root/family of **nutrition**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **nutrition**?

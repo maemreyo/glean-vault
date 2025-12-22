@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/general/functional-words
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **persuade** (*/pəˈsweɪd/*) mean?
@@ -90,6 +91,7 @@ What does **persuade** (*/pəˈsweɪd/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "to make someone do something by talking to them"
@@ -100,6 +102,7 @@ What does **persuade** (*/pəˈsweɪd/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **persuade** in a sentence.
@@ -110,6 +113,7 @@ Use **persuade** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **persuade**.
@@ -121,6 +125,7 @@ List 3 common collocations for **persuade**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **persuade**:
@@ -131,6 +136,7 @@ List 3 common collocations for **persuade**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **persuade** instead of **[[convince]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **persuade**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your team wants to adopt a new workflow that management might reject. You feel hopeful but strategic. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **persuade**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `persuadere` to the meaning of **persuade**.
@@ -158,6 +166,7 @@ List 3 common collocations for **persuade**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **persuade**.
@@ -172,6 +181,7 @@ Analyze the root/family of **persuade**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */pəˈsweɪd/*
@@ -182,6 +192,7 @@ Analyze the root/family of **persuade**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **persuade**?
@@ -192,6 +203,7 @@ Analyze the root/family of **persuade**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **persuade**?

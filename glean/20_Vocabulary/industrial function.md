@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/sci-tech/technology #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/sci-tech/technology
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **industrial function** (*/ɪnˈdʌstriəl ˈfʌŋkʃn/*) mean?
@@ -89,6 +90,7 @@ What does **industrial function** (*/ɪnˈdʌstriəl ˈfʌŋkʃn/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A practical purpose or role in industrial manufacturing processes"
@@ -99,6 +101,7 @@ What does **industrial function** (*/ɪnˈdʌstriəl ˈfʌŋkʃn/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **industrial function** in a sentence.
@@ -109,6 +112,7 @@ Use **industrial function** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **industrial function**.
@@ -120,6 +124,7 @@ List 3 common collocations for **industrial function**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **industrial function**:
@@ -130,6 +135,7 @@ List 3 common collocations for **industrial function**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **industrial function** instead of **[[purpose]]**?
@@ -140,6 +146,7 @@ List 3 common collocations for **industrial function**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Factory tour. Visitor asks what a complex machine does. What's your professional response?
@@ -149,6 +156,7 @@ List 3 common collocations for **industrial function**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `industrial` and `function` to the meaning.
@@ -157,6 +165,7 @@ List 3 common collocations for **industrial function**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **industrial function**.
@@ -169,6 +178,7 @@ Analyze the root/family of **industrial function**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ɪnˈdʌstriəl ˈfʌŋkʃn/*
@@ -179,6 +189,7 @@ Analyze the root/family of **industrial function**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **industrial function**?
@@ -189,6 +200,7 @@ Analyze the root/family of **industrial function**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **industrial function**?

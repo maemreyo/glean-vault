@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **ferry** (*/ˈferi/*) mean?
@@ -90,6 +91,7 @@ What does **ferry** (*/ˈferi/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A regular boat service that transports people and vehicles across water"
@@ -100,6 +102,7 @@ What does **ferry** (*/ˈferi/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **ferry** in a sentence.
@@ -110,6 +113,7 @@ Use **ferry** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **ferry**.
@@ -121,6 +125,7 @@ List 3 common collocations for **ferry**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **ferry**:
@@ -131,6 +136,7 @@ List 3 common collocations for **ferry**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **ferry** instead of **boat**?
@@ -141,6 +147,7 @@ List 3 common collocations for **ferry**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're giving travel advice to someone visiting Seattle. They want to see the city from the water. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **ferry**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `ferja` to the meaning of **ferry**.
@@ -158,6 +166,7 @@ List 3 common collocations for **ferry**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **ferry**.
@@ -171,6 +180,7 @@ Analyze the root/family of **ferry**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈferi/*
@@ -181,6 +191,7 @@ Analyze the root/family of **ferry**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **ferry**?
@@ -191,6 +202,7 @@ Analyze the root/family of **ferry**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **ferry**?

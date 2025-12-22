@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/topic-specific/agriculture-food/food-science
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a superfood** (*/ə ˈsuːpəfuːd/*) mean?
@@ -90,6 +91,7 @@ What does **a superfood** (*/ə ˈsuːpəfuːd/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A nutrient-rich food considered to be especially beneficial for health and well-being"
@@ -100,6 +102,7 @@ What does **a superfood** (*/ə ˈsuːpəfuːd/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a superfood** in a sentence.
@@ -110,6 +113,7 @@ Use **a superfood** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a superfood**.
@@ -121,6 +125,7 @@ List 3 common collocations for **a superfood**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a superfood**:
@@ -131,6 +136,7 @@ List 3 common collocations for **a superfood**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a superfood** instead of **[[healthy food]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **a superfood**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're recommending healthy options to a friend trying to improve their diet. What do you suggest?
@@ -150,6 +157,7 @@ List 3 common collocations for **a superfood**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `super` and `fōda` to the meaning of **a superfood**.
@@ -158,6 +166,7 @@ List 3 common collocations for **a superfood**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **a superfood**.
@@ -174,6 +183,7 @@ Analyze the root/family of **a superfood**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə ˈsuːpəfuːd/*
@@ -184,6 +194,7 @@ Analyze the root/family of **a superfood**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **a superfood**?
@@ -194,6 +205,7 @@ Analyze the root/family of **a superfood**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a superfood**?

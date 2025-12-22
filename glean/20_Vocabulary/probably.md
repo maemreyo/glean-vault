@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/functional-words
 
 ---
 tags:
@@ -80,6 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **probably** (*/ˈprɒbəbli/*) mean?
@@ -91,6 +92,7 @@ What does **probably** (*/ˈprɒbəbli/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Almost certainly; as far as one knows"
@@ -101,6 +103,7 @@ What does **probably** (*/ˈprɒbəbli/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **probably** in a sentence.
@@ -111,6 +114,7 @@ Use **probably** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **probably**.
@@ -122,6 +126,7 @@ List 3 common collocations for **probably**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **probably**:
@@ -132,6 +137,7 @@ List 3 common collocations for **probably**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **probably** instead of **[[maybe]]**?
@@ -142,6 +148,7 @@ List 3 common collocations for **probably**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Friend asks if you can attend their party next month. You haven't checked your calendar but think you're free. What do you say?
@@ -151,6 +158,7 @@ List 3 common collocations for **probably**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `probable` to the meaning of **probably**.
@@ -159,6 +167,7 @@ List 3 common collocations for **probably**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **probably**.
@@ -171,6 +180,7 @@ Analyze the root/family of **probably**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈprɒbəbli/*
@@ -181,6 +191,7 @@ Analyze the root/family of **probably**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **probably**?
@@ -191,6 +202,7 @@ Analyze the root/family of **probably**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **probably**?

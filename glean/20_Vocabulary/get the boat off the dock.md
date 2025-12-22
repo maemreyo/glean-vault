@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **get the boat off the dock** (*/ɡət ðə boʊt ɒf ðə dɒk/*) mean?
@@ -89,6 +90,7 @@ What does **get the boat off the dock** (*/ɡət ðə boʊt ɒf ðə dɒk/*) mea
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To move a boat away from its docking position"
@@ -99,6 +101,7 @@ What does **get the boat off the dock** (*/ɡət ðə boʊt ɒf ðə dɒk/*) mea
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **get the boat off the dock** in a sentence.
@@ -109,6 +112,7 @@ Use **get the boat off the dock** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **get the boat off the dock**.
@@ -120,6 +124,7 @@ List 3 common collocations for **get the boat off the dock**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **get the boat off the dock**:
@@ -130,6 +135,7 @@ List 3 common collocations for **get the boat off the dock**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **get the boat off the dock** instead of **leave the harbor**?
@@ -140,6 +146,7 @@ List 3 common collocations for **get the boat off the dock**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're at the marina. The weather is changing. You feel it's time to leave. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **get the boat off the dock**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `get` + `off` + `boat` + `dock` to the meaning.
@@ -157,6 +165,7 @@ List 3 common collocations for **get the boat off the dock**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **get the boat off the dock**.
@@ -170,6 +179,7 @@ Analyze the root/family of **get the boat off the dock**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ɡət ðə boʊt ɒf ðə dɒk/*
@@ -180,6 +190,7 @@ Analyze the root/family of **get the boat off the dock**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **get the boat off the dock**?
@@ -190,6 +201,7 @@ Analyze the root/family of **get the boat off the dock**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **get the boat off the dock**?

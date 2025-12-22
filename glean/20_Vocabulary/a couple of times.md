@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a couple of times** (*/ə ˈkʌpl əv taɪmz/*) mean?
@@ -90,6 +91,7 @@ What does **a couple of times** (*/ə ˈkʌpl əv taɪmz/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Occurring on two or more occasions, but not frequently"
@@ -100,6 +102,7 @@ What does **a couple of times** (*/ə ˈkʌpl əv taɪmz/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a couple of times** in a sentence.
@@ -110,6 +113,7 @@ Use **a couple of times** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a couple of times**.
@@ -121,6 +125,7 @@ List 3 common collocations for **a couple of times**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a couple of times**:
@@ -131,6 +136,7 @@ List 3 common collocations for **a couple of times**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a couple of times** instead of **[[several times]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **a couple of times**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend asks if you've been to the new café. You've been there 2-3 times recently. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **a couple of times**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `couple` to the meaning of **a couple of times**.
@@ -158,6 +166,7 @@ List 3 common collocations for **a couple of times**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **a couple of times**.
@@ -171,6 +180,7 @@ Analyze the root/family of **a couple of times**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə ˈkʌpl əv taɪmz/*
@@ -182,6 +192,7 @@ Analyze the root/family of **a couple of times**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **a couple of times**?
@@ -192,6 +203,7 @@ Analyze the root/family of **a couple of times**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a couple of times**?

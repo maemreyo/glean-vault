@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **motivate** (*/ˈməʊtɪveɪt/*) mean?
@@ -90,6 +91,7 @@ What does **motivate** (*/ˈməʊtɪveɪt/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To provide someone with a reason or incentive to do something"
@@ -100,6 +102,7 @@ What does **motivate** (*/ˈməʊtɪveɪt/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **motivate** in a sentence.
@@ -110,6 +113,7 @@ Use **motivate** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **motivate**.
@@ -121,6 +125,7 @@ List 3 common collocations for **motivate**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **motivate**:
@@ -131,6 +136,7 @@ List 3 common collocations for **motivate**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **motivate** instead of [[force]]?
@@ -141,6 +147,7 @@ List 3 common collocations for **motivate**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your team seems tired and unenthusiastic about an important project. You want to re-energize them. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **motivate**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `movere` to the meaning of **motivate**.
@@ -158,6 +166,7 @@ List 3 common collocations for **motivate**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **motivate**.
@@ -172,6 +181,7 @@ Analyze the root/family of **motivate**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈməʊtɪveɪt/*
@@ -182,6 +192,7 @@ Analyze the root/family of **motivate**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **motivate**?
@@ -192,6 +203,7 @@ Analyze the root/family of **motivate**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **motivate**?

@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a lifeboat volunteer** (*/ə ˈlaɪfboʊt ˌvɒlənˈtɪər/*) mean?
@@ -89,6 +90,7 @@ What does **a lifeboat volunteer** (*/ə ˈlaɪfboʊt ˌvɒlənˈtɪər/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Someone who voluntarily serves on a lifeboat crew to rescue people at sea"
@@ -99,6 +101,7 @@ What does **a lifeboat volunteer** (*/ə ˈlaɪfboʊt ˌvɒlənˈtɪər/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a lifeboat volunteer** in a sentence.
@@ -109,6 +112,7 @@ Use **a lifeboat volunteer** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a lifeboat volunteer**.
@@ -120,6 +124,7 @@ List 3 common collocations for **a lifeboat volunteer**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a lifeboat volunteer**:
@@ -130,6 +135,7 @@ List 3 common collocations for **a lifeboat volunteer**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a lifeboat volunteer** instead of **a helper**?
@@ -140,6 +146,7 @@ List 3 common collocations for **a lifeboat volunteer**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You see someone struggling in rough water. You have training. You feel duty-bound. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **a lifeboat volunteer**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `life` + `boat` + `volunteer` to the meaning.
@@ -157,6 +165,7 @@ List 3 common collocations for **a lifeboat volunteer**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **a lifeboat volunteer**.
@@ -170,6 +179,7 @@ Analyze the root/family of **a lifeboat volunteer**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə ˈlaɪfboʊt ˌvɒlənˈtɪər/*
@@ -180,6 +190,7 @@ Analyze the root/family of **a lifeboat volunteer**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **a lifeboat volunteer**?
@@ -190,6 +201,7 @@ Analyze the root/family of **a lifeboat volunteer**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What might oppose **a lifeboat volunteer** in their work?

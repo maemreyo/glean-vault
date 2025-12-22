@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-19-listening-test-03
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **methodology** (*/ˌmeθəˈdɒlədʒi/*) mean?
@@ -90,6 +91,7 @@ What does **methodology** (*/ˌmeθəˈdɒlədʒi/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A system of principles and practices underlying a particular branch of knowledge or field of study"
@@ -100,6 +102,7 @@ What does **methodology** (*/ˌmeθəˈdɒlədʒi/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **methodology** in a sentence.
@@ -110,6 +113,7 @@ Use **methodology** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **methodology**.
@@ -121,6 +125,7 @@ List 3 common collocations for **methodology**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **methodology**:
@@ -131,6 +136,7 @@ List 3 common collocations for **methodology**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **methodology** instead of **method**?
@@ -141,6 +147,7 @@ List 3 common collocations for **methodology**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your professor asks why you chose certain research techniques. You feel prepared and academic. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **methodology**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `method` to the meaning of **methodology**.
@@ -158,6 +166,7 @@ List 3 common collocations for **methodology**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **methodology**.
@@ -171,6 +180,7 @@ Analyze the root/family of **methodology**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌmeθəˈdɒlədʒi/*
@@ -181,6 +191,7 @@ Analyze the root/family of **methodology**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **methodology**?
@@ -191,6 +202,7 @@ Analyze the root/family of **methodology**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **methodology**?

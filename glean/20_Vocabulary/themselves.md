@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/functional-words
 
 ---
 tags:
@@ -80,6 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **themselves** (*/ðəmˈselvz/*) mean?
@@ -91,6 +92,7 @@ What does **themselves** (*/ðəmˈselvz/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Used when people are both the subject and object of an action"
@@ -101,6 +103,7 @@ What does **themselves** (*/ðəmˈselvz/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **themselves** in a sentence.
@@ -111,6 +114,7 @@ Use **themselves** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **themselves**.
@@ -122,6 +126,7 @@ List 3 common collocations for **themselves**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **themselves**:
@@ -132,6 +137,7 @@ List 3 common collocations for **themselves**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **themselves** instead of [[each other]]?
@@ -142,6 +148,7 @@ List 3 common collocations for **themselves**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're telling someone about how your friends solved a problem without any outside help. Say it!
@@ -151,6 +158,7 @@ List 3 common collocations for **themselves**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `selfum` to the meaning of **themselves**.
@@ -159,6 +167,7 @@ List 3 common collocations for **themselves**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **themselves**.
@@ -173,6 +182,7 @@ Analyze the root/family of **themselves**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ðəmˈselvz/*
@@ -183,6 +193,7 @@ Analyze the root/family of **themselves**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **themselves**?
@@ -193,6 +204,7 @@ Analyze the root/family of **themselves**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What concept contrasts with **themselves**?

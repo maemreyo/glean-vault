@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **subjective** (*/səbˈdʒektɪv/*) mean?
@@ -89,6 +90,7 @@ What does **subjective** (*/səbˈdʒektɪv/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Based on personal feelings rather than facts"
@@ -99,6 +101,7 @@ What does **subjective** (*/səbˈdʒektɪv/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **subjective** in a sentence.
@@ -109,6 +112,7 @@ Use **subjective** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **subjective**.
@@ -120,6 +124,7 @@ List 3 common collocations for **subjective**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **subjective**:
@@ -130,6 +135,7 @@ List 3 common collocations for **subjective**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **subjective** instead of **biased**?
@@ -140,6 +146,7 @@ List 3 common collocations for **subjective**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend claims their favorite movie is "objectively the best." You disagree. You feel frustrated by their lack of self-awareness. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **subjective**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `subicere` to the meaning of **subjective**.
@@ -157,6 +165,7 @@ List 3 common collocations for **subjective**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **subjective**.
@@ -170,6 +179,7 @@ Analyze the root/family of **subjective**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */səbˈdʒektɪv/*
@@ -180,6 +190,7 @@ Analyze the root/family of **subjective**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **subjective**?
@@ -190,6 +201,7 @@ Analyze the root/family of **subjective**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **subjective**?

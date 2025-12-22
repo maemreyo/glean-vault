@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
 
 ---
 tags:
@@ -81,6 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **non-forested landscape** (*/nɒn ˈfɒrɪstɪd ˈlændskeɪp/*) mean?
@@ -92,6 +93,7 @@ What does **non-forested landscape** (*/nɒn ˈfɒrɪstɪd ˈlændskeɪp/*) mean
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "An area of land without forest coverage"
@@ -102,6 +104,7 @@ What does **non-forested landscape** (*/nɒn ˈfɒrɪstɪd ˈlændskeɪp/*) mean
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **non-forested landscape** in a sentence.
@@ -112,6 +115,7 @@ Use **non-forested landscape** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **non-forested landscape**.
@@ -123,6 +127,7 @@ List 3 common collocations for **non-forested landscape**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **non-forested landscape**:
@@ -133,6 +138,7 @@ List 3 common collocations for **non-forested landscape**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **non-forested landscape** instead of **grassland**?
@@ -143,6 +149,7 @@ List 3 common collocations for **non-forested landscape**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're studying ecosystems. You're analytical. Say it!
@@ -152,6 +159,7 @@ List 3 common collocations for **non-forested landscape**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `landskip` to the meaning of **non-forested landscape**.
@@ -160,6 +168,7 @@ List 3 common collocations for **non-forested landscape**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **non-forested landscape**.
@@ -172,6 +181,7 @@ Analyze the root/family of **non-forested landscape**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */nɒn ˈfɒrɪstɪd ˈlændskeɪp/*
@@ -182,6 +192,7 @@ Analyze the root/family of **non-forested landscape**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **non-forested landscape**?
@@ -192,6 +203,7 @@ Analyze the root/family of **non-forested landscape**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **non-forested landscape**?

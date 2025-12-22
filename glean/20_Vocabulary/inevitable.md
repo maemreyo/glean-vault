@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-19-listening-test-03
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **inevitable** (*/ɪnˈevɪtəbl/*) mean?
@@ -89,6 +90,7 @@ What does **inevitable** (*/ɪnˈevɪtəbl/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Impossible to avoid or prevent; certain to happen"
@@ -99,6 +101,7 @@ What does **inevitable** (*/ɪnˈevɪtəbl/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **inevitable** in a sentence.
@@ -109,6 +112,7 @@ Use **inevitable** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **inevitable**.
@@ -120,6 +124,7 @@ List 3 common collocations for **inevitable**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **inevitable**:
@@ -130,6 +135,7 @@ List 3 common collocations for **inevitable**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **inevitable** instead of **[[certain]]**?
@@ -140,6 +146,7 @@ List 3 common collocations for **inevitable**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your business is losing money every month despite all efforts. You feel resigned. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **inevitable**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `<evit>` to the meaning of **inevitable**.
@@ -157,6 +165,7 @@ List 3 common collocations for **inevitable**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **inevitable**.
@@ -169,6 +178,7 @@ Analyze the root/family of **inevitable**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ɪnˈevɪtəbl/*
@@ -179,6 +189,7 @@ Analyze the root/family of **inevitable**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **inevitable**?
@@ -189,6 +200,7 @@ Analyze the root/family of **inevitable**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **inevitable**?

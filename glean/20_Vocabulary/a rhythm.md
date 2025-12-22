@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a rhythm** (*/ə ˈrɪðəm/*) mean?
@@ -89,6 +90,7 @@ What does **a rhythm** (*/ə ˈrɪðəm/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A regular pattern of sounds or movements in time"
@@ -99,6 +101,7 @@ What does **a rhythm** (*/ə ˈrɪðəm/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a rhythm** in a sentence.
@@ -109,6 +112,7 @@ Use **a rhythm** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a rhythm**.
@@ -120,6 +124,7 @@ List 3 common collocations for **a rhythm**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a rhythm**:
@@ -130,6 +135,7 @@ List 3 common collocations for **a rhythm**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a rhythm** instead of **[[a pattern]]**?
@@ -140,6 +146,7 @@ List 3 common collocations for **a rhythm**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're teaching a dance class and students are struggling to stay coordinated. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **a rhythm**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `rhythmos` to the meaning of **a rhythm**.
@@ -157,6 +165,7 @@ List 3 common collocations for **a rhythm**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **a rhythm**.
@@ -169,6 +178,7 @@ Analyze the root/family of **a rhythm**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə ˈrɪðəm/*
@@ -179,6 +189,7 @@ Analyze the root/family of **a rhythm**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **a rhythm**?
@@ -189,6 +200,7 @@ Analyze the root/family of **a rhythm**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a rhythm**?

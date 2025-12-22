@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **theft** (*/θeft/*) mean?
@@ -90,6 +91,7 @@ What does **theft** (*/θeft/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The crime of taking someone else's property without permission"
@@ -100,6 +102,7 @@ What does **theft** (*/θeft/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **theft** in a sentence.
@@ -110,6 +113,7 @@ Use **theft** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **theft**.
@@ -121,6 +125,7 @@ List 3 common collocations for **theft**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **theft**:
@@ -131,6 +136,7 @@ List 3 common collocations for **theft**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **theft** instead of **[[robbery]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **theft**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're reporting a crime to the police. Someone stole your bicycle. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **theft**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `þeofþ` to the meaning of **theft**.
@@ -158,6 +166,7 @@ List 3 common collocations for **theft**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **theft**.
@@ -172,6 +181,7 @@ Analyze the root/family of **theft**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */θeft/*
@@ -182,6 +192,7 @@ Analyze the root/family of **theft**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **theft**?
@@ -192,6 +203,7 @@ Analyze the root/family of **theft**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **theft**?

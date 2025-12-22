@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **large-scale reforestation projects** (*/ˌlɑːdʒ skeɪl ˌriː.fɒ.rɪˈsteɪ.ʃən ˈprɒdʒ.ekts/*) mean?
@@ -90,6 +91,7 @@ What does **large-scale reforestation projects** (*/ˌlɑːdʒ skeɪl ˌriː.fɒ
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Extensive initiatives to plant trees and restore forest ecosystems over large areas"
@@ -100,6 +102,7 @@ What does **large-scale reforestation projects** (*/ˌlɑːdʒ skeɪl ˌriː.fɒ
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **large-scale reforestation projects** in a sentence.
@@ -110,6 +113,7 @@ Use **large-scale reforestation projects** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **large-scale reforestation projects**.
@@ -121,6 +125,7 @@ List 3 common collocations for **large-scale reforestation projects**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **large-scale reforestation projects**:
@@ -131,6 +136,7 @@ List 3 common collocations for **large-scale reforestation projects**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **large-scale reforestation projects** instead of [[tree planting]]?
@@ -141,6 +147,7 @@ List 3 common collocations for **large-scale reforestation projects**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're at an environmental conference. Someone asks about solutions to desertification. You feel expert. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **large-scale reforestation projects**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots to the meaning of **large-scale reforestation projects**.
@@ -158,6 +166,7 @@ List 3 common collocations for **large-scale reforestation projects**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **large-scale reforestation projects**.
@@ -170,6 +179,7 @@ Analyze the root/family of **large-scale reforestation projects**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌlɑːdʒ skeɪl ˌriː.fɒ.rɪˈsteɪ.ʃən ˈprɒdʒ.ekts/*
@@ -180,6 +190,7 @@ Analyze the root/family of **large-scale reforestation projects**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **large-scale reforestation projects**?
@@ -190,6 +201,7 @@ Analyze the root/family of **large-scale reforestation projects**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **large-scale reforestation projects**?

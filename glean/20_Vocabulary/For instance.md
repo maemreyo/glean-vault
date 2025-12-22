@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/general/functional-words
 
 ---
 tags:
@@ -80,6 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **For instance** (*/fɔːr ˈɪnstəns/*) mean?
@@ -91,6 +92,7 @@ What does **For instance** (*/fɔːr ˈɪnstəns/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A phrase meaning 'as an example' used to introduce specific cases"
@@ -101,6 +103,7 @@ What does **For instance** (*/fɔːr ˈɪnstəns/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **For instance** in a sentence.
@@ -111,6 +114,7 @@ Use **For instance** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **For instance**.
@@ -122,6 +126,7 @@ List 3 common collocations for **For instance**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **For instance**:
@@ -132,6 +137,7 @@ List 3 common collocations for **For instance**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **For instance** instead of **like**?
@@ -142,6 +148,7 @@ List 3 common collocations for **For instance**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're explaining cooking techniques to a beginner. You want to give specific examples. Say it!
@@ -151,6 +158,7 @@ List 3 common collocations for **For instance**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `instantia` to the meaning of **For instance**.
@@ -159,6 +167,7 @@ List 3 common collocations for **For instance**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **For instance**.
@@ -171,6 +180,7 @@ Analyze the root/family of **For instance**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */fɔːr ˈɪnstəns/*
@@ -181,6 +191,7 @@ Analyze the root/family of **For instance**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **For instance**?
@@ -191,6 +202,7 @@ Analyze the root/family of **For instance**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **For instance**?

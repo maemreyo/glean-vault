@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **at risk of drying out** (*/æt rɪsk əv ˈdraɪɪŋ aʊt/*) mean?
@@ -90,6 +91,7 @@ What does **at risk of drying out** (*/æt rɪsk əv ˈdraɪɪŋ aʊt/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Being in danger of losing moisture completely and suffering damage as a result"
@@ -100,6 +102,7 @@ What does **at risk of drying out** (*/æt rɪsk əv ˈdraɪɪŋ aʊt/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **at risk of drying out** in a sentence.
@@ -110,6 +113,7 @@ Use **at risk of drying out** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **at risk of drying out**.
@@ -121,6 +125,7 @@ List 3 common collocations for **at risk of drying out**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **at risk of drying out**:
@@ -131,6 +136,7 @@ List 3 common collocations for **at risk of drying out**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **at risk of drying out** instead of **[[thirsty]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **at risk of drying out**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You notice your neighbor's garden while they're on vacation. The soil is cracked. You feel concerned. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **at risk of drying out**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `<risk>` and `<dry out>` to the meaning of **at risk of drying out**.
@@ -158,6 +166,7 @@ List 3 common collocations for **at risk of drying out**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **at risk of drying out**.
@@ -171,6 +180,7 @@ Analyze the root/family of **at risk of drying out**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */æt rɪsk əv ˈdraɪɪŋ aʊt/*
@@ -181,6 +191,7 @@ Analyze the root/family of **at risk of drying out**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **at risk of drying out**?
@@ -191,6 +202,7 @@ Analyze the root/family of **at risk of drying out**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **at risk of drying out**?

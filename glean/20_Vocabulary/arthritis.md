@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/health/physical-health-diet #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/health/physical-health-diet
 
 ---
 tags:
@@ -82,6 +82,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **arthritis** (*/ɑːrˈθraɪ.t̬əs/*) mean?
@@ -94,6 +95,7 @@ What does **arthritis** (*/ɑːrˈθraɪ.t̬əs/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A medical condition characterized by inflammation, swelling, and stiffness in the joints"
@@ -104,6 +106,7 @@ What does **arthritis** (*/ɑːrˈθraɪ.t̬əs/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **arthritis** in a sentence.
@@ -114,6 +117,7 @@ Use **arthritis** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **arthritis**.
@@ -125,6 +129,7 @@ List 3 common collocations for **arthritis**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **arthritis**:
@@ -136,6 +141,7 @@ List 3 common collocations for **arthritis**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **arthritis** instead of **[[joint pain]]**?
@@ -146,6 +152,7 @@ List 3 common collocations for **arthritis**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your elderly parent complains of stiff fingers in the morning. You're concerned and want to suggest medical consultation. Say it!
@@ -155,6 +162,7 @@ List 3 common collocations for **arthritis**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `arthron` to the meaning of **arthritis**.
@@ -164,6 +172,7 @@ List 3 common collocations for **arthritis**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **arthritis**.
@@ -177,6 +186,7 @@ Analyze the root/family of **arthritis**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ɑːrˈθraɪ.t̬əs/*
@@ -187,6 +197,7 @@ Analyze the root/family of **arthritis**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **arthritis**?
@@ -197,6 +208,7 @@ Analyze the root/family of **arthritis**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite concept of **arthritis**?

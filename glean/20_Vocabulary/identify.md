@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/functional-words
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **identify** (*/aɪˈdentɪfaɪ/*) mean?
@@ -90,6 +91,7 @@ What does **identify** (*/aɪˈdentɪfaɪ/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To recognize or establish what something or someone is"
@@ -100,6 +102,7 @@ What does **identify** (*/aɪˈdentɪfaɪ/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **identify** in a sentence.
@@ -110,6 +113,7 @@ Use **identify** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **identify**.
@@ -121,6 +125,7 @@ List 3 common collocations for **identify**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **identify**:
@@ -131,6 +136,7 @@ List 3 common collocations for **identify**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **identify** instead of **recognize**?
@@ -141,6 +147,7 @@ List 3 common collocations for **identify**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're a quality control inspector. You notice a defect pattern. Report it!
@@ -150,6 +157,7 @@ List 3 common collocations for **identify**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `idem + facere` to the meaning of **identify**.
@@ -158,6 +166,7 @@ List 3 common collocations for **identify**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **identify**.
@@ -171,6 +180,7 @@ Analyze the root/family of **identify**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */aɪˈdentɪfaɪ/
@@ -181,6 +191,7 @@ Analyze the root/family of **identify**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **identify**?
@@ -191,6 +202,7 @@ Analyze the root/family of **identify**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **identify**?

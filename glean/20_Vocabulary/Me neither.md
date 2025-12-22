@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **Me neither** (*/miː ˈnaɪðə(r)/*) mean?
@@ -90,6 +91,7 @@ What does **Me neither** (*/miː ˈnaɪðə(r)/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A response showing agreement with a negative statement someone else made"
@@ -100,6 +102,7 @@ What does **Me neither** (*/miː ˈnaɪðə(r)/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **Me neither** in a sentence.
@@ -110,6 +113,7 @@ Use **Me neither** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common contexts for **Me neither**.
@@ -121,6 +125,7 @@ List 3 common contexts for **Me neither**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **Me neither**:
@@ -131,6 +136,7 @@ List 3 common contexts for **Me neither**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **Me neither** instead of **[[Neither do I]]**?
@@ -141,6 +147,7 @@ List 3 common contexts for **Me neither**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend says they're not ready for tomorrow's exam. You feel the same way!
@@ -150,6 +157,7 @@ List 3 common contexts for **Me neither**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `nāhwæþer` to the meaning of **Me neither**.
@@ -158,6 +166,7 @@ List 3 common contexts for **Me neither**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **Me neither**.
@@ -172,6 +181,7 @@ Analyze the root/family of **Me neither**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */miː ˈnaɪðə(r)/*
@@ -182,6 +192,7 @@ Analyze the root/family of **Me neither**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **Me neither**?
@@ -192,6 +203,7 @@ Analyze the root/family of **Me neither**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **Me neither**?

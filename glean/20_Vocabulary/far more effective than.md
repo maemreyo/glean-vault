@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **far more effective than** (*/fɑː mɔːr ɪˈfektɪv ðæn/*) mean?
@@ -89,6 +90,7 @@ What does **far more effective than** (*/fɑː mɔːr ɪˈfektɪv ðæn/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Significantly better in producing desired results compared to"
@@ -99,6 +101,7 @@ What does **far more effective than** (*/fɑː mɔːr ɪˈfektɪv ðæn/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **far more effective than** in a sentence.
@@ -109,6 +112,7 @@ Use **far more effective than** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **far more effective than**.
@@ -120,6 +124,7 @@ List 3 common collocations for **far more effective than**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **far more effective than**:
@@ -130,6 +135,7 @@ List 3 common collocations for **far more effective than**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **far more effective than** instead of **slightly more effective than**?
@@ -140,6 +146,7 @@ List 3 common collocations for **far more effective than**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your boss asks which marketing strategy worked better. You want to strongly recommend the new approach. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **far more effective than**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `feorr` (far) to the meaning of **far more effective than**.
@@ -157,6 +165,7 @@ List 3 common collocations for **far more effective than**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **far more effective than**.
@@ -169,6 +178,7 @@ Analyze the root/family of **far more effective than**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */fɑː mɔːr ɪˈfektɪv ðæn/*
@@ -179,6 +189,7 @@ Analyze the root/family of **far more effective than**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **far more effective than**?
@@ -189,6 +200,7 @@ Analyze the root/family of **far more effective than**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **far more effective than**?

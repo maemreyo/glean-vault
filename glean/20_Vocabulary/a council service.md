@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **council service** (*/ˈkaʊn.səl ˈsɜː.vɪs/*) mean?
@@ -90,6 +91,7 @@ What does **council service** (*/ˈkaʊn.səl ˈsɜː.vɪs/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A public service provided by local government for community benefit"
@@ -100,6 +102,7 @@ What does **council service** (*/ˈkaʊn.səl ˈsɜː.vɪs/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **council service** in a sentence.
@@ -110,6 +113,7 @@ Use **council service** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **council service**.
@@ -121,6 +125,7 @@ List 3 common collocations for **council service**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **council service**:
@@ -131,6 +136,7 @@ List 3 common collocations for **council service**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **council service** instead of [[government service]]?
@@ -141,6 +147,7 @@ List 3 common collocations for **council service**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your neighbor asks who maintains the local park. You feel knowledgeable. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **council service**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `kunnr` to the meaning of **council service**.
@@ -158,6 +166,7 @@ List 3 common collocations for **council service**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **council service**.
@@ -170,6 +179,7 @@ Analyze the root/family of **council service**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə ˈkaʊn.səl ˈsɜː.vɪs/*
@@ -180,6 +190,7 @@ Analyze the root/family of **council service**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **council service**?
@@ -190,6 +201,7 @@ Analyze the root/family of **council service**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **council service**?

@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
 
 ---
 tags:
@@ -80,6 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **the noise and bustle** (*/ðə nɔɪz ænd ˈbʌsəl/*) mean?
@@ -91,6 +92,7 @@ What does **the noise and bustle** (*/ðə nɔɪz ænd ˈbʌsəl/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The characteristic sounds and energetic activity of a busy place"
@@ -102,6 +104,7 @@ What does **the noise and bustle** (*/ðə nɔɪz ænd ˈbʌsəl/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **the noise and bustle** in a sentence.
@@ -112,6 +115,7 @@ Use **the noise and bustle** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **the noise and bustle**.
@@ -123,6 +127,7 @@ List 3 common collocations for **the noise and bustle**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **the noise and bustle**:
@@ -133,6 +138,7 @@ List 3 common collocations for **the noise and bustle**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **the noise and bustle** instead of [[business]]?
@@ -143,6 +149,7 @@ List 3 common collocations for **the noise and bustle**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You've just moved from a quiet village to a big city. You're describing your first impressions to a friend. Say it!
@@ -152,6 +159,7 @@ List 3 common collocations for **the noise and bustle**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `bustlen` to the meaning of **the noise and bustle**.
@@ -160,6 +168,7 @@ List 3 common collocations for **the noise and bustle**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **the noise and bustle**.
@@ -173,6 +182,7 @@ Analyze the root/family of **the noise and bustle**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ðə nɔɪz ænd ˈbʌsəl/*
@@ -183,6 +193,7 @@ Analyze the root/family of **the noise and bustle**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **the noise and bustle**?
@@ -193,6 +204,7 @@ Analyze the root/family of **the noise and bustle**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **the noise and bustle**?

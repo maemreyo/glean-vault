@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 
 ---
 tags:
@@ -80,6 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **come along** (*/kʌm əˈlɒŋ/*) mean?
@@ -91,6 +92,7 @@ What does **come along** (*/kʌm əˈlɒŋ/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To accompany someone or go with them; to make progress or develop; to arrive or appear"
@@ -101,6 +103,7 @@ What does **come along** (*/kʌm əˈlɒŋ/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **come along** in a sentence.
@@ -111,6 +114,7 @@ Use **come along** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **come along**.
@@ -122,6 +126,7 @@ List 3 common collocations for **come along**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **come along**:
@@ -132,6 +137,7 @@ List 3 common collocations for **come along**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **come along** instead of **accompany**?
@@ -142,6 +148,7 @@ List 3 common collocations for **come along**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friends are planning a weekend trip to the mountains. You feel excited and want to join. Say it!
@@ -151,6 +158,7 @@ List 3 common collocations for **come along**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `come` + `along` to the meaning of **come along**.
@@ -159,6 +167,7 @@ List 3 common collocations for **come along**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **come along**.
@@ -172,6 +181,7 @@ Analyze the root/family of **come along**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */kʌm əˈlɒŋ/*
@@ -182,6 +192,7 @@ Analyze the root/family of **come along**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **come along**?
@@ -192,6 +203,7 @@ Analyze the root/family of **come along**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **come along**?

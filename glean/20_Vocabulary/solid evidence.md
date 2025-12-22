@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **solid evidence** (*/ˈsɒlɪd ˈevɪdəns/*) mean?
@@ -89,6 +90,7 @@ What does **solid evidence** (*/ˈsɒlɪd ˈevɪdəns/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Strong, convincing, and reliable proof or facts that support a claim or conclusion"
@@ -99,6 +101,7 @@ What does **solid evidence** (*/ˈsɒlɪd ˈevɪdəns/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **solid evidence** in a sentence.
@@ -109,6 +112,7 @@ Use **solid evidence** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **solid evidence**.
@@ -120,6 +124,7 @@ List 3 common collocations for **solid evidence**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **solid evidence**:
@@ -130,6 +135,7 @@ List 3 common collocations for **solid evidence**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **solid evidence** instead of **[[proof]]**?
@@ -140,6 +146,7 @@ List 3 common collocations for **solid evidence**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Someone doubts your research findings. Respond confidently.
@@ -149,6 +156,7 @@ List 3 common collocations for **solid evidence**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `solidus` and `evidentia` to the meaning of **solid evidence**.
@@ -157,6 +165,7 @@ List 3 common collocations for **solid evidence**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **solid evidence**.
@@ -169,6 +178,7 @@ Analyze the root/family of **solid evidence**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈsɒlɪd ˈevɪdəns/*
@@ -179,6 +189,7 @@ Analyze the root/family of **solid evidence**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **solid evidence**?
@@ -189,6 +200,7 @@ Analyze the root/family of **solid evidence**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **solid evidence**?

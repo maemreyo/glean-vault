@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **the decision-making process** (*/ðə dɪˈsɪʒən meɪkɪŋ ˈprəʊses/*) mean?
@@ -90,6 +91,7 @@ What does **the decision-making process** (*/ðə dɪˈsɪʒən meɪkɪŋ ˈprə
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The series of steps involved in choosing between alternatives"
@@ -100,6 +102,7 @@ What does **the decision-making process** (*/ðə dɪˈsɪʒən meɪkɪŋ ˈprə
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **the decision-making process** in a sentence.
@@ -110,6 +113,7 @@ Use **the decision-making process** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **the decision-making process**.
@@ -121,6 +125,7 @@ List 3 common collocations for **the decision-making process**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **the decision-making process**:
@@ -131,6 +136,7 @@ List 3 common collocations for **the decision-making process**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **the decision-making process** instead of **[[choice]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **the decision-making process**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your team takes weeks to make simple decisions. You're frustrated with the inefficiency. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **the decision-making process**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `decidere` to the meaning of **the decision-making process**.
@@ -158,6 +166,7 @@ List 3 common collocations for **the decision-making process**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **the decision-making process**.
@@ -170,6 +179,7 @@ Analyze the root/family of **the decision-making process**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ðə dɪˈsɪʒən meɪkɪŋ ˈprəʊses/*
@@ -180,6 +190,7 @@ Analyze the root/family of **the decision-making process**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **the decision-making process**?
@@ -190,6 +201,7 @@ Analyze the root/family of **the decision-making process**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **the decision-making process**?

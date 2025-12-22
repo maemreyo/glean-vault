@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/work-economy/business-models #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/topic-specific/work-economy/business-models
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **fundraising** (*/ˈfʌndreɪzɪŋ/*) mean?
@@ -90,6 +91,7 @@ What does **fundraising** (*/ˈfʌndreɪzɪŋ/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Organized efforts to collect voluntary contributions of money for charitable or other purposes"**
@@ -100,6 +102,7 @@ What does **fundraising** (*/ˈfʌndreɪzɪŋ/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **fundraising** in a sentence.
@@ -110,6 +113,7 @@ Use **fundraising** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **fundraising**.
@@ -121,6 +125,7 @@ List 3 common collocations for **fundraising**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **fundraising**:
@@ -131,6 +136,7 @@ List 3 common collocations for **fundraising**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **fundraising** instead of **[[donation]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **fundraising**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your community needs to help flood victims. You're proposing action at a town meeting. What do you suggest?
@@ -150,6 +157,7 @@ List 3 common collocations for **fundraising**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `fund + raising` to the meaning of **fundraising**.
@@ -158,6 +166,7 @@ List 3 common collocations for **fundraising**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **fundraising**.
@@ -171,6 +180,7 @@ Analyze the root/family of **fundraising**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈfʌndreɪzɪŋ/*
@@ -181,6 +191,7 @@ Analyze the root/family of **fundraising**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **fundraising**?
@@ -191,6 +202,7 @@ Analyze the root/family of **fundraising**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite concept of **fundraising**?

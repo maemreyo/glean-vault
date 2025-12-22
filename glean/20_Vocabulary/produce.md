@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
 
 ---
 tags:
@@ -81,6 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **produce** (*/prəˈdjuːs/ verb, */ˈprɒdjuːs/ noun) mean?
@@ -92,6 +93,7 @@ What does **produce** (*/prəˈdjuːs/ verb, */ˈprɒdjuːs/ noun) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To create or manufacture something; fresh farm products"
@@ -102,6 +104,7 @@ What does **produce** (*/prəˈdjuːs/ verb, */ˈprɒdjuːs/ noun) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **produce** in a sentence (noun form).
@@ -112,6 +115,7 @@ Use **produce** in a sentence (noun form).
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **produce** (noun).
@@ -123,6 +127,7 @@ List 3 common collocations for **produce** (noun).
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **produce**:
@@ -133,6 +138,7 @@ List 3 common collocations for **produce** (noun).
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **produce** (noun) instead of **[[products]]**?
@@ -143,6 +149,7 @@ List 3 common collocations for **produce** (noun).
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're at a farmer's market. You want to describe what you're buying. Say it!
@@ -152,6 +159,7 @@ List 3 common collocations for **produce** (noun).
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `<producere>` to the meaning of **produce**.
@@ -160,6 +168,7 @@ List 3 common collocations for **produce** (noun).
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **produce**.
@@ -171,6 +180,7 @@ Analyze the root/family of **produce**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈprɒdjuːs/* (noun), */prəˈdjuːs/* (verb)
@@ -181,6 +191,7 @@ Analyze the root/family of **produce**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **produce**?
@@ -191,6 +202,7 @@ Analyze the root/family of **produce**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **produce** (verb)?

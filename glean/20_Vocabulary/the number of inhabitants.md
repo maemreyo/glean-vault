@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **inhabitants** (*/ɪnˈhæbɪtənts/*) mean?
@@ -90,6 +91,7 @@ What does **inhabitants** (*/ɪnˈhæbɪtənts/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "People who live in a particular place; the population or residents of a specific area"
@@ -100,6 +102,7 @@ What does **inhabitants** (*/ɪnˈhæbɪtənts/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **inhabitants** in a sentence.
@@ -110,6 +113,7 @@ Use **inhabitants** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **inhabitants**.
@@ -121,6 +125,7 @@ List 3 common collocations for **inhabitants**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **inhabitants**:
@@ -131,6 +136,7 @@ List 3 common collocations for **inhabitants**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **inhabitants** instead of [[residents]]?
@@ -141,6 +147,7 @@ List 3 common collocations for **inhabitants**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're presenting demographic data about a city. You feel professional and informative. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **inhabitants**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `inhabit` to the meaning of **inhabitants**.
@@ -158,6 +166,7 @@ List 3 common collocations for **inhabitants**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **inhabitants**.
@@ -171,6 +180,7 @@ Analyze the root/family of **inhabitants**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ɪnˈhæbɪtənts/*
@@ -181,6 +191,7 @@ Analyze the root/family of **inhabitants**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **inhabitants**?
@@ -191,6 +202,7 @@ Analyze the root/family of **inhabitants**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **inhabitants**?

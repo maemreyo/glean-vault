@@ -1,4 +1,4 @@
-#flashcards/vocabulary/sci-tech/scientific-research #flashcards/cam-19-listening-test-03
+#flashcards/vocabulary/sci-tech/scientific-research
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **tardigrade** (*/ˈtɑːdɪɡreɪd/*) mean?
@@ -90,6 +91,7 @@ What does **tardigrade** (*/ˈtɑːdɪɡreɪd/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A microscopic eight-legged animal that can survive extreme conditions"
@@ -100,6 +102,7 @@ What does **tardigrade** (*/ˈtɑːdɪɡreɪd/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **tardigrade** in a sentence.
@@ -110,6 +113,7 @@ Use **tardigrade** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **tardigrade**.
@@ -121,6 +125,7 @@ List 3 common collocations for **tardigrade**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **tardigrade**:
@@ -131,6 +136,7 @@ List 3 common collocations for **tardigrade**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **tardigrade** instead of **micro-animal**?
@@ -141,6 +147,7 @@ List 3 common collocations for **tardigrade**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're explaining extremophiles to students. You want to give the most impressive example.
@@ -150,6 +157,7 @@ List 3 common collocations for **tardigrade**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `tardus` and `gradus` to the meaning of **tardigrade**.
@@ -158,6 +166,7 @@ List 3 common collocations for **tardigrade**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **tardigrade**.
@@ -172,6 +181,7 @@ Analyze the root/family of **tardigrade**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈtɑːdɪɡreɪd/*
@@ -182,6 +192,7 @@ Analyze the root/family of **tardigrade**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **tardigrade**?
@@ -192,6 +203,7 @@ Analyze the root/family of **tardigrade**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **tardigrade**?

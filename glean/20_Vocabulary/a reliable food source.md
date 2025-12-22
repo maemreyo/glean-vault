@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a reliable food source** (*/ə rɪˈlaɪəbəl fuːd sɔːs/*) mean?
@@ -89,6 +90,7 @@ What does **a reliable food source** (*/ə rɪˈlaɪəbəl fuːd sɔːs/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A consistent and dependable supply of food that can be counted on to provide sustenance"
@@ -99,6 +101,7 @@ What does **a reliable food source** (*/ə rɪˈlaɪəbəl fuːd sɔːs/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a reliable food source** in a sentence.
@@ -109,6 +112,7 @@ Use **a reliable food source** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a reliable food source**.
@@ -120,6 +124,7 @@ List 3 common collocations for **a reliable food source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a reliable food source**:
@@ -130,6 +135,7 @@ List 3 common collocations for **a reliable food source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a reliable food source** instead of **food availability**?
@@ -140,6 +146,7 @@ List 3 common collocations for **a reliable food source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're discussing community resilience with local leaders. You feel concerned about sustainability. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **a reliable food source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `reliable` + `source` to the meaning of **a reliable food source**.
@@ -157,6 +165,7 @@ List 3 common collocations for **a reliable food source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **a reliable food source**.
@@ -171,6 +180,7 @@ Analyze the root/family of **a reliable food source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə rɪˈlaɪəbəl fuːd sɔːs/*
@@ -181,6 +191,7 @@ Analyze the root/family of **a reliable food source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **a reliable food source**?
@@ -191,6 +202,7 @@ Analyze the root/family of **a reliable food source**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a reliable food source**?

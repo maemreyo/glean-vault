@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles #flashcards/cam-19-listening-test-04
+#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **promote** (*/prəˈməʊt/*) mean?
@@ -90,6 +91,7 @@ What does **promote** (*/prəˈməʊt/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To advance someone to a higher position or rank"
@@ -100,6 +102,7 @@ What does **promote** (*/prəˈməʊt/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **promote** in a sentence.
@@ -110,6 +113,7 @@ Use **promote** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **promote**.
@@ -121,6 +125,7 @@ List 3 common collocations for **promote**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **promote**:
@@ -131,6 +136,7 @@ List 3 common collocations for **promote**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **promote** instead of **[[encourage]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **promote**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're explaining why eco-friendly practices should be adopted. You feel passionate. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **promote**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `movere` to the meaning of **promote**.
@@ -158,6 +166,7 @@ List 3 common collocations for **promote**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **promote**.
@@ -171,6 +180,7 @@ Analyze the root/family of **promote**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */prəˈməʊt/*
@@ -181,6 +191,7 @@ Analyze the root/family of **promote**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **promote**?
@@ -191,6 +202,7 @@ Analyze the root/family of **promote**.
 
 ---
 
+#flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **promote**?

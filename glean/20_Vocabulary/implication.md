@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-19-listening-test-03
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **implication** (*/ˌɪmplɪˈkeɪʃn/*) mean?
@@ -90,6 +91,7 @@ What does **implication** (*/ˌɪmplɪˈkeɪʃn/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A conclusion about something that is suggested but not directly expressed"
@@ -100,6 +102,7 @@ What does **implication** (*/ˌɪmplɪˈkeɪʃn/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **implication** in a sentence.
@@ -110,6 +113,7 @@ Use **implication** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **implication**.
@@ -121,6 +125,7 @@ List 3 common collocations for **implication**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **implication**:
@@ -131,6 +136,7 @@ List 3 common collocations for **implication**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **implication** instead of **[[effect]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **implication**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your boss says "We need to reduce costs" while looking directly at your department. You feel worried. Respond to a coworker.
@@ -150,6 +157,7 @@ List 3 common collocations for **implication**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `plicare` to the meaning of **implication**.
@@ -158,6 +166,7 @@ List 3 common collocations for **implication**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **implication**.
@@ -170,6 +179,7 @@ Analyze the root/family of **implication**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌɪmplɪˈkeɪʃn/*
@@ -180,6 +190,7 @@ Analyze the root/family of **implication**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **implication**?
@@ -190,6 +201,7 @@ Analyze the root/family of **implication**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **implication**?

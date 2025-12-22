@@ -1,4 +1,4 @@
-#flashcards/vocabulary/psychology-behavior/social-psychology #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/psychology-behavior/social-psychology
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **obsessed with** (*/əbˈsest wɪð/*) mean?
@@ -90,6 +91,7 @@ What does **obsessed with** (*/əbˈsest wɪð/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Having your mind constantly occupied by something to an excessive degree"
@@ -100,6 +102,7 @@ What does **obsessed with** (*/əbˈsest wɪð/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **obsessed with** in a sentence.
@@ -110,6 +113,7 @@ Use **obsessed with** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **obsessed with**.
@@ -121,6 +125,7 @@ List 3 common collocations for **obsessed with**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **obsessed with**:
@@ -131,6 +136,7 @@ List 3 common collocations for **obsessed with**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **obsessed with** instead of **[[passionate about]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **obsessed with**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend keeps talking about their new relationship 24/7. You want to describe their behavior. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **obsessed with**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `obsidere` to the meaning of **obsessed with**.
@@ -158,6 +166,7 @@ List 3 common collocations for **obsessed with**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **obsessed with**.
@@ -171,6 +180,7 @@ Analyze the root/family of **obsessed with**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */əbˈsest wɪð/*
@@ -181,6 +191,7 @@ Analyze the root/family of **obsessed with**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **obsessed with**?
@@ -191,6 +202,7 @@ Analyze the root/family of **obsessed with**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **obsessed with**?

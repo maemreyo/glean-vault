@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
 
 ---
 tags:
@@ -80,6 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **extended family** (*/ɪkˈstendɪd ˈfæməli/*) mean?
@@ -91,6 +92,7 @@ What does **extended family** (*/ɪkˈstendɪd ˈfæməli/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A family group that extends beyond the nuclear family; relatives including grandparents, aunts, uncles, cousins, etc. living together or in close contact"
@@ -102,6 +104,7 @@ What does **extended family** (*/ɪkˈstendɪd ˈfæməli/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **extended family** in a sentence.
@@ -112,6 +115,7 @@ Use **extended family** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **extended family**.
@@ -123,6 +127,7 @@ List 3 common collocations for **extended family**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **extended family**:
@@ -134,6 +139,7 @@ List 3 common collocations for **extended family**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **extended family** instead of [[nuclear family]]?
@@ -144,6 +150,7 @@ List 3 common collocations for **extended family**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Someone asks why you have so many people at your house for dinner. You feel proud of your family bonds. Say it!
@@ -153,6 +160,7 @@ List 3 common collocations for **extended family**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `extend` + `family` to the meaning of **extended family**.
@@ -161,6 +169,7 @@ List 3 common collocations for **extended family**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **extended family**.
@@ -174,6 +183,7 @@ Analyze the root/family of **extended family**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ɪkˈstendɪd ˈfæməli/*
@@ -184,6 +194,7 @@ Analyze the root/family of **extended family**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **extended family**?
@@ -194,6 +205,7 @@ Analyze the root/family of **extended family**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **extended family**?

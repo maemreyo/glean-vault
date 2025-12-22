@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -80,6 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **opposite** (*/ˈɒpəzɪt/*) mean?
@@ -91,6 +92,7 @@ What does **opposite** (*/ˈɒpəzɪt/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Completely different; contrary"
@@ -101,6 +103,7 @@ What does **opposite** (*/ˈɒpəzɪt/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **opposite** in a sentence.
@@ -111,6 +114,7 @@ Use **opposite** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **opposite**.
@@ -122,6 +126,7 @@ List 3 common collocations for **opposite**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **opposite**:
@@ -132,6 +137,7 @@ List 3 common collocations for **opposite**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **opposite** instead of **[[different]]**?
@@ -142,6 +148,7 @@ List 3 common collocations for **opposite**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Political debate. You want to emphasize your position is completely different. What do you say?
@@ -151,6 +158,7 @@ List 3 common collocations for **opposite**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `oppose` to the meaning of **opposite**.
@@ -159,6 +167,7 @@ List 3 common collocations for **opposite**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **opposite**.
@@ -171,6 +180,7 @@ Analyze the root/family of **opposite**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈɒpəzɪt/*
@@ -181,6 +191,7 @@ Analyze the root/family of **opposite**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **opposite**?
@@ -191,6 +202,7 @@ Analyze the root/family of **opposite**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **opposite**?

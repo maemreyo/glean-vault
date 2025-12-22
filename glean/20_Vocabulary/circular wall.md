@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/arts-architecture/architecture
 ---
 tags:
   - vocabulary
@@ -77,6 +77,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **circular wall** (*/ˈsɜːkjələ wɔːl/*) mean?
@@ -88,6 +89,7 @@ What does **circular wall** (*/ˈsɜːkjələ wɔːl/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A wall built in a circle shape"
@@ -99,6 +101,7 @@ What does **circular wall** (*/ˈsɜːkjələ wɔːl/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **circular wall** in a sentence.
@@ -109,6 +112,7 @@ Use **circular wall** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **circular wall**.
@@ -121,6 +125,7 @@ List 3 common collocations for **circular wall**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **circular wall**:
@@ -131,6 +136,7 @@ List 3 common collocations for **circular wall**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **circular wall** instead of **fence**?
@@ -141,6 +147,7 @@ List 3 common collocations for **circular wall**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're describing an ancient castle to tourists. Point to the unique structure.
@@ -150,6 +157,7 @@ List 3 common collocations for **circular wall**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `<circular>` + `<wall>` to the meaning.
@@ -158,6 +166,7 @@ List 3 common collocations for **circular wall**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **circular wall**.
@@ -170,6 +179,7 @@ Analyze the root/family of **circular wall**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈsɜːkjələ wɔːl/*
@@ -180,6 +190,7 @@ Analyze the root/family of **circular wall**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **circular wall**?
@@ -190,6 +201,7 @@ Analyze the root/family of **circular wall**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **circular wall**?

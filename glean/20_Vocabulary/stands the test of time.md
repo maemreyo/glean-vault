@@ -1,4 +1,4 @@
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **stands the test of time** (*/stænds ðə test əv taɪm/*) mean?
@@ -89,6 +90,7 @@ What does **stands the test of time** (*/stænds ðə test əv taɪm/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To remain valid and successful for a long time"
@@ -99,6 +101,7 @@ What does **stands the test of time** (*/stænds ðə test əv taɪm/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **stands the test of time** in a sentence.
@@ -109,6 +112,7 @@ Use **stands the test of time** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **stands the test of time**.
@@ -120,6 +124,7 @@ List 3 common collocations for **stands the test of time**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **stands the test of time**:
@@ -130,6 +135,7 @@ List 3 common collocations for **stands the test of time**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **stands the test of time** instead of **[[lasts long]]**?
@@ -140,6 +146,7 @@ List 3 common collocations for **stands the test of time**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Art gallery discussion. Someone asks why we still study ancient art. What's your thoughtful response?
@@ -149,6 +156,7 @@ List 3 common collocations for **stands the test of time**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the components `stand`, `test`, and `time` to the meaning.
@@ -157,6 +165,7 @@ List 3 common collocations for **stands the test of time**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **stands the test of time**.
@@ -169,6 +178,7 @@ Analyze the root/family of **stands the test of time**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */stænds ðə test əv taɪm/*
@@ -179,6 +189,7 @@ Analyze the root/family of **stands the test of time**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **stands the test of time**?
@@ -189,6 +200,7 @@ Analyze the root/family of **stands the test of time**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **stands the test of time**?

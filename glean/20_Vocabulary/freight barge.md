@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/work-economy/business-models #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/work-economy/business-models
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **freight barge** (*/freɪt bɑːrdʒ/*) mean?
@@ -90,6 +91,7 @@ What does **freight barge** (*/freɪt bɑːrdʒ/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A flat-bottomed cargo vessel designed for transporting heavy goods on inland waterways"
@@ -100,6 +102,7 @@ What does **freight barge** (*/freɪt bɑːrdʒ/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **freight barge** in a sentence.
@@ -110,6 +113,7 @@ Use **freight barge** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **freight barge**.
@@ -121,6 +125,7 @@ List 3 common collocations for **freight barge**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **freight barge**:
@@ -131,6 +136,7 @@ List 3 common collocations for **freight barge**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **freight barge** instead of **cargo ship**?
@@ -141,6 +147,7 @@ List 3 common collocations for **freight barge**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're a logistics manager explaining transport options. Your client asks about eco-friendly bulk transport. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **freight barge**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `freight + barge` to the meaning of **freight barge**.
@@ -158,6 +166,7 @@ List 3 common collocations for **freight barge**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **freight barge**.
@@ -171,6 +180,7 @@ Analyze the root/family of **freight barge**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */freɪt bɑːrdʒ/
@@ -181,6 +191,7 @@ Analyze the root/family of **freight barge**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **freight barge**?
@@ -191,6 +202,7 @@ Analyze the root/family of **freight barge**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **freight barge**?

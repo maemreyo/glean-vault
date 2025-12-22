@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/education/university-academic-life #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/topic-specific/education/university-academic-life
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **assessment** (*/əˈsesmənt/*) mean?
@@ -89,6 +90,7 @@ What does **assessment** (*/əˈsesmənt/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The evaluation or estimation of the nature, quality, or ability of someone or something"
@@ -99,6 +101,7 @@ What does **assessment** (*/əˈsesmənt/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **assessment** in a sentence.
@@ -109,6 +112,7 @@ Use **assessment** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **assessment**.
@@ -120,6 +124,7 @@ List 3 common collocations for **assessment**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **assessment**:
@@ -130,6 +135,7 @@ List 3 common collocations for **assessment**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **assessment** instead of **[[test]]**?
@@ -140,6 +146,7 @@ List 3 common collocations for **assessment**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're a teacher explaining your grading system to new students. You need to emphasize fairness. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **assessment**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root 'assidere' to the meaning of **assessment**.
@@ -157,6 +165,7 @@ List 3 common collocations for **assessment**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **assessment**.
@@ -169,6 +178,7 @@ Analyze the root/family of **assessment**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */əˈsesmənt/*
@@ -179,6 +189,7 @@ Analyze the root/family of **assessment**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **assessment**?
@@ -189,6 +200,7 @@ Analyze the root/family of **assessment**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **assessment**?

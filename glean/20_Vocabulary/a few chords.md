@@ -1,4 +1,4 @@
-#flashcards/vocabulary/arts-architecture/art-forms #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/arts-architecture/art-forms
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a few chords** (*/ə fjuː kɔːrdz/*) mean?
@@ -91,6 +92,7 @@ What does **a few chords** (*/ə fjuː kɔːrdz/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Multiple musical notes played simultaneously to create harmony"
@@ -102,6 +104,7 @@ What does **a few chords** (*/ə fjuː kɔːrdz/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a few chords** in a sentence.
@@ -113,6 +116,7 @@ Use **a few chords** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a few chords**.
@@ -125,6 +129,7 @@ List 3 common collocations for **a few chords**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a few chords**:
@@ -136,6 +141,7 @@ List 3 common collocations for **a few chords**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a few chords** instead of **some music**?
@@ -147,6 +153,7 @@ List 3 common collocations for **a few chords**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're at a campfire. Someone hands you a guitar. Everyone expects you to play. You feel a bit nervous but ready. Say it!
@@ -157,6 +164,7 @@ List 3 common collocations for **a few chords**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `chord` (Latin "chorda") to the meaning.
@@ -166,6 +174,7 @@ List 3 common collocations for **a few chords**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **a few chords**.
@@ -180,6 +189,7 @@ Analyze the root/family of **a few chords**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə fjuː kɔːrdz/*
@@ -191,6 +201,7 @@ Analyze the root/family of **a few chords**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **a few chords**?
@@ -202,6 +213,7 @@ Analyze the root/family of **a few chords**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of playing **a few chords**?

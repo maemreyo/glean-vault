@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a sense of community** (*/ə sens əv kəˈmjuːnəti/*) mean?
@@ -90,6 +91,7 @@ What does **a sense of community** (*/ə sens əv kəˈmjuːnəti/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The feeling of belonging and mutual connection among people living in the same area or sharing common interests"
@@ -100,6 +102,7 @@ What does **a sense of community** (*/ə sens əv kəˈmjuːnəti/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a sense of community** in a sentence.
@@ -110,6 +113,7 @@ Use **a sense of community** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a sense of community**.
@@ -121,6 +125,7 @@ List 3 common collocations for **a sense of community**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a sense of community**:
@@ -131,6 +136,7 @@ List 3 common collocations for **a sense of community**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a sense of community** instead of **[[friendliness]]**?
@@ -141,6 +147,7 @@ List 3 common collocations for **a sense of community**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're describing what makes your neighborhood special. You want to emphasize the social bonds. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **a sense of community**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `<communis>` to the meaning of **community**.
@@ -158,6 +166,7 @@ List 3 common collocations for **a sense of community**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **community**.
@@ -169,6 +178,7 @@ Analyze the root/family of **community**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə sens əv kəˈmjuːnəti/*
@@ -179,6 +189,7 @@ Analyze the root/family of **community**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **a sense of community**?
@@ -189,6 +200,7 @@ Analyze the root/family of **community**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a sense of community**?

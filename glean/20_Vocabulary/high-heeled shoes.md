@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What do **high-heeled shoes** (*/ˌhaɪ ˈhiːld ʃuːz/*) mean?
@@ -90,6 +91,7 @@ What do **high-heeled shoes** (*/ˌhaɪ ˈhiːld ʃuːz/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Shoes with elevated heels for fashion and height"
@@ -100,6 +102,7 @@ What do **high-heeled shoes** (*/ˌhaɪ ˈhiːld ʃuːz/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **high-heeled shoes** in a sentence.
@@ -110,6 +113,7 @@ Use **high-heeled shoes** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **high-heeled shoes**.
@@ -121,6 +125,7 @@ List 3 common collocations for **high-heeled shoes**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **high-heeled shoes**:
@@ -131,6 +136,7 @@ List 3 common collocations for **high-heeled shoes**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **high-heeled shoes** instead of **shoes**?
@@ -141,6 +147,7 @@ List 3 common collocations for **high-heeled shoes**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend can't walk properly in her new heels. You offer help. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **high-heeled shoes**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link Persian cavalry to modern **high-heeled shoes**.
@@ -158,6 +166,7 @@ List 3 common collocations for **high-heeled shoes**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **high-heeled shoes**.
@@ -170,6 +179,7 @@ Analyze the root/family of **high-heeled shoes**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌhaɪ ˈhiːld ʃuːz/*
@@ -180,6 +190,7 @@ Analyze the root/family of **high-heeled shoes**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common grammar mistake with **high-heeled shoes**?
@@ -190,6 +201,7 @@ Analyze the root/family of **high-heeled shoes**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **high-heeled shoes**?

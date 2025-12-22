@@ -128,7 +128,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Pattern Recognition
+### Card 1: Pattern Recognition [Phase 1: Foundation]
 
 🧩 **Pattern Analysis:** What is the structure pattern for **{{STRUCTURE_NAME}}**?
 ?
@@ -137,7 +137,7 @@ ref:
 
 ---
 
-### Card 2: Functional Meaning
+### Card 2: Functional Meaning [Phase 1: Foundation]
 
 🤔 **Meaning:** What does **{{STRUCTURE_NAME}}** express?
 ?
@@ -146,7 +146,7 @@ ref:
 
 ---
 
-### Card 3: Contextual Usage
+### Card 3: Contextual Usage [Phase 2: Activation]
 
 ❓ **Usage:** When should you use **{{STRUCTURE_NAME}}**?
 ?
@@ -155,7 +155,7 @@ ref:
 
 ---
 
-### Card 4: Example & Analysis
+### Card 4: Example & Analysis [Phase 2: Activation]
 
 ✍️ **Production:** Create a sentence with **{{STRUCTURE_NAME}}** about <topic>
 ?
@@ -164,7 +164,7 @@ ref:
 
 ---
 
-### Card 5: Error Correction
+### Card 5: Error Correction [Phase 3: Differentiation]
 
 🕵️ **Spot the Error:** What's wrong with: "<Incorrect Sentence>"
 ?
@@ -173,7 +173,7 @@ ref:
 
 ---
 
-### Card 6: Comparison (Nuance)
+### Card 6: Comparison (Nuance) [Phase 3: Differentiation]
 
 🆚 **Comparison:** How is **{{STRUCTURE_NAME}}** different from [[<related_structure>]]?
 ?
@@ -182,7 +182,7 @@ ref:
 
 ---
 
-### Card 7: Transformation
+### Card 7: Transformation [Phase 2: Activation]
 
 🔄 **Transformation:** Transform this sentence using **{{STRUCTURE_NAME}}**: "<Source Sentence>"
 ?
@@ -191,7 +191,7 @@ ref:
 
 ---
 
-### Card 8: Writer's Rewrite (Upgrade)
+### Card 8: Writer's Rewrite (Upgrade) [Phase 4: Mastery]
 
 ✍️ **Rewrite:** Upgrade this boring sentence using **{{STRUCTURE_NAME}}**: "<Basic Sentence>"
 ?
@@ -200,7 +200,7 @@ ref:
 
 ---
 
-### Card 9: Metaphor Deconstruction
+### Card 9: Metaphor Deconstruction [Phase 4: Mastery]
 
 🧩 **Deconstruct:** In **{{STRUCTURE_NAME}}**, what does "<word/part>" imply?
 ?
@@ -208,11 +208,11 @@ ref:
 
 ---
 
-### Card 10: Scenario Reaction (Emotive)
+### Card 10: Scenario Reaction (Emotive) [Phase 4: Mastery]
 
 🎭 **Scenario:** <Drama/High-stakes Situation>. You feel <Emotion>. Use **{{STRUCTURE_NAME}}**!
 ?
 > 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this captures the emotion (VN)>
+> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
 
 ---

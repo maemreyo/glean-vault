@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **opportunity** (*/ˌɑːpərˈtuːnəti/*) mean?
@@ -90,6 +91,7 @@ What does **opportunity** (*/ˌɑːpərˈtuːnəti/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A favorable time or set of circumstances that allows something to be done"
@@ -100,6 +102,7 @@ What does **opportunity** (*/ˌɑːpərˈtuːnəti/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **opportunity** in a sentence.
@@ -110,6 +113,7 @@ Use **opportunity** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **opportunity**.
@@ -121,6 +125,7 @@ List 3 common collocations for **opportunity**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **opportunity**:
@@ -132,6 +137,7 @@ List 3 common collocations for **opportunity**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **opportunity** instead of **chance**?
@@ -142,6 +148,7 @@ List 3 common collocations for **opportunity**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your dream company is offering a temporary position. You feel excited and hopeful. Say it!
@@ -151,6 +158,7 @@ List 3 common collocations for **opportunity**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `port` to the meaning of **opportunity**.
@@ -159,6 +167,7 @@ List 3 common collocations for **opportunity**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **opportunity**.
@@ -172,6 +181,7 @@ Analyze the root/family of **opportunity**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌɑːpərˈtuːnəti/*
@@ -182,6 +192,7 @@ Analyze the root/family of **opportunity**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **opportunity**?
@@ -192,6 +203,7 @@ Analyze the root/family of **opportunity**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **opportunity**?

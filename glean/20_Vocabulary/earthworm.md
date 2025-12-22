@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming #flashcards/cam-19-listening-test-03
+#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
 
 ---
 tags:
@@ -78,6 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **earthworm** (*/ˈɜːθwɜːm/*) mean?
@@ -89,6 +90,7 @@ What does **earthworm** (*/ˈɜːθwɜːm/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A tube-shaped, segmented worm that lives in soil and enriches it through natural processes"
@@ -99,6 +101,7 @@ What does **earthworm** (*/ˈɜːθwɜːm/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **earthworm** in a sentence.
@@ -109,6 +112,7 @@ Use **earthworm** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **earthworm**.
@@ -120,6 +124,7 @@ List 3 common collocations for **earthworm**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **earthworm**:
@@ -130,6 +135,7 @@ List 3 common collocations for **earthworm**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **earthworm** instead of **worm**?
@@ -140,6 +146,7 @@ List 3 common collocations for **earthworm**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're explaining organic gardening to children. They ask about wiggly things in the soil. You feel enthusiastic. Say it!
@@ -149,6 +156,7 @@ List 3 common collocations for **earthworm**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `earth` to the meaning of **earthworm**.
@@ -157,6 +165,7 @@ List 3 common collocations for **earthworm**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **earthworm**.
@@ -170,6 +179,7 @@ Analyze the root/family of **earthworm**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈɜːθwɜːm/*
@@ -180,6 +190,7 @@ Analyze the root/family of **earthworm**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **earthworm**?
@@ -190,6 +201,7 @@ Analyze the root/family of **earthworm**.
 
 ---
 
+#flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **earthworm** in soil ecosystem context?

@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
 
 ---
 tags:
@@ -81,6 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What do **interpersonal skills** (*/ˌɪntər'pɜːsənl 'skɪlz/*) mean?
@@ -92,6 +93,7 @@ What do **interpersonal skills** (*/ˌɪntər'pɜːsənl 'skɪlz/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The abilities needed to communicate and interact effectively with other people"
@@ -102,6 +104,7 @@ What do **interpersonal skills** (*/ˌɪntər'pɜːsənl 'skɪlz/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **interpersonal skills** in a sentence.
@@ -112,6 +115,7 @@ Use **interpersonal skills** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **interpersonal skills**.
@@ -123,6 +127,7 @@ List 3 common collocations for **interpersonal skills**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **interpersonal skills**:
@@ -133,6 +138,7 @@ List 3 common collocations for **interpersonal skills**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **interpersonal skills** instead of [[communication skills]]?
@@ -143,6 +149,7 @@ List 3 common collocations for **interpersonal skills**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're applying for a manager position. The interviewer asks about your strengths. Respond!
@@ -152,6 +159,7 @@ List 3 common collocations for **interpersonal skills**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `inter` (between) and `personal` (of people) to the meaning of **interpersonal skills**.
@@ -160,6 +168,7 @@ List 3 common collocations for **interpersonal skills**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **interpersonal skills**.
@@ -173,6 +182,7 @@ Analyze the root/family of **interpersonal skills**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌɪntər'pɜːsənl 'skɪlz/*
@@ -183,6 +193,7 @@ Analyze the root/family of **interpersonal skills**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **interpersonal skills**?
@@ -193,6 +204,7 @@ Analyze the root/family of **interpersonal skills**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **interpersonal skills**?

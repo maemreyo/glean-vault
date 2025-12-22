@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/emotions-personality-adjectives #flashcards/cam-20-listening-test-02
+#flashcards/vocabulary/general/emotions-personality-adjectives
 
 ---
 tags:
@@ -81,6 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **influential** (*/ˌɪnfluˈenʃl/*) mean?
@@ -92,6 +93,7 @@ What does **influential** (*/ˌɪnfluˈenʃl/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Having great power to affect or change how others think or behave"
@@ -102,6 +104,7 @@ What does **influential** (*/ˌɪnfluˈenʃl/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **influential** in a sentence.
@@ -112,6 +115,7 @@ Use **influential** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **influential**.
@@ -123,6 +127,7 @@ List 3 common collocations for **influential**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **influential**:
@@ -133,6 +138,7 @@ List 3 common collocations for **influential**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **influential** instead of **[[powerful]]**?
@@ -143,6 +149,7 @@ List 3 common collocations for **influential**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're recommending a mentor for a young entrepreneur. Say it!
@@ -152,6 +159,7 @@ List 3 common collocations for **influential**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `influere` to the meaning of **influential**.
@@ -160,6 +168,7 @@ List 3 common collocations for **influential**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **influential**.
@@ -173,6 +182,7 @@ Analyze the root/family of **influential**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌɪnfluˈenʃl/*
@@ -183,6 +193,7 @@ Analyze the root/family of **influential**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **influential**?
@@ -193,6 +204,7 @@ Analyze the root/family of **influential**.
 
 ---
 
+#flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **influential**?

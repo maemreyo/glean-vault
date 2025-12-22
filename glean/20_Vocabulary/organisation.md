@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/general/abstract-concepts
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **organisation** (*/ˌɔːɡənaɪˈzeɪʃən/*) mean?
@@ -90,6 +91,7 @@ What does **organisation** (*/ˌɔːɡənaɪˈzeɪʃən/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A structured group of people working together systematically to achieve specific goals"
@@ -100,6 +102,7 @@ What does **organisation** (*/ˌɔːɡənaɪˈzeɪʃən/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **organisation** in a sentence.
@@ -110,6 +113,7 @@ Use **organisation** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **organisation**.
@@ -121,6 +125,7 @@ List 3 common collocations for **organisation**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **organisation**:
@@ -131,6 +136,7 @@ List 3 common collocations for **organisation**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **organisation** instead of **team**?
@@ -141,6 +147,7 @@ List 3 common collocations for **organisation**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're at a job interview. They ask about your ideal workplace. You feel professional. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **organisation**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `organ` to the meaning of **organisation**.
@@ -158,6 +166,7 @@ List 3 common collocations for **organisation**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **organisation**.
@@ -172,6 +181,7 @@ Analyze the root/family of **organisation**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌɔːɡənaɪˈzeɪʃən/*
@@ -182,6 +192,7 @@ Analyze the root/family of **organisation**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **organisation**?
@@ -192,6 +203,7 @@ Analyze the root/family of **organisation**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **organisation**?

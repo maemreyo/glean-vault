@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/general/functional-words
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **propose** (*/prəˈpəʊz/*) mean?
@@ -91,6 +92,7 @@ What does **propose** (*/prəˈpəʊz/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To put forward an idea or plan for consideration"
@@ -102,6 +104,7 @@ What does **propose** (*/prəˈpəʊz/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **propose** in a sentence.
@@ -112,6 +115,7 @@ Use **propose** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **propose**.
@@ -123,6 +127,7 @@ List 3 common collocations for **propose**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **propose**:
@@ -133,6 +138,7 @@ List 3 common collocations for **propose**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **propose** instead of **[[suggest]]**?
@@ -143,6 +149,7 @@ List 3 common collocations for **propose**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're in a team meeting and have an idea to improve workflow efficiency. You want to present it formally. Say it!
@@ -152,6 +159,7 @@ List 3 common collocations for **propose**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `proponere` to the meaning of **propose**.
@@ -160,6 +168,7 @@ List 3 common collocations for **propose**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **propose**.
@@ -173,6 +182,7 @@ Analyze the root/family of **propose**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */prəˈpəʊz/*
@@ -183,6 +193,7 @@ Analyze the root/family of **propose**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **propose**?
@@ -193,6 +204,7 @@ Analyze the root/family of **propose**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **propose**?

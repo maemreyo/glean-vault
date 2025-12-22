@@ -1,4 +1,4 @@
-#flashcards/vocabulary/topic-specific/health/physical-health-diet #flashcards/cam-20-listening-test-01
+#flashcards/vocabulary/topic-specific/health/physical-health-diet
 
 ---
 tags:
@@ -79,6 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **cancer** (*/ˈkænsər/*) mean?
@@ -90,6 +91,7 @@ What does **cancer** (*/ˈkænsər/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A disease caused by uncontrolled division of abnormal cells in the body"
@@ -100,6 +102,7 @@ What does **cancer** (*/ˈkænsər/*) mean?
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **cancer** in a sentence.
@@ -110,6 +113,7 @@ Use **cancer** in a sentence.
 
 ---
 
+#flashcards/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **cancer**.
@@ -121,6 +125,7 @@ List 3 common collocations for **cancer**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **cancer**:
@@ -131,6 +136,7 @@ List 3 common collocations for **cancer**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **cancer** instead of **tumor**?
@@ -141,6 +147,7 @@ List 3 common collocations for **cancer**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're a doctor explaining test results to a patient. You need to be both clear and compassionate while delivering serious news. Say it!
@@ -150,6 +157,7 @@ List 3 common collocations for **cancer**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `karkinos` to the meaning of **cancer**.
@@ -158,6 +166,7 @@ List 3 common collocations for **cancer**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **cancer**.
@@ -172,6 +181,7 @@ Analyze the root/family of **cancer**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈkænsər/*
@@ -182,6 +192,7 @@ Analyze the root/family of **cancer**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **cancer**?
@@ -192,6 +203,7 @@ Analyze the root/family of **cancer**.
 
 ---
 
+#flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **cancer**?

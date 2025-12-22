@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2d653cfc45035e3e",
+        "id": "461d91c006b1306e",
         "type": "tabs",
         "children": [
           {
-            "id": "56751518211d601b",
+            "id": "9d5a06c49421c5cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Sources/Articles/Cam 20 Listening Test 02.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cam 20 Listening Test 02"
+              "title": "New tab"
             }
           }
         ]
@@ -207,10 +203,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56751518211d601b",
+  "active": "9d5a06c49421c5cf",
   "lastOpenFiles": [
-    "20_Vocabulary/lethal.md",
+    "99_Tools/scripts/phase_tagging.py",
     "10_Sources/Articles/Cam 20 Listening Test 02.md",
+    "20_Vocabulary/lethal.md",
     "20_Vocabulary/a sense of community.md.tmp.99513.1766325643413",
     "20_Vocabulary/cholera.md.tmp.99513.1766324576032",
     "20_Vocabulary/lasts three days.md",
@@ -236,7 +233,6 @@
     "99_Tools/backups/20251221_202312_052bb7_Practice Cam 19 Listening Test 02.md",
     "99_Tools/backups/20251221_202312_021784_UK launches taskforce to 'break down barriers' for women in tech.md",
     "99_Tools/backups/20251221_202312_0cf052_What's next for TikTok in the US as deal prospects remain uncertain?.md",
-    "99_Tools/backups/20251221_202312_044339_Cam 19 Listening Test 03.md",
     "99_Tools/scripts/test_ref_tags.py",
     "20_Vocabulary/ambition.md.tmp.76023.1766311008412",
     "20_Vocabulary/immediately.md.tmp.76023.1766309452218",
@@ -244,7 +240,6 @@
     "20_Vocabulary/invertebrate.md.tmp.76023.1766272719496",
     "20_Vocabulary/organisation.md.tmp.76023.1766249602179",
     "20_Vocabulary/suede.md.tmp.76023.1766249479236",
-    "20_Vocabulary/casualty.md.tmp.76023.1766248386945",
     "10_Sources/Images/Pasted image 20251218102206.png",
     "10_Sources/Images/Pasted image 20251218101801.png",
     "10_Sources/Images/Pasted image 20251218101809.png",

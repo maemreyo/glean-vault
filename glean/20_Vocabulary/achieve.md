@@ -1,4 +1,4 @@
-#flashcards/vocabulary/general/functional-words #flashcards/cam-19-listening-test-02
+#flashcards/vocabulary/general/functional-words
 
 ---
 tags:
@@ -81,6 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **achieve** (*/əˈtʃiːv/*) mean?
@@ -92,6 +93,7 @@ What does **achieve** (*/əˈtʃiːv/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To successfully reach a desired objective through effort"
@@ -102,6 +104,7 @@ What does **achieve** (*/əˈtʃiːv/*) mean?
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **achieve** in a sentence.
@@ -112,6 +115,7 @@ Use **achieve** in a sentence.
 
 ---
 
+#flashcards/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **achieve**.
@@ -123,6 +127,7 @@ List 3 common collocations for **achieve**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **achieve**:
@@ -133,6 +138,7 @@ List 3 common collocations for **achieve**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **achieve** instead of **get**?
@@ -143,6 +149,7 @@ List 3 common collocations for **achieve**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're accepting an award and want to acknowledge the journey. You feel proud and grateful.
@@ -152,6 +159,7 @@ List 3 common collocations for **achieve**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `accapitare` to the meaning of **achieve**.
@@ -160,6 +168,7 @@ List 3 common collocations for **achieve**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **achieve**.
@@ -174,6 +183,7 @@ Analyze the root/family of **achieve**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */əˈtʃiːv/*
@@ -184,6 +194,7 @@ Analyze the root/family of **achieve**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **achieve**?
@@ -194,6 +205,7 @@ Analyze the root/family of **achieve**.
 
 ---
 
+#flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **achieve**?
