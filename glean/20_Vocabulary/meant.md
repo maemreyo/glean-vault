@@ -197,9 +197,8 @@ Analyze the root/family of **meant**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **meant**?
+🕵️ **Fix the Error:** This gift is means to make you happy.
 ?
-> ❌ **Mistake:** This gift is means to make you happy.
 > ✅ **Correction:** This gift is meant to make you happy.
 > 🧠 **Why:** "Meant" là past tense/participle form của "mean". Trong construction "is meant to", luôn dùng "meant" không phải "means".
 

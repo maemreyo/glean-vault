@@ -192,9 +192,8 @@ Analyze the root/family of **solitude**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **solitude**?
+🕵️ **Fix the Error:** "The elderly man suffered from solitude in the nursing home."
 ?
-> ❌ **Mistake:** "The elderly man suffered from solitude in the nursing home."
 > ✅ **Correction:** "The elderly man suffered from loneliness in the nursing home."
 > 🧠 **Why:** Use "loneliness" for painful isolation; "solitude" implies chosen, peaceful aloneness.
 <!--SR:!2025-12-23,1,230-->

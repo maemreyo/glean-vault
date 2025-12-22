@@ -193,9 +193,8 @@ Analyze the root/family of **enjoyable**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **enjoyable**?
+🕵️ **Fix the Error:** "She is very enjoyable as a person."
 ?
-> ❌ **Mistake:** "She is very enjoyable as a person."
 > ✅ **Correction:** "She is very enjoyable to be with" or "Her company is very enjoyable."
 > 🧠 **Why:** Enjoyable describes experiences/activities, not people directly. Use with "company" or "to be with".
 

@@ -194,9 +194,8 @@ Analyze the root/family of **a sense of achievement**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a sense of achievement**?
+🕵️ **Fix the Error:** It gives me a sense of achievement to pass the test.
 ?
-> ❌ **Mistake:** It gives me a sense of achievement to pass the test.
 > ✅ **Correction:** Passing the test gives me a sense of achievement.
 > 🧠 **Why:** 'Sense of achievement' thường là result, không phải purpose. Dùng structure: [Source] gives [someone] a sense of achievement
 

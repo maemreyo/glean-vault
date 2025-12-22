@@ -194,9 +194,8 @@ Analyze the root/family of **incident**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **incident**?
+🕵️ **Fix the Error:** The security team handles all incident in the building.
 ?
-> ❌ **Mistake:** The security team handles all incident in the building.
 > ✅ **Correction:** The security team handles all incidents in the building.
 > 🧠 **Why:** "Incident" là countable noun, cần plural 's' khi chỉ nhiều sự vụ - đây là lỗi phổ biến
 

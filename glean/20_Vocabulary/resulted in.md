@@ -193,9 +193,8 @@ Analyze the components of **resulted in**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **resulted in**?
+🕵️ **Fix the Error:** The changes resulted for better performance
 ?
-> ❌ **Mistake:** The changes resulted for better performance
 > ✅ **Correction:** The changes resulted in better performance
 > 🧠 **Why:** 'Resulted in' không 'resulted for' - dùng 'in' để chỉ kết quả
 

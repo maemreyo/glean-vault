@@ -192,9 +192,8 @@ Analyze the root/family of **regret**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **regret**?
+🕵️ **Fix the Error:** "I regret you weren't there."
 ?
-> ❌ **Mistake:** "I regret you weren't there."
 > ✅ **Correction:** "I regret that you weren't there." or "I'm sorry you weren't there."
 > 🧠 **Why:** "Regret" needs "that" when followed by a clause about someone else's situation. For personal apologies, use "I'm sorry" instead!
 

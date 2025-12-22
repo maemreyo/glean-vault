@@ -194,9 +194,8 @@ Analyze the root/family of **genetic variation**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **genetic variation**?
+🕵️ **Fix the Error:** "The genetic variation between humans and chimpanzees is significant."
 ?
-> ❌ **Mistake:** "The genetic variation between humans and chimpanzees is significant."
 > ✅ **Correction:** "The genetic difference between humans and chimpanzees is significant."
 > 🧠 **Why:** "Variation" dùng cho differences WITHIN species, "difference" dùng cho differences BETWEEN species.
 

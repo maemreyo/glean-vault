@@ -195,9 +195,8 @@ Analyze the root/family of **marketplace**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **marketplace**?
+🕵️ **Fix the Error:** "The market place is crowded today"
 ?
-> ❌ **Mistake:** "The market place is crowded today"
 > ✅ **Correction:** "The marketplace is crowded today"
 > 🧱 **Why:** Marketplace thường viết liền một chữ
 

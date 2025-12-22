@@ -196,9 +196,8 @@ Analyze the root/family of **however**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **however**?
+🕵️ **Fix the Error:** I wanted to go however I was too busy.
 ?
-> ❌ **Mistake:** I wanted to go however I was too busy.
 > ✅ **Correction:** I wanted to go; however, I was too busy.
 > 🧠 **Why:** "However" connecting two independent clauses needs semicolon before and comma after, hoặc bắt đầu câu mới với "However,"
 

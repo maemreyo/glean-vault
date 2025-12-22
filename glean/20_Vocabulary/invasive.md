@@ -195,9 +195,8 @@ Analyze the root/family of **invasive**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **invasive**?
+🕵️ **Fix the Error:** The garden was invasive by weeds that grew too fast.
 ?
-> ❌ **Mistake:** The garden was invasive by weeds that grew too fast.
 > ✅ **Correction:** The garden was overrun by invasive weeds that grew too fast.
 > 🧠 **Why:** 'Invasive' là tính từ mô tả đặc tính của loài cây, không phải trạng thái bị xâm lấn của khu vườn
 

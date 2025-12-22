@@ -195,9 +195,8 @@ Analyze the root/family of **devastate**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **devastate**?
+🕵️ **Fix the Error:** The traffic jam devastated my schedule
 ?
-> ❌ **Mistake:** The traffic jam devastated my schedule
 > ✅ **Correction:** The traffic jam ruined my day / The pandemic devastated the tourism industry
 > 🧠 **Why:** 'Devastate' quá strong cho minor inconveniences. Dùng cho major disasters, tragedies, hoặc severe impacts affecting large areas/groups
 

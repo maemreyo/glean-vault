@@ -195,9 +195,8 @@ Analyze the root/family of **have a look around**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **have a look around**?
+🕵️ **Fix the Error:** "She had a look around in the new city."
 ?
-> ❌ **Mistake:** "She had a look around in the new city."
 > ✅ **Correction:** "She had a look around the new city."
 > 🧠 **Why:** No "in" needed with this phrasal verb. It's "have a look around [place]" not "in [place]." The "around" already conveys the idea of being within the location.
 

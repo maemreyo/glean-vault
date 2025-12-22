@@ -193,9 +193,8 @@ Analyze the root/family of **radiation**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **radiation**?
+🕵️ **Fix the Error:** I'm installing radiation in my bathroom.
 ?
-> ❌ **Mistake:** I'm installing radiation in my bathroom.
 > ✅ **Correction:** I'm installing a RADIATOR in my bathroom.
 > 🧠 **Why:** 'Radiation' is energy; 'radiator' is the device that emits heat. Common confusion due to similar forms.
 

@@ -192,9 +192,8 @@ Analyze the root/family of **food intake**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **food intake**?
+🕵️ **Fix the Error:** I need to food intake more vegetables
 ?
-> ❌ **Mistake:** I need to food intake more vegetables
 > ✅ **Correction:** I need to increase my vegetable intake / My food intake should include more vegetables
 > 🧠 **Why:** 'Food intake' là noun phrase, không phải verb - bạn 'increase intake' hoặc 'include something in your intake'
 

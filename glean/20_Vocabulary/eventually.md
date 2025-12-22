@@ -194,9 +194,8 @@ Analyze the root/family of **eventually**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **eventually**?
+🕵️ **Fix the Error:** "I eventually to understand the problem" (Sai cấu trúc động từ)
 ?
-> ❌ **Mistake:** "I eventually to understand the problem" (Sai cấu trúc động từ)
 > ✅ **Correction:** "I eventually understood the problem"
 > 🧠 **Why:** "Eventually" là trạng từ, không ảnh hưởng đến việc chia động từ nguyên mẫu. Cấu trúc đúng: eventually + động từ chia
 

@@ -194,9 +194,8 @@ Analyze the root/family of **a reliable food source**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a reliable food source**?
+🕵️ **Fix the Error:** The supermarket is a reliability food source for urban residents.
 ?
-> ❌ **Mistake:** The supermarket is a reliability food source for urban residents.
 > ✅ **Correction:** The supermarket is a reliable food source for urban residents.
 > 🧠 **Why:** The correct adjective form is 'reliable', not 'reliability' (which is a noun)
 

@@ -198,9 +198,8 @@ Analyze the root/family of **surprise**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **surprise**?
+🕵️ **Fix the Error:** "I surprise when I heard the news"
 ?
-> ❌ **Mistake:** "I surprise when I heard the news"
 > ✅ **Correction:** "I was surprised when I heard the news"
 > 🧠 **Why:** Cần dùng "was surprised" (past participle) để mô tả cảm xúc đã qua
 

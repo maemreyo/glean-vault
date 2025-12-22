@@ -192,9 +192,8 @@ Analyze the root/family of **struggling**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **struggling**?
+🕵️ **Fix the Error:** The company is struggling on paying its debts.
 ?
-> ❌ **Mistake:** The company is struggling on paying its debts.
 > ✅ **Correction:** The company is struggling to pay its debts. / The company is struggling with its debts.
 > 🧠 **Why:** 'Struggling to' + verb hoặc 'struggling with' + noun. Không dùng 'struggling on' trong ngữ cảnh này
 

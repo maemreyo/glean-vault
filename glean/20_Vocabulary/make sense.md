@@ -192,9 +192,8 @@ Analyze the root/family of **make sense**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **make sense**?
+🕵️ **Fix the Error:** Your explanation makes sense for me
 ?
-> ❌ **Mistake:** Your explanation makes sense for me
 > ✅ **Correction:** Your explanation makes sense to me
 > 🧠 **Why:** 'To' là correct preposition khi chỉ person who understands - 'makes sense TO someone' chứ không phải 'FOR someone'
 

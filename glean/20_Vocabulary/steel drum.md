@@ -194,9 +194,8 @@ Analyze the root/family of **steel drum**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **steel drum**?
+🕵️ **Fix the Error:** The drummer hit the steel drum with wooden sticks**
 ?
-> ❌ **Mistake:** The drummer hit the steel drum with wooden sticks**
 > ✅ **Correction:** The pannist played the steel drum with rubber-tipped beaters**
 > 🧠 **Why:** Steel drums require special rubber-tipped beaters để produce correct tones và avoid damaging the hammered surface. Người chơi được gọi là 'pannist', không phải 'drummer'**
 

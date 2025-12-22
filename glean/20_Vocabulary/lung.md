@@ -194,9 +194,8 @@ Analyze the root/family of **lung**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **lung**?
+🕵️ **Fix the Error:** Humans have one **lung**.
 ?
-> ❌ **Mistake:** Humans have one **lung**.
 > ✅ **Correction:** Humans have two **lungs**.
 > 🧠 **Why:** Người ta thường có hai lá phổi (trái và phải), ngoại trừ một số trường hợp bất thường
 

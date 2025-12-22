@@ -196,9 +196,8 @@ Analyze the root/family of **For instance**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **For instance**?
+🕵️ **Fix the Error:** Forgetting the comma after "For instance"
 ?
-> ❌ **Mistake:** Forgetting the comma after "For instance"
 > ✅ **Correction:** Always use a comma after "For instance" when starting a sentence
 > 🧠 **Why:** It's an introductory phrase that needs separation from the main clause
 

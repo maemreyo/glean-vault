@@ -194,9 +194,8 @@ Analyze the root/family of **regularly**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **regularly**?
+🕵️ **Fix the Error:** "I regular go to church on Sundays."
 ?
-> ❌ **Mistake:** "I regular go to church on Sundays."
 > ✅ **Correction:** "I regularly go to church on Sundays."
 > 🧠 **Why:** Cần thêm "-ly" để làm adjective "regular" thành adverb "regularly".
 

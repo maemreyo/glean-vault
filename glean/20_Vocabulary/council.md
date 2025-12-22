@@ -192,9 +192,8 @@ Analyze the root/family of **council**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **council**?
+🕵️ **Fix the Error:** The council gave me good advice about my career
 ?
-> ❌ **Mistake:** The council gave me good advice about my career
 > ✅ **Correction:** The council made a decision / The counselor gave me good advice
 > 🧠 **Why:** Council là group, không give advice. Counsel là advice hoặc person who gives advice - different words
 

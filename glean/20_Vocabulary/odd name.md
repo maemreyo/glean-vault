@@ -194,9 +194,8 @@ Analyze the root/family of **odd name**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **odd name**?
+🕵️ **Fix the Error:** "I never heard an odd name like that before."
 ?
-> ❌ **Mistake:** "I never heard an odd name like that before."
 > ✅ **Correction:** "I've never heard such an odd name before" OR "I've never heard an odd name like that before."
 > 🧠 **Why:** "Such an odd name" more natural. "Like that" cũng được nhưng "never heard" cần "have" (present perfect) vì experience up to now.
 

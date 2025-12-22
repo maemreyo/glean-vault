@@ -193,9 +193,8 @@ Analyze the root/family of **coined**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **coined**?
+🕵️ **Fix the Error:** "This word was coin by Shakespeare."
 ?
-> ❌ **Mistake:** "This word was coin by Shakespeare."
 > ✅ **Correction:** "This word was coined by Shakespeare."
 > 🧠 **Why:** Past participle needed for passive voice - coin/coined/coined (irregular like find/found/found)
 

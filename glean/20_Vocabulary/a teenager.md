@@ -198,9 +198,8 @@ Analyze the root/family of **a teenager**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a teenager**?
+🕵️ **Fix the Error:** "The classroom was full of teenagers." (when it's a mixed age group)
 ?
-> ❌ **Mistake:** "The classroom was full of teenagers." (when it's a mixed age group)
 > ✅ **Correction:** "The classroom was full of adolescents." hoặc "The classroom had teenagers and young adults."
 > 🧠 **Why:** "Teenager" specifically means 13-19 years old. Use "adolescents" cho broader age range hoặc ensure accuracy.
 

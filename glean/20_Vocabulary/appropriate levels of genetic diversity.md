@@ -192,9 +192,8 @@ Analyze the root/family of **appropriate levels of genetic diversity**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **appropriate levels of genetic diversity**?
+🕵️ **Fix the Error:** "High levels of genetic diversity are always better."
 ?
-> ❌ **Mistake:** "High levels of genetic diversity are always better."
 > ✅ **Correction:** "Appropriate levels of genetic diversity are optimal."
 > 🧠 **Why:** More isn't always better! "Appropriate" means suitable or optimal balance, not maximum. Excessive variation can be as harmful as too little!
 

@@ -194,9 +194,8 @@ Analyze the root/family of **subsequent ingestion**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **subsequent ingestion**?
+🕵️ **Fix the Error:** "The subsequent ingestion from the meal made me full."
 ?
-> ❌ **Mistake:** "The subsequent ingestion from the meal made me full."
 > ✅ **Correction:** "The subsequent ingestion of food made me full."
 > 🧠 **Why:** Ingestion needs the preposition 'of' before what is being ingested. You don't ingest 'from' something, you ingest 'of' something!
 

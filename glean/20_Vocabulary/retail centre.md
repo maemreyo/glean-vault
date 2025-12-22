@@ -146,6 +146,7 @@ List 3 common collocations for **retail centre**.
 > **retail centre:** Thường có quy mô vừa và nhỏ, có thể ngoài trời hoặc kết hợp trong/ngoài trời, tập trung vào tiện ích hàng ngày
 > **shopping mall:** Luôn lớn hơn, thường có nhiều tầng, hoàn toàn trong nhà, có nhiều tiện ích giải trí
 > 🧱 **The Barrier:** Kích thước và mức độ phức tạp - retail centre hơn về tiện lợi, shopping mall hơn về trải nghiệm
+<!--SR:!2025-12-25,3,255-->
 
 ---
 
@@ -196,9 +197,8 @@ Analyze the root/family of **retail centre**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **retail centre**?
+🕵️ **Fix the Error:** Let's go to shopping centre
 ?
-> ❌ **Mistake:** Let's go to shopping centre
 > ✅ **Correction:** Let's go to the shopping centre
 > 🧠 **Why:** Cần mạo từ 'the' vì nó là danh từ đếm được số ít, chỉ định nơi cụ thể
 

@@ -197,9 +197,8 @@ Analyze the root/family of **scruffy**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **scruffy**?
+🕵️ **Fix the Error:** My room is very **scruffy**.
 ?
-> ❌ **Mistake:** My room is very **scruffy**.
 > ✅ **Correction:** My room is very **messy**.
 > 🧠 **Why:** Scruffy mô tả ngoại hình người/đồ vật, messy mô tả sự bừa bộn của không gian hoặc đồ đạc
 

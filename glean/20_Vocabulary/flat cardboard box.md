@@ -194,9 +194,8 @@ Analyze the root/family of **flat cardboard box**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **flat cardboard box**?
+🕵️ **Fix the Error:** Please recycle those flat cardboards boxes.
 ?
-> ❌ **Mistake:** Please recycle those flat cardboards boxes.
 > ✅ **Correction:** Please recycle those flat cardboard boxes.
 > 🧠 **Why:** When used as an adjective describing the material, 'cardboard' remains singular even when 'boxes' is plural
 

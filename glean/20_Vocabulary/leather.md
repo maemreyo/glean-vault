@@ -192,9 +192,8 @@ Analyze the root/family of **leather**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **leather**?
+🕵️ **Fix the Error:** "These leathers are on sale" (when referring to types/products)
 ?
-> ❌ **Mistake:** "These leathers are on sale" (when referring to types/products)
 > ✅ **Correction:** "These leather goods are on sale" or "This leather is on sale"
 > 🧠 **Why:** "Leather" as material is uncountable; must specify products when pluralizing (VN: "leather" là danh từ không đếm được khi chỉ chất liệu).
 

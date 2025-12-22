@@ -199,9 +199,8 @@ Analyze the root/family of **can command**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **can command**?
+🕵️ **Fix the Error:** The captain can commands the ship.
 ?
-> ❌ **Mistake:** The captain can commands the ship.
 > ✅ **Correction:** The captain can command the ship.
 > 🧠 **Why:** Sau modal verb 'can', phải dùng base form 'command', không phải third person singular
 

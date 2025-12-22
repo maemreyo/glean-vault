@@ -194,9 +194,8 @@ Analyze the root/family of **brief**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **brief**?
+🕵️ **Fix the Error:** Can you brief me about the project?
 ?
-> ❌ **Mistake:** Can you brief me about the project?
 > ✅ **Correction:** Can you brief me on the project? / Can you give me a brief about the project?
 > 🧠 **Why:** 'Brief someone ON something' là correct preposition - 'brief about' không đúng
 

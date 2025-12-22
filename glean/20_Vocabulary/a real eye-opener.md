@@ -194,9 +194,8 @@ Analyze the root/family of **a real eye-opener**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a real eye-opener**?
+🕵️ **Fix the Error:** "That was very eye-opener." (thiếu "a" và "real")
 ?
-> ❌ **Mistake:** "That was very eye-opener." (thiếu "a" và "real")
 > ✅ **Correction:** "That was a real eye-opener." OR "That was quite an eye-opener."
 > 🧠 **Why:** Fixed idiom requires article "a" and intensifier "real" is standard
 

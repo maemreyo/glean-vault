@@ -192,9 +192,8 @@ Analyze the root/family of **concentration**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **concentration**?
+🕵️ **Fix the Error:** "My concentrations are getting better."
 ?
-> ❌ **Mistake:** "My concentrations are getting better."
 > ✅ **Correction:** "My concentration is getting better."
 > 🧠 **Why:** Concentration is uncountable when referring to the mental ability, not multiple instances of focus.
 

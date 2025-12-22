@@ -195,9 +195,8 @@ Analyze the root/family of **in competition with**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **in competition with**?
+🕵️ **Fix the Error:** They are in competition to each other
 ?
-> ❌ **Mistake:** They are in competition to each other
 > ✅ **Correction:** They are in competition with each other
 > 🧠 **Why:** Giới từ đúng sau "in competition" là "with" không phải "to" khi chỉ đối thủ cạnh tranh
 

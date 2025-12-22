@@ -196,9 +196,8 @@ Analyze the root/family of **a barrel**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a barrel**?
+🕵️ **Fix the Error:** "A barrels of oil"
 ?
-> ❌ **Mistake:** "A barrels of oil"
 > ✅ **Correction:** "A barrel of oil" / "Barrels of oil"
 > 🧱 **Why:** "A barrel" là số ít, "barrels" là số nhiều, không dùng cả
 

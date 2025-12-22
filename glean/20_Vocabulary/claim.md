@@ -200,9 +200,8 @@ Analyze the root/family of **claim**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **claim**?
+🕵️ **Fix the Error:** "I claim the sky is blue." (using claim for obvious facts)
 ?
-> ❌ **Mistake:** "I claim the sky is blue." (using claim for obvious facts)
 > ✅ **Correction:** "I know the sky is blue." OR "I **claim** this land belongs to my family."
 > 🧠 **Why:** Claim is used for assertions that might be challenged or for demanding rights, not for stating obvious truths.
 

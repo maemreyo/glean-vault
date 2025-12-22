@@ -192,9 +192,8 @@ Analyze the root/family of **decay**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **decay**?
+🕵️ **Fix the Error:** The conversation decayed quickly when politics were mentioned.
 ?
-> ❌ **Mistake:** The conversation decayed quickly when politics were mentioned.
 > ✅ **Correction:** The conversation deteriorated quickly when politics were mentioned.
 > 🧠 **Why:** Dùng 'deteriorate' cho abstract things như conversations, relationships, economy. 'Decay' chủ yếu cho physical/biological deterioration
 

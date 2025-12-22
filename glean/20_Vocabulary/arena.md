@@ -181,9 +181,8 @@ Analyze the root/family of **arena**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **arena**?
+🕵️ **Fix the Error:** "The concert took place at a beautiful arena"
 ?
-> ❌ **Mistake:** "The concert took place at a beautiful arena"
 > ✅ **Correction:** "The concert took place in a beautiful arena"
 > 🧠 **Why:** Events happen "in" an arena (enclosed space) chứ không phải "at" - "at" dùng cho specific points, "in" cho enclosed spaces.
 

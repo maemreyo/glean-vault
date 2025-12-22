@@ -194,9 +194,8 @@ Analyze the root/family of **neighbour**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **neighbour**?
+🕵️ **Fix the Error:** My neighbours is very friendly
 ?
-> ❌ **Mistake:** My neighbours is very friendly
 > ✅ **Correction:** My neighbour is very friendly / My neighbours are very friendly
 > 🧠 **Why:** 'Neighbour' là số nhiều, 'neighbours' số nhiều - cần chia động từ đúng
 

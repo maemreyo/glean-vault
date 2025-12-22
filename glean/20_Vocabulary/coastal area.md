@@ -193,9 +193,8 @@ Analyze the root/family of **coastal area**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **coastal area**?
+🕵️ **Fix the Error:** The government must protect coastals from pollution.
 ?
-> ❌ **Mistake:** The government must protect coastals from pollution.
 > ✅ **Correction:** The government must protect coastal areas from pollution.
 > 🧠 **Why:** 'Coastal' is an adjective and cannot be pluralized; we must use 'coastal areas' when referring to multiple regions
 

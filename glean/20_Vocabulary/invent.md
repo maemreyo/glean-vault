@@ -193,9 +193,8 @@ Analyze the root/family of **invent**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **invent**?
+🕵️ **Fix the Error:** "Apple invents new iPhones every year."
 ?
-> ❌ **Mistake:** "Apple invents new iPhones every year."
 > ✅ **Correction:** "Apple creates/releases new iPhones every year."
 > 🧠 **Why:** Invent = first of its kind; New iPhones are improvements/variations, not first inventions.
 

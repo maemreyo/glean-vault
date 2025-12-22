@@ -196,9 +196,8 @@ Analyze the root/family of **hugely**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **hugely**?
+🕵️ **Fix the Error:** "The prices hugely increased." (awkward with dynamic verbs)
 ?
-> ❌ **Mistake:** "The prices hugely increased." (awkward with dynamic verbs)
 > ✅ **Correction:** "The prices increased hugely" hoặc "The prices were hugely increased"
 > 🧠 **Why:** "Hugely" thường works better sau verb hoặc trong passive voice, không phải trước dynamic verbs như "increased".
 

@@ -194,9 +194,8 @@ Analyze the root/family of **segment**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **segment**?
+🕵️ **Fix the Error:** "The audience was segmented in different age groups."
 ?
-> ❌ **Mistake:** "The audience was segmented in different age groups."
 > ✅ **Correction:** "The audience was segmented into different age groups."
 > 🧠 **Why:** Use "into" for dividing - we divide things INTO segments, not ON segments
 

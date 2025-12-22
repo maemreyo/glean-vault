@@ -192,9 +192,8 @@ Analyze the root/family of **assessment**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **assessment**?
+🕵️ **Fix the Error:** "We did an assessment of the situation quickly."
 ?
-> ❌ **Mistake:** "We did an assessment of the situation quickly."
 > ✅ **Correction:** "We conducted an assessment of the situation." OR "We quickly assessed the situation."
 > 🧱 **Why:** "Assessment" là danh từ chỉ quá trình, cần động từ phù hợp như "conduct/perform/carry out". Hoặc dùng động từ "assess" để diễn tả hành động
 

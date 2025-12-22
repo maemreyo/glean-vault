@@ -194,9 +194,8 @@ Analyze the root/family of **complicate**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **complicate**?
+🕵️ **Fix the Error:** "This is a complicate problem"
 ?
-> ❌ **Mistake:** "This is a complicate problem"
 > ✅ **Correction:** "This is a complicated problem"
 > 🧠 **Why:** Complicate is the verb (action), complicated is the adjective (description). You describe a problem as "complicated," not "complicate."
 

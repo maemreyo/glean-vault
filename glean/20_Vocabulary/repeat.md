@@ -195,9 +195,8 @@ Analyze the root/family of **repeat**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **repeat**?
+🕵️ **Fix the Error:** "Don't repeat again." (redundant)
 ?
-> ❌ **Mistake:** "Don't repeat again." (redundant)
 > ✅ **Correction:** "Don't repeat." hoặc "Don't say it again."
 > 🧠 **Why:** "repeat" đã bao hàm nghĩa "again", nên "repeat again" là redundant. Giống như nói "ATM machine" trong tiếng Anh.
 

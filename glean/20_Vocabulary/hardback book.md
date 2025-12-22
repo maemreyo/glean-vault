@@ -192,9 +192,8 @@ Analyze the root/family of **hardback book**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **hardback book**?
+🕵️ **Fix the Error:** This is a beautiful hard-back book with gold letters.
 ?
-> ❌ **Mistake:** This is a beautiful hard-back book with gold letters.
 > ✅ **Correction:** This is a beautiful hardback book with gold letters.
 > 🧠 **Why:** 'Hardback' thường được viết as one word khi làm adjective hoặc noun, không phân tách
 

@@ -194,9 +194,8 @@ Analyze the root/family of **cryptobiosis**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **cryptobiosis**?
+🕵️ **Fix the Error:** "The bacteria died but came back to life through cryptobiosis."
 ?
-> ❌ **Mistake:** "The bacteria died but came back to life through cryptobiosis."
 > ✅ **Correction:** "The bacteria survived through cryptobiosis and later revived."
 > 🧠 **Why:** Organisms don't die during cryptobiosis - they survive in suspended state. "Revived" or "recovered" is more accurate than "came back to life"
 

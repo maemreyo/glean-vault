@@ -196,9 +196,8 @@ Analyze the root/family of **arrange**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **arrange**?
+🕵️ **Fix the Error:** "I arranged my clothes this morning."
 ?
-> ❌ **Mistake:** "I arranged my clothes this morning."
 > ✅ **Correction:** "I organized my clothes this morning."
 > 🧠 **Why:** Use "arrange" when you're setting things up for others or coordinating with people. Use "organize" for personal tidying or ordering. Don't mix them up!
 

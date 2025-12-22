@@ -191,9 +191,8 @@ Analyze the root/family of **apron**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **apron**?
+🕵️ **Fix the Error:** "She put on her aprin before cooking."
 ?
-> ❌ **Mistake:** "She put on her aprin before cooking."
 > ✅ **Correction:** "She put on her apron before cooking."
 > 🧠 **Why:** Correct spelling is APRON - "a-pro-n", not "a-prin". The 'o' sound is crucial.
 

@@ -193,9 +193,8 @@ Analyze the root/family of **riverside**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **riverside**?
+🕵️ **Fix the Error:** "We live at the river side."
 ?
-> ❌ **Mistake:** "We live at the river side."
 > ✅ **Correction:** "We live at the riverside." OR "We live by the river side."
 > 🧠 **Why:** "Riverside" is one word when referring to the area. "River side" (two words) only works when "side" is modified separately.
 

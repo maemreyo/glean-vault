@@ -194,9 +194,8 @@ Analyze the root/family of **sharp claw**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **sharp claw**?
+🕵️ **Fix the Error:** "The bird have sharp claws"
 ?
-> ❌ **Mistake:** "The bird have sharp claws"
 > ✅ **Correction:** "The bird has sharp claws"
 > 🧱 **Why:** 'Bird' is singular, so it needs 'has' not 'have', and 'claws' is plural because birds typically have multiple claws
 

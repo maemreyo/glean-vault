@@ -191,9 +191,8 @@ Analyze the root/family of **excel**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **excel**?
+🕵️ **Fix the Error:** "She excels on playing piano."
 ?
-> ❌ **Mistake:** "She excels on playing piano."
 > ✅ **Correction:** "She excels in/at playing piano."
 > 🧠 **Why:** Excel requires prepositions 'in' or 'at' when followed by an activity/field, not 'on'.
 

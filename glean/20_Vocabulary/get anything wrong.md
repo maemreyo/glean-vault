@@ -195,9 +195,8 @@ Analyze the components of **get anything wrong**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **get anything wrong**?
+🕵️ **Fix the Error:** He always try to not get anything wrong
 ?
-> ❌ **Mistake:** He always try to not get anything wrong
 > ✅ **Correction:** He always tries not to get anything wrong
 > 🧠 **Why:** 'He' cần 'tries' (third person singular), và cấu trúc đúng là 'tries not to get'
 

@@ -194,9 +194,8 @@ Analyze the root/family of **no longer**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **no longer**?
+🕵️ **Fix the Error:** I no longer am interested in that subject.
 ?
-> ❌ **Mistake:** I no longer am interested in that subject.
 > ✅ **Correction:** I am no longer interested in that subject.
 > 🧠 **Why:** 'No longer' goes AFTER the verb 'to be', not before. With other verbs, it goes BEFORE: I no longer like...
 

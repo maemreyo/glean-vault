@@ -195,9 +195,8 @@ Analyze the root/family of **effective**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **effective**?
+🕵️ **Fix the Error:** "This medicine is very effective for to treat headaches."
 ?
-> ❌ **Mistake:** "This medicine is very effective for to treat headaches."
 > ✅ **Correction:** "This medicine is very effective for treating headaches" OR "This medicine is very effective in treating headaches."
 > 🧠 **Why:** "Effective for + gerund (-ing)" hoặc "effective in + gerund". Không dùng "for to + verb".
 

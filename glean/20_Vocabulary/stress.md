@@ -201,9 +201,8 @@ Analyze the root/family of **stress**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **stress**?
+🕵️ **Fix the Error:** I have many stresses in my life.
 ?
-> ❌ **Mistake:** I have many stresses in my life.
 > ✅ **Correction:** I have a lot of stress in my life. OR I face many stressors in my life.
 > 🧠 **Why:** "Stress" thường là một noun không đếm được khi nói về trạng thái chung. "Stressors" (có số nhiều) dùng để chỉ các yếu tố cụ thể gây ra stress.
 

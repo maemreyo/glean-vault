@@ -195,9 +195,8 @@ Analyze the root/family of **come along**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **come along**?
+🕵️ **Fix the Error:** The opportunity was come along when I needed it most.
 ?
-> ❌ **Mistake:** The opportunity was come along when I needed it most.
 > ✅ **Correction:** The opportunity came along when I needed it most.
 > 🧠 **Why:** 'Come along' is a phrasal verb that takes the past tense 'came' not 'was come'
 

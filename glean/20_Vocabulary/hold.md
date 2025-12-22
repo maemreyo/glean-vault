@@ -184,9 +184,8 @@ Analyze the root/family of **hold**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **hold**?
+🕵️ **Fix the Error:** I'm holding my breath since 5 minutes.
 ?
-> ❌ **Mistake:** I'm holding my breath since 5 minutes.
 > ✅ **Correction:** I've been holding my breath for 5 minutes.
 > 🧠 **Why:** Với action kéo dài từ quá khứ đến hiện tại (hold my breath since 5 minutes), dùng Present Perfect Continuous (have been holding), not Present Continuous.
 

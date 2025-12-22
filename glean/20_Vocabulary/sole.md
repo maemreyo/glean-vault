@@ -198,9 +198,8 @@ Analyze the root/family of **sole**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **sole**?
+🕵️ **Fix the Error:** The company needs my **soul** signature on the document.
 ?
-> ❌ **Mistake:** The company needs my **soul** signature on the document.
 > ✅ **Correction:** The company needs my **sole** signature on the document.
 > 🧠 **Why:** Sole (duy nhất) vs soul (linh hồn) - hai từ đồng âm nhưng nghĩa hoàn toàn khác nhau
 

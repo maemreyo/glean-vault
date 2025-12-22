@@ -195,9 +195,8 @@ Analyze the root/family of **goods**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **goods**?
+🕵️ **Fix the Error:** This good is very expensive.
 ?
-> ❌ **Mistake:** This good is very expensive.
 > ✅ **Correction:** This item is very expensive. / These goods are very expensive.
 > 🧠 **Why:** "Goods" luôn là số nhiều. Khi muốn nói một món hàng, dùng "item", "product", hoặc "article".
 

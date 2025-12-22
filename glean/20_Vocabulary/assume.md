@@ -194,9 +194,8 @@ Analyze the root/family of **assume**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **assume**?
+🕵️ **Fix the Error:** Never assume, it makes an ass out of u and me
 ?
-> ❌ **Mistake:** Never assume, it makes an ass out of u and me
 > ✅ **Correction:** While clever wordplay, "assume" is perfectly acceptable in formal writing when used appropriately
 > 🧠 **Why:** The popular saying confuses wordplay with actual usage - "assume" is standard in academic and professional contexts
 

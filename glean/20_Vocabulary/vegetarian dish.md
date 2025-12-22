@@ -194,9 +194,8 @@ Analyze the root/family of **vegetarian dish**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **vegetarian dish**?
+🕵️ **Fix the Error:** I'll have the vegetarian dish, but make sure it has no cheese.
 ?
-> ❌ **Mistake:** I'll have the vegetarian dish, but make sure it has no cheese.
 > ✅ **Correction:** I'll have the vegan dish since I want no cheese.
 > 🧠 **Why:** "Vegetarian" có thể chứa phô mai. Nếu không muốn sản phẩm động vật nào, phải dùng "vegan".
 

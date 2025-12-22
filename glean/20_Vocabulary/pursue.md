@@ -193,9 +193,8 @@ Analyze the root/family of **pursue**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **pursue**?
+🕵️ **Fix the Error:** "She is pursuing after her dreams."
 ?
-> ❌ **Mistake:** "She is pursuing after her dreams."
 > ✅ **Correction:** "She is pursuing her dreams."
 > 🧠 **Why:** No need for "after" - pursue is transitive and includes the meaning of following/going after
 

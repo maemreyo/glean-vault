@@ -194,9 +194,8 @@ Analyze the root/family of **a straightforward way**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a straightforward way**?
+🕵️ **Fix the Error:** This is a **way straightforward** to learn English.
 ?
-> ❌ **Mistake:** This is a **way straightforward** to learn English.
 > ✅ **Correction:** This is a **straightforward way** to learn English.
 > 🧠 **Why:** Straightforward là tính từ đứng trước danh từ way, không thể đảo ngược thứ tự
 

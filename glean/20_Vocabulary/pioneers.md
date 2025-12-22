@@ -197,9 +197,8 @@ Analyze the root/family of **pioneer**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **pioneers**?
+🕵️ **Fix the Error:** "The pioneers was very brave."
 ?
-> ❌ **Mistake:** "The pioneers was very brave."
 > ✅ **Correction:** "The pioneers were very brave."
 > 🧠 **Why:** 'Pioneers' is plural, so it requires the plural verb 'were' not 'was'
 

@@ -197,9 +197,8 @@ Analyze the root/family of **moss**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **moss**?
+🕵️ **Fix the Error:** There were many beautiful mosses in the forest
 ?
-> ❌ **Mistake:** There were many beautiful mosses in the forest
 > ✅ **Correction:** There was a lot of beautiful moss in the forest. / There were many types of moss in the forest.
 > 🧠 **Why:** Khi nói về plant as covering material, 'moss' là uncountable. Khi nói về different species, dùng 'types of moss' hoặc 'mosses' (plural trong scientific context)
 

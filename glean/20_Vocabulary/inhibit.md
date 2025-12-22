@@ -195,9 +195,8 @@ Analyze the root/family of **inhibit**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **inhibit**?
+🕵️ **Fix the Error:** The drug inhibits the bacteria growing.
 ?
-> ❌ **Mistake:** The drug inhibits the bacteria growing.
 > ✅ **Correction:** The drug inhibits the bacteria FROM growing.
 > 🧠 **Why:** 'Inhibit' needs preposition 'from' before an action/verb. It inhibits something FROM doing something.
 

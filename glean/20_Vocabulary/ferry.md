@@ -194,9 +194,8 @@ Analyze the root/family of **ferry**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **ferry**?
+🕵️ **Fix the Error:** "The ferry is more cheaper than the plane"
 ?
-> ❌ **Mistake:** "The ferry is more cheaper than the plane"
 > ✅ **Correction:** "The ferry is cheaper than the plane" OR "Taking the ferry is more economical than flying"
 > 🧠 **Why:** "Cheaper" is already comparative, don't need "more". Use "cheaper" OR "more economical/expensive"
 

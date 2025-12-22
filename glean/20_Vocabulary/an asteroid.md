@@ -192,9 +192,8 @@ Analyze the root/family of **asteroid**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **asteroid**?
+🕵️ **Fix the Error:** The asteroid burned up in the atmosphere last night.
 ?
-> ❌ **Mistake:** The asteroid burned up in the atmosphere last night.
 > ✅ **Correction:** The meteor burned up in the atmosphere last night.
 > 🧠 **Why:** Asteroid khi ở trong không gian, meteor khi đang cháy trong khí quyển, meteorite khi đã rơi xuống đất
 

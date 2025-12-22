@@ -192,9 +192,8 @@ Analyze the root/family of **a heart condition**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a heart condition**?
+🕵️ **Fix the Error:** My heart condition hurts when I exercise.
 ?
-> ❌ **Mistake:** My heart condition hurts when I exercise.
 > ✅ **Correction:** My heart hurts when I exercise due to my heart condition. / I have chest pain when I exercise because of my heart condition.
 > 🧠 **Why:** 'Heart condition' là diagnosis, không phải là thing gây pain trực tiếp - cần explain relationship giữa condition và symptoms
 

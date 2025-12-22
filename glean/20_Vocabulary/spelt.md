@@ -193,9 +193,8 @@ Analyze the root/family of **spelt**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **spelt**?
+🕵️ **Fix the Error:** I have spelt the American English document.
 ?
-> ❌ **Mistake:** I have spelt the American English document.
 > ✅ **Correction:** I have spelled the American English document. / I have spelt the British English document.
 > 🧠 **Why:** 'Spelt' is British English, 'spelled' is American English - maintain consistency with your chosen dialect
 

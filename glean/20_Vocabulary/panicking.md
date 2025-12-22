@@ -195,9 +195,8 @@ Analyze the root/family of **panicking**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **panicking**?
+🕵️ **Fix the Error:** Everyone was panicing during the fire drill.
 ?
-> ❌ **Mistake:** Everyone was panicing during the fire drill.
 > ✅ **Correction:** Everyone was panicking during the fire drill.
 > 🧠 **Why:** Panic + ing = panicking (cần giữ 'k' và thêm 'n' trước 'ing') - đây là spelling rule đặc biệt
 

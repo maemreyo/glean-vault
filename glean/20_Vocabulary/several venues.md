@@ -197,9 +197,8 @@ Analyze the components of **several venues**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **several venues**?
+🕵️ **Fix the Error:** Using singular verb with plural "venues"
 ?
-> ❌ **Mistake:** Using singular verb with plural "venues"
 > ✅ **Correction:** "Several venues ARE" (plural verb)
 > 🧠 **Why:** "Venues" is always plural, requires plural verb agreement
 

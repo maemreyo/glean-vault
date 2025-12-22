@@ -187,9 +187,8 @@ Analyze the root/family of **otherwise**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **otherwise**?
+🕵️ **Fix the Error:** "I would go to the party, otherwise I am tired"
 ?
-> ❌ **Mistake:** "I would go to the party, otherwise I am tired"
 > ✅ **Correction:** "I would go to the party if I weren't tired" or "I'm tired, so I won't go to the party"
 > 🧠 **Why:** Otherwise doesn't work with preference - it shows consequences or alternatives, not simple reasons.
 

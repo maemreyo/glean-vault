@@ -193,9 +193,8 @@ Analyze the compound of **second-hand**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **second-hand**?
+🕵️ **Fix the Error:** I only read second hand information about the incident.
 ?
-> ❌ **Mistake:** I only read second hand information about the incident.
 > ✅ **Correction:** I only read second-hand information about the incident.
 > 🧠 **Why:** Luôn có dấu gạch nối (-) khi dùng "second-hand" như adj trước noun - đây là quy tắc hyphenation
 

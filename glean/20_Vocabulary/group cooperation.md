@@ -195,9 +195,8 @@ Analyze the root/family of **group cooperation**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **group cooperation**?
+🕵️ **Fix the Error:** "The cooperation between the three departments was excellent."
 ?
-> ❌ **Mistake:** "The cooperation between the three departments was excellent."
 > ✅ **Correction:** "The cooperation among the three departments was excellent."
 > 🧠 **Why:** Khi nói về hợp tác giữa ba bên trở lên, dùng 'among' thay vì 'between'. 'Between' chỉ dùng cho hai bên
 

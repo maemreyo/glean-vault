@@ -194,9 +194,8 @@ Analyze the root/family of **a shelf**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a shelf**?
+🕵️ **Fix the Error:** The kitchen has many shelfs for spices.
 ?
-> ❌ **Mistake:** The kitchen has many shelfs for spices.
 > ✅ **Correction:** The kitchen has many shelves for spices.
 > 🧠 **Why:** Shelf có irregular plural: shelf → shelves (f → ves), giống knife → knives, wife → wives
 

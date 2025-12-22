@@ -197,9 +197,8 @@ Analyze the root/family of **outward**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **outward**?
+🕵️ **Fix the Error:** "He had an outward personality." (awkward)
 ?
-> ❌ **Mistake:** "He had an outward personality." (awkward)
 > ✅ **Correction:** "He had an outgoing personality." hoặc "His outward appearance was friendly."
 > 🧠 **Why:** "Outward" typically modifies appearance, signs, or direction. Use "outgoing" cho personality types. "Outward" describes what others can see, not personality trait itself.
 

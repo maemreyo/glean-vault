@@ -196,9 +196,8 @@ Analyze the root/family of **pedestrian**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **pedestrianised**?
+🕵️ **Fix the Error:** "The pedestrianised streets make it difficult for cars to driving through"
 ?
-> ❌ **Mistake:** "The pedestrianised streets make it difficult for cars to driving through"
 > ✅ **Correction:** "The pedestrianised streets make it difficult for cars to drive through"
 > 🧠 **Why:** After modal verb 'can', 'may', 'make', use base form 'drive' not 'driving'
 

@@ -195,9 +195,8 @@ Analyze the root/family of **be timetabling**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **be timetabling**?
+🕵️ **Fix the Error:** "We be timetabling the meetings every Monday."
 ?
-> ❌ **Mistake:** "We be timetabling the meetings every Monday."
 > ✅ **Correction:** "We are timetabling the meetings every Monday."
 > 🧠 **Why:** Need auxiliary verb "are/were/will be" for continuous tenses (VN: Cần động từ trợ giúp "are/were/will be" cho thì tiếp diễn)
 

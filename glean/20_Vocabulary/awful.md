@@ -191,9 +191,8 @@ Analyze the root/family of **awful**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **awful**?
+🕵️ **Fix the Error:** This is the awfullest movie I've ever seen.
 ?
-> ❌ **Mistake:** This is the awfullest movie I've ever seen.
 > ✅ **Correction:** This is the worst/awfullest movie I've ever seen.
 > 🧠 **Why:** 'Awful' có thể dùng 'awfullest' nhưng 'worst' common hơn trong informal speech
 

@@ -195,9 +195,8 @@ Analyze the root/family of **lorries**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **lorries**?
+🕵️ **Fix the Error:** The American company bought new lorries for their fleet.
 ?
-> ❌ **Mistake:** The American company bought new lorries for their fleet.
 > ✅ **Correction:** The American company bought new trucks for their fleet.
 > 🧠 **Why:** "Lorries" là British English. "Trucks" là American English. Cần consistency based on which variety of English being used.
 

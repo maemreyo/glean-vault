@@ -193,9 +193,8 @@ Analyze the root/family of **metabolism**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **metabolism**?
+🕵️ **Fix the Error:** I have a good metabolism because I exercise a lot.
 ?
-> ❌ **Mistake:** I have a good metabolism because I exercise a lot.
 > ✅ **Correction:** I have a FAST metabolism because I exercise a lot.
 > 🧠 **Why:** We describe metabolism's speed (fast/slow), not its quality (good/bad). It's about rate, not value judgment.
 

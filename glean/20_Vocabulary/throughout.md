@@ -194,9 +194,8 @@ Analyze the roots/family of **throughout**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **throughout**?
+🕵️ **Fix the Error:** "Throughout the meeting, everyone was quiet but some people talked"
 ?
-> ❌ **Mistake:** "Throughout the meeting, everyone was quiet but some people talked"
 > ✅ **Correction:** "Throughout the meeting, everyone was quiet except for some people who talked"
 > 🧠 **Why:** 'Throughout' implies completeness, so exceptions need to be clearly marked
 

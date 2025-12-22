@@ -194,9 +194,8 @@ Analyze the root/family of **accurately**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **accurately**?
+🕵️ **Fix the Error:** She speaks very **accurate** English.
 ?
-> ❌ **Mistake:** She speaks very **accurate** English.
 > ✅ **Correction:** She speaks English very **accurately**.
 > 🧠 **Why:** Cần trạng từ 'accurately' để bổ trợ cho động từ 'speaks', không phải tính từ 'accurate'
 

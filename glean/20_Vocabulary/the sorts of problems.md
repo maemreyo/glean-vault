@@ -193,9 +193,8 @@ Analyze the root/family of **the sorts of problems**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **the sorts of problems**?
+🕵️ **Fix the Error:** "These sort of problems is difficult."
 ?
-> ❌ **Mistake:** "These sort of problems is difficult."
 > ✅ **Correction:** "These sorts of problems are difficult." OR "This sort of problem is difficult."
 > 🧠 **Why:** Match plural/plural or singular/singular - "these" with "sorts" (plural) or "this" with "sort" (singular)
 

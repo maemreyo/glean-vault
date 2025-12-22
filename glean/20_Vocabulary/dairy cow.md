@@ -186,9 +186,8 @@ Analyze the root/family of **dairy cow**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **dairy cow**?
+🕵️ **Fix the Error:** "Dairy cows are good for steak"
 ?
-> ❌ **Mistake:** "Dairy cows are good for steak"
 > ✅ **Correction:** "Beef cattle are raised for meat; dairy cows are raised for milk"
 > 🧠 **Why:** Dairy cows are specialized for milk production, not meat - different from beef cattle breeds.
 

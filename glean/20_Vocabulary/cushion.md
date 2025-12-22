@@ -192,9 +192,8 @@ Analyze the root/family of **cushion**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **cushion**?
+🕵️ **Fix the Error:** "I need a cushion of sit on"
 ?
-> ❌ **Mistake:** "I need a cushion of sit on"
 > ✅ **Correction:** "I need a cushion to sit on"
 > 🧠 **Why:** 'Cushion' không đi với 'of' khi dùng như vật để ngồi lên, phải dùng 'to'
 

@@ -195,9 +195,8 @@ Analyze the root/family of **meaningful**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **meaningful**?
+🕵️ **Fix the Error:** "The gift was very meaningfully."
 ?
-> ❌ **Mistake:** "The gift was very meaningfully."
 > ✅ **Correction:** "The gift was very meaningful."
 > 🧠 **Why:** "meaningful" là adjective, "meaningfully" là adverb. Chỉ dùng adjective để修饰 noun (the gift), không phải adverb. Common ESL confusion.
 

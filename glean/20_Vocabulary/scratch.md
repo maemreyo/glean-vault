@@ -195,9 +195,8 @@ Analyze the root/family of **scratch**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **scratch**?
+🕵️ **Fix the Error:** "I made the cake from a scratch" (Sai thành ngữ)
 ?
-> ❌ **Mistake:** "I made the cake from a scratch" (Sai thành ngữ)
 > ✅ **Correction:** "I made the cake from scratch"
 > 🧠 **Why:** "From scratch" là thành ngữ cố định không thể có "a" ở giữa, có nghĩa là làm hoàn toàn từ đầu không có nguyên liệu sẵn
 

@@ -198,9 +198,8 @@ Analyze the root/family of **financial**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **financial**?
+🕵️ **Fix the Error:** "The finacial advisor gave good recommendations"
 ?
-> ❌ **Mistake:** "The finacial advisor gave good recommendations"
 > ✅ **Correction:** "The financial advisor gave good recommendations"
 > 🧠 **Why:** Correct spelling is 'financial' with 'n' before 'c'
 
@@ -215,3 +214,4 @@ Analyze the root/family of **financial**.
 > - [[non-financial]] (phi tài chính)
 > - [[personal]] (cá nhân, không thuộc về kinh doanh)
 > 🧱 **Contrast:** Financial relates to money systems, while non-financial/personal refers to non-monetary aspects
+<!--SR:!2025-12-25,3,254-->

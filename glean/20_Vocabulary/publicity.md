@@ -148,6 +148,7 @@ List 3 common collocations for **publicity**.
 > **publicity:** Earned media attention, often unpaid, more credible (Sự chú ý từ truyền thông, thường không trả tiền, đáng tin cậy hơn)
 > **advertising:** Paid promotional messages, controlled content (Thông điệp quảng cáo trả tiền, nội dung được kiểm soát)
 > 🧱 **The Barrier:** Publicity = earned attention (organic), Advertising = paid attention (controlled). Think newspaper article vs. newspaper ad!
+<!--SR:!2025-12-23,1,232-->
 
 ---
 
@@ -199,9 +200,8 @@ Analyze the root/family of **publicity**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **publicity**?
+🕵️ **Fix the Error:** "The marketing department is responsible for creating publicity by buying ads" (confusing with advertising)
 ?
-> ❌ **Mistake:** "The marketing department is responsible for creating publicity by buying ads" (confusing with advertising)
 > ✅ **Correction:** "The PR department is responsible for generating publicity through media relations" or "The marketing department creates publicity through advertising"
 > 🧠 **Why:** Publicity is typically earned media attention, not purchased. PR generates publicity through relationships, while advertising involves direct payment for space/time.
 

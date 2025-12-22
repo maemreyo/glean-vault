@@ -194,9 +194,8 @@ Analyze the root/family of **hard to reach a judgement**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **hard to reach a judgement**?
+🕵️ **Fix the Error:** "It's hard to reach judgement." (thiếu "a")
 ?
-> ❌ **Mistake:** "It's hard to reach judgement." (thiếu "a")
 > ✅ **Correction:** "It's hard to reach a judgement."
 > 🧠 **Why:** Fixed expression requires article "a" before "judgement"
 

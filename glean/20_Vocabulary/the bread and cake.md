@@ -193,9 +193,8 @@ Analyze the root/family of **the bread and cake**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **the bread and cake**?
+🕵️ **Fix the Error:** "I want bread and cake for breakfast" (như literal food)
 ?
-> ❌ **Mistake:** "I want bread and cake for breakfast" (như literal food)
 > ✅ **Correction:** "I want the bread and cake in this negotiation" (idiomatic meaning)
 > 🧠 **Why:** Thể hiện nghĩa nghĩa tượng trưng "tất cả mọi thứ" cần có "the", còn không có "the" chỉ hiểu theo nghĩa đen là thực phẩm.
 

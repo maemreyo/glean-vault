@@ -195,9 +195,8 @@ Analyze the root/family of **carbon footprint**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **carbon footprint**?
+🕵️ **Fix the Error:** "My car's carbon footprint is just the gas I use."
 ?
-> ❌ **Mistake:** "My car's carbon footprint is just the gas I use."
 > ✅ **Correction:** "My car's carbon footprint includes both fuel consumption and the emissions from manufacturing the vehicle."
 > 🧠 **Why:** Carbon footprint includes both direct and indirect emissions throughout the lifecycle (VN: Bao gồm cả khí thải trực tiếp và gián tiếp)
 

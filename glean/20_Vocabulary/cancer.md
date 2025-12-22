@@ -195,9 +195,8 @@ Analyze the root/family of **cancer**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **cancer**?
+🕵️ **Fix the Error:** "My grandfather died from lung cancers last year."
 ?
-> ❌ **Mistake:** "My grandfather died from lung cancers last year."
 > ✅ **Correction:** "My grandfather died from lung cancer last year." OR "My grandfather died from various cancers."
 > 🧠 **Why:** When referring to specific type of cancer (lung, breast), it's singular. "Cancers" plural chỉ used khi talking about multiple different types hoặc occurrences.
 

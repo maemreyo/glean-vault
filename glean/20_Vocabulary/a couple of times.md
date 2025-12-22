@@ -195,9 +195,8 @@ Analyze the root/family of **a couple of times**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a couple of times**?
+🕵️ **Fix the Error:** "I have seen him a couple of times this week only" (Chỉ đúng khi chính xác là 2 lần)
 ?
-> ❌ **Mistake:** "I have seen him a couple of times this week only" (Chỉ đúng khi chính xác là 2 lần)
 > ✅ **Correction:** "I have seen him a couple of times" (Có thể là 2-3 lần)
 > 🧠 **Why:** Trong văn nói thông thường, "a couple" thường được dùng một cách linh hoạt để chỉ "khoảng" chứ không luôn luôn có nghĩa là chính xác hai
 

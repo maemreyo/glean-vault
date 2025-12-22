@@ -196,9 +196,8 @@ Analyze the root/family of **casualty**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **casualty**?
+🕵️ **Fix the Error:** "There were 5 casualties in the accident, all dead." (redundant)
 ?
-> ❌ **Mistake:** "There were 5 casualties in the accident, all dead." (redundant)
 > ✅ **Correction:** "There were 5 casualties, including 2 fatalities." hoặc "There were 5 deaths in the accident."
 > 🧠 **Why:** Casualty already covers deaths, so saying "dead casualties" là redundant. Use "fatalities" cho specific deaths.
 

@@ -192,9 +192,8 @@ Analyze the root/family of **participant**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **participant**?
+🕵️ **Fix the Error:** "The participants was happy with the results."
 ?
-> ❌ **Mistake:** "The participants was happy with the results."
 > ✅ **Correction:** "The participants were happy with the results."
 > 🧠 **Why:** 'Participants' is plural, so it requires the plural verb 'were', not singular 'was'.
 

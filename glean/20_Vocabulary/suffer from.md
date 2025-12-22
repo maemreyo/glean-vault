@@ -193,9 +193,8 @@ Analyze the root/family of **suffer from**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **suffer from**?
+🕵️ **Fix the Error:** The economy suffers of inflation
 ?
-> ❌ **Mistake:** The economy suffers of inflation
 > ✅ **Correction:** The economy suffers from inflation
 > 🧠 **Why:** Collocation chuẩn là 'suffer from', không phải 'suffer of' - 'from' chỉ ra source/origin của suffering
 

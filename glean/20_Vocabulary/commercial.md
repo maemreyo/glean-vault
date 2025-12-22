@@ -197,9 +197,8 @@ Analyze the root/family of **commercial**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **commercial**?
+🕵️ **Fix the Error:** "The restaurant has a very business atmosphere."
 ?
-> ❌ **Mistake:** "The restaurant has a very business atmosphere."
 > ✅ **Correction:** "The restaurant has a very commercial atmosphere." or "The restaurant has a business-like atmosphere."
 > 🧠 **Why:** "Commercial" là tính từ chính xác để mô tả không khí có màu sắc kinh doanh/thương mại, "business" là danh từ
 

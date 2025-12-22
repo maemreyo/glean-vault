@@ -192,9 +192,8 @@ Analyze the root/family of **solid evidence**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **solid evidence**?
+🕵️ **Fix the Error:** "The police found solid evidences at the crime scene."
 ?
-> ❌ **Mistake:** "The police found solid evidences at the crime scene."
 > ✅ **Correction:** "The police found solid evidence at the crime scene."
 > 🧠 **Why:** 'Evidence' is uncountable. Never use plural 'evidences'. Use 'pieces of evidence' if needed.
 

@@ -193,9 +193,8 @@ Analyze the root/family of **major city**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **major city**?
+🕵️ **Fix the Error:** Beijing is most major city in China.
 ?
-> ❌ **Mistake:** Beijing is most major city in China.
 > ✅ **Correction:** Beijing is a major city in China. / Beijing is the major city of China.
 > 🧠 **Why:** "Major" không phải là adjective so sánh nhất. Không dùng "most major". Có thể dùng "one of the major cities" hoặc "a major city".
 

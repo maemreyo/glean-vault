@@ -195,9 +195,8 @@ Analyze the root/family of **attribute**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **attribute**?
+🕵️ **Fix the Error:** I **ATtribute** my success to luck.
 ?
-> ❌ **Mistake:** I **ATtribute** my success to luck.
 > ✅ **Correction:** I at**TRIBute** my success to luck.
 > 🧠 **Why:** Danh từ: AT-trib-ute (stress 1), Động từ: at-TRIB-ute (stress 2) - sự thay đổi trọng âm rất quan trọng
 

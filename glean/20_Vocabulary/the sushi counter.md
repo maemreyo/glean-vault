@@ -194,9 +194,8 @@ Analyze the root/family of **the sushi counter**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **the sushi counter**?
+🕵️ **Fix the Error:** The sushi counters in this restaurant are always busy.
 ?
-> ❌ **Mistake:** The sushi counters in this restaurant are always busy.
 > ✅ **Correction:** The sushi counter in this restaurant is always busy.
 > 🧠 **Why:** When referring to the specific sushi preparation area in a restaurant, we typically use the singular 'counter' even though there may be multiple chefs working there
 

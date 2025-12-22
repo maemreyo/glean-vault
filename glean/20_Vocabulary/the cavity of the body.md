@@ -191,9 +191,8 @@ Analyze the root/family of **cavity**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **cavity**?
+🕵️ **Fix the Error:** "The doctor looked in my cavity"
 ?
-> ❌ **Mistake:** "The doctor looked in my cavity"
 > ✅ **Correction:** "The doctor looked in my oral cavity" or "The doctor looked for cavities in my teeth"
 > 🧠 **Why:** 'Cavity' alone often means tooth decay, specify 'oral cavity' for the mouth or 'cavities' for tooth decay
 

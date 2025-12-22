@@ -197,9 +197,8 @@ Analyze the root/family of **association**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **association**?
+🕵️ **Fix the Error:** Using plural verb with singular "association"
 ?
-> ❌ **Mistake:** Using plural verb with singular "association"
 > ✅ **Correction:** "The association IS" (singular verb)
 > 🧠 **Why:** Association is singular when referring to one organization
 

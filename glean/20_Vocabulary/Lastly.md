@@ -193,9 +193,8 @@ Analyze the root/family of **lastly**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **lastly**?
+🕵️ **Fix the Error:** Lastly, in conclusion, I would like to...
 ?
-> ❌ **Mistake:** Lastly, in conclusion, I would like to...
 > ✅ **Correction:** Lastly, I would like to... OR In conclusion, I would like to...
 > 🧠 **Why:** Avoid redundancy - 'Lastly' and 'in conclusion' both signal the final point
 

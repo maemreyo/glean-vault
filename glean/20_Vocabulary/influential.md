@@ -199,9 +199,8 @@ Analyze the root/family of **influential**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **influential**?
+🕵️ **Fix the Error:** "The teacher was influential on his students' career choices."
 ?
-> ❌ **Mistake:** "The teacher was influential on his students' career choices."
 > ✅ **Correction:** "The teacher was influential in his students' career choices."
 > 🧠 **Why:** Preposition đúng sau influential là "in" khi nói về lĩnh vực ảnh hưởng, không phải "on". Influential in + domain/area.
 

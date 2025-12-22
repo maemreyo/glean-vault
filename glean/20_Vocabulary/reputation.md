@@ -200,9 +200,8 @@ Analyze the root/family of **reputation**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **reputation**?
+🕵️ **Fix the Error:** "She has reputation as a hard worker."
 ?
-> ❌ **Mistake:** "She has reputation as a hard worker."
 > ✅ **Correction:** "She has a reputation as a hard worker." OR "She has the reputation of being a hard worker."
 > 🧠 **Why:** "Reputation" as countable noun cần article "a/an" hoặc "the" khi chỉ specific reputation
 

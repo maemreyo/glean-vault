@@ -194,9 +194,8 @@ Analyze the root/family of **feeling**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **feeling**?
+🕵️ **Fix the Error:** "I have a feeling to go home."
 ?
-> ❌ **Mistake:** "I have a feeling to go home."
 > ✅ **Correction:** "I have a feeling that I should go home." OR "I feel like going home."
 > 🧠 **Why:** 'Have a feeling' needs to be completed with 'that...' or 'like...'. You don't 'have a feeling TO do' something!
 

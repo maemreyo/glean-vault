@@ -195,9 +195,8 @@ Analyze the components of **sell-by date**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **sell-by date**?
+🕵️ **Fix the Error:** I threw away the yogurt because it was past its sell-by date
 ?
-> ❌ **Mistake:** I threw away the yogurt because it was past its sell-by date
 > ✅ **Correction:** I checked if it was past its use-by date before throwing it away
 > 🧠 **Why:** Sell-by date chỉ cho cửa hàng biết khi nào phải bán hết, không phải ngày hết dùng an toàn
 

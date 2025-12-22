@@ -195,9 +195,8 @@ Analyze the root/family of **undergone**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **undergone**?
+🕵️ **Fix the Error:** "The building was undergo renovations."
 ?
-> ❌ **Mistake:** "The building was undergo renovations."
 > ✅ **Correction:** "The building underwent renovations." hoặc "The building has undergone renovations."
 > 🧠 **Why:** "undergone" là past participle, cần "has/have/had" hoặc dùng past form "underwent" cho past simple
 

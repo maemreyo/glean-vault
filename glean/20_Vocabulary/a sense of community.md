@@ -195,11 +195,11 @@ Analyze the root/family of **community**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a sense of community**?
+🕵️ **Fix the Error:** "The apartment building has many senses of community"
 ?
-> ❌ **Mistake:** "The apartment building has many senses of community"
 > ✅ **Correction:** "The apartment building has a strong sense of community"
 > 🧠 **Why:** 'Sense' here is singular as it refers to one collective feeling
+<!--SR:!2025-12-23,1,231-->
 
 ---
 
@@ -212,3 +212,4 @@ Analyze the root/family of **community**.
 > - [[social isolation]] (sự cô lập xã hội)
 > - [[alienation]] (sự xa lạ, lạc lõng)
 > 🧱 **Contrast:** Community emphasizes connection and belonging, while isolation describes separation and loneliness
+<!--SR:!2025-12-23,1,232-->

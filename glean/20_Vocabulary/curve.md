@@ -195,9 +195,8 @@ Analyze the root/family of **curve**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **curve**?
+🕵️ **Fix the Error:** The ball curved through the air /kʌrv/.
 ?
-> ❌ **Mistake:** The ball curved through the air /kʌrv/.
 > ✅ **Correction:** The ball curved through the air /kɜːvd/.
 > 🧠 **Why:** Động từ "curve" ở thì quá khứ là "curved" (phát âm là /kɜːvd/), không phải /kʌrv/.
 

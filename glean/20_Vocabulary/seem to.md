@@ -194,9 +194,8 @@ Analyze the root/family of **seem to**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **seem to**?
+🕵️ **Fix the Error:** "They seems to be busy" (sai chia động từ)
 ?
-> ❌ **Mistake:** "They seems to be busy" (sai chia động từ)
 > ✅ **Correction:** "They seem to be busy"
 > 🧠 **Why:** "Seem" phải chia theo chủ ngữ: I/you/we/they -> seem, he/she/it -> seems
 

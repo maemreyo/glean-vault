@@ -192,9 +192,8 @@ Analyze the root/family of **chew**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **chew**?
+🕵️ **Fix the Error:** I need to chew on this tough steak more.
 ?
-> ❌ **Mistake:** I need to chew on this tough steak more.
 > ✅ **Correction:** I need to chew this tough steak more.
 > 🧠 **Why:** Don't use "on" với food objects. "Chew on" chỉ用于 abstract things (ideas, problems) hoặc chewing gum
 

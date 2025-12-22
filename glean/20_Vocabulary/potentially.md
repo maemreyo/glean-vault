@@ -198,9 +198,8 @@ Analyze the root/family of **potentially**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **potentially**?
+🕵️ **Fix the Error:** I'm potentially going to the party tonight.
 ?
-> ❌ **Mistake:** I'm potentially going to the party tonight.
 > ✅ **Correction:** I might go to the party tonight.
 > 🧠 **Why:** 'Potentially' quá formal cho casual situations, 'might' tự nhiên hơn
 

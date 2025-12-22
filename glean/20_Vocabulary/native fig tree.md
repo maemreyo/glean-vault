@@ -192,9 +192,8 @@ Analyze the root/family of **native fig tree**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **native fig tree**?
+🕵️ **Fix the Error:** "The native fig tree was imported from Brazil."
 ?
-> ❌ **Mistake:** "The native fig tree was imported from Brazil."
 > ✅ **Correction:** "The native fig tree grows naturally in this region; the Brazilian species was imported."
 > 🧠 **Why:** "Native" means naturally occurring, không thể "import" a native species.
 

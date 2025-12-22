@@ -199,9 +199,8 @@ Analyze the root/family of **shade**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **shade**?
+🕵️ **Fix the Error:** "I'm sitting in the shadow of the tree"
 ?
-> ❌ **Mistake:** "I'm sitting in the shadow of the tree"
 > ✅ **Correction:** "I'm sitting in the shade of the tree"
 > 🧠 **Why:** Shade là vùng có ánh sáng gián tiếp, shadow là hình bóng đen rõ ràng
 

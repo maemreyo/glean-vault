@@ -194,9 +194,8 @@ Analyze the root/family of **tropical reforestation project**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **tropical reforestation project**?
+🕵️ **Fix the Error:** The tropical reforestation projects are having positive impacts.
 ?
-> ❌ **Mistake:** The tropical reforestation projects are having positive impacts.
 > ✅ **Correction:** The tropical reforestation project is having positive impacts.
 > 🧠 **Why:** When referring to the specific project being discussed, use singular 'project'; use plural 'projects' only when talking about multiple distinct projects
 

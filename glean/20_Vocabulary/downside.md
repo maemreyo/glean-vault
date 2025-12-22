@@ -192,9 +192,8 @@ Analyze the root/family of **downside**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **downside**?
+🕵️ **Fix the Error:** "I have many downsides." (tự nói về bản thân)
 ?
-> ❌ **Mistake:** "I have many downsides." (tự nói về bản thân)
 > ✅ **Correction:** "This situation has many downsides." OR "I have many weaknesses."
 > 🧠 **Why:** Downside describes features of things/situations, not personal traits
 

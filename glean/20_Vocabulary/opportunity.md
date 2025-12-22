@@ -195,9 +195,8 @@ Analyze the root/family of **opportunity**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **opportunity**?
+🕵️ **Fix the Error:** The company gave me many opportunities to choose.
 ?
-> ❌ **Mistake:** The company gave me many opportunities to choose.
 > ✅ **Correction:** The company gave me many opportunities to choose from.
 > 🧠 **Why:** Khi có nhiều options, cần thêm "from" sau "choose" để show source of options
 

@@ -192,9 +192,8 @@ Analyze the root/family of **beneath**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **beneath**?
+🕵️ **Fix the Error:** "I keep my keys beneath the table."
 ?
-> ❌ **Mistake:** "I keep my keys beneath the table."
 > ✅ **Correction:** "I keep my keys under the table."
 > 🧠 **Why:** 'Beneath' quá trang trọng cho tình huống đời thường - nên dùng 'under'
 

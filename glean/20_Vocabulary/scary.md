@@ -193,9 +193,8 @@ Analyze the root/family of **scary**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **scary**?
+🕵️ **Fix the Error:** "I have a scary of heights."
 ?
-> ❌ **Mistake:** "I have a scary of heights."
 > ✅ **Correction:** "I have a fear of heights." / "Heights are scary to me."
 > 🧠 **Why:** "scary" miêu tả vật/nguyên nhân gây sợ, không phải cảm xúc của người. Dùng "fear" hoặc "scared of"
 

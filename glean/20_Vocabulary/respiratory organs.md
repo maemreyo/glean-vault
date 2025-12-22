@@ -194,9 +194,8 @@ Analyze the root/family of **respiratory organs**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **respiratory organs**?
+🕵️ **Fix the Error:** The respiratory organ is essential for life.
 ?
-> ❌ **Mistake:** The respiratory organ is essential for life.
 > ✅ **Correction:** The respiratory organs are essential for life. / The respiratory system is essential for life.
 > 🧠 **Why:** Body system consists of multiple organs working together. Use plural 'organs' hoặc singular 'system' cho entire system
 

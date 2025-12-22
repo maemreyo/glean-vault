@@ -197,9 +197,8 @@ Analyze the root/family of **over-protective**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **over-protective**?
+🕵️ **Fix the Error:** She acts over protective towards her younger brother.
 ?
-> ❌ **Mistake:** She acts over protective towards her younger brother.
 > ✅ **Correction:** She acts over-protectively towards her younger brother. / She is over-protective towards her younger brother.
 > 🧠 **Why:** 'Over-protective' là adjective, 'over-protectively' là adverb. Khi modifying verb 'acts', cần adverb form
 

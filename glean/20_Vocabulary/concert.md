@@ -197,9 +197,8 @@ Analyze the root/family of **concert**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **concert**?
+🕵️ **Fix the Error:** Confusing "concert" with "concerto"
 ?
-> ❌ **Mistake:** Confusing "concert" with "concerto"
 > ✅ **Correction:** Concert is the event, concerto is a musical composition
 > 🧠 **Why:** Concert = sự kiện, concerto = tác phẩm âm nhạc
 

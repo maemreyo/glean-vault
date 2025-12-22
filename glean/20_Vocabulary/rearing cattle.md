@@ -195,9 +195,8 @@ Analyze the root/family of **rearing cattle**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **rearing cattle**?
+🕵️ **Fix the Error:** He is good at rearing cattles
 ?
-> ❌ **Mistake:** He is good at rearing cattles
 > ✅ **Correction:** He is good at rearing cattle / He is good at raising cows
 > 🧠 **Why:** 'Cattle' là plural-only noun - không có 'cattles'. Dùng 'cattle' cho plural, hoặc 'cow/bull/calf' cho singular
 

@@ -194,9 +194,8 @@ Analyze the root/family of **impression**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **impression**?
+🕵️ **Fix the Error:** I have a good impression about this policy.
 ?
-> ❌ **Mistake:** I have a good impression about this policy.
 > ✅ **Correction:** I have a good opinion about this policy. / This policy left a good impression on me.
 > 🧠 **Why:** 'Impression' requires object + preposition structure (on/upon someone) or subject + left/gave impression
 

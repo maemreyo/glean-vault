@@ -196,9 +196,8 @@ Analyze the roots/family of **readily available**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **readily available**?
+🕵️ **Fix the Error:** "The information is available readily"
 ?
-> ❌ **Mistake:** "The information is available readily"
 > ✅ **Correction:** "The information is readily available"
 > 🧠 **Why:** Adverb 'readily' comes before the adjective 'available' it modifies
 

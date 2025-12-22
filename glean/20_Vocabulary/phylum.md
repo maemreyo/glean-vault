@@ -190,9 +190,8 @@ Analyze the root/family of **phylum**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **phylum**?
+🕵️ **Fix the Error:** "The animal belongs to one of the many phylums"
 ?
-> ❌ **Mistake:** "The animal belongs to one of the many phylums"
 > ✅ **Correction:** "The animal belongs to one of the many phyla"
 > 🧠 **Why:** "Phylum" is Greek - plural is "phyla", not English "-s"
 

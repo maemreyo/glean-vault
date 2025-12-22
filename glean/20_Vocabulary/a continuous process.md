@@ -193,9 +193,8 @@ Analyze the root/family of **a continuous process**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a continuous process**?
+🕵️ **Fix the Error:** "Breathing is a continuous process that we can stop anytime"
 ?
-> ❌ **Mistake:** "Breathing is a continuous process that we can stop anytime"
 > ✅ **Correction:** "Breathing is a continuous process that we cannot stop" OR "Breathing is an automatic process"
 > 🧠 **Why:** A continuous process, by definition, cannot be stopped at will. Don't contradict the word's meaning in the same sentence.
 

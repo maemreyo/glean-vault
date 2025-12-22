@@ -194,9 +194,8 @@ Analyze the root/family of **avocado**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **avocado**?
+🕵️ **Fix the Error:** "The avocado are ripe." (khi nói về nhiều quả)
 ?
-> ❌ **Mistake:** "The avocado are ripe." (khi nói về nhiều quả)
 > ✅ **Correction:** "The avocados are ripe."
 > 🧠 **Why:** Avocado là countable noun khi nói về cả quả (plural: avocados). Nhưng có thể là uncountable khi nói về phần thịt đã nghiền/lát (some avocado).
 

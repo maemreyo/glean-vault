@@ -194,9 +194,8 @@ Analyze the root/family of **promote**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **promote**?
+🕵️ **Fix the Error:** "The campaign promotes to buy local products."
 ?
-> ❌ **Mistake:** "The campaign promotes to buy local products."
 > ✅ **Correction:** "The campaign promotes buying local products."
 > 🧠 **Why:** "Promote" thường followed by noun/gerund, không phải "promote to + verb".
 

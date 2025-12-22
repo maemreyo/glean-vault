@@ -199,9 +199,8 @@ Analyze the root/family of **interpersonal skills**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **interpersonal skills**?
+🕵️ **Fix the Error:** "I have good interpersonal skills, that's why I like working alone" (contradictory context)
 ?
-> ❌ **Mistake:** "I have good interpersonal skills, that's why I like working alone" (contradictory context)
 > ✅ **Correction:** "I have good interpersonal skills, that's why I excel in team projects" or "I prefer working independently, so I'm developing my interpersonal skills"
 > 🧠 **Why:** Interpersonal skills specifically involve interacting with others. Don't claim good interpersonal skills while preferring isolation - that's contradictory!
 

@@ -194,9 +194,8 @@ Analyze the root/family of **bookshelves**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **bookshelves**?
+🕵️ **Fix the Error:** I bought a new bookshelves for my room.
 ?
-> ❌ **Mistake:** I bought a new bookshelves for my room.
 > ✅ **Correction:** I bought a new bookshelf for my room. (singular) OR I bought new bookshelves for my room. (plural)
 > 🧠 **Why:** "Bookshelf" là singular, "bookshelves" là irregular plural - không thêm "s" mà đổi f → v
 

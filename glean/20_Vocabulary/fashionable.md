@@ -197,9 +197,8 @@ Analyze the root/family of **fashionable**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **fashionable**?
+🕵️ **Fix the Error:** "That's a very fashion dress."
 ?
-> ❌ **Mistake:** "That's a very fashion dress."
 > ✅ **Correction:** "That's a very fashionable dress." or "That's a very dress in the latest fashion."
 > 🧠 **Why:** "Fashion" là danh từ, không phải tính từ. Cần dùng "fashionable" để miêu tả, hoặc dùng cấu trúc "in the latest fashion"
 

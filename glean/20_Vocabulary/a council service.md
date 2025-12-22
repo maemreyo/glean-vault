@@ -195,9 +195,8 @@ Analyze the root/family of **council service**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **council service**?
+🕵️ **Fix the Error:** "The council service are helpful" (subject-verb agreement)
 ?
-> ❌ **Mistake:** "The council service are helpful" (subject-verb agreement)
 > ✅ **Correction:** "The council service is helpful" OR "The council services are helpful"
 > 🧠 **Why:** "council service" (singular) takes singular verb; "council services" (plural) takes plural verb
 

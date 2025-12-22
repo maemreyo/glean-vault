@@ -194,9 +194,8 @@ Analyze the root/family of **admit**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **admit**?
+🕵️ **Fix the Error:** "She admitted that she has seen him yesterday" (Sai thì)
 ?
-> ❌ **Mistake:** "She admitted that she has seen him yesterday" (Sai thì)
 > ✅ **Correction:** "She admitted that she had seen him yesterday" hoặc "She admitted seeing him yesterday"
 > 🧠 **Why:** Khi báo cáo sự việc đã xảy ra trước khi "admit", cần dùng thì quá khứ. Cấu trúc "admit + V-ing" thường đơn giản hơn
 

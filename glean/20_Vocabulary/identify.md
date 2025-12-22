@@ -194,9 +194,8 @@ Analyze the root/family of **identify**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **identify**?
+🕵️ **Fix the Error:** I identify myself as a person who likes to helping others
 ?
-> ❌ **Mistake:** I identify myself as a person who likes to helping others
 > ✅ **Correction:** I identify myself as a person who likes to help others
 > 🧠 **Why:** After "identify as", use base form or noun - "a helper" or "someone who helps"
 

@@ -194,9 +194,8 @@ Analyze the root/family of **workshop**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **workshop**?
+🕵️ **Fix the Error:** "We had a workshop to discuss the quarterly report" (Sai loại hình hoạt động)
 ?
-> ❌ **Mistake:** "We had a workshop to discuss the quarterly report" (Sai loại hình hoạt động)
 > ✅ **Correction:** "We had a meeting to discuss the quarterly report" hoặc "We had a training workshop to create better reports"
 > 🧠 **Why:** "Workshop" đòi hỏi yếu tố thực hành và học kỹ năng, không chỉ là thảo luận thông thường như "meeting"
 

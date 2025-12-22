@@ -194,9 +194,8 @@ Analyze the root/family of **at risk of drying out**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **at risk of drying out**?
+🕵️ **Fix the Error:** "The reservoir is in risk to dry out."
 ?
-> ❌ **Mistake:** "The reservoir is in risk to dry out."
 > ✅ **Correction:** "The reservoir is at risk of drying out."
 > 🧠 **Why:** Fixed expression is always "at risk OF + gerund" (drying out), not "in risk to" or "in risk of"
 

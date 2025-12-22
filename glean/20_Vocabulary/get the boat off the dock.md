@@ -193,9 +193,8 @@ Analyze the root/family of **get the boat off the dock**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **get the boat off the dock**?
+🕵️ **Fix the Error:** "get the boat from the dock" or "get the boat away the dock"
 ?
-> ❌ **Mistake:** "get the boat from the dock" or "get the boat away the dock"
 > ✅ **Correction:** "get the boat off the dock"
 > 🧠 **Why:** "Off" is the correct preposition for separation from a surface or structure in this phrasal verb
 

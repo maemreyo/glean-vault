@@ -192,9 +192,8 @@ Analyze the root/family of **mangrove forest**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **mangrove forest**?
+🕵️ **Fix the Error:** The mangrove forest contains mainly pine and oak trees
 ?
-> ❌ **Mistake:** The mangrove forest contains mainly pine and oak trees
 > ✅ **Correction:** The mangrove forest contains specialized salt-tolerant trees like Rhizophora and Avicennia
 > 🧠 **Why:** Mangrove forests có các loài cây đặc thù chịu được muối, không phải là cây thông hay sồi thông thường
 

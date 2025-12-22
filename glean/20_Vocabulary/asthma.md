@@ -192,9 +192,8 @@ Analyze the root/family of **asthma**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **asthma**?
+🕵️ **Fix the Error:** "He suffers from asthmas" (incorrect plural)
 ?
-> ❌ **Mistake:** "He suffers from asthmas" (incorrect plural)
 > ✅ **Correction:** "He suffers from asthma"
 > 🧠 **Why:** Asthma is a disease name, uncountable noun, never pluralized
 

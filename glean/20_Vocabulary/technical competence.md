@@ -193,9 +193,8 @@ Analyze the root/family of **technical competence**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **technical competence**?
+🕵️ **Fix the Error:** "She has many technical competences"
 ?
-> ❌ **Mistake:** "She has many technical competences"
 > ✅ **Correction:** "She has many technical competencies" OR "She has technical competence in many areas"
 > 🧠 **Why:** Competence is usually uncountable when referring to overall ability, while competencies (plural) refers to specific skill sets
 

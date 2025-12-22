@@ -204,9 +204,8 @@ Analyze the root/family of **a few chords**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a few chords**?
+🕵️ **Fix the Error:** "She can play a few cords on the guitar"
 ?
-> ❌ **Mistake:** "She can play a few cords on the guitar"
 > ✅ **Correction:** "She can play a few chords on the guitar"
 > 🧠 **Why:** "Chord" is for music (notes together), "cord" is for rope/string - common homophone confusion
 <!--SR:!2025-12-21,1,230-->

@@ -193,9 +193,8 @@ Analyze the root/family of **build up**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **build up**?
+🕵️ **Fix the Error:** The stress builds me up before exams.
 ?
-> ❌ **Mistake:** The stress builds me up before exams.
 > ✅ **Correction:** The stress builds up before exams. / The stress builds me up (nghĩa là làm tôi thêm động lực)
 > 🧠 **Why:** 'Build up' có thể là intransitive (tăng dần) hoặc transitive (xây dựng cái gì). Context quyết định meaning
 

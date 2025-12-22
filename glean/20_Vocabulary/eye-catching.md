@@ -195,9 +195,8 @@ Analyze the root/family of **eye-catching**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **eye-catching**?
+🕵️ **Fix the Error:** The perfume smell was very eye-catching
 ?
-> ❌ **Mistake:** The perfume smell was very eye-catching
 > ✅ **Correction:** The perfume bottle was very eye-catching / The perfume had a captivating scent
 > 🧠 **Why:** 'Eye-catching' chỉ dùng cho visual stimulation. Dùng 'captivating' hoặc 'alluring' cho mùi hương
 

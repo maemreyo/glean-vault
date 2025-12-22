@@ -196,9 +196,8 @@ Analyze the root/family of **go out of fashion**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **go out of fashion**?
+🕵️ **Fix the Error:** "Bell-bottoms has gone out of fashion"
 ?
-> ❌ **Mistake:** "Bell-bottoms has gone out of fashion"
 > ✅ **Correction:** "Bell-bottoms have gone out of fashion"
 > 🧠 **Why:** "Bell-bottoms" là số nhiều (quần), cần dùng "have" thay vì "has"
 

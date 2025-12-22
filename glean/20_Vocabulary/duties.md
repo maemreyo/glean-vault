@@ -199,9 +199,8 @@ Analyze the root/family of **duties**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **duties**?
+🕵️ **Fix the Error:** My duties is to teach and grade papers.
 ?
-> ❌ **Mistake:** My duties is to teach and grade papers.
 > ✅ **Correction:** My duties are to teach and grade papers.
 > 🧠 **Why:** 'Duties' là plural noun, cần plural verb 'are' để agree
 

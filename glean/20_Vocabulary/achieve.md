@@ -197,9 +197,8 @@ Analyze the root/family of **achieve**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **achieve**?
+🕵️ **Fix the Error:** "We need to achieve to our goals on time." (extra preposition)
 ?
-> ❌ **Mistake:** "We need to achieve to our goals on time." (extra preposition)
 > ✅ **Correction:** "We need to achieve our goals on time."
 > 🧠 **Why:** "Achieve" là transitive verb, không cần "to" trước object. Direct object comes immediately after verb.
 

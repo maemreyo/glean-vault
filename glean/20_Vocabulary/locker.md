@@ -193,9 +193,8 @@ Analyze the root/family of **locker**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **locker**?
+🕵️ **Fix the Error:** "I keep my books in my locker" (if talking about home storage)
 ?
-> ❌ **Mistake:** "I keep my books in my locker" (if talking about home storage)
 > ✅ **Correction:** "I keep my books in my bookcase/cupboard at home" OR "I keep my books in my school locker"
 > 🧠 **Why:** Lockers are typically in public/institutional settings, not homes
 

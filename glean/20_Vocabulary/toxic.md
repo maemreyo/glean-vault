@@ -201,9 +201,8 @@ Analyze the root/family of **toxic**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **toxic**?
+🕵️ **Fix the Error:** "I have a toxic headache from too much work."
 ?
-> ❌ **Mistake:** "I have a toxic headache from too much work."
 > ✅ **Correction:** "I have a terrible headache from too much work."
 > 🧠 **Why:** "Toxic" specifically means poisonous. Don't use it for general negative feelings. Use "terrible," "awful," or "severe" for headaches.
 

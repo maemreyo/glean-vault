@@ -193,9 +193,8 @@ Analyze the root/family of **defecation**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **defecation**?
+🕵️ **Fix the Error:** "The child's defecation was dirty."
 ?
-> ❌ **Mistake:** "The child's defecation was dirty."
 > ✅ **Correction:** "The child's stool/feces was abnormal."
 > 🧠 **Why:** "Defecation" là process/action, không phải waste product itself. Waste được gọi là "stool" hay "feces".
 

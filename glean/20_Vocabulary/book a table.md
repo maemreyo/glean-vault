@@ -195,9 +195,8 @@ Analyze the root/family of **book a table**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **book a table**?
+🕵️ **Fix the Error:** "I'm thinking to book a table for tomorrow."
 ?
-> ❌ **Mistake:** "I'm thinking to book a table for tomorrow."
 > ✅ **Correction:** "I'm thinking of booking a table for tomorrow."
 > 🧠 **Why:** Sau "thinking of" hoặc "thinking about" dùng gerund "booking", không dùng to-infinitive
 

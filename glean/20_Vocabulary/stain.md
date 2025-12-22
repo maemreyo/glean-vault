@@ -198,9 +198,8 @@ Analyze the root/family of **stain**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **stain**?
+🕵️ **Fix the Error:** This material doesn't stain easy.
 ?
-> ❌ **Mistake:** This material doesn't stain easy.
 > ✅ **Correction:** This material doesn't stain easily.
 > 🧠 **Why:** "Stain" là verb, cần adverb "easily" không phải adjective "easy" - đây là lỗi phần phổ biến với verb/adverb
 

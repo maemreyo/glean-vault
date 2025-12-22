@@ -193,9 +193,8 @@ Analyze the root/family of **conservation**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **conservation**?
+🕵️ **Fix the Error:** "We need conservation of this old building"
 ?
-> ❌ **Mistake:** "We need conservation of this old building"
 > ✅ **Correction:** "We need preservation of this old building"
 > 🧠 **Why:** Buildings use 'preservation' (keeping original), natural resources use 'conservation' (managing use)
 

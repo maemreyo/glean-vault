@@ -191,9 +191,8 @@ Analyze the structure of **as well as**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **as well as**?
+🕵️ **Fix the Error:** "My parents as well as my brother is coming."
 ?
-> ❌ **Mistake:** "My parents as well as my brother is coming."
 > ✅ **Correction:** "My parents as well as my brother are coming."
 > 🧠 **Why:** Động từ chia theo chủ thể chính (my parents), không theo what comes after 'as well as'
 

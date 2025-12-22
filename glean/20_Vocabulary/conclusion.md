@@ -195,9 +195,8 @@ Analyze the root/family of **conclusion**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **conclusion**?
+🕵️ **Fix the Error:** "In conclusion of my presentation..."
 ?
-> ❌ **Mistake:** "In conclusion of my presentation..."
 > ✅ **Correction:** "In conclusion, I would like to say..." OR "To conclude my presentation..."
 > 🧠 **Why:** "In conclusion" là standalone phrase, không có "of". Hoặc dùng "to conclude" + object.
 

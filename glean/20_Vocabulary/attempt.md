@@ -199,9 +199,8 @@ Analyze the root/family of **attempt**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **attempt**?
+🕵️ **Fix the Error:** "I attempt doing my homework" (wrong verb pattern)
 ?
-> ❌ **Mistake:** "I attempt doing my homework" (wrong verb pattern)
 > ✅ **Correction:** "I attempt to do my homework" or "I'm attempting to do my homework"
 > 🧠 **Why:** Attempt is followed by infinitive (to + verb), not gerund (-ing). Pattern: attempt TO DO something, not attempt DOING something!
 

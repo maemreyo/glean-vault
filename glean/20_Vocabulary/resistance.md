@@ -195,9 +195,8 @@ Analyze the root/family of **resistance**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **resistance**?
+🕵️ **Fix the Error:** "The resistance of the employees made the project successful."
 ?
-> ❌ **Mistake:** "The resistance of the employees made the project successful."
 > ✅ **Correction:** "The persistence of the employees made the project successful."
 > 🧠 **Why:** "Resistance" negative (chống lại), "persistence" positive (tiếp tục despite difficulties).
 

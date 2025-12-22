@@ -194,9 +194,8 @@ Analyze the root/family of **soil**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **soil**?
+🕵️ **Fix the Error:** I need to buy three bags of soils for my garden.
 ?
-> ❌ **Mistake:** I need to buy three bags of soils for my garden.
 > ✅ **Correction:** I need to buy three bags of SOIL for my garden.
 > 🧠 **Why:** 'Soil' is uncountable when referring to the material itself. Only use plural 'soils' for different types (e.g., clay soils, sandy soils).
 

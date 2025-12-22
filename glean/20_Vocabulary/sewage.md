@@ -194,9 +194,8 @@ Analyze the root/family of **sewage**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **sewage**?
+🕵️ **Fix the Error:** The broken sewage caused the basement to flood
 ?
-> ❌ **Mistake:** The broken sewage caused the basement to flood
 > ✅ **Correction:** The broken sewer line caused sewage backup in the basement
 > 🧠 **Why:** "Sewer" is the pipe, "sewage" is what flows through it
 

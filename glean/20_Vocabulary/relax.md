@@ -193,9 +193,8 @@ Analyze the root/family of **relax**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **relax**?
+🕵️ **Fix the Error:** "I relax myself with music."
 ?
-> ❌ **Mistake:** "I relax myself with music."
 > ✅ **Correction:** "I relax with music" OR "Music helps me relax."
 > 🧠 **Why:** Relax là intransitive verb - không cần object "myself". Music là external agent giúp bạn relax.
 

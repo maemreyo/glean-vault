@@ -197,9 +197,8 @@ Analyze the root/family of **obsessed with**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **obsessed with**?
+🕵️ **Fix the Error:** He's obsessed in becoming rich.
 ?
-> ❌ **Mistake:** He's obsessed in becoming rich.
 > ✅ **Correction:** He's obsessed with becoming rich.
 > 🧠 **Why:** 'Obsessed' luôn đi với preposition 'with', không phải 'in' hoặc các preposition khác
 

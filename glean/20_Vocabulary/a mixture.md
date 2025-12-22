@@ -192,9 +192,8 @@ Analyze the root/family of **a mixture**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a mixture**?
+🕵️ **Fix the Error:** The conversation was mixture of English and French
 ?
-> ❌ **Mistake:** The conversation was mixture of English and French
 > ✅ **Correction:** The conversation was a mixture of English and French
 > 🧠 **Why:** Need article 'a' before 'mixture' khi it's countable - it's 'a mixture of something'
 

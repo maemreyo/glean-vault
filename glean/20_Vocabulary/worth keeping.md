@@ -193,9 +193,8 @@ Analyze the root/family of **worth keeping**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **worth keeping**?
+🕵️ **Fix the Error:** "This is worth to keep."
 ?
-> ❌ **Mistake:** "This is worth to keep."
 > ✅ **Correction:** "This is worth keeping."
 > 🧠 **Why:** Structure là "be worth + gerund (-ing)", không phải "be worth to + infinitive".
 

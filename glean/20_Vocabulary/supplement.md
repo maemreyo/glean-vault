@@ -197,9 +197,8 @@ Analyze the root/family of **supplement**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **supplement**?
+🕵️ **Fix the Error:** The teacher gave supplement materials for the exam
 ?
-> ❌ **Mistake:** The teacher gave supplement materials for the exam
 > ✅ **Correction:** The teacher gave supplementary materials for the exam
 > 🧠 **Why:** Khi làm tính từ, dùng 'supplementary' hoặc 'supplemental'. 'Supplement' là danh từ hoặc động từ
 

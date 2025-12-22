@@ -194,9 +194,8 @@ Analyze the root/family of **essential**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **essential**?
+🕵️ **Fix the Error:** "It's essential to have a big TV in your living room."
 ?
-> ❌ **Mistake:** "It's essential to have a big TV in your living room."
 > ✅ **Correction:** "It's nice/desirable to have a big TV in your living room." OR "A comfortable sofa is essential for your living room."
 > 🧠 **Why:** Essential = cannot function without. Big TV là luxury, không là essential. Reserve 'essential' cho truly indispensable things (like air, water, keys, documents).
 

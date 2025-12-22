@@ -193,9 +193,8 @@ Analyze the root/family of **circular wall**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **circular wall**?
+🕵️ **Fix the Error:** The circular walls was high.
 ?
-> ❌ **Mistake:** The circular walls was high.
 > ✅ **Correction:** The circular wall was high. / The circular walls were high.
 > 🧠 **Why:** "Circular wall" là danh từ đơn, "circular walls" là số nhiều
 

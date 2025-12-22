@@ -197,9 +197,8 @@ Analyze the root/family of **necklace**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **necklace**?
+🕵️ **Fix the Error:** I need to buy a new necklaces for the party.
 ?
-> ❌ **Mistake:** I need to buy a new necklaces for the party.
 > ✅ **Correction:** I need to buy a new necklace for the party.
 > 🧠 **Why:** "Necklace" là noun có số đếm được, nên dùng "a necklace" (cái) cho số ít và "necklaces" (nhiều cái) cho số nhiều. Câu này chỉ cần một cái nên dùng số ít.
 

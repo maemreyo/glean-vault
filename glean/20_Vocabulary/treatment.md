@@ -199,9 +199,8 @@ Analyze the root/family of **treatment**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **treatment**?
+🕵️ **Fix the Error:** The hospital provides many treatments for cancer.
 ?
-> ❌ **Mistake:** The hospital provides many treatments for cancer.
 > ✅ **Correction:** The hospital provides many types of treatment for cancer. / The hospital provides cancer treatments.
 > 🧠 **Why:** Khi tính riêng biệt, dùng "types/kinds of treatment". Khi "treatments" ở plural, nó thường đi với specific disease context.
 

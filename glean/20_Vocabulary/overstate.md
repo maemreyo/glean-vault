@@ -192,9 +192,8 @@ Analyze the root/family of **overstate**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **overstate**?
+🕵️ **Fix the Error:** "The politician overstated about the economy."
 ?
-> ❌ **Mistake:** "The politician overstated about the economy."
 > ✅ **Correction:** "The politician overstated the economic growth figures."
 > 🧠 **Why:** Overstate needs a direct object - what is being overstated. Can't use "about" like with "talked".
 

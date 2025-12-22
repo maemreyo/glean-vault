@@ -196,9 +196,8 @@ Analyze the root/family of **apparently**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **apparently**?
+🕵️ **Fix the Error:** Apparently, the sky is blue. (obvious fact)
 ?
-> ❌ **Mistake:** Apparently, the sky is blue. (obvious fact)
 > ✅ **Correction:** The sky is blue. (simple fact)
 > 🧠 **Why:** "Apparently" dùng cho information không hoàn toàn certain hoặc có element of surprise - không dùng cho obvious universal truths
 

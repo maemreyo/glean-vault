@@ -192,9 +192,8 @@ Analyze the root/family of **recognise by**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **recognise by**?
+🕵️ **Fix the Error:** I can recognise birds from their songs.
 ?
-> ❌ **Mistake:** I can recognise birds from their songs.
 > ✅ **Correction:** I can recognise birds by their songs.
 > 🧠 **Why:** Use 'by' to show the method of identification, not 'from' which indicates source
 

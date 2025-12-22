@@ -192,9 +192,8 @@ Analyze the root/family of **stands the test of time**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **stands the test of time**?
+🕵️ **Fix the Error:** Their marriage stand the test of time for twenty years.
 ?
-> ❌ **Mistake:** Their marriage stand the test of time for twenty years.
 > ✅ **Correction:** Their marriage has stood the test of time for twenty years.
 > 🧠 **Why:** Use present perfect tense 'has/have stood' when talking about something that continues to be true after a long period
 

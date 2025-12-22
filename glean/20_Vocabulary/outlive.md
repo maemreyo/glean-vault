@@ -193,9 +193,8 @@ Analyze the root/family of **outlive**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **outlive**?
+🕵️ **Fix the Error:** "She outlived than her husband by ten years."
 ?
-> ❌ **Mistake:** "She outlived than her husband by ten years."
 > ✅ **Correction:** "She outlived her husband by ten years."
 > 🧠 **Why:** 'Outlive' already contains comparison; don't add 'than'. Direct object is sufficient: outlive + [someone/something].
 

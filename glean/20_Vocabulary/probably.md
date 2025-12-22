@@ -194,9 +194,8 @@ Analyze the root/family of **probably**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **probably**?
+🕵️ **Fix the Error:** He probably comes to the meeting yesterday. (past action)
 ?
-> ❌ **Mistake:** He probably comes to the meeting yesterday. (past action)
 > ✅ **Correction:** He probably came to the meeting yesterday. / He probably will come tomorrow.
 > 🧠 **Why:** 'Probably' indicates uncertainty about future or present, not about completed past facts you're stating
 

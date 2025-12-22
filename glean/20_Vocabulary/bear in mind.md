@@ -192,9 +192,8 @@ Analyze the root/family of **bear in mind**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **bear in mind**?
+🕵️ **Fix the Error:** Please bear in your mind this warning.
 ?
-> ❌ **Mistake:** Please bear in your mind this warning.
 > ✅ **Correction:** Please bear in mind this warning. / Please keep this in mind.
 > 🧠 **Why:** 'Bear in mind' is a fixed phrase - don't add 'your' between 'in' and 'mind'
 

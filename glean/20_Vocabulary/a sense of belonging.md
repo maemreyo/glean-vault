@@ -192,9 +192,8 @@ Analyze the root/family of **a sense of belonging**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a sense of belonging**?
+🕵️ **Fix the Error:** "He doesn't have sense of belonging."
 ?
-> ❌ **Mistake:** "He doesn't have sense of belonging."
 > ✅ **Correction:** "He doesn't have a sense of belonging."
 > 🧠 **Why:** The phrase requires the article 'a' - it's 'a sense' not just 'sense'.
 

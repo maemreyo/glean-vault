@@ -200,9 +200,8 @@ Analyze the root/family of **arthritis**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **arthritis**?
+🕵️ **Fix the Error:** "My arthritis are hurting today."
 ?
-> ❌ **Mistake:** "My arthritis are hurting today."
 > ✅ **Correction:** "My arthritis is hurting today."
 > 🧠 **Why:** "Arthritis" là uncountable noun khi referring to the condition trong general. Use plural forms ONLY khi talking về specific types: "different arthritises exist."
 

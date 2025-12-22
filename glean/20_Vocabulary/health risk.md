@@ -193,9 +193,8 @@ Analyze the root/family of **health risk**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **health risk**?
+🕵️ **Fix the Error:** "Pollution is a big health risk for many peoples."
 ?
-> ❌ **Mistake:** "Pollution is a big health risk for many peoples."
 > ✅ **Correction:** "Pollution is a big health risk for many people."
 > 🧠 **Why:** "People" is already plural. Don't add an extra 's' to make "peoples" unless referring to distinct ethnic groups.
 

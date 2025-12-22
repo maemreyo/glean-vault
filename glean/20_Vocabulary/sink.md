@@ -193,9 +193,8 @@ Analyze the root/family of **sink**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **sink**?
+🕵️ **Fix the Error:** The little boat sinked in the storm
 ?
-> ❌ **Mistake:** The little boat sinked in the storm
 > ✅ **Correction:** The little boat sank in the storm
 > 🧠 **Why:** Sink là irregular verb - present: sink, past: sank, past participle: sunk (không dùng -ed)
 

@@ -194,9 +194,8 @@ Analyze the root/family of **impair**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **impair**?
+🕵️ **Fix the Error:** "The bad weather impaired for the construction project."
 ?
-> ❌ **Mistake:** "The bad weather impaired for the construction project."
 > ✅ **Correction:** "The bad weather impaired the construction project."
 > 🧠 **Why:** "impair" là transitive verb, không cần preposition "for" trước object. Dùng trực tiếp: impair + object.
 

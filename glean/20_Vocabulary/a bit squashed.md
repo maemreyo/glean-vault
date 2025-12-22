@@ -192,9 +192,8 @@ Analyze the root/family of **a bit squashed**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a bit squashed**?
+🕵️ **Fix the Error:** "The papers are a bit squash in the envelope."
 ?
-> ❌ **Mistake:** "The papers are a bit squash in the envelope."
 > ✅ **Correction:** "The papers are a bit squashed in the envelope."
 > 🧠 **Why:** Need "-ed" for adjective form - "squashed" describes state, "squash" is action verb
 

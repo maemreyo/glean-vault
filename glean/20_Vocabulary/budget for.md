@@ -187,9 +187,8 @@ Analyze the root/family of **budget for**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **budget for**?
+🕵️ **Fix the Error:** "I need to budget this expense with $500"
 ?
-> ❌ **Mistake:** "I need to budget this expense with $500"
 > ✅ **Correction:** "I need to budget for this expense with $500"
 > 🧠 **Why:** Preposition "for" is required after "budget" when followed by the item - budget + for + expense.
 

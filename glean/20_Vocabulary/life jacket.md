@@ -194,9 +194,8 @@ Analyze the root/family of **life jacket**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **life jacket**?
+🕵️ **Fix the Error:** Everyone needs life jacket on water.
 ?
-> ❌ **Mistake:** Everyone needs life jacket on water.
 > ✅ **Correction:** Everyone needs a life jacket on the water.
 > 🧠 **Why:** Need article "a" before countable noun "life jacket", and "on the water" is more natural than "on water" in this context
 

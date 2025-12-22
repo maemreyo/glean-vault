@@ -198,9 +198,8 @@ Analyze the root/family of **coat**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **coat**?
+🕵️ **Fix the Error:** "The dog has a beautiful fur." (incomplete)
 ?
-> ❌ **Mistake:** "The dog has a beautiful fur." (incomplete)
 > ✅ **Correction:** "The dog has a beautiful fur coat."
 > 🧠 **Why:** When referring to animal's fur covering, we use "coat" to indicate complete covering. "Fur" alone usually refers đến material hoặc individual hairs.
 

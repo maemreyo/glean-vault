@@ -197,9 +197,8 @@ Analyze the root/family of **retire**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **retire**?
+🕵️ **Fix the Error:** My grandpa retired his job last year.
 ?
-> ❌ **Mistake:** My grandpa retired his job last year.
 > ✅ **Correction:** My grandpa retired from his job last year.
 > 🧠 **Why:** 'Retire' is intransitive when referring to leaving work and needs the preposition 'from' to specify what one is retiring from
 

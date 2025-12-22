@@ -192,9 +192,8 @@ Analyze the root/family of **musical instrument**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **musical instrument**?
+🕵️ **Fix the Error:** "The school bought new musical equipments for the band."
 ?
-> ❌ **Mistake:** "The school bought new musical equipments for the band."
 > ✅ **Correction:** "The school bought new musical instruments for the band."
 > 🧠 **Why:** "Equipment" is uncountable, "instrument" is countable - each violin, flute, or drum is an individual instrument
 

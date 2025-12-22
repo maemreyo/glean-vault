@@ -192,9 +192,8 @@ Analyze the root/family of **mainly**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **mainly**?
+🕵️ **Fix the Error:** "They mainly are students"
 ?
-> ❌ **Mistake:** "They mainly are students"
 > ✅ **Correction:** "They are mainly students"
 > 🧠 **Why:** Usually place 'mainly' before the word it modifies (students), not after pronouns
 

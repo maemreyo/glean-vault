@@ -194,9 +194,8 @@ Analyze the root/family of **a drama activity**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a drama activity**?
+🕵️ **Fix the Error:** "The drama activities was fun"
 ?
-> ❌ **Mistake:** "The drama activities was fun"
 > ✅ **Correction:** "The drama activities were fun"
 > 🧱 **Why:** 'Activities' is plural, so it needs the plural verb 'were', not the singular 'was'
 

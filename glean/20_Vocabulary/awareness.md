@@ -194,9 +194,8 @@ Analyze the root/family of **awareness**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **awareness**?
+🕵️ **Fix the Error:** "She has a good awareness in business."
 ?
-> ❌ **Mistake:** "She has a good awareness in business."
 > ✅ **Correction:** "She has good business awareness." hoặc "She demonstrates business awareness."
 > 🧠 **Why:** "Awareness" thường đi với adjective hoặc possessive + noun + awareness, không dùng "awareness in". Fixed collocation error.
 

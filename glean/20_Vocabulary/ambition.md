@@ -191,9 +191,8 @@ Analyze the root/family of **ambition**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **ambition**?
+🕵️ **Fix the Error:** "His ambition is being rich."
 ?
-> ❌ **Mistake:** "His ambition is being rich."
 > ✅ **Correction:** "His ambition is to become rich" or "He is ambitious about becoming rich."
 > 🧠 **Why:** 'Ambition' usually needs 'to do' something, not 'being' something
 

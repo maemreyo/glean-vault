@@ -194,9 +194,8 @@ Analyze the root/family of **trainer**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **trainer**?
+🕵️ **Fix the Error:** "The trainer teached us many new techniques."
 ?
-> ❌ **Mistake:** "The trainer teached us many new techniques."
 > ✅ **Correction:** "The trainer taught us many new techniques."
 > 🧠 **Why:** Past tense of "teach" is "taught" (irregular) - not "teached"
 

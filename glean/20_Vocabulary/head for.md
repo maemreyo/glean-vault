@@ -182,9 +182,8 @@ Analyze the root/family of **head for**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **head for**?
+🕵️ **Fix the Error:** We are heading to the city
 ?
-> ❌ **Mistake:** We are heading to the city
 > ✅ **Correction:** We are heading for the city
 > 🧠 **Why:** "head for" thể hiện rõ hơn về hướng đi và đích đến, mặc dù "head to" cũng có thể dùng nhưng ít phổ biến hơn
 

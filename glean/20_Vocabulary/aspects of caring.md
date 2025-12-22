@@ -200,9 +200,8 @@ Analyze the root/family of **aspects of caring**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **aspects of caring**?
+🕵️ **Fix the Error:** "The many aspects of caring include helping, feeding, and cleaning" (listing actions instead of aspects)
 ?
-> ❌ **Mistake:** "The many aspects of caring include helping, feeding, and cleaning" (listing actions instead of aspects)
 > ✅ **Correction:** "The many aspects of caring include emotional support, physical assistance, and social companionship"
 > 🧠 **Why:** Aspects are categories/dimensions (emotional, physical, social), not specific actions. Group similar actions under broader aspects!
 

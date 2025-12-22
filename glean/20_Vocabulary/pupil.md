@@ -194,9 +194,8 @@ Analyze the root/family of **pupil**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **pupil**?
+🕵️ **Fix the Error:** "I am a pupil at Harvard University" (sai bối cảnh)
 ?
-> ❌ **Mistake:** "I am a pupil at Harvard University" (sai bối cảnh)
 > ✅ **Correction:** "I am a student at Harvard University"
 > 🧠 **Why:** "Pupil" dùng cho học sinh nhỏ tuổi, "student" dùng cho sinh viên đại học hoặc người lớn đi học
 

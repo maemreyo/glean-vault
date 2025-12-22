@@ -194,9 +194,8 @@ Analyze the root/family of **depend on**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **depend on**?
+🕵️ **Fix the Error:** My success depends to my hard work
 ?
-> ❌ **Mistake:** My success depends to my hard work
 > ✅ **Correction:** My success depends on my hard work
 > 🧠 **Why:** "Depend" luôn đi với preposition "on", không phải "to". Đây là fixed collocation cần nhớ
 

@@ -195,9 +195,8 @@ Analyze the root/family of **parcel**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **parcel**?
+🕵️ **Fix the Error:** "I need to parcel these clothes separate for shipping."
 ?
-> ❌ **Mistake:** "I need to parcel these clothes separate for shipping."
 > ✅ **Correction:** "I need to parcel up these clothes separately for shipping." OR "I need to pack these clothes separately for shipping."
 > 🧠 **Why:** "To parcel" cần "up" (parcel up) khi theo nghĩa "to wrap". "Separately" không phải "separate" khi làm adverb.
 

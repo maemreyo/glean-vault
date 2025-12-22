@@ -196,9 +196,8 @@ Analyze the root/family of **germ**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **germ**?
+🕵️ **Fix the Error:** Be careful of germ in public places.
 ?
-> ❌ **Mistake:** Be careful of germ in public places.
 > ✅ **Correction:** Be careful of germs in public places.
 > 🧠 **Why:** Khi nói general về nhiều vi khuẩn trong môi trường, dùng plural form "germs" - "germ" là khi chỉ specific one
 

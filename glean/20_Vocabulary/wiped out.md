@@ -194,9 +194,8 @@ Analyze the phrasal verb **wipe out**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **wipe out**?
+🕵️ **Fix the Error:** The scandal wipe out the politician's career.
 ?
-> ❌ **Mistake:** The scandal wipe out the politician's career.
 > ✅ **Correction:** The scandal wiped OUT the politician's career.
 > 🧠 **Why:** Need correct past tense 'wiped' and keep 'wipe' and 'out' together as an inseparable phrasal verb.
 

@@ -195,9 +195,8 @@ Analyze the root/family of **the immense capacity of shipping**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **the immense capacity of shipping**?
+🕵️ **Fix the Error:** "The shipping capacity is immense for transporting goods."
 ?
-> ❌ **Mistake:** "The shipping capacity is immense for transporting goods."
 > ✅ **Correction:** "The immense capacity of shipping enables efficient transportation of goods."
 > 🧠 **Why:** Standard word order is "immense capacity OF shipping". "Shipping" here is industry, not individual ships - cần definite article "the" và proper preposition "of".
 

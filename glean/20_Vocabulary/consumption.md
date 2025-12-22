@@ -195,9 +195,8 @@ Analyze the root/family of **consumption**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **consumption**?
+🕵️ **Fix the Error:** "The consumption of sugar are too high."
 ?
-> ❌ **Mistake:** "The consumption of sugar are too high."
 > ✅ **Correction:** "The consumption of sugar is too high."
 > 🧠 **Why:** "Consumption" là uncountable noun, luôn đi với động từ số ít (is/was), không thể có "are/were" (common ESL error)
 

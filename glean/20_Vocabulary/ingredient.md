@@ -191,9 +191,8 @@ Analyze the root/family of **ingredient**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **ingredient**?
+🕵️ **Fix the Error:** "Check the ingrediants list on the package."
 ?
-> ❌ **Mistake:** "Check the ingrediants list on the package."
 > ✅ **Correction:** "Check the ingredients list on the package."
 > 🧠 **Why:** Correct spelling is INGREDIENTS (plural) with 'ie' not 'ei', and we usually say 'ingredients list' not 'ingredient list' when referring to multiple items.
 <!--SR:!2025-12-26,4,270-->

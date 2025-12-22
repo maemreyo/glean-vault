@@ -191,9 +191,8 @@ Analyze the root/family of **compared to**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **compared to**?
+🕵️ **Fix the Error:** "Compared to her brother, she is more tall"
 ?
-> ❌ **Mistake:** "Compared to her brother, she is more tall"
 > ✅ **Correction:** "Compared to her brother, she is taller"
 > 🧠 **Why:** Use comparative forms (taller, not more tall) after 'compared to' when comparing adjectives
 

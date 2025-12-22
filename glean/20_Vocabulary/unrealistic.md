@@ -198,9 +198,8 @@ Analyze the root/family of **unrealistic**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **unrealistic**?
+🕵️ **Fix the Error:** "She has unreality expectations about her career."
 ?
-> ❌ **Mistake:** "She has unreality expectations about her career."
 > ✅ **Correction:** "She has unrealistic expectations about her career."
 > 🧠 **Why:** "Unrealistic" là tính từ để miêu tả "expectations", trong khi "unreality" là danh từ (tính không thực tế). Không thể dùng danh từ để miêu tả danh từ khác như thế
 

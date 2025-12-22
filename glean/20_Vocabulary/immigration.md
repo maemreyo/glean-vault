@@ -197,9 +197,8 @@ Analyze the root/family of **immigration**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **immigration**?
+🕵️ **Fix the Error:** Many immigrations come from Asia to Europe
 ?
-> ❌ **Mistake:** Many immigrations come from Asia to Europe
 > ✅ **Correction:** Many immigrants come from Asia to Europe. / There is significant immigration from Asia to Europe.
 > 🧠 **Why:** 'Immigration' là quá trình/sự việc, không dùng được ở plural. 'Immigrants' mới chỉ người. Dùng 'immigration' ở singular với 'significant' hoặc形容词 khác
 

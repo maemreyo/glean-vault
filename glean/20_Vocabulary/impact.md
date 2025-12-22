@@ -195,9 +195,8 @@ Analyze the root/family of **impact**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **impact**?
+🕵️ **Fix the Error:** "The new law will make impact on small businesses."
 ?
-> ❌ **Mistake:** "The new law will make impact on small businesses."
 > ✅ **Correction:** "The new law will have an impact on small businesses." OR "The new law will impact small businesses."
 > 🧠 **Why:** As noun: "have an impact on". As verb: "impact" directly (transitive). "Make impact" is incorrect - need article "an".
 

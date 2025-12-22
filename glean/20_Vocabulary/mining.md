@@ -194,9 +194,8 @@ Analyze the root/family of **mining**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **mining**?
+🕵️ **Fix the Error:** My uncle works at mining
 ?
-> ❌ **Mistake:** My uncle works at mining
 > ✅ **Correction:** My uncle works in mining / My uncle works at a mine
 > 🧠 **Why:** 'In mining' = ngành công nghiệp, 'at a mine' = địa điểm cụ thể. Không dùng 'at mining'
 

@@ -195,9 +195,8 @@ Analyze the root/family of **dump**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **dump**?
+🕵️ **Fix the Error:** Please dump these papers carefully in the recycling bin.
 ?
-> ❌ **Mistake:** Please dump these papers carefully in the recycling bin.
 > ✅ **Correction:** Please put these papers carefully in the recycling bin.
 > 🧠 **Why:** 'Dump' luôn mang ý nghĩa cẩu thả, không thể kết hợp với 'carefully' - dùng 'put' hoặc 'place' cho hành động cẩn thận
 

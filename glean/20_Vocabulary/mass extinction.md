@@ -191,9 +191,8 @@ Analyze the root/family of **mass extinction**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **mass extinction**?
+🕵️ **Fix the Error:** The dinosaurs were mass extincted.**
 ?
-> ❌ **Mistake:** The dinosaurs were mass extincted.**
 > ✅ **Correction:** The dinosaurs went extinct during a mass extinction.**
 > 🧠 **Why:** 'Extinct' là adjective/verb, không phải passive verb. Dinosaurs 'go extinct' hoặc 'become extinct'. 'Mass extinction' là noun chỉ event**
 

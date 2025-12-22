@@ -193,9 +193,8 @@ Analyze the root/family of **responsible for**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **responsible for**?
+🕵️ **Fix the Error:** "She is responsible of organizing the event."
 ?
-> ❌ **Mistake:** "She is responsible of organizing the event."
 > ✅ **Correction:** "She is responsible for organizing the event."
 > 🧠 **Why:** Preposition 'for' is fixed搭配 - indicates the target of responsibility, never 'of'.
 

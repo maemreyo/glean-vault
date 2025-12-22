@@ -195,9 +195,8 @@ Analyze the root/family of **permanently**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **permanently**?
+🕵️ **Fix the Error:** "I permanently remember your birthday."
 ?
-> ❌ **Mistake:** "I permanently remember your birthday."
 > ✅ **Correction:** "I'll always remember your birthday."
 > 🧠 **Why:** "Permanently" quá trang trọng và tuyệt đối cho ký ức - dùng "always" tự nhiên hơn trong giao tiếp hàng ngày
 

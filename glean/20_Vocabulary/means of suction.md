@@ -195,9 +195,8 @@ Analyze the root/family of **means of suction**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **means of suction**?
+🕵️ **Fix the Error:** "The octopus has many means of suctions"
 ?
-> ❌ **Mistake:** "The octopus has many means of suctions"
 > ✅ **Correction:** "The octopus has many means of suction" / "The octopus has suction cups"
 > 🧠 **Why:** Means of suction là phương pháp, không số nhiều được
 

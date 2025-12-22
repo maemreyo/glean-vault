@@ -192,9 +192,8 @@ Analyze the root/family of **detach**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **detach**?
+🕵️ **Fix the Error:** I need to detach this document of the email
 ?
-> ❌ **Mistake:** I need to detach this document of the email
 > ✅ **Correction:** I need to detach this document from the email
 > 🧠 **Why:** Preposition luôn là 'FROM' - detach something FROM something else, never 'of'
 

@@ -201,9 +201,8 @@ Analyze the root/family of **barbecue**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **barbecue**?
+🕵️ **Fix the Error:** "I'll barbecue the vegetables for 2 minutes" (confusing with grilling)
 ?
-> ❌ **Mistake:** "I'll barbecue the vegetables for 2 minutes" (confusing with grilling)
 > ✅ **Correction:** "I'll grill the vegetables for 2 minutes" or "I'll barbecue the pork shoulder for 6 hours"
 > 🧠 **Why:** Barbecue specifically means slow cooking with indirect heat (hours), while grilling is fast direct heat (minutes). Time matters!
 

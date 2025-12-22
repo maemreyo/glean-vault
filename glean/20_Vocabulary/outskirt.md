@@ -195,9 +195,8 @@ Analyze the root/family of **outskirt**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **outskirts**?
+🕵️ **Fix the Error:** "The new mall is located in the outskirt."
 ?
-> ❌ **Mistake:** "The new mall is located in the outskirt."
 > ✅ **Correction:** "The new mall is located in the outskirts."
 > 🧠 **Why:** "Outskirts" is almost always used in plural form when referring to areas around a city - this is a fixed plural noun (like "police" or "scissors").
 

@@ -194,9 +194,8 @@ Analyze the root/family of **a bowl**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a bowl**?
+🕵️ **Fix the Error:** "I ate a bowl of rices with vegetables."
 ?
-> ❌ **Mistake:** "I ate a bowl of rices with vegetables."
 > ✅ **Correction:** "I ate a bowl of rice with vegetables."
 > 🧠 **Why:** "Rice" as a food substance doesn't pluralize in this context. "A bowl of" already indicates quantity, so rice stays singular even when referring to multiple grains.
 

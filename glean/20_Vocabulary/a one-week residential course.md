@@ -194,9 +194,8 @@ Analyze the root/family of **one-week residential course**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **one-week residential course**?
+🕵️ **Fix the Error:** The course requires students living in campus for one week.
 ?
-> ❌ **Mistake:** The course requires students living in campus for one week.
 > ✅ **Correction:** The course requires students to live on campus for one week. / This is a residential course where students live on campus for one week.
 > 🧠 **Why:** "Living" là ger form không phù hợp ở đây. Dùng "to live" với "requires" hoặc describe course là "residential" để thể hiện nature của program
 

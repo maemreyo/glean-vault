@@ -194,9 +194,8 @@ Analyze the root/family of **a taster session**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a taster session**?
+🕵️ **Fix the Error:** "I want to taste the session" (confusing literal and figurative meanings)
 ?
-> ❌ **Mistake:** "I want to taste the session" (confusing literal and figurative meanings)
 > ✅ **Correction:** "I want to attend a taster session"
 > 🧠 **Why:** "Taste" trong "taster session" là compound adjective, không phải literal action của tasting - you "attend" hoặc "take part in" session, không "taste" nó.
 

@@ -198,9 +198,8 @@ Analyze the root/family of **approximately**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **approximately**?
+🕵️ **Fix the Error:** "The train arrives at approximately around 3 PM." (redundant)
 ?
-> ❌ **Mistake:** "The train arrives at approximately around 3 PM." (redundant)
 > ✅ **Correction:** "The train arrives at approximately 3 PM." hoặc "The train arrives around 3 PM."
 > 🧠 **Why:** "Approximately" và "around" mean the same thing. Use one or the other, not both together to avoid redundancy.
 

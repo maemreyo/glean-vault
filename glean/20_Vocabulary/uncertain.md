@@ -195,9 +195,8 @@ Analyze the root/family of **uncertain**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **uncertain**?
+🕵️ **Fix the Error:** "I'm uncertain if to accept the offer."
 ?
-> ❌ **Mistake:** "I'm uncertain if to accept the offer."
 > ✅ **Correction:** "I'm uncertain whether to accept the offer."
 > 🧠 **Why:** After "uncertain", use "whether" (not "if") when presenting alternatives. Also, you can say "uncertain about accepting" - remember the preposition rules!
 

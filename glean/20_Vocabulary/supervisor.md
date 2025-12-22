@@ -193,9 +193,8 @@ Analyze the root/family of **supervisor**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **supervisor**?
+🕵️ **Fix the Error:** "I am the supervisor of the team" (unnecessary preposition)
 ?
-> ❌ **Mistake:** "I am the supervisor of the team" (unnecessary preposition)
 > ✅ **Correction:** "I am the team supervisor" OR "I supervise the team"
 > 🧠 **Why:** English typically uses compound nouns (team supervisor) rather than prepositional phrases
 

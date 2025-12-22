@@ -195,9 +195,8 @@ Analyze the root/family of **recycling bin**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **recycling bin**?
+🕵️ **Fix the Error:** I put my garbage in the recycling bin
 ?
-> ❌ **Mistake:** I put my garbage in the recycling bin
 > ✅ **Correction:** I put my recyclables in the recycling bin / I put my garbage in the trash bin
 > 🧠 **Why:** Recycling bins chỉ dành cho recyclable materials, không phải tất cả garbage types
 

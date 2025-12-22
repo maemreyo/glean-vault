@@ -193,9 +193,8 @@ Analyze the root/family of **a cold stormy night**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a cold stormy night**?
+🕵️ **Fix the Error:** "a night cold stormy" or "a stormy cold night"
 ?
-> ❌ **Mistake:** "a night cold stormy" or "a stormy cold night"
 > ✅ **Correction:** "a cold stormy night"
 > 🧠 **Why:** Adjective order rule: temperature (cold) comes before weather condition (stormy) in English
 

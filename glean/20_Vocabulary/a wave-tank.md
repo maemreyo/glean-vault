@@ -191,9 +191,8 @@ Analyze the root/family of **wave tank**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **wave tank**?
+🕵️ **Fix the Error:** "The surfers practiced in the university's wave tank."
 ?
-> ❌ **Mistake:** "The surfers practiced in the university's wave tank."
 > ✅ **Correction:** "The surfers practiced in the wave park." OR "The researchers tested their equipment in the university's wave tank."
 > 🧠 **Why:** Wave tanks không dành cho lướt sóng giải trí - đó là thiết bị nghiên cứu khoa học
 

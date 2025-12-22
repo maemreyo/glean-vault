@@ -195,9 +195,8 @@ Analyze the root/family of **talk about**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **talk about**?
+🕵️ **Fix the Error:** "I want to talk to about my concerns."
 ?
-> ❌ **Mistake:** "I want to talk to about my concerns."
 > ✅ **Correction:** "I want to talk about my concerns." OR "I want to talk to you about my concerns."
 > 🧠 **Why:** Không dùng hai giới từ ('to about') với nhau. Chọn 'talk about something' hoặc 'talk to someone about something'
 

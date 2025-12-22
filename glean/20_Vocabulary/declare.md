@@ -194,9 +194,8 @@ Analyze the root/family of **declare**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **declare**?
+🕵️ **Fix the Error:** "She declared about her love for poetry."
 ?
-> ❌ **Mistake:** "She declared about her love for poetry."
 > ✅ **Correction:** "She declared her love for poetry." OR "She declared that she loved poetry."
 > 🧠 **Why:** Declare là transitive verb - cần direct object hoặc 'that' clause. Không dùng 'declare about' - giống như 'explain' nhưng khác với 'talk about'.
 

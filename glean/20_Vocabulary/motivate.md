@@ -195,9 +195,8 @@ Analyze the root/family of **motivate**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **motivate**?
+🕵️ **Fix the Error:** The salary raise motivated for working harder.
 ?
-> ❌ **Mistake:** The salary raise motivated for working harder.
 > ✅ **Correction:** The salary raise motivated them to work harder.
 > 🧠 **Why:** "Motivate" cần object (who is motivated) và "to + infinitive" (action to take). Không dùng "motivate for + V-ing".
 

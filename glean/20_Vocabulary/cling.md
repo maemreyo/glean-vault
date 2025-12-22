@@ -194,9 +194,8 @@ Analyze the root/family of **cling**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **cling**?
+🕵️ **Fix the Error:** The baby clinged to its mother
 ?
-> ❌ **Mistake:** The baby clinged to its mother
 > ✅ **Correction:** The baby clung to its mother
 > 🧠 **Why:** 'Cling' là irregular verb - past tense là 'clung' chứ không phải 'clinged'
 

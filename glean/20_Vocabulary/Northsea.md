@@ -190,9 +190,8 @@ Analyze the root/family of **North Sea**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **North Sea**?
+🕵️ **Fix the Error:** The shipping route crosses the north sea.
 ?
-> ❌ **Mistake:** The shipping route crosses the north sea.
 > ✅ **Correction:** The shipping route crosses the North Sea.
 > 🧠 **Why:** Proper noun must be capitalized - đây là tên riêng của một vùng biển cụ thể
 

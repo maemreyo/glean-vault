@@ -196,9 +196,8 @@ Analyze the root/family of **go through**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **go through**?
+🕵️ **Fix the Error:** "We need to go through in all these documents carefully."
 ?
-> ❌ **Mistake:** "We need to go through in all these documents carefully."
 > ✅ **Correction:** "We need to go through all these documents carefully."
 > 🧠 **Why:** 'Go through' không cần giới từ 'in' thêm sau 'through'. Cấu trúc đúng là 'go through + object'
 

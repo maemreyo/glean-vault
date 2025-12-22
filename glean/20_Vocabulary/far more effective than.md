@@ -195,9 +195,8 @@ Analyze the root/family of **far more effective than**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **far more effective than**?
+🕵️ **Fix the Error:** "This solution is very more effective than the alternative."
 ?
-> ❌ **Mistake:** "This solution is very more effective than the alternative."
 > ✅ **Correction:** "This solution is far more effective than the alternative."
 > 🧠 **Why:** "Very" cannot modify comparative adjectives; use "far," "much," or "significantly" instead (VN: "Very" không thể bổ sung cho tính từ so sánh hơn)
 

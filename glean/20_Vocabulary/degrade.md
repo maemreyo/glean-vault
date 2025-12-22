@@ -194,9 +194,8 @@ Analyze the root/family of **degrade**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **degrade**?
+🕵️ **Fix the Error:** The company's reputation degraded because of their good service.
 ?
-> ❌ **Mistake:** The company's reputation degraded because of their good service.
 > ✅ **Correction:** The company's reputation improved because of their good service.
 > 🧠 **Why:** 'Degrade' mang nghĩa tiêu cực, không thể dùng với ngữ cảnh tích cực như 'good service'
 

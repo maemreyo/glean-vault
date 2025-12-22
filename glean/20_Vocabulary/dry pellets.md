@@ -194,9 +194,8 @@ Analyze the root/family of **dry pellets**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **dry pellets**?
+🕵️ **Fix the Error:** The feed machine output dry pellets at a rapid rate.
 ?
-> ❌ **Mistake:** The feed machine output dry pellets at a rapid rate.
 > ✅ **Correction:** The feed machine outputs dry pellets at a rapid rate.
 > 🧠 **Why:** "Output" là regular verb, không cần "output" - có thể dùng "produces", "dispenses", hoặc "outputs" (đúng) nhưng "output" (không có s) là sai
 

@@ -197,9 +197,8 @@ Analyze the components of **laser eye surgery**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **laser eye surgery**?
+🕵️ **Fix the Error:** He wants to do **a** laser eye surgery next month.
 ?
-> ❌ **Mistake:** He wants to do **a** laser eye surgery next month.
 > ✅ **Correction:** He wants to have **laser eye surgery** next month.
 > 🧠 **Why:** Laser eye surgery là danh từ không đếm được khi nói về thủ thuật nói chung, không dùng 'a'
 

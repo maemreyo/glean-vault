@@ -196,9 +196,8 @@ Analyze the root/family of **refuse**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **refuse**?
+🕵️ **Fix the Error:** "Please take out the refuse" (pronounced as /rɪˈfjuːz/)
 ?
-> ❌ **Mistake:** "Please take out the refuse" (pronounced as /rɪˈfjuːz/)
 > ✅ **Correction:** "Please take out the refuse" (pronounced as /ˈrefjuːs/)
 > 🧠 **Why:** Khi "refuse" có nghĩa là "rác", trọng âm rơi vào âm tiết đầu tiên (RE-fuse). Khi là động từ "từ chối", trọng âm rơi vào âm tiết thứ hai (re-FUSE)
 

@@ -194,9 +194,8 @@ Analyze the root/family of **recruit**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **recruit**?
+🕵️ **Fix the Error:** We need to recruit for more salespeople
 ?
-> ❌ **Mistake:** We need to recruit for more salespeople
 > ✅ **Correction:** We need to recruit more salespeople / We need to hire more salespeople
 > 🧠 **Why:** Recruit là transitive verb - bạn recruit people directly, không 'for' people
 

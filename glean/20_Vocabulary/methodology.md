@@ -194,9 +194,8 @@ Analyze the root/family of **methodology**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **methodology**?
+🕵️ **Fix the Error:** "My methodology for waking up is using an alarm clock."
 ?
-> ❌ **Mistake:** "My methodology for waking up is using an alarm clock."
 > ✅ **Correction:** "My method for waking up is using an alarm clock."
 > 🧠 **Why:** Methodology isn't just a fancy word for method - it's the systematic study of methods. You don't have a "methodology" for daily routines, only methods!
 

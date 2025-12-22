@@ -191,9 +191,8 @@ Analyze the root/family of **independently**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **independently**?
+🕵️ **Fix the Error:** "I independently finished it by myself"
 ?
-> ❌ **Mistake:** "I independently finished it by myself"
 > ✅ **Correction:** "I finished it independently" or "I finished it by myself"
 > 🧠 **Why:** 'Independently' and 'by myself' are redundant - choose one to avoid repetition
 

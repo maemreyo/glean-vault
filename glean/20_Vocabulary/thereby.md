@@ -190,9 +190,8 @@ Analyze the root/family of **thereby**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **thereby**?
+🕵️ **Fix the Error:** "He exercised daily. Thereby he lost weight."
 ?
-> ❌ **Mistake:** "He exercised daily. Thereby he lost weight."
 > ✅ **Correction:** "He exercised daily, thereby losing weight."
 > 🧠 **Why:** Use comma before 'thereby' and use -ing form of the verb that follows, as it shows result of previous action
 

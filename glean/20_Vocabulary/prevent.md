@@ -198,9 +198,8 @@ Analyze the root/family of **prevent**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **prevent**?
+🕵️ **Fix the Error:** The warning signs prevented that the accident happened.
 ?
-> ❌ **Mistake:** The warning signs prevented that the accident happened.
 > ✅ **Correction:** The warning signs prevented the accident from happening.
 > 🧠 **Why:** The correct construction is 'prevent something from happening', not 'prevent that something happened'
 

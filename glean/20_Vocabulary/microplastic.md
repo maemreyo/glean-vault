@@ -196,9 +196,8 @@ Analyze the root/family of **microplastic**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **microplastic**?
+🕵️ **Fix the Error:** "I found a microplastic on the beach." (usually can't see individual particles)
 ?
-> ❌ **Mistake:** "I found a microplastic on the beach." (usually can't see individual particles)
 > ✅ **Correction:** "Samples from the beach contained microplastics." hoặc "Microplastic contamination was found in beach samples."
 > 🧠 **Why:** Individual microplastic particles thường too small to see individually. Chúng detect qua laboratory analysis, không qua naked eye observation.
 

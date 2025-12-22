@@ -195,9 +195,8 @@ Analyze the root/family of **suppose**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **suppose**?
+🕵️ **Fix the Error:** I'm suppose to call my parents tonight.
 ?
-> ❌ **Mistake:** I'm suppose to call my parents tonight.
 > ✅ **Correction:** I'm supposed to call my parents tonight.
 > 🧠 **Why:** Khi diễn tả nghĩa vụ hoặc kỳ vọng, phải dùng "be supposed to", không phải "suppose to". Đây là cấu trúc bị động đặc biệt.
 

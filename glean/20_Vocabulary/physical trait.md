@@ -194,9 +194,8 @@ Analyze the root/family of **physical trait**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **physical trait**?
+🕵️ **Fix the Error:** "Kindness is her best physical trait" (nhầm lẫn loại đặc điểm)
 ?
-> ❌ **Mistake:** "Kindness is her best physical trait" (nhầm lẫn loại đặc điểm)
 > ✅ **Correction:** "Kindness is her best personality trait"
 > 🧠 **Why:** "Physical trait" chỉ đặc điểm cơ thể, "personality trait" mới chỉ tính cách, hành vi
 

@@ -192,9 +192,8 @@ Analyze the root/family of **microscopic**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **microscopic**?
+🕵️ **Fix the Error:** "I need to microscopic this sample"
 ?
-> ❌ **Mistake:** "I need to microscopic this sample"
 > ✅ **Correction:** "I need to examine this sample microscopically" OR "I need to use a microscope on this sample"
 > 🧠 **Why:** Microscopic is an adjective, not a verb. Use "examine microscopically" or "use a microscope"
 

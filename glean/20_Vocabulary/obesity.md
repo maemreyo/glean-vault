@@ -193,9 +193,8 @@ Analyze the root/family of **obesity**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **obesity**?
+🕵️ **Fix the Error:** Obesity is when someone is a little overweight
 ?
-> ❌ **Mistake:** Obesity is when someone is a little overweight
 > ✅ **Correction:** Obesity is a medical condition with BMI of 30 or higher
 > 🧠 **Why:** Obesity has a specific clinical definition (BMI ≥ 30), not just being moderately overweight
 

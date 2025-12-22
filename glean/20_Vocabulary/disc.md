@@ -194,9 +194,8 @@ Analyze the root/family of **disc**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **disc**?
+🕵️ **Fix the Error:** The hard disc is making strange noises.
 ?
-> ❌ **Mistake:** The hard disc is making strange noises.
 > ✅ **Correction:** The hard disk is making strange noises. (magnetic storage)
 > 🧠 **Why:** Hard drives use magnetic storage → "disk" (American preference), optical drives use "disc" - hardware difference determines spelling
 

@@ -196,9 +196,8 @@ Analyze the components of **rush to**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **rush to**?
+🕵️ **Fix the Error:** They rushed **in** the airport.
 ?
-> ❌ **Mistake:** They rushed **in** the airport.
 > ✅ **Correction:** They rushed **to** the airport.
 > 🧠 **Why:** Cần giới từ 'to' để chỉ hướng di chuyển đến một nơi, 'in' chỉ vị trí bên trong
 

@@ -192,9 +192,8 @@ Analyze the root/family of **go on**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **go on**?
+🕵️ **Fix the Error:** "He go on working"
 ?
-> ❌ **Mistake:** "He go on working"
 > ✅ **Correction:** "He goes on working" OR "He went on working"
 > 🧠 **Why:** Need correct tense - present tense needs -s for he/she/it, past tense is irregular
 

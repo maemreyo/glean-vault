@@ -195,9 +195,8 @@ Analyze the root/family of **fall apart**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **fall apart**?
+🕵️ **Fix the Error:** "My car fall apart on the highway yesterday."
 ?
-> ❌ **Mistake:** "My car fall apart on the highway yesterday."
 > ✅ **Correction:** "My car fell apart on the highway yesterday."
 > 🧠 **Why:** "Fall apart" là động từ bất quy tắc thì quá khứ "fell", quá khứ hoàn thành "fallen" - không thêm "-ed"
 

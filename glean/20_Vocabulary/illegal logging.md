@@ -196,9 +196,8 @@ Analyze the root/family of **illegal logging**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **illegal logging**?
+🕵️ **Fix the Error:** The illegal loggers are destroying the forest.
 ?
-> ❌ **Mistake:** The illegal loggers are destroying the forest.
 > ✅ **Correction:** People engaged in illegal logging are destroying the forest.
 > 🧠 **Why:** While 'illegal loggers' is technically correct, the more formal and precise term is 'people engaged in illegal logging' when discussing this criminal activity in formal contexts
 

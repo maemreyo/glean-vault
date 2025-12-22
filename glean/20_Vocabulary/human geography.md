@@ -196,9 +196,8 @@ Analyze the root/family of **human geography**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **human geography**?
+🕵️ **Fix the Error:** "Human geography is the same as demographics" (oversimplification)
 ?
-> ❌ **Mistake:** "Human geography is the same as demographics" (oversimplification)
 > ✅ **Correction:** "Demographics is one tool used in human geography, but the field is much broader"
 > 🧠 **Why:** Human geography encompasses many approaches beyond just population statistics
 

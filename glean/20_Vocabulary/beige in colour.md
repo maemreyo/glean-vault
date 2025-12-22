@@ -194,9 +194,8 @@ Analyze the root/family of **beige in colour**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **beige in colour**?
+🕵️ **Fix the Error:** "I bought shoes colour beige"
 ?
-> ❌ **Mistake:** "I bought shoes colour beige"
 > ✅ **Correction:** "I bought shoes beige in colour" OR "I bought beige shoes"
 > 🧠 **Why:** "Beige in colour" is the full phrase, but usually simplified to just "beige" as adjective
 

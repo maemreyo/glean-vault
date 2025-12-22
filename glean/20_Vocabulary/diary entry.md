@@ -191,9 +191,8 @@ Analyze the root/family of **diary entry**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **diary entry**?
+🕵️ **Fix the Error:** "The diary was full with interesting entrys"
 ?
-> ❌ **Mistake:** "The diary was full with interesting entrys"
 > ✅ **Correction:** "The diary was full with interesting entries"
 > 🧠 **Why:** The plural of 'entry' follows the -y to -ies rule: entry → entries
 

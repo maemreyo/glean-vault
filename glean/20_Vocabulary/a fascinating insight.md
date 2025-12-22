@@ -194,9 +194,8 @@ Analyze the root/family of **a fascinating insight**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a fascinating insight**?
+🕵️ **Fix the Error:** "The book gives a fascinating insight of the author's mind."
 ?
-> ❌ **Mistake:** "The book gives a fascinating insight of the author's mind."
 > ✅ **Correction:** "The book gives a fascinating insight into the author's mind."
 > 🧠 **Why:** Với 'insight', luôn dùng giới từ 'into' để chỉ sự nhìn sâu vào, không phải 'of'
 

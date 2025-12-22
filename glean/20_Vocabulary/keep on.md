@@ -196,9 +196,8 @@ Analyze the root/family of **keep on**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **keep on**?
+🕵️ **Fix the Error:** She keeps on to ask questions.
 ?
-> ❌ **Mistake:** She keeps on to ask questions.
 > ✅ **Correction:** She keeps on asking questions.
 > 🧠 **Why:** "Keep on" luôn theo sau bởi gerund (-ing form), không phải to-infinitive. Đây là grammar rule cố định của phrasal verb này.
 

@@ -197,9 +197,8 @@ Analyze the root/family of **reject**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **reject**?
+🕵️ **Fix the Error:** The REJECTed applicant felt disappointed
 ?
-> ❌ **Mistake:** The REJECTed applicant felt disappointed
 > ✅ **Correction:** The reJECTed applicant felt disappointed.
 > 🧠 **Why:** Verb 'reject' có stress ở syllable thứ hai. Nhưng khi là past participle 'rejected', vẫn giữ stress ở syllable hai: re-JECT-ed
 

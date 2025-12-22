@@ -190,9 +190,8 @@ Analyze the root/family of **basket**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **basket**?
+🕵️ **Fix the Error:** The basket is fill with apples.
 ?
-> ❌ **Mistake:** The basket is fill with apples.
 > ✅ **Correction:** The basket is filled with apples.
 > 🧠 **Why:** "Fill" cần passive voice "be filled" khi diễn tả trạng thái đã đầy
 

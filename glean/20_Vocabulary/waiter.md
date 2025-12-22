@@ -195,9 +195,8 @@ Analyze the root/family of **waiter**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **waiter**?
+🕵️ **Fix the Error:** "The waitress was very handsome" (Sai giới tính trong mô tả)
 ?
-> ❌ **Mistake:** "The waitress was very handsome" (Sai giới tính trong mô tả)
 > ✅ **Correction:** "The waitress was very beautiful" hoặc "The waiter was very handsome"
 > 🧠 **Why:** "Waitress" là dạng nữ của "waiter", cần nhất quán trong việc sử dụng tính từ miêu tả phù hợp với giới tính
 

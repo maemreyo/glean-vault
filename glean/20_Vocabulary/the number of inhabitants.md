@@ -194,9 +194,8 @@ Analyze the root/family of **inhabitants**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **inhabitants**?
+🕵️ **Fix the Error:** "The inhabitants of this town is very friendly."
 ?
-> ❌ **Mistake:** "The inhabitants of this town is very friendly."
 > ✅ **Correction:** "The inhabitants of this town are very friendly."
 > 🧠 **Why:** 'Inhabitants' luôn ở dạng số nhiều, nên phải dùng động từ số nhiều 'are' thay vì 'is'
 

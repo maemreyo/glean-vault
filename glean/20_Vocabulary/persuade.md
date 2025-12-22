@@ -195,9 +195,8 @@ Analyze the root/family of **persuade**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **persuade**?
+🕵️ **Fix the Error:** "The advertisement persuaded me buying the product"
 ?
-> ❌ **Mistake:** "The advertisement persuaded me buying the product"
 > ✅ **Correction:** "The advertisement persuaded me to buy the product"
 > 🧠 **Why:** Persuade requires "to + infinitive" when indicating the action being persuaded - it's one of those verbs that needs this structure (like "tell", "ask", "want").
 

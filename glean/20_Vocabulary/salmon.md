@@ -191,9 +191,8 @@ Analyze the root/family of **salmon**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **salmon**?
+🕵️ **Fix the Error:** "I bought three salmons at the market"
 ?
-> ❌ **Mistake:** "I bought three salmons at the market"
 > ✅ **Correction:** "I bought three salmon at the market"
 > 🧠 **Why:** 'Salmon' is one of those English words that doesn't change in plural form (like sheep, deer, fish)
 

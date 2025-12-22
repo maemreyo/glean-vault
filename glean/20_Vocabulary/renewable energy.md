@@ -198,9 +198,8 @@ Analyze the root/family of **renewable**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **renewable energy**?
+🕵️ **Fix the Error:** "Renewable energies are important for the future"
 ?
-> ❌ **Mistake:** "Renewable energies are important for the future"
 > ✅ **Correction:** "Renewable energy is important for the future"
 > 🧠 **Why:** 'Energy' is uncountable when referring to the general concept
 

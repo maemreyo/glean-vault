@@ -196,9 +196,8 @@ Analyze the root/family of **principle**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **principle**?
+🕵️ **Fix the Error:** "I agree in principle with your approach"
 ?
-> ❌ **Mistake:** "I agree in principle with your approach"
 > ✅ **Correction:** "I agree in principle with your approach" (this is actually correct!)
 > 🧠 **Why:** Common confusion is actually 'principle' vs 'principal' - 'In principle' means theoretically or fundamentally, which is correct usage here
 

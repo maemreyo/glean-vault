@@ -194,9 +194,8 @@ Analyze the root/family of **discipline problem**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **discipline problem**?
+🕵️ **Fix the Error:** We need to discipline the problem student.
 ?
-> ❌ **Mistake:** We need to discipline the problem student.
 > ✅ **Correction:** We need to address the discipline problem. / We need to discipline the student.
 > 🧠 **Why:** You address/handle/solve a discipline problem (vấn đề), but you discipline a student (người). Don't mix these up!
 

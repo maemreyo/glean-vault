@@ -191,9 +191,8 @@ Analyze the root/family of **a wide range of**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a wide range of**?
+🕵️ **Fix the Error:** A wide range of books were on display
 ?
-> ❌ **Mistake:** A wide range of books were on display
 > ✅ **Correction:** A wide range of books was on display
 > 🧠 **Why:** Subject là 'range' (singular), không phải 'books' (plural) - verb phải agree với main noun
 

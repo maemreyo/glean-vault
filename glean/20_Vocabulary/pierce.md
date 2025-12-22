@@ -192,9 +192,8 @@ Analyze the root/family of **pierce**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **pierce**?
+🕵️ **Fix the Error:** His words pieced my heart
 ?
-> ❌ **Mistake:** His words pieced my heart
 > ✅ **Correction:** His words pierced my heart
 > 🧠 **Why:** 'Pierce' là spell khác với 'piece' - piece là mảnh, pierce là xuyên qua. Common spelling error
 

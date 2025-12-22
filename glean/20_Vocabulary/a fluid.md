@@ -195,9 +195,8 @@ Analyze the root/family of **a fluid**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a fluid**?
+🕵️ **Fix the Error:** Mercury is fluid.
 ?
-> ❌ **Mistake:** Mercury is fluid.
 > ✅ **Correction:** Mercury is a fluid.
 > 🧠 **Why:** Khi "fluid" là noun chỉ loại chất, cần article "a" - đây là lỗi phổ biến với abstract nouns used countably
 

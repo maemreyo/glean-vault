@@ -187,9 +187,8 @@ Analyze the root/family of **take place**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **take place**?
+🕵️ **Fix the Error:** "The concert will take on Friday place"
 ?
-> ❌ **Mistake:** "The concert will take on Friday place"
 > ✅ **Correction:** "The concert will take place on Friday"
 > 🧠 **Why:** Phrasal verb inseparable - take and place must stay together. Time/place modifiers come after the complete phrase.
 

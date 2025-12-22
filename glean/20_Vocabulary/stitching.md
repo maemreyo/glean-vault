@@ -196,9 +196,8 @@ Analyze the root/family of **stitching**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **stitching**?
+🕵️ **Fix the Error:** "I counted twenty stitchings on the sleeve."
 ?
-> ❌ **Mistake:** "I counted twenty stitchings on the sleeve."
 > ✅ **Correction:** "I counted twenty stitches on the sleeve." OR "The stitching on the sleeve has twenty stitches."
 > 🧠 **Why:** "Stitches" are countable individual units, but "stitching" as the collective technique is uncountable
 

@@ -195,9 +195,8 @@ Analyze the root/family of **affect**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **affect**?
+🕵️ **Fix the Error:** The speech had a strong affect on the audience.
 ?
-> ❌ **Mistake:** The speech had a strong affect on the audience.
 > ✅ **Correction:** The speech had a strong effect on the audience.
 > 🧠 **Why:** "Effect" là noun (result), "affect" là verb (action). Trong "had a strong ___", cần noun để fill blank.
 

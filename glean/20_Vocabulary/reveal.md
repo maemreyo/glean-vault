@@ -191,9 +191,8 @@ Analyze the root/family of **reveal**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **reveal**?
+🕵️ **Fix the Error:** She revealed that she won't come.
 ?
-> ❌ **Mistake:** She revealed that she won't come.
 > ✅ **Correction:** She revealed that she wouldn't come.
 > 🧠 **Why:** Sequence of tenses - past "revealed" yêu cầu past tense trong mệnh đề quan hệ
 

@@ -191,9 +191,8 @@ Analyze the root/family of **impress**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **impress**?
+🕵️ **Fix the Error:** I was very impressing by the movie.
 ?
-> ❌ **Mistake:** I was very impressing by the movie.
 > ✅ **Correction:** I was very impressed by the movie.
 > 🧠 **Why:** Chịu tác động dùng "impressed", chủ động gây ấn tượng mới dùng "impressing"
 <!--SR:!2025-12-25,3,250-->

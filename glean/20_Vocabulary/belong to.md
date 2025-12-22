@@ -191,9 +191,8 @@ Analyze the root/family of **belong to**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **belong to**?
+🕵️ **Fix the Error:** He is belonging to the tennis club.
 ?
-> ❌ **Mistake:** He is belonging to the tennis club.
 > ✅ **Correction:** He belongs to the tennis club.
 > 🧠 **Why:** "Belong to" là state verb, không dùng continuous tense - sự thuộc về là trạng thái tồn tại
 

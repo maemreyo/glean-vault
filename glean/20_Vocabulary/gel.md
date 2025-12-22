@@ -197,9 +197,8 @@ Analyze the root/family of **gel**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **gel**?
+🕵️ **Fix the Error:** "I need some hair jell to style my hair."
 ?
-> ❌ **Mistake:** "I need some hair jell to style my hair."
 > ✅ **Correction:** "I need some hair gel to style my hair."
 > 🧠 **Why:** "Gel" là đúng spelling cho noun. "Jell" là verb nhưng rất hiếm dùng. Common spelling error, đặc biệt với non-native speakers.
 

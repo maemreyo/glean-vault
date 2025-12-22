@@ -195,9 +195,8 @@ Analyze the root/family of **dominates political**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **dominates political**?
+🕵️ **Fix the Error:** The senator dominates political very well.
 ?
-> ❌ **Mistake:** The senator dominates political very well.
 > ✅ **Correction:** The senator dominates political discourse very well.
 > 🧠 **Why:** 'Dominates' cần một đối tượng cụ thể sau 'political' - không thể đứng riêng như vậy
 

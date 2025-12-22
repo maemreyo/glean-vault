@@ -196,9 +196,8 @@ Analyze the root/family of **vision**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **vision**?
+🕵️ **Fix the Error:** My **vision** of the new software is outdated.
 ?
-> ❌ **Mistake:** My **vision** of the new software is outdated.
 > ✅ **Correction:** My **version** of the new software is outdated.
 > 🧠 **Why:** Vision (thị lực/tầm nhìn) khác với version (phiên bản) - hai từ hoàn toàn khác nhau
 

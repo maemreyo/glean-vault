@@ -194,9 +194,8 @@ Analyze the root/family of **harm**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **harm**?
+🕵️ **Fix the Error:** "The loud music is harming to my ears."
 ?
-> ❌ **Mistake:** "The loud music is harming to my ears."
 > ✅ **Correction:** "The loud music is harming my ears" OR "The loud music is harmful to my ears."
 > 🧠 **Why:** "Harm" là verb không cần "to". "Harmful" là adjective cần "to". Không mix lẫn hai form.
 

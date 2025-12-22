@@ -194,9 +194,8 @@ Analyze the root/family of **fibres**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **fibres**?
+🕵️ **Fix the Error:** The orange contains many **fibers**. (UK English)
 ?
-> ❌ **Mistake:** The orange contains many **fibers**. (UK English)
 > ✅ **Correction:** The orange contains many **fibres**. (UK) or **fibers** (US)
 > 🧠 **Why:** Fibres (Anh), fibers (Mỹ) - cần nhất quán trong cùng một dạng tiếng Anh
 

@@ -195,9 +195,8 @@ Analyze the root/family of **safety procedure**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **safety procedure**?
+🕵️ **Fix the Error:** "The safety procedure says that we must wears protective equipment" (Sai chia động từ)
 ?
-> ❌ **Mistake:** "The safety procedure says that we must wears protective equipment" (Sai chia động từ)
 > ✅ **Correction:** "The safety procedure states that we must wear protective equipment"
 > 🧱 **Why:** Quy trình thường được viết dưới dạng mệnh lệnh hoặc yêu cầu, dùng động từ nguyên mẫu "must wear" thay vì chia động từ theo chủ ngữ
 

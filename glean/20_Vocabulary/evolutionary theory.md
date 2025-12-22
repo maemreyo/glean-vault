@@ -191,9 +191,8 @@ Analyze the root/family of **evolutionary theory**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **evolutionary theory**?
+🕵️ **Fix the Error:** "Evolution is only a theory"
 ?
-> ❌ **Mistake:** "Evolution is only a theory"
 > ✅ **Correction:** "Evolutionary theory is a well-supported scientific framework"
 > 🧠 **Why:** In science, "theory" means a robust explanation with extensive evidence, not just a guess
 

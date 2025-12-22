@@ -194,9 +194,8 @@ Analyze the root/family of **boat trip**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **boat trip**?
+🕵️ **Fix the Error:** I want to make boat trip tomorrow.
 ?
-> ❌ **Mistake:** I want to make boat trip tomorrow.
 > ✅ **Correction:** I want to make a boat trip tomorrow. / I want to go on a boat trip tomorrow.
 > 🧠 **Why:** "boat trip" là cụm danh từ đếm được, cần có mạo từ "a". "Go on" là collocation tự nhiên hơn.
 

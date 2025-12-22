@@ -194,9 +194,8 @@ Analyze the root/family of **food colouring**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **food colouring**?
+🕵️ **Fix the Error:** "The food colouring make the cake blue"
 ?
-> ❌ **Mistake:** "The food colouring make the cake blue"
 > ✅ **Correction:** "The food colouring makes the cake blue"
 > 🧠 **Why:** Food colouring is singular (uncountable), so it takes the singular verb 'makes', not 'make'
 

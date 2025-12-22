@@ -196,9 +196,8 @@ Analyze the root/family of **press so hard**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **press so hard**?
+🕵️ **Fix the Error:** Don't to press so hard - you might break it.
 ?
-> ❌ **Mistake:** Don't to press so hard - you might break it.
 > ✅ **Correction:** Don't press so hard - you might break it.
 > 🧠 **Why:** After 'don't' (do not), we use the base form 'press', not 'to press'
 

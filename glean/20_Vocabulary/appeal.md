@@ -196,9 +196,8 @@ Analyze the root/family of **appeal**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **appeal**?
+🕵️ **Fix the Error:** "The movie appeals me a lot."
 ?
-> ❌ **Mistake:** "The movie appeals me a lot."
 > ✅ **Correction:** "The movie appeals to me a lot."
 > 🧠 **Why:** Khi appeal có nghĩa là "hấp dẫn", luôn cần preposition "to" sau đó: appeal to someone.
 

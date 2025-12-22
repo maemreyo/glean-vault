@@ -194,9 +194,8 @@ Analyze the root/family of **formal**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **formal**?
+🕵️ **Fix the Error:** "I gave my friend a formal invitation to my birthday party" (Quá trang trọng cho tình bạn)
 ?
-> ❌ **Mistake:** "I gave my friend a formal invitation to my birthday party" (Quá trang trọng cho tình bạn)
 > ✅ **Correction:** "I gave my friend a casual invitation to my birthday party"
 > 🧠 **Why:** "Formal" tạo ra khoảng cách và sự nghiêm túc không phù hợp với các mối quan hệ thân mật, sự kiện đời thường
 

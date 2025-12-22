@@ -196,9 +196,8 @@ Analyze the root/family of **involve**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **involve**?
+🕵️ **Fix the Error:** The course involves to write three essays.
 ?
-> ❌ **Mistake:** The course involves to write three essays.
 > ✅ **Correction:** The course involves writing three essays.
 > 🧠 **Why:** Sau "involve" luôn dùng gerund (V-ing), không dùng to-infinitive - đây là lỗi phổ biến
 

@@ -193,9 +193,8 @@ Analyze the root/family of **spoilt**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **spoilt**?
+🕵️ **Fix the Error:** "The apple was spoilt after two days" (in American English)
 ?
-> ❌ **Mistake:** "The apple was spoilt after two days" (in American English)
 > ✅ **Correction:** "The apple was spoiled after two days"
 > 🧠 **Why:** American English uses "spoiled" for all contexts, British English prefers "spoilt" for adjectives describing character
 

@@ -193,9 +193,8 @@ Analyze the root/family of **syllabus**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **syllabus**?
+🕵️ **Fix the Error:** "The teacher gave us many syllabuses for all our classes."
 ?
-> ❌ **Mistake:** "The teacher gave us many syllabuses for all our classes."
 > ✅ **Correction:** "The teachers gave us syllabuses for all our classes." (or "The teacher gave us a syllabus for each class")
 > 🧠 **Why:** Agreement issues - one teacher gives one syllabus per class (VN: Vấn đề sự phù hợp - một giáo viên phát một đề cương cho mỗi lớp)
 

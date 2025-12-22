@@ -199,9 +199,8 @@ Analyze the root/family of **tune**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **tune**?
+🕵️ **Fix the Error:** "I like this music's tune"
 ?
-> ❌ **Mistake:** "I like this music's tune"
 > ✅ **Correction:** "I like this music's tune" / "I like this tune"
 > 🧠 **Why:** Tune là danh từ đếm được, cần "a tune" hoặc số nhiều
 

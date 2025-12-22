@@ -193,9 +193,8 @@ Analyze the root/family of **expertise**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **expertise**?
+🕵️ **Fix the Error:** "She has doctorates in many expertises."
 ?
-> ❌ **Mistake:** "She has doctorates in many expertises."
 > ✅ **Correction:** "She has expertise in many fields."
 > 🧠 **Why:** Expertise is uncountable - use "in" to specify different areas, not plural form
 

@@ -194,9 +194,8 @@ Analyze the root/family of **unsatisfying**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **unsatisfying**?
+🕵️ **Fix the Error:** "I am unsatisfying with my grades"
 ?
-> ❌ **Mistake:** "I am unsatisfying with my grades"
 > ✅ **Correction:** "I am unsatisfied with my grades" OR "My grades are unsatisfying"
 > 🧠 **Why:** Unsatisfied describes your feelings, unsatisfying describes the thing causing the feeling
 

@@ -193,9 +193,8 @@ Analyze the root/family of **the decision-making process**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **the decision-making process**?
+🕵️ **Fix the Error:** We have good decision-making processes in our company.
 ?
-> ❌ **Mistake:** We have good decision-making processes in our company.
 > ✅ **Correction:** We have a good decision-making process in our company. / We have good decision-making processes in our company.
 > 🧠 **Why:** Có thể dùng singular 'a... process' khi nói về one system, hoặc plural 'processes' khi có nhiều different processes cho different situations
 

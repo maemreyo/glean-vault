@@ -194,9 +194,8 @@ Analyze the root/family of **domestic oven**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **domestic oven**?
+🕵️ **Fix the Error:** The bakery uses domestic ovens to produce 1000 loaves daily.
 ?
-> ❌ **Mistake:** The bakery uses domestic ovens to produce 1000 loaves daily.
 > ✅ **Correction:** The bakery uses commercial ovens to produce 1000 loaves daily.
 > 🧠 **Why:** 'Domestic' means for home use; businesses use 'commercial' ovens for large-scale production
 

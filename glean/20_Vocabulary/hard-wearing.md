@@ -194,9 +194,8 @@ Analyze the root/family of **hard-wearing**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **hard-wearing**?
+🕵️ **Fix the Error:** "These hard wearing boots are on sale" (thiếu dấu gạch nối)
 ?
-> ❌ **Mistake:** "These hard wearing boots are on sale" (thiếu dấu gạch nối)
 > ✅ **Correction:** "These hard-wearing boots are on sale"
 > 🧠 **Why:** Khi là tính từ ghép đứng trước danh từ, cần dùng dấu gạch nối: hard-wearing boots
 

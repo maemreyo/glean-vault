@@ -194,9 +194,8 @@ Analyze the root/family of **discharge**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **discharge**?
+🕵️ **Fix the Error:** The tank discharges its content in the garden
 ?
-> ❌ **Mistake:** The tank discharges its content in the garden
 > ✅ **Correction:** The tank discharges its content into the drainage system
 > 🧠 **Why:** Discharge usually implies controlled release into a specific container/environment, not random scattering
 

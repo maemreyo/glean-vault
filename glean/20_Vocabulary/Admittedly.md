@@ -195,9 +195,8 @@ Analyze the root/family of **admittedly**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **admittedly**?
+🕵️ **Fix the Error:** "Admittedly, the food was good and the service was excellent."
 ?
-> ❌ **Mistake:** "Admittedly, the food was good and the service was excellent."
 > ✅ **Correction:** "The food was admittedly good, and the service was excellent." OR "Admittedly, the food was good, but the service could improve."
 > 🧠 **Why:** "Admittedly" typically introduces a concession before a contrast. Don't use it for simple agreement - that's not its function.
 

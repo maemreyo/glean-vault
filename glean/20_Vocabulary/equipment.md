@@ -195,9 +195,8 @@ Analyze the root/family of **equipment**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **equipment**?
+🕵️ **Fix the Error:** "The company bought new equipments for the lab."
 ?
-> ❌ **Mistake:** "The company bought new equipments for the lab."
 > ✅ **Correction:** "The company bought new equipment for the lab."
 > 🧠 **Why:** 'Equipment' là danh từ không đếm được, không bao giờ thêm 's' ở cuối. Nếu muốn chỉ một món, dùng 'a piece of equipment'
 

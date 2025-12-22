@@ -195,9 +195,8 @@ Analyze the root/family of **longer lifespan**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **longer lifespan**?
+🕵️ **Fix the Error:** "The new medicine helps people to live longer lifespans."
 ?
-> ❌ **Mistake:** "The new medicine helps people to live longer lifespans."
 > ✅ **Correction:** "The new medicine helps people achieve longer lifespans." OR "The new medicine helps people live longer."
 > 🧠 **Why:** You "achieve" or "have" longer lifespans, not "live longer lifespans." "Lifespan" is already a measure of duration - redundant to say "live longer" before it.
 

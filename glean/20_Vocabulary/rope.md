@@ -197,9 +197,8 @@ Analyze the root/family of **rope**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **rope**?
+🕵️ **Fix the Error:** "I need many ropes for this craft"
 ?
-> ❌ **Mistake:** "I need many ropes for this craft"
 > ✅ **Correction:** "I need much rope for this craft" / "I need many pieces of rope"
 > 🧠 **Why:** Rope là vật chất không đếm được khi nói chung, đếm được khi nói từng sợi
 

@@ -192,9 +192,8 @@ Analyze the root/family of **distraction**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **distraction**?
+🕵️ **Fix the Error:** The TV was a big distraction to my studies
 ?
-> ❌ **Mistake:** The TV was a big distraction to my studies
 > ✅ **Correction:** The TV was a big distraction from my studies
 > 🧠 **Why:** 'Distraction FROM something' chứ không phải 'TO' - distraction pulls attention AWAY FROM focus
 

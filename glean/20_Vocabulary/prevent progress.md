@@ -193,9 +193,8 @@ Analyze the root/family of **prevent progress**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **prevent progress**?
+🕵️ **Fix the Error:** "They prevented progress to happen" (wrong structure)
 ?
-> ❌ **Mistake:** "They prevented progress to happen" (wrong structure)
 > ✅ **Correction:** "They prevented progress from happening"
 > 🧠 **Why:** After prevent, use "from + gerund" (-ing form) not "to + infinitive"
 

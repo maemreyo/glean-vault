@@ -192,9 +192,8 @@ Analyze the root/family of **suede**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **suede**?
+🕵️ **Fix the Error:** I put my suede jacket in the washing machine
 ?
-> ❌ **Mistake:** I put my suede jacket in the washing machine
 > ✅ **Correction:** I took my suede jacket to a professional cleaner
 > 🧠 **Why:** Suede là delicate material, water and machine washing sẽ destroy texture và shape của nó
 

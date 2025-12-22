@@ -198,9 +198,8 @@ Analyze the root/family of **flexibility**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **flexibility**?
+🕵️ **Fix the Error:** "We need flexibility to work every weekend" (misusing as justification)
 ?
-> ❌ **Mistake:** "We need flexibility to work every weekend" (misusing as justification)
 > ✅ **Correction:** "We need flexibility in our project timeline to accommodate unexpected challenges"
 > 🧠 **Why:** Flexibility means adaptable options, not unlimited availability. It's about smart adjustment, not just saying yes to everything!
 

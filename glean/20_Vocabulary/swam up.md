@@ -201,9 +201,8 @@ Analyze the components of **swam up**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **swam up**?
+🕵️ **Fix the Error:** "I swim up to check on my friend who was drowning." (wrong tense)
 ?
-> ❌ **Mistake:** "I swim up to check on my friend who was drowning." (wrong tense)
 > ✅ **Correction:** "I **swam up** to check on my friend who was drowning."
 > 🧠 **Why:** The action is completed in the past, so we need the past tense "swam," not the present tense "swim."
 

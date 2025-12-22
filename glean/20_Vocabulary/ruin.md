@@ -195,9 +195,8 @@ Analyze the root/family of **ruin**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **ruin**?
+🕵️ **Fix the Error:** The little rain ruined our picnic plans
 ?
-> ❌ **Mistake:** The little rain ruined our picnic plans
 > ✅ **Correction:** The rain spoiled our picnic plans / The rain ruined our outdoor wedding plans
 > 🧠 **Why:** 'Ruin' quá strong cho minor inconvenience. Dùng 'spoil' cho minor disruptions, 'ruin' cho major, significant impacts
 

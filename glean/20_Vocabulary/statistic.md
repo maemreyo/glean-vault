@@ -194,9 +194,8 @@ Analyze the root/family of **statistic**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **statistic**?
+🕵️ **Fix the Error:** "The statistics is impressive."
 ?
-> ❌ **Mistake:** "The statistics is impressive."
 > ✅ **Correction:** "The statistic is impressive." or "The statistics are impressive."
 > 🧠 **Why:** Remember: "Statistic" (singular, s-end) and "statistics" (plural, s-end but plural verb). The field "statistics" takes singular verb: "Statistics is a fascinating subject."
 

@@ -198,9 +198,8 @@ Analyze the root/family of **consult**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **consult**?
+🕵️ **Fix the Error:** "I need to consult with my doctor about my symptoms."
 ?
-> ❌ **Mistake:** "I need to consult with my doctor about my symptoms."
 > ✅ **Correction:** "I need to consult my doctor about my symptoms."
 > 🧠 **Why:** Khi tìm kiếm advice từ chuyên gia (doctor, lawyer, expert), không cần "with". "Consult with" chỉ dùng khi thảo luận ngang hàng với đồng nghiệp/peers.
 

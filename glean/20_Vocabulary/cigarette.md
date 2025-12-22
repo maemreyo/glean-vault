@@ -194,9 +194,8 @@ Analyze the root/family of **cigarette**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **cigarette**?
+🕵️ **Fix the Error:** Can I borrow a cigarette paper?
 ?
-> ❌ **Mistake:** Can I borrow a cigarette paper?
 > ✅ **Correction:** Can I borrow a rolling paper? / Do you have any cigarettes?
 > 🧠 **Why:** "Cigarette" là thành phẩm thuốc lá. "Rolling paper" mới là giấy cuốn thuốc lá.
 

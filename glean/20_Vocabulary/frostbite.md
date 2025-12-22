@@ -192,9 +192,8 @@ Analyze the components of **frostbite**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **frostbite**?
+🕵️ **Fix the Error:** "I have frostbite on my tongue from eating ice cream too fast."
 ?
-> ❌ **Mistake:** "I have frostbite on my tongue from eating ice cream too fast."
 > ✅ **Correction:** "I have brain freeze from eating ice cream too fast."
 > 🧠 **Why:** "Frostbite" requires prolonged exposure to freezing air/objects. Quick cold sensations from food are "brain freeze" or "ice cream headache" - not true frostbite!
 

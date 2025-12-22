@@ -194,9 +194,8 @@ Analyze the root/family of **embarrass**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **embarrass**?
+🕵️ **Fix the Error:** I embarrass when people compliment me
 ?
-> ❌ **Mistake:** I embarrass when people compliment me
 > ✅ **Correction:** I get embarrassed when people compliment me
 > 🧠 **Why:** "Embarrass" là transitive verb (bạn embarrass people). Khi nói về bản thân, dùng "get/feel embarrassed" (passive)
 

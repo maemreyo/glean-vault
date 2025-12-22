@@ -195,9 +195,8 @@ Analyze the root/family of **non-forested landscape**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **non-forested landscape**?
+🕵️ **Fix the Error:** The non-forested landscapes are beautiful
 ?
-> ❌ **Mistake:** The non-forested landscapes are beautiful
 > ✅ **Correction:** The non-forested landscape is beautiful
 > 🧠 **Why:** Khi nói chung chung về một loại hình cảnh quan, dùng số ít "landscape" như một danh từ tập hợp
 

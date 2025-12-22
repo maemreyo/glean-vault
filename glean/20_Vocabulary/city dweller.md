@@ -193,9 +193,8 @@ Analyze the root/family of **city dweller**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **city dweller**?
+🕵️ **Fix the Error:** "As a citydweller, I love public transport."
 ?
-> ❌ **Mistake:** "As a citydweller, I love public transport."
 > ✅ **Correction:** "As a city dweller, I love public transport."
 > 🧠 **Why:** "City dweller" is always written as two separate words, never hyphenated or combined into one word.
 

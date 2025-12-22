@@ -192,9 +192,8 @@ Analyze the root/family of **stair**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **stair**?
+🕵️ **Fix the Error:** How many stair does this building have?
 ?
-> ❌ **Mistake:** How many stair does this building have?
 > ✅ **Correction:** How many stairs does this building have? / How many staircases does this building have?
 > 🧠 **Why:** Khi đếm số cầu thang, dùng 'stairs' (số nhiều), hoặc dùng 'staircases' để chỉ các hệ thống thang riêng biệt
 

@@ -194,9 +194,8 @@ Analyze the root/family of **unquestionably**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **unquestionably**?
+🕵️ **Fix the Error:** "The coffee is unquestionably hot" (Quá cường điệu cho điều bình thường)
 ?
-> ❌ **Mistake:** "The coffee is unquestionably hot" (Quá cường điệu cho điều bình thường)
 > ✅ **Correction:** "The coffee is certainly hot" hoặc "The coffee is very hot"
 > 🧠 **Why:** "Unquestionably" là từ rất mạnh, chỉ nên dùng cho những khẳng định quan trọng, không nên dùng cho những nhận xét thông thường
 

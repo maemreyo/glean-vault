@@ -193,9 +193,8 @@ Analyze the root/family of **conventional high-density polyethylene**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **conventional high-density polyethylene**?
+🕵️ **Fix the Error:** HDPE is used for making plastic bags and wraps.
 ?
-> ❌ **Mistake:** HDPE is used for making plastic bags and wraps.
 > ✅ **Correction:** LDPE is used for making plastic bags and wraps, while HDPE is used for rigid containers.
 > 🧠 **Why:** HDPE cứng và chắc, LDPE mềm và dẻo - mỗi loại có ứng dụng khác nhau
 

@@ -198,9 +198,8 @@ Analyze the root/family of **absence**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **absence**?
+🕵️ **Fix the Error:** "The absence of people were noticeable." (subject-verb agreement)
 ?
-> ❌ **Mistake:** "The absence of people were noticeable." (subject-verb agreement)
 > ✅ **Correction:** "The absence of people was noticeable."
 > 🧠 **Why:** "Absence" là singular subject regardless of what follows. The phrase "absence of..." functions as singular noun phrase.
 

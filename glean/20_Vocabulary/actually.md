@@ -197,9 +197,8 @@ Analyze the root/family of **actually**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **actually**?
+🕵️ **Fix the Error:** "I'm actually thinking about it." (khi không cần đính chính)
 ?
-> ❌ **Mistake:** "I'm actually thinking about it." (khi không cần đính chính)
 > ✅ **Correction:** "I'm thinking about it." hoặc "Actually, I've changed my mind."
 > 🧠 **Why:** Actually chỉ nên dùng khi có sự đính chính, thông tin bất ngờ, hoặc nhấn mạnh sự thật ngược với mong đợi. Lạm dụng làm từ yếu đi.
 

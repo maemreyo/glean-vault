@@ -193,9 +193,8 @@ Analyze the root/family of **nutrition**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **nutrition**?
+🕵️ **Fix the Error:** "The nutrition label shows all the nutritions."
 ?
-> ❌ **Mistake:** "The nutrition label shows all the nutritions."
 > ✅ **Correction:** "The nutrition label shows all the nutrients."
 > 🧠 **Why:** "Nutrition" is the overall field/concept, while "nutrients" are the individual components (vitamins, minerals, proteins, etc.)
 

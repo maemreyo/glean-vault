@@ -194,9 +194,8 @@ Analyze the root/family of **waste recycling**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **waste recycling**?
+🕵️ **Fix the Error:** "We recycle our water waste."
 ?
-> ❌ **Mistake:** "We recycle our water waste."
 > ✅ **Correction:** "We recycle our water." or "We treat our wastewater."
 > 🧠 **Why:** "Waste recycling" typically refers to solid materials. For water, we say "water recycling" or "wastewater treatment" - don't mix the terms!
 

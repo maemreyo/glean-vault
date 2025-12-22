@@ -193,9 +193,8 @@ Analyze the root/family of **misleading**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **misleading**?
+🕵️ **Fix the Error:** "The signs are missleading."
 ?
-> ❌ **Mistake:** "The signs are missleading."
 > ✅ **Correction:** "The signs are misleading."
 > 🧠 **Why:** Correct spelling is 'misleading' - one 's' after the prefix 'mis-', not two.
 

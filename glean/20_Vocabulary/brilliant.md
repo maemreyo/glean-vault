@@ -192,9 +192,8 @@ Analyze the root/family of **brilliant**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **brilliant**?
+🕵️ **Fix the Error:** "The weather is brilliant today" (US usage)
 ?
-> ❌ **Mistake:** "The weather is brilliant today" (US usage)
 > ✅ **Correction:** "The weather is beautiful/gorgeous today" (US) / "The weather is brilliant today" (UK)
 > 🧠 **Why:** 'Brilliant' for weather is more common in British English; Americans might find it unusual
 

@@ -196,9 +196,8 @@ Analyze the root/family of **elderly**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **elderly**?
+🕵️ **Fix the Error:** I saw one elderly walking in the park
 ?
-> ❌ **Mistake:** I saw one elderly walking in the park
 > ✅ **Correction:** I saw an elderly person walking in the park / I saw the elderly walking in the park
 > 🧠 **Why:** 'Elderly' là tính từ cần có 'person' hoặc dùng với 'the' như danh từ số nhiều
 

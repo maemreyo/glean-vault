@@ -195,9 +195,8 @@ Analyze the root/family of **ancient hill**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **ancient hill**?
+🕵️ **Fix the Error:** "The university is built on an ancient hill from 1950."
 ?
-> ❌ **Mistake:** "The university is built on an ancient hill from 1950."
 > ✅ **Correction:** "The university is built on a very old hill from 1950."
 > 🧠 **Why:** "Ancient" (cổ đại) cần hàng ngàn năm, 1950 quá hiện đại - dùng "very old" phù hợp hơn
 

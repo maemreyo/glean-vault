@@ -194,9 +194,8 @@ Analyze the root/family of **wet field**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **wet field**?
+🕵️ **Fix the Error:** "wets field" (sai hình thức số nhiều)
 ?
-> ❌ **Mistake:** "wets field" (sai hình thức số nhiều)
 > ✅ **Correction:** "wet fields"
 > 🧠 **Why:** "Wet" là tính từ không đổi, chỉ "field" thành "fields" khi số nhiều
 

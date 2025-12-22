@@ -193,9 +193,8 @@ Analyze the root/family of **acid**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **acid**?
+🕵️ **Fix the Error:** This yogurt is very acid.
 ?
-> ❌ **Mistake:** This yogurt is very acid.
 > ✅ **Correction:** This yogurt is very sour. / This yogurt has high acidity.
 > 🧠 **Why:** 'Sour' là taste descriptor, 'acid' là chemical term. Food items có thể be sour vì contain acids, nhưng không 'be acid'
 

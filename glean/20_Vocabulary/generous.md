@@ -196,9 +196,8 @@ Analyze the root/family of **generous**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **generous**?
+🕵️ **Fix the Error:** "I am generosity"
 ?
-> ❌ **Mistake:** "I am generosity"
 > ✅ **Correction:** "I am generous" / "I have generosity"
 > 🧱 **Why:** Generous là tính từ, generosity là danh từ
 

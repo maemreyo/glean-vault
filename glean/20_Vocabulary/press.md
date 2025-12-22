@@ -203,9 +203,8 @@ Analyze the root/family of **press**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **press**?
+🕵️ **Fix the Error:** The medias are reporting live from the scene.
 ?
-> ❌ **Mistake:** The medias are reporting live from the scene.
 > ✅ **Correction:** The press are reporting live from the scene.
 > 🧠 **Why:** "Press" là collective noun (danh từ tập hợp) và luôn ở dạng số ít khi chỉ chung chung, nhưng động từ theo sau có thể ở số nhiều (are) trong British English.
 

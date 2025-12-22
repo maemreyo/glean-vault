@@ -193,9 +193,8 @@ Analyze the root/family of **study abroad consulting**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **study abroad consulting**?
+🕵️ **Fix the Error:** I need some study abroad consulting for my applications.
 ?
-> ❌ **Mistake:** I need some study abroad consulting for my applications.
 > ✅ **Correction:** I need study abroad consulting services for my applications.
 > 🧠 **Why:** Thường cần thêm "services", "agency", hoặc "company" để nghe tự nhiên - đây là industry term
 

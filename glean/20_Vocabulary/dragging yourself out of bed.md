@@ -196,9 +196,8 @@ Analyze the root/family of **dragging yourself out of bed**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **dragging yourself out of bed**?
+🕵️ **Fix the Error:** "He dragging himself out of bed"
 ?
-> ❌ **Mistake:** "He dragging himself out of bed"
 > ✅ **Correction:** "He's dragging himself out of bed" / "He was dragging himself out of bed"
 > 🧠 **Why:** Cần trợ động từ be + -ing hoặc quá khứ tiếp diễn
 

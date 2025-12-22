@@ -196,9 +196,8 @@ Analyze the root/family of **propose**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **propose**?
+🕵️ **Fix the Error:** "She proposed me to join the project" (Sai cấu trúc)
 ?
-> ❌ **Mistake:** "She proposed me to join the project" (Sai cấu trúc)
 > ✅ **Correction:** "She proposed that I join the project" hoặc "She invited me to join the project"
 > 🧠 **Why:** "Propose" không đi với tân ngữ gián tiếp; phải dùng cấu trúc "propose [that] someone do something" hoặc dùng động từ khác như "invite" hoặc "offer"
 

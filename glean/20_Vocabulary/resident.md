@@ -194,9 +194,8 @@ Analyze the root/family of **resident**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **resident**?
+🕵️ **Fix the Error:** The residents of this building is very friendly.**
 ?
-> ❌ **Mistake:** The residents of this building is very friendly.**
 > ✅ **Correction:** The residents of this building are very friendly.**
 > 🧠 **Why:** 'Residents' là plural subject, cần dùng plural verb 'are'. Đây là common error do subject-verb agreement**
 

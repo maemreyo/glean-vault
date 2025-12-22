@@ -192,9 +192,8 @@ Analyze the root/family of **spray**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **spray**?
+🕵️ **Fix the Error:** "The car sprayed mud all over me."
 ?
-> ❌ **Mistake:** "The car sprayed mud all over me."
 > ✅ **Correction:** "The car splashed mud all over me."
 > 🧠 **Why:** "Splash" is for uncontrolled wet scattering (like mud), while "spray" is for controlled fine droplets (like perfume or paint). Don't mix them up!
 

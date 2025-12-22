@@ -192,9 +192,8 @@ Analyze the root/family of **the presence of microplastics**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **the presence of microplastics**?
+🕵️ **Fix the Error:** "The presence of microplastics are concerning." (subject-verb agreement)
 ?
-> ❌ **Mistake:** "The presence of microplastics are concerning." (subject-verb agreement)
 > ✅ **Correction:** "The presence of microplastics is concerning."
 > 🧠 **Why:** "Presence" là singular subject, dù nó refers đến plural "microplastics". The phrase "the presence of..." functions as singular noun phrase.
 

@@ -195,9 +195,8 @@ Analyze the root/family of **plausible explanation**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **plausible explanation**?
+🕵️ **Fix the Error:** That's a very plausibility explanation.
 ?
-> ❌ **Mistake:** That's a very plausibility explanation.
 > ✅ **Correction:** That's a very plausible explanation. / The plausibility of that explanation is high.
 > 🧠 **Why:** "plausible" là tính từ bổ nghĩa cho "explanation". "plausibility" là danh từ, không thể dùng làm tính từ.
 

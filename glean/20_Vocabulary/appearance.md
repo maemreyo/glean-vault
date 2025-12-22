@@ -197,9 +197,8 @@ Analyze the root/family of **appearance**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **appearance**?
+🕵️ **Fix the Error:** "She has a beautiful appearance." (unnatural phrasing)
 ?
-> ❌ **Mistake:** "She has a beautiful appearance." (unnatural phrasing)
 > ✅ **Correction:** "She is beautiful." hoặc "Her appearance is striking."
 > 🧠 **Why:** "Appearance" usually describes how someone looks overall, không used với adjectives like "beautiful" directly. More natural để describe person directly.
 

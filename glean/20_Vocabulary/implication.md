@@ -193,9 +193,8 @@ Analyze the root/family of **implication**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **implication**?
+🕵️ **Fix the Error:** The report's implication clearly states that sales increased.
 ?
-> ❌ **Mistake:** The report's implication clearly states that sales increased.
 > ✅ **Correction:** The report implies that sales increased. / The implication of the report is that sales increased.
 > 🧠 **Why:** Implication là cái được暗示, không phải cái được stated directly. Use "implies" cho action hoặc "has implications" cho result
 

@@ -194,9 +194,8 @@ Analyze the root/family of **sunbathe**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **sunbathe**?
+🕵️ **Fix the Error:** "She is sunbathe on the beach right now."
 ?
-> ❌ **Mistake:** "She is sunbathe on the beach right now."
 > ✅ **Correction:** "She is sunbathing on the beach right now."
 > 🧠 **Why:** Continuous tense = "is + -ing form." "Sunbathe" becomes "sunbathing" in present continuous. Error comes from forgetting -ing after auxiliary verb.
 

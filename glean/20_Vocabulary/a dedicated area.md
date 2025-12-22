@@ -193,9 +193,8 @@ Analyze the root/family of **dedicated area**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **dedicated area**?
+🕵️ **Fix the Error:** "dedicated area for to smoking" (double preposition)
 ?
-> ❌ **Mistake:** "dedicated area for to smoking" (double preposition)
 > ✅ **Correction:** "dedicated area for smoking"
 > 🧠 **Why:** Không dùng double preposition - chỉ cần "for" để indicate purpose
 

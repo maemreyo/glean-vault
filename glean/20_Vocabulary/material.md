@@ -194,9 +194,8 @@ Analyze the root/family of **material**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **material**?
+🕵️ **Fix the Error:** "I need some materials for build the house"
 ?
-> ❌ **Mistake:** "I need some materials for build the house"
 > ✅ **Correction:** "I need some materials to build the house" or "I need building materials"
 > 🧠 **Why:** Use 'to' + infinitive (to build) not 'for' + verb after 'materials'
 

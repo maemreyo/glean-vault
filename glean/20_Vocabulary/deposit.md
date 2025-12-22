@@ -194,9 +194,8 @@ Analyze the root/family of **deposit**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **deposit**?
+🕵️ **Fix the Error:** "The rain deposited water on the ground."
 ?
-> ❌ **Mistake:** "The rain deposited water on the ground."
 > ✅ **Correction:** "The rain left water on the ground" or "Mineral deposits formed over time."
 > 🧠 **Why:** Deposit typically applies to substances forming layers or money/valuables, not rainwater.
 

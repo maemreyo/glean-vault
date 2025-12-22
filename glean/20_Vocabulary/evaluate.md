@@ -194,9 +194,8 @@ Analyze the root/family of **evaluate**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **evaluate**?
+🕵️ **Fix the Error:** "We need to evaluate about the situation"
 ?
-> ❌ **Mistake:** "We need to evaluate about the situation"
 > ✅ **Correction:** "We need to evaluate the situation"
 > 🧠 **Why:** Evaluate doesn't need 'about' - it takes a direct object. You evaluate something, not evaluate about something
 

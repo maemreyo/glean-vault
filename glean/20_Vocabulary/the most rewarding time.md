@@ -191,9 +191,8 @@ Analyze the root/family of **rewarding**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **rewarding**?
+🕵️ **Fix the Error:** "I got rewarding when I helped others"
 ?
-> ❌ **Mistake:** "I got rewarding when I helped others"
 > ✅ **Correction:** "It was rewarding to help others" or "I found helping others rewarding"
 > 🧠 **Why:** 'Rewarding' describes the experience/activity, not the person receiving the feeling
 

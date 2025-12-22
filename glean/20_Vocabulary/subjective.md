@@ -193,9 +193,8 @@ Analyze the root/family of **subjective**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **subjective**?
+🕵️ **Fix the Error:** "The measurement was subjective and showed 5cm."
 ?
-> ❌ **Mistake:** "The measurement was subjective and showed 5cm."
 > ✅ **Correction:** "The measurement was objective and showed 5cm."
 > 🧠 **Why:** Measurements by definition are objective (fact-based), not subjective (opinion-based). Science requires objectivity để ensure reproducibility.
 

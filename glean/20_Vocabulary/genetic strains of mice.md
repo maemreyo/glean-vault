@@ -195,9 +195,8 @@ Analyze the root/family of **genetic strains of mice**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **genetic strains of mice**?
+🕵️ **Fix the Error:** We need to order more genetic strain of mice for the experiment.
 ?
-> ❌ **Mistake:** We need to order more genetic strain of mice for the experiment.
 > ✅ **Correction:** We need to order more genetic strains of mice for the experiment. / We need to order more of this genetic strain of mice.
 > 🧠 **Why:** Multiple types = plural 'strains'; single type = singular 'strain'. Don't forget the plural when discussing multiple varieties
 

@@ -194,9 +194,8 @@ Analyze the root/family of **pleasure**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **pleasure**?
+🕵️ **Fix the Error:** "Reading books are my pleasures" (Sai đếm được/không đếm được)
 ?
-> ❌ **Mistake:** "Reading books are my pleasures" (Sai đếm được/không đếm được)
 > ✅ **Correction:** "Reading books is one of my pleasures" hoặc "Reading books brings me pleasure"
 > 🧠 **Why:** "Pleasure" khi chỉ cảm xúc chung thường là danh từ không đếm được, nhưng khi chỉ hoạt động cụ thể mang lại niềm vui thì có thể đếm được
 

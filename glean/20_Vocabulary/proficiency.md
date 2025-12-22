@@ -195,9 +195,8 @@ Analyze the root/family of **proficiency**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **proficiency**?
+🕵️ **Fix the Error:** He showed a proficient in mathematics.
 ?
-> ❌ **Mistake:** He showed a proficient in mathematics.
 > ✅ **Correction:** He showed proficiency in mathematics.
 > 🧠 **Why:** "Proficiency" là noun, "proficient" là adjective. Cấu trúc đúng: show + proficiency (noun)
 

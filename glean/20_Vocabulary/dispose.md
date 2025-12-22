@@ -193,9 +193,8 @@ Analyze the root/family of **dispose**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **dispose**?
+🕵️ **Fix the Error:** How do you dispose old batteries?
 ?
-> ❌ **Mistake:** How do you dispose old batteries?
 > ✅ **Correction:** How do you dispose OF old batteries?
 > 🧠 **Why:** 'Dispose' needs 'of' when it means to get rid of something (preposition requirement).
 

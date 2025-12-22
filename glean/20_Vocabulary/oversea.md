@@ -195,9 +195,8 @@ Analyze the root/family of **overseas**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **overseas**?
+🕵️ **Fix the Error:** She wants to study oversea after graduation.
 ?
-> ❌ **Mistake:** She wants to study oversea after graduation.
 > ✅ **Correction:** She wants to study overseas after graduation.
 > 🧠 **Why:** Luôn có 's' ở cuối "overseas" dù dùng như adj hoặc adv - đây là một ngoại lệ
 

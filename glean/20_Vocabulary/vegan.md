@@ -187,9 +187,8 @@ Analyze the root/family of **vegan**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **vegan**?
+🕵️ **Fix the Error:** "I'm vegan but I eat fish occasionally"
 ?
-> ❌ **Mistake:** "I'm vegan but I eat fish occasionally"
 > ✅ **Correction:** "I'm pescatarian" or "I mostly eat plant-based but occasionally eat fish"
 > 🧠 **Why:** Vegan means NO animal products at all - including fish, dairy, eggs, and honey.
 

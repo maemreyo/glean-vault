@@ -194,9 +194,8 @@ Analyze the root/family of **relationship**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **relationship**?
+🕵️ **Fix the Error:** "The relationship between the three siblings"
 ?
-> ❌ **Mistake:** "The relationship between the three siblings"
 > ✅ **Correction:** "The relationship among the three siblings"
 > 🧠 **Why:** Giữa hai người/thứ dùng 'between', còn ba người/thứ trở lên dùng 'among' trong tiếng Anh
 

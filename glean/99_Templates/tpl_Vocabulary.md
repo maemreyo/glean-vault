@@ -260,9 +260,7 @@ Analyze the root/family of **{{WORD}}**.
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:**
-> ❌ **Mistake:** <Common Error with {{WORD}}>
-
+🕵️ **Fix the Error:** <Common Error with {{WORD}}>
 ?
 > ✅ **Correction:** <Correct Usage>
 > 🧠 **Why:** <Explanation of rule/logic>

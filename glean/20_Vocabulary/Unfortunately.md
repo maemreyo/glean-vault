@@ -199,9 +199,8 @@ Analyze the root/family of **unfortunately**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **unfortunately**?
+🕵️ **Fix the Error:** "Unfortunately the meeting was cancelled." (missing comma)
 ?
-> ❌ **Mistake:** "Unfortunately the meeting was cancelled." (missing comma)
 > ✅ **Correction:** "**Unfortunately**, the meeting was cancelled."
 > 🧠 **Why:** When "unfortunately" introduces a sentence with bad news, it needs a comma to separate it from the main clause, making it a sentence adverb.
 

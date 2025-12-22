@@ -191,9 +191,8 @@ Analyze the root/family of **existence**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **existence**?
+🕵️ **Fix the Error:** "In my opinion, the existence of ghosts are real"
 ?
-> ❌ **Mistake:** "In my opinion, the existence of ghosts are real"
 > ✅ **Correction:** "In my opinion, the existence of ghosts is real"
 > 🧠 **Why:** 'Existence' is always singular regardless of what follows it in the "of" phrase
 

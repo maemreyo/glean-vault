@@ -196,9 +196,8 @@ Analyze the root/family of **regain**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **regain**?
+🕵️ **Fix the Error:** "I need to regain up my energy after the long race."
 ?
-> ❌ **Mistake:** "I need to regain up my energy after the long race."
 > ✅ **Correction:** "I need to regain my energy after the long race."
 > 🧠 **Why:** "Regain" is transitive và doesn't need "up". It takes direct object, không giống như "build up" hay "gain up" (which doesn't exist).
 

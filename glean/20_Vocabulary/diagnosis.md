@@ -194,9 +194,8 @@ Analyze the root/family of **diagnosis**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **diagnosis**?
+🕵️ **Fix the Error:** "The doctor gave me a diagnosis that I have sick" (Cấu trúc sai, nghĩa lặp)
 ?
-> ❌ **Mistake:** "The doctor gave me a diagnosis that I have sick" (Cấu trúc sai, nghĩa lặp)
 > ✅ **Correction:** "The doctor diagnosed me with the flu" hoặc "The doctor's diagnosis was the flu"
 > 🧠 **Why:** "Diagnosis" là danh từ chỉ quá trình hoặc kết quả chẩn đoán, không phải là động từ. Cấu trúc đúng: "diagnose someone WITH something"
 

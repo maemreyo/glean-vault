@@ -193,9 +193,8 @@ Analyze the root/family of **the current global biodiversity crisis**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **the current global biodiversity crisis**?
+🕵️ **Fix the Error:** The current global biodiversity crisis is when pollution increases in cities
 ?
-> ❌ **Mistake:** The current global biodiversity crisis is when pollution increases in cities
 > ✅ **Correction:** While urban pollution contributes to it, the current global biodiversity crisis specifically refers to the worldwide loss of species and ecosystem diversity
 > 🧠 **Why:** Crisis này focus vào loss of biological diversity, không phải environmental pollution nói chung
 

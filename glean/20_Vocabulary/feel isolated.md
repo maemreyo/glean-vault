@@ -195,9 +195,8 @@ Analyze the root/family of **feel isolated**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **feel isolated**?
+🕵️ **Fix the Error:** "She felt isolating when nobody talked to her."
 ?
-> ❌ **Mistake:** "She felt isolating when nobody talked to her."
 > ✅ **Correction:** "She felt isolated when nobody talked to her."
 > 🧠 **Why:** "Feel" takes adjective "isolated" not present participle "isolating." Subject experiences isolation, doesn't cause it. "Isolating" would describe the situation, not her feeling.
 

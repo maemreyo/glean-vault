@@ -194,9 +194,8 @@ Analyze the root/family of **freight barge**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **freight barge**?
+🕵️ **Fix the Error:** The freight barge is driving fast
 ?
-> ❌ **Mistake:** The freight barge is driving fast
 > ✅ **Correction:** The freight barge is moving slowly/steadily
 > 🧠 **Why:** Freight barges are designed for slow, steady transport of heavy cargo - speed isn't their advantage
 

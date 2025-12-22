@@ -192,9 +192,8 @@ Analyze the root/family of **institution**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **institution**?
+🕵️ **Fix the Error:** "The institutions of marriage and family is important."
 ?
-> ❌ **Mistake:** "The institutions of marriage and family is important."
 > ✅ **Correction:** "The institutions of marriage and family are important."
 > 🧠 **Why:** Khi dùng "institutions of X and Y" → 2 định chế → subject số nhiều → cần "are"
 

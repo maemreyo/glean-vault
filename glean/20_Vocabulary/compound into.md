@@ -195,9 +195,8 @@ Analyze the root/family of **compound into**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **compound into**?
+🕵️ **Fix the Error:** The researcher compounds the chemicals to a new formula.
 ?
-> ❌ **Mistake:** The researcher compounds the chemicals to a new formula.
 > ✅ **Correction:** The researcher compounds the chemicals into a new formula.
 > 🧠 **Why:** Luôn dùng "into" với "compound" để thể hiện sự biến đổi sang một trạng thái/hình thái mới, không dùng "to".
 

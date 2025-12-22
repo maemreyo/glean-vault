@@ -187,9 +187,8 @@ Analyze the root/family of **unaffordable**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **unaffordable**?
+🕵️ **Fix the Error:** "This car is unaffordable to buy"
 ?
-> ❌ **Mistake:** "This car is unaffordable to buy"
 > ✅ **Correction:** "This car is unaffordable for me to buy"
 > 🧠 **Why:** Preposition "for" indicates who cannot afford - "to" doesn't work with affordable/unaffordable.
 

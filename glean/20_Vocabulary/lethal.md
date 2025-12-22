@@ -261,9 +261,8 @@ Analyze the root/family of **{{WORD}}**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** <Common Error>
 ?
-> ❌ **Mistake:** <Common Error>
 > ✅ **Correction:** <Correct Usage>
 > 🧠 **Why:** <Explanation of rule/logic>
 

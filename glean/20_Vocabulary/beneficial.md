@@ -195,9 +195,8 @@ Analyze the root/family of **beneficial**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **beneficial**?
+🕵️ **Fix the Error:** This book is very beneficial to improve your English.
 ?
-> ❌ **Mistake:** This book is very beneficial to improve your English.
 > ✅ **Correction:** This book is very beneficial for improving your English. / This book will help you improve your English.
 > 🧠 **Why:** "beneficial for" + gerund (-ing) là cấu trúc đúng. "helpful for improving" cũng là lựa chọn thay thế tốt.
 

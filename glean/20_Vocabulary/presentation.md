@@ -199,9 +199,8 @@ Analyze the root/family of **presentation**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **presentation**?
+🕵️ **Fix the Error:** "I need to prepare presentation for tomorrow." (missing article)
 ?
-> ❌ **Mistake:** "I need to prepare presentation for tomorrow." (missing article)
 > ✅ **Correction:** "I need to prepare **a** presentation for tomorrow." OR "I need to prepare **the** presentation for tomorrow."
 > 🧠 **Why:** "Presentation" is a countable noun that requires an article when used in singular form.
 

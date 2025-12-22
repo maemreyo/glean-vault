@@ -194,9 +194,8 @@ Analyze the root/family of **in my case**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **in my case**?
+🕵️ **Fix the Error:** In my case is difficult to learn English
 ?
-> ❌ **Mistake:** In my case is difficult to learn English
 > ✅ **Correction:** In my case, learning English is difficult.
 > 🧠 **Why:** "In my case" là introductory phrase, cần comma sau nó và không thể làm subject của câu. Nó modifies toàn bộ clause theo sau
 

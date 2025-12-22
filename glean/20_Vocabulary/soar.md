@@ -197,9 +197,8 @@ Analyze the root/family of **soar**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **soar**?
+🕵️ **Fix the Error:** Using "soar" for struggling movement
 ?
-> ❌ **Mistake:** Using "soar" for struggling movement
 > ✅ **Correction:** "Soar" implies effortless, graceful movement
 > 🧠 **Why:** Soar specifically means easy, graceful rising, not difficult climbing
 

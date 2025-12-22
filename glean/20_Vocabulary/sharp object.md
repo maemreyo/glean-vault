@@ -194,9 +194,8 @@ Analyze the root/family of **sharp object**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **sharp object**?
+🕵️ **Fix the Error:** "Be careful with this sharps object" (in a hospital)
 ?
-> ❌ **Mistake:** "Be careful with this sharps object" (in a hospital)
 > ✅ **Correction:** "Be careful with these sharps" OR "Be careful with this sharp object"
 > 🧠 **Why:** Medical field uses "sharps" (plural noun) để chỉ needles và related items, nhưng "sharp object" là general term cho non-medical contexts.
 

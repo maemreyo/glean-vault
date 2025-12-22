@@ -194,9 +194,8 @@ Analyze the root/family of **worth**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **worth**?
+🕵️ **Fix the Error:** "This book is worth to read."
 ?
-> ❌ **Mistake:** "This book is worth to read."
 > ✅ **Correction:** "This book is worth reading."
 > 🧠 **Why:** 'Worth' is always followed by gerund (-ing form), never infinitive. It's a fixed pattern: worth + -ing.
 

@@ -193,9 +193,8 @@ Analyze the root/family of **average fitness**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **average fitness**?
+🕵️ **Fix the Error:** "She has a good average fitness"
 ?
-> ❌ **Mistake:** "She has a good average fitness"
 > ✅ **Correction:** "She has good average fitness" or "She has a good fitness level"
 > 🧠 **Why:** "Average" là tính từ mô tả "fitness", không cần thêm "good". Có thể dùng "good" để chỉnh mức fitness hoặc thay bằng "good fitness level".
 

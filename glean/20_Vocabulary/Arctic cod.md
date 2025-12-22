@@ -193,9 +193,8 @@ Analyze the root/family of **Arctic cod**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **Arctic cod**?
+🕵️ **Fix the Error:** "The Arctic cod is the same as the cod we buy for fish and chips."
 ?
-> ❌ **Mistake:** "The Arctic cod is the same as the cod we buy for fish and chips."
 > ✅ **Correction:** "The Arctic cod is different from the Atlantic cod typically used for fish and chips."
 > 🧠 **Why:** They are different species adapted to different water temperatures (VN: Chúng là các loài khác nhau, thích nghi với nhiệt độ nước khác nhau)
 

@@ -193,9 +193,8 @@ Analyze the root/family of **accelerate**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **accelerate**?
+🕵️ **Fix the Error:** "The car accelerated to the highway."
 ?
-> ❌ **Mistake:** "The car accelerated to the highway."
 > ✅ **Correction:** "The car accelerated onto the highway." or "The car sped up on the highway."
 > 🧠 **Why:** "Accelerate" doesn't need a preposition when describing speed increase. Use "onto" for entering the highway, not "to".
 

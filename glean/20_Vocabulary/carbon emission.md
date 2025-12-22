@@ -192,9 +192,8 @@ Analyze the root/family of **carbon emission**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **carbon emission**?
+🕵️ **Fix the Error:** "We must reduce our carbon emission."
 ?
-> ❌ **Mistake:** "We must reduce our carbon emission."
 > ✅ **Correction:** "We must reduce our carbon emissions."
 > 🧠 **Why:** Usually use plural "emissions" when talking about the general concept or multiple releases. "Emission" (singular) is more for technical/scientific contexts referring to the process itself.
 

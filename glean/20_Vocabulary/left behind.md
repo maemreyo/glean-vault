@@ -193,9 +193,8 @@ Analyze the root/family of **left behind**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **left behind**?
+🕵️ **Fix the Error:** The progress left me behind to understand
 ?
-> ❌ **Mistake:** The progress left me behind to understand
 > ✅ **Correction:** The progress left me behind / I was left behind by the progress
 > 🧠 **Why:** 'Left behind' có thể là transitive (leave someone behind) hoặc passive (be left behind), nhưng không thể kết hợp cả hai cách
 

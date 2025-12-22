@@ -197,9 +197,8 @@ Analyze the root/family of **lasts**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **lasts**?
+🕵️ **Fix the Error:** "The festival is lasting for five days this year."
 ?
-> ❌ **Mistake:** "The festival is lasting for five days this year."
 > ✅ **Correction:** "The festival lasts for five days this year."
 > 🧠 **Why:** Với các sự kiện có lịch trình cố định hoặc thời lượng đã biết, dùng present simple ("lasts"), không dùng present continuous ("is lasting")
 

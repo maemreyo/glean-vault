@@ -197,9 +197,8 @@ Analyze the root/family of **a prize-winning author**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a prize-winning author**?
+🕵️ **Fix the Error:** "She is a prize winning author." (missing hyphen)
 ?
-> ❌ **Mistake:** "She is a prize winning author." (missing hyphen)
 > ✅ **Correction:** "She is a prize-winning author."
 > 🧠 **Why:** "Prize-winning" functions as compound adjective modifying "author" và needs hyphen when coming before noun. Without hyphen, it sounds like prize is modifying winning.
 

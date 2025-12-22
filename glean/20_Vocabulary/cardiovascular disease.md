@@ -192,9 +192,8 @@ Analyze the root/family of **cardiovascular disease**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **cardiovascular disease**?
+🕵️ **Fix the Error:** "He has a cardio vascular desease."
 ?
-> ❌ **Mistake:** "He has a cardio vascular desease."
 > ✅ **Correction:** "He has cardiovascular disease."
 > 🧠 **Why:** It's one word "cardiovascular" with "dis" in "disease", pronounced with stress on "vas": car-di-o-VAS-cu-lar.
 

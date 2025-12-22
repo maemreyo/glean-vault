@@ -193,9 +193,8 @@ Analyze the root/family of **facilities**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **facilities**?
+🕵️ **Fix the Error:** The library has many study facility.
 ?
-> ❌ **Mistake:** The library has many study facility.
 > ✅ **Correction:** The library has many study facilities. / The library has a good study facility.
 > 🧠 **Why:** "facilities" thường được dùng ở dạng số nhiều khi nói về nhiều tiện ích. Khi dùng số ít "facility" cần có mạo từ "a/an" phù hợp.
 

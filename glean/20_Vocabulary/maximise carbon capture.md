@@ -192,9 +192,8 @@ Analyze the root/family of **maximise carbon capture**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **maximise carbon capture**?
+🕵️ **Fix the Error:** We want to maximaze carbon capture.
 ?
-> ❌ **Mistake:** We want to maximaze carbon capture.
 > ✅ **Correction:** We want to maximise carbon capture.
 > 🧠 **Why:** British spelling là 'maximise' với 's', American spelling là 'maximize' với 'z'. Cần consistent với audience/region
 

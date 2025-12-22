@@ -193,9 +193,8 @@ Analyze the root/family of **fig**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **fig**?
+🕵️ **Fix the Error:** "I love figs, but I don't like the big seed" (incorrect description)
 ?
-> ❌ **Mistake:** "I love figs, but I don't like the big seed" (incorrect description)
 > ✅ **Correction:** "I love figs, but I'm not used to the many tiny seeds"
 > 🧠 **Why:** Figs have many tiny seeds, not one large seed like dates or peaches
 

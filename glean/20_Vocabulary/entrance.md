@@ -192,9 +192,8 @@ Analyze the root/family of **entrance**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **entrance**?
+🕵️ **Fix the Error:** "Where is the entrance to park?"
 ?
-> ❌ **Mistake:** "Where is the entrance to park?"
 > ✅ **Correction:** "Where is the entrance to the park?" or "Where do I enter the park?"
 > 🧠 **Why:** "Entrance" needs "to the [place]" not just "to". Don't forget the article before the location name!
 

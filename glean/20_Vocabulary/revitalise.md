@@ -196,9 +196,8 @@ Analyze the root/family of **revitalise**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **revitalise**?
+🕵️ **Fix the Error:** "The council will revitalize the old town center." (in British writing)
 ?
-> ❌ **Mistake:** "The council will revitalize the old town center." (in British writing)
 > ✅ **Correction:** "The council will revitalise the old town center."
 > 🧠 **Why:** Trong tiếng Anh-Anh, dùng '-ise' cho các động từ có gốc Hy Lạp, trong khi tiếng Anh-Mỹ dùng '-ize'
 

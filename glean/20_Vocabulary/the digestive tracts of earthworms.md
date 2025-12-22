@@ -196,9 +196,8 @@ Analyze the root/family of **the digestive tracts of earthworms**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **the digestive tracts of earthworms**?
+🕵️ **Fix the Error:** The digestive tract of earthworms contains beneficial bacteria.
 ?
-> ❌ **Mistake:** The digestive tract of earthworms contains beneficial bacteria.
 > ✅ **Correction:** The digestive tracts of earthworms contain beneficial bacteria. / The digestive tract of an earthworm contains beneficial bacteria.
 > 🧠 **Why:** Khi nói về nhiều earthworms (plural), dùng plural 'tracts'. Khi nói về một earthworm (singular), dùng singular 'tract'
 

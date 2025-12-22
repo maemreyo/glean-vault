@@ -193,9 +193,8 @@ Analyze the root/family of **keen on**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **keen on**?
+🕵️ **Fix the Error:** "She's keen in swimming."
 ?
-> ❌ **Mistake:** "She's keen in swimming."
 > ✅ **Correction:** "She's keen on swimming."
 > 🧠 **Why:** Fixed collocation rule: always use "keen on" + gerund/noun. "Keen in" or "keen for" are incorrect in this context.
 

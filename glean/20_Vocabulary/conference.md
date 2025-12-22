@@ -187,9 +187,8 @@ Analyze the root/family of **conference**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **conference**?
+🕵️ **Fix the Error:** "I had a conference with my boss about my salary"
 ?
-> ❌ **Mistake:** "I had a conference with my boss about my salary"
 > ✅ **Correction:** "I had a meeting with my boss about my salary"
 > 🧠 **Why:** Conference implies large formal gathering; use meeting for one-on-one or small group discussions.
 

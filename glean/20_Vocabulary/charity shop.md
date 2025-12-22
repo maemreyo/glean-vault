@@ -195,9 +195,8 @@ Analyze the root/family of **charity shop**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **charity shop**?
+🕵️ **Fix the Error:** "I bought this from charity shop"
 ?
-> ❌ **Mistake:** "I bought this from charity shop"
 > ✅ **Correction:** "I bought this from a charity shop" / "I bought this from the charity shop"
 > 🧠 **Why:** Cần mạo từ "a/the" trước "charity shop"
 

@@ -198,9 +198,8 @@ Analyze the root/family of **delicacy**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a rarely available seasonal fish delicacy**?
+🕵️ **Fix the Error:** "a seasonal rarely available fish delicacy"
 ?
-> ❌ **Mistake:** "a seasonal rarely available fish delicacy"
 > ✅ **Correction:** "a rarely available seasonal fish delicacy"
 > 🧠 **Why:** Adverbs (rarely) typically come before adjectives (seasonal) they modify
 

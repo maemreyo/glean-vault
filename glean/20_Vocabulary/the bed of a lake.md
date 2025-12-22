@@ -194,9 +194,8 @@ Analyze the root/family of **the bed of a lake**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **the bed of a lake**?
+🕵️ **Fix the Error:** "Fish live in the bed of the lake"
 ?
-> ❌ **Mistake:** "Fish live in the bed of the lake"
 > ✅ **Correction:** "Fish swim above the bed of the lake" OR "Fish live near the bed of the lake"
 > 🧠 **Why:** Fish swim in water, not in the solid ground at the bottom
 

@@ -197,9 +197,8 @@ Analyze the root/family of **an astronomical price**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **an astronomical price**?
+🕵️ **Fix the Error:** "The market analysis shows astronomical prices for basic commodities." (in formal report)
 ?
-> ❌ **Mistake:** "The market analysis shows astronomical prices for basic commodities." (in formal report)
 > ✅ **Correction:** "The market analysis shows extremely high prices for basic commodities."
 > 🧠 **Why:** 'Astronomical price' quá cường điệu và không trang trọng cho văn phong học thuật/nghiên cứu. Dùng 'extremely high' phù hợp hơn
 

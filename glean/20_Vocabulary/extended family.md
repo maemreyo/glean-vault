@@ -197,9 +197,8 @@ Analyze the root/family of **extended family**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **extended family**?
+🕵️ **Fix the Error:** "My extended family is very supportive."
 ?
-> ❌ **Mistake:** "My extended family is very supportive."
 > ✅ **Correction:** "My extended family are very supportive."
 > 🧠 **Why:** Khi 'family' chỉ nhiều thành viên như các cá nhân, có thể dùng động từ số nhiều 'are', đặc biệt khi nhấn mạnh từng cá nhân trong gia đình
 

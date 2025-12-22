@@ -194,9 +194,8 @@ Analyze the root/family of **faraway land**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **faraway land**?
+🕵️ **Fix the Error:** The merchant imported goods from faraway land
 ?
-> ❌ **Mistake:** The merchant imported goods from faraway land
 > ✅ **Correction:** The merchant imported goods from faraway lands. / The merchant imported goods from a faraway land.
 > 🧠 **Why:** Khi nói chung chung về những vùng đất xa xôi, dùng plural 'lands'. Khi nói về một nơi cụ thể, cần có article 'a' trước 'faraway land'
 

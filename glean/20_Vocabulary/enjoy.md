@@ -198,9 +198,8 @@ Analyze the root/family of **enjoy**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **enjoy**?
+🕵️ **Fix the Error:** She enjoys to dance.
 ?
-> ❌ **Mistake:** She enjoys to dance.
 > ✅ **Correction:** She enjoys dancing.
 > 🧠 **Why:** "Enjoy" luôn theo sau bởi gerund (V-ing), không phải infinitive (to V). Đây là quy tắc bắt buộc!
 

@@ -193,9 +193,8 @@ Analyze the root/family of **a sculpting tool**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a sculpting tool**?
+🕵️ **Fix the Error:** "The artist uses many sculpting tool to make his art."
 ?
-> ❌ **Mistake:** "The artist uses many sculpting tool to make his art."
 > ✅ **Correction:** "The artist uses many sculpting tools to make his art."
 > 🧠 **Why:** Plural subject "many tools" requires plural form "sculpting tools." "Tool" cần phải pluralize khi nói về multiple implements.
 

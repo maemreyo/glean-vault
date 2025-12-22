@@ -192,9 +192,8 @@ Analyze the root/family of **calming effect**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **calming effect**?
+🕵️ **Fix the Error:** "The tea gives me calming effect."
 ?
-> ❌ **Mistake:** "The tea gives me calming effect."
 > ✅ **Correction:** "The tea gives me a calming effect" or "The tea has a calming effect on me."
 > 🧠 **Why:** Needs article 'a' before 'calming effect'. Use 'has...on' structure for correctness.
 

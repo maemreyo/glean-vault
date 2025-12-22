@@ -194,9 +194,8 @@ Analyze the root/family of **comprise**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **comprise**?
+🕵️ **Fix the Error:** "The committee is comprised of seven members."
 ?
-> ❌ **Mistake:** "The committee is comprised of seven members."
 > ✅ **Correction:** "The committee comprises seven members." hoặc "The committee is composed of seven members."
 > 🧠 **Why:** "comprise" traditionally chỉ dùng active voice. Passive "is comprised of" technically sai dù phổ biến. Dùng "compose" thay thế nếu cần passive.
 

@@ -197,9 +197,8 @@ Analyze the root/family of **taking up running**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **taking up running**?
+🕵️ **Fix the Error:** I take up running last year to lose weight.
 ?
-> ❌ **Mistake:** I take up running last year to lose weight.
 > ✅ **Correction:** I took up running last year to lose weight.
 > 🧠 **Why:** For a completed action in the past, we need the simple past tense 'took up', not present tense 'take up'
 

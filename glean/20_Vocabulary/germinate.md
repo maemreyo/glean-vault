@@ -192,9 +192,8 @@ Analyze the root/family of **germinate**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **germinate**?
+🕵️ **Fix the Error:** The plant will germinate new leaves next week.
 ?
-> ❌ **Mistake:** The plant will germinate new leaves next week.
 > ✅ **Correction:** The plant will PRODUCE new leaves next week.
 > 🧠 **Why:** Only seeds/spores germinate; plants grow, develop, or produce new parts (not germinate).
 

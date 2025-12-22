@@ -194,9 +194,8 @@ Analyze the components of **take up the challenge**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **take up the challenge**?
+🕵️ **Fix the Error:** I will take on this challenge
 ?
-> ❌ **Mistake:** I will take on this challenge
 > ✅ **Correction:** I will take up this challenge / I will take on this challenge
 > 🧠 **Why:** Cả hai đều đúng nhưng 'take up' nhấn mạnh việc chấp nhận ban đầu, 'take on' nhấn mạnh việc thực hiện. Với idiom đầy đủ là 'take up the challenge'
 

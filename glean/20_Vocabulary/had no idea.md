@@ -195,9 +195,8 @@ Analyze the root/family of **had no idea**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **had no idea**?
+🕵️ **Fix the Error:** I have no idea he was sick yesterday
 ?
-> ❌ **Mistake:** I have no idea he was sick yesterday
 > ✅ **Correction:** I had no idea he was sick yesterday
 > 🧠 **Why:** Khi nói về việc không biết something đã xảy ra trong quá khứ, phải dùng "had" (quá khứ) thay vì "have" (hiện tại)
 

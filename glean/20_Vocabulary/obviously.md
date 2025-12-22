@@ -192,9 +192,8 @@ Analyze the root/family of **obviously**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **obviously**?
+🕵️ **Fix the Error:** Obviously you're wrong, but let me explain why.
 ?
-> ❌ **Mistake:** Obviously you're wrong, but let me explain why.
 > ✅ **Correction:** You're obviously wrong, but let me explain why. / Clearly, you're mistaken...
 > 🧠 **Why:** "Obviously" thường đi sau verb hoặc ở đầu sentence, không thường đứng alone trước subject trừ khi dùng như sentence starter
 

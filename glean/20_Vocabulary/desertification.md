@@ -183,9 +183,8 @@ Analyze the root/family of **desertification**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **desertification**?
+🕵️ **Fix the Error:** We must stop desertication of our lands
 ?
-> ❌ **Mistake:** We must stop desertication of our lands
 > ✅ **Correction:** We must stop desertification of our lands
 > 🧠 **Why:** Nhớ: "desert" + "-ification". Đây là technical term, spelling chính xác rất quan trọng
 

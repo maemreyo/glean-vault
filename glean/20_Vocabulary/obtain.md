@@ -194,9 +194,8 @@ Analyze the root/family of **obtain**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **obtain**?
+🕵️ **Fix the Error:** "I obtained to the airport on time"
 ?
-> ❌ **Mistake:** "I obtained to the airport on time"
 > ✅ **Correction:** "I obtained a taxi to get to the airport on time" OR "I got to the airport on time"
 > 🧠 **Why:** Obtain needs an object - you obtain something, not obtain to a place
 

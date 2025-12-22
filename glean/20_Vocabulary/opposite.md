@@ -194,9 +194,8 @@ Analyze the root/family of **opposite**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **opposite**?
+🕵️ **Fix the Error:** She lives opposite to the school.
 ?
-> ❌ **Mistake:** She lives opposite to the school.
 > ✅ **Correction:** She lives opposite the school.
 > 🧠 **Why:** As a preposition meaning 'facing', 'opposite' doesn't need 'to' - it's redundant
 

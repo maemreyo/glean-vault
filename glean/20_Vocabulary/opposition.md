@@ -197,9 +197,8 @@ Analyze the root/family of **opposition**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **opposition**?
+🕵️ **Fix the Error:** "There were many oppositions to the new policy."
 ?
-> ❌ **Mistake:** "There were many oppositions to the new policy."
 > ✅ **Correction:** "There was much opposition to the new policy." hoặc "Many people opposed the new policy."
 > 🧠 **Why:** Opposition thường là uncountable khi nghĩa là "sự phản đối". Khi muốn nói người, dùng "opponents" hoặc "people who oppose".
 

@@ -192,9 +192,8 @@ Analyze the root/family of **What's more**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **What's more**?
+🕵️ **Fix the Error:** What's more the price was reasonable.
 ?
-> ❌ **Mistake:** What's more the price was reasonable.
 > ✅ **Correction:** What's more, the price was reasonable.
 > 🧠 **Why:** 'What's more' là transitional phrase, cần comma trước introducing clause, giống như however, therefore, moreover
 

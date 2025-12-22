@@ -200,9 +200,8 @@ Analyze the root/family of **definite**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **definite**?
+🕵️ **Fix the Error:** "I want a definite coffee, not tea."
 ?
-> ❌ **Mistake:** "I want a definite coffee, not tea."
 > ✅ **Correction:** "I definitely want coffee, not tea." OR "I want coffee, not tea."
 > 🧠 **Why:** "Definite" modifies nouns (certainty), "definitely" modifies verbs (adverb). Use "definitely" để emphasize choice.
 

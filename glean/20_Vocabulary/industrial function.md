@@ -192,9 +192,8 @@ Analyze the root/family of **industrial function**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **industrial function**?
+🕵️ **Fix the Error:** The industrial function of a smartphone is communication.
 ?
-> ❌ **Mistake:** The industrial function of a smartphone is communication.
 > ✅ **Correction:** The function of a smartphone is communication. / The industrial function refers to manufacturing equipment.
 > 🧠 **Why:** 'Industrial function' specifically applies to manufacturing/production contexts, not consumer products
 

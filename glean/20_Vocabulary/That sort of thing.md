@@ -196,9 +196,8 @@ Analyze the components of **That sort of thing**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **That sort of thing**?
+🕵️ **Fix the Error:** Using in very formal academic writing
 ?
-> ❌ **Mistake:** Using in very formal academic writing
 > ✅ **Correction:** Be more specific in formal contexts
 > 🧠 **Why:** Too vague and informal for academic/professional writing
 

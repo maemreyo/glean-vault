@@ -195,9 +195,8 @@ Analyze the root/family of **piece**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **piece**?
+🕵️ **Fix the Error:** "I need some advices about this problem."
 ?
-> ❌ **Mistake:** "I need some advices about this problem."
 > ✅ **Correction:** "I need some advice about this problem" OR "I need a piece of advice about this problem."
 > 🧠 **Why:** "Advice" là danh từ không đếm được, không có số nhiều. Dùng "a piece of advice" để đếm
 

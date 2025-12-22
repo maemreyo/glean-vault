@@ -194,9 +194,8 @@ Analyze the root/family of **disability**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **disability**?
+🕵️ **Fix the Error:** "The disabled need special help."
 ?
-> ❌ **Mistake:** "The disabled need special help."
 > ✅ **Correction:** "People with disabilities may require accommodations."
 > 🧠 **Why:** Person-first language puts the person before their disability. "The disabled" defines people by their condition, which is dehumanizing!
 

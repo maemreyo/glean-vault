@@ -193,9 +193,8 @@ Analyze the root/family of **a lifeboat volunteer**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a lifeboat volunteer**?
+🕵️ **Fix the Error:** "The volunteer lifeboat arrived" (word order)
 ?
-> ❌ **Mistake:** "The volunteer lifeboat arrived" (word order)
 > ✅ **Correction:** "The lifeboat volunteer arrived" OR "The lifeboat arrived"
 > 🧠 **Why:** "Lifeboat volunteer" = person, "lifeboat" = boat - don't mix
 

@@ -193,9 +193,8 @@ Analyze the components of **clinical form**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **clinical form**?
+🕵️ **Fix the Error:** The doctor gave me clinical forms to fill home
 ?
-> ❌ **Mistake:** The doctor gave me clinical forms to fill home
 > ✅ **Correction:** The doctor gave me clinical forms to fill out at home
 > 🧠 **Why:** Cần 'fill out' hoặc 'complete' cho biểu mẫu, và 'at' cho địa điểm
 

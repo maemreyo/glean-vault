@@ -192,9 +192,8 @@ Analyze the root/family of **particularly**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **particularly**?
+🕵️ **Fix the Error:** The movie was particularly, very boring.
 ?
-> ❌ **Mistake:** The movie was particularly, very boring.
 > ✅ **Correction:** The movie was particularly boring. / The movie was very, very boring.
 > 🧠 **Why:** Particularly là một adverb, không đi với another intensifier như very trong cùng position. Choose one or use different structure
 

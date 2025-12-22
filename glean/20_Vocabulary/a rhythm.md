@@ -192,9 +192,8 @@ Analyze the root/family of **a rhythm**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a rhythm**?
+🕵️ **Fix the Error:** The music has good rhythm.
 ?
-> ❌ **Mistake:** The music has good rhythm.
 > ✅ **Correction:** The music has a good rhythm. / The music has good rhythms.
 > 🧠 **Why:** Khi nói về specific rhythm, cần article 'a'. Khi nói về multiple different rhythmic patterns, dùng plural 'rhythms'
 

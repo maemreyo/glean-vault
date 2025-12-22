@@ -194,9 +194,8 @@ Analyze the root/family of **last longer**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **last longer**?
+🕵️ **Fix the Error:** "The effects of the medicine last more long than expected."
 ?
-> ❌ **Mistake:** "The effects of the medicine last more long than expected."
 > ✅ **Correction:** "The effects of the medicine last longer than expected."
 > 🧠 **Why:** 'Longer' là comparative form của 'long', không dùng 'more long'. Structure: verb + comparative adjective (last + longer).
 

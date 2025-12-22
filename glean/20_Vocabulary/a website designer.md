@@ -190,9 +190,8 @@ Analyze the root/family of **website designer**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **website designer**?
+🕵️ **Fix the Error:** "The website designer fixed the server crash"
 ?
-> ❌ **Mistake:** "The website designer fixed the server crash"
 > ✅ **Correction:** "The website designer updated the layout; the web developer fixed the server crash"
 > 🧠 **Why:** Website designers handle visual/UX aspects, not technical server issues
 

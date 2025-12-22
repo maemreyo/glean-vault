@@ -194,9 +194,8 @@ Analyze the root/family of **frustration**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **frustration**?
+🕵️ **Fix the Error:** "My frustration grows about the delays."
 ?
-> ❌ **Mistake:** "My frustration grows about the delays."
 > ✅ **Correction:** "My frustration grows over the delays."
 > 🧠 **Why:** Preposition rule: "frustration at" specific things, "frustration over/with" situations, but "frustration about" sounds unnatural in most contexts.
 

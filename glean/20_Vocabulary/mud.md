@@ -191,9 +191,8 @@ Analyze the root/family of **mud**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **mud**?
+🕵️ **Fix the Error:** "I need to clean the muds off my boots"
 ?
-> ❌ **Mistake:** "I need to clean the muds off my boots"
 > ✅ **Correction:** "I need to clean the mud off my boots"
 > 🧠 **Why:** 'Mud' is uncountable, like water or sand - we don't add 's' to make it plural
 

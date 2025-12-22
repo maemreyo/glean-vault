@@ -195,9 +195,8 @@ Analyze the root/family of **natural seed disperser**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **natural seed disperser**?
+🕵️ **Fix the Error:** The wind is a natural seed disperser
 ?
-> ❌ **Mistake:** The wind is a natural seed disperser
 > ✅ **Correction:** The wind is a natural seed dispersal agent/mechanism, not a disperser
 > 🧠 **Why:** 'Disperser' thường chỉ living organisms (animals) that actively transport seeds. Wind/water là 'dispersal mechanisms' hoặc 'vectors'
 

@@ -194,9 +194,8 @@ Analyze the root/family of **attractively**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **attractively**?
+🕵️ **Fix the Error:** The advertise was attractively designed
 ?
-> ❌ **Mistake:** The advertise was attractively designed
 > ✅ **Correction:** The advertisement was attractively designed
 > 🧠 **Why:** 'Advertise' là verb, 'advertisement' là noun. Cần dùng noun với 'was attractively designed'
 

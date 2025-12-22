@@ -194,9 +194,8 @@ Analyze the root/family of **coursebook**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **coursebook**?
+🕵️ **Fix the Error:** The coursebook are expensive
 ?
-> ❌ **Mistake:** The coursebook are expensive
 > ✅ **Correction:** The coursebook is expensive
 > 🧠 **Why:** "Coursebook" là danh từ số ít, cần động từ "is" không phải "are"
 

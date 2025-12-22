@@ -197,9 +197,8 @@ Analyze the root/family of **a cholera epidemic**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a cholera epidemic**?
+🕵️ **Fix the Error:** Using "cholera epidemic" to describe a single case
 ?
-> ❌ **Mistake:** Using "cholera epidemic" to describe a single case
 > ✅ **Correction:** "cholera epidemic" refers to widespread outbreak affecting many
 > 🧠 **Why:** Epidemic implies population-level occurrence, not individual cases
 

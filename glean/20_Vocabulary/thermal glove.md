@@ -193,9 +193,8 @@ Analyze the root/family of **thermal glove**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **thermal glove**?
+🕵️ **Fix the Error:** "I bought a thermal glove for skiing"
 ?
-> ❌ **Mistake:** "I bought a thermal glove for skiing"
 > ✅ **Correction:** "I bought thermal gloves for skiing"
 > 🧠 **Why:** "Glove" luôn đi với dạng số nhiều "gloves" khi nói về một đôi, giống như "scissors" hoặc "pants" - ngay cả khi chỉ mua một bộ.
 

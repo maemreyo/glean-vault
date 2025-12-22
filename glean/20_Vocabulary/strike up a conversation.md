@@ -193,9 +193,8 @@ Analyze the root/family of **strike up a conversation**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **strike up a conversation**?
+🕵️ **Fix the Error:** "He struck up conversation the girl"
 ?
-> ❌ **Mistake:** "He struck up conversation the girl"
 > ✅ **Correction:** "He struck up a conversation with the girl"
 > 🧠 **Why:** Need article 'a' and preposition 'with' - it's "strike up A conversation WITH someone"
 

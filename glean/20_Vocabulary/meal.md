@@ -195,9 +195,8 @@ Analyze the root/family of **meal**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **meal**?
+🕵️ **Fix the Error:** "I need a meal" (when wanting just some food)
 ?
-> ❌ **Mistake:** "I need a meal" (when wanting just some food)
 > ✅ **Correction:** "I need something to eat" OR "I'm ready for my meal"
 > 🧠 **Why:** "Meal" implies full, scheduled eating occasion, not just any food intake
 

@@ -197,9 +197,8 @@ Analyze the root/family of **delight**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **delight**?
+🕵️ **Fix the Error:** She delights with cooking gourmet meals
 ?
-> ❌ **Mistake:** She delights with cooking gourmet meals
 > ✅ **Correction:** She delights in cooking gourmet meals
 > 🧠 **Why:** 'Delight' as a verb takes 'in' when expressing enjoyment of an activity
 

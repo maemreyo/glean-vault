@@ -197,9 +197,8 @@ Analyze the root/family of **brand new**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **brand new**?
+🕵️ **Fix the Error:** I bought shoes brand new yesterday
 ?
-> ❌ **Mistake:** I bought shoes brand new yesterday
 > ✅ **Correction:** I bought brand new shoes yesterday.
 > 🧠 **Why:** 'Brand new' là adjective phrase đứng TRƯỚC noun. Không thể đặt nó sau noun như vậy
 

@@ -201,9 +201,8 @@ Analyze the root/family of **incredible**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **incredible**?
+🕵️ **Fix the Error:** "The news was incredible that I didn't believe it."
 ?
-> ❌ **Mistake:** "The news was incredible that I didn't believe it."
 > ✅ **Correction:** "The news was so incredible that I didn't believe it."
 > 🧠 **Why:** Need "so" before adjective in "so...that" construction. "Incredible" alone doesn't properly connect to "that" clause
 

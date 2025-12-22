@@ -193,9 +193,8 @@ Analyze the root/family of **expensive**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **expensive**?
+🕵️ **Fix the Error:** "This is the expensivest restaurant in town."
 ?
-> ❌ **Mistake:** "This is the expensivest restaurant in town."
 > ✅ **Correction:** "This is the most expensive restaurant in town."
 > 🧠 **Why:** 'Expensive' uses 'most' for superlative, not '-est', because it's a long adjective (3 syllables).
 

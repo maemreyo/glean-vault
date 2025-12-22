@@ -190,9 +190,8 @@ Analyze the root/family of **beside**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **beside**?
+🕵️ **Fix the Error:** Everyone was besides themselves with excitement.
 ?
-> ❌ **Mistake:** Everyone was besides themselves with excitement.
 > ✅ **Correction:** Everyone was beside themselves with excitement.
 > 🧠 **Why:** "Beside oneself" là cụm cố định có nghĩa "vô cùng kích động"
 

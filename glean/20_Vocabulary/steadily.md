@@ -194,9 +194,8 @@ Analyze the root/family of **steadily**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **steadily**?
+🕵️ **Fix the Error:** She steady works hard every day
 ?
-> ❌ **Mistake:** She steady works hard every day
 > ✅ **Correction:** She works steadily hard every day / She steadily works hard every day
 > 🧠 **Why:** Cần dùng adverb 'steadily' không phải adjective 'steady' để修饰 động từ
 

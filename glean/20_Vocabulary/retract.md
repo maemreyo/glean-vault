@@ -192,9 +192,8 @@ Analyze the root/family of **retract**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **retract**?
+🕵️ **Fix the Error:** I retract my opinion that the movie was boring.
 ?
-> ❌ **Mistake:** I retract my opinion that the movie was boring.
 > ✅ **Correction:** I'd like to retract my statement that the movie was boring. / I've changed my opinion about the movie.
 > 🧠 **Why:** You retract formal statements/claims, not opinions. Use different phrasing cho changing personal views
 

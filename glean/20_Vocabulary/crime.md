@@ -198,9 +198,8 @@ Analyze the root/family of **crime**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **crime**?
+🕵️ **Fix the Error:** "It's a crime to waste food" (using metaphorically as very wrong)
 ?
-> ❌ **Mistake:** "It's a crime to waste food" (using metaphorically as very wrong)
 > ✅ **Correction:** "It's wasteful to waste food" or "It feels like a crime to waste food, but it's not illegal"
 > 🧠 **Why:** While we use "crime" metaphorically for very wrong actions, technically crime means illegal acts punishable by law. Don't confuse moral wrongness with criminality!
 

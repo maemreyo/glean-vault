@@ -194,9 +194,8 @@ Analyze the phrasal verb family of **hand out**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **hands out**?
+🕵️ **Fix the Error:** The teacher hand out the lyrics to students.
 ?
-> ❌ **Mistake:** The teacher hand out the lyrics to students.
 > ✅ **Correction:** The teacher hands out the lyrics to students.
 > 🧠 **Why:** Cần đúng tense (3rd person singular -s) và phrasal verb có thể tách rời nhưng giữ nguyên nghĩa - đây là lỗi grammar phổ biến
 

@@ -192,9 +192,8 @@ Analyze the root/family of **beyond**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **beyond**?
+🕵️ **Fix the Error:** "This task is beyond of my abilities."
 ?
-> ❌ **Mistake:** "This task is beyond of my abilities."
 > ✅ **Correction:** "This task is beyond my abilities."
 > 🧠 **Why:** No "of" needed - beyond is preposition, directly followed by noun
 

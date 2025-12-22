@@ -193,9 +193,8 @@ Analyze the root/family of **immediately**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **immediately**?
+🕵️ **Fix the Error:** I will immediately to call you when I arrive.
 ?
-> ❌ **Mistake:** I will immediately to call you when I arrive.
 > ✅ **Correction:** I will call you immediately when I arrive.
 > 🧠 **Why:** 'Immediately' is an adverb and should not be placed between 'will' and the bare infinitive 'to call'
 

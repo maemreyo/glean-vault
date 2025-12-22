@@ -195,9 +195,8 @@ Analyze the root/family of **tardigrade**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **tardigrade**?
+🕵️ **Fix the Error:** "The tardigrades are amazing microscopics." (adjective error)
 ?
-> ❌ **Mistake:** "The tardigrades are amazing microscopics." (adjective error)
 > ✅ **Correction:** "The tardigrades are amazing microscopic organisms."
 > 🧠 **Why:** "Microscopic" là adjective, "microscopics" isn't a word. Describe organisms là microscopic, don't use as noun.
 

@@ -195,9 +195,8 @@ Analyze the root/family of **canal**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **canal**?
+🕵️ **Fix the Error:** "The canal flowed naturally through the valley"
 ?
-> ❌ **Mistake:** "The canal flowed naturally through the valley"
 > ✅ **Correction:** "The canal was constructed through the valley"
 > 🧠 **Why:** Canals are artificial, not natural waterways
 

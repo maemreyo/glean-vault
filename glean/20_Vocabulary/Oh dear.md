@@ -191,9 +191,8 @@ Analyze the root/family of **Oh dear**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **Oh dear**?
+🕵️ **Fix the Error:** Oh dear, I won the lottery! (using for good news)
 ?
-> ❌ **Mistake:** Oh dear, I won the lottery! (using for good news)
 > ✅ **Correction:** Oh wonderful! I won the lottery!
 > 🧠 **Why:** Oh dear chỉ dùng cho bad or disappointing news, không dùng cho good news
 

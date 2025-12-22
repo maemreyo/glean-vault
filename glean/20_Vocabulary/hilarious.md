@@ -195,9 +195,8 @@ Analyze the root/family of **hilarious**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **hilarious**?
+🕵️ **Fix the Error:** The presentation was quite **hilarious**.
 ?
-> ❌ **Mistake:** The presentation was quite **hilarious**.
 > ✅ **Correction:** The presentation was **amusing** or **funny**.
 > 🧠 **Why:** Hilarious nghĩa là cực kỳ hài hước, không nên dùng cho những thứ chỉ vui nhẹ
 

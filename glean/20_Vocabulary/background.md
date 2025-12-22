@@ -194,9 +194,8 @@ Analyze the root/family of **background**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **background**?
+🕵️ **Fix the Error:** "Please tell me about your back ground"
 ?
-> ❌ **Mistake:** "Please tell me about your back ground"
 > ✅ **Correction:** "Please tell me about your background"
 > 🧠 **Why:** Always one word - never separate "back" and "ground"
 

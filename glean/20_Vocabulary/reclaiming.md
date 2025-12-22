@@ -198,9 +198,8 @@ Analyze the root/family of **reclaiming**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **reclaiming**?
+🕵️ **Fix the Error:** "I'm reclaiming that this is the best solution." (confusing with "claim")
 ?
-> ❌ **Mistake:** "I'm reclaiming that this is the best solution." (confusing with "claim")
 > ✅ **Correction:** "I'm claiming this is the best solution." OR "We're **reclaiming** our right to participate."
 > 🧠 **Why:** "Reclaiming" always implies getting something back that was previously yours or lost; "claim" is for stating or asserting something.
 

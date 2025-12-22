@@ -195,9 +195,8 @@ Analyze the root/family of **a group of neurons**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a group of neurons**?
+🕵️ **Fix the Error:** "The brain have billions of group of neurons."
 ?
-> ❌ **Mistake:** "The brain have billions of group of neurons."
 > ✅ **Correction:** "The brain has billions of groups of neurons."
 > 🧠 **Why:** Khi "group" đứng sau "billions" cần plural form "groups". "Brain" là singular noun cần "has".
 

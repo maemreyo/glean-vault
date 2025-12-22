@@ -194,9 +194,8 @@ Analyze the root/family of **relatively**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **relatively**?
+🕵️ **Fix the Error:** "This is relatively the best restaurant in town."
 ?
-> ❌ **Mistake:** "This is relatively the best restaurant in town."
 > ✅ **Correction:** "This is relatively good for a budget restaurant" OR "This is one of the better restaurants in town."
 > 🧠 **Why:** "Relatively" modifies gradable adjectives (good, expensive, difficult), không dùng với superlatives (best).
 

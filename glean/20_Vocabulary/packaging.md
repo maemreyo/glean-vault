@@ -194,9 +194,8 @@ Analyze the root/family of **packaging**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **packaging**?
+🕵️ **Fix the Error:** We need to improve our packagings to compete better.
 ?
-> ❌ **Mistake:** We need to improve our packagings to compete better.
 > ✅ **Correction:** We need to improve our packaging to compete better. / We need to improve our packaging designs.
 > 🧠 **Why:** Packaging là uncountable noun. Dùng 'types of packaging' hoặc 'packaging designs' để nói về variations
 

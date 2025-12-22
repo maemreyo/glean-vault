@@ -192,9 +192,8 @@ Analyze the root/family of **dementia**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **dementia**?
+🕵️ **Fix the Error:** "My teenager has dementia because they're always distracted."
 ?
-> ❌ **Mistake:** "My teenager has dementia because they're always distracted."
 > ✅ **Correction:** "My teenager has difficulty concentrating" or "My grandmother has dementia."
 > 🧠 **Why:** Dementia is a serious medical condition in elderly, not teen distraction. Use appropriate terms.
 

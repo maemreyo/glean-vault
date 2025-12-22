@@ -194,9 +194,8 @@ Analyze the root/family of **confidentiality**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **confidentiality**?
+🕵️ **Fix the Error:** " confidentiality is important when I'm changing clothes."
 ?
-> ❌ **Mistake:** " confidentiality is important when I'm changing clothes."
 > ✅ **Correction:** "Privacy is important when I'm changing clothes."
 > 🧠 **Why:** Privacy is about your personal space and information. Confidentiality is about protecting information others have shared with you in trust!
 

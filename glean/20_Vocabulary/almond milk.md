@@ -182,9 +182,8 @@ Analyze the root/family of **almond milk**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **almond milk**?
+🕵️ **Fix the Error:** I need to buy some almond milks
 ?
-> ❌ **Mistake:** I need to buy some almond milks
 > ✅ **Correction:** I need to buy some cartons/bottles of almond milk
 > 🧠 **Why:** "Almond milk" là uncountable noun, cần dùng unit words để chỉ số lượng
 

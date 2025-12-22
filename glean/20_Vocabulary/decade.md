@@ -192,9 +192,8 @@ Analyze the root/family of **decade**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **decade**?
+🕵️ **Fix the Error:** The 1990 decade was great for music.
 ?
-> ❌ **Mistake:** The 1990 decade was great for music.
 > ✅ **Correction:** The 1990s decade was great for music. / The decade of the 1990s was great for music.
 > 🧠 **Why:** When referring to specific decades, use plural form (1990s) or 'decade of the 1990s', not '1990 decade'
 

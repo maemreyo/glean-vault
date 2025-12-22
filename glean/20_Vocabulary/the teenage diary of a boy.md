@@ -193,9 +193,8 @@ Analyze the root/family of **the teenage diary of a boy**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **the teenage diary of a boy**?
+🕵️ **Fix the Error:** "The teenage diary of a boy contain secrets"
 ?
-> ❌ **Mistake:** "The teenage diary of a boy contain secrets"
 > ✅ **Correction:** "The teenage diary of a boy contains secrets" OR "A teenage boy's diary contains secrets"
 > 🧠 **Why:** The diary (singular) needs a singular verb 'contains', not 'contain'
 

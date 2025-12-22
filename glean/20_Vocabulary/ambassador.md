@@ -195,9 +195,8 @@ Analyze the root/family of **ambassador**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **ambassador**?
+🕵️ **Fix the Error:** "The ambassador of France" (wrong preposition)
 ?
-> ❌ **Mistake:** "The ambassador of France" (wrong preposition)
 > ✅ **Correction:** "The ambassador to France" OR "The French ambassador"
 > 🧠 **Why:** "of" indicates nationality, "to" indicates posting location. Cannot use both prepositions together.
 

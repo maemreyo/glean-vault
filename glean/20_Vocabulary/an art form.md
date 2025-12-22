@@ -195,9 +195,8 @@ Analyze the root/family of **an art form**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **an art form**?
+🕵️ **Fix the Error:** "Making coffee is an art form" (Quá cường điệu cho việc đơn giản)
 ?
-> ❌ **Mistake:** "Making coffee is an art form" (Quá cường điệu cho việc đơn giản)
 > ✅ **Correction:** "Specialty coffee brewing can be an art form when done with expertise and creativity"
 > 🧠 **Why:** "Art form" đòi hỏi trình độ cao và yếu tố nghệ thuật thực sự, không nên dùng cho mọi hoạt động thông thường
 

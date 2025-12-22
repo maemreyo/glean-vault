@@ -194,9 +194,8 @@ Analyze the root/family of **remove**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **remove**?
+🕵️ **Fix the Error:** Can you remove out this table?
 ?
-> ❌ **Mistake:** Can you remove out this table?
 > ✅ **Correction:** Can you remove this table?
 > 🧠 **Why:** "Remove" đã bao hàm ý "take out", không cần thêm "out". Thêm "out" gây redundant và không tự nhiên.
 

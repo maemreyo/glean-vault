@@ -194,9 +194,8 @@ Analyze the components of **a keystone species**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a keystone species**?
+🕵️ **Fix the Error:** Lions are keystone species because they are the biggest predators
 ?
-> ❌ **Mistake:** Lions are keystone species because they are the biggest predators
 > ✅ **Correction:** Lions may be keystone species because they control herbivore populations, not because they're big
 > 🧠 **Why:** Keystone status comes from ecological impact, not size or strength
 

@@ -196,9 +196,8 @@ Analyze the root/family of **watches**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **watches**?
+🕵️ **Fix the Error:** "She watch TV every evening."
 ?
-> ❌ **Mistake:** "She watch TV every evening."
 > ✅ **Correction:** "She watches TV every evening."
 > 🧠 **Why:** Động từ với chủ ngữ số ít thứ ba (she/he/it) phải thêm "-es" ở thì hiện tại đơn - "watch" → "watches"
 

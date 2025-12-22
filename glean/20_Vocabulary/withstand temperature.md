@@ -194,9 +194,8 @@ Analyze the root/family of **withstand temperature**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **withstand temperature**?
+🕵️ **Fix the Error:** The coating protects against and withstands to high temperatures.
 ?
-> ❌ **Mistake:** The coating protects against and withstands to high temperatures.
 > ✅ **Correction:** The coating protects against and withstands high temperatures.
 > 🧠 **Why:** 'Withstand' là transitive verb, trực tiếp đi với object mà không cần preposition 'to'
 

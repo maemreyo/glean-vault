@@ -182,9 +182,8 @@ Analyze the root/family of **robbery**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **robbery**?
+🕵️ **Fix the Error:** "The thief committed robbery by breaking into the empty house"
 ?
-> ❌ **Mistake:** "The thief committed robbery by breaking into the empty house"
 > ✅ **Correction:** "The thief committed burglary by breaking into the empty house"
 > 🧠 **Why:** Robbery requires victim presence & confrontation; empty house = burglary (không có đối đầu).
 

@@ -183,9 +183,8 @@ Analyze the root/family of **smoothly**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **smoothly**?
+🕵️ **Fix the Error:** The presentation went very smooth
 ?
-> ❌ **Mistake:** The presentation went very smooth
 > ✅ **Correction:** The presentation went very smoothly
 > 🧠 **Why:** "Went" là verb, cần adverb "smoothly" để修饰, không dùng adjective "smooth"
 

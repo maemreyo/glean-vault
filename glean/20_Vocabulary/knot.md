@@ -195,9 +195,8 @@ Analyze the root/family of **knot**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **knot**?
+🕵️ **Fix the Error:** I can't find my not for my shoelace.
 ?
-> ❌ **Mistake:** I can't find my not for my shoelace.
 > ✅ **Correction:** I can't find my knot for my shoelace.
 > 🧠 **Why:** "Not" (không) và "knot" (nút) là từ đồng âm nhưng khác nghĩa hoàn toàn
 

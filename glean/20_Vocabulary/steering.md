@@ -194,9 +194,8 @@ Analyze the root/family of **steering**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **steering**?
+🕵️ **Fix the Error:** Thank you for steering me in the right path.
 ?
-> ❌ **Mistake:** Thank you for steering me in the right path.
 > ✅ **Correction:** Thank you for steering me onto the right path.
 > 🧠 **Why:** Preposition đúng với steer là "onto", "toward", "away from" hoặc "through" - không dùng "in"
 

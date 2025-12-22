@@ -194,9 +194,8 @@ Analyze the root/family of **self-confidence**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **self-confidence**?
+🕵️ **Fix the Error:** "She has a great self-confidence in her abilities."
 ?
-> ❌ **Mistake:** "She has a great self-confidence in her abilities."
 > ✅ **Correction:** "She has great self-confidence in her abilities." OR "Her self-confidence in her abilities is great."
 > 🧠 **Why:** Self-confidence là uncountable noun, không dùng 'a/an' trước nó. Think của nó như water - có thể có 'much' hoặc 'little', nhưng không có 'a confidence'!
 

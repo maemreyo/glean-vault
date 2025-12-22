@@ -194,9 +194,8 @@ Analyze the root/family of **reassuring**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **reassuring**?
+🕵️ **Fix the Error:** "The news was very un-reassuring" (tiêu cực kép khó hiểu)
 ?
-> ❌ **Mistake:** "The news was very un-reassuring" (tiêu cực kép khó hiểu)
 > ✅ **Correction:** "The news was worrying" hoặc "The news was not reassuring"
 > 🧠 **Why:** Tiếng Anh tránh phủ định kép - "un-reassuring" vừa khó hiểu vừa không tự nhiên
 

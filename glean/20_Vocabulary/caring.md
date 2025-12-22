@@ -195,9 +195,8 @@ Analyze the root/family of **caring**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **caring**?
+🕵️ **Fix the Error:** "Be caring when crossing the street."
 ?
-> ❌ **Mistake:** "Be caring when crossing the street."
 > ✅ **Correction:** "Be careful when crossing the street."
 > 🧠 **Why:** "Caring" = showing concern for others; "Careful" = taking precautions to avoid danger. Don't mix up these look-alikes!
 <!--SR:!2025-12-26,4,275-->

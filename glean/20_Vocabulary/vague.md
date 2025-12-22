@@ -194,9 +194,8 @@ Analyze the root/family of **vague**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **vague**?
+🕵️ **Fix the Error:** "The directions were vague because they pointed two ways."
 ?
-> ❌ **Mistake:** "The directions were vague because they pointed two ways."
 > ✅ **Correction:** "The directions were ambiguous because they pointed two ways."
 > 🧠 **Why:** "Vague" = not enough detail; "Ambiguous" = multiple possible meanings. Don't confuse lack of clarity with multiple interpretations!
 

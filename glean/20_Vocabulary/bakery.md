@@ -194,9 +194,8 @@ Analyze the root/family of **bakery**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **bakery**?
+🕵️ **Fix the Error:** I love eating bakery.
 ?
-> ❌ **Mistake:** I love eating bakery.
 > ✅ **Correction:** I love eating baked goods from the bakery. / I love going to the bakery.
 > 🧠 **Why:** Bakery là place, không phải food. Bạn eat bakery products FROM bakery hoặc go TO bakery
 

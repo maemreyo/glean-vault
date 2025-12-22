@@ -195,9 +195,8 @@ Analyze the root/family of **genre**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **genre**?
+🕵️ **Fix the Error:** "What genres of music do you like?" (plural correct nhưng pronunciation sai)
 ?
-> ❌ **Mistake:** "What genres of music do you like?" (plural correct nhưng pronunciation sai)
 > ✅ **Correction:** Pronounce as /ˈʒɒ̃rə/ không phải /ˈdʒenrə/
 > 🧠 **Why:** Keep French pronunciation - soft 'zh' sound và nasal vowel sound, không hard 'j' sound của English.
 

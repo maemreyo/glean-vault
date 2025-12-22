@@ -183,9 +183,8 @@ Analyze the root/family of **political reason**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **political reason**?
+🕵️ **Fix the Error:** There were many political reason behind the decision
 ?
-> ❌ **Mistake:** There were many political reason behind the decision
 > ✅ **Correction:** There were many political reasons behind the decision
 > 🧠 **Why:** "Reason" thường đi ở plural form khi nói về multiple considerations trong political context
 

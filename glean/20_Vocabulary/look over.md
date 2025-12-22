@@ -194,9 +194,8 @@ Analyze the components of **look over**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **look over**?
+🕵️ **Fix the Error:** I need to look over them this report
 ?
-> ❌ **Mistake:** I need to look over them this report
 > ✅ **Correction:** I need to look over this report / I need to look this report over
 > 🧠 **Why:** Đặt tân ngữ sai chỗ hoặc dùng sai đại từ - có thể nói 'look over + object' hoặc 'look + object + over'
 

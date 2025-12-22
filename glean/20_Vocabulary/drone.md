@@ -193,9 +193,8 @@ Analyze the root/family of **drone**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **drone**?
+🕵️ **Fix the Error:** The army send a drone to scout.
 ?
-> ❌ **Mistake:** The army send a drone to scout.
 > ✅ **Correction:** The army sent a drone to scout.
 > 🧠 **Why:** Quá khứ phân từ của "send" là "sent", không phải "send". Cần chia đúng thì quá khứ đơn.
 

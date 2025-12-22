@@ -194,9 +194,8 @@ Analyze the root/family of **illustration**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **illustration**?
+🕵️ **Fix the Error:** The teacher illustrationed the concept on the board.**
 ?
-> ❌ **Mistake:** The teacher illustrationed the concept on the board.**
 > ✅ **Correction:** The teacher illustrated the concept on the board. / The teacher used an illustration to explain the concept.**
 > 🧠 **Why:** 'Illustration' là noun, verb là 'illustrated'. Đây là common confusion giữa noun và verb forms**
 

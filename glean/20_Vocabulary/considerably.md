@@ -194,9 +194,8 @@ Analyze the root/family of **considerably**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **considerably**?
+🕵️ **Fix the Error:** She is considerably beautiful
 ?
-> ❌ **Mistake:** She is considerably beautiful
 > ✅ **Correction:** She is exceptionally beautiful / She is very beautiful
 > 🧠 **Why:** 'Beautiful' là absolute adjective - không có degrees. Dùng 'very' hoặc 'exceptionally' thay vì 'considerably'
 

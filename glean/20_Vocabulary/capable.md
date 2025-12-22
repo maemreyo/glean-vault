@@ -194,9 +194,8 @@ Analyze the root/family of **capable**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **capable**?
+🕵️ **Fix the Error:** This machine is capable to process data faster.**
 ?
-> ❌ **Mistake:** This machine is capable to process data faster.**
 > ✅ **Correction:** This machine is capable of processing data faster.**
 > 🧠 **Why:** 'Capable' luôn theo sau bởi 'of' + gerund (verb-ing), không phải 'to' + verb. Đây là grammar rule cần nhớ**
 

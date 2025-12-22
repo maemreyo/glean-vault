@@ -195,9 +195,8 @@ Analyze the root/family of **rescue**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **rescue**?
+🕵️ **Fix the Error:** "The firefighters rescued the people of the fire."
 ?
-> ❌ **Mistake:** "The firefighters rescued the people of the fire."
 > ✅ **Correction:** "The firefighters rescued the people from the fire."
 > 🧠 **Why:** Với 'rescue', luôn dùng giới từ 'from' để chỉ nguồn gốc của nguy hiểm, không phải 'of'
 

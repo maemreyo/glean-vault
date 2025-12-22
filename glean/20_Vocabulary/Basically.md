@@ -195,9 +195,8 @@ Analyze the root/family of **Basically**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **Basically**?
+🕵️ **Fix the Error:** "Basically, I think maybe we should go."
 ?
-> ❌ **Mistake:** "Basically, I think maybe we should go."
 > ✅ **Correction:** "I think we should go." OR "Basically, we should go."
 > 🧠 **Why:** Tránh dùng "basically" với các từ do dự khác như "I think maybe" - nó làm câu văn yếu đi
 

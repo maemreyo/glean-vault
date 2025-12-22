@@ -194,9 +194,8 @@ Analyze the root/family of **clay**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **clay**?
+🕵️ **Fix the Error:** "I bought some beautiful clay dishes for my kitchen."
 ?
-> ❌ **Mistake:** "I bought some beautiful clay dishes for my kitchen."
 > ✅ **Correction:** "I bought some beautiful ceramic dishes for my kitchen." OR "I bought some beautiful pottery for my kitchen."
 > 🧠 **Why:** Clay là raw material trước khi fired. Sau khi fired trong kiln, nó becomes 'ceramic' hoặc 'pottery'. Không ai nói 'clay dishes' - như nói 'wood furniture' chưa hoàn thiện!
 

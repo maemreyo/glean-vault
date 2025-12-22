@@ -199,9 +199,8 @@ Analyze the root/family of **suspect**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **suspect**?
+🕵️ **Fix the Error:** "I suspect that he is the murder."
 ?
-> ❌ **Mistake:** "I suspect that he is the murder."
 > ✅ **Correction:** "I suspect that he is the murderer."
 > 🧠 **Why:** "murder" là the crime (hành động), "murderer" là the person who commits it (người phạm tội). Common ESL confusion.
 

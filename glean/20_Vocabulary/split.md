@@ -196,9 +196,8 @@ Analyze the root/family of **split**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **split**?
+🕵️ **Fix the Error:** We splitted the group yesterday.
 ?
-> ❌ **Mistake:** We splitted the group yesterday.
 > ✅ **Correction:** We split the group yesterday.
 > 🧠 **Why:** "Split" là irregular verb - present/past/past participle đều là "split", không thêm "-ed"
 

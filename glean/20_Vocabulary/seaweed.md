@@ -194,9 +194,8 @@ Analyze the compound **seaweed**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **seaweed**?
+🕵️ **Fix the Error:** I bought three fresh seaweeds at the market.
 ?
-> ❌ **Mistake:** I bought three fresh seaweeds at the market.
 > ✅ **Correction:** I bought some fresh seaweed at the market.
 > 🧠 **Why:** 'Seaweed' is usually uncountable when referring to food/ingredient. Use plural only when talking about different types.
 

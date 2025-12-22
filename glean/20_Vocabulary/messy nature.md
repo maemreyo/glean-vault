@@ -193,9 +193,8 @@ Analyze the root/family of **messy nature**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **messy nature**?
+🕵️ **Fix the Error:** "She has messy nature."
 ?
-> ❌ **Mistake:** "She has messy nature."
 > ✅ **Correction:** "She has a messy nature."
 > 🧠 **Why:** Article rule: Always use article "a" before "messy nature" as it's a singular countable noun phrase.
 

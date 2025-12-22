@@ -194,9 +194,8 @@ Analyze the root/family of **savannas**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **savannas**?
+🕵️ **Fix the Error:** The Amazon rainforest is surrounded by savannas
 ?
-> ❌ **Mistake:** The Amazon rainforest is surrounded by savannas
 > ✅ **Correction:** The Amazon rainforest is bordered by tropical savannas in some regions
 > 🧠 **Why:** Amazon rainforest chủ yếu surrounded bởi 'rainforest' và 'transitional forests', không phải 'savannas'
 

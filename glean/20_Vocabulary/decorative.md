@@ -194,9 +194,8 @@ Analyze the root/family of **decorative**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **decorative**?
+🕵️ **Fix the Error:** "The pillow is very decoration"
 ?
-> ❌ **Mistake:** "The pillow is very decoration"
 > ✅ **Correction:** "The pillow is very decorative" OR "The pillow is a beautiful decoration"
 > 🧱 **Why:** "Decorative" là adjective describes noun, "decoration" là noun chỉ object itself - không thể mix chúng.
 

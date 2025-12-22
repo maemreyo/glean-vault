@@ -191,9 +191,8 @@ Analyze the structure of **it takes your mind off things**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **it takes your mind off things**?
+🕵️ **Fix the Error:** "This game takes my mind off from my problems."
 ?
-> ❌ **Mistake:** "This game takes my mind off from my problems."
 > ✅ **Correction:** "This game takes my mind off my problems."
 > 🧠 **Why:** Không cần 'from' - 'off' đã hoàn thành ý rời bỏ
 

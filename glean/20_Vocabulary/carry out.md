@@ -198,9 +198,8 @@ Analyze the root/family of **carry out**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **carry out**?
+🕵️ **Fix the Error:** "We need to carry out on this project immediately."
 ?
-> ❌ **Mistake:** "We need to carry out on this project immediately."
 > ✅ **Correction:** "We need to carry out this project immediately."
 > 🧠 **Why:** "Carry out" is transitive and doesn't need "on" before the object (VN: "carry out" là động từ chuyển tiếp, không cần "on" trước tân ngữ)
 

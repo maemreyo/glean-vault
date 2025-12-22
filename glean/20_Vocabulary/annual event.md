@@ -200,9 +200,8 @@ Analyze the root/family of **annual event**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **annual event**?
+🕵️ **Fix the Error:** "Our annual event happens quarterly" (contradicting timeframe)
 ?
-> ❌ **Mistake:** "Our annual event happens quarterly" (contradicting timeframe)
 > ✅ **Correction:** "Our quarterly event happens four times a year" or "Our annual event happens once a year"
 > 🧠 **Why:** Annual specifically means once per year. Don't mix up time units! Annual = 1x/year, Quarterly = 4x/year, Monthly = 12x/year.
 

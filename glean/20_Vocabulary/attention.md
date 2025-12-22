@@ -194,9 +194,8 @@ Analyze the root/family of **attention**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **attention**?
+🕵️ **Fix the Error:** Thank you for your attentions during my visit.
 ?
-> ❌ **Mistake:** Thank you for your attentions during my visit.
 > ✅ **Correction:** Thank you for your attention during my visit.
 > 🧠 **Why:** 'Attention' is usually uncountable when referring to mental focus. (Exception: 'attentions' can mean romantic courting gestures)
 

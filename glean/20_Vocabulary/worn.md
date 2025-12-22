@@ -198,9 +198,8 @@ Analyze the root/family of **worn**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **worn**?
+🕵️ **Fix the Error:** "My shoes are very worned"
 ?
-> ❌ **Mistake:** "My shoes are very worned"
 > ✅ **Correction:** "My shoes are very worn"
 > 🧠 **Why:** Worn là past participle, không thêm -ed
 

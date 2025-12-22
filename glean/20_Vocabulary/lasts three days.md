@@ -197,9 +197,8 @@ Analyze the root/family of **lasts three days**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **lasts three days**?
+🕵️ **Fix the Error:** The meeting will be lasting three days.
 ?
-> ❌ **Mistake:** The meeting will be lasting three days.
 > ✅ **Correction:** The meeting will last three days.
 > 🧠 **Why:** After 'will', use base form 'last', not 'lasting'
 

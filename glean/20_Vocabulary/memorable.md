@@ -194,9 +194,8 @@ Analyze the root/family of **memorable**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **memorable**?
+🕵️ **Fix the Error:** "The movie was very memorably."
 ?
-> ❌ **Mistake:** "The movie was very memorably."
 > ✅ **Correction:** "The movie was very memorable." OR "I memorably enjoyed the movie."
 > 🧠 **Why:** Memorable là adjective, không phải adverb. Don't add '-ly' to it. 'Memorably' exists but used differently: "The actor memorably delivered his lines."
 

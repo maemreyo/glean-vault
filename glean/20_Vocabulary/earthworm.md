@@ -193,9 +193,8 @@ Analyze the root/family of **earthworm**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **earthworm**?
+🕵️ **Fix the Error:** The earthworm is an dangerous parasite that can harm humans.
 ?
-> ❌ **Mistake:** The earthworm is an dangerous parasite that can harm humans.
 > ✅ **Correction:** Earthworms are beneficial soil organisms that rarely harm humans.
 > 🧠 **Why:** Không confuse earthworm (beneficial) với parasitic worms. Earthworm là terrestrial decomposer, không phải parasite.
 

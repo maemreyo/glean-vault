@@ -194,9 +194,8 @@ Analyze the root/family of **cousin**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **cousin**?
+🕵️ **Fix the Error:** "My sister's son is my cousin"
 ?
-> ❌ **Mistake:** "My sister's son is my cousin"
 > ✅ **Correction:** "My sister's son is my nephew"
 > 🧠 **Why:** Cousins share grandparents, nephews/nieces share your parents' generation
 

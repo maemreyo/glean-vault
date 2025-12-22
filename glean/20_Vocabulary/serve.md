@@ -195,9 +195,8 @@ Analyze the root/family of **serve**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **serve**?
+🕵️ **Fix the Error:** "The waiter serves to the customers."
 ?
-> ❌ **Mistake:** "The waiter serves to the customers."
 > ✅ **Correction:** "The waiter serves the customers." OR "The waiter serves food to the customers."
 > 🧠 **Why:** Khi phục vụ trực tiếp một người, không cần giới từ 'to'. Khi phục vụ một thứ gì đó cho ai đó, mới dùng 'serve something to someone'
 

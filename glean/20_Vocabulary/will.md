@@ -181,9 +181,8 @@ Analyze the root/family of **will**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **will**?
+🕵️ **Fix the Error:** "I will to go home now."
 ?
-> ❌ **Mistake:** "I will to go home now."
 > ✅ **Correction:** "I will go home now."
 > 🧠 **Why:** "Will" is a modal auxiliary verb, followed directly by the base form of the main verb without "to".
 

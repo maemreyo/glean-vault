@@ -193,9 +193,8 @@ Analyze the root/family of **mark**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **mark**?
+🕵️ **Fix the Error:** "The teacher marked me absent today."
 ?
-> ❌ **Mistake:** "The teacher marked me absent today."
 > ✅ **Correction:** "The teacher marked me as absent today" or "The teacher marked me absent."
 > 🧠 **Why:** In American English, use "marked [someone] absent" or "marked [someone] as absent". Not "marked me absent today" at end.
 

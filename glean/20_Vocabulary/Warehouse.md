@@ -196,9 +196,8 @@ Analyze the root/family of **warehouse**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **warehouse**?
+🕵️ **Fix the Error:** The wherehouse stores inventory.
 ?
-> ❌ **Mistake:** The wherehouse stores inventory.
 > ✅ **Correction:** The warehouse stores inventory.
 > 🧠 **Why:** 'Warehouse' comes from 'wares' (goods), not 'where' (location)
 

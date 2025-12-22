@@ -187,9 +187,8 @@ Analyze the root/family of **a well-known author**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a well-known author**?
+🕵️ **Fix the Error:** "The book was written by an author well-known"
 ?
-> ❌ **Mistake:** "The book was written by an author well-known"
 > ✅ **Correction:** "The book was written by a well-known author"
 > 🧠 **Why:** Well-known is a compound adjective that comes BEFORE the noun - hyphenated when used as a single adjective unit.
 

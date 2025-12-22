@@ -199,9 +199,8 @@ Analyze the root/family of **depression**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **depression**?
+🕵️ **Fix the Error:** "The movie was so depression that I cried."
 ?
-> ❌ **Mistake:** "The movie was so depression that I cried."
 > ✅ **Correction:** "The movie was so depressing that I cried."
 > 🧠 **Why:** 'Depression' là noun (the condition), 'depressing' là adjective (causing the feeling). Movie có thể 'depressing' nhưng không thể 'depression'!
 

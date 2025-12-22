@@ -195,9 +195,8 @@ Analyze the root/family of **agenda**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **agenda**?
+🕵️ **Fix the Error:** What are the agendas for today?
 ?
-> ❌ **Mistake:** What are the agendas for today?
 > ✅ **Correction:** What is the agenda for today?
 > 🧠 **Why:** "Agenda" là danh từ tập hợp số ít trong tiếng Anh hiện đại, dù bắt nguồn từ số nhiều trong Latin
 

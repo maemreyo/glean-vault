@@ -197,9 +197,8 @@ Analyze the root/family of **oat milk**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **oat milk**?
+🕵️ **Fix the Error:** "Can I have two oat milks in my coffee?"
 ?
-> ❌ **Mistake:** "Can I have two oat milks in my coffee?"
 > ✅ **Correction:** "Can I have oat milk in my coffee?" hoặc "Can I have two cartons of oat milk?"
 > 🧠 **Why:** Oat milk là uncountable noun, không có số nhiều. Khi đếm, cần dùng đơn vị chứa: cartons, bottles, cups.
 

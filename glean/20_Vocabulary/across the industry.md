@@ -182,9 +182,8 @@ Analyze the root/family of **across the industry**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **across the industry**?
+🕵️ **Fix the Error:** This policy will affect across the tech industry
 ?
-> ❌ **Mistake:** This policy will affect across the tech industry
 > ✅ **Correction:** This policy will affect companies across the tech industry
 > 🧠 **Why:** "Across the industry" is a prepositional phrase modifying nouns, not acting as a direct object
 

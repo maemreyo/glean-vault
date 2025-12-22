@@ -193,9 +193,8 @@ Analyze the root/family of **eager to**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **eager to**?
+🕵️ **Fix the Error:** He is eager for help his parents
 ?
-> ❌ **Mistake:** He is eager for help his parents
 > ✅ **Correction:** He is eager to help his parents. / He is eager for helping his parents.
 > 🧠 **Why:** Cấu trúc chuẩn là 'eager to + verb' (động từ nguyên thể) hoặc 'eager for + noun/noun phrase'
 

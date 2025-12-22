@@ -191,9 +191,8 @@ Analyze the root/family of **toddler**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **toddler**?
+🕵️ **Fix the Error:** "My 6-month-old daughter is such an active toddler."
 ?
-> ❌ **Mistake:** "My 6-month-old daughter is such an active toddler."
 > ✅ **Correction:** "My 6-month-old daughter is an active baby."
 > 🧠 **Why:** Toddler phải đã biết đi, 6 tháng còn quá nhỏ - phải dùng baby
 

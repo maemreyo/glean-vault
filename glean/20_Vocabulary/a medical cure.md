@@ -195,9 +195,8 @@ Analyze the root/family of **a medical cure**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a medical cure**?
+🕵️ **Fix the Error:** This pill is a medical cure for the common cold
 ?
-> ❌ **Mistake:** This pill is a medical cure for the common cold
 > ✅ **Correction:** This pill helps treat symptoms of the common cold
 > 🧠 **Why:** Most colds are viral and self-limiting - we "treat" symptoms but don't "cure" the common cold
 

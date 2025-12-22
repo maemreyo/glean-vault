@@ -198,9 +198,8 @@ Analyze the root/family of **variety**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **variety**?
+🕵️ **Fix the Error:** The garden has a great varieties of flowers.
 ?
-> ❌ **Mistake:** The garden has a great varieties of flowers.
 > ✅ **Correction:** The garden has a great variety of flowers. OR The garden has many varieties of flowers.
 > 🧠 **Why:** 'Variety' is uncountable when referring to general diversity; use plural 'varieties' only when counting specific, distinct types
 

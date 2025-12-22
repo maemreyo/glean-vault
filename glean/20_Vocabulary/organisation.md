@@ -195,9 +195,8 @@ Analyze the root/family of **organisation**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **organisation**?
+🕵️ **Fix the Error:** The organisation have many employees.
 ?
-> ❌ **Mistake:** The organisation have many employees.
 > ✅ **Correction:** The organisation has many employees.
 > 🧠 **Why:** 'Organisation' là singular noun, dù kết thúc bằng -s, nó vẫn takes singular verb. 'Organisations' mới là plural form.
 

@@ -197,9 +197,8 @@ Analyze the components of **Michelin-starred restaurant**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **Michelin-starred restaurant**?
+🕵️ **Fix the Error:** Forgetting the hyphen in "Michelin-starred"
 ?
-> ❌ **Mistake:** Forgetting the hyphen in "Michelin-starred"
 > ✅ **Correction:** Always use hyphen in compound adjectives before nouns
 > 🧠 **Why:** It's a compound adjective modifying "restaurant"
 

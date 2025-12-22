@@ -194,9 +194,8 @@ Analyze the root/family of **underestimate**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **underestimate**?
+🕵️ **Fix the Error:** "Don't overestimate how difficult this is" (when meaning undervalue)
 ?
-> ❌ **Mistake:** "Don't overestimate how difficult this is" (when meaning undervalue)
 > ✅ **Correction:** "Don't underestimate how difficult this is"
 > 🧠 **Why:** "Under-" = too low, "Over-" = too high - opposite prefixes
 

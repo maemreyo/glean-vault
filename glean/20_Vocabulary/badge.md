@@ -192,9 +192,8 @@ Analyze the root/family of **badge**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **badge**?
+🕵️ **Fix the Error:** The scout earned ten different badges of camping
 ?
-> ❌ **Mistake:** The scout earned ten different badges of camping
 > ✅ **Correction:** The scout earned ten different camping badges
 > 🧠 **Why:** Khi badge dùng với tính từ mô tả, tính từ đứng TRƯỚC badge (camping badges) chứ không phải sau
 

@@ -196,9 +196,8 @@ Analyze the root/family of **produce**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **produce**?
+🕵️ **Fix the Error:** "The supermarket sells many produces"
 ?
-> ❌ **Mistake:** "The supermarket sells many produces"
 > ✅ **Correction:** "The supermarket sells much produce" or "The supermarket sells many types of produce"
 > 🧠 **Why:** 'Produce' (n) is uncountable when referring to farm products in general
 

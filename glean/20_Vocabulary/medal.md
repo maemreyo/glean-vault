@@ -193,9 +193,8 @@ Analyze the root/family of **medal**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **medal**?
+🕵️ **Fix the Error:** The champion will be medaled tomorrow
 ?
-> ❌ **Mistake:** The champion will be medaled tomorrow
 > ✅ **Correction:** The champion will receive a medal tomorrow
 > 🧠 **Why:** 'Medal' không thường được dùng như verb trong passive voice - 'receive a medal' là natural hơn
 

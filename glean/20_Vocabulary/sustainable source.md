@@ -193,9 +193,8 @@ Analyze the root/family of **sustainable source**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **sustainable source**?
+🕵️ **Fix the Error:** "Coal is a sustainable source because we have a lot of it."
 ?
-> ❌ **Mistake:** "Coal is a sustainable source because we have a lot of it."
 > ✅ **Correction:** "Coal is not a sustainable source because it will eventually run out."
 > 🧠 **Why:** "Sustainable" means renewable/infinite, not just abundant.
 

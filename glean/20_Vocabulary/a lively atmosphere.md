@@ -194,9 +194,8 @@ Analyze the root/family of **a lively atmosphere**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a lively atmosphere**?
+🕵️ **Fix the Error:** "The meeting had lively atmosphere" (Thiếu mạo từ)
 ?
-> ❌ **Mistake:** "The meeting had lively atmosphere" (Thiếu mạo từ)
 > ✅ **Correction:** "The meeting had a lively atmosphere"
 > 🧠 **Why:** "Atmosphere" trong ngữ cảnh này là danh từ đếm được, cần có mạo từ "a" trước nó. Đây là lỗi phổ biến của người học tiếng Việt
 

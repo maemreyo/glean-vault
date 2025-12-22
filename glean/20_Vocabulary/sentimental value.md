@@ -192,9 +192,8 @@ Analyze the root/family of **sentimental value**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **sentimental value**?
+🕵️ **Fix the Error:** This gift has sentimental value of $100.
 ?
-> ❌ **Mistake:** This gift has sentimental value of $100.
 > ✅ **Correction:** This gift has great sentimental value, though it only cost $100.
 > 🧠 **Why:** Sentimental value không measured bằng money. Nó là emotional worth, không phải monetary worth
 

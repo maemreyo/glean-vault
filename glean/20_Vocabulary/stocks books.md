@@ -193,9 +193,8 @@ Analyze the root/family of **stocks books**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **stocks books**?
+🕵️ **Fix the Error:** We need to order more stocks books
 ?
-> ❌ **Mistake:** We need to order more stocks books
 > ✅ **Correction:** We need to stock more books / We need more books in stock
 > 🧠 **Why:** Stock books là danh từ ghép chỉ trạng thái sẵn có, không phải là cái để 'order' trực tiếp
 

@@ -193,9 +193,8 @@ Analyze the root/family of **common sense**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **common sense**?
+🕵️ **Fix the Error:** "She has a lot of common senses"
 ?
-> ❌ **Mistake:** "She has a lot of common senses"
 > ✅ **Correction:** "She has a lot of common sense" OR "She has good common sense"
 > 🧠 **Why:** "Common sense" is uncountable (như "advice", "information"), không có plural form hoặc articles "a/an" khi nói về concept này.
 

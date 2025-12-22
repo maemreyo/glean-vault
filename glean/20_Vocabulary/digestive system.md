@@ -192,9 +192,8 @@ Analyze the root/family of **digestive system**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **digestive system**?
+🕵️ **Fix the Error:** "I have good digestions"
 ?
-> ❌ **Mistake:** "I have good digestions"
 > ✅ **Correction:** "I have good digestion" OR "I have a healthy digestive system"
 > 🧠 **Why:** Digestion is the process (uncountable), while digestive system is the set of organs
 

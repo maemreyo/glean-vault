@@ -200,9 +200,8 @@ Analyze the components of **live miles away from**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **live miles away from**?
+🕵️ **Fix the Error:** "I live miles away to the city center." (wrong preposition)
 ?
-> ❌ **Mistake:** "I live miles away to the city center." (wrong preposition)
 > ✅ **Correction:** "I **live miles away from** the city center."
 > 🧠 **Why:** When indicating separation or distance from a point, we use "from," not "to." "To" would indicate direction of movement toward a place.
 

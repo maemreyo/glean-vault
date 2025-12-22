@@ -192,9 +192,8 @@ Analyze the root/family of **biodegradable**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **biodegradable**?
+🕵️ **Fix the Error:** This product is biodegradeable
 ?
-> ❌ **Mistake:** This product is biodegradeable
 > ✅ **Correction:** This product is biodegradable
 > 🧠 **Why:** Spelling là 'bio' + 'degradable' - chỉ có một 'e' giữa hai root words, không phải 'biodegradeable'
 

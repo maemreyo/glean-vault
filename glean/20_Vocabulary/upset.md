@@ -194,9 +194,8 @@ Analyze the root/family of **upset**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **upset**?
+🕵️ **Fix the Error:** She was upsad about the test results**
 ?
-> ❌ **Mistake:** She was upsad about the test results**
 > ✅ **Correction:** She was upset about the test results**
 > 🧠 **Why:** 'Upset' là một irregular verb và adjective - không thay đổi dạng cho past tense hoặc comparative/superlative**
 

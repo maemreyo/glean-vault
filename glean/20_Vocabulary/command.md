@@ -197,9 +197,8 @@ Analyze the root/family of **command**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **command**?
+🕵️ **Fix the Error:** "The teacher commanded the students for being quiet"
 ?
-> ❌ **Mistake:** "The teacher commanded the students for being quiet"
 > ✅ **Correction:** "The teacher commanded the students to be quiet"
 > 🧠 **Why:** 'Command' is followed by 'to + infinitive', not 'for + gerund'
 

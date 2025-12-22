@@ -199,9 +199,8 @@ Analyze the root/family of **launch in favour of**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **launch in favour of**?
+🕵️ **Fix the Error:** "The committee launched the project in favor with the new approach."
 ?
-> ❌ **Mistake:** "The committee launched the project in favor with the new approach."
 > ✅ **Correction:** "The committee launched the project in favour of the new approach."
 > 🧠 **Why:** "In favour of" là một cụm từ cố định, luôn đi với giới từ "of" chứ không phải "with". Đây là collocation thông thường cần nhớ
 

@@ -195,9 +195,8 @@ Analyze the phrase **a separate cage**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a separate cage**?
+🕵️ **Fix the Error:** The animal is staying in separate cage.
 ?
-> ❌ **Mistake:** The animal is staying in separate cage.
 > ✅ **Correction:** The animal is staying in A separate cage.
 > 🧠 **Why:** Need article 'a' before 'separate cage' because it's a countable noun phrase. We specify which type: separate (not shared).
 

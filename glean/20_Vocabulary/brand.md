@@ -199,9 +199,8 @@ Analyze the root/family of **brand**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **brand**?
+🕵️ **Fix the Error:** "I love this brand's companies" (using brand for organization)
 ?
-> ❌ **Mistake:** "I love this brand's companies" (using brand for organization)
 > ✅ **Correction:** "I love this company's brands" or "I love this brand"
 > 🧠 **Why:** A company owns brands; brands don't own companies. Remember: company = organization, brand = product identity.
 

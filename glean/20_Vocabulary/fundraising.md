@@ -194,9 +194,8 @@ Analyze the root/family of **fundraising**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **fundraising**?
+🕵️ **Fix the Error:** We need to fundraising more money**
 ?
-> ❌ **Mistake:** We need to fundraising more money**
 > ✅ **Correction:** We need to fundraise more money. / We need to do more fundraising.**
 > 🧠 **Why:** 'Fundraising' là noun hoặc present participle, không thể dùng với 'to' nguyên thể. Dùng 'fundraise' as verb hoặc 'do fundraising' as noun phrase**
 

@@ -193,9 +193,8 @@ Analyze the root/family of **short-sighted**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **short-sighted**?
+🕵️ **Fix the Error:** "His shortsighted prevented him from seeing the big picture"
 ?
-> ❌ **Mistake:** "His shortsighted prevented him from seeing the big picture"
 > ✅ **Correction:** "His short-sightedness prevented him from seeing the big picture"
 > 🧠 **Why:** Short-sighted is the adjective, short-sightedness is the noun form meaning "the quality of being short-sighted"
 

@@ -197,9 +197,8 @@ Analyze the root/family of **grass**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **grass**?
+🕵️ **Fix the Error:** "Let's sit on the grasses"
 ?
-> ❌ **Mistake:** "Let's sit on the grasses"
 > ✅ **Correction:** "Let's sit on the grass"
 > 🧠 **Why:** Grass là không đếm được khi nói về bãi cỏ, đếm được khi nói về các loài
 

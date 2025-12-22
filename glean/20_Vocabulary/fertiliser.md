@@ -194,9 +194,8 @@ Analyze the root/family of **fertiliser**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **fertiliser**?
+🕵️ **Fix the Error:** "The plants need more fertiliser to grown"
 ?
-> ❌ **Mistake:** "The plants need more fertiliser to grown"
 > ✅ **Correction:** "The plants need more fertiliser to grow"
 > 🧠 **Why:** The verb is 'grow' (without 'n'), not 'grown' (which is the past participle)
 

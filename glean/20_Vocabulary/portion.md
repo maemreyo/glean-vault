@@ -194,9 +194,8 @@ Analyze the root/family of **portion**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **portion**?
+🕵️ **Fix the Error:** "I ate three portions of rices."
 ?
-> ❌ **Mistake:** "I ate three portions of rices."
 > ✅ **Correction:** "I ate three portions of rice."
 > 🧠 **Why:** 'Rice' is uncountable, but 'portion' makes it countable. Don't pluralize uncountable nouns when using with 'portion'.
 

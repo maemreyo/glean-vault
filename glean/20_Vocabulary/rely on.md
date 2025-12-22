@@ -192,9 +192,8 @@ Analyze the root/family of **rely on**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **rely on**?
+🕵️ **Fix the Error:** I rely to my parents for guidance.
 ?
-> ❌ **Mistake:** I rely to my parents for guidance.
 > ✅ **Correction:** I rely on my parents for guidance.
 > 🧠 **Why:** 'Rely on' is the correct phrasal verb - use 'on' as the preposition, not 'to'
 

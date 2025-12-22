@@ -196,9 +196,8 @@ Analyze the root/family of **in addition**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **in addition**?
+🕵️ **Fix the Error:** "In addition the car is fast and reliable."
 ?
-> ❌ **Mistake:** "In addition the car is fast and reliable."
 > ✅ **Correction:** "In addition, the car is fast and reliable." OR "The car is fast. In addition, it is reliable."
 > 🧠 **Why:** "In addition" at sentence beginning needs comma after it. It's a transition phrase requiring separation from main clause.
 

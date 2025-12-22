@@ -194,9 +194,8 @@ Analyze the root/family of **an alert**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **an alert**?
+🕵️ **Fix the Error:** "We received alert about the meeting"
 ?
-> ❌ **Mistake:** "We received alert about the meeting"
 > ✅ **Correction:** "We received an alert about the meeting"
 > 🧠 **Why:** "Alert" is a singular countable noun - requires article "an" before it
 

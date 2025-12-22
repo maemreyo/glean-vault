@@ -200,9 +200,8 @@ Analyze the root/family of **perhaps**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **perhaps**?
+🕵️ **Fix the Error:** "Perhaps if it rains, we will cancel the picnic."
 ?
-> ❌ **Mistake:** "Perhaps if it rains, we will cancel the picnic."
 > ✅ **Correction:** "If it rains, perhaps we will cancel the picnic." OR "Perhaps if it rains, we'll cancel the picnic."
 > 🧠 **Why:** Avoid double uncertainty. Use "perhaps" OR "if" for conditional, not both together in awkward construction
 

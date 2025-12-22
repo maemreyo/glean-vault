@@ -193,9 +193,8 @@ Analyze the root/family of **a range of emergency situations**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a range of emergency situations**?
+🕵️ **Fix the Error:** Our training covers range of emergency situations.
 ?
-> ❌ **Mistake:** Our training covers range of emergency situations.
 > ✅ **Correction:** Our training covers a range of emergency situations.
 > 🧠 **Why:** Luôn cần article "a" trước "range of" - đây là fixed expression, không thể bỏ "a"
 

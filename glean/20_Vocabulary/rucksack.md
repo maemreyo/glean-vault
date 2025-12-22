@@ -194,9 +194,8 @@ Analyze the root/family of **rucksack**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **rucksack**?
+🕵️ **Fix the Error:** My rucksacks is too heavy for long hikes.
 ?
-> ❌ **Mistake:** My rucksacks is too heavy for long hikes.
 > ✅ **Correction:** My rucksack is too heavy for long hikes. OR My rucksacks are too heavy for long hikes.
 > 🧠 **Why:** Subject-verb agreement: 'rucksack' (singular) needs 'is'; 'rucksacks' (plural) needs 'are'
 

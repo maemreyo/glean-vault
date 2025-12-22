@@ -195,9 +195,8 @@ Analyze the roots/family of **widespread**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **widespread**?
+🕵️ **Fix the Error:** "The disease is very widespread in Europe."
 ?
-> ❌ **Mistake:** "The disease is very widespread in Europe."
 > ✅ **Correction:** "The disease is widespread in Europe."
 > 🧠 **Why:** "Widespread" already implies "very widespread". Thêm "very" là redundant. Giống như nói "very unique".
 

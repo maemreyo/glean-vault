@@ -194,9 +194,8 @@ Analyze the root/family of **well known**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **well known**?
+🕵️ **Fix the Error:** "He is a well known scientist" (missing hyphen)
 ?
-> ❌ **Mistake:** "He is a well known scientist" (missing hyphen)
 > ✅ **Correction:** "He is a well-known scientist" (hyphen before noun)
 > 🧠 **Why:** Use hyphen when compound adjective comes before noun, no hyphen after verb
 

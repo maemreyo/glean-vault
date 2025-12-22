@@ -191,9 +191,8 @@ Analyze the root/family of **pottery**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **pottery**?
+🕵️ **Fix the Error:** "She makes beautiful potteries."
 ?
-> ❌ **Mistake:** "She makes beautiful potteries."
 > ✅ **Correction:** "She makes beautiful pottery." or "She makes beautiful pieces of pottery."
 > 🧠 **Why:** Pottery is uncountable when referring to the craft or general items. Use "pieces of pottery" for individual items.
 

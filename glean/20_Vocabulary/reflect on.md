@@ -197,9 +197,8 @@ Analyze the root/family of **reflect on**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **reflect on**?
+🕵️ **Fix the Error:** She reflects about her childhood often.
 ?
-> ❌ **Mistake:** She reflects about her childhood often.
 > ✅ **Correction:** She reflects on her childhood often.
 > 🧠 **Why:** The correct preposition with 'reflect' in this context is 'on', not 'about' - we reflect 'on' something
 

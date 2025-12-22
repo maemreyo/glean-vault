@@ -195,9 +195,8 @@ Analyze the root/family of **guess**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **guess**?
+🕵️ **Fix the Error:** "My guess is he will comes tomorrow" (Sai chia động từ)
 ?
-> ❌ **Mistake:** "My guess is he will comes tomorrow" (Sai chia động từ)
 > ✅ **Correction:** "My guess is he will come tomorrow"
 > 🧠 **Why:** Sau "will" luôn dùng động từ nguyên mẫu, không phân biệt chủ ngữ là gì. Đây là lỗi phổ biến khi kết hợp "guess" với cấu trúc tương lai
 

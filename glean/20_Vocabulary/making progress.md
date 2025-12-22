@@ -196,9 +196,8 @@ Analyze the root/family of **making progress**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **making progress**?
+🕵️ **Fix the Error:** "We are making progress to finish the project."
 ?
-> ❌ **Mistake:** "We are making progress to finish the project."
 > ✅ **Correction:** "We are making progress on finishing the project." hoặc "We are making progress with the project."
 > 🧠 **Why:** Fixed preposition collocation. Luôn dùng "making progress on/in/with something", không phải "to something". Common ESL error.
 

@@ -182,9 +182,8 @@ Analyze the root/family of **grateful**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **grateful**?
+🕵️ **Fix the Error:** I'm grateful to your advice
 ?
-> ❌ **Mistake:** I'm grateful to your advice
 > ✅ **Correction:** I'm grateful for your advice
 > 🧠 **Why:** Dùng "for" với điều bạn biết ơn, "to" với người bạn biết ơn: grateful TO you FOR your help
 

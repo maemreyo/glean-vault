@@ -198,9 +198,8 @@ Analyze the root/family of **favourite**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **favourite**?
+🕵️ **Fix the Error:** This is my most favourite book.
 ?
-> ❌ **Mistake:** This is my most favourite book.
 > ✅ **Correction:** This is my favourite book.
 > 🧠 **Why:** "Favourite" đã mang nghĩa siêu nhất (most liked), không cần thêm "most" nữa. Đây là lỗi double superlative (dùng hai từ độ comparisonsame lúc).
 

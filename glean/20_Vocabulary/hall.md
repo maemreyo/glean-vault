@@ -197,9 +197,8 @@ Analyze the root/family of **hall**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **hall**?
+🕵️ **Fix the Error:** I live in the third room on the hall.
 ?
-> ❌ **Mistake:** I live in the third room on the hall.
 > ✅ **Correction:** I live in the third room on the hallway.
 > 🧠 **Why:** 'Hall' là large room, 'hallway' là corridor. Đi trong corridor dùng 'hallway'
 

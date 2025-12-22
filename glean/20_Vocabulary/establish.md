@@ -194,9 +194,8 @@ Analyze the root/family of **establish**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **establish**?
+🕵️ **Fix the Error:** We must to establish new rules immediately
 ?
-> ❌ **Mistake:** We must to establish new rules immediately
 > ✅ **Correction:** We must establish new rules immediately
 > 🧠 **Why:** Sau modal verbs (must, should, will, can), luôn dùng động từ nguyên thể không có 'to'
 

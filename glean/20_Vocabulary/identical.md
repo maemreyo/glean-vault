@@ -191,9 +191,8 @@ Analyze the root/family of **identical**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **identical**?
+🕵️ **Fix the Error:** "My phone and his phone is identical"
 ?
-> ❌ **Mistake:** "My phone and his phone is identical"
 > ✅ **Correction:** "My phone and his phone are identical"
 > 🧠 **Why:** 'Identical' describes plural items (two phones), so use 'are' not 'is'
 

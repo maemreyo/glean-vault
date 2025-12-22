@@ -191,9 +191,8 @@ Analyze the root/family of **wrist**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **wrist**?
+🕵️ **Fix the Error:** I wear my watch on my /wrɪst/.
 ?
-> ❌ **Mistake:** I wear my watch on my /wrɪst/.
 > ✅ **Correction:** I wear my watch on my /rɪst/.
 > 🧠 **Why:** "W" trong wrist không phát âm, chỉ phát âm /rɪst/
 

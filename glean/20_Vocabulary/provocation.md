@@ -196,9 +196,8 @@ Analyze the root/family of **provocation**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **provocation**?
+🕵️ **Fix the Error:** Using "provocation" for interesting ideas
 ?
-> ❌ **Mistake:** Using "provocation" for interesting ideas
 > ✅ **Correction:** Use "thought-provoking" for ideas, "provocation" for deliberate challenges
 > 🧠 **Why:** Provocation implies negative intent to provoke, not stimulate thinking
 

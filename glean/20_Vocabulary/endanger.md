@@ -195,9 +195,8 @@ Analyze the root/family of **endanger**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **endanger**?
+🕵️ **Fix the Error:** "The company endangered to fire its employees."
 ?
-> ❌ **Mistake:** "The company endangered to fire its employees."
 > ✅ **Correction:** "The company endangered its employees' jobs by threatening to fire them."
 > 🧠 **Why:** "endanger" là transitive verb, cần direct object. Không dùng "endanger to do something". Có thể rewrite để clarify.
 

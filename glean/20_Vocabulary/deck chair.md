@@ -193,9 +193,8 @@ Analyze the root/family of **deck chair**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **deck chair**?
+🕵️ **Fix the Error:** We sat on chair decks by the sea.
 ?
-> ❌ **Mistake:** We sat on chair decks by the sea.
 > ✅ **Correction:** We sat on deck chairs by the sea.
 > 🧠 **Why:** 'Deck chair' is a compound noun - 'deck' modifies 'chair', not the reverse
 

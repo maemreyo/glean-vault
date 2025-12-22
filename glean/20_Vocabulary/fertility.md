@@ -150,6 +150,7 @@ List 3 common collocations for **fertility**.
 > **fertility:** Được dùng khi nói về khả năng sinh sản tự nhiên (đất, động vật, con người)
 > **[[productivity]]:** Nhấn mạnh hiệu quả sản xuất, thường trong kinh tế hoặc công việc
 > 🧱 **The Barrier:** Fertility is natural reproductive capacity, productivity is efficient output
+<!--SR:!2025-12-23,1,226-->
 
 ---
 
@@ -200,9 +201,8 @@ Analyze the root/family of **fertility**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **fertility**?
+🕵️ **Fix the Error:** "We need to buy fertility for the garden"
 ?
-> ❌ **Mistake:** "We need to buy fertility for the garden"
 > ✅ **Correction:** "We need to buy fertilizer for the garden"
 > 🧠 **Why:** 'Fertilizer' is the substance, 'fertility' is the quality/ability
 

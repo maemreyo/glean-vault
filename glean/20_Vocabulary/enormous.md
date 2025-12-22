@@ -197,9 +197,8 @@ Analyze the root/family of **enormous**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **enormous**?
+🕵️ **Fix the Error:** The enormous huge building
 ?
-> ❌ **Mistake:** The enormous huge building
 > ✅ **Correction:** The enormous building OR The huge building
 > 🧠 **Why:** "Enormous" và "huge" đều có nghĩa là rất lớn - không dùng together vì redundant/tautology
 

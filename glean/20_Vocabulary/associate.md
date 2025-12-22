@@ -193,9 +193,8 @@ Analyze the root/family of **associate**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **associate**?
+🕵️ **Fix the Error:** "I don't want to associate to those people."
 ?
-> ❌ **Mistake:** "I don't want to associate to those people."
 > ✅ **Correction:** "I don't want to associate with those people."
 > 🧠 **Why:** 'Associate' requires preposition 'with' when connecting people or things, not 'to'.
 

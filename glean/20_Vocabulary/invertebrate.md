@@ -194,9 +194,8 @@ Analyze the root/family of **invertebrate**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **invertebrate**?
+🕵️ **Fix the Error:** "Fishes are invertebrates"
 ?
-> ❌ **Mistake:** "Fishes are invertebrates"
 > ✅ **Correction:** "Fishes are vertebrates" OR "Jellyfish are invertebrates"
 > 🧠 **Why:** Fish have backbones, making them vertebrates. Don't confuse fish (which have vertebrae) with jellyfish (which don't).
 

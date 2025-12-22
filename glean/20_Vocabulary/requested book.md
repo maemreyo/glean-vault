@@ -193,9 +193,8 @@ Analyze the root/family of **requested book**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **requested book**?
+🕵️ **Fix the Error:** "I request the book" (when wanting to borrow from library)
 ?
-> ❌ **Mistake:** "I request the book" (when wanting to borrow from library)
 > ✅ **Correction:** "I'd like to request the book" OR "I have a requested book"
 > 🧠 **Why:** Library contexts prefer polite forms; "requested book" as compound noun for the item itself
 

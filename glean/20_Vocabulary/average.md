@@ -192,9 +192,8 @@ Analyze the root/family of **average**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **average**?
+🕵️ **Fix the Error:** "The average of people in the room is 10."
 ?
-> ❌ **Mistake:** "The average of people in the room is 10."
 > ✅ **Correction:** "The average number of people in the room is 10." OR "There are 10 people on average in the room."
 > 🧠 **Why:** Average needs to modify a quantifiable attribute, not the noun itself
 

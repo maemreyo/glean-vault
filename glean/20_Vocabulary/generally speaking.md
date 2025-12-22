@@ -194,9 +194,8 @@ Analyze the root/family of **generally speaking**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **generally speaking**?
+🕵️ **Fix the Error:** "Generally speaking, always" (mâu thuẫn logic)
 ?
-> ❌ **Mistake:** "Generally speaking, always" (mâu thuẫn logic)
 > ✅ **Correction:** "Generally speaking, usually" hoặc chỉ dùng một trong hai
 > 🧠 **Why:** "Generally speaking" thừa nhận có ngoại lệ, không thể kết hợp với "always" (luôn luôn không có ngoại lệ)
 

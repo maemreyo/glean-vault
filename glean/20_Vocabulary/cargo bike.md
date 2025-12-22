@@ -195,9 +195,8 @@ Analyze the root/family of **cargo bike**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **cargo bike**?
+🕵️ **Fix the Error:** I need a bike for cargo my groceries.
 ?
-> ❌ **Mistake:** I need a bike for cargo my groceries.
 > ✅ **Correction:** I need a bike for carrying my groceries. / I need a cargo bike for my groceries.
 > 🧠 **Why:** "Cargo" là noun (hàng hóa) không phải verb. Dùng "carry" for action, hoặc "cargo bike" như một compound noun chỉ loại xe.
 

@@ -199,9 +199,8 @@ Analyze the root/family of **prime site**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **prime site**?
+🕵️ **Fix the Error:** "This is a prime location site" (redundant phrasing)
 ?
-> ❌ **Mistake:** "This is a prime location site" (redundant phrasing)
 > ✅ **Correction:** "This is a **prime site**" OR "This is a prime location"
 > 🧠 **Why:** "Prime site" already includes the concept of location, so adding "location" makes the phrase redundant and unnatural.
 

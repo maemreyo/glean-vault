@@ -195,9 +195,8 @@ Analyze the root/family of **social media**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **social media**?
+🕵️ **Fix the Error:** "I posted my vacation photos on my social medias yesterday."
 ?
-> ❌ **Mistake:** "I posted my vacation photos on my social medias yesterday."
 > ✅ **Correction:** "I posted my vacation photos on social media yesterday." OR "I posted my vacation photos on my social media accounts."
 > 🧠 **Why:** "Social media" as a concept is uncountable. Use plural only when referring to multiple distinct platforms ("social media platforms").
 

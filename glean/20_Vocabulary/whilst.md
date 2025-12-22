@@ -192,9 +192,8 @@ Analyze the root/family of **whilst**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **whilst**?
+🕵️ **Fix the Error:** "I like tea whilst I don't like coffee."
 ?
-> ❌ **Mistake:** "I like tea whilst I don't like coffee."
 > ✅ **Correction:** "I like tea whilst my brother prefers coffee." or "I like tea but I don't like coffee."
 > 🧠 **Why:** "Whilst" dùng cho simultaneous actions hoặc contrasts, không phải contradictions.
 

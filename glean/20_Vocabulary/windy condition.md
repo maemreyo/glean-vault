@@ -193,9 +193,8 @@ Analyze the root/family of **windy condition**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **windy condition**?
+🕵️ **Fix the Error:** "The match was canceled because of windy condition"
 ?
-> ❌ **Mistake:** "The match was canceled because of windy condition"
 > ✅ **Correction:** "The match was canceled because of windy conditions" OR "due to the windy condition"
 > 🧠 **Why:** Condition usually takes 's' when referring to weather states, unless preceded by 'the'
 

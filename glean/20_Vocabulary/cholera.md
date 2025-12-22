@@ -194,9 +194,8 @@ Analyze the root/family of **cholera**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **cholera**?
+🕵️ **Fix the Error:** Using "cholera" for any type of diarrhea
 ?
-> ❌ **Mistake:** Using "cholera" for any type of diarrhea
 > ✅ **Correction:** Cholera specifically refers to Vibrio cholerae infection
 > 🧠 **Why:** Not all diarrhea is cholera - cholera is a specific bacterial disease
 

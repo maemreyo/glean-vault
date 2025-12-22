@@ -191,9 +191,8 @@ Analyze the root/family of **cereal**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **cereal**?
+🕵️ **Fix the Error:** I need to buy some cereals for tomorrow morning.
 ?
-> ❌ **Mistake:** I need to buy some cereals for tomorrow morning.
 > ✅ **Correction:** I need to buy some cereal for tomorrow morning. / I need to buy some boxes of cereal.
 > 🧠 **Why:** Cereal là uncountable khi talking about the food substance. Dùng "cereal" cho general amount hoặc "boxes/types" cho specific quantities
 

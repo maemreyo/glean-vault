@@ -196,9 +196,8 @@ Analyze the root/family of **take steps to**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **take steps to**?
+🕵️ **Fix the Error:** We must take steps for reducing pollution.
 ?
-> ❌ **Mistake:** We must take steps for reducing pollution.
 > ✅ **Correction:** We must take steps to reduce pollution.
 > 🧠 **Why:** Luôn dùng "take steps to + verb (base form)" để diễn tả mục đích, không dùng "for + V-ing".
 

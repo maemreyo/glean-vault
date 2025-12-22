@@ -191,9 +191,8 @@ Analyze the root/family of **tiny**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **tiny**?
+🕵️ **Fix the Error:** "My progress is tinier than yesterday"
 ?
-> ❌ **Mistake:** "My progress is tinier than yesterday"
 > ✅ **Correction:** "My progress is tiny" or "There has been tiny progress"
 > 🧠 **Why:** 'Tiny' is typically not used in comparative form as it already means 'extremely small'
 

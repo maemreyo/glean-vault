@@ -195,9 +195,8 @@ Analyze the root/family of **the far end**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **the far end**?
+🕵️ **Fix the Error:** Please sit at far end of table.
 ?
-> ❌ **Mistake:** Please sit at far end of table.
 > ✅ **Correction:** Please sit at the far end of the table.
 > 🧠 **Why:** 'The far end' luôn cần mạo từ 'the' vì nó là một cụm từ cố định chỉ một vị trí cụ thể và duy nhất
 

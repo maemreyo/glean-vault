@@ -194,9 +194,8 @@ Analyze the root/family of **placement**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **placement**?
+🕵️ **Fix the Error:** Thank you for your placement in the meeting yesterday
 ?
-> ❌ **Mistake:** Thank you for your placement in the meeting yesterday
 > ✅ **Correction:** Thank you for your participation/attendance in the meeting yesterday
 > 🧠 **Why:** 'Placement' là việc bố trí vị trí, không phải sự tham dự - dùng 'participation' hoặc 'attendance' cho việc tham gia cuộc họp
 

@@ -192,9 +192,8 @@ Analyze the root/family of **mental health**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **mental health**?
+🕵️ **Fix the Error:** "He suffers from a bad mental health."
 ?
-> ❌ **Mistake:** "He suffers from a bad mental health."
 > ✅ **Correction:** "He suffers from poor mental health." OR "He has mental health problems."
 > 🧠 **Why:** 'Mental health' is uncountable. Use 'poor' or 'good' to describe it, or use 'mental health problems/issues' for specific conditions.
 

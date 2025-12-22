@@ -193,9 +193,8 @@ Analyze the root/family of **synthetic clothing**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **synthetic clothing**?
+🕵️ **Fix the Error:** "Synthetic clothings are cheaper than natural ones." (pluralization error)
 ?
-> ❌ **Mistake:** "Synthetic clothings are cheaper than natural ones." (pluralization error)
 > ✅ **Correction:** "Synthetic clothing items are cheaper" hoặc "Synthetic clothing is cheaper"
 > 🧠 **Why:** "Clothing" là collective noun, không có plural form "clothings". Use "items" hoặc "garments" cho individual pieces, hoặc keep "clothing" singular.
 

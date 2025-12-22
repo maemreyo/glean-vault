@@ -197,9 +197,8 @@ Analyze the root/family of **diet**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **diet**?
+🕵️ **Fix the Error:** "I'm dieting to lose weight."
 ?
-> ❌ **Mistake:** "I'm dieting to lose weight."
 > ✅ **Correction:** "I'm on a diet to lose weight." hoặc "I'm dieting to lose weight." (cả hai đều đúng nhưng "on a diet" phổ biến hơn)
 > 🧠 **Why:** "Diet" như động từ (dieting) được dùng nhưng "on a diet" là fixed expression phổ biến hơn. Không sai grammar nhưng less common.
 

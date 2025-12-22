@@ -193,9 +193,8 @@ Analyze the compound **perennial rye grass**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **perennial rye grass**?
+🕵️ **Fix the Error:** We need to reseed the perennial rye grass every year.
 ?
-> ❌ **Mistake:** We need to reseed the perennial rye grass every year.
 > ✅ **Correction:** We DON'T need to reseed the perennial rye grass every year.
 > 🧠 **Why:** 'Perennial' means it lives many years and regrows without replanting. That's its main advantage over annual grasses!
 

@@ -199,9 +199,8 @@ Analyze the root/family of **a possibility**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **a possibility**?
+🕵️ **Fix the Error:** There's possibility that we might need more time.
 ?
-> ❌ **Mistake:** There's possibility that we might need more time.
 > ✅ **Correction:** There's a possibility that we might need more time.
 > 🧠 **Why:** "Possibility" là countable noun (danh từ đếm được) khi nói về một khả năng cụ thể, cần có article "a/an". Chỉ dùng không có article khi nói về khái niệm chung "possibility" (sự có thể).
 

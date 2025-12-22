@@ -187,9 +187,8 @@ Analyze the root/family of **scheme**.
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **scheme**?
+🕵️ **Fix the Error:** Always assuming scheme means something negative
 ?
-> ❌ **Mistake:** Always assuming scheme means something negative
 > ✅ **Correction:** "The company's health insurance scheme provides excellent coverage" (positive context)
 > 🧠 **Why:** Scheme can be neutral or positive (pension scheme, color scheme) - context and adjectives determine meaning.
 

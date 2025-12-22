@@ -191,9 +191,8 @@ Analyze the root/family of **kiln**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **kiln**?
+🕵️ **Fix the Error:** The potter opened the /kɪlən/ to check the temperature.
 ?
-> ❌ **Mistake:** The potter opened the /kɪlən/ to check the temperature.
 > ✅ **Correction:** The potter opened the /kɪln/ to check the temperature.
 > 🧠 **Why:** "N" ở cuối kiln không được phát âm trong tiếng Anh hiện đại
 

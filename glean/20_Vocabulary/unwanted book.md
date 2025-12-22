@@ -193,9 +193,8 @@ Analyze the root/family of **unwanted book**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **unwanted book**?
+🕵️ **Fix the Error:** "These are books unwanted"
 ?
-> ❌ **Mistake:** "These are books unwanted"
 > ✅ **Correction:** "These are unwanted books"
 > 🧠 **Why:** "Unwanted" là tính từ phải đứng trước danh từ "books" nó mô tả, không thể đứng sau động từ "are" như vậy.
 

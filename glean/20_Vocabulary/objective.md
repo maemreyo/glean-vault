@@ -199,9 +199,8 @@ Analyze the root/family of **objective**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **objective**?
+🕵️ **Fix the Error:** "The news report was very objectivity."
 ?
-> ❌ **Mistake:** "The news report was very objectivity."
 > ✅ **Correction:** "The news report was very objective." hoặc "The news report showed great objectivity."
 > 🧠 **Why:** Đừng nhẫm lẫn giữa adjective (objective) và noun (objectivity). Report/objective có thể là adjective, nhưng không thể là "objectivity".
 

@@ -195,9 +195,8 @@ Analyze the root/family of **suction**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **suction**?
+🕵️ **Fix the Error:** The vacuum cleaner has good suck.
 ?
-> ❌ **Mistake:** The vacuum cleaner has good suck.
 > ✅ **Correction:** The vacuum cleaner has good suction.
 > 🧠 **Why:** "Suction" là danh từ chỉ lực hút, "suck" là động từ - không thể dùng "suck" như danh từ trong ngữ cảnh này
 

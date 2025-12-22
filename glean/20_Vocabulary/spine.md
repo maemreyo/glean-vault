@@ -197,9 +197,8 @@ Analyze the root/family of **spine**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **spine**?
+🕵️ **Fix the Error:** I have a pain in my spine, so I need to massage my spine.
 ?
-> ❌ **Mistake:** I have a pain in my spine, so I need to massage my spine.
 > ✅ **Correction:** I have a pain in my spine, so I need to see a chiropractor.
 > 🧠 **Why:** Spine là delicate structure - không thể self-massage như muscle thông thường, cần chuyên gia xử lý
 

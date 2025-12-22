@@ -195,9 +195,8 @@ Analyze the root/family of **in shape**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **in shape**?
+🕵️ **Fix the Error:** "I need to put myself in shape."
 ?
-> ❌ **Mistake:** "I need to put myself in shape."
 > ✅ **Correction:** "I need to get in shape."
 > 🧠 **Why:** Cấu trúc cố định là "get in shape" (đạt được vóc dáng), không phải "put in shape"
 

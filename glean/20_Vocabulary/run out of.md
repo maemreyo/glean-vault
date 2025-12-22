@@ -194,9 +194,8 @@ Analyze the components of **run out of**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **run out of**?
+🕵️ **Fix the Error:** "I ran out my patience."
 ?
-> ❌ **Mistake:** "I ran out my patience."
 > ✅ **Correction:** "I ran out of patience."
 > 🧠 **Why:** Always need "of" after "run out" when mentioning WHAT you ran out of! The structure is: subject + run out of + object.
 

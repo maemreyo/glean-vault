@@ -194,9 +194,8 @@ Analyze the root/family of **commit**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **commit**?
+🕵️ **Fix the Error:** "She commits to help us."
 ?
-> ❌ **Mistake:** "She commits to help us."
 > ✅ **Correction:** "She commits to helping us."
 > 🧠 **Why:** "Commit to + gerund (-ing)", không phải "commit to + infinitive".
 

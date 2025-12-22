@@ -175,9 +175,7 @@ ref:
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:**
-> ❌ **Mistake:** <Common Error with {{TERM}}>
-
+🕵️ **Fix the Error:** <Common Error with {{TERM}}>
 ?
 > ✅ **Correction:** <Correct Usage>
 > 🧠 **Why:** <Explanation of rule/logic>

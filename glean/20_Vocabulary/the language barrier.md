@@ -191,9 +191,8 @@ Analyze the root/family of **language barrier**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **language barrier**?
+🕵️ **Fix the Error:** "Language barriers are always bad"
 ?
-> ❌ **Mistake:** "Language barriers are always bad"
 > ✅ **Correction:** "Language barriers can be challenging but also lead to creative solutions"
 > 🧠 **Why:** Avoid absolute statements; language barriers can have positive effects like promoting innovation in communication
 

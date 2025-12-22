@@ -192,9 +192,8 @@ Analyze the root/family of **inevitable**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **inevitable**?
+🕵️ **Fix the Error:** "The inevitable will happen." (không tự nhiên)
 ?
-> ❌ **Mistake:** "The inevitable will happen." (không tự nhiên)
 > ✅ **Correction:** "The inevitable is bound to happen." hoặc "Inevitable, it will happen."
 > 🧠 **Why:** "The inevitable" là danh từ cụ thể, cần động từ phù hợp. Cách dùng tự nhiên hơn là dùng tính từ trực tiếp.
 

@@ -194,9 +194,8 @@ Analyze the root/family of **to chart a path forward**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **to chart a path forward**?
+🕵️ **Fix the Error:** "We need to chart a path forward to success"
 ?
-> ❌ **Mistake:** "We need to chart a path forward to success"
 > ✅ **Correction:** "We need to chart a path forward toward success"
 > 🧠 **Why:** "Forward" indicates direction, so you need "toward" or "for" to show the destination, not "to" which would be redundant
 

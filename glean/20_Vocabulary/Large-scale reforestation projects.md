@@ -193,9 +193,8 @@ Analyze the root/family of **large-scale reforestation projects**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **large-scale reforestation projects**?
+🕵️ **Fix the Error:** "Large scale reforestation projects" (missing hyphen)
 ?
-> ❌ **Mistake:** "Large scale reforestation projects" (missing hyphen)
 > ✅ **Correction:** "Large-scale reforestation projects"
 > 🧠 **Why:** "Large-scale" acts as a compound adjective modifying "reforestation projects" - needs hyphen when before noun
 

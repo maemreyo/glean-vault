@@ -193,9 +193,8 @@ Analyze the root/family of **optimistic**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **optimistic**?
+🕵️ **Fix the Error:** "I'm optimistic for good weather"
 ?
-> ❌ **Mistake:** "I'm optimistic for good weather"
 > ✅ **Correction:** "I'm optimistic about good weather"
 > 🧠 **Why:** Correct preposition is 'about' when expressing optimism regarding something
 

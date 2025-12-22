@@ -191,9 +191,8 @@ Analyze the root/family of **landfill**.
 #flashcards/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **landfill**?
+🕵️ **Fix the Error:** "The landfill was closed yesterday because it was full of trash."
 ?
-> ❌ **Mistake:** "The landfill was closed yesterday because it was full of trash."
 > ✅ **Correction:** "The landfill reached capacity yesterday and was permanently closed."
 > 🧠 **Why:** "Reached capacity" là thuật ngữ chính xác cho landfill đã đầy, thể hiện tính chuyên nghiệp của cơ sở kỹ thuật
 

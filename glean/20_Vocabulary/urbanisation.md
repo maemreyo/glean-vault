@@ -199,9 +199,8 @@ Analyze the root/family of **urbanisation**.
 #flashcards/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **urbanisation**?
+🕵️ **Fix the Error:** "The urbanisation of countryside brings many opportunities."
 ?
-> ❌ **Mistake:** "The urbanisation of countryside brings many opportunities."
 > ✅ **Correction:** "The urbanisation of rural areas brings many opportunities."
 > 🧠 **Why:** "Countryside" đã mang nghĩa nông thôn, nên việc "urbanisation of countryside" hơi redundancy. "Rural areas" là thuật ngữ chính xác hơn đối lập với "urban areas"
 

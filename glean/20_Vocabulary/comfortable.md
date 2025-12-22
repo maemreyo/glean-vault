@@ -194,9 +194,8 @@ Analyze the root/family of **comfortable**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **comfortable**?
+🕵️ **Fix the Error:** "I feel comfort in this chair."
 ?
-> ❌ **Mistake:** "I feel comfort in this chair."
 > ✅ **Correction:** "I feel comfortable in this chair." / "This chair gives me comfort."
 > 🧠 **Why:** 'Comfort' là danh từ, còn 'comfortable' là tính từ. Cần dùng đúng từ loại
 

@@ -194,9 +194,8 @@ Analyze the root/family of **impoverish**.
 #flashcards/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **impoverish**?
+🕵️ **Fix the Error:** The impoverished people struggle to find jobs.
 ?
-> ❌ **Mistake:** The impoverished people struggle to find jobs.
 > ✅ **Correction:** Impoverished people struggle to find jobs. / The policies impoverished the people.
 > 🧠 **Why:** 'Impoverish' là verb (hành động), 'impoverished' là adjective (trạng thái). Không dùng 'the impoverished people' (redundant).
 

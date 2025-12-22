@@ -195,9 +195,8 @@ Analyze the root/family of **spectator**.
 #flashcards/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **spectator**?
+🕵️ **Fix the Error:** The spectators is cheering loudly
 ?
-> ❌ **Mistake:** The spectators is cheering loudly
 > ✅ **Correction:** The spectators are cheering loudly
 > 🧠 **Why:** "Spectators" ở dạng số nhiều cần động từ "are" không phải "is"
 

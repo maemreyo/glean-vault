@@ -197,9 +197,8 @@ Analyze the root/family of **evidently**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **evidently**?
+🕵️ **Fix the Error:** "Evidently, chocolate is my favorite flavor."
 ?
-> ❌ **Mistake:** "Evidently, chocolate is my favorite flavor."
 > ✅ **Correction:** "Chocolate is my favorite flavor."
 > 🧠 **Why:** "Evidently" chỉ nên dùng khi có bằng chứng, không dùng cho sở thích cá nhân (personal preference)
 

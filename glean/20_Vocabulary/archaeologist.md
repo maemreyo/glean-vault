@@ -191,9 +191,8 @@ Analyze the root/family of **archaeologist**.
 #flashcards/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **archaeologist**?
+🕵️ **Fix the Error:** "The archaeologyst found pottery."
 ?
-> ❌ **Mistake:** "The archaeologyst found pottery."
 > ✅ **Correction:** "The archaeologist found pottery."
 > 🧠 **Why:** Correct spelling is 'archaeologist' with 'ae' not 'e', and the stress is on the third syllable: ar-kee-OL-o-jist.
 
