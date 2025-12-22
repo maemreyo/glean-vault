@@ -87,6 +87,7 @@ What does **effective** (*/ɪˈfektɪv/*) mean?
 > 🇻🇳 **Vietnamese:** Hiệu quả, có hiệu lực, đạt được kết quả mong muốn
 > 🗣️ **IPA:** */ɪˈfektɪv/*
 > 🧠 **Mental Model:** Giống như result-oriented - tập trung vào output/result chứ không phải process
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

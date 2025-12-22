@@ -178,6 +178,7 @@ Analyze the root/family of **a couple of times**.
 **a couple of times**
 > 📖 **Meaning:** Happening on two or more occasions, but not many times
 > 🇻🇳 **Vietnamese:** Vài lần, đôi lần
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

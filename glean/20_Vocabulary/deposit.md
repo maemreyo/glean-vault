@@ -177,6 +177,7 @@ Analyze the root/family of **deposit**.
 **deposit**
 > 📖 **Meaning:** Put money in a bank; put down a layer; pay as security
 > 🇻🇳 **Vietnamese:** Gửi tiền / đặt cọc / lắng đọng
+<!--SR:!2025-12-25,3,268-->
 
 ---
 

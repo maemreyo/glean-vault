@@ -141,6 +141,7 @@ List 3 common collocations for **depression**.
 > **depression:** Medical condition, prolonged (weeks/months), affects all life aspects (VN: rối loạn trầm cảm, kéo dài, nghiêm trọng)
 > **[[sadness]]:** Normal emotion, temporary, specific cause (VN: nỗi buồn, bình thường, ngắn hạn)
 > 🧱 **The Barrier:** Sadness là weather - comes and goes. Depression là climate change - alters entire ecosystem of your life. Sadness là puddle, depression là ocean!
+<!--SR:!2025-12-23,1,232-->
 
 ---
 

@@ -98,6 +98,7 @@ What does **extended family** (*/ɪkˈstendɪd ˈfæməli/*) mean?
 → **Target Word?**
 ?
 **extended family** (*/ɪkˈstendɪd ˈfæməli/*)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

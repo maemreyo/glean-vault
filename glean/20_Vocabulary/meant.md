@@ -108,6 +108,7 @@ Use **meant** in a sentence.
 > 📝 **Sentence:** The warning signs were meant to alert drivers about the sharp turn ahead.
 > 🇻🇳 **Translation:** Các biển báo cáo được đặt để cảnh báo tài xế về khúc cua gấp phía trước.
 > 🔍 **Analysis:** "Meant" thể hiện original purpose/intention của warning signs - function mà chúng được design để thực hiện, có thể khác với actual effect.
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

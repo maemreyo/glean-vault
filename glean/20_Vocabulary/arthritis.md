@@ -160,6 +160,7 @@ List 3 common collocations for **arthritis**.
 🌱 **Origins:** Link the root `arthron` to the meaning of **arthritis**.
 ?
 > 📜 **Story:** Greek physicians saw inflamed "joints" (arthron) that were literally "on fire" (-itis), creating the term arthritis - joints burning with inflammation, causing the characteristic pain and swelling of this chronic condition
+<!--SR:!2025-12-25,3,265-->
 
 ---
 

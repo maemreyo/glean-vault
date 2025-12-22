@@ -115,6 +115,7 @@ Use **press** in a sentence.
 > 📝 **Sentence:** The journalists continue to press the politician for answers about the scandal.
 > 🇻🇳 **Translation:** Các nhà báo tiếp tục ép chính trị gia trả lời về vụ bê bối.
 > 🔍 **Analysis:** "Press" ở đây là động từ mang nghĩa hình ảnh - như đang "đè" để lấy thông tin, thể hiện sự kiên trì và áp lực của truyền thông.
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

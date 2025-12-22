@@ -97,6 +97,7 @@ What does **impression** (*/ɪmˈpreʃn/*) mean?
 → **Target Word?**
 ?
 **impression** (*/ɪmˈpreʃn/*)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

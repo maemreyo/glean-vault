@@ -97,6 +97,7 @@ What does **waiter** (*/ˈweɪtər/*) mean?
 → **Target Word?**
 ?
 **waiter** (*/ˈweɪtər/*)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

@@ -146,6 +146,7 @@ List 3 common collocations for **a real eye-opener**.
 ?
 > 🎬 **Line:** "It was a real eye-opener - I'll never complain about my life again."
 > 👨‍🎨 **Director's Note:** Shows deep impact and perspective shift (VN)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

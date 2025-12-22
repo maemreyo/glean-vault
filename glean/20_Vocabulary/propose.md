@@ -87,6 +87,7 @@ What does **propose** (*/prəˈpəʊz/*) mean?
 > 🇻🇳 **Vietnamese:** Đề xuất, đề nghị, đưa ra để xem xét
 > 🗣️ **IPA:** */prəˈpəʊz/*
 > 🧠 **Mental Model:** Hãy tưởng tượng某人向前(pro-)放置(pose) một kế hoạch trước mặt mọi người để họ xem xét và quyết định
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -97,6 +98,7 @@ What does **propose** (*/prəˈpəʊz/*) mean?
 → **Target Word?**
 ?
 **propose** (*/prəˈpəʊz/*)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
