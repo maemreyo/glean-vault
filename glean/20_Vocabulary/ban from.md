@@ -129,6 +129,7 @@ List 3 common collocations for **ban from**.
 ?
 > 🖋️ **Advanced:** "The management banned him from the club for repeated violations of the code of conduct."
 > 💡 **Why it works:** "Banned from" thể hiện official prohibition với authority, giving legitimate reason và formal tone thay vì casual "won't let".
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

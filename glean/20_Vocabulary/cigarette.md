@@ -138,6 +138,7 @@ List 3 common collocations for **cigarette**.
 > **cigarette:** Sản phẩm đã chế biến sẵn, đưa vào ống giấy để hút (VN: thuốc lá điếu)
 > **[[tobacco]]:** Nguyên liệu thô, lá cây thuốc chưa qua chế biến (VN: lá thuốc, cây thuốc lá)
 > 🧱 **The Barrier:** Form vs. raw material - cigarette is the finished product; tobacco is the raw plant material (Khác biệt giữa thành phẩm và nguyên liệu thô)
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

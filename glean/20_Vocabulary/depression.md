@@ -181,6 +181,7 @@ Analyze the root/family of **depression**.
 **depression**
 > 📖 **Meaning:** A mental health disorder characterized by persistent sadness, loss of interest, and affecting daily functioning; or a severe economic downturn
 > 🇻🇳 **Vietnamese:** Rối loạn trầm cảm, sự suy thoái kinh tế, tâm trạng nặng nề
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

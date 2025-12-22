@@ -129,6 +129,7 @@ List 3 common collocations for **extended family**.
 ?
 > 🖋️ **Advanced:** "The small town's tight-knit community consisted mainly of extended families who had lived there for generations."
 > 💡 **Why it works:** 'extended families' upgrade từ 'relatives' bằng cách nhấn mạnh cấu trúc gia đình nhiều thế hệ và sự gắn kết cộng đồng
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

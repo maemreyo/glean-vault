@@ -201,5 +201,6 @@ Analyze the root/family of **permanently**.
 > - [[briefly]] (ngắn ngủi)
 > - [[momentarily]] (một lát thôi)
 > 🧱 **Contrast:** "Permanently" là mãi mãi, không thể thay đổi; "temporarily" là trong thời gian giới hạn, có thể thay đổi
+<!--SR:!2025-12-25,3,250-->
 
 ---

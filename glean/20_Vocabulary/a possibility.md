@@ -204,5 +204,6 @@ Analyze the root/family of **a possibility**.
 > - [[a certainty]] (một điều chắc chắn - chắc chắn sẽ xảy ra)
 > - [[an impossibility]] (một điều không thể - hoàn toàn không thể xảy ra)
 > 🧱 **Contrast:** "A possibility" mở ra nhiều tiềm năng chưa được xác định, trong khi antonyms là các trạng thái đã được định sẵn - chắc chắn hoặc không thể.
+<!--SR:!2025-12-23,1,230-->
 
 ---

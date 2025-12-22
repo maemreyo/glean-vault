@@ -138,6 +138,7 @@ List 3 common collocations for **look over**.
 > **look over:** Quick examination, checking for errors or general understanding (look over a contract)
 > [[read]]: Detailed, complete reading of content (read a novel, read instructions)
 > 🧱 **The Barrier:** 'look over' là scanning/reviewing, trong khi 'read' là reading comprehension
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

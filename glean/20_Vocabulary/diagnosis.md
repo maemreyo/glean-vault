@@ -106,6 +106,7 @@ Use **diagnosis** in a sentence.
 > 📝 **Sentence:** The team's initial diagnosis of the technical problem saved hours of troubleshooting time.
 > 🇻🇳 **Translation:** Chẩn đoán ban đầu của nhóm về vấn đề kỹ thuật đã tiết kiệm nhiều giờ khắc phục sự cố.
 > 🔍 **Analysis:** Perfect here because it shows the metaphorical extension beyond medicine - systematically identifying the root cause of a problem
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

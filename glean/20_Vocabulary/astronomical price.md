@@ -120,6 +120,7 @@ List 3 common collocations for **an astronomical price**.
 > 1. **Action:** pay an astronomical price (trả giá trời ơi) (hành động mua)
 > 2. **Target:** astronomical price for (giá trên trời cho) (đối tượng)
 > 3. **Market:** command astronomical prices (đạt được giá cắt cổ) (thị trường)
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

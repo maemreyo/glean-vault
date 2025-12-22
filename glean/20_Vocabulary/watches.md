@@ -130,6 +130,7 @@ List 3 common collocations for **watches**.
 ?
 > 🖋️ **Advanced:** "He constantly checks his watches during meetings, showing his anxiety about being late."
 > 💡 **Why it works:** VN - "Watches" (đồng hồ) tạo cảm giác trang trọng và cụ thể hơn "clock", còn "watches" (nhìn) không dùng ở đây - dùng "checks" chính xác hơn cho hành động xem giờ
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

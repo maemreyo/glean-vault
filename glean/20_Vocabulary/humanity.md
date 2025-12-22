@@ -112,6 +112,7 @@ Use **humanity** in a sentence.
 > 📝 **Sentence:** The doctor's humanity and compassion made all the difference to the patients.
 > 🇻🇳 **Translation:** Lòng nhân đạo và sự trắc ẩn của bác sĩ đã tạo ra sự khác biệt lớn cho các bệnh nhân.
 > 🔍 **Analysis:** "Humanity" ở đây nhấn mạnh phẩm chất đạo đức và lòng trắc ẩn - những gì làm con người trở nên đáng quý, thay vì chỉ nói là kindness (tử tế) một cách chung chung.
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

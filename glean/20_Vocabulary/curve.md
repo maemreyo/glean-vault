@@ -139,6 +139,7 @@ List 3 common collocations for **curve**.
 > **curve:** Đoạn đường uốn cong mềm mại, không có góc nhọn (VN: khúc cua, đường cong)
 > **[[corner]]:** Góc giao nhau của hai đường thẳng, thường gấp hơn (VN: góc转弯, ngã rẽ)
 > 🧱 **The Barrier:** Shape & angle - curves have smooth, gradual bends; corners have sharp, angular turns (Khác biệt về hình dạng và góc độ)
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

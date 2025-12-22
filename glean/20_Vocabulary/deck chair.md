@@ -96,6 +96,7 @@ What does **deck chair** (*/dek tʃeər/*) mean?
 → **Target Word?**
 ?
 **deck chair** (*/dek tʃeər/*)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

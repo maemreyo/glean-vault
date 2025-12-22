@@ -176,6 +176,7 @@ Analyze the root/family of **invent**.
 **invent**
 > 📖 **Meaning:** To create or design something that has not existed before; to fabricate or make up
 > 🇻🇳 **Vietnamese:** Phát minh / sáng chế / bịa đặt
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

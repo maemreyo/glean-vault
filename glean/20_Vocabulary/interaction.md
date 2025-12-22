@@ -178,6 +178,7 @@ Analyze the root/family of **interaction**.
 **interaction**
 > 📖 **Meaning:** Reciprocal action or influence; communication or direct involvement with someone or something
 > 🇻🇳 **Vietnamese:** sự tương tác, sự tương giao, sự trao đổi
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

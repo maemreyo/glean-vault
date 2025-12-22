@@ -118,6 +118,7 @@ List 3 common collocations for **in addition**.
 > 1. **Connection:** in addition to, in addition with (VN: dùng để kết nối với thứ đã có)
 > 2. **Introduction:** In addition, there is/are, In addition, we (VN: dùng để giới thiệu thông tin mới)
 > 3. **Reference:** In addition to this, In addition to that (VN: dùng để tham chiếu lại)
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

@@ -95,6 +95,7 @@ What does **circular wall** (*/ˈsɜːkjələ wɔːl/*) mean?
 → **Target Word?**
 ?
 **circular wall** (*/ˈsɜːkjələ wɔːl/*)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -116,6 +117,7 @@ List 3 common collocations for **circular wall**.
 > 1. **Historical:** ancient circular wall (bức tường tròn cổ)
 > 2. **Material:** stone circular wall (bức tường tròn đá)
 > 3. **Location:** circular wall surrounding (bức tường tròn bao quanh)
+<!--SR:!2025-12-23,1,232-->
 
 ---
 

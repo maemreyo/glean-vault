@@ -166,6 +166,7 @@ Analyze the root/family of **optimistic**.
 > - *(noun)* [[optimism]] (the quality of being optimistic)
 > - *(noun)* [[optimist]] (a person who is optimistic)
 > - *(adv)* [[optimistically]] (in a hopeful way)
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

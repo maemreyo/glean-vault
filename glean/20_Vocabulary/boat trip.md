@@ -155,6 +155,7 @@ List 3 common collocations for **boat trip**.
 🌱 **Origins:** Link the root `bāt` to the meaning of **boat trip**.
 ?
 > 📜 **Story:** Từ Old English "bāt" (thuyền) kết hợp với "trip" (hành trình) tạo thành "boat trip" - một cuộc vui đi lại nhẹ nhàng trên mặt nước, giống như khi người xưa dùng thuyền nhỏ để đi lại và khám phá các vùng nước gần bờ.
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

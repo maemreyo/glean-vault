@@ -128,6 +128,7 @@ List 3 common collocations for **opportunity**.
 ?
 > 🖋️ **Advanced:** "This presents an excellent opportunity to advance your career in a growing industry."
 > 💡 **Why it works:** "Opportunity" thể hiện favorable timing và potential for progress, mạnh hơn "good time" vì nó包含 nghĩa của advancement
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

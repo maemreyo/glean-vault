@@ -106,6 +106,7 @@ Use **deposit** in a sentence.
 > 📝 **Sentence:** The landlord requires a security deposit equal to one month's rent before you move in.
 > 🇻🇳 **Translation:** Chủ nhà yêu cầu đặt cọc an toàn bằng tiền thuê một tháng trước khi bạn chuyển vào.
 > 🔍 **Analysis:** Perfect vì shows deposit là security payment - money placed temporarily như insurance cho potential damages.
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

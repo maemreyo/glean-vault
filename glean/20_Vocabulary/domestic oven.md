@@ -154,6 +154,7 @@ List 3 common collocations for **domestic oven**.
 🌱 **Origins:** Link the roots `domestic` and `oven` to the meaning.
 ?
 > 📜 **Story:** Latin 'domesticus' = of the house, Old English 'ofen' = furnace. The 'domestic oven' brings industrial heating technology into the home, making the magic of controlled heat available for nurturing family meals and creating memories.
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -176,6 +177,7 @@ Analyze the root/family of **domestic oven**.
 **domestic oven**
 > 📖 **Meaning:** An oven designed for household use
 > 🇻🇳 **Vietnamese:** Lò nướng gia dụng; lò nướng nhà bếp
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

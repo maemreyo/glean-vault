@@ -197,5 +197,6 @@ Analyze the root/family of **solid evidence**.
 > - [[weak evidence]] (bằng chứng yếu)
 > - [[hearsay]] (tin đồn, lời kể lại)
 > 🧱 **Contrast:** Weak evidence = unconvincing proof; Hearsay = indirect, unreliable information.
+<!--SR:!2025-12-25,3,250-->
 
 ---

@@ -136,6 +136,7 @@ List 3 common collocations for **downside**.
 > **downside:** Used for inherent trade-offs or limitations within something generally positive
 > **[[problem]]:** More general - any difficulty needing solution
 > 🧱 **The Barrier:** Downside implies acceptability despite flaws ( VN: limitation trong cái tốt ), problem suggests something needs fixing ( VN: cần giải quyết )
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

@@ -185,6 +185,7 @@ Analyze the root/family of **impress**.
 > ❌ **Mistake:** I was very impressing by the movie.
 > ✅ **Correction:** I was very impressed by the movie.
 > 🧠 **Why:** Chịu tác động dùng "impressed", chủ động gây ấn tượng mới dùng "impressing"
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

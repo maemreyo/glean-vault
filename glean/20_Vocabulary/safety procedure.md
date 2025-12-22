@@ -178,6 +178,7 @@ Analyze the root/family of **safety procedure**.
 **safety procedure**
 > 📖 **Meaning:** A set of established steps designed to ensure safety and prevent accidents or harm
 > 🇻🇳 **Vietnamese:** Quy trình an toàn
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

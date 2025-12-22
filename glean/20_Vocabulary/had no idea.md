@@ -168,6 +168,7 @@ Analyze the root/family of **had no idea**.
 > - *(noun)* [[ideal]] - lý tưởng
 > - *(adj)* [[idealistic]] - lạc quan, lý tưởng
 > - *(phrase)* [[get the idea]] - hiểu ý
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

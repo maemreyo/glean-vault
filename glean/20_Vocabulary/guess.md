@@ -118,6 +118,7 @@ List 3 common collocations for **guess**.
 > 1. **Random Estimation:** wild guess (đoán bừa, đoán mò)
 > 2. **Informed Estimation:** educated guess (đoán có cơ sở, dự đoán có thông tin)
 > 3. **Action:** take/have a guess (đưa ra phỏng đoán)
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

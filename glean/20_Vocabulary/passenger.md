@@ -146,6 +146,7 @@ List 3 common collocations for **passenger**.
 ?
 > 🎬 **Line:** "Wait! I'll hold the door for the passenger!"
 > 👨‍🎨 **Director's Note:** Shows empathy and clearly identifies the person's role as a customer needing service.
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

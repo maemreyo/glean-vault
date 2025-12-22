@@ -178,6 +178,7 @@ Analyze the root/family of **an art form**.
 **an art form**
 > 📖 **Meaning:** An activity or skill that has been developed to a high artistic level
 > 🇻🇳 **Vietnamese:** Một loại hình nghệ thuật
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

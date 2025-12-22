@@ -180,6 +180,7 @@ Analyze the root/family of **necklace**.
 **necklace**
 > 📖 **Meaning:** A piece of jewelry worn around the neck
 > 🇻🇳 **Vietnamese:** Vòng cổ, dây chuyền
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

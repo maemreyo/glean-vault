@@ -95,6 +95,7 @@ What does **bear in mind** (*/beər ɪn maɪnd/*) mean?
 → **Target Word?**
 ?
 **bear in mind** (*/beər ɪn maɪnd/*)
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

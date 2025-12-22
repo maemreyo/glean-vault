@@ -119,6 +119,7 @@ List 3 common collocations for **piece**.
 > 1. **Description:** piece of (cake/paper/information) (<VN note: dùng để định lượng danh từ không đếm được>)
 > 2. **Action:** piece together (evidence/information) (<VN note: ghép các phần lại thành tổng thể>)
 > 3. **Art/Music:** piece of (music/art/work) (<VN note: tác phẩm nghệ thuật hoàn chỉnh>)
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

@@ -155,6 +155,7 @@ List 3 common collocations for **scratch**.
 🌱 **Origins:** Link the root `krasschen` to the meaning of **scratch**.
 ?
 > 📜 **Story:** Từ tiếng Hà Lan trung cổ "krasschen" có nghĩa là "cào nhẹ" - khi bạn "scratch", bạn đang thực hiện hành động cào nhẹ, dù là để gãi ngứa hay làm dấu trên bề mặt
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

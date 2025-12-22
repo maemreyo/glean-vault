@@ -186,6 +186,7 @@ Analyze the root/family of **solitude**.
 > ❌ **Mistake:** "The elderly man suffered from solitude in the nursing home."
 > ✅ **Correction:** "The elderly man suffered from loneliness in the nursing home."
 > 🧠 **Why:** Use "loneliness" for painful isolation; "solitude" implies chosen, peaceful aloneness.
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

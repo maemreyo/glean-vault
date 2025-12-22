@@ -137,6 +137,7 @@ List 3 common collocations for **clinical form**.
 > **clinical form:** Tài liệu y tế chính thức, có định dạng, mục đích pháp lý (clinical consent form)
 > [[paper]]: Quá chung, chỉ tờ giấy bất kỳ (a piece of paper, newspaper)
 > 🧱 **The Barrier:** 'clinical form' là thuật ngữ y tế chuyên ngành, trong khi 'paper' là từ thông thường
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

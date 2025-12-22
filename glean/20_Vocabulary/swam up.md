@@ -134,6 +134,7 @@ List 3 common collocations for **swam up**.
 ?
 > 🖋️ **Advanced:** "The curious dolphin **swam up** alongside our boat, its gray glistening body cutting through the waves."
 > 💡 **Why it works:** "Swam up" creates dynamic imagery of active movement through water toward a target, making the scene more vivid and engaging.
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

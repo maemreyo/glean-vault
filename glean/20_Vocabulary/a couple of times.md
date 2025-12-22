@@ -86,6 +86,7 @@ What does **a couple of times** (*/ə ˈkʌpl əv taɪmz/*) mean?
 > 🇻🇳 **Vietnamese:** Vài lần, đôi lần
 > 🗣️ **IPA:** */ə ˈkʌpl əv taɪmz/*
 > 🧠 **Mental Model:** Hãy tưởng tượng một cặp đôi (couple) gặp nhau vài lần - không quá nhiều nhưng nhiều hơn một lần
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

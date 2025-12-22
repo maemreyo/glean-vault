@@ -149,6 +149,7 @@ List 3 common collocations for **evidently**.
 ?
 > 🎬 **Line:** "You evidently didn't study the chapters that were on the exam."
 > 👨‍🎨 **Director's Note:** VN - "Evidently" thể hiện sự thật rõ ràng nhưng vẫn giữ sự lịch sự, tránh nói thẳng "you didn't study"
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -157,6 +158,7 @@ List 3 common collocations for **evidently**.
 🌱 **Origins:** Link the root `videre` to the meaning of **evidently**.
 ?
 > 📜 **Story:** Từ Latin "evidens" (e- "ra khỏi" + videre "nhìn") - cái "nhìn thấy rõ". Khi nói "evidently", bạn đang nói điều đó rõ như ban ngày, ai cũng có thể "nhìn thấy" sự thật
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

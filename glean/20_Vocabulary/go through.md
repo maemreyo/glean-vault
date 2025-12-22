@@ -179,6 +179,7 @@ Analyze the root/family of **go through**.
 **go through**
 > 📖 **Meaning:** To pass from one side to the other; to experience or endure something; to examine carefully
 > 🇻🇳 **Vietnamese:** trải qua, đi qua; xem xét kỹ, kiểm tra, chịu đựng
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

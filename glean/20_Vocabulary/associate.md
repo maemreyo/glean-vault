@@ -146,6 +146,7 @@ List 3 common collocations for **associate**.
 ?
 > 🎬 **Line:** "I associate the aroma of fresh coffee with the peaceful start of my day."
 > 👨‍🎨 **Director's Note:** Demonstrates understanding of mental connections between sensory input and daily routines.
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

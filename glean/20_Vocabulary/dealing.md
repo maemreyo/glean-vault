@@ -152,6 +152,7 @@ List 3 common collocations for **dealing**.
 ?
 > 🎬 **Line:** "I have experience dealing with tight deadlines. Let me help you prioritize these tasks."
 > 👨‍🎨 **Director's Note:** "Dealing with" thể hiện expertise và proactive approach, positioning speaker as capable helper.
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

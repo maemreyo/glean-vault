@@ -201,3 +201,4 @@ Analyze the root/family of **impact**.
 > - [[irrelevance]] (lack of importance or effect)
 > - [[triviality]] (being unimportant or minor)
 > 🧱 **Contrast:** Impact implies significant, forceful influence that creates noticeable change, while these opposites suggest actions or events so minor they essentially don't matter or create no effect.
+<!--SR:!2025-12-23,1,230-->

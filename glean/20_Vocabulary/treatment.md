@@ -108,6 +108,7 @@ Use **treatment** in a sentence.
 > 📝 **Sentence:** The new cancer treatment has shown promising results in clinical trials.
 > 🇻🇳 **Translation:** Liệu pháp ung thư mới đã cho thấy kết quả hứa hẹn trong các thử nghiệm lâm sàng.
 > 🔍 **Analysis:** "Treatment" ở đây không chỉ là general care mà cụ thể là medical intervention có protocol và evidence-based. Nó thể hiện systematic approach của modern medicine.
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -119,6 +120,7 @@ List 3 common collocations for **treatment**.
 > 1. **Reception:** receive/undergo treatment (nhận/khám chữa - patient experience)
 > 2. **Quality:** effective/advanced treatment (hiệu quả/tiến tiến - medical quality)
 > 3. **Type:** medical/emergency treatment (y tế/khẩn cấp - treatment category)
+<!--SR:!2025-12-23,1,230-->
 
 ---
 
@@ -148,6 +150,7 @@ List 3 common collocations for **treatment**.
 ?
 > 🎬 **Line:** "I know the treatment seems overwhelming, but the medical team will guide you through every step."
 > 👨‍🎨 **Director's Note:** "Treatment" thể hiện professional, structured process - giving assurance that it's managed, not random.
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

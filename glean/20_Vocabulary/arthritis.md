@@ -90,6 +90,7 @@ What does **arthritis** (*/ɑːrˈθraɪ.t̬əs/*) mean?
 > 🇻🇳 **Vietnamese:** Bệnh viêm khớp, tình trạng viêm nhiễm, đau và cứng khớp
 > 🗣️ **IPA:** */ɑːrˈθraɪ.t̬əs/*
 > 🧠 **Mental Model:** Joints bị "burn" (itis) - giống như fire inside joints causing pain và stiffness
+<!--SR:!2025-12-23,1,228-->
 
 ---
 
@@ -131,6 +132,7 @@ List 3 common collocations for **arthritis**.
 ?
 > 🖋️ **Advanced:** "My grandmother struggles with daily tasks due to severe arthritis in her hands."
 > 💡 **Why it works:** "Arthritis" tạo medical context rõ ràng, explains WHY she has trouble, và implies chronic condition affecting quality of life
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

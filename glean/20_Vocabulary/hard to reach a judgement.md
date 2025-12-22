@@ -200,5 +200,6 @@ Analyze the root/family of **hard to reach a judgement**.
 > - [[straightforward to assess]] (đơn giản để đánh giá)
 > - [[clear-cut case]] (vụ việc rõ ràng)
 > 🧱 **Contrast:** Expresses difficulty in evaluation vs. ease of determination
+<!--SR:!2025-12-23,1,230-->
 
 ---

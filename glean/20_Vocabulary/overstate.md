@@ -197,5 +197,6 @@ Analyze the root/family of **overstate**.
 > - [[understate]] (giảm nhẹ, nói giảm nói tránh)
 > - [[minimize]] (tối thiểu hóa)
 > 🧱 **Contrast:** Understate = make smaller than reality; Minimize = actively reduce importance.
+<!--SR:!2025-12-23,1,230-->
 
 ---

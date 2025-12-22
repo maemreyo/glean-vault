@@ -138,6 +138,7 @@ List 3 common collocations for **frustration**.
 > **frustration:** Internal feeling from blocked goals (cảm giác nội tại khi mục tiêu bị cản trở)
 > **anger:** Outward emotion often directed at others (cảm giác hướng ra ngoài, thường nhắm vào người khác)
 > 🧱 **The Barrier:** Frustration = tôi vs task; Anger = tôi vs người
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

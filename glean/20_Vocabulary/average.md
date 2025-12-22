@@ -198,5 +198,6 @@ Analyze the root/family of **average**.
 > - [[exceptional]] (đặc biệt)
 > - [[outstanding]] (xuất sắc)
 > 🧱 **Contrast:** Average represents the middle point, while extremes represent the ends of the spectrum
+<!--SR:!2025-12-25,3,250-->
 
 ---

@@ -198,5 +198,6 @@ Analyze the root/family of **loneliness**.
 > - [[companionship]] (sự đồng hành, bạn bè)
 > - [[belonging]] (cảm giác thuộc về)
 > 🧱 **Contrast:** Loneliness = disconnection pain; Companionship = connection joy; Belonging = place acceptance.
+<!--SR:!2025-12-23,1,230-->
 
 ---

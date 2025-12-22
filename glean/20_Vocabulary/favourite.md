@@ -181,6 +181,7 @@ Analyze the root/family of **favourite**.
 **favourite**
 > 📖 **Meaning:** Preferred above all others; most liked
 > 🇻🇳 **Vietnamese:** Yêu thích nhất, ưa thích nhất
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

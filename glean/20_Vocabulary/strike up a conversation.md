@@ -146,6 +146,7 @@ List 3 common collocations for **strike up a conversation**.
 ?
 > 🎬 **Line:** "I'm going to strike up a conversation about their interesting necklace."
 > 👨‍🎨 **Director's Note:** Shows social confidence and a natural opening strategy
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

@@ -178,6 +178,7 @@ Analyze the root/family of **conclusion**.
 **conclusion**
 > 📖 **Meaning:** The end or judgment reached after reasoning
 > 🇻🇳 **Vietnamese:** Kết luận, sự kết thúc
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

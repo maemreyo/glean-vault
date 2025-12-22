@@ -199,5 +199,6 @@ Analyze the root/family of **essential**.
 > - [[non-essential]] (không thiết yếu)
 > - [[superficial]] (hời hợt, bề ngoài)
 > 🧱 **Contrast:** Essential elements form the core and foundation, while their opposites are peripheral additions - like roots vs. flowers on a plant, or skeleton vs. accessories!
+<!--SR:!2025-12-23,1,230-->
 
 ---

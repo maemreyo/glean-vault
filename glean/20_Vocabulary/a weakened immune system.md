@@ -186,6 +186,7 @@ Analyze the root/family of **a weakened immune system**.
 > ❌ **Mistake:** "Children with weakened immune systems needs extra care."
 > ✅ **Correction:** "Children with weakened immune systems need extra care."
 > 🧠 **Why:** The subject is "Children" (plural), not "systems", so the verb must be plural "need", not singular "needs".
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

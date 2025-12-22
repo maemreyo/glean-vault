@@ -199,3 +199,4 @@ Analyze the root/family of **comfortable**.
 > - [[uncomfortable]] (không thoải mái, gò bó)
 > - [[awkward]] (lúng túng, gượng gạo)
 > 🧱 **Contrast:** Comfortable implies physical or emotional ease, while uncomfortable and awkward suggest physical pain or social discomfort
+<!--SR:!2025-12-23,1,230-->

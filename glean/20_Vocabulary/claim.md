@@ -183,6 +183,7 @@ Analyze the root/family of **claim**.
 **claim**
 > 📖 **Meaning:** To state something as true; to demand something as your right
 > 🇻🇳 **Vietnamese:** Khẳng định, tuyên bố, đòi hỏi
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

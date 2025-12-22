@@ -98,6 +98,7 @@ What does **warehouse** (*/ˈweəhaʊs/*) mean?
 → **Target Word?**
 ?
 **warehouse** (*/ˈweəhaʊs/*)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -178,6 +179,7 @@ Analyze the root/family of **warehouse**.
 **warehouse**
 > 📖 **Meaning:** A large building for storing goods
 > 🇻🇳 **Vietnamese:** Nhà kho; kho bãi
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

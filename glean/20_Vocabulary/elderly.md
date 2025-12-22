@@ -107,6 +107,7 @@ Use **elderly** in a sentence.
 > 📝 **Sentence:** The hospital has a specialized wing dedicated to elderly patients who require additional care and attention.
 > 🇻🇳 **Translation:** Bệnh viện có một khu chuyên biệt dành cho bệnh nhân cao tuổi cần thêm sự chăm sóc và chú ý.
 > 🔍 **Analysis:** 'elderly' ở đây được dùng như tính từ lịch sự thay vì 'old', thể hiện sự chuyên nghiệp và tôn trọng trong môi trường y tế
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -118,6 +119,7 @@ List 3 common collocations for **elderly**.
 > 1. **Care Services:** elderly care (chăm sóc người cao tuổi) - dịch vụ hỗ trợ
 > 2. **Community:** elderly residents (cư dân cao tuổi) - người địa phương lớn tuổi
 > 3. **Health:** elderly patients (bệnh nhân cao tuổi) - nhóm y tế đặc biệt
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

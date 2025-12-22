@@ -138,6 +138,7 @@ List 3 common collocations for **take steps to**.
 > **take steps to:** Thể hiện hành động có kế hoạch, có chủ đích, thường theo từng giai đoạn (VN)
 > **[[do something]]:** Quá chung chung, không rõ tính chất và quy trình của hành động (VN)
 > 🧱 **The Barrier:** "Take steps" mang ý nghĩa systematic và deliberate, trong khi "do something" chỉ là action chung chung không định hướng.
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

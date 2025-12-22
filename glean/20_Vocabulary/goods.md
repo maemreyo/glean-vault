@@ -138,6 +138,7 @@ List 3 common collocations for **goods**.
 > **goods:** Thường là sản phẩm vật chất, nguyên chất, chưa qua chế biến nhiều
 > **[[products]]:** Có thể là kết quả của quá trình sản xuất, dịch vụ hoặc phần mềm
 > 🧱 **The Barrier:** "Goods" thì chạm được (tangible), còn "products" có thể bao gồm cả dịch vụ và phần mềm (intangible).
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

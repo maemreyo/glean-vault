@@ -199,5 +199,6 @@ Analyze the root/family of **memorable**.
 > - [[forgettable]] (dễ quên)
 > - [[unremarkable]] (bình thường, không đặc biệt)
 > 🧱 **Contrast:** Memorable experiences carve themselves into your consciousness, while forgettable ones slip away like water through fingers - one becomes part of your story, the other becomes background noise!
+<!--SR:!2025-12-23,1,230-->
 
 ---

@@ -137,6 +137,7 @@ List 3 common collocations for **lastly**.
 > **lastly:** Final point in sequence (VN: cuối cùng - structured list)
 > **finally:** After delay/waiting (VN: cuối cùng - end of process)
 > 🧱 **The Barrier:** Lastly = position in order, finally = end in time
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

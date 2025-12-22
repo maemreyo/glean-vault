@@ -167,6 +167,7 @@ Analyze the root/family of **freight barge**.
 > - *(noun)* freighter (tàu chở hàng)
 > - *(noun)* bargee (người lái sà lan)
 > - *(verb)* to freight (vận chuyển hàng hóa)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

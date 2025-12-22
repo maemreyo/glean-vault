@@ -128,6 +128,7 @@ List 3 common collocations for **discharge**.
 ?
 > 🖋️ **Advanced:** "The chemical plant illegally discharged toxic effluent into the nearby stream."
 > 💡 **Why it works:** "Discharge" tạo cảm giác kỹ thuật, chuyên nghiệp hơn "let out", và nhấn mạnh hành động có chủ đích trong môi trường công nghiệp
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

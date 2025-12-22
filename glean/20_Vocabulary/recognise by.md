@@ -126,6 +126,7 @@ List 3 common collocations for **recognise by**.
 ?
 > 🖋️ **Advanced:** "I recognise her by her distinctive red hair even from a distance."
 > 💡 **Why it works:** Transforms simple association into precise identification method, emphasizing how recognition occurs
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

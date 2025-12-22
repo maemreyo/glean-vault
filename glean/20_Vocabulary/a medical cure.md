@@ -87,6 +87,7 @@ What does **a medical cure** (*/ə 'medɪkl kjʊər/*) mean?
 > 🇻🇳 **Vietnamese:** Phương pháp chữa bệnh y khoa (liệu pháp y khoa hoàn toàn loại bỏ bệnh tật)
 > 🗣️ **IPA:** */ə 'medɪkl kjʊər/*
 > 🧠 **Mental Model:** Imagine a magic eraser that completely removes a disease from your body, not just covers it up
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

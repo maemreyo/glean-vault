@@ -177,6 +177,7 @@ Analyze the root/family of **convert**.
 **convert**
 > 📖 **Meaning:** To change something from one form to another
 > 🇻🇳 **Vietnamese:** Chuyển đổi, biến đổi
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

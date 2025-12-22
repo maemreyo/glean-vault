@@ -183,6 +183,7 @@ Analyze the root/family of **reputation**.
 **reputation**
 > 📖 **Meaning:** The beliefs or opinions generally held about someone or something
 > 🇻🇳 **Vietnamese:** Danh tiếng, uy tín
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
