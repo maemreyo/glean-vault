@@ -3,10 +3,11 @@
 ---
 tags:
   - vocabulary
-aliases: [archaeology, archaeological, archeologist, archeology, excavation, paleontologist, anthropologist, ancient ruins, artifacts, dig site]
+aliases: [archaeology, archaeological, archeologist, archeologists, archeology, excavation, paleontologist, anthropologist, ancient ruins, artifacts, dig site]
 status: done
 ref:
   - [[Cam 20 Listening Test 01]]
+  - [[Cam 20 Listening Test 03]]
 
 ---
 

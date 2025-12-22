@@ -100,7 +100,7 @@ COLEMAN: Gary reminds us where to put our fingers for each [[20_Vocabulary/chord
 
 WOMAN: Do you learn to play any songs?
 
-COLEMAN: Yes – we do at least one song with words [[20_Vocabulary/In addition|and]] [[20_Vocabulary/chord|chords]]. I [[20_Vocabulary/average|mean]] that's harder than you [[20_Vocabulary/suppose|think]].
+COLEMAN: Yes – we do [[20_Vocabulary/at least|at least]] one song with words [[20_Vocabulary/In addition|and]] [[20_Vocabulary/chord|chords]]. I [[20_Vocabulary/average|mean]] that's harder than you [[20_Vocabulary/suppose|think]].
 
 WOMAN: Oh, I'm [[20_Vocabulary/inevitable|sure]] it is!
 

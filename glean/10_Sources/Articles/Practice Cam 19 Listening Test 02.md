@@ -249,7 +249,7 @@ What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary
 
 ● more than 1,000 species, 0.05–1.2 millimetres long
 
-● [[20_Vocabulary/What's more|also]] known as water ‘bears’ (due to how they **31** …………………) [[20_Vocabulary/In addition|and]] ‘[[20_Vocabulary/moss|moss]] piglets’
+● [[20_Vocabulary/What's more|also]] known as water ‘bears’ ([[20_Vocabulary/due to|due to]] how they **31** …………………) [[20_Vocabulary/In addition|and]] ‘[[20_Vocabulary/moss|moss]] piglets’
 
 **Physical [[20_Vocabulary/appearance|appearance]]**
 

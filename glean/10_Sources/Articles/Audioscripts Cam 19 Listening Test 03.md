@@ -112,7 +112,7 @@ SHANNON: Perfect – hopefully I won t [[20_Vocabulary/steadily|even]] have to g
 
 JENNY: Well, as [[20_Vocabulary/average|usual]] we’ve got five days of action-packed exciting events for children, with writers coming from [[20_Vocabulary/throughout|all over]] the country getting [[20_Vocabulary/involve|involved]].
 
-Just to give you an idea of what’s on [[20_Vocabulary/propose|offer]] in the [[20_Vocabulary/workshop|workshops]], first of all, there’s a very special event called Superheroes. This is a [[20_Vocabulary/opportunity|chance]] for deaf children to [[20_Vocabulary/parcel|share]] their reading experiences with author Madeleine Gordon, who is herself hearing [[20_Vocabulary/impair|impaired]]. ***Q11***
+Just to give you an idea of what’s on [[20_Vocabulary/propose|offer]] in the [[20_Vocabulary/workshop|workshops]], [[20_Vocabulary/First of all|first of all]], there’s a very special event called Superheroes. This is a [[20_Vocabulary/opportunity|chance]] for deaf children to [[20_Vocabulary/parcel|share]] their reading experiences with author Madeleine Gordon, who is herself hearing [[20_Vocabulary/impair|impaired]]. ***Q11***
 
 ‘Just do it’ is a practical [[20_Vocabulary/workshop|workshop]] led by the [[20_Vocabulary/well known|well-known]] [[20_Vocabulary/illustration|illustrator]] [[20_Vocabulary/mark|Mark]] Keane. He’ll take participants on a magical [[20_Vocabulary/boat trip|journey]] to faraway lands with an [[20_Vocabulary/opportunity|opportunity]] for aspiring actors to do some role play. ***Q12***
 
@@ -150,7 +150,7 @@ JAKE: Right.
 
 CLARE: [[20_Vocabulary/In addition|And]] as [[20_Vocabulary/belong to|part of]] my teaching practice, I have to [[20_Vocabulary/scheme|design]] [[20_Vocabulary/an experiment|an experiment]] for them to do. I was wondering [[20_Vocabulary/approximately|about]] something on the children’s diets… you know, asking them to record what they eat [[20_Vocabulary/In addition|and]] [[20_Vocabulary/perhaps|maybe]] linking it to their state of [[20_Vocabulary/mental health|health]].
 
-JAKE: Mmm. Let’s [[20_Vocabulary/suppose|think]]. [[20_Vocabulary/thereby|So]] your [[20_Vocabulary/methodology|methodology]] [[20_Vocabulary/will|would]] [[20_Vocabulary/involve|involve]] the children recording what they eat. OK, [[20_Vocabulary/However|but]] you’d [[20_Vocabulary/What's more|also]] need to have access to the children’s [[20_Vocabulary/clinical form|medical records]] [[20_Vocabulary/In addition|and]] I don’t [[20_Vocabulary/suppose|think]] people [[20_Vocabulary/will|would]] be happy [[20_Vocabulary/approximately|about]] that; [[20_Vocabulary/confidentiality|confidentiality]] [[20_Vocabulary/will|would]] be an issue. [[20_Vocabulary/suppose|If]] you could [[20_Vocabulary/obtain|get]] the right [[20_Vocabulary/statistic|data]], the conclusions might be [[20_Vocabulary/meaningful|significant]], [[20_Vocabulary/However|but]] I [[20_Vocabulary/suspect|suspect]] it’s just not [[20_Vocabulary/will|going to]] be easy. ***Q22***
+JAKE: Mmm. Let’s [[20_Vocabulary/suppose|think]]. [[20_Vocabulary/thereby|So]] your [[20_Vocabulary/methodology|methodology]] [[20_Vocabulary/will|would]] [[20_Vocabulary/involve|involve]] the children recording what they eat. OK, [[20_Vocabulary/However|but]] you’d [[20_Vocabulary/What's more|also]] need to have [[20_Vocabulary/access|access]] to the children’s [[20_Vocabulary/clinical form|medical records]] [[20_Vocabulary/In addition|and]] I don’t [[20_Vocabulary/suppose|think]] people [[20_Vocabulary/will|would]] be happy [[20_Vocabulary/approximately|about]] that; [[20_Vocabulary/confidentiality|confidentiality]] [[20_Vocabulary/will|would]] be an issue. [[20_Vocabulary/suppose|If]] you could [[20_Vocabulary/obtain|get]] the right [[20_Vocabulary/statistic|data]], the conclusions might be [[20_Vocabulary/meaningful|significant]], [[20_Vocabulary/However|but]] I [[20_Vocabulary/suspect|suspect]] it’s just not [[20_Vocabulary/will|going to]] be easy. ***Q22***
 
 CLARE: Right.
 
@@ -178,7 +178,7 @@ JAKE: Mmm. That might be rather broad. [[20_Vocabulary/perhaps|Maybe]] just [[20
 
 CLARE: [[20_Vocabulary/actually|In fact]], [[20_Vocabulary/perhaps|maybe]] the [[20_Vocabulary/narrow the topic down|focus]] could be on whether mice can [[20_Vocabulary/manipulate|control]] [[20_Vocabulary/themselves|their own]] [[20_Vocabulary/diet|diet]]. ***Q24***
 
-JAKE: [[20_Vocabulary/thereby|So]], what happens when they have access to more sugar, that they don’t [[20_Vocabulary/actually|really]] need?
+JAKE: [[20_Vocabulary/thereby|So]], what happens when they have [[20_Vocabulary/access|access]] to more sugar, that they don’t [[20_Vocabulary/actually|really]] need?
 
 CLARE: [[20_Vocabulary/accurately|Exactly]]. Do they eat it or do they decide to leave it?
 

@@ -12,7 +12,7 @@ US President Donald Trump initially gave himself until December 16 to comply wit
 
 "[[20_Vocabulary/However|But]] [[20_Vocabulary/suppose|if]] the moment arrives, we're prepared to move forward... we've raised the [[20_Vocabulary/major city|capital]] to buy it - we'll see."
 
-The [[20_Vocabulary/widespread|popular]] [[20_Vocabulary/brief|short]]-[[20_Vocabulary/curve|form]] video app was due to be banned or sold in the US in January in accordance with a [[20_Vocabulary/legislation|law]] passed by [[20_Vocabulary/conference|Congress]] in 2024.
+The [[20_Vocabulary/widespread|popular]] [[20_Vocabulary/brief|short]]-[[20_Vocabulary/curve|form]] video app was [[20_Vocabulary/due to|due to]] be banned or sold in the US in January in accordance with a [[20_Vocabulary/legislation|law]] passed by [[20_Vocabulary/conference|Congress]] in 2024.
 
 Lawmakers said at the time ByteDance's links to the Chinese government threatened national security, [[20_Vocabulary/In addition|and]] expressed fears Beijing could force the [[20_Vocabulary/organisation|company]] to hand [[20_Vocabulary/beyond|over]] [[20_Vocabulary/statistic|data]] on US users.
 
