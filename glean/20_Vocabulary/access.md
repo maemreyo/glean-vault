@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [access's, accessible, accessibility, inaccessible, entry, entrance, approach, admission, gain access, have access to]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈækses/
+> **Part of Speech:** Noun/Verb
+> **CEFR Level:** B1
+> **Register:** Neutral/Formal
+> **Etymology:** Latin accessus (approach, entrance), from accedere (to approach)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A way of entering or reaching; the right or opportunity to use something
+>
+> **Context Meaning:** The means or opportunity to approach, enter, or make use of something; permission to use or view information
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự tiếp cận, lối vào
+> - **Contextual:** quyền truy cập, cơ hội tiếp cận, lối đi vào, cách tiếp cận
+>
 > **Nuances:**
-> - ...
+> - Can be physical (entrance to a place) or digital (login to data)
+> - Implies permission or capability to reach/use something
+> - Often used in contexts of rights, privileges, and availability
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Entryway, Gateway, Permission
+> **Memory Hook:** Think of "access" as the key that opens doors - both literal and figurative
+> **📖 Etymology Story:** Latin ad (to) + cedere (to go, yield) → accedere (to approach, enter) → accessus (an approach) → English access. Originally described physically approaching something, now includes digital and figurative entry.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[access]] /ˈækses/
+> - **Verb:** [[access]] /ˈækses/
+> - **Adj:** [[accessible]] /əkˈsesəbl/
+> - **Adv:** [[accessibly]] /əkˈsesəbli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[entry]] /ˈentri/ : Way in
+> - [[admission]] /ədˈmɪʃn/ : Permission to enter
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[denial]] /dɪˈnaɪəl/ : Refusal of entry
+> - [[restriction]] /rɪˈstrɪkʃn/ : Limitation of access
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. have access to (có quyền truy cập)
+> 2. gain access (có được quyền truy cập)
+> 3. easy/difficult access (dễ/khó tiếp cận)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Students have access to the library 24 hours a day during exam week.
+> - **Translation:** Sinh viên có quyền truy cập thư viện 24 giờ mỗi ngày trong tuần thi.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new wheelchair ramp provides better access for disabled visitors.
+> - **Translation:** Dốc xe lăn mới cung cấp lối vào tốt hơn cho du khách khuyết tật.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Access vs. Excess**
+> - ❌ **Mistake:** "I have excess to the building"
+> - ✅ **Correction:** "I have access to the building"
+> - **Why:** "Access" (permission to enter) vs. "excess" (too much of something)
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Please use your card to gain access to the secure area."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **access** (*/ˈækses/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The means or opportunity to approach, enter, or use something; permission or ability to reach or obtain something
+> 🇻🇳 **Vietnamese:** Sự tiếp cận; quyền truy cập; lối vào; cơ hội sử dụng hoặc tiếp cận một cái gì đó
+> 🗣️ **IPA:** */ˈækses/*
+> 🧠 **Mental Model:** Picture a keycard that opens doors - that's your "access" to enter restricted areas
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The right or opportunity to use or enter something"
+**Vietnamese:** Quyền truy cập; cơ hội tiếp cận
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**access** (*/ˈækses/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **access** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The internet has given millions of people access to information that was previously unavailable.
+> 🇻🇳 **Translation:** Internet đã cung cấp cho hàng triệu người sự tiếp cận thông tin mà trước đây không có sẵn.
+> 🔍 **Analysis:** "Access" here represents both the ability and right to obtain information - đại diện cho cả khả năng và quyền thu thập thông tin
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **access**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Permission:** have/gain/get access to (có/quyền truy cập vào) - describes obtaining permission
+> 2. **Quality:** easy/difficult/limited access (tiếp cận dễ/khó/hạn chế) - describes the nature of access
+> 3. **Type:** direct/remote/internet access (truy cập trực tiếp/từ xa/internet) - specifies the method
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **access**:
+"I can use the database."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "As a researcher, I have access to the university's extensive academic database."
+> 💡 **Why it works:** "Access" is more formal and precisely describes permission to use resources - trang trọng và mô tả chính xác quyền sử dụng tài nguyên
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+### Card 6: Nuance Barrier (Comparison) [Phase 4: Mastery]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **access** instead of **[[entry]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **access:** Broader term including permission, ability, and means to use/enter something (quyền truy cập và khả năng)
+> **[[entry]]:** More focused on physical point of entrance (lối đi vào)
+> 🧱 **The Barrier:** Permission vs. Location - "access" encompasses rights and capabilities; "entry" refers specifically to doors or gates
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You need to enter a restricted area but don't have permission. You feel determined. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I need to speak with security about getting temporary access to the research lab."
+> 👨‍🎨 **Director's Note:** Shows you understand access requires official permission - demonstrates proper process awareness - thể hiện hiểu biết về quy trình chính xác
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `accedere` (to approach) to the meaning of **access**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin ad (to, toward) + cedere (to go, yield) → accedere (to approach, enter) → accessus (an approach) → English access. The evolution from physically moving toward something to having the right to use or enter it reflects our expanding concept of boundaries and permissions.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **access**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:**
+> - Latin `cedere` (to go, yield, proceed)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[access]] (entry or permission)
+> - *(verb)* [[access]] (to gain entry to)
+> - *(adjective)* [[accessible]] (easy to enter or use)
+> - *(noun)* [[accessibility]] (quality of being accessible)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈækses/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**access**
+> 📖 **Meaning:** Means of entering or using
+> 🇻🇳 **Vietnamese:** Sự tiếp cận; quyền truy cập
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The building has no access for wheelchair users."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The building is not accessible to wheelchair users." OR "The building has no wheelchair access."
+> 🧠 **Why:** More natural to describe buildings as "accessible" or mention specific "wheelchair access." "Has no access" sounds incomplete.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **access**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[restriction]] (sự hạn chế - limitation or control)
+> - [[denial]] (sự từ chối - refusal to grant permission)
+> 🧱 **Contrast:** "Access" opens doors and provides opportunities; its opposite creates barriers and prevents entry or use
 
 ---

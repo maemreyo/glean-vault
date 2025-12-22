@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
 #flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [community project, community initiative, local project, civic project, neighborhood project]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ðə kəˈmjuːnəti ˈprɒdʒekt/
+> **Part of Speech:** Noun phrase (compound noun)
+> **CEFR Level:** B1
+> **Register:** Neutral/Social
+> **Etymology:** 'Community' from Latin 'communis' (common, shared); 'Project' from Latin 'proicere' (to throw forth)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A collaborative initiative planned and carried out by community members
+>
+> **Context Meaning:** Local initiatives and activities organized by community residents to address shared needs or goals
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** dự án cộng đồng
+> - **Contextual:** dự án địa phương, sáng kiến cộng đồng, hoạt động chung của cộng đồng
+>
 > **Nuances:**
-> - ...
+> - Emphasizes collective action and local participation
+> - Often volunteer-based or non-profit
+> - Can address social, environmental, or cultural needs
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Collaborative, Grassroots, Empowering
+> **Memory Hook:** Community = unity, project = plan → people united in plan
+> **📖 Etymology Story:** Latin 'communis' (shared) + Latin 'proicere' (to throw forward) → throwing shared ideas forward together. Community projects are literally communities throwing their collective energy forward toward common goals.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[community]] /kəˈmjuːnəti/, [[project]] /ˈprɒdʒekt/
+> - **Verb:** [[project]] /prəˈdʒekt/, [[collaborate]] /kəˈlæbəreɪt/
+> - **Adj:** communal /ˈkɒmjʊnl/, community-based /kəˈmjuːnəti beɪst/
+> - **Adv:** collectively /kəˈlektɪvli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[initiative]] /ɪˈnɪʃətɪv/ : new plan or process
+> - [[program]] /ˈprəʊgræm/ : planned series of activities
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[individual project]] /ˌɪndɪˈvɪdʒʊəl ˈprɒdʒekt/ : solo endeavor
+> - [[commercial venture]] /kəˈmɜːʃəl ˈventʃə/ : profit-driven activity
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. launch a community project
+> 2. participate in community project
+> 3. successful community project
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The residents organized a community project to clean up the local park and plant new trees.
+> - **Translation:** Cư dân đã tổ chức một dự án cộng đồng để dọn dẹp công viên địa phương và trồng những cái cây mới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Our community project aims to provide free tutoring services for underprivileged children.
+> - **Translation:** Dự án cộng đồng của chúng tôi nhằm cung cấp dịch vụ gia sư miễn phí cho trẻ em có hoàn cảnh khó khăn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article usage**
+> - ❌ **Mistake:** She started community project to help elderly.
+> - ✅ **Correction:** She started a community project to help the elderly.
+> - **Why:** 'Community project' is a singular countable noun requiring an article.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The community project received overwhelming support from local businesses and volunteers."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **the community project** (*/ðə kəˈmjuːnəti ˈprɒdʒekt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A collaborative initiative planned and executed by community members to address local needs or achieve shared goals
+> 🇻🇳 **Vietnamese:** Dự án cộng đồng; sáng kiến địa phương do người dân thực hiện
+> 🗣️ **IPA:** */ðə kəˈmjuːnəti ˈprɒdʒekt/*
+> 🧠 **Mental Model:** Giống như group assignment nhưng cho cả neighborhood - mọi người working together để làm something better cho nơi họ sống
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A collaborative initiative by local residents to address shared community needs"
+**Vietnamese:** Một sáng kiến hợp tác của người dân địa phương để giải quyết nhu cầu chung của cộng đồng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**the community project** (*/ðə kəˈmjuːnəti ˈprɒdʒekt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **the community project** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The community project transformed the abandoned lot into a vibrant community garden where neighbors grow fresh vegetables together.
+> 🇻🇳 **Translation:** Dự án cộng đồng đã biến khu đất trống bỏ hoang thành một khu vườn cộng đồng sôi động nơi hàng xóm cùng nhau trồng rau tươi.
+> 🔍 **Analysis:** Word này hoàn hảo vì thể hiện collaborative effort và positive change. "Community project" emphasizes collective action và local ownership, tạo feel-good story về neighbors helping nhau.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **the community project**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** launch/organize a community project (VN: khởi tạo/tổ chức dự án - beginning phase)
+> 2. **Participation:** participate in community project (VN: tham gia dự án - involvement action)
+> 3. **Success:** successful community project (VN: dự án thành công - outcome description)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **the community project**:
+"People worked together to fix the playground."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The community project brought together parents, teachers, and local businesses to renovate the playground with new equipment and safety features."
+> 💡 **Why it works:** "Community project" specific và formal hơn "people worked together", thể hiện organized effort và broad participation từ different stakeholders.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **the community project** instead of **[[government program]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **the community project:** Grassroots, volunteer-driven, local initiative, community ownership
+> **government program:** Top-down, funded by taxes, official bureaucracy, government control
+> 🧱 **The Barrier:** Community project = people helping themselves, government program = government helping people - difference ở initiation, ownership, và connection
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining your weekend plans to a colleague. You want to sound civic-minded and engaged. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm volunteering at the community project on Saturday - we're building a new library for the neighborhood kids."
+> 👨‍🎨 **Director's Note:** Câu này thể hiện civic responsibility và community spirit. "Community project" positioning speaker như active citizen involved trong positive local change.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `communis` and `proicere` to the meaning of **the community project**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'communis' (common, shared) + 'proicere' (to throw forward) → community project = throwing shared ideas forward together. Từ individual efforts đến collective action - communities literally projecting their hopes forward!
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **the community project**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Community = Latin `communis` (common) + Project = Latin `proicere` (throw forth)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* community, project, initiative, program
+> - *(verb)* project, collaborate, participate
+> - *(adj)* community-based, communal
+> - *(phrasal)* work together, join forces
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ðə kəˈmjuːnəti ˈprɒdʒekt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**the community project**
+> 📖 **Meaning:** A collaborative initiative by community members
+> 🇻🇳 **Vietnamese:** Dự án cộng đồng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "She has a great ideas for community projects."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "She has great ideas for community projects."
+> 🧠 **Why:** "Great" là adjective modifies "ideas", không cần article "a". Common error với adjective-noun combinations.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **the community project**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[individual initiative]] (solo effort without community involvement)
+> - [[commercial enterprise]] (profit-driven activity)
+> - [[government mandate]] (top-down directive rather than grassroots)
+> 🧱 **Contrast:** Community project emerges from community needs and participation, antonyms are driven by individuals, profit, or external authority
 
 ---

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [first and foremost, first things first, to begin with, in the first place, initially, firstly]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /fɜːst ɒv ɔːl/
+> **Part of Speech:** phrase (adverbial)
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Old English "fyrst" + "of" + "eall" (all)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Before anything else
+>
+> **Context Meaning:** Used to introduce the first and most important point in a series or argument
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** trước hết, đầu tiên là
+> - **Contextual:** điều quan trọng nhất là, trên hết
+>
 > **Nuances:**
-> - ...
+> - Often used to emphasize importance or priority
+> - Signals the beginning of a structured argument or list
+> - Can be followed by "secondly," "thirdly," etc.
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized, assertive, prioritizing
+> **Memory Hook:** Imagine organizing items - you always deal with the first one before everything else (first of all)
+> **📖 Etymology Story:** This phrase has been used since Middle English to establish priority in arguments. The combination of "first" (primary) and "all" (everything) creates a powerful emphasis that what follows is the most crucial point.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adv:** [[firstly]] /ˈfɜːstli/, [[initially]] /ɪˈnɪʃəli/, [[primarily]] /praɪˈmerəli/
+> - **Phrase:** [[above all]] /əˈbʌv ɔːl/, [[first and foremost]] /fɜːst ænd ˈfɔːməʊst/
+> - **Adj:** [[primary]] /ˈpraɪməri/, [[initial]] /ɪˈnɪʃl/
+> - **Noun:** [[priority]] /praɪˈɒrəti/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[firstly]] /ˈfɜːstli/ : first point
+> - [[primarily]] /praɪˈmerəli/ : mainly
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[lastly]] /ˈlɑːstli/ : finally
+> - [[ultimately]] /ˈʌltɪmətli/ : in the end
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. First of all, I'd like to...
+> 2. First of all, we need to...
+> 3. First of all, let me explain...
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** First of all, I want to thank everyone for coming today.
+> - **Translation:** Trước hết, tôi muốn cảm ơn tất cả mọi người đã đến hôm nay.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** First of all, we must consider the safety implications.
+> - **Translation:** Trước hết, chúng ta phải cân nhắc những tác động về an toàn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Punctuation**
+> - ❌ **Mistake:** First of all we need to discuss the budget.
+> - ✅ **Correction:** First of all, we need to discuss the budget.
+> - **Why:** "First of all" at the beginning of a sentence is usually followed by a comma.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** First of all, let me clarify the objectives of this project.
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **first of all** (*/fɜːst ɒv ɔːl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Before anything else; used to introduce the most important point first
+> 🇻🇳 **Vietnamese:** Trước hết, đầu tiên là, điều quan trọng nhất là
+> 🗣️ **IPA:** */fɜːst ɒv ɔːl/*
+> 🧠 **Mental Model:** Khi bạn bắt đầu trình bày và muốn nhấn mạnh điểm quan trọng nhất trước tiên, như khi mở đầu một bài thuyết trình
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Used to introduce the first and most important point"
+**Vietnamese:** Dùng để giới thiệu điểm quan trọng nhất đầu tiên
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**first of all** (*/fɜːst ɒv ɔːl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **first of all** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** First of all, I'd like to apologize for the inconvenience caused.
+> 🇻🇳 **Translation:** Trước hết, tôi muốn xin lỗi về sự bất tiện đã gây ra.
+> 🔍 **Analysis:** "First of all" hoàn hảo ở đây vì nó tạo cấu trúc rõ ràng cho lời xin lỗi, cho thấy đây là điểm quan trọng nhất cần nói trước khi tiếp tục
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **first of all**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Introduction:** First of all, I'd like to... (đầu tiên, tôi muốn...)
+> 2. **Priority:** First of all, we must... (trước hết, chúng ta phải...)
+> 3. **Explanation:** First of all, let me explain... (đầu tiên, để tôi giải thích...)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **first of all**:
+"I want to mention something important."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "First of all, I want to emphasize the urgency of this situation."
+> 💡 **Why it works:** "First of all" tạo cấu trúc chuyên nghiệp và có tổ chức, mạnh hơn chỉ nói "I want to mention" vì nó cho thấy đây là điểm ưu tiên cao nhất
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **first of all** instead of **[[firstly]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **first of all:** Thường dùng trong văn nói, nhấn mạnh tầm quan trọng và sự ưu tiên, có thể đứng một mình
+> **[[firstly:**]] Trang trọng hơn, thường là phần của chuỗi firstly, secondly, thirdly...
+> 🧱 **The Barrier:** "First of all" nhấn mạnh importance, "firstly" chỉ indicates sequence
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're giving important instructions before an exam. You want to capture everyone's attention first. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "First of all, please put away all your phones and electronic devices."
+> 👨‍🎨 **Director's Note:** "First of all" tạo sự chú ý và ưu tiên, phù hợp khi đưa ra những chỉ thị quan trọng nhất
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `first + all` to the meaning of **first of all**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "First" (đầu tiên) + "all" (tất cả) kết hợp để nhấn mạnh rằng điểm sắp nói là quan trọng nhất trước khi xét đến bất cứ điều gì khác
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **first of all**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `fyrst` (đầu tiên) + `of` + `eall` (tất cả)
+> 👨‍👩‍👧 **Family:**
+> - *(adv)* [[firstly]] /ˈfɜːstli/
+> - *(phrase)* [[first things first]] /fɜːst θɪŋz fɜːst/
+> - *(phrase)* [[above all]] /əˈbʌv ɔːl/
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */fɜːst ɒv ɔːl/
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**first of all**
+> 📖 **Meaning:** Before anything else; most importantly
+> 🇻🇳 **Vietnamese:** Trước hết, quan trọng nhất
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** First of all thank you for your help.
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** First of all, thank you for your help.
+> 🧠 **Why:** "First of all" needs a comma when it introduces a sentence, as it's an introductory adverbial phrase
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **first of all**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[lastly]] (finally)
+> - [[ultimately]] (in the end)
+> - [[finally]] (at the end)
+> 🧱 **Contrast:** "First of all" introduces the beginning, "lastly" concludes, "ultimately" refers to the final outcome
 
 ---

@@ -1,280 +1,214 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
 #flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [exclusive design, inaccessible design, discriminatory design, exclusionary design, non-universal design]
+status: done
 ref:
+  - [[Cam 20 Listening Test 03]]
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /nɒn ɪnˈkluːsɪv dɪˈzaɪn/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** academic/social
+> **Etymology:** Latin 'inclusivus' (including) + 'designare' (to mark out)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** design that does not include everyone
+>
+> **Context Meaning:** design that fails to consider the needs of diverse users, particularly those with disabilities or different physical requirements
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thiết kế không bao trùm, thiết kế không bao hàm
+> - **Contextual:** thiết kế loại trừ, thiết kế không tiếp cận được
+>
 > **Nuances:**
-> - ...
+> - Often unintentional but creates barriers
+> - Can affect physical, digital, or social environments
+> - Increasingly recognized as a social equity issue
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Excluding, Limiting, Unintentionally Discriminating
+> **Memory Hook:** Non (not) + inclusive (including) = not including everyone
+> **📖 Etymology Story:** From Latin 'inclusivus' (including) + 'designare' (to mark out). Non-inclusive design marks boundaries that exclude rather than include, creating spaces and systems that fail to accommodate human diversity.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[inclusive]] /ɪnˈkluːsɪv/ - bao trùm, toàn diện
+> - **Adj:** [[exclusive]] /ɪkˈskluːsɪv/ - độc quyền, loại trừ
+> - **Noun:** [[design]] /dɪˈzaɪn/ - thiết kế
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[exclusive design]] /ɪkˈskluːsɪv dɪˈzaɪn/ : thiết kế độc quyền
+> - [[inaccessible design]] /ˌɪnəkˈsesəbəl dɪˈzaɪn/ : thiết kế không tiếp cận được
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[inclusive design]] /ɪnˈkluːsɪv dɪˈzaɪn/ : thiết kế bao trùm
+> - [[universal design]] /ˌjuːnɪˈvɜːsəl dɪˈzaɪn/ : thiết kế phổ quát
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. address non-inclusive design
+> 2. unintentional non-inclusive design
+> 3. non-inclusive design barriers
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The building's non-inclusive design prevented wheelchair users from accessing upper floors.
+> - **Translation:** Thiết kế loại trừ của tòa nhà đã ngăn cản người dùng xe lăn tiếp cận các tầng trên.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Urban planners must recognize and correct non-inclusive design in public spaces.
+> - **Translation:** Các nhà quy hoạch đô thị phải nhận ra và sửa chữa những thiết kế không bao trùm trong không gian công cộng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Hyphenation**
+> - ❌ **Mistake:** "noninclusive design"
+> - ✅ **Correction:** "non-inclusive design"
+> - **Why:** 'Non-inclusive' is hyphenated when used as a compound adjective before a noun.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The museum's non-inclusive design made it difficult for elderly visitors to enjoy the exhibitions."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-03/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **non-inclusive design** (*/nɒn ɪnˈkluːsɪv dɪˈzaɪn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Design that fails to consider the needs of diverse users, particularly those with disabilities or different requirements
+> 🇻🇳 **Vietnamese:** Thiết kế không bao trùm, thiết kế loại trừ
+> 🗣️ **IPA:** */nɒn ɪnˈkluːsɪv dɪˈzaɪn/*
+> 🧠 **Mental Model:** Design + exclusion = barriers for diverse users
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Design that fails to consider the needs of diverse users"
+**Vietnamese:** Thiết kế không bao trùm
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**non-inclusive design** (*/nɒn ɪnˈkluːsɪv dɪˈzaɪn/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **non-inclusive design** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The historic castle's non-inclusive design presents challenges for visitors with mobility impairments.
+> 🇻🇳 **Translation:** Thiết kế không bao trùm của lâu đài lịch sử tạo ra thách thức cho du khách khiếm khuyết về vận động.
+> 🔍 **Analysis:** "Presents challenges" shows how design choices can create unintended barriers, limiting access for certain groups.
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-03/02-activation
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **non-inclusive design**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Correction:** address/rectify/fix non-inclusive design (chỉnh sửa thiết kế không bao trùm - taking action)
+> 2. **Intent:** unintentional/inadvertent non-inclusive design (thiết kế không bao trùm vô tình - accidental exclusion)
+> 3. **Impact:** non-inclusive design barriers (rào cản thiết kế không bao trùm - created obstacles)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **non-inclusive design**:
+"The building wasn't accessible to everyone."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The architect's non-inclusive design failed to accommodate people with disabilities, creating unnecessary barriers to entry."
+> 💡 **Why it works:** "Non-inclusive design" precisely identifies the problem as a design flaw rather than a general statement, highlighting systemic exclusion.
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **non-inclusive design** instead of **bad design**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **non-inclusive design:** Specific failure in diversity consideration; systematic exclusion; social equity issue
+> **bad design:** General poor quality; aesthetic or functional failure; broader category
+> 🧱 **The Barrier:** Non-inclusive = specific social exclusion; Bad = general poor quality
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're visiting an old museum and notice there are no elevators or ramps. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The non-inclusive design of this museum excludes visitors who can't use stairs."
+> 👨‍🎨 **Director's Note:** Shows understanding of accessibility issues and how design choices affect different groups.
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-03/04-mastery
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `non-inclusive` and `design` to the meaning of **non-inclusive design**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin 'inclusivus' (including) with prefix 'non-' (not) + 'designare' (to mark out). Non-inclusive design marks boundaries that separate rather than unite, creating environments that privilege some users while excluding others.
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-03/05-addition
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **non-inclusive design**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `includere` ('to shut in') + `designare` ('to mark out')
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[exclusive]] /ɪkˈskluːsɪv/ - độc quyền, loại trừ
+> - *(adj)* [[accessible]] /əkˈsesəbəl/ - có thể tiếp cận được
+> - *(adj)* [[barrier-free]] /ˈbæriə friː/ - không có rào cản
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-03/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */nɒn ɪnˈkluːsɪv dɪˈzaɪn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**non-inclusive design**
+> 📖 **Meaning:** Design that excludes diverse users
+> 🇻🇳 **Vietnamese:** Thiết kế loại trừ
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The noninclusive design of the website made navigation difficult."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The non-inclusive design of the website made navigation difficult."
+> 🧠 **Why:** 'Non-inclusive' is hyphenated when used as a compound adjective before 'design'.
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-03/03-differentiation
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **non-inclusive design**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[inclusive design]] (considers all users' needs)
+> - [[universal design]] (works for everyone regardless of ability)
+> 🧱 **Contrast:** Non-inclusive creates barriers; inclusive removes them.
 
 ---

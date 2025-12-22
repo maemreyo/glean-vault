@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
 #flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [theater-goer, theatre-goers, theater-goers, audience member, playgoer, theatregoer, attendee, spectator]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈθɪətə ɡəʊə/ (UK) /ˈθiːətər ɡoʊər/ (US)
+> **Part of Speech:** noun (compound)
+> **CEFR Level:** B2
+> **Register:** neutral/formal
+> **Etymology:** From Greek "theatron" (place for viewing) + "goer" (one who goes)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Someone who regularly attends theatrical performances
+>
+> **Context Meaning:** A person who frequently goes to the theatre to watch plays, musicals, and other performances
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** người hay xem kịch, khán giả kịch
+> - **Contextual:** người yêu thích nghệ thuật sân khấu
+>
 > **Nuances:**
-> - ...
+> - Implies regular attendance rather than occasional
+> - Suggests appreciation for theatrical arts
+> - Often used in cultural contexts and discussions about arts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Cultured, sophisticated, appreciative
+> **Memory Hook:** Imagine someone consistently going (goer) to the theatre (theatre) - that's exactly what a theatre-goer does
+> **📖 Etymology Story:** "Theatre" comes from Greek "theatron" meaning "place for seeing/viewing." Combined with "-goer" (from Old English "gān" meaning "to go"), it creates a vivid image of someone regularly journeying to places of artistic performance.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[theatre]] /ˈθɪətə/, [[performance]] /pəˈfɔːməns/, [[audience]] /ˈɔːdiəns/
+> - **Verb:** [[attend]] /əˈtend/, [[watch]] /wɒtʃ/, [[appreciate]] /əˈpriːʃieɪt/
+> - **Adj:** [[theatrical]] /θiˈætrɪkəl/, [[cultural]] /ˈkʌltʃərəl/
+> - **Adv:** [[regularly]] /ˈreɡjələli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[playgoer]] /ˈpleɪɡəʊə/ : specifically for plays
+> - [[spectator]] /spekˈteɪtə/ : one who watches
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[performer]] /pəˈfɔːmə/ : one who performs
+> - [[actor]] /ˈæktə/ : one who acts
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Regular theatre-goer
+> 2. Passionate theatre-goer
+> 3. Theatre-goers often...
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The theatre was packed with enthusiastic theatre-goers for the opening night.
+> - **Translation:** Nhà hát chật cứng những người yêu kịch háo hức trong đêm khai mạc.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** As a regular theatre-goer, she subscribes to season tickets every year.
+> - **Translation:** Là một người hay xem kịch, cô ấy đăng ký vé mùa mỗi năm.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling confusion**
+> - ❌ **Mistake:** Theater-goer in British English
+> - ✅ **Correction:** Theatre-goer in British English
+> - **Why:** "Theatre" is the preferred British spelling, while "theater" is American English.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** The show received rave reviews from theatre-goers and critics alike.
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **theatre-goer** (*/ˈθɪətə ɡəʊə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person who regularly attends theatrical performances
+> 🇻🇳 **Vietnamese:** Người hay xem kịch, khán giả kịch thường xuyên
+> 🗣️ **IPA:** */ˈθɪətə ɡəʊə/ (UK) /ˈθiːətər ɡoʊər/ (US)*
+> 🧠 **Mental Model:** Một người có thói quen đi xem các buổi biểu diễn nghệ thuật sân khấu, thể hiện sự yêu thích và đánh giá cao nghệ thuật
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person who frequently goes to the theatre"
+**Vietnamese:** Người hay đi xem kịch
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**theatre-goer** (*/ˈθɪətə ɡəʊə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **theatre-goer** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Theatre-goers often discuss the performance during the interval.
+> 🇻🇳 **Translation:** Những người hay xem kịch thường thảo luận về buổi biểu diễn trong lúc nghỉ giải lao.
+> 🔍 **Analysis:** "Theatre-goers" hoàn hảo ở đây vì nó chỉ định nhóm người đặc biệt có chung sở thích và thói quen đi xem kịch, không phải khán giả nói chung
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **theatre-goer**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Frequency:** Regular theatre-goer (người xem thường xuyên)
+> 2. **Enthusiasm:** Passionate/theatre-goer (người yêu kịch say mê)
+> 3. **Preference:** Dedicated/theatre-goer (người dành riêng thời gian)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **theatre-goer**:
+"She likes watching plays."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "As a devoted theatre-goer, she attends at least two performances every month."
+> 💡 **Why it works:** "Theatre-goer" thể hiện sự chuyên nghiệp và đam mê, mạnh hơn "likes watching" vì nó cho thấy đây là một hoạt động thường xuyên và quan trọng
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **theatre-goer** instead of **[[viewer]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **theatre-goer:** Dùng riêng cho người tham dự trực tiếp các buổi biểu diễn tại nhà hát, mang tính chuyên môn và thường xuyên
+> **[[viewer]]:** Dùng cho người xem chung (TV, phim, etc.), không có yếu tố thường xuyên hay chuyên biệt
+> 🧱 **The Barrier:** "Theatre-goer" có yếu tố chuyên biệt hóa và thường xuyên, còn "viewer" mang tính chung chung hơn
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend says they want to start appreciating live performances more. You're encouraging them. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Join our theatre-goer club! We get group discounts and discuss shows over dinner afterward."
+> 👨‍🎨 **Director's Note:** "Theatre-goer club" tạo cảm giác cộng đồng và chuyên nghiệp, phù hợp khi mời người khác tham gia hoạt động văn hóa
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `theatron` to the meaning of **theatre-goer**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Theatron" từ Hy Lạp cổ có nghĩa là "nơi để xem" - ghép với "-goer" (người đi) tạo thành hình ảnh người thường xuyên đến những nơi xem biểu diễn nghệ thuật
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **theatre-goer**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `theatron` (nơi để xem) + Old English `gān` (đi) + agent suffix `-er`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[theatre]] /ˈθɪətə/
+> - *(noun)* [[goer]] /ˈɡəʊə/
+> - *(noun)* [[theatregoer]] /ˈθɪətəɡəʊə/
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈθɪətə ɡəʊə/
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**theatre-goer**
+> 📖 **Meaning:** A person who regularly attends theatrical performances
+> 🇻🇳 **Vietnamese:** Người hay xem kịch
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** The theater-goers enjoyed the play very much.
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** The theatre-goers enjoyed the play very much.
+> 🧠 **Why:** Use "theatre" for British English or specify context; both spellings are correct in their respective dialects
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **theatre-goer**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[performer]] (the one on stage)
+> - [[homebody]] (prefers staying home)
+> 🧱 **Contrast:** "Theatre-goer" attends performances, "performer" creates them, "homebody" avoids such outings
 
 ---

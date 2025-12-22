@@ -1,280 +1,202 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
 #flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [amateur historian, amateur historians, history buff, historical enthusiast, non-professional historian, lay historian, hobby historian, local historian]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈæmətə hɪˈstɔːriən/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** general
+> **Etymology:** Latin amator 'lover, friend' + Greek historia 'inquiry, knowledge'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** someone who studies or writes about history without professional training or payment
+>
+> **Context Meaning:** a person who passionately pursues historical research and knowledge as a hobby or interest, rather than as a profession; often specializing in local or specific historical topics
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nhà sử học nghiệp dư
+> - **Contextual:** người yêu thích lịch sử, nhà sử học không chuyên
+>
 > **Nuances:**
-> - ...
+> - May have deep knowledge in specific areas despite lack of formal credentials
+> - Often contributes valuable local or specialized historical knowledge
+> - Distinguished from academic or professional historians by training and payment status
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Passionate, Curious, Dedicated, Enthusiastic
+> **Memory Hook:** amateur (lover of) + historian (studier of past) = someone who studies history for love, not money
+> **📖 Etymology Story:** From Latin 'amator' (lover) and Greek 'historia' (inquiry). The amateur historian is literally "a lover of inquiry into the past" - someone driven by passion rather than profession, like the dedicated detective who solves mysteries for the love of truth, not for a paycheck.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[amateur]] /ˈæmətə(r)/ - người nghiệp dư
+> - **Noun:** [[historian]] /hɪˈstɔːriən/ - nhà sử học
+> - **Adj:** [[historical]] /hɪˈstɒrɪkl/ - thuộc về lịch sử
+> - **Adj:** [[amateurish]] /ˈæmətərɪʃ/ - nghiệp dư, không chuyên nghiệp
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[history buff]] /ˈhɪstəri bʌf/ : người đam mê lịch sử
+> - [[lay historian]] /leɪ hɪˈstɔːriən/ : nhà sử học không chuyên
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[professional historian]] /prəˈfeʃənl hɪˈstɔːriən/ : nhà sử học chuyên nghiệp
+> - [[academic historian]] /ˌækəˈdemɪk hɪˈstɔːriən/ : nhà sử học học thuật
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. dedicated amateur historian
+> 2. local amateur historian
+> 3. amateur historian discovers
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The amateur historian spent decades researching the town's forgotten railway history.
+> - **Translation:** Nhà sử học nghiệp dư đã dành nhiều thập kỷ để nghiên cứu về lịch sử đường sắt bị lãng quên của thị trấn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** An amateur historian uncovered important documents in the church attic that shed new light on the medieval period.
+> - **Translation:** Một nhà sử học nghiệp dư đã phát hiện ra các tài liệu quan trọng trong gác nhà thờ, làm sáng tỏ thêm về thời kỳ Trung cổ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Negative Connotation**
+> - ❌ **Mistake:** Assuming "amateur" always means unskilled
+> - ✅ **Correction:** An amateur historian can be highly knowledgeable and skilled
+> - **Why:** "Amateur" refers to payment status, not necessarily skill level
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The amateur historian was the first to notice the pattern in the ancient burial sites."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **amateur historian** (*/ˈæmətə hɪˈstɔːriən/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A person who studies history as a hobby or passion rather than as a profession, often specializing in particular topics without formal academic training
+> 🇻🇳 **Vietnamese:** Nhà sử học nghiệp dư, người yêu thích lịch sử
+> 🗣️ **IPA:** */ˈæmətə hɪˈstɔːriən/*
+> 🧠 **Mental Model:** Love of history + no payment = passionate researcher driven by curiosity, not career
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A person who studies history as a hobby rather than as a profession"
+**Vietnamese:** Nhà sử học nghiệp dư
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**amateur historian** (*/ˈæmətə hɪˈstɔːriən/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **amateur historian** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The local museum consulted the amateur historian for his expertise on Victorian-era artifacts found in the area.
+> 🇻🇳 **Translation:** Bảo tàng địa phương đã tham khảo ý kiến của nhà sử học nghiệp dư về chuyên môn của ông đối với các cổ vật thời Victoria được tìm thấy trong khu vực.
+> 🔍 **Analysis:** "Consulted the amateur historian" shows how their specialized knowledge can be valued despite lacking professional credentials, demonstrating respect for their expertise.
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **amateur historian**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality:** dedicated/passionate/enthusiastic amateur historian (nhà sử học nghiệp dư tận tâm/đam mê/nhiệt tình - describes their commitment)
+> 2. **Scope:** local/family/amateur historian (nhà sử học nghiệp dư địa phương/gia đình - their area of focus)
+> 3. **Action:** amateur historian discovers/researches/unearths (nhà sử học nghiệp dư phát hiện/nghiên cứu/khai quật - their activities)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **amateur historian**:
+"He liked studying old things."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The retired teacher became an amateur historian, meticulously documenting the forgotten stories of his hometown through photographs, interviews, and archival research spanning three decades."
+> 💡 **Why it works:** "Amateur historian" elevates "studying old things" to serious, dedicated historical work, adding credibility and passion to the activity.
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **amateur historian** instead of **professional historian**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **amateur historian:** Driven by passion, specializes by interest, flexible methods, often local focus
+> **professional historian:** Academic training, paid position, peer-reviewed research, institutional backing
+> 🧱 **The Barrier:** Amateur historian = love of the subject; Professional historian = career in the subject
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You've spent years researching your family's immigration story. Someone asks about your hobby. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm an amateur historian, focusing on the early 20th-century immigrant experience in this region."
+> 👨‍🎨 **Director's Note:** Shows pride in their specialized knowledge and clarifies their status as non-professional but dedicated researcher.
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `amator` to the meaning of **amateur historian**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'amator' (lover) + Greek 'historia' (inquiry). The amateur historian is truly a "lover of historical inquiry" - someone whose relationship with the past is driven by passion rather than profession, like a musician who plays for the joy of music rather than for concert halls.
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **amateur historian**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Latin `amator` ('lover') + Greek `historia` ('inquiry, knowledge')
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[amateur]] /ˈæmətə(r)/ - người nghiệp dư
+> - *(noun)* [[historian]] /hɪˈstɔːriən/ - nhà sử học
+> - *(adj)* [[historical]] /hɪˈstɒrɪkl/ - thuộc về lịch sử
+> - *(adj)* [[amateurish]] /ˈæmətərɪʃ/ - nghiệp dư (sometimes negative connotation)
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈæmətə hɪˈstɔːriən/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**amateur historian**
+> 📖 **Meaning:** Person who studies history as a hobby rather than profession
+> 🇻🇳 **Vietnamese:** Nhà sử học nghiệp dư, người yêu thích lịch sử
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The amateur historian wasn't qualified because he didn't have a degree."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The amateur historian brought valuable perspectives despite not having an academic degree."
+> 🧠 **Why:** Amateurs can be highly knowledgeable and skilled; lack of formal credentials doesn't necessarily mean lack of expertise.
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **amateur historian**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[professional historian]] - nhà sử học chuyên nghiệp (paid, academic credentials)
+> - [[academic historian]] - nhà sử học học thuật (university-based, peer-reviewed research)
+> 🧱 **Contrast:** Amateur historian pursues history for love; professional historian pursues history as career.
 
 ---

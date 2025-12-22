@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [turns out, turned out, turning out, it turns out, as it turned out, happen, prove, result]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /tɜːn aʊt/
+> **Part of Speech:** phrasal verb
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** From Old English "turnian" (to rotate) + "out" (resulting position)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To emerge or be revealed in a particular way
+>
+> **Context Meaning:** To develop or end in a particular way; to happen in a specified manner
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hóa ra, ra là, tỏ ra là
+> - **Contextual:** kết quả là, cuối cùng thì
+>
 > **Nuances:**
-> - ...
+> - Used to report a discovery or surprising fact
+> - Often appears at the beginning of a sentence with "it"
+> - Can refer to both positive and negative outcomes
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Neutral, informative
+> **Memory Hook:** Imagine turning something inside out to reveal what's truly there - that's what "turn out" does, revealing the real result
+> **📖 Etymology Story:** The verb "turn" originally meant to rotate on an axis. When combined with "out," it creates the image of something emerging or being revealed after a process, like a key turning in a lock and the door opening to show what's inside.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[outcome]] /ˈaʊtkʌm/
+> - **Verb:** [[turn]] /tɜːn/, [[reveal]] /rɪˈviːl/
+> - **Adj:** [[surprising]] /səˈpraɪzɪŋ/, [[unexpected]] /ˌʌnɪkˈspektɪd/
+> - **Adv:** [[ultimately]] /ˈʌltɪmətli/, [[eventually]] /ɪˈventʃuəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[prove]] /pruːv/ : to show something is true
+> - [[result]] /rɪˈzʌlt/ : to happen as a consequence
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[conceal]] /kənˈsiːl/ : to hide something
+> - [[disappear]] /ˌdɪsəˈpɪə/ : to vanish
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. It turned out that...
+> 2. As it turned out...
+> 3. Turn out to be...
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** It turned out that we were both from the same hometown.
+> - **Translation:** Hóa ra chúng tôi đều đến từ cùng một quê hương.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The weather turned out to be perfect for our picnic.
+> - **Translation:** Thời tiết cuối cùng lại rất hoàn hảo cho buổi dã ngoại của chúng tôi.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect tense usage**
+> - ❌ **Mistake:** It turn out to be false.
+> - ✅ **Correction:** It turned out to be false.
+> - **Why:** "Turned out" is the past tense form needed when referring to a discovered fact in the past.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** The experiment turned out to be more successful than we had anticipated.
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **turned out** (*/tɜːn aʊt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To develop or end in a particular way; to happen as a specified result
+> 🇻🇳 **Vietnamese:** Hóa ra, kết quả là, tỏ ra là
+> 🗣️ **IPA:** */tɜːn aʊt/*
+> 🧠 **Mental Model:** Khi một tình huống hoặc sự việc có kết quả thực sự khác với mong đợi ban đầu, như khi bạn khám phá ra sự thật ẩn giấu
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To be discovered to be; to prove to be in the end"
+**Vietnamese:** Hóa ra là, tỏ ra là
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**turned out** (*/tɜːn aʊt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **turned out** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new restaurant turned out to be incredibly popular.
+> 🇻🇳 **Translation:** Nhà hàng mới hóa ra lại vô cùng phổ biến.
+> 🔍 **Analysis:** "turned out" hoàn hảo ở đây vì nó thể hiện sự khám phá về một kết quả bất ngờ hoặc không mong đợi (nhà hàng受欢迎程度 ngoài dự kiến)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **turned out**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Discovery:** It turned out that... (khám phá sự thật)
+> 2. **Sequence:** As it turned out... (khi sự việc diễn ra)
+> 3. **Identity:** Turned out to be... (hóa ra là ai/cái gì)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **turned out**:
+"I was wrong about him."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I was wrong about him - he turned out to be the kindest person I've ever met."
+> 💡 **Why it works:** "Turned out" tạo cảm giác khám phá và bất ngờ, mạnh hơn là chỉ nói "he was" vì nó thể hiện quá trình tìm ra sự thật
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **turned out** instead of **[[was]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **turned out:** Dùng khi muốn nhấn mạnh sự khám phá hoặc kết quả bất ngờ (ex: It turned out that he was lying)
+> **[[was]]:** Chỉ đơn giản là nêu một sự thật (ex: He was lying)
+> 🧱 **The Barrier:** "Turned out" có yếu tố discovery và surprise, còn "was" chỉ là statement of fact
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You've just discovered your quiet neighbor is a famous musician. You feel surprised. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "After all this time, it turns out she's been hiding her incredible talent!"
+> 👨‍🎨 **Director's Note:** "Turns out" thể hiện sự ngạc nhiên và khám phá đột ngột, rất phù hợp với context vừa tìm ra sự thật về người hàng xóm
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `turn` to the meaning of **turned out**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Turn" từ gốc Anglo-Saxon mang nghĩa xoay tròn. "Turned out" như khi bạn xoay một vật thể và nó lộ ra mặt thật của nó - tương tự như khi sự thật được khám phá sau một quá trình
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **turned out**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `turnian` (xoay, tròn) + `out` (ra ngoài)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[turn]] /tɜːn/
+> - *(noun)* [[turnout]] /ˈtɜːnaʊt/
+> - *(phrase)* [[turn out]] /tɜːn aʊt/
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */tɜːn aʊt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**turned out**
+> 📖 **Meaning:** To develop or end in a particular way
+> 🇻🇳 **Vietnamese:** Hóa ra là, kết quả là
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** I thought it will rain, but it turn out sunny.
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** I thought it would rain, but it turned out sunny.
+> 🧠 **Why:** Need past tense "turned out" to match the sequence of tenses, and "would" for future in the past
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **turned out**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[remained]] (stayed the same)
+> - [[concealed]] (hid the truth)
+> 🧱 **Contrast:** "Turned out" reveals truth, "remained" shows no change, "concealed" actively hides truth
 
 ---

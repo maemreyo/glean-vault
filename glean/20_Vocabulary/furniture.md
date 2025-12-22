@@ -1,280 +1,202 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
 #flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [furniture, furnishing, furnishings, fixture, fittings, household items, interior decor, chairs, tables, cabinets, upholstery]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfɜːnɪtʃə(r)/
+> **Part of Speech:** noun (uncountable)
+> **CEFR Level:** A2
+> **Register:** general
+> **Etymology:** Old French fourniture 'a supply, provisions' from fournir 'to furnish'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** movable objects in a room that make it suitable for living or working
+>
+> **Context Meaning:** chairs, tables, beds, desks, and cabinets that furnish and equip a space; essential movable items that make buildings functional for human use
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nội thất, đồ đạc
+> - **Contextual:** đồ dùng, đồ nội thất
+>
 > **Nuances:**
-> - ...
+> - Uncountable noun: cannot say "furnitures" (use "pieces of furniture")
+> - Includes only movable items (not fixed fixtures)
+> - Can be functional, decorative, or both
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Functional, Comfortable, Essential, Stylish
+> **Memory Hook:** furnish (to equip) + ture (noun ending) = things that equip a room
+> **📖 Etymology Story:** From Old French 'fourniture' meaning 'a supply'. Furniture supplies our basic human needs - a chair supplies rest, a bed supplies sleep, a table supplies gathering space. These objects furnish our lives with comfort and functionality.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[furnish]] /ˈfɜːnɪʃ/ - trang bị, cung cấp
+> - **Noun:** [[furnishing]] /ˈfɜːnɪʃɪŋ/ - vật dụng, đồ trang trí
+> - **Noun:** [[furniture store]] /ˈfɜːnɪtʃə stɔː(r)/ - cửa hàng nội thất
+> - **Noun:** [[furniture maker]] /ˈfɜːnɪtʃə meɪkə(r)/ - thợ mộc
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[furnishings]] /ˈfɜːnɪʃɪŋz/ : vật dụng (often includes decorative items)
+> - [[fixtures]] /ˈfɪkstʃəz/ : vật cố định (permanent installations)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - N/A
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. piece of furniture
+> 2. antique furniture
+> 3. office furniture
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The apartment came with basic furniture including a bed, table, and chairs.
+> - **Translation:** Căn hộ đi kèm với nội thất cơ bản bao gồm giường, bàn và ghế.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** They spent the weekend assembling flat-pack furniture for their new home.
+> - **Translation:** Họ đã cuối tuần để lắp ráp nội thất tháo rời cho ngôi nhà mới của mình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural Form**
+> - ❌ **Mistake:** "We bought some new furnitures."
+> - ✅ **Correction:** "We bought some new furniture/pieces of furniture."
+> - **Why:** "Furniture" is an uncountable noun with no plural form.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The archaeological site revealed ancient furniture made from oak and animal hides."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **furniture** (*/ˈfɜːnɪtʃə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Movable objects such as chairs, tables, and beds that furnish a room or building and make it suitable for living or working
+> 🇻🇳 **Vietnamese:** Nội thất, đồ đạc
+> 🗣️ **IPA:** */ˈfɜːnɪtʃə(r)/*
+> 🧠 **Mental Model:** Moveable objects + functional comfort = equipment that makes spaces usable
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Movable objects that furnish a room or building"
+**Vietnamese:** Nội thất
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**furniture** (*/ˈfɜːnɪtʃə(r)/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **furniture** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The minimalist room contained only essential furniture: a bed, a desk, and a single bookshelf.
+> 🇻🇳 **Translation:** Căn phòng tối giản chỉ chứa nội thất thiết yếu: một chiếc giường, một chiếc bàn làm việc và một kệ sách duy nhất.
+> 🔍 **Analysis:** "Essential furniture" emphasizes functionality over decoration, showing how furniture defines the purpose of a space through minimal but necessary items.
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **furniture**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quantity:** piece/item/article of furniture (một món đồ nội thất - counts uncountable noun)
+> 2. **Style:** antique/modern/vintage furniture (nội thất cổ/hiện đại/cũ - describes era/style)
+> 3. **Location:** office/garden/outdoor furniture (nội thất văn phòng/sân ngoài trời - specifies use location)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **furniture**:
+"The room had some things in it."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The room was sparsely furnished with Victorian-era furniture, including an ornate mahogany wardrobe and a velvet chaise lounge."
+> 💡 **Why it works:** "Furniture" specifically categorizes the objects as functional room items, while "Victorian-era" adds historical context and sophistication.
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **furniture** instead of **things**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **furniture:** Specifically refers to movable functional objects that equip spaces
+> **things:** General term for any objects, lacks specificity
+> 🧱 **The Barrier:** Furniture = functional room equipment; Things = any objects
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're helping a friend move into their new empty apartment. They ask what they need most. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You'll need some essential furniture first - a bed, a table, and at least one chair."
+> 👨‍🎨 **Director's Note:** Shows practical understanding of basic human needs for living space.
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `fournir` to the meaning of **furniture**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Old French 'fournir' (to furnish, provide). Furniture literally "provides" for our needs - chairs provide rest, tables provide surfaces, beds provide sleep. These are the provisions that transform empty rooms into livable spaces.
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **furniture**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** French `fournir` ('to furnish, provide')
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[furnish]] /ˈfɜːnɪʃ/ - trang bị
+> - *(noun)* [[furnishings]] /ˈfɜːnɪʃɪŋz/ - vật dụng trang trí
+> - *(adj)* [[unfurnished]] /ʌnˈfɜːnɪʃt/ - không có nội thất
+> - *(adj)* [[well-furnished]] /wel ˈfɜːnɪʃt/ - được trang bị đầy đủ
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfɜːnɪtʃə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**furniture**
+> 📖 **Meaning:** Movable objects that furnish a room or building
+> 🇻🇳 **Vietnamese:** Nội thất, đồ đạc
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The hotel room has beautiful furnitures."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The hotel room has beautiful furniture."
+> 🧠 **Why:** "Furniture" is an uncountable noun and does not have a plural form. Use "pieces of furniture" to count individual items.
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **furniture**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - N/A (no direct antonym)
+> - [[empty space]] - không gian trống (absence of furniture)
+> - [[bare walls]] - bức tường trần (unfurnished state)
+> 🧱 **Contrast:** Furniture fills and equips a space; empty space is the absence of such equipment.
 
 ---

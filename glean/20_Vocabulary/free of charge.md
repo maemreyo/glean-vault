@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [free, complimentary, without charge, no cost, at no cost, gratis, for free]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /friː ɒv tʃɑːdʒ/
+> **Part of Speech:** phrase (adjective)
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** Old English "frēo" (free) + Old French "chargier" (to load)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Without payment required
+>
+> **Context Meaning:** Provided without any cost or payment; complimentary
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** miễn phí, không tốn tiền
+> - **Contextual:** tặng kèm, không tính tiền
+>
 > **Nuances:**
-> - ...
+> - Often used in business contexts
+> - More formal than just "free"
+> - Implies something that would normally cost money
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Generous, promotional, welcoming
+> **Memory Hook:** Imagine shopping and finding items with "free of charge" tags - no money needed!
+> **📖 Etymology Story:** "Free" comes from Old English "frēo" (not in bondage), while "charge" comes from Old French "chargier" (to load). Together, they literally mean "free from being loaded with cost" - you're not burdened with payment.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[free]] /friː/, [[complimentary]] /ˌkɒmplɪˈmentri/
+> - **Adv:** [[freely]] /ˈfriːli/
+> - **Noun:** [[charge]] /tʃɑːdʒ/, [[cost]] /kɒst/
+> - **Phrase:** [[at no cost]] /æt nəʊ kɒst/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[complimentary]] /ˌkɒmplɪˈmentri/ : given free
+> - [[gratis]] /ˈɡrɑːtiːs/ : free of charge
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[chargeable]] /tʃɑːdʒəbl/ : requires payment
+> - [[paid]] /peɪd/ : not free
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Free of charge
+> 2. Available free of charge
+> 3. Provided free of charge
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The museum offers guided tours free of charge on weekends.
+> - **Translation:** Bảo tàng cung cấp các tour hướng dẫn miễn phí vào cuối tuần.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** All repairs are carried out free of charge under warranty.
+> - **Translation:** Mọi sửa chữa được thực hiện miễn phí trong thời gian bảo hành.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word order**
+> - ❌ **Mistake:** Charge free of
+> - ✅ **Correction:** Free of charge
+> - **Why:** The correct fixed phrase is "free of charge," not "charge free of."
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** The consultation was provided free of charge to new clients.
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **free of charge** (*/friː ɒv tʃɑːdʒ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Without cost or payment required; completely free
+> 🇻🇳 **Vietnamese:** Miễn phí, không tốn tiền, không tính phí
+> 🗣️ **IPA:** */friː ɒv tʃɑːdʒ/*
+> 🧠 **Mental Model:** Khi bạn nhận được hàng hóa hoặc dịch vụ mà không phải trả tiền, như "miễn phí giao hàng" hoặc "tặng kèm miễn phí"
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Without payment required; complimentary"
+**Vietnamese:** Không cần thanh toán; tặng kèm
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**free of charge** (*/friː ɒv tʃɑːdʒ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **free of charge** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Samples are available free of charge to interested customers.
+> 🇻🇳 **Translation:** Các mẫu sản phẩm được cung cấp miễn phí cho khách hàng quan tâm.
+> 🔍 **Analysis:** "Free of charge" hoàn hảo ở đây vì nó trang trọng hơn "free" và nhấn mạnh rằng những gì thường phải trả tiền giờ lại được tặng miễn phí
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **free of charge**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Service:** Available/provided/offered free of charge (có sẵn/cung cấp/tặng miễn phí)
+> 2. **Item:** Delivered/given free of charge (giao hàng/tặng miễn phí)
+> 3. **Event:** Admission free of charge (vào cửa miễn phí)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **free of charge**:
+"They give free samples."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The company provides product samples free of charge to potential customers."
+> 💡 **Why it works:** "Free of charge" tạo cảm giác chuyên nghiệp và trang trọng, mạnh hơn "free" vì nó thường dùng trong kinh doanh và dịch vụ
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **free of charge** instead of **[[free]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **free of charge:** Trang trọng hơn, thường dùng trong kinh doanh, nhấn mạnh điều gì đó thường có giá trị nay được miễn phí
+> **[[free:**]] Thông dụng hơn, có thể dùng trong mọi tình huống, không nhất thiết liên quan đến tiền bạc
+> 🧱 **The Barrier:** "Free of charge" mang tính thương mại và trang trọng, "free" có thể chỉ tự do hoặc không tính phí
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a customer service representative explaining the benefits of a premium membership. You want to highlight value. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Premium members receive personal shopping assistance free of charge with every purchase over $100."
+> 👨‍🎨 **Director's Note:** "Free of charge" thể hiện sự chuyên nghiệp và giá trị thương mại, phù hợp khi quảng bá dịch vụ khách hàng
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `free + charge` to the meaning of **free of charge**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Free" (tự do, không bị ràng buộc) + "charge" (giá tiền, khoản phí) - "free of charge" có nghĩa là được giải phóng khỏi khoản phí, không phải trả tiền
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **free of charge**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `frēo` (tự do) + Old French `chargier` (tải lên, tính phí)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[free]] /friː/
+> - *(phrase)* [[at no cost]] /æt nəʊ kɒst/
+> - *(adj)* [[complimentary]] /ˌkɒmplɪˈmentri/
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */friː ɒv tʃɑːdʒ/
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**free of charge**
+> 📖 **Meaning:** Without cost or payment
+> 🇻🇳 **Vietnamese:** Miễn phí
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** This service is charge of free.
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** This service is free of charge.
+> 🧠 **Why:** The correct fixed phrase is "free of charge" - the order cannot be changed
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **free of charge**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[chargeable]] (requires payment)
+> - [[at a cost]] (with price)
+> - [[paid service]] (not complimentary)
+> 🧱 **Contrast:** "Free of charge" means no payment, "chargeable" requires payment, "at a cost" has a price attached
 
 ---

@@ -6,7 +6,7 @@ A billionaire investor [[20_Vocabulary/keen on|keen on]] buying [[20_Vocabulary/
 
 The US has [[20_Vocabulary/a couple of times|repeatedly]] delayed the date by which the platform's Chinese owner, ByteDance, must sell or be blocked for American users.
 
-US President Donald Trump initially gave himself until December 16 to comply with the [[20_Vocabulary/legislation|law]] before moving the deadline to 23 January 2026 with a new executive [[20_Vocabulary/arrange|order]].
+US President Donald Trump [[20_Vocabulary/First of all|initially]] gave himself until December 16 to [[20_Vocabulary/comply|comply]] with the [[20_Vocabulary/legislation|law]] before moving the deadline to 23 January 2026 with a new executive [[20_Vocabulary/arrange|order]].
 
 "We're just standing by [[20_Vocabulary/In addition|and]] waiting to see what happens," investor Frank McCourt told BBC News.
 
@@ -30,13 +30,13 @@ Members of the Trump administration had indicated the deal [[20_Vocabulary/will|
 
 Neither [[20_Vocabulary/social media|TikTok]]'s Chinese owner ByteDance nor Beijing have since announced approval of a sale, [[20_Vocabulary/However|despite]] Trump's [[20_Vocabulary/claim|claims]].
 
-When Trump signed his most recent executive [[20_Vocabulary/arrange|order]] extending the deadline to January, he said in an online [[20_Vocabulary/parcel|post]] it [[20_Vocabulary/will|would]] [[20_Vocabulary/resulted in|lead to]] a deal [[20_Vocabulary/existence|being]] completed.
+[[20_Vocabulary/in case of|When]] Trump signed his most recent executive [[20_Vocabulary/arrange|order]] extending the deadline to January, he said in an online [[20_Vocabulary/parcel|post]] it [[20_Vocabulary/will|would]] [[20_Vocabulary/resulted in|lead to]] a deal [[20_Vocabulary/existence|being]] completed.
 
 [[20_Vocabulary/absence|Without]] naming Trump's hand-selected investors, Mr McCourt told the BBC he was concerned "[[20_Vocabulary/approximately|about]] a [[20_Vocabulary/concentration|concentration]] of power [[20_Vocabulary/In addition|and]] [[20_Vocabulary/manipulate|influence]] because platforms [[20_Vocabulary/For instance|like]] [[20_Vocabulary/social media|TikTok]] are very [[20_Vocabulary/influential|influencing]]".
 
 He is [[20_Vocabulary/belong to|part of]] a group of investors including Reddit co-founder Alexis Ohanian [[20_Vocabulary/In addition|and]] Canadian investor Kevin O'Leary.
 
-"My hope [[20_Vocabulary/will|would]] be that whatever happens, that it is shut down or sold, [[20_Vocabulary/In addition|and]] lands in the hands of people that comply with the [[20_Vocabulary/legislation|law]]," he said.
+"My hope [[20_Vocabulary/will|would]] be that whatever happens, that it is shut down or sold, [[20_Vocabulary/In addition|and]] lands in the hands of people that [[20_Vocabulary/comply|comply]] with the [[20_Vocabulary/legislation|law]]," he said.
 
 He said he wants to operate [[20_Vocabulary/social media|TikTok]] [[20_Vocabulary/absence|without]] any of its Chinese technology, including its [[20_Vocabulary/effective|powerful]] recommendation algorithm,[[20_Vocabulary/In addition|and]] that his [[20_Vocabulary/scheme|Project]] Liberty has [[20_Vocabulary/built up|developed]] other technology that could be [[20_Vocabulary/second-hand|used]] instead.
 

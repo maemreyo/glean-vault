@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [lethal, deadly, fatal, mortal, death-dealing, life-threatening, poisonous, toxic, lethal dose, lethal weapon]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈliːθl/
+> **Part of Speech:** adjective
+> **CEFR Level:** C1
+> **Register:** formal/medical
+> **Etymology:** Latin letalis 'deadly' from letum 'death'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** causing or able to cause death
+>
+> **Context Meaning:** sufficiently powerful or harmful to cause death; deadly in effect or purpose
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chết người, chí mạng
+> - **Contextual:** gây chết người, có thể gây chết
+>
 > **Nuances:**
-> - ...
+> - Often used in medical, scientific, or legal contexts
+> - Can describe substances, weapons, situations, or amounts
+> - Implies certainty or high probability of death if not prevented
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Dangerous, Serious, Critical, Terminal
+> **Memory Hook:** lethal (sounds like "letal") → let it die = causes death
+> **📖 Etymology Story:** From Latin 'letalis' relating to 'letum' (death). Something lethal literally has the nature of death - it carries death within it like a poison bottle containing its own fatal consequence.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[lethality]] /ləˈθæləti/ - tính chết người
+> - **Adv:** [[lethally]] /ˈliːθəli/ - một cách chết người
+> - **Noun:** [[lethal dose]] /ˈliːθl dəʊs/ - liều gây chết
+> - **Noun:** [[lethal injection]] /ˈliːθl ɪnˈdʒekʃn/ - tiêm thuốc độc
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[deadly]] /ˈdedli/ : chết người (common usage)
+> - [[fatal]] /ˈfeɪtl/ : chí mạng (often for accidents/disease)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[harmless]] /ˈhɑːmləs/ : vô hại
+> - [[non-lethal]] /ˌnɒnˈliːθl/ : không gây chết
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. lethal weapon
+> 2. lethal dose
+> 3. lethal combination
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The snake's venom is lethal to humans if not treated immediately.
+> - **Translation:** Nọc độc của con rắn chết người nếu không được điều trị ngay lập tức.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Police seized a lethal weapon during the raid on the criminal's hideout.
+> - **Translation:** Cảnh sát đã thu giữ một vũ khí chết người trong cuộc đột kích vào nơi ẩn náu của tội phạm.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Register**
+> - ❌ **Mistake:** Using "lethal" for minor dangers
+> - ✅ **Correction:** Use "dangerous" or "harmful" for non-fatal risks
+> - **Why:** "Lethal" specifically means deadly, not just risky
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The chemical compound proved lethal even in small quantities."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,120 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **lethal** (*/ˈliːθl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Sufficiently harmful to cause death; deadly or fatal in effect
+> 🇻🇳 **Vietnamese:** Chết người, chí mạng, gây chết người
+> 🗣️ **IPA:** */ˈliːθl/*
+> 🧠 **Mental Model:** Danger level + death = ultimate harm that cannot be survived
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Sufficiently harmful to cause death"
+**Vietnamese:** Chết người
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**lethal** (*/ˈliːθl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **lethal** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The laboratory handled the lethal virus under maximum security protocols to prevent any accidental exposure.
+> 🇻🇳 **Translation:** Phòng thí nghiệm xử lý virus chết người theo các giao thức an ninh tối đa để ngăn chặn mọi sự tiếp xúc rủi ro.
+> 🔍 **Analysis:** "Lethal virus" emphasizes the extreme danger - this isn't just harmful but potentially fatal, requiring the highest level of safety measures.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **lethal**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Weaponry:** lethal weapon/force/injection (vũ khí/lực lượng/tiêm thuốc chết người - physical means of causing death)
+> 2. **Measurement:** lethal dose/amount/concentration (liều/lượng/nồng độ chết người - the threshold for fatality)
+> 3. **Abstract:** lethal combination/effect/situation (sự kết hợp/tác động/tình huống chết người - multiple factors creating fatal outcome)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **lethal**:
+"The poison was very dangerous."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The laboratory confirmed that just five milligrams of the synthesized compound constituted a lethal dose for an adult human."
+> 💡 **Why it works:** "Lethal dose" precisely quantifies the fatal threshold, creating scientific precision and emphasizing the extreme toxicity beyond "very dangerous."
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **lethal** instead of **dangerous**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **lethal:** Specifically means able to cause death; absolute harm
+> **dangerous:** Means potentially harmful; various degrees of risk
+> 🧱 **The Barrier:** Lethal = causes death; Dangerous = may cause harm
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see a warning label on a chemical container. Your friend is about to touch it. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Stop! That label says it's lethal - even a drop could be fatal!"
+> 👨‍🎨 **Director's Note:** Conveys urgent warning with understanding of the word's life-or-death significance.
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `letum` to the meaning of **lethal**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Latin 'letum' (death) + '-alis' (pertaining to). Something lethal literally pertains to death - it carries death as its essential property. Like the mythic touch that turns everything to gold, the lethal touch turns everything to its end.
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **lethal**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `letum` ('death')
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[lethality]] /ləˈθæləti/ - tính chết người
+> - *(adv)* [[lethally]] /ˈliːθəli/ - một cách chết người
+> - *(adj)* [[non-lethal]] /ˌnɒnˈliːθl/ - không gây chết
+> - *(noun)* [[lethal dose]] /ˈliːθl dəʊs/ - liều gây chết
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈliːθl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**lethal**
+> 📖 **Meaning:** Able to cause death; deadly
+> 🇻🇳 **Vietnamese:** Chết người, chí mạng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error>
+🕵️ **Fix the Error:** "The hot coffee was lethal and burned my tongue."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The hot coffee was scalding and burned my tongue."
+> 🧠 **Why:** "Lethal" means deadly. Unless the coffee can actually cause death, use "hot," "scalding," or "dangerous" instead.
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **lethal**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[harmless]] - vô hại (cannot cause harm)
+> - [[life-saving]] - cứu sống (prevents death)
+> - [[benign]] - lành tính (medically non-dangerous)
+> - [[non-lethal]] - không gây chết (specifically designed not to kill)
+> 🧱 **Contrast:** Lethal ends life; harmless preserves it.
 
 ---

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [mistaken belief, false belief, misconception, fallacy, delusion, superstition, false notion, erroneous belief]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə mɪˈsteɪkən bɪˈliːf/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Combination of "mistaken" (from past participle of mistake) + "belief" (from Old English "geleafa")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A conviction or acceptance that something is true when it is actually false or incorrect.
+>
+> **Context Meaning:** An idea or opinion held to be true despite evidence or facts proving it wrong; a misconception.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** niềm tin sai lầm
+> - **Contextual:** quan niệm sai lầm, hiểu lầm, niềm tin sai lệch
+>
 > **Nuances:**
-> - ...
+> - Can range from simple misunderstandings to deeply ingrained false ideas
+> - Often resistant to change even when presented with evidence
+> - May be cultural, personal, or widely shared within a community
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Erroneous, Misguided, Persistent
+> **Memory Hook:** Picture someone confidently walking in the wrong direction, convinced they're going the right way
+> **📖 Etymology Story:** "Mistaken" comes from Old Norse "mistaka" meaning "to take in error" + "belief" from Old English "geleafa" meaning "trust, faith" - literally taking something as truth in error.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[belief]] /bɪˈliːf/, [[mistake]] /mɪˈsteɪk/
+> - **Verb:** [[believe]] /bɪˈliːv/, [[mistake]] /mɪˈsteɪk/
+> - **Adj:** [[mistaken]] /mɪˈsteɪkən/, [[believable]] /bɪˈliːvəbəl/
+> - **Adv:** [[mistakenly]] /mɪˈsteɪkənli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[misconception]] /ˌmɪskənˈsepʃən/ : A view or opinion that is incorrect because of faulty thinking or understanding
+> - [[fallacy]] /ˈfæləsi/ : A mistaken belief, especially one based on unsound arguments
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[fact]] /fækt/ : Something known to be true
+> - [[truth]] /truːθ/ : The quality or state of being true
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. hold a mistaken belief
+> 2. common mistaken belief
+> 3. based on a mistaken belief
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** It's a common mistaken belief that lightning never strikes the same place twice.
+> - **Translation:** Đó là một quan niệm sai lầm phổ biến rằng sét không bao giờ đánh cùng một nơi hai lần.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The scientist worked to dispel the mistaken belief that vaccines cause autism.
+> - **Translation:** Nhà khoa học đã nỗ lực xóa bỏ niềm tin sai lầm rằng vắc-xin gây ra tự kỷ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Mistaken Belief vs. Lie**
+> - ❌ **Mistake:** He spread a mistaken belief deliberately.
+> - ✅ **Correction:** He deliberately spread false information.
+> - **Why:** A "mistaken belief" implies genuine error, not intentional deception. Use "lie" or "falsehood" for intentional deception.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Many people have the mistaken belief that archaeology is just about digging for treasure."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a mistaken belief** (*/ə mɪˈsteɪkən bɪˈliːf/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A conviction or acceptance that something is true when it is actually false or incorrect; a misconception.
+> 🇻🇳 **Vietnamese:** Niềm tin sai lầm - sự tin tưởng vào điều gì đó không đúng sự thật
+> 🗣️ **IPA:** */ə mɪˈsteɪkən bɪˈliːf/*
+> 🧠 **Mental Model:** Một người đang ôm một quả địa cầu có hình phẳng, tin rằng đó là sự thật mặc dù bằng chứng chứng minh ngược lại.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
-→ **Target Word?**
+**Definition:** "A conviction or acceptance that something is true when it is actually false"
+**Vietnamese:** Niềm tin sai lầm
+→ **Target Word?`
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a mistaken belief** (*/ə mɪˈsteɪkən bɪˈliːf/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **a mistaken belief** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Despite scientific evidence, many people maintain the mistaken belief that humans only use 10% of their brains.
+> 🇻🇳 **Translation:** Mặc dù có bằng chứng khoa học, nhiều người vẫn giữ niềm tin sai lầm rằng con người chỉ sử dụng 10% bộ não của mình.
+> 🔍 **Analysis:** Cụm từ "a mistaken belief" nhấn mạnh rằng đây là một niềm tin không có cơ sở thực tế, thường dùng để chỉ các quan niệm phổ biến nhưng sai lệch trong xã hội.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a mistaken belief**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Cognitive state:** hold a mistaken belief (giữ một niềm tin sai lầm) <VN note: Thể hiện sự duy trì quan điểm sai>
+> 2. **Frequency:** common mistaken belief (niềm tin sai lầm phổ biến) <VN note: Chỉ sự lan rộng của quan niệm sai>
+> 3. **Foundation:** based on a mistaken belief (dựa trên một niềm tin sai lầm) <VN note: Chỉ nguyên nhân của hành động/suy nghĩ sai>
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a mistaken belief**:
+"People think that's true, but it's not."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Many people operate under the mistaken belief that success comes only from natural talent rather than hard work."
+> 💡 **Why it works:** "A mistaken belief" trang trọng và cụ thể hơn "people think" vì nó chỉ rõ đây là một niềm tin sai lầm có hệ thống chứ không chỉ đơn giản là suy nghĩ thông thường.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a mistaken belief** instead of **[[misconception]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a mistaken belief:** Nhấn mạnh yếu tố cá nhân và niềm tin nội tâm, có thể gắn với cảm xúc và giá trị cá nhân
+> **[[misconception]]:** Mang tính học thuật và khách quan hơn, thường chỉ sự hiểu sai về khái niệm hoặc thông tin
+> 🧱 **The Barrier:** "Mistaken belief" tập trung vào niềm tin sai có thể mang tính sâu sắc, trong khi "misconception" thường chỉ sự hiểu sai ở bề mặt hơn.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend insists that cracking knuckles causes arthritis. You feel concerned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I understand your concern, but that's actually a mistaken belief that's been scientifically disproven."
+> 👨‍🎨 **Director's Note:** Câu nói thể hiện sự đồng cảm nhưng vẫn nhẹ nhàng hiệu chỉnh thông tin sai, cho thấy khả năng giao tiếp khéo léo khi đối mặt với những niềm tin sai lầm.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `mistaka` and `geleafa` to the meaning of **a mistaken belief**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old Norse "mistaka" có nghĩa là "lấy sai, nhầm lẫn" và Old English "geleafa" có nghĩa là "sự tin tưởng, niềm tin" - khi kết hợp, "mistaken belief" mô tả việc đã chấp nhận điều gì đó như truth nhưng thực chất lại là sự nhầm lẫn.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a mistaken belief**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Norse `mistaka` (to take by mistake) + Old English `geleafa` (belief)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[belief]] (niềm tin)
+> - *(verb)* [[believe]] (tin tưởng)
+> - *(adj)* [[mistaken]] (sai lầm)
+> - *(noun)* [[misconception]] (hiểu sai)
+> - *(noun)* [[fallacy]] (lập luận sai)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ə mɪˈsteɪkən bɪˈliːf/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a mistaken belief**
+> 📖 **Meaning:** A conviction or acceptance that something is true when it is actually false
+> 🇻🇳 **Vietnamese:** Niềm tin sai lầm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Confusing mistaken belief with intentional falsehood
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** The politician either knew it was false (a lie) or genuinely had a mistaken belief.
+> 🧠 **Why:** "Mistaken belief" ngụ ý sự nhầm lẫn thật sự, không phải cố ý lừa dối. Khi muốn nói về sự lừa dối có chủ đích, nên dùng "lie," "falsehood," hoặc "deception."
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a mistaken belief**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[verified fact]] (sự thật đã xác minh) <Đã được chứng minh>
+> - [[accurate understanding]] (hiểu biết chính xác) <Đúng sự thật>
+> 🧱 **Contrast:** Mistaken belief là chấp nhận điều sai là đúng, trong khi verified fact là chấp nhận điều đã được chứng minh là đúng - khác biệt giữa niềm tin và thực tế có cơ sở.
 
 ---

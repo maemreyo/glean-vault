@@ -72,13 +72,13 @@ English Dictionary Apps
 
 **B** a [[20_Vocabulary/resident|local]] [[20_Vocabulary/resident|resident]].
 
-**C** the [[20_Vocabulary/resident|local]] [[20_Vocabulary/council|council]].
+**C** the [[20_Vocabulary/the town council|local council]].
 
 **13** In his [[20_Vocabulary/mental health|health]] [[20_Vocabulary/assessment|assessment]], the doctor was concerned [[20_Vocabulary/approximately|about]] the fact that David
 
 **A** might be colour blind.
 
-**B** was rather [[20_Vocabulary/short-sighted|short-sighted]].
+**B** was [[20_Vocabulary/slightly|rather]] [[20_Vocabulary/short-sighted|short-sighted]].
 
 **C** had [[20_Vocabulary/undergone|undergone]] [[20_Vocabulary/laser eye surgery|eye surgery]].
 
@@ -96,7 +96,7 @@ English Dictionary Apps
 
 **B** what [[20_Vocabulary/equipment|equipment]] it [[20_Vocabulary/will|will]] be necessary to take.
 
-**C** [[20_Vocabulary/suppose|if]] the lifeboat should be launched.
+**C** [[20_Vocabulary/suppose|if]] the lifeboat [[20_Vocabulary/in case of|should]] be launched.
 
 **16** [[20_Vocabulary/as well as|As well as]] going out on the lifeboat, David
 
@@ -118,7 +118,7 @@ Which **TWO** things does David say [[20_Vocabulary/approximately|about]] the li
 
 **C** The [[20_Vocabulary/trainer|training]] exercises have [[20_Vocabulary/built up|built up]] his [[20_Vocabulary/mental health|mental]] [[20_Vocabulary/spine|strength]].
 
-**D** The [[20_Vocabulary/casualty|casualty]] [[20_Vocabulary/caring|care]] activities were [[20_Vocabulary/particularly|particularly]] challenging for him.
+**D** The [[20_Vocabulary/casualty|casualty]] [[20_Vocabulary/caring|care]] activities were [[20_Vocabulary/particularly|particularly]] [[20_Vocabulary/problematic|challenging]] for him.
 
 **E** The [[20_Vocabulary/a wave-tank|wave tank]] activities provided practice in [[20_Vocabulary/outlive|survival]] techniques.
 
@@ -130,7 +130,7 @@ Which **TWO** things does David find most motivating [[20_Vocabulary/approximate
 
 **A** [[20_Vocabulary/workshop|working]] as [[20_Vocabulary/belong to|part of]] a team
 
-**B** experiences when [[20_Vocabulary/workshop|working]] in winter
+**B** experiences [[20_Vocabulary/in case of|when]] [[20_Vocabulary/workshop|working]] in winter
 
 **C** [[20_Vocabulary/existence|being]] thanked by those he has helped
 
@@ -160,9 +160,9 @@ Grammar Exercise Workbooks
 
 **B** hard to [[20_Vocabulary/an experiment|research]].
 
-**C** boring for listeners.
+**C** boring for [[20_Vocabulary/audience|listeners]].
 
-**22** When discussing [[20_Vocabulary/trainer|trainers]], Bella [[20_Vocabulary/In addition|and]] Don disagree [[20_Vocabulary/approximately|about]]
+**22** [[20_Vocabulary/in case of|When]] discussing [[20_Vocabulary/trainer|trainers]], Bella [[20_Vocabulary/In addition|and]] Don disagree [[20_Vocabulary/approximately|about]]
 
 **A** how [[20_Vocabulary/widespread|popular]] they are among young people.
 
@@ -170,11 +170,11 @@ Grammar Exercise Workbooks
 
 **C** how quickly they [[20_Vocabulary/worn|wear]] out.
 
-**23** Bella says that she sometimes recycles [[20_Vocabulary/footwear|shoes]] because
+**23** Bella says that [[20_Vocabulary/female|she]] sometimes recycles [[20_Vocabulary/footwear|shoes]] because
 
 **A** they [[20_Vocabulary/no longer|no longer]] fit.
 
-**B** she [[20_Vocabulary/no longer|no longer]] likes them.
+**B** [[20_Vocabulary/female|she]] [[20_Vocabulary/no longer|no longer]] likes them.
 
 **C** they are [[20_Vocabulary/no longer|no longer]] in fashion.
 

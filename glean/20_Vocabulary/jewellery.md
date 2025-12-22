@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
 #flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [jewelry (US), jewels, gems, ornaments, trinkets, adornments, finery, precious stones]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈdʒuːəlri/
+> **Part of Speech:** noun (uncountable)
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** Old French "juelerie" from "juel" (jewel)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Decorative ornaments for personal adornment
+>
+> **Context Meaning:** Personal ornaments such as rings, necklaces, and bracelets, typically made from or containing precious metals and gemstones
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** trang sức, đồ trang sức
+> - **Contextual:** nữ trang, trang sức quý giá
+>
 > **Nuances:**
-> - ...
+> - Uncountable noun (no plural form)
+> - UK spelling: jewellery, US spelling: jewelry
+> - Can be valuable or costume/fashion
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Elegant, precious, decorative
+> **Memory Hook:** Think of jewels (precious stones) - jewellery is what you wear with them
+> **📖 Etymology Story:** From Old French "juelerie" (jewel's place), related to "juel" (jewel). The word has traveled through French from Latin "jocale" (joke, jewel), showing how precious items bring joy and adornment to human life across cultures.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[jewel]] /ˈdʒuːəl/, [[jeweler]] /ˈdʒuːələ/
+> - **Verb:** [[adorn]] /əˈdɔːn/, [[wear]] /weə/
+> - **Adj:** [[jeweled]] /ˈdʒuːəld/, [[ornamental]] /ˌɔːnəˈmentl/
+> - **Adv:** [[elegantly]] /ˈelɪɡəntli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[ornaments]] /ˈɔːnəmənts/ : decorative items
+> - [[adornments]] /əˈdɔːnmənts/ : things that decorate
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[plainness]] /ˈpleɪnnəs/ : without decoration
+> - [[simplicity]] /sɪmˈplɪsəti/ : being simple
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Gold/silver jewellery
+> 2. Costume/fashion jewellery
+> 3. Designer/handmade jewellery
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** She inherited a collection of antique silver jewellery from her grandmother.
+> - **Translation:** Cô ấy được thừa hưởng một bộ sưu tập trang sức bạc cổ từ bà của mình.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The museum displays exquisite jewellery from ancient civilizations.
+> - **Translation:** Bảo tàng trưng bày những món trang sức tinh xảo từ các nền văn minh cổ đại.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural form**
+> - ❌ **Mistake:** jewelleries
+> - ✅ **Correction:** jewellery (items of jewellery)
+> - **Why:** "Jewellery" is an uncountable noun and doesn't have a plural form.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** The exhibition featured jewellery from the Victorian era.
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **jewellery** (*/ˈdʒuːəlri/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Personal ornaments such as rings, necklaces, and other decorative items, typically made from precious metals and gemstones
+> 🇻🇳 **Vietnamese:** Trang sức, đồ trang sức cá nhân như nhẫn, dây chuyền, hoa tai
+> 🗣️ **IPA:** */ˈdʒuːəlri/* (UK) */ˈdʒuːəlri/* (US)
+> 🧠 **Mental Model:** Những món đồ trang trí cá nhân làm từ kim loại quý hoặc đá quý, dùng để làm đẹp và thể hiện địa vị
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Personal ornaments such as rings, necklaces, and bracelets"
+**Vietnamese:** Trang sức cá nhân như nhẫn, dây chuyền, vòng tay
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**jewellery** (*/ˈdʒuːəlri/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **jewellery** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The thief stole valuable jewellery worth thousands of pounds.
+> 🇻🇳 **Translation:** Kẻ trộm đã đánh cắp trang sức quý giá trị hàng nghìn bảng.
+> 🔍 **Analysis:** "Jewellery" hoàn hảo ở đây vì nó là một danh từ không đếm được bao gồm tất cả các loại đồ trang sức, không cần liệt kê từng món
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **jewellery**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Material:** Gold/silver/platinum jewellery (trang sức vàng/bạc/bạch kim)
+> 2. **Type:** Costume/fashion/antique jewellery (trang sức thời trang/phong cách/cổ)
+> 3. **Description:** Designer/handmade/unique jewellery (trang sức nhà thiết kế/làm thủ công/độc đáo)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **jewellery**:
+"She wore nice accessories."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She wore exquisite handmade jewellery crafted by local artisans."
+> 💡 **Why it works:** "Jewellery" cụ thể và trang trọng hơn "accessories", tạo hình ảnh rõ nét về các món đồ trang sức quý giá
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **jewellery** instead of **[[accessories]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **jewellery:** Chỉ các trang sức cá nhân làm từ kim loại quý hoặc đá quý, mang tính trang trọng và thường có giá trị
+> **[[accessories:**]] Phạm vi rộng hơn, bao gồm tất cả các phụ kiện như túi xách, thắt lưng, khăn choàng, v.v.
+> 🧱 **The Barrier:** "Jewellery" là một subset của accessories, cụ thể và quý giá hơn
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing a valuable family heirloom. You want to emphasize its beauty and worth. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "My great-grandmother left me a collection of Victorian jewellery that's been in our family for generations."
+> 👨‍🎨 **Director's Note:** "Victorian jewellery" thể hiện lịch sử và giá trị, phù hợp khi mô tả di sản gia đình
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `juelerie` to the meaning of **jewellery**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Pháp cổ "juelerie" (nơi của jewels) - phát triển thành chỉ chung tất cả các món đồ trang sức cá nhân làm từ đá quý
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **jewellery**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old French `juelerie` (với tư cách là jewel) + collective noun suffix `-ery`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[jewel]] /ˈdʒuːəl/
+> - *(noun)* [[jeweler]] /ˈdʒuːələ/
+> - *(adj)* [[jeweled]] /ˈdʒuːəld/
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈdʒuːəlri/
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**jewellery**
+> 📖 **Meaning:** Personal ornaments and decorative items
+> 🇻🇳 **Vietnamese:** Trang sức
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** She has many beautiful jewelleries.
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** She has many beautiful pieces of jewellery.
+> 🧠 **Why:** "Jewellery" is uncountable; we use "pieces of jewellery" to count individual items
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **jewellery**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[plainness]] (no decoration)
+> - [[nudity]] (no adornment)
+> - [[simplicity]] (minimal adornment)
+> 🧱 **Contrast:** "Jewellery" adds decoration and value, "plainness" lacks decoration, "simplicity" chooses minimal decoration
 
 ---

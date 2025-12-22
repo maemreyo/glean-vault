@@ -1,280 +1,203 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
 #flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [mid company, mid-sized company, mid-size company, medium company, medium-sized company, mid-sized business, medium enterprise, mid-market company, mid-tier company]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /mɪd ˈkʌmpəni/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** business/general
+> **Etymology:** Middle English midde 'middle' + Latin compania 'company, fellowship'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** a company that is neither small nor large
+>
+> **Context Meaning:** a business enterprise that is intermediate in size between small businesses and large corporations, typically having 50-500 employees and moderate revenue
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** công ty quy mô vừa
+> - **Contextual:** doanh nghiệp vừa, công ty tầm trung
+>
 > **Nuances:**
-> - ...
+> - Size definitions vary by industry and country
+> - Often faces unique challenges: too large for small business benefits, too small for economies of scale
+> - May specialize in niche markets or regional operations
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Ambitious, Growing, Strategic, Adaptable
+> **Memory Hook:** mid (middle) + company (business) = business in the middle size range
+> **📖 Etymology Story:** From Middle English 'midde' (middle) and Latin 'compania' (companionship). A mid company sits in the middle ground - big enough to have structure but small enough to maintain agility, like a teenager who's outgrown childhood but hasn't reached full adulthood.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[company]] /ˈkʌmpəni/ - công ty
+> - **Adj:** [[mid-sized]] /mɪd saɪzd/ - quy mô vừa
+> - **Adj:** [[medium-sized]] /ˈmiːdiəm saɪzd/ - quy mô trung bình
+> - **Noun:** [[enterprise]] /ˈentəpraɪz/ - doanh nghiệp
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[medium-sized enterprise]] /ˈmiːdiəm saɪzd ˈentəpraɪz/ : doanh nghiệp quy mô vừa
+> - [[intermediate company]] /ˌɪntəˈmiːdiət ˈkʌmpəni/ : công ty trung cấp
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[startup]] /ˈstɑːtʌp/ : công ty khởi nghiệp
+> - [[corporation]] /ˌkɔːpəˈreɪʃn/ : tập đoàn lớn
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. mid-sized company employs
+> 2. growing mid company
+> 3. mid-sized company faces challenges
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The mid company struggled to compete with larger corporations but maintained flexibility in decision-making.
+> - **Translation:** Công ty quy mô vừa gặp khó khăn trong việc cạnh tranh với các tập đoàn lớn hơn nhưng vẫn duy trì được sự linh hoạt trong việc ra quyết định.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Most mid-sized companies offer competitive benefits to attract skilled employees away from larger firms.
+> - **Translation:** Hầu hết các công ty quy mô vừa đều cung cấp phúc lợi cạnh tranh để thu hút nhân viên có kỹ năng từ các công ty lớn hơn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word Order**
+> - ❌ **Mistake:** "company mid-sized"
+> - ✅ **Correction:** "mid-sized company"
+> - **Why:** The adjective "mid-sized" comes before the noun "company."
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "As a mid company, we need to balance growth opportunities with operational stability."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **mid company** (*/mɪd ˈkʌmpəni/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A business enterprise of intermediate size between small businesses and large corporations, typically with 50-500 employees
+> 🇻🇳 **Vietnamese:** Công ty quy mô vừa, doanh nghiệp tầm trung
+> 🗣️ **IPA:** */mɪd ˈkʌmpəni/*
+> 🧠 **Mental Model:** Not too small + not too big = medium-sized business with both structure and flexibility
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A business enterprise of intermediate size between small businesses and large corporations"
+**Vietnamese:** Công ty quy mô vừa
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**mid company** (*/mɪd ˈkʌmpəni/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **mid company** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The mid company expanded its operations to three new cities while maintaining its corporate culture.
+> 🇻🇳 **Translation:** Công ty quy mô vừa đã mở rộng hoạt động sang ba thành phố mới trong khi vẫn duy trì văn hóa doanh nghiệp của mình.
+> 🔍 **Analysis:** "Mid company expanded" shows growth potential while "maintaining culture" highlights the advantage of not being too large - preserving company identity during expansion.
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **mid company**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Size specification:** mid-sized/mid-scale/mid-market company (công ty quy mô vừa/tầm trung/khu vực giữa - defines the size category)
+> 2. **Growth:** growing/expanding mid company (công ty quy mô vừa đang phát triển/mở rộng - emphasizes growth phase)
+> 3. **Challenge:** mid company faces/struggles/confronts (công ty quy mô vừa đối mặt/vật lộn/en mặt - common with challenges)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **mid company**:
+"The business was average size."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The mid company, with its 250 employees across three states, had achieved the perfect balance between operational efficiency and organizational agility."
+> 💡 **Why it works:** "Mid company" specifies the business size category precisely, implying specific challenges and advantages that "average size" cannot convey.
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **mid company** instead of **medium business**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **mid company:** Common in business contexts, refers specifically to corporate structure with employees and hierarchy
+> **medium business:** More general, can include various business structures, often used in statistical classifications
+> 🧱 **The Barrier:** Mid company = corporate structure; Medium business = broader business classification
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're interviewing for a job. They ask why you prefer their company over a startup or corporation. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I prefer a mid company because it offers both stability and the opportunity to make a real impact."
+> 👨‍🎨 **Director's Note:** Shows understanding of the unique position mid-sized companies occupy in the market.
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `mid` to the meaning of **mid company**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** From Old English 'midde' (middle) + Latin 'compania' (company). The mid company occupies the "middle way" - big enough to have established processes and stability, yet small enough for flexibility and personal impact, like the perfect middle path between two extremes.
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **mid company**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `midde` ('middle') + Latin `compania` ('company, fellowship')
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[mid-sized]] /mɪd saɪzd/ - quy mô vừa
+> - *(adj)* [[medium-sized]] /ˈmiːdiəm saɪzd/ - quy mô trung bình
+> - *(noun)* [[enterprise]] /ˈentəpraɪz/ - doanh nghiệp
+> - *(noun)* [[corporation]] /ˌkɔːpəˈreɪʃn/ - tập đoàn
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */mɪd ˈkʌmpəni/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**mid company**
+> 📖 **Meaning:** Business enterprise of intermediate size between small and large
+> 🇻🇳 **Vietnamese:** Công ty quy mô vừa
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "Our mid-sized company recently hired 100 new workers and now employs 600 people."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Our mid-sized company recently hired 100 new workers and employs 600 people, approaching large corporation status."
+> 🧠 **Why:** A mid-sized company typically has 50-500 employees. 600 employees would classify it as a large corporation.
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **mid company**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[startup]] - công ty khởi nghiệp (small, early-stage, high growth potential)
+> - [[corporation]] - tập đoàn (large, established, multiple divisions)
+> - [[sole proprietorship]] - doanh nghiệp tư nhân (single owner, very small)
+> 🧱 **Contrast:** Mid company balances between extremes - not the agility of a startup nor the resources of a corporation.
 
 ---

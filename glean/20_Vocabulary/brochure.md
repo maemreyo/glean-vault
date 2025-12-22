@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/travel-culture/tourism-types
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [pamphlet, leaflet, flyer, handout, booklet, prospectus, catalogue, brochure's]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /brəʊˈʃʊə(r)/
+> **Part of Speech:** Noun
+> **CEFR Level:** B1
+> **Register:** Neutral/Commercial
+> **Etymology:** French brocher (to stitch), from brochure (stitched work)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A small book or magazine containing pictures and information about something or advertising something
+>
+> **Context Meaning:** A promotional booklet providing information about products, services, or destinations, often with illustrations
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cuốn sách quảng cáo, tờ quảng cáo
+> - **Contextual:** tài liệu giới thiệu, cuốn cẩm nang, tờ rơi quảng cáo
+>
 > **Nuances:**
-> - ...
+> - Typically glossy and visually appealing
+> - Designed to persuade or inform potential customers
+> - Often distributed at tourist locations, trade shows, or in mail
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Persuasive, Informative, Visual
+> **Memory Hook:** Think of a colorful mini-magazine that makes you want to visit or buy something
+> **📖 Etymology Story:** French brocher (to stitch) → brochure (unbound, stitched publication). Originally referred to stitched pamphlets, evolved to represent the carefully crafted marketing materials we see today, designed to stitch together images and words into persuasive messages.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[brochure]] /brəʊˈʃʊə(r)/
+> - **Verb:** [[brochure]] (rare, to create brochures)
+> - **Adj:** [[brochure-like]] /brəʊˈʃʊə(r) laɪk/
+> - **Adv:** No common adverb form
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[pamphlet]] /ˈpæmflət/ : Unbound booklet, often political
+> - [[leaflet]] /ˈliːflət/ : Usually single sheet, folded
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms (it's an informational document)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. glossy brochure (tờ quảng cáo bóng loáng)
+> 2. travel brochure (tờ quảng cáo du lịch)
+> 3. pick up a brochure (nhận một cuốn cẩm nang)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The travel agent handed me a colorful brochure with pictures of tropical beaches.
+> - **Translation:** Đại lý du lịch đưa cho tôi một cuốn cẩm nang rực rỡ với hình ảnh những bãi biển nhiệt đới.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The hotel's brochure showcased their luxury spa facilities and gourmet restaurant.
+> - **Translation:** Cuốn giới thiệu của khách sạn trưng bày cơ sở spa sang trọng và nhà hàng ẩm thực của họ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Pronunciation**
+> - ❌ **Mistake:** /'brɒtʃʊə/ (incorrect stress)
+> - ✅ **Correction:** /brəʊˈʃʊə(r)/ (stress on second syllable)
+> - **Why:** The stress falls on the second syllable in both UK and US English
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Please take a brochure from the display stand - it contains all the information about our tour packages."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +80,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **brochure** (*/brəʊˈʃʊə(r)/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A small, often glossy booklet containing information and promotional material about a product, service, place, or organization
+> 🇻🇳 **Vietnamese:** Tài liệu quảng cáo; cuốn cẩm nang giới thiệu; tờ rơi quảng cáo có hình ảnh
+> 🗣️ **IPA:** */brəʊˈʃʊə(r)/*
+> 🧠 **Mental Model:** Imagine a mini-magazine you pick up when traveling - full of beautiful pictures and tempting descriptions designed to make you want to visit or buy
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A small book or magazine containing pictures and information about products or services, used for advertising"
+**Vietnamese:** Tài liệu quảng cáo; cuốn cẩm nang
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**brochure** (*/brəʊˈʃʊə(r)/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **brochure** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new car dealership's brochure features stunning photographs of all the latest models with their specifications.
+> 🇻🇳 **Translation:** Cẩm nang của showroom ô tô mới trưng bày những bức ảnh đẹp mắt của tất cả các mẫu xe mới nhất với thông số kỹ thuật của chúng.
+> 🔍 **Analysis:** "Brochure" here serves as a visual sales tool, combining attractive imagery with essential information - kết hợp hình ảnh hấp dẫn với thông tin quan trọng
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **brochure**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Appearance:** glossy/colorful/laminated brochure (tờ quảng cáo bóng loáng/đa màu/lamination) - describes physical quality
+> 2. **Type:** travel/holiday/product/service brochure (cẩm nang du lịch/nghỉ dưỡng/sản phẩm/dịch vụ) - specifies content
+> 3. **Action:** design/produce/pick up a brochure (thiết kế/sản xuất/nhận brochure) - related activities
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **brochure**:
+"I got some information about the hotel."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I picked up a glossy brochure from the hotel reception that detailed their room types and amenities."
+> 💡 **Why it works:** "Brochure" creates a vivid image of a professional, visual information source - tạo hình ảnh sống động về tài liệu thông tin chuyên nghiệp, trực quan
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+### Card 6: Nuance Barrier (Comparison) [Phase 4: Mastery]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **brochure** instead of **[[flyer]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **brochure:** Multi-page, detailed, often folded or bound informational piece with high-quality printing (đa trang, chi tiết, chất lượng cao)
+> **[[flyer]]:** Usually single sheet, simpler, often for mass distribution or quick announcements (một tờ, đơn giản, phân phát hàng loạt)
+> 🧱 **The Barrier:** Depth vs. Brevity - brochures provide comprehensive information; flyers deliver quick messages
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're planning a vacation and want to know about different destinations. You feel curious and excited. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Excuse me, could I have some travel brochures for Southeast Asian destinations?"
+> 👨‍🎨 **Director's Note:** Shows you're actively planning and seeking detailed information for your trip - thể hiện bạn đang tích cực lên kế hoạch và tìm thông tin chi tiết
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `brocher` (to stitch) to the meaning of **brochure**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** French brocher (to stitch) → brochure (stitched work). Originally these were pamphlets with stitched bindings. The meaning evolved from the physical construction (stitched pages) to the modern concept of carefully crafted marketing materials that "stitch together" persuasive words and appealing images.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **brochure**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:**
+> - French `brocher` (to stitch)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[brochure]] (promotional booklet)
+> - *(noun)* [[brochurist]] (one who designs brochures - rare)
+> - *(verb)* [[brochure]] (to create brochures - rare)
+> - *(related)* [[embroidery]] (decorative stitching)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */brəʊˈʃʊə(r)/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**brochure**
+> 📖 **Meaning:** Promotional informational booklet
+> 🇻🇳 **Vietnamese:** Tài liệu quảng cáo
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "Please look in this brochure for more informations."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Please look in this brochure for more information." / "Please look at this brochure for more information."
+> 🧠 **Why:** "Information" is an uncountable noun, so no "-s". Also "look at" is more natural than "look in" when referring to reading a brochure.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite concept of **brochure**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Antonyms (conceptual):**
+> - [[word-of-mouth]] (truyền miệng - personal recommendation instead of printed material)
+> - [[verbal description]] (mô tả bằng lời nói - spoken instead of written/visual)
+> 🧱 **Contrast:** Brochures provide professionally designed, visual information; their opposite relies on personal, spoken communication without printed aids
 
 ---

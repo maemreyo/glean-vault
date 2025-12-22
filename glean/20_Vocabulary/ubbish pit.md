@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
 #flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [rubbish pit, garbage pit, waste pit, refuse pit, dump site]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈrʌbɪʃ pɪt/
+> **Part of Speech:** Noun phrase (compound noun)
+> **CEFR Level:** B2
+> **Register:** Neutral/Technical
+> **Etymology:** 'Rubbish' from Old French 'ruber' (to rob) + 'pit' from Latin 'puteus' (well, shaft)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A hole or depression in the ground used for disposing of waste materials
+>
+> **Context Meaning:** An excavation or designated area for burying or collecting garbage and refuse
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hố rác
+> - **Contextual:** hố chôn lấp rác, bãi rác tạm, nơi tập kết rác thải
+>
 > **Nuances:**
-> - ...
+> - Can be temporary or permanent waste disposal sites
+> - Often found in archaeological contexts as evidence of ancient settlements
+> - Modern waste management has evolved beyond simple pits
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Necessity, Hidden, Essential
+> **Memory Hook:** Rubbish = unwanted stuff, pit = hole in ground → nature's original recycling system
+> **📖 Etymology Story:** 'Rubbish' once meant 'refuse' or 'waste', combined with 'pit' (hole) creates the most basic waste disposal method - burying unwanted things. From ancient camps to modern landfills, the concept remains: put waste where we don't see it.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[rubbish]] /ˈrʌbɪʃ/, [[pit]] /pɪt/, [[waste]] /weɪst/
+> - **Verb:** [[bury]] /ˈberi/
+> - **Adj:** rubbishy /ˈrʌbɪʃi/ (colloquial)
+> - **Adv:** - (no standard adverb form)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[dump]] /dʌmp/ : site for waste disposal
+> - [[landfill]] /ˈlændfɪl/ : engineered waste disposal site
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[recycling center]] /riːˈsaɪklɪŋ ˈsentə/ : facility for processing waste into reusable materials
+> - [[clean area]] /kliːn ˈeəriə/ : free from waste
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. archaeological rubbish pit
+> 2. community rubbish pit
+> 3. empty the rubbish pit
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Archaeologists uncovered ancient rubbish pits containing pottery fragments and animal bones.
+> - **Translation:** Các nhà khảo cổ đã phát hiện những hố rác cổ đại chứa các mảnh gốm và xương động vật.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The campsite has designated rubbish pits to maintain cleanliness in the natural environment.
+> - **Translation:** Khu cắm trại có các hố rác được chỉ định để duy trì sự sạch sẽ trong môi trường tự nhiên.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling**
+> - ❌ **Mistake:** The village has a rubish pit behind the houses.
+> - ✅ **Correction:** The village has a rubbish pit behind the houses.
+> - **Why:** Double 'b' in 'rubbish' - a common spelling error.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The team discovered several rubbish pits dating back to the medieval period."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **rubbish pit** (*/ˈrʌbɪʃ pɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A hole or excavation in the ground used for collecting or burying waste materials and refuse
+> 🇻🇳 **Vietnamese:** Hố rác; hố chôn lấp rác thải
+> 🗣️ **IPA:** */ˈrʌbɪʃ pɪt/*
+> 🧠 **Mental Model:** Giống như nature's dumpster - hole trong ground nơi mọi người throws away unwanted stuff, trong archaeological sites thì là treasure trove của information!
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An excavation or hole in the ground for waste disposal"
+**Vietnamese:** Một chỗ đào hoặc hố trong đất để xử lý rác thải
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**rubbish pit** (*/ˈrʌbɪʃ pɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **rubbish pit** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The archaeologists carefully excavated the medieval rubbish pit, finding valuable clues about daily life from centuries ago.
+> 🇻🇳 **Translation:** Các nhà khảo cổ đã cẩn thận khai quật hố rác thời trung cổ, tìm thấy những manh mối quý giá về cuộc sống hàng ngày từ nhiều thế kỷ trước.
+> 🔍 **Analysis:** Word này hoàn hảo vì thể hiện archaeological term - không chỉ là place for waste mà là valuable source của historical information. "Rubbish pit" tạo contrast: what was waste then is treasure now.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **rubbish pit**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Archaeological:** archaeological rubbish pit (VN: hố rác khảo cổ - chứa artifacts từ ancient settlements)
+> 2. **Community:** community rubbish pit (VN: hố rác cộng đồng - shared facility cho village/camp)
+> 3. **Action:** dig/empty rubbish pit (VN: đào/làm hố rác - maintenance action)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **rubbish pit**:
+"The ancient people threw away their trash in a hole."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The settlement's inhabitants maintained designated rubbish pits at the village perimeter, which archaeologists later excavated."
+> 💡 **Why it works:** "Rubbish pit" academic và specific hơn "hole in ground", thể hiện organized waste disposal system và archaeological significance.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **rubbish pit** instead of **[[landfill]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **rubbish pit:** Small-scale, simple, often temporary, basic waste disposal
+> **landfill:** Large-scale, engineered, permanent, complex waste management system
+> 🧱 **The Barrier:** Rubbish pit = hole in ground, landfill = engineered mountain of waste - difference ở scale, complexity, và environmental impact
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're on an archaeological dig and make an exciting discovery. Announce it to your team. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I think we've found the main rubbish pit of the settlement - this could tell us everything about their diet and daily life!"
+> 👨‍🎨 **Director's Note:** Câu này thể hiện excitement và scientific curiosity, "rubbish pit" trong archaeology context là valuable research source, không chỉ waste disposal.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `ruber` and `puteus` to the meaning of **rubbish pit**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old French 'ruber' (to seize as waste) + Latin 'puteus' (well/shaft) → 'rubbish pit'. Từ seizing unwanted things đến well-like hole để hide them away. What was once robbed from value now buried like treasure for future archaeologists!
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **rubbish pit**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Rubbish = Old French `ruber` + Pit = Latin `puteus`
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* rubbish, pit, waste, refuse, garbage
+> - *(verb)* bury, dump, discard
+> - *(adj)* rubbishy, pit-like
+> - *(phrasal)* throw away, dispose of
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈrʌbɪʃ pɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**rubbish pit**
+> 📖 **Meaning:** A hole in ground for waste disposal
+> 🇻🇳 **Vietnamese:** Hố rác
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The campsite has many rubbish pits for throwing away the trashes."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The campsite has many rubbish pits for throwing away the trash."
+> 🧠 **Why:** "Trash" là uncountable noun trong nghĩa này, không cần plural "trashes". Common error vì có nhiều items nhưng "trash" như collective noun.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **rubbish pit**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[recycling center]] (facility for converting waste into reusable materials)
+> - [[compost heap]] (organic waste turned into fertilizer)
+> - [[storage facility]] (keeping valuable items, not discarding them)
+> 🧱 **Contrast:** Rubbish pit hides waste permanently, antonyms transform waste into something useful or store items for future use
 
 ---

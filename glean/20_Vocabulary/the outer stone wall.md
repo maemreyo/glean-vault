@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
 #flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [outer stone wall, stone walls, fortification, boundary, perimeter wall, masonry, defensive wall]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ði ˈaʊtə stəʊn wɔːl/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** neutral/technical
+> **Etymology:** Old English "weall" from Latin "vallum" (rampart)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The exterior protective barrier made of stone
+>
+> **Context Meaning:** A stone barrier that forms the outermost boundary of a structure, often for protection or enclosure
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bức tường đá bên ngoài, bức tường đá bên ngoài
+> - **Contextual:** hàng rào đá bảo vệ, tường thành đá
+>
 > **Nuances:**
-> - ...
+> - Often associated with historical buildings, castles, or fortifications
+> - Implies strength and permanence
+> - Can refer to both defensive and decorative purposes
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Protective, enduring, solid
+> **Memory Hook:** Picture a castle with its protective stone barrier surrounding everything - that's the outer stone wall keeping intruders out
+> **📖 Etymology Story:** "Wall" comes from Latin "vallum" (rampart), originally referring to the defensive structures of Roman forts. Stone walls have protected civilizations for millennia, standing as testaments to human engineering and the need for security.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[wall]] /wɔːl/, [[fortification]] /ˌfɔːtɪfɪˈkeɪʃn/, [[barrier]] /ˈbæriə/
+> - **Verb:** [[enclose]] /ɪnˈkləʊz/, [[protect]] /prəˈtekt/, [[surround]] /səˈraʊnd/
+> - **Adj:** [[stone]] /stəʊn/, [[protective]] /prəˈtektɪv/, [[defensive]] /dɪˈfensɪv/
+> - **Adv:** [[externally]] /ɪkˈstɜːnəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[fortification]] /ˌfɔːtɪfɪˈkeɪʃn/ : defensive structure
+> - [[perimeter]] /pəˈrɪmɪtə/ : outer boundary
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[entrance]] /ˈentrəns/ : way in
+> - [[gateway]] /ˈɡeɪtweɪ/ : opening in wall
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. Ancient outer stone wall
+> 2. Reinforced outer stone wall
+> 3. Outer stone wall surrounded...
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The ancient castle was protected by a massive outer stone wall.
+> - **Translation:** Lâu đài cổ được bảo vệ bởi một bức tường đá bên ngoài khổng lồ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Archaeologists discovered inscriptions carved into the outer stone wall.
+> - **Translation:** Các nhà khảo cổ đã phát hiện những chữ khắc được chạm vào bức tường đá bên ngoài.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word order**
+> - ❌ **Mistake:** The stone outer wall
+> - ✅ **Correction:** The outer stone wall
+> - **Why:** "Outer" describes the position of the stone wall, so it comes before the noun phrase "stone wall."
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** Visitors could admire the intricate designs carved into the outer stone wall.
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **outer stone wall** (*/ði ˈaʊtə stəʊn wɔːl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The exterior stone barrier forming the outermost boundary of a structure
+> 🇻🇳 **Vietnamese:** Bức tường đá bên ngoài, hàng rào đá bảo vệ cùng ngoài cùng
+> 🗣️ **IPA:** */ði ˈaʊtə stəʊn wɔːl/*
+> 🧠 **Mental Model:** Hình ảnh bức tường đá vững chãi bao quanh một công trình (như lâu đài, nhà thờ), có chức năng bảo vệ và phân định ranh giới
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The exterior protective stone barrier of a building or structure"
+**Vietnamese:** Bức tường đá bên ngoài để bảo vệ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**outer stone wall** (*/ði ˈaʊtə stəʊn wɔːl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **outer stone wall** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The monastery's outer stone wall has stood for over 500 years.
+> 🇻🇳 **Translation:** Bức tường đá bên ngoài của tu viện đã tồn tại hơn 500 năm.
+> 🔍 **Analysis:** "Outer stone wall" hoàn hảo ở đây vì nó chỉ rõ ràng vị trí (bên ngoài) và vật liệu (đá) của bức tường, tạo hình ảnh cụ thể về sự bền vững và lịch sử
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **outer stone wall**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Historical:** Ancient/medieval outer stone wall (bức tường đá cổ/trung cổ)
+> 2. **Condition:** Crumbling/fortified outer stone wall (bức tường đá đổ nát/củng cố)
+> 3. **Location:** Outer stone wall surrounded by... (bức tường đá bao quanh bởi...)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **outer stone wall**:
+"The old building had a fence."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The fortress was encircled by an imposing outer stone wall that had withstood centuries of sieges."
+> 💡 **Why it works:** "Outer stone wall" tạo hình ảnh cụ thể về sự vững chãi và lịch sử, mạnh hơn "fence" vì nó gợi lên hình ảnh công trình phòng thủ kiên cố
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **outer stone wall** instead of **[[fence]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **outer stone wall:** Bức tường đá kiên cố, thường là phần của kiến trúc chính, có tính lịch sử và vững chãi
+> **[[fence:**]] Hàng rào nhẹ hơn, có thể bằng nhiều vật liệu, thường không phải là phần của công trình kiến trúc chính
+> 🧱 **The Barrier:** "Outer stone wall" mang tính vĩnh cửu và phòng thủ, "fence" thường chỉ để phân định khu vực
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing an ancient castle to tourists. You want to emphasize its defensive features. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Notice how the outer stone wall is three meters thick - no enemy could breach this formidable barrier!"
+> 👨‍🎨 **Director's Note:** "Outer stone wall" nhấn mạnh tính phòng thủ và sức mạnh vật lý, phù hợp khi mô tả các công trình quân sự lịch sử
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `vallum` to the meaning of **outer stone wall**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "vallum" (thành lũy) phát triển thành "wall" trong tiếng Anh, kết hợp với "stone" (đá) và "outer" (bên ngoài) để chỉ bức tường phòng thủ bên ngoài cùng của công trình
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **outer stone wall**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `vallum` (thành lũy) + Old English `stān` (đá)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[wall]] /wɔːl/
+> - *(noun)* [[stonework]] /ˈstəʊnwɜːk/
+> - *(noun)* [[defence]] /dɪˈfens/
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ði ˈaʊtə stəʊn wɔːl/
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**outer stone wall**
+> 📖 **Meaning:** The exterior stone barrier of a structure
+> 🇻🇳 **Vietnamese:** Bức tường đá bên ngoài
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** The castle had a tall stone outer wall.
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** The castle had a tall outer stone wall.
+> 🧠 **Why:** Adjective order: opinion (tall) + size + position (outer) + material (stone) + noun (wall)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **outer stone wall**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[inner courtyard]] (space inside)
+> - [[entrance gateway]] (opening through wall)
+> 🧱 **Contrast:** "Outer stone wall" is the external barrier, "inner courtyard" is the protected space, "gateway" is the controlled access point
 
 ---

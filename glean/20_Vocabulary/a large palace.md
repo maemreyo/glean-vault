@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/arts-architecture/architecture
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [palace, palace's, palatial, mansion, castle, royal residence, grand estate, chateau, manor, palace building]
+status: done
 ref:
   - [[Cam 20 Listening Test 03]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə lɑːdʒ ˈpæləs/
+> **Part of Speech:** Noun Phrase
+> **CEFR Level:** B1
+> **Register:** Neutral/Descriptive
+> **Etymology:** Latin palatium (Palatine Hill in Rome) + Old French large
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A very large and impressive building, especially one that is the official home of a king, queen, or president
+>
+> **Context Meaning:** A grand, opulent residence of exceptional size and architectural significance, often associated with royalty or nobility
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** một cung điện lớn
+> - **Contextual:** một dinh thự rộng lớn, một lâu đài hoành tráng, một cung điện nguy nga
+>
 > **Nuances:**
-> - ...
+> - Conveys luxury, power, and social status
+> - Often features impressive architecture, extensive grounds
+> - Historically associated with monarchs, now includes official government buildings
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Majestic, Grand, Opulent
+> **Memory Hook:** Think of Buckingham Palace or Versailles - buildings that make you say "wow" just by their size
+> **📖 Etymology Story:** Latin palatium (the Palatine Hill in Rome where emperors lived) → Old French palais → English palace. The Palatine Hill was the most desirable location in Rome, giving "palace" its association with power, luxury, and elevated status.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[palace]] /ˈpæləs/
+> - **Adj:** [[palatial]] /pəˈleɪʃl/
+> - **Adv:** palatially /pəˈleɪʃəli/
+> - **Related:** [[palace-like]] /ˈpæləs laɪk/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[mansion]] /ˈmænʃn/ : Large luxurious house
+> - [[chateau]] /ʃæˈtəʊ/ : French-style grand residence
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[hut]] /hʌt/ : Small, simple dwelling
+> - [[cottage]] /ˈkɒtɪdʒ/ : Small, cozy house
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. grand palace (cung điện hoành tráng)
+> 2. royal palace (cung điện hoàng gia)
+> 3. palace grounds (khuôn viên cung điện)
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The tourists were amazed by the sheer size of the large palace with its golden domes.
+> - **Translation:** Du khách kinh ngạc trước kích thước khổng lồ của cung điện với những mái vòm vàng của nó.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The large palace has been converted into a museum showcasing national treasures.
+> - **Translation:** Cung điện lớn đã được chuyển đổi thành một bảo tàng trưng bày các báu vật quốc gia.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Palace vs. Castle**
+> - ❌ **Mistake:** Using "palace" for fortified medieval buildings
+> - ✅ **Correction:** Use "castle" for fortified structures, "palace" for luxurious residences
+> - **Why:** Palaces focus on luxury and living space; castles prioritize defense
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "The guide explained that the large palace took over 50 years to build and employed more than a thousand workers."
+> **Source:** [[Cam 20 Listening Test 03]]
 
 ---
 
@@ -161,120 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a large palace** (*/ə lɑːdʒ ˈpæləs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A very large and impressive building, especially a luxurious residence of royalty or nobility, characterized by grand architecture and opulence
+> 🇻🇳 **Vietnamese:** Một cung điện lớn; một dinh thự nguy nga; một tòa nhà hoành tráng của hoàng gia
+> 🗣️ **IPA:** */ə lɑːdʒ ˈpæləs/*
+> 🧠 **Mental Model:** Imagine a building so massive it looks like a small village but is actually one magnificent residence - that's "a large palace"
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A very large and impressive building, especially the official home of a king, queen or president"
+**Vietnamese:** Một cung điện lớn; dinh thự hoành tráng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a large palace** (*/ə lɑːdʒ ˈpæləs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **a large palace** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The royal family moved into a large palace overlooking the sea, with over 200 rooms and beautiful gardens.
+> 🇻🇳 **Translation:** Hoàng gia chuyển đến một cung điện lớn nhìn ra biển, với hơn 200 phòng và những khu vườn đẹp.
+> 🔍 **Analysis:** "A large palace" conveys not just size but luxury, status, and architectural significance - không chỉ là kích thước mà còn là sự sang trọng, địa vị và tầm quan trọng về kiến trúc
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a large palace**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Style:** magnificent/grand/stately large palace (cung điện lớn tráng lệ/hoành tráng/danh dự) - describes appearance
+> 2. **Location:** large palace overlooking/with a view of (cung điện lớn nhìn ra/tầm nhìn nhìn tới) - position
+> 3. **Features:** large palace with gardens/courtyards/domes (cung điện lớn có khu vườn/sân trong/mái vòm) - architectural elements
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a large palace**:
+"The king lived in a big house."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The king resided in a large palace with golden spires that pierced the skyline."
+> 💡 **Why it works:** "Large palace" evokes images of grandeur and royalty far beyond a mere "big house" - gợi lên hình ảnh sự huy hoàng và hoàng gia, vượt xa một ngôi nhà lớn
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+### Card 6: Nuance Barrier (Comparison) [Phase 4: Mastery]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a large palace** instead of **[[a big castle]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a large palace:** Emphasizes luxury, living space, and ceremonial functions (nhấn mạnh sự sang trọng, không gian sống)
+> **[[a big castle]]:** Focuses on defensive features, fortifications, and medieval military purpose (tập trung vào phòng thủ, công trình quân sự)
+> 🧱 **The Barrier:** Luxury vs. Defense - palaces showcase wealth and culture; castles demonstrate military strength and protection
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're visiting Europe and see an incredibly grand building. You feel awestruck. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Is that a large palace? It's absolutely magnificent - the architecture is breathtaking!"
+> 👨‍🎨 **Director's Note:** Expresses wonder at the scale and beauty - appropriate reaction to witnessing grand architecture - thể hiện sự kinh ngạc trước quy mô và vẻ đẹp
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `palatium` to the meaning of **a large palace**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin palatium (Palatine Hill - Rome's most exclusive neighborhood where emperors lived) → Old French palais → English palace. The connection to imperial residences on Rome's most prestigious hill gave "palace" its enduring association with power, luxury, and elevated social status.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a large palace**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:**
+> - Latin `palatium` (imperial residence on Palatine Hill)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[palace]] (grand residence)
+> - *(adjective)* [[palatial]] (magnificent, like a palace)
+> - *(adverb)* [[palatially]] (in a palace-like manner)
+> - *(related)* [[palatinate]] (territory ruled by a count palatine)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ə lɑːdʒ ˈpæləs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a large palace**
+> 📖 **Meaning:** Grand royal residence
+> 🇻🇳 **Vietnamese:** Cung điện lớn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The queen lives in a large palace with thick walls for protection."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The queen lives in a large palace with beautiful gardens." OR "The king lived in a large castle with thick walls for protection."
+> 🧠 **Why:** Palaces emphasize luxury and aesthetics, not defense. Castles have thick walls for protection. Mix up the function appropriately.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a large palace**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[a small hut]] (một túp lều nhỏ - minimal shelter)
+> - [[a humble cottage]] (mái nhà khiêm tốn - modest dwelling)
+> 🧱 **Contrast:** A large palace represents wealth, power, and social prominence at the extreme end; its opposite represents simplicity, modesty, and basic shelter needs
 
 ---
