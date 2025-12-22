@@ -97,36 +97,65 @@ def process_file(file_path, target_tag_prefix, dry_run=False):
     content = '\n'.join(new_lines)
     
     # 2. Inject phase tags
-    # We look for "### Card X:"
-    # We insert the tag line ABOVE it.
+    # We look for "### Card X:" and optional preceding tag
+    
+    # We first collect all card matches to avoid overlapping replacements causing issues if we just did sub.
+    # But sub is fine if we match strictly.
     
     def replace_card_header(match):
-        card_num = int(match.group(1))
-        original_header = match.group(0)
+        existing_tag_line = match.group(1) # May be None or empty string usually due to non-capture?
+        # Actually let's adjust the regex to capture the preceding line if it looks like a tag.
+        
+        # New regex strategy below passed to this function
+        # match.group('tag') -> Existing tag line (including newline)
+        # match.group('card') -> Card header line (### Card X...)
+        # match.group('num') -> Card number
+        
+        existing_tag = match.group('tag')
+        card_header = match.group('card')
+        card_num = int(match.group('num'))
         
         if card_num in card_map:
-            tag_to_insert = card_map[card_num]
-            # Ensure there's a newline before the tag for cleanliness, matching user format
-            return f"{tag_to_insert}\n{original_header}"
-        return original_header
+            desired_tag = card_map[card_num]
+            
+            # Check if existing tag matches desired
+            if existing_tag and desired_tag in existing_tag:
+                return match.group(0) # No change needed
+            
+            # If there's a different tag or no tag, we ensure we have the desired tag.
+            # If there was a different tag, we replace it.
+            # If no tag, we verify if there's a blank line or if we are merging?
+            # The regex will capture the immediate preceding line if it starts with #flashcards
+            
+            return f"{desired_tag}\n{card_header}"
+            
+        return match.group(0)
 
-    # Pattern: ### Card (\d+)
-    # We use re.sub with a callback
-    card_header_pattern = re.compile(r'(?m)^### Card (\d+)(.|$)')
+    # Regex:
+    # 1. Optional preceding tag line: (#flashcards/...\n)?
+    # 2. Card Header: ### Card (\d+)
+    # We use named groups for clarity
     
-    new_content = card_header_pattern.sub(replace_card_header, content)
+    # (?P<tag>#flashcards/[^\n]+\n)?(?P<card>### Card (?P<num>\d+).*)
+    # We need strictly multiline mode matching start of line
+    
+    card_pattern = re.compile(
+        r'(?m)^(?:(?P<tag>#flashcards/[^\n]+)\n)?(?P<card>### Card (?P<num>\d+)(?:.|$))'
+    )
+    
+    new_content = card_pattern.sub(replace_card_header, content)
 
     if content == new_content and tag_removed:
-        print("  Warning: Tag removed but no cards tagged? (Check card formats)")
+        pass # Tag removed, but no card tags added (maybe numbering mismatch?)
     
     if content == new_content and not tag_removed:
-        print("  No changes needed (maybe already processed).")
+        # No changes at all
         return False
 
     if dry_run:
         print("  [DRY RUN] Would write modifications.")
-        # print(new_content[:500]) # Preview
-        return False
+        # Return True for dry run if would be modified, to count it
+        return True
     else:
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(new_content)
@@ -152,7 +181,7 @@ def main():
         if process_file(file_path, args.target, args.dry_run):
             count += 1
 
-    print(f"\nTotal files processed: {count}")
+    print(f"\nTotal files processed (or identified for processing): {count}")
 
 if __name__ == "__main__":
     main()

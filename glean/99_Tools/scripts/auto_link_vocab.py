@@ -261,17 +261,26 @@ def add_ref_tags_to_file(filepath, dry_run=True):
         
         # 6. Inject phase tags before card headers
         def replace_card_header(match):
-            card_num = int(match.group(1))
-            original_header = match.group(0)
+            existing_tag_line = match.group('tag')
+            card_header = match.group('card')
+            card_num = int(match.group('num'))
             
             if card_num in card_map:
-                tag_to_insert = card_map[card_num]
-                return f"{tag_to_insert}\n{original_header}"
-            return original_header
+                desired_tag = card_map[card_num]
+                
+                # Check if existing tag matches desired
+                if existing_tag and desired_tag in existing_tag:
+                    return match.group(0) # No change needed
+                
+                return f"{desired_tag}\n{card_header}"
+            return match.group(0)
         
-        # Pattern: ### Card (\d+)
-        card_header_pattern = re.compile(r'(?m)^### Card (\d+)')
-        new_content = card_header_pattern.sub(replace_card_header, content)
+        # Regex:
+        # (?P<tag>#flashcards/[^\n]+\n)?(?P<card>### Card (?P<num>\d+).*)
+        card_pattern = re.compile(
+            r'(?m)^(?:(?P<tag>#flashcards/[^\n]+)\n)?(?P<card>### Card (?P<num>\d+)(?:.|$))'
+        )
+        new_content = card_pattern.sub(replace_card_header, content)
         
         if content == new_content and not tag_removed:
             return False, "No changes needed"

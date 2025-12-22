@@ -126,77 +126,42 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/10_Sources/Art
 ```
 
 
-### 9. Auto-Tag from Ref Field
-Automatically add flashcard tags based on the `ref:` field in vocabulary frontmatter:
+### 9. Auto-Tag from Ref Field (5-Phase Mastery System)
+Automatically add **Phase-based** flashcard tags based on the `ref:` field in vocabulary frontmatter. This implements the **5-Phase Mastery System** by injecting specific tags above each card type.
 
-```bash
-# Process entire vocabulary folder (default)
-python3 glean/99_Tools/scripts/auto_link_vocab.py --add-ref-tags --no-dry-run
-
-# Process specific file
-python3 glean/99_Tools/scripts/auto_link_vocab.py --file "glean/20_Vocabulary/accelerate.md" --add-ref-tags --no-dry-run
-
-# Process specific folder
-python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/20_Vocabulary" --add-ref-tags --no-dry-run
-```
-
-### 10. The "All-in-One" Workflow
-You can combine all flags to perform a full system maintenance and update in a single command. Use this to ensure everything is clean, tagged, and linked correctly.
-
-```bash
-python3 glean/99_Tools/scripts/auto_link_vocab.py \
-  --add-ref-tags \
-  --restore-before-link \
-  --clean-quotes \
-  --no-dry-run
-```
-
-**Order of Operations:**
-1. **Add Tags:** Scans `20_Vocabulary` (default) and adds missing flashcard tags.
-2. **Restore Articles:** Restores `10_Sources/Articles` (default) to original state.
-3. **Clean Quotes:** Runs `clean_quotes.py` on articles.
-4. **Link:** Links vocabulary and structures to articles.
-
-**Visual Output:**
-```
-📝 Adding flashcard tags...
-✅ ...
-
-🔄 Step 1: Restoring files...
-...
-
-🧹 Step 2: Cleaning quotes...
-...
-
-🔗 Step 3: Linking vocabulary...
-...
-```
 
 **How it works:**
-1. Reads the `ref:` field from frontmatter
-2. Converts references to flashcard tags (e.g., `[[Cam 19 Listening Test 04]]` → `#flashcards/cam-19-listening-test-04`)
-3. Appends tags to the existing flashcard tag line (first line)
+1. Reads `ref: [[Cam 19 Listening Test 04]]`
+2. Generates base tag: `#flashcards/cam-19-listening-test-04`
+3. **Removes** old header tags if present.
+4. **Injects** phase tags before specific cards:
+   - **Foundation (Cards 1, 10):** `#flashcards/.../01-foundation`
+   - **Activation (Cards 2, 3, 4):** `#flashcards/.../02-activation`
+   - **Differentiation (Cards 6, 11, 12):** `#flashcards/.../03-differentiation`
+   - **Mastery (Cards 5, 7, 8):** `#flashcards/.../04-mastery`
+   - **Addition (Card 9):** `#flashcards/.../05-addition`
 
-**Example transformation:**
-```markdown
-# Before
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-
----
-ref:
-  - [[Cam 19 Listening Test 04]]
----
-
-# After
-#flashcards/vocabulary/topic-specific/sci-tech/technology #flashcards/cam-19-listening-test-04
+✨ **Note:** The script automatically skips files that already have the tags.
 
 ---
-ref:
-  - [[Cam 19 Listening Test 04]]
----
+
+# Phase Tagging Script (Dedicated Tool)
+
+**Path:** `glean/99_Tools/scripts/phase_tagging.py`
+
+This is a specialized script solely for re-organizing flashcards into the 5-Phase Mastery System. It is useful when you want to process files based on their *existing header tags* rather than Frontmatter refs.
+
+## Usage
+
+```bash
+python3 glean/99_Tools/scripts/phase_tagging.py --folder "glean/20_Vocabulary" --target "cam-20"
 ```
 
-✨ **Note:** The script automatically skips files that already have the tags, so it's safe to run multiple times.
+| Argument | Description |
+| :--- | :--- |
+| `--folder` | Directory to scan. |
+| `--target` | Target tag prefix to look for (e.g., `cam` matches `#flashcards/cam-...`). |
+| `--dry-run` | Preview changes without saving. |
 
 
 ## Technical Details
