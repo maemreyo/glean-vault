@@ -189,6 +189,7 @@ Analyze the root/family of **potentially**.
 **potentially**
 > 📖 **Meaning:** In a way that might happen or exist
 > 🇻🇳 **Vietnamese:** Có khả năng, có thể
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

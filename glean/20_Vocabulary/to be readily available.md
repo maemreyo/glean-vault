@@ -188,6 +188,7 @@ Analyze the roots/family of **readily available**.
 **to be readily available**
 > 📖 **Meaning:** Easily accessible and ready for use
 > 🇻🇳 **Vietnamese:** Sẵn có ngay, dễ tiếp cận
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

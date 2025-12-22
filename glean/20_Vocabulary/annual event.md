@@ -90,6 +90,7 @@ What does **annual event** (*/'ænjuəl ɪ'vent/*) mean?
 > 🇻🇳 **Vietnamese:** Sự kiện hàng năm - một dịp được lên kế hoạch xảy ra một lần mỗi năm, thường đánh dấu ý nghĩa văn hóa, xã hội hoặc theo mùa và quy tụ mọi người thường xuyên.
 > 🗣️ **IPA:** */'ænjuəl ɪ'vent/*
 > 🧠 **Mental Model:** Hãy tưởng tượng một cuốn lịch - các sự kiện hàng năm là những ngày đặc biệt được đánh dấu mỗi 365 ngày, tạo nên nhịp điệu và sự mong đợi trong cuộc sống.
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

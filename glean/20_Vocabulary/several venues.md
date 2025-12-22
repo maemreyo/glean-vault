@@ -90,6 +90,7 @@ What does **several venues** (*/ˈsevrəl ˈvenjuːz/*) mean?
 > 🇻🇳 **Vietnamese:** Nhiều địa điểm - nhiều nơi (thường 3-7 nơi) có thể tổ chức sự kiện hoặc hoạt động
 > 🗣️ **IPA:** */ˈsevrəl ˈvenjuːz/*
 > 🧠 **Mental Model:** Hình ảnh nhiều địa điểm khác nhau rải rác trong thành phố, mỗi nơi có thể tổ chức sự kiện
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

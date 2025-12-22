@@ -88,6 +88,7 @@ What does **architecturally** (*/ˌɑːkɪˈtektʃərəli/*) mean?
 > 🇻🇳 **Vietnamese:** Theo một cách liên quan đến nghệ thuật và khoa học thiết kế và xây dựng các tòa nhà
 > 🗣️ **IPA:** */ˌɑːkɪˈtektʃərəli/*
 > 🧠 **Mental Model:** Giống như đeo kính của kiến trúc sư - nhìn mọi thứ qua lăng kính thiết kế, kết cấu, thẩm mỹ của công trình
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -189,6 +190,7 @@ Analyze the root/family of **architecturally**.
 **architecturally**
 > 📖 **Meaning:** In relation to architecture or building design
 > 🇻🇳 **Vietnamese:** Liên quan đến kiến trúc hoặc thiết kế xây dựng
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

@@ -88,6 +88,7 @@ What does **meal** (*/miːl/*) mean?
 > 🇻🇳 **Vietnamese:** Bữa ăn - dịp ăn uống hoặc thức ăn được tiêu thụ trong dịp đó
 > 🗣️ **IPA:** */miːl/*
 > 🧠 **Mental Model:** Một "occasion" để eat "food" - như breakfast, lunch, dinner, có social aspect và scheduled time
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -187,6 +188,7 @@ Analyze the root/family of **meal**.
 **meal**
 > 📖 **Meaning:** An occasion when food is eaten
 > 🇻🇳 **Vietnamese:** Bữa ăn - dịp ăn uống
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

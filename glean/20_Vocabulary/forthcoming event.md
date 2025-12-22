@@ -88,6 +88,7 @@ What does **forthcoming event** (*/ˈfɔːθkʌmɪŋ ɪˈvent/*) mean?
 > 🇻🇳 **Vietnamese:** Một dịp hoặc hoạt động đã được lên kế hoạch và sẽ diễn ra sớm
 > 🗣️ **IPA:** */ˈfɔːθkʌmɪŋ ɪˈvent/*
 > 🧠 **Mental Model:** Giống như một sự kiện đang ở trong tunnel của tương lai và đang tiến về phía chúng ta - vẫn chưa đến nhưng chắc chắn sẽ đến
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

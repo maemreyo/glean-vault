@@ -88,6 +88,7 @@ What does **outskirt** (*/ˈaʊtskɜːrt/*) mean?
 > 🇻🇳 **Vietnamese:** Khu vực ngoại ô, vùng ven thành phố
 > 🗣️ **IPA:** */ˈaʊtskɜːrt/*
 > 🧠 **Mental Model:** Hãy tưởng tượng một thành phố giống như một cái váy, "outskirt" (ngoại vi) là phần gấu váy bên ngoài bao bọc lấy phần trung tâm
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

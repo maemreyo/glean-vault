@@ -91,6 +91,7 @@ What does **renewable energy** (*/rɪˈnjuːəbl ˈenədʒi/*) mean?
 > 🇻🇳 **Vietnamese:** Năng lượng tái tạo, nguồn năng lượng tự nhiên không bao giờ cạn kiệt
 > 🗣️ **IPA:** */rɪˈnjuːəbl ˈenədʒi/*
 > 🧠 **Mental Model:** Các nguồn năng lượng như mặt trời, gió, nước - tự nhiên làm mới liên tục, khác với nhiên liệu hóa thạch
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -189,6 +190,7 @@ Analyze the root/family of **renewable**.
 **renewable energy**
 > 📖 **Meaning:** Energy from sources that naturally replenish
 > 🇻🇳 **Vietnamese:** Năng lượng tái tạo
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

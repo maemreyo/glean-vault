@@ -89,6 +89,7 @@ What does **onward** (*/ˈɒnwəd/*) mean?
 > 🇻🇳 **Vietnamese:** Về phía trước, tiếp tục, tiến lên
 > 🗣️ **IPA:** */ˈɒnwəd/*
 > 🧠 **Mental Model:** Di chuyển hoặc tiến triển theo hướng về phía trước, không dừng lại
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

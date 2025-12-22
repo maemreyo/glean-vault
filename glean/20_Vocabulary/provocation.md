@@ -187,6 +187,7 @@ Analyze the root/family of **provocation**.
 **provocation**
 > 📖 **Meaning:** Deliberate action intended to provoke reaction
 > 🇻🇳 **Vietnamese:** Sự khiêu khích có chủ đích
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

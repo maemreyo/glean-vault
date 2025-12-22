@@ -91,6 +91,7 @@ What does **a rarely available seasonal fish delicacy** (*/ə ˈreəli əˈveɪl
 > 🇻🇳 **Vietnamese:** Món ngon cá hiếm có theo mùa, đặc sản cá quý hiếm
 > 🗣️ **IPA:** */ə ˈreəli əˈveɪləbl ˈsiːzənl fɪʃ ˈdelɪkəsi/*
 > 🧠 **Mental Model:** Một món cá đặc biệt quý hiếm, chỉ có vào mùa nhất định trong năm
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

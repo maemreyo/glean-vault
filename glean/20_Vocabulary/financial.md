@@ -91,6 +91,7 @@ What does **financial** (*/faɪˈnænʃl/*) mean?
 > 🇻🇳 **Vietnamese:** Tài chính, liên quan đến tiền bạc, về tài chính
 > 🗣️ **IPA:** */faɪˈnænʃl/*
 > 🧠 **Mental Model**: Mọi thứ liên quan đến việc quản lý, đầu tư, và sử dụng tiền bạc
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -190,6 +191,7 @@ Analyze the root/family of **financial**.
 **financial**
 > 📖 **Meaning:** Relating to money or monetary management
 > 🇻🇳 **Vietnamese:** Tài chính, liên quan đến tiền bạc
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

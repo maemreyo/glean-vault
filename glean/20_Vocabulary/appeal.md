@@ -88,6 +88,7 @@ What does **appeal** (*/əˈpiːl/*) mean?
 > 🇻🇳 **Vietnamese:** Kêu gọi, kháng cáo, hấp dẫn, thu hút
 > 🗣️ **IPA:** */əˈpiːl/*
 > 🧠 **Mental Model:** Một từ hai mặt: vừa là "call for help" (kêu gọi sự giúp đỡ), vừa là "attract charm" (sức hấp dẫn). Như một người vừa có thể cầu xin, vừa có sức thu hút tự nhiên.
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

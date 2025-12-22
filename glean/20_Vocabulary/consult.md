@@ -90,6 +90,7 @@ What does **consult** (*/kənˈsʌlt/*) mean?
 > 🇻🇳 **Vietnamese:** Tham khảo, tư vấn, hỏi ý kiến
 > 🗣️ **IPA:** */kənˈsʌlt/*
 > 🧠 **Mental Model:** "Wisdom-seeking" - tìm kiếm sự hiểu biết từ người khác trước khi quyết định. Như hỏi đường khi lạc, hoặc tham khảo ý kiến chuyên gia để có quyết định tốt nhất.
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -190,6 +191,7 @@ Analyze the root/family of **consult**.
 **consult**
 > 📖 **Meaning:** To seek professional advice or information
 > 🇻🇳 **Vietnamese:** Tham khảo, tư vấn, hỏi ý kiến
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

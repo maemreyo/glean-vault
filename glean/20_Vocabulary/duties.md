@@ -189,6 +189,7 @@ Analyze the root/family of **duties**.
 **duties**
 > 📖 **Meaning:** Tasks or responsibilities that someone must do
 > 🇻🇳 **Vietnamese:** Nghĩa vụ, trách nhiệm, công việc phải làm
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

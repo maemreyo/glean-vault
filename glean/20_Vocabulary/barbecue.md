@@ -190,6 +190,7 @@ Analyze the root/family of **barbecue**.
 **barbecue**
 > 📖 **Meaning:** An outdoor social gathering with grilled food, or the method of slow-cooking meat over low heat
 > 🇻🇳 **Vietnamese:** Tiệc nướng ngoài trời, hoặc phương pháp nướng thịt chậm trên nhiệt thấp
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

@@ -188,6 +188,7 @@ Analyze the root/family of **principle**.
 **principle**
 > 📖 **Meaning:** A fundamental truth or rule that forms the basis of a system
 > 🇻🇳 **Vietnamese:** Nguyên tắc, nguyên lý, quy tắc cơ bản
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

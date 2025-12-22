@@ -186,6 +186,7 @@ Analyze the root/family of **community**.
 **a sense of community**
 > 📖 **Meaning:** Feeling of belonging and connection to a group
 > 🇻🇳 **Vietnamese:** Tinh thần cộng đồng, cảm giác gắn kết
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

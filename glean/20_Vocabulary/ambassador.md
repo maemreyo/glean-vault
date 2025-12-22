@@ -88,6 +88,7 @@ What does **ambassador** (*/æmˈbæs.ə.dər/*) mean?
 > 🇻🇳 **Vietnamese:** Đại sứ - người đại diện chính thức cho một quốc gia ở nước ngoài
 > 🗣️ **IPA:** */æmˈbæs.ə.dər/*
 > 🧠 **Mental Model:** Official "representative" được "send" đến foreign country để "represent" entire nation - như face của country đó ở abroad
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

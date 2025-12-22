@@ -90,6 +90,7 @@ What does **influential** (*/ˌɪnfluˈenʃl/*) mean?
 > 🇻🇳 **Vietnamese:** Có ảnh hưởng, có tầm ảnh hưởng, có quyền lực ảnh hưởng
 > 🗣️ **IPA:** */ˌɪnfluˈenʃl/*
 > 🧠 **Mental Model:** "Thought-shaper" - người/cái có khả năng định hình suy nghĩ của người khác như dòng nước định hình cảnh quan. Không dùng vũ lực, mà dùng sức ảnh hưởng mềm mại.
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -190,6 +191,7 @@ Analyze the root/family of **influential**.
 **influential**
 > 📖 **Meaning:** Having great influence on others
 > 🇻🇳 **Vietnamese:** Có ảnh hưởng, có tầm ảnh hưởng
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

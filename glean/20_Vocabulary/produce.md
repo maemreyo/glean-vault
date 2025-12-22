@@ -90,6 +90,7 @@ What does **produce** (*/prəˈdjuːs/ verb, */ˈprɒdjuːs/ noun) mean?
 > 🇻🇳 **Vietnamese:** Sản xuất, trồng trọt (động từ); nông sản, rau củ quả (danh từ)
 > 🗣️ **IPA:** */prəˈdjuːs/ (v), */ˈprɒdjuːs/ (n)*
 > 🧠 **Mental Model:** Tạo ra hoặc trồng ra cái gì đó - động từ; nông sản tươi từ nông trại - danh từ
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

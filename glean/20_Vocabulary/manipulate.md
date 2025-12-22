@@ -90,6 +90,7 @@ What does **manipulate** (*/məˈnɪpjəleɪt/*) mean?
 > 🇻🇳 **Vietnamese:** Thao túng/kiểm soát - điều khiển hoặc gây ảnh hưởng đến ai/cái gì một cách khéo léo, thường không công bằng
 > 🗣️ **IPA:** */məˈnɪpjəleɪt/*
 > 🧠 **Mental Model:** Hình ảnh một người điều khiển con rối, kéo dây để người khác hành động theo ý muốn
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -189,6 +190,7 @@ Analyze the root/family of **manipulate**.
 **manipulate**
 > 📖 **Meaning:** To control or influence skillfully, often unfairly
 > 🇻🇳 **Vietnamese:** Thao túng, kiểm soát, điều khiển
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

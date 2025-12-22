@@ -187,6 +187,7 @@ Analyze the root/family of **caring**.
 **caring**
 > 📖 **Meaning:** Showing kindness and concern for others
 > 🇻🇳 **Vietnamese:** Quan tâm, chu đáo, nhân ái
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

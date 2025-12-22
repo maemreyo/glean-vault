@@ -186,6 +186,7 @@ Analyze the root/family of **cholera**.
 **cholera**
 > 📖 **Meaning:** A severe bacterial infection causing watery diarrhea
 > 🇻🇳 **Vietnamese:** Bệnh tả - nhiễm trùng ruột cấp
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

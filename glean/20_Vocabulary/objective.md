@@ -91,6 +91,7 @@ What does **objective** (*/əbˈdʒektɪv/*) mean?
 > 🇻🇳 **Vietnamese:** Khách quan; mục tiêu, mục đích
 > 🗣️ **IPA:** */əbˈdʒektɪv/*
 > 🧠 **Mental Model:** "Fact-based" - dựa trên sự thật, không cảm xúc. Như camera ghi lại cảnh vật y hệt như nó tồn tại. Hoặc "target/goal" - cái bạn hướng tới đạt được.
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

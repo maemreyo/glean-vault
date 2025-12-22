@@ -87,6 +87,7 @@ What does **far more effective than** (*/fɑː mɔːr ɪˈfektɪv ðæn/*) mean?
 > 🇻🇳 **Vietnamese:** Hiệu quả hơn đáng kể so với
 > 🗣️ **IPA:** */fɑː mɔːr ɪˈfektɪv ðæn/*
 > 🧠 **Mental Model:** Think of "far" as magnifying glass making the difference "more effective" appear much larger and clearer
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -186,6 +187,7 @@ Analyze the root/family of **far more effective than**.
 **far more effective than**
 > 📖 **Meaning:** Significantly better in producing desired results
 > 🇻🇳 **Vietnamese:** Hiệu quả hơn đáng kể so với
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

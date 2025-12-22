@@ -189,6 +189,7 @@ Analyze the root/family of **association**.
 **association**
 > 📖 **Meaning:** Organized group or mental connection
 > 🇻🇳 **Vietnamese:** Hiệp hội, tổ chức; sự liên tưởng
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

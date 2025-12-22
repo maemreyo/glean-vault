@@ -89,6 +89,7 @@ What does **concert** (*/ˈkɒnsərt/*) mean?
 > 🇻🇳 **Vietnamese:** Buổi hòa nhạc - sự kiện biểu diễn âm nhạc trực tiếp với khán giả
 > 🗣️ **IPA:** */ˈkɒnsərt/*
 > 🧠 **Mental Model:** Hình ảnh nhiều nghệ sĩ biểu diễn cùng nhau trên sân khấu với khán giả thưởng thức
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -188,6 +189,7 @@ Analyze the root/family of **concert**.
 **concert**
 > 📖 **Meaning:** Live musical performance event
 > 🇻🇳 **Vietnamese:** Buổi hòa nhạc, buổi biểu diễn âm nhạc
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

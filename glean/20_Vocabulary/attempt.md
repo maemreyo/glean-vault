@@ -190,6 +190,7 @@ Analyze the root/family of **attempt**.
 **attempt**
 > 📖 **Meaning:** To make an effort to do something difficult
 > 🇻🇳 **Vietnamese:** Nỗ lực làm điều gì đó khó khăn
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

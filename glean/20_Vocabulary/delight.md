@@ -88,6 +88,7 @@ What does **delight** (*/dɪˈlaɪt/*) mean?
 > 🇻🇳 **Vietnamese:** Niềm vui sướng lớn lao, sự thích thú tột độ
 > 🗣️ **IPA:** */dɪˈlaɪt/*
 > 🧠 **Mental Model:** Khi 'light' (ánh sáng) chiếu vào bên trong (de-), tạo ra niềm vui từ sâu trong tâm hồn
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

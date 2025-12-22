@@ -88,6 +88,7 @@ What does **lasts** (*/lɑːsts/*) mean?
 > 🇻🇳 **Vietnamese:** Kéo dài trong một khoảng thời gian; tiếp tục tồn tại hoặc bền bỉ
 > 🗣️ **IPA:** */lɑːsts/*
 > 🧠 **Mental Model:** Giống như một đường thẳng kéo dài từ điểm A đến điểm B - không bị ngắt quãng, liên tục cho đến hết thời gian dự định
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

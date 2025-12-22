@@ -89,6 +89,7 @@ What does **urbanisation** (*/ˌɜːbənaɪˈzeɪʃn/*) mean?
 > 🇻🇳 **Vietnamese:** Quá trình hình thành và phát triển các thị trấn và thành phố khi nhiều người bắt đầu sống và làm việc ở các khu vực trung tâm
 > 🗣️ **IPA:** */ˌɜːbənaɪˈzeɪʃn/*
 > 🧠 **Mental Model:** Giống như một vùng đất nông thôn dần được bao phủ bởi các tòa nhà, đường sá, và cơ sở hạ tầng đô thị - sự chuyển đổi từ nông nghiệp sang công nghiệp dịch vụ
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

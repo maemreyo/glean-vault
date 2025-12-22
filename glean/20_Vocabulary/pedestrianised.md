@@ -90,6 +90,7 @@ What does **pedestrianised** (*/pəˈdestriənaɪzd/*) mean?
 > 🇻🇳 **Vietnamese:** Đã dành cho người đi bộ, khu phố đi bộ
 > 🗣️ **IPA:** */pəˈdestriənaɪzd/*
 > 🧠 **Mental Model:** Một con đường đã được chuyển đổi để cấm xe cộ, chỉ cho người đi bộ
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

@@ -1,5 +1,15 @@
 [
   {
+    "id": "20251222_152415_f8d196",
+    "timestamp": "20251222_152415",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/20_Vocabulary/_test_vocab.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251222_152415_f8d196__test_vocab.md",
+    "changes_count": 1,
+    "changes_sample": [
+      "Added phase tags for #flashcards/cam-99-test-01"
+    ]
+  },
+  {
     "id": "20251221_202315_1b8b0f",
     "timestamp": "20251221_202315",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",

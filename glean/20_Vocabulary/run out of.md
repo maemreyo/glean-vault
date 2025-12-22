@@ -87,6 +87,7 @@ What does **run out of** (*/rʌn aʊt əv/*) mean?
 > 🇻🇳 **Vietnamese:** Hết, dùng hết, cạn kiệt
 > 🗣️ **IPA:** */rʌn aʊt əv/*
 > 🧠 **Mental Model:** "Run out of" giống như một chiếc xe chạy đến cuối đường không còn xăng (VN explanation using English keywords) - không thể tiếp tục vì hết nguồn lực
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

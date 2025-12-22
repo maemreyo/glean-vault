@@ -86,6 +86,7 @@ What does **avocado** (*/ˌævəˈkɑːdəʊ/*) mean?
 > 🇻🇳 **Vietnamese:** Quả bơ, trái bơ
 > 🗣️ **IPA:** */ˌævəˈkɑːdəʊ/*
 > 🧠 **Mental Model:** "Green butter fruit" - trái cây màu xanh có kết cấu như bơ, giàu chất béo lành mạnh. Hình quả lê, có hạt lớn ở giữa, vỏ xanh hoặc đen khi chín.
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -186,6 +187,7 @@ Analyze the root/family of **avocado**.
 **avocado**
 > 📖 **Meaning:** A pear-shaped fruit with creamy flesh
 > 🇻🇳 **Vietnamese:** Quả bơ, trái bơ
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

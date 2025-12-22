@@ -191,6 +191,7 @@ Analyze the root/family of **population density**.
 **population density**
 > 📖 **Meaning:** The number of people per unit of area
 > 🇻🇳 **Vietnamese:** Số người trên mỗi đơn vị diện tích
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

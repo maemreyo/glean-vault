@@ -189,6 +189,7 @@ Analyze the root/family of **fashionable**.
 **fashionable**
 > 📖 **Meaning:** Conforming to current popular style or trend
 > 🇻🇳 **Vietnamese:** Tuân theo phong cách hoặc xu hướng phổ biến hiện nay
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

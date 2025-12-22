@@ -188,6 +188,7 @@ Analyze the root/family of **retail centre**.
 **retail centre**
 > 📖 **Meaning:** A shopping complex containing multiple retail stores
 > 🇻🇳 **Vietnamese:** trung tâm thương mại
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

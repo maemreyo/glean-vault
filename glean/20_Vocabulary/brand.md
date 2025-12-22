@@ -190,6 +190,7 @@ Analyze the root/family of **brand**.
 **brand**
 > 📖 **Meaning:** A distinctive name or trademark used to identify a product or manufacturer
 > 🇻🇳 **Vietnamese:** Thương hiệu, nhãn hiệu
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

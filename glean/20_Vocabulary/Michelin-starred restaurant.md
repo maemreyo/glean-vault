@@ -90,6 +90,7 @@ What does **Michelin-starred restaurant** (*/ˈmɪʃəlɪn stɑːrd ˈrestərɒn
 > 🇻🇳 **Vietnamese:** Nhà hàng sao Michelin - nhà hàng được công ty Michelin trao sao vì chất lượng ẩm thực và trải nghiệm dining vượt trội
 > 🗣️ **IPA:** */ˈmɪʃəlɪn stɑːrd ˈrestərɒnt/*
 > 🧠 **Mental Model:** Hình ảnh nhà hàng sang trọng với đầu bếp nổi tiếng, dịch vụ hoàn hảo, món ăn nghệ thuật
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -189,6 +190,7 @@ Analyze the components of **Michelin-starred restaurant**.
 **Michelin-starred restaurant**
 > 📖 **Meaning:** Elite restaurant with Michelin Guide stars
 > 🇻🇳 **Vietnamese:** Nhà hàng sao Michelin, nhà hàng ẩm thực cao cấp
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

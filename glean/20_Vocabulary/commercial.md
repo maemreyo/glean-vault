@@ -88,6 +88,7 @@ What does **commercial** (*/kəˈmɜːʃl/*) mean?
 > 🇻🇳 **Vietnamese:** 1) Liên quan đến kinh doanh hoặc thương mại 2) (Danh từ) Quảng cáo trên truyền hình hoặc radio
 > 🗣️ **IPA:** */kəˈmɜːʃl/*
 > 🧠 **Mental Model:** Giống như không gian bán hàng (commercial space) hoặc đoạn quảng cáo giữa các chương trình TV (commercial break)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

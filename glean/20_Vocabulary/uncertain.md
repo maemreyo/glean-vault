@@ -186,6 +186,7 @@ Analyze the root/family of **uncertain**.
 **uncertain**
 > 📖 **Meaning:** Not sure or confident; feeling doubt
 > 🇻🇳 **Vietnamese:** Không chắc chắn, do dự, lăn tăn
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

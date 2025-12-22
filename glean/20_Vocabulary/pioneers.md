@@ -89,6 +89,7 @@ What does **pioneers** (*/ˌpaɪəˈnɪəz/*) mean?
 > 🇻🇳 **Vietnamese:** Những người tiên phong, người khai hoang, người đi đầu
 > 🗣️ **IPA:** */ˌpaɪəˈnɪəz/*
 > 🧠 **Mental Model:** Những người dũng cảm bước vào vùng đất chưa ai đến để mở đường cho người khác theo sau
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

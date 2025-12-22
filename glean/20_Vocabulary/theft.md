@@ -189,6 +189,7 @@ Analyze the root/family of **theft**.
 **theft**
 > 📖 **Meaning:** The crime of taking someone else's property without permission
 > 🇻🇳 **Vietnamese:** Hành vi trộm cắp, tội ăn cắp
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

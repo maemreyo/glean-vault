@@ -88,6 +88,7 @@ What does **lecture** (*/ˈlek.tʃər/*) mean?
 > 🇻🇳 **Vietnamese:** Bài giảng, bài diễn thuyết, buổi thuyết trình học thuật
 > 🗣️ **IPA:** */ˈlek.tʃər/*
 > 🧠 **Mental Model:** Professor đứng trên podium đọc knowledge cho students, one-way communication
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

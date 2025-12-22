@@ -186,6 +186,7 @@ Analyze the root/family of **statistic**.
 **statistic**
 > 📖 **Meaning:** A numerical fact or piece of data
 > 🇻🇳 **Vietnamese:** Số liệu thống kê, chỉ số thống kê
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

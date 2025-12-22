@@ -89,6 +89,7 @@ What does **throughout** (*/θruːˈaʊt/*) mean?
 > 🇻🇳 **Vietnamese:** Khắp nơi, suốt, xuyên suốt
 > 🗣️ **IPA:** */θruːˈaʊt/*
 > 🧠 **Mental Model:** Một thứ gì đó tồn tại hoặc xảy ra ở mọi nơi, mọi lúc
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

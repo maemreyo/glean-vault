@@ -90,6 +90,7 @@ What does **a surge** (*/ə sɜːdʒ/*) mean?
 > 🇻🇳 **Vietnamese:** Sự tăng vọt, làn sóng mạnh, sự bùng nổ đột ngột
 > 🗣️ **IPA:** */ə sɜːdʒ/*
 > 🧠 **Mental Model:** Một con sóng lớn đột ngột tiến lên hoặc số lượng tăng mạnh một cách đột ngột
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -188,6 +189,7 @@ Analyze the root/family of **surge**.
 **a surge**
 > 📖 **Meaning:** Sudden powerful increase or movement
 > 🇻🇳 **Vietnamese:** Sự tăng vọt, làn sóng mạnh
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

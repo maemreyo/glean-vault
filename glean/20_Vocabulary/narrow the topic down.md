@@ -190,6 +190,7 @@ Analyze the root/family of **narrow the topic down**.
 **narrow the topic down**
 > 📖 **Meaning:** To make a topic more specific and focused
 > 🇻🇳 **Vietnamese:** Làm cho một chủ đề cụ thể và tập trung hơn
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

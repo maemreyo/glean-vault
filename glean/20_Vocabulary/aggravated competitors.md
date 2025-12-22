@@ -88,6 +88,7 @@ What does **aggravated competitors** (*/ˈæɡrəveɪtɪd kəmˈpetɪtəz/*) mea
 > 🇻🇳 **Vietnamese:** Các doanh nghiệp đối thủ hoặc cá nhân đã trở nên thù địch hơn, thách thức hơn hoặc gây vấn đề hơn trong hành vi cạnh tranh
 > 🗣️ **IPA:** */ˈæɡrəveɪtɪd kəmˈpetɪtəz/*
 > 🧠 **Mental Model:** Giống như các đối thủ bình thường đột nhiên trở nên hung hăng hơn, dùng các chiến thuật gây khó khăn để giành chiến thắng - không chỉ cạnh tranh lành mạnh mà còn tạo ra rắc rối
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -191,6 +192,7 @@ Analyze the root/family of **aggravated competitors**.
 **aggravated competitors**
 > 📖 **Meaning:** More hostile or problematic business rivals
 > 🇻🇳 **Vietnamese:** Các đối thủ kinh doanh thù địch hoặc gây vấn đề hơn
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

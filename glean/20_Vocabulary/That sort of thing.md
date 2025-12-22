@@ -89,6 +89,7 @@ What does **That sort of thing** (*/ðæt sɔːrt əv θɪŋ/*) mean?
 > 🇻🇳 **Vietnamese:** Loại chuyện đó - cụm từ dùng để chỉ mơ hồ những việc tương tự như vừa đề cập
 > 🗣️ **IPA:** */ðæt sɔːrt əv θɪŋ/*
 > 🧠 **Mental Model:** Hình ảnh gật đầu khi người khác liệt kê các hoạt động, hiểu "à, loại việc đó"
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

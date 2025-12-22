@@ -89,6 +89,7 @@ What does **hall** (*/hɔːl/*) mean?
 > 🇻🇳 **Vietnamese:** Sảnh, phòng lớn, phòng hội trường
 > 🗣️ **IPA:** */hɔːl/*
 > 🧠 **Mental Model:** Large open space trong building - có thể là entrance area hoặc room cho gatherings
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -189,6 +190,7 @@ Analyze the root/family of **hall**.
 **hall**
 > 📖 **Meaning:** A large room for meetings or events
 > 🇻🇳 **Vietnamese:** Sảnh, phòng lớn, phòng hội trường
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

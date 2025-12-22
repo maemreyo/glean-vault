@@ -88,6 +88,7 @@ What does **campaign** (*/kæmˈpeɪn/*) mean?
 > 🇻🇳 **Vietnamese:** Một chuỗi hoạt động có kế hoạch nhằm đạt được mục tiêu xã hội, thương mại hoặc chính trị cụ thể
 > 🗣️ **IPA:** */kæmˈpeɪn/*
 > 🧠 **Mental Model:** Giống như một "trận đánh" có tổ chức với nhiều chiến thuật khác nhau để đạt được mục tiêu cuối cùng (chiến dịch quảng cáo, vận động chính trị, quân sự)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
