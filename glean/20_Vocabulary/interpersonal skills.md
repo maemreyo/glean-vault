@@ -90,6 +90,7 @@ What do **interpersonal skills** (*/ˌɪntər'pɜːsənl 'skɪlz/*) mean?
 > 🇻🇳 **Vietnamese:** Kỹ năng giao tiếp - những khả năng và năng lực giúp giao tiếp và tương tác hiệu quả giữa mọi người, bao gồm trí tuệ cảm xúc, sự đồng cảm và khả năng xây dựng mối quan hệ.
 > 🗣️ **IPA:** */ˌɪntər'pɜːsənl 'skɪlz/*
 > 🧠 **Mental Model:** Hãy tưởng tượng một cây cầu kết nối hai người - "interpersonal skills" là những công cụ xây dựng và bảo vệ cây cầu đó, giúp kết nối con người một cách hiệu quả.
+<!--SR:!2025-12-23,1,230-->
 
 ---
 
@@ -112,6 +113,7 @@ Use **interpersonal skills** in a sentence.
 > 📝 **Sentence:** The success of the healthcare profession depends heavily on **interpersonal skills** such as empathy, active listening, and clear communication.
 > 🇻🇳 **Vietnamese:** Thành công của ngành y tế phụ thuộc rất nhiều vào kỹ năng giao tiếp như sự đồng cảm, lắng nghe chủ động và giao tiếp rõ ràng.
 > 🔍 **Analysis:** "Interpersonal skills" ở đây không chỉ là giao tiếp thông thường mà bao gồm các kỹ năng chuyên biệt trong môi trường y tế (empathy, active listening), thể hiện tầm quan trọng trong các ngành dịch vụ.
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -190,6 +192,7 @@ Analyze the root/family of **interpersonal skills**.
 **interpersonal skills**
 > 📖 **Meaning:** Abilities for effective communication and interaction with others
 > 🇻🇳 **Vietnamese:** Khả năng giao tiếp và tương tác hiệu quả với người khác
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

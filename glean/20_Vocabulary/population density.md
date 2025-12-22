@@ -88,6 +88,7 @@ What does **population density** (*/ˌpɒpjʊˈleɪʃn ˈdensəti/*) mean?
 > 🇻🇳 **Vietnamese:** Số người sống trong mỗi đơn vị diện tích (như trên mỗi kilômét vuông hoặc dặm vuông)
 > 🗣️ **IPA:** */ˌpɒpjʊˈleɪʃn ˈdensəti/*
 > 🧠 **Mental Model:** Giống như đếm số người trong một phòng - càng nhiều người trong không gian nhỏ thì mật độ càng cao
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

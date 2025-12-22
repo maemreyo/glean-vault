@@ -111,6 +111,7 @@ Use **architecturally** in a sentence.
 > 📝 **Sentence:** Architecturally, the building successfully blends traditional local elements with contemporary sustainable design principles.
 > 🇻🇳 **Translation:** Về mặt kiến trúc, tòa nhà kết hợp thành công các yếu tố địa phương truyền thống với các nguyên tắc thiết kế bền vững đương đại.
 > 🔍 **Analysis:** "Architecturally" thể hiện góc nhìn chuyên môn, phân tích từ khía cạnh thiết kế và xây dựng, thường dùng trong bối cảnh đánh giá công trình
+<!--SR:!2025-12-26,4,274-->
 
 ---
 

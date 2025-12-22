@@ -90,6 +90,7 @@ What does **attempt** (*/ə'tempt/*) mean?
 > 🇻🇳 **Vietnamese:** Cố gắng, nỗ lực - thực hiện một nỗ lực để đạt được điều gì đó, đặc biệt là điều khó khăn, với sự không chắc chắn về kết quả.
 > 🗣️ **IPA:** */ə'tempt/*
 > 🧠 **Mental Model:** Hãy tưởng tượng người nhảy qua một khe núi - "attempt" là cú nhảy đó, dù có thành công hay không, nhưng quan trọng là đã dám thử và nỗ lực.
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -124,6 +125,7 @@ List 3 common collocations for **attempt**.
 > 1. **Failed Attempt:** Unsuccessful try at doing something (Nỗ lực thất bại - lần thử không thành công)
 > 2. **First Attempt:** Initial try at something new (Lần thử đầu tiên - nỗ lực ban đầu)
 > 3. **Suicide Attempt:** Act of trying to end one's own life (Cố gắng tự tử - hành động tìm cách kết thúc cuộc đời mình)
+<!--SR:!2025-12-23,1,232-->
 
 ---
 

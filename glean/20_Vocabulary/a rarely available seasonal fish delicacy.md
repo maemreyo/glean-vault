@@ -126,6 +126,7 @@ List 3 common collocations for **seasonal delicacy**.
 > 1. **Origin:** local/seasonal delicacy (đặc sản địa phương/theo mùa)
 > 2. **Quality:** rare/exquisite delicacy (món ngon hiếm có/tinh tế)
 > 3. **Action:** serve/offer a delicacy (phục vụ/cung cấp món ngon đặc biệt)
+<!--SR:!2025-12-23,1,228-->
 
 ---
 
@@ -190,6 +191,7 @@ Analyze the root/family of **delicacy**.
 **a rarely available seasonal fish delicacy**
 > 📖 **Meaning:** A special, rare fish available only in certain seasons
 > 🇻🇳 **Vietnamese:** Món ngon cá hiếm có theo mùa
+<!--SR:!2025-12-25,3,268-->
 
 ---
 

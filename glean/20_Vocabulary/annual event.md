@@ -102,6 +102,7 @@ What does **annual event** (*/'ænjuəl ɪ'vent/*) mean?
 → **Target Word?**
 ?
 **annual event** (*/'ænjuəl ɪ'vent/*)
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -147,6 +148,7 @@ List 3 common collocations for **annual event**.
 > **annual event:** Specifically yearly occurrence, with calendar precision (Xảy ra hàng năm, chính xác theo lịch)
 > **regular event:** Repeating pattern but frequency could be weekly, monthly, etc. (Lặp lại theo quy luật nhưng tần suất có thể hàng tuần, hàng tháng, v.v.)
 > 🧱 **The Barrier:** Annual = exactly once per year, Regular = any repeating pattern. Think calendar vs. schedule!
+<!--SR:!2025-12-25,3,256-->
 
 ---
 
@@ -191,6 +193,7 @@ Analyze the root/family of **annual event**.
 **annual event**
 > 📖 **Meaning:** A planned occasion that occurs once every year
 > 🇻🇳 **Vietnamese:** Một dịp được lên kế hoạch xảy ra một lần mỗi năm
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

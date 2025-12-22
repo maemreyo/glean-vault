@@ -111,6 +111,7 @@ Use **campaign** in a sentence.
 > 📝 **Sentence:** The charity organization is running a nationwide campaign to raise awareness about climate change.
 > 🇻🇳 **Translation:** Tổ chức từ thiện đang tiến hành một chiến dịch toàn quốc để nâng cao nhận thức về biến đổi khí hậu.
 > 🔍 **Analysis:** "Running a campaign" là collocation phổ biến, nhấn mạnh tính tiếp diễn và có tổ chức của nhiều hoạt động phối hợp
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -189,6 +190,7 @@ Analyze the root/family of **campaign**.
 **campaign**
 > 📖 **Meaning:** A planned series of activities to achieve a particular goal
 > 🇻🇳 **Vietnamese:** Một chuỗi hoạt động có kế hoạch để đạt được mục tiêu cụ thể
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

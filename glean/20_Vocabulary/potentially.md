@@ -88,6 +88,7 @@ What does **potentially** (*/pəˈtenʃəli/*) mean?
 > 🇻🇳 **Vietnamese:** Có khả năng, có thể, về mặt tiềm năng
 > 🗣️ **IPA:** */pəˈtenʃəli/*
 > 🧠 **Mental Model:** Khi something có power (potential) để happen nhưng chưa sure - nó "potentially" sẽ happen
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -122,6 +123,7 @@ List 3 common collocations for **potentially**.
 > 1. **Risk Assessment:** potentially dangerous/hazardous/risky (có thể nguy hiểm)
 > 2. **Opportunity:** potentially useful/beneficial/valuable (có thể hữu ích)
 > 3. **Outcomes:** potentially successful/disastrous/effective (có thể thành công)
+<!--SR:!2025-12-25,3,252-->
 
 ---
 

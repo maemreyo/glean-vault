@@ -190,6 +190,7 @@ Analyze the root/family of **lasts**.
 **lasts**
 > 📖 **Meaning:** To continue for a period of time
 > 🇻🇳 **Vietnamese:** Kéo dài trong một khoảng thời gian
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

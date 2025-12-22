@@ -88,6 +88,7 @@ What does **principle** (*/ˈprɪn.sə.pəl/*) mean?
 > 🇻🇳 **Vietnamese:** Nguyên tắc, nguyên lý, nền tảng, quy tắc cơ bản
 > 🗣️ **IPA:** */ˈprɪn.sə.pəl/*
 > 🧠 **Mental Model:** Foundation stone của building - fundamental rule mà mọi thứ else được build upon
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

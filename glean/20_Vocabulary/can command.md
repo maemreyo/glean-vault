@@ -90,6 +90,7 @@ What does **can command** (*/kæn kəˈmænd/*) mean?
 > 🇻🇳 **Vietnamese:** Có thể ra lệnh, có quyền chỉ huy, có khả năng điều khiển
 > 🗣️ **IPA:** */kæn kəˈmænd/*
 > 🧠 **Mental Model:** Khi bạn có cả ability (can) và authority (command) để direct người khác
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -112,6 +113,7 @@ Use **can command** in a sentence.
 > 📝 **Sentence:** A good manager can command respect without raising their voice.
 > 🇻🇳 **Translation:** Một người quản lý giỏi có thể chiếm được sự tôn trọng mà không cần phải lớn tiếng.
 > 🔍 **Analysis:** 'Can command' ở đây kết hợp ability và authority, thể hiện skill để gain respect tự nhiên thay vì dùng power
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -190,6 +192,7 @@ Analyze the root/family of **can command**.
 **can command**
 > 📖 **Meaning:** To have the authority or ability to give orders
 > 🇻🇳 **Vietnamese:** Có thể ra lệnh, có quyền chỉ huy
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

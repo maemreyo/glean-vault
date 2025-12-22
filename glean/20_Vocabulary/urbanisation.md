@@ -124,6 +124,7 @@ List 3 common collocations for **urbanisation**.
 > 1. **Speed descriptors:** rapid/fast/slow urbanisation (sự đô thị hóa nhanh/chậm)
 > 2. **Process stages:** urbanisation process/trends/patterns (quá trình/xu hướng/mô hình đô thị hóa)
 > 3. **Impact areas:** effects/consequences/challenges of urbanisation (tác động/hậu quả/thách thức của đô thị hóa)
+<!--SR:!2025-12-25,3,252-->
 
 ---
 
@@ -191,6 +192,7 @@ Analyze the root/family of **urbanisation**.
 **urbanisation**
 > 📖 **Meaning:** The process of making an area more urban
 > 🇻🇳 **Vietnamese:** Quá trình làm cho một khu vực trở nên đô thị hơn
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

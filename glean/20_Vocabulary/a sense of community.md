@@ -88,6 +88,7 @@ What does **a sense of community** (*/ə sens əv kəˈmjuːnəti/*) mean?
 > 🇻🇳 **Vietnamese:** Cảm giác thuộc về cộng đồng, tinh thần cộng đồng
 > 🗣️ **IPA:** */ə sens əv kəˈmjuːnəti/*
 > 🧠 **Mental Model:** Cảm giác ấm áp khi hàng xóm quen biết, giúp đỡ nhau và chia sẻ chung không gian sống
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -122,6 +123,7 @@ List 3 common collocations for **a sense of community**.
 > 1. **Creation:** foster/build/create a sense of community (nuôi dưỡng/xây dựng/tạo dựng tinh thần cộng đồng)
 > 2. **Strengthening:** strengthen community bonds (củng cố mối liên kết cộng đồng)
 > 3. **Loss:** lack of community spirit (thiếu tinh thần cộng đồng)
+<!--SR:!2025-12-23,1,232-->
 
 ---
 

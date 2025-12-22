@@ -123,6 +123,7 @@ List 3 common collocations for **delight**.
 > 1. **Emotional Response:** much to my delight (đến niềm vui của tôi) - thể hiện sự bất ngờ vui sướng
 > 2. **Action Pattern:** take delight in (thích thú làm gì) - thể hiện sự hưởng thụ tích cực
 > 3. **Cause-Effect:** source of delight (nguồn niềm vui) - chỉ nguyên nhân tạo ra sự vui thích
+<!--SR:!2025-12-23,1,232-->
 
 ---
 
@@ -189,6 +190,7 @@ Analyze the root/family of **delight**.
 **delight**
 > 📖 **Meaning:** A feeling of great pleasure and joy
 > 🇻🇳 **Vietnamese:** Niềm vui sướng, sự thích thú
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

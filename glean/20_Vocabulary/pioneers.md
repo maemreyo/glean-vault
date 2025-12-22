@@ -101,6 +101,7 @@ What does **pioneers** (*/ˌpaɪəˈnɪəz/*) mean?
 → **Target Word?**
 ?
 **pioneers** (*/ˌpaɪəˈnɪəz/*)
+<!--SR:!2025-12-25,3,268-->
 
 ---
 
@@ -112,6 +113,7 @@ Use **pioneers** in a sentence.
 > 📝 **Sentence:** The early computer pioneers revolutionized how we communicate and work.
 > 🇻🇳 **Translation:** Những nhà tiên phong máy tính thời kỳ đầu đã cách mạng hóa cách chúng ta giao tiếp và làm việc.
 > 🔍 **Analysis:** 'Pioneers' hoàn hảo để mô tả những người đổi mới trong lĩnh vực công nghệ, nhấn mạnh vai trò tiên phong của họ
+<!--SR:!2025-12-25,3,268-->
 
 ---
 
@@ -188,6 +190,7 @@ Analyze the root/family of **pioneer**.
 **pioneers**
 > 📖 **Meaning:** First settlers or innovators in a new field
 > 🇻🇳 **Vietnamese:** Những người tiên phong
+<!--SR:!2025-12-24,2,248-->
 
 ---
 

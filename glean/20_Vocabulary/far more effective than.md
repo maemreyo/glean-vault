@@ -99,6 +99,7 @@ What does **far more effective than** (*/fɑː mɔːr ɪˈfektɪv ðæn/*) mean?
 → **Target Word?**
 ?
 **far more effective than** (*/fɑː mɔːr ɪˈfektɪv ðæn/*)
+<!--SR:!2025-12-26,4,274-->
 
 ---
 

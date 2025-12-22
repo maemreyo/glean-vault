@@ -190,6 +190,7 @@ Analyze the components of **several venues**.
 **several venues**
 > 📖 **Meaning:** Multiple event locations
 > 🇻🇳 **Vietnamese:** Nhiều địa điểm tổ chức sự kiện
+<!--SR:!2025-12-25,3,268-->
 
 ---
 

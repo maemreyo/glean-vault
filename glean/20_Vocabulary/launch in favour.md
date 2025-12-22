@@ -88,6 +88,7 @@ What does **launch in favour of** (*/lɔːntʃ ɪn ˈfeɪvə(r) əv/*) mean?
 > 🇻🇳 **Vietnamese:** Khởi động hoặc giới thiệu một thứ gì đó trong khi tích thể hiện sự ưu tiên cho nó so với các lựa chọn khác
 > 🗣️ **IPA:** */lɔːntʃ ɪn ˈfeɪvə(r) əv/*
 > 🧠 **Mental Model:** Giống như vừa tung ra sản phẩm mới vừa quảng bá nó mạnh mẽ, không chỉ ra mắt mà còn ủng hộ nó thay cho cái cũ
+<!--SR:!2025-12-23,1,230-->
 
 ---
 
@@ -191,6 +192,7 @@ Analyze the root/family of **launch in favour of**.
 **launch in favour of**
 > 📖 **Meaning:** To start something while actively supporting it
 > 🇻🇳 **Vietnamese:** Bắt đầu một cái gì đó trong khi tích cực ủng hộ nó
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

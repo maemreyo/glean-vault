@@ -89,6 +89,7 @@ What does **retail centre** (*/ˈriːteɪl ˈsentə/*) mean?
 > 🇻🇳 **Vietnamese:** trung tâm thương mại, khu mua sắm với nhiều cửa hàng
 > 🗣️ **IPA:** */ˈriːteɪl ˈsentə/*
 > 🧠 **Mental Model:** Một "shopping mall" nhỏ hơn, tập hợp nhiều cửa hàng bán lẻ trong một khu vực, có chung bãi đỗ xe
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

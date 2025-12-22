@@ -87,6 +87,7 @@ What does **canal** (*/kəˈnæl/*) mean?
 > 🇻🇳 **Vietnamese:** Kênh đào, con kênh nhân tạo
 > 🗣️ **IPA:** */kəˈnæl/*
 > 🧠 **Mental Model:** Một con kênh nhân tạo dùng cho giao thông thủy hoặc tưới tiêu, không phải sông tự nhiên
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -98,6 +99,7 @@ What does **canal** (*/kəˈnæl/*) mean?
 → **Target Word?**
 ?
 **canal** (*/kəˈnæl/*)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -109,6 +111,7 @@ Use **canal** in a sentence.
 > 📝 **Sentence:** The canal network was crucial for transporting goods during the Industrial Revolution.
 > 🇻🇳 **Translation:** Mạng lưới kênh đào đã đóng vai trò quan trọng trong việc vận chuyển hàng hóa trong thời kỳ Cách mạng Công nghiệp.
 > 🔍 **Analysis:** 'Canal' hoàn hảo ở đây vì nó nhấn mạnh yếu tố nhân tạo của con kênh và mục đích giao thông thương mại
+<!--SR:!2025-12-23,1,230-->
 
 ---
 
@@ -185,6 +188,7 @@ Analyze the root/family of **canal**.
 **canal**
 > 📖 **Meaning:** Artificial waterway for boats or irrigation
 > 🇻🇳 **Vietnamese:** Kênh đào
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

@@ -88,6 +88,7 @@ What does **duties** (*/ˈdjuːtiz/*) mean?
 > 🇻🇳 **Vietnamese:** Nghĩa vụ, trách nhiệm, những công việc phải làm
 > 🗣️ **IPA:** */ˈdjuːtiz/*
 > 🧠 **Mental Model:** Những tasks bạn "owe" (nợ) phải complete - đó là duties của bạn
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -110,6 +111,7 @@ Use **duties** in a sentence.
 > 📝 **Sentence:** The tour guide's duties include showing visitors around and answering their questions.
 > 🇻🇳 **Translation:** Nghĩa vụ của hướng dẫn viên bao gồm đưa khách tham quan và trả lời câu hỏi của họ.
 > 🔍 **Analysis:** 'Duties' là term formal thường dùng trong professional contexts để chỉ responsibilities của một vị trí công việc
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -122,6 +124,7 @@ List 3 common collocations for **duties**.
 > 1. **Action Verbs:** perform/carry out/fulfill duties (thực hiện nghĩa vụ) - action-oriented
 > 2. **Types of Duties:** official/professional/legal duties (nghĩa vụ chính thức/chuyên nghiệp/pháp lý)
 > 3. **Scope:** duties include/involve/consist of (nghĩa vụ bao gồm) - explaining scope
+<!--SR:!2025-12-25,3,252-->
 
 ---
 

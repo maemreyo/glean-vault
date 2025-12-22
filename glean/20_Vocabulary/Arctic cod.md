@@ -121,6 +121,7 @@ List 3 common collocations for **Arctic cod**.
 > 1. **Ecosystem Role:** Arctic cod population (dân số cá tuyết Bắc Cực)
 > 2. **Feeding Behavior:** feed on Arctic cod (ăn cá tuyết Bắc Cực)
 > 3. **Fishing Industry:** sustainable Arctic cod fishery (ngành cá tuyết Bắc Cực bền vững)
+<!--SR:!2025-12-25,3,268-->
 
 ---
 
@@ -185,6 +186,7 @@ Analyze the root/family of **Arctic cod**.
 **Arctic cod**
 > 📖 **Meaning:** Cold-adapted fish species of Arctic waters
 > 🇻🇳 **Vietnamese:** Cá tuyết Bắc Cực
+<!--SR:!2025-12-24,2,248-->
 
 ---
 

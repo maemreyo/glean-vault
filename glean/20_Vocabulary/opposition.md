@@ -88,6 +88,7 @@ What does **opposition** (*/ˌɒpəˈzɪʃn/*) mean?
 > 🇻🇳 **Vietnamese:** Sự đối lập, sự phản đối, phe đối lập
 > 🗣️ **IPA:** */ˌɒpəˈzɪʃn/*
 > 🧠 **Mental Model:** "Force against" - giống như vật lý: lực đối lực. Trong chính trị: phe đối lập. Trong cuộc sống: sự chống đối. Luôn có hai phía đang đối đầu nhau.
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -122,6 +123,7 @@ List 3 common collocations for **opposition**.
 > 1. **Political:** the opposition party (đảng đối lập) - trong chính trị, đảng không cầm quyền
 > 2. **Action:** face/encounter opposition (đối mặt sự phản đối) - khi gặp sự chống đối
 > 3. **Intensity:** strong/fierce/stubborn opposition (sự phản đối mạnh mẽ) - mô tả mức độ chống đối
+<!--SR:!2025-12-23,1,230-->
 
 ---
 
@@ -188,6 +190,7 @@ Analyze the root/family of **opposition**.
 **opposition**
 > 📖 **Meaning:** The action of opposing; resistance or dissent
 > 🇻🇳 **Vietnamese:** Sự phản đối, sự chống đối
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

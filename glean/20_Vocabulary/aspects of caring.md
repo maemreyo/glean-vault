@@ -90,6 +90,7 @@ What do **aspects of caring** (*/'æspeks əv 'kerɪŋ/*) mean?
 > 🇻🇳 **Vietnamese:** Các khía cạnh của việc chăm sóc - những phương diện và cách thức khác nhau mà qua đó sự quan tâm và chăm sóc người khác có thể được thể hiện và thấu hiểu.
 > 🗣️ **IPA:** */'æspeks əv 'kerɪŋ/*
 > 🧠 **Mental Model:** Hãy tưởng tượng một chiếc hộp đồ nghề caring - bên trong có nhiều công cụ khác nhau (listening, helping, supporting, understanding), mỗi công cụ là một "aspect" của caring.
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -101,6 +102,7 @@ What do **aspects of caring** (*/'æspeks əv 'kerɪŋ/*) mean?
 → **Target Word?**
 ?
 **aspects of caring** (*/'æspeks əv 'kerɪŋ/*)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -124,6 +126,7 @@ List 3 common collocations for **aspects of caring**.
 > 1. **Different Aspects of Caring:** Various dimensions like emotional, physical, and social care (Các khía cạnh khác nhau của việc chăm sóc - các phương diện như chăm sóc tinh thần, thể chất và xã hội)
 > 2. **Key Aspects of Caring:** Most important elements in providing care (Các khía cạnh chính của việc chăm sóc - những yếu tố quan trọng nhất trong việc cung cấp sự quan tâm)
 > 3. **Professional Aspects of Caring:** Care-related skills in formal workplace settings (Các khía cạnh chuyên nghiệp của việc chăm sóc - các kỹ năng liên quan đến quan tâm trong môi trường làm việc chính thức)
+<!--SR:!2025-12-23,1,230-->
 
 ---
 
@@ -190,6 +193,7 @@ Analyze the root/family of **aspects of caring**.
 **aspects of caring**
 > 📖 **Meaning:** The different dimensions and features of providing care and support to others
 > 🇻🇳 **Vietnamese:** Các phương diện và đặc điểm của việc cung cấp sự quan tâm và hỗ trợ cho người khác
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

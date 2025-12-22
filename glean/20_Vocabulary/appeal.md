@@ -189,6 +189,7 @@ Analyze the root/family of **appeal**.
 **appeal**
 > 📖 **Meaning:** To make a serious request; to be attractive
 > 🇻🇳 **Vietnamese:** Kêu gọi, kháng cáo, hấp dẫn
+<!--SR:!2025-12-23,1,228-->
 
 ---
 

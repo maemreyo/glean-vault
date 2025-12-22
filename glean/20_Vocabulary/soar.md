@@ -89,6 +89,7 @@ What does **soar** (*/sɔːr/*) mean?
 > 🇻🇳 **Vietnamese:** Bay cao, tăng vọt - di chuyển lên cao một cách dễ dàng và duyên dáng
 > 🗣️ **IPA:** */sɔːr/*
 > 🧠 **Mental Model:** Hình ảnh con đại bàng bay lượn trên không trung, không cần vỗ cánh nhiều
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -123,6 +124,7 @@ List 3 common collocations for **soar**.
 > 1. **Financial:** prices/stocks/costs soar (VN note: giá tăng vọt - dùng trong kinh tế)
 > 2. **Physical:** birds/planes/kites soar (VN note: bay lượn - dùng cho vật thể bay)
 > 3. **Emotional:** spirits/hopes/confidence soar (VN note: tinh thần/hy vọng tăng cao - dùng cho cảm xúc)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -188,6 +190,7 @@ Analyze the root/family of **soar**.
 **soar**
 > 📖 **Meaning:** To rise or fly high with ease
 > 🇻🇳 **Vietnamese:** Bay cao, tăng vọt
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -212,3 +215,4 @@ Analyze the root/family of **soar**.
 > - [[dive]] (lao xuống)
 > - [[crash]] (rơi đập xuống)
 > 🧱 **Contrast:** Soar là bay lên nhẹ nhàng, plummet là rơi xuống nhanh chóng
+<!--SR:!2025-12-23,1,236-->

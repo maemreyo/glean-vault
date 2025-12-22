@@ -91,6 +91,7 @@ What does **command** (*/kəˈmɑːnd/*) mean?
 > 🇻🇳 **Vietnamese:** Ra lệnh, chỉ huy, điều khiển, thành thạo
 > 🗣️ **IPA:** */kəˈmɑːnd/*
 > 🧠 **Mental Model:** Một người có quyền lực đưa ra mệnh lệnh hoặc một người có kỹ năng xuất sắc về điều gì đó
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -189,6 +190,7 @@ Analyze the root/family of **command**.
 **command**
 > 📖 **Meaning:** Authoritative order or control; mastery
 > 🇻🇳 **Vietnamese:** Mệnh lệnh, sự điều khiển, sự thành thạo
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

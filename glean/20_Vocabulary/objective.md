@@ -192,6 +192,7 @@ Analyze the root/family of **objective**.
 **objective**
 > 📖 **Meaning:** Not influenced by personal feelings; a goal or target
 > 🇻🇳 **Vietnamese:** Khách quan; mục tiêu
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

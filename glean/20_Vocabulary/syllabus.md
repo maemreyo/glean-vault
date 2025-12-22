@@ -87,6 +87,7 @@ What does **syllabus** (*/ˈsɪləbəs/*) mean?
 > 🇻🇳 **Vietnamese:** Đề cương môn học
 > 🗣️ **IPA:** */ˈsɪləbəs/*
 > 🧠 **Mental Model:** Think of it as a GPS navigation for your course journey (VN: như GPS điều hướng cho hành trình học tập)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -185,6 +186,7 @@ Analyze the root/family of **syllabus**.
 **syllabus**
 > 📖 **Meaning:** Course outline document
 > 🇻🇳 **Vietnamese:** Đề cương môn học
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

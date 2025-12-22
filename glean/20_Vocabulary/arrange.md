@@ -87,6 +87,7 @@ What does **arrange** (*/əˈreɪndʒ/*) mean?
 > 🇻🇳 **Vietnamese:** Sắp xếp, bố trí, sắp đặt, thu xếp
 > 🗣️ **IPA:** */əˈreɪndʒ/*
 > 🧠 **Mental Model:** "Arrange" giống như người chơi xếp hình - đặt từng mảnh đúng vị trí để tạo nên bức tranh hoàn chỉnh (VN explanation using English keywords)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -109,6 +110,7 @@ Use **arrange** in a sentence.
 > 📝 **Sentence:** The wedding coordinator will arrange all the details for the ceremony and reception.
 > 🇻🇳 **Translation:** Điều phối viên đám cưới sẽ sắp đặt tất cả các chi tiết cho lễ thành hôn và tiệc cưới.
 > 🔍 **Analysis:** "Arrange" works perfectly here showing professional planning (VN/EN mix), emphasizing careful coordination of multiple elements to create a successful event.
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -121,6 +123,7 @@ List 3 common collocations for **arrange**.
 > 1. **Events/Appointments:** arrange a meeting/appointment/wedding (sắp xếp một cuộc họp/hẹn/đám cưới - VN note: các sự kiện quan trọng)
 > 2. **Physical:** arrange flowers/furniture/books in order (sắp xếp hoa/nội thất/sách theo thứ tự - VN note: vật chất)
 > 3. **Financial:** arrange financing/payment/insurance (sắp đặt tài chính/thanh toán/bảo hiểm - VN note: các dịch vụ tài chính)
+<!--SR:!2025-12-23,1,230-->
 
 ---
 
@@ -186,6 +189,7 @@ Analyze the root/family of **arrange**.
 **arrange**
 > 📖 **Meaning:** To organize or put in order
 > 🇻🇳 **Vietnamese:** Sắp xếp, bố trí, tổ chức
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

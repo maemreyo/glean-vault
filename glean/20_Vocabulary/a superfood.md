@@ -88,6 +88,7 @@ What does **a superfood** (*/ə ˈsuːpəfuːd/*) mean?
 > 🇻🇳 **Vietnamese:** Một loại thực phẩm đặc biệt giàu dinh dưỡng và được coi là đặc biệt có lợi cho sức khỏe và sự khỏe mạnh
 > 🗣️ **IPA:** */ə ˈsuːpəfuːd/*
 > 🧠 **Mental Model:** Giống như một người bình thường đột nhiên có siêu sức mạnh - thực phẩm thường nay nhưng có dinh dưỡng vượt trội hơn hẳn
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -110,6 +111,7 @@ Use **a superfood** in a sentence.
 > 📝 **Sentence:** Avocado has gained popularity as a superfood due to its healthy fats, fiber, and various vitamins.
 > 🇻🇳 **Translation:** Quả bơ đã trở nên phổ biến như một loại siêu thực phẩm nhờ chất béo tốt, chất xơ và các loại vitamin.
 > 🔍 **Analysis:** "A superfood" thể hiện sự công nhận về giá trị dinh dưỡng vượt trội, thường dùng trong bối cảnh sức khỏe, dinh dưỡng hiện đại
+<!--SR:!2025-12-25,3,252-->
 
 ---
 
@@ -191,6 +193,7 @@ Analyze the root/family of **a superfood**.
 **a superfood**
 > 📖 **Meaning:** A food with exceptional nutritional benefits
 > 🇻🇳 **Vietnamese:** Một loại thực phẩm có lợi ích dinh dưỡng vượt trội
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

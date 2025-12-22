@@ -187,6 +187,7 @@ Analyze the components of **run out of**.
 **run out of**
 > 📖 **Meaning:** To have no more of something
 > 🇻🇳 **Vietnamese:** Hết, dùng hết, cạn kiệt
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

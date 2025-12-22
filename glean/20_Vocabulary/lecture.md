@@ -100,6 +100,7 @@ What does **lecture** (*/ˈlek.tʃər/*) mean?
 → **Target Word?**
 ?
 **lecture** (*/ˈlek.tʃər/*)
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -123,6 +124,7 @@ List 3 common collocations for **lecture**.
 > 1. **Action/Performance:** deliver a lecture (thực hiện bài giảng - diễn tả hành động)
 > 2. **Participation:** attend a lecture (tham dự bài giảng - góc độ người nghe)
 > 3. **Type/Format:** guest lecture (bài giảng mời - loại hình đặc biệt)
+<!--SR:!2025-12-23,1,232-->
 
 ---
 
@@ -189,6 +191,7 @@ Analyze the root/family of **lecture**.
 **lecture**
 > 📖 **Meaning:** An educational talk to an audience
 > 🇻🇳 **Vietnamese:** Bài giảng, bài diễn thuyết
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -196,8 +199,9 @@ Analyze the root/family of **lecture**.
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **lecture**?
-?
+
 > ❌ **Mistake:** "The professor lectured us about being late"
+?
 > ✅ **Correction:** "The professor lectured us on being late" OR "The professor gave us a lecture about being late"
 > 🧠 **Why:** Preposition usage: 'lecture on/about' for topics, but 'lecture someone' sounds like scolding
 

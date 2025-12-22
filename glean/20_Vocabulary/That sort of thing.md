@@ -189,6 +189,7 @@ Analyze the components of **That sort of thing**.
 **That sort of thing**
 > 📖 **Meaning:** Things of that type; similar matters
 > 🇻🇳 **Vietnamese:** Loại chuyện đó; việc tương tự
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

@@ -88,6 +88,7 @@ What does **Me neither** (*/miː ˈnaɪðə(r)/*) mean?
 > 🇻🇳 **Vietnamese:** Dùng để nói rằng bạn cũng không có cùng cảm giác, kinh nghiệm hoặc phẩm chất như người khác vừa đưa ra một tuyên bố phủ định
 > 🗣️ **IPA:** */miː ˈnaɪðə(r)/*
 > 🧠 **Mental Model:** Giống như gật đầu đồng tình khi ai đó nói "Tôi không thích X" và bạn trả lời "Tôi cũng không" - tạo ra sự kết nối ngay lập tức
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -189,6 +190,7 @@ Analyze the root/family of **Me neither**.
 **Me neither**
 > 📖 **Meaning:** Used to agree with a negative statement
 > 🇻🇳 **Vietnamese:** Dùng để đồng tình với một tuyên bố phủ định
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

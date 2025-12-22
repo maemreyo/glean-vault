@@ -189,6 +189,7 @@ Analyze the root/family of **pedestrian**.
 **pedestrianised**
 > 📖 **Meaning:** Area converted for pedestrian use only
 > 🇻🇳 **Vietnamese:** Đã dành cho người đi bộ
+<!--SR:!2025-12-23,1,228-->
 
 ---
 

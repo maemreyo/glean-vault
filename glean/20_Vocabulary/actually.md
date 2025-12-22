@@ -88,6 +88,7 @@ What does **actually** (*/ˈæktʃuəli/*) mean?
 > 🇻🇳 **Vietnamese:** Thực ra, thật ra, trên thực tế
 > 🗣️ **IPA:** */ˈæktʃuəli/*
 > 🧠 **Mental Model:** "Truth revealer" - từ mở màn câu nói để bật mí sự thật, giống như "Actually,..." = "Thật ra là..." trong tiếng Việt.
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -99,6 +100,7 @@ What does **actually** (*/ˈæktʃuəli/*) mean?
 → **Target Word?**
 ?
 **actually** (*/ˈæktʃuəli/*)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -188,6 +190,7 @@ Analyze the root/family of **actually**.
 **actually**
 > 📖 **Meaning:** In reality or fact; really
 > 🇻🇳 **Vietnamese:** Thực ra, thật ra, thực sự
+<!--SR:!2025-12-25,3,250-->
 
 ---
 

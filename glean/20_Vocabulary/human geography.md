@@ -88,6 +88,7 @@ What does **human geography** (*/ˌhjuː.mən dʒiˈɒɡ.rə.fi/*) mean?
 > 🇻🇳 **Vietnamese:** Địa lý nhân văn - nhánh địa lý nghiên cứu hoạt động con người và mối quan hệ với môi trường
 > 🗣️ **IPA:** */ˌhjuː.mən dʒiˈɒɡ.rə.fi/*
 > 🧠 **Mental Model:** Study of "human patterns" trên "Earth surface" - cities, migration, culture, economics - như maps của human life
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -99,6 +100,7 @@ What does **human geography** (*/ˌhjuː.mən dʒiˈɒɡ.rə.fi/*) mean?
 → **Target Word?**
 ?
 **human geography** (*/ˌhjuː.mən dʒiˈɒɡ.rə.fi/*)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -187,6 +189,7 @@ Analyze the root/family of **human geography**.
 **human geography**
 > 📖 **Meaning:** Study of human spatial organization and environment relationships
 > 🇻🇳 **Vietnamese:** Địa lý nhân văn - nghiên cứu tổ chức không gian con người
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

@@ -89,6 +89,7 @@ What does **For instance** (*/fɔːr ˈɪnstəns/*) mean?
 > 🇻🇳 **Vietnamese:** Ví dụ, chẳng hạn - cụm từ dùng để giới thiệu ví dụ minh họa cho câu đã nói
 > 🗣️ **IPA:** */fɔːr ˈɪnstəns/*
 > 🧠 **Mental Model:** Hình ảnh việc đưa ra một trường hợp cụ thể để minh họa cho ý chung vừa nêu
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -188,6 +189,7 @@ Analyze the root/family of **For instance**.
 **For instance**
 > 📖 **Meaning:** As an example; for example
 > 🇻🇳 **Vietnamese:** Ví dụ; chẳng hạn
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

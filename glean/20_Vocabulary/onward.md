@@ -187,6 +187,7 @@ Analyze the root/family of **onward**.
 **onward**
 > 📖 **Meaning:** Moving forward or continuing
 > 🇻🇳 **Vietnamese:** Về phía trước, tiếp tục
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

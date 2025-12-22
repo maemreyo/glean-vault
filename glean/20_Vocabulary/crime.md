@@ -90,6 +90,7 @@ What does **crime** (*/kraɪm/*) mean?
 > 🇻🇳 **Vietnamese:** Tội phạm - một hành vi hoặc sự không hành động bất hợp pháp bị luật pháp cấm và có thể bị nhà nước trừng phạt.
 > 🗣️ **IPA:** */kraɪm/*
 > 🧠 **Mental Model:** Hãy tưởng nhiệm một danh sách các quy tắc xã hội (luật pháp) - khi bạn phá vỡ các quy tắc này, bạn đã phạm "crime", và xã hội sẽ có hình phạt.
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -190,6 +191,7 @@ Analyze the root/family of **crime**.
 **crime**
 > 📖 **Meaning:** An illegal act punishable by law
 > 🇻🇳 **Vietnamese:** Hành vi bất hợp pháp bị pháp luật trừng phạt
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

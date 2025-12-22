@@ -87,6 +87,7 @@ What does **uncertain** (*/ʌnˈsɜːrtn/*) mean?
 > 🇻🇳 **Vietnamese:** Không chắc chắn, do dự, lăn tăn
 > 🗣️ **IPA:** */ʌnˈsɜːrtn/*
 > 🧠 **Mental Model:** Một người "uncertain" giống như người đứng trước ngã ba đường, không biết chọn lối nào để đi (VN explanation using English keywords)
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -109,6 +110,7 @@ Use **uncertain** in a sentence.
 > 📝 **Sentence:** The weather forecast was uncertain, so we couldn't plan our outdoor activities.
 > 🇻🇳 **Translation:** Dự báo thời tiết không chắc chắn, vì vậy chúng tôi không thể lên kế hoạch cho các hoạt động ngoài trời.
 > 🔍 **Analysis:** "Uncertain" works perfectly here as it expresses unpredictability (VN/EN mix), indicating lack of reliable information needed for decision-making.
+<!--SR:!2025-12-25,3,252-->
 
 ---
 

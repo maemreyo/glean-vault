@@ -89,6 +89,7 @@ What does **lasts three days** (*/lɑːsts θriː deɪz/*) mean?
 > 🇻🇳 **Vietnamese:** Kéo dài ba ngày, tồn tại trong ba ngày
 > 🗣️ **IPA:** */lɑːsts θriː deɪz/*
 > 🧠 **Mental Model:** Khi một event hoặc situation tiếp tục từ ngày 1 đến ngày 3 - it 'lasts three days'
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -189,6 +190,7 @@ Analyze the root/family of **lasts three days**.
 **lasts three days**
 > 📖 **Meaning:** To continue for a period of three days
 > 🇻🇳 **Vietnamese:** Kéo dài ba ngày
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

@@ -90,6 +90,7 @@ What does **association** (*/əˌsoʊsiˈeɪʃn/*) mean?
 > 🇻🇳 **Vietnamese:** Hiệp hội/tổ chức - nhóm người có mục tiêu chung hoặc sự liên kết về mặt tư duy
 > 🗣️ **IPA:** */əˌsoʊsiˈeɪʃn/*
 > 🧠 **Mental Model:** Hình ảnh nhiều người cùng nhau tạo thành tổ chức có cấu trúc, hoặc các ý tưởng kết nối với nhau
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

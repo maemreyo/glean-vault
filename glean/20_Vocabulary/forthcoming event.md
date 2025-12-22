@@ -100,6 +100,7 @@ What does **forthcoming event** (*/ˈfɔːθkʌmɪŋ ɪˈvent/*) mean?
 → **Target Word?**
 ?
 **forthcoming event** (*/ˈfɔːθkʌmɪŋ ɪˈvent/*)
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -192,6 +193,7 @@ Analyze the root/family of **forthcoming event**.
 **forthcoming event**
 > 📖 **Meaning:** An event that will happen soon
 > 🇻🇳 **Vietnamese:** Một sự kiện sẽ diễn ra sớm
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

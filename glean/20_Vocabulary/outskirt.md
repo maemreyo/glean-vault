@@ -188,6 +188,7 @@ Analyze the root/family of **outskirt**.
 **outskirt**
 > 📖 **Meaning:** The outer parts of a town or city
 > 🇻🇳 **Vietnamese:** Khu vực ngoại ô, ngoại thành
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

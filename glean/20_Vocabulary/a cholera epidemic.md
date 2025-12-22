@@ -88,6 +88,7 @@ What does **a cholera epidemic** (*/ə ˈkɒlərə ˌepɪˈdemɪk/*) mean?
 > 🇻🇳 **Vietnamese:** Một trận dịch tả bùng phát, ảnh hưởng đến nhiều người trong khu vực
 > 🗣️ **IPA:** */ə ˈkɒlərə ˌepɪˈdemɪk/*
 > 🧠 **Mental Model:** Hình ảnh một làn sóng bệnh tả lan rộng trong cộng đồng, lây nhiễm qua nguồn nước bẩn
+<!--SR:!2025-12-23,1,230-->
 
 ---
 
@@ -110,6 +111,7 @@ Use **a cholera epidemic** in a sentence.
 > 📝 **Sentence:** The rapid urbanization led to a cholera epidemic that claimed thousands of lives before proper sanitation was implemented.
 > 🇻🇳 **Translation:** Sự đô thị hóa nhanh chóng đã dẫn đến một trận dịch tả, cướp đi sinh mạng của hàng ngàn người trước khi hệ thống vệ sinh được cải thiện.
 > 🔍 **Analysis:** Phrase này phù hợp vì "cholera epidemic" mô tả chính xác tình hình bệnh tả lây lan rộng do điều kiện vệ sinh kém trong quá trình đô thị hóa
+<!--SR:!2025-12-24,2,248-->
 
 ---
 
@@ -122,6 +124,7 @@ List 3 common collocations for **a cholera epidemic**.
 > 1. **Action/Control:** contain/cholera epidemic (VN note: khống chế dịch - hành động y tế công cộng)
 > 2. **Description:** severe/deadly cholera epidemic (VN note: nguy nan/chết người - mức độ nghiêm trọng)
 > 3. **Occurrence:** cholera epidemic breaks out/spreads (VN note: bùng phát/lan rộng - diễn biến của dịch)
+<!--SR:!2025-12-24,2,248-->
 
 ---
 
@@ -187,6 +190,7 @@ Analyze the root/family of **a cholera epidemic**.
 **a cholera epidemic**
 > 📖 **Meaning:** A widespread outbreak of cholera disease
 > 🇻🇳 **Vietnamese:** Một trận dịch tả bùng phát
+<!--SR:!2025-12-23,1,228-->
 
 ---
 

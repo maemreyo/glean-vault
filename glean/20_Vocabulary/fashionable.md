@@ -88,6 +88,7 @@ What does **fashionable** (*/ˈfæʃnəbl/*) mean?
 > 🇻🇳 **Vietnamese:** Tuân theo phong cách phổ biến hiện nay, đặc biệt là trong trang phục, nhưng cả trong hành vi, ý tưởng hoặc nơi chốn
 > 🗣️ **IPA:** */ˈfæʃnəbl/*
 > 🧠 **Mental Model:** Giống như đang "in" hoặc "hot trend" - mọi người đều muốn theo đuổi vì nó đang được xã hội công nhận là cool/cliché/thịnh hành
+<!--SR:!2025-12-25,3,252-->
 
 ---
 

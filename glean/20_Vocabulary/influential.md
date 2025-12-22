@@ -113,6 +113,7 @@ Use **influential** in a sentence.
 > 📝 **Sentence:** Her influential research on artificial intelligence has shaped the direction of tech innovation for decades.
 > 🇻🇳 **Translation:** Nghiên cứu có tầm ảnh hưởng của bà về trí tuệ nhân tạo đã định hình hướng đi của đổi mới công nghệ trong nhiều thập kỷ.
 > 🔍 **Analysis:** "Influential research" thể hiện nghiên cứu không chỉ tốt mà còn có khả năng thay đổi cả ngành. Influential ở đây mô tả tác động lâu dài và rộng lớn lên cả lĩnh vực.
+<!--SR:!2025-12-25,3,252-->
 
 ---
 

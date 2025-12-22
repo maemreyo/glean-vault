@@ -90,6 +90,7 @@ What does **barbecue** (*/'bɑːbɪkjuː/*) mean?
 > 🇻🇳 **Vietnamese:** Tiệc nướng/nướng BBQ - phương pháp nướng thịt chậm trên nhiệt thấp và sự tụ họp xã hội nơi món ăn này được phục vụ.
 > 🗣️ **IPA:** */'bɑːbɪkjuː/*
 > 🧠 **Mental Model:** Hãy tưởng tượng một khu vườn, bạn bè quây quần quanh bếp nướng, khói bốc lên thơm lừng - đó chính là "barbecue", kết hợp hoàn hảo giữa ẩm thực và giao lưu xã hội.
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -101,6 +102,7 @@ What does **barbecue** (*/'bɑːbɪkjuː/*) mean?
 → **Target Word?**
 ?
 **barbecue** (*/'bɑːbɪkjuː/*)
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -112,6 +114,7 @@ Use **barbecue** in a sentence.
 > 📝 **Sentence:** The family reunion featured a traditional Texas **barbecue** with brisket that had been smoking for twelve hours.
 > 🇻🇳 **Vietnamese:** Lại đoàn gia đình có đặc sản là barbecue kiểu Texas với thịt bò được hun khói trong mười hai tiếng.
 > 🔍 **Analysis:** "Barbecue" ở đây chỉ cả sự kiện (lại đoàn) và phương pháp nướng đặc trưng của Texas (hun khói chậm), không chỉ đơn thuần là nướng thịt.
+<!--SR:!2025-12-25,3,252-->
 
 ---
 
@@ -124,6 +127,7 @@ List 3 common collocations for **barbecue**.
 > 1. **Summer Barbecue:** Casual outdoor gathering during warm weather (Tiệc nướng mùa hè - sự tụ họp ngoài trời không trang trọng trong thời tiết ấm)
 > 2. **Barbecue Sauce:** Thick, sweet and spicy sauce used for basting meat (Nước sốt BBQ - sốt đặc ngọt và cay dùng để quét thịt)
 > 3. **Electric Barbecue:** Modern grill using electricity instead of charcoal (Bếp nướng điện - vỉ nướng hiện đại dùng điện thay than)
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

@@ -88,6 +88,7 @@ What does **narrow the topic down** (*/ˈnærəʊ ðə ˈtɒpɪk daʊn/*) mean?
 > 🇻🇳 **Vietnamese:** Giảm phạm vi hoặc phạm vi của cái gì đó để làm cho nó cụ thể hoặc tập trung hơn
 > 🗣️ **IPA:** */ˈnærəʊ ðə ˈtɒpɪk daʊn/*
 > 🧠 **Mental Model:** Giống như một chiếc phễu thu hẹp - lấy một dòng chảy rộng và hướng nó vào một điểm cụ thể, tập trung hơn
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

@@ -88,6 +88,7 @@ What does **obsessed with** (*/əbˈsest wɪð/*) mean?
 > 🇻🇳 **Vietnamese:** Bị ám ảnh bởi, cuồng nhiệt về, say mê quên mình
 > 🗣️ **IPA:** */əbˈsest wɪð/*
 > 🧠 **Mental Model:** Khi một thought/idea/person "sieges" (bủa vây) mind của bạn - bạn 'obsessed with' nó
+<!--SR:!2025-12-23,1,228-->
 
 ---
 
@@ -99,6 +100,7 @@ What does **obsessed with** (*/əbˈsest wɪð/*) mean?
 → **Target Word?**
 ?
 **obsessed with** (*/əbˈsest wɪð/*)
+<!--SR:!2025-12-24,2,248-->
 
 ---
 
@@ -188,6 +190,7 @@ Analyze the root/family of **obsessed with**.
 **obsessed with**
 > 📖 **Meaning:** Having your mind constantly occupied by something to an excessive degree
 > 🇻🇳 **Vietnamese:** Bị ám ảnh bởi, cuồng nhiệt về
+<!--SR:!2025-12-23,1,228-->
 
 ---
 

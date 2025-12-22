@@ -90,6 +90,7 @@ What does **flexibility** (*/ˌfleksə'bɪləti/*) mean?
 > 🇻🇳 **Vietnamese:** Sự linh hoạt, sự dẻo dai - khả năng thích ứng hoặc thay đổi dễ dàng với điều kiện mới; khả năng uốn cong mà không gãy.
 > 🗣️ **IPA:** */ˌfleksə'bɪləti/*
 > 🧠 **Mental Model:** Hãy tưởng tượng một cây tre trong gió - nó uốn cong (flexible) thay vì chống lại, và sống sót. Đó chính là "flexibility", sức mạnh đến từ việc thích ứng chứ không phải cứng nhắc.
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -190,6 +191,7 @@ Analyze the root/family of **flexibility**.
 **flexibility**
 > 📖 **Meaning:** The quality of being able to change or adapt easily to different conditions
 > 🇻🇳 **Vietnamese:** Sự linh hoạt, khả năng thay đổi hoặc thích ứng dễ dàng
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

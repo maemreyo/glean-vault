@@ -89,6 +89,7 @@ What does **carry out** (*/ˈkæri aʊt/*) mean?
 > 🇻🇳 **Vietnamese:** Thực hiện, tiến hành
 > 🗣️ **IPA:** */ˈkæri aʊt/*
 > 🧠 **Mental Model:** Think of carrying a task through to completion, like carrying a package out the door (VN: như mang một nhiệm vụ đến khi hoàn thành)
+<!--SR:!2025-12-23,1,230-->
 
 ---
 
@@ -100,6 +101,7 @@ What does **carry out** (*/ˈkæri aʊt/*) mean?
 → **Target Word?**
 ?
 **carry out** (*/ˈkæri aʊt/*)
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -111,6 +113,7 @@ Use **carry out** in a sentence.
 > 📝 **Sentence:** The committee will carry out an investigation into the incident.
 > 🇻🇳 **Translation:** Ủy ban sẽ tiến hành một cuộc điều tra về sự việc này.
 > 🔍 **Analysis:** "Carry out" emphasizes thorough execution of formal/professional tasks, more formal than "do" (VN: "carry out" nhấn mạnh sự thực hiện đầy đủ các nhiệm vụ trang trọng)
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -188,6 +191,7 @@ Analyze the root/family of **carry out**.
 **carry out**
 > 📖 **Meaning:** To perform or complete a task
 > 🇻🇳 **Vietnamese:** Thực hiện, tiến hành
+<!--SR:!2025-12-23,1,230-->
 
 ---
 

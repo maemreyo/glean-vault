@@ -90,6 +90,7 @@ What does **publicity** (*/pʌb'lɪsəti/*) mean?
 > 🇻🇳 **Vietnamese:** Sự quảng bá - hoạt động chuyên nghiệp thu hút sự chú ý của công chúng vào điều gì đó hoặc ai đó qua đưa tin và chiến lược truyền thông.
 > 🗣️ **IPA:** */pʌb'lɪsəti/*
 > 🧠 **Mental Model:** Hãy tưởng nhiệm một chiếc loa khổng lồ - "publicity" là cách khuếch đại thông tin để nhiều người biết đến, như một âm thanh được khuếch đại để mọi người có thể nghe thấy.
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -124,6 +125,7 @@ List 3 common collocations for **publicity**.
 > 1. **Negative Publicity:** Unwanted attention that damages reputation (Sự chú ý tiêu cực - sự chú ý không mong muốn gây hại danh tiếng)
 > 2. **Publicity Stunt:** Planned activity designed to attract media attention (Chiêu trò quảng bá - hoạt động có kế hoạch nhằm thu hút sự chú ý của truyền thông)
 > 3. **Free Publicity:** Media coverage without paying for advertising (Sự quảng bá miễn phí - đưa tin truyền thông không trả tiền quảng cáo)
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -190,6 +192,7 @@ Analyze the root/family of **publicity**.
 **publicity**
 > 📖 **Meaning:** Public attention or notice, especially in media
 > 🇻🇳 **Vietnamese:** Sự chú ý của công chúng, đặc biệt là trên truyền thông
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

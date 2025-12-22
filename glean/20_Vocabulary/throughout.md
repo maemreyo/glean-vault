@@ -187,6 +187,7 @@ Analyze the roots/family of **throughout**.
 **throughout**
 > 📖 **Meaning:** In every part or during entire period
 > 🇻🇳 **Vietnamese:** Khắp nơi, suốt
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

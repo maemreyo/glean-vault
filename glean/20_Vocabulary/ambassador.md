@@ -188,6 +188,7 @@ Analyze the root/family of **ambassador**.
 **ambassador**
 > 📖 **Meaning:** A high-ranking diplomatic representative
 > 🇻🇳 **Vietnamese:** Đại sứ - người đại diện ngoại giao cấp cao
+<!--SR:!2025-12-24,2,248-->
 
 ---
 

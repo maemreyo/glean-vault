@@ -88,6 +88,7 @@ What does **theft** (*/θeft/*) mean?
 > 🇻🇳 **Vietnamese:** Hành vi trộm cắp, tội ăn cắp tài sản
 > 🗣️ **IPA:** */θeft/*
 > 🧠 **Mental Model:** Khi ai đó take property của người khác mà không có permission - đó là theft
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

@@ -88,6 +88,7 @@ What does **carbon footprint** (*/ˈkɑːbən ˈfʊtprɪnt/*) mean?
 > 🇻🇳 **Vietnamese:** Lượng khí thải carbon
 > 🗣️ **IPA:** */ˈkɑːbən ˈfʊtprɪnt/*
 > 🧠 **Mental Model:** Think of invisible "carbon footprints" left behind everything we do, from using electricity to buying food (VN: nghĩ về dấu chân carbon vô hình sau mỗi hành động)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -110,6 +111,7 @@ Use **carbon footprint** in a sentence.
 > 📝 **Sentence:** Remote work can significantly reduce the carbon footprint associated with daily commuting.
 > 🇻🇳 **Translation:** Làm việc từ xa có thể giảm đáng kể lượng khí thải carbon liên quan đến đi lại hàng ngày.
 > 🔍 **Analysis:** "Carbon footprint" specifically quantifies environmental impact in CO2 terms, making abstract climate effects measurable (VN: "carbon footprint" lượng hóa tác động môi trường theo đơn vị CO2)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -186,6 +188,7 @@ Analyze the root/family of **carbon footprint**.
 **carbon footprint**
 > 📖 **Meaning:** Total greenhouse gas emissions from human activities
 > 🇻🇳 **Vietnamese:** Lượng khí thải carbon
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

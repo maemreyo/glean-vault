@@ -88,6 +88,7 @@ What does **be timetabling** (*/biː ˈtaɪmˌteɪblɪŋ/*) mean?
 > 🇻🇳 **Vietnamese:** Đang lập thời khóa biểu
 > 🗣️ **IPA:** */biː ˈtaɪmˌteɪblɪŋ/*
 > 🧠 **Mental Model:** Picture someone arranging events on a calendar or time grid (VN: hình dung ai đó đang sắp xếp sự kiện trên lịch)
+<!--SR:!2025-12-25,3,250-->
 
 ---
 
@@ -187,6 +188,7 @@ Analyze the root/family of **be timetabling**.
 **be timetabling**
 > 📖 **Meaning:** Currently creating a schedule
 > 🇻🇳 **Vietnamese:** Đang lập thời khóa biểu
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

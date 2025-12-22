@@ -102,6 +102,7 @@ What does **manipulate** (*/məˈnɪpjəleɪt/*) mean?
 → **Target Word?**
 ?
 **manipulate** (*/məˈnɪpjəleɪt/*)
+<!--SR:!2025-12-26,4,274-->
 
 ---
 
@@ -113,6 +114,7 @@ Use **manipulate** in a sentence.
 > 📝 **Sentence:** The advertising campaign attempted to manipulate consumers' emotions to drive sales during the holiday season.
 > 🇻🇳 **Translation:** Chiến dịch quảng cáo cố gắng thao túng cảm xúc của người tiêu dùng để thúc đẩy doanh số trong mùa lễ hội.
 > 🔍 **Analysis:** "Manipulate" phù hợp để mô tả nỗ lực có chủ đích gây ảnh hưởng đến cảm xúc người tiêu dùng vì mục đích thương mại
+<!--SR:!2025-12-26,4,274-->
 
 ---
 

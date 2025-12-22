@@ -87,6 +87,7 @@ What does **cholera** (*/ˈkɒlərə/*) mean?
 > 🇻🇳 **Vietnamese:** Bệnh tả - nhiễm trùng ruột cấp do vi khuẩn gây ra tiêu chảy nặng
 > 🗣️ **IPA:** */ˈkɒlərə/*
 > 🧠 **Mental Model:** Hình ảnh vi khuẩn Vibrio cholerae xâm nhập ruột non, gây ra tình trạng mất nước cấp tính qua tiêu chảy
+<!--SR:!2025-12-23,1,228-->
 
 ---
 

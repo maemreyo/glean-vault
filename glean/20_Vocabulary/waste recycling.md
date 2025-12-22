@@ -87,6 +87,7 @@ What does **waste recycling** (*/weɪst ˌriːˈsaɪklɪŋ/*) mean?
 > 🇻🇳 **Vietnamese:** Tái chế rác thải, việc tái chế chất thải
 > 🗣️ **IPA:** */weɪst ˌriːˈsaɪklɪŋ/*
 > 🧠 **Mental Model:** "Waste recycling" giống như vòng tuần hoàn của vật liệu - rác thải không mất đi mà biến thành sản phẩm mới (VN explanation using English keywords)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -186,6 +187,7 @@ Analyze the root/family of **waste recycling**.
 **waste recycling**
 > 📖 **Meaning:** Converting waste materials into new products
 > 🇻🇳 **Vietnamese:** Tái chế rác thải, tái chế chất thải
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

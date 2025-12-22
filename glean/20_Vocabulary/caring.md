@@ -88,6 +88,7 @@ What does **caring** (*/ˈkerɪŋ/*) mean?
 > 🇻🇳 **Vietnamese:** Quan tâm, chu đáo, biết lo lắng cho người khác
 > 🗣️ **IPA:** */ˈkerɪŋ/*
 > 🧠 **Mental Model:** Một người "caring" giống như một người mẹ bao bọc, luôn đặt cảm xúc và nhu cầu của người khác lên trước (VN explanation using English keywords)
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -199,6 +200,7 @@ Analyze the root/family of **caring**.
 > ❌ **Mistake:** "Be caring when crossing the street."
 > ✅ **Correction:** "Be careful when crossing the street."
 > 🧠 **Why:** "Caring" = showing concern for others; "Careful" = taking precautions to avoid danger. Don't mix up these look-alikes!
+<!--SR:!2025-12-26,4,275-->
 
 ---
 

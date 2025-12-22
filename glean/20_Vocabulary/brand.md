@@ -90,6 +90,7 @@ What does **brand** (*/brænd/*) mean?
 > 🇻🇳 **Vietnamese:** Thương hiệu - một cái tên, thiết kế, biểu tượng đặc trưng dùng để nhận biết và phân biệt sản phẩm hoặc công ty.
 > 🗣️ **IPA:** */brænd/*
 > 🧠 **Mental Model:** Hãy tưởng tượng một dấu ấn nóng (hot iron mark) trên da bò - đó chính là "brand", một dấu hiệu không thể xóa nhòa cho biết đây là sản phẩm của ai.
+<!--SR:!2025-12-26,4,272-->
 
 ---
 
@@ -101,6 +102,7 @@ What does **brand** (*/brænd/*) mean?
 → **Target Word?**
 ?
 **brand** (*/brænd/*)
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

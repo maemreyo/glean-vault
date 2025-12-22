@@ -88,6 +88,7 @@ What does **unrealistic** (*/ˌʌnrɪəˈlɪstɪk/*) mean?
 > 🇻🇳 **Vietnamese:** Không dựa trên thực tế; có kỳ vọng hoặc ý tưởng không hợp lý về những gì có thể đạt được
 > 🗣️ **IPA:** */ˌʌnrɪəˈlɪstɪk/*
 > 🧠 **Mental Model:** Giống như xây lâu đài trên cát - trông đẹp nhưng không thể tồn tại trong thực tế, viển vông, không tưởng
+<!--SR:!2025-12-26,4,270-->
 
 ---
 
@@ -190,6 +191,7 @@ Analyze the root/family of **unrealistic**.
 **unrealistic**
 > 📖 **Meaning:** Not based on reality; impractical or impossible to achieve
 > 🇻🇳 **Vietnamese:** Không dựa trên thực tế; không thực tế hoặc không thể đạt được
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

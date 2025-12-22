@@ -87,6 +87,7 @@ What does **statistic** (*/stəˈtɪstɪk/*) mean?
 > 🇻🇳 **Vietnamese:** Số liệu thống kê, chỉ số thống kê
 > 🗣️ **IPA:** */stəˈtɪstɪk/*
 > 🧠 **Mental Model:** "Statistic" giống như một bức ảnh chụp nhanh thực tại - con số hóa bức tranh toàn cảnh (VN explanation using English keywords)
+<!--SR:!2025-12-26,4,270-->
 
 ---
 

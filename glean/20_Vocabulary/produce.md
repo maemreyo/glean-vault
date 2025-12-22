@@ -189,6 +189,7 @@ Analyze the root/family of **produce**.
 **produce**
 > 📖 **Meaning:** Fresh farm products (noun); to create or grow (verb)
 > 🇻🇳 **Vietnamese:** Nông sản (n); sản xuất (v)
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

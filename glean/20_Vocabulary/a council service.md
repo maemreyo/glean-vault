@@ -188,6 +188,7 @@ Analyze the root/family of **council service**.
 **council service**
 > 📖 **Meaning:** A public service provided by local government
 > 🇻🇳 **Vietnamese:** Dịch vụ do chính quyền địa phương cung cấp
+<!--SR:!2025-12-24,2,248-->
 
 ---
 

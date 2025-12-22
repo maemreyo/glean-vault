@@ -187,6 +187,7 @@ Analyze the root/family of **vague**.
 **vague**
 > 📖 **Meaning:** Not clearly expressed or understood
 > 🇻🇳 **Vietnamese:** Mơ hồ, không rõ ràng, chung chung
+<!--SR:!2025-12-24,2,248-->
 
 ---
 

@@ -90,6 +90,7 @@ What does **to be readily available** (*/tʊ biː ˈredɪli əˈveɪləbl/*) mea
 > 🇻🇳 **Vietnamese:** Sẵn có ngay lập tức, dễ dàng tiếp cận khi cần
 > 🗣️ **IPA:** */tʊ biː ˈredɪli əˈveɪləbl/*
 > 🧠 **Mental Model:** Một thứ gì đó luôn ở đó, sẵn sàng để sử dụng ngay khi cần mà không phải chờ đợi
+<!--SR:!2025-12-25,3,252-->
 
 ---
 

@@ -190,6 +190,7 @@ Analyze the root/family of **commercial**.
 **commercial**
 > 📖 **Meaning:** Related to business; TV or radio advertisement
 > 🇻🇳 **Vietnamese:** Liên quan đến kinh doanh; quảng cáo TV hoặc radio
+<!--SR:!2025-12-26,4,272-->
 
 ---
 

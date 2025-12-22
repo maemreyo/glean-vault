@@ -123,6 +123,7 @@ List 3 common collocations for **oat milk**.
 > 1. **Coffee Context:** oat milk latte/cappuccino/flat white (cà phê với sữa yến mạch) - phổ biến trong quán cà phê
 > 2. **Product Type:** barista edition/professional oat milk (sữa yến mạch chuyên nghiệp) - loại đặc biệt cho pha chế
 > 3. **Quality:** creamy/silky/extra creamy oat milk (sữa yến mạch sánh mịn) - mô tả kết cấu
+<!--SR:!2025-12-25,3,266-->
 
 ---
 
