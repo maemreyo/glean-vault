@@ -187,7 +187,7 @@ Analyze the root/family of **sewage**.
 **sewage**
 > 📖 **Meaning:** Waste matter carried away in sewers
 > 🇻🇳 **Vietnamese:** Nước thải
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-24,1,210-->
 
 ---
 

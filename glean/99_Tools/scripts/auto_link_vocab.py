@@ -845,7 +845,8 @@ def main():
     parser.add_argument("--migrate-aliases", action="store_true", help="One-time utility: Add 'aliases: []' to existing vocabulary files.")
     parser.add_argument("--restore-before-link", action="store_true", help="Restore all target files to original before linking (requires --folder or --file)")
     parser.add_argument("--no-restore", action="store_true", help="Skip auto-restore to original before linking (by default, files are restored)")
-    parser.add_argument("--clean-quotes", action="store_true", help="Run clean_quotes.py on target files before linking (requires --folder or --file)")
+    parser.add_argument("--clean-quotes", action="store_true", help="Run clean_quotes.py on target files before linking (Deprecated: now runs by default)")
+    parser.add_argument("--no-clean-quotes", action="store_true", help="Skip running clean_quotes.py before linking (by default, quotes are cleaned)")
     parser.add_argument("--add-ref-tags", action="store_true", help="Add flashcard tags based on 'ref:' field in frontmatter")
     
     parser.set_defaults(dry_run=True)
@@ -935,11 +936,18 @@ def main():
         print("=" * 60)
         print()
     
-    # Handle clean-quotes
-    if args.clean_quotes:
+    # Auto-clean quotes before linking (DEFAULT behavior, unless --no-clean-quotes)
+    should_clean_quotes = not args.no_clean_quotes and not args.dry_run
+    
+    if should_clean_quotes or args.clean_quotes:
         if not (args.file or args.folder):
-            print("⚠️  Warning: --clean-quotes requires --file or --folder. Using default Articles directory.")
-        print("\n🧹 Step 2: Cleaning quotes..." if args.restore_before_link else "\n🧹 Step 1: Cleaning quotes...")
+            print("⚠️  Warning: Auto-clean quotes requires --file or --folder. Using default Articles directory.")
+        
+        step_description = "Check & Clean quotes"
+        if args.restore_before_link or should_auto_restore:
+            print(f"\n🧹 Step 2: {step_description}...")
+        else:
+             print(f"\n🧹 Step 1: {step_description}...")
         print("=" * 60)
         
         # Build clean_quotes.py command
@@ -964,9 +972,9 @@ def main():
     
     # Normal Processing
     step_num = 1
-    if args.restore_before_link:
+    if args.restore_before_link or should_auto_restore:
         step_num += 1
-    if args.clean_quotes:
+    if args.clean_quotes or should_clean_quotes:
         step_num += 1
     
     if step_num > 1:

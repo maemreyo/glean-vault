@@ -8,7 +8,7 @@ The government has launched a new taskforce it says [[20_Vocabulary/will|will]] 
 
 Led by technology secretary Liz Kendall, it [[20_Vocabulary/will|will]] see [[20_Vocabulary/female|female]] leaders from tech companies [[20_Vocabulary/In addition|and]] organisations advise the government on how to [[20_Vocabulary/promote|boost]] [[20_Vocabulary/variety|diversity]] [[20_Vocabulary/In addition|and]] economic growth in the [[20_Vocabulary/industrial function|industry]].
 
-BCS, the Chartered [[20_Vocabulary/establish|Institute]] for IT, recently suggested [[20_Vocabulary/female|women]] accounted for [[20_Vocabulary/sole|only]] 22% of those [[20_Vocabulary/workshop|working]] in IT specialist roles in the UK.
+BCS, the Chartered [[20_Vocabulary/establish|Institute]] for IT, recently suggested [[20_Vocabulary/female|women]] accounted for [[20_Vocabulary/merely|only]] 22% of those [[20_Vocabulary/workshop|working]] in IT specialist roles in the UK.
 
 Ms Kendall said the [[20_Vocabulary/female|Women]] in Tech group [[20_Vocabulary/will|would]] "[[20_Vocabulary/degrade|break down]] the barriers that still [[20_Vocabulary/hold|hold]] [[20_Vocabulary/In addition|too]] many people back".
 
@@ -26,9 +26,9 @@ Dr Imafidon, who passed A-level computing [[20_Vocabulary/elderly|aged]] 11 [[20
 
 [[20_Vocabulary/female|She]] told the BBC [[20_Vocabulary/female|her]] role [[20_Vocabulary/will|would]] [[20_Vocabulary/establish|build]] on more than a [[20_Vocabulary/decade|decade]] of work to [[20_Vocabulary/establish|establish]] greater equality for - [[20_Vocabulary/In addition|and]] representation of - [[20_Vocabulary/female|women]].
 
-[[20_Vocabulary/However|But]] now, amid what [[20_Vocabulary/female|she]] called "a fourth [[20_Vocabulary/industrial function|industrial]] revolution", was a key moment to "be [[20_Vocabulary/belong to|part of]] [[20_Vocabulary/shift|shifting]] who is making those decisions for what comes next".
+[[20_Vocabulary/However|But]] now, amid what [[20_Vocabulary/female|she]] called "a fourth [[20_Vocabulary/industrial function|industrial]] [[20_Vocabulary/the dramatic change|revolution]]", was a key moment to "be [[20_Vocabulary/belong to|part of]] [[20_Vocabulary/shift|shifting]] who is making those decisions for what comes next".
 
-"This isn't just [[20_Vocabulary/approximately|about]] having [[20_Vocabulary/female|women]] [[20_Vocabulary/existence|being]] the driving force [[20_Vocabulary/In addition|and]] building the technology, [[20_Vocabulary/However|but]] this is [[20_Vocabulary/approximately|about]] building technology that benefits everybody," [[20_Vocabulary/female|she]] said.
+"This isn't [[20_Vocabulary/merely|just]] [[20_Vocabulary/approximately|about]] having [[20_Vocabulary/female|women]] [[20_Vocabulary/existence|being]] the driving force [[20_Vocabulary/In addition|and]] building the technology, [[20_Vocabulary/However|but]] this is [[20_Vocabulary/approximately|about]] building technology that benefits everybody," [[20_Vocabulary/female|she]] said.
 
 ## 'Equality long overdue'
 
@@ -38,10 +38,10 @@ BT Group boss Allison Kirkby, Revolut chief executive Francesca Carlesi [[20_Voc
 
 It [[20_Vocabulary/What's more|also]] includes TUC assistant general secretary Kate Bell, director of [[20_Vocabulary/publicity|public]] policy at Uber Emma O'Dwyer, [[20_Vocabulary/In addition|and]] Sue Daley, director of technology [[20_Vocabulary/In addition|and]] [[20_Vocabulary/invent|innovation]] at [[20_Vocabulary/industrial function|industry]] group techUK.
 
-"[[20_Vocabulary/entrance|Entry]] routes, career [[20_Vocabulary/a few chords|progression]] to leadership, [[20_Vocabulary/In addition|and]] [[20_Vocabulary/access|access]] to [[20_Vocabulary/major city|capital]] are just some of the barriers [[20_Vocabulary/female|women]] in tech still [[20_Vocabulary/dealing|face]] today," Ms Daley said.
+"[[20_Vocabulary/entrance|Entry]] routes, career [[20_Vocabulary/a few chords|progression]] to leadership, [[20_Vocabulary/In addition|and]] [[20_Vocabulary/access|access]] to [[20_Vocabulary/major city|capital]] are [[20_Vocabulary/merely|just]] some of the barriers [[20_Vocabulary/female|women]] in tech still [[20_Vocabulary/dealing|face]] today," Ms Daley said.
 
 "[[20_Vocabulary/achieve|Achieving]] gender equality is long overdue, [[20_Vocabulary/In addition|and]] I am honoured to [[20_Vocabulary/come along|join]] the [[20_Vocabulary/female|Women]] in Tech taskforce alongside Liz Kendall [[20_Vocabulary/In addition|and]] several inspiring [[20_Vocabulary/female|women]] from [[30_Structures/across the industry|across the industry]], [[20_Vocabulary/group cooperation|working together]] [[30_Structures/to chart a path forward|to chart a path forward]] for true gender equality."
 
-![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
+![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
 
-A [[20_Vocabulary/biodegradable|green]] [[20_Vocabulary/publicity|promotional]] banner with black squares [[20_Vocabulary/In addition|and]] rectangles forming pixels, moving in from the right. The text says: “Tech Decoded: The world’s biggest tech news in your inbox every Monday.”
+A [[20_Vocabulary/biodegradable|green]] [[20_Vocabulary/publicity|promotional]] banner with black squares [[20_Vocabulary/In addition|and]] rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."

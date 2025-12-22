@@ -13,13 +13,13 @@
 | **Level**:               | **2**…………………                                                              |
 | **Place**:               | the **3**…………………<br><br>**4**………………… Street<br><br>First floor, Room T347 |
 | **Time**:                | Thursday morning at **5**…………………                                          |
-| **Recommended website**: | ‘The perfect **6**…………………’                                                |
+| **Recommended website**: | 'The perfect **6**…………………'                                                |
 
 **Questions 7–10**
 
 *Complete the table [[20_Vocabulary/Beneath|below]].*
 
-*Write **ONE WORD [[20_Vocabulary/sole|ONLY]]** for each answer.*
+*Write **ONE WORD [[20_Vocabulary/merely|ONLY]]** for each answer.*
 
 | A [[20_Vocabulary/average\|typical]] 45-[[20_Vocabulary/tiny\|minute]] guitar lesson |
 | --- |
@@ -90,7 +90,7 @@ English Dictionary Apps
 
 **C** eight [[20_Vocabulary/In addition|and]] a half minutes.
 
-**15** As a ‘helmsman’, David has the [[20_Vocabulary/responsible for|responsibility]] of deciding
+**15** As a 'helmsman', David has the [[20_Vocabulary/responsible for|responsibility]] of deciding
 
 **A** who [[20_Vocabulary/will|will]] be the members of his crew.
 
@@ -198,7 +198,7 @@ What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary
 
 **B** the colour of one [[20_Vocabulary/footwear|shoe]] had faded
 
-**C** one [[20_Vocabulary/footwear|shoe]] had a hole in it
+**C** one [[20_Vocabulary/footwear|shoe]] had a [[20_Vocabulary/two rows of post holes|hole]] in it
 
 **D** the [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/brand new|brand new]]
 
@@ -220,13 +220,13 @@ What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**29** Why did the [[20_Vocabulary/scheme|project]] to make ‘new’ [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
+**29** Why did the [[20_Vocabulary/scheme|project]] to make 'new' [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
 
-**A** People believed the ‘new’ pairs of [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/unhygienic|unhygienic]].
+**A** People believed the 'new' pairs of [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/unhygienic|unhygienic]].
 
 **B** There were not enough good parts to use in the [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]].
 
-**C** The [[20_Vocabulary/footwear|shoes]] in the ‘new’ pairs were not completely [[20_Vocabulary/identical|alike]].
+**C** The [[20_Vocabulary/footwear|shoes]] in the 'new' pairs were not completely [[20_Vocabulary/resemble|alike]].
 
 **30** Bella [[20_Vocabulary/In addition|and]] Don agree that they can [[20_Vocabulary/presentation|present]] their topic
 
@@ -243,13 +243,13 @@ What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary
 
 *Complete the notes [[20_Vocabulary/Beneath|below]].*
 
-*Write **ONE WORD [[20_Vocabulary/sole|ONLY]]** for each answer.*
+*Write **ONE WORD [[20_Vocabulary/merely|ONLY]]** for each answer.*
 
 ## [[20_Vocabulary/tardigrade|Tardigrades]]
 
 ● more than 1,000 species, 0.05–1.2 millimetres long
 
-● [[20_Vocabulary/What's more|also]] known as water ‘bears’ ([[20_Vocabulary/due to|due to]] how they **31** …………………) [[20_Vocabulary/In addition|and]] ‘[[20_Vocabulary/moss|moss]] piglets’
+● [[20_Vocabulary/What's more|also]] known as water 'bears' ([[20_Vocabulary/due to|due to]] how they **31** …………………) [[20_Vocabulary/In addition|and]] '[[20_Vocabulary/moss|moss]] piglets'
 
 **Physical [[20_Vocabulary/appearance|appearance]]**
 
@@ -271,7 +271,7 @@ What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary
 
 **[[20_Vocabulary/cryptobiosis|Cryptobiosis]]**
 
-● In dry conditions, they roll into a ball called a ‘tun’.
+● In dry conditions, they roll into a ball called a 'tun'.
 
 ● They stay [[20_Vocabulary/existence|alive]] with a much lower [[20_Vocabulary/metabolism|metabolism]] than [[20_Vocabulary/average|usual]].
 

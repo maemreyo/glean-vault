@@ -91,7 +91,7 @@ What does **arthritis** (*/ɑːrˈθraɪ.t̬əs/*) mean?
 > 🇻🇳 **Vietnamese:** Bệnh viêm khớp, tình trạng viêm nhiễm, đau và cứng khớp
 > 🗣️ **IPA:** */ɑːrˈθraɪ.t̬əs/*
 > 🧠 **Mental Model:** Joints bị "burn" (itis) - giống như fire inside joints causing pain và stiffness
-<!--SR:!2025-12-23,1,228-->
+<!--SR:!2025-12-24,1,208-->
 
 ---
 

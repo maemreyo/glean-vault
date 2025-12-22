@@ -189,7 +189,7 @@ Analyze the root/family of **revitalise**.
 **revitalise**
 > 📖 **Meaning:** To give new life or vigor to something; to imbue with new life and vitality; to restore to an active or fresh condition
 > 🇻🇳 **Vietnamese:** làm sống lại, phục hưng; tái tạo, làm mới, phục hồi sức sống
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-25,2,230-->
 
 ---
 
