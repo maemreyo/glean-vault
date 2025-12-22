@@ -1,159 +1,84 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [fertile, fertilize, fertilization, fertility rate]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /fɜːˈtɪləti/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/scientific
+> **Etymology:** From Latin 'fertilis' meaning "fruitful, productive," from 'ferre' meaning "to bear, carry"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The quality or state of being able to produce offspring, crops, or new growth; the capacity for abundant production.
+>
+> **Context Meaning:** In agriculture, refers to soil's ability to support plant growth. In biology, refers to the ability to reproduce. In demographics, refers to birth rates in populations.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** khả năng sinh sản, độ màu mỡ
+> - **Contextual:** khả năng sinh đẻ (con người/động vật), độ phì nhiêu (đất), tỷ lệ sinh
+
+>
 > **Nuances:**
-> - ...
+> - Can apply to land, animals, humans, or ideas
+> - Scientific and technical term in agriculture and medicine
+> - Positive connotation of productivity and abundance
+> - Related to sustainability and ecosystem health
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Productive, nurturing, abundant, life-giving
+> **Memory Hook:** Think "fertile + ity" - the state of being fertile, like rich soil
+> **📖 Etymology Story:** From Latin 'fertilis' (fruitful) + '-ity' (state of being). Originally referred to the ability to bear fruit or offspring, now extended to any productive capacity, from soil to creativity.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[fertility]] /fɜːˈtɪləti/
+> - **Adj:** [[fertile]] /ˈfɜːtaɪl/
+> - **Adj:** [[infertile]] /ɪnˈfɜːtaɪl/
+> - **Verb:** [[fertilize]] /ˈfɜːtɪlaɪz/
+> - **Noun:** [[fertilizer]] /ˈfɜːtɪlaɪzər/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[productivity]] /ˌprɒdʌkˈtɪvəti/ : focuses on output efficiency
+> - [[richness]] /ˈrɪtʃnəs/ : for soil quality
+> - [[fecundity]] /fɪˈkʌndəti/ : more biological term for reproductive capacity
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[infertility]]
+> - [[barrenness]]
+> - [[sterility]]
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. soil fertility
+> 2. fertility rate
+> 3. fertility treatment
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Crop rotation helps maintain soil fertility naturally.
+> - **Translation:** Luân canh cây trồng giúp duy trì độ màu mỡ của đất một cách tự nhiên.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The country has seen a decline in fertility rates over the past decade.
+> - **Translation:** Tỷ lệ sinh của quốc gia này đã giảm trong thập kỷ qua.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with 'fertility' and 'fertilizer'**
+> - ❌ **Mistake:** Using 'fertility' when meaning 'fertilizer'
+> - ✅ **Correction:** Use 'fertilizer' for the substance added to soil, 'fertility' for the quality of being fertile
+> - **Why:** 'Fertility' is the quality/state, 'fertilizer' is the product
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The fertile delta region has supported agriculture for thousands of years due to its natural soil fertility."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +86,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **fertility** (*/fɜːˈtɪləti/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The quality of being able to produce offspring or support abundant growth
+> 🇻🇳 **Vietnamese:** Khả năng sinh sản, độ màu mỡ, khả năng sinh đẻ
+> 🗣️ **IPA:** */fɜːˈtɪləti/*
+> 🧠 **Mental Model:** Đất đai màu mỡ có thể trồng trọt tốt, hoặc cơ thể có khả năng sinh con
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The quality or state of being able to produce offspring or support abundant growth"
+**Vietnamese:** Khả năng sinh sản, độ phì nhiêu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**fertility** (*/fɜːˈtɪləti/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **fertility** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The farmer added organic matter to improve the soil's fertility and crop yields.
+> 🇻🇳 **Translation:** Nông dân đã thêm chất hữu cơ để cải thiện độ màu mỡ của đất và năng suất cây trồng.
+> 🔍 **Analysis:** 'Fertility' hoàn hảo trong bối cảnh nông nghiệp để mô tả chất lượng đất
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **fertility**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Agriculture:** soil/land fertility (độ màu mỡ của đất)
+> 2. **Demographics:** fertility rate/decline (tỷ lệ sinh/suy giảm tỷ lệ sinh)
+> 3. **Medical:** fertility problems/treatment (vấn đề/điều trị vô sinh)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **fertility**:
+"The land can grow good crops."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The volcanic soil's exceptional fertility allows farmers to harvest three crops per year."
+> 💡 **Why it works:** 'Fertility' là thuật ngữ khoa học, chính xác hơn 'can grow good crops'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **fertility** instead of **[[productivity]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **fertility:** Được dùng khi nói về khả năng sinh sản tự nhiên (đất, động vật, con người)
+> **[[productivity]]:** Nhấn mạnh hiệu quả sản xuất, thường trong kinh tế hoặc công việc
+> 🧱 **The Barrier:** Fertility is natural reproductive capacity, productivity is efficient output
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're an agricultural scientist explaining soil quality. You need to describe the land's potential. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This region's high fertility makes it perfect for organic farming without chemical interventions."
+> 👨‍🎨 **Director's Note:** 'Fertility' thể hiện khả năng tự nhiên của đất, quan trọng trong nông nghiệp hữu cơ
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<fertilis>` to the meaning of **fertility**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'fertilis' (mang nhiều quả) + '-ity' (trạng thái) - trạng thái có khả năng sinh sôi, nảy nở
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **fertility**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `fertilis` ("fruitful, productive")
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[fertile]]: màu mỡ, có khả năng sinh sản
+> - *(verb)* [[fertilize]]: làm cho màu mỡ, thụ tinh
+> - *(noun)* [[fertilizer]]: phân bón
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */fɜːˈtɪləti/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**fertility**
+> 📖 **Meaning:** Quality of being able to produce offspring or support growth
+> 🇻🇳 **Vietnamese:** Khả năng sinh sản, độ màu mỡ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **fertility**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "We need to buy fertility for the garden"
+> ✅ **Correction:** "We need to buy fertilizer for the garden"
+> 🧠 **Why:** 'Fertilizer' is the substance, 'fertility' is the quality/ability
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **fertility**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[infertility]] (vô sinh)
+> - [[barrenness]] (cằn cỗi, không màu mỡ)
+> 🧱 **Contrast:** Fertility enables life and growth, while infertility/barrenness indicates inability to reproduce or produce

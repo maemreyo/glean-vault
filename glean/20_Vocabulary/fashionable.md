@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/emotions-personality-adjectives #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [fashionably, unfashionable, fashionableness]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfæʃnəbl/
+> **Part of Speech:** adjective
+> **CEFR Level:** B1
+> **Register:** informal/neutral
+> **Etymology:** From "fashion" + "-able" suffix, originally from Latin "factio" meaning "making, doing"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Following the current popular style of clothing or behavior
+>
+> **Context Meaning:** Popular at a particular time; conforming to the latest trends, especially in clothing, but also in lifestyle, opinions, or activities
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hợp thời trang, thời thượng
+> - **Contextual:** đang là mốt, hợp thời, thịnh hành
+>
 > **Nuances:**
-> - ...
+> - Can refer to clothing, behavior, ideas, or places
+> - Often implies temporary popularity that may fade
+> - Can sometimes carry slightly negative connotations of being superficial
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Trendy, Socially-aware, Current
+> **Memory Hook:** Fashion + able = able to follow fashion (khả năng theo kịp thời trang)
+> **📖 Etymology Story:** Originally from Latin "factio" (making/doing), evolved through Old French "façon" (manner/style). When something becomes "fashionable", it means society has collectively decided this is the current "way to make/do" things - from clothes to restaurants to vacation spots.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[fashion]] /ˈfæʃn/
+> - **Verb:** [[fashion]] /ˈfæʃn/
+> - **Adj:** [[fashionable]] /ˈfæʃnəbl/
+> - **Adv:** [[fashionably]] /ˈfæʃnəbli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[trendy]] /ˈtrendi/ : following the latest trends
+> - [[stylish]] /ˈstaɪlɪʃ/ : having elegance in dress/appearance
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[unfashionable]] /ʌnˈfæʃnəbl/ : not following current trends
+> - [[outdated]] /aʊtˈdeɪtɪd/ : old-fashioned
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. fashionable clothes
+> 2. fashionable area
+> 3. become fashionable
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The district has become a fashionable place for young professionals to live.
+> - **Translation:** Khu vực này đã trở thành một nơi thời thượng cho các chuyên gia trẻ sinh sống.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** It's no longer fashionable to wear fur coats due to ethical concerns.
+> - **Translation:** Việc mặc áo lông không còn là mốt nữa do các lo ngại về đạo đức.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect form**
+> - ❌ **Mistake:** "She wears very fashion clothes."
+> - ✅ **Correction:** "She wears very fashionable clothes." or "She wears very fashion-forward clothes."
+> - **Why:** "Fashion" is a noun, not an adjective. Need to use "fashionable" or "fashion-forward" as adjectives.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The café quickly became fashionable among students."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **fashionable** (*/ˈfæʃnəbl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Conforming to the current popular style, especially in clothing, but also in behavior, ideas, or places
+> 🇻🇳 **Vietnamese:** Tuân theo phong cách phổ biến hiện nay, đặc biệt là trong trang phục, nhưng cả trong hành vi, ý tưởng hoặc nơi chốn
+> 🗣️ **IPA:** */ˈfæʃnəbl/*
+> 🧠 **Mental Model:** Giống như đang "in" hoặc "hot trend" - mọi người đều muốn theo đuổi vì nó đang được xã hội công nhận là cool/cliché/thịnh hành
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Popular at a particular time; conforming to the latest trends"
+**Vietnamese:** Phổ biến tại một thời điểm cụ thể; tuân theo các xu hướng mới nhất
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**fashionable** (*/ˈfæʃnəbl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **fashionable** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Electric cars are becoming increasingly fashionable as environmental concerns grow.
+> 🇻🇳 **Translation:** Xe điện đang ngày càng trở nên thời thượng khi các mối quan tâm về môi trường gia tăng.
+> 🔍 **Analysis:** "Fashionable" ở đây không chỉ nghĩa là hợp mốt mà còn mang ý nghĩa được xã hội ủng hộ/công nhận, thể hiện sự thay đổi trong quan niệm và lối sống
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **fashionable**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Appearance:** fashionable clothes/hair/look (quần áo/kiểu tóc/vẻ ngoài hợp thời trang)
+> 2. **Places:** fashionable restaurant/area/district (nhà hàng/khu vực/quận thời thượng)
+> 3. **Concepts:** fashionable idea/concern/belief (ý tưởng/mối quan tâm/niềm tin thịnh hành)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **fashionable**:
+"Many young people like this brand."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The brand has become increasingly fashionable among millennials and Gen Z consumers."
+> 💡 **Why it works:** "Fashionable" thể hiện không chỉ sự phổ thông mà còn tính xu hướng, thời thượng và sự công nhận của xã hội, phù hợp với bối cảnh thương hiệu và người tiêu dùng trẻ
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **fashionable** instead of **[[popular]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **fashionable:** Nhấn mạnh tính thời điểm, xu hướng hiện tại, có thể thay đổi nhanh chóng, thường liên quan đến style/look/appearance
+> **[[popular]]:** Nhấn mạnh sự được nhiều người yêu thích qua thời gian, không nhất thiết phải là xu hướng mới nhất
+> 🧱 **The Barrier:** Fashionable có tính temporary (tạm thời) và trend-driven (dẫn dắt xu hướng), trong khi popular thể hiện sự lâu dài và widespread acceptance (sự chấp nhận rộng rãi)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is wearing clothes from 10 years ago and thinks they look great. You want to gently suggest updating their wardrobe. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You know, those were really fashionable a decade ago! I've noticed some of the new styles would look amazing on you."
+> 👨‍🎨 **Director's Note:** Sử dụng "fashionable" để ám chỉ tính thời gian của xu hướng một cách tế nhị, không xúc phạm nhưng vẫn gợi ý cập nhật
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `factio` to the meaning of **fashionable**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Factio trong tiếng Latin nghĩa là "sự làm, sự tạo ra" - tiến đến tiếng Old French "façon" (cách làm, phong cách). Khi đồ vật hoặc hành vi trở nên "fashionable", xã hội đã tập thể quyết định đây là "cách làm/đạo đức" hiện tại - từ quần áo đến nhà hàng đến điểm đến nghỉ dưỡng
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **fashionable**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `factio` (making, doing - sự làm, sự tạo ra)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[fashion]] (thời trang, phong cách)
+> - *(adj)* [[fashionable]] (hợp thời trang, thịnh hành)
+> - *(adv)* [[fashionably]] (một cách hợp thời trang)
+> - *(adj)* [[unfashionable]] (không hợp thời, lỗi mốt)
+> - *(verb)* [[fashion]] (tạo ra, định hình)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfæʃnəbl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**fashionable**
+> 📖 **Meaning:** Conforming to current popular style or trend
+> 🇻🇳 **Vietnamese:** Tuân theo phong cách hoặc xu hướng phổ biến hiện nay
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **fashionable**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "That's a very fashion dress."
+> ✅ **Correction:** "That's a very fashionable dress." or "That's a very dress in the latest fashion."
+> 🧠 **Why:** "Fashion" là danh từ, không phải tính từ. Cần dùng "fashionable" để miêu tả, hoặc dùng cấu trúc "in the latest fashion"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **fashionable**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[unfashionable]] (lỗi thời, không hợp mốt)
+> - [[outdated]] (cũ kỹ, lỗi thời)
+> - [[old-fashioned]] (cũ kỹ, phong cách cũ)
+> 🧱 **Contrast:** Fashionable thể hiện sự phù hợp với xu hướng hiện tại, trong khi các antonym thể hiện sự không còn phù hợp, đã qua hoặc lạc hậu so với thời đại
 
 ---

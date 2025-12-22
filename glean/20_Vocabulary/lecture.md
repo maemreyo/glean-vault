@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [lectures, lecturer, lecturing, lectured]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈlek.tʃər/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B2
+> **Register:** academic/formal
+> **Etymology:** From Latin 'lectura' meaning 'a reading', from 'legere' meaning 'to read'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An educational talk to an audience, especially one of students in a university
+>
+> **Context Meaning:** A formal discourse or presentation on a particular subject, typically delivered in an academic setting
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bài giảng, bài diễn thuyết
+> - **Contextual:** buổi thuyết trình, bài nói chuyện chuyên đề
+>
 > **Nuances:**
-> - ...
+> - Implies a one-way communication from expert to audience
+> - More formal and structured than a simple talk or presentation
+> - Often associated with academic or educational contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Scholarly, Educated, Formal
+> **Memory Hook:** Picture a professor standing at a podium, reading from notes while students listen attentively
+> **📖 Etymology Story:** Ancient scholars would 'read' (legere) important texts aloud to their students - this reading became known as a 'lecture', a tradition that continues in universities today
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[lecture]] /ˈlek.tʃər/
+> - **Verb:** [[lecture]] /ˈlek.tʃər/
+> - **Adj:** [[lecturable]] (rare)
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[presentation]] /ˌprez.ənˈteɪ.ʃən/ : more general, can be in any context
+> - [[discourse]] /ˈdɪskɔːrs/ : more formal and academic
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[discussion]] /dɪˈskʌʃ.ən/ : two-way communication
+> - [[dialogue]] /ˈdaɪ.əlɒɡ/ : conversation between parties
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. deliver a lecture
+> 2. attend a lecture
+> 3. guest lecture
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The professor delivered a fascinating lecture on quantum physics.
+> - **Translation:** Giáo sư đã có một bài giảng vô cùng thú vị về vật lý lượng tử.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** I have a lecture at 9 AM tomorrow morning.
+> - **Translation:** Tôi có một bài giảng vào 9 giờ sáng mai.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect Countability**
+> - ❌ **Mistake:** She gave me many good advices in her lecture.
+> - ✅ **Correction:** She gave me many good suggestions in her lecture.
+> - **Why:** Advice is uncountable, suggestion is countable
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The lecture is a process whereby the notes of the professor become the notes of the student without passing through the minds of either."
+> **Source:** [[Education Quotes]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **lecture** (*/ˈlek.tʃər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An educational talk or discourse given to an audience, especially students in an academic setting
+> 🇻🇳 **Vietnamese:** Bài giảng, bài diễn thuyết, buổi thuyết trình học thuật
+> 🗣️ **IPA:** */ˈlek.tʃər/*
+> 🧠 **Mental Model:** Professor đứng trên podium đọc knowledge cho students, one-way communication
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An educational talk to an audience, especially one of students in a university"
+**Vietnamese:** Bài giảng, bài diễn thuyết
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**lecture** (*/ˈlek.tʃər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **lecture** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The renowned scientist will give a guest lecture on climate change next week.
+> 🇻🇳 **Translation:** Nhà khoa học nổi tiếng sẽ có một bài giảng đặc mời về biến đổi khí hậu vào tuần tới.
+> 🔍 **Analysis:** 'Guest lecture' emphasizes speaker expertise, 'on climate change' shows topic specificity - perfect formal academic context
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **lecture**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action/Performance:** deliver a lecture (thực hiện bài giảng - diễn tả hành động)
+> 2. **Participation:** attend a lecture (tham dự bài giảng - góc độ người nghe)
+> 3. **Type/Format:** guest lecture (bài giảng mời - loại hình đặc biệt)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **lecture**:
+"She talked about history for an hour."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She delivered a compelling lecture on medieval European history that captivated the entire auditorium."
+> 💡 **Why it works:** 'Delivered' phù hợp với formal presentation, 'compelling lecture' shows academic expertise, 'medieval European history' cụ thể hơn 'history'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **lecture** instead of [[presentation]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **lecture:** Academic context, professor to students, one-way knowledge transfer, formal educational setting
+> **[[presentation]]:** Can be in business, less formal, can be interactive, broader contexts
+> 🧱 **The Barrier:** Lecture = academic tradition of 'reading' knowledge; Presentation = modern show-and-tell in various settings
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a university professor. Your students look bored. You need to get their attention. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I know this lecture is complex, but let me show you how this theory explains everything you see in modern society!"
+> 👨‍🎨 **Director's Note:** Shows teacher awareness, connects academic content to real life, engaging tone
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `legere` to the meaning of **lecture**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Tổ tiên Latin 'legere' (đọc) → 'lectura' (buổi đọc) → medieval scholars 'reading' texts aloud to students → modern university 'lecture' vẫn giữ essence của truyền đạt knowledge từ người có chuyên môn
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **lecture**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `legere` (to read, to gather)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[lecture]] (educational talk)
+> - *(noun)* [[lecturer]] (person who lectures)
+> - *(verb)* [[lecture]] (to give a lecture)
+> - *(noun)* [[lectern]] (stand for lecture notes)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈlek.tʃər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**lecture**
+> 📖 **Meaning:** An educational talk to an audience
+> 🇻🇳 **Vietnamese:** Bài giảng, bài diễn thuyết
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **lecture**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The professor lectured us about being late"
+> ✅ **Correction:** "The professor lectured us on being late" OR "The professor gave us a lecture about being late"
+> 🧠 **Why:** Preposition usage: 'lecture on/about' for topics, but 'lecture someone' sounds like scolding
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **lecture**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[discussion]] (Two-way exchange vs one-way delivery)
+> - [[workshop]] (Hands-on participation vs passive listening)
+> 🧱 **Contrast:** Lecture = knowledge poured from expert to audience; Discussion = knowledge built together by all participants
 
 ---

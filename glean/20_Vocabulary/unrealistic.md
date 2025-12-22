@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [unrealistically, unrealisticness, realism, realistic]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌʌnrɪəˈlɪstɪk/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** From "un-" (not) + "realistic" (from "real" + "-istic")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Not based on reality; having unrealistic expectations or ideas
+>
+> **Context Meaning:** Having or showing a sensible and practical idea of what can be achieved or expected is NOT present - suggesting something is impossible or impractical
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** không thực tế, phi thực tế
+> - **Contextual:** viển vông, không tưởng, bất khả thi
+>
 > **Nuances:**
-> - ...
+> - Often used to criticize goals or expectations as too ambitious
+> - Can describe plans, expectations, or portrayals
+> - Sometimes used gently to suggest someone reconsider their approach
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Critical, Grounded, Pragmatic
+> **Memory Hook:** Un- (không) + Realistic (thực tế) = Không thực tế
+> **📖 Etymology Story:** The word emerged as the opposite of "realistic" which comes from "real" (from Latin "realis" meaning "actual, genuine") + "-istic". When something is "unrealistic", it literally means "not having the quality of being actual or genuine" - it exists in imagination rather than in achievable reality.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[reality]] /riˈæləti/
+> - **Verb:** [[realize]] /ˈriːəlaɪz/
+> - **Adj:** [[unrealistic]] /ˌʌnrɪəˈlɪstɪk/
+> - **Adv:** [[unrealistically]] /ˌʌnrɪəˈlɪstɪkli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[impractical]] /ɪmˈpræktɪkl/ : not sensible or realistic
+> - [[idealistic]] /ˌaɪdiəˈlɪstɪk/ : aiming for perfection beyond reality
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[realistic]] /ˌriːəˈlɪstɪk/ : practical and achievable
+> - [[practical]] /ˈpræktɪkl/ : sensible and realistic
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. unrealistic expectations
+> 2. unrealistic goal
+> 3. completely unrealistic
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** It's unrealistic to expect to learn a new language fluently in just one month.
+> - **Translation:** Việc mong đợi học thông thạo một ngôn ngữ mới chỉ trong một tháng là không thực tế.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The movie's special effects were so unrealistic that it broke my immersion.
+> - **Translation:** Hiệu ứng đặc biệt của bộ phim quá phi thực tế đến nỗi nó làm tôi mất sự tập trung.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word form confusion**
+> - ❌ **Mistake:** "His expectations were very unreality."
+> - ✅ **Correction:** "His expectations were very unrealistic." or "His expectations lacked reality."
+> - **Why:** "Unrealistic" is the adjective form needed to describe "expectations". "Unreality" is a noun.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Setting such tight deadlines would be unrealistic given our current resources."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,127 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **unrealistic** (*/ˌʌnrɪəˈlɪstɪk/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Not based on reality; having unreasonable expectations or ideas about what can be achieved
+> 🇻🇳 **Vietnamese:** Không dựa trên thực tế; có kỳ vọng hoặc ý tưởng không hợp lý về những gì có thể đạt được
+> 🗣️ **IPA:** */ˌʌnrɪəˈlɪstɪk/*
+> 🧠 **Mental Model:** Giống như xây lâu đài trên cát - trông đẹp nhưng không thể tồn tại trong thực tế, viển vông, không tưởng
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Not having or showing a sensible and practical idea of what can be achieved or expected"
+**Vietnamese:** Không có hoặc không thể hiện một ý tưởng hợp lý và thực tế về những gì có thể đạt được hoặc mong đợi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**unrealistic** (*/ˌʌnrɪəˈlɪstɪk/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **unrealistic** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The startup's promise to deliver a fully functional AI system in three months was completely unrealistic.
+> 🇻🇳 **Translation:** Lời hứa của công ty khởi nghiệp về việc cung cấp một hệ thống AI hoàn chỉnh trong ba tháng là hoàn toàn không thực tế.
+> 🔍 **Analysis:** "Unrealistic" ở đây đánh giá khách quan về tính khả thi của một mục tiêu, nhấn mạnh sự mâu thuẫn giữa mong muốn và thực tế
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **unrealistic**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Expectations:** unrealistic expectations/hopes/goals (kỳ vọng/hy vọng/mục tiêu không thực tế)
+> 2. **Assessment:** totally/completely/unrealistic comparison (sự so sánh hoàn toàn/không thực tế)
+> 3. **Representation:** unrealistic portrayal/portrayal/image (sự khắc họa/hình ảnh không thực tế)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **unrealistic**:
+"His plan for the project was not possible."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "His ambitious plan to complete the entire project within a week was completely unrealistic given the team's current workload."
+> 💡 **Why it works:** "Unrealistic" thể hiện sự đánh giá cụ thể về tính khả thi, nhấn mạnh sự mâu thuẫn giữa mục tiêu và điều kiện thực tế, thay vì chỉ nói "not possible" một cách chung chung
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **unrealistic** instead of **[[difficult]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **unrealistic:** Nhấn mạnh sự phi lý, không phù hợp với thực tế, gần như không thể thực hiện được
+> **[[difficult]]:** Nhấn mạnh sự thử thách, có thể thực hiện được nhưng đòi hỏi nhiều nỗ lực
+> 🧱 **The Barrier:** Unrealistic là về tính hợp lý của mục tiêu (khả thi hay không), trong khi difficult là về mức độ nỗ lực cần thiết (dễ hay khó)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend wants to become fluent in three languages in six months while working full-time. Express your concern!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I admire your ambition, but trying to become fluent in three languages in just six months while working full-time is completely unrealistic."
+> 👨‍🎨 **Director's Note:** "Unrealistic" thể hiện sự lo lắng một cách tế nhị, đánh giá khách quan về tính khả thi mà không làm giảm động lực của bạn
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `realis` to the meaning of **unrealistic**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Realis trong tiếng Latin nghĩa là "thực tế, thật sự". Khi thêm tiền tố "un-", "unrealistic" mang nghĩa "không có tính thực tế" - chỉ những ý tưởng hay kỳ vọng tồn tại trong trí tưởng tượng thay vì trong thế giới thực có thể đạt được
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **unrealistic**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `realis` (real, actual - thật, thực tế)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[real]] (thật, thực tế)
+> - *(adj)* [[realistic]] (thực tế, hợp lý)
+> - *(adj)* [[unrealistic]] (không thực tế, phi thực tế)
+> - *(adv)* [[unrealistically]] (một cách không thực tế)
+> - *(noun)* [[reality]] (thực tại, thực tế)
+> - *(noun)* [[unreality]] (tính không thực tế)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌʌnrɪəˈlɪstɪk/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**unrealistic**
+> 📖 **Meaning:** Not based on reality; impractical or impossible to achieve
+> 🇻🇳 **Vietnamese:** Không dựa trên thực tế; không thực tế hoặc không thể đạt được
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **unrealistic**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "She has unreality expectations about her career."
+> ✅ **Correction:** "She has unrealistic expectations about her career."
+> 🧠 **Why:** "Unrealistic" là tính từ để miêu tả "expectations", trong khi "unreality" là danh từ (tính không thực tế). Không thể dùng danh từ để miêu tả danh từ khác như thế
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **unrealistic**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[realistic]] (thực tế, hợp lý)
+> - [[practical]] (thực dụng, thiết thực)
+> - [[achievable]] (có thể đạt được)
+> - [[reasonable]] (hợp lý, công bằng)
+> 🧱 **Contrast:** Unrealistic thể hiện sự tách biệt khỏi thực tế, trong khi các antonym thể hiện sự phù hợp, khả thi và dựa trên điều kiện thực tế
 
 ---

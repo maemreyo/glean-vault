@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [readily available, availability, easily accessible]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /tʊ biː ˈredɪli əˈveɪləbl/
+> **Part of Speech:** phrase (adjectival)
+> **CEFR Level:** B2
+> **Register:** formal/business
+> **Etymology:** From 'ready' (prepared) + '-ly' + 'available' (from Latin 'avail' meaning "to be of use")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To be easily accessible, obtainable, or ready for immediate use without difficulty or delay.
+>
+> **Context Meaning:** Describes something that can be obtained quickly and easily when needed. Often used in business, service contexts, or when describing resources.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sẵn có ngay lập tức
+> - **Contextual:** dễ dàng tiếp cận, có sẵn để sử dụng
+>
 > **Nuances:**
-> - ...
+> - Emphasizes both ease and speed of access
+> - 'Readily' adds emphasis to the readiness aspect
+> - Often used in customer service or supply contexts
+> - Implies reliability and convenience
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Efficient, helpful, reliable, convenient
+> **Memory Hook:** Think "ready + ly + available" - ready in a readily way
+> **📖 Etymology Story:** From Old English 'ræde' (ready, prepared) + Latin 'available' (from 'ad valere' - "to be of value/worth"). Something readily available is both prepared for use and of value because it's accessible when needed.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[available]] /əˈveɪləbl/
+> - **Adv:** [[readily]] /ˈredɪli/
+> - **Noun:** [[availability]] /əˌveɪləˈbɪləti/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[easily accessible]] /ˈiːzɪli əkˈsesəbl/ : emphasizes physical or digital access
+> - [[on hand]] /ɒn hænd/ : emphasizes proximity
+> - [[convenient]] /kənˈviːniənt/ : focuses on lack of difficulty
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[unavailable]]
+> - [[scarce]]
+> - [[difficult to obtain]]
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. readily available information/resources
+> 2. make something readily available
+> 3. readily available to the public
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Customer support should be readily available at all times.
+> - **Translation:** Hỗ trợ khách hàng nên sẵn có mọi lúc.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The research data is readily available online.
+> - **Translation:** Dữ liệu nghiên cứu có sẵn trực tuyến và dễ truy cập.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word order**
+> - ❌ **Mistake:** "available readily"
+> - ✅ **Correction:** "readily available"
+> - **Why:** 'Readily' is an adverb modifying 'available', so it comes before the adjective
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "In modern cities, public transportation should be readily available to all residents."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,119 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **to be readily available** (*/tʊ biː ˈredɪli əˈveɪləbl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To be easily accessible and ready for immediate use without difficulty
+> 🇻🇳 **Vietnamese:** Sẵn có ngay lập tức, dễ dàng tiếp cận khi cần
+> 🗣️ **IPA:** */tʊ biː ˈredɪli əˈveɪləbl/*
+> 🧠 **Mental Model:** Một thứ gì đó luôn ở đó, sẵn sàng để sử dụng ngay khi cần mà không phải chờ đợi
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To be easily accessible and ready for immediate use"
+**Vietnamese:** Sẵn có ngay, dễ tiếp cận
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**to be readily available** (*/tʊ biː ˈredɪli əˈveɪləbl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **to be readily available** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Emergency services must be readily available 24/7 in any modern city.
+> 🇻🇳 **Translation:** Dịch vụ khẩn cấp phải sẵn có 24/7 trong bất kỳ thành phố hiện đại nào.
+> 🔍 **Analysis:** Cụm từ này hoàn hảo để nhấn mạnh cả sự sẵn có và dễ dàng tiếp cận trong các dịch vụ công cộng
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **readily available**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Resources:** readily available information/data/resources (thông tin/dữ liệu/tài nguyên dễ tiếp cận)
+> 2. **Services:** make readily available to customers (cung cấp dễ dàng cho khách hàng)
+> 3. **Access:** readily available for public use (sẵn có để sử dụng công khai)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **readily available**:
+"You can find help easily."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Technical support is readily available through multiple channels including phone, email, and live chat."
+> 💡 **Why it works:** 'Readily available' thể hiện sự chuyên nghiệp và cam kết dịch vụ hơn chỉ 'find easily'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **readily available** instead of **[[easy to find]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **readily available:** Được dùng khi muốn nhấn mạnh sự sẵn sàng phục vụ ngay lập tức, thường trong ngữ cảnh kinh doanh/dịch vụ
+> **[[easy to find]]:** Chỉ đề cập đến việc dễ dàng tìm thấy, không nhất thiết đã sẵn sàng sử dụng
+> 🧱 **The Barrier:** Readily available = ready + accessible, easy to find = just discoverable
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing the benefits of your new app. You want to emphasize convenience. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "All your travel documents are readily available within the app, no more searching through emails!"
+> 👨‍🎨 **Director's Note:** 'Readily available' thể hiện sự tiện lợi và truy cập tức thời
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<ready>` and `<available>` to the meaning of **readily available**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ 'ready' (sẵn sàng) + 'available' (có thể sử dụng) - cái gì đó vừa được chuẩn bị sẵn vừa có giá trị vì có thể tiếp cận khi cần
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the roots/family of **readily available**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:** Old English `ræde` ("ready") + Latin `ad valere` ("to be of value")
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[availability]]: sự sẵn có, khả năng tiếp cận
+> - *(adv)* [[readily]]: một cách sẵn sàng, dễ dàng
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */tʊ biː ˈredɪli əˈveɪləbl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**to be readily available**
+> 📖 **Meaning:** Easily accessible and ready for use
+> 🇻🇳 **Vietnamese:** Sẵn có ngay, dễ tiếp cận
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **readily available**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The information is available readily"
+> ✅ **Correction:** "The information is readily available"
+> 🧠 **Why:** Adverb 'readily' comes before the adjective 'available' it modifies
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **readily available**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[difficult to obtain]] (khó có được)
+> - [[scarce]] (khan hiếm)
+> 🧱 **Contrast:** Readily available implies abundance and easy access, while difficult to obtain/scarce implies rarity and effort needed

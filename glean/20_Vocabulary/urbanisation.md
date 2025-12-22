@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [urbanization, urbanise, urbanised, urbanizing]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌɜːbənaɪˈzeɪʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** C1
+> **Register:** academic/formal
+> **Etymology:** From "urban" + "-ization" (process of making), from Latin "urbanus" meaning "of the city"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The process of making an area more urban
+>
+> **Context Meaning:** The social process whereby cities grow and societies become more urban, involving migration from rural to urban areas and transformation of landscapes
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự đô thị hóa
+> - **Contextual:** quá trình đô thị hóa, sự phát triển đô thị
+>
 > **Nuances:**
-> - ...
+> - Involves demographic, economic, and social changes
+> - Often associated with industrialization and modernization
+> - Can bring both opportunities and challenges
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Transformative, Progressive, Expansive
+> **Memory Hook:** Urban (thành thị) + ization (quá trình hóa) = quá trình hóa thành thị
+> **📖 Etymology Story:** From Latin "urbanus" (of the city). Urbanisation represents the historical process where human societies transform from rural, agricultural communities to urban, industrial ones. This massive migration reshapes how people live, work, and interact - fundamentally changing civilization itself.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[urbanisation]] /ˌɜːbənaɪˈzeɪʃn/
+> - **Verb:** [[urbanise]] /ˈɜːbənaɪz/
+> - **Adj:** [[urban]] /ˈɜːbən/
+> - **Adv:** [[urbanely]] /ˈɜːbənli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[development]] /dɪˈveləpmənt/ : growth and improvement
+> - [[expansion]] /ɪkˈspænʃn/ : getting larger
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[ruralisation]] /ˌrʊərəlaɪˈzeɪʃn/ : becoming more rural
+> - [[depopulation]] /diːˌpɒpjʊˈleɪʃn/ : loss of population
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. rapid urbanisation
+> 2. urbanisation process
+> 3. effects of urbanisation
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Rapid urbanisation has led to increased demand for housing in major cities.
+> - **Translation:** Sự đô thị hóa nhanh chóng đã dẫn đến nhu cầu tăng về nhà ở ở các thành phố lớn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The country is experiencing unprecedented urbanisation as young people move to cities for jobs.
+> - **Translation:** Quốc gia này đang trải qua quá trình đô thị hóa chưa từng có khi người trẻ chuyển đến thành phố để tìm việc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling variation**
+> - ❌ **Mistake:** "Urbanisation is affecting rural areas." (British spelling)
+> - ✅ **Correction (US):** "Urbanization is affecting rural areas."
+> - ✅ **Correction (UK):** "Urbanisation is affecting rural areas."
+> - **Why:** Both spellings are correct but regional. "Urbanization" (US) uses "z", "Urbanisation" (UK) uses "s".
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The effects of urbanisation on traditional communities cannot be ignored."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +82,126 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **urbanisation** (*/ˌɜːbənaɪˈzeɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The process by which towns and cities are formed and become larger as more people begin living and working in central areas
+> 🇻🇳 **Vietnamese:** Quá trình hình thành và phát triển các thị trấn và thành phố khi nhiều người bắt đầu sống và làm việc ở các khu vực trung tâm
+> 🗣️ **IPA:** */ˌɜːbənaɪˈzeɪʃn/*
+> 🧠 **Mental Model:** Giống như một vùng đất nông thôn dần được bao phủ bởi các tòa nhà, đường sá, và cơ sở hạ tầng đô thị - sự chuyển đổi từ nông nghiệp sang công nghiệp dịch vụ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The social process whereby cities grow and societies become more urban"
+**Vietnamese:** Quá trình xã hội qua đó các thành phố phát triển và xã hội trở nên đô thị hơn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**urbanisation** (*/ˌɜːbənaɪˈzeɪʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **urbanisation** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Urbanisation has transformed the landscape, converting farmlands into residential and commercial districts.
+> 🇻🇳 **Translation:** Sự đô thị hóa đã thay đổi cảnh quan, chuyển đổi đất nông nghiệp thành các khu dân cư và thương mại.
+> 🔍 **Analysis:** "Urbanisation" là danh từ học thuật, thể hiện quá trình xã hội phức tạp, thường dùng trong bối cảnh kinh tế-xã hội, quy hoạch đô thị
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **urbanisation**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Speed descriptors:** rapid/fast/slow urbanisation (sự đô thị hóa nhanh/chậm)
+> 2. **Process stages:** urbanisation process/trends/patterns (quá trình/xu hướng/mô hình đô thị hóa)
+> 3. **Impact areas:** effects/consequences/challenges of urbanisation (tác động/hậu quả/thách thức của đô thị hóa)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **urbanisation**:
+"Cities are getting bigger as more people move there."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Rapid urbanisation has fundamentally reshaped regional demographics and economic patterns."
+> 💡 **Why it works:** "Urbanisation" là thuật ngữ học thuật chính xác, thể hiện quá trình xã hội có hệ thống, thay vì chỉ mô tả bề mặt như "cities are getting bigger"
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **urbanisation** instead of **[[growth]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **urbanisation:** Thuộc cụm từ học thuật, chỉ quá trình chuyển đổi từ nông thôn thành thị, bao gồm thay đổi kinh tế, xã hội, văn hóa
+> **[[growth]]:** Từ chung, chỉ sự tăng lên về quy mô, số lượng, không nhất thiết có yếu tố chuyển đổi cấu trúc
+> 🧱 **The Barrier:** Urbanisation có tính transformational (chuyển đổi) và multidimensional (đa chiều), trong khi growth chỉ đơn thuần về quantitative increase (tăng trưởng lượng)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a city planner presenting to the council about development challenges. Explain the main issue!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We must develop sustainable strategies to manage the unprecedented urbanisation our city is experiencing."
+> 👨‍🎨 **Director's Note:** "Urbanisation" thể hiện tính chuyên nghiệp, học thuật, phù hợp với bối cảnh quy hoạch và chính sách công
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `urbanus` to the meaning of **urbanisation**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Urbanus trong tiếng Latin nghĩa là "của thành thị". Urbanisation đại diện cho quá trình lịch sử khi xã hội loài người chuyển từ cộng đồng nông thôn sang cộng đồng đô thị công nghiệp. cuộc di cư lớn lao này định hình lại cách con người sống, làm việc và tương tác
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **urbanisation**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `urbanus` (of the city - thuộc thành thị)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[urban]] (thuộc đô thị, thành thị)
+> - *(verb)* [[urbanise/urbanize]] (đô thị hóa)
+> - *(noun)* [[urbanisation/urbanization]] (sự đô thị hóa)
+> - *(noun)* [[urbanite]] (người thành thị)
+> - *(adj)* [[suburban]] (thuộc ngoại ô)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌɜːbənaɪˈzeɪʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**urbanisation**
+> 📖 **Meaning:** The process of making an area more urban
+> 🇻🇳 **Vietnamese:** Quá trình làm cho một khu vực trở nên đô thị hơn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **urbanisation**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The urbanisation of countryside brings many opportunities."
+> ✅ **Correction:** "The urbanisation of rural areas brings many opportunities."
+> 🧠 **Why:** "Countryside" đã mang nghĩa nông thôn, nên việc "urbanisation of countryside" hơi redundancy. "Rural areas" là thuật ngữ chính xác hơn đối lập với "urban areas"
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **urbanisation**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[ruralisation]] (sự nông thôn hóa)
+> - [[deurbanisation]] (sự phi đô thị hóa)
+> - [[suburbanisation]] (sự ngoại ô hóa)
+> - [[counterurbanisation]] (di chuyển ngược từ đô thị ra nông thôn)
+> 🧱 **Contrast:** Urbanisation là quá trình tập trung dân cư ở đô thị, trong khi các antonym thể hiện xu hướng ngược lại - sự lan tỏa ra nông thôn hoặc trở về với lối sống nông thôn
 
 ---

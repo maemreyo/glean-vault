@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/work-economy/business-models #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [commercially, commercials, commercialize, commercialized]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kəˈmɜːʃl/
+> **Part of Speech:** adjective/noun
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** From Latin "commercialis" from "commercium" meaning "trade, marketplace"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Related to commerce or trade
+>
+> **Context Meaning:** 1) Related to buying and selling goods/services 2) (Noun) Advertisement on TV/radio
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** thương mại, kinh doanh
+> - **Contextual:** (adj) liên quan đến thương mại, (noun) quảng cáo
+>
 > **Nuances:**
-> - ...
+> - Can describe activities, properties, or relationships involving business
+> - As noun, specifically refers to advertisements
+> - Often implies profit-making motivation
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Business-minded, Profit-oriented, Practical
+> **Memory Hook:** Commerce (thương mại) + -ial (liên quan đến) = liên quan đến thương mại
+> **📖 Etymology Story:** From Latin "commercium" (com- "together" + merx "merchandise"). Commercial activities originally meant "trading together" in marketplaces. Today, "commercial" represents anything connected with the business of buying and selling, while TV "commercials" literally sell products to viewers.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[commerce]] /ˈkɒmɜːs/
+> - **Verb:** [[commercialize]] /kəˈmɜːʃəlaɪz/
+> - **Adj:** [[commercial]] /kəˈmɜːʃl/
+> - **Adv:** [[commercially]] /kəˈmɜːʃəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[business]] /ˈbɪznəs/ : relating to trade
+> - [[profitable]] /ˈprɒfɪtəbl/ : making money
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[non-profit]] /ˌnɒnˈprɒfɪt/ : not for making money
+> - [[personal]] /ˈpɜːsənl/ : private, not business
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. commercial activity
+> 2. commercial property
+> 3. TV commercial
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The downtown area is primarily used for commercial purposes rather than residential.
+> - **Translation:** Khu vực trung tâm chủ yếu được sử dụng cho mục đích thương mại thay vì dân cư.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The Super Bowl is famous for its creative and expensive commercials.
+> - **Translation:** Siêu cúp bóng bầu dục nổi tiếng với các quảng cáo sáng tạo và tốn kém.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing adjective/noun forms**
+> - ❌ **Mistake:** "I saw a commercial on TV." (Correct for noun) vs "This is a commercial decision." (adjective)
+> - ✅ **Correction:** Both are correct but mean different things - advertisement vs business-related
+> - **Why:** Context determines whether "commercial" means advertisement (noun) or business-related (adjective).
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The building has both residential and commercial units."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,126 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **commercial** (*/kəˈmɜːʃl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** 1) Related to business or trade 2) (Noun) Advertisement on television or radio
+> 🇻🇳 **Vietnamese:** 1) Liên quan đến kinh doanh hoặc thương mại 2) (Danh từ) Quảng cáo trên truyền hình hoặc radio
+> 🗣️ **IPA:** */kəˈmɜːʃl/*
+> 🧠 **Mental Model:** Giống như không gian bán hàng (commercial space) hoặc đoạn quảng cáo giữa các chương trình TV (commercial break)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Related to buying and selling goods or services; making money"
+**Vietnamese:** Liên quan đến mua bán hàng hóa hoặc dịch vụ; kiếm tiền
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**commercial** (*/kəˈmɜːʃl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **commercial** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The company's commercial success depends on understanding consumer behavior and market trends.
+> 🇻🇳 **Translation:** Sự thành công thương mại của công ty phụ thuộc vào việc hiểu hành vi người tiêu dùng và xu hướng thị trường.
+> 🔍 **Analysis:** "Commercial" ở đây là tính từ, nhấn mạnh tính kinh doanh, hướng lợi nhuận của hoạt động công ty, khác với các loại hình thành công khác
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **commercial**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Property/Space:** commercial property/building/real estate (bất động sản/tòa nhà/thời trang thương mại)
+> 2. **Activities:** commercial activity/operation/business (hoạt động/vận hành/kinh doanh thương mại)
+> 3. **Media:** TV/radio commercial (quảng cáo TV/radio)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **commercial**:
+"The building is used for business."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The mixed-use development features retail spaces on the ground floor and commercial offices on upper levels."
+> 💡 **Why it works:** "Commercial" chính xác hơn về mục đích sử dụng kinh doanh, thể hiện sự phân loại chức năng chuyên nghiệp của bất động sản
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **commercial** instead of **[[business]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **commercial:** Nhấn mạnh tính thương mại, mua bán, lợi nhuận, thường mô tả tính chất của hoạt động/địa điểm
+> **[[business]]:** Từ rộng hơn, có thể chỉ toàn bộ công ty, hoạt động, hoặc nghề nghiệp
+> 🧱 **The Barrier:** Commercial tập trung vào trade aspect (khía cạnh trao đổi thương mại), trong khi business bao gồm cả operational, organizational và trade aspects
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why a historic building can't be converted into apartments. Explain the issue!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The zoning regulations restrict this building to commercial use only."
+> 👨‍🎨 **Director's Note:** "Commercial" thể hiện thuật ngữ pháp lý và quy hoạch đô thị chính xác, phù hợp với bối cảnh quy định
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `mercium` to the meaning of **commercial**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Mercium trong tiếng Latin nghĩa là "thương mại, chợ" (com- "cùng nhau" + merx "hàng hóa"). Commercial activities ban đầu có nghĩa là "giao thương cùng nhau" ở các chợ. Ngày nay, "commercial" đại diện cho bất cứ thứ gì liên quan đến việc mua bán kinh doanh
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **commercial**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `mercium` (trade, marketplace - thương mại, chợ)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[commerce]] (thương mại)
+> - *(adj)* [[commercial]] (thuộc thương mại)
+> - *(adj)* [[mercantile]] (thuộc về buôn bán)
+> - *(noun)* [[merchant]] (người buôn bán)
+> - *(noun)* [[merchandise]] (hàng hóa)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kəˈmɜːʃl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**commercial**
+> 📖 **Meaning:** Related to business; TV or radio advertisement
+> 🇻🇳 **Vietnamese:** Liên quan đến kinh doanh; quảng cáo TV hoặc radio
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **commercial**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The restaurant has a very business atmosphere."
+> ✅ **Correction:** "The restaurant has a very commercial atmosphere." or "The restaurant has a business-like atmosphere."
+> 🧠 **Why:** "Commercial" là tính từ chính xác để mô tả không khí có màu sắc kinh doanh/thương mại, "business" là danh từ
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **commercial**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[non-commercial]] (phi thương mại)
+> - [[residential]] (dân cư, nhà ở)
+> - [[personal]] (cá nhân, riêng tư)
+> - [[non-profit]] (phi lợi nhuận)
+> 🧱 **Contrast:** Commercial thể hiện tính chất kinh doanh, hướng lợi nhuận, trong khi các antonym thể hiện tính chất phi lợi nhuận, riêng tư hoặc phục vụ mục đích cá nhân/dân cư
 
 ---

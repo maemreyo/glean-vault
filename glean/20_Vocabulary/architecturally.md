@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/arts-architecture/architecture #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [architectural, architecture, architecturally-designed, architectural style]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌɑːkɪˈtektʃərəli/
+> **Part of Speech:** adverb
+> **CEFR Level:** C1
+> **Register:** academic/formal
+> **Etymology:** From "architectural" + "-ly", from Greek "arkhitektōn" meaning "master builder"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** In a way that relates to architecture
+>
+> **Context Meaning:** In a manner relating to the design and construction of buildings; from an architectural perspective or in terms of architectural features
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** về mặt kiến trúc, về phương diện kiến trúc
+> - **Contextual:** về mặt thiết kế xây dựng, xét về kiến trúc
+>
 > **Nuances:**
-> - ...
+> - Used to evaluate or describe buildings from design perspective
+> - Often implies consideration of aesthetic and structural elements
+> - Can refer to both historical and contemporary architectural contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Analytical, Design-focused, Structural
+> **Memory Hook:** Architect (kiến trúc sư) + al + ly = theo cách của kiến trúc sư
+> **📖 Etymology Story:** From Greek "arkhitektōn" (arkhi- "chief" + tektōn "builder"). When we consider something "architecturally", we're viewing it through the eyes of a "chief builder" - someone who understands not just construction, but art, design, and spatial relationships.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[architecture]] /ˈɑːkɪtektʃə(r)/
+> - **Noun:** [[architect]] /ˈɑːkɪtekt/
+> - **Adj:** [[architectural]] /ˌɑːkɪˈtektʃərəl/
+> - **Adv:** [[architecturally]] /ˌɑːkɪˈtektʃərəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[structurally]] /ˈstrʌktʃərəli/ : in terms of structure
+> - [[design-wise]] /daɪz waɪz/ : from a design perspective
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[functionally]] /ˈfʌŋkʃənəli/ : in terms of function
+> - [[decoratively]] /ˈdekərətɪvli/ : in terms of decoration
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. architecturally significant
+> 2. architecturally designed
+> 3. architecturally interesting
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The building is architecturally significant due to its unique Art Deco design elements.
+> - **Translation:** Tòa nhà này có ý nghĩa quan trọng về mặt kiến trúc do các yếu tố thiết kế Art Deco độc đáo.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Architecturally speaking, the tower harmonizes traditional materials with modern engineering.
+> - **Translation:** Về mặt kiến trúc, tháp hài hòa giữa vật liệu truyền thống và kỹ thuật hiện đại.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Misplacement in sentence**
+> - ❌ **Mistake:** "The building designed was architecturally impressive."
+> - ✅ **Correction:** "The building was architecturally impressive." or "The architecturally designed building was impressive."
+> - **Why:** "Architecturally" should modify the adjective or verb directly, not interrupt the main sentence structure.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The new museum extension is architecturally innovative while respecting the original building."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,126 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **architecturally** (*/ˌɑːkɪˈtektʃərəli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In a way that relates to the art and science of designing and constructing buildings
+> 🇻🇳 **Vietnamese:** Theo một cách liên quan đến nghệ thuật và khoa học thiết kế và xây dựng các tòa nhà
+> 🗣️ **IPA:** */ˌɑːkɪˈtektʃərəli/*
+> 🧠 **Mental Model:** Giống như đeo kính của kiến trúc sư - nhìn mọi thứ qua lăng kính thiết kế, kết cấu, thẩm mỹ của công trình
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "From the perspective of building design and construction; in terms of architectural features"
+**Vietnamese:** Từ góc độ thiết kế và xây dựng công trình; về mặt các đặc điểm kiến trúc
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**architecturally** (*/ˌɑːkɪˈtektʃərəli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **architecturally** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Architecturally, the building successfully blends traditional local elements with contemporary sustainable design principles.
+> 🇻🇳 **Translation:** Về mặt kiến trúc, tòa nhà kết hợp thành công các yếu tố địa phương truyền thống với các nguyên tắc thiết kế bền vững đương đại.
+> 🔍 **Analysis:** "Architecturally" thể hiện góc nhìn chuyên môn, phân tích từ khía cạnh thiết kế và xây dựng, thường dùng trong bối cảnh đánh giá công trình
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **architecturally**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality assessments:** architecturally significant/interesting/important (quan trọng/thú vị/tầm cỡ về kiến trúc)
+> 2. **Design features:** architecturally designed/inspired/planned (được thiết kế/cảm hứng/lên kế hoạch về kiến trúc)
+> 3. **Comparative analysis:** architecturally similar/different/unique (tương đồng/khác biệt/độc đáo về kiến trúc)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **architecturally**:
+"The building has a nice design."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Architecturally, the building represents a remarkable fusion of neoclassical and minimalist aesthetics."
+> 💡 **Why it works:** "Architecturally" thể hiện sự phân tích chuyên nghiệp, có kiến thức về thiết kế và phong cách kiến trúc, thay vì chỉ đánh giá chung chung
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **architecturally** instead of **[[visually]]**?
+>
+> **architecturally:** Nhấn mạnh khía cạnh thiết kế, kết cấu, kỹ thuật, có sự phân tích chuyên sâu
+> **[[visually]]:** Chỉ tập trung vào mặt thẩm mỹ, vẻ đẹp bên ngoài, cái nhìn trực quan
+> 🧱 **The Barrier:** Architecturally có tính technical (kỹ thuật) và analytical (phân tích), trong khi visually có tính aesthetic (thẩm mỹ) và surface-level (bề mặt)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining why a modern building doesn't fit with historic buildings nearby. What do you say?
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Architecturally, the glass tower creates a jarring contrast with the traditional brick architecture of the historic district."
+> 👨‍🎨 **Director's Note:** "Architecturally" thể hiện sự phân tích chuyên môn, khách quan về sự tương phản kiến trúc
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
-?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+🌱 **Origins:** Link the root `arkhitektōn` to the meaning of **architecturally**.
+>
+> 📜 **Story:** Arkhitektōn trong tiếng Hy Lạp nghĩa là "người thợ xây trưởng" (arkhi- "trưởng" + tektōn "người thợ xây"). Khi xem xét cái gì đó "architecturally", chúng ta đang nhìn nó qua mắt của một "người thợ xây trưởng" - người không chỉ hiểu về xây dựng mà còn về nghệ thuật, thiết kế và mối quan hệ không gian
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
-?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+Analyze the root/family of **architecturally**.
+>
+> 🌱 **Root:** Greek `arkhitektōn` (master builder - người thợ xây trưởng)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[architecture]] (kiến trúc)
+> - *(noun)* [[architect]] (kiến trúc sư)
+> - *(adj)* [[architectural]] (thuộc kiến trúc)
+> - *(adv)* [[architecturally]] (về mặt kiến trúc)
+> - *(noun)* [[architectonics]] (thuyết kiến trúc)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌɑːkɪˈtektʃərəli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**architecturally**
+> 📖 **Meaning:** In relation to architecture or building design
+> 🇻🇳 **Vietnamese:** Liên quan đến kiến trúc hoặc thiết kế xây dựng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
-?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+🕵️ **Fix the Error:** Common mistake with **architecturally**?
+>
+> ❌ **Mistake:** "The building architecturally is impressive."
+> ✅ **Correction:** "The building is architecturally impressive." or "Architecturally, the building is impressive."
+> 🧠 **Why:** "Architecturally" thường đứng đầu câu hoặc đứng trước tính từ nó mô tả, không đứng giữa chủ ngữ và động từ như trong lỗi sai
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
+↔️ **Flip:** What is the opposite of **architecturally**?
+>
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[functionally]] (về mặt chức năng)
+> - [[structurally]] (về mặt kết cấu - nhưng trong ngữ cảnh khác)
+> - [[decoratively]] (về mặt trang trí)
+> - [[practically]] (về mặt thực tế)
+> 🧱 **Contrast:** Architecturally tập trung vào thiết kế, thẩm mỹ và nghệ thuật xây dựng, trong khi các antonym tập trung vào công năng, trang trí hoặc tính thực dụng
 
 ---

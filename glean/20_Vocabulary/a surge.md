@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [surge, surged, surging]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə sɜːdʒ/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/journalistic
+> **Etymology:** From Latin 'surigere' meaning "to rise, rise up," possibly from 'sub-' + 'regere' (to rule)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A sudden, powerful forward or upward movement; a rapid increase in something.
+>
+> **Context Meaning:** Can refer to electrical power surges, sudden increases in numbers or quantities, waves, or strong feelings of emotion. Often implies something is happening suddenly and intensely.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự tăng vọt, sự tăng đột biến
+> - **Contextual:** làn sóng, sự bùng nổ, dòng điện tăng đột biến
+>
 > **Nuances:**
-> - ...
+> - Always implies suddenness and intensity
+> - Can be physical (waves, electricity) or metaphorical (emotions, numbers)
+> - Often has dramatic or impactful connotations
+> - May be temporary or sustained depending on context
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Dynamic, intense, sudden, powerful
+> **Memory Hook:** Think of a wave surging forward - that's the energy of 'surge'
+> **📖 Etymology Story:** From Latin 'surigere' (to rise up) - like a force rising up suddenly and powerfully. Whether it's water, electricity, emotions, or crowds, there's this image of something breaking through and rising with intensity.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[surge]] /sɜːdʒ/
+> - **Verb:** [[surge]] /sɜːdʒ/
+> - **Adj:** [[surging]] /ˈsɜːdʒɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[spike]] /spaɪk/ : emphasizes a sharp peak
+> - [[wave]] /weɪv/ : for literal water movements
+> - [[upsurge]] /ˈʌpsɜːdʒ/ : emphasizes upward movement
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[decline]]
+> - [[drop]]
+> - [[decrease]]
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. a surge in demand/prices
+> 2. power surge
+> 3. a surge of emotion/excitement
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** There was a surge in demand for face masks during the pandemic.
+> - **Translation:** Nhu cầu về khẩu trang đã tăng vọt trong đại dịch.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** A power surge damaged several electronic devices in the office.
+> - **Translation:** Dòng điện tăng đột biến đã làm hỏng nhiều thiết bị điện tử trong văn phòng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** "a surge on prices"
+> - ✅ **Correction:** "a surge in prices"
+> - **Why:** 'Surge' takes 'in' when referring to increases in amounts or numbers
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The sudden surge of tourists overwhelmed the small coastal town's infrastructure."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,119 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a surge** (*/ə sɜːdʒ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A sudden, powerful increase or forward movement
+> 🇻🇳 **Vietnamese:** Sự tăng vọt, làn sóng mạnh, sự bùng nổ đột ngột
+> 🗣️ **IPA:** */ə sɜːdʒ/*
+> 🧠 **Mental Model:** Một con sóng lớn đột ngột tiến lên hoặc số lượng tăng mạnh một cách đột ngột
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A sudden and powerful increase or movement"
+**Vietnamese:** Sự tăng đột biến mạnh, làn sóng mạnh
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a surge** (*/ə sɜːdʒ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a surge** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The company experienced a surge in online orders during the holiday season.
+> 🇻🇳 **Translation:** Công ty đã trải qua sự gia tăng đột biến trong đơn hàng trực tuyến trong mùa lễ hội.
+> 🔍 **Analysis:** 'Surge' hoàn hảo để mô tả sự tăng trưởng đột ngột và mạnh mẽ trong kinh doanh
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **surge**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Economic:** a surge in demand/prices/sales (sự tăng vọt về nhu cầu/giá/doanh số)
+> 2. **Emotional:** a surge of emotion/excitement/anger (làn sóng cảm xúc/hứng thú/phẫn nộ)
+> 3. **Physical:** a power/tidal surge (làn sóng điện/triển)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a surge**:
+"There was a big increase in visitors."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The museum witnessed a surge in visitors following the blockbuster exhibition's opening."
+> 💡 **Why it works:** 'Surge' thể hiện sự tăng trưởng đột ngột và mạnh mẽ hơn 'big increase'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a surge** instead of **[[an increase]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a surge:** Được dùng khi muốn nhấn mạnh sự đột ngột, mạnh mẽ và thường là ngắn hạn của sự tăng trưởng
+> **[[an increase]]:** Mang tính trung tính hơn, có thể là sự tăng trưởng từ từ và kéo dài
+> 🧱 **The Barrier:** Surge is sudden and intense, increase is gradual and steady
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're reporting on breaking news about stock markets. You need to describe the sudden change. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Technology stocks saw a massive surge in early morning trading!"
+> 👨‍🎨 **Director's Note:** 'Surge' thể hiện sự biến động mạnh và đột ngột của thị trường
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<surigere>` to the meaning of **surge**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'surigere' (nổi lên) - hình ảnh một lực lượng đột ngột trỗi dậy, mạnh mẽ như nước biển hoặc dòng điện
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **surge**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `surigere` ("to rise, rise up")
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[surge]]: dâng lên, tăng vọt
+> - *(adj)* [[surging]]: đang tăng vọt
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə sɜːdʒ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a surge**
+> 📖 **Meaning:** Sudden powerful increase or movement
+> 🇻🇳 **Vietnamese:** Sự tăng vọt, làn sóng mạnh
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **a surge**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "There was a surge of unemployment"
+> ✅ **Correction:** "There was a surge in unemployment"
+> 🧠 **Why:** 'Surge in' is the correct preposition for increases in statistics or numbers
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a surge**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[a decline]] (sự suy giảm)
+> - [[a drop]] (sự giảm sút)
+> 🧱 **Contrast:** Surge is a sudden increase, while decline/drop is a decrease

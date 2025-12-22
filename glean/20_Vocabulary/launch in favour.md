@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/phrasal-idioms/collocations-by-verb #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [launch, in favor of, in favour, in favour of]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /lɔːntʃ ɪn ˈfeɪvə(r)/
+> **Part of Speech:** phrasal verb/collocation
+> **CEFR Level:** B2
+> **Register:** formal/neutral
+> **Etymology:** "Launch" from Old French "lanchier" (to throw), "Favour" from Latin "favor" (goodwill, support)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To start or introduce something while showing preference for it
+>
+> **Context Meaning:** To begin or initiate something with the explicit intention of supporting or preferring it over alternatives
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tung ra để ủng hộ
+> - **Contextual:** khởi động thay thế, ra mắt ủng hộ, phát động ủng hộ
+>
 > **Nuances:**
-> - ...
+> - Implies both action (launch) and stance (favor)
+> - Often used when replacing something older
+> - Suggests active support for the new initiative
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Proactive, Decisive, Supportive
+> **Memory Hook:** Imagine launching (khai thác) a new ship in favor of (ủng hộ) exploration instead of trade
+> **📖 Etymology Story:** "Launch" originally meant to throw something, like a spear or ship into water. "Favour" comes from Latin meaning goodwill or support. When we "launch in favor of" something, we're literally throwing our support behind a new initiative, actively pushing it forward while showing preference over other options.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[launch]] /lɔːntʃ/
+> - **Phrase:** [[in favour of]] /ɪn ˈfeɪvə(r) əv/
+> - **Noun:** [[launch]] /lɔːntʃ/
+> - **Noun:** [[favor]] /ˈfeɪvə(r)/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[introduce]] /ˌɪntrəˈdjuːs/ : bring something into existence
+> - [[champion]] /ˈtʃæmpiən/ : actively support
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[oppose]] /əˈpəʊz/ : actively resist
+> - [[reject]] /rɪˈdʒekt/ : refuse to accept
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. launch in favour of change
+> 2. launch in favour of reform
+> 3. launch in favour of new technology
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The government launched a new campaign in favour of renewable energy.
+> - **Translation:** Chính phủ đã khởi động một chiến dịch mới ủng hộ năng lượng tái tạo.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** They launched the new software in favour of the outdated system.
+> - **Translation:** Họ đã tung ra phần mềm mới để thay thế cho hệ thống lỗi thời.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** "They launched in favor to the new policy."
+> - ✅ **Correction:** "They launched in favour of the new policy."
+> - **Why:** The correct preposition is "of" not "to". "In favour of" is a fixed phrase.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The company will launch a new initiative in favour of sustainable practices."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,128 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **launch in favour of** (*/lɔːntʃ ɪn ˈfeɪvə(r) əv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To start or introduce something while actively showing preference for it over alternatives
+> 🇻🇳 **Vietnamese:** Khởi động hoặc giới thiệu một thứ gì đó trong khi tích thể hiện sự ưu tiên cho nó so với các lựa chọn khác
+> 🗣️ **IPA:** */lɔːntʃ ɪn ˈfeɪvə(r) əv/*
+> 🧠 **Mental Model:** Giống như vừa tung ra sản phẩm mới vừa quảng bá nó mạnh mẽ, không chỉ ra mắt mà còn ủng hộ nó thay cho cái cũ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To begin or initiate something with the explicit intention of supporting or preferring it over alternatives"
+**Vietnamese:** Bắt đầu hoặc khởi động một cái gì đó với ý định rõ ràng là ủng hộ hoặc ưu tiên nó so với các lựa chọn thay thế
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**launch in favour of** (*/lɔːntʃ ɪn ˈfeɪvə(r) əv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **launch in favour of** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The university launched a new curriculum in favour of interdisciplinary studies over traditional single-subject degrees.
+> 🇻🇳 **Translation:** Đại học đã tung ra chương trình giảng dạy mới ủng hộ các môn học liên ngành thay vì các bằng cấp về một môn truyền thống.
+> 🔍 **Analysis:** Cụm từ này thể hiện cả hành động (launch) và quan điểm (in favour of), cho thấy không chỉ khởi động mà còn chủ động ủng hộ xu hướng mới
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **launch in favour of**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Reform-oriented:** launch in favour of reform/change/modernization (khởi động ủng hộ cải cách/thay đổi/cải tiến)
+> 2. **Technology-focused:** launch in favour of digital/automation/innovation (tung ra ủng hộ công nghệ số/tự động hóa/đổi mới)
+> 3. **Social causes:** launch in favour of equality/sustainability/diversity (phát động ủng hộ bình đẳng/bền vững/đa dạng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **launch in favour of**:
+"They started a new program to help the environment."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The organization launched a comprehensive recycling initiative in favour of sustainable waste management over traditional disposal methods."
+> 💡 **Why it works:** "Launch in favour of" thể hiện sự chủ động, có chiến lược và quan điểm rõ ràng, thay vì chỉ "started" một cách chung chung
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **launch in favour of** instead of **[[start]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **launch in favour of:** Nhấn mạnh sự khởi động có chủ đích, có chiến lược và kèm theo quan điểm ủng hộ, thường có tính chính thức và quy mô
+> **[[start]]:** Chỉ đơn thuần là bắt đầu, không mang ý nghĩa về quan điểm hoặc sự ủng hộ
+> 🧱 **The Barrier:** Launch in favour of có tính stance-taking (thể hiện quan điểm) và intentionality (có chủ đích), trong khi start chỉ đơn thuần mô tả sự khởi đầu
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your city wants to replace old diesel buses with electric ones. As the mayor, announce this initiative!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Today, I'm proud to announce that we will launch a new transportation initiative in favour of electric buses over traditional diesel vehicles."
+> 👨‍🎨 **Director's Note:** "Launch in favour of" thể hiện sự quyết tâm chính trị, quan điểm rõ ràng và tính chính thức của thông báo
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `lanchier` and `favor` to the meaning of **launch in favour of**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Lanchier trong tiếng Old Pháp nghĩa là "ném, vứt", và favor trong tiếng Latin nghĩa là "sự thiện chí, sự ủng hộ". Khi chúng ta "launch in favour of" một cái gì đó, chúng ta đang "ném" sự ủng hộ phía sau một sáng kiến mới, chủ động đẩy nó tiến lên
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **launch in favour of**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:**
+> - Old French `lanchier` (to throw - ném, vứt)
+> - Latin `favor` (goodwill, support - sự thiện chí, sự ủng hộ)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[launch]] (khởi động, tung ra)
+> - *(noun)* [[launch]] (sự khởi động)
+> - *(noun)* [[favor/favour]] (sự ủng hộ, thiện cảm)
+> - *(adj)* [[favorable/favourable]] (thuận lợi, có lợi)
+> - *(phrase)* [[in favor of]] (ủng hộ, thay cho)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */lɔːntʃ ɪn ˈfeɪvə(r) əv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**launch in favour of**
+> 📖 **Meaning:** To start something while actively supporting it
+> 🇻🇳 **Vietnamese:** Bắt đầu một cái gì đó trong khi tích cực ủng hộ nó
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **launch in favour of**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The committee launched the project in favor with the new approach."
+> ✅ **Correction:** "The committee launched the project in favour of the new approach."
+> 🧠 **Why:** "In favour of" là một cụm từ cố định, luôn đi với giới từ "of" chứ không phải "with". Đây là collocation thông thường cần nhớ
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **launch in favour of**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[oppose the launch of]] (phản đối việc khởi động)
+> - [[reject in favour of]] (từ chối để ủng hộ)
+> - [[discontinue in favour of]] (ngừng để ủng hộ)
+> - [[campaign against]] (vận động chống lại)
+> 🧱 **Contrast:** Launch in favour of thể hiện sự khởi động tích cực và ủng hộ, trong khi các antonym thể hiện sự phản đối, từ chối hoặc chấm dứt
 
 ---

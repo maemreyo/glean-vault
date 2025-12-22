@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [campaigns, campaigning, campaigned]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /kæmˈpeɪn/
+> **Part of Speech:** noun/verb
+> **CEFR Level:** B2
+> **Register:** formal/informal
+> **Etymology:** From Latin "campānia" meaning "open country, battlefield", from "campus" meaning "field, open space"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A series of planned activities with a particular social, commercial, or political aim
+>
+> **Context Meaning:** An organized course of action to achieve a specific goal, especially in politics, business, or military operations
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chiến dịch
+> - **Contextual:** chiến dịch, cuộc vận động
+>
 > **Nuances:**
-> - ...
+> - Implies coordinated effort over time
+> - Often involves multiple activities or events
+> - Can be military, political, commercial, or social
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Strategic, Organized, Persistent
+> **Memory Hook:** Imagine soldiers camping (camp) in a field (plain) - that's where battles happened, now extended to any organized "battle" for a cause
+> **📖 Etymology Story:** In ancient Rome, the "campānia" was the open countryside where armies set up their camps and conducted military campaigns. Over time, this battlefield concept evolved to include any organized effort with a clear objective, like a political campaign trying to win votes or a marketing campaign trying to sell products.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[campaign]] /kæmˈpeɪn/
+> - **Verb:** [[campaign]] /kæmˈpeɪn/
+> - **Adj:** [[campaigning]] /kæmˈpeɪnɪŋ/ (as in "campaigning efforts")
+> - **Adv:** N/A
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[drive]] /draɪv/ : focused effort toward a goal
+> - [[initiative]] /ɪˈnɪʃətɪv/ : new plan or process
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[disorganization]] /dɪsˌɔːrɡənaɪˈzeɪʃn/ : lack of structure
+> - [[inaction]] /ɪnˈækʃn/ : lack of activity
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. launch a campaign
+> 2. run a campaign
+> 3. successful campaign
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company launched an advertising campaign to promote their new product line.
+> - **Translation:** Công ty đã tung ra một chiến dịch quảng cáo để quảng bá dòng sản phẩm mới của họ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She has been campaigning for environmental protection for over a decade.
+> - **Translation:** Cô ấy đã vận động bảo vệ môi trường được hơn một thập kỷ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Grammar confusion**
+> - ❌ **Mistake:** "They did a campaign against pollution."
+> - ✅ **Correction:** "They ran a campaign against pollution." or "They launched a campaign against pollution."
+> - **Why:** "Run/launch/conduct a campaign" are standard collocations. "Do a campaign" sounds unnatural to native speakers.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The success of our awareness campaign exceeded all expectations."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **campaign** (*/kæmˈpeɪn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A planned series of activities designed to achieve a particular social, commercial, or political aim
+> 🇻🇳 **Vietnamese:** Một chuỗi hoạt động có kế hoạch nhằm đạt được mục tiêu xã hội, thương mại hoặc chính trị cụ thể
+> 🗣️ **IPA:** */kæmˈpeɪn/*
+> 🧠 **Mental Model:** Giống như một "trận đánh" có tổ chức với nhiều chiến thuật khác nhau để đạt được mục tiêu cuối cùng (chiến dịch quảng cáo, vận động chính trị, quân sự)
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An organized course of action to achieve a particular goal, especially in politics, business, or military operations"
+**Vietnamese:** Một hành động có tổ chức để đạt được mục tiêu cụ thể, đặc biệt trong chính trị, kinh doanh hoặc chiến dịch quân sự
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**campaign** (*/kæmˈpeɪn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **campaign** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The charity organization is running a nationwide campaign to raise awareness about climate change.
+> 🇻🇳 **Translation:** Tổ chức từ thiện đang tiến hành một chiến dịch toàn quốc để nâng cao nhận thức về biến đổi khí hậu.
+> 🔍 **Analysis:** "Running a campaign" là collocation phổ biến, nhấn mạnh tính tiếp diễn và có tổ chức của nhiều hoạt động phối hợp
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **campaign**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action verbs:** launch/conduct/run a campaign (bắt đầu/tổ chức/chạy một chiến dịch)
+> 2. **Descriptive adjectives:** successful/effective/aggressive campaign (chiến dịch thành công/hiệu quả/năng động)
+> 3. **Purpose types:** awareness/marketing/political campaign (chiến dịch nâng cao nhận thức/marketing/chính trị)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **campaign**:
+"The company is trying to sell more products."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The company has launched an aggressive marketing campaign to boost sales in the third quarter."
+> 💡 **Why it works:** "Campaign" tạo hình ảnh về nỗ lực có chiến lược, quy mô lớn và có mục tiêu rõ ràng thay vì chỉ "trying to sell" (cố gắng bán)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **campaign** instead of **[[project]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **campaign:** Tập trung vào mục tiêu thay đổi nhận thức, hành vi hoặc thái độ của công chúng, thường có yếu tố truyền thông/chiến thuật
+> **[[project]]:** Tập trung vào tạo ra kết quả cụ thể, hữu hình, có điểm bắt đầu và kết thúc rõ ràng
+> 🧱 **The Barrier:** Campaign có tính persuading (thuyết phục) và public-facing (hướng đến công chúng), trong khi project thường là internal-focused (hướng nội bộ) và delivery-focused (tập trung giao kết quả)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your university wants to reduce plastic waste on campus. You're the student representative. Speak to the student council!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I propose we launch a comprehensive awareness campaign to encourage students to use reusable bottles and containers."
+> 👨‍🎨 **Director's Note:** "Launch a campaign" thể hiện tính chuyên nghiệp, có kế hoạch và quy mô lớn, phù hợp với môi trường học thuật
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `campus` to the meaning of **campaign**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Campus trong tiếng Latin nghĩa là "cánh đồng" - nơi quân đội dựng trại và tiến hành các chiến dịch quân sự (military campaigns). Từ đó, "campaign" mở rộng nghĩa thành bất kỳ nỗ lực có tổ chức nào để đạt được mục tiêu, như political campaigns (chiến dịch chính trị) hay advertising campaigns (chiến dịch quảng cáo)
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **campaign**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `campus` (field, open space - cánh đồng, không gian mở)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[campaign]] (chiến dịch)
+> - *(noun)* [[campaigner]] (người vận động)
+> - *(noun)* [[campaigning]] (hoạt động vận động)
+> - *(verb)* [[campaign]] (tổ chức chiến dịch, vận động)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */kæmˈpeɪn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**campaign**
+> 📖 **Meaning:** A planned series of activities to achieve a particular goal
+> 🇻🇳 **Vietnamese:** Một chuỗi hoạt động có kế hoạch để đạt được mục tiêu cụ thể
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **campaign**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The NGO does a campaign every year to help poor people."
+> ✅ **Correction:** "The NGO runs/launches/conducts a campaign every year to help poor people."
+> 🧠 **Why:** "Run/launch/conduct" là những động từ collocate với "campaign", không phải "do". Campaign đòi hỏi sự tổ chức và có kế hoạch, không chỉ là làm đơn thuần
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **campaign**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[disorganization]] (sự thiếu tổ chức)
+> - [[inaction]] (sự không hành động)
+> - [[haphazard effort]] (nỗ lực ngẫu hứng)
+> 🧱 **Contrast:** Campaign là nỗ lực có hệ thống, có mục tiêu rõ ràng và có kế hoạch, trong khi các antonym thể hiện sự thiếu cấu trúc, mục tiêu hoặc hành động
 
 ---

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/abstract-concepts #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [principles, principled, unprincipled]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈprɪn.sə.pəl/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From Latin 'principium' meaning 'beginning, origin, foundation', from 'princeps' meaning 'first, chief'
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A fundamental truth, proposition, or basis of behavior or reasoning
+>
+> **Context Meaning:** A rule or belief governing one's personal behavior or a fundamental quality determining the nature of something
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nguyên tắc, nguyên lý
+> - **Contextual:** nguyên tắc đạo đức, định luật cơ bản, nền tảng
+>
 > **Nuances:**
-> - ...
+> - Can refer to moral/ethical guidelines or scientific laws
+> - Implies something foundational that other things are built upon
+> - Often carries weight of authority and universal applicability
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Principled, Authoritative, Foundational
+> **Memory Hook:** Imagine the 'prince' (sounds similar) laying down the fundamental rules of his kingdom - these are his principles
+> **📖 Etymology Story:** From Latin 'princeps' (first citizen) who established the 'principia' (foundational rules) - today's 'principles' are still the foundational rules that govern systems and behaviors
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[principle]] /ˈprɪn.sə.pəl/
+> - **Adj:** [[principled]] /ˈprɪn.sə.pəld/
+> - **Adj:** [[unprincipled]] /ʌnˈprɪn.sə.pəld/
+> - **Adv:** [[principally]] /ˈprɪn.sə.pəl.i/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[rule]] /ruːl/ : more specific and less fundamental
+> - [[doctrine]] /ˈdɒk.trɪn/ : more systematic and often religious
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[exception]] /ɪkˈsep.ʃən/ : something that doesn't follow the principle
+> - [[corruption]] /kəˈrʌp.ʃən/ : lack of principles
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. fundamental principle
+> 2. guiding principle
+> 3. in principle
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company operates on the principle of transparency in all its dealings.
+> - **Translation:** Công ty hoạt động dựa trên nguyên tắc minh bạch trong mọi giao dịch.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Newton's principles of motion revolutionized physics.
+> - **Translation:** Các nguyên lý chuyển động của Newton đã cách mạng hóa vật lý học.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with 'principal'**
+> - ❌ **Mistake:** The school principle announced new rules.
+> - ✅ **Correction:** The school principal announced new rules.
+> - **Why:** 'Principle' = rule/belief; 'Principal' = head of school or main amount
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Principles are not for convenience; they are for conviction."
+> **Source:** [[Ethical Philosophy]]
 
 ---
 
@@ -161,121 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **principle** (*/ˈprɪn.sə.pəl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A fundamental truth, rule, or belief that forms the basis of a system of behavior or reasoning
+> 🇻🇳 **Vietnamese:** Nguyên tắc, nguyên lý, nền tảng, quy tắc cơ bản
+> 🗣️ **IPA:** */ˈprɪn.sə.pəl/*
+> 🧠 **Mental Model:** Foundation stone của building - fundamental rule mà mọi thứ else được build upon
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A fundamental truth or proposition that serves as the foundation for a system of belief or behavior"
+**Vietnamese:** Nguyên tắc cơ bản, nền tảng niềm tin
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**principle** (*/ˈprɪn.sə.pəl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **principle** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Her guiding principle in life has always been to treat others with kindness and respect.
+> 🇻🇳 **Translation:** Nguyên tắc chỉ đạo trong cuộc sống của cô ấy luôn là đối xử với người khác bằng lòng tốt và sự tôn trọng.
+> 🔍 **Analysis:** 'Guiding principle' emphasizes foundational nature, 'in life' shows personal application - perfect example of principle as moral compass
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **principle**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Importance/Fundamentality:** fundamental principle (nguyên tắc nền tảng - most basic)
+> 2. **Direction/Guidance:** guiding principle (nguyên tắc định hướng - leads decisions)
+> 3. **Agreement/Condition:** in principle (về nguyên tắc - theoretically agree)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **principle**:
+"He believes in being honest."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He operates on the unwavering principle that honesty in all dealings builds lasting trust."
+> 💡 **Why it works:** 'Operates on principle' hơn 'believes', 'unwavering' thêm emphasis, 'builds lasting trust' shows practical impact
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **principle** instead of [[rule]]?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **principle:** Foundamental, philosophical, often unwritten, guides multiple situations, moral/ethical weight
+> **[[rule]]:** Specific, clearly stated, applies to particular situations, can be arbitrary, enforced by authority
+> 🧱 **The Barrier:** Principle = 'why' behind behavior; Rule = 'what' to do in specific case
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss asks you to do something unethical. You need to refuse professionally. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm sorry, but that goes against my fundamental principles of professional integrity."
+> 👨‍🎨 **Director's Note:** Shows moral conviction, uses formal language, 'fundamental principles' adds weight without being aggressive
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `princeps` to the meaning of **principle**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Roman 'princeps' (first citizen, leader) established 'principia' (foundational rules) for governance → modern 'principle'保持了这种作为最根本、最基础的规则特性
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **principle**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `princeps` (first, chief, leader)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[principle]] (fundamental rule)
+> - *(adj)* [[principled]] (having strong moral principles)
+> - *(adj)* [[unprincipled]] (lacking moral principles)
+> - *(adv)* [[principally]] (for the most part, mainly)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈprɪn.sə.pəl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**principle**
+> 📖 **Meaning:** A fundamental truth or rule that forms the basis of a system
+> 🇻🇳 **Vietnamese:** Nguyên tắc, nguyên lý, quy tắc cơ bản
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **principle**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "I agree in principle with your approach"
+> ✅ **Correction:** "I agree in principle with your approach" (this is actually correct!)
+> 🧠 **Why:** Common confusion is actually 'principle' vs 'principal' - 'In principle' means theoretically or fundamentally, which is correct usage here
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **principle**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[expediency]] (convenience over principle)
+> - [[exception]] (special case not following the rule)
+> 🧱 **Contrast:** Principle = consistent foundation that guides all decisions; Expediency = flexible approach that changes based on convenience
 
 ---

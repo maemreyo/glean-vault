@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [pioneer, pioneering, pioneered]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌpaɪəˈnɪəz/
+> **Part of Speech:** noun (plural)
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From Old French 'pionnier' meaning "foot soldier, pioneer," from 'pion' meaning "pawn" - one who goes first
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** People who are among the first to explore or settle a new country or area; innovators who develop or are the first to use or apply new methods, knowledge, or activities.
+>
+> **Context Meaning:** In historical context, pioneers are individuals or groups who lead the way in establishing new settlements, developing new technologies, or breaking new ground in various fields.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** những người tiên phong
+> - **Contextual:** người khai hoang, người tiên kiến, người đi đầu
+>
 > **Nuances:**
-> - ...
+> - Implies courage, innovation, and venturing into the unknown
+> - Can refer to physical exploration or intellectual/technological innovation
+> - Often associated with hardship and determination
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Adventurous, innovative, determined, courageous
+> **Memory Hook:** Think of "pee-oh-near" - they go near where no one has gone before
+> **📖 Etymology Story:** Originally from French military term 'pionnier' for soldiers who went ahead of the main army to clear roads and build bridges. Like chess pawns that move first into new territory, these were the ones who prepared the way for others to follow.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[pioneer]] /ˌpaɪəˈnɪər/ (singular)
+> - **Verb:** [[pioneer]] /ˌpaɪəˈnɪər/
+> - **Adj:** [[pioneering]] /ˌpaɪəˈnɪərɪŋ/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[innovator]] /ˈɪnəveɪtər/ : emphasizes new ideas or methods
+> - [[trailblazer]] /ˈtreɪlbleɪzər/ : emphasizes creating new paths
+> - [[forefather]] /ˈfɔːfɑːðər/ : refers to ancestors or early founders
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[follower]]
+> - [[traditionalist]]
+> - [[conservative]] (in the sense of resisting change)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. early pioneers
+> 2. pioneer spirit
+> 3. pioneering work
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The pioneers who settled in the American West faced many hardships.
+> - **Translation:** Những người tiên phong đến định cư miền Tây nước Mỹ đã đối mặt với nhiều gian khổ.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Steve Jobs was a pioneer in the personal computing industry.
+> - **Translation:** Steve Jobs là một nhà tiên phong trong ngành máy tính cá nhân.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Capitalization**
+> - ❌ **Mistake:** Always capitalizing 'pioneers'
+> - ✅ **Correction:** Only capitalize when referring to a specific group (e.g., the Mormon Pioneers)
+> - **Why:** 'Pioneers' is a common noun, not a proper noun in general usage
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The pioneers of the environmental movement laid the foundation for modern conservation efforts."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +82,119 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **pioneers** (*/ˌpaɪəˈnɪəz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** People who are among the first to explore, settle, or develop new areas or ideas
+> 🇻🇳 **Vietnamese:** Những người tiên phong, người khai hoang, người đi đầu
+> 🗣️ **IPA:** */ˌpaɪəˈnɪəz/*
+> 🧠 **Mental Model:** Những người dũng cảm bước vào vùng đất chưa ai đến để mở đường cho người khác theo sau
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "People who are the first to explore or settle new areas or develop new methods"
+**Vietnamese:** Những người tiên phong, người đi đầu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**pioneers** (*/ˌpaɪəˈnɪəz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **pioneers** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The early computer pioneers revolutionized how we communicate and work.
+> 🇻🇳 **Translation:** Những nhà tiên phong máy tính thời kỳ đầu đã cách mạng hóa cách chúng ta giao tiếp và làm việc.
+> 🔍 **Analysis:** 'Pioneers' hoàn hảo để mô tả những người đổi mới trong lĩnh vực công nghệ, nhấn mạnh vai trò tiên phong của họ
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **pioneers**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Time Period:** early pioneers (những người tiên phong đầu tiên)
+> 2. **Quality:** pioneering spirit (tinh thần tiên phong)
+> 3. **Achievement:** pioneering work/discoveries (công trình/phát kiến tiên phong)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **pioneers**:
+"The first settlers were brave."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The pioneers who established the first trading posts in the wilderness demonstrated remarkable courage and resilience."
+> 💡 **Why it works:** 'Pioneers' cụ thể hơn 'settlers' và nhấn mạnh vai trò khơi nguồn, mở đường
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **pioneers** instead of **[[explorers]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **pioneers:** Được dùng khi nói về những người không chỉ khám phá mà còn định cư, xây dựng và phát triển vùng đất mới
+> **[[explorers]]:** Thường chỉ đi khám phá và thu thập thông tin, không nhất thiết phải ở lại định cư
+> 🧱 **The Barrier:** Pioneers settle and build, explorers discover and report
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're giving a presentation about technological innovation. You need to acknowledge the early contributors. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We owe our current digital age to the pioneers who envisioned and built the first computers against all odds."
+> 👨‍🎨 **Director's Note:** 'Pioneers' thể hiện sự kính trọng đối với những người đặt nền móng cho công nghệ hiện đại
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<pionnier>` to the meaning of **pioneers**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ tiếng Pháp 'pionnier' (binh lính đi trước) đến 'pioneers' - những người như quân tiên phong dọn đường xây cầu cho đội quân chính, mở đường cho người khác theo sau
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **pioneer**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** French `pionnier` ("foot soldier, pioneer")
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[pioneer]]: làm tiên phong, đi tiên phong
+> - *(adj)* [[pioneering]]: mang tính tiên phong, đột phá
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌpaɪəˈnɪəz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**pioneers**
+> 📖 **Meaning:** First settlers or innovators in a new field
+> 🇻🇳 **Vietnamese:** Những người tiên phong
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **pioneers**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The pioneers was very brave."
+> ✅ **Correction:** "The pioneers were very brave."
+> 🧠 **Why:** 'Pioneers' is plural, so it requires the plural verb 'were' not 'was'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **pioneers**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[followers]] (người đi theo)
+> - [[traditionalists]] (người truyền thống, người bảo thủ)
+> 🧱 **Contrast:** Pioneers create new paths, while followers follow established ones

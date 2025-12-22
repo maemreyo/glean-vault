@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [pedestrianised, pedestrianization, pedestrianised areas]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pəˈdestriənaɪzd/
+> **Part of Speech:** adjective
+> **CEFR Level:** C1
+> **Register:** formal/academic
+> **Etymology:** From 'pedestrian' (from Latin 'pedester' meaning "going on foot") + '-ised' suffix indicating a transformation has occurred
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Converted or adapted for use by pedestrians only, with vehicles prohibited or restricted.
+>
+> **Context Meaning:** In urban planning, pedestrianised areas are streets or zones where vehicle traffic is limited or completely prohibited to create safer, more pleasant environments for walking and social activities.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đã dành cho người đi bộ
+> - **Contextual:** khu vực cấm xe, khu phố đi bộ
+>
 > **Nuances:**
-> - ...
+> - Indicates a deliberate urban planning decision
+> - Often associated with revitalization of city centers
+> - Can be temporary (market days) or permanent
+> - UK spelling; US uses 'pedestrianized'
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Urban, modern, people-focused, environmentally conscious
+> **Memory Hook:** Think "pedestrian + ised" - made for people on foot
+> **📖 Etymology Story:** From Latin 'ped-' (foot) + 'ester' (related to), creating 'pedestrian' (walker). Adding '-ised' transforms a street into one专为 pedestrian use - reclaiming urban space from vehicles for people.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[pedestrian]] /pəˈdestriən/
+> - **Verb:** [[pedestrianise]] /pəˈdestriənaɪz/ (UK) / [[pedestrianize]] /pəˈdestriənaɪz/ (US)
+> - **Noun:** [[pedestrianisation]] /pəˌdestriənaɪˈzeɪʃən/ (UK) / [[pedestrianization]] /pəˌdestriənaɪˈzeɪʃən/ (US)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[car-free]] /kɑːfriː/ : broader term for areas without cars
+> - [[vehicle-free]] /ˈviːɪkəlfriː/ : emphasizes absence of all vehicles
+> - [[traffic-free]] /ˈtræfɪkfriː/ : focuses on eliminating traffic
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[vehicle-oriented]]
+> - [[car-dominated]]
+> - [[traffic-heavy]]
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. pedestrianised street/area
+> 2. fully pedestrianised
+> 3. pedestrianised zone
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The city center was pedestrianised to create a safer shopping environment.
+> - **Translation:** Trung tâm thành phố đã được chuyển thành khu phố đi bộ để tạo môi trường mua sắm an toàn hơn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Many European cities have pedestrianised their historic districts to preserve cultural heritage.
+> - **Translation:** Nhiều thành phố châu Âu đã biến các khu lịch sử của mình thành khu phố đi bộ để bảo tồn di sản văn hóa.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling confusion**
+> - ❌ **Mistake:** "pedestrianized" in British English
+> - ✅ **Correction:** "pedestrianised" in British English, "pedestrianized" in American English
+> - **Why:** UK uses '-ise' endings, US uses '-ize'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The pedestrianised area became the heart of social life in the city, with outdoor cafés and street performers."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,119 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **pedestrianised** (*/pəˈdestriənaɪzd/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Converted for use by pedestrians only, with vehicles prohibited or restricted
+> 🇻🇳 **Vietnamese:** Đã dành cho người đi bộ, khu phố đi bộ
+> 🗣️ **IPA:** */pəˈdestriənaɪzd/*
+> 🧠 **Mental Model:** Một con đường đã được chuyển đổi để cấm xe cộ, chỉ cho người đi bộ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "An area converted for use by people walking, with vehicles prohibited"
+**Vietnamese:** Khu vực dành cho người đi bộ, cấm xe
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**pedestrianised** (*/pəˈdestriənaɪzd/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **pedestrianised** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The historic market square was fully pedestrianised to accommodate weekend crowds.
+> 🇻🇳 **Translation:** Quảng trường chợ lịch sử đã được chuyển hoàn toàn thành khu phố đi bộ để phục vụ đám đông cuối tuần.
+> 🔍 **Analysis:** 'Pedestrianised' hoàn hảo để mô tả việc quy hoạch đô thị có chủ đích tạo không gian an toàn cho người đi bộ
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **pedestrianised**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Location:** pedestrianised street/area/square (phố/khu vực/quảng trường đi bộ)
+> 2. **Degree:** fully/partially pedestrianised (hoàn toàn/một phần dành cho người đi bộ)
+> 3. **Purpose:** pedestrianised shopping district (khu mua sắm đi bộ)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **pedestrianised**:
+"The street doesn't allow cars."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The main shopping thoroughfare has been pedestrianised, transforming it into a vibrant social space filled with cafés and street performers."
+> 💡 **Why it works:** 'Pedestrianised' thể hiện đây là quyết định quy hoạch đô thị có chủ đích, không chỉ là cấm xe đơn thuần
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **pedestrianised** instead of **[[car-free]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **pedestrianised:** Được dùng khi nói về việc quy hoạch lại không gian dành riêng cho người đi bộ, nhấn mạnh quá trình chuyển đổi
+> **[[car-free]]:** Chỉ đơn thuần mô tả trạng thái không có xe, không nhất thiết đã được quy hoạch cho người đi bộ
+> 🧱 **The Barrier:** Pedestrianised là active transformation, car-free là current state
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing urban improvements in your city. You want to mention the new walking-friendly area. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our downtown core has been completely pedestrianised, creating a wonderful atmosphere for dining and shopping."
+> 👨‍🎨 **Director's Note:** 'Pedestrianised' thể hiện đây là một chính sách quy hoạch đô thị hiện đại, chú trọng con người
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<pedester>` to the meaning of **pedestrianised**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'pedester' (đi bộ) + '-ised' (đã được biến đổi) - con đường đã được biến đổi để phục vụ người đi bộ, lấy lại không gian đô thị từ xe cộ
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **pedestrian**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `pedester` ("going on foot")
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[pedestrianisation]]/[[pedestrianization]]: quá trình biến thành khu đi bộ
+> - *(verb)* [[pedestrianise]]/[[pedestrianize]]: biến thành khu dành cho người đi bộ
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pəˈdestriənaɪzd/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**pedestrianised**
+> 📖 **Meaning:** Area converted for pedestrian use only
+> 🇻🇳 **Vietnamese:** Đã dành cho người đi bộ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **pedestrianised**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The pedestrianised streets make it difficult for cars to driving through"
+> ✅ **Correction:** "The pedestrianised streets make it difficult for cars to drive through"
+> 🧠 **Why:** After modal verb 'can', 'may', 'make', use base form 'drive' not 'driving'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **pedestrianised**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[traffic-heavy]] (nhiều xe cộ)
+> - [[vehicle-oriented]] (ưu tiên xe cộ)
+> 🧱 **Contrast:** Pedestrianised prioritizes people on foot, while traffic-heavy areas prioritize vehicles

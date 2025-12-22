@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/work-economy/business-models #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [financially, finance, finances, financial advisor]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /faɪˈnænʃl/
+> **Part of Speech:** adjective
+> **CEFR Level:** B1
+> **Register:** formal/business
+> **Etymology:** From Old French 'financier' meaning "to pay, settle," from Latin 'finis' meaning "end, boundary"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Relating to money, finances, or the management of money; pertaining to monetary matters.
+>
+> **Context Meaning:** In business and economics, refers to anything connected with money, banking, investments, or financial management. Can describe services, institutions, advice, or situations.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tài chính, liên quan đến tài chính
+> - **Contextual:** về tài chính, thuộc về tiền bạc
+>
 > **Nuances:**
-> - ...
+> - Often appears in compound terms (financial advisor, financial crisis)
+> - Can describe both positive (financial success) and negative (financial difficulties) situations
+> - Professional and formal register
+> - Extends beyond just money to include systems and management
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, serious, systematic, quantitative
+> **Memory Hook:** Think "finance + -al" - everything related to money matters
+> **📖 Etymology Story:** From Latin 'finis' (end, boundary) + French '-al' - originally meant "bringing to an end" in terms of settling debts. Evolved to mean managing money and monetary systems that bring business transactions to completion.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[finance]] /ˈfaɪnæns/
+> - **Noun:** [[finances]] /ˈfaɪnænsɪz/ (plural)
+> - **Adj:** [[financial]] /faɪˈnænʃl/
+> - **Adv:** [[financially]] /faɪˈnænʃəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[monetary]] /ˈmʌnɪteri/ : more formal, specifically about currency
+> - [[economic]] /ˌiːkəˈnɒmɪk/ : broader, includes production and distribution
+> - [[fiscal]] /ˈfɪskəl/ : specifically government/official finances
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[non-financial]]
+> - [[non-monetary]]
+> - [[personal]] (as opposed to business)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. financial situation/crisis/advice
+> 2. financial institution/market
+> 3. financial independence/security
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company hired a financial advisor to help manage their growing profits.
+> - **Translation:** Công ty đã thuê một chuyên gia tư vấn tài chính để giúp quản lý lợi nhuận đang tăng trưởng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Financial literacy is essential for making informed investment decisions.
+> - **Translation:** Kiến thức tài chính là yếu tố thiết yếu để đưa ra các quyết định đầu tư có thông tin.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling confusion**
+> - ❌ **Mistake:** "finacial"
+> - ✅ **Correction:** "financial"
+> - **Why:** Common misspelling; remember 'finan-cial'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Financial planning requires both short-term budgeting and long-term investment strategies."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +84,120 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **financial** (*/faɪˈnænʃl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Relating to money, finances, or the management of money
+> 🇻🇳 **Vietnamese:** Tài chính, liên quan đến tiền bạc, về tài chính
+> 🗣️ **IPA:** */faɪˈnænʃl/*
+> 🧠 **Mental Model**: Mọi thứ liên quan đến việc quản lý, đầu tư, và sử dụng tiền bạc
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Relating to money or the management of money"
+**Vietnamese:** Liên quan đến tiền bạc hoặc quản lý tài chính
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**financial** (*/faɪˈnænʃl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **financial** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The startup is seeking financial backing from venture capitalists to expand operations.
+> 🇻🇳 **Translation:** Công ty khởi nghiệp đang tìm kiếm sự hỗ trợ tài chính từ các nhà đầu tư mạo hiểm để mở rộng hoạt động.
+> 🔍 **Analysis:** 'Financial' hoàn hảo để mô tả các khía cạnh liên quan đến tiền và quản lý tài chính trong kinh doanh
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **financial**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Services:** financial advice/planning/services (tư vấn/qu hoạch/dịch vụ tài chính)
+> 2. **Status:** financial stability/independence/crisis (sự ổn định/độc lập/khủng hoảng tài chính)
+> 3. **Institution:** financial institution/bank/market (tổ chức/ngân hàng/thị trường tài chính)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **financial**:
+"He needs help with money."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He requires comprehensive financial planning to manage his diverse investment portfolio."
+> 💡 **Why it works:** 'Financial' thể hiện tính chuyên nghiệp và hệ thống hơn chỉ 'money'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **financial** instead of **[[money]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **financial:** Được dùng khi nói về HỆ THỐNG, quản lý, hoặc các khía cạnh chuyên môn của tiền bạc
+> **[[money]]:** Chỉ đơn giản là đồng tiền, vật chất trung gian trao đổi
+> 🧱 **The Barrier:** Financial is the system of managing money, money is the currency itself
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining career choices to students. You want to describe a profession. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Financial analysts help individuals and companies make smart investment decisions!"
+> 👨‍🎨 **Director's Note:** 'Financial' thể hiện tính chuyên môn và chuyên nghiệp của ngành
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<finis>` to the meaning of **financial**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'finis' (kết thúc) + French '-al' - ban đầu nghĩa là giải quyết các khoản nợ, sau phát triển thành quản lý toàn bộ hệ thống tiền tệ
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **financial**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `finis` ("end, boundary")
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[finance]]: tài chính, ngành tài chính
+> - *(adv)* [[financially]]: về mặt tài chính
+> - *(noun)* [[finances]]: tình hình tài chính
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */faɪˈnænʃl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**financial**
+> 📖 **Meaning:** Relating to money or monetary management
+> 🇻🇳 **Vietnamese:** Tài chính, liên quan đến tiền bạc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **financial**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The finacial advisor gave good recommendations"
+> ✅ **Correction:** "The financial advisor gave good recommendations"
+> 🧠 **Why:** Correct spelling is 'financial' with 'n' before 'c'
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **financial**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[non-financial]] (phi tài chính)
+> - [[personal]] (cá nhân, không thuộc về kinh doanh)
+> 🧱 **Contrast:** Financial relates to money systems, while non-financial/personal refers to non-monetary aspects

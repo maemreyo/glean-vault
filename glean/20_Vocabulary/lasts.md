@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/general/functional-words #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [last, lasted, lasting]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /lɑːsts/
+> **Part of Speech:** verb
+> **CEFR Level:** A2
+> **Register:** neutral
+> **Etymology:** From Old English "læstan" meaning "to continue, endure"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To continue for a period of time
+>
+> **Context Meaning:** To remain in existence or continue for a specified duration; to endure or survive over time
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** kéo dài
+> - **Contextual:** tồn tại, bền, duy trì, kéo dài trong
+>
 > **Nuances:**
-> - ...
+> - Often used to describe duration of time
+> - Can refer to physical durability or endurance of situations
+> - Third person singular form with 's' (he/she/it lasts)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Persistent, Enduring, Reliable
+> **Memory Hook:** Last = cuối cùng + s = sự tiếp tục cho đến cuối cùng
+> **📖 Etymology Story:** From Old English "læstan" meaning "to follow, continue". The word evolved from the idea of "following through" to the end. When something "lasts", it continues its journey through time without stopping, persisting until its natural conclusion.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[lasting]] /ˈlɑːstɪŋ/
+> - **Verb:** [[last]] /lɑːst/
+> - **Adj:** [[lasting]] /ˈlɑːstɪŋ/
+> - **Adv:** [[lastly]] /ˈlɑːstli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[continue]] /kənˈtɪnjuː/ : keep going without interruption
+> - [[endure]] /ɪnˈdjʊə(r)/ : last despite difficulties
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[end]] /end/ : come to a conclusion
+> - [[cease]] /siːs/ : stop happening
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. lasts for hours
+> 2. lasts long
+> 3. lasts forever
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The battery of this phone lasts for two days with normal use.
+> - **Translation:** Pin của điện thoại này kéo dài hai ngày với sử dụng bình thường.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Their marriage lasted twenty years before they divorced.
+> - **Translation:** Hôn nhân của họ đã kéo dài hai mươi năm trước khi ly hôn.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Tense confusion**
+> - ❌ **Mistake:** "The meeting is last for three hours." (for present continuous)
+> - ✅ **Correction:** "The meeting lasts for three hours." (present simple for scheduled events)
+> - **Why:** For scheduled events or regular occurrences, use present simple ("lasts"), not present continuous ("is lasting").
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The summer season lasts from June to September."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,126 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **lasts** (*/lɑːsts/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To continue for a period of time; to remain in existence or endure
+> 🇻🇳 **Vietnamese:** Kéo dài trong một khoảng thời gian; tiếp tục tồn tại hoặc bền bỉ
+> 🗣️ **IPA:** */lɑːsts/*
+> 🧠 **Mental Model:** Giống như một đường thẳng kéo dài từ điểm A đến điểm B - không bị ngắt quãng, liên tục cho đến hết thời gian dự định
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To continue to exist or be effective for a particular period of time"
+**Vietnamese:** Tiếp tục tồn tại hoặc có hiệu lực trong một khoảng thời gian cụ thể
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**lasts** (*/lɑːsts/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **lasts** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** A typical workday lasts eight hours, including a one-hour lunch break.
+> 🇻🇳 **Translation:** Một ngày làm việc điển hình kéo dài tám tiếng, bao gồm một giờ nghỉ trưa.
+> 🔍 **Analysis:** "Lasts" ở đây là present simple, dùng để mô tả sự kiện có lịch trình cố định, diễn ra thường xuyên - không phải đang diễn ra tại thời điểm nói
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **lasts**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Time expressions:** lasts for hours/days/weeks (kéo dài hàng giờ/ngày/tuần)
+> 2. **Duration quality:** lasts long/short/forever (kéo dài lâu/ngắn/mãi mãi)
+> 3. **Experience descriptors:** lasts a lifetime/seems like forever (kéo dài một đời/dường như mãi mãi)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **lasts**:
+"The movie continues for three hours."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The epic film lasts three hours, including an extended director's cut scene."
+> 💡 **Why it works:** "Lasts" là động từ mạnh hơn "continues", thể hiện sự tồn tại tự nhiên và có kế hoạch, phù hợp hơn khi mô tả duration của sự kiện
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **lasts** instead of **[[continues]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **lasts:** Nhấn mạnh sự tồn tại trong một khoảng thời gian xác định, thường dùng cho thời lượng
+> **[[continues]]:** Nhấn mạnh sự không ngắt quãng, tiếp tục từ điểm đang diễn ra, không nhất thiết có thời gian kết thúc
+> 🧱 **The Barrier:** Lasts tập trung vào duration (khoảng thời gian tồn tại), trong khi continues tập trung vào continuity (sự tiếp diễn không gián đoạn)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend asks how long the concert will be. You know it's scheduled for 3 hours. Answer!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The concert lasts three hours, but there might be an encore performance."
+> 👨‍🎨 **Director's Note:** "Lasts" thể hiện sự chắc chắn về thời lượng dự kiến, phù hợp với sự kiện có lịch trình cố định như concert
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `læstan` to the meaning of **lasts**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Læstan trong tiếng Old English nghĩa là "tiếp tục, bền bỉ, đi theo đến cuối cùng". Khi một cái gì đó "lasts", nó đang tiếp tục hành trình của nó qua thời gian mà không dừng lại, bền bỉ cho đến khi kết thúc một cách tự nhiên
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **lasts**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `læstan` (to continue, endure - tiếp tục, bền bỉ)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[last]] (kéo dài, tồn tại)
+> - *(verb)* [[lasts]] (kéo dài - ở ngôi thứ 3 số ít)
+> - *(adj)* [[lasting]] (lâu dài, bền vững)
+> - *(adv)* [[lastingly]] (một cách lâu dài)
+> - *(noun)* [[longevity]] (sự sống lâu, tuổi thọ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */lɑːsts/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**lasts**
+> 📖 **Meaning:** To continue for a period of time
+> 🇻🇳 **Vietnamese:** Kéo dài trong một khoảng thời gian
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **lasts**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The festival is lasting for five days this year."
+> ✅ **Correction:** "The festival lasts for five days this year."
+> 🧠 **Why:** Với các sự kiện có lịch trình cố định hoặc thời lượng đã biết, dùng present simple ("lasts"), không dùng present continuous ("is lasting")
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **lasts**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[ends]] (kết thúc)
+> - [[ceases]] (chấm dứt)
+> - [[terminates]] (chấm dứt đột ngột)
+> - [[expires]] (hết hạn)
+> 🧱 **Contrast:** Lasts thể hiện sự tiếp diễn tồn tại, trong khi các antonym thể hiện sự kết thúc, chấm dứt sự tồn tại đó
 
 ---

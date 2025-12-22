@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [aggravate, aggravated, aggravating, aggravation, competitor, competition]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈæɡrəveɪtɪd kəmˈpetɪtəz/
+> **Part of Speech:** adjective + noun (compound phrase)
+> **CEFR Level:** C1
+> **Register:** formal/business
+> **Etymology:** "Aggravated" from Latin "aggravare" (to make heavier), "Competitor" from Latin "competere" (to seek together)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Competitors who have been made more serious or intense
+>
+> **Context Meaning:** Rival businesses or individuals who have become more hostile, challenging, or problematic in their competitive behavior
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** đối thủ cạnh tranh gay gắt
+> - **Contextual:** đối thủ gây khó khăn, đối thủ cạnh tranh căng thẳng
+>
 > **Nuances:**
-> - ...
+> - Implies previously manageable competition has become worse
+> - Suggests more aggressive or problematic competitive tactics
+> - Often used in business contexts to describe escalating market competition
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Hostile, Challenging, Escalating
+> **Memory Hook:** Aggravated (làm cho tồi tệ hơn) + Competitors (đối thủ) = đối thủ làm cho tình hình tồi tệ hơn
+> **📖 Etymology Story:** "Aggravated" comes from Latin "aggravare" meaning "to make heavier" - like adding weight to a burden. "Competitor" comes from "competere" meaning "to seek together" - originally rivals seeking the same prize. When competitors become "aggravated", they add more "weight" or difficulty to your business challenges.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[aggravate]] /ˈæɡrəveɪt/
+> - **Noun:** [[aggravation]] /ˌæɡrəˈveɪʃn/
+> - **Noun:** [[competitor]] /kəmˈpetɪtə(r)/
+> - **Noun:** [[competition]] /ˌkɒmpəˈtɪʃn/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[aggressive rivals]] /əˈɡresɪv ˈraɪvəlz/ : hostile opponents
+> - [[intensified opposition]] /ɪnˈtensɪfaɪd ˌɒpəˈzɪʃn/ : stronger resistance
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[cooperative partners]] /kəʊˈɒpərətɪv ˈpɑːtnəz/ : helpful collaborators
+> - [[benign competitors]] /bɪˈnaɪn kəmˈpetɪtəz/ : harmless rivals
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. increasingly aggravated competitors
+> 2. market with aggravated competitors
+> 3. strategies against aggravated competitors
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The company struggled to maintain market share against increasingly aggravated competitors using aggressive pricing.
+> - **Translation:** Công ty đã gặp khó khăn trong việc duy trì thị phần trước các đối thủ cạnh tranh ngày càng gay gắt sử dụng định giá agressive.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** New regulations have created aggravated competitors who challenge our business model.
+> - **Translation:** Các quy định mới đã tạo ra các đối thủ cạnh tranh gay gắt thách thức mô hình kinh doanh của chúng ta.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Word order confusion**
+> - ❌ **Mistake:** "The market has competitors aggravated."
+> - ✅ **Correction:** "The market has aggravated competitors."
+> - **Why:** "Aggravated" is an adjective modifying "competitors", so it comes before the noun in English.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "We need new strategies to deal with aggravated competitors in the market."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +81,128 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **aggravated competitors** (*/ˈæɡrəveɪtɪd kəmˈpetɪtəz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Rival businesses or individuals who have become more hostile, challenging, or problematic in their competitive behavior
+> 🇻🇳 **Vietnamese:** Các doanh nghiệp đối thủ hoặc cá nhân đã trở nên thù địch hơn, thách thức hơn hoặc gây vấn đề hơn trong hành vi cạnh tranh
+> 🗣️ **IPA:** */ˈæɡrəveɪtɪd kəmˈpetɪtəz/*
+> 🧠 **Mental Model:** Giống như các đối thủ bình thường đột nhiên trở nên hung hăng hơn, dùng các chiến thuật gây khó khăn để giành chiến thắng - không chỉ cạnh tranh lành mạnh mà còn tạo ra rắc rối
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Business rivals who have intensified their competitive tactics to become more challenging or problematic"
+**Vietnamese:** Đối thủ kinh doanh đã tăng cường chiến thuật cạnh tranh của họ để trở nên thách thức hơn hoặc gây vấn đề hơn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**aggravated competitors** (*/ˈæɡrəveɪtɪd kəmˈpetɪtəz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **aggravated competitors** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The startup faced aggravated competitors who copied their innovative features and sold them at lower prices.
+> 🇻🇳 **Translation:** Công ty khởi nghiệp phải đối mặt với các đối thủ cạnh tranh gay gắt đã sao chép các tính năng sáng tạo của họ và bán với giá thấp hơn.
+> 🔍 **Analysis:** Cụm từ này không chỉ mô tả đối thủ cạnh tranh mà còn nhấn mạnh tính chất gây khó khăn, thù địch của họ - không phải cạnh tranh lành mạnh mà là các chiến thuật bất chính
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **aggravated competitors**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Market context:** facing/dealing with aggravated competitors (đối mặt/xử lý đối thủ gay gắt)
+> 2. **Business impact:** aggravated competitors threatening/challenging our position (đối thủ gay gắt đe dọa/thách thức vị trí của chúng ta)
+> 3. **Response strategies:** strategies against/tactics to handle aggravated competitors (chiến lược chống lại/cách xử lý đối thủ gay gắt)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **aggravated competitors**:
+"The other companies are making things difficult for us."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Our market position is threatened by aggravated competitors employing predatory pricing strategies."
+> 💡 **Why it works:** "Aggravated competitors" thể hiện tình hình cạnh tranh cụ thể, gay gắt, chuyên nghiệp hơn là "making things difficult" chung chung
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
-?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+🆚 **Nuance:** Why use **aggravated competitors** instead of **[[strong rivals]]**?
+>
+> **aggravated competitors:** Nhấn mạnh đối thủ đã trở nên tồi tệ hơn, khó chịu hơn, thường dùng chiến thuật gây khó khăn
+> **[[strong rivals]]:** Chỉ đơn thuần đối thủ mạnh mẽ, có khả năng cạnh tranh tốt, không nhất thiết gây khó khăn
+> 🧱 **The Barrier:** Aggravated competitors có tính problematic (gây vấn đề) và escalating (leo thang), trong khi strong rivals chỉ thể hiện capability (khả năng)
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're presenting quarterly results to the board. Explain why profits are down!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our declining profits reflect the challenge of operating against increasingly aggravated competitors in the market."
+> 👨‍🎨 **Director's Note:** "Aggravated competitors" thể hiện ngôn ngữ kinh doanh chuyên nghiệp, giải thích tình hình một cách khách quan và có cấu trúc
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
-?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+🌱 **Origins:** Link the roots `aggravare` and `competere` to the meaning of **aggravated competitors**.
+>
+> 📜 **Story:** Aggravare trong tiếng Latin nghĩa là "làm cho nặng hơn" - giống như thêm gánh nặng. Competere nghĩa là "tìm kiếm cùng nhau" - ban đầu là các đối thủ tìm kiếm cùng một giải thưởng. Khi competitors trở nên "aggravated", họ thêm "trọng lượng" hoặc khó khăn cho thách thức kinh doanh của bạn
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
-?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+Analyze the root/family of **aggravated competitors**.
+>
+> 🌱 **Roots:**
+> - Latin `aggravare` (to make heavier - làm cho nặng hơn)
+> - Latin `competere` (to seek together - tìm kiếm cùng nhau)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[aggravate]] (làm cho tồi tệ hơn)
+> - *(adj)* [[aggravated]] (bị làm cho tồi tệ hơn, gay gắt)
+> - *(noun)* [[competitor]] (đối thủ cạnh tranh)
+> - *(noun)* [[aggravation]] (sự làm cho tồi tệ hơn)
+> - *(noun)* [[competition]] (sự cạnh tranh)
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈæɡrəveɪtɪd kəmˈpetɪtəz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**aggravated competitors**
+> 📖 **Meaning:** More hostile or problematic business rivals
+> 🇻🇳 **Vietnamese:** Các đối thủ kinh doanh thù địch hoặc gây vấn đề hơn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
-?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+🕵️ **Fix the Error:** Common mistake with **aggravated competitors**?
+>
+> ❌ **Mistake:** "The business is affected by competitors aggravated."
+> ✅ **Correction:** "The business is affected by aggravated competitors."
+> 🧠 **Why:** "Aggravated" là tính từ mô tả "competitors", phải đứng trước danh từ trong tiếng Anh, không thể đứng sau
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
-?
+↔️ **Flip:** What is the opposite of **aggravated competitors**?
+>
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[cooperative partners]] (đối tác hợp tác)
+> - [[benign competitors]] (đối thủ cạnh tranh lành tính)
+> - [[supportive rivals]] (đối thủ ủng hộ)
+> - [[constructive competition]] (sự cạnh tranh mang tính xây dựng)
+> 🧱 **Contrast:** Aggravated competitors thể hiện sự thù địch, gây khó khăn, trong khi các antonym thể hiện sự hợp tác, hỗ trợ hoặc cạnh tranh lành mạnh
 
 ---

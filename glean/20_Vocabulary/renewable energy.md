@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [renewable, renewable energy sources, sustainable energy]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /rɪˈnjuːəbl ˈenədʒi/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From 'renew' (to make new again) + '-able' + 'energy' (from Greek 'energeia' meaning "activity, operation")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Energy from sources that are naturally replenished on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat.
+>
+> **Context Meaning:** In environmental and energy policy contexts, refers to sustainable energy sources that don't deplete over time and have minimal environmental impact compared to fossil fuels.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** năng lượng tái tạo
+> - **Contextual:** nguồn năng lượng sạch, năng lượng bền vững
+>
 > **Nuances:**
-> - ...
+> - Contrasts with non-renewable sources like coal, oil, natural gas
+> - Key concept in climate change discussions
+> - Often associated with technological innovation
+> - Can be intermittent (solar, wind) or constant (geothermal)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Sustainable, innovative, environmentally conscious
+> **Memory Hook:** Think "renew + able energy" - energy that can be renewed
+> **📖 Etymology Story:** From Latin 're-' (again) + 'novare' (to make new) + Greek 'energeia' (activity, operation). Energy sources that can make themselves new again through natural cycles, unlike finite fossil fuels.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[renewable]] /rɪˈnjuːəbl/
+> - **Noun:** [[energy]] /ˈenədʒi/
+> - **Verb:** [[renew]] /rɪˈnjuː/
+> - **Noun:** [[renewal]] /rɪˈnjuːəl/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[sustainable energy]] /səˈsteɪnəbl ˈenədʒi/ : emphasizes long-term viability
+> - [[clean energy]] /kliːn ˈenədʒi/ : focuses on environmental benefits
+> - [[green energy]] /griːn ˈenədʒi/ : popular term emphasizing eco-friendliness
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[fossil fuels]]
+> - [[non-renewable energy]]
+> - [[conventional energy]] (traditional sources)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. renewable energy sources
+> 2. invest in renewable energy
+> 3. transition to renewable energy
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Many countries are investing heavily in renewable energy to combat climate change.
+> - **Translation:** Nhiều quốc gia đang đầu tư mạnh vào năng lượng tái tạo để chống lại biến đổi khí hậu.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Solar panels are a popular form of renewable energy for homeowners.
+> - **Translation:** Pin mặt trời là một dạng năng lượng tái tạo phổ biến cho các chủ nhà.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Singular/Plural**
+> - ❌ **Mistake:** "renewable energies" (when referring to the general concept)
+> - ✅ **Correction:** "renewable energy" (as a general concept) or "renewable energy sources"
+> - **Why:** 'Energy' as an uncountable noun when referring to the general concept
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The future of our planet depends on our transition to renewable energy sources."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +84,119 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **renewable energy** (*/rɪˈnjuːəbl ˈenədʒi/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Energy from natural sources that replenish themselves and don't run out
+> 🇻🇳 **Vietnamese:** Năng lượng tái tạo, nguồn năng lượng tự nhiên không bao giờ cạn kiệt
+> 🗣️ **IPA:** */rɪˈnjuːəbl ˈenədʒi/*
+> 🧠 **Mental Model:** Các nguồn năng lượng như mặt trời, gió, nước - tự nhiên làm mới liên tục, khác với nhiên liệu hóa thạch
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Energy from natural sources that continuously replenish themselves"
+**Vietnamese:** Năng lượng từ các nguồn tự nhiên tự bổ sung liên tục
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**renewable energy** (*/rɪˈnjuːəbl ˈenədʒi/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **renewable energy** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The government announced new policies to promote renewable energy development.
+> 🇻🇳 **Translation:** Chính phủ đã công bố các chính sách mới để thúc đẩy phát triển năng lượng tái tạo.
+> 🔍 **Analysis:** 'Renewable energy' hoàn hảo trong bối cảnh chính sách môi trường và phát triển bền vững
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **renewable energy**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Investment:** invest in/develop renewable energy (đầu tư/phát triển năng lượng tái tạo)
+> 2. **Types:** renewable energy sources/systems (nguồn/hệ thống năng lượng tái tạo)
+> 3. **Transition:** shift/transition to renewable energy (chuyển đổi sang năng lượng tái tạo)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **renewable energy**:
+"We should use clean power."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Our commitment to renewable energy includes solar, wind, and hydroelectric power generation."
+> 💡 **Why it works:** 'Renewable energy' là thuật ngữ chính xác, chuyên nghiệp hơn 'clean power'
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **renewable energy** instead of **[[clean energy]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **renewable energy:** Được dùng khi muốn nhấn mạnh khả năng tự làm mới của nguồn năng lượng
+> **[[clean energy]]:** Nhấn mạnh tính chất sạch, không gây ô nhiễm nhưng không nhất thiết phải tái tạo được
+> 🧱 **The Barrier:** Renewable focuses on infinite supply, clean focuses on environmental impact
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're presenting an environmental initiative. You need to explain the energy solution. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our campus will run entirely on renewable energy by 2030, cutting carbon emissions by 80%!"
+> 👨‍🎨 **Director's Note:** 'Renewable energy' thể hiện cam kết môi trường có thể đo lường được
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<renew>` and `<energy>` to the meaning of **renewable energy**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 're-' (lại) + 'novare' (làm mới) + Greek 'energeia' (hoạt động) - năng lượng hoạt động từ các nguồn có thể tự làm mới
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **renewable**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `renew` ("to make new again")
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[renew]]: làm mới, tái tạo
+> - *(noun)* [[renewal]]: sự làm mới, sự tái tạo
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */rɪˈnjuːəbl ˈenədʒi/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**renewable energy**
+> 📖 **Meaning:** Energy from sources that naturally replenish
+> 🇻🇳 **Vietnamese:** Năng lượng tái tạo
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **renewable energy**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "Renewable energies are important for the future"
+> ✅ **Correction:** "Renewable energy is important for the future"
+> 🧠 **Why:** 'Energy' is uncountable when referring to the general concept
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **renewable energy**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[fossil fuels]] (nhiên liệu hóa thạch)
+> - [[non-renewable energy]] (năng lượng không tái tạo)
+> 🧱 **Contrast:** Renewable energy replenishes naturally, while fossil fuels are finite and deplete over time

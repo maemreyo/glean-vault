@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general #flashcards/cam-20-listening-test-02
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
+#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming #flashcards/cam-20-listening-test-02
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [produce, producer, production, farm produce]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /prəˈdjuːs/ (verb), /ˈprɒdjuːs/ (noun)
+> **Part of Speech:** verb/noun
+> **CEFR Level:** B1
+> **Register:** neutral/formal
+> **Etymology:** From Latin 'producere' meaning "to bring forth, lead out," from 'pro-' (forward) + 'ducere' (to lead)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning (verb):** To create, make, or grow something; to cause something to happen or exist.
+> **Root Meaning (noun):** Things that have been grown or made, especially farm products such as crops, fruits, and vegetables.
+>
+> **Context Meaning:** In agricultural contexts, 'produce' (noun) refers to fresh fruits and vegetables. As a verb, it refers to the act of growing or manufacturing goods.
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Verb:** sản xuất, tạo ra, trồng trọt
+> - **Noun:** nông sản, sản phẩm (đặc biệt là rau củ quả tươi)
+>
 > **Nuances:**
-> - ...
+> - Noun form is usually uncountable when referring to farm products
+> - Can refer to any manufactured goods or creative works
+> - Stress pattern changes between verb and noun forms
+> - Common phrase "fresh produce" emphasizes farm-fresh items
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Productive, creative, agricultural
+> **Memory Hook:** Think "pro + duce" = to lead forward production
+> **📖 Etymology Story:** From Latin 'producere' - to lead or bring forward. Originally meant literally to bring something out from where it was hidden (like crops from the earth), evolved to mean creating anything through effort.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[produce]] /prəˈdjuːs/
+> - **Noun:** [[produce]] /ˈprɒdjuːs/
+> - **Noun:** [[producer]] /prəˈdjuːsər/
+> - **Noun:** [[production]] /prəˈdʌkʃən/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - **verb:** [[create]] /kriˈeɪt/, [[make]] /meɪk/, [[grow]] /grəʊ/
+> - **noun:** [[farm products]] /fɑːm ˈprɒdʌkts/, [[harvest]] /ˈhɑːvɪst/, [[crops]] /krɒps/
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - **verb:** [[consume]], [[destroy]], [[reduce]]
+> - **noun:** [[waste]], [[by-products]]
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. fresh produce
+> 2. produce goods
+> 3. mass production
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The local market sells fresh produce from nearby farms.
+> - **Translation:** Chợ địa phương bán nông sản tươi từ các nông trại gần đó.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** This factory produces electronic components for smartphones.
+> - **Translation:** Nhà máy này sản xuất linh kiện điện tử cho điện thoại thông minh.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Stress pattern confusion**
+> - ❌ **Mistake:** Using verb stress /prəˈdjuːs/ for the noun
+> - ✅ **Correction:** Use /ˈprɒdjuːs/ for noun 'produce' (farm products)
+> - **Why:** The noun has stress on first syllable, verb on second
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The farmers' cooperative was established to help local producers sell their fresh produce directly to consumers."
+> **Source:** [[Cam 20 Listening Test 02]]
 
 ---
 
@@ -161,121 +83,119 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **produce** (*/prəˈdjuːs/ verb, */ˈprɒdjuːs/ noun) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To create or grow something (verb); fresh farm products, especially fruits and vegetables (noun)
+> 🇻🇳 **Vietnamese:** Sản xuất, trồng trọt (động từ); nông sản, rau củ quả (danh từ)
+> 🗣️ **IPA:** */prəˈdjuːs/ (v), */ˈprɒdjuːs/ (n)*
+> 🧠 **Mental Model:** Tạo ra hoặc trồng ra cái gì đó - động từ; nông sản tươi từ nông trại - danh từ
 
 ---
 
 ### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To create or manufacture something; fresh farm products"
+**Vietnamese:** Sản xuất, làm ra; nông sản tươi
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**produce** (*/prəˈdjuːs/ v, */ˈprɒdjuːs/ n*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **produce** in a sentence (noun form).
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The organic section of the supermarket offers a wide variety of fresh produce.
+> 🇻🇳 **Translation:** Phần thực phẩm hữu cơ của siêu thị cung cấp đa dạng các loại nông sản tươi.
+> 🔍 **Analysis:** 'Produce' (danh từ) hoàn hảo để chỉ các sản phẩm nông nghiệp tươi, đặc biệt là rau củ quả
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **produce** (noun).
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Freshness:** fresh produce (nông sản tươi)
+> 2. **Origin:** local/imported produce (nông sản địa phương/nhập khẩu)
+> 3. **Quality:** organic/seasonal produce (nông sản hữu cơ/theo mùa)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **produce**:
+"The store sells fruits and vegetables."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The grocery store specializes in organic produce sourced from local farms."
+> 💡 **Why it works:** 'Produce' là thuật ngữ chính xác trong ngành bán lẻ để chỉ rau củ quả
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **produce** (noun) instead of **[[products]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **produce:** Được dùng riêng để chỉ các sản phẩm nông nghiệp tươi, đặc biệt là rau củ quả chưa qua chế biến
+> **[[products]]:** Thuật ngữ chung hơn, có thể chỉ bất kỳ sản phẩm nào đã được làm ra
+> 🧱 **The Barrier:** Produce is specifically fresh farm goods, products is general manufactured items
 
 ---
 
 ### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're at a farmer's market. You want to describe what you're buying. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I love buying fresh produce directly from the farmers who grow it!"
+> 👨‍🎨 **Director's Note:** 'Fresh produce' thể hiện sự tươi mới và nguồn gốc trực tiếp từ nông trại
 
 ---
 
 ### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<producere>` to the meaning of **produce**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin 'producere' (dẫn ra phía trước) - ban đầu nghĩa là lấy cây trồng ra khỏi đất, sau phát triển thành tạo ra bất cứ thứ gì
 
 ---
 
 ### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **produce**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `producere` ("to bring forth, lead out")
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[producer]]: người sản xuất
+> - *(noun)* [[production]]: sự sản xuất
 
 ---
 
 ### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈprɒdjuːs/* (noun), */prəˈdjuːs/* (verb)
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**produce**
+> 📖 **Meaning:** Fresh farm products (noun); to create or grow (verb)
+> 🇻🇳 **Vietnamese:** Nông sản (n); sản xuất (v)
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** Common mistake with **{{WORD}}**?
+🕵️ **Fix the Error:** Common mistake with **produce**?
 ?
-> ❌ **Mistake:** <Common Error>
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ❌ **Mistake:** "The supermarket sells many produces"
+> ✅ **Correction:** "The supermarket sells much produce" or "The supermarket sells many types of produce"
+> 🧠 **Why:** 'Produce' (n) is uncountable when referring to farm products in general
 
 ---
 
 ### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **produce** (verb)?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[consume]] (tiêu thụ)
+> - [[destroy]] (phá hủy)
+> 🧱 **Contrast:** Produce creates or grows things, while consume uses them up and destroy breaks them down
