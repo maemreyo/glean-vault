@@ -52,13 +52,24 @@ Once satisfied with the dry run, apply the changes.
 python3 glean/99_Tools/scripts/auto_link_vocab.py --file "glean/10_Sources/Articles/New Article.md" --no-dry-run
 ```
 
-### 3. Process an entire folder
+### 3. Process an entire folder (Standard)
 Useful for batch processing a new set of imported articles.
 ```bash
 python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/10_Sources/Articles" --no-dry-run
 ```
 
-### 4. Listing Backups
+### 4. Process Folder + Auto-Tag Vocabulary (Efficient)
+This command will **Link** your articles AND **Auto-Tag** your vocabulary files (using the 5-Phase System) in one go.
+
+```bash
+python3 glean/99_Tools/scripts/auto_link_vocab.py \
+  --folder "glean/10_Sources/Articles" \
+  --add-ref-tags \
+  --no-dry-run
+```
+*Note: This assumes your vocabulary is in the default `glean/20_Vocabulary` folder.*
+
+### 5. Listing Backups
 If you suspect a mistake was made, check the backup history.
 ```bash
 python3 glean/99_Tools/scripts/auto_link_vocab.py --list-backups

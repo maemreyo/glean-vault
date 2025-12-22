@@ -12,7 +12,7 @@ US President Donald Trump initially gave himself until December 16 to comply wit
 
 "[[20_Vocabulary/However|But]] [[20_Vocabulary/suppose|if]] the moment arrives, we're prepared to move forward... we've raised the [[20_Vocabulary/major city|capital]] to buy it - we'll see."
 
-The [[20_Vocabulary/widespread|popular]] [[20_Vocabulary/brief|short]]-[[20_Vocabulary/curve|form]] video app was due to be banned or sold in the US in January in accordance with a [[20_Vocabulary/legislation|law]] passed by [[20_Vocabulary/conference|Congress]] in 2024.
+The [[20_Vocabulary/widespread|popular]] [[20_Vocabulary/brief|short]]-[[20_Vocabulary/curve|form]] video app was due to be banned or sold in the US in January in accordance with a [[20_Vocabulary/legislation|law]] passed by Congress in 2024.
 
 Lawmakers said at the time ByteDance's links to the Chinese government threatened national security, [[20_Vocabulary/In addition|and]] expressed fears Beijing could force the [[20_Vocabulary/organisation|company]] to hand [[20_Vocabulary/beyond|over]] [[20_Vocabulary/statistic|data]] on US users.
 
@@ -26,7 +26,7 @@ Trump [[20_Vocabulary/In addition|and]] members of his administration [have prev
 
 The president has [[20_Vocabulary/What's more|also]] said "sophisticated" US investors [[20_Vocabulary/will|would]] be [[20_Vocabulary/involve|involved]] in acquiring [the app](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html), including two of his allies: Oracle chairman Larry Ellison [[20_Vocabulary/In addition|and]] Dell Technologies' Michael Dell.
 
-Members of the Trump administration had indicated the deal [[20_Vocabulary/will|would]] be formalised in a [[20_Vocabulary/conference|meeting]] between Trump [[20_Vocabulary/In addition|and]] Xi in October - [[20_Vocabulary/However|however]] it concluded [[20_Vocabulary/absence|without]] an agreement [[20_Vocabulary/existence|being]] reached.
+Members of the Trump administration had indicated the deal [[20_Vocabulary/will|would]] be formalised in a meeting between Trump [[20_Vocabulary/In addition|and]] Xi in October - [[20_Vocabulary/However|however]] it concluded [[20_Vocabulary/absence|without]] an agreement [[20_Vocabulary/existence|being]] reached.
 
 Neither [[20_Vocabulary/social media|TikTok]]'s Chinese owner ByteDance nor Beijing have since announced approval of a sale, [[20_Vocabulary/However|despite]] Trump's [[20_Vocabulary/claim|claims]].
 
@@ -38,7 +38,7 @@ He is [[20_Vocabulary/belong to|part of]] a group of investors including Reddit 
 
 "My hope [[20_Vocabulary/will|would]] be that whatever happens, that it is shut down or sold, [[20_Vocabulary/In addition|and]] lands in the hands of people that comply with the [[20_Vocabulary/legislation|law]]," he said.
 
-He said he wants to operate [[20_Vocabulary/social media|TikTok]] [[20_Vocabulary/absence|without]] any of its Chinese technology, including its [[20_Vocabulary/effective|powerful]] recommendation algorithm,[[20_Vocabulary/In addition|and]] that his [[20_Vocabulary/scheme|Project]] Liberty has [[20_Vocabulary/built up|developed]] other technology that could be [[20_Vocabulary/second-hand|used]] instead.
+He said he wants to operate [[20_Vocabulary/social media|TikTok]] [[20_Vocabulary/absence|without]] any of its Chinese technology, including its [[20_Vocabulary/effective|powerful]] recommendation algorithm,[[20_Vocabulary/In addition|and]] that his Project Liberty has [[20_Vocabulary/built up|developed]] other technology that could be [[20_Vocabulary/second-hand|used]] instead.
 
 ![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
 

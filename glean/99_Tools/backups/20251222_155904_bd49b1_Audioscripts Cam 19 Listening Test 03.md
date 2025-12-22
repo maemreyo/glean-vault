@@ -1,263 +1,5 @@
 ### [[20_Vocabulary/parcel|PART]] 1
 
-**Questions 1–6**
-
-*Complete the notes [[20_Vocabulary/Beneath|below]].*
-
-*Write **ONE WORD [[20_Vocabulary/In addition|AND]]/OR A NUMBER** for each answer.*
-
-## [[20_Vocabulary/resident|Local]] food shops
-
-**Where to go**
-
-● Kite Place – near the **1** ……………….
-
-**Fish market**
-
-● cross the **2** ………………. [[20_Vocabulary/In addition|and]] [[20_Vocabulary/curve|turn]] right
-
-● best to go before **3** ………………. pm, earlier than closing time
-
-**Organic shop**
-
-● called **4** '……………….'
-
-● [[20_Vocabulary/Beneath|below]] a restaurant in the large, grey building
-
-● [[20_Vocabulary/appearance|look]] for the large **5** ………………. [[20_Vocabulary/beyond|outside]]
-
-**Supermarket**
-
-● take a **6** ………………. minibus, number 289
-
-**Questions 7–10**
-
-*Complete the table [[20_Vocabulary/Beneath|below]].*
-
-*Write **ONE WORD [[20_Vocabulary/sole|ONLY]]** for each answer.*
-
-<table><tbody><tr><td colspan="3" width="560"><h2>Shopping</h2></td></tr><tr><td width="109"></td><td width="152"><span><strong>To buy</strong></span></td><td width="299"><span><strong>Other ideas</strong></span></td></tr><tr><td width="109"><span><strong>Fish market</strong></span></td><td width="152"><span>a dozen prawns</span></td><td width="299"><span>a handful of <strong>7</strong> ……………… ([[20_Vocabulary/genre|type]] of [[20_Vocabulary/seaweed|seaweed]])</span></td></tr><tr><td width="109"><span><strong>Organic shop</strong></span></td><td width="152"><span>beans [[20_Vocabulary/In addition|and]] a <strong>8</strong> ……………… for dessert</span></td><td width="299"><span>spices [[20_Vocabulary/In addition|and]] <strong>9</strong> ………………</span></td></tr><tr><td width="109"><span><strong>[[20_Vocabulary/bakery|Bakery]]</strong></span></td><td width="152"><span>a brown loaf</span></td><td width="299"><span>a <strong>10</strong> ……………… tart</span></td></tr></tbody></table>
-
-### [[20_Vocabulary/parcel|PART]] 2
-
-**Questions 11–16**
-
-What information is given [[20_Vocabulary/approximately|about]] each of the following festival [[20_Vocabulary/workshop|workshops]]?
-
-*Choose **SIX** answers from the [[20_Vocabulary/packaging|box]] [[20_Vocabulary/In addition|and]] write the correct letter, **A–H**, next to Questions 11–16.*
-
-**Information**
-
-**A** [[20_Vocabulary/involve|involves]] painting [[20_Vocabulary/In addition|and]] [[20_Vocabulary/illustration|drawing]]
-
-**B** [[20_Vocabulary/will|will]] be led by [[20_Vocabulary/a prize-winning author|a prize-winning author]]
-
-**C** is [[20_Vocabulary/meant|aimed]] at children with [[20_Vocabulary/a disability|a disability]]
-
-**D** [[20_Vocabulary/involve|involves]] [[20_Vocabulary/a drama activity|a drama activity]]
-
-**E** focuses on new [[20_Vocabulary/relationship|relationships]]
-
-**F** is [[20_Vocabulary/meant|aimed]] at a specific age group
-
-**G** explores an unhappy feeling
-
-**H** raises [[20_Vocabulary/awareness|awareness]] of a [[20_Vocabulary/particularly|particular]] culture
-
-**Festival [[20_Vocabulary/workshop|workshops]]**
-
-**11** Superheroes ……………
-
-**12** Just do it ……………
-
-**13** [[20_Vocabulary/depend on|Count on]] me ……………
-
-**14** Speak up ……………
-
-**15** Jump for joy ……………
-
-**16** Sticks [[20_Vocabulary/In addition|and]] stones ……………
-
-**Questions 17 [[20_Vocabulary/In addition|and]] 18**
-
-*Choose **TWO** letters, **A–E**.*
-
-Which **TWO** reasons does the speaker give for recommending *[[20_Vocabulary/existence|Alive]] [[20_Vocabulary/In addition|and]] Kicking*?
-
-**A** It [[20_Vocabulary/will|will]] [[20_Vocabulary/appeal|appeal]] to both boys [[20_Vocabulary/In addition|and]] girls.
-
-**B** The author is [[20_Vocabulary/well known|well known]].
-
-**C** It has colourful illustrations.
-
-**D** It is [[20_Vocabulary/hilarious|funny]].
-
-**E** It deals with an [[20_Vocabulary/meaningful|important]] topic.
-
-**Questions 19 [[20_Vocabulary/In addition|and]] 20**
-
-*Choose **TWO** letters, **A–E**.*
-
-Which **TWO** [[20_Vocabulary/piece|pieces]] of advice does the speaker give to parents [[20_Vocabulary/approximately|about]] reading?
-
-**A** [[20_Vocabulary/motivate|Encourage]] children to write down new vocabulary.
-
-**B** Allow children to listen to audio books.
-
-**C** [[20_Vocabulary/obtain|Get]] recommendations from librarians.
-
-**D** Give children a choice [[20_Vocabulary/approximately|about]] what they read.
-
-**E** [[20_Vocabulary/sole|Only]] read aloud to children until they can read [[20_Vocabulary/independently|independently]].
-
-### [[20_Vocabulary/parcel|PART]] 3
-
-**Questions 21-25**
-
-[[20_Vocabulary/Bookshelves|Bookshelves]]
-
-*Choose the correct letter, **A**, **B** or **C**.*
-
-**Science experiment for Year 12 students**
-
-**21** How does Clare [[20_Vocabulary/Feeing|feel]] [[20_Vocabulary/approximately|about]] the students in her Year 12 science class?
-
-**A** [[20_Vocabulary/upset|worried]] that they are not [[20_Vocabulary/making progress|making progress]]
-
-**B** challenged by their poor behaviour in class
-
-**C** [[20_Vocabulary/frustration|frustrated]] at their [[20_Vocabulary/absence|lack]] of interest in the subject
-
-**22** How does Jake react to Clare's [[20_Vocabulary/implication|suggestion]] [[20_Vocabulary/approximately|about]] [[20_Vocabulary/an experiment|an experiment]] based on children's [[20_Vocabulary/diet|diet]]?
-
-**A** He is concerned that the results might not be [[20_Vocabulary/meaningful|meaningful]].
-
-**B** He [[20_Vocabulary/Feeing|feels]] some of the [[20_Vocabulary/statistic|data]] might be difficult to [[20_Vocabulary/obtain|obtain]].
-
-**C** He [[20_Vocabulary/suspect|suspects]] that the conclusions might be [[20_Vocabulary/upset|upsetting]].
-
-**23** What problem do they agree may be [[20_Vocabulary/involve|involved]] in [[20_Vocabulary/an experiment|an experiment]] [[20_Vocabulary/involve|involving]] animals?
-
-**A** Any results may not apply to humans.
-
-**B** It may be [[20_Vocabulary/complicate|complicated]] to [[20_Vocabulary/obtain|get]] permission.
-
-**C** Students may not be happy [[20_Vocabulary/approximately|about]] animal [[20_Vocabulary/an experiment|experiments]].
-
-**24** What question do they decide the experiment should [[20_Vocabulary/dealing|address]]?
-
-**A** Are mice [[20_Vocabulary/capable|capable of]] [[20_Vocabulary/over-protective|controlling]] their [[20_Vocabulary/food intake|food intake]]?
-
-**B** Does an [[20_Vocabulary/build up|increase]] in sugar [[20_Vocabulary/resulted in|lead to]] [[20_Vocabulary/mental health|health]] problems?
-
-**C** How much do supplements of [[20_Vocabulary/otherwise|different]] kinds [[20_Vocabulary/affect|affect]] [[20_Vocabulary/mental health|health]]?
-
-**25** Clare might [[20_Vocabulary/What's more|also]] [[20_Vocabulary/bear in mind|consider]] doing another experiment [[20_Vocabulary/involve|involving]]
-
-**A** other types of food [[20_Vocabulary/supplement|supplement]].
-
-**B** [[20_Vocabulary/otherwise|different]] [[20_Vocabulary/genetic strains of mice|genetic strains of mice]].
-
-**C** varying amounts of exercise.
-
-**Questions 26-30**
-
-Complete the flowchart [[20_Vocabulary/Beneath|below]].
-
-*Choose **FIVE** answers from the [[20_Vocabulary/packaging|box]] [[20_Vocabulary/In addition|and]] write the correct letter, **A–H**, next to Questions 26-30.*
-
-**A** size
-
-**B** escape
-
-**C** age
-
-**D** water
-
-**E** [[20_Vocabulary/cereal|cereal]]
-
-**F** calculations
-
-**G** changes
-
-**H** colour
-
-| Choose mice which are all the [[20_Vocabulary/identical\|same]] **26** …………………. |
-| --- |
-
-**↓**
-
-| Divide the mice into two groups, each with a [[20_Vocabulary/otherwise\|different]] **27** …………………. |
-| --- |
-
-**↓**
-
-| Put each group in [[20_Vocabulary/a separate cage\|a separate cage]].  Feed group A [[20_Vocabulary/commercial\|commercial]] mouse food.  Feed group B the [[20_Vocabulary/identical\|same]], [[20_Vocabulary/However\|but]] [[20_Vocabulary/What's more\|also]] sugar contained in **28** …………………. |
-| --- |
-
-**↓**
-
-| Take measurements using an electronic scale.  Place them in [[20_Vocabulary/a weighing chamber\|a weighing chamber]] to [[20_Vocabulary/prevent\|prevent]] **29** …………………. |
-| --- |
-
-**↓**
-
-| Do all necessary **30** …………………. |
-| --- |
-
-### [[20_Vocabulary/parcel|PART]] 4
-
-**Questions 31–40**
-
-*Complete the notes [[20_Vocabulary/Beneath|below]].*
-
-*Write **ONE WORD [[20_Vocabulary/sole|ONLY]]** for each answer.*
-
-## [[20_Vocabulary/microplastic|Microplastics]]
-
-**Where [[20_Vocabulary/microplastic|microplastics]] [[20_Vocabulary/forthcoming event|come]] from**
-
-● [[20_Vocabulary/fibres|fibres]] from some **31** …………………. during washing
-
-● the breakdown of large [[20_Vocabulary/piece|pieces]] of plastic
-
-● [[20_Vocabulary/refuse|waste]] from [[20_Vocabulary/industrial function|industry]]
-
-● the action of vehicle tyres on roads
-
-**Effects of [[20_Vocabulary/microplastic|microplastics]]**
-
-● They [[20_Vocabulary/resulted in|cause]] injuries to the **32** …………………. of wildlife [[20_Vocabulary/In addition|and]] [[20_Vocabulary/affect|affect]] their digestive systems.
-
-● They [[20_Vocabulary/entrance|enter]] the food chain, e.g., in bottled [[20_Vocabulary/In addition|and]] tap water, **33** …………………. [[20_Vocabulary/In addition|and]] seafood.
-
-● They may not [[20_Vocabulary/affect|affect]] human [[20_Vocabulary/mental health|health]], [[20_Vocabulary/However|but]] they are already banned in skin cleaning [[20_Vocabulary/goods|products]] [[20_Vocabulary/In addition|and]] **34** …………………. in some countries.
-
-● [[20_Vocabulary/microplastic|Microplastics]] [[20_Vocabulary/entrance|enter]] the [[20_Vocabulary/soil|soil]] through the air, rain [[20_Vocabulary/In addition|and]] **35** …………………..
-
-**[[20_Vocabulary/microplastic|Microplastics]] in the [[20_Vocabulary/soil|soil]] – a [[20_Vocabulary/an experiment|study]] by Anglia Ruskin University**
-
-● [[20_Vocabulary/earthworm|Earthworms]] are [[20_Vocabulary/meaningful|important]] because they add **36** …………………. to the [[20_Vocabulary/soil|soil]].
-
-● The [[20_Vocabulary/an experiment|study]] [[20_Vocabulary/meant|aimed]] to find whether [[20_Vocabulary/microplastic|microplastics]] in [[20_Vocabulary/earthworm|earthworms]] [[20_Vocabulary/affect|affect]] the **37** …………………. of plants.
-
-● The [[20_Vocabulary/an experiment|study]] [[20_Vocabulary/establish|found]] that [[20_Vocabulary/microplastic|microplastics]] caused:
-
-– **38** …………………. [[20_Vocabulary/casualty|loss]] in [[20_Vocabulary/earthworm|earthworms]]
-
-– fewer seeds to [[20_Vocabulary/germinate|germinate]]
-
-– a [[20_Vocabulary/soar|rise]] in the level of **39** …………………. in the [[20_Vocabulary/soil|soil]].
-
-The [[20_Vocabulary/an experiment|study]] concluded:
-
-– [[20_Vocabulary/soil|soil]] should be seen as an [[20_Vocabulary/meaningful|important]] natural process.
-
-– changes to [[20_Vocabulary/soil|soil]] [[20_Vocabulary/harm|damage]] both ecosystems [[20_Vocabulary/In addition|and]] **40** …………………..
-
----
-### [[20_Vocabulary/parcel|PART]] 1
-
 LEON: Hi Shannon – how are you settling into your new flat?
 
 SHANNON: [[20_Vocabulary/actually|Really]] well, thanks.
@@ -284,7 +26,7 @@ SHANNON: OK – is it open all day?
 
 LEON: It doesn't close until four, [[20_Vocabulary/However|but]] I'd [[20_Vocabulary/propose|recommend]] going earlier than that – it does [[20_Vocabulary/run out of|run out of]] some things.
 
-SHANNON: Oh, I don't want that to [[20_Vocabulary/take place|happen]].
+SHANNON: Oh, I don't want that to happen.
 
 LEON: As long as you [[20_Vocabulary/obtain|get]] there by 3.30. you should be fine. It's [[20_Vocabulary/sole|only]] 11 now, [[20_Vocabulary/thereby|so]] plenty of time. ***Q3***
 
@@ -332,7 +74,7 @@ SHANNON: Oh, I might [[20_Vocabulary/attempt|try]] that- how do you [[20_Vocabul
 
 LEON: It's S-A-M-P-H-l-R-E.
 
-SHANNON: Great – it's always good to [[20_Vocabulary/attempt|try]] something [[20_Vocabulary/otherwise|different]].
+SHANNON: Great – it's always good to [[20_Vocabulary/attempt|try]] something different.
 
 LEON: Yeah.
 
@@ -406,7 +148,7 @@ CLARE: Well, I don't have discipline problems as such. It's just that they don't
 
 JAKE: Right.
 
-CLARE: [[20_Vocabulary/In addition|And]] as [[20_Vocabulary/belong to|part of]] my teaching practice, I have to [[20_Vocabulary/scheme|design]] [[20_Vocabulary/an experiment|an experiment]] for them to do. I was wondering [[20_Vocabulary/approximately|about]] something on the children's diets… you know, asking them to record what they eat [[20_Vocabulary/In addition|and]] [[20_Vocabulary/perhaps|maybe]] linking it to their state of [[20_Vocabulary/mental health|health]].
+CLARE: [[20_Vocabulary/In addition|And]] as [[20_Vocabulary/belong to|part of]] my teaching practice, I have to design [[20_Vocabulary/an experiment|an experiment]] for them to do. I was wondering [[20_Vocabulary/approximately|about]] something on the children's diets… you know, asking them to record what they eat [[20_Vocabulary/In addition|and]] [[20_Vocabulary/perhaps|maybe]] linking it to their state of [[20_Vocabulary/mental health|health]].
 
 JAKE: Mmm. Let's [[20_Vocabulary/suppose|think]]. [[20_Vocabulary/thereby|So]] your [[20_Vocabulary/methodology|methodology]] [[20_Vocabulary/will|would]] [[20_Vocabulary/involve|involve]] the children recording what they eat. OK, [[20_Vocabulary/However|but]] you'd [[20_Vocabulary/What's more|also]] need to have access to the children's [[20_Vocabulary/clinical form|medical records]] [[20_Vocabulary/In addition|and]] I don't [[20_Vocabulary/suppose|think]] people [[20_Vocabulary/will|would]] be happy [[20_Vocabulary/approximately|about]] that; [[20_Vocabulary/confidentiality|confidentiality]] [[20_Vocabulary/will|would]] be an issue. [[20_Vocabulary/suppose|If]] you could [[20_Vocabulary/obtain|get]] the right [[20_Vocabulary/statistic|data]], the conclusions might be [[20_Vocabulary/meaningful|significant]], [[20_Vocabulary/However|but]] I [[20_Vocabulary/suspect|suspect]] it's just not [[20_Vocabulary/will|going to]] be easy. ***Q22***
 
@@ -434,7 +176,7 @@ CLARE: Well, something to do with [[20_Vocabulary/nutrition|nutrition]]. [[20_Vo
 
 JAKE: Mmm. That might be rather broad. [[20_Vocabulary/perhaps|Maybe]] just [[20_Vocabulary/appearance|look]] at the effects of one [[20_Vocabulary/supplement|supplement]], [[20_Vocabulary/compared to|like]] sugar, on the [[20_Vocabulary/mental health|health]] of the mice?
 
-CLARE: [[20_Vocabulary/actually|In fact]], [[20_Vocabulary/perhaps|maybe]] the [[20_Vocabulary/narrow the topic down|focus]] could be on whether mice can [[20_Vocabulary/dominates political|control]] [[20_Vocabulary/themselves|their own]] [[20_Vocabulary/diet|diet]]. ***Q24***
+CLARE: [[20_Vocabulary/actually|In fact]], [[20_Vocabulary/perhaps|maybe]] the focus could be on whether mice can [[20_Vocabulary/dominates political|control]] [[20_Vocabulary/themselves|their own]] [[20_Vocabulary/diet|diet]]. ***Q24***
 
 JAKE: [[20_Vocabulary/thereby|So]], what happens when they have access to more sugar, that they don't [[20_Vocabulary/actually|really]] need?
 
@@ -442,7 +184,7 @@ CLARE: [[20_Vocabulary/accurately|Exactly]]. Do they eat it or do they decide to
 
 JAKE: Great. Then later on, you could do a [[20_Vocabulary/pursue|follow]]-up experiment adding another variable. [[20_Vocabulary/compared to|Like]], you could give some of the mice the [[20_Vocabulary/opportunity|chance]] to be more active, running on a wheel or something, [[20_Vocabulary/In addition|and]] the others just sit [[20_Vocabulary/approximately|around]] [[20_Vocabulary/In addition|and]] don't do much. ***Q25***
 
-CLARE: Or I could [[20_Vocabulary/repeat|repeat]] the experiment [[20_Vocabulary/However|but]] [[20_Vocabulary/affect|change]] the [[20_Vocabulary/genre|type]] of food I provided... or use mice with a [[20_Vocabulary/otherwise|different]] genetic structure. [[20_Vocabulary/However|But]] I [[20_Vocabulary/suppose|think]] your idea [[20_Vocabulary/will|would]] be more interesting, I might [[20_Vocabulary/reflect on|think about]] that some more.
+CLARE: Or I could [[20_Vocabulary/repeat|repeat]] the experiment [[20_Vocabulary/However|but]] [[20_Vocabulary/affect|change]] the [[20_Vocabulary/genre|type]] of food I provided... or use mice with a different genetic structure. [[20_Vocabulary/However|But]] I [[20_Vocabulary/suppose|think]] your idea [[20_Vocabulary/will|would]] be more interesting, I might [[20_Vocabulary/reflect on|think about]] that some more.
 
 ———————————————
 
@@ -486,9 +228,9 @@ In today's [[20_Vocabulary/lecture|lecture]], I'm [[20_Vocabulary/will|going to]
 
 [[20_Vocabulary/microplastic|Microplastics]] are [[20_Vocabulary/tiny|tiny]] [[20_Vocabulary/piece|pieces]] of plastic smaller than five millimetres in size. Recently there's been a greater [[20_Vocabulary/awareness|awareness]] that there are large quantities of plastic [[20_Vocabulary/refuse|waste]] – big [[20_Vocabulary/In addition|and]] [[20_Vocabulary/tiny|small]] – in the [[20_Vocabulary/background|environment]]. The amount of plastic [[20_Vocabulary/refuse|waste]] in the oceans has received [[20_Vocabulary/widespread|widespread]] [[20_Vocabulary/attention|attention]], [[20_Vocabulary/However|but]] far less is known [[20_Vocabulary/approximately|about]] the effects of [[20_Vocabulary/microplastic|microplastics]] in freshwater [[20_Vocabulary/In addition|and]] [[20_Vocabulary/particularly|particularly]] in [[20_Vocabulary/soil|soil]].
 
-[[20_Vocabulary/microplastic|Microplastics]] can [[20_Vocabulary/entrance|enter]] the [[20_Vocabulary/background|environment]] via a number of [[20_Vocabulary/otherwise|different]] sources. Threads [[20_Vocabulary/In addition|and]] microfibres [[20_Vocabulary/detach|detach]] from [[20_Vocabulary/synthetic clothing|synthetic clothing]] ***Q31*** every time they're put in a washing machine, [[20_Vocabulary/In addition|and]] these find their way into the water system. Other sources [[20_Vocabulary/comprise|include]] big [[20_Vocabulary/piece|pieces]] of plastic [[20_Vocabulary/refuse|waste]] that are already in the [[20_Vocabulary/background|environment]], [[20_Vocabulary/In addition|and]] these [[20_Vocabulary/degrade|break down]] into [[20_Vocabulary/microscopic|microscopic]] [[20_Vocabulary/particles|particles]] [[20_Vocabulary/beyond|over]] a period of time. On a larger scale, factory [[20_Vocabulary/refuse|waste]] is another route, as are tyres which [[20_Vocabulary/worn|wear]] down as cars, [[20_Vocabulary/lorries|lorries]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/thereby|so]] on travel along road surfaces.
+[[20_Vocabulary/microplastic|Microplastics]] can [[20_Vocabulary/entrance|enter]] the [[20_Vocabulary/background|environment]] via a number of different sources. Threads [[20_Vocabulary/In addition|and]] microfibres [[20_Vocabulary/detach|detach]] from [[20_Vocabulary/synthetic clothing|synthetic clothing]] ***Q31*** every time they're put in a washing machine, [[20_Vocabulary/In addition|and]] these find their way into the water system. Other sources [[20_Vocabulary/comprise|include]] big [[20_Vocabulary/piece|pieces]] of plastic [[20_Vocabulary/refuse|waste]] that are already in the [[20_Vocabulary/background|environment]], [[20_Vocabulary/In addition|and]] these [[20_Vocabulary/degrade|break down]] into [[20_Vocabulary/microscopic|microscopic]] [[20_Vocabulary/particles|particles]] [[20_Vocabulary/beyond|over]] a period of time. On a larger scale, factory [[20_Vocabulary/refuse|waste]] is another route, as are tyres which [[20_Vocabulary/worn|wear]] down as cars, [[20_Vocabulary/lorries|lorries]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/thereby|so]] on travel along road surfaces.
 
-We already understand some of the [[20_Vocabulary/impact|impacts]] of [[20_Vocabulary/microplastic|microplastics]] from studies [[20_Vocabulary/involve|involving]] fish [[20_Vocabulary/In addition|and]] other animals. There is [[20_Vocabulary/solid evidence|evidence]] that [[20_Vocabulary/microplastic|microplastics]] [[20_Vocabulary/harm|harm]] [[20_Vocabulary/tiny|small]] creatures in a [[20_Vocabulary/variety|variety]] of ways, [[20_Vocabulary/For instance|such as]] by damaging their mouths, ***Q32***, or by [[20_Vocabulary/impair|impairing]] their [[20_Vocabulary/capable|ability]] to feed, [[20_Vocabulary/For instance|for example]] when [[20_Vocabulary/microplastic|microplastics]] [[20_Vocabulary/obtain|get]] lodged in their [[20_Vocabulary/digestive system|digestive system]].
+We already understand some of the [[20_Vocabulary/impact|impacts]] of [[20_Vocabulary/microplastic|microplastics]] from studies [[20_Vocabulary/involve|involving]] fish [[20_Vocabulary/In addition|and]] other animals. There is [[20_Vocabulary/solid evidence|evidence]] that [[20_Vocabulary/microplastic|microplastics]] [[20_Vocabulary/harm|harm]] [[20_Vocabulary/tiny|small]] creatures in a [[20_Vocabulary/variety|variety]] of ways, such as by damaging their mouths, ***Q32***, or by [[20_Vocabulary/impair|impairing]] their [[20_Vocabulary/capable|ability]] to feed, for example when [[20_Vocabulary/microplastic|microplastics]] [[20_Vocabulary/obtain|get]] lodged in their [[20_Vocabulary/digestive system|digestive system]].
 
 [[20_Vocabulary/surprise|Surprisingly]] [[20_Vocabulary/perhaps|perhaps]], it is likely that humans [[20_Vocabulary/consumption|consume]] [[20_Vocabulary/microplastic|microplastics]], as these have been detected in [[20_Vocabulary/a wide range of|a wide range of]] food [[20_Vocabulary/In addition|and]] drink [[20_Vocabulary/goods|products]], including bottled water, [[20_Vocabulary/as well as|as well as]] in water that comes direct from the tap. [[20_Vocabulary/What's more|What's more]], salt [[20_Vocabulary/In addition|and]] many kinds of seafood have [[20_Vocabulary/What's more|also]] been [[20_Vocabulary/establish|found]] to [[20_Vocabulary/comprise|contain]] [[20_Vocabulary/microplastic|microplastics]]. ***Q33***
 
@@ -496,9 +238,9 @@ We already understand some of the [[20_Vocabulary/impact|impacts]] of [[20_Vocab
 
 It is very difficult to [[20_Vocabulary/accurately|accurately]] [[20_Vocabulary/guess|estimate]] the total amount of [[20_Vocabulary/microplastic|microplastic]] [[20_Vocabulary/particles|particles]] in the [[20_Vocabulary/soil|soil]] as they can be hard to detect, [[20_Vocabulary/However|but]] we do know they are carried in the air [[20_Vocabulary/In addition|and]] [[20_Vocabulary/deposit|deposited]] in the [[20_Vocabulary/soil|soil]] by rain. [[20_Vocabulary/What's more|What's more]], many of the fertilisers [[20_Vocabulary/second-hand|used]] by both farmers [[20_Vocabulary/In addition|and]] gardeners [[20_Vocabulary/comprise|contain]] [[20_Vocabulary/microplastic|microplastics]]. ***Q35***
 
-A team from the Anglia Ruskin University in Cambridge has carried out a [[20_Vocabulary/an experiment|study]] of the effects of [[20_Vocabulary/microplastic|microplastics]] on [[20_Vocabulary/the digestive tracts of earthworms|the digestive tracts of earthworms]]. These worms, which live in topsoil, are an [[20_Vocabulary/essential|essential]] [[20_Vocabulary/segment|component]] of our agricultural system. By feeding on [[20_Vocabulary/soil|soil]], they [[20_Vocabulary/a mixture|mix]] [[20_Vocabulary/nutrition|nutrients]] into it, [[20_Vocabulary/thereby|thereby]] making it more [[20_Vocabulary/fertility|fertile]]. ***Q36***
+A team from the Anglia Ruskin University in Cambridge has carried out a [[20_Vocabulary/an experiment|study]] of the effects of [[20_Vocabulary/microplastic|microplastics]] on [[20_Vocabulary/the digestive tracts of earthworms|the digestive tracts of earthworms]]. These worms, which live in topsoil, are an [[20_Vocabulary/essential|essential]] [[20_Vocabulary/segment|component]] of our agricultural system. By feeding on [[20_Vocabulary/soil|soil]], they [[20_Vocabulary/a mixture|mix]] [[20_Vocabulary/nutrition|nutrients]] into it, [[20_Vocabulary/thereby|thereby]] making it more fertile. ***Q36***
 
-The researchers [[20_Vocabulary/gel|set]] out to discover whether the introduction of [[20_Vocabulary/microplastic|microplastics]] into the [[20_Vocabulary/soil|soil]] – [[20_Vocabulary/In addition|and]] [[20_Vocabulary/the subsequent ingestion|the subsequent ingestion]] of these by [[20_Vocabulary/earthworm|earthworms]] – [[20_Vocabulary/will|would]] [[20_Vocabulary/impact|impact]] [[20_Vocabulary/soil|soil]] [[20_Vocabulary/attribute|quality]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/eventually|ultimately]] [[20_Vocabulary/inhibit|inhibit]] plant growth. ***Q37***. The [[20_Vocabulary/brief|short]] answer was, yes, it did. After [[20_Vocabulary/placement|placing]] three [[20_Vocabulary/otherwise|different]] types of [[20_Vocabulary/microplastic|microplastic]] [[20_Vocabulary/particles|particles]] into the [[20_Vocabulary/soil|soil]], they planted [[20_Vocabulary/perennial rye grass|perennial rye grass]]. The [[20_Vocabulary/particles|particles]] of [[20_Vocabulary/microplastic|microplastic]], which included [[20_Vocabulary/biodegradable|biodegradable]] PLA [[20_Vocabulary/In addition|and]] [[20_Vocabulary/conventional high-density polyethylene|conventional high-density polyethylene]], or [[20_Vocabulary/conventional high-density polyethylene|HDPE]], were then ingested by the [[20_Vocabulary/earthworm|earthworms]] in the [[20_Vocabulary/soil|soil]]. The [[20_Vocabulary/impact|result]] was that the worms [[20_Vocabulary/disorientation|lost]] weight rapidly. ***Q38***. [[20_Vocabulary/What's more|What's more]], a lower percentage than [[20_Vocabulary/average|normal]] of the [[20_Vocabulary/perennial rye grass|rye grass]] seeds [[20_Vocabulary/germinate|germinated]], [[20_Vocabulary/In addition|and]] the researchers concluded that this was a direct [[20_Vocabulary/impact|result]] of the [[20_Vocabulary/earthworm|earthworms]] [[20_Vocabulary/existence|being]] unable to fulfil their [[20_Vocabulary/average|normal]] role in making [[20_Vocabulary/soil|soil]] more [[20_Vocabulary/fertility|fertile]]. The team [[20_Vocabulary/What's more|also]] discovered that there was an [[20_Vocabulary/build up|increase]] in the amount of [[20_Vocabulary/acid|acid]] [[20_Vocabulary/establish|found]] in the [[20_Vocabulary/soil|soil]], ***Q39***, [[20_Vocabulary/In addition|and]] this was [[20_Vocabulary/attribute|attributed]] [[20_Vocabulary/mainly|mainly]] to the [[20_Vocabulary/microplastic|microplastic]] [[20_Vocabulary/particles|particles]] from conventional [[20_Vocabulary/conventional high-density polyethylene|HDPE]] plastic.
+The researchers [[20_Vocabulary/gel|set]] out to discover whether the introduction of [[20_Vocabulary/microplastic|microplastics]] into the [[20_Vocabulary/soil|soil]] – [[20_Vocabulary/In addition|and]] [[20_Vocabulary/the subsequent ingestion|the subsequent ingestion]] of these by [[20_Vocabulary/earthworm|earthworms]] – [[20_Vocabulary/will|would]] [[20_Vocabulary/impact|impact]] [[20_Vocabulary/soil|soil]] [[20_Vocabulary/attribute|quality]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/eventually|ultimately]] [[20_Vocabulary/inhibit|inhibit]] plant growth. ***Q37***. The [[20_Vocabulary/brief|short]] answer was, yes, it did. After [[20_Vocabulary/placement|placing]] three different types of [[20_Vocabulary/microplastic|microplastic]] [[20_Vocabulary/particles|particles]] into the [[20_Vocabulary/soil|soil]], they planted [[20_Vocabulary/perennial rye grass|perennial rye grass]]. The [[20_Vocabulary/particles|particles]] of [[20_Vocabulary/microplastic|microplastic]], which included [[20_Vocabulary/biodegradable|biodegradable]] PLA [[20_Vocabulary/In addition|and]] [[20_Vocabulary/conventional high-density polyethylene|conventional high-density polyethylene]], or [[20_Vocabulary/conventional high-density polyethylene|HDPE]], were then ingested by the [[20_Vocabulary/earthworm|earthworms]] in the [[20_Vocabulary/soil|soil]]. The [[20_Vocabulary/impact|result]] was that the worms [[20_Vocabulary/disorientation|lost]] weight rapidly. ***Q38***. [[20_Vocabulary/What's more|What's more]], a lower percentage than [[20_Vocabulary/average|normal]] of the [[20_Vocabulary/perennial rye grass|rye grass]] seeds [[20_Vocabulary/germinate|germinated]], [[20_Vocabulary/In addition|and]] the researchers concluded that this was a direct [[20_Vocabulary/impact|result]] of the [[20_Vocabulary/earthworm|earthworms]] [[20_Vocabulary/existence|being]] unable to fulfil their [[20_Vocabulary/average|normal]] role in making [[20_Vocabulary/soil|soil]] more fertile. The team [[20_Vocabulary/What's more|also]] discovered that there was an [[20_Vocabulary/build up|increase]] in the amount of [[20_Vocabulary/acid|acid]] [[20_Vocabulary/establish|found]] in the [[20_Vocabulary/soil|soil]], ***Q39***, [[20_Vocabulary/In addition|and]] this was [[20_Vocabulary/attribute|attributed]] [[20_Vocabulary/mainly|mainly]] to the [[20_Vocabulary/microplastic|microplastic]] [[20_Vocabulary/particles|particles]] from conventional [[20_Vocabulary/conventional high-density polyethylene|HDPE]] plastic.
 
 The conclusions of the [[20_Vocabulary/an experiment|study]] make for very interesting reading – I've included the reference in the notes to give you at the end of this session. To summarise, the authors [[20_Vocabulary/propose|proposed]] the idea that we need to regard [[20_Vocabulary/soil|soil]] as we [[20_Vocabulary/will|would]] regard any other process in [[20_Vocabulary/messy nature|nature]]. This means we should [[20_Vocabulary/admit|accept]] the [[20_Vocabulary/implication|implications]] of [[20_Vocabulary/soil|soil]] [[20_Vocabulary/existence|being]] [[20_Vocabulary/depend on|dependent on]] [[20_Vocabulary/decay|decaying]] [[20_Vocabulary/In addition|and]] dead matter constantly [[20_Vocabulary/existence|being]] passed through the bodies of [[20_Vocabulary/earthworm|earthworms]]. That is, when [[20_Vocabulary/soil|soil]] becomes [[20_Vocabulary/impoverish|impoverished]] by [[20_Vocabulary/the presence of microplastics|the presence of microplastics]], not [[20_Vocabulary/sole|only]] ecosystems [[20_Vocabulary/However|but]] [[20_Vocabulary/What's more|also]] the whole of [[20_Vocabulary/Institution|society]] are negatively [[20_Vocabulary/impact|impacted]]. ***Q40***
 

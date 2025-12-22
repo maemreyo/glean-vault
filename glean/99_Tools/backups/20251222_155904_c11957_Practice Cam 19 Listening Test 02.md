@@ -57,7 +57,7 @@ English Dictionary Apps
 
 **B** He wanted to work shorter hours.
 
-**C** He [[20_Vocabulary/establish|found]] his job in website [[20_Vocabulary/scheme|design]] [[20_Vocabulary/unsatisfying|unsatisfying]].
+**C** He [[20_Vocabulary/establish|found]] his job in website design [[20_Vocabulary/unsatisfying|unsatisfying]].
 
 **12** The Lifeboat [[20_Vocabulary/Institution|Institution]] in [[20_Vocabulary/Northsea|Northsea]] was built with money provided by
 
@@ -75,7 +75,7 @@ English Dictionary Apps
 
 **C** had [[20_Vocabulary/undergone|undergone]] [[20_Vocabulary/laser eye surgery|eye surgery]].
 
-**14** After arriving at the lifeboat station, they [[20_Vocabulary/objective|aim]] to [[20_Vocabulary/launch in favour|launch]] the boat within
+**14** After arriving at the lifeboat station, they [[20_Vocabulary/objective|aim]] to launch the boat within
 
 **A** five minutes.
 
@@ -213,7 +213,7 @@ What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary
 
 *Choose the correct letter, **A**, **B** or **C**.*
 
-**29** Why did the [[20_Vocabulary/scheme|project]] to make 'new' [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
+**29** Why did the project to make 'new' [[20_Vocabulary/footwear|shoes]] [[20_Vocabulary/beyond|out of]] [[20_Vocabulary/elderly|old]] [[20_Vocabulary/footwear|shoes]] fail?
 
 **A** People believed the 'new' pairs of [[20_Vocabulary/footwear|shoes]] were [[20_Vocabulary/unhygienic|unhygienic]].
 
