@@ -215,3 +215,4 @@ Analyze the root/family of **concert**.
 > - [[recording session]] (buổi thu âm)
 > - [[private performance]] (biểu diễn tư nhân)
 > 🧱 **Contrast:** Concert là biểu diễn công chúng, rehearsal là tập luyện riêng
+<!--SR:!2025-12-25,3,254-->

@@ -216,5 +216,6 @@ Analyze the root/family of **lecture**.
 > - [[discussion]] (Two-way exchange vs one-way delivery)
 > - [[workshop]] (Hands-on participation vs passive listening)
 > 🧱 **Contrast:** Lecture = knowledge poured from expert to audience; Discussion = knowledge built together by all participants
+<!--SR:!2025-12-25,3,254-->
 
 ---

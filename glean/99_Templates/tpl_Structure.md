@@ -173,6 +173,17 @@ ref:
 
 ---
 
+### Card 11: Mistake Hunter (Error Correction)
+
+🕵️ **Fix the Error:**
+> ❌ **Mistake:** <Common Error with {{TERM}}>
+
+?
+> ✅ **Correction:** <Correct Usage>
+> 🧠 **Why:** <Explanation of rule/logic>
+
+---
+
 ### Card 6: Comparison (Nuance) [Phase 3: Differentiation]
 
 🆚 **Comparison:** How is **{{STRUCTURE_NAME}}** different from [[<related_structure>]]?
