@@ -100,6 +100,7 @@ What does **carbon footprint** (*/ˈkɑːbən ˈfʊtprɪnt/*) mean?
 → **Target Word?**
 ?
 **carbon footprint** (*/ˈkɑːbən ˈfʊtprɪnt/*)
+<!--SR:!2025-12-27,4,276-->
 
 ---
 

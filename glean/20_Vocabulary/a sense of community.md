@@ -123,7 +123,7 @@ List 3 common collocations for **a sense of community**.
 > 1. **Creation:** foster/build/create a sense of community (nuôi dưỡng/xây dựng/tạo dựng tinh thần cộng đồng)
 > 2. **Strengthening:** strengthen community bonds (củng cố mối liên kết cộng đồng)
 > 3. **Loss:** lack of community spirit (thiếu tinh thần cộng đồng)
-<!--SR:!2025-12-23,1,232-->
+<!--SR:!2025-12-26,3,252-->
 
 ---
 
@@ -199,7 +199,7 @@ Analyze the root/family of **community**.
 ?
 > ✅ **Correction:** "The apartment building has a strong sense of community"
 > 🧠 **Why:** 'Sense' here is singular as it refers to one collective feeling
-<!--SR:!2025-12-23,1,231-->
+<!--SR:!2025-12-26,3,251-->
 
 ---
 
@@ -212,4 +212,4 @@ Analyze the root/family of **community**.
 > - [[social isolation]] (sự cô lập xã hội)
 > - [[alienation]] (sự xa lạ, lạc lõng)
 > 🧱 **Contrast:** Community emphasizes connection and belonging, while isolation describes separation and loneliness
-<!--SR:!2025-12-23,1,232-->
+<!--SR:!2025-12-25,2,232-->

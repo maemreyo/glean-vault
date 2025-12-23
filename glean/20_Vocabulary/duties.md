@@ -147,6 +147,7 @@ List 3 common collocations for **duties**.
 > **duties:** More formal, implies obligation và role-based responsibilities (nghĩa vụ)
 > **[[tasks]]:** More general, specific activities, can be optional (công việc, nhiệm vụ)
 > 🧱 **The Barrier:** Duties = moral/professional obligations, Tasks = specific activities to complete
+<!--SR:!2025-12-24,1,236-->
 
 ---
 
@@ -216,5 +217,6 @@ Analyze the root/family of **duties**.
 > - rights (quyền lợi)
 > - leisure (thời gian rảnh rỗi)
 > 🧱 **Contrast:** Duties là things you MUST do, privileges là things you GET to do
+<!--SR:!2025-12-26,3,256-->
 
 ---

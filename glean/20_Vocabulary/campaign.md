@@ -201,6 +201,7 @@ Analyze the root/family of **campaign**.
 ?
 > ✅ **Correction:** "The NGO runs/launches/conducts a campaign every year to help poor people."
 > 🧠 **Why:** "Run/launch/conduct" là những động từ collocate với "campaign", không phải "do". Campaign đòi hỏi sự tổ chức và có kế hoạch, không chỉ là làm đơn thuần
+<!--SR:!2025-12-24,1,236-->
 
 ---
 

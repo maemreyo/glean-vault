@@ -201,6 +201,7 @@ Analyze the root/family of **soar**.
 ?
 > ✅ **Correction:** "Soar" implies effortless, graceful movement
 > 🧠 **Why:** Soar specifically means easy, graceful rising, not difficult climbing
+<!--SR:!2025-12-24,1,234-->
 
 ---
 
@@ -214,4 +215,4 @@ Analyze the root/family of **soar**.
 > - [[dive]] (lao xuống)
 > - [[crash]] (rơi đập xuống)
 > 🧱 **Contrast:** Soar là bay lên nhẹ nhàng, plummet là rơi xuống nhanh chóng
-<!--SR:!2025-12-23,1,236-->
+<!--SR:!2025-12-25,2,236-->

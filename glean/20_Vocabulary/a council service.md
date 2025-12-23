@@ -88,7 +88,7 @@ What does **council service** (*/ˈkaʊn.səl ˈsɜː.vɪs/*) mean?
 > 🇻🇳 **Vietnamese:** Dịch vụ công cộng do chính quyền địa phương cung cấp
 > 🗣️ **IPA:** */ˈkaʊn.səl ˈsɜː.vɪs/*
 > 🧠 **Mental Model:** Local government "council" cung cấp "service" cho community - như waste collection, parks, libraries
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 

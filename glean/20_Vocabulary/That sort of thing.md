@@ -124,6 +124,7 @@ List 3 common collocations for **That sort of thing**.
 > 1. **Preference:** I don't like/enjoy that sort of thing (VN note: tôi không thích loại chuyện đó - thể hiện sở thích)
 > 2. **Handling:** deal with/handle that sort of thing (VN note: xử lý việc đó - hành động giải quyết)
 > 3. **Avoidance:** stay away from that sort of thing (VN note: tránh xa việc đó - hành động né tránh)
+<!--SR:!2025-12-27,4,275-->
 
 ---
 
@@ -146,6 +147,7 @@ List 3 common collocations for **That sort of thing**.
 > **That sort of thing:** Thân mật hơn, dùng trong văn nói, thể hiện sự quen thuộc với người nghe
 > **etc.:** Trang trọng hơn, thường dùng trong văn viết, mang tính học thuật
 > 🧱 **The Barrier:** That sort of thing là hội thoại, etc. là viết tắt trang trọng
+<!--SR:!2025-12-24,1,237-->
 
 ---
 

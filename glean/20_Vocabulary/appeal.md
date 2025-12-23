@@ -88,7 +88,7 @@ What does **appeal** (*/əˈpiːl/*) mean?
 > 🇻🇳 **Vietnamese:** Kêu gọi, kháng cáo, hấp dẫn, thu hút
 > 🗣️ **IPA:** */əˈpiːl/*
 > 🧠 **Mental Model:** Một từ hai mặt: vừa là "call for help" (kêu gọi sự giúp đỡ), vừa là "attract charm" (sức hấp dẫn). Như một người vừa có thể cầu xin, vừa có sức thu hút tự nhiên.
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 
@@ -189,7 +189,7 @@ Analyze the root/family of **appeal**.
 **appeal**
 > 📖 **Meaning:** To make a serious request; to be attractive
 > 🇻🇳 **Vietnamese:** Kêu gọi, kháng cáo, hấp dẫn
-<!--SR:!2025-12-23,1,228-->
+<!--SR:!2025-12-25,2,228-->
 
 ---
 
@@ -200,6 +200,7 @@ Analyze the root/family of **appeal**.
 ?
 > ✅ **Correction:** "The movie appeals to me a lot."
 > 🧠 **Why:** Khi appeal có nghĩa là "hấp dẫn", luôn cần preposition "to" sau đó: appeal to someone.
+<!--SR:!2025-12-24,1,228-->
 
 ---
 
@@ -212,5 +213,6 @@ Analyze the root/family of **appeal**.
 > - [[repel]] (đẩy đi, làm cho ghê tởm)
 > - [[disinterest]] (sự thiếu quan tâm)
 > 🧱 **Contrast:** Appeal thu hút như quyến rũ, repel đẩy đi như lực đẩy từ tính. Appeal tạo sự gần gũi, repel tạo sự xa cách.
+<!--SR:!2025-12-24,1,228-->
 
 ---

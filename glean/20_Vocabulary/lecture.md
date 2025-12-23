@@ -124,7 +124,7 @@ List 3 common collocations for **lecture**.
 > 1. **Action/Performance:** deliver a lecture (thực hiện bài giảng - diễn tả hành động)
 > 2. **Participation:** attend a lecture (tham dự bài giảng - góc độ người nghe)
 > 3. **Type/Format:** guest lecture (bài giảng mời - loại hình đặc biệt)
-<!--SR:!2025-12-23,1,232-->
+<!--SR:!2025-12-26,3,252-->
 
 ---
 

@@ -145,6 +145,7 @@ List 3 common collocations for **theft**.
 > **theft:** Taking property without permission và không có violence hoặc threat (trộm cắp)
 > **[[robbery]]:** Taking property bằng force hoặc threat (cướp giật)
 > 🧱 **The Barrier:** Theft = sneaky taking, Robbery = violent taking
+<!--SR:!2025-12-24,1,232-->
 
 ---
 
@@ -213,5 +214,6 @@ Analyze the root/family of **theft**.
 > - [[honesty]] (sự trung thực)
 > - [[restitution]] (sự bồi thường, trả lại)
 > 🧱 **Contrast:** Honesty là moral opposite, restitution là legal remedy cho theft
+<!--SR:!2025-12-26,3,252-->
 
 ---

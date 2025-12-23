@@ -201,6 +201,7 @@ Analyze the components of **Michelin-starred restaurant**.
 ?
 > ✅ **Correction:** Always use hyphen in compound adjectives before nouns
 > 🧠 **Why:** It's a compound adjective modifying "restaurant"
+<!--SR:!2025-12-27,4,274-->
 
 ---
 

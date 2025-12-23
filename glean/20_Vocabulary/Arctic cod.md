@@ -86,7 +86,7 @@ What does **Arctic cod** (*/ˈɑːktɪk kɒd/*) mean?
 > 🇻🇳 **Vietnamese:** Cá tuyết Bắc Cực
 > 🗣️ **IPA:** */ˈɑːktɪk kɒd/*
 > 🧠 **Mental Model:** Think of a fish wearing natural "antifreeze" in its blood to live in icy northern waters (VN: cá có chất chống đông tự nhiên để sống trong nước lạnh)
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 

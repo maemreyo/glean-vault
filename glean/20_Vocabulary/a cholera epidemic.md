@@ -88,7 +88,7 @@ What does **a cholera epidemic** (*/ə ˈkɒlərə ˌepɪˈdemɪk/*) mean?
 > 🇻🇳 **Vietnamese:** Một trận dịch tả bùng phát, ảnh hưởng đến nhiều người trong khu vực
 > 🗣️ **IPA:** */ə ˈkɒlərə ˌepɪˈdemɪk/*
 > 🧠 **Mental Model:** Hình ảnh một làn sóng bệnh tả lan rộng trong cộng đồng, lây nhiễm qua nguồn nước bẩn
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 
@@ -190,7 +190,7 @@ Analyze the root/family of **a cholera epidemic**.
 **a cholera epidemic**
 > 📖 **Meaning:** A widespread outbreak of cholera disease
 > 🇻🇳 **Vietnamese:** Một trận dịch tả bùng phát
-<!--SR:!2025-12-23,1,228-->
+<!--SR:!2025-12-24,1,208-->
 
 ---
 
@@ -201,6 +201,7 @@ Analyze the root/family of **a cholera epidemic**.
 ?
 > ✅ **Correction:** "cholera epidemic" refers to widespread outbreak affecting many
 > 🧠 **Why:** Epidemic implies population-level occurrence, not individual cases
+<!--SR:!2025-12-26,3,266-->
 
 ---
 
@@ -213,3 +214,4 @@ Analyze the root/family of **a cholera epidemic**.
 > - [[endemic cholera]] (limited to specific area, constant presence)
 > - [[sporadic cases]] (isolated occurrences)
 > 🧱 **Contrast:** Epidemic là dịch lan rộng đột ngột, endemic là bệnh thường xuyên trong khu vực giới hạn
+<!--SR:!2025-12-25,2,246-->

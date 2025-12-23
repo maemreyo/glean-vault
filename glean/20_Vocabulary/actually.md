@@ -124,6 +124,7 @@ List 3 common collocations for **actually**.
 > 1. **Correction:** Actually, I'm not... (Thật ra, tôi không phải là...) - dùng để đính chính thông tin sai
 > 2. **Surprise:** I actually quite like... (Tôi thật ra khá thích...) - thể hiện sự thích thú bất ngờ
 > 3. **Emphasis:** She actually meant it (Cô ấy thực sự nghiêm túc) - nhấn mạnh sự thật không phải đùa
+<!--SR:!2025-12-27,4,274-->
 
 ---
 
@@ -213,5 +214,6 @@ Analyze the root/family of **actually**.
 > - [[apparently]] (dường như, bề ngoài thì)
 > - [[supposedly]] (theo lời đồn, allegedly)
 > 🧱 **Contrast:** Actually = what IS true (đúng là vậy), apparently = what SEEMS true (dường như vậy). Actually = reality, apparently = appearance.
+<!--SR:!2025-12-24,1,236-->
 
 ---

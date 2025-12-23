@@ -88,7 +88,7 @@ What does **oat milk** (*/əʊt mɪlk/*) mean?
 > 🇻🇳 **Vietnamese:** Sữa yến mạch, sữa hạt yến mạch
 > 🗣️ **IPA:** */əʊt mɪlk/*
 > 🧠 **Mental Model:** "Grain milk" - sữa làm từ hạt thay vì động vật. Giống như biến yến mạch thành dạng lỏng sánh mịn như sữa, nhưng hoàn toàn từ thực vật.
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-25,2,230-->
 
 ---
 
@@ -190,7 +190,7 @@ Analyze the root/family of **oat milk**.
 **oat milk**
 > 📖 **Meaning:** A plant-based milk alternative made from oats
 > 🇻🇳 **Vietnamese:** Sữa yến mạch
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 
@@ -201,6 +201,7 @@ Analyze the root/family of **oat milk**.
 ?
 > ✅ **Correction:** "Can I have oat milk in my coffee?" hoặc "Can I have two cartons of oat milk?"
 > 🧠 **Why:** Oat milk là uncountable noun, không có số nhiều. Khi đếm, cần dùng đơn vị chứa: cartons, bottles, cups.
+<!--SR:!2025-12-27,4,270-->
 
 ---
 

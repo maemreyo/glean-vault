@@ -111,6 +111,7 @@ Use **unrealistic** in a sentence.
 > 📝 **Sentence:** The startup's promise to deliver a fully functional AI system in three months was completely unrealistic.
 > 🇻🇳 **Translation:** Lời hứa của công ty khởi nghiệp về việc cung cấp một hệ thống AI hoàn chỉnh trong ba tháng là hoàn toàn không thực tế.
 > 🔍 **Analysis:** "Unrealistic" ở đây đánh giá khách quan về tính khả thi của một mục tiêu, nhấn mạnh sự mâu thuẫn giữa mong muốn và thực tế
+<!--SR:!2025-12-27,4,274-->
 
 ---
 

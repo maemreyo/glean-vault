@@ -190,7 +190,7 @@ Analyze the root/family of **surge**.
 **a surge**
 > 📖 **Meaning:** Sudden powerful increase or movement
 > 🇻🇳 **Vietnamese:** Sự tăng vọt, làn sóng mạnh
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 

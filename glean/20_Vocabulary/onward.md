@@ -101,6 +101,7 @@ What does **onward** (*/ˈɒnwəd/*) mean?
 → **Target Word?**
 ?
 **onward** (*/ˈɒnwəd/*)
+<!--SR:!2025-12-27,4,272-->
 
 ---
 
@@ -198,6 +199,7 @@ Analyze the root/family of **onward**.
 ?
 > ✅ **Correction:** "The car moved onward"
 > 🧠 **Why:** 'Onward' is one word, not two separate words
+<!--SR:!2025-12-27,4,274-->
 
 ---
 
@@ -210,3 +212,4 @@ Analyze the root/family of **onward**.
 > - [[backward]] (lùi lại, về phía sau)
 > - [[reverse]] (ngược lại, đảo ngược)
 > 🧱 **Contrast:** Onward moves forward in time or space, while backward/reverse moves in the opposite direction
+<!--SR:!2025-12-26,3,254-->

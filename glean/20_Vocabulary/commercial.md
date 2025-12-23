@@ -145,6 +145,7 @@ List 3 common collocations for **commercial**.
 > **commercial:** Nhấn mạnh tính thương mại, mua bán, lợi nhuận, thường mô tả tính chất của hoạt động/địa điểm
 > **[[business]]:** Từ rộng hơn, có thể chỉ toàn bộ công ty, hoạt động, hoặc nghề nghiệp
 > 🧱 **The Barrier:** Commercial tập trung vào trade aspect (khía cạnh trao đổi thương mại), trong khi business bao gồm cả operational, organizational và trade aspects
+<!--SR:!2025-12-24,1,235-->
 
 ---
 

@@ -212,5 +212,6 @@ Analyze the root/family of **principle**.
 > - [[expediency]] (convenience over principle)
 > - [[exception]] (special case not following the rule)
 > 🧱 **Contrast:** Principle = consistent foundation that guides all decisions; Expediency = flexible approach that changes based on convenience
+<!--SR:!2025-12-24,1,235-->
 
 ---

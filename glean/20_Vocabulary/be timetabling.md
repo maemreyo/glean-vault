@@ -199,6 +199,7 @@ Analyze the root/family of **be timetabling**.
 ?
 > ✅ **Correction:** "We are timetabling the meetings every Monday."
 > 🧠 **Why:** Need auxiliary verb "are/were/will be" for continuous tenses (VN: Cần động từ trợ giúp "are/were/will be" cho thì tiếp diễn)
+<!--SR:!2025-12-27,4,272-->
 
 ---
 
@@ -211,5 +212,6 @@ Analyze the root/family of **be timetabling**.
 > - [[be canceling]] (đang hủy)
 > - [[be postponing]] (đang hoãn)
 > 🧱 **Contrast:** From organizing schedules to canceling or delaying them
+<!--SR:!2025-12-27,4,272-->
 
 ---

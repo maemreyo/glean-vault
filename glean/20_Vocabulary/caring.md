@@ -123,6 +123,7 @@ List 3 common collocations for **caring**.
 > 1. **Person Description:** caring person/nature (người quan tâm/bản chất quan tâm - VN note: mô tả tính cách)
 > 2. **Professional Context:** caring professional/staff (nhân viên chu đáo - VN note: thường dùng trong y tế, giáo dục)
 > 3. **Relationship:** caring relationship/parent (mối quan hệ/bố mẹ quan tâm - VN note: chỉ sự tương tác trong gia đình, tình bạn)
+<!--SR:!2025-12-27,4,277-->
 
 ---
 

@@ -90,7 +90,7 @@ What do **interpersonal skills** (*/ˌɪntər'pɜːsənl 'skɪlz/*) mean?
 > 🇻🇳 **Vietnamese:** Kỹ năng giao tiếp - những khả năng và năng lực giúp giao tiếp và tương tác hiệu quả giữa mọi người, bao gồm trí tuệ cảm xúc, sự đồng cảm và khả năng xây dựng mối quan hệ.
 > 🗣️ **IPA:** */ˌɪntər'pɜːsənl 'skɪlz/*
 > 🧠 **Mental Model:** Hãy tưởng tượng một cây cầu kết nối hai người - "interpersonal skills" là những công cụ xây dựng và bảo vệ cây cầu đó, giúp kết nối con người một cách hiệu quả.
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 
@@ -192,7 +192,7 @@ Analyze the root/family of **interpersonal skills**.
 **interpersonal skills**
 > 📖 **Meaning:** Abilities for effective communication and interaction with others
 > 🇻🇳 **Vietnamese:** Khả năng giao tiếp và tương tác hiệu quả với người khác
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 
@@ -215,5 +215,6 @@ Analyze the root/family of **interpersonal skills**.
 > - [[social awkwardness]] (difficulty in social interactions)
 > - [[emotional detachment]] (inability to connect with others)
 > 🧱 **Contrast:** While interpersonal skills enable meaningful human connection and effective interaction, social awkwardness creates barriers in communication, and emotional detachment prevents the formation of deep relationships.
+<!--SR:!2025-12-24,1,230-->
 
 ---

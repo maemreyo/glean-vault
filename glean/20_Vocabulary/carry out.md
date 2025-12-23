@@ -89,7 +89,7 @@ What does **carry out** (*/ˈkæri aʊt/*) mean?
 > 🇻🇳 **Vietnamese:** Thực hiện, tiến hành
 > 🗣️ **IPA:** */ˈkæri aʊt/*
 > 🧠 **Mental Model:** Think of carrying a task through to completion, like carrying a package out the door (VN: như mang một nhiệm vụ đến khi hoàn thành)
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 
@@ -191,7 +191,7 @@ Analyze the root/family of **carry out**.
 **carry out**
 > 📖 **Meaning:** To perform or complete a task
 > 🇻🇳 **Vietnamese:** Thực hiện, tiến hành
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 

@@ -88,7 +88,7 @@ What does **ambassador** (*/æmˈbæs.ə.dər/*) mean?
 > 🇻🇳 **Vietnamese:** Đại sứ - người đại diện chính thức cho một quốc gia ở nước ngoài
 > 🗣️ **IPA:** */æmˈbæs.ə.dər/*
 > 🧠 **Mental Model:** Official "representative" được "send" đến foreign country để "represent" entire nation - như face của country đó ở abroad
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 
@@ -145,6 +145,7 @@ List 3 common collocations for **ambassador**.
 > **ambassador:** Highest rank, specific posting, represents head of state (VN: cấp cao nhất, đại diện lãnh đạo)
 > **[[diplomat]]:** General term, can be any rank, any diplomatic role (VN: thuật ngữ chung)
 > 🧱 **The Barrier:** Hierarchy - ambassador là top-level diplomat, có full authority để represent entire nation
+<!--SR:!2025-12-24,1,230-->
 
 ---
 
@@ -211,5 +212,6 @@ Analyze the root/family of **ambassador**.
 > - [[spy]] (secret, unofficial agent)
 > - [[traitor]] (betrayer of national trust)
 > 🧱 **Contrast:** Ambassador represents country openly and officially; opposites work secretly against national interests
+<!--SR:!2025-12-24,1,230-->
 
 ---

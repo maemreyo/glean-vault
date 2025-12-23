@@ -113,6 +113,7 @@ Use **crime** in a sentence.
 > 📝 **Sentence:** Cyber **crime** has increased significantly during the pandemic as criminals exploit people working from home.
 > 🇻🇳 **Vietnamese:** Tội phạm mạng đã tăng đáng kể trong đại dịch khi tội phạm lợi dụng người dân làm việc tại nhà.
 > 🔍 **Analysis:** "Crime" ở đây chỉ cả hành vi phạm pháp (cyber) và bối cảnh hiện đại (pandemic), thể hiện sự tiến hóa của tội phạm trong thời đại số.
+<!--SR:!2025-12-27,4,272-->
 
 ---
 
@@ -147,6 +148,7 @@ List 3 common collocations for **crime**.
 > **crime:** Violation of legal statutes, punishable by the state (Vi phạm các quy định pháp luật, bị nhà nước trừng phạt)
 > **sin:** Violation of moral or religious principles, punishable by divine or social judgment (Vi phạm các nguyên tắc đạo đức hoặc tôn giáo, bị phán xét bởi thượng đế hoặc xã hội)
 > 🧱 **The Barrier:** Legal vs. Moral! All crimes may be sins, but not all sins are crimes. Law = society's rules, Religion = spiritual rules.
+<!--SR:!2025-12-24,1,234-->
 
 ---
 

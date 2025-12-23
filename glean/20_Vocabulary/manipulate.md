@@ -203,6 +203,7 @@ Analyze the root/family of **manipulate**.
 ?
 > ✅ **Correction:** Can be neutral when referring to objects/data
 > 🧠 **Why:** Context matters - people = negative, things = often neutral
+<!--SR:!2025-12-24,1,238-->
 
 ---
 
@@ -216,3 +217,4 @@ Analyze the root/family of **manipulate**.
 > - [[liberate]] (giải phóng)
 > - [[guide]] (hướng dẫn)
 > 🧱 **Contrast**: Manipulate kiểm soát, empower trao quyền
+<!--SR:!2025-12-24,1,238-->

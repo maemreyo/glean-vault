@@ -89,7 +89,7 @@ What does **pioneers** (*/ˌpaɪəˈnɪəz/*) mean?
 > 🇻🇳 **Vietnamese:** Những người tiên phong, người khai hoang, người đi đầu
 > 🗣️ **IPA:** */ˌpaɪəˈnɪəz/*
 > 🧠 **Mental Model:** Những người dũng cảm bước vào vùng đất chưa ai đến để mở đường cho người khác theo sau
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 
@@ -201,6 +201,7 @@ Analyze the root/family of **pioneer**.
 ?
 > ✅ **Correction:** "The pioneers were very brave."
 > 🧠 **Why:** 'Pioneers' is plural, so it requires the plural verb 'were' not 'was'
+<!--SR:!2025-12-27,4,273-->
 
 ---
 

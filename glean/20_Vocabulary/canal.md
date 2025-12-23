@@ -111,7 +111,7 @@ Use **canal** in a sentence.
 > 📝 **Sentence:** The canal network was crucial for transporting goods during the Industrial Revolution.
 > 🇻🇳 **Translation:** Mạng lưới kênh đào đã đóng vai trò quan trọng trong việc vận chuyển hàng hóa trong thời kỳ Cách mạng Công nghiệp.
 > 🔍 **Analysis:** 'Canal' hoàn hảo ở đây vì nó nhấn mạnh yếu tố nhân tạo của con kênh và mục đích giao thông thương mại
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 
@@ -146,6 +146,7 @@ List 3 common collocations for **canal**.
 > **canal:** Được dùng khi nói về đường thủy nhân tạo, có mục đích cụ thể như giao thông hoặc tưới tiêu
 > **[[river]]:** Được dùng khi nói về dòng nước tự nhiên, chảy từ nguồn đến biển
 > 🧱 **The Barrier:** Canal là artificial (nhân tạo), river là natural (tự nhiên)
+<!--SR:!2025-12-27,4,275-->
 
 ---
 

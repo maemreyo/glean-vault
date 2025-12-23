@@ -125,7 +125,7 @@ List 3 common collocations for **attempt**.
 > 1. **Failed Attempt:** Unsuccessful try at doing something (Nỗ lực thất bại - lần thử không thành công)
 > 2. **First Attempt:** Initial try at something new (Lần thử đầu tiên - nỗ lực ban đầu)
 > 3. **Suicide Attempt:** Act of trying to end one's own life (Cố gắng tự tử - hành động tìm cách kết thúc cuộc đời mình)
-<!--SR:!2025-12-23,1,232-->
+<!--SR:!2025-12-26,3,252-->
 
 ---
 

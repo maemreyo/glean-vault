@@ -198,6 +198,7 @@ Analyze the root/family of **statistic**.
 ?
 > ✅ **Correction:** "The statistic is impressive." or "The statistics are impressive."
 > 🧠 **Why:** Remember: "Statistic" (singular, s-end) and "statistics" (plural, s-end but plural verb). The field "statistics" takes singular verb: "Statistics is a fascinating subject."
+<!--SR:!2025-12-27,4,272-->
 
 ---
 

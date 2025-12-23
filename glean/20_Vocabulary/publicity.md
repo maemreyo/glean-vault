@@ -148,7 +148,7 @@ List 3 common collocations for **publicity**.
 > **publicity:** Earned media attention, often unpaid, more credible (Sự chú ý từ truyền thông, thường không trả tiền, đáng tin cậy hơn)
 > **advertising:** Paid promotional messages, controlled content (Thông điệp quảng cáo trả tiền, nội dung được kiểm soát)
 > 🧱 **The Barrier:** Publicity = earned attention (organic), Advertising = paid attention (controlled). Think newspaper article vs. newspaper ad!
-<!--SR:!2025-12-23,1,232-->
+<!--SR:!2025-12-26,3,252-->
 
 ---
 

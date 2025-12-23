@@ -126,7 +126,7 @@ List 3 common collocations for **aspects of caring**.
 > 1. **Different Aspects of Caring:** Various dimensions like emotional, physical, and social care (Các khía cạnh khác nhau của việc chăm sóc - các phương diện như chăm sóc tinh thần, thể chất và xã hội)
 > 2. **Key Aspects of Caring:** Most important elements in providing care (Các khía cạnh chính của việc chăm sóc - những yếu tố quan trọng nhất trong việc cung cấp sự quan tâm)
 > 3. **Professional Aspects of Caring:** Care-related skills in formal workplace settings (Các khía cạnh chuyên nghiệp của việc chăm sóc - các kỹ năng liên quan đến quan tâm trong môi trường làm việc chính thức)
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 
@@ -149,6 +149,7 @@ List 3 common collocations for **aspects of caring**.
 > **aspects of caring:** More formal, emphasizes dimensions and theoretical understanding (Trang trọng hơn, nhấn mạnh các phương diện và sự hiểu biết lý thuyết)
 > **ways to care:** More practical, focuses on specific actions and methods (Thực tế hơn, tập trung vào các hành động và phương pháp cụ thể)
 > 🧱 **The Barrier:** Aspects = academic/theoretical understanding, Ways = practical actions. Think analysis vs. application!
+<!--SR:!2025-12-26,3,255-->
 
 ---
 
@@ -204,6 +205,7 @@ Analyze the root/family of **aspects of caring**.
 ?
 > ✅ **Correction:** "The many aspects of caring include emotional support, physical assistance, and social companionship"
 > 🧠 **Why:** Aspects are categories/dimensions (emotional, physical, social), not specific actions. Group similar actions under broader aspects!
+<!--SR:!2025-12-27,4,275-->
 
 ---
 

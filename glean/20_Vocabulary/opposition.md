@@ -100,6 +100,7 @@ What does **opposition** (*/ˌɒpəˈzɪʃn/*) mean?
 → **Target Word?**
 ?
 **opposition** (*/ˌɒpəˈzɪʃn/*)
+<!--SR:!2025-12-26,3,268-->
 
 ---
 
@@ -123,7 +124,7 @@ List 3 common collocations for **opposition**.
 > 1. **Political:** the opposition party (đảng đối lập) - trong chính trị, đảng không cầm quyền
 > 2. **Action:** face/encounter opposition (đối mặt sự phản đối) - khi gặp sự chống đối
 > 3. **Intensity:** strong/fierce/stubborn opposition (sự phản đối mạnh mẽ) - mô tả mức độ chống đối
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-25,2,230-->
 
 ---
 

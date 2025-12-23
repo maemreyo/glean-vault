@@ -214,5 +214,6 @@ Analyze the root/family of **flexibility**.
 > - [[rigidity]] (stiffness, resistance to change)
 > - [[inflexibility]] (inability to adapt)
 > 🧱 **Contrast:** While flexibility enables survival through adaptation like bamboo in wind, rigidity often leads to breaking under pressure like a brittle tree that cannot bend.
+<!--SR:!2025-12-27,4,274-->
 
 ---

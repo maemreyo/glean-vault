@@ -93,7 +93,7 @@ What does **fertility** (*/fɜːˈtɪləti/*) mean?
 > 🇻🇳 **Vietnamese:** Khả năng sinh sản, độ màu mỡ, khả năng sinh đẻ
 > 🗣️ **IPA:** */fɜːˈtɪləti/*
 > 🧠 **Mental Model:** Đất đai màu mỡ có thể trồng trọt tốt, hoặc cơ thể có khả năng sinh con
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-24,1,210-->
 
 ---
 
@@ -150,7 +150,7 @@ List 3 common collocations for **fertility**.
 > **fertility:** Được dùng khi nói về khả năng sinh sản tự nhiên (đất, động vật, con người)
 > **[[productivity]]:** Nhấn mạnh hiệu quả sản xuất, thường trong kinh tế hoặc công việc
 > 🧱 **The Barrier:** Fertility is natural reproductive capacity, productivity is efficient output
-<!--SR:!2025-12-23,1,226-->
+<!--SR:!2025-12-25,2,226-->
 
 ---
 
@@ -194,7 +194,7 @@ Analyze the root/family of **fertility**.
 **fertility**
 > 📖 **Meaning:** Quality of being able to produce offspring or support growth
 > 🇻🇳 **Vietnamese:** Khả năng sinh sản, độ màu mỡ
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-24,1,210-->
 
 ---
 

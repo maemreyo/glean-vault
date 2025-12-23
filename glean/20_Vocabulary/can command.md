@@ -203,6 +203,7 @@ Analyze the root/family of **can command**.
 ?
 > ✅ **Correction:** The captain can command the ship.
 > 🧠 **Why:** Sau modal verb 'can', phải dùng base form 'command', không phải third person singular
+<!--SR:!2025-12-27,4,276-->
 
 ---
 
@@ -216,5 +217,6 @@ Analyze the root/family of **can command**.
 > - should follow (nên đi theo)
 > - cannot direct (không thể chỉ đạo)
 > 🧱 **Contrast:** 'Must obey' là passive position, trong khi 'can command' là active leadership position
+<!--SR:!2025-12-26,3,256-->
 
 ---

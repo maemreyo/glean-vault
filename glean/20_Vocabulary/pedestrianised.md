@@ -90,7 +90,7 @@ What does **pedestrianised** (*/pəˈdestriənaɪzd/*) mean?
 > 🇻🇳 **Vietnamese:** Đã dành cho người đi bộ, khu phố đi bộ
 > 🗣️ **IPA:** */pəˈdestriənaɪzd/*
 > 🧠 **Mental Model:** Một con đường đã được chuyển đổi để cấm xe cộ, chỉ cho người đi bộ
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-25,2,230-->
 
 ---
 
@@ -147,6 +147,7 @@ List 3 common collocations for **pedestrianised**.
 > **pedestrianised:** Được dùng khi nói về việc quy hoạch lại không gian dành riêng cho người đi bộ, nhấn mạnh quá trình chuyển đổi
 > **[[car-free]]:** Chỉ đơn thuần mô tả trạng thái không có xe, không nhất thiết đã được quy hoạch cho người đi bộ
 > 🧱 **The Barrier:** Pedestrianised là active transformation, car-free là current state
+<!--SR:!2025-12-24,1,223-->
 
 ---
 
@@ -189,7 +190,7 @@ Analyze the root/family of **pedestrian**.
 **pedestrianised**
 > 📖 **Meaning:** Area converted for pedestrian use only
 > 🇻🇳 **Vietnamese:** Đã dành cho người đi bộ
-<!--SR:!2025-12-23,1,228-->
+<!--SR:!2025-12-24,1,208-->
 
 ---
 
@@ -212,3 +213,4 @@ Analyze the root/family of **pedestrian**.
 > - [[traffic-heavy]] (nhiều xe cộ)
 > - [[vehicle-oriented]] (ưu tiên xe cộ)
 > 🧱 **Contrast:** Pedestrianised prioritizes people on foot, while traffic-heavy areas prioritize vehicles
+<!--SR:!2025-12-24,1,223-->

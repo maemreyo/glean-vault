@@ -114,6 +114,7 @@ Use **brand** in a sentence.
 > 📝 **Sentence:** Nike's swoosh logo is instantly recognizable worldwide, making it one of the most powerful **brand** symbols in history.
 > 🇻🇳 **Vietnamese:** Logo swoosh của Nike được nhận ra ngay lập tức trên toàn thế giới, khiến nó trở thành một trong những biểu tượng thương hiệu mạnh nhất lịch sử.
 > 🔍 **Analysis:** "Brand" ở đây không chỉ là logo mà còn bao gồm cả giá trị, uy tín và cảm xúc mà gắn liền với sản phẩm.
+<!--SR:!2025-12-27,4,276-->
 
 ---
 
@@ -203,6 +204,7 @@ Analyze the root/family of **brand**.
 ?
 > ✅ **Correction:** "I love this company's brands" or "I love this brand"
 > 🧠 **Why:** A company owns brands; brands don't own companies. Remember: company = organization, brand = product identity.
+<!--SR:!2025-12-27,4,278-->
 
 ---
 

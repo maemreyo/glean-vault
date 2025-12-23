@@ -202,6 +202,7 @@ Analyze the root/family of **potentially**.
 ?
 > ✅ **Correction:** I might go to the party tonight.
 > 🧠 **Why:** 'Potentially' quá formal cho casual situations, 'might' tự nhiên hơn
+<!--SR:!2025-12-27,4,274-->
 
 ---
 

@@ -87,7 +87,7 @@ What does **cholera** (*/ˈkɒlərə/*) mean?
 > 🇻🇳 **Vietnamese:** Bệnh tả - nhiễm trùng ruột cấp do vi khuẩn gây ra tiêu chảy nặng
 > 🗣️ **IPA:** */ˈkɒlərə/*
 > 🧠 **Mental Model:** Hình ảnh vi khuẩn Vibrio cholerae xâm nhập ruột non, gây ra tình trạng mất nước cấp tính qua tiêu chảy
-<!--SR:!2025-12-23,1,228-->
+<!--SR:!2025-12-26,3,248-->
 
 ---
 
@@ -122,6 +122,7 @@ List 3 common collocations for **cholera**.
 > 1. **Infection:** contract/develop cholera (VN note: mắc bệnh tả - cách nói về việc nhiễm bệnh)
 > 2. **Spread:** cholera outbreak/spreads (VN note: dịch tả bùng phát/lan rộng - mô tả sự lây lan)
 > 3. **Treatment:** cholera treatment/vaccine (VN note: điều trị/vắc-xin tả - biện pháp y tế)
+<!--SR:!2025-12-26,3,265-->
 
 ---
 
@@ -187,7 +188,7 @@ Analyze the root/family of **cholera**.
 **cholera**
 > 📖 **Meaning:** A severe bacterial infection causing watery diarrhea
 > 🇻🇳 **Vietnamese:** Bệnh tả - nhiễm trùng ruột cấp
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-25,2,230-->
 
 ---
 

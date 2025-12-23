@@ -100,6 +100,7 @@ What does **delight** (*/dɪˈlaɪt/*) mean?
 → **Target Word?**
 ?
 **delight** (*/dɪˈlaɪt/*)
+<!--SR:!2025-12-27,4,272-->
 
 ---
 
@@ -123,7 +124,7 @@ List 3 common collocations for **delight**.
 > 1. **Emotional Response:** much to my delight (đến niềm vui của tôi) - thể hiện sự bất ngờ vui sướng
 > 2. **Action Pattern:** take delight in (thích thú làm gì) - thể hiện sự hưởng thụ tích cực
 > 3. **Cause-Effect:** source of delight (nguồn niềm vui) - chỉ nguyên nhân tạo ra sự vui thích
-<!--SR:!2025-12-23,1,232-->
+<!--SR:!2025-12-25,2,232-->
 
 ---
 

@@ -87,7 +87,7 @@ What does **vague** (*/veɪɡ/*) mean?
 > 🇻🇳 **Vietnamese:** Mơ hồ, không rõ ràng, chung chung, mập mờ
 > 🗣️ **IPA:** */veɪɡ/*
 > 🧠 **Mental Model:** Một ý tưởng "vague" giống như hình ảnh trong sương mù - bạn biết có cái gì đó ở đó nhưng không thể nhìn thấy chi tiết rõ ràng (VN explanation using English keywords)
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 

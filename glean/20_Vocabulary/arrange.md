@@ -123,7 +123,7 @@ List 3 common collocations for **arrange**.
 > 1. **Events/Appointments:** arrange a meeting/appointment/wedding (sắp xếp một cuộc họp/hẹn/đám cưới - VN note: các sự kiện quan trọng)
 > 2. **Physical:** arrange flowers/furniture/books in order (sắp xếp hoa/nội thất/sách theo thứ tự - VN note: vật chất)
 > 3. **Financial:** arrange financing/payment/insurance (sắp đặt tài chính/thanh toán/bảo hiểm - VN note: các dịch vụ tài chính)
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 

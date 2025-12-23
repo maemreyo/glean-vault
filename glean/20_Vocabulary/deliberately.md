@@ -88,7 +88,7 @@ What does **deliberately** (*/dɪˈlɪbərətli/*) mean?
 > 🇻🇳 **Vietnamese:** Thực hiện một cách có ý thức và chủ đích; cố tình chứ không phải ngẫu nhiên
 > 🗣️ **IPA:** */dɪˈlɪbərətli/*
 > 🧠 **Mental Model:** Giống như có một chiếc balance (cán cân) trong đầu, cân nhắc kỹ các lựa chọn trước khi hành động - không phải hành động bốc đồng
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-25,2,230-->
 
 ---
 
@@ -100,6 +100,7 @@ What does **deliberately** (*/dɪˈlɪbərətli/*) mean?
 → **Target Word?**
 ?
 **deliberately** (*/dɪˈlɪbərətli/*)
+<!--SR:!2025-12-26,3,266-->
 
 ---
 
@@ -190,7 +191,7 @@ Analyze the root/family of **deliberately**.
 **deliberately**
 > 📖 **Meaning:** Intentionally; on purpose
 > 🇻🇳 **Vietnamese:** Cố ý; có chủ đích
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-24,1,210-->
 
 ---
 

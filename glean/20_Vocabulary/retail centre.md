@@ -213,5 +213,6 @@ Analyze the root/family of **retail centre**.
 > - [[individual shop]] (cửa hàng riêng lẻ) - One store vs many stores
 > - [[marketplace]] (chợ) - Traditional/organic vs planned/organized
 > 🧱 **Contrast:** Retail centre tập trung vào sự tổ chức và tiện nghi, trong khi marketplace và individual shop tập trung vào tính truyền thống và độc lập
+<!--SR:!2025-12-27,4,275-->
 
 ---

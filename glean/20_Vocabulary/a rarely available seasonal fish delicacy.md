@@ -91,7 +91,7 @@ What does **a rarely available seasonal fish delicacy** (*/ə ˈreəli əˈveɪl
 > 🇻🇳 **Vietnamese:** Món ngon cá hiếm có theo mùa, đặc sản cá quý hiếm
 > 🗣️ **IPA:** */ə ˈreəli əˈveɪləbl ˈsiːzənl fɪʃ ˈdelɪkəsi/*
 > 🧠 **Mental Model:** Một món cá đặc biệt quý hiếm, chỉ có vào mùa nhất định trong năm
-<!--SR:!2025-12-23,1,230-->
+<!--SR:!2025-12-26,3,250-->
 
 ---
 
@@ -103,6 +103,7 @@ What does **a rarely available seasonal fish delicacy** (*/ə ˈreəli əˈveɪl
 → **Target Word?**
 ?
 **a rarely available seasonal fish delicacy** (*/ə ˈreəli əˈveɪləbl ˈsiːzənl fɪʃ ˈdelɪkəsi/*)
+<!--SR:!2025-12-26,3,268-->
 
 ---
 
@@ -126,7 +127,7 @@ List 3 common collocations for **seasonal delicacy**.
 > 1. **Origin:** local/seasonal delicacy (đặc sản địa phương/theo mùa)
 > 2. **Quality:** rare/exquisite delicacy (món ngon hiếm có/tinh tế)
 > 3. **Action:** serve/offer a delicacy (phục vụ/cung cấp món ngon đặc biệt)
-<!--SR:!2025-12-23,1,228-->
+<!--SR:!2025-12-26,3,248-->
 
 ---
 
@@ -149,6 +150,7 @@ List 3 common collocations for **seasonal delicacy**.
 > **a rarely available seasonal fish delicacy:** Nhấn mạnh cả sự khan hiếm, tính thời vụ và giá trị ẩm thực đặc biệt
 > **[[a special fish]]:** Chỉ đơn giản mô tả một con cá đặc biệt, không rõ về tính khan hiếm hay thời vụ
 > 🧱 **The Barrier:** Delicacy adds prestige, rare + seasonal specify the circumstances of availability
+<!--SR:!2025-12-26,3,253-->
 
 ---
 
@@ -202,6 +204,7 @@ Analyze the root/family of **delicacy**.
 ?
 > ✅ **Correction:** "a rarely available seasonal fish delicacy"
 > 🧠 **Why:** Adverbs (rarely) typically come before adjectives (seasonal) they modify
+<!--SR:!2025-12-27,4,273-->
 
 ---
 
@@ -214,3 +217,4 @@ Analyze the root/family of **delicacy**.
 > - [[common staple food]] (thực phẩm phổ biến hàng ngày)
 > - [[everyday dish]] (món ăn thường ngày)
 > 🧱 **Contrast:** Delicacy is rare and special, while staple food is common and regularly available
+<!--SR:!2025-12-27,4,273-->

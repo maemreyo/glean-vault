@@ -146,6 +146,7 @@ List 3 common collocations for **hall**.
 > **hall:** Larger, more formal space, often for gatherings or public use (sảnh, hội trường)
 > **[[room]]:** More general, can be any enclosed space (phòng)
 > 🧱 **The Barrier:** Hall = large, public, often impressive; Room = general, any size
+<!--SR:!2025-12-24,1,234-->
 
 ---
 
@@ -201,6 +202,7 @@ Analyze the root/family of **hall**.
 ?
 > ✅ **Correction:** I live in the third room on the hallway.
 > 🧠 **Why:** 'Hall' là large room, 'hallway' là corridor. Đi trong corridor dùng 'hallway'
+<!--SR:!2025-12-26,3,254-->
 
 ---
 

@@ -101,6 +101,7 @@ What does **lasts three days** (*/lɑːsts θriː deɪz/*) mean?
 → **Target Word?**
 ?
 **lasts three days** (*/lɑːsts θriː deɪz/*)
+<!--SR:!2025-12-27,4,274-->
 
 ---
 
