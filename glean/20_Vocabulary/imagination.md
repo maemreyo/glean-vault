@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases:
+  - imagination
+  - imaginative
+  - imaginatively
+  - unimaginative
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪˌmædʒ.ɪˈneɪ.ʃən/
+> **Part of Speech:** noun
+> **CEFR Level:** B1-B2
+> **Register:** neutral
+> **Etymology:** From Latin "imaginatio" from "imago" (image, likeness) → "forming mental images"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** The ability to form mental images or concepts not present to the senses
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** The creative faculty of the mind to produce new ideas, images, or concepts
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** Trí tưởng tượng
+> - **Contextual:** Sự sáng tạo; khả năng hình dung; trí tưởng tượng phong phú
 > 
 > **Nuances:**
-> - ...
+> - Can refer to both creative thinking and the mental faculty of visualization
+> - Associated with innovation, artistry, and problem-solving
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Creative, Dreamy, Innovative
+> **Memory Hook:** IMAGE + NATION → a nation of images in your mind
+> **📖 Etymology Story:** Latin "imago" means "image" or "likeness." Imagination is the ability to create images in your mind - like a personal movie theater where you can create any scene.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[imagination]] /ɪˌmædʒ.ɪˈneɪ.ʃən/
+> - **Verb:** [[imagine]] /ɪˈmædʒ.ɪn/
+> - **Adj:** [[imaginative]] /ɪˈmædʒ.ɪ.nə.tɪv/
+> - **Adv:** [[imaginatively]] /ɪˈmædʒ.ɪ.nə.tɪv.li/
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[creativity]] /ˌkriː.eɪˈtɪv.ə.ti/ : creative ability
+> - [[inventiveness]] /ɪnˈven.tɪv.nəs/ : ability to invent
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[reality]] /riˈæl.ə.ti/ : what actually exists
+> - [[unimaginative]] /ˌʌn.ɪˈmædʒ.ɪ.nə.tɪv/ : lacking creativity
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. vivid imagination
+> 2. lack of imagination
+> 3. active imagination
+ 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Children often have vivid imaginations that help them learn.
+> - **Translation:** Trẻ em thường có trí tưởng tượng phong phú giúp chúng học hỏi.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The artist used her imagination to create stunning sculptures.
+> - **Translation:** Nghệ sĩ đã dùng trí tưởng tượng của mình để tạo ra những tác phẩm điêu khắc tuyệt đẹp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition Usage**
+> - ❌ **Mistake:** He has imagination for painting.
+> - ✅ **Correction:** He has imagination when painting.
+> - **Why:** Imagination is used with contexts/actions, not usually with "for" in this way.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** Her imagination has given me loads of ideas.
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +84,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **imagination** (*/ɪˌmædʒ.ɪˈneɪ.ʃən/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The ability to form mental images or concepts of things not present to the senses; creative thinking
+> 🇻🇳 **Vietnamese:** Trí tưởng tượng; khả năng sáng tạo; khả năng hình dung
+> 🗣️ **IPA:** */ɪˌmædʒ.ɪˈneɪ.ʃən/*
+> 🧠 **Mental Model:** Think of a "mind's eye" - a personal movie theater inside your brain where you can visualize anything, create new worlds, and invent possibilities that don't exist yet.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The creative faculty of the mind to form mental images or new ideas"
+**Vietnamese:** Trí tưởng tượng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**imagination** (*/ɪˌmædʒ.ɪˈneɪ.ʃən/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **imagination** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The writer's vivid imagination brought the fantasy world to life.
+> 🇻🇳 **Translation:** Trí tưởng tượng phong phú của nhà văn đã làm cho thế giới giả tưởng trở nên sống động.
+> 🔍 **Analysis:** Perfect here because we're describing the creative mental power (VN/EN mix) - "trí tưởng tượng" tạo ra thế giới không có thật.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **imagination**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** vivid imagination (trí tưởng tượng phong phú - vì hình ảnh rõ nét)
+> 2. **Negation:** lack of imagination (thiếu trí tưởng tượng - vì không có khả năng sáng tạo)
+> 3. **Activity:** capture the imagination (khai thác trí tưởng tượng - vì thu hút sự sáng tạo)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **imagination**:
+"He has good ideas."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He has a vivid imagination and constantly generates innovative ideas."
+> 💡 **Why it works:** Imagination captures the creative mental power (VN/EN mix) - chuyên môn hơn, mô tả rõ nguồn gốc của những ý tưởng hay.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **imagination** instead of **[[creativity]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **imagination:** The mental faculty to visualize and form ideas (VN explanation) - khả năng hình dung và tạo ra hình ảnh trong tâm trí
+> **[[creativity]]:** The ability to create something original (VN explanation) - khả năng tạo ra cái gì đó mới mẻ
+> 🧱 **The Barrier:** Imagination = mental visualization/ideas; Creativity = the act of creating (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** A child describes an elaborate story about dragons and magical lands. You're amazed. Comment!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You have such a wonderful imagination!"
+> 👨‍🎨 **Director's Note:** Perfect for appreciating a child's creative storytelling ability (VN) - cách khen ngợi nhẹ nhàng về trí tưởng tượng phong phú.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `imago` to the meaning of **imagination**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "imago" means "image" or "likeness" (hình ảnh). Imagination comes from "imaginatio" - the power to create images in your mind (khả năng tạo hình ảnh trong tâm trí), like having a built-in artist that paints mental pictures.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **imagination**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `imago` (image, likeness)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(noun)* [[imagination]] /ɪˌmædʒ.ɪˈneɪ.ʃən/
+> - *(verb)* [[imagine]] /ɪˈmædʒ.ɪn/
+> - *(adj)* [[imaginative]] /ɪˈmædʒ.ɪ.nə.tɪv/
+> - *(adv)* [[imaginatively]] /ɪˈmædʒ.ɪ.nə.tɪv.li/
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪˌmædʒ.ɪˈneɪ.ʃən/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**imagination**
+> 📖 **Meaning:** The ability to form mental images or creative ideas
+> 🇻🇳 **Vietnamese:** Trí tưởng tượng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "He has a big imagination for art."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "He has a vivid imagination for art."
+> 🧠 **Why:** "Vivid" is the standard collocation with imagination to describe intensity and richness. "Big imagination" is less natural.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **imagination**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[unimaginative]] (lacking creative thought)
+> - [[reality]] (what actually exists, not imagined)
+> 🧱 **Contrast:** Imagination creates possibilities; reality is what actually exists. Unimaginative lacks the creative spark.
 
 ---

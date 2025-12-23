@@ -1,159 +1,93 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [legible, illegibly, illegibility]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈledʒ.ə.bli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B1-B2
+> **Register:** neutral
+> **Etymology:** From Latin "legibilis" from "legere" (to read) + "-ly" (adverb suffix)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** In a way that can be read and understood clearly
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** Describes how something (especially handwriting or text) is written clearly enough to be easily read and understood
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** Một cách rõ ràng; dễ đọc
+> - **Contextual:** Viết rõ nét, viết dễ đọc
 > 
 > **Nuances:**
-> - ...
+> - Most commonly used with verbs like "write", "print", "copy"
+> - Focuses on READABILITY and CLARITY
+> - Opposite is "illegibly" (không thể đọc được)
+> - Related adjective: "legible" (có thể đọc được)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Clear, Readable, Understandable, Accessible
+> **Memory Hook:** LEGIBLY = LEGibly (able to LEGitimately READ it easily!)
+> **📖 Etymology Story:** From Latin "legere" (to read). Something written legibly is "readable" - you can LEGITIMATELY READ it without squinting or guessing. When you write legibly, you're being kind to your reader's eyes!
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[legibility]] /ˌledʒ.əˈbɪl.ə.ti/, [[illegibility]] /ˌɪl.ledʒ.əˈbɪl.ə.ti/
+> - **Verb:** [[read]] /riːd/, [[write]] /raɪt/
+> - **Adj:** [[legible]] /ˈledʒ.ə.bəl/, [[illegible]] /ɪˈledʒ.ə.bəl/
+> - **Adv:** [[legibly]] /ˈledʒ.ə.bli/, [[illegibly]] /ɪˈledʒ.ə.bli/
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[clearly]] /ˈklɪər.li/ : broader, can apply to anything clear
+> - [[readably]] /ˈriː.də.bli/ : specifically about reading ease
+> - [[neatly]] /ˈniːt.li/ : about tidiness and order
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[illegibly]] /ɪˈledʒ.ə.bli/ : cannot be read
+> - [[messily]] /ˈmes.ə.li/ : untidy and unclear
+> - [[confusingly]] /kənˈfjuː.zɪŋ.li/ : difficult to understand
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. write legibly
+> 2. print legibly
+> 3. sign legibly
+> 4. copy legibly
+> 5. be legibly written
 > 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> **1. Example Context 1 (Handwriting)**
+> - **Sentence:** Please write legibly so that everyone can read your answers.
+> - **Translation:** Vui lòng viết rõ nét để mọi người đều có thể đọc câu trả lời của bạn.
 > 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> **2. Example Context 2 (Formal Documents)**
+> - **Sentence:** You must sign the contract legibly in the space provided.
+> - **Translation:** Bạn phải ký vào hợp đồng một cách rõ ràng trong không gian được cung cấp.
+> 
+> **3. Example Context 3 (Medical/Notes)**
+> - **Sentence:** Doctors are often criticized for not writing prescriptions legibly.
+> - **Translation:** Bác sĩ thường bị chỉ trích vì không viết toa thuốc một cách dễ đọc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling**
+> - ❌ **Mistake:** She wrote the letter legably. (correct)
+> - ✅ **Correction:** She wrote the letter legibly. (actually correct, but be careful with spelling)
+> - **Why:** Many confuse "legibly" with "liable" or other similar words. Remember: LEGIbly = LEGible + -ly.
+> 
+> **2. Word Form**
+> - ❌ **Mistake:** He has legible handwriting.
+> - ✅ **Correction:** He has legible handwriting. (This is correct - legible is the adjective)
+> - **Why:** Legibly (adverb) modifies verbs. Legible (adjective) modifies nouns.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Write legibly, speak clearly, and communicate effectively."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +95,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **legibly** (*/ˈledʒ.ə.bli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In a way that can be read and understood clearly
+> 🇻🇳 **Vietnamese:** Một cách rõ ràng; dễ đọc; viết rõ nét
+> 🗣️ **IPA:** */ˈledʒ.ə.bli/*
+> 🧠 **Mental Model:** Bạn nhìn một tờ giấy và có thể đọc được từng chữ mà không cần nheo mắt—đó là được viết legibly!
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "In a way that can be read and understood clearly"
+**Vietnamese:** Một cách rõ ràng; dễ đọc; viết rõ nét
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**legibly** (*/ˈledʒ.ə.bli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **legibly** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The teacher reminded students to write their names legibly on their exam papers.
+> 🇻🇳 **Translation:** Giáo viên nhắc nhở học sinh viết tên của mình một cách rõ ràng trên giấy thi.
+> 🔍 **Analysis:** "Write...legibly" là collocation phổ biến—perfect cho ngữ cảnh giáo dục, khi cần đảm bảo giáo viên có thể đọc được tên học sinh.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **legibly**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** write legibly (viết rõ ràng—dùng cho chữ viết tay)
+> 2. **Action:** print legibly (in ấn rõ ràng—dùng cho in ấn/chữ in)
+> 3. **Action:** sign legibly (ký rõ ràng—dùng cho hợp đồng, tài liệu pháp lý)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **legibly**:
+"She wrote the note so people could read it."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She wrote the note legibly so everyone could read it easily."
+> 💡 **Why it works:** "Wrote...legibly" tạo hình ảnh cụ thể về sự rõ ràng, dễ đọc—chuyên nghiệp hơn "so people could read it".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **legibly** instead of **[[clearly]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **legibly:** Chỉ về ĐỘ DỄ ĐỌC của text/chữ viết—focus vào READABILITY, không nhòe, không rối
+> **[[clearly]]:** Rộng hơn, có thể nói về bất kỳ thứ gì rõ ràng (âm thanh, tư tưởng, hình ảnh)
+> 🧱 **The Barrier:** Một bài nói có thể "clearly" nhưng chữ viết tay của bạn có thể "illegibly". Legibly là subset của clearly—chỉ áp dụng cho text/writing!
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your boss asks you to fill out an important form. You want to ensure there won't be any processing errors. You feel responsible and careful. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'll make sure to write everything legibly so there's no confusion with my application."
+> 👨‍🎨 **Director's Note:** "Write everything legibly" + kết nối đến avoiding confusion—thể hiện sự cẩn trọng và chuyên nghiệp trong công việc.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `legere` to the meaning of **legibly**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "legere" nghĩa là "đọc". Khi bạn viết legibly, bạn đang viết "để đọc được" (read-able). Đó là sự tôn trọng người đọc—đừng để họ phải đoán mò những nét chữ rối rắm của bạn!
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **legibly**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `legere` (to read, to gather)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(adj)* [[legible]] (có thể đọc được, dễ đọc)
+> - *(adj)* [[illegible]] (không thể đọc được)
+> - *(adv)* [[legibly]] (một cách dễ đọc)
+> - *(adv)* [[illegibly]] (một cách không thể đọc được)
+> - *(noun)* [[legibility]] (tính dễ đọc)
+> - *(noun)* [[illegibility]] (tính khó đọc)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈledʒ.ə.bli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**legibly** 
+> 📖 **Meaning:** In a way that can be read and understood clearly
+> 🇻🇳 **Vietnamese:** Một cách rõ ràng; dễ đọc
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The instructions were wrote legibly."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The instructions were written legibly." OR "She wrote the instructions legibly."
+> 🧠 **Why:** "Legibly" là adverb, không thể sửa động từ "wrote". Trong passive voice, dùng past participle "written" + legibly.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **legibly**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[illegibly]] (không thể đọc được—nhòe, rối, không nhận diện được)
+> - [[messily]] (một cách lộn xộn—không gọn gàng, không rõ ràng)
+> 🧱 **Contrast:** Legibly là "read-able", illegibly là "unread-able"—hai trạng thái đối lập của khả năng đọc hiểu!
 
 ---

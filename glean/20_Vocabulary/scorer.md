@@ -1,159 +1,92 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
 #flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [scorers, scorer's, goal-scorer, goal scorer, point scorer]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈskɔː.rər/
+> **Part of Speech:** noun
+> **CEFR Level:** B1-B2
+> **Register:** neutral
+> **Etymology:** Middle English "score" from Old Norse "skor" (notch, tally) + "-er" (agent suffix)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** A person who scores points or goals in a game or competition
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** A player in a sport who gains points or goals for their team, or a person who records the official score
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** Người ghi bàn; người ghi điểm
+> - **Contextual:** Cầu thủ ghi bàn; người ghi điểm trong thi đấu
 > 
 > **Nuances:**
-> - ...
+> - Often refers specifically to goal-scorers in football/soccer
+> - Can also mean someone who officially records scores (less common in modern usage)
+> - In cricket, refers to a batsman who scores runs
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Competitive, Achieving, Celebratory
+> **Memory Hook:** Imagine a SCORER wearing a SCORE-boarding cape, dancing after every goal!
+> **📖 Etymology Story:** Old Norse warriors carved notches ("skor") on their sword handles to count victories. A "scorer" became the one who adds those notches—turning effort into recorded triumph.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[score]] /skɔːr/, [[scorer]] /ˈskɔː.rər/
+> - **Verb:** [[score]] /skɔːr/
+> - **Adj:** [[scoring]] /ˈskɔː.rɪŋ/ (e.g., scoring opportunity)
+> - **Adv:** [[scorelessly]] /ˈskɔːr.ləs.li/
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[goal-scorer]] /ˈɡəʊlˌskɔː.rər/ : specifically for football/soccer
+> - [[point-scorer]] /ˈpɔɪntˌskɔː.rər/ : more general, used in various sports
+> - [[striker]] /ˈstraɪ.kər/ : forward player whose main job is to score
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[goalkeeper]] /ˈɡəʊlˌkiː.pər/ : tries to prevent goals
+> - [[defender]] /dɪˈfen.dər/ : tries to prevent the scorer from succeeding
+> - [[non-scorer]] /ˌnɒnˈskɔː.rər/ : player who doesn't score points
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. top scorer
+> 2. leading scorer
+> 3. goal scorer
+> 4. prolific scorer
+> 5. record scorer
 > 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> **1. Example Context 1 (Football)**
+> - **Sentence:** Messi is the all-time top scorer in La Liga history.
+> - **Translation:** Messi là người ghi bàn hàng đầu mọi thời đại trong lịch sử La Liga.
 > 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> **2. Example Context 2 (Cricket)**
+> - **Sentence:** The opening batsman proved to be a reliable scorer throughout the tournament.
+> - **Translation:** Batter mở màn đã chứng tỏ là một người ghi điểm đáng tin cậy trong suốt giải đấu.
+> 
+> **3. Example Context 3 (General Sports)**
+> - **Sentence:** She became the team's leading scorer this season with 25 goals.
+> - **Translation:** Cô đã trở thành người ghi bàn hàng đầu của đội trong mùa giải này với 25 bàn thắng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Countable Noun Usage**
+> - ❌ **Mistake:** He is a good scorer.
+> - ✅ **Correction:** He is a good scorer. (Actually correct, but be careful: "scorer" refers to a person, "scoring" refers to the action)
+> - **Why:** Scorer is always a countable noun referring to a person.
+> 
+> **2. Spelling**
+> - ❌ **Mistake:** scorar, scorrer
+> - ✅ **Correction:** scorer
+> - **Why:** Follows standard English "-or" suffix pattern for agent nouns.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** "Every scorer dreams of that moment when the net ripples and the crowd erupts."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +94,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **scorer** (*/ˈskɔː.rər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A player in a sport who gains points or goals for their team
+> 🇻🇳 **Vietnamese:** Người ghi bàn; người ghi điểm trong thi đấu
+> 🗣️ **IPA:** */ˈskɔː.rər/*
+> 🧠 **Mental Model:** Một cầu thủ trên sân, sau khi ghi bàn vào lưới, bị đồng đội nâng lên ăn mừng—đó là scorer!
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A player in a sport who gains points or goals for their team"
+**Vietnamese:** Người ghi bàn; người ghi điểm trong thi đấu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**scorer** (*/ˈskɔː.rər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **scorer** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The team's top scorer was injured before the final match.
+> 🇻🇳 **Translation:** Người ghi bàn hàng đầu của đội bị chấn thương trước trận chung kết.
+> 🔍 **Analysis:** "Top scorer" là collocation phổ biến, chỉ người có số bàn thắng/điểm cao nhất—perfect cho việc thống kê thành tích.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **scorer**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Achievement Level:** top scorer (người ghi bàn nhiều nhất—dùng cho người dẫn đầu bảng xếp hạng)
+> 2. **Performance:** prolific scorer (người ghi bàn liên tục/dồi dào—dùng cho người luôn ghi điểm đều đặn)
+> 3. **Specific Role:** goal scorer (người ghi bàn—thường dùng trong football/soccer)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **scorer**:
+"The player who gets the most points is important."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The team's top scorer is crucial to their championship hopes."
+> 💡 **Why it works:** "Top scorer" tạo hình ảnh cụ thể về người ghi bàn nhiều nhất—trực diện hơn "player who gets the most points".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **scorer** instead of **[[striker]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **scorer:** Chỉ bất kỳ ai ghi điểm/bàn thắng, bất kể vị trí—focus vào KẾT QUẢ (có thể là defender, midfielder, etc.)
+> **[[striker]]:** Vị trí cầu thủ tấn công phía trước, nhiệm vụ chính là ghi bàn—focus vào VỊ TRÍ
+> 🧱 **The Barrier:** Một striker luôn là scorer, nhưng một scorer chưa chắc là striker. Scorer = hành động ghi điểm; striker = vị trí chiến thuật.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your favorite football team wins 3-0. The announcer announces the hat-trick hero. You feel proud and excited. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "He's having an incredible season—he's our leading scorer with 15 goals already!"
+> 👨‍🎨 **Director's Note:** "Leading scorer" + số liệu cụ thể tạo niềm tự hào—perfect khi bạn muốn highlight thành tích của thần tượng.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `skor` to the meaning of **scorer**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old Norse "skor" nghĩa là "vết khắc, vết đếm". Chiến binh khắc vết lên kiếm mỗi khi thắng trận. "Scorer" là người thêm những vết khắc đó—biến nỗ lực thành chiến thắng được ghi nhận. Hôm nay, scorer không khắc vết, nhưng mỗi bàn thắng vẫn là một "notch" của vinh quang!
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **scorer**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Old Norse `skor` (notch, tally, twenty)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(noun)* [[score]] (điểm số, số điểm ghi được)
+> - *(noun)* [[scorer]] (người ghi điểm)
+> - *(verb)* [[score]] (ghi điểm)
+> - *(adj)* [[scoring]] (đang ghi điểm, liên quan đến ghi điểm)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈskɔː.rər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**scorer** 
+> 📖 **Meaning:** A player who gains points or goals in a game
+> 🇻🇳 **Vietnamese:** Người ghi bàn; người ghi điểm
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "He is the best scoring of the team."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "He is the best scorer of the team." OR "He is the best scoring player on the team."
+> 🧠 **Why:** "Scorer" là danh từ chỉ người (person), "scoring" là danh từ chỉ hành động hoặc tính từ. "Best scoring" không đúng grammar—phải có noun sau đó hoặc dùng "scorer".
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **scorer**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[goalkeeper]] (người gác đền—ngăn đối phương ghi bàn)
+> - [[defender]] (hậu vệ—chặn scorer đối phương)
+> 🧱 **Contrast:** Scorer tạo điểm số, goalkeeper và defender ngăn điểm số. Đối lập hoàn toàn về vai trò trong game!
 
 ---

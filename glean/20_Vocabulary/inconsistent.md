@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases:
+  - inconsistent
+  - inconsistency
+  - inconsistently
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌɪn.kənˈsɪs.tənt/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2-C1
+> **Register:** formal/academic
+> **Etymology:** From Latin "in-" (not) + "consistere" (to stand together) → "not staying the same"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** Not remaining the same in quality, behavior, or standard
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** Lacking agreement or harmony; not following a regular pattern
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** Không nhất quán
+> - **Contextual:** Thiếu đồng bộ; thay đổi liên tục; không ổn định
 > 
 > **Nuances:**
-> - ...
+> - Can refer to behavior, performance, or information that varies unpredictably
+> - Implies a failure to maintain expected standards
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Unpredictable, Fluctuating, Unreliable
+> **Memory Hook:** IN + CONSISTENT (not standing together) → things keep changing
+> **📖 Etymology Story:** The prefix "in-" means "not" while "consistere" means "to stand firm together." When something is inconsistent, it literally "doesn't stand firm together" - like a wobbly table that keeps changing height.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[inconsistency]] /ˌɪn.kənˈsɪs.tən.si/
+> - **Adj:** [[inconsistent]] /ˌɪn.kənˈsɪs.tənt/
+> - **Adv:** [[inconsistently]] /ˌɪn.kənˈsɪs.tənt.li/
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[contradictory]] /ˌkɒn.trəˈdɪk.tər.i/ : directly opposed
+> - [[erratic]] /ɪˈræt.ɪk/ : irregular and unpredictable
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[consistent]] /kənˈsɪs.tənt/ : staying the same
+> - [[reliable]] /rɪˈlaɪ.ə.bəl/ : dependable
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. inconsistent behavior
+> 2. inconsistent results
+> 3. inconsistent with
+ 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The referee's decisions were inconsistent throughout the match.
+> - **Translation:** Các quyết định của trọng tài không nhất quán trong suốt trận đấu.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Her work performance has been inconsistent this quarter.
+> - **Translation:** Hiệu suất công việc của cô ấy không ổn định trong quý này.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Adverb Placement**
+> - ❌ **Mistake:** He inconsistent plays well.
+> - ✅ **Correction:** He plays inconsistently.
+> - **Why:** Inconsistent is an adjective, use the adverb form inconsistently to modify verbs.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** The data is inconsistent with our earlier findings.
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +82,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **inconsistent** (*/ˌɪn.kənˈsɪs.tənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Not staying the same in quality, behavior, or standard; lacking agreement or regularity
+> 🇻🇳 **Vietnamese:** Không nhất quán; thiếu đồng bộ; thay đổi liên tục
+> 🗣️ **IPA:** */ˌɪn.kənˈsɪs.tənt/*
+> 🧠 **Mental Model:** Think of a "wobbly" situation where rules, behavior, or results keep changing unpredictably - like weather that can't decide between sun and rain.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Not remaining the same in quality or behavior; lacking regularity"
+**Vietnamese:** Không nhất quán
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**inconsistent** (*/ˌɪn.kənˈsɪs.tənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **inconsistent** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The witness's testimony was inconsistent with the evidence presented.
+> 🇻🇳 **Translation:** Lời khai của nhân chứng không nhất quán với bằng chứng được đưa ra.
+> 🔍 **Analysis:** Perfect here because we're describing information that doesn't agree or align (VN/EN mix) - "không đồng nhất" với bằng chứng khác.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **inconsistent**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality/Standard:** inconsistent performance (thi đua không ổn định - vì kết quả thay đổi)
+> 2. **Information type:** inconsistent data (dữ liệu mâu thuẫn - vì không đồng nhất)
+> 3. **Behavioral:** inconsistent behavior (hành vi thiếu nhất quán - vì không thể dự đoán)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **inconsistent**:
+"The rules change all the time."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The rules are inconsistent and create confusion."
+> 💡 **Why it works:** Inconsistent captures the "not staying the same" nuance (VN/EN mix) - chuyên môn hơn và mô tả rõ sự thiếu ổn định hơn là "change all the time".
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **inconsistent** instead of **[[contradictory]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **inconsistent:** Used when things don't align but aren't directly opposed (VN explanation) - thiếu nhất quán, không đồng bộ
+> **[[contradictory]]:** Used when things directly oppose each other (VN explanation) - mâu thuẫn trực tiếp
+> 🧱 **The Barrier:** Inconsistent = doesn't stay same/pattern; Contradictory = says the opposite (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** A student's grades go up and down unpredictably. You're confused. Comment!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Your academic performance has been inconsistent this semester."
+> 👨‍🎨 **Director's Note:** Perfect for describing fluctuating performance that lacks a stable pattern (VN) - professional way to say "lên xuống không ổn định".
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `consistere` to the meaning of **inconsistent**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "consistere" means "to stand together firmly" (đứng vững cùng nhau). Add "in-" (not) creates "inconsistent" - literally "not standing together firmly" (không đứng vững đồng nhất), describing things that keep shifting or changing.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **inconsistent**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `consistere` (to stand together, exist)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(noun)* [[inconsistency]] /ˌɪn.kənˈsɪs.tən.si/
+> - *(adj)* [[inconsistent]] /ˌɪn.kənˈsɪs.tənt/
+> - *(adv)* [[inconsistently]] /ˌɪn.kənˈsɪs.tənt.li/
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌɪn.kənˈsɪs.tənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**inconsistent**
+> 📖 **Meaning:** Not staying the same in quality or standard
+> 🇻🇳 **Vietnamese:** Không nhất quán
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The results are inconsist."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The results are inconsistent."
+> 🧠 **Why:** Inconsistent is an adjective, not an adverb. Use the -ent form after "are" (be verb), not -ly form.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **inconsistent**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[consistent]] (maintains the same pattern/standard)
+> - [[uniform]] (all the same throughout)
+> 🧱 **Contrast:** Inconsistent changes unpredictably; consistent remains stable and predictable.
 
 ---
