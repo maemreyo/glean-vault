@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [patience, patient, patiently, impatient, impatience, forbearance, tolerance]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈpeɪʃns/
+> **Part of Speech:** noun
+> **CEFR Level:** B1-B2
+> **Register:** neutral/formal
+> **Etymology:** patience (Latin patientia, from patiens, suffering, enduring)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The capacity to endure difficult circumstances
+>
+> **Context Meaning:** The ability to accept or tolerate delay, trouble, or suffering without getting angry or upset
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** sự kiên nhẫn
+> - **Contextual:** khả năng chịu đựng/không vội vàng
+>
 > **Nuances:**
-> - ...
+> - Emotional control under pressure
+> - Willingness to wait
+> - Calmness in adversity
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Calm, Enduring, Wise
+> **Memory Hook:** "PATIENCE = PACE-ing yourself, not rushing" - taking your time
+> **📖 Etymology Story:** Latin "pati" meant to suffer or endure - "patience" is the strength to suffer/wait without losing your cool. It's endurance for the soul, bearing difficulties without breaking.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adj:** [[patient]] /ˈpeɪʃnt/ (showing patience)
+> - **Adv:** [[patiently]] /ˈpeɪʃntli/ (with patience)
+> - **Noun:** [[impatience]] /ɪmˈpeɪʃns/ (lack of patience)
+> - **Adj:** [[impatient]] (quick to anger, not waiting)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[forbearance]] /fɔːˈbeərəns/ : tolerance, restraint
+> - [[tolerance]] /ˈtɒlərəns/ : accepting difference
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[impatience]] : quick to anger
+> - [[hastiness]] : rushing
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. have patience
+> 2. lose patience
+> 3. with patience
+>
+> **1. Example Context 1 - Learning Context**
+> - **Sentence:** Learning a new language requires patience and consistent practice over many months.
+> - **Translation:** Học một ngôn ngữ mới đòi hỏi sự kiên nhẫn và thực hành nhất quán trong nhiều tháng.
+>
+> **2. Example Context 2 - Work Situation**
+> - **Sentence:** The manager showed great patience while explaining the complex process to the new employees.
+> - **Translation:** Người quản lý đã thể hiện sự kiên nhẫn tuyệt vời khi giải thích quy trình phức tạp cho nhân viên mới.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusion with Patient (Medical)**
+> - ❌ **Mistake:** He is very patience.
+> - ✅ **Correction:** He is very patient.
+> - **Why:** "Patience" is the noun. The adjective is "patient" (which also means a medical patient).
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** Patience is the key to mastering any difficult skill.
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **patience** (*/ˈpeɪʃns/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The ability to remain calm and accept delay, difficulty, or annoyance without becoming angry or upset
+> 🇻🇳 **Vietnamese:** Sự kiên nhẫn (khả năng giữ bình tĩnh và chịu đựng mà không trở nên giận dữ)
+> 🗣️ **IPA:** */ˈpeɪʃns/*
+> 🧠 **Mental Model:** Inner strength lets you wait calmly when things take longer or don't go your way - staying cool instead of blowing up
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The ability to accept delay without getting angry"
+**Vietnamese:** Sự kiên nhẫn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**patience** (*/ˈpeɪʃns/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **patience** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Teaching young children requires unlimited patience as they learn and make mistakes.
+> 🇻🇳 **Translation:** Dạy trẻ em đòi hỏi sự kiên nhẫn không giới hạn khi chúng học và mắc sai lầm.
+> 🔍 **Analysis:** Word này perfect vì "patience" captures emotional endurance required, simple vocabulary với profound meaning about emotional control
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **patience**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Possession:** have/lose patience (có/mất kiên nhẫn - emotional state)
+> 2. **Manner:** with patience (với sự kiên nhẫn - attitude)
+> 3. **Quality:** infinite/limited patience (sự kiên nhẫn vô hạn/hạn chế - quantity)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **patience**:
+"You need to stay calm and wait for the result."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "You must exercise patience while waiting for the outcome."
+> 💡 **Why it works:** "Patience" là precise noun captures the quality of calm waiting, nâng simple instruction sang character-focused statement
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **patience** instead of **[[tolerance]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **patience:** Specifically about enduring delay or difficulty without emotional reaction (VN: chịu đựng chờ đợi/khó khăn mà không giận)
+> **[[tolerance]]:** About accepting differences or opinions you don't agree with (VN: chấp nhận sự khác biệt/y kiến không đồng tình)
+> 🧱 **The Barrier:** "Patience" is about time/difficulty; "tolerance" is about difference/opinion - different domains of endurance
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** A friend is frustrated that their work isn't progressing fast. You feel supportive. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Remember, great things take time - you just need to have a little more patience."
+> 👨‍🎨 **Director's Note:** Word này communicates wisdom và encouragement, perfect cho reminding someone about emotional control
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `patience` to the meaning of **patience**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "pati" meant to suffer/endure - "patience" is suffering without complaining, enduring difficulty without breaking. It's strength that bears burdens silently
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **patience**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `pati` (to suffer, endure)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[patience]] (ability to wait calmly)
+> - *(adj)* [[patient]] (showing patience, or medical patient)
+> - *(adv)* [[patiently]] (with patience)
+> - *(noun)* [[impatience]] (lack of patience)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈpeɪʃns/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**patience**
+> 📖 **Meaning:** The ability to remain calm when waiting
+> 🇻🇳 **Vietnamese:** Sự kiên nhẫn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Noun vs adjective confusion
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "He is patient." (NOT "He is patience.")
+> 🧠 **Why:** "Patience" is the noun; "patient" is the adjective describing someone who has patience
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **patience**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[impatience]] (quick to anger, unwilling to wait)
+> - [[hastiness]] (rushing, acting too quickly)
+> 🧱 **Contrast:** "Patience" = calm endurance; "impatience" = quick frustration; "hastiness" = acting without thinking
 
 ---

@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
-
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [motivate, motivated, motivating, motivates, motivational, unmotivated]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌmoʊtɪˈveɪʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From Latin motivus "moving, impelling"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The reason or driving force behind someone's actions
+>
+> **Context Meaning:** The internal process that initiates, guides, and maintains goal-oriented behaviors
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** động lực
+> - **Contextual:** sự thôi thúc, nguồn cảm hứng
+>
 > **Nuances:**
-> - ...
+> - Can be internal (intrinsic) or external (extrinsic)
+> - Implies active engagement toward a goal
+> - Different from simple "desire" - it includes action
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Energetic, Driven, Scholarly
+> **Memory Hook:** Think of a motor (motive) inside you that keeps you moving toward your goals
+> **📖 Etymology Story:** Latin "motivus" means "moving" - motivation is literally what "moves" you to act. Just as a motor moves a car, motivation moves a person toward achievement.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[motivation]] /ˌmoʊtɪˈveɪʃn/
+> - **Verb:** [[motivate]] /ˈmoʊtɪveɪt/
+> - **Adj:** [[motivated]] /ˈmoʊtɪveɪtɪd/
+> - **Adv:** [[motivationally]] /ˌmoʊtɪˈveɪʃənəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[inspiration]] /ˌɪnspəˈreɪʃn/ : spark that starts action
+> - [[drive]] /draɪv/ : inner urge
+> - [[incentive]] /ɪnˈsentɪv/ : external reward
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[apathy]] /ˈæpəθi/ : lack of interest
+> - [[discouragement]] /dɪsˈkʌrɪdʒmənt/ : loss of motivation
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. lose motivation
+> 2. find motivation
+> 3. stay motivated
+> 4. intrinsic motivation
+> 5. extrinsic motivation
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The teacher tried various strategies to boost student motivation in mathematics.
+> - **Translation:** Giáo viên đã thử nhiều chiến lược khác nhau để thúc đẩy động lực học toán của học sinh.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Her motivation for volunteering was purely intrinsic - she genuinely wanted to help others.
+> - **Translation:** Động lực tình nguyện của cô ấy hoàn toàn xuất phát từ bên trong - cô ấy thực sự muốn giúp đỡ người khác.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** I lost my motivate to study.
+> - ✅ **Correction:** I lost my motivation to study.
+> - **Why:** Motivation is the noun form; motivate is the verb form
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** Motivation is what gets you started. Habit is what keeps you going.
+> **Source:** [[Jim Ryun]]
 
 ---
 
@@ -161,120 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **motivation** (*/ˌmoʊtɪˈveɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The internal or external driving force that initiates, guides, and maintains goal-oriented behaviors
+> 🇻🇳 **Vietnamese:** Động lực, sự thôi thúc
+> 🗣️ **IPA:** */ˌmoʊtɪˈveɪʃn/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một chiếc motor bên trong bạn (motive = motor). Motor này cung cấp energy để bạn "move" (di chuyển) hướng tới mục tiêu. Motivation chính là cái "power" đẩy bạn hành động.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The internal or external driving force that initiates, guides, and maintains goal-oriented behaviors"
+**Vietnamese:** Động lực, sự thôi thúc
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**motivation** (*/ˌmoʊtɪˈveɪʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **motivation** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Without intrinsic motivation, students often struggle to engage deeply with challenging material.
+> 🇻🇳 **Translation:** Nếu không có động lực nội tại, học sinh thường gặp khó khăn trong việc tiếp thu sâu sắc với những tài liệu khó.
+> 🔍 **Analysis:** "Intrinsic motivation" (động lực nội tại) dùng để chỉ drive đến từ bên trong (sự thích thú, sự tò mò) thay vì bên ngoài (điểm số, tiền thưởng). Từ này perfect ở đây vì nó giải thích nguyên nhân sâu xa của hành vi học tập.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **motivation**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action Verb:** lose motivation (mất động lực - khi bạn không còn muốn tiếp tục)
+> 2. **Adjective Type:** stay motivated (giữ được động lực - continuous state)
+> 3. **Noun Compound:** find motivation (tìm thấy động lực - discovering new reason)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **motivation**:
+"She really wants to learn English."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She possesses a strong motivation to master English."
+> 💡 **Why it works:** "Possesses a strong motivation" thể hiện động lực như một sức mạnh nội tại tích cực, mạnh hơn "really wants" (chỉ đơn thuần là muốn). Nó nhấn mạnh vào drive và commitment.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **motivation** instead of **[[inspiration]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **motivation:** Dùng cho driving force thúc đẩy hành động - có thể kéo dài (maintain), có thể mất đi (lose). Nó là engine hoạt động liên tục.
+> **[[inspiration]]:** Là spark, moment of clarity - thường là starting point nhưng không kéo dài như motivation.
+> 🧱 **The Barrier:** Inspiration là khoảnh khắc "Aha!", motivation là cái gì đó giữ bạn đi tiếp. Inspiration có thể đến từ outside (art, music), motivation thường là internal mechanism.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend says they've stopped going to the gym after just one week. You want to understand why. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "What happened to your motivation?"
+> 👨‍🎨 **Director's Note:** Câu hỏi này không phán xét mà tò mò về cái driving force đã mất. Nó thể hiện sự quan tâm chân thành và mở ra conversation về việc tại sao động lực lại biến mất.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `motivus` to the meaning of **motivation**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "motivus" có nghĩa là "moving" (đang di chuyển). Từ này liên quan đến "movere" - di chuyển. Motivation là cái gì đó "moves" bạn hành động. Hãy tưởng tượng bạn là một chiếc xe - motivation chính là cái engine giúp chiếc xe đó di chuyển tới đích. Không có engine, xe đứng yên. Không có motivation, con người không hành động.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **motivation**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `motivus` (moving)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[motivate]] (thúc đẩy)
+> - *(adj)* [[motivated]] (có động lực)
+> - *(adj)* [[motivational]] (liên quan đến động lực)
+> - *(adv)* [[motivationally]] (một cách có động lực)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌmoʊtɪˈveɪʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**motivation**
+> 📖 **Meaning:** The driving force behind actions
+> 🇻🇳 **Vietnamese:** Động lực
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The boss tried to motivate his employees by giving them motivation bonuses."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The boss tried to motivate his employees by giving them incentive bonuses."
+> 🧠 **Why:** Motivation là internal drive (động lực nội tại), không phải thứ gì đó bạn có thể "give" (tặng) trực tiếp. Bonus là external factor, nên dùng "incentive" (thúc đẩy từ bên ngoài) chính xác hơn.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **motivation**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[apathy]] (thiếu quan tâm, vô cảm - complete lack of motivation)
+> - [[lethargy]] (sự lười biếng, thiếu năng lượng - physical and mental sluggishness)
+> 🧱 **Contrast:** Motivation là drive active, apathy là complete lack of interest. Motivation = engine running, apathy = engine turned off.
 
 ---

@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
 #flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [good job, real job, proper work, decent job, professional work]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈprɒpə dʒɒb/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** informal/conversational
+> **Etymology:** "Proper" (from Latin "proprius" - one's own, correct) + "Job" (Old English "gejobb" - piece of work)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** A job that is serious, appropriate, well-done, or suitable for someone.
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** A genuine, worthwhile, or professional job or task, often implying it's done properly or is of good quality. Can also mean a serious, substantial employment.
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** công việc đàng hoàng
+> - **Contextual:** công việc nghiêm túc, việc làm thực thụ, công việc xứng đáng, việc làm tử tế
 > 
 > **Nuances:**
-> - ...
+> - Implies quality or seriousness
+> - Can mean "done properly" OR "legitimate employment"
+> - Often used in British English
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Serious, Genuine, Professional
+> **Memory Hook:** "PROPER JOB" = NOT a toy job, NOT a half-done job = REAL, SERIOUS work
+> **📖 Etymology Story:** "Proper" originally meant "belonging to oneself" or "correct." A "proper job" is a job that's done correctly, appropriately - like a "real" or "genuine" piece of work, not a makeshift or temporary one.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun phrase:** [[proper job]] /ˈprɒpə dʒɒb/
+ 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[good job]] : similar, less emphasis on "properness"
+> - [[real work]] : similar, more informal
+> - [[decent job]] : implies good quality
+ 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[half-hearted effort]] : not done properly
+> - [[shoddy work]] : poor quality
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. do a proper job
+> 2. get a proper job
+> 3. make a proper job of
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** If you're going to paint the wall, you might as well do a proper job of it.
+> - **Translation:** Nếu bạn định sơn tường, thì hãy làm cho đàng hoàng một lần.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** After graduating, he wants to find a proper job in his field.
+> - **Translation:** Sau khi tốt nghiệp, anh ấy muốn tìm một việc làm nghiêm túc trong lĩnh vực của mình.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Using in formal writing**
+> - ❌ **Mistake:** The company will provide a proper job for all employees. (too informal)
+> - ✅ **Correction:** The company will provide suitable employment for all employees.
+> - **Why:** "Proper job" is colloquial British English. In formal contexts, use more professional language.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "They've done a proper job of renovating the old building."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **proper job** (*/ˈprɒpə dʒɒb/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A job or task that is done thoroughly, correctly, and seriously; or legitimate, substantial employment.
+> 🇻🇳 **Vietnamese:** Một công việc hoặc nhiệm vụ được làm kỹ lưỡng, đúng cách và nghiêm túc; hoặc một việc làm hợp pháp, xứng đáng.
+> 🗣️ **IPA:*/ˈprɒpə dʒɒb/*
+> 🧠 **Mental Model:** "Proper" = đúng, đủ, nghiêm túc. "Proper job" = làm cho xứng đáng, không ẩu, không nửa vời. Nó như nói "làm đàng hoàng, tử tế" hoặc "việc làm thực thụ chứ không phải tạm thời".
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A job done thoroughly and correctly, or legitimate employment"
+**Vietnamese:** Việc được làm kỹ lưỡng và đúng cách, hoặc việc làm hợp pháp
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**proper job** (*/ˈprɒpə dʒɒb/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **proper job** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The contractor promised to do a proper job of fixing the roof, not just a temporary patch.
+> 🇻🇳 **Translation:** Nhà thầu hứa sẽ sửa mái nhà cho đàng hoàng, không chỉ là vá tạm thời.
+> 🔍 **Analysis:** "Proper job" ở đây nhấn mạnh chất lượng - làm cho xứng đáng, không ẩu. Nó ngụ ý job sẽ được done thoroughly, professionally. Đây là colloquial expression rất common trong British English.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **proper job**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action (Hành động):** do/make a proper job of something (<VN note: làm cho đàng hoàng, kỹ lưỡng>)
+> 2. **Employment (Việc làm):** get/find/land a proper job (<VN note: tìm được việc làm nghiêm túc, xứng đáng>)
+> 3. **Quality (Chất lượng):** a proper job of work/renovation/repair (<VN note: công việc được làm kỹ>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **proper job**:
+"They fixed the car well."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The mechanics made a proper job of repairing the engine - it's running better than new."
+> 💡 **Why it works:** "Proper job" adds emphasis on thoroughness and quality. Instead of just "well," readers understand the work was done completely, professionally, and with care - much stronger endorsement.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **proper job** instead of **[[good job]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **proper job:** Emphasizes correctness and thoroughness (<VN note: nhấn mạnh đúng cách, kỹ lưỡng, làm đàng hoàng>)
+> **[[good job]]:** General praise for quality (<VN note: khen ngợi chung về chất lượng tốt>)
+> 🧱 **The Barrier:** "Good job" is generic praise. "Proper job" implies it was done the RIGHT way - thoroughly, not half-measures. More British, more emphatic about correctness.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're complaining to a friend about work that was done poorly by someone else. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I paid for a professional service, but they certainly didn't do a proper job of it."
+> 👨‍🎨 **Director's Note:** This phrase captures disappointment about shoddy work. It emphasizes that what was done was inadequate - not just "bad" but not done properly or thoroughly.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<proprius>` (one's own, correct) to the meaning of **proper job**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Proper" từ Latin "proprius" = "of oneself, appropriate". Một "proper" cái gì đó là cái gì đó được done "the right way" - cách phù hợp, đúng đắn. "Proper job" = job được done the proper way = đúng quy trình, đủ kỹ lưỡng.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **proper job**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Components:** Adjective `proper` (đúng, đàng hoàng) + Noun `job` (công việc)
+> 👨‍👩‍👧 **Related expressions:** 
+> - *(idiom)* [[do a proper job]] /duː ə ˈprɒpə dʒɒb/ (làm cho đàng hoàng)
+> - *(colloquial)* [[good and proper]] /ɡʊd ənd ˈprɒpə/ (đúng mực, đúng kiểu)
+> - *(adj)* [[proper]] /ˈprɒpə/ (đúng đắn, hợp quy)
+> - *(antonym)* [[shoddy]] /ˈʃɒdi/ (ẩu, kém chất lượng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈprɒpə dʒɒb/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**proper job** 
+> 📖 **Meaning:** A job done thoroughly and correctly
+> 🇻🇳 **Vietnamese:** Việc được làm kỹ lưỡng và đúng cách
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Using "proper job" in formal business writing
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** Use "thorough work," "professional job," or "quality workmanship" in formal contexts
+> 🧠 **Why:** "Proper job" is colloquial, especially British. Formal writing requires more professional terminology to maintain appropriate tone.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What contrasts with **proper job**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[half-hearted job]] (job done without enthusiasm or effort)
+> - [[shoddy work]] (poor quality, careless work)
+> 🧱 **Contrast:** A "proper job" is thorough and correctly done. Its opposites are jobs done carelessly, incompletely, or without proper effort.
 
 ---

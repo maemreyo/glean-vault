@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
 #flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [inspired me, gave me ideas, sparked my creativity, provided ideas, generated ideas]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈɡɪvən miː ləʊdz ɒv aɪˈdɪəz/
+> **Part of Speech:** verb phrase (idiomatic)
+> **CEFR Level:** B2
+> **Register:** informal/conversational
+> **Etymology:** Combination of "give" + "me" + "loads of" (informal for "many") + "ideas"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** Provided me with many ideas or inspiration.
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** Made me think of many possibilities; inspired me with numerous creative thoughts or solutions.
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** đã cho tôi nhiều ý tưởng
+> - **Contextual:** đã truyền cảm hứng cho tôi, đã giúp tôi nảy sinh nhiều ý tưởng, đã kích thích trí tưởng tượng của tôi
 > 
 > **Nuances:**
-> - ...
+> - Informal, conversational expression
+> - "Loads of" means "a lot of"
+> - Implies creativity or inspiration
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Creative, Inspired, Enthusiastic
+> **Memory Hook:** "GIVEN ME LOADS OF IDEAS" = my brain is now FULL of thoughts 💡💡💡
+> **📖 Etymology Story:** "Loads of" is colloquial for "a lot of" - like a truckload full. The phrase paints an image of someone's mind being filled to overflowing with ideas and inspiration.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb phrase:** [[given me loads of ideas]] /ˈɡɪvən miː ləʊdz ɒv aɪˈdɪəz/
+ 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[inspired me]] : more formal
+> - [[sparked my creativity]] : similar imagery
+> - [[provided many ideas]] : more neutral
+ 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[left me with no ideas]] : opposite
+> - [[stumped me]] : blocked my thinking
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. has given me loads of ideas
+> 2. really given me loads of ideas
+> 3. given me loads of ideas for
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The workshop has given me loads of ideas for my new project.
+> - **Translation:** Buổi hội thảo đã truyền cho tôi nhiều ý tưởng cho dự án mới của tôi.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Visiting that museum really given me loads of ideas for the renovation.
+> - **Translation:** Thăm bảo tàng đó thực sự đã cho tôi nhiều ý tưởng cho việc cải tạo.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Grammatical structure**
+> - ❌ **Mistake:** That book given me loads of ideas. (incorrect tense)
+> - ✅ **Correction:** That book has given me loads of ideas. / That book gave me loads of ideas.
+> - **Why:** This is a perfect verb phrase - use correct auxiliary verbs depending on tense.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The conversation with the professor has given me loads of ideas for my research."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **given me loads of ideas** (*/ˈɡɪvən miː ləʊdz ɒv aɪˈdɪəz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Provided someone with many thoughts, inspirations, or creative possibilities; filled someone's mind with numerous ideas.
+> 🇻🇳 **Vietnamese:** Cung cấp cho ai đó nhiều suy nghĩ, cảm hứng hoặc khả năng sáng tạo; lấp đầy tâm trí ai đó với nhiều ý tưởng.
+> 🗣️ **IPA:*/ˈɡɪvən miː ləʊdz ɒv aɪˈdɪəz/*
+> 🧠 **Mental Model:** "Given me" = đã cho tôi. "Loads of" = rất nhiều (informal, giống như "núi"). "Ideas" = ý tưởng. Together = đã truyền cho tôi một mountain load ý tưởng - brain của tôi bây giờ đầy thoughts!
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Provided someone with many inspirations or creative thoughts"
+**Vietnamese:** Cung cấp cho ai đó nhiều cảm hứng hoặc suy nghĩ sáng tạo
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**given me loads of ideas** (*/ˈɡɪvən miː ləʊdz ɒv aɪˈdɪəz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **given me loads of ideas** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The design exhibition has given me loads of ideas for redecorating my apartment.
+> 🇻🇳 **Translation:** Triển lãm thiết kế đã cho tôi rất nhiều ý tưởng để trang trí lại căn hộ của tôi.
+> 🔍 **Analysis:** "Given me loads of ideas" là colloquial phrase rất natural trong everyday conversation. "Loads of" là informal way để nói "a lot of". Perfect cho IELTS Speaking khi muốn express inspiration hoặc creativity một cách natural, không textbook.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **given me loads of ideas**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Subject (Chủ ngữ):** has/has really/has truly given me loads of ideas (<VN note:** thường dùng với "has" để nói về kết quả hiện tại>)
+> 2. **Context (Ngữ cảnh):** given me loads of ideas for/about/on (<VN note:** chỉ về field nào mà ideas là về>)
+> 3. **Emphasis (Nhấn mạnh):** really/genuinely/actually given me loads of ideas (<VN note:** thêm adverb để nhấn mạnh mức độ>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **given me loads of ideas**:
+"The book made me think of many possibilities."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Reading that novel has given me loads of ideas for my own storytelling approach."
+> 💡 **Why it works:** "Given me loads of ideas" sounds more enthusiastic and personal than "made me think of possibilities." It captures genuine inspiration and creative excitement - perfect for conversational or creative writing.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **given me loads of ideas** instead of **[[inspired me]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **given me loads of ideas:** Emphasizes quantity and conversational tone (<VN note:** nhấn mạnh số lượng nhiều, giọng nói chuyện>)
+> **[[inspired me]]:** More formal, focuses on the feeling (<VN note:** trang trọng hơn, tập trung vào cảm xúc>)
+> 🧱 **The Barrier:** "Given me loads of ideas" is casual and emphasizes HOW MANY ideas (quantity). "Inspired me" is about the emotional effect of inspiration. Use the first in conversation; use "inspired" in more formal contexts.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're thanking a mentor who helped you brainstorm a project. You feel grateful and inspired. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Thank you so much for the guidance - our discussions have really given me loads of ideas I hadn't considered before!"
+> 👨‍🎨 **Director's Note:** This phrase sounds genuine and enthusiastic. It's not just polite acknowledgment but real appreciation for the creative boost received - much more warm than formal alternatives.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Explain the idiom structure **given me loads of ideas**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Loads of" là colloquial expression thay cho "a lot of" - giống như "xe tải đầy". "Given me loads of ideas" = "đã cho tôi một xe tải đầy ý tưởng". Nó tạo hình ảnh abundance, overflow of creative thoughts - rất graphic và expressive.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the components of **given me loads of ideas**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Components:** Past participle `given` + Object `me` + Informal quantifier `loads of` + Noun `ideas`
+> 👨‍👩‍👧 **Related expressions:** 
+> - *(similar)* [[given me plenty of ideas]] /ˈɡɪvən miː ˈplenti ɒv aɪˈdɪəz/
+> - *(formal)* [[provided inspiration]] /prəˈvaɪdɪd ˌɪnspəˈreɪʃən/
+> - *(idiom)* [[sparked my imagination]] /spɑːkt maɪ ɪˌmædʒɪˈneɪʃən/
+> - *(opposite)* [[stumped for ideas]] /stʌmpt fɔː aɪˈdɪəz/
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈɡɪvən miː ləʊdz ɒv aɪˈdɪəz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**given me loads of ideas** 
+> 📖 **Meaning:** Provided someone with many inspirations or creative thoughts
+> 🇻🇳 **Vietnamese:** Cung cấp cho ai đó nhiều cảm hứng hoặc suy nghĩ sáng tạo
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Incorrect auxiliary verb with past participle
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** Use "has given" (present perfect) or "gave" (past simple), never just "given" without auxiliary
+> 🧠 **Why:** "Given" is past participle. In English, past participles need auxiliary verbs (has/have/had). Never use alone as main verb.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What contrasts with **given me loads of ideas**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Antonyms/Contrast:**
+> - [[left me with no ideas]] (provided zero inspiration)
+> - [[stumped me completely]] (blocked all thinking)
+> 🧱 **Contrast:** While "given me loads of ideas" fills the mind with creative thoughts, its opposites represent mental blocks or complete lack of inspiration.
 
 ---

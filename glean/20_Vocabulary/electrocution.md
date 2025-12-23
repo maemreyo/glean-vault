@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [electrocution, electrocuted, electrocuting, fatal electric shock, death by electricity]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ɪˌlektroˈkjuːʒn/
+> **Part of Speech:** noun
+> **CEFR Level:** C1
+> **Register:** formal/technical
+> **Etymology:** From "electricity" + "execution" - death caused by electric current
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Death or severe injury caused by electric shock
+>
+> **Context Meaning:** The process of being killed or injured by electricity passing through the body
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tử vong do điện giật
+> - **Contextual:** điện giật chết, bị giật điện gây thương tích nặng
+>
 > **Nuances:**
-> - ...
+> - A serious, potentially fatal medical emergency
+> - Usually accidental, can be occupational or household
+> - Can also be used historically for capital punishment (electric chair)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Dangerous, Serious, Deadly
+> **Memory Hook:** ELECTRO + CUTION (like execution) = killed by electricity! Think: ELECTRO = electricity, CUTION = killing. ELECTROCUTION = electricity killing someone.
+> **📖 Etymology Story:** "Electrocution" là sự kết hợp giữa "electricity" (điện) và "execution" (hành quyết, án tử hình). Từ này được tạo ra vào những năm 1800 khi cái ghế điện (electric chair) được phát triển như một phương pháp hành quyết. Ngày nay chủ yếu dùng cho tai nạn điện gây tử vong.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[electrocution]] /ɪˌlektroˈkjuːʒn/, [[electricity]] /ɪˌlekˈtrɪsəti/
+> - **Verb:** [[electrocute]] /ɪˈlektroʊkuːt/
+> - **Adj:** [[electric]] /ɪˈlekttrɪk/, [[electrical]] /ɪˈlektrɪkl/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[electric shock]] : more general, can be non-fatal
+> - [[fatal electric shock]] : specifically death-causing
+> - [[electric death]] : less common term
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[safety from electricity]] : protected from electric harm
+> - [[insulation]] : protection from electric current
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. die by electrocution
+> 2. risk of electrocution
+> 3. accidental electrocution
+> 4. electrocution injury
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The construction worker survived electrocution after accidentally touching a live power line.
+> - **Translation:** Người công nhân xây dựng đã sống sót sau tai nạn điện giật do vô tình chạm vào dây điện đang通电.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Proper insulation and safety equipment are essential to prevent electrocution in industrial workplaces.
+> - **Translation:** Cách điện thích hợp và thiết bị an toàn là thiết yếu để ngăn chặn tai nạn điện giật trong môi trường công nghiệp.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Overuse vs Electric Shock**
+> - ❌ **Mistake:** "I got electrocuted" (when referring to a minor shock)
+> - ✅ **Correction:** "I got an electric shock" (minor), "I was electrocuted" (fatal or very serious)
+> - **Why:** "Electrocuted" implies death or severe injury. For minor shocks, use "electric shock" or "shocked."
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Immediate medical attention is crucial after electrocution to prevent heart complications."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **electrocution** (*/ɪˌlektroˈkjuːʒn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Death or severe injury caused by an electric shock, where strong electric current passes through the body, potentially stopping the heart or causing serious tissue damage.
+> 🇻🇳 **Vietnamese:** Tử vong hoặc thương tích nặng do dòng điện mạnh đi qua cơ thể, có thể làm ngừng tim hoặc gây tổn thương mô nghiêm trọng.
+> 🗣️ **IPA:** */ɪˌlektroˈkjuːʒn/*
+> 🧠 **Mental Model:** Hãy tưởng tượng dòng điện như một con quái vật vô hình. Khi nó đi qua cơ thể con người trong electrocution, nó giống như một cú sốc mạnh có thể làm ngừng tim ngay lập tức. ELECTROcution = ELECTRICITY + EXECUTION (hành quyết).
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Death or severe injury caused by electric current passing through the body"
+**Vietnamese:** Tử vong do điện giật
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**electrocution** (*/ɪˌlektroˈkjuːʒn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **electrocution** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The fire department issued a warning about the dangers of electrocution when attempting to rescue people from flooded areas with downed power lines.
+> 🇻🇳 **Translation:** Sở cứu hỏa đã đưa ra cảnh báo về nguy cơ điện giật khi cố gắng cứu người từ các khu vực ngập nước với dây điện bị đổ.
+> 🔍 **Analysis:** Trong câu này, "electrocution" được dùng với tính chất nghiêm trọng và cảnh báo. Nó diễn tả một mối nguy hiểm chết người, không chỉ đơn thuần là một cú sốc điện nhỏ. Sự sử dụng này phù hợp với ngữ cảnh cảnh báo an toàn công cộng.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **electrocution**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Fatality Contexts:** death by electrocution, fatal electrocution, died from electrocution (chết do điện giật - các ngữ cảnh tử vong)
+> 2. **Risk Description:** risk of electrocution, electrocution hazard, electrocution danger (nguy cơ điện giật - các ngữ cảnh rủi ro)
+> 3. **Prevention:** prevent electrocution, electrocution safety, avoid electrocution (ngăn chặn điện giật - các ngữ cảnh phòng ngừa)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **electrocution**:
+"He got hurt by electricity and almost died."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He suffered a severe electrocution and barely survived."
+> 💡 **Why it works:** "Electrocution" diễn tả mức độ nghiêm trọng của thương tích do điện - không chỉ là "hurt" (bị thương) mà là thương tích nghiêm trọng, có thể gây tử vong. Từ này mang tính chất kỹ thuật y tế và pháp lý.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **electrocution** instead of **electric shock**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **electrocution:** Dùng khi thương tích gây tử vong hoặc rất nghiêm trọng, thường mang tính chất y tế/pháp lý. Nghe grave hơn nhiều.
+> **electric shock:** Dùng chung cho mọi loại điện giật từ nhỏ đến nghiêm trọng, không nhất thiết gây tử vong.
+> 🧱 **The Barrier:** "Electrocution" gợi ý EXECUTION (hành quyết) - có thể gây tử vong. "Electric shock" chỉ đơn thuần là cú sốc điện. Hãy nhớ: electrocuted = chết (thường), shocked = bị sốc (có thể nhỏ).
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You see someone working near exposed electrical wires without protection. You feel urgent concern. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Be careful! That's a serious electrocution risk if you touch those live wires."
+> 👨‍🎨 **Director's Note:** Cụm từ này thể hiện mức độ nghiêm trọng của nguy hiểm, phù hợp với cảnh báo khẩn cấp về an toàn điện.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<electro>` and `<cution>` to the meaning of **electrocution**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Electrocution" là sự kết hợp của "electro" (từ electricity - điện) và "cution" (từ execution - hành quyết, án tử hình). Từ này được tạo ra vào cuối thế kỷ 19 khi cái ghế điện được phát triển như một phương pháp hành quyết thay thế treo cổ. Ngày nay chủ yếu dùng cho tai nạn điện gây tử vong.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **electrocution**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `ēlektron` (amber, associated with electricity) + Latin `executio` (execution)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[electrocution]], [[electricity]], [[electron]]
+> - *(verb)* [[electrocute]]
+> - *(adj)* [[electric]], [[electrical]], [[electronic]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ɪˌlektroˈkjuːʒn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**electrocution**
+> 📖 **Meaning:** Death or severe injury from electric shock
+> 🇻🇳 **Vietnamese:** Tử vong hoặc thương tích nặng do điện
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Overuse of **electrocution**
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "I got an electric shock" (for minor shocks), "I was electrocuted" (for fatal/severe cases)
+> 🧠 **Why:** "Electrocution" nghĩa là bị điện GIẾT CHẾT hoặc gây thương tích RẤT NẶNG. Khi chỉ bị sốc điện nhỏ, dùng "electric shock" hoặc "got shocked." Không dùng "electrocuted" cho trường hợp nhỏ.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite concept of **electrocution**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[electrical safety]] (protection from electric harm)
+> - [[proper insulation]] (prevention of electrocution)
+> - [[grounding protection]] (safety measure against electrocution)
+> 🧱 **Contrast:** "Electrocution" = thương tích hoặc tử vong do điện; "Electrical safety/insulation" = bảo vệ, ngăn chặn nguy hiểm điện.
 
 ---

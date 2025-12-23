@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
 #flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [penalty, penalties, penalty kick, spot kick, the penalty, free kick]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə ˈpenlti/
+> **Part of Speech:** noun
+> **CEFR Level:** B1-B2
+> **Register:** informal/formal (sports context)
+> **Etymology:** penalty (Latin poena, punishment, via Old French penalte)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A punishment or disadvantage imposed for breaking rules
+>
+> **Context Meaning:** In football/soccer, a free kick awarded from the penalty spot when a foul occurs in the penalty area
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** hình phạt
+> - **Contextual:** quả phạt đền (trong bóng đá)
+>
 > **Nuances:**
-> - ...
+> - Direct shot at goal from 12 yards
+> - Major opportunity to score
+> - Awarded for serious fouls in goal area
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Punishing, Critical, Decisive
+> **Memory Hook:** "PENALTY = PUNISHMENT for foul, OPPORTUNITY for score"
+> **📖 Etymology Story:** Latin "poena" meant punishment - "a penalty" in football represents both punishment for the defending team (foul) và opportunity for the attacking team (direct shot). The punishment becomes the chance.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[penalty]] /ˈpenlti/ (punishment)
+> - **Adj:** [[penal]] /ˈpiːnl/ (relating to punishment)
+> - **Noun:** [[penalty kick]] (specific shot)
+> - **Noun:** [[penalty area]] (the box)
+> - **Noun:** [[penalty spot]] (where the ball is placed)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[penalty kick]] /ˈpenlti kɪk/ : full term
+> - [[spot kick]] /spɒt kɪk/ : informal alternative
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[free kick]] (awarded outside penalty area)
+> - [[advantage]] (play continues when fouled)
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. take a penalty
+> 2. awarded a penalty
+> 3. score a penalty
+>
+> **1. Example Context 1 - Sports Commentary**
+> - **Sentence:** The referee awarded a penalty after the defender handled the ball in the box.
+> - **Translation:** Trọng tài đã cho một quả phạt đền sau khi hậu vệ chơi bóng bằng tay trong vòng cấm.
+>
+> **2. Example Context 2 - Match Description**
+> - **Sentence:** He confidently stepped up to take the penalty and scored in the top corner.
+> - **Translation:** Anh ấy tự tin bước lên thực hiện quả phạt đền và ghi bàn vào góc cao.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** They were awarded penalty.
+> - ✅ **Correction:** They were awarded a penalty.
+> - **Why:** "Penalty" as a countable noun needs an indefinite article when referring to a single penalty.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** The striker's powerful penalty hit the solid crossbar.
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a penalty** (*/ə ˈpenlti/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** In football/soccer, a direct free kick from the penalty spot awarded when a foul occurs in the penalty area, usually a great scoring opportunity
+> 🇻🇳 **Vietnamese:** Một quả phạt đền (cú sút trực tiếp vào khung thành từ 12 yards khi bị phạm lỗi trong vòng cấm)
+> 🗣️ **IPA:** */ə ˈpenlti/*
+> 🧠 **Mental Model:** Moment critical trong football khi attacker được kick directly at goal từ penalty spot - no defenders between ball và goal except goalkeeper
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A direct free kick at goal awarded for a foul in the penalty area"
+**Vietnamese:** Một quả phạt đền
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a penalty** (*/ə ˈpenlti/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **a penalty** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The match ended in a draw after a dramatic penalty shootout in the final minutes.
+> 🇻🇳 **Translation:** Trận đấu kết thúc với tỷ số hòa sau một loạt sút luân lưu phạt đền kịch tính trong những phút cuối.
+> 🔍 **Analysis:** Word này perfect vì "penalty" là established sports term communicates both punishment (for foul) và opportunity (to score), concise và universally understood
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a penalty**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** take a penalty (thực hiện quả phạt - shooter's action)
+> 2. **Official:** award a penalty (cho quả phạt - referee's decision)
+> 3. **Outcome:** score/miss a penalty (ghi/trượt quả phạt - result)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a penalty**:
+"He had to kick the ball directly at the goal because of a foul."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He was awarded a penalty after the defender's foul and had a clear shot at goal."
+> 💡 **Why it works:** "A penalty" là specific sports terminology captures the exact situation, nâng description từ generic action sang recognized football scenario
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a penalty** instead of **[[a free kick]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a penalty:** Direct shot at goal from penalty spot (12 yards), awarded only for fouls in penalty area (VN: quả phạt đền từ 12 yards, chỉ trong vòng cấm)
+> **[[a free kick]]:** Indirect or direct kick from where foul occurred, defenders can stand closer (VN: quả phạt trực tiếp/gián tiếp từ chỗ phạm lỗi)
+> 🧱 **The Barrier:** "Penalty" is always from spot, direct shot on goal; "free kick" is from foul location with different rules
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're watching a tense football match with friends. You feel nervous. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This is it - the referee just awarded a penalty in the final minute of the match!"
+> 👨‍🎨 **Director's Note:** Word này captures the drama và decisive moment, perfect cho expressing excitement về crucial game situation
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `penalty` to the meaning of **a penalty**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin "poena" meant punishment - "a penalty" in football embodies dual nature: punishment for the fouling team (they face direct shot) và opportunity for attacking team. The punishment becomes the chance
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **a penalty**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `poena` (punishment)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[penalty]] (punishment, disadvantage)
+> - *(adj)* [[penal]] (relating to punishment)
+> - *(noun)* [[penalty area]] (the box where penalty awarded)
+> - *(noun)* [[penalty spot]] (where penalty taken)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ə ˈpenlti/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a penalty**
+> 📖 **Meaning:** A direct kick at goal awarded for a foul in the penalty area
+> 🇻🇳 **Vietnamese:** Một quả phạt đền
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Missing article with penalty
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The referee awarded a penalty." (NOT "The referee awarded penalty.")
+> 🧠 **Why:** "Penalty" is a countable noun requiring an article ("a/the") when used as a singular noun phrase
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a penalty**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[a free kick]] (awarded outside penalty area with different rules)
+> - [[an advantage]] (play continues instead of stopping for foul)
+> 🧱 **Contrast:** "Penalty" = direct shot from penalty spot for foul in box; "free kick" = kick from foul location; "advantage" = no stoppage, play continues
 
 ---

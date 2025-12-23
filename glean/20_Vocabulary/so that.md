@@ -1,159 +1,77 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [in order that, so as to, in order to, for the purpose of, with the aim that]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /səʊ ðæt/
+> **Part of Speech:** conjunction phrase
+> **CEFR Level:** B2
+> **Register:** neutral/formal
+> **Etymology:** "So" (Old English "swā" - thus, in this way) + "that" (Old English "þæt" - that)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** For the purpose that; in order that.
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** Used to introduce a clause explaining the purpose or reason for an action.
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** để mà, cho nên
+> - **Contextual:** để, nhằm mục đích, vì thế
 > 
 > **Nuances:**
-> - ...
+> - Connects action with its purpose
+> - Can express result OR purpose depending on context
+> - Essential for complex sentence structure
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Purposeful, Explanatory, Logical
+> **Memory Hook:** "SO THAT" = action + arrow pointing to purpose (→)
+> **📖 Etymology Story:** "So" means "thus" or "in this way," and "that" points to the result. Together, they create a bridge between cause and purpose - like saying "in this way, so that..."
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Conjunction:** [[so that]] /səʊ ðæt/
+> - **Alternative:** [[in order that]] /ɪn ˈɔːdə ðæt/
+ 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[in order to]] : similar structure but followed by infinitive
+> - [[so as to]] : slightly more formal
+> - [[because]] : indicates reason, not purpose
+ 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[although]] : concession, not purpose
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. arrange so that
+> 2. plan so that
+> 3. designed so that
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** We left early so that we could catch the first train.
+> - **Translation:** Chúng tôi rời đi sớm để có thể bắt được chuyến tàu đầu tiên.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The app is designed so that even children can use it easily.
+> - **Translation:** Ứng dụng được thiết kế để ngay cả trẻ em cũng có thể sử dụng dễ dàng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing purpose with result**
+> - ❌ **Mistake:** He studied hard, so that he passed the exam. (incorrect for result)
+> - ✅ **Correction:** He studied hard, so he passed the exam. OR He studied hard so that he would pass the exam.
+> - **Why:** "So that" introduces purpose (future intention), while "so" alone introduces result (actual outcome).
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The system is set up so that data flows automatically between departments."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +79,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **so that** (*/səʊ ðæt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Used to introduce the purpose or reason for doing something; in order that.
+> 🇻🇳 **Vietnamese:** Dùng để giới thiệu mục đích hoặc lý do thực hiện hành động; để, nhằm.
+> 🗣️ **IPA:*/səʊ ðæt/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một arrow (→): Action → **so that** → Purpose. Nó như cầu nối giữa cái ta làm và lý do tại sao ta làm.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Used to introduce the purpose or reason for an action"
+**Vietnamese:** Dùng để giới thiệu mục đích hoặc lý do cho hành động
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**so that** (*/səʊ ðæt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **so that** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** She saved money every month so that she could travel next summer.
+> 🇻🇳 **Translation:** Cô ấy tiết kiệm tiền mỗi tháng để có thể đi du lịch vào mùa hè tới.
+> 🔍 **Analysis:** Ở đây "so that" thể hiện purpose (mục đích). Clause sau "so that" sử dụng "could" vì nó nói về future intention từ past. Structure này rất quan trọng trong IELTS writing task 2.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **so that**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Planning (Lập kế hoạch):** designed/arranged/planned so that (<VN note: dùng khi nói về thiết kế, sắp xếp có chủ đích>)
+> 2. **Communication (Giao tiếp):** explain/show so that (<VN note: dùng khi làm rõ một ý để người khác hiểu>)
+> 3. **Preparation (Chuẩn bị):** prepare/leave/arrive so that (<VN note: dùng cho hành động chuẩn bị cho mục đích sau>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **so that**:
+"We left early to catch the train."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "We left early so that we wouldn't miss the first train."
+> 💡 **Why it works:** "So that" adds clarity and purpose. Instead of just connecting actions, it explains the WHY - creating a more sophisticated sentence structure that shows logical relationship between cause and purpose.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **so that** instead of **[[because]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **so that:** Introduces purpose or intention (<VN note: cho mục đích, ý định trong tương lai>)
+> **[[because]]:** Explains the reason or cause (<VN note: giải thích nguyên nhân đã xảy ra>)
+> 🧱 **The Barrier:** "So that" looks forward (future purpose), while "because" looks backward (past reason). Example: "I study so that I can pass" (purpose) vs "I passed because I studied" (reason).
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining to your boss why you scheduled a meeting at a specific time. You want to show it was intentional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I scheduled the meeting at 3 PM so that everyone from the London team could join without staying up late."
+> 👨‍🎨 **Director's Note:** This shows careful consideration and purposeful planning. "So that" demonstrates that the timing wasn't arbitrary but chosen with specific intent.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots to the meaning of **so that**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "So" từ gốc Germanic nghĩa là "thus" (như vậy), "that" nghĩa là "cái đó". Kết hợp lại: "in that way, pointing to that result" = "như thế thì đến kết quả đó". Đây là cách tạo logical connector giữa action và purpose trong English.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **so that**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Old English `swā` (so, thus) + `þæt` (that)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(conjunction phrase)* [[so that]] /səʊ ðæt/
+> - *(conjunction phrase)* [[in order that]] /ɪn ˈɔːdə ðæt/
+> - *(conjunction phrase)* [[so as to]] /səʊ æz tuː/
+> - *(adverb)* [[so]] /səʊ/ (thús, therefore)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */səʊ ðæt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**so that** 
+> 📖 **Meaning:** Used to introduce purpose or reason for an action
+> 🇻🇳 **Vietnamese:** Dùng để giới thiệu mục đích hoặc lý do cho hành động
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Incorrect verb tense after "so that"
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** Use appropriate modal verbs (can, could, will, would) or present tense depending on context
+> 🧠 **Why:** After "so that" expressing purpose, use modals that indicate possibility/intention. Present: "so that I can do"; Past: "so that I could do"; Future: "so that I will be able to do".
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What connectors contrast with **so that**?
 ?
-> **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> **Antonyms/Contrast:**
+> - [[although]] (shows concession, not purpose)
+> - [[despite]] (despite purpose)
+> 🧱 **Contrast:** "So that" creates purposeful connection (action → purpose), while "although" creates contrast (despite X, Y happened).
 
 ---

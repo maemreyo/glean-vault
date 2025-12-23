@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
 #flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
-
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [spell and punctuate, spelling and punctuating, spells and punctuates, spelled and punctuated, spelling and punctuation]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /spel ənd ˈpʌŋktʃueɪt/
+> **Part of Speech:** verb phrase
+> **CEFR Level:** B1
+> **Register:** formal/educational
+> **Etymology:** spell (from Old English spellian) + punctuate (from Latin punctuare)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To write words correctly and add punctuation marks
+>
+> **Context Meaning:** The ability to form words with correct letters and use punctuation marks properly to make written communication clear and accurate
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chính tả và dấu câu
+> - **Contextual:** viết đúng chính tả và dùng dấu câu
+>
 > **Nuances:**
-> - ...
+> - Two separate skills combined: spelling accuracy + punctuation usage
+> - Essential for clear written communication
+> - Part of literacy skills
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Precise, Educational, Academic
+> **Memory Hook:** Spell = putting letters in right order; Punctuate = adding dots and commas to show where to pause
+> **📖 Etymology Story:** "Spell" from Old English meaning "to say out letters". "Punctuate" from Latin "punctuare" meaning "to mark with points" (dots). Together they form the foundation of proper writing.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[spell]] /spel/
+> - **Verb:** [[punctuate]] /ˈpʌŋktʃueɪt/
+> - **Noun:** [[spelling]] /ˈspelɪŋ/
+> - **Noun:** [[punctuation]] /ˌpʌŋktʃuˈeɪʃn/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[write correctly]] (viết đúng)
+> - [[edit properly]] (chỉnh sửa đúng cách)
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonyms
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. learn to spell and punctuate
+> 2. help someone spell and punctuate
+> 3. ability to spell and punctuate
+> 4. spell and punctuate correctly
+> 5. teach children to spell and punctuate
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Students need to spell and punctuate accurately to achieve high grades in writing assignments.
+> - **Translation:** Học sinh cần chính tả và dùng dấu câu chính xác để đạt điểm cao trong các bài viết.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The teacher explained how to spell and punctuate dialogue properly.
+> - **Translation:** Giáo viên giải thích cách viết chính tả và dùng dấu câu cho đoạn hội thoại đúng cách.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** He needs to learn to spell and punctuation.
+> - ✅ **Correction:** He needs to learn to spell and punctuate.
+> - **Why:** Parallel structure - both verbs: spell AND punctuate
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** To spell and punctuate correctly is to respect your reader and your message.
+> **Source:** [[Writing Guide]]
 
 ---
 
@@ -161,120 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **spell and punctuate** (*/spel ənd ˈpʌŋktʃueɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To write words with correct letter order (spelling) and use punctuation marks appropriately (punctuation) for clear written communication
+> 🇻🇳 **Vietnamese:** Viết đúng chính tả và dùng dấu câu
+> 🗣️ **IPA:** */spel ənd ˈpʌŋktʃueɪt/*
+> 🧠 **Mental Model:** Hãy tưởng tượng viết văn như xây nhà. "Spell" là sắp xếp đúng các viên gạch (các chữ cái) đúng vị trí. "Punctuate" là thêm các điểm dừng, điểm ngắt (dấu chấm, dấu phẩy) để người đọc biết khi nào nghỉ, khi nào tiếp tục. Cả hai cùng làm cho văn bản clear và dễ đọc.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To write words with correct letter order and use punctuation marks appropriately"
+**Vietnamese:** Viết đúng chính tả và dùng dấu câu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**spell and punctuate**
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **spell and punctuate** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Children must learn to spell and punctuate correctly from an early age to develop strong literacy skills.
+> 🇻🇳 **Translation:** Trẻ em phải học viết chính tả và dùng dấu câu đúng cách từ sớm để phát triển kỹ năng đọc viết tốt.
+> 🔍 **Analysis:** "Spell and punctuate correctly" mô tả hai fundamental skills của writing. Từ này perfect vì nó capture được dual requirement: accuracy (spelling) + clarity (punctuation). Cả hai đều essential cho effective written communication.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **spell and punctuate**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Skill Development:** learn to spell and punctuate (học cách viết chính tả và dùng dấu câu - foundational skill)
+> 2. **Assessment:** spell and punctuate correctly (viết chính tả và dùng dấu câu đúng cách - accuracy)
+> 3. **Educational Context:** teach someone to spell and punctuate (dạy ai đó kỹ năng viết đúng - instruction)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **spell and punctuate**:
+"She needs to improve her writing skills."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She needs to improve her ability to spell and punctuate."
+> 💡 **Why it works:** "Ability to spell and punctuate" cụ thể hơn "writing skills". Nó focus vào technical accuracy (chính tả và dấu câu) - hai pillars của good writing, làm cho statement rõ ràng và actionable.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **spell and punctuate** instead of **[[write correctly]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **spell and punctuate:** Specific, technical terms - nói chính xác về hai mechanics của writing: letter accuracy và punctuation usage. Có academic/formal feel.
+> **[[write correctly]]:** General, vague - có thể bao gồm grammar, style, content, structure, không chỉ spelling và punctuation.
+> 🧱 **The Barrier:** Spell and punctuate = technical precision, write correctly = general correctness. Spell and punctuate dùng trong educational/testing contexts nhiều hơn.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** A student asks why they keep losing points on their essays. You identify the problem. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "You have great ideas, but you need to learn to spell and punctuate more carefully."
+> 👨‍🎨 **Director's Note:** Feedback này positive (compliment ideas) nhưng specific về problem area. Nó shows that content is good nhưng mechanical skills cần improvement. Constructive và actionable.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `spellian` and `punctuare` to the meaning of **spell and punctuate**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Spell" từ Old English "spellian" nghĩa là "to say out letters" (đọc từng chữ cái). "Punctuate" từ Latin "punctuare" nghĩa là "to prick or mark with points" (đánh dấu bằng các điểm). Kết hợp: Spell = sắp xếp letters đúng thứ tự. Punctuate = thêm các dấu (điểm, dấu phẩy) để văn bản có structure và flow. Hai skill này làm cho writing readable và professional.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **spell**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `spellian` (to say, read letters)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[spell]] (viết chính tả)
+> - *(noun)* [[spelling]] (chính tả)
+> - *(noun)* [[misspelling]] (viết sai chính tả)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */spel ənd ˈpʌŋktʃueɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**spell and punctuate**
+> 📖 **Meaning:** Write with correct letters and punctuation
+> 🇻🇳 **Vietnamese:** Viết chính tả và dùng dấu câu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "It is important to spell and punctuation correctly in formal writing."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "It is important to spell and punctuate correctly in formal writing."
+> 🧠 **Why:** Parallel structure cần cả hai đều là verbs: "spell" (verb) + "punctuate" (verb). "Punctuation" là noun, không parallel với verb "spell".
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of learning to **spell and punctuate**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[make spelling errors]] (viết sai chính tả - fail ở spelling aspect)
+> - [[ignore punctuation]] (bỏ qua dấu câu - fail ở punctuation aspect)
+> 🧱 **Contrast:** Spell and punctuate = precision và correctness trong writing mechanics. Antonyms là carelessness với những basics của written communication.
 
 ---

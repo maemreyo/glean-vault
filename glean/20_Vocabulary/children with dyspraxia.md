@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
 #flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [child with dyspraxia, children with dyspraxia, dyspraxic child, dyspraxia, developmental coordination disorder]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈtʃɪldrən wɪð dɪsˈpræksiə/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** C1
+> **Register:** medical/educational
+> **Etymology:** "Dyspraxia" from Greek "dys-" (bad) + "praxis" (action/practice)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Children affected by a neurological condition affecting physical coordination
+>
+> **Context Meaning:** Children who have dyspraxia - a developmental coordination disorder that affects fine and gross motor skills, making physical activities challenging
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** trẻ em bị chứng vận động kém
+> - **Contextual:** trẻ em gặp khó khăn về phối hợp vận động, trẻ bị rối loạn phối hợp phát triển
+>
 > **Nuances:**
-> - ...
+> - A lifelong condition affecting movement and coordination
+> - Not related to intelligence; many dyspraxic children are highly intelligent
+> - Affects daily activities like writing, dressing, and sports
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Struggling, Resilient, Deserving Support
+> **Memory Hook:** DYS = bad/problem, PRAXIS = action. DYS-PRAXIA = bad at doing physical things (actions). Children with dyspraxia have trouble with coordination.
+> **📖 Etymology Story:** "Dyspraxia" đến từ Greek: "dys-" có nghĩa là "bad/difficult" (khó/kém) và "praxis" có nghĩa là "action/practice" (hành động/luyện tập). DYS-PRAXIA = khó khăn trong việc thực hiện các hành động vật lý. Children with dyspraxia = trẻ em gặp khó khăn trong phối hợp vận động.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[dyspraxia]] /dɪsˈpræksiə/, [[coordination]] /kəʊˌɔːdɪˈneɪʃn/
+> - **Adj:** [[dyspraxic]] /dɪsˈpræksɪk/
+> - **Related:** [[developmental disorder]], [[motor skills]]
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[developmental coordination disorder]] : medical term
+> - [[motor learning difficulty]] : less common
+> - [[clumsy child syndrome]] : informal, not preferred
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[well-coordinated child]] : good motor skills
+> - [[normal motor development]] : typical coordination
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. help children with dyspraxia
+> 2. children with dyspraxia struggle with
+> 3. support for children with dyspraxia
+> 4. diagnose children with dyspraxia
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Schools need to provide additional support for children with dyspraxia to help them succeed in physical education classes.
+> - **Translation:** Trường học cần cung cấp thêm hỗ trợ cho trẻ em bị chứng vận động kém để giúp chúng thành công trong các lớp giáo dục thể chất.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Children with dyspraxia often benefit from occupational therapy that focuses on improving fine motor skills like writing and buttoning clothes.
+> - **Translation:** Trẻ em bị chứng vận động kém thường được hưởng lợi từ liệu pháp nghề nghiệp tập trung vào cải thiện kỹ năng vận động tinh như viết và cài áo.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Intelligence Misconception**
+> - ❌ **Mistake:** Assuming children with dyspraxia have low intelligence
+> - ✅ **Correction:** Dyspraxia affects coordination, NOT intelligence
+> - **Why:** Dyspraxia is a motor skills disorder, not related to cognitive ability or IQ
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Early intervention and understanding can significantly improve the quality of life for children with dyspraxia."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +82,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **children with dyspraxia** (*/ˈtʃɪldrən wɪð dɪsˈpræksiə/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Children who have dyspraxia (also called developmental coordination disorder) - a neurological condition affecting physical coordination, making movements and everyday activities like writing, dressing, and sports challenging.
+> 🇻🇳 **Vietnamese:** Trẻ em bị chứng vận động kém (rối loạn phối hợp phát triển) - một tình trạng thần kinh ảnh hưởng đến sự phối hợp vận động, khiến các hoạt động hàng ngày như viết, mặc đồ và thể thao trở nên khó khăn.
+> 🗣️ **IPA:** */ˈtʃɪldrən wɪð dɪsˈpræksiə/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một đứa trẻ thông minh nhưng khi cố cầm bút viết thì tay run, nét chữ lung tung. Khi cố đá bóng thì hay trượt, không phối hợp được chân tay. Đó là trẻ bị dyspraxia - KHÓ KHĂN trong các HÀNH ĐỘNG vật lý chứ KHÔNG PHẢI kém thông minh.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Children affected by a neurological condition that impairs physical coordination and motor skills"
+**Vietnamese:** Trẻ em bị chứng vận động kém
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**children with dyspraxia** (*/ˈtʃɪldrən wɪð dɪsˈpræksiə/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **children with dyspraxia** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Teachers need specialized training to recognize and support children with dyspraxia in the classroom environment.
+> 🇻🇳 **Translation:** Giáo viên cần đào tạo chuyên môn để nhận biết và hỗ trợ trẻ em bị chứng vận động kém trong môi trường lớp học.
+> 🔍 **Analysis:** Cụm này được dùng trong ngữ cảnh giáo dục và y tế, diễn tả một nhóm học sinh cần sự hỗ trợ đặc biệt. Nó mang tính chất chuyên môn và thể hiện sự hiểu biết về các khó khăn cụ thể mà trẻ phải đối mặt.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **children with dyspraxia**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Support Actions:** help children with dyspraxia, support children with dyspraxia, assist children with dyspraxia (giúp đỡ, hỗ trợ, hỗ trợ - các hành động hỗ trợ)
+> 2. **Struggle Contexts:** children with dyspraxia struggle with, children with dyspraxia have difficulty with, challenges for children with dyspraxia (gặp khó khăn, khó khăn, thách thức - các ngữ cảnh khó khăn)
+> 3. **Professional Context:** diagnose children with dyspraxia, treat children with dyspraxia, therapy for children with dyspraxia (chẩn đoán, điều trị, liệu pháp - các ngữ cảnh chuyên nghiệp)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **children with dyspraxia**:
+"Some kids have trouble coordinating their movements."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Children with dyspraxia experience challenges with both fine and gross motor coordination."
+> 💡 **Why it works:** "Children with dyspraxia" là thuật ngữ y tế cụ thể, rõ ràng hơn "some kids have trouble coordinating." Nó xác định một nhóm cụ thể với đặc điểm chẩn đoán rõ ràng, thể hiện sự hiểu biết chuyên môn.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **children with dyspraxia** instead of **clumsy children**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **children with dyspraxia:** Thuật ngữ y tế/xây dựng mô tả một tình trạng chẩn đoán cụ thể - mang tính chất chuyên môn, không phán xét.
+> **clumsy children:** Thuật ngữ bình dân, phán xét - chỉ mô tả hành vi, không phải tình trạng y tế.
+> 🧱 **The Barrier:** "Dyspraxia" là một CHẨN ĐOÁN y tế - đó là một condition (tình trạng) chứ không chỉ là hành vi. "Children with dyspraxia" gợi ý cần SUPPORT/HỖ TRỢ, không phải phán xét hay trách móc.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a teacher explaining a student's needs to parents. The child struggles with writing and sports. You feel empathetic. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Your child has excellent thinking skills, but like many children with dyspraxia, they need extra support with motor activities."
+> 👨‍🎨 **Director's Note:** Cụm từ này thể hiện sự hiểu biết chuyên môn trong khi vẫn tích cực và hỗ trợ - tránh phán xét.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<dys>` and `<praxis>` to the meaning of **children with dyspraxia**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Dyspraxia" đến từ Greek: "dys-" có nghĩa là "bad/difficult" (kém/khó) và "praxis" có nghĩa là "action/practice" (hành động). DYS-PRAXIA = khó khăn trong việc thực hiện hành động vật lý. Children with dyspraxia = trẻ em có DYS (khó) trong PRAXIS (làm việc) - khó phối hợp vận động.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **children with dyspraxia**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Greek `dys-` (bad/difficult) + `praxis` (action)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[dyspraxia]]
+> - *(adj)* [[dyspraxic]]
+> - *(related)* [[apraxia]], [[dysfunction]], [[practical]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈtʃɪldrən wɪð dɪsˈpræksiə/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**children with dyspraxia**
+> 📖 **Meaning:** Children with a coordination disorder affecting motor skills
+> 🇻🇳 **Vietnamese:** Trẻ em bị chứng vận động kém
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Understanding **children with dyspraxia**
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** Dyspraxia affects COORDINATION, NOT INTELLIGENCE
+> 🧠 **Why:** Dyspraxia (rối loạn phối hợp vận động) chỉ ảnh hưởng đến motor skills (kỹ năng vận động), không liên quan đến IQ hay khả năng nhận thức. Nhiều trẻ em bị dyspraxia rất thông minh, chỉ gặp khó khăn trong các hoạt động vật lý.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite group to **children with dyspraxia**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[well-coordinated children]] (trẻ em có phối hợp vận động tốt)
+> - [[typically developing children]] (trẻ em phát triển bình thường)
+> - [[children with normal motor skills]] (trẻ em có kỹ năng vận động bình thường)
+> 🧱 **Contrast:** "Children with dyspraxia" = khó khăn phối hợp vận động; "Well-coordinated children" = phối hợp vận động tốt, tự nhiên.
 
 ---

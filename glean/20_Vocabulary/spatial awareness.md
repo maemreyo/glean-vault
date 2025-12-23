@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
 #flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [spatial awareness, spatial perception, spatial sense, awareness of space, spatial intelligence]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈspeɪʃl əˈwernəs/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** formal/technical
+> **Etymology:** "Spatial" from Latin "spatium" (space), "Awareness" from Old English "warian" (to be wary/watchful)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The ability to understand and navigate through physical space
+>
+> **Context Meaning:** Being conscious of one's position in space and the relative position of objects; the ability to mentally manipulate and understand spatial relationships
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** nhận thức không gian
+> - **Contextual:** khả năng định hướng không gian, ý thức về vị trí trong không gian
+>
 > **Nuances:**
-> - ...
+> - Involves depth perception and distance judgment
+> - Critical for navigation, sports, and daily activities
+> - Can be improved through practice and training
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Perceptive, Navigational, Spatial
+> **Memory Hook:** SPATIAL = SPACE. AWARENESS = KNOWING. SPATIAL AWARENESS = KNOWING where things are in SPACE! Like an internal GPS in your brain.
+> **📖 Etymology Story:** "Spatial" đến từ Latin "spatium" meaning "space, room, area." "Awareness" đến từ Old English "warian" meaning "to watch, be wary." SPATIAL AWARENESS = khả năng "watching và knowing" vị trí của mọi thứ trong "space" (không gian) - như một GPS nội tại trong não bộ.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[space]] /speɪs/, [[spatial]] /ˈspeɪʃl/
+> - **Adj:** [[spatial]] /ˈspeɪʃl/
+> - **Adv:** [[spatially]] /ˈspeɪʃəli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[spatial perception]] : more technical
+> - [[spatial intelligence]] : cognitive ability context
+> - [[spatial orientation]] : focus on direction
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[spatial disorientation]] : lost in space
+> - [[clumsiness]] : poor spatial awareness
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. develop spatial awareness
+> 2. good spatial awareness
+> 3. lack of spatial awareness
+> 4. improve spatial awareness
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Athletes in sports like basketball and soccer need excellent spatial awareness to track moving objects and navigate the field.
+> - **Translation:** Vận động viên trong các môn thể thao như bóng rổ và bóng đá cần nhận thức không gian xuất sắc để theo dõi các vật thể chuyển động và di chuyển trên sân.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Children with dyspraxia often struggle with spatial awareness, which affects their ability to coordinate movements and avoid obstacles.
+> - **Translation:** Trẻ em bị chứng vận động kém thường gặp khó khăn với nhận thức không gian, điều này ảnh hưởng đến khả năng phối hợp các cử động và tránh vật cản.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling**
+> - ❌ **Mistake:** "spacial awareness"
+> - ✅ **Correction:** "spatial awareness"
+> - **Why:** Correct spelling is SPATIAL (with 't'), not "spacial"
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Spatial awareness is crucial for safe driving and avoiding accidents in busy environments."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **spatial awareness** (*/ˈspeɪʃl əˈwernəs/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The cognitive ability to understand one's position in physical space and perceive the relationships between objects, including distance, direction, and relative position.
+> 🇻🇳 **Vietnamese:** Khả năng nhận thức và định vị trong không gian vật lý, bao gồm việc hiểu khoảng cách, hướng đi và vị trí tương đối của các vật thể.
+> 🗣️ **IPA:** */ˈspeɪʃl əˈwernəs/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một chiếc GPS trong não bộ bạn. Nó luôn biết bạn đang ở đâu, vật thể nào ở đâu, khoảng cách giữa bạn và chúng là bao nhiêu. Đó chính là "spatial awareness" - khả năng định vị và nhận thức không gian.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The ability to understand one's position in space and the relative position of objects"
+**Vietnamese:** Nhận thức không gian
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**spatial awareness** (*/ˈspeɪʃl əˈwernəs/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **spatial awareness** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The virtual reality training program was designed to improve surgeons' spatial awareness during complex surgical procedures.
+> 🇻🇳 **Translation:** Chương trình đào tạo thực tế ảo được thiết kế để cải thiện nhận thức không gian của bác sĩ phẫu thuật trong các quy trình phẫu thuật phức tạp.
+> 🔍 **Analysis:** Trong câu này, "spatial awareness" được dùng với tính chất kỹ thuật và chuyên nghiệp. Nó mô tả một khả năng nhận thức quan trọng trong y học - bác sĩ cần hiểu rõ vị trí và khoảng cách giữa các cơ quan bên trong cơ thể.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **spatial awareness**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Development Actions:** develop spatial awareness, improve spatial awareness, enhance spatial awareness (phát triển, cải thiện, nâng cao nhận thức không gian - các hành động phát triển)
+> 2. **Quality Assessment:** good spatial awareness, excellent spatial awareness, poor spatial awareness (tốt, xuất sắc, kém - đánh giá chất lượng)
+> 3. **Deficit Contexts:** lack of spatial awareness, spatial awareness deficit, spatial awareness problems (thiếu hụt, khiếm khuyết, vấn đề về nhận thức không gian)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **spatial awareness**:
+"He is good at knowing where things are."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "He has excellent spatial awareness and can quickly navigate unfamiliar environments."
+> 💡 **Why it works:** "Spatial awareness" là thuật ngữ chuyên môn để chỉ khả năng nhận thức và định vị không gian - mạnh hơn và cụ thể hơn nhiều so với "knowing where things are." Nó gợi ý một khả năng nhận thức phức tạp, không đơn thuần là nhớ vị trí.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **spatial awareness** instead of **vision**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **spatial awareness:** Là khả năng NHẬN THỨC và ĐỊNH VỊ trong không gian - bao gồm não bộ xử lý thông tin về vị trí, khoảng cách, hướng đi, không chỉ là nhìn thấy.
+> **vision:** Chỉ đơn thuần là khả năng nhìn thấy (thị giác).
+> 🧱 **The Barrier:** "Spatial awareness" bao gồm cả nhìn thấy VÀ xử lý thông tin não bộ để hiểu vị trí không gian. Một người có thị giác tốt có thể vẫn có spatial awareness kém nếu não bộ không xử lý thông tin không gian tốt.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're watching someone parallel park in a tight spot with perfect precision. You feel impressed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "That was impressive! Your spatial awareness is incredible - you judged every inch perfectly."
+> 👨‍🎨 **Director's Note:** Cụm từ này khen ngợi khả năng nhận thức không gian một cách chuyên nghiệp, phù hợp với ngữ cảnh đánh giá kỹ năng thực tế.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<spatium>` to the meaning of **spatial awareness**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Spatial" đến từ Latin "spatium" meaning "space, room, area." "Awareness" đến từ Old English "warian" meaning "to watch, be wary." SPATIAL AWARENESS = khả năng "watching và knowing" vị trí của mọi thứ trong "space" - giống như một GPS nội tại trong não bộ.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **spatial awareness**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `spatium` (space)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[spatial]]
+> - *(noun)* [[space]], [[spacing]]
+> - *(adv)* [[spatially]]
+> - *(related)* [[spacious]], [[interspatial]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈspeɪʃl əˈwernəs/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**spatial awareness**
+> 📖 **Meaning:** Ability to understand position and space relationships
+> 🇻🇳 **Vietnamese:** Nhận thức và định vị không gian
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Spelling of **spatial awareness**
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "SPATIAL awareness" (NOT "spacial awareness")
+> 🧠 **Why:** Chữ đúng là SPATIAL (có 't' giữa 'a' và 'i'), không phải "spacial." Đây là một lỗi sai phổ biến vì phát âm của 'ti' giống nhau. Hãy nhớ: SPACE -> SPATIAL (có 't').
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **spatial awareness**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[spatial disorientation]] (mất định hướng không gian)
+> - [[spatial confusion]] (rối loạn không gian)
+> - [[clumsiness]] (vụng về, thường đi kèm với nhận thức không gian kém)
+> 🧱 **Contrast:** "Spatial awareness" = nhận thức rõ ràng vị trí; "Spatial disorientation/confusion" = không biết mình đang ở đâu, mất phương hướng.
 
 ---

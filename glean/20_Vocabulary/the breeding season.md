@@ -1,159 +1,78 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 #flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [breeding season, breeding seasons, mating season, mating seasons, reproductive season, reproductive periods]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈbriːdɪŋ ˈsiːzn/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** breed (Old English brēdan, to produce offspring) + season (Latin satio, sowing)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A specific time of year when animals produce offspring
+>
+> **Context Meaning:** The period during which animals mate and give birth to young, often triggered by environmental factors
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** mùa sinh sản
+> - **Contextual:** thời điểm sinh sản của loài vật
+>
 > **Nuances:**
-> - ...
+> - Often varies by species and location
+> - Linked to climate, food availability
+> - Can affect animal behavior dramatically
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Natural, Cyclic, Purposeful
+> **Memory Hook:** "BREEDING = BRINGING new life" during the right SEASON
+> **📖 Etymology Story:** Old English brēdan meant "to nourish, cherish" - the time when animals nourish new life. Think of nature's calendar turning to the page of birth and renewal.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[breeding]] /ˈbriːdɪŋ/ (production of offspring)
+> - **Verb:** [[breed]] /briːd/ (to produce offspring)
+> - **Adj:** [[breeding]] (relating to reproduction, e.g., breeding grounds)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[mating season]] /ˈmeɪtɪŋ ˈsiːzn/ : period when animals mate
+> - [[reproductive season]] : academic/scientific term
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[dormant period]] : inactive phase
+> - [[hibernation]] : winter inactivity
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. during the breeding season
+> 2. breeding season begins/ends
+> 3. peak breeding season
+>
+> **1. Example Context 1 - Wildlife Documentary**
+> - **Sentence:** Many bird species return to the same nesting grounds during the breeding season each year.
+> - **Translation:** Nhiều loài chim trở lại cùng một khu vực làm tổ vào mùa sinh sản hàng năm.
+>
+> **2. Example Context 2 - Conservation**
+> - **Sentence:** Scientists monitor animal behavior closely during the breeding season to ensure protection of vulnerable species.
+> - **Translation:** Các nhà khoa học giám sát hành vi động vật kỹ lưỡng trong mùa sinh sản để đảm bảo bảo vệ các loài dễ bị tổn thương.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Article Usage**
+> - ❌ **Mistake:** Animals are aggressive during breeding season.
+> - ✅ **Correction:** Animals are aggressive during the breeding season.
+> - **Why:** "The breeding season" is a definite, specific period for each species.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** During the breeding season, the polar bears become particularly aggressive.
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +80,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **the breeding season** (*/ˈbriːdɪŋ ˈsiːzn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The specific time of year when animals mate and produce offspring, often influenced by environmental conditions
+> 🇻🇳 **Vietnamese:** Mùa sinh sản (khi động vật giao phối và sinh con)
+> 🗣️ **IPA:** */ˈbriːdɪŋ ˈsiːzn/*
+> 🧠 **Mental Model:** Cửa sổ thời gian nature mở ra cho animals tạo ra new life, thường được triggered bởi weather và food availability
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The specific time of year when animals mate and produce young"
+**Vietnamese:** Mùa sinh sản
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**the breeding season** (*/ˈbriːdɪŋ ˈsiːzn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **the breeding season** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Penguins return to their colonies in Antarctica during the breeding season to raise their chicks.
+> 🇻🇳 **Translation:** Chim cánh cụt trở về các khu vực định cư ở Nam Cực vào mùa sinh sản để nuôi dưỡng các con non.
+> 🔍 **Analysis:** Word này perfect vì nó capture cyclic nature của animal reproduction và có definite article "the" indicating specific recurring period cho mỗi species
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **the breeding season**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Time Reference:** during the breeding season (trong mùa sinh sản - shows temporal relationship)
+> 2. **Action:** the breeding season begins (mùa sinh sản bắt đầu - indicates start of period)
+> 3. **Intensity:** peak breeding season (đỉnh mùa sinh sản - shows maximum activity period)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **the breeding season**:
+"Many animals are aggressive at certain times of the year."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Many animals become territorial and aggressive during the breeding season."
+> 💡 **Why it works:** "The breeding season" adds specificity và biological context, showing the aggressive behavior có purpose (protecting mates/offspring) thay vì random aggression
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **the breeding season** instead of **[[mating season]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **the breeding season:** Broader term, encompasses entire process from mating through birth/raising young (VN: bao gồm cả mating và rearing)
+> **[[mating season]]:** Specifically focuses on the act of mating only (VN: chỉ tập trung vào việc giao phối)
+> 🧱 **The Barrier:** "Breeding season" là longer period bao gồm mating + reproduction + care; "mating season" là narrower window chỉ focusing on the mating act itself
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a wildlife researcher explaining why bears are suddenly aggressive. You feel concerned. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We need to stay away from the bears - it's the breeding season and they're extremely territorial right now."
+> 👨‍🎨 **Director's Note:** Word này communicates urgency và biological explanation, perfect cho warning người khác về dangerous animal behavior
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `breed` to the meaning of **the breeding season**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "brēdan" meant to nourish or cherish - "the breeding season" là time khi animals cherish và nourish their offspring. Root liên kết đến care và creation, không chỉ reproduction
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **the breeding season**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `brēdan` (to nourish, produce young)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[breeding]] (the action of producing offspring)
+> - *(verb)* [[breed]] (to produce, to cause)
+> - *(noun)* [[breeder]] (person who breeds animals)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈbriːdɪŋ ˈsiːzn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**the breeding season**
+> 📖 **Meaning:** The specific time of year when animals produce offspring
+> 🇻🇳 **Vietnamese:** Mùa sinh sản
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Missing article with the breeding season
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Animals behave differently during the breeding season." (NOT "during breeding season")
+> 🧠 **Why:** Definite article "the" is required because it refers to a specific recurring period for each species
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **the breeding season**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[dormant period]] (phase of inactivity and reduced metabolism)
+> - [[off-season]] (period of reduced activity)
+> 🧱 **Contrast:** "Breeding season" = time of maximum reproductive activity; "dormant period/off-season" = time of rest and reduced biological activity
 
 ---

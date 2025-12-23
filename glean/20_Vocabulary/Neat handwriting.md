@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [neat handwriting, neat penmanship, tidy handwriting, clean handwriting, legible handwriting]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /niːt ˈhændraɪtɪŋ/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B1
+> **Register:** formal/educational
+> **Etymology:** "Neat" from French "net" (clean/precise), "Handwriting" from Old English "hand" + "writing"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Writing that is tidy, clear, and well-formed
+>
+> **Context Meaning:** Handwriting that is clean, organized, legible, and aesthetically pleasing with properly formed letters
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chữ viết đẹp
+> - **Contextual:** chữ viết gọn gàng, chữ viết sạch đẹp, nét chữ rõ ràng
+>
 > **Nuances:**
-> - ...
+> - Implies care and attention to detail
+> - Shows good motor control and practice
+> - Often associated with education and professionalism
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Organized, Disciplined, Careful
+> **Memory Hook:** NEAT = Tidy, Clean. NEAT HANDWRITING = TIDY/CLEAN handwriting - no messy scribbles!
+> **📖 Etymology Story:** "Neat" đến từ French "net" nghĩa là "clean, precise, tidy" (sạch, chính xác, gọn gàng). "Handwriting" = hand + writing (viết tay). NEAT HANDWRITING = viết tay một cách GỌN GÀNG, SẠCH, CHÍNH XÁC.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[neatness]] /ˈniːtnəs/, [[handwriting]] /ˈhændraɪtɪŋ/
+> - **Adj:** [[neat]] /niːt/
+> - **Adv:** [[neatly]] /ˈniːtli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[good penmanship]] : more formal
+> - [[legible handwriting]] : focus on readability
+> - [[tidy handwriting]] : similar meaning
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[messy handwriting]] : disorganized
+> - [[illegible handwriting]] : cannot read
+> - [[poor penmanship]] : unskilled writing
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. develop neat handwriting
+> 2. practice neat handwriting
+> 3. beautiful neat handwriting
+> 4. maintain neat handwriting
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The teacher praised the student for their neat handwriting, noting that it made their work easy to read and grade.
+> - **Translation:** Giáo viên đã khen ngợi học sinh về chữ viết đẹp, nhận xét rằng nó làm cho bài làm của em dễ đọc và dễ chấm hơn.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Developing neat handwriting takes patience and regular practice, but the benefits last a lifetime.
+> - **Translation:** Phát triển chữ viết đẹp đòi hỏi sự kiên nhẫn và luyện tập thường xuyên, nhưng lợi ích kéo dài suốt đời.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling**
+> - ❌ **Mistake:** "kneat handwriting" or "niat handwriting"
+> - ✅ **Correction:** "neat handwriting"
+> - **Why:** Correct spelling is NEAT - sounds like "nit" but spelled with 'ea'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Neat handwriting demonstrates respect for the reader and attention to detail."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **Neat handwriting** (*/niːt ˈhændraɪtɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Handwriting that is clean, well-organized, and aesthetically pleasing with properly formed letters that are easy to read.
+> 🇻🇳 **Vietnamese:** Chữ viết tay gọn gàng, sạch đẹp, có nét chữ rõ ràng, được tạo hình đúng cách và dễ đọc.
+> 🗣️ **IPA:** */niːt ˈhændraɪtɪŋ/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một trang giấy với những nét chữ đều đặn, xếp hàng thẳng, không có tạp nham hay xóa sửa nhiều lần. Đó là "neat handwriting" - chữ viết SẠCH, GỌN, ĐẸP như được sắp xếp cẩn thận.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Clean, well-organized, and easily readable handwriting"
+**Vietnamese:** Chữ viết đẹp, gọn gàng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**Neat handwriting** (*/niːt ˈhændraɪtɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **Neat handwriting** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Employers often appreciate neat handwriting on job applications because it reflects attention to detail and professionalism.
+> 🇻🇳 **Translation:** Nhà tuyển dụng thường đánh giá cao chữ viết đẹp trong đơn xin việc vì nó thể hiện sự chú ý chi tiết và tính chuyên nghiệp.
+> 🔍 **Analysis:** Cụm "neat handwriting" ở đây được dùng để mô tả một phẩm chất cá nhân tích cực - sự cẩn thận và chuyên nghiệp. Nó không chỉ là đẹp mà còn thể hiện thái độ và sự tôn trọng đối với người đọc.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **Neat handwriting**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Development Actions:** develop neat handwriting, improve neat handwriting, practice neat handwriting (phát triển, cải thiện, luyện tập - các hành động phát triển)
+> 2. **Quality Description:** beautiful neat handwriting, perfect neat handwriting, impressive neat handwriting (đẹp, hoàn hảo, ấn tượng - mô tả chất lượng)
+> 3. **Professional Context:** maintain neat handwriting, neat handwriting skills, neat handwriting style (du trì, kỹ năng, phong cách - các ngữ cảnh chuyên nghiệp)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **Neat handwriting**:
+"Her writing is very clear and organized."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She maintains consistently neat handwriting in all her written work."
+> 💡 **Why it works:** "Neat handwriting" cụ thể và chuyên nghiệp hơn "clear and organized writing." Nó gợi ý sự cẩn thận và luyện tập, không chỉ là tình cờ rõ ràng.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **Neat handwriting** instead of **readable handwriting**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **Neat handwriting:** Gợi ý không chỉ dễ đọc mà còn GỌN GÀNG, SẠCH, có thẩm mỹ - thể hiện sự cẩn thận và luyện tập.
+> **Readable handwriting:** Chỉ đơn thuần là có thể đọc được - không nhất thiết phải gọn hay đẹp.
+> 🧱 **The Barrier:** "Neat" = gọn + sạch + thẩm mỹ; "Readable" = chỉ cần đọc được. Neat handwriting KHÔNG CHỈ dễ đọc mà còn đẹp, tổ chức tốt, thể hiện sự QUAN TÂM chi tiết.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're grading student assignments and notice exceptionally well-formed letters. You feel appreciative. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Your neat handwriting makes grading your work a pleasure - keep it up!"
+> 👨‍🎨 **Director's Note:** Cụm từ này khen ngợi một phẩm chất tích cực cụ thể, phù hợp với bối cảnh giáo dục khuyến khích nỗ lực của học sinh.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<neat>` to the meaning of **Neat handwriting**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Neat" đến từ French "net" nghĩa là "clean, precise, tidy" (sạch, chính xác, gọn gàng). "Handwriting" = hand + writing (viết tay). NEAT HANDWRITING = viết tay một cách GỌN GÀNG, SẠCH SẼ, CHÍNH XÁC - không lộn xộn, không xóa sửa nhiều.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **Neat handwriting**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** French `net` (clean/precise)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[neat]]
+> - *(noun)* [[neatness]]
+> - *(adv)* [[neatly]]
+> - *(related)* [[tidy]], [[clean]], [[precise]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */niːt ˈhændraɪtɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**Neat handwriting**
+> 📖 **Meaning:** Clean, organized, and beautiful handwriting
+> 🇻🇳 **Vietnamese:** Chữ viết đẹp, gọn gàng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Spelling of **Neat handwriting**
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "NEAT handwriting" (NOT "kneat" or "niat")
+> 🧠 **Why:** Chữ đúng là NEAT - phát âm như "nit" nhưng viết với 'ea'. Đây là một lỗi sai phổ biến vì phát âm không hoàn toàn tương ứng với cách viết. Hãy nhớ: neat = gọn gàng, có 'ea'.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **Neat handwriting**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[messy handwriting]] (chữ viết lộn xộn)
+> - [[illegible handwriting]] (chữ viết không thể đọc được)
+> - [[poor penmanship]] (kỹ năng viết kém)
+> 🧱 **Contrast:** "Neat handwriting" = gọn, sạch, đẹp; "Messy/illegible handwriting" = lộn xộn, khó đọc.
 
 ---

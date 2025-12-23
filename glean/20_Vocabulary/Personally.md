@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
-
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [personally, personal, personal's, personally yours, me personally]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈpɜːrsənəli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B1
+> **Register:** informal/formal
+> **Etymology:** personal (relating to person) + -ly (adverb suffix)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Done by oneself as an individual
+>
+> **Context Meaning:** 1) Done in person rather than through someone else; 2) Used to give a personal opinion
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cá nhân, bản thân
+> - **Contextual:** theo ý kiến cá nhân, một cách cá nhân, trực tiếp
+>
 > **Nuances:**
-> - ...
+> - Can mean physical presence (I'll do it personally)
+> - Can express opinion (Personally, I think...)
+> - Adds emphasis to the statement
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Honest, Opinionated, Direct
+> **Memory Hook:** Think of "person" + "ally" - your ally is your personal self
+> **📖 Etymology Story:** "Personal" from Latin "personalis" meaning "of or pertaining to a person". Adding -ly makes it an adverb - describing HOW something is done - by you as a person.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[person]] /ˈpɜːrsn/
+> - **Adj:** [[personal]] /ˈpɜːrsənl/
+> - **Adv:** [[personally]] /ˈpɜːrsənəli/
+> - **Noun:** [[personality]] /ˌpɜːrsəˈnæləti/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[individually]] /ˌɪndɪˈvɪdʒuəli/ : separately, one by one
+> - [[privately]] /ˈpraɪvətli/ : not publicly
+> - [[subjectively]] /səbˈdʒektɪvli/ : based on opinion
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[impersonally]] /ɪmˈpɜːrsənəli/ : without personal involvement
+> - [[professionally]] /prəˈfeʃənəli/ : in a professional capacity
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. personally, I think
+> 2. take it personally
+> 3. do something personally
+> 4. know someone personally
+> 5. personally involved
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Personally, I prefer tea over coffee in the morning.
+> - **Translation:** Về mặt cá nhân, tôi thích trà hơn cà phê vào buổi sáng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The manager will personally handle your complaint.
+> - **Translation:** Quản lý sẽ trực tiếp xử lý khiếu nại của bạn.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** I will come to the meeting personal.
+> - ✅ **Correction:** I will come to the meeting personally.
+> - **Why:** Need adverb form "personally" to modify verb "come"
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** Personally, I'm always ready to learn, although I do not always like being taught.
+> **Source:** [[Winston Churchill]]
 
 ---
 
@@ -161,120 +83,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **personally** (*/ˈpɜːrsənəli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** 1) Done by oneself as an individual, not through others; 2) Used to introduce one's own opinion or view
+> 🇻🇳 **Vietnamese:** Cá nhân, bản thân, theo ý kiến cá nhân, trực tiếp
+> 🗣️ **IPA:** */ˈpɜːrsənəli/*
+> 🧠 **Mental Model:** "Personally" = "Person" (người) + "-ly" (manner - cách thức). Nó mô tả cách thức liên quan đến chính bạn. Ví dụ: "I'll do it personally" = tôi sẽ tự mình làm. "Personally, I think" = theo ý kiến cá nhân của tôi.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Done by oneself as an individual; used to introduce one's own opinion"
+**Vietnamese:** Cá nhân, bản thân, theo ý kiến cá nhân
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**personally** (*/ˈpɜːrsənəli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **personally** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Personally, I believe that practical experience is more valuable than theoretical knowledge.
+> 🇻🇳 **Translation:** Theo ý kiến cá nhân, tôi tin rằng kinh nghiệm thực tế có giá trị hơn kiến thức lý thuyết.
+> 🔍 **Analysis:** "Personally, I believe" là cấu trúc mở đầu câu để express personal opinion. Nó softens the statement, cho biết đây là opinion cá nhân chứ không phải fact. Từ này perfect vì nó sets up expectation cho một subjective viewpoint.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **personally**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Opinion Intro:** personally, I think/the way I see it (theo ý kiến cá nhân - dùng để express subjective view)
+> 2. **Action Emphasis:** do something personally (tự mình làm - không nhờ người khác)
+> 3. **Relationship:** know someone personally (biết ai đó cá nhân, quen họ - không chỉ qua nghe nói)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **personally**:
+"In my opinion, this is a bad idea."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Personally, I find this idea problematic."
+> 💡 **Why it works:** "Personally, I find" thể hiện một subjective judgment nhẹ nhàng nhưng có conviction hơn "in my opinion". Nó show rằng đây là personal assessment dựa trên experience của bản thân.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **personally** instead of **[[subjectively]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **personally:** Dùng khi nói về YOURSELF, about YOU doing something hoặc YOUR opinion. Nó có element of identity và self-reference.
+> **[[subjectively]]:** Dùng khi nói về cách nhìn nhận từ góc độ cá nhân (không phải fact-based) - không nhất thiết phải là của bạn, có thể là của bất kỳ ai.
+> 🧱 **The Barrier:** Personally = I/me/my context. Subjectively = general state of being non-objective. Personally more personal và common trong speaking.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** A friend asks what you think about their new business idea. You want to be honest but respectful. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Personally, I think you should research the market more before investing."
+> 👨‍🎨 **Director's Note:** "Personally" softens the criticism, làm cho feedback có vẻ như personal observation chứ không phải absolute judgment. Nó keeps conversation friendly while still being honest.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `personalis` to the meaning of **personally**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Personal" từ Latin "personalis" nghĩa là "of a person" (của một người). Thêm -ly thành adverb - mô tả cách thức liên quan đến person. Hãy tưởng tượng một task: bạn có thể delegate cho người khác, hoặc làm "personally" (tự thân bạn làm). Hoặc bạn có thể nói về fact, hoặc give opinion "personally" (theo góc nhìn cá nhân của bạn).
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **personally**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `persona` (mask, character, person)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[person]] (người)
+> - *(adj)* [[personal]] (cá nhân)
+> - *(adv)* [[personally]] (một cách cá nhân)
+> - *(noun)* [[personality]] (tính cách)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈpɜːrsənəli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**personally**
+> 📖 **Meaning:** As an individual; in a personal capacity
+> 🇻🇳 **Vietnamese:** Cá nhân, bản thân
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "I will take care of this personal."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "I will take care of this personally."
+> 🧠 **Why:** "Personally" là adverb dùng với verb "take care". "Personal" là adjective. Khi nói về cách thức bạn làm việc (how you'll do it), dùng adverb "personally".
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **personally**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[impersonally]] (không cá nhân - không có cảm xúc cá nhân, khách quan lạnh lùng)
+> - [[via proxy]] (thông qua người khác - không trực tiếp làm)
+> 🧱 **Contrast:** Personally = chính bạn làm involved, có personal connection. Impersonally = distance, no personal attachment.
 
 ---

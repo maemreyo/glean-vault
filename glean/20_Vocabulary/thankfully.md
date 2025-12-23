@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [thank god, fortunately, luckily, happily, mercifully]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈθæŋkfəli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B2
+> **Register:** neutral/informal
+> **Etymology:** From "thankful" + "-ly" (adverb suffix), from Old English "þanc" (thought, gratitude) + "full"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** In a way that shows gratitude; fortunately, luckily.
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** Used to express relief or gratitude that something has happened or not happened, often implying a fortunate outcome.
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** một cách biết ơn
+> - **Contextual:** may mắn là, tốt là, thật đáng mừng, hạnh phúc là
 > 
 > **Nuances:**
-> - ...
+> - Expresses relief about positive outcome
+> - Can begin sentences to show perspective
+> - Often implies avoiding something negative
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Relieved, Grateful, Fortunate
+> **Memory Hook:** "THANKFULLY" = "thank goodness this happened" or "thankfully this didn't happen"
+> **📖 Etymology Story:** From "thankful" (full of thanks). "Thankfully" means "in a thankful way" - like saying "I'm thankful that..." It's about expressing gratitude for how things turned out.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Adv:** [[thankfully]] /ˈθæŋkfəli/
+> - **Adj:** [[thankful]] /ˈθæŋkfəl/
+> - **Noun:** [[thanks]] /θæŋks/
+ 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[fortunately]] : similar, less emotional
+> - [[luckily]] : more casual
+> - [[happily]] : slightly different nuance
+ 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[unfortunately]] : opposite sentiment
+> - [[sadly]] : negative outcome
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. thankfully note
+> 2. thankfully report
+> 3. thankfully discover
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Thankfully, the weather improved just in time for the outdoor wedding.
+> - **Translation:** May mắn là thời tiết đã khá lên đúng lúc cho đám cưới ngoài trời.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** We thankfully arrived before the store closed.
+> - **Translation:** Chúng tôi đến may mắn trước khi cửa hàng đóng cửa.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Position in sentence**
+> - ❌ **Mistake:** We thankfully finished the project. (ambiguous - could mean we finished with gratitude)
+> - ✅ **Correction:** Thankfully, we finished the project before the deadline.
+> - **Why:** When starting a sentence, "thankfully" means "fortunately." When modifying a verb, it means "with gratitude" - these are different meanings!
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Thankfully, no one was injured in the accident."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **thankfully** (*/ˈθæŋkfəli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Used to express relief or gratitude about a situation; fortunately, in a way that deserves thanks.
+> 🇻🇳 **Vietnamese:** Dùng để thể hiện sự nhẹ nhõm hoặc biết ơn về một tình huống; may mắn là, đáng biết ơn là.
+> 🗣️ **IPA:*/ˈθæŋkfəli/*
+> 🧠 **Mental Model:** "Thankfully" = saying "cảm ơn trời/phật vì cái này đã xảy ra (hoặc không xảy ra)". Nó giống như "may mắn là" nhưng với gratitude. Two uses: sentence-initial (fortunately) hoặc modifying verb (with thanks).
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Used to express relief or gratitude about how things turned out"
+**Vietnamese:** Dùng để thể hiện nhẹ nhõm hoặc biết ơn về cách mọi chuyện diễn ra
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**thankfully** (*/ˈθæŋkfəli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **thankfully** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** Thankfully, the test was rescheduled, so I have more time to prepare.
+> 🇻🇳 **Translation:** Đáng mừng là bài kiểm tra đã được dời lại, nên tôi có thêm thời gian để chuẩn bị.
+> 🔍 **Analysis:** "Thankfully" ở đây đứng đầu câu - meaning là "fortunately", "may mắn là". Nó thể hiện relief về một positive outcome. Trong IELTS Speaking, từ này rất hữu ích để表达 gratitude hoặc relief một cách natural.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **thankfully**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Reporting (Báo cáo):** thankfully report/state/announce (<VN note: dùng khi báo cáo tin tốt, thể hiện nhẹ nhõm>)
+> 2. **Discovering (Phát hiện):** thankfully discover/find/realize (<VN note: dùng khi tìm ra điều may mắn>)
+> 3. **Sentence-initial (Đầu câu):** Thankfully, + clause (<VN note: mở đầu câu để表达 may mắn>)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **thankfully**:
+"Luckily, we didn't miss our flight."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Thankfully, we arrived at the gate just minutes before boarding began."
+> 💡 **Why it works:** "Thankfully" adds emotional nuance beyond just "luckily." It suggests genuine gratitude and relief - the speaker is thankful, not just acknowledging good fortune. More personal and expressive.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **thankfully** instead of **[[fortunately]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **thankfully:** Personal gratitude and relief (<VN note:** có cảm xúc biết ơn cá nhân>)
+> **[[fortunately]]:** Objective statement about luck (<VN note:** tuyên bố khách quan về sự may mắn>)
+> 🧱 **The Barrier:** "Thankfully" includes the speaker's emotional response - they're thankful. "Fortunately" is more detached, describing the situation itself. "Thankfully" = "I'm thankful that..." vs "Fortunately" = "It's fortunate that..."
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're telling a friend about a near-miss accident. You feel relieved. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Thankfully, I looked up from my phone just in time to avoid hitting that pedestrian!"
+> 👨‍🎨 **Director's Note:** "Thankfully" here captures both the relief and the gratitude - not just "luckily," but genuinely thankful for the positive outcome in what could have been tragic.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<þanc>` (thought, gratitude) to the meaning of **thankfully**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Thank" từ Old English "þanc" = "thought, feeling of gratitude". "Thankfully" = "với cảm xúc biết ơn". Khi ta nói "thankfully", ta đang nói "tôi cảm ơn vì mọi chuyện diễn ra như thế". Nó mang cả nghĩa "may mắn" và cảm xúc biết ơn.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **thankfully**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Old English `þanc` (thought, gratitude)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(adv)* [[thankfully]] /ˈθæŋkfəli/
+> - *(adj)* [[thankful]] /ˈθæŋkfəl/ (biết ơn)
+> - *(noun)* [[thanks]] /θæŋks/ (lời cảm ơn)
+> - *(exclamation)* [[thank goodness]] /θæŋk ɡʊdnəs/ (may mắn thay)
+> - *(interjection)* [[thank you]] /θæŋk juː/ (cảm ơn)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈθæŋkfəli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**thankfully** 
+> 📖 **Meaning:** Used to express relief or gratitude about how things turned out
+> 🇻🇳 **Vietnamese:** Dùng để thể hiện nhẹ nhõm hoặc biết ơn về kết quả
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Ambiguous placement of "thankfully" in sentence
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** Place "thankfully" at the beginning of the sentence to mean "fortunately," or rephrase if you mean "with gratitude"
+> 🧠 **Why:** "Thankfully we ate" is ambiguous - does it mean "Fortunately, we ate" or "We ate with gratitude"? Clear positioning or rephrasing avoids confusion.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **thankfully**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[unfortunately]] (expressing regret about negative outcome)
+> - [[sadly]] (expressing sadness about result)
+> 🧱 **Contrast:** While "thankfully" expresses gratitude and relief about positive outcomes, "unfortunately" expresses regret about negative ones - opposite emotional responses to events.
 
 ---

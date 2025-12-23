@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
 #flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [young chicks, baby chicks, chick, chicks, hatchling, nestling]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ðə jʌŋ tʃɪks/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** A2
+> **Register:** informal/scientific
+> **Etymology:** "Chick" from Middle English "chike" meaning "young chicken"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Baby chickens that have recently hatched from eggs
+>
+> **Context Meaning:** Newly hatched birds, especially chickens; young offspring of fowl
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** những gà con
+> - **Contextual:** gà mới nở, chim con mới nở
+>
 > **Nuances:**
-> - ...
+> - Implies youth, small size, and vulnerability
+> - Can be used affectionately in scientific or informal contexts
+> - Refers to birds that are still dependent on parents
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Innocent, Cute, Vulnerable
+> **Memory Hook:** A CHICK is a CHICKen. The YOUNG ones are small and fluffy! Think: CHICK = CHILD of a chicken.
+> **📖 Etymology Story:** "Chick" comes from Middle English "chike," which itself came from Old Norse "kjúklingr" meaning "young fowl." The word has been used for hundreds of years to describe the young of birds, especially chickens.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[chick]] /tʃɪk/, [[chicken]] /ˈtʃɪkɪn/
+> - **Adj:** [[chicky]] (informal)
+> - **Related:** [[hatchling]] /ˈhætʃlɪŋ/, [[nestling]] /ˈnestlɪŋ/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[baby birds]] : general term
+> - [[hatchlings]] : scientific, just emerged from egg
+> - [[nestlings]] : still in the nest
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[adult birds]] : fully grown
+> - [[mature chickens]] : fully developed
+> - [[hens/roosters]] : adult chickens
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. feed the young chicks
+> 2. protect the young chicks
+> 3. young chicks hatching
+> 4. vulnerable young chicks
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The mother hen carefully protected her young chicks from the cold weather during the first week after hatching.
+> - **Translation:** Con gà mẹ đã cẩn thận bảo vệ những gà con khỏi thời tiết lạnh trong tuần đầu tiên sau khi nở.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Young chicks need a warm environment and special feed to survive their first few days of life.
+> - **Translation:** Gà con cần môi trường ấm áp và thức ăn đặc biệt để sống sót qua những ngày đầu đời.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Plural Form**
+> - ❌ **Mistake:** "young chicken"
+> - ✅ **Correction:** "young chicks" (plural)
+> - **Why:** "Chick" is already the word for a young chicken, so "young chicken" sounds redundant. Use "chicks" for plural.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The young chicks gathered around their mother for warmth and protection."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +83,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **the young chicks** (*/ðə jʌŋ tʃɪks/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Newly hatched birds, specifically baby chickens that are small, fluffy, and still dependent on their mother for care and protection.
+> 🇻🇳 **Vietnamese:** Những gà con mới nở, còn nhỏ và còn được mẹ nuôi dưỡng, che chở.
+> 🗣️ **IPA:** */ðə jʌŋ tʃɪks/*
+> 🧠 **Mental Model:** Hãy tưởng tượng những quả trứng vừa nở, bên trong là những sinh vật nhỏ xíu, đầy lông tơ, kêu "chip chip" và chạy theo mẹ gà. Đó là "young chicks" - những em bé của thế giới loài gà.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Newly hatched baby birds, especially small and dependent chickens"
+**Vietnamese:** Gà con mới nở
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**the young chicks** (*/ðə jʌŋ tʃɪks/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **the young chicks** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The young chicks pecked at the ground, learning to find food under their mother's watchful eye.
+> 🇻🇳 **Translation:** Những gà con mổ vào mặt đất, học cách tìm thức ăn dưới sự canh chừng kỹ lưỡng của mẹ.
+> 🔍 **Analysis:** Cụm "the young chicks" diễn tả những sinh vật non trẻ, đang học hỏi và phát triển. "Pecked at the ground" - hành động mổ mồi - là đặc điểm hành vi đặc trưng của gà, cho thấy tính chất thực tế của ngữ cảnh.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **the young chicks**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Care Actions:** feed the young chicks, protect the young chicks, keep the young chicks warm (cho ăn, bảo vệ, giữ ấm gà con - các hành động chăm sóc)
+> 2. **Development Contexts:** young chicks hatching, young chicks growing, young chicks learning (nở, lớn lên, học hỏi - các giai đoạn phát triển)
+> 3. **Group Description:** a brood of young chicks, a flock of young chicks, the young chicks together (một tổ gà con, một đàn gà con - các cách mô tả nhóm)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **the young chicks**:
+"The baby birds were following their mother."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The young chicks followed their mother in a perfect line."
+> 💡 **Why it works:** "Young chicks" cụ thể hơn "baby birds" - gợi ý hình ảnh đặc trưng của loài gà với hành vi đi theo mẹ thành hàng. Tính chất cụ thể này tạo ra hình ảnh rõ nét hơn trong tâm trí người đọc.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **the young chicks** instead of **baby birds**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **the young chicks:** Cụ thể hơn, thường dùng cho loài gà hoặc gia cầm, gợi ý hình ảnh lông tơ và hành vi đặc trưng.
+> **baby birds:** Thông dụng hơn, có thể dùng cho bất kỳ loài chim nào, ít cụ thể về hình ảnh.
+> 🧱 **The Barrier:** "Chicks" gắn liền với loài gà và gia cầm - người nghe sẽ hình dung ngay những sinh vật nhỏ xíu, lông vàng nâu, kêu "chip chip." "Baby birds" là thuật ngữ chung chung hơn.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're watching a farm scene. Tiny fluffy creatures are following a large hen. You feel heartwarming. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Look at the young chicks following their mother - they're learning so fast!"
+> 👨‍🎨 **Director's Note:** Cụm từ này tạo cảm giác ấm áp và dễ thương, gợi ý tình mẫu tử trong thế giới động vật.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<chick>` to the meaning of **the young chicks**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Chick" đến từ Middle English "chike," xuất phát từ Old Norse "kjúklingr" nghĩa là "young fowl" (chim non). Từ này đã tồn tại hàng trăm năm để mô tả con non của loài chim, đặc biệt là loài gà. Hãy nhớ: CHICK giống như CHILD của loài gà!
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **the young chicks**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Middle English `chike` (young chicken)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[chick]], [[chicken]]
+> - *(related)* [[hatchling]], [[nestling]], [[fledgling]], [[poultry]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ðə jʌŋ tʃɪks/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**the young chicks**
+> 📖 **Meaning:** Newly hatched baby chickens
+> 🇻🇳 **Vietnamese:** Những gà con mới nở
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Word Choice with **the young chicks**
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The young chicks" (NOT "the young chicken" for plural)
+> 🧠 **Why:** "Chick" là từ dùng cho gà con, nên "young chicken" sẽ nghe dư thừa. Khi nói số nhiều, dùng "chicks." Lưu ý: "chicken" là từ dùng cho loài gà nói chung, "chick" là từ cụ thể cho gà con.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **the young chicks**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[adult chickens]] (fully grown)
+> - [[mature hens/roosters]] (fully developed adults)
+> - [[old birds]] (aged individuals)
+> 🧱 **Contrast:** "Young chicks" = mới nở, non nớt, nhỏ bé; "Adult chickens" = đã lớn, trưởng thành, tự lập. Sự khác biệt nằm ở giai đoạn phát triển.
 
 ---

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
 #flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [settling, settled, settle, settlement, to settle, settlements]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈsetlɪŋ/
+> **Part of Speech:** noun (gerund/participle) or verb
+> **CEFR Level:** B1-B2
+> **Register:** formal/informal
+> **Etymology:** settle (Old English setlan, to place, seat, from settan, to put)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** The act of establishing or resolving something
+>
+> **Context Meaning:** The process of reaching an agreement, establishing oneself in a place, or resolving a dispute/conflict
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** việc định cư/thỏa thuận
+> - **Contextual:** quá trình giải quyết hoặc ổn định chỗ ở
+>
 > **Nuances:**
-> - ...
+> - Can refer to physical relocation
+> - Can refer to reaching agreement
+> - Implies finding stability
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Stable, Final, Peaceful
+> **Memory Hook:** "SETTLING = making things SET/final" - no more moving or arguing
+> **📖 Etymology Story:** Old English "setlan" meant to place or seat - "settling" is the act of placing things in their final position, like seating yourself for good, or placing a dispute to rest.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[settle]] /ˈsetl/ (to establish, resolve)
+> - **Noun:** [[settlement]] /ˈsetlmənt/ (place where people settle, or agreement)
+> - **Adj:** [[settled]] /ˈsetld/ (established, stable)
+> - **Noun:** [[settler]] /ˈsetlə/ (person who settles in new place)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[establishing]] /ɪˈstæblɪʃɪŋ/ : making stable
+> - [[resolving]] /rɪˈzɒlvɪŋ/ : solving, concluding
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[disputing]] : arguing against
+> - [[moving]] : relocating
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. the settling of a dispute
+> 2. settling down
+> 3. price settling
+>
+> **1. Example Context 1 - Immigration**
+> - **Sentence:** The family is planning their settling in a new country, looking for housing and schools.
+> - **Translation:** Gia đình đang lên kế hoạch định cư ở một đất nước mới, tìm nhà trường học.
+>
+> **2. Example Context 2 - Negotiation**
+> - **Sentence:** After hours of discussion, the settling of the contract terms finally satisfied both parties.
+> - **Translation:** Sau nhiều giờ thảo luận, việc chốt các điều khoản hợp đồng cuối cùng đã làm hài lòng cả hai bên.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Double -ing**
+> - ❌ **Mistake:** The settling down of the family took time.
+> - ✅ **Correction:** The family's settling down took time.
+> - **Why:** "Settling" already includes the action, so "settling down" is more natural as a phrasal verb, not with "the...of."
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** The settling of small-scale farmers in the region created new economic opportunities.
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +81,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **settling** (*/ˈsetlɪŋ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** The process of establishing stability, reaching an agreement, or becoming established in a new place
+> 🇻🇳 **Vietnamese:** Việc định cư, ổn định hoặc giải quyết/thỏa thuận (quá trình đạt được trạng thái ổn định)
+> 🗣️ **IPA:** */ˈsetlɪŋ/*
+> 🧠 **Mental Model:** Making things SET in their final position - like finding a permanent home, ending an argument, or reaching agreement where everyone accepts
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "The process of establishing stability or reaching an agreement"
+**Vietnamese:** Việc định cư/thỏa thuận
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**settling** (*/ˈsetlɪŋ/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **settling** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The settling of the labor dispute brought relief to both the workers and management after months of tension.
+> 🇻🇳 **Translation:** Việc giải quyết tranh chấp lao động mang lại sự nhẹ nhõm cho cả công nhân và quản lý sau nhiều tháng căng thẳng.
+> 🔍 **Analysis:** Word này perfect vì "settling" captures the process of reaching final resolution, suggests conflict ending và stability emerging
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **settling**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Context:** the settling of [dispute/disagreement] (việc giải quyết - conflict resolution)
+> 2. **Action:** settling down (ổn định cuộc sống - lifestyle choice)
+> 3. **Financial:** price settling (giá ổn định - market behavior)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **settling**:
+"They finally agreed on the terms and stopped arguing."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The settling of the dispute occurred when both parties accepted the negotiated terms."
+> 💡 **Why it works:** "Settling" communicates the process of reaching final agreement, nâng simple description sang more formal resolution narrative
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **settling** instead of **[[resolving]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **settling:** Broader term that includes finding stable position, reaching agreement, or making a home (VN: bao gồm ổn định chỗ ở và thỏa thuận)
+> **[[resolving]]:** Specifically focuses on solving a problem or ending a dispute (VN: tập trung vào giải quyết vấn đề)
+> 🧱 **The Barrier:** "Settling" encompasses multiple types of reaching stability; "resolving" is narrower, specifically about solving problems
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing a friend who finally found stability after years of moving. You feel happy. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "After years of traveling, her settling in this small town has really helped her find peace."
+> 👨‍🎨 **Director's Note:** Word này communicates journey to stability, perfect cho describing finding permanent home after uncertainty
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `settle` to the meaning of **settling**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old English "settan" meant to put/place - "settling" is making things stay put, placing them in final position. Like seating someone permanently hoặc placing a dispute to rest
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **settling**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old English `settan` (to put, place)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[settle]] (to establish, resolve)
+> - *(noun)* [[settling]] (the process)
+> - *(noun)* [[settlement]] (place where people settle, or agreement)
+> - *(adj)* [[settled]] (stable, established)
+> - *(noun)* [[settler]] (person who settles)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈsetlɪŋ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**settling**
+> 📖 **Meaning:** The process of establishing stability or reaching agreement
+> 🇻🇳 **Vietnamese:** Việc định cư/thỏa thuận
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Double construction with settling
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The family is settling down." (NOT "The settling down of the family is happening.")
+> 🧠 **Why:** "Settling down" works as a phrasal verb but is awkward in "the...of" construction - better use as active action or noun alone
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **settling**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[disputing]] (arguing, not agreeing)
+> - [[relocating]] (moving, not staying put)
+> 🧱 **Contrast:** "Settling" = finding stability, agreement, or permanent place; "disputing" = continuing conflict; "relocating" = continuing movement
 
 ---

@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 #flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
-
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [birds of prey, bird of preys, raptors, predator birds, predatory bird]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /bɜːrd əv preɪ/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** formal/scientific
+> **Etymology:** bird (from Old English brid) + prey (from Latin praeda)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A bird that hunts other animals for food
+>
+> **Context Meaning:** A predatory bird that hunts and feeds on other animals, characterized by keen eyesight, sharp talons, and curved beaks
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chim săn mồi
+> - **Contextual:** chim dữ, chim ăn thịt, chim ưng
+>
 > **Nuances:**
-> - ...
+> - Also called "raptors"
+> - Includes eagles, hawks, falcons, owls
+> - Apex predators in many ecosystems
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Fierce, Powerful, Predatory
+> **Memory Hook:** Think "bird that catches prey" = bird that hunts other animals
+> **📖 Etymology Story:** "Prey" from Latin "praeda" meaning "booty, plunder, hunted animal". A "bird of prey" is literally a bird that captures hunted animals. These birds evolved to be perfect hunters.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[bird]] /bɜːrd/
+> - **Noun:** [[prey]] /preɪ/
+> - **Noun:** [[raptor]] /ˈræptər/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[raptor]] /ˈræptər/ : scientific term
+> - [[predatory bird]] /ˈpredətɔːri bɜːrd/ : descriptive
+> - [[bird of victim]] : incorrect
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - No direct antonym for phrase
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. magnificent bird of prey
+> 2. species of birds of prey
+> 3. hunt like a bird of prey
+> 4. bird of prey conservation
+> 5. endangered bird of prey
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The eagle is a powerful bird of prey that can spot small animals from great distances.
+> - **Translation:** Đại bàng là một loài chim săn mồi mạnh mẽ có thể phát hiện con mồi nhỏ từ khoảng cách xa.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Birds of prey play a crucial role in maintaining the balance of ecosystems.
+> - **Translation:** Các loài chim săn mồi đóng vai trò quan trọng trong việc duy trì sự cân bằng của hệ sinh thái.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** There are many birds of preys in this area.
+> - ✅ **Correction:** There are many birds of prey in this area.
+> - **Why:** "Prey" doesn't change in plural in this phrase
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** A bird of prey doesn't sing because it has an answer. It sings because it has a song.
+> **Source:** [[Maya Angelou]]
 
 ---
 
@@ -161,120 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **bird of prey** (*/bɜːrd əv preɪ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A predatory bird that hunts and feeds on other animals, characterized by keen eyesight, sharp talons (claws), and hooked beaks
+> 🇻🇳 **Vietnamese:** Chim săn mồi, chim ăn thịt
+> 🗣️ **IPA:** */bɜːrd əv preɪ/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một con chim có mắt sắc như kính telescope, móng vuốt nhọn như dao surgery, và mỏ cong như hook. Con chim này không ăn hạt hay côn trùng - nó săn bắt và ăn các con vật khác như chuột, cá, hay những chim nhỏ hơn. Đó chính là "bird of prey".
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A predatory bird that hunts and feeds on other animals, characterized by keen eyesight, sharp talons, and hooked beaks"
+**Vietnamese:** Chim săn mồi, chim ăn thịt
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**bird of prey**
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **bird of prey** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The peregrine falcon is the fastest bird of prey, capable of diving at speeds over 200 miles per hour.
+> 🇻🇳 **Translation:** Ưng cổ xám là loài chim săn mồi nhanh nhất, có thể lao xuống với tốc độ hơn 200 dặm mỗi giờ.
+> 🔍 **Analysis:** "Bird of prey" ở đây specific về loại chim - không phải bất kỳ chim nào, mà là chim săn mồi. Từ này perfect vì nó classifies peregrine falcon vào một specific category của鸟类, nhấn mạnh vào predatory nature và hunting capabilities.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **bird of prey**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Type Description:** magnificent bird of prey (chim săn mồi hùng vĩ - nhấn mạnh vẻ đẹp và sức mạnh)
+> 2. **Group Reference:** species of birds of prey (các loài chim săn mồi - talking about multiple species)
+> 3. **Conservation Context:** endangered bird of prey (chim săn mồi bị đe dọa - conservation concern)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **bird of prey**:
+"That eagle hunts smaller animals."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The eagle is a magnificent bird of prey that skillfully hunts small mammals."
+> 💡 **Why it works:** "Bird of prey" là scientific classification term, elegant hơn "hunting animal". Nó conveys power, skill, và natural role trong ecosystem. "Magnificent" thêm element of awe và respect cho eagle.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **bird of prey** instead of **[[raptor]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **bird of prey:** Common, descriptive term - dễ hiểu, common trong everyday language và general contexts. Rõ ràng về meaning.
+> **[[raptor]]:** Scientific/technical term - dùng trong ornithology, formal writing. More concise nhưng less familiar với general audience.
+> 🧱 **The Barrier:** Bird of prey = descriptive, accessible, visual. Raptor = scientific, precise, academic. Bird of prey better cho general communication, raptor better cho scientific contexts.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're on a nature walk and see a hawk swooping down to catch a mouse. You describe what you see to your friend. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Look! A bird of prey diving for its catch!"
+> 👨‍🎨 **Director's Note:** Câu này captures excitement của witnessing predation event. "Bird of prey" conveys power và intensity của moment đó - nó không chỉ là một con chim "catching" something, mà là một predator hunting prey.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `praeda` to the meaning of **bird of prey**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Prey" từ Latin "praeda" nghĩa là "booty, plunder, hunted animal" - con mồi bị săn bắt. "Bird of prey" = con chim săn bắt "prey". Trong tự nhiên, relationship giữa predator và prey là fundamental. Birds of prey đứng đầu food chain, evolved với special adaptations: eyes keen, talons sharp, beaks hooked - tất cả designed để catch và kill prey efficiently.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **prey**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `praeda` (booty, plunder, hunted animal)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[prey]] (con mồi)
+> - *(noun)* [[predator]] (kẻ săn mồi)
+> - *(adj)* [[predatory]] (ăn thịt, săn mồi)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */bɜːrd əv preɪ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**bird of prey**
+> 📖 **Meaning:** A predatory bird that hunts for food
+> 🇻🇳 **Vietnamese:** Chim săn mồi
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The owl hunts like a birds of prey."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The owl hunts like a bird of prey." OR "The owl is one of the birds of prey."
+> 🧠 **Why:** Khi dùng với singular article "a", cần singular "bird of prey". Khi dùng plural "birds", có thể nói "birds of prey". Pattern này bất thường vì "prey" không đổi nhưng "bird" thì có.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of a **bird of prey**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[herbivorous bird]] (chim ăn cỏ - ăn hạt, trái cây, không săn thịt)
+> - [[prey species]] (con mồi - animal bị săn bắt)
+> 🧱 **Contrast:** Bird of prey = hunter, predator, top of food chain. Herbivorous bird = không săn thịt. Prey species = bị săn.
 
 ---

@@ -1,280 +1,211 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [female, masculine, feminine, man, men, masculinity, manhood, gender, sex, biological sex]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /meɪl/
+> **Part of Speech:** adjective/noun
+> **CEFR Level:** A1
+> **Register:** neutral
+> **Etymology:** From Old French *male* from Latin *masculus*
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Belonging to the sex that produces sperm
+>
+> **Context Meaning:** Being of the sex that typically has XY chromosomes; relating to men or boys
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** (adj) nam, nam giới, con đực; (noun) nam giới, người đàn ông
+> - **Contextual:** giới tính nam, thuộc về đàn ông
+>
 > **Nuances:**
-> - ...
+> - Can be used as adjective (male teacher) or noun (the male species)
+> - Often used in contrast with "female"
+> - Used in scientific, medical, and everyday contexts
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Direct, Biological, Categorical
+> **Memory Hook:** "Male" sounds like "mail" - think of the male symbol ♂ which looks like a shield or arrow
+> **📖 Etymology Story:** Latin "masculus" meant "male" and comes from "masc" meaning "of the male sex." The ancient Romans used this word to distinguish between male and female in all contexts - from animals to humans to plants.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[male]] /meɪl/ : a male person or animal
+> - **Adj:** [[male]] /meɪl/ : relating to males
+> - **Adj:** [[masculine]] /ˈmæskjʊlɪn/ : having qualities associated with men
+> - **Noun:** [[masculinity]] /ˌmæskjʊˈlɪnəti/ : qualities considered typical of men
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[man]] /mæn/ : an adult male human
+> - [[masculine]] /ˈmæskjʊlɪn/ : having male characteristics
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[female]] /ˈfiːmeɪl/ : of the female sex
+> - [[feminine]] /ˈfemənɪn/ : having female characteristics
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. male student
+> 2. male population
+> 3. predominantly male
+>
+> **1. Demographic Context**
+> - **Sentence:** The university has seen an increase in male enrollment in nursing programs.
+> - **Translation:** Đại học đã ghi nhận sự gia tăng trong số lượng nam sinh viên ghi danh vào các chương trình điều dưỡng.
+>
+> **2. Biological Context**
+> - **Sentence:** Male lions are responsible for protecting the pride's territory.
+> - **Translation:** Sư tử đực có trách nhiệm bảo vệ lãnh thổ của đàn sư tử.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing male vs masculine**
+> - ❌ **Mistake:** She has a very male voice.
+> - ✅ **Correction:** She has a very masculine voice.
+> - **Why:** "Male" refers to biological sex, while "masculine" refers to characteristics/qualities associated with men.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The male is by nature superior and the female inferior."
+> **Source:** [[Aristotle]] (historical context)
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-04/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **male** (*/meɪl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Belonging to the sex that produces sperm or has XY chromosomes; referring to men or boys
+> 🇻🇳 **Vietnamese:** (adj) thuộc nam giới, con đực; (noun) người đàn ông, nam giới
+> 🗣️ **IPA:** */meɪl/*
+> 🧠 **Mental Model:** Giống như "biological marker" - chỉ giới tính sinh học (biological sex) phân biệt với female, dùng cho người, động vật, thực vật
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Belonging to the sex that produces sperm and has XY chromosomes"
+**Vietnamese:** Thuộc giới tính sản xuất tinh trùng, có nhiễm sắc thể XY
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**male** (*/meɪl/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **male** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The survey revealed that male employees were more likely to request flexible working arrangements than expected.
+> 🇻🇳 **Translation:** Khảo sát cho thấy nhân viên nam có khả năng yêu cầu sắp xếp công việc linh hoạt hơn dự kiến.
+> 🔍 **Analysis:** "Male" ở đây dùng như adjective để describe employee, rất neutral và standard trong demographic reports
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **male**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Demographic:** male population (dân số nam - VN: số lượng người nam trong tổng thể)
+> 2. **Professional:** male dominated (nam giới chiếm ưu thế - VN: chủ yếu là nam)
+> 3. **Biological:** male species (loài đực - VN: giới tính đực của động/thực vật)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **male**:
+"Boys can't join."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "This program is specifically designed for male students aged 16-18."
+> 💡 **Why it works:** "Male" tạo sự rõ ràng về giới tính (gender specification), "specifically designed" nhấn mạnh mục tiêu cụ thể
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **male** instead of **[[masculine]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **male:** Dùng khi nói về biological sex - VN: giới tính sinh học, chromosomal sex
+> **[[masculine]]:** Dùng khi nói về characteristics/traits của nam giới - VN: tính chất nam tính, đặc điểm của đàn ông
+> 🧱 **The Barrier:** Male là biological fact (XXY), masculine là social/cultural traits (cứng rắn, mạnh mẽ, v.v.)
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're reading about a medical study. You feel curious. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The study focused on how certain medications affect the male reproductive system differently."
+> 👨‍🎨 **Director's Note:** "Male" thể hiện precision trong scientific context, phân biệt rõ biological sex
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `<masculus>` to the meaning of **male**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Latin 'masculus' meant 'of the male sex' và có nguồn gốc từ 'masc' (con đực). Từ này dùng để phân biệt gender trong mọi context - từ người đến động vật đến thực vật
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-04/05-addition
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **male**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `masculus` (male)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[masculine]] (nam tính, đặc điểm của đàn ông)
+> - *(noun)* [[masculinity]] (sự nam tính, chất nam)
+> - *(antonym)* [[female]] (nữ)
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-04/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */meɪl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**male**
+> 📖 **Meaning:** Belonging to the sex that produces sperm
+> 🇻🇳 **Vietnamese:** Thuộc giới tính nam, con đực
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "My female friend has very male opinions."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "My female friend has very masculine opinions."
+> 🧠 **Why:** "Male" chỉ biological sex, không dùng để describe opinions/traits. Dùng "masculine" cho characteristics/qualities
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **male**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[female]] (nữ, thuộc giới tính nữ - biological opposite)
+> - [[feminine]] (nữ tính, đặc điểm nữ giới - characteristic opposite)
+> 🧱 **Contrast:** Male/female là biological opposites (sperm/egg producers), masculine/feminine là trait opposites (social/cultural characteristics)

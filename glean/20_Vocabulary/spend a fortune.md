@@ -1,280 +1,213 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
 #flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [cost a fortune, spend a lot of money, expensive, pricey, costly, extravagant, blow money, splurge, lavishly spend, burn money]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /spend ə ˈfɔːrtʃən/
+> **Part of Speech:** phrasal expression (verb + noun)
+> **CEFR Level:** B2
+> **Register:** informal/colloquial
+> **Etymology:** "Spend" from Old English *spendan* + "fortune" from Latin *fortuna* (luck/chance)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To use a very large amount of money
+>
+> **Context Meaning:** To spend an excessive or extremely large amount of money on something; to pay a very high price
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tốn một gia tài, tiêu rất nhiều tiền
+> - **Contextual:** tốn kém, chi phí rất đắt đỏ, đổ rất nhiều tiền vào
+>
 > **Nuances:**
-> - ...
+> - Hyperbolic expression - rarely means actual "fortune"
+> - Implies the amount was more than reasonable or expected
+> - Often used for luxury items, special occasions, or regretted purchases
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Exaggerated, Impulsive, Regretful
+> **Memory Hook:** "Fortune" means a large sum of money - if you "spend a fortune," you're spending like you have unlimited wealth
+> **📖 Etymology Story:** "Fortune" comes from Fortuna, the Roman goddess of luck and fate. When you "spend a fortune," you're spending as if luck gave you unlimited wealth - spending extravagantly beyond what's reasonable.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[spend]] /spend/ : to use money
+> - **Noun:** [[spending]] /ˈspendɪŋ/ : money that is used
+> - **Noun:** [[fortune]] /ˈfɔːrtʃən/ : a large amount of money; luck
+> - **Adj:** [[expensive]] /ɪkˈspensɪv/ : costing a lot of money
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[cost a fortune]] /kɒst ə ˈfɔːrtʃən/ : to be very expensive
+> - [[blow money]] /bləʊ ˈmʌni/ : to spend wastefully
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[save money]] /seɪv ˈmʌni/ : to keep money for later
+> - [[bargain]] /ˈbɑːɡən/ : something bought cheaply
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. spent a fortune on
+> 2. cost a fortune
+> 3. would spend a fortune
+>
+> **1. Travel Context**
+> - **Sentence:** We spent a fortune on our honeymoon, but it was worth every penny.
+> - **Translation:** Chúng tôi đã tốn một gia tài cho tuần trăng mật, nhưng nó đáng từng đồng.
+>
+> **2. Shopping Context**
+> - **Sentence:** These designer shoes cost a fortune, so I can only admire them in the shop window.
+> - **Translation:** Giày thiết kế này tốn rất nhiều tiền, nên tôi chỉ có thể ngắm chúng qua cửa hàng.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Incorrect preposition**
+> - ❌ **Mistake:** They spent a fortune for their new house.
+> - ✅ **Correction:** They spent a fortune on their new house.
+> - **Why:** With "spend," use "on" for what you're buying (spend money on something).
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "I would spend a fortune for the right education."
+> **Source:** [[Warren Buffett]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-04/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **spend a fortune** (*/spend ə ˈfɔːrtʃən/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To spend an extremely large amount of money on something; to pay a very high price (hyperbolic)
+> 🇻🇳 **Vietnamese:** Tốn một gia tài, tiêu rất nhiều tiền, chi phí rất đắt đỏ
+> 🗣️ **IPA:** */spend ə ˈfɔːrtʃən/*
+> 🧠 **Mental Model:** Giống như "breaking the bank" - khi spend a fortune, bạn tiêu nhiều tiền đến mức giống như tiêu cả gia tài của mình
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To spend an extremely large amount of money on something"
+**Vietnamese:** Tiêu rất nhiều tiền, tốn một gia tài cho cái gì đó
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**spend a fortune** (*/spend ə ˈfɔːrtʃən/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **spend a fortune** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The couple spent a fortune renovating their Victorian home, preserving all the original features.
+> 🇻🇳 **Translation:** Cặp vợ chồng đã tốn rất nhiều tiền để cải tạo ngôi nhà kiểu Victoria, giữ gìn tất cả các đặc tính nguyên bản.
+> 🔍 **Analysis:** "Spend a fortune" ở đây kết hợp với "renovating" thể hiện sự đầu tư lớn (significant investment), có cảm giác worthwhile
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **spend a fortune**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Purpose:** spend a fortune on [something] (tốn rất nhiều tiền cho cái gì - VN: chỉ đối tượng tiêu tiền)
+> 2. **Condition:** would spend a fortune (sẽ tốn rất nhiều tiền - VN: hypothetical/conditional)
+> 3. **Alternative:** cost a fortune (tốn rất nhiều tiền - VN: subject là vật/đối tượng bị tiêu)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **spend a fortune**:
+"It was really expensive."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The rare vintage car restoration project meant the collector would spend a fortune tracking down authentic parts."
+> 💡 **Why it works:** "Spend a fortune" tạo hình ảnh cụ thể về mức độ chi phí cực cao, phù hợp với rare vintage car context
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **spend a fortune** instead of **[[buy]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **spend a fortune:** Dùng khi nhấn mạnh amount rất lớn, hyperbolic - VN: tốn kém, tiêu rất nhiều
+> **[[buy]]:** Dùng khi chỉ action mua, không nhấn mạnh giá - VN: mua, sở hữu
+> 🧱 **The Barrier:** Spend a fortune là quantity-focused (how much), buy là action-focused (what). Giống như "đổ rất nhiều tiền" vs "mua cái gì đó".
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend just bought a luxury watch. You feel amazed/shocked. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Wow, you must have spent a fortune on that timepiece!"
+> 👨‍🎨 **Director's Note:** "Spend a fortune" thể hiện surprise về mức giá cao, natural trong casual conversation
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<spend>` and `<fortune>` to the meaning of **spend a fortune**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Fortune" từ "Fortuna" - nữ thần may mắn của người La Mã. Khi "spend a fortune", bạn tiêu như thể may mắn cho bạn unlimited wealth - tiêu hoang phí (extravagantly) hơn mức hợp lý
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-04/05-addition
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the roots of **spend a fortune**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:**
+> - Old English `spendan` (to pay out, expend)
+> - Latin `fortuna` (luck, chance, fate) → [[fortune]]
+> 👨‍👩‍👧 **Related:**
+> - *(expression)* [[cost a fortune]] (rất đắt)
+> - *(adj)* [[expensive]] (đắt đỏ)
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-04/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */spend ə ˈfɔːrtʃən/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**spend a fortune**
+> 📖 **Meaning:** To spend an extremely large amount of money
+> 🇻🇳 **Vietnamese:** Tốn rất nhiều tiền, tốn một gia tài
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "They spent a fortune to renovating the kitchen."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "They spent a fortune renovating the kitchen." OR "They spent a fortune on the kitchen renovation."
+> 🧠 **Why:** "Spend" + [amount] + [gerund/V-ing] hoạt động, không cần "to". Hoặc dùng "on [noun]".
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **spend a fortune**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[save money]] (tiết kiệm tiền)
+> - [[be affordable]] (phù hợp túi tiền, rẻ)
+> - [[bargain]] (món hời, rẻ)
+> 🧱 **Contrast:** Spend a fortune là lavishly using money, save money là keeping money. Giống như burning cash vs saving for future.

@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [prediction, predictions, predict, predictor, predictive, forecasting, forecast]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /prɪˈdɪkʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal/informal
+> **Etymology:** From Latin "praedicere" meaning "to say beforehand" (prae- "before" + dicere "to say")
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A statement about what will happen in the future
+>
+> **Context Meaning:** The act or result of forecasting or estimating what will happen based on available information and patterns
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** dự đoán
+> - **Contextual:** tiên đoán, dự báo, nhận định tương lai
+>
 > **Nuances:**
-> - ...
+> - Based on evidence, data, or patterns
+> - Can be in science, weather, economics, or daily life
+> - Not the same as guessing - involves reasoning
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Analytical, Forward-looking, Evidence-based
+> **Memory Hook:** PRE = before, DICT = speak. PREDICTION = SPEAKING BEFORE it happens! Telling what will happen.
+> **📖 Etymology Story:** "Prediction" đến từ Latin "praedicere" - "prae" có nghĩa là "before" (trước) và "dicere" có nghĩa là "to say/speak" (nói). PREDICTION = saying/speaking BEFORE it happens - nói trước sự việc xảy ra.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[prediction]] /prɪˈdɪkʃn/
+> - **Verb:** [[predict]] /prɪˈdɪkt/
+> - **Adj:** [[predictive]] /prɪˈdɪktɪv/, [[predictable]] /prɪˈdɪktəbl/
+> - **Adv:** [[predictably]] /prɪˈdɪktəbli/
+
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[forecast]] : commonly used for weather/economics
+> - [[projection]] : statistical future estimate
+> - [[prophecy]] : more mystical/religious
+
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[observation]] : seeing what's already happened
+> - [[postdiction]] : explaining past after it happened
+> - [[retrospective]] : looking backward
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. make a prediction
+> 2. accurate prediction
+> 3. weather prediction
+> 4. bold prediction
+
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** Scientists made a prediction that the hurricane would change course and move toward the coast.
+> - **Translation:** Các nhà khoa học đã đưa ra dự đoán rằng cơn bão sẽ đổi hướng và di chuyển về phía bờ biển.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Economic predictions for the coming year suggest steady growth despite global challenges.
+> - **Translation:** Các dự báo kinh tế cho năm tới cho thấy tăng trưởng ổn định bất chấp những thách thức toàn cầu.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Pronunciation**
+> - ❌ **Mistake:** /priːˈdɪkʃn/ (rhymes with "pre")
+> - ✅ **Correction:** /prɪˈdɪkʃn/ (short 'i' like "pin")
+> - **Why:** First syllable has short 'i', not long 'i'
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Accurate predictions require careful analysis of data and recognition of patterns."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +84,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **prediction** (*/prɪˈdɪkʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A statement or estimate about what will happen in the future, based on analysis of available information, patterns, and evidence.
+> 🇻🇳 **Vietnamese:** Một tuyên bố hoặc ước tính về những gì sẽ xảy ra trong tương lai, dựa trên phân tích thông tin sẵn có, các mô hình và bằng chứng.
+> 🗣️ **IPA:** */prɪˈdɪkʃn/*
+> 🧠 **Mental Model:** Hãy tưởng tượng một nhà khoa học nhìn vào dữ liệu quá khứ và nói: "Dựa trên những gì đã xảy ra, tôi tin rằng điều này sẽ xảy ra." Đó là "prediction" - NÓI TRƯỚC sự việc xảy ra dựa trên bằng chứng, không phải đoán mò.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A statement about what will happen in the future based on evidence and analysis"
+**Vietnamese:** Dự đoán, tiên đoán
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**prediction** (*/prɪˈdɪkʃn/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **prediction** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The weather prediction for tomorrow indicates heavy rain, so we should postpone the outdoor event.
+> 🇻🇳 **Translation:** Dự báo thời tiết cho ngày mai cho thấy mưa lớn, vì vậy chúng ta nên hoãn sự kiện ngoài trời.
+> 🔍 **Analysis:** Trong câu này, "prediction" được dùng trong ngữ cảnh dự báo thời tiết, một trong những ứng dụng phổ biến nhất của từ này. Nó thể hiện sự phân tích và tính toán chứ không phải đoán mò.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **prediction**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action Verbs:** make a prediction, issue a prediction, offer a prediction (đưa ra dự đoán - các hành động)
+> 2. **Quality Adjectives:** accurate prediction, reliable prediction, bold prediction (chính xác, đáng tin cậy, táo bạo - mô tả chất lượng)
+> 3. **Domain-Specific:** weather prediction, economic prediction, scientific prediction (thời tiết, kinh tế, khoa học - các lĩnh vực cụ thể)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **prediction**:
+"He thinks it will rain tomorrow."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "His weather prediction indicates rain is likely tomorrow based on atmospheric pressure patterns."
+> 💡 **Why it works:** "Prediction" thể hiện tính phân tích và bằng chứng - mạnh hơn "thinks" chỉ đơn thuần là suy nghĩ cá nhân. Nó gợi ý một quá trình phân tích dữ liệu chứ không phải cảm giác.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **prediction** instead of **guess**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **prediction:** Dựa trên PHÂN TÍCH, DỮ LIỆU, BẰNG CHỨNG - có cơ sở logic và khoa học.
+> **guess:** Dựa trên cảm tính, may rủi, không có cơ sở rõ ràng - đoán mò.
+> 🧱 **The Barrier:** "Prediction" = nói TRƯỚC với bằng chứng; "Guess" = đoán không có cơ sở. Weather forecast = prediction (có dữ liệu), đoán mò xem trời mưa hay không = guess (không có dữ liệu).
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're analyzing market trends for a business meeting. Based on data, you foresee growth. You feel confident. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Based on current trends, my prediction is that we'll see significant growth in the next quarter."
+> 👨‍🎨 **Director's Note:** Cụm từ này thể hiện sự phân tích chuyên nghiệp và sự tự tin dựa trên dữ liệu - phù hợp với bối cảnh kinh doanh.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<prae>` and `<dicere>` to the meaning of **prediction**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Prediction" đến từ Latin "praedicere" - "prae" có nghĩa là "before" (trước) và "dicere" có nghĩa là "to say/speak" (nói). PREDICTION = saying/speaking BEFORE it happens - nói trước sự việc xảy ra dựa trên phân tích và bằng chứng.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **prediction**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `dicere` (to say/speak)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[predict]], [[dictate]], [[contradict]]
+> - *(noun)* [[prediction]], [[dictation]], [[dictionary]]
+> - *(adj)* [[predictive]], [[predictable]]
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */prɪˈdɪkʃn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**prediction**
+> 📖 **Meaning:** A forecast about future events based on evidence
+> 🇻🇳 **Vietnamese:** Dự đoán, tiên đoán
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Pronunciation of **prediction**
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** /prɪˈdɪkʃn/ (short 'i' like "pin", NOT /priːˈdɪkʃn/)
+> 🧠 **Why:** Âm tiết đầu tiên có nguyên âm ngắn 'i' (như trong "pin"), không phải nguyên âm dài 'i' (như trong "pre"). Đây là một lỗi phát âm phổ biến. Hãy nhớ: pre-DIC-tion.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite concept of **prediction**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[observation]] (nhìn những gì đã xảy ra, không dự đoán)
+> - [[retrospective analysis]] (phân tích quá khứ, nhìn lại)
+> - [[postdiction]] (giải thích quá khứ sau khi nó đã xảy ra)
+> 🧱 **Contrast:** "Prediction" = nhìn về phía trước, dự đoán tương lai; "Observation/retrospective" = nhìn lại, xem xét những gì đã xảy ra.
 
 ---

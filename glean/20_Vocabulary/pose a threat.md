@@ -1,280 +1,212 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [pose danger, present a threat, constitute a threat, be dangerous, threaten, endanger, menace, risk, jeopardize, create danger]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pəʊz ə θret/
+> **Part of Speech:** phrasal expression (verb + noun)
+> **CEFR Level:** B2
+> **Register:** neutral/formal
+> **Etymology:** "Pose" from Latin *pausare* (to place/set) + "threat" from Old English *þreat*
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** To present a danger or risk
+>
+> **Context Meaning:** To create a situation that could cause harm, danger, or negative consequences
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** gây nguy hiểm, đe dọa, tạo ra mối đe dọa
+> - **Contextual:** là mối đe dọa, gây nguy hại, tiềm ẩn nguy cơ rủi ro
+>
 > **Nuances:**
-> - ...
+> - Often used in formal contexts about potential dangers
+> - Implies a possibility rather than certainty of harm
+> - Can refer to physical danger, security threats, or abstract risks
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Warning, Alert, Cautious
+> **Memory Hook:** Imagine someone "posing" like a model - they're presenting themselves. When you "pose a threat," you're presenting danger like it's your outfit
+> **📖 Etymology Story:** "Pose" comes from "pausare" - to place or set something down. When something "poses a threat," it's placing danger in front of you, setting it up like a trap you might fall into.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[pose]] /pəʊz/ : to present or create (a problem, question, etc.)
+> - **Noun:** [[threat]] /θret/ : a danger or risk
+> - **Adj:** [[threatening]] /ˈθretənɪŋ/ : causing fear or concern
+> - **Noun:** [[poser]] /ˈpəʊzə/ : one who poses (questions or problems)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[threaten]] /ˈθretən/ : to be likely to cause harm
+> - [[endanger]] /ɪnˈdeɪndʒə/ : to put in danger
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[protect]] /prəˈtekt/ : to keep safe
+> - [[safeguard]] /ˈseɪfɡɑːd/ : to protect from harm
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. pose a serious threat
+> 2. pose a threat to [someone/something]
+> 3. pose a significant threat
+>
+> **1. Environmental Context**
+> - **Sentence:** Climate change poses a serious threat to coastal communities worldwide.
+> - **Translation:** Biến đổi khí hậu gây nguy hiểm nghiêm trọng cho các cộng đồng ven biển trên toàn thế giới.
+>
+> **2. Security Context**
+> - **Sentence:** The virus doesn't pose a threat to systems with updated security software.
+> - **Translation:** Vi-rút này không gây nguy hiểm cho các hệ thống có phần mềm bảo mật được cập nhật.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Missing article**
+> - ❌ **Mistake:** Pollution poses threat to marine life.
+> - ✅ **Correction:** Pollution poses a threat to marine life.
+> - **Why:** "Threat" is a singular countable noun here, needs the article "a".
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "That which does not kill us makes us stronger - unless it poses a threat to our future."
+> **Source:** [[Philosophy of Risk]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-04/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **pose a threat** (*/pəʊz ə θret/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To create a situation that could cause harm or danger; to present a risk
+> 🇻🇳 **Vietnamese:** Gây nguy hiểm, đe dọa, tạo ra mối đe dọa, tiềm ẩn rủi ro
+> 🗣️ **IPA:** */pəʊz ə θret/*
+> 🧠 **Mental Model:** Giống như "present danger" - khi pose a threat, bạn đang "đặt" (pose) mối nguy hiểm (threat) vào trước mặt ai đó
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To create or present a situation that could cause harm or danger"
+**Vietnamese:** Gây nguy hiểm, đe dọa, tạo ra tình huống có thể gây hại
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**pose a threat** (*/pəʊz ə θret/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **pose a threat** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The proposed development could pose a threat to the local wildlife habitat.
+> 🇻🇳 **Translation:** Khu phát triển đề xuất có thể gây nguy hiểm cho môi trường sống động vật hoang dã địa phương.
+> 🔍 **Analysis:** "Pose a threat" ở đây thể hiện tính potential danger - chưa chắc chắn sẽ xảy ra nhưng có khả năng gây hại, rất phù hợp trong environmental context
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **pose a threat**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** pose a serious threat (gây nguy hiểm nghiêm trọng - VN: mức độ rủi ro cao)
+> 2. **Direction:** pose a threat to [something] (gây nguy hiểm cho cái gì - VN: chỉ đối tượng bị đe dọa)
+> 3. **Assessment:** doesn't pose a threat (không gây nguy hiểm - VN: phủ nhận rủi ro)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **pose a threat**:
+"It's dangerous for the kids."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The unfenced swimming pool poses a significant threat to young children in the neighborhood."
+> 💡 **Why it works:** "Pose a threat" tạo hình ảnh cụ thể về mối nguy hiểm tiềm ẩn, "significant" tăng mức độ nghiêm trọng
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **pose a threat** instead of **[[be dangerous]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **pose a threat:** Dùng khi nói về potential risk, formal context - VN: tiềm ẩn nguy cơ, formal
+> **[[be dangerous]]:** Dùng khi nói về actual danger, more direct - VN: nguy hiểm trực tiếp, thông thường
+> 🧱 **The Barrier:** Pose a threat là presenting possibility, be dangerous là stating actual condition. Giống như warning vs stating fact.
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your friend is concerned about installing new smart home devices. You feel skeptical. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "To be honest, I don't think these devices pose a real threat to your privacy if configured correctly."
+> 👨‍🎨 **Director's Note:** "Pose a threat" thể hiện đánh giá một cách cẩn trọng (cautious assessment), phù hợp khi thảo luận về rủi ro công nghệ
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<pose>` and `<threat>` to the meaning of **pose a threat**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Pose" từ "pausare" = đặt/cái gì đó xuống. "Threat" = nguy hiểm. Combine = "đặt nguy hiểm xuống" - giống như đặt một cạm bẫy (trap) trước mặt ai đó
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-04/05-addition
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the roots of **pose a threat**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:**
+> - Latin `pausare` (to place/set) → [[pose]]
+> - Old English `þreat` (danger) → [[threat]]
+> 👨‍👩‍👧 **Related:**
+> - *(verb)* [[threaten]] (đe dọa)
+> - *(adj)* [[threatening]] (gây đe dọa)
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-04/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pəʊz ə θret/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**pose a threat**
+> 📖 **Meaning:** To create or present a danger or risk
+> 🇻🇳 **Vietnamese:** Gây nguy hiểm, đe dọa
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "This virus pose threat to elderly people."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "This virus poses a threat to elderly people."
+> 🧠 **Why:** "Pose" cần chia ở dạng singular (poses) vì subject là "virus" (singular), và "threat" cần article "a" vì là countable noun
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **pose a threat**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[protect from harm]] (bảo vệ khỏi nguy hại)
+> - [[safeguard]] (đảm bảo an toàn)
+> 🧱 **Contrast:** Pose a threat là presenting danger, protect/safeguard là removing danger. Giống như setting up a trap vs disarming it.

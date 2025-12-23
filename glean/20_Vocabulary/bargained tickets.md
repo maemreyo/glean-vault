@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 #flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [bargained tickets, negotiated tickets, discounted tickets, deal tickets, cheap tickets, haggled tickets]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈbɑːɡɪnd ˈtɪkɪts/
+> **Part of Speech:** noun phrase (past participle as adjective)
+> **CEFR Level:** B2
+> **Register:** informal/transactional
+> **Etymology:** bargain (Old French bargaigner, to haggle) + ticket (from Old French etiquet)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Tickets obtained through negotiation for a lower price
+>
+> **Context Meaning:** Tickets that were purchased after negotiating the price down from the original asking price
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** vé đã mặc cả
+> - **Contextual:** vé mua được sau khi mặc cả/giá giảm nhờ mặc cả
+>
 > **Nuances:**
-> - ...
+> - Price was negotiated down
+> - Implies effort in transaction
+> - Better than original price
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Smart, Negotiated, Thrifty
+> **Memory Hook:** "BARGAINED tickets = BARGAINED DOWN price" - you talked the price down
+> **📖 Etymology Story:** Old French "bargaigner" meant to haggle, negotiate. "Bargained tickets" are tickets you earned through negotiation - the victory of getting a better deal through conversation.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Verb:** [[bargain]] /ˈbɑːɡɪn/ (to negotiate)
+> - **Noun:** [[bargain]] /ˈbɑːɡɪn/ (good deal, or the negotiation process)
+> - **Noun:** [[tickets]] /ˈtɪkɪts/ (paper or digital entry passes)
+> - **Noun:** [[bargaining]] (the process of negotiating)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[negotiated tickets]] /nɪˈɡəʊʃieɪtɪd ˈtɪkɪts/ : obtained through discussion
+> - [[discounted tickets]] : simply reduced price
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[full-price tickets]] : no discount
+> - [[regular price tickets]] : standard cost
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. get bargained tickets
+> 2. purchase bargained tickets
+> 3. tickets were bargained
+>
+> **1. Example Context 1 - Travel Planning**
+> - **Sentence:** We managed to get bargained tickets for the flight by booking in advance and negotiating with the agent.
+> - **Translation:** Chúng tôi đã có được vé đã mặc cả cho chuyến bay bằng cách đặt trước và mặc cả với đại lý.
+>
+> **2. Example Context 2 - Event Attendance**
+> - **Sentence:** The bargained tickets they obtained allowed them to attend the expensive concert at half the original price.
+> - **Translation:** Những vé đã mặc cả họ đã có được cho phép họ tham dự buổi hòa nhạc đắt tiền với một nửa giá gốc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Past Participle Form**
+> - ❌ **Mistake:** bargain tickets
+> - ✅ **Correction:** bargained tickets
+> - **Why:** When using "bargain" as a past participle adjective modifying "tickets," it must be "bargained" (or "had bargained for" in full form).
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** They proudly showed off their bargained tickets to the championship match.
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **bargained tickets** (*/ˈbɑːɡɪnd ˈtɪkɪts/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Tickets that were purchased at a reduced price through negotiation or bargaining
+> 🇻🇳 **Vietnamese:** Những vé đã được mua sau khi mặc cả/đàm phán để có giá tốt hơn
+> 🗣️ **IPA:** */ˈbɑːɡɪnd ˈtɪkɪts/*
+> 🧠 **Mental Model:** Tickets bạn got vì bạn talked the seller down from original price - smart shopper achievement, not just lucky discount
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Tickets obtained through negotiation to get a lower price"
+**Vietnamese:** Vé đã mặc cả
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**bargained tickets** (*/ˈbɑːɡɪnd ˈtɪkɪts/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **bargained tickets** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The tourists were thrilled with their bargained tickets to the popular attraction, having saved fifty percent through negotiation.
+> 🇻🇳 **Translation:** Những du khách rất vui mừng với vé đã mặc cả đến địa điểm nổi tiếng, đã tiết kiệm được năm mươi phần trăm thông qua đàm phán.
+> 🔍 **Analysis:** Word này perfect vì "bargained" captures the active negotiation aspect, "tickets" identifies the item, creating image của savvy consumer action
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **bargained tickets**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Acquisition:** get/obtain bargained tickets (có được vé mặc cả - successful negotiation)
+> 2. **Action:** purchase bargained tickets (mua vé mặc cả - transaction)
+> 3. **Comparison:** cheaper than regular tickets (rẻ hơn vé thường - highlighting benefit)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **bargained tickets**:
+"They bought the tickets for less money after talking about the price."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "They secured bargained tickets after skillfully negotiating the price down."
+> 💡 **Why it works:** "Bargained tickets" là concise phrase communicates both the successful negotiation và the result, nâng narrative từ generic description sang specific savvy transaction
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **bargained tickets** instead of **[[discounted tickets]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **bargained tickets:** Price reduced through active negotiation/conversation with seller (VN: giá giảm do chủ động mặc cả với người bán)
+> **[[discounted tickets]]:** Price reduced automatically through promotion/sale (VN: giá giảm do khuyến mãi, không cần mặc cả)
+> 🧱 **The Barrier:** "Bargained" implies effort and negotiation happened; "discounted" could be automatic, no interaction required
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're telling friends how you managed to attend an expensive show despite limited budget. You feel proud. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I couldn't believe it, but I got bargained tickets by talking to the vendor at the last minute!"
+> 👨‍🎨 **Director's Note:** Word này communicates resourcefulness và smart shopping, perfect cho sharing money-saving success story
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `bargain` to the meaning of **bargained tickets**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Old French "bargaigner" meant to haggle, negotiate - "bargained tickets" represent victory in negotiation, tickets earned through the ancient art of bargaining, getting better deal through conversation
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **bargained tickets**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Old French `bargaigner` (to haggle, negotiate)
+> 👨‍👩‍👧 **Family:**
+> - *(verb)* [[bargain]] (to negotiate, to discuss terms)
+> - *(noun)* [[bargain]] (good deal, or negotiation)
+> - *(noun)* [[bargaining]] (negotiation process)
+> - *(noun)* [[tickets]] (entry passes)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈbɑːɡɪnd ˈtɪkɪts/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**bargained tickets**
+> 📖 **Meaning:** Tickets obtained at a reduced price through negotiation
+> 🇻🇳 **Vietnamese:** Vé đã mặc cả
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Missing past participle -ed
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "bargained tickets" (NOT "bargain tickets")
+> 🧠 **Why:** As an adjective modifying "tickets," "bargain" must be in past participle form "bargained" to indicate the tickets went through bargaining
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **bargained tickets**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[full-price tickets]] (no discount, original cost)
+> - [[premium tickets]] (higher priced, special)
+> 🧱 **Contrast:** "Bargained tickets" = reduced through negotiation; "full-price tickets" = original price without discount; "premium tickets" = higher than standard price
 
 ---

@@ -1,280 +1,214 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
 #flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [stir pans, use a metal spoon on pans, scrape pans, metal utensils on cookware, cooking with metal spoons, stir with metal utensils]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /pænz wɪð ə ˈmetl spuːn/
+> **Part of Speech:** noun phrase (plural noun + prepositional phrase)
+> **CEFR Level:** B1-B2
+> **Register:** neutral
+> **Etymology:** "Pan" from Old English *panne* + "Metal" from Latin *metallum* + "Spoon" from Old English *spōn*
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Cooking pots made of metal stirred with metal utensils
+>
+> **Context Meaning:** Using metal spoons or utensils to stir or cook in metal pans; often referring to the action of stirring food in pans
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** chảo bằng thìa kim loại
+> - **Contextual:** nấu ăn trong chảo bằng thìa kim loại, khuấy chảo bằng dụng cụ kim loại
+>
 > **Nuances:**
-> - ...
+> - Can imply using inappropriate utensils (non-stick pans shouldn't use metal)
+> - Refers to the action of stirring or serving from pans
+> - Often used in cooking instructions or discussions about proper kitchenware
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Culinary, Practical, Warning
+> **Memory Hook:** Think of a chef in a professional kitchen using a metal spoon to stir metal pans - clink, clink, clink!
+> **📖 Etymology Story:** "Pan" comes from Old English meaning a cooking vessel. "Spoon" originally meant a chip of wood. Metal spoons came later as a more durable utensil. Using "pans with metal spoons" became common as cooking evolved, though some pans (like non-stick) shouldn't be used with metal.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[pan]] /pæn/ : a metal cooking vessel
+> - **Noun:** [[metal]] /ˈmetl/ : a material like iron, steel, aluminum
+> - **Noun:** [[spoon]] /spuːn/ : a utensil with a bowl for eating/serving
+> - **Verb:** [[stir]] /stɜː/ : to mix food with a spoon
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[stir with metal utensils]] /stɜː wɪð ˈmetl juːtənsɪlz/ : mixing with metal tools
+> - [[use metal cutlery]] /juːz ˈmetl ˈkʌtləri/ : using metal eating utensils
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[wooden spoons]] /ˈwʊdən spuːnz/ : spoons made of wood (gentler on pans)
+> - [[silicone utensils]] /ˈsɪlɪkəʊn juːtənsɪlz/ : soft cooking tools
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. stir pans with metal spoons
+> 2. using metal spoons on pans
+> 3. avoid metal spoons on pans
+>
+> **1. Cooking Context**
+> - **Sentence:** The recipe warns against using metal spoons on pans with non-stick coating.
+> - **Translation:** Công thức này cảnh báo không nên dùng thìa kim loại trên chảo có lớp chống dính.
+>
+> **2. Professional Kitchen Context**
+> - **Sentence:** Professional chefs prefer stirring pans with metal spoons for precise temperature control.
+> - **Translation:** Các đầu bếp chuyên nghiệp thích khuấy chảo bằng thìa kim loại để kiểm soát nhiệt độ chính xác.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Preposition confusion**
+> - ❌ **Mistake:** Don't use metal spoons in non-stick pans.
+> - ✅ **Correction:** Don't use metal spoons on non-stick pans.
+> - **Why:** With utensils "on" pans (contact with surface) is more precise than "in" (inside) when referring to damaging the coating.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A good cook knows when to use pans with metal spoons and when to use wooden ones."
+> **Source:** [[Culinary Wisdom]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-04/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **pans with metal spoons** (*/pænz wɪð ə ˈmetl spuːn/*) refer to?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Using metal spoons or utensils to stir or cook in metal pans; the action of stirring food in pans with metal utensils
+> 🇻🇳 **Vietnamese:** Khuấy chảo bằng thìa kim loại, nấu ăn trong chảo bằng dụng cụ kim loại
+> 🗣️ **IPA:** */pænz wɪð ə ˈmetl spuːn/*
+> 🧠 **Mental Model:** Giống như "stirring with metal" - pans with metal spoons là hành động khuấy chảo bằng thìa kim loại (metal utensils on metal cookware)
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Using metal spoons or utensils to stir or cook in metal pans"
+**Vietnamese:** Dùng thìa hoặc dụng cụ kim loại để khuấy hoặc nấu ăn trong chảo
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**pans with metal spoons** (*/pænz wɪð ə ˈmetl spuːn/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **pans with metal spoons** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The grandmother insisted on using cast iron pans with metal spoons, saying nothing cooked food quite as well.
+> 🇻🇳 **Translation:** Bà nội kiên quyết dùng chảo gang với thìa kim loại, nói rằng không thứ gì nấu ăn tốt như vậy.
+> 🔍 **Analysis:** "Pans with metal spoons" ở đây thể hiện traditional cooking method, phù hợp với cast iron context (được dùng với metal)
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **pans with metal spoons**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** stir pans with metal spoons (khuấy chảo bằng thìa kim loại - VN: mixing action)
+> 2. **Warning:** avoid metal spoons on pans (tránh thìa kim loại trên chảo - VN: caution for non-stick)
+> 3. **Context:** using pans with metal spoons (dùng chảo với thìa kim loại - VN: general usage)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **pans with metal spoons**:
+"Mix with metal tools."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "For this professional sauce preparation, chefs use copper pans with metal spoons to achieve the perfect consistency."
+> 💡 **Why it works:** "Pans with metal spoons" thể hiện proper cooking technique description, phù hợp với professional chef context
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why say **pans with metal spoons** instead of just **[[stirring]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **pans with metal spoons:** Dùng khi specify utensil type và material - VN: khuấy bằng thìa kim loại, cụ thể
+> **[[stirring]]:** Dùng khi chỉ action chung - VN: khuấy, trộn
+> 🧱 **The Barrier:** Pans with metal spoons specifies utensil/material, stirring chỉ action. Giống như "stirring with metal" vs "just stirring".
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're teaching someone to cook. You feel instructional. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "When making this roux, be careful using pans with metal spoons - keep stirring to prevent burning."
+> 👨‍🎨 **Director's Note:** "Pans with metal spoons" thể hiện instructional tone về cooking technique, cụ thể về utensil
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<pan>`, `<metal>`, and `<spoon>` to the meaning of **pans with metal spoons**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Pan" = cooking vessel (Old English), "Metal" = material (Latin), "Spoon" = utensil (originally wood chip). Kết hợp = dùng metal utensil để stir metal cooking vessel - evolution từ primitive wooden spoons sang durable metal ones
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-04/05-addition
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the roots of **pans with metal spoons**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:**
+> - Old English `panne` → [[pan]] (chảo nấu)
+> - Latin `metallum` → [[metal]] (kim loại)
+> - Old English `spōn` → [[spoon]] (thìa)
+> 👨‍👩‍👧 **Related:**
+> - *(noun)* [[cookware]] (dụng cụ nấu)
+> - *(noun)* [[utensils]] (dụng cụ ăn/nấu)
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-04/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */pænz wɪð ə ˈmetl spuːn/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**pans with metal spoons**
+> 📖 **Meaning:** Using metal utensils to stir or cook in pans
+> 🇻🇳 **Vietnamese:** Khuấy chảo bằng thìa kim loại
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "Don't use pans with metal spoons for non-stick cookware."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Don't use metal spoons on non-stick pans." OR "Don't stir non-stick pans with metal spoons."
+> 🧠 **Why:** Original phrasing awkward. Better: focus on action (using metal spoons ON pans) hoặc warning for non-stick specifically.
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of using **pans with metal spoons**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[wooden spoons]] (thìa gỗ - softer, won't scratch)
+> - [[silicone utensils]] (dụng cụ silicone - safe for all pans)
+> - [[plastic spatulas]] (dao chảo nhựa - gentle option)
+> 🧱 **Contrast:** Metal spoons là hard/durable (có thể scratch non-stick), wooden/silicone là soft/gentle (safe cho all pan types).

@@ -1,280 +1,213 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [traditional method, conventional approach, classic approach, old-fashioned way, time-honored approach, customary way, orthodox method, established way, heritage approach]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə trəˈdɪʃənl əˈprəʊtʃ/
+> **Part of Speech:** noun phrase (adj + noun)
+> **CEFR Level:** B1-B2
+> **Register:** neutral
+> **Etymology:** "Traditional" from Latin *traditionem* (handing over) + "Approach" from Old French *approchier*
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A method or way of doing things that follows established customs
+>
+> **Context Meaning:** A way of dealing with something that has been used for a long time and is based on custom or established practices
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** cách tiếp cận truyền thống, phương pháp truyền thống
+> - **Contextual:** cách làm theo phong tục, phương pháp cũ kỹ đã được dùng từ lâu
+>
 > **Nuances:**
-> - ...
+> - Implies something established and proven over time
+> - Often contrasted with "modern" or "innovative" methods
+> - Can be positive (reliable) or negative (outdated) depending on context
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Conservative, Reliable, Established
+> **Memory Hook:** "Traditional" = "tradition" + "al" - "Approach" = coming closer. A traditional approach is coming closer to how things were always done
+> **📖 Etymology Story:** "Traditional" comes from Latin "traditio" meaning "handing over" - like passing knowledge from generation to generation. When you use a "traditional approach," you're using methods that have been "handed down" through time, not newly invented.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[tradition]] /trəˈdɪʃn/ : customs passed down
+> - **Adj:** [[traditional]] /trəˈdɪʃənl/ : following tradition
+> - **Adv:** [[traditionally]] /trəˈdɪʃənəli/ : in a traditional manner
+> - **Noun:** [[approach]] /əˈprəʊtʃ/ : a way of dealing with something
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[conventional approach]] /kənˈvenʃənl əˈprəʊtʃ/ : standard method
+> - [[conventional method]] /kənˈvenʃənl ˈmeθəd/ : accepted way
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[modern approach]] /ˈmɒdn əˈprəʊtʃ/ : new, contemporary method
+> - [[innovative approach]] /ˈɪnəvətɪv əˈprəʊtʃ/ : creative, new method
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. take a traditional approach
+> 2. traditional approach to [something]
+> 3. using traditional methods
+>
+> **1. Education Context**
+> - **Sentence:** Some schools prefer a traditional approach to teaching, focusing on lectures and textbooks.
+> - **Translation:** Một số trường học thích cách tiếp cận truyền thống trong giáo dục, tập trung vào bài giảng và giáo trình.
+>
+> **2. Business Context**
+> - **Sentence:** The company's traditional approach to marketing has been effective for decades.
+> - **Translation:** Cách tiếp cận truyền thống của công ty trong marketing đã hiệu quả trong nhiều thập kỷ.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Wrong preposition**
+> - ❌ **Mistake:** The traditional approach for solving this problem is outdated.
+> - ✅ **Correction:** The traditional approach to solving this problem is outdated.
+> - **Why:** With "approach," use "to" for what the approach is toward/for.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Sometimes the traditional approach is the best approach."
+> **Source:** [[Business Wisdom]]
 
 ---
 
 ## 🧠 Spaced Repetition Flashcards
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-04/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **a traditional approach** (*/ə trəˈdɪʃənl əˈprəʊtʃ/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A method or way of dealing with something that follows established customs and has been used for a long time
+> 🇻🇳 **Vietnamese:** Cách tiếp cận truyền thống, phương pháp theo phong tục đã được dùng từ lâu
+> 🗣️ **IPA:** */ə trəˈdɪʃənl əˈprəʊtʃ/*
+> 🧠 **Mental Model:** Giống như "the old ways" - traditional approach là cách làm đã được "hand down" qua nhiều thế hệ, không phải mới mẻ
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A method or way of doing things that follows established customs and has been used for a long time"
+**Vietnamese:** Phương pháp làm việc theo phong tục đã được thiết lập từ lâu, truyền thống
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a traditional approach** (*/ə trəˈdɪʃənl əˈprəʊtʃ/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 3: Usage & Analysis (Multi-line)
 
-Use **{{WORD}}** in a sentence.
+Use **a traditional approach** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** While some farmers embrace modern technology, others prefer a traditional approach to sustainable agriculture.
+> 🇻🇳 **Translation:** Trong khi một số nông dân đón nhận công nghệ hiện đại, những người khác thích cách tiếp cận truyền thống đối với nông nghiệp bền vững.
+> 🔍 **Analysis:** "A traditional approach" ở đây kết hợp với "sustainable agriculture" thể hiện phương pháp lâu đời vẫn hữu dụng, tạo sự balanced view
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-04/02-activation
+### Card 4: Collocations by Logic (Multi-line)
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **a traditional approach**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** take a traditional approach (lấy cách tiếp cận truyền thống - VN: follow old methods)
+> 2. **Context:** traditional approach to [problem/topic] (cách tiếp cận truyền thống đối với - VN: chỉ lĩnh vực)
+> 3. **Contrast:** rather than a traditional approach (thay vì cách tiếp cận truyền thống - VN: contrast với modern)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **a traditional approach**:
+"Use the old way."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "For this classic recipe, the chef recommends a traditional approach using hand-rolled techniques."
+> 💡 **Why it works:** "Traditional approach" tạo sự rõ ràng về method đã được thiết lập, phù hợp với classic recipe context
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **a traditional approach** instead of **[[the old way]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **a traditional approach:** Dùng khi formal, academic/professional context - VN: phương pháp truyền thống, formal
+> **[[the old way]]:** Dùng khi casual, informal conversation - VN: cách cũ, cách cũ kỹ
+> 🧱 **The Barrier:** Traditional approach là formal/established term, the old way là casual phrase. Giống như established method vs just doing it like before.
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 7: Scenario Reaction
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** Your colleague suggests trying a new software for data analysis. You feel cautious. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm open to innovation, but let's also consider a traditional approach for comparison purposes."
+> 👨‍🎨 **Director's Note:** "Traditional approach" thể hiện balanced perspective, cautious nhưng open-minded
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-04/04-mastery
+### Card 8: Etymology Story
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<tradition>` and `<approach>` to the meaning of **a traditional approach**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** "Tradition" từ Latin "traditio" = "handing over" - giống như passing knowledge qua thế hệ. "Approach" = cách đến/với vấn đề. Combine = cách tiếp cận đã được "handed down" qua thời gian
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-04/05-addition
+### Card 9: Word Family & Roots
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the roots of **a traditional approach**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Roots:**
+> - Latin `traditio` (handing over) → [[tradition]]
+> - Old French `approchier` (to come near) → [[approach]]
+> 👨‍👩‍👧 **Related:**
+> - *(noun)* [[conventional approach]] (phương pháp thông thường)
+> - *(antonym)* [[modern approach]] (phương pháp hiện đại)
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-04/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-> 🔊 */<ipa>/*
+> 🔊 */ə trəˈdɪʃənl əˈprəʊtʃ/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**a traditional approach**
+> 📖 **Meaning:** A method following established customs
+> 🇻🇳 **Vietnamese:** Cách tiếp cận truyền thống, phương pháp cũ đã được dùng từ lâu
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "The traditional approach in solving this equation is too complex."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "The traditional approach to solving this equation is too complex."
+> 🧠 **Why:** "Approach" đi với "to" khi chỉ đối tượng vấn đề, không dùng "in". Đúng cấu trúc: approach to [something].
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-04/03-differentiation
+### Card 12: Antonym Flip
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a traditional approach**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[an innovative approach]] (cách tiếp cận sáng tạo, mới mẻ)
+> - [[a modern approach]] (cách tiếp cận hiện đại)
+> - [[a revolutionary approach]] (cách tiếp cận mang tính cách mạng)
+> 🧱 **Contrast:** Traditional approach là based on the past, innovative/modern approach là based on new ideas. Giống như past vs future.
