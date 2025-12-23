@@ -421,7 +421,7 @@ JANE: I agree – [[20_Vocabulary/In addition|and]] book covers can be a work of
 
 KIERAN: I've always been taught to [[20_Vocabulary/dealing|handle]] books carefully. [[20_Vocabulary/suppose|If]] you [[20_Vocabulary/watches|watch]] someone take a book off [[20_Vocabulary/a shelf|a shelf]], well, they usually do it wrong.
 
-JANE: Ah, my grandfather says, you [[20_Vocabulary/in case of|should]] put your hand right [[20_Vocabulary/beyond|over]] the top of the book... or [[20_Vocabulary/suppose|if]] you can't do that, pull the other books on the [[20_Vocabulary/a shelf|shelf]] aside [[20_Vocabulary/thereby|so]] that you can [[20_Vocabulary/hold|hold]] the whole [[20_Vocabulary/blanket|cover]].
+JANE: Ah, my grandfather says, you [[20_Vocabulary/in case of|should]] put your hand right [[20_Vocabulary/beyond|over]] the top of the book... or [[20_Vocabulary/suppose|if]] you can't do that, pull the other books on the [[20_Vocabulary/a shelf|shelf]] aside [[20_Vocabulary/so that|so that]] you can [[20_Vocabulary/hold|hold]] the whole [[20_Vocabulary/blanket|cover]].
 
 KIERAN: [[20_Vocabulary/in case of|When]] did you learn all this?
 
@@ -471,7 +471,7 @@ JANE: He does. He [[20_Vocabulary/particularly|particularly]] likes to [[20_Voca
 
 KIERAN: Is that where he keeps them, then?
 
-JANE: Not [[20_Vocabulary/accurately|exactly]] – he's got [[20_Vocabulary/a dedicated area|a dedicated area]] on the ground floor with [[20_Vocabulary/cushion|cushions]] [[20_Vocabulary/thereby|so]] that parents can [[20_Vocabulary/entrance|enter]] with their [[20_Vocabulary/toddler|toddlers]], go there [[20_Vocabulary/In addition|and]] spend some time reading to them. ***Q27***
+JANE: Not [[20_Vocabulary/accurately|exactly]] – he's got [[20_Vocabulary/a dedicated area|a dedicated area]] on the ground floor with [[20_Vocabulary/cushion|cushions]] [[20_Vocabulary/so that|so that]] parents can [[20_Vocabulary/entrance|enter]] with their [[20_Vocabulary/toddler|toddlers]], go there [[20_Vocabulary/In addition|and]] spend some time reading to them. ***Q27***
 
 KIERAN: Oh cool.
 

@@ -22,7 +22,7 @@ It said the government [[20_Vocabulary/in case of|should]] [[20_Vocabulary/appea
 
 Ms Kendall [[20_Vocabulary/will|will]] lead the taskforce alongside Anne-Marie Imafidon, founder of Stemettes, who has been appointed as the [[20_Vocabulary/female|Women]] in Tech [[20_Vocabulary/ambassador|Envoy]].
 
-Dr Imafidon, who passed A-level computing [[20_Vocabulary/elderly|aged]] 11 [[20_Vocabulary/In addition|and]] received a Master's Degree in Maths [[20_Vocabulary/In addition|and]] Computer Science from the University of Oxford [[20_Vocabulary/elderly|aged]] 20, has sought to [[20_Vocabulary/encourage|encourage]] more young [[20_Vocabulary/female|women]] into careers in Stem - science, technology, engineering [[20_Vocabulary/In addition|and]] maths.
+Dr Imafidon, who passed A-level computing [[20_Vocabulary/elderly|aged]] 11 [[20_Vocabulary/In addition|and]] received a Master's Degree in Maths [[20_Vocabulary/In addition|and]] Computer Science from the University of Oxford [[20_Vocabulary/elderly|aged]] 20, has sought to [[20_Vocabulary/motivate|encourage]] more young [[20_Vocabulary/female|women]] into careers in Stem - science, technology, engineering [[20_Vocabulary/In addition|and]] maths.
 
 [[20_Vocabulary/female|She]] told the BBC [[20_Vocabulary/female|her]] role [[20_Vocabulary/will|would]] [[20_Vocabulary/establish|build]] on more than a [[20_Vocabulary/decade|decade]] of work to [[20_Vocabulary/establish|establish]] greater equality for - [[20_Vocabulary/In addition|and]] representation of - [[20_Vocabulary/female|women]].
 
@@ -40,7 +40,7 @@ It [[20_Vocabulary/What's more|also]] includes TUC assistant general secretary K
 
 "[[20_Vocabulary/entrance|Entry]] routes, career [[20_Vocabulary/a few chords|progression]] to leadership, [[20_Vocabulary/In addition|and]] [[20_Vocabulary/access|access]] to [[20_Vocabulary/major city|capital]] are [[20_Vocabulary/merely|just]] some of the barriers [[20_Vocabulary/female|women]] in tech still [[20_Vocabulary/dealing|face]] today," Ms Daley said.
 
-"[[20_Vocabulary/achieve|Achieving]] gender equality is long overdue, [[20_Vocabulary/In addition|and]] I am honoured to [[20_Vocabulary/come along|join]] the [[20_Vocabulary/female|Women]] in Tech taskforce alongside Liz Kendall [[20_Vocabulary/In addition|and]] several inspiring [[20_Vocabulary/female|women]] from [[30_Structures/across the industry|across the industry]], [[20_Vocabulary/group cooperation|working together]] [[30_Structures/to chart a path forward|to chart a path forward]] for true gender equality."
+"[[20_Vocabulary/achieve|Achieving]] gender equality is long overdue, [[20_Vocabulary/In addition|and]] I am honoured to [[20_Vocabulary/come along|join]] the [[20_Vocabulary/female|Women]] in Tech taskforce alongside Liz Kendall [[20_Vocabulary/In addition|and]] several inspiring [[20_Vocabulary/female|women]] from [[20_Vocabulary/across the industry|across the industry]], [[20_Vocabulary/group cooperation|working together]] [[20_Vocabulary/to chart a path forward|to chart a path forward]] for true gender equality."
 
 ![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
 

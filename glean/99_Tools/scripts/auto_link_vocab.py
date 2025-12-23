@@ -109,6 +109,21 @@ def convert_html_tables_in_content(content):
     
     return new_content, len(matches)
 
+def strip_vocab_links(content):
+    """Remove wikilinks and markdown links pointing to 20_Vocabulary or 30_Structures, keeping only the text."""
+    # 1. Match piped wikilinks: [[20_Vocabulary/term|alias]] -> alias
+    content = re.sub(r'\[\[(?:20_Vocabulary|30_Structures)/[^\]|]+\|([^\]]+)\]\]', r'\1', content)
+    
+    # 2. Match simple wikilinks: [[20_Vocabulary/term]] -> term
+    # We need to handle the case where the term name is used as text.
+    # Note: re.sub with groups is better.
+    content = re.sub(r'\[\[(?:20_Vocabulary|30_Structures)/([^\]]+)\]\]', r'\1', content)
+    
+    # 3. Match markdown links: [alias](20_Vocabulary/term.md) -> alias
+    content = re.sub(r'\[([^\]]+)\]\((?:20_Vocabulary|30_Structures)/[^\)]+\)', r'\1', content)
+    
+    return content
+
 def ensure_backup_dir():
     if not os.path.exists(BACKUP_DIR):
         os.makedirs(BACKUP_DIR)
@@ -639,7 +654,7 @@ def migrate_aliases_field(dry_run=True):
     else:
         print(f"Migrated {count} files.")
 
-def process_file(filepath, terms_map, sorted_term_keys, dry_run=True):
+def process_file(filepath, terms_map, sorted_term_keys, dry_run=True, strip_links=False):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -651,9 +666,18 @@ def process_file(filepath, terms_map, sorted_term_keys, dry_run=True):
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(converted_content)
             print(f"  📋 Converted {table_count} HTML table(s) to Markdown")
-        content = converted_content
+    content = converted_content
     
-    # Step 2: Process links
+    # Step 2: Strip existing vocab/structure links (if requested)
+    if strip_links:
+        stripped_content = strip_vocab_links(content)
+        if stripped_content != content:
+            content = stripped_content
+            # We don't write it back yet, let the linking process handle the final write
+            # but we update the in-memory content.
+            print(f"  ⚡ Stripped existing vocabulary links from '{os.path.basename(filepath)}'")
+    
+    # Step 3: Process links
     lines = content.splitlines(keepends=True)
 
     # Escape terms for regex
@@ -848,6 +872,8 @@ def main():
     parser.add_argument("--clean-quotes", action="store_true", help="Run clean_quotes.py on target files before linking (Deprecated: now runs by default)")
     parser.add_argument("--no-clean-quotes", action="store_true", help="Skip running clean_quotes.py before linking (by default, quotes are cleaned)")
     parser.add_argument("--add-ref-tags", action="store_true", help="Add flashcard tags based on 'ref:' field in frontmatter")
+    parser.add_argument("--strip-links", action="store_true", help="Explicitly enable stripping of existing links (now ON by default)")
+    parser.add_argument("--no-strip-links", action="store_true", help="Disable stripping of existing vocabulary/structure links before re-linking")
     
     parser.set_defaults(dry_run=True)
     
@@ -970,6 +996,9 @@ def main():
             return
         print("\n")
     
+    # Determine if link stripping should be performed (DEFAULT behavior, unless --no-strip-links)
+    should_strip_links = not args.no_strip_links
+    
     # Normal Processing
     step_num = 1
     if args.restore_before_link or should_auto_restore:
@@ -1036,7 +1065,7 @@ def main():
     print(f"Processing {len(target_files)} files...")
     count = 0
     for filepath in target_files:
-        process_file(filepath, terms_map, sorted_term_keys, dry_run=args.dry_run)
+        process_file(filepath, terms_map, sorted_term_keys, dry_run=args.dry_run, strip_links=should_strip_links)
         count += 1
                 
     print(f"Processed {count} files.")

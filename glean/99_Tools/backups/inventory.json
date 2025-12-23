@@ -1,5 +1,243 @@
 [
   {
+    "id": "20251223_151228_1b8b0f",
+    "timestamp": "20251223_151228",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151228_1b8b0f_The giant heat pumps designed to warm whole districts.md",
+    "changes_count": 211,
+    "changes_sample": [
+      "'pumps' -> '[[20_Vocabulary/high-heeled shoes|pumps]]'",
+      "'designed' -> '[[20_Vocabulary/meant|designed]]'",
+      "'created' -> '[[20_Vocabulary/coined|created]]'",
+      "'huge' -> '[[20_Vocabulary/enormous|huge]]'",
+      "'pumps' -> '[[20_Vocabulary/high-heeled shoes|pumps]]'"
+    ]
+  },
+  {
+    "id": "20251223_151228_ecff49",
+    "timestamp": "20251223_151228",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 04.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151228_ecff49_Cam 20 Listening Test 04.md",
+    "changes_count": 809,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'AND' -> '[[20_Vocabulary/In addition|AND]]'",
+      "'Accommodation' -> '[[20_Vocabulary/accommodate|Accommodation]]'",
+      "'approx' -> '[[20_Vocabulary/approximately|approx]]'"
+    ]
+  },
+  {
+    "id": "20251223_151228_943431",
+    "timestamp": "20251223_151228",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 01.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151228_943431_Cam 20 Listening Test 01.md",
+    "changes_count": 922,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'AND' -> '[[20_Vocabulary/In addition|AND]]'",
+      "'Location' -> '[[20_Vocabulary/placement\\|Location]]'",
+      "'Good for' -> '[[20_Vocabulary/beneficial\\|Good for]]'"
+    ]
+  },
+  {
+    "id": "20251223_151227_1bf52a",
+    "timestamp": "20251223_151227",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Audioscripts Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151227_1bf52a_Audioscripts Cam 19 Listening Test 02.md",
+    "changes_count": 711,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'WOMAN' -> '[[20_Vocabulary/female|WOMAN]]'",
+      "'WOMAN' -> '[[20_Vocabulary/female|WOMAN]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'",
+      "'really' -> '[[20_Vocabulary/actually|really]]'"
+    ]
+  },
+  {
+    "id": "20251223_151227_617ead",
+    "timestamp": "20251223_151227",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 04-01.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151227_617ead_Cam 20 Listening Test 04-01.md",
+    "changes_count": 809,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'AND' -> '[[20_Vocabulary/In addition|AND]]'",
+      "'Accommodation' -> '[[20_Vocabulary/accommodate|Accommodation]]'",
+      "'approx' -> '[[20_Vocabulary/approximately|approx]]'"
+    ]
+  },
+  {
+    "id": "20251223_151226_4d9aaa",
+    "timestamp": "20251223_151226",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 04.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151226_4d9aaa_Cam 19 Listening Test 04.md",
+    "changes_count": 800,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'materials' -> '[[20_Vocabulary/material|materials]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'AND' -> '[[20_Vocabulary/In addition|AND]]'",
+      "'supervisor' -> '[[20_Vocabulary/supervisor\\|supervisor]]'"
+    ]
+  },
+  {
+    "id": "20251223_151226_bd49b1",
+    "timestamp": "20251223_151226",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Audioscripts Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151226_bd49b1_Audioscripts Cam 19 Listening Test 03.md",
+    "changes_count": 625,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'settling' -> '[[20_Vocabulary/settling|settling]]'",
+      "'Really' -> '[[20_Vocabulary/actually|Really]]'",
+      "'look like' -> '[[20_Vocabulary/resemble|look like]]'",
+      "'cousins' -> '[[20_Vocabulary/cousin|cousins]]'"
+    ]
+  },
+  {
+    "id": "20251223_151226_502d6b",
+    "timestamp": "20251223_151226",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151226_502d6b_Cam 19 Listening Test 02.md",
+    "changes_count": 708,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'WOMAN' -> '[[20_Vocabulary/female|WOMAN]]'",
+      "'WOMAN' -> '[[20_Vocabulary/female|WOMAN]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'",
+      "'really' -> '[[20_Vocabulary/actually|really]]'"
+    ]
+  },
+  {
+    "id": "20251223_151225_c11957",
+    "timestamp": "20251223_151225",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Practice Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151225_c11957_Practice Cam 19 Listening Test 02.md",
+    "changes_count": 204,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'form' -> '[[20_Vocabulary/curve|form]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'AND' -> '[[20_Vocabulary/In addition|AND]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'"
+    ]
+  },
+  {
+    "id": "20251223_151225_7f46bc",
+    "timestamp": "20251223_151225",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/UK launches taskforce to 'break down barriers' for women in tech.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151225_7f46bc_UK launches taskforce to 'break down barriers' for women in tech.md",
+    "changes_count": 113,
+    "changes_sample": [
+      "'break down' -> '[[20_Vocabulary/degrade|break down]]'",
+      "'women' -> '[[20_Vocabulary/female|women]]'",
+      "'prominent' -> '[[20_Vocabulary/eye-catching|prominent]]'",
+      "'women' -> '[[20_Vocabulary/female|women]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'"
+    ]
+  },
+  {
+    "id": "20251223_151225_e19472",
+    "timestamp": "20251223_151225",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151225_e19472_What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "changes_count": 77,
+    "changes_sample": [
+      "'TikTok' -> '[[20_Vocabulary/social media|TikTok]]'",
+      "'logo' -> '[[20_Vocabulary/brand|logo]]'",
+      "'keen on' -> '[[20_Vocabulary/keen on|keen on]]'",
+      "'TikTok' -> '[[20_Vocabulary/social media|TikTok]]'",
+      "'repeatedly' -> '[[20_Vocabulary/a couple of times|repeatedly]]'"
+    ]
+  },
+  {
+    "id": "20251223_151225_e7b674",
+    "timestamp": "20251223_151225",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151225_e7b674_Cam 19 Listening Test 03.md",
+    "changes_count": 793,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'AND' -> '[[20_Vocabulary/In addition|AND]]'",
+      "'Local' -> '[[20_Vocabulary/resident|Local]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'"
+    ]
+  },
+  {
+    "id": "20251223_151225_c49691",
+    "timestamp": "20251223_151225",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/VISUAL FLOOD EVIDENCE.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151225_c49691_VISUAL FLOOD EVIDENCE.md",
+    "changes_count": 11,
+    "changes_sample": [
+      "'just' -> '[[20_Vocabulary/merely|just]]'",
+      "'coast' -> '[[20_Vocabulary/coastal area|coast]]'",
+      "'striking' -> '[[20_Vocabulary/eye-catching|striking]]'",
+      "'surface' -> '[[20_Vocabulary/coat|surface]]'",
+      "'change' -> '[[20_Vocabulary/affect|change]]'"
+    ]
+  },
+  {
+    "id": "20251223_151225_46cdd5",
+    "timestamp": "20251223_151225",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/ZEBRAFISH HEAL THEIR OWN HEART.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151225_46cdd5_ZEBRAFISH HEAL THEIR OWN HEART.md",
+    "changes_count": 17,
+    "changes_sample": [
+      "'order' -> '[[20_Vocabulary/arrange|order]]'",
+      "'identified' -> '[[20_Vocabulary/identify|identified]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'",
+      "'heart attack' -> '[[20_Vocabulary/cardiovascular disease|heart attack]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'"
+    ]
+  },
+  {
+    "id": "20251223_151225_5a41e2",
+    "timestamp": "20251223_151225",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151225_5a41e2_Cam 20 Listening Test 02.md",
+    "changes_count": 810,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'AND' -> '[[20_Vocabulary/In addition|AND]]'",
+      "'Local' -> '[[20_Vocabulary/resident|Local]]'",
+      "'councils' -> '[[20_Vocabulary/council|councils]]'"
+    ]
+  },
+  {
+    "id": "20251223_151224_b4d747",
+    "timestamp": "20251223_151224",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Insight of the Day The Extreme Biology and Thermodynamics of Caves.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151224_b4d747_Insight of the Day The Extreme Biology and Thermodynamics of Caves.md",
+    "changes_count": 39,
+    "changes_sample": [
+      "'fascinating' -> '[[20_Vocabulary/a fascinating insight|fascinating]]'",
+      "'and' -> '[[20_Vocabulary/In addition|and]]'",
+      "'Inhibition' -> '[[20_Vocabulary/inhibit|Inhibition]]'",
+      "'relative' -> '[[20_Vocabulary/relatively|relative]]'",
+      "'pressure' -> '[[20_Vocabulary/press|pressure]]'"
+    ]
+  },
+  {
+    "id": "20251223_151224_e37f44",
+    "timestamp": "20251223_151224",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151224_e37f44_Cam 20 Listening Test 03.md",
+    "changes_count": 789,
+    "changes_sample": [
+      "'PART' -> '[[20_Vocabulary/parcel|PART]]'",
+      "'below' -> '[[20_Vocabulary/Beneath|below]]'",
+      "'AND' -> '[[20_Vocabulary/In addition|AND]]'",
+      "'Furniture' -> '[[20_Vocabulary/furniture\\|Furniture]]'",
+      "'company' -> '[[20_Vocabulary/the cast\\|company]]'"
+    ]
+  },
+  {
     "id": "20251223_143119_ecff49",
     "timestamp": "20251223_143119",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 04.md",
@@ -7736,6 +7974,102 @@
     "timestamp": "20251223_142703",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 01.md",
     "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_142703_0c8298_Cam 20 Listening Test 01.md",
+    "changes_count": 112,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_02a6a6",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_02a6a6_Cam 20 Listening Test 03.md",
+    "changes_count": 91,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_0ab789",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_0ab789_Cam 20 Listening Test 02.md",
+    "changes_count": 88,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_03b3cc",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/ZEBRAFISH HEAL THEIR OWN HEART.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_03b3cc_ZEBRAFISH HEAL THEIR OWN HEART.md",
+    "changes_count": 1,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_057b96",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/VISUAL FLOOD EVIDENCE.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_057b96_VISUAL FLOOD EVIDENCE.md",
+    "changes_count": 2,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_0ae7e2",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_0ae7e2_Cam 19 Listening Test 03.md",
+    "changes_count": 128,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_05504d",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_05504d_What's next for TikTok in the US as deal prospects remain uncertain?.md",
+    "changes_count": 6,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_024df5",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/UK launches taskforce to 'break down barriers' for women in tech.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_024df5_UK launches taskforce to 'break down barriers' for women in tech.md",
+    "changes_count": 6,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_08ec68",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Practice Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_08ec68_Practice Cam 19 Listening Test 02.md",
+    "changes_count": 16,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_0d432e",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Audioscripts Cam 19 Listening Test 03.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_0d432e_Audioscripts Cam 19 Listening Test 03.md",
+    "changes_count": 124,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_0785cb",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 19 Listening Test 04.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_0785cb_Cam 19 Listening Test 04.md",
+    "changes_count": 139,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_0283c3",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Audioscripts Cam 19 Listening Test 02.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_0283c3_Audioscripts Cam 19 Listening Test 02.md",
+    "changes_count": 139,
+    "tool": "clean_quotes"
+  },
+  {
+    "id": "20251223_151223_02870a",
+    "timestamp": "20251223_151223",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 01.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_151223_02870a_Cam 20 Listening Test 01.md",
     "changes_count": 112,
     "tool": "clean_quotes"
   }

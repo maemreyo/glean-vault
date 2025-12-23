@@ -37,6 +37,8 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py [arguments]
 | `--restore-before-link` | **Workflow:** Restore files to original before linking. |
 | `--clean-quotes` | **Workflow:** Run `clean_quotes.py` before linking. |
 | `--add-ref-tags` | Add flashcard tags based on `ref:` field in frontmatter. |
+| `--no-strip-links` | Disable stripping of existing links before re-linking. |
+| `--strip-links` | Explicitly enable stripping (ON by default). |
 | `--cleanup-backups` | (External script) Keep only the oldest version of each file. |
 
 ## Use Cases
@@ -146,6 +148,14 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py \
   --restore-before-link \
   --clean-quotes \
   --no-dry-run
+```
+
+### 9. Radical Re-linking (The Clean Slate)
+The script now **automatically** strips existing vocabulary links before re-linking. This ensures that new or longer terms are always picked up without being blocked by old links.
+
+**To skip this behavior:**
+```bash
+python3 glean/99_Tools/scripts/auto_link_vocab.py --no-strip-links [arguments]
 ```
 
 **Pipeline steps:**

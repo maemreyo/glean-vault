@@ -1,280 +1,201 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
 #flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [tunnels, tunneling, tunnelling, channel, passageway, underground passage]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** */5VnEl/*
+> **Part of Speech:** noun / verb
+> **CEFR Level:** B2
+> **Register:** neutral/technical
+> **Etymology:** From Middle English "tunel" from Old French "tonnelle" (net, tun)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** An underground passage through a hill or under a building/road
+>
+> **Context Meaning:** A passage built underground, typically for roads, railways, or water to pass through
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** ham (duong bo), dinh (nuoc)
+> - **Contextual:** duong ham, ong nuoc
+>
 > **Nuances:**
-> - ...
+> - Can be natural or man-made
+> - Used metaphorically for things moving rapidly downward
 
-> [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> [!tip] Word Vibe & Story
+> **Personality:** Engineering-focused, Structural, Underground
+> **Memory Hook:** Think of "channel" - a tunnel is like an underground channel
+> **Etymology Story:** Originally meant "cask" or "barrel" in French, referring to the barrel-vaulted shape of early tunnels. From Latin "tonna" (tun/cask).
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[tunnel]] /5VnEl/
+> - **Verb:** [[tunnel]] /5VnEl/
+> - **Noun:** [[tunneling]] /5VnEl9N/ (US)
+> - **Noun:** [[tunnelling]] /5VnEl9N/ (UK)
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[passage]] /5pEs9dZ/ : general term
+> - [[shaft]] /SEːft/ : vertical passage
+> - [[burrow]] /5VrEu/ : animal-made
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[bridge]] /br9dZ/ : goes over, not under
+> - [[surface]] /5sEːf9s/ : on top, not below
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. dig a tunnel
+> 2. railway tunnel
+> 3. walk-through tunnel
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** The train passed through a long tunnel beneath the mountain.
+> - **Translation:** Chieu tau di qua mot con duong ham dai phia duoi nui.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Rabbits dug tunnels throughout the garden.
+> - **Translation:** Tho da khoet ham o khap noi khu vuon.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Spelling variation**
+> - **Mistake:** I am tunnelling through the rock.
+> - **Correction:** I am tunneling (US) / tunnelling (UK) through the rock.
+> - **Why:** Both are correct - single L in American English, double L in British English
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "They walked through the dark tunnel to reach the sanctuary."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## Spaced Repetition Flashcards
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **tunnel** (*/5VnEl/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** An underground passage through which a road, railway, or water channel passes; to dig such a passage
+> 🇻🇳 **Vietnamese:** Duong ham; khoet ham (noun) / Khoet ham (verb)
+> 🗣️ **IPA:** */5VnEl/*
+> 🧠 **Mental Model:** Mot duong di duoi dat dat - co the la cho tau ho, xe chay hoac cho nuoc chay. Ban co the hinh dung nhu mot pipe lon duoi dat.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
-→ **Target Word?**
+**Definition:** "An underground passage through a hill or under a building"
+**Vietnamese:** Duong ham; ong dan duoi dat
+> **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**tunnel** (*/5VnEl/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **tunnel** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The workers spent three years tunneling through the mountain to connect the two cities.
+> 🇻🇳 **Translation:** Cong nhan da dung ba nam de khoet ham qua nui lien ket hai thanh pho.
+> 🔍 **Analysis:** Here "tunneling" is used as a verb/gerund describing the action of digging. It creates a vivid image of the hard work involved in creating underground passages.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **tunnel**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** dig/build/construct a tunnel (khoet/xay dung ham - VN)
+> 2. **Type:** railway/road/water tunnel (ham tau/xe/nuoc - VN)
+> 3. **Motion:** go through/into a tunnel (di qua/vao ham - VN)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **tunnel**:
+"The train went under the mountain."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The train passed through a dark tunnel beneath the mountain."
+> 💡 **Why it works:** "Tunnel" is more specific and descriptive than "under." It creates a clear visual of an enclosed passage and adds atmosphere with "dark" and "beneath."
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+### Card 6: Nuance Barrier (Comparison) [Phase 4: Mastery]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **tunnel** instead of **[[cave]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **tunnel:** Man-made passage with a specific purpose (transport, water). Has an entrance and exit.
+> **[[cave]]:** Natural underground cavity, often larger and not necessarily going through something.
+> 🧱 **The Barrier:** Tunnels are built with purpose (usually through something), caves are natural formations.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're describing a scary moment during your train journey. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Everything went pitch black when we entered the tunnel."
+> 👨‍🎨 **Director's Note:** Creates immediate atmosphere of darkness and enclosure - perfect for building tension in a story.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `tonna` to the meaning of **tunnel**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Tu Latin "tonna" (cask/barrel) -> Old French "tonnelle" (net-like structure). Early tunnels were barrel-vaulted, looking like an upside-down barrel shape. Tu co the hinh dung mot con ham voi tran cuon nhu thung nuoc - that's the original image!
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **tunnel**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `tonna` (cask, tun)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[tunnel]] (duong ham)
+> - *(verb)* [[tunnel]] (khoet ham)
+> - *(noun)* [[tunneling]] (viec khoet ham - US spelling)
+> - *(noun)* [[tunnelling]] (viec khoet ham - UK spelling)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */5VnEl/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**tunnel**
+> 📖 **Meaning:** Underground passage
+> 🇻🇳 **Vietnamese:** Duong ham
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** The train tunneled through the mountain.
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** The train passed through a tunnel under the mountain.
+> 🧠 **Why:** Trains don't "tunnel" - they pass through tunnels. People/machines do the tunneling (action of digging).
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **tunnel**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
-
----
+> - [[bridge]] (cau - goes over instead of under)
+> - [[surface]] (mat dat - on top instead of below)
+> - [[elevated]] (neng cao - above ground)
+> 🧱 **Contrast:** Bridge goes OVER obstacles, tunnel goes UNDER them. Surface roads stay on top.
