@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
 #flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [rural workers, rural workforce, rural laborer, rural labor]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈrʊərəl ˈwɜːkər/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** From Latin "ruralis" (of the countryside) + Old English "weorc" (worker)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** Person who works in the countryside
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** Someone employed in agricultural work or living and working in rural areas
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** người lao động nông thôn
+> - **Contextual:** công nhân nông thôn, người làm việc ở vùng quê
 > 
 > **Nuances:**
-> - ...
+> - Often implies agricultural or farm work
+> - Can suggest economic challenges
+> - May contrast with urban workers
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Hardworking, Traditional, Grounded
+> **Memory Hook:** "Rural = country side + worker = someone working where fields grow"
+> **📖 Etymology Story:** From Latin "ruralis" (of the countryside) combined with Old English "weorc" (worker), creating the image of someone laboring in open fields rather than factories
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[rural]] /ˈrʊərəl/ (countryside area)
+> - **Noun:** [[worker]] /ˈwɜːkər/ (person who works)
+> - **Adj:** [[rural]] /ˈrʊərəl/ (relating to countryside)
+> - **Adj:** [[agricultural]] /ˌæɡrɪˈkʌltʃərəl/ (relating to farming)
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[farmworker]] /ˈfɜːmwɜːkər/ : person who works on a farm
+> - [[peasant]] /ˈpezənt/ : small farmer or agricultural laborer
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[urban worker]] /ˈɜːbən ˈwɜːkər/ : person who works in cities
+> - [[office worker]] /ˈɒfɪs ˈwɜːkər/ : person who works in offices
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. seasonal rural workers
+> 2. migrant rural workers
+> 3. rural worker communities
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The documentary highlighted the challenges faced by rural workers during harvest season.
+> - **Translation:** Bộ phim tài liệu đã nêu bật những khó khăn mà người lao động nông thôn phải đối mặt trong mùa thu hoạch.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Many rural workers migrate to cities in search of better employment opportunities.
+> - **Translation:** Nhiều người lao động nông thôn di cư đến thành thị để tìm kiếm cơ hội việc làm tốt hơn.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Using "rural worker" to mean only farmers
+> - ✅ **Correction:** "Rural worker" includes various rural occupations, not just farming
+> - **Why:** Rural areas have diverse employment beyond agriculture
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Rural workers form the backbone of our agricultural sector, yet often remain invisible in policy discussions."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **rural worker** (*/ˈrʊərəl ˈwɜːkər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Person who works in the countryside or in rural areas, typically in agriculture
+> 🇻🇳 **Vietnamese:** Người lao động nông thôn, người làm việc ở vùng quê
+> 🗣️ **IPA:** */ˈrʊərəl ˈwɜːkər/*
+> 🧠 **Mental Model:** Người làm việc nơi có đồng ruộng, không phải thành phố - "fields not factories"
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Person who works in the countryside or in rural areas, typically in agriculture"
+**Vietnamese:** Người lao động nông thôn
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**rural worker** (*/ˈrʊərəl ˈwɜːkər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **rural worker** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The documentary highlighted the challenges faced by rural workers during harvest season.
+> 🇻🇳 **Translation:** Bộ phim tài liệu đã nêu bật những khó khăn mà người lao động nông thôn phải đối mặt trong mùa thu hoạch.
+> 🔍 **Analysis:** "rural worker" hoàn hảo ở đây vì nó chỉ rõ đối tượng (người làm ở nông thôn) và bối cảnh (mùa thu hoạch) để nói về những khó khăn đặc thù (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **rural worker**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Employment Type:** seasonal rural workers (người lao động nông thôn thời vụ)
+> 2. **Movement Pattern:** migrant rural workers (người lao động nông thôn di cư)
+> 3. **Community Context:** rural worker communities (cộng đồng người lao động nông thôn)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **rural worker**:
+"Some people who live in the country do hard physical work."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Rural workers in the agricultural sector often face economic challenges despite their essential contributions to food security."
+> 💡 **Why it works:** "rural workers" tạo ra sự cụ thể hóa với "agricultural sector" và nhấn mạnh tầm quan trọng kinh tế và xã hội của họ (e.g., nuances, imagery)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **rural worker** instead of **[[farmer]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **rural worker:** Bao gồm nhiều loại nghề nghiệp ở nông thôn, không chỉ trồng trọt
+> **[[farmer]]:** Chỉ người làm nông nghiệp, trồng trọt, chăn nuôi
+> 🧱 **The Barrier:** Rural workers là khái niệm rộng hơn farmer, bao gồm cả người làm các công việc phi nông nghiệp ở nông thôn (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're discussing economic development in a rural area. You need to describe the workforce. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Our development program aims to improve living standards for rural workers through skills training and better access to markets."
+> 👨‍🎨 **Director's Note:** "rural worker" tạo cảm giác chuyên nghiệp, tập trung vào giải pháp phát triển kinh tế cho cộng đồng nông thôn (VN)
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `ruralis` and `weorc` to the meaning of **rural worker**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "ruralis" (thuộc về nông thôn) kết hợp với Old English "weorc" (người lao động), tạo nên hình ảnh người làm việc ở những cánh đồng rộng lớn thay vì trong nhà máy (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **rural worker**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `ruralis` (of the countryside) + Old English `weorc` (worker)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(noun)* rural (thuộc về nông thôn)
+> - *(noun)* worker (người lao động)
+> - *(adj)* agricultural (thuộc về nông nghiệp)
+> - *(noun)* workforce (lực lượng lao động)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈrʊərəl ˈwɜːkər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**rural worker** 
+> 📖 **Meaning:** Person who works in the countryside or in rural areas
+> 🇻🇳 **Vietnamese:** Người lao động nông thôn
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Assuming all rural workers are farmers
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** Rural workers include various occupations beyond farming
+> 🧠 **Why:** Rural economies have diverse employment including services, small businesses, and natural resource extraction (VN/EN mix)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **rural worker**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[urban worker]] (người lao động thành thị, làm việc ở thành phố)
+> - [[office worker]] (nhân viên văn phòng)
+> 🧱 **Contrast:** Rural workers làm việc với thiên nhiên và đất đai, urban workers làm việc trong môi trường nhân tạo và công nghiệp (VN/EN mix)
 
 ---

@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [cursive, cursively, cursive writing, handwriting, script, penmanship, calligraphy]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈkɜːsɪv/
+> **Part of Speech:** adjective
+> **CEFR Level:** B2
+> **Register:** formal/educational
+> **Etymology:** From Latin "currere" (to run) + "-ive" (tending to)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** Running, flowing
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** Having letters that slant and join together; written in a style similar to handwriting
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** chữ viết tay, chữ nghiêng
+> - **Contextual:** chữ viết nối, chữ thư pháp, chữ xiên
 > 
 > **Nuances:**
-> - ...
+> - Often associated with personal expression
+> - Can be difficult to read for some
+> - Has artistic and historical significance
+> - Different from print typefaces
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Memory Hook:** "Cursive = 'currere' (chạy) + '-ive' (có xu hướng) - chữ chạy theo xu hướng"
+> **📖 Etymology Story:** From Latin "currere" (to run) + "-ive" (tending to), representing writing that flows and runs together like a stream, different from blocky print characters
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Adj:** [[cursive]] /ˈkɜːsɪv/ (flowing script)
+> - **Adj:** [[cursively]] /kɜːsɪvli/ (in a cursive manner)
+> - **Noun:** [[cursiveness]] /ˈkɜːsɪvnəs/ (the quality of being cursive)
+> - **Noun:** [[calligraphy]] /kəˈlɪɡrəfi/ (beautiful writing)
+> - **Noun:** [[penmanship]] /ˈpenmənʃɪp/ (the skill of writing)
+> - **Noun:** [[handwriting]] /ˈhændˌraɪtɪŋ/ (the act of writing)
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[script]] /skrɪpt/ : flowing handwriting
+> - [[calligraphic]] /ˌkælɪˈɡræfɪk/ : artistic writing
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[print]] /prɪnt/ : block characters
+> - [[block letters]] /blɒk ˈletərz/ : separate characters
+> - [[typewritten]] /ˈtaɪpˌrɪtən/ : machine-printed text
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. cursive handwriting
+> 2. elegant cursive
+> 3. read cursive writing
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The old letters were written in beautiful cursive handwriting that flowed elegantly across the page.
+> - **Translation:** Những lá thư cũ được viết bằng chữ viết tay đẹp, chảy uyển chuyển trên trang một cách thanh lịch.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Many people find it difficult to read cursive writing, requiring practice to decipher the flowing script.
+> - **Translation:** Nhiều người thấy khó đọc chữ viết tay, cần luyện tập để giải mã được chữ viết chảy uyển chuyển.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Using "cursive" to mean any messy handwriting
+> - ✅ **Correction:** "Cursive" specifically refers to flowing, connected letterforms
+> - **Why:** The term implies a specific style with connected letters, not just untidy writing
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Cursive writing represents the perfect marriage of efficiency and beauty in written communication."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +84,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **cursive** (*/ˈkɜːsɪv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Having letters that slant and join together; written in a style similar to handwriting
+> 🇻🇳 **Vietnamese:** Chữ viết tay, chữ nghiêng, chữ viết nối, chữ thư pháp, chữ xiên
+> 🗣️ **IPA:** */ˈkɜːsɪv/*
+> 🧠 **Mental Model:** 'Cursive' = 'currere' (chạy) + '-ive' (có xu hướng) - chữ chạy theo xu hướng
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Having letters that slant and join together; written in a style similar to handwriting"
+**Vietnamese:** Chữ viết tay
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**cursive** (*/ˈkɜːsɪv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **cursive** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The old letters were written in beautiful cursive handwriting that flowed elegantly across the page.
+> 🇻🇳 **Translation:** Những lá thư cũ được viết bằng chữ viết tay đẹp, chảy uyển chuyển trên trang một cách thanh lịch.
+> 🔍 **Analysis:** "cursive" hoàn hảo ở đây vì nó thể hiện phong cách viết tay cụ thể với các chữ nối liền mượt (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **cursive**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality:** cursive handwriting (chữ viết tay đẹp)
+> 2. **Style:** elegant cursive (chữ xiên thanh lịch)
+> 3. **Skill:** read cursive writing (đọc chữ viết tay)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **cursive**:
+"She wrote with fancy letters."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The calligrapher spent years mastering the art of cursive writing, creating documents that flowed with the grace and precision of a true artisan."
+> 💡 **Why it works:** "cursive" tạo ra sự cụ thể hóa với "calligrapher" và nhấn mạnh tính nghệ thuật và tay nghề cao (e.g., nuances, imagery)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **cursive** instead of **[[handwriting]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **cursive:** Cụ thể là phong cách viết tay có chữ nối liền, có tính nghệ thuật
+> - **[[handwriting]]:** Bao gồm mọi kiểu viết tay, không nhất thiết phải nối liền
+> 🧱 **The Barrier:** Cursive luôn có yếu tố "nối liền" và "nghệ thuật", trong khi handwriting là khái niệm chung hơn (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a historian examining historical documents. You need to describe the writing style. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The medieval manuscript was preserved in remarkable condition, with its cursive script still legible after centuries of storage."
+> 👨‍🎨 **Director's Note:** "cursive" tạo cảm giác lịch sử, có tính nghiên cứu và thể hiện sự hiểu biết về tài liệu cổ (VN)
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `currere` to the meaning of **cursive**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "currere" (chạy) + "-ive" (có xu hướng). Cursive nghĩa đen là "viết theo xu hướng chạy" - thể hiện chữ viết nối liền mượt như dòng chảy (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **cursive**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `currere` (to run) + `-ive` (tending to)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(adj)* cursive (chữ nghiêng)
+> - *(adj)* cursively (theo cách chữ nghiêng)
+> - *(noun)* cursiveness (độ chữ nghiêng)
+> - *(noun)* calligraphy (thư pháp)
+> - *(noun)* penmanship (kỹ năng viết)
+> - *(noun)* handwriting (viết tay)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈkɜːsɪv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**cursive** 
+> 📖 **Meaning:** Having letters that slant and join together; written in a style similar to handwriting
+> 🇻🇳 **Vietnamese:** Chữ viết tay, chữ nghiêng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix:** Error:** Using "cursive" to mean any messy handwriting
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Cursive" specifically refers to flowing, connected letterforms
+> 🧠 **Why:** The term implies a specific style with connected letters, not just untidy writing (VN/EN mix)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **cursive**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[print]] /prɪnt/ (in in)
+> - [[block letters]] /blɒk ˈletərz/ (chữ rời rạc)
+> - [[typewritten]] /ˈtaɪpˌrɪtən/ (in bằng máy)
+> 🧱 **Contrast:** Cursive tập trung vào chữ viết tay nối liền, trong khi print/block letters/typewritten tập trung vào các kiểu chữ không nối liền (VN/EN mix)
 
 ---

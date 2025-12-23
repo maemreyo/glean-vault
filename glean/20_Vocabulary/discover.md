@@ -1,159 +1,76 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [discovers, discovered, discovering, discovery, discoverable]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /dɪˈskʌvə(r)/
+> **Part of Speech:** verb
+> **CEFR Level:** A2
+> **Register:** General
+> **Etymology:** From Old French *descovrir*, from late Latin *discooperire* (dis- 'un-' + cooperire 'to cover').
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** To uncover or reveal something that was hidden or unknown.
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** To find something for the first time or learn something that was not known before.
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** Khám phá, tìm ra.
+> - **Contextual:** Phát hiện, nhận ra (thường là một sự thật hoặc thông tin mới).
 > 
 > **Nuances:**
-> - ...
+> - Implies finding something that already existed but was unknown. Different from "invent," which means to create something new.
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Curious, Revelatory, Scientific.
+> **Memory Hook:** Think of "dis-cover" as "removing the cover" from a hidden treasure.
+> **📖 Etymology Story:** Imagine a hidden object covered by a cloth. When you "discover" it, you literally pull the "cover" (cooperire) away (dis-).
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[discovery]] /dɪˈskʌvəri/
+> - **Verb:** [[discover]] /dɪˈskʌvə(r)/
+> - **Adj:** [[discoverable]] /dɪˈskʌvərəbl/
+> - **Adv:** N/A
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[find]] /faɪnd/ : To locate something.
+> - [[uncover]] /ʌnˈkʌvə(r)/ : To reveal something hidden.
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[hide]] /haɪd/ : To put something out of sight.
+> - [[conceal]] /kənˈsiːl/ : To prevent something from being known.
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. **discover a planet/species** (Scientific context)
+> 2. **discover the truth** (Abstract context)
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Scientists have discovered a new species of frog in the Amazon rainforest.
+> - **Translation:** Các nhà khoa học đã khám phá ra một loài ếch mới trong rừng mưa Amazon.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She was shocked to discover that her ancestors were royalty.
+> - **Translation:** Cô ấy đã rất sốc khi phát hiện ra rằng tổ tiên của mình thuộc dòng dõi hoàng gia.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Discover vs. Invent**
+> - ❌ **Mistake:** Thomas Edison discovered the light bulb.
+> - ✅ **Correction:** Thomas Edison invented the light bulb.
+> - **Why:** "Discover" is for finding things that already existed; "Invent" is for creating new things.
 
 > [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> **Quote:** ... (No specific quote provided in source)
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +78,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **discover** (*/dɪˈskʌvər/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To find information, a place, or an object, especially for the first time.
+> 🇻🇳 **Vietnamese:** Khám phá, tìm ra, phát hiện.
+> 🗣️ **IPA:** */dɪˈskʌvər/*
+> 🧠 **Mental Model:** Hành động "mở tấm màn" (dis-cover) để thấy một thứ đã có sẵn nhưng trước đó bị ẩn giấu.
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To find information, a place, or an object, especially for the first time."
+**Vietnamese:** Khám phá, tìm ra.
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**discover** (*/dɪˈskʌvər/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **discover** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** We were surprised to discover a secret passage behind the bookshelf.
+> 🇻🇳 **Translation:** Chúng tôi rất ngạc nhiên khi phát hiện ra một lối đi bí mật phía sau kệ sách.
+> 🔍 **Analysis:** "Discover" nhấn mạnh vào yếu tố bất ngờ "surprised" và tính chất mới lạ của thông tin vừa tìm thấy.
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **discover**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Scientific Discovery:** **discover a cure** (tìm ra phương thuốc - mang tính nghiên cứu)
+> 2. **Information:** **discover the truth** (phát hiện ra sự thật - mang tính phanh phui)
+> 3. **Talent:** **discover a new talent** (khám phá ra một tài năng mới)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **discover**:
+"I found out he was lying."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I gradually discovered the depth of his deception."
+> 💡 **Why it works:** "Discover" đi kèm với "depth" và "deception" tạo cảm giác quá trình tìm hiểu sâu sắc và chuyên nghiệp hơn là "found out" bình thường.
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **discover** instead of **[[find]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **discover:** Nhấn mạnh vào việc tìm ra thứ gì đó lần đầu tiên hoặc mang tính đột phá (breakthrough).
+> **[[find]]:** Từ ngữ thông dụng, có thể dùng cho việc tìm thấy đồ vật bị mất (ví dụ: tìm thấy chìa khóa).
+> 🧱 **The Barrier:** Không dùng "discover" cho đồ vật cá nhân bị thất lạc rồi tìm lại được. "Find" rộng hơn, "Discover" hẹp và trang trọng hơn.
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You are an archaeologist and you just saw a gold coin. You feel excited. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I think I've just discovered traces of a lost civilization!"
+> 👨‍🎨 **Director's Note:** Sử dụng thì Hiện tại hoàn thành (have discovered) để nhấn mạnh sự việc vừa mới xảy ra và cảm xúc hân hoan.
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `cooperire` to the meaning of **discover**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Trong tiếng Latin, `cooperire` nghĩa là che đậy (cover). Tiền tố `dis-` mang nghĩa phủ định hoặc loại bỏ. Vậy "discover" chính là gỡ bỏ lớp vỏ bọc để phơi bày sự thật bên trong.
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **discover**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `discooperire` (dis- 'un-' + cooperire 'to cover')
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(noun)* discovery
+> - *(adj)* discoverable
+> - *(verb)* rediscover
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */dɪˈskʌvər/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**discover** 
+> 📖 **Meaning:** To find for the first time.
+> 🇻🇳 **Vietnamese:** Khám phá, phát hiện.
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** "Columbus invented America in 1492."
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Columbus discovered America in 1492."
+> 🧠 **Why:** America đã tồn tại từ trước, Columbus chỉ là người tìm thấy nó (từ góc độ châu Âu), chứ không tạo ra nó.
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **discover**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[hide]] (Che giấu - cố tình làm cho không thấy được)
+> - [[ignore]] (Lờ đi - thấy nhưng không quan tâm khám phá)
+> 🧱 **Contrast:** "Discover" là mang ra ánh sáng, "Hide" là đưa vào bóng tối.
 
 ---

@@ -1,11 +1,4 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
 
 # Topic-Specific (Environment)
 #flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
@@ -86,74 +79,76 @@ Select one of the following tags to replace the line above:
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [accidental, accidentally] # Variations to link: Plurals, Tenses, POS, Possessives, Irregulars
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌæksɪˈdentəli/
+> **Part of Speech:** adverb
+> **CEFR Level:** B1
+> **Register:** informal/formal
+> **Etymology:** Latin accidens "happening by chance"
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** by chance, without intention
+>
+> **Context Meaning:** occurring by chance; unintentionally
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** tình cờ, vô tình
+> - **Contextual:** một cách không chủ đích, ngẫu nhiên
+>
 > **Nuances:**
-> - ...
+> - Emphasizes lack of intention or planning
+> - Often used to describe mistakes or unexpected events
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Neutral, matter-of-fact
+> **Memory Hook:** "Accident" + "ally" → happening by chance
+> **📖 Etymology Story:** From Latin "accidens" (happening by chance) → "accidental" (adj) → "accidentally" (adv), describing actions that occur without planning or intention
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[accident]] /ˈæksɪdənt/
+> - **Verb:** [[accident]] /ˈæksɪdənt/
+> - **Adj:** [[accidental]] /ˌæksɪˈdentl/
+> - **Adv:** [[accidentally]] /ˌæksɪˈdentəli/
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[unintentionally]] /ˌʌnɪnˈtenʃənəli/ : without planning
+> - [[inadvertently]] /ˌɪnədˈvɜːtəntli/ : without awareness
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[deliberately]] /dɪˈlɪbərətli/ : intentionally
+> - [[intentionally]] /ɪnˈtenʃənəli/ : on purpose
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
+> 1. accidentally delete
+> 2. accidentally break
+> 3. accidentally discover
+>
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
+> - **Sentence:** I accidentally deleted the important file.
+> - **Translation:** Tôi đã vô tình xóa tệp quan trọng.
+>
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** She accidentally discovered a new shortcut to work.
+> - **Translation:** Cô ấy tình cờ phát hiện ra một lối tắt mới đến nơi làm việc.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Adverb Placement**
+> - ❌ **Mistake:** I deleted accidentally the file.
+> - ✅ **Correction:** I accidentally deleted the file.
+> - **Why:** In English, adverbs like "accidentally" typically come before the main verb or at the beginning of the sentence.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "I accidentally pressed the wrong button and lost all my work."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +156,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **accidentally** (*/ˌæksɪˈdentəli/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** By chance; without intention or planning
+> 🇻🇳 **Vietnamese:** Tình cờ, vô tình, không chủ đích
+> 🗣️ **IPA:** */ˌæksɪˈdentəli/*
+> 🧠 **Mental Model:** Hành động xảy ra mà không có chủ đích trước, giống như khi bạn làm rơi đồ vật một cách ngẫu nhiên
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "By chance; without intention or planning"
+**Vietnamese:** Tình cờ, vô tình
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**accidentally** (*/ˌæksɪˈdentəli/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **accidentally** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** I accidentally spilled coffee on my new shirt this morning.
+> 🇻🇳 **Translation:** Sáng nay tôi đã vô tình làm đổ cà phê lên áo sơ mi mới.
+> 🔍 **Analysis:** "Accidentally" hoàn hảo ở đây vì nó nhấn mạnh hành động làm đổ cà phê là không chủ đích và không được lên kế hoạch
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **accidentally**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action Verbs:** accidentally delete (xóa nhầm), accidentally break (làm hỏng nhầm), accidentally drop (làm rơi nhầm)
+> 2. **Discovery:** accidentally discover (tình cờ phát hiện), accidentally find (tình cờ tìm thấy)
+> 3. **Communication:** accidentally overhear (vô tình nghe thấy), accidentally send (gửi nhầm)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **accidentally**:
+"I made a mistake and deleted the file."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "I accidentally deleted the important file while trying to save it."
+> 💡 **Why it works:** "Accidentally" tạo ra hình ảnh cụ thể hơn về hành động không chủ đích, làm cho câu chuyện trở nên chân thực và dễ liên quan hơn
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **accidentally** instead of **[[unintentionally]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **accidentally:** Thường dùng trong tình huống hàng ngày, không trang trọng, nhấn mạnh sự ngẫu nhiên
+> **[[unintentionally]]:** Trang trọng hơn, thường dùng trong văn viết hoặc ngữ cảnh pháp lý, nhấn mạnh thiếu chủ đích
+> 🧱 **The Barrier:** Accidentally = everyday randomness; Unintentionally = formal lack of intent
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're explaining to your boss why the report wasn't submitted on time. You feel embarrassed. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm so sorry, I accidentally saved the file to the wrong folder and couldn't find it this morning."
+> 👨‍🎨 **Director's Note:** "Accidentally" ở đây thể hiện sự chân thành và trách nhiệm, không bào chữa mà giải thích nguyên nhân thực tế
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `accidens` to the meaning of **accidentally**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "accidens" (xảy ra, happen) → "accidental" (tình cờ) → "accidentally" (một cách tình cờ), mô tả những hành động xảy ra ngoài tầm kiểm soát và không có chủ đích từ trước
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **accidentally**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 🌱 **Root:** Latin `cadere` (to fall)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[accident]] /ˈæksɪdənt/ (sự cố, tai nạn)
+> - *(adj)* [[accidental]] /ˌæksɪˈdentl/ (tình cờ, không chủ đích)
+> - *(adv)* [[accidentally]] /ˌæksɪˈdentəli/ (một cách tình cờ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌæksɪˈdentəli/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**accidentally**
+> 📖 **Meaning:** By chance; without intention
+> 🇻🇳 **Vietnamese:** Tình cờ, vô tình
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** I deleted accidentally the file.
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** I accidentally deleted the file. / I deleted the file accidentally.
+> 🧠 **Why:** Trong tiếng Anh, trạng từ như "accidentally" thường đứng trước động từ chính hoặc ở đầu câu, không giữa động từ và tân ngữ
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **accidentally**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[deliberately]] (cố ý, chủ đích) - Used when actions are planned and intentional
+> - [[intentionally]] (có chủ đích)
+> 🧱 **Contrast:** Accidentally emphasizes lack of planning, while its antonyms indicate purposeful action
 
 ---

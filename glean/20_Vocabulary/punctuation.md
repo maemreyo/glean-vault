@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
 #flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [punctuate, punctuated, punctuating, punctuation marks]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌpʌŋktʃuˈeɪʃən/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** neutral/academic
+> **Etymology:** From Latin "punctuatio" (a marking with points)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** The act of marking with points
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** Symbols used in writing to separate sentences and clarify meaning
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** dấu câu, dấu câu từ
+> - **Contextual:** hệ thống dấu câu, dấu hiệu văn bản
 > 
 > **Nuances:**
-> - ...
+> - Varies between languages
+> - Essential for written communication clarity
+> - Includes periods, commas, semicolons, etc.
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Precise, Systematic, Clarifying
+> **Memory Hook:** "Punctuation = points that make writing make sense"
+> **📖 Etymology Story:** From Latin "punctus" (pricked, marked) + "-ation" suffix, creating image of "marking text with points to make it clear"
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[punctuation]] /ˌpʌŋktʃuˈeɪʃən/ (the marks)
+> - **Verb:** [[punctuate]] /ˈpʌŋktʃueɪt/ (to add punctuation)
+> - **Adj:** [[punctual]] /ˈpʌŋktʃuəl/ (on time, not related)
+> - **Noun:** [[punctuality]] /ˌpʌŋktʃuˈæləti/ (being on time)
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[markings]] /ˈmɑːkɪŋz/ : symbols or signs
+> - [[symbols]] /ˈsɪmbəlz/ : characters representing ideas
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[run-on sentence]] /ˌrʌn ɒn ˈsentəns/ : sentence without proper punctuation
+> - [[illegible]] /ɪˈledʒəbəl/ : difficult to read due to poor punctuation
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. proper punctuation
+> 2. punctuation marks
+> 3. punctuation rules
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The editor emphasized the importance of correct punctuation in academic writing.
+> - **Translation:** Người biên tập nhấn mạnh tầm quan trọng của việc sử dụng dấu câu đúng trong văn viết học thuật.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Different punctuation marks can completely change the meaning of a sentence.
+> - **Translation:** Các dấu câu khác nhau có thể thay đổi hoàn toàn ý nghĩa của một câu.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Confusing punctuation with capitalization
+> - ✅ **Correction:** Punctuation and capitalization serve different functions
+> - **Why:** Punctuation separates ideas; capitalization marks sentence beginnings
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Punctuation is the traffic signals for language: they tell readers when to stop, pause, or change direction."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +81,121 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **punctuation** (*/ˌpʌŋktʃuˈeɪʃən/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Symbols used in writing to separate sentences and clarify meaning
+> 🇻🇳 **Vietnamese:** Dấu câu, hệ thống dấu câu từ
+> 🗣️ **IPA:** */ˌpʌŋktʃuˈeɪʃən/*
+> 🧠 **Mental Model:** Những dấu hiệu nhỏ giúp văn bản có ý nghĩa rõ ràng - "traffic signals for reading"
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Symbols used in writing to separate sentences and clarify meaning"
+**Vietnamese:** Dấu câu
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**punctuation** (*/ˌpʌŋktʃuˈeɪʃən/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **punctuation** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The professor emphasized that proper punctuation is essential for clear academic communication.
+> 🇻🇳 **Translation:** Giáo sư nhấn mạnh rằng dấu câu đúng là thiết yếu cho giao tiếp học thuật rõ ràng.
+> 🔍 **Analysis:** "punctuation" hoàn hảo ở đây vì nó chỉ rõ khía cạnh học thuật (academic communication) và vai trò quan trọng của nó trong việc truyền đạt ý (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **punctuation**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality:** proper punctuation (dấu câu đúng)
+> 2. **Components:** punctuation marks (các loại dấu câu)
+> 3. **Rules:** punctuation rules (quy tắc dấu câu)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **punctuation**:
+"Writers need to use correct symbols in their sentences."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Masterful punctuation transforms confusing text into crystal-clear communication that guides readers through complex ideas."
+> 💡 **Why it works:** "punctuation" tạo ra hình ảnh mạnh mẽ hơn với "crystal-clear communication" và nhấn mạnh vai trò dẫn dắt của nó (e.g., nuances, imagery)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **punctuation** instead of **[[grammar]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **punctuation:** Chỉ về các dấu hiệu và ký hiệu phân tách câu
+> - **[[grammar]]:** Bao gồm cả cấu trúc câu, từ loại, và quy tắc ngữ pháp rộng hơn
+> 🧱 **The Barrier:** Punctuation là một phần của grammar, nhưng grammar bao gồm nhiều quy tắc khác ngoài dấu câu (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're teaching writing to beginners. You need to explain why punctuation matters. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Think of punctuation as the traffic signals of writing—they tell your readers when to stop, pause, or turn!"
+> 👨‍🎨 **Director's Note:** "punctuation" được ví von hóa như "traffic signals" để tạo hình ảnh dễ hiểu cho người mới bắt đầu học viết (VN)
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `punctuatio` to the meaning of **punctuation**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "punctuatio" (việc đánh dấu) từ "punctus" (được chấm, được đánh dấu). Punctuation là việc "marking text with points" để giúp người đọc hiểu đúng luồng ý tưởng (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **punctuation**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `punctuatio` (a marking with points)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(verb)* punctuate (thêm dấu câu)
+> - *(noun)* punctuation mark (dấu câu)
+> - *(adj)* unpunctuated (không có dấu câu)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌpʌŋktʃuˈeɪʃən/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**punctuation** 
+> 📖 **Meaning:** Symbols used in writing to separate sentences and clarify meaning
+> 🇻🇳 **Vietnamese:** Dấu câu
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Using punctuation for emphasis instead of proper formatting
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** Use italics, bold, or specific punctuation for emphasis appropriately
+> 🧠 **Why:** Overusing exclamation marks or random punctuation looks unprofessional and can confuse readers (VN/EN mix)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **punctuation**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[run-on sentence]] (câu dài không có dấu câu)
+> - [[illegible text]] (văn bản khó đọc)
+> 🧱 **Contrast:** Punctuation tạo ra sự rõ ràng, trong khi thiếu nó gây khó hiểu và hỗn loạn (VN/EN mix)
 
 ---

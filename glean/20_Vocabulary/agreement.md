@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
 #flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [agree, agrees, agreeing, agreed, disagreement, agreeable, agreeably]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈɡriːmənt/
+> **Part of Speech:** noun
+> **CEFR Level:** B1
+> **Register:** formal/business
+> **Etymology:** From Old French "agreement" from "agreer" (to please)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** Harmony or accordance in opinion or feeling
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** A negotiated and typically legally binding arrangement between parties as to a course of action
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** sự đồng thuận, thỏa thuận
+> - **Contextual:** hợp đồng, cam kết, sự nhất trí
 > 
 > **Nuances:**
-> - ...
+> - Can be formal (legal contract) or informal (mutual understanding)
+> - Implies consensus between parties
+> - Often involves compromise
+> - Can be written or verbal
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Memory Hook:** "Agreement = when minds 'agree' + 'ment' (state of being) - harmony in action"
+> **📖 Etymology Story:** From Old French "agreer" (to please) + "-ment" (state of being), representing the state where people are pleased with each other's positions and find common ground
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[agreement]] /əˈɡriːmənt/ (the arrangement)
+> - **Verb:** [[agree]] /əˈɡriː/ (to consent)
+> - **Adj:** [[agreeable]] /əˈɡriːəbəl/ (pleasant)
+> - **Adv:** [[agreeably]] /əˈɡriːəbli/ (in a pleasing manner)
+> - **Noun:** [[disagreement]] /ˌdɪsəˈɡriːmənt/ (conflict)
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[contract]] /ˈkɒntrækt/ : legally binding agreement
+> - [[consensus]] /kənˈsensəs/ : general agreement
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[disagreement]] /ˌdɪsəˈɡriːmənt/ : lack of consensus
+> - [[conflict]] /ˈkɒnflɪkt/ : opposition
+> - [[dispute]] /dɪˈspjuːt/ : argument
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. reach an agreement
+> 2. mutual agreement
+> 3. formal agreement
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** After weeks of negotiation, the two companies finally reached an agreement on the merger terms.
+> - **Translation:** Sau nhiều tuần đàm phán, hai công ty cuối cùng đã đạt được thỏa thuận về các điều kiện sáp nhập.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** There was a general agreement among the committee members that the proposal needed further revision.
+> - **Translation:** Có sự đồng thuận chung giữa các thành viên ủy ban rằng đề xuất cần được sửa đổi thêm.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Using "agreement" for any form of similarity
+> - ✅ **Correction:** "Agreement" specifically refers to mutual consent between parties
+> - **Why:** The word implies active consensus, not just passive similarity
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A good agreement is one where both parties leave feeling they've gained something valuable."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **agreement** (*/əˈɡriːmənt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A negotiated and typically legally binding arrangement between parties as to a course of action
+> 🇻🇳 **Vietnamese:** Sự đồng thuận, thỏa thuận, hợp đồng, cam kết, sự nhất trí
+> 🗣️ **IPA:** */əˈɡriːmənt/*
+> 🧠 **Mental Model:** Khi hai hay nhiều bên cùng "agree" + "ment" - trạng thái hài hòa và đồng thuận
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A negotiated and typically legally binding arrangement between parties as to a course of action"
+**Vietnamese:** Sự đồng thuận, thỏa thuận
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**agreement** (*/əˈɡriːmənt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **agreement** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** After weeks of negotiation, the two companies finally reached an agreement on the merger terms.
+> 🇻🇳 **Translation:** Sau nhiều tuần đàm phán, hai công ty cuối cùng đã đạt được thỏa thuận về các điều kiện sáp nhập.
+> 🔍 **Analysis:** "agreement" hoàn hảo ở đây vì nó thể hiện kết quả của quá trình đàm phán và sự đồng thuận giữa hai bên (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **agreement**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Process:** reach an agreement (đạt được thỏa thuận)
+> 2. **Quality:** mutual agreement (sự đồng thuận chung)
+> 3. **Formality:** formal agreement (thỏa thuận chính thức)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **agreement**:
+"They decided to work together."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The department heads signed a formal agreement outlining their collaborative responsibilities and resource sharing."
+> 💡 **Why it works:** "agreement" tạo ra sự cụ thể hóa với "formal" và nhấn mạnh tính cam kết và có hệ thống của sự hợp tác (e.g., nuances, imagery)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **agreement** instead of **[[understanding]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **agreement:** Cụ thể là sự đồng thuận có chủ đích giữa các bên, thường có tính ràng buộc
+> - **[[understanding]]:** Bao gồm sự hiểu biết chung, không nhất thiết có sự đồng thuận
+> 🧱 **The Barrier:** Agreement luôn có yếu tố "đồng thuận chủ động" và "cam kết", trong khi understanding chỉ là sự hiểu biết (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a mediator resolving a dispute between business partners. You need to announce the successful resolution. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I'm pleased to announce that both parties have reached a comprehensive agreement that addresses all their concerns and ensures mutual benefits."
+> 👨‍🎨 **Director's Note:** "agreement" tạo cảm giác chuyên nghiệp, có tính pháp lý và thể hiện sự thành công trong quá trình trung gian (VN)
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `agree` and `-ment` to the meaning of **agreement**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old French "agreer" (làm hài lòng) + "-ment" (trạng thái). Agreement nghĩa đen là "trạng thái làm hài lòng lẫn nhau" - thể hiện sự hài hòa khi các bên tìm được điểm chung (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **agreement**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Old French `agreer` (to please) + `-ment` (state of being)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(verb)* agree (đồng ý)
+> - *(adj)* agreeable (dễ chịu, đồng ý)
+> - *(noun)* disagreement (bất đồng)
+> - *(adv)* agreeably (một cách dễ chịu)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈɡriːmənt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**agreement** 
+> 📖 **Meaning:** A negotiated and typically legally binding arrangement between parties as to a course of action
+> 🇻🇳 **Vietnamese:** Sự đồng thuận, thỏa thuận
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Using "agreement" for any form of similarity
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Agreement" specifically refers to mutual consent between parties
+> 🧠 **Why:** The word implies active consensus and commitment, not just passive similarity (VN/EN mix)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **agreement**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[disagreement]] (sự bất đồng)
+> - [[conflict]] (xung đột)
+> - [[dispute]] (tranh chấp)
+> 🧱 **Contrast:** Agreement tập trung vào sự đồng thuận, trong khi disagreement/conflict/dispute chỉ sự đối lập (VN/EN mix)
 
 ---

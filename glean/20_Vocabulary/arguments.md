@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [argument, arguable, argumentation, arguement]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈɑːɡjumənts/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** neutral/academic
+> **Etymology:** From Latin "argumentum" (evidence, proof)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** Evidence or reasoning in support of a claim
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** A discussion where different opinions are expressed; reasons given to support positions
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** lập luận, lý lẽ
+> - **Contextual:** cuộc tranh luận, các ý kiến đối lập
 > 
 > **Nuances:**
-> - ...
+> - Can be verbal or written
+> - Involves reasoning and evidence
+> - May be formal or informal
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Logical, Persuasive, Evidential
+> **Memory Hook:** "Arguments = reasons for beliefs - like building blocks of ideas"
+> **📖 Etymology Story:** From Latin "argumentum" (evidence, proof) - literally "that which proves a case" - the foundation of logical reasoning
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[argument]] /ˈɑːɡjumənt/ (the discussion)
+> - **Noun:** [[argumentation]] /ˌɑːɡjumenˈteɪʃən/ (the process)
+> - **Verb:** [[argue]] /ˈɑːɡjuː/ (to present arguments)
+> - **Adj:** [[arguable]] /ˈɑːɡjuəbəl/ (able to be debated)
+> - **Adv:** [[arguably]] /ˈɑːɡjuəbli/ (as can be argued)
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[debate]] /dɪˈbeɪt/ : formal discussion with opposing views
+> - [[discussion]] /dɪˈskʌʃən/ : exchange of ideas
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[agreement]] /əˈɡriːmənt/ : harmony of opinion
+> - [[consensus]] /kənˈsensəs/ : general agreement
+> - [[silence]] /ˈsaɪləns/ : lack of response
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. strong arguments
+> 2. present arguments
+> 3. win an argument
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The lawyer presented compelling arguments to support her client's case.
+> - **Translation:** Luật sư đã trình bày những lập luận thuyết phục cho vụ án của thân chủ mình.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** They had a heated argument about politics that lasted for hours.
+> - **Translation:** Họ đã có một cuộc tranh luận nảy lửa về chính trị kéo dài hàng giờ.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Confusing "arguments" with "fighting"
+> - ✅ **Correction:** "Arguments" involves reasoning, not necessarily conflict
+> - **Why:** Arguments can be calm, logical discussions, not just angry disputes
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The goal of an argument isn't to win, but to arrive at the truth through reasoned discourse."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **arguments** (*/ˈɑːɡjumənts/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A discussion where different opinions are expressed; reasons given to support positions
+> 🇻🇳 **Vietnamese:** Lập luận, lý lẽ, cuộc tranh luận, các ý kiến đối lập
+> 🗣️ **IPA:** */ˈɑːɡjumənts/*
+> 🧠 **Mental Model:** Trao đổi ý kiến có lý lẽ - "building blocks of reasoning"
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A discussion where different opinions are expressed; reasons given to support positions"
+**Vietnamese:** Lập luận
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**arguments** (*/ˈɑːɡjumənts/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **arguments** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The lawyer presented compelling arguments to support her client's case.
+> 🇻🇳 **Translation:** Luật sư đã trình bày những lập luận thuyết phục cho vụ án của thân chủ mình.
+> 🔍 **Analysis:** "arguments" hoàn hảo ở đây vì nó chỉ rõ bối cảnh pháp lý (lawyer's case) và mục đích của cuộc trao đổi ý kiến (support her client's case) (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **arguments**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Quality:** strong arguments (lập luận mạnh mẽ)
+> 2. **Action:** present arguments (trình bày lập luận)
+> 3. **Outcome:** win an argument (thắng trong tranh luận)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **arguments**:
+"They had different opinions about the topic."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The committee engaged in rigorous arguments, examining evidence from multiple perspectives before reaching their decision."
+> 💡 **Why it works:** "arguments" tạo ra sự cụ thể hóa với "rigorous" và nhấn mạnh tính học thuật và có hệ thống của cuộc thảo luận (e.g., nuances, imagery)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **arguments** instead of **[[fight]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **arguments:** Trao đổi ý kiến dựa trên lý lẽ và bằng chứng
+> - **[[fight]]:** Xung đột vật lý, có thể bao gồm bạo lực
+> 🧱 **The Barrier:** Arguments là trao đổi trí tuệ, fight là xung đột thể chất (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're in a debate competition. You need to describe your strategy. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I win arguments by focusing on logical consistency and verifiable evidence rather than emotional appeals."
+> 👨‍🎨 **Director's Note:** "arguments" tạo cảm giác chiến lược, có hệ thống và tập trung vào phương pháp luận học thuật (VN)
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `argumentum` to the meaning of **arguments**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "argumentum" (bằng chứng, bằng cứ) - nghĩa đen là "that which proves a case". Arguments là nền tảng của tư duy logic, nơi mọi ý kiến đều cần bằng chứng để được chấp nhận (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **arguments**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `argumentum` (evidence, proof)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(verb)* argue (tranh luận)
+> - *(adj)* arguable (có thể tranh luận)
+> - *(noun)* argumentation (quá trình lập luận)
+> - *(adv)* arguably (có thể lập luận rằng)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈɑːɡjumənts/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**arguments** 
+> 📖 **Meaning:** A discussion where different opinions are expressed; reasons given to support positions
+> 🇻🇳 **Vietnamese:** Lập luận, lý lẽ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Treating arguments as always confrontational
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** Arguments can be collaborative, exploratory, or consensus-building
+> 🧠 **Why:** Not all arguments aim to "win" - many seek understanding or compromise (VN/EN mix)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **arguments**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[agreement]] (sự đồng thuận, nhất trí)
+> - [[consensus]] (sự đồng thuận chung)
+> - [[silence]] (sự im lặng)
+> 🧱 **Contrast:** Arguments trao đổi ý kiến, trong khi agreement/consensus là sự thống nhất quan điểm, không trao đổi (VN/EN mix)
 
 ---

@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [frightened, frightening, frightens, frightfully]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈfraɪtən/
+> **Part of Speech:** verb
+> **CEFR Level:** B1
+> **Register:** neutral
+> **Etymology:** From Old English "frighten" (to suddenly fear)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** To suddenly feel fear or alarm
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** To cause someone to feel afraid or scared
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** làm choáng, dọa
+> - **Contextual:** gây sợ hãi, làm hoảng sợ
 > 
 > **Nuances:**
-> - ...
+> - Can be physical or psychological
+> - Often implies suddenness or intensity
+> - Related to surprise or shock
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Alarming, Shocking, Intense
+> **Memory Hook:** "Frighten = to make suddenly frightened - like a jump scare!"
+> **📖 Etymology Story:** From Old English "fright" (sudden fear) + "-en" suffix, literally "to make someone suddenly afraid"
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Verb:** [[frighten]] /ˈfraɪtən/ (to cause fear)
+> - **Adj:** [[frightened]] /ˈfraɪtənd/ (feeling afraid)
+> - **Adj:** [[frightening]] /ˈfraɪtənɪŋ/ (causing fear)
+> - **Noun:** [[fright]] /fraɪt/ (sudden fear)
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[scare]] /skeər/ : to frighten
+> - [[alarm]] /əˈlɑːm/ : to cause fear or concern
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[reassure]] /ˌriːəˈʃʊər/ : to remove fear
+> - [[calm]] /kɑːm/ : to make less afraid
+> - [[comfort]] /ˈkʌmfərt/ : to ease someone's fear
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. frighten someone
+> 2. frighten away
+> 3. deeply frighten
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The sudden noise in the dark might frighten even the bravest person.
+> - **Translation:** Tiếng động đột ngột trong bóng tối có thể làm choáng ngay cả người dũng cảm nhất.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The ghost stories were designed to frighten the children around the campfire.
+> - **Translation:** Những câu chuyện ma được thiết kế để làm choáng những đứa trẻ ngồi quanh đống lửa.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Using "frighten" with gradual fear
+> - ✅ **Correction:** "Frighten" implies sudden, sharp fear
+> - **Why:** The word suggests a quick, intense reaction rather than gradual worry
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The best horror writers know how to frighten readers not just with monsters, but with the unknown."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **frighten** (*/ˈfraɪtən/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To suddenly feel fear or alarm; to cause someone to feel afraid or scared
+> 🇻🇳 **Vietnamese:** Làm choáng, dọa, gây sợ hãi
+> 🗣️ **IPA:** */ˈfraɪtən/*
+> 🧠 **Mental Model:** Hành động gây ra nỗi sợ đột ngột - "jump scare feeling"
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To suddenly feel fear or alarm; to cause someone to feel afraid or scared"
+**Vietnamese:** Làm choáng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**frighten** (*/ˈfraɪtən/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **frighten** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The sudden noise in the dark might frighten even the bravest person.
+> 🇻🇳 **Translation:** Tiếng động đột ngột trong bóng tối có thể làm choáng ngay cả người dũng cảm nhất.
+> 🔍 **Analysis:** "frighten" hoàn hảo ở đây vì nó diễn tả hành động gây ra nỗi sợ đột ngột (sudden noise) và tác động lên đối tượng mạnh nhất (even the bravest person) (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **frighten**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** deeply frighten (làm choáng sâu sắc)
+> 2. **Direction:** frighten away (làm choáng bỏ chạy)
+> 3. **Target:** frighten someone (làm choáng ai đó)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **frighten**:
+"The scary movie made people feel afraid."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The filmmaker masterfully used suspense and unexpected moments to frighten audiences, creating genuine terror rather than cheap jump scares."
+> 💡 **Why it works:** "frighten" tạo ra sự cụ thể hóa với "masterfully used" và nhấn mạnh kỹ thuật gây ra nỗi sợ thực sự thay vì chỉ đơn thuần là "scary" (e.g., nuances, imagery)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **frighten** instead of **[[scare]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **frighten:** Thường chỉ sự sợ đột ngột, mạnh mẽ
+> - **[[scare]]:** Có thể là sự sợ từ từ, không nhất thiết phải đột ngột
+> 🧱 **The Barrier:** Frighten luôn có yếu tố "đột ngột" (sudden), trong khi scare có thể từ từ hoặc dần dần (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're watching a horror movie with friends. Something jumps out! Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Don't try to frighten me like that—I saw it coming from a mile away!"
+> 👨‍🎨 **Director's Note:** "frighten" tạo cảm giác tự nhiên, phản ứng tức thời với sự kiện gây sốc đột ngột (VN)
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link to root `fright` to the meaning of **frighten**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Old English "fright" (nỗi sợ đột ngột) + "-en" hậu tố (làm cho). Frighten nghĩa đen là "to make someone suddenly afraid" - giống như việc tạo ra một cú sốc bất ngờ (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **frighten**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Old English `fright` (sudden fear)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(verb)* frighten (làm choáng)
+> - *(adj)* frightened (bị choáng)
+> - *(adj)* frightening (gây sợ hãi)
+> - *(noun)* fright (nỗi sợ đột ngột)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈfraɪtən/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**frighten** 
+> 📖 **Meaning:** To suddenly feel fear or alarm; to cause someone to feel afraid or scared
+> 🇻🇳 **Vietnamese:** Làm choáng, dọa
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Using "frighten" for gradual fear
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Frighten" specifically implies sudden, sharp fear
+> 🧠 **Why:** The word suggests a quick, intense reaction rather than gradual worry or anxiety (VN/EN mix)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **frighten**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[reassure]] (trấn an, làm dịu lại)
+> - [[calm]] (làm bình tĩnh)
+> - [[comfort]] (an ủi)
+> 🧱 **Contrast:** Frighten tạo ra nỗi sợ đột ngột, trong khi reassure/calm/comfort giúp loại bỏ nỗi sợ đó (VN/EN mix)
 
 ---

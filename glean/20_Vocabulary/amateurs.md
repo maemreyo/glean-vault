@@ -1,159 +1,79 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [amateur, amateurish, amateurishly]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˈæmətərz/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** neutral
+> **Etymology:** From Latin "amator" (lover) from "amare" (to love)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** People who engage in an activity out of love rather than for payment
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** Non-professionals; people who pursue an activity as a hobby rather than a career
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** người nghiệp dư
+> - **Contextual:** người không chuyên nghiệp, người làm vì đam mê
 > 
 > **Nuances:**
-> - ...
+> - Can be skilled but unpaid
+> - Implies passion over profit motive
+> - Not necessarily unskilled (common misconception)
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Passionate, Enthusiastic, Dedicated
+> **Memory Hook:** "Amateurs do it for love (amare), not for money"
+> **📖 Etymology Story:** From Latin "amator" meaning "lover, friend" - someone who does something out of love rather than for payment
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[amateur]] /ˈæmətər/ (singular)
+> - **Noun:** [[amateurism]] /ˈæmətərɪzəm/ (the quality or practice)
+> - **Adj:** [[amateurish]] /ˈæmətərɪʃ/ (somewhat unprofessional)
+> - **Adv:** [[amateurishly]] /ˈæmətərɪʃli/ (in an unprofessional manner)
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[nonprofessional]] /ˌnɒnprəˈfeʃənəl/ : not doing something as a paid job
+> - [[enthusiast]] /ɪnˈθjuːziæst/ : person with great love for something
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[professional]] /prəˈfeʃənəl/ : doing something as a paid job
+> - [[expert]] /ˈekspɜːt/ : person with extensive knowledge
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. talented amateurs
+> 2. amateur competition
+> 3. amateur photographer/birdwatcher/chef
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The art gallery featured works by both established professionals and talented amateurs.
+> - **Translation:** Phòng trưng bày nghệ thuật có các tác phẩm của cả những chuyên gia có tên tuổi và những người nghiệp dư tài năng.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Amateur astronomers discovered three new comets last year.
+> - **Translation:** Các nhà thiên văn nghiệp dư đã phát hiện ba sao chổi mới vào năm ngoái.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Using "amateur" to mean unskilled
+> - ✅ **Correction:** "Amateur" describes payment status, not skill level
+> - **Why:** Many amateurs are highly skilled in their chosen fields
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The difference between amateur and professional is not in the quality of work, but in the motivation behind it."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +81,122 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **amateurs** (*/ˈæmətərz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** People who engage in a pursuit or activity as a pastime rather than a profession; non-professionals
+> 🇻🇳 **Vietnamese:** Người nghiệp dư, người không chuyên nghiệp
+> 🗣️ **IPA:** */ˈæmətərz/*
+> 🧠 **Mental Model:** Người làm việc vì đam mê, không phải vì tiền - "love over money"
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "People who engage in a pursuit or activity as a pastime rather than a profession"
+**Vietnamese:** Người nghiệp dư
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**amateurs** (*/ˈæmətərz/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **amateurs** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The art gallery featured works by both established professionals and talented amateurs.
+> 🇻🇳 **Translation:** Phòng trưng bày nghệ thuật có các tác phẩm của cả những chuyên gia có tên tuổi và những người nghiệp dư tài năng.
+> 🔍 **Analysis:** "amateurs" hoàn hảo ở đây vì nó tạo ra sự đối lập với "professionals" và nhấn mạnh sự đa dạng của các nghệ sĩ tham gia (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **amateurs**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Talent Level:** talented amateurs (nghiệp dư tài năng)
+> 2. **Activity Type:** amateur photographers/birdwatchers/chefs (nhiếp ảnh/người xem chim/đầu bếp nghiệp dư)
+> 3. **Competition Context:** compete against amateurs (thi đấu với người nghiệp dư)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **amateurs**:
+"Some people who aren't experts took photos at the event."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "Talented amateurs captured stunning images that rivaled professional work at the photography competition."
+> 💡 **Why it works:** "amateurs" tạo ra sự đối lập tinh tế với "professional work" và nhấn mạnh tài năng tự nhiên so với kỹ thuật được đào tạo (e.g., nuances, imagery)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **amateurs** instead of **[[beginners]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **amateurs:** Có thể có kỹ năng tốt và kinh nghiệm, chỉ không làm việc này để kiếm sống
+> **[[beginners]]:** Mới bắt đầu, chưa có kỹ năng hay kinh nghiệm
+> 🧱 **The Barrier:** Amateurs có passion và skill, beginners chỉ có sự mới mẻ (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're organizing a community theater production. You need volunteers. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "We're looking for passionate amateurs who want to bring this story to life on stage!"
+> 👨‍🎨 **Director's Note:** "amateurs" tạo cảm giác thân thiện, không áp lực và nhấn mạnh tình yêu nghệ thuật hơn kỹ thuật chuyên nghiệp (VN)
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `amare` to the meaning of **amateurs**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "amator" (người yêu, người hâm mộ) từ động từ "amare" (yêu). Amateurs là những người làm việc vì "love" chứ không phải vì tiền, khác với "professional" (làm vì tiền). (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **amateurs**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `amare` (to love)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(noun)* amateur (người nghiệp dư)
+> - *(noun)* amateurism (tính nghiệp dư)
+> - *(adjective)* amateurish (mang tính nghiệp dư, không chuyên nghiệp)
+> - *(adverb)* amateurishly (một cách nghiệp dư)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˈæmətərz/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**amateurs** 
+> 📖 **Meaning:** People who engage in a pursuit as a pastime rather than a profession
+> 🇻🇳 **Vietnamese:** Người nghiệp dư
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Using "amateur" as a compliment
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Amateur" means non-professional, not necessarily unskilled
+> 🧠 **Why:** "Amateur" chỉ describes payment status, not skill level. Many amateurs are highly skilled (VN/EN mix)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **amateurs**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[professionals]] (người chuyên nghiệp, làm việc để kiếm sống)
+> - [[experts]] (chuyên gia, có kiến thức sâu rộng)
+> 🧱 **Contrast:** Amateurs làm vì đam mê, professionals làm vì tiền/nghề nghiệp (VN/EN mix)
 
 ---

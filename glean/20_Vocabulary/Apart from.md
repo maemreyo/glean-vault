@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
 #flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [apart from, except for, besides, other than, aside from, excluding]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈpɑːt frɒm/
+> **Part of Speech:** phrasal preposition
+> **CEFR Level:** B1
+> **Register:** formal/informal
+> **Etymology:** From Latin "apart" (separate) + "from" (origin)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** Separated from
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** Used to indicate that something is excluded from or not part of what is being discussed
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** ngoài trừ, trừ
+> - **Contextual:** không kể, loại trừ, không bao gồm
 > 
 > **Nuances:**
-> - ...
+> - Introduces exceptions to general statements
+> - Can be used for both inclusion and exclusion
+> - Often appears in formal and informal contexts
+> - Creates logical boundaries in arguments
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Memory Hook:** "Apart from = 'apart' (tách ra) + 'from' (từ) - tách ra từ cái gì đó"
+> **📖 Etymology Story:** From Latin "apart" (separate) + "from" (origin), representing the act of separating or excluding something from a group or category
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Prep:** [[apart from]] /əˈpɑːt frɒm/ (excluding)
+> - **Prep:** [[except for]] /ɪkˈsept fɔːr/ (excluding)
+> - **Prep:** [[besides]] /bɪˈsaɪdz/ (in addition to)
+> - **Prep:** [[other than]] /ˈʌðə ðæn/ (different from)
+> - **Prep:** [[excluding]] /ɪkˈskluːdɪŋ/ (not including)
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[except for]] /ɪkˈsept fɔːr/ : not including
+> - [[other than]] /ˈʌðə ðæn/ : different from
+> - [[besides]] /bɪˈsaɪdz/ : in addition to
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[including]] /ɪnˈkluːdɪŋ/ : containing
+> - [[consisting of]] /kənˈsɪstɪŋ əv/ : composed of
+> - [[comprising]] /kəmˈpraɪzɪŋ/ : made up of
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. apart from the crowd
+> 2. apart from expectations
+> 3. apart from traditional methods
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new policy was innovative apart from the minor adjustments suggested by the committee.
+> - **Translation:** Chính sách mới có tính đột phá ngoài trừ những điều chỉnh nhỏ được đề xuất bởi ủy ban.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Apart from the usual tourist attractions, the hidden beach offered complete tranquility.
+> - **Translation:** Ngoài các điểm du lịch thông thường, bãi biển ẩn mang lại sự yên tĩnh tuyệt đối.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Using "apart from" when you mean "besides" (addition)
+> - ✅ **Correction:** "Apart from" indicates exclusion, while "besides" indicates addition
+> - **Why:** The direction of exclusion vs. inclusion is opposite and must be used carefully
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "True innovation often comes from thinking apart from established conventions and exploring new possibilities."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +84,124 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **apart from** (*/əˈpɑːt frɒm/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Used to indicate that something is excluded from or not part of what is being discussed
+> 🇻🇳 **Vietnamese:** Ngoài trừ, trừ, không kể, loại trừ, không bao gồm
+> 🗣️ **IPA:** */əˈpɑːt frɒm/*
+> 🧠 **Mental Model:** 'Apart from' = 'apart' (tách ra) + 'from' (từ) - loại trừ khỏi cái gì đó
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Used to indicate that something is excluded from or not part of what is being discussed"
+**Vietnamese:** Ngoài trừ
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**apart from** (*/əˈpɑːt frɒm/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **apart from** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new policy was innovative apart from the minor adjustments suggested by the committee.
+> 🇻🇳 **Translation:** Chính sách mới có tính đột phá ngoài trừ những điều chỉnh nhỏ được đề xuất bởi ủy ban.
+> 🔍 **Analysis:** "apart from" hoàn hảo ở đây vì nó thể hiện sự loại trừ và nhấn mạnh tính độc đáo, khác biệt (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **apart from**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Exclusion:** apart from the crowd (ngoài đám đông)
+> 2. **Innovation:** apart from expectations (ngoài kỳ vọng)
+> 3. **Tradition:** apart from traditional methods (ngoài phương pháp truyền thống)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **apart from**:
+"It was different from normal."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The artist's approach was revolutionary, creating works that stood apart from conventional techniques and challenged established aesthetic boundaries."
+> 💡 **Why it works:** "apart from" tạo ra sự cụ thể hóa với "revolutionary" và nhấn mạnh sự khác biệt và độc đáo (e.g., nuances, imagery)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **apart from** instead of **[[besides]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **apart from:** Cụ thể là loại trừ, không bao gồm
+> - **[[besides]]:** Bao gồm thêm vào, bổ sung
+> 🧱 **The Barrier:** Apart from luôn có yếu tố "loại trừ" và "không bao gồm", trong khi besides có yếu tố "thêm vào" và "bổ sung" (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're a critic evaluating an unusual artwork. You need to describe its uniqueness. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "This painting stands apart from traditional landscape art by incorporating abstract elements that challenge our perception of reality."
+> 👨‍🎨 **Director's Note:** "apart from" tạo cảm giác phân tích, có tính đánh giá và thể hiện sự hiểu biết về nghệ thuật (VN)
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `apart` and `from` to the meaning of **apart from**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "apart" (tách rời) + "from" (từ). Apart from nghĩa đen là "tách rời từ" - thể hiện sự loại trừ hoặc không bao gồm một cái gì đó khỏi một nhóm (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **apart from**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `apart` (separate) + Old English `from` (origin)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(prep)* apart from (ngoài trừ)
+> - *(prep)* except for (ngoài trừ)
+> - *(prep)* besides (bên cạnh, ngoài ra)
+> - *(prep)* other than (khác với)
+> - *(prep)* excluding (loại trừ)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈpɑːt frɒm/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**apart from** 
+> 📖 **Meaning:** Used to indicate that something is excluded from or not part of what is being discussed
+> 🇻🇳 **Vietnamese:** Ngoài trừ, trừ
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Using "apart from" when you mean "besides" (addition)
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Apart from" indicates exclusion, while "besides" indicates addition
+> 🧠 **Why:** The direction of exclusion vs. inclusion is opposite and must be used carefully (VN/EN mix)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **apart from**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[including]] /ɪnˈkluːdɪŋ/ (bao gồm)
+> - [[consisting of]] /kənˈsɪstɪŋ əv/ (bao gồm)
+> - [[comprising]] /kəmˈpraɪzɪŋ/ (bao gồm)
+> 🧱 **Contrast:** Apart from tập trung vào loại trừ, trong khi including/consisting of/comprising tập trung vào bao gồm (VN/EN mix)
 
 ---

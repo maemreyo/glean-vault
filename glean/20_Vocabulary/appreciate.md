@@ -1,159 +1,82 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
 #flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [appreciate, appreciates, appreciating, appreciated, appreciation, grateful, thankful, value, treasure]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /əˈpriːʃieɪt/
+> **Part of Speech:** verb
+> **CEFR Level:** B1
+> **Register:** formal/informal
+> **Etymology:** From Latin "appretiare" (to set a price, value)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** To recognize the value of something
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** To recognize the full worth of something; to understand and enjoy the positive qualities of someone or something
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** đánh giá cao, trân trọng
+> - **Contextual:** biết ơn, cảm kích, quý trọng
 > 
 > **Nuances:**
-> - ...
+> - Goes beyond simple liking
+> - Involves understanding deeper value
+> - Can be intellectual or emotional
+> - Often leads to gratitude
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Memory Hook:** "Appreciate = 'ap' (at) + 'preciate' (price) - setting value on something"
+> **📖 Etymology Story:** From Latin "appretiare" (to set a price/value), representing the act of recognizing and valuing the worth of people, things, or qualities
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Verb:** [[appreciate]] /əˈpriːʃieɪt/ (to value)
+> - **Verb:** [[appreciates]] /əˈpriːʃieɪts/ (third person singular)
+> - **Verb:** [[appreciating]] /əˈpriːʃieɪtɪŋ/ (the action)
+> - **Adj:** [[appreciative]] /əˈpriːʃieɪtɪv/ (showing appreciation)
+> - **Adj:** [[appreciated]] /əˈpriːʃieɪtɪd/ (valued)
+> - **Noun:** [[appreciation]] /əˌpriːʃiˈeɪʃən/ (the feeling)
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[value]] /ˈvæljuː/ : to regard highly
+> - [[treasure]] /ˈtreʒər/ : to cherish greatly
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[depreciate]] /dɪˈpriːʃieɪt/ : to undervalue
+> - [[disregard]] /dɪsˈɡɑːd/ : to ignore
+> - [[take for granted]] /teɪk fɔː ˈɡræntɪd/ : to not value
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. deeply appreciate
+> 2. truly appreciate
+> 3. appreciate the opportunity
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The teacher deeply appreciated the student's thoughtful questions during the lecture.
+> - **Translation:** Giáo viên đã đánh giá cao sâu những câu hỏi chu đáo của sinh viên trong bài giảng.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** I truly appreciate your willingness to help with this challenging project.
+> - **Translation:** Tôi thực sự biết ơn sự sẵn lòng giúp đỡ của bạn với dự án thử thách này.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Using "appreciate" for simple liking
+> - ✅ **Correction:** "Appreciate" involves recognizing deeper value or worth
+> - **Why:** The word implies understanding worth, not just surface-level preference
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "To appreciate is to see the value in what others might overlook, and to find joy in the recognition of worth."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +84,125 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **appreciate** (*/əˈpriːʃieɪt/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** To recognize the full worth of something; to understand and enjoy the positive qualities of someone or something
+> 🇻🇳 **Vietnamese:** Đánh giá cao, trân trọng, biết ơn, cảm kích, quý trọng
+> 🗣️ **IPA:** */əˈpriːʃieɪt/*
+> 🧠 **Mental Model:** 'Appreciate' = 'ap' (tại) + 'preciate' (giá trị) - nhận ra giá trị của cái gì đó
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "To recognize the full worth of something; to understand and enjoy the positive qualities of someone or something"
+**Vietnamese:** Đánh giá cao
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**appreciate** (*/əˈpriːʃieɪt/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **appreciate** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The teacher deeply appreciated the student's thoughtful questions during the lecture.
+> 🇻🇳 **Translation:** Giáo viên đã đánh giá cao sâu những câu hỏi chu đáo của sinh viên trong bài giảng.
+> 🔍 **Analysis:** "appreciate" hoàn hảo ở đây vì nó thể hiện sự nhận ra giá trị sâu sắc và trân trọng (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **appreciate**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Intensity:** deeply appreciate (đánh giá cao sâu)
+> 2. **Sincerity:** truly appreciate (thực sự biết ơn)
+> 3. **Opportunity:** appreciate the opportunity (biết ơn cơ hội)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **appreciate**:
+"She liked the gift."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "She genuinely appreciated the thoughtful gesture, recognizing how much effort and consideration had gone into selecting something perfectly suited to her needs."
+> 💡 **Why it works:** "appreciate" tạo ra sự cụ thể hóa với "genuinely" và nhấn mạnh sự nhận ra giá trị sâu sắc (e.g., nuances, imagery)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **appreciate** instead of **[[like]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **appreciate:** Cụ thể là nhận ra giá trị sâu sắc, có sự thấu hiểu
+> - **[[like]]:** Bao gồm sự thích ở mức độ bề mặt
+> 🧱 **The Barrier:** Appreciate luôn có yếu tố "giá trị sâu sắc" và "sự thấu hiểu", trong khi like chỉ là sự thích bề mặt (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're receiving an award. You need to express gratitude. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "I sincerely appreciate this honor and want to thank everyone who supported me throughout this journey."
+> 👨‍🎨 **Director's Note:** "appreciate" tạo cảm giác chân thành, có tính trang trọng và thể hiện sự biết ơn sâu sắc (VN)
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the root `appretiare` to the meaning of **appreciate**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "appretiare" (đặt giá trị) + "apprecius" (có giá trị). Appreciate nghĩa đen là "nhận ra giá trị" - thể hiện sự đánh giá cao và trân trọng những gì có giá trị (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **appreciate**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `appretiare` (to set a price/value)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(verb)* appreciate (đánh giá cao)
+> - *(verb)* appreciates (đánh giá cao - ngôi thứ 3)
+> - *(verb)* appreciating (việc đánh giá cao)
+> - *(adj)* appreciative (biểu hiện sự đánh giá cao)
+> - *(adj)* appreciated (được đánh giá cao)
+> - *(noun)* appreciation (sự đánh giá cao)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */əˈpriːʃieɪt/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**appreciate** 
+> 📖 **Meaning:** To recognize the full worth of something; to understand and enjoy the positive qualities of someone or something
+> 🇻🇳 **Vietnamese:** Đánh giá cao, trân trọng
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Using "appreciate" for simple liking
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Appreciate" involves recognizing deeper value or worth
+> 🧠 **Why:** The word implies understanding worth, not just surface-level preference (VN/EN mix)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **appreciate**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[depreciate]] (kém giá trị)
+> - [[disregard]] (coi thường)
+> - [[take for granted]] (coi như điều hiển nhiên)
+> 🧱 **Contrast:** Appreciate tập trung vào nhận ra giá trị, trong khi depreciate/disregard/take for granted tập trung vào không đánh giá hoặc coi thường (VN/EN mix)
 
 ---

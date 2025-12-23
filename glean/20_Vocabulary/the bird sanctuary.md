@@ -1,159 +1,81 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
 #flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [sanctuary, bird sanctuary, wildlife sanctuary, nature reserve, conservation area, protected habitat]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ðə bɜːd ˈsæŋktʃʊəri/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2
+> **Register:** formal/academic
+> **Etymology:** From Latin "sanctuarium" (holy place) + Old English "brid" (bird)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** A protected area for birds
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** A place where birds are protected and can live safely, often for conservation purposes
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** khu bảo tồn chim
+> - **Contextual:** khu bảo hộ chim, nơi trú ẩn của chim, vùng đất bảo vệ chim
 > 
 > **Nuances:**
-> - ...
+> - Implies active conservation efforts
+> - Often involves research and education
+> - Can be natural or human-created
+> - Focuses on protection rather than exhibition
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Memory Hook:** "Sanctuary = 'sanctus' (holy) + '-ary' (place) - a holy place for birds"
+> **📖 Etymology Story:** From Latin "sanctuarium" (holy place) + Old English "brid" (bird), representing a sacred space where birds find refuge from human interference and environmental threats
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[sanctuary]] /ˈsæŋktʃʊəri/ (the protected place)
+> - **Noun:** [[conservation]] /ˌkɒnsəˈveɪʃən/ (protection of nature)
+> - **Noun:** [[habitat]] /ˈhæbɪtæt/ (natural home)
+> - **Adj:** [[protected]] /prəˈtektɪd/ (kept safe)
+> - **Noun:** [[wildlife]] /ˈwaɪldlaɪf/ (animals and plants)
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[nature reserve]] /ˈneɪtʃə rɪˈzɜːv/ : protected natural area
+> - [[conservation area]] /ˌkɒnsəˈveɪʃən ˈeəriə/ : protected for preservation
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[hunting ground]] /ˈhʌntɪŋ ɡraʊnd/ : place for hunting
+> - [[captivity]] /kæpˈtɪvəti/ : confined state
+> - [[habitat destruction]] /ˈhæbɪtæt dɪˈstrʌkʃən/ : environmental damage
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. establish a bird sanctuary
+> 2. protected bird sanctuary
+> 3. visit the bird sanctuary
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The local government established a bird sanctuary along the coastline to protect migratory species.
+> - **Translation:** Chính quyền địa phương đã thành lập một khu bảo tồn chim dọc theo đường bờ biển để bảo vệ các loài chim di trú.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Bird watchers from around the world visit the sanctuary to observe rare species in their natural habitat.
+> - **Translation:** Các nhà quan sát chim từ khắp nơi trên thế giới đến thăm khu bảo tồn để quan sát các loài chim hiếm trong môi trường sống tự nhiên của chúng.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Using "bird sanctuary" for any place with birds
+> - ✅ **Correction:** "Bird sanctuary" specifically refers to protected conservation areas
+> - **Why:** The term implies legal protection and conservation purpose, not just presence of birds
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "A bird sanctuary represents our commitment to preserving the delicate balance of nature for future generations."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +83,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **the bird sanctuary** (*/ðə bɜːd ˈsæŋktʃʊəri/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A place where birds are protected and can live safely, often for conservation purposes
+> 🇻🇳 **Vietnamese:** Khu bảo tồn chim, khu bảo hộ chim, nơi trú ẩn của chim, vùng đất bảo vệ chim
+> 🗣️ **IPA:** */ðə bɜːd ˈsæŋktʃʊəri/*
+> 🧠 **Mental Model:** 'Sanctuary' = 'sanctus' (thánh) + '-ary' (nơi) - nơi linh thiêng cho chim được bảo vệ
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A place where birds are protected and can live safely, often for conservation purposes"
+**Vietnamese:** Khu bảo tồn chim
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**the bird sanctuary** (*/ðə bɜːd ˈsæŋktʃʊəri/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **the bird sanctuary** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The local government established a bird sanctuary along the coastline to protect migratory species.
+> 🇻🇳 **Translation:** Chính quyền địa phương đã thành lập một khu bảo tồn chim dọc theo đường bờ biển để bảo vệ các loài chim di trú.
+> 🔍 **Analysis:** "the bird sanctuary" hoàn hảo ở đây vì nó thể hiện sự bảo vệ có chủ đích và khu vực được pháp luật bảo vệ (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **the bird sanctuary**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Creation:** establish a bird sanctuary (thành lập khu bảo tồn chim)
+> 2. **Quality:** protected bird sanctuary (khu bảo tồn chim được bảo vệ)
+> 3. **Activity:** visit the bird sanctuary (tham quan khu bảo tồn chim)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **the bird sanctuary**:
+"They protected the birds."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The conservation team worked tirelessly to establish the bird sanctuary, creating a protected habitat where endangered species could thrive without human interference."
+> 💡 **Why it works:** "the bird sanctuary" tạo ra sự cụ thể hóa với "conservation team" và nhấn mạnh tính bảo tồn và có hệ thống của việc bảo vệ chim (e.g., nuances, imagery)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **the bird sanctuary** instead of **[[zoo]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **the bird sanctuary:** Cụ thể là khu vực bảo tồn tự nhiên, chim sống trong môi trường tự nhiên
+> - **[[zoo]]:** Bao gồm nơi nuôi nhốt động vật để trưng bày, không nhất thiết là bảo tồn
+> 🧱 **The Barrier:** Bird sanctuary luôn có yếu tố "bảo tồn" và "môi trường tự nhiên", trong khi zoo tập trung vào trưng bày (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're an environmentalist explaining conservation efforts to students. You need to describe the protected area. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "The bird sanctuary we've created serves as a vital refuge where migratory birds can rest, feed, and breed safely during their long journeys."
+> 👨‍🎨 **Director's Note:** "the bird sanctuary" tạo cảm giác chuyên nghiệp, có tính bảo tồn và thể hiện sự quan tâm đến môi trường (VN)
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `sanctuary` and `bird` to the meaning of **the bird sanctuary**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "sanctuarium" (nơi thiêng liêng) + Old English "brid" (chim). The bird sanctuary nghĩa đen là "nơi thiêng liêng cho chim" - thể hiện sự tôn trọng và bảo vệ chim như một giá trị linh thiêng (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **the bird sanctuary**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `sanctuarium` (holy place) + Old English `brid` (bird)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(noun)* sanctuary (nơi trú ẩn)
+> - *(noun)* conservation (sự bảo tồn)
+> - *(adj)* protected (được bảo vệ)
+> - *(noun)* wildlife (động vật hoang dã)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ðə bɜːd ˈsæŋktʃʊəri/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**the bird sanctuary** 
+> 📖 **Meaning:** A place where birds are protected and can live safely, often for conservation purposes
+> 🇻🇳 **Vietnamese:** Khu bảo tồn chim, khu bảo hộ chim
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Using "bird sanctuary" for any place with birds
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Bird sanctuary" specifically refers to protected conservation areas
+> 🧠 **Why:** The term implies legal protection and conservation purpose, not just presence of birds (VN/EN mix)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **the bird sanctuary**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[hunting ground]] (khu săn bắn)
+> - [[captivity]] (sự giam cầm)
+> - [[habitat destruction]] (sự phá hủy môi trường sống)
+> 🧱 **Contrast:** Bird sanctuary tập trung vào bảo vệ, trong khi hunting ground/captivity/habitat destruction chỉ sự khai thác hoặc phá hoại (VN/EN mix)
 
 ---

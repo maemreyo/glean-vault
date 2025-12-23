@@ -1,159 +1,80 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
 #flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [counterproductivity, unproductive, inefficiency]
+status: done
 ref:
   - [[Cam 20 Listening Test 04]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ˌkaʊntərprəˈdʌktɪv/
+> **Part of Speech:** adjective
+> **CEFR Level:** C1
+> **Register:** formal/business
+> **Etymology:** From Latin "contra" (against) + "productivus" (productive)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
+> **Root Meaning:** Working against production
 > 
-> **Context Meaning:** ...
+> **Context Meaning:** Having the opposite effect of what is intended; preventing progress or success
 > 
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
+> - **Direct:** phản tác dụng
+> - **Contextual:** gây cản trở, không hiệu quả, đi ngược với mục tiêu
 > 
 > **Nuances:**
-> - ...
+> - Often describes policies or actions that unintentionally hinder goals
+> - Can apply to behaviors, methods, or systems
+> - Implies good intentions with bad outcomes
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Inefficient, Obstructive, Counterintuitive
+> **Memory Hook:** "Counter = against + productive = working against your goals"
+> **📖 Etymology Story:** From Latin "contra" (against) + "productivus" (productive), literally "working against productivity" - actions that seem helpful but actually hinder progress
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
+> - **Noun:** [[counterproductivity]] /ˌkaʊntəprəˈdʌktɪvəti/ (the quality)
+> - **Adj:** [[counterproductive]] /ˌkaʊntərprəˈdʌktɪv/ (hindering progress)
+> - **Adv:** [[counterproductively]] /ˌkaʊntərprəˈdʌktɪvli/ (in a way that hinders)
+> - **Noun:** [[productivity]] /ˌprɒdʌkˈtɪvəti/ (the opposite)
 > 
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[inefficient]] /ɪnˈfɪʃənt/ : not achieving maximum productivity
+> - [[hindering]] /ˈhɪndərɪŋ/ : obstructing progress
 > 
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[productive]] /prəˈdʌktɪv/ : achieving desired results
+> - [[effective]] /ɪˈfektɪv/ : producing intended outcomes
+> - [[helpful]] /ˈhelpfəl/ : providing assistance
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
+> 1. counterproductive measures
+> 2. counterproductive behavior
+> 3. ultimately counterproductive
 > 
 > **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** The new policy proved counterproductive, actually reducing team efficiency by 30%.
+> - **Translation:** Chính sách mới tỏ ra phản tác dụng, thực sự giảm hiệu suất của nhóm xuống 30%.
 > 
 > **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> - **Sentence:** Micromanaging employees is often counterproductive to innovation and creativity.
+> - **Translation:** Quản lý vi mô nhân viên thường phản tác dụng đối với sự đổi mới và sáng tạo.
 
 > [!failure] Common Mistakes
 > **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> - ❌ **Mistake:** Using "counterproductive" to mean simply "unproductive"
+> - ✅ **Correction:** "Counterproductive" specifically means working against intended goals
+> - **Why:** The "counter-" prefix implies opposition to progress, not just lack of progress
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "Sometimes the most well-intentioned actions can be completely counterproductive to our actual objectives."
+> **Source:** [[Cam 20 Listening Test 04]]
 
 ---
 
@@ -161,120 +82,123 @@ ref:
 
 ### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+What does **counterproductive** (*/ˌkaʊntərprəˈdʌktɪv/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Having the opposite effect of what is intended; preventing progress or success
+> 🇻🇳 **Vietnamese:** Phản tác dụng, gây cản trở, đi ngược với mục tiêu
+> 🗣️ **IPA:** */ˌkaʊntərprəˈdʌktɪv/*
+> 🧠 **Mental Model:** Hành động có vẻ tốt nhưng thực chất đi ngược lại mục tiêu - "helping that hurts"
 
 ---
 
 ### Card 2: Production (Reverse) [Phase 2: Activation]
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Having the opposite effect of what is intended; preventing progress or success"
+**Vietnamese:** Phản tác dụng
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**counterproductive** (*/ˌkaʊntərprəˈdʌktɪv/*)
 
 ---
 
 ### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
 
-Use **{{WORD}}** in a sentence.
+Use **counterproductive** in a sentence.
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+> 📝 **Sentence:** The new policy proved counterproductive, actually reducing team efficiency by 30%.
+> 🇻🇳 **Translation:** Chính sách mới tỏ ra phản tác dụng, thực sự giảm hiệu suất của nhóm xuống 30%.
+> 🔍 **Analysis:** "counterproductive" hoàn hảo ở đây vì nó nhấn mạnh sự đối lập giữa mục tiêu ban đầu (tăng hiệu suất) và kết quả thực tế (giảm hiệu suất) (VN/EN mix)
 
 ---
 
 ### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
 
-List 3 common collocations for **{{WORD}}**.
+List 3 common collocations for **counterproductive**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Policy Level:** counterproductive measures (biện pháp phản tác dụng)
+> 2. **Behavioral:** counterproductive behavior (hành vi phản tác dụng)
+> 3. **Outcome:** ultimately counterproductive (cuối cùng lại phản tác dụng)
 
 ---
 
 ### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+🚀 **Upgrade:** Make this boring sentence specific using **counterproductive**:
+"The new rules made it harder for people to work."
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> 🖋️ **Advanced:** "The implemented regulations were profoundly counterproductive, creating bureaucratic obstacles that stifled innovation and reduced overall productivity."
+> 💡 **Why it works:** "counterproductive" tạo ra sự cụ thể hóa với "profoundly" và nhấn mạnh tác động tiêu cực của các quy tắc (e.g., nuances, imagery)
 
 ---
 
 ### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🆚 **Nuance:** Why use **counterproductive** instead of **[[inefficient]]**?
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> **counterproductive:** Cụ thể là hành động đi ngược lại mục tiêu đã định
+> - **[[inefficient]]:** Chỉ là không đạt hiệu suất tối đa, không nhất thiết đi ngược mục tiêu
+> 🧱 **The Barrier:** Counterproductive luôn có yếu tố "đối lập" với mục đích, inefficient chỉ đơn thuần là không hiệu quả (VN/EN mix)
 
 ---
 
 ### Card 7: Scenario Reaction [Phase 4: Mastery]
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+🎭 **Scenario:** You're in a business meeting discussing why a project failed. You need to explain the problem. Say it!
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🎬 **Line:** "Despite our best intentions, the constant changes in direction were counterproductive to achieving our quarterly goals."
+> 👨‍🎨 **Director's Note:** "counterproductive" tạo cảm giác phân tích chuyên nghiệp, tập trung vào việc phân tích nguyên nhân thay vì chỉ đổ lỗi (VN)
 
 ---
 
 ### Card 8: Etymology Story [Phase 4: Mastery]
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🌱 **Origins:** Link the roots `contra` and `productivus` to the meaning of **counterproductive**.
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 📜 **Story:** Từ Latin "contra" (chống lại) + "productivus" (sản xuất). Counterproductive nghĩa đen là "chống lại sự sản xuất" - những hành động có vẻ giúp đỡ nhưng thực chất cản trở việc tạo ra kết quả (VN/EN mix)
 
 ---
 
 ### Card 9: Word Family & Roots [Phase 5: Addition]
 
-Analyze the root/family of **{{WORD}}**.
+Analyze the root/family of **counterproductive**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 🌱 **Root:** Latin `contra` (against) + `productivus` (productive)
 > 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> - *(adj)* productive (hiệu quả, có năng suất)
+> - *(adj)* productive (hiệu quả, có năng suất)
+> - *(noun)* productivity (năng suất, hiệu suất)
+> - *(adv)* productively (một cách hiệu quả)
 
 ---
 
 ### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
 
-> 🔊 */<ipa>/*
+> 🔊 */ˌkaʊntərprəˈdʌktɪv/*
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+**counterproductive** 
+> 📖 **Meaning:** Having the opposite effect of what is intended; preventing progress or success
+> 🇻🇳 **Vietnamese:** Phản tác dụng, gây cản trở
 
 ---
 
 ### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
+🕵️ **Fix the Error:** Using "counterproductive" to mean "bad"
 ?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+> ✅ **Correction:** "Counterproductive" specifically means working against intended goals, not just poor quality
+> 🧠 **Why:** The "counter-" prefix implies opposition to progress, not general negativity (VN/EN mix)
 
 ---
 
 ### Card 12: Antonym Flip [Phase 3: Differentiation]
 
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **counterproductive**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[productive]] (hiệu quả, đạt mục tiêu)
+> - [[effective]] (hiệu quả, tạo ra kết quả mong muốn)
+> - [[helpful]] (giúp đỡ, có ích)
+> 🧱 **Contrast:** Counterproductive tạo ra kết quả ngược lại mục tiêu, trong khi productive/helpful hỗ trợ đạt được mục tiêu đó (VN/EN mix)
 
 ---
