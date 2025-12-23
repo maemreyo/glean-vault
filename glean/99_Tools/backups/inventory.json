@@ -1,5 +1,18 @@
 [
   {
+    "id": "20251223_143119_ecff49",
+    "timestamp": "20251223_143119",
+    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 04.md",
+    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_143119_ecff49_Cam 20 Listening Test 04.md",
+    "changes_count": 4,
+    "changes_sample": [
+      "'spatial awareness' -> '[[20_Vocabulary/spatial awareness|spatial awareness]]'",
+      "'spatial awareness' -> '[[20_Vocabulary/spatial awareness|spatial awareness]]'",
+      "'spatial awareness' -> '[[20_Vocabulary/spatial awareness|spatial awareness]]'",
+      "'spatial awareness' -> '[[20_Vocabulary/spatial awareness|spatial awareness]]'"
+    ]
+  },
+  {
     "id": "20251223_142708_1b8b0f",
     "timestamp": "20251223_142708",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/The giant heat pumps designed to warm whole districts.md",
@@ -11,20 +24,6 @@
       "'created' -> '[[20_Vocabulary/coined|created]]'",
       "'huge' -> '[[20_Vocabulary/enormous|huge]]'",
       "'pumps' -> '[[20_Vocabulary/high-heeled shoes|pumps]]'"
-    ]
-  },
-  {
-    "id": "20251223_142708_ecff49",
-    "timestamp": "20251223_142708",
-    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 04.md",
-    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_142708_ecff49_Cam 20 Listening Test 04.md",
-    "changes_count": 58,
-    "changes_sample": [
-      "'letters' -> '[[20_Vocabulary/letters|letters]]'",
-      "'letters' -> '[[20_Vocabulary/letters|letters]]'",
-      "'agreement' -> '[[20_Vocabulary/agreement|agreement]]'",
-      "'letters' -> '[[20_Vocabulary/letters|letters]]'",
-      "'imagination' -> '[[20_Vocabulary/imagination|imagination]]'"
     ]
   },
   {
@@ -7549,14 +7548,6 @@
     "tool": "clean_quotes"
   },
   {
-    "id": "20251223_124247_06de21",
-    "timestamp": "20251223_124247",
-    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 04.md",
-    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_124247_06de21_Cam 20 Listening Test 04.md",
-    "changes_count": 4,
-    "tool": "clean_quotes"
-  },
-  {
     "id": "20251223_124304_0105dc",
     "timestamp": "20251223_124304",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 03.md",
@@ -7653,14 +7644,6 @@
     "tool": "clean_quotes"
   },
   {
-    "id": "20251223_124304_05fd49",
-    "timestamp": "20251223_124304",
-    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 04.md",
-    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_124304_05fd49_Cam 20 Listening Test 04.md",
-    "changes_count": 4,
-    "tool": "clean_quotes"
-  },
-  {
     "id": "20251223_142703_0d3a06",
     "timestamp": "20251223_142703",
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 03.md",
@@ -7754,14 +7737,6 @@
     "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 01.md",
     "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_142703_0c8298_Cam 20 Listening Test 01.md",
     "changes_count": 112,
-    "tool": "clean_quotes"
-  },
-  {
-    "id": "20251223_142703_0b660b",
-    "timestamp": "20251223_142703",
-    "original_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/10_Sources/Articles/Cam 20 Listening Test 04.md",
-    "backup_path": "/Users/trung.ngo/Documents/zaob-dev/glean-vault/glean/99_Tools/backups/20251223_142703_0b660b_Cam 20 Listening Test 04.md",
-    "changes_count": 4,
     "tool": "clean_quotes"
   }
 ]
