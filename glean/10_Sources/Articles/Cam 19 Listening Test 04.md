@@ -33,7 +33,7 @@ Exam preparation [[20_Vocabulary/material|materials]]
 
 **Questions 11 [[20_Vocabulary/In addition|and]] 12**
 
-*Choose **TWO** letters, **A–E**.*
+*Choose **TWO** [[20_Vocabulary/letters|letters]], **A–E**.*
 
 Which **TWO** problems with some [[20_Vocabulary/trainer|training]] programmes for new runners does Liz [[20_Vocabulary/talk about|mention]]?
 
@@ -49,7 +49,7 @@ Which **TWO** problems with some [[20_Vocabulary/trainer|training]] programmes f
 
 **Questions 13 [[20_Vocabulary/In addition|and]] 14**
 
-*Choose **TWO** letters, **A–E**.*
+*Choose **TWO** [[20_Vocabulary/letters|letters]], **A–E**.*
 
 Which **TWO** tips does Liz [[20_Vocabulary/propose|recommend]] for new runners?
 
@@ -517,7 +517,7 @@ A good [[20_Vocabulary/For instance|example]] of where the right trees were pick
 
 Reforestation projects [[20_Vocabulary/in case of|should]] always [[20_Vocabulary/objective|aim]] to make [[20_Vocabulary/inevitable|sure]] that [[20_Vocabulary/resident|local]] communities are [[20_Vocabulary/consult|consulted]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/involve|involved]] in [[20_Vocabulary/the decision-making process|the decision-making process]].
 
-The restoration of [[20_Vocabulary/mangrove forest|mangrove]] forests in Madagascar is an [[20_Vocabulary/For instance|example]] of a [[20_Vocabulary/scheme|project]] which has succeeded in [[20_Vocabulary/invent|creating]] real benefits for the community. [[20_Vocabulary/ruin|Destruction]] of the [[20_Vocabulary/mangrove forest|mangrove]] forests had a [[20_Vocabulary/awful|terrible]] [[20_Vocabulary/impact|impact on]] plant [[20_Vocabulary/In addition|and]] animal [[20_Vocabulary/existence|life]], [[20_Vocabulary/In addition|and also]] badly affected the fishing [[20_Vocabulary/industrial function|industry]], which was a major source of employment for [[20_Vocabulary/resident|local]] people living in coastal areas. ***Q39***. The [[20_Vocabulary/Large-scale reforestation projects|reforestation project]] [[20_Vocabulary/involve|involved]] hiring [[20_Vocabulary/resident|local]] people to plant [[20_Vocabulary/In addition|and]] [[20_Vocabulary/caring|care]] for the new [[20_Vocabulary/mangrove forest|mangrove]] trees. Millions of [[20_Vocabulary/mangrove forest|mangrove]] trees have now been planted which has [[20_Vocabulary/resulted in|resulted in]] the return of a healthy aquatic ecosystem. The [[20_Vocabulary/mangrove forest|mangroves]] [[20_Vocabulary/What's more|also]] [[20_Vocabulary/legislation|act]] as a defence against the increased threat of flooding caused by [[20_Vocabulary/carbon emission|climate change]]. [[20_Vocabulary/What's more|What's more]], the [[20_Vocabulary/resident|local]] [[20_Vocabulary/span economic|economy]] is more [[20_Vocabulary/steadily|stable]] [[20_Vocabulary/In addition|and]] thousands more Madagascans are now [[20_Vocabulary/capable|able]] to send their children to school. ***Q40***
+The restoration of [[20_Vocabulary/mangrove forest|mangrove]] forests in Madagascar is an [[20_Vocabulary/For instance|example]] of a [[20_Vocabulary/scheme|project]] which has succeeded in [[20_Vocabulary/invent|creating]] real benefits for the community. [[20_Vocabulary/ruin|Destruction]] of the [[20_Vocabulary/mangrove forest|mangrove]] forests had a [[20_Vocabulary/terrible|terrible]] [[20_Vocabulary/impact|impact on]] plant [[20_Vocabulary/In addition|and]] animal [[20_Vocabulary/existence|life]], [[20_Vocabulary/In addition|and also]] badly affected the fishing [[20_Vocabulary/industrial function|industry]], which was a major source of employment for [[20_Vocabulary/resident|local]] people living in coastal areas. ***Q39***. The [[20_Vocabulary/Large-scale reforestation projects|reforestation project]] [[20_Vocabulary/involve|involved]] hiring [[20_Vocabulary/resident|local]] people to plant [[20_Vocabulary/In addition|and]] [[20_Vocabulary/caring|care]] for the new [[20_Vocabulary/mangrove forest|mangrove]] trees. Millions of [[20_Vocabulary/mangrove forest|mangrove]] trees have now been planted which has [[20_Vocabulary/resulted in|resulted in]] the return of a healthy aquatic ecosystem. The [[20_Vocabulary/mangrove forest|mangroves]] [[20_Vocabulary/What's more|also]] [[20_Vocabulary/legislation|act]] as a defence against the increased threat of flooding caused by [[20_Vocabulary/carbon emission|climate change]]. [[20_Vocabulary/What's more|What's more]], the [[20_Vocabulary/resident|local]] [[20_Vocabulary/span economic|economy]] is more [[20_Vocabulary/steadily|stable]] [[20_Vocabulary/In addition|and]] thousands more Madagascans are now [[20_Vocabulary/capable|able]] to send their children to school. ***Q40***
 
 One other [[20_Vocabulary/meaningful|important]] point to [[20_Vocabulary/bear in mind|consider]] …
 

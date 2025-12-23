@@ -68,7 +68,7 @@
 
 **Questions 17 [[20_Vocabulary/In addition|and]] 18**
 
-*Choose **TWO** letters, **A-E**.*
+*Choose **TWO** [[20_Vocabulary/letters|letters]], **A-E**.*
 
 Which **TWO** things does Heather explain [[20_Vocabulary/approximately|about]] [[20_Vocabulary/a kiln|kilns]]?
 
@@ -84,7 +84,7 @@ Which **TWO** things does Heather explain [[20_Vocabulary/approximately|about]] 
 
 **Questions 19 [[20_Vocabulary/In addition|and]] 20**
 
-*Choose **TWO** letters, **A-E**.*
+*Choose **TWO** [[20_Vocabulary/letters|letters]], **A-E**.*
 
 Which **TWO** points does Heather make [[20_Vocabulary/approximately|about]] a [[20_Vocabulary/pottery|potter]]'s [[20_Vocabulary/equipment|tools]]?
 
@@ -102,13 +102,13 @@ Which **TWO** points does Heather make [[20_Vocabulary/approximately|about]] a [
 
 **Questions 21 [[20_Vocabulary/In addition|and]] 22**
 
-*Choose **TWO** letters, **A–E**.*
+*Choose **TWO** [[20_Vocabulary/letters|letters]], **A–E**.*
 
 Which **TWO** things do the students both [[20_Vocabulary/suppose|believe]] are [[20_Vocabulary/responsible for|responsible for]] the [[20_Vocabulary/build up|increase]] in [[20_Vocabulary/loneliness|loneliness]]?
 
 **Questions 23 [[20_Vocabulary/In addition|and]] 24**
 
-*Choose **TWO** letters, **A–E**.*
+*Choose **TWO** [[20_Vocabulary/letters|letters]], **A–E**.*
 
 Which **TWO** [[20_Vocabulary/health risk|health risks]] [[20_Vocabulary/belong to|associated with]] [[20_Vocabulary/loneliness|loneliness]] do the students agree are based on [[20_Vocabulary/solid evidence|solid evidence]]?
 
@@ -124,7 +124,7 @@ Which **TWO** [[20_Vocabulary/health risk|health risks]] [[20_Vocabulary/belong 
 
 **Questions 25 [[20_Vocabulary/In addition|and]] 26**
 
-*Choose **TWO** letters, **A–E**.*
+*Choose **TWO** [[20_Vocabulary/letters|letters]], **A–E**.*
 
 Which **TWO** opinions do both the students express [[20_Vocabulary/approximately|about]] the [[20_Vocabulary/evolutionary theory|evolutionary theory]] of [[20_Vocabulary/loneliness|loneliness]]?
 
@@ -299,7 +299,7 @@ Exam preparation guides
 
 [[20_Vocabulary/thereby|So]] now we're in the [[20_Vocabulary/workshop|workshop]]. [[20_Vocabulary/Have a look around|Have a look around]]. There's a lot going on. To make [[20_Vocabulary/pottery|pottery]] that [[20_Vocabulary/will|will]] [[20_Vocabulary/lasts|last]], you need a [[20_Vocabulary/pottery|potter's wheel]], [[20_Vocabulary/a kiln|a kiln]], which is [[20_Vocabulary/Basically|basically]] a very hot oven where you fire the [[20_Vocabulary/pottery|pottery]], [[20_Vocabulary/In addition|and]] some [[20_Vocabulary/equipment|tools]]. [[20_Vocabulary/thereby|So]], first, the kiln. [[20_Vocabulary/suppose|If]] you [[20_Vocabulary/look over|look over]] in the far corner, you'll see one of ours. Since their [[20_Vocabulary/invent|invention]], [[20_Vocabulary/a kiln|kilns]] have [[20_Vocabulary/the dramatic change|changed]] very [[20_Vocabulary/tiny|little]], [[20_Vocabulary/whilst|though]] [[20_Vocabulary/no longer|in the past]] 20 years a lot of [[20_Vocabulary/making progress|progress]] has been made in temperature [[20_Vocabulary/manipulate|control]]. [[20_Vocabulary/Basically|Basically]], [[20_Vocabulary/a kiln|a kiln]] removes the water from [[20_Vocabulary/clay|clay]] at temperatures of [[20_Vocabulary/approximately|around]] 1000 degrees Celsius. This allows anything you've made to [[20_Vocabulary/gel|set]] [[20_Vocabulary/permanently|permanently]] [[20_Vocabulary/in shape|in shape]]. It's a pretty ugly heavy object that's hard to [[20_Vocabulary/castle|keep]] in a [[20_Vocabulary/accommodate|house]] or flat, [[20_Vocabulary/thereby|so]] most people don't have one.
 
-You may [[20_Vocabulary/suppose|think]], can't I use my oven? Well, that's [[20_Vocabulary/a possibility|possible]], [[20_Vocabulary/However|but]] [[20_Vocabulary/domestic oven|domestic ovens]] don't [[20_Vocabulary/actually|really]] [[20_Vocabulary/obtain|get]] hot enough [[20_Vocabulary/In addition|and]] [[20_Vocabulary/eventually|eventually]] the [[20_Vocabulary/clay|clay]] [[20_Vocabulary/will|will]] crack [[20_Vocabulary/In addition|and]] [[20_Vocabulary/fall apart|fall apart]]. Some people fire [[20_Vocabulary/pottery|pottery]] in a fire [[20_Vocabulary/two rows of post holes|pit]] [[20_Vocabulary/beyond|outside]] [[20_Vocabulary/However|but]] [[20_Vocabulary/bear in mind|bear in mind]]… that can be dangerous. You [[20_Vocabulary/What's more|also]] need to know [[20_Vocabulary/approximately|about]] safety [[20_Vocabulary/safety procedure|procedures]] for [[20_Vocabulary/a kiln|kilns]] as they release [[20_Vocabulary/toxic|toxic]] compounds into the air. Every [[20_Vocabulary/pottery|potter]] needs a [[20_Vocabulary/pottery|potter's wheel]]. This machine is [[20_Vocabulary/second-hand|used]] to [[20_Vocabulary/curve|shape]] the [[20_Vocabulary/clay|clay]] into an object with [[20_Vocabulary/circular wall|circular walls]] or sides, [[20_Vocabulary/For instance|such as]] [[20_Vocabulary/a bowl|a bowl]]. Its [[20_Vocabulary/invent|invention]] revolutionised the [[20_Vocabulary/pottery|pottery]] [[20_Vocabulary/industrial function|industry]], allowing multiple [[20_Vocabulary/agenda|items]] to be produced in a day. [[20_Vocabulary/Lastly|Lastly]], there are a number of [[20_Vocabulary/otherwise|different]] [[20_Vocabulary/equipment|tools]] that potters use, [[20_Vocabulary/depends on|depending on]] what they want to make. [[20_Vocabulary/in case of|When]] you start, your hands can make all kinds of shapes [[20_Vocabulary/In addition|and]] curves [[20_Vocabulary/absence|without]] [[20_Vocabulary/rely on|relying on]] [[20_Vocabulary/a sculpting tool|a sculpting tool]]. [[20_Vocabulary/However|However]], there are some [[20_Vocabulary/Basically|basic]] [[20_Vocabulary/equipment|tools]] that you [[20_Vocabulary/will|will]] need to [[20_Vocabulary/dealing|handle]] the [[20_Vocabulary/clay|clay]] on the wheel. Some [[20_Vocabulary/appearance|look]] very strange [[20_Vocabulary/In addition|and]] have [[20_Vocabulary/steadily|even]] odder names that you may find hard to [[20_Vocabulary/bear in mind|remember]]. [[20_Vocabulary/slightly|Rather]] than [[20_Vocabulary/go through|go through]] them all now, I'll [[20_Vocabulary/merely|just]] name a few [[20_Vocabulary/equipment|tools]] as we go along. We can provide these [[20_Vocabulary/In addition|and]] I wouldn't [[20_Vocabulary/propose|recommend]] spending money on them yet. [[20_Vocabulary/thereby|So]], let's [[20_Vocabulary/attempt|try]] making a pot of your own. [[20_Vocabulary/suppose|If]] you sit down…
+You may [[20_Vocabulary/suppose|think]], can't I use my oven? Well, that's [[20_Vocabulary/a possibility|possible]], [[20_Vocabulary/However|but]] [[20_Vocabulary/domestic oven|domestic ovens]] don't [[20_Vocabulary/actually|really]] [[20_Vocabulary/obtain|get]] hot enough [[20_Vocabulary/In addition|and]] [[20_Vocabulary/eventually|eventually]] the [[20_Vocabulary/clay|clay]] [[20_Vocabulary/will|will]] crack [[20_Vocabulary/In addition|and]] [[20_Vocabulary/fall apart|fall apart]]. Some people fire [[20_Vocabulary/pottery|pottery]] in a fire [[20_Vocabulary/two rows of post holes|pit]] [[20_Vocabulary/beyond|outside]] [[20_Vocabulary/However|but]] [[20_Vocabulary/bear in mind|bear in mind]]… that can be dangerous. You [[20_Vocabulary/What's more|also]] need to know [[20_Vocabulary/approximately|about]] safety [[20_Vocabulary/safety procedure|procedures]] for [[20_Vocabulary/a kiln|kilns]] as they release [[20_Vocabulary/toxic|toxic]] compounds into the air. Every [[20_Vocabulary/pottery|potter]] needs a [[20_Vocabulary/pottery|potter's wheel]]. This machine is [[20_Vocabulary/second-hand|used]] to [[20_Vocabulary/curve|shape]] the [[20_Vocabulary/clay|clay]] into an object with [[20_Vocabulary/circular wall|circular walls]] or sides, [[20_Vocabulary/For instance|such as]] [[20_Vocabulary/a bowl|a bowl]]. Its [[20_Vocabulary/invent|invention]] revolutionised the [[20_Vocabulary/pottery|pottery]] [[20_Vocabulary/industrial function|industry]], allowing multiple [[20_Vocabulary/agenda|items]] to be produced in a day. [[20_Vocabulary/Lastly|Lastly]], there are a number of [[20_Vocabulary/otherwise|different]] [[20_Vocabulary/equipment|tools]] that potters use, [[20_Vocabulary/depends on|depending on]] what they want to make. [[20_Vocabulary/in case of|When]] you start, your hands can make all kinds of shapes [[20_Vocabulary/In addition|and]] curves [[20_Vocabulary/absence|without]] [[20_Vocabulary/rely on|relying on]] [[20_Vocabulary/a sculpting tool|a sculpting tool]]. [[20_Vocabulary/However|However]], there are some [[20_Vocabulary/Basically|basic]] [[20_Vocabulary/equipment|tools]] that you [[20_Vocabulary/will|will]] need to [[20_Vocabulary/dealing|handle]] the [[20_Vocabulary/clay|clay]] on the wheel. Some [[20_Vocabulary/appearance|look]] very strange [[20_Vocabulary/In addition|and]] have [[20_Vocabulary/steadily|even]] odder names that you may find hard to [[20_Vocabulary/bear in mind|remember]]. [[20_Vocabulary/slightly|Rather]] than [[20_Vocabulary/go through|go through]] them all now, I'll [[20_Vocabulary/merely|just]] name a few [[20_Vocabulary/equipment|tools]] as we go along. We can provide these [[20_Vocabulary/In addition|and]] I wouldn't [[20_Vocabulary/propose|recommend]] spending money on them [[20_Vocabulary/yet|yet]]. [[20_Vocabulary/thereby|So]], let's [[20_Vocabulary/attempt|try]] making a pot of your own. [[20_Vocabulary/suppose|If]] you sit down…
 
 ### [[20_Vocabulary/parcel|PART]] 3
 
@@ -323,7 +323,7 @@ making me [[20_Vocabulary/feel isolated|feel isolated]], it [[20_Vocabulary/actu
 
 **TAMARA** Another [[20_Vocabulary/a possibility|possible]] reason is that people are having fewer children [[20_Vocabulary/In addition|and]] don't live in large [[20_Vocabulary/extended family|extended family]] groups.
 
-**DEV** [[20_Vocabulary/However|But]] in this country anyway, that all [[20_Vocabulary/the dramatic change|changed]] [[20_Vocabulary/decade|decades]] ago. [[20_Vocabulary/In addition|And]] yet [[20_Vocabulary/loneliness|loneliness]] is a more recent problem.
+**DEV** [[20_Vocabulary/However|But]] in this country anyway, that all [[20_Vocabulary/the dramatic change|changed]] [[20_Vocabulary/decade|decades]] ago. [[20_Vocabulary/In addition|And]] [[20_Vocabulary/yet|yet]] [[20_Vocabulary/loneliness|loneliness]] is a more recent problem.
 
 **TAMARA** [[20_Vocabulary/suppose so|I suppose]] [[20_Vocabulary/thereby|so]]. [[20_Vocabulary/A more plausible explanation|A more plausible explanation]] is that people are having to move [[20_Vocabulary/approximately|around]] for work [[20_Vocabulary/In addition|and]] often end up living miles [[20_Vocabulary/absence|away]] from their family [[20_Vocabulary/In addition|and]] friends.
 
@@ -377,7 +377,7 @@ making me [[20_Vocabulary/feel isolated|feel isolated]], it [[20_Vocabulary/actu
 
 **TAMARA** Good point. We [[20_Vocabulary/in case of|should]] say something [[20_Vocabulary/approximately|about]] [[20_Vocabulary/solitude|solitude]] [[20_Vocabulary/In addition|and]] how [[20_Vocabulary/existence|being]] [[20_Vocabulary/loneliness|alone]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/existence|being]] [[20_Vocabulary/loneliness|lonely]] aren't the [[20_Vocabulary/identical|same]] thing. It's strange the way some people can't stand [[20_Vocabulary/existence|being]] [[20_Vocabulary/themselves|by themselves]] [[20_Vocabulary/Admittedly|while]] [[20_Vocabulary/the rest|others]] love it.
 
-**DEV** Yeah, the [[20_Vocabulary/an experiment|research]] shows a [[20_Vocabulary/inevitable|certain]] amount of [[20_Vocabulary/solitude|solitude]] is [[20_Vocabulary/beneficial|beneficial for]] [[20_Vocabulary/mental health|wellbeing]], which I appreciate, [[20_Vocabulary/However|but]] [[20_Vocabulary/existence|being]] [[20_Vocabulary/loneliness|alone]] isn't something I [[20_Vocabulary/actually|actually]] [[20_Vocabulary/For instance|like]]. I'd never choose to [[20_Vocabulary/go on|go on]] holiday [[20_Vocabulary/loneliness|alone]], [[20_Vocabulary/For instance|for example]].
+**DEV** Yeah, the [[20_Vocabulary/an experiment|research]] shows a [[20_Vocabulary/inevitable|certain]] amount of [[20_Vocabulary/solitude|solitude]] is [[20_Vocabulary/beneficial|beneficial for]] [[20_Vocabulary/mental health|wellbeing]], which I [[20_Vocabulary/appreciate|appreciate]], [[20_Vocabulary/However|but]] [[20_Vocabulary/existence|being]] [[20_Vocabulary/loneliness|alone]] isn't something I [[20_Vocabulary/actually|actually]] [[20_Vocabulary/For instance|like]]. I'd never choose to [[20_Vocabulary/go on|go on]] holiday [[20_Vocabulary/loneliness|alone]], [[20_Vocabulary/For instance|for example]].
 
 **TAMARA** [[20_Vocabulary/Me neither|Me neither]].
 

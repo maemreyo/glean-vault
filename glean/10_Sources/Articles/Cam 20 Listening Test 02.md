@@ -267,7 +267,7 @@ What is Rosie [[20_Vocabulary/In addition|and]] Colin's opinion [[20_Vocabulary/
 
 **[[20_Vocabulary/female|WOMAN]]** No, I [[20_Vocabulary/had no idea|didn't know]] I could.
 
-**MAN** Yes, they [[20_Vocabulary/propose|offer]] [[20_Vocabulary/otherwise|different]] kinds of practical [[20_Vocabulary/hold|support]]. They realise that carers sometimes need time for all the other responsibilities they have, apart from the person they're [[20_Vocabulary/caring|caring]] for, [[20_Vocabulary/In addition|and also]] that they sometimes need a break.
+**MAN** Yes, they [[20_Vocabulary/propose|offer]] [[20_Vocabulary/otherwise|different]] kinds of practical [[20_Vocabulary/hold|support]]. They realise that carers sometimes need time for all the other responsibilities they have, [[20_Vocabulary/Apart from|apart from]] the person they're [[20_Vocabulary/caring|caring]] for, [[20_Vocabulary/In addition|and also]] that they sometimes need a break.
 
 **[[20_Vocabulary/female|WOMAN]]** [[20_Vocabulary/Unquestionably|Absolutely]]. OK, [[20_Vocabulary/thereby|so]] tell me more. How do I go [[20_Vocabulary/approximately|about]] getting this [[20_Vocabulary/hold|support]]?
 

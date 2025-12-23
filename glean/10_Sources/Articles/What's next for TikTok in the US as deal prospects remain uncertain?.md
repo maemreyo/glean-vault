@@ -26,7 +26,7 @@ Trump [[20_Vocabulary/In addition|and]] members of his administration [have prev
 
 The president has [[20_Vocabulary/What's more|also]] said "sophisticated" US investors [[20_Vocabulary/will|would]] be [[20_Vocabulary/involve|involved]] in acquiring [the app](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html), including two of his allies: Oracle chairman Larry Ellison [[20_Vocabulary/In addition|and]] Dell Technologies' Michael Dell.
 
-Members of the Trump administration had indicated the deal [[20_Vocabulary/will|would]] be formalised in a [[20_Vocabulary/conference|meeting]] between Trump [[20_Vocabulary/In addition|and]] Xi in October - [[20_Vocabulary/However|however]] it concluded [[20_Vocabulary/absence|without]] an agreement [[20_Vocabulary/existence|being]] reached.
+Members of the Trump administration had indicated the deal [[20_Vocabulary/will|would]] be formalised in a [[20_Vocabulary/conference|meeting]] between Trump [[20_Vocabulary/In addition|and]] Xi in October - [[20_Vocabulary/However|however]] it concluded [[20_Vocabulary/absence|without]] an [[20_Vocabulary/agreement|agreement]] [[20_Vocabulary/existence|being]] reached.
 
 Neither [[20_Vocabulary/social media|TikTok]]'s Chinese owner ByteDance nor Beijing have since announced approval of a sale, [[20_Vocabulary/However|despite]] Trump's [[20_Vocabulary/claim|claims]].
 

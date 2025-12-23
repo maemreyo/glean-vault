@@ -108,7 +108,7 @@ English Dictionary Apps
 
 **Questions 17 [[20_Vocabulary/In addition|and]] 18**
 
-*Choose **TWO** letters, **A–E**.*
+*Choose **TWO** [[20_Vocabulary/letters|letters]], **A–E**.*
 
 Which **TWO** things does David say [[20_Vocabulary/approximately|about]] the lifeboat volunteer [[20_Vocabulary/trainer|training]]?
 
@@ -124,7 +124,7 @@ Which **TWO** things does David say [[20_Vocabulary/approximately|about]] the li
 
 **Questions 19 [[20_Vocabulary/In addition|and]] 20**
 
-*Choose **TWO** letters, **A–E**.*
+*Choose **TWO** [[20_Vocabulary/letters|letters]], **A–E**.*
 
 Which **TWO** things does David find most motivating [[20_Vocabulary/approximately|about]] the work he does?
 
