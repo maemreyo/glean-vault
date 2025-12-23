@@ -1,5 +1,257 @@
 ### [[20_Vocabulary/parcel|PART]] 1
 
+**Questions 1–10**
+
+*Complete the notes [[20_Vocabulary/Beneath|below]].*
+
+*Write **ONE WORD [[20_Vocabulary/In addition|AND]]/OR A NUMBER** for each answer.*
+
+### Advice on family visit
+
+**[[20_Vocabulary/accommodate|Accommodation]]**
+
+● **1** \_\_\_\_\_\_\_\_\_\_ Hotel on George Street
+
+● cost of family room per night: 2 £ **2** \_\_\_\_\_\_\_\_\_\_ ([[20_Vocabulary/approximately|approx]].)
+
+**Recommended trips**
+
+● a **3** \_\_\_\_\_\_\_\_\_\_ tour of the [[20_Vocabulary/city dweller|city]] centre (starts in Carlton Square)
+
+● a trip by **4** \_\_\_\_\_\_\_\_\_\_ to the [[20_Vocabulary/elderly|old]] [[20_Vocabulary/castle|fort]]
+
+**Science Museum**
+
+● best day to visit: **5** \_\_\_\_\_\_\_\_\_\_
+
+● see the [[20_Vocabulary/exhibition|exhibition]] [[20_Vocabulary/approximately|about]] **6** \_\_\_\_\_\_\_\_\_\_ which opens soon
+
+**Food**
+
+● Clacton Market:
+
+○ [[20_Vocabulary/beneficial|good for]] **7** \_\_\_\_\_\_\_\_\_\_ food
+
+○ need to have [[20_Vocabulary/meal|lunch]] before **8** \_\_\_\_\_\_\_\_\_\_ p.m.
+
+**Theatre tickets**
+
+● [[20_Vocabulary/rescue|save]] up to **9** \_\_\_\_\_\_\_\_\_\_ % on ticket prices at bargaintickets.com
+
+**[[20_Vocabulary/free of charge|Free]] activities**
+
+● Blakewell Gardens:
+
+● Roots Music Festival
+
+● climb Telegraph Hill to see a view of the **10** \_\_\_\_\_\_\_\_\_\_
+
+### [[20_Vocabulary/parcel|PART]] 2
+
+**Questions 11 [[20_Vocabulary/In addition|and]] 12**
+
+*Choose **TWO** letters, **A-E**.*
+
+Which **TWO** things does the speaker say [[20_Vocabulary/approximately|about]] visiting the football [[20_Vocabulary/arena|stadium]] with children?
+
+**A** Children can [[20_Vocabulary/obtain|get]] their photo taken with a football player.
+
+**B** There is a [[20_Vocabulary/aggravated competitors|competition]] for children today.
+
+**C** Parents must stay with their children at all times.
+
+**D** Children [[20_Vocabulary/will|will]] need sunhats [[20_Vocabulary/In addition|and]] drinks.
+
+**E** The café has a special [[20_Vocabulary/propose|offer]] on [[20_Vocabulary/meal|meals]] for children.
+
+**Questions 13 [[20_Vocabulary/In addition|and]] 14**
+
+*Choose **TWO** letters, **A-E**.*
+
+Which **TWO** features of the [[20_Vocabulary/arena|stadium]] tour are new this year?
+
+**A** VIP tour
+
+**B** 360 cinema [[20_Vocabulary/go through|experience]]
+
+**C** audio [[20_Vocabulary/the programme booklet|guide]]
+
+**D** dressing room tour
+
+**E** tours in other languages
+
+**Questions 15–20**
+
+Which event in the history of football in the UK [[20_Vocabulary/take place|took place]] in each of the following years?
+
+*Choose **SIX** answers from the [[20_Vocabulary/packaging|box]] [[20_Vocabulary/In addition|and]] write the correct letter, **A-H**, next to Questions 15-20.*
+
+**Events in the history of football**
+
+**A** the introduction of pay for the players
+
+**B** a [[20_Vocabulary/affect|change]] to the [[20_Vocabulary/scheme|design]] of the [[20_Vocabulary/objective|goal]]
+
+**C** the first use of lights for matches
+
+**D** the introduction of goalkeepers
+
+**E** the first international match
+
+**F** two [[20_Vocabulary/the dramatic change|changes]] to the rules of the game
+
+**G** the introduction of fee for [[20_Vocabulary/audience|spectators]]
+
+**H** an agreement on the length of a game
+
+**15** 1870 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**16** 1874 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**17** 1875 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**18** 1877 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**19** 1878 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**20** 1880 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### [[20_Vocabulary/parcel|PART]] 3
+
+**Questions 21 [[20_Vocabulary/In addition|and]] 22**
+
+*Choose **TWO** letters, **A-E**.*
+
+Which **TWO** features of the [[20_Vocabulary/arena|stadium]] tour are new this year?
+
+**A** improved fine motor skills
+
+**B** improved memory
+
+**C** improved [[20_Vocabulary/concentration|concentration]]
+
+**D** improved imagination
+
+**E** improved spatial [[20_Vocabulary/awareness|awareness]]
+
+**Questions 23 [[20_Vocabulary/In addition|and]] 24**
+
+*Choose **TWO** letters, **A-E**.*
+
+For children with dyspraxia, which **TWO** problems with handwriting do the students [[20_Vocabulary/suppose|think]] are easiest to correct?
+
+**A** not spacing letters [[20_Vocabulary/accurately|correctly]]
+
+**B** not writing in a straight line
+
+**C** applying [[20_Vocabulary/In addition|too]] much [[20_Vocabulary/press|pressure]] [[20_Vocabulary/in case of|when]] writing
+
+**D** confusing letter shapes
+
+**E** writing very slowly
+
+**Questions 25-30**
+
+*Choose the correct letter, **A**, **B** or **C**.*
+
+### Teaching handwriting
+
+**25** What does the [[20_Vocabulary/female|woman]] say [[20_Vocabulary/approximately|about]] using laptops to teach writing to children with dyslexia?
+
+**A** Children often [[20_Vocabulary/absence|lack]] motivation to learn that way.
+
+**B** Children become fluent [[20_Vocabulary/relatively|relatively]] quickly.
+
+**C** Children react more positively [[20_Vocabulary/suppose|if]] they [[20_Vocabulary/get anything wrong|make a mistake]].
+
+**26** [[20_Vocabulary/in case of|When]] discussing whether to teach cursive or print writing, the [[20_Vocabulary/female|woman]] thinks that
+
+**A** cursive writing [[20_Vocabulary/downside|disadvantages]] a [[20_Vocabulary/inevitable|certain]] group of children.
+
+**B** print writing is [[20_Vocabulary/belong to|associated with]] lower academic [[20_Vocabulary/concert|performance]].
+
+**C** most teachers in the UK prefer a traditional [[20_Vocabulary/dealing|approach]] to handwriting.
+
+**27** According to the students, what [[20_Vocabulary/impact|impact]] does poor handwriting have on exam [[20_Vocabulary/concert|performance]]?
+
+**A** There is [[20_Vocabulary/solid evidence|evidence]] to [[20_Vocabulary/propose|suggest]] [[20_Vocabulary/mark|grades]] are [[20_Vocabulary/suffer from|affected by]] poor handwriting.
+
+**B** Neat handwriting is less [[20_Vocabulary/meaningful|important]] now than it [[20_Vocabulary/second-hand|used]] to be.
+
+**C** Candidates write more slowly [[20_Vocabulary/In addition|and]] [[20_Vocabulary/produce|produce]] shorter answers.
+
+**28** What prediction does the man make [[20_Vocabulary/approximately|about]] the future of handwriting?
+
+**A** Touch typing [[20_Vocabulary/will|will]] be taught before writing by hand.
+
+**B** Children [[20_Vocabulary/will|will]] [[20_Vocabulary/keep on|continue]] to learn to write by hand.
+
+**C** People [[20_Vocabulary/will|will]] dislike handwriting on [[20_Vocabulary/the British Library’s digitised collection of programmes|digital]] devices.
+
+**29** The [[20_Vocabulary/female|woman]] is concemed that [[20_Vocabulary/rely on|relying on]] [[20_Vocabulary/the British Library’s digitised collection of programmes|digital]] devices has made it [[20_Vocabulary/problematic|difficult]] for [[20_Vocabulary/female|her]] to
+
+**A** take detailed notes.
+
+**B** [[20_Vocabulary/spelt|spell]] [[20_Vocabulary/In addition|and]] punctuate.
+
+**C** read [[20_Vocabulary/elderly|old]] documents.
+
+**30** How do the students [[20_Vocabulary/Feeing|feel]] [[20_Vocabulary/approximately|about]] [[20_Vocabulary/themselves|their own]] handwriting?
+
+**A** concerned they are [[20_Vocabulary/illiterate|unable to write]] quickly
+
+**B** [[20_Vocabulary/embarrass|embarrassed]] by comments made [[20_Vocabulary/approximately|about]] it
+
+**C** [[20_Vocabulary/regret|regretful]] that they have [[20_Vocabulary/disorientation|lost]] the habit
+
+### [[20_Vocabulary/parcel|PART]] 4
+
+**Questions 31–40**
+
+*Complete the notes [[20_Vocabulary/Beneath|below]].*
+
+*Write **ONE WORD [[20_Vocabulary/merely|ONLY]]** for each answer.*
+
+### [[20_Vocabulary/an experiment|Research]] in the area [[20_Vocabulary/approximately|around]] the Chembe Bird Sanctuary
+
+**The importance of birds of prey to the [[20_Vocabulary/resident|local]] communities**
+
+● They [[20_Vocabulary/ruin|destroy]] **31** \_\_\_\_\_\_\_\_\_\_ [[20_Vocabulary/In addition|and]] other rodents.
+
+● They [[20_Vocabulary/rescue|help]] to [[20_Vocabulary/prevent|prevent]] farmers from [[20_Vocabulary/existence|being]] bitten by **32** \_\_\_\_\_\_\_\_\_\_
+
+● They have been an [[20_Vocabulary/meaningful|important]] [[20_Vocabulary/belong to|part of]] the [[20_Vocabulary/resident|local]] culture for many years.
+
+● They now [[20_Vocabulary/hold|support]] the [[20_Vocabulary/span economic|economy]] by encouraging **33** \_\_\_\_\_\_\_\_\_\_ in the area.
+
+**Falling [[20_Vocabulary/statistic|numbers]] of birds of prey**
+
+● The birds may be accidentally killed
+
+○ by **34** \_\_\_\_\_\_\_\_\_\_ [[20_Vocabulary/in case of|when]] they are hunting or sleeping
+
+○ by electrocution from contact with power lines, [[20_Vocabulary/particularly|especially]] at times [[20_Vocabulary/in case of|when]] there is a lot of **35** \_\_\_\_\_\_\_\_\_\_
+
+● [[20_Vocabulary/resident|Local]] farmers may [[20_Vocabulary/legally|illegally]] shoot them or **36** \_\_\_\_\_\_\_\_\_\_ them.
+
+**Ways of protecting chickens from birds of prey**
+
+● clearing [[20_Vocabulary/absence|away]] vegetation from the area (unhelpful)
+
+● providing a **37** \_\_\_\_\_\_\_\_\_\_ for chickens ([[20_Vocabulary/expensive|expensive]])
+
+● [[20_Vocabulary/scary|frightening]] birds of prey by
+
+○ [[20_Vocabulary/worth keeping|keeping]] a **38** \_\_\_\_\_\_\_\_\_\_
+
+○ making a **39** \_\_\_\_\_\_\_\_\_\_ – e.g. with metal objects
+
+● A **40** \_\_\_\_\_\_\_\_\_\_ of methods is usually most [[20_Vocabulary/effective|effective]].
+
+
+---
+### [[20_Vocabulary/parcel|PART]] 1
+
 **MAN** Sandra, I [[20_Vocabulary/seem to|seem to]] [[20_Vocabulary/bear in mind|remember]] you had some family visitors staying with you recently
 
 Exam Preparation [[20_Vocabulary/material|Materials]]
