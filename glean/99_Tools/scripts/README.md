@@ -108,6 +108,15 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-original "glean/10_S
 python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-original "glean/10_Sources/Articles"
 ```
 
+### 7. Resetting/Clearing File History
+If you accidentally backed up a "faulty" version of a file (e.g., missing content) as the **Original**, you can reset its history. This will force the script to treat the *current* content as the new "Original" upon its next run.
+
+Currently, this is a manual process:
+1. Open `glean/99_Tools/backups/inventory.json`.
+2. Find and delete all entries matching your filename.
+3. Delete the corresponding physical `.md` files in `99_Tools/backups/`.
+4. Run the auto-link script again.
+
 ---
 
 # Cleanup Backups Script
