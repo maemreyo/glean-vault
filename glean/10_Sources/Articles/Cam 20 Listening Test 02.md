@@ -407,9 +407,7 @@ As a thank you to the volunteers we [[20_Vocabulary/arrange|arrange]] an [[20_Vo
 
 **COLIN** Yeah, [[20_Vocabulary/However|but]] aren't the buildings [[20_Vocabulary/architecturally|architecturally]] [[20_Vocabulary/meaningful|significant]]?
 
-**ROSIE** Not [[20_Vocabulary/actually|really]]. [[20_Vocabulary/In addition|And]] what people forget is that they often [[20_Vocabulary/second-hand|used]] quite dangerous [[20_Vocabulary/material|materials]], chemicals
-
-[[20_Vocabulary/In addition|and]] things, which haven't been properly cleared [[20_Vocabulary/absence|away]], [[20_Vocabulary/thereby|so]] the whole site has to be made safe.
+**ROSIE** Not [[20_Vocabulary/actually|really]]. [[20_Vocabulary/In addition|And]] what people forget is that they often [[20_Vocabulary/second-hand|used]] quite dangerous [[20_Vocabulary/material|materials]], chemicals [[20_Vocabulary/In addition|and]] things, which haven't been properly cleared [[20_Vocabulary/absence|away]], [[20_Vocabulary/thereby|so]] the whole site has to be made safe.
 
 **COLIN** Hmm, that can't be cheap. [[20_Vocabulary/In addition|And]] I bet it's often not budgeted for.
 
