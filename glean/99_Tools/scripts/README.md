@@ -37,6 +37,7 @@ python3 glean/99_Tools/scripts/auto_link_vocab.py [arguments]
 | `--restore-before-link` | **Workflow:** Restore files to original before linking. |
 | `--clean-quotes` | **Workflow:** Run `clean_quotes.py` before linking. |
 | `--add-ref-tags` | Add flashcard tags based on `ref:` field in frontmatter. |
+| `--cleanup-backups` | (External script) Keep only the oldest version of each file. |
 
 ## Use Cases
 
@@ -102,11 +103,29 @@ If you want to completely reset a **file** or **folder** to its state before you
 python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-original "glean/10_Sources/Articles/MyFile.md"
 ```
 
-**Restore all files in a folder:**
+**Restore an entire folder:**
 ```bash
 python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-original "glean/10_Sources/Articles"
 ```
+
+---
+
+# Cleanup Backups Script
+
+**Path:** `glean/99_Tools/scripts/cleanup_backups.py`
+
+As you run the auto-link script multiple times, the `99_Tools/backups` directory can grow significantly. This script helps reclaim space by keeping only the **earliest (original)** backup for each unique file and deleting all subsequent ones.
+
+## Usage
+
+```bash
+# Dry run: see how many files will be deleted
+python3 glean/99_Tools/scripts/cleanup_backups.py
+
+# Apply cleanup: delete redundant backups and update inventory
+python3 glean/99_Tools/scripts/cleanup_backups.py --no-dry-run
 ```
+
 This will restore **all files** in the folder (and subfolders) that have backup history to their very first backed-up version.
 
 ### 8. Workflow Integration: Full Pipeline
