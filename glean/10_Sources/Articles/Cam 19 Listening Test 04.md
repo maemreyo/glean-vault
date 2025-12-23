@@ -37,13 +37,13 @@ Exam preparation [[20_Vocabulary/material|materials]]
 
 Which **TWO** problems with some [[20_Vocabulary/trainer|training]] programmes for new runners does Liz [[20_Vocabulary/talk about|mention]]?
 
-**A** There is a [[20_Vocabulary/endanger|risk]] of serious [[20_Vocabulary/harm|injury]].
+**A** There is a [[20_Vocabulary/pose a threat|risk]] of serious [[20_Vocabulary/harm|injury]].
 
 **B** They are [[20_Vocabulary/unsuitable|unsuitable]] for [[20_Vocabulary/inevitable|certain]] age groups.
 
 **C** They are [[20_Vocabulary/unsuitable|unsuitable]] for people with [[20_Vocabulary/mental health|health]] issues.
 
-**D** [[30_Structures/It is difficult to|It is difficult to]] stay motivated.
+**D** [[30_Structures/It is difficult to|It is difficult to]] stay [[20_Vocabulary/motivation|motivated]].
 
 **E** [[30_Structures/There is a lack of|There is a lack of]] individual [[20_Vocabulary/hold|support]].
 
@@ -131,7 +131,7 @@ What reason prevented each of the following members of the Compton Park Runners 
 
 **C** They have [[20_Vocabulary/sentimental value|sentimental value]] for [[20_Vocabulary/female|her]].
 
-**23** Jane [[20_Vocabulary/In addition|and]] Kieran agree that [[20_Vocabulary/hardback book|hardback]] books [[20_Vocabulary/in case of|should]] be
+**23** Jane [[20_Vocabulary/In addition|and]] Kieran [[20_Vocabulary/agreement|agree]] that [[20_Vocabulary/hardback book|hardback]] books [[20_Vocabulary/in case of|should]] be
 
 **A** put out on [[20_Vocabulary/exhibition|display]].
 
@@ -167,7 +167,7 @@ Where does Jane's grandfather [[20_Vocabulary/castle|keep]] each of the followin
 
 **B** in the attic
 
-**C** at the back of the shop
+**C** at the [[20_Vocabulary/rear|back]] of the shop
 
 **D** on a high [[20_Vocabulary/a shelf|shelf]]
 
@@ -237,7 +237,7 @@ Where does Jane's grandfather [[20_Vocabulary/castle|keep]] each of the followin
 
 – restored a healthy ecosystem
 
-– protects against the higher [[20_Vocabulary/endanger|risk]] of **40** ………………..
+– protects against the higher [[20_Vocabulary/pose a threat|risk]] of **40** ………………..
 
 ---
 
@@ -269,7 +269,7 @@ KAEDEN: Yes. [[20_Vocabulary/attempt|Try]] not to lose it. At the end of the day
 
 CHARLOTTE: [[20_Vocabulary/will|Will]] do.
 
-KAEDEN: You [[20_Vocabulary/What's more|also]] need to go to the HR [[20_Vocabulary/organisation|department]] to see Tiffany. [[20_Vocabulary/female|She]]'s [[20_Vocabulary/actually|really]] [[20_Vocabulary/beneficial|helpful]].
+KAEDEN: You [[20_Vocabulary/What's more|also]] need to go to the HR [[20_Vocabulary/organisation|department]] to see Tiffany. [[20_Vocabulary/female|She]]'s [[20_Vocabulary/a big help|really helpful]].
 
 CHARLOTTE: I was told to bring my passport with me. HR need to take a note of the number in it. ***Q3***
 
@@ -323,7 +323,7 @@ KAEDEN: No. You [[20_Vocabulary/What's more|also]] need to clean the area where 
 
 CHARLOTTE: [[20_Vocabulary/inevitable|Sure]]. That's [[20_Vocabulary/meaningful|important]], isn't it?
 
-KAEDEN: [[20_Vocabulary/Unquestionably|Absolutely]]. [[20_Vocabulary/However|But]] you mustn't wash up knives. You have to do some [[20_Vocabulary/trainer|training]] before you're allowed to touch [[20_Vocabulary/sharp object|sharp objects]].
+KAEDEN: [[20_Vocabulary/positively|Absolutely]]. [[20_Vocabulary/However|But]] you mustn't wash up knives. You have to do some [[20_Vocabulary/trainer|training]] before you're allowed to touch [[20_Vocabulary/sharp object|sharp objects]].
 
 CHARLOTTE: What [[20_Vocabulary/in case of|should]] I do [[20_Vocabulary/suppose|if]] there are any?
 
@@ -361,7 +361,7 @@ I have a couple of simple tips I always give to new runners. I expect you've bee
 
 New members often say to me that they've been put off running either because they [[20_Vocabulary/absence|lack]] confidence, or they don't have time, or they [[20_Vocabulary/suppose|think]] they dislike running. Ceri, [[20_Vocabulary/For instance|for example]], joined the club two years ago at the age of 40. [[20_Vocabulary/female|She]]'d always [[20_Vocabulary/enjoy|enjoyed]] running at school [[20_Vocabulary/However|but]] wasn't [[20_Vocabulary/inevitable|sure]] [[20_Vocabulary/suppose|if]] [[20_Vocabulary/female|she]]'d be [[20_Vocabulary/capable|able]] to do it. [[20_Vocabulary/female|She]] was [[20_Vocabulary/upset|worried]] [[20_Vocabulary/approximately|about]] [[20_Vocabulary/existence|being]] [[20_Vocabulary/left behind|left behind]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/existence|being]] the slowest runner. [[20_Vocabulary/However|But]] [[20_Vocabulary/female|she]] says [[20_Vocabulary/female|she]] was made to [[20_Vocabulary/Feeing|feel]] [[20_Vocabulary/thereby|so]] welcome [[20_Vocabulary/female|she]] soon forgot all [[20_Vocabulary/approximately|about]] that. ***Q15***
 
-James had always hated the idea of running [[20_Vocabulary/However|but]] a friend encouraged him to [[20_Vocabulary/come along|come along]] for [[20_Vocabulary/a taster session|a taster session]] [[20_Vocabulary/In addition|and]] he hasn't looked back. He never misses a [[20_Vocabulary/workshop|training session]] [[20_Vocabulary/However|despite]] having a [[20_Vocabulary/actually|really]] demanding job. ***Q16***
+James had always hated the idea of running [[20_Vocabulary/However|but]] a friend encouraged him to [[20_Vocabulary/come along|come along]] for [[20_Vocabulary/a taster session|a taster session]] [[20_Vocabulary/In addition|and]] he hasn't looked [[20_Vocabulary/rear|back]]. He never misses a [[20_Vocabulary/workshop|training session]] [[20_Vocabulary/However|despite]] having a [[20_Vocabulary/actually|really]] demanding job. ***Q16***
 
 Leo was [[20_Vocabulary/upset|worried]] [[20_Vocabulary/approximately|about]] having to [[20_Vocabulary/commit|commit]] himself to [[20_Vocabulary/trainer|training]] sessions every week [[20_Vocabulary/In addition|and]] wasn't [[20_Vocabulary/inevitable|sure]] he'd be [[20_Vocabulary/capable|able]] to fit [[20_Vocabulary/trainer|training]] into his busy [[20_Vocabulary/arrange|schedule]]. [[20_Vocabulary/However|But]] after [[20_Vocabulary/undergone|experiencing]] a lot of [[20_Vocabulary/stress|stress]] at work he came along to us [[20_Vocabulary/In addition|and]] gave it a go. Now he says he [[20_Vocabulary/Feeing|feels]] much more [[20_Vocabulary/relax|relaxed]] [[20_Vocabulary/In addition|and]] he [[20_Vocabulary/appearance|looks]] forward to his weekly run. ***Q17***
 
@@ -369,7 +369,7 @@ Leo was [[20_Vocabulary/upset|worried]] [[20_Vocabulary/approximately|about]] ha
 
 My own [[20_Vocabulary/boat trip|journey]] hasn't been easy. I did my first marathon [[20_Vocabulary/in case of|when]] I was 37, after having had two kids. My husband had been running marathons for years, [[20_Vocabulary/However|but]] I never dreamed I 'd be doing one with him. I managed to complete it in four hours, [[20_Vocabulary/However|but]] I [[20_Vocabulary/Feeing|felt]] [[20_Vocabulary/For instance|like]] giving up halfway through -it was [[20_Vocabulary/merely|only]] the [[20_Vocabulary/hold|support]] of the [[20_Vocabulary/audience|spectators]] that kept me going. ***Q19***
 
-I do [[20_Vocabulary/suppose|think]] signing up for a race of whatever length is motivating – whether it's 5K or 25K – because it's good to have something to [[20_Vocabulary/take steps to|work towards]] [[20_Vocabulary/In addition|and]] it gives you [[20_Vocabulary/a sense of achievement|a sense of achievement]]. I did my first 10K after [[20_Vocabulary/merely|only]] six months, which was [[20_Vocabulary/uncertain|certainly]] very [[20_Vocabulary/problematic|challenging]] [[20_Vocabulary/In addition|and]] not something I 'd necessarily [[20_Vocabulary/propose|recommend]]. [[20_Vocabulary/However|But]] after you've been [[20_Vocabulary/trainer|training]] for a few weeks, it's [[20_Vocabulary/worth|worth]] putting your name down for a 5K – some people find they [[20_Vocabulary/merely|only]] need a few practice runs before taking [[20_Vocabulary/parcel|part]] in a race, [[20_Vocabulary/However|but]] I'd give yourself a couple of months [[20_Vocabulary/at least|at least]]. ***Q20***
+I do [[20_Vocabulary/suppose|think]] signing up for a race of whatever length is [[20_Vocabulary/motivation|motivating]] – whether it's 5K or 25K – because it's good to have something to [[20_Vocabulary/take steps to|work towards]] [[20_Vocabulary/In addition|and]] it gives you [[20_Vocabulary/a sense of achievement|a sense of achievement]]. I did my first 10K after [[20_Vocabulary/merely|only]] six months, which was [[20_Vocabulary/uncertain|certainly]] very [[20_Vocabulary/problematic|challenging]] [[20_Vocabulary/In addition|and]] not something I 'd necessarily [[20_Vocabulary/propose|recommend]]. [[20_Vocabulary/However|But]] after you've been [[20_Vocabulary/trainer|training]] for a few weeks, it's [[20_Vocabulary/worth|worth]] putting your name down for a 5K – some people find they [[20_Vocabulary/merely|only]] need a few practice runs before taking [[20_Vocabulary/parcel|part]] in a race, [[20_Vocabulary/However|but]] I'd give yourself a couple of months [[20_Vocabulary/at least|at least]]. ***Q20***
 
 Well, I hope that's given...
 
@@ -389,7 +389,7 @@ JANE: He says you have to [[20_Vocabulary/hold|support]] the [[20_Vocabulary/spi
 
 KIERAN: Yeah – that's [[20_Vocabulary/obviously|obvious]].
 
-JANE: He [[20_Vocabulary/What's more|also]] told me to [[20_Vocabulary/parcel|pack]] them flat in the [[20_Vocabulary/packaging|box]] not on their side – [[20_Vocabulary/repeat|again]] because they can [[20_Vocabulary/curve|bend]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/suppose|if]] you leave them [[20_Vocabulary/For instance|like]] that for, say, a year, it's quite hard to [[20_Vocabulary/obtain|get]] them back to their [[20_Vocabulary/average|normal]] [[20_Vocabulary/curve|shape]].
+JANE: He [[20_Vocabulary/What's more|also]] told me to [[20_Vocabulary/parcel|pack]] them flat in the [[20_Vocabulary/packaging|box]] not on their side – [[20_Vocabulary/repeat|again]] because they can [[20_Vocabulary/curve|bend]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/suppose|if]] you leave them [[20_Vocabulary/For instance|like]] that for, say, a year, it's quite hard to [[20_Vocabulary/obtain|get]] them [[20_Vocabulary/rear|back]] to their [[20_Vocabulary/average|normal]] [[20_Vocabulary/curve|shape]].
 
 KIERAN: Well, it's pretty clear that [[20_Vocabulary/ruin|ruins]] them, [[20_Vocabulary/However|but]] a lot of people [[20_Vocabulary/merely|just]] can't be [[20_Vocabulary/bother|bothered]] to protect their books.
 
@@ -407,7 +407,7 @@ KIERAN: Well, [[20_Vocabulary/suppose|if]] they're [[20_Vocabulary/meaningful|im
 
 JANE: Yeah – I'd [[20_Vocabulary/regret|regret]] [[20_Vocabulary/merely|just]] throwing them [[20_Vocabulary/absence|away]].
 
-KIERAN: You know, [[20_Vocabulary/perhaps|maybe]] it's because I was taught to treasure books... [[20_Vocabulary/However|but]] [[30_Structures/I hate seeing students force open the pages – of paperbacks|I hate seeing students force open the pages – of paperbacks]]. They [[20_Vocabulary/press so hard|press so hard]] they end up breaking the [[20_Vocabulary/spine|spine]].
+KIERAN: You know, [[20_Vocabulary/perhaps|maybe]] it's because I was taught to [[20_Vocabulary/appreciate|treasure]] books... [[20_Vocabulary/However|but]] [[30_Structures/I hate seeing students force open the pages – of paperbacks|I hate seeing students force open the pages – of paperbacks]]. They [[20_Vocabulary/press so hard|press so hard]] they end up breaking the [[20_Vocabulary/spine|spine]].
 
 JANE: I know, [[20_Vocabulary/However|but]] [[20_Vocabulary/Unfortunately|unfortunately]], paperbacks aren't [[20_Vocabulary/meant|designed]] to [[20_Vocabulary/lasts|last]] a long time [[20_Vocabulary/In addition|and]] people know that. Hardbacks aren't quite as weak.
 
@@ -417,7 +417,7 @@ JANE: Well, they aren't [[20_Vocabulary/decorative|decorative]], are they, [[20_
 
 KIERAN: [[30_Structures/That's such a pity|That's such a pity]]. [[20_Vocabulary/in case of|When]] I visit someone – [[20_Vocabulary/suppose|if]] they have, say, a colorful book on a table, it's the first thing I'm drawn to. ***Q23***
 
-JANE: I agree – [[20_Vocabulary/In addition|and]] book covers can be a work of art in [[20_Vocabulary/themselves|themselves]]. Some are [[20_Vocabulary/actually|really]] [[20_Vocabulary/eye-catching|eye-catching]].
+JANE: I [[20_Vocabulary/agreement|agree]] – [[20_Vocabulary/In addition|and]] book covers can be a work of art in [[20_Vocabulary/themselves|themselves]]. Some are [[20_Vocabulary/actually|really]] [[20_Vocabulary/eye-catching|eye-catching]].
 
 KIERAN: I've always been taught to [[20_Vocabulary/dealing|handle]] books carefully. [[20_Vocabulary/suppose|If]] you [[20_Vocabulary/watches|watch]] someone take a book off [[20_Vocabulary/a shelf|a shelf]], well, they usually do it wrong.
 
@@ -479,7 +479,7 @@ JANE: [[20_Vocabulary/In addition|And]] then there's a place for pushchairs by t
 
 KIERAN: That's good to know.
 
-JANE: As I said, it's a big shop [[20_Vocabulary/In addition|and]] there's a storage area out the back [[20_Vocabulary/In addition|as well]].
+JANE: As I said, it's a big shop [[20_Vocabulary/In addition|and]] there's a storage area out the [[20_Vocabulary/rear|back]] [[20_Vocabulary/In addition|as well]].
 
 KIERAN: Oh, what does he [[20_Vocabulary/castle|keep]] there? Books he wants to throw [[20_Vocabulary/absence|away]]?
 
@@ -503,11 +503,11 @@ KIERAN: Pretty central then. You'll have to take me there some time!
 
 Tree planting now [[20_Vocabulary/dominates political|dominates political]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/widespread|popular]] agendas [[20_Vocabulary/In addition|and]] is often [[20_Vocabulary/presentation|presented]] as an easy answer to the climate crisis, [[20_Vocabulary/as well as|as well as]] a way for business corporations to offset their [[20_Vocabulary/carbon emission|carbon emissions]]. [[20_Vocabulary/However|But]] [[20_Vocabulary/Unfortunately|unfortunately]], tree planting isn't as straightforward as some people [[20_Vocabulary/suppose|think]]. [[20_Vocabulary/in case of|When]] the wrong trees are planted in the wrong place, it can do [[20_Vocabulary/considerably|considerably]] more [[20_Vocabulary/harm|damage]] than good, failing to [[20_Vocabulary/rescue|help]] either people or the [[20_Vocabulary/background|environment]].
 
-Reforestation projects are currently [[20_Vocabulary/existence|being]] [[20_Vocabulary/undertaken on|undertaken on]] a [[20_Vocabulary/enormous|huge]] scale in many countries [[20_Vocabulary/In addition|and]] it's [[20_Vocabulary/essential|crucial]] that the right trees are selected. A [[20_Vocabulary/a mixture|mix]] of species [[20_Vocabulary/in case of|should]] always be planted, [[20_Vocabulary/average|typical]] of the [[20_Vocabulary/resident|local]] natural forest ecosystem [[20_Vocabulary/In addition|and]] including rare [[20_Vocabulary/In addition|and]] [[20_Vocabulary/mass extinction|endangered species]] in [[20_Vocabulary/arrange|order]] to [[20_Vocabulary/resulted in|create]] a rich ecosystem. It's [[20_Vocabulary/meaningful|important]] to [[20_Vocabulary/prevent|avoid]] [[20_Vocabulary/invasive|non-native]] species that could become [[20_Vocabulary/invasive|invasive]]. [[20_Vocabulary/invasive|Invasive]] species are a [[20_Vocabulary/meaningful|significant]] [[20_Vocabulary/participant|contributor]] to [[20_Vocabulary/the current global biodiversity crisis|the current global biodiversity crisis]] [[20_Vocabulary/In addition|and]] are often [[20_Vocabulary/in competition with|in competition with]] [[20_Vocabulary/native fig tree|native species]] [[20_Vocabulary/In addition|and]] may [[20_Vocabulary/harm|threaten]] their long-term [[20_Vocabulary/outlive|survival]]. ***Q31***
+Reforestation projects are [[20_Vocabulary/at present|currently]] [[20_Vocabulary/existence|being]] [[20_Vocabulary/undertaken on|undertaken on]] a [[20_Vocabulary/enormous|huge]] scale in many countries [[20_Vocabulary/In addition|and]] it's [[20_Vocabulary/essential|crucial]] that the right trees are selected. A [[20_Vocabulary/a mixture|mix]] of species [[20_Vocabulary/in case of|should]] always be planted, [[20_Vocabulary/average|typical]] of the [[20_Vocabulary/resident|local]] natural forest ecosystem [[20_Vocabulary/In addition|and]] including rare [[20_Vocabulary/In addition|and]] [[20_Vocabulary/mass extinction|endangered species]] [[20_Vocabulary/so that|in order to]] [[20_Vocabulary/resulted in|create]] a rich ecosystem. It's [[20_Vocabulary/meaningful|important]] to [[20_Vocabulary/prevent|avoid]] [[20_Vocabulary/invasive|non-native]] species that could become [[20_Vocabulary/invasive|invasive]]. [[20_Vocabulary/invasive|Invasive]] species are a [[20_Vocabulary/meaningful|significant]] [[20_Vocabulary/participant|contributor]] to [[20_Vocabulary/the current global biodiversity crisis|the current global biodiversity crisis]] [[20_Vocabulary/In addition|and]] are often [[20_Vocabulary/in competition with|in competition with]] [[20_Vocabulary/native fig tree|native species]] [[20_Vocabulary/In addition|and]] may [[20_Vocabulary/harm|threaten]] their [[20_Vocabulary/a longer-term solution|long-term]] [[20_Vocabulary/outlive|survival]]. ***Q31***
 
 Restoring [[20_Vocabulary/appropriate levels of genetic diversity|biodiversity]] that [[20_Vocabulary/will|will]] [[20_Vocabulary/maximise carbon capture|maximise carbon capture]] is key [[20_Vocabulary/in case of|when]] reforesting an area, [[20_Vocabulary/However|but]] ideally any [[20_Vocabulary/Large-scale reforestation projects|reforestation project]] [[20_Vocabulary/in case of|should]] have several goals. These could [[20_Vocabulary/comprise|include]] selecting trees that can contribute to wildlife [[20_Vocabulary/conservation|conservation]], improve the [[20_Vocabulary/to be readily available|availability]] of food for the [[20_Vocabulary/resident|local]] community ***Q32*** [[20_Vocabulary/In addition|and]] [[20_Vocabulary/keep on|maintain]] the stability of [[20_Vocabulary/soil|soil]] systems. [[20_Vocabulary/conference|Meeting]] as many of these goals as [[20_Vocabulary/a possibility|possible]], [[20_Vocabulary/whilst|whilst]] doing no [[20_Vocabulary/harm|harm]] to [[20_Vocabulary/resident|local]] communities, native ecosystems [[20_Vocabulary/In addition|and]] vulnerable species, is the sign of a highly [[20_Vocabulary/effective|successful]] tree-planting [[20_Vocabulary/scheme|scheme]]. To ensure the [[20_Vocabulary/outlive|survival]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/mental health|resilience]] of a planted forest, it's [[20_Vocabulary/essential|vital]] to use tree seeds with [[20_Vocabulary/appropriate levels of genetic diversity|appropriate levels of genetic diversity]]: the amount of [[20_Vocabulary/genetic variation|genetic variation]] [[20_Vocabulary/establish|found]] within a species [[20_Vocabulary/essential|essential]] for their [[20_Vocabulary/outlive|survival]]. Using seeds with low [[20_Vocabulary/appropriate levels of genetic diversity|genetic diversity]] [[20_Vocabulary/generally speaking|generally]] lowers the [[20_Vocabulary/mental health|resilience]] of restored forests, which can make them vulnerable to [[20_Vocabulary/cardiovascular disease|disease]] [[20_Vocabulary/In addition|and]] unable to [[20_Vocabulary/accommodate|adapt]] to [[20_Vocabulary/carbon emission|climate change]]. ***Q33***
 
-Choosing the right [[20_Vocabulary/placement|location]] for reforestation projects is as [[20_Vocabulary/meaningful|important]] as choosing the right trees. [[20_Vocabulary/after all|Ultimately]], the best area for planting trees [[20_Vocabulary/will|would]] be in [[20_Vocabulary/no longer|formerly]] forested areas that are in poor condition. It's [[20_Vocabulary/superior|better]] to [[20_Vocabulary/prevent|avoid]] non-forested landscapes [[20_Vocabulary/For instance|such as]] natural [[20_Vocabulary/grass|grasslands]], [[20_Vocabulary/savannas|savannas]] or wetlands as these ecosystems already contribute [[20_Vocabulary/hugely|greatly]] to capturing carbon. It [[20_Vocabulary/will|would]] [[20_Vocabulary/What's more|also]] be [[20_Vocabulary/beneficial|advantageous]] to choose an area where trees could provide other benefits, [[20_Vocabulary/For instance|such as]] recreational spaces. Reforesting areas which are currently [[20_Vocabulary/exploited for|exploited for]] agriculture [[20_Vocabulary/in case of|should]] be avoided as this often leads to other areas [[20_Vocabulary/existence|being]] deforested. ***Q34***
+Choosing the right [[20_Vocabulary/placement|location]] for reforestation projects is as [[20_Vocabulary/meaningful|important]] as choosing the right trees. [[20_Vocabulary/after all|Ultimately]], the best area for planting trees [[20_Vocabulary/will|would]] be in [[20_Vocabulary/no longer|formerly]] forested areas that are in poor condition. It's [[20_Vocabulary/superior|better]] to [[20_Vocabulary/prevent|avoid]] non-forested landscapes [[20_Vocabulary/For instance|such as]] natural [[20_Vocabulary/grass|grasslands]], [[20_Vocabulary/savannas|savannas]] or wetlands as these ecosystems already contribute [[20_Vocabulary/hugely|greatly]] to capturing carbon. It [[20_Vocabulary/will|would]] [[20_Vocabulary/What's more|also]] be [[20_Vocabulary/beneficial|advantageous]] to choose an area where trees could provide other benefits, [[20_Vocabulary/For instance|such as]] recreational spaces. Reforesting areas which are [[20_Vocabulary/at present|currently]] [[20_Vocabulary/exploited for|exploited for]] agriculture [[20_Vocabulary/in case of|should]] be avoided as this often leads to other areas [[20_Vocabulary/existence|being]] deforested. ***Q34***
 
 ——————————————–
 

@@ -10,13 +10,13 @@ Led by technology secretary Liz Kendall, it [[20_Vocabulary/will|will]] see [[20
 
 BCS, the Chartered [[20_Vocabulary/establish|Institute]] for IT, recently suggested [[20_Vocabulary/female|women]] accounted for [[20_Vocabulary/merely|only]] 22% of those [[20_Vocabulary/workshop|working]] in IT specialist roles in the UK.
 
-Ms Kendall said the [[20_Vocabulary/female|Women]] in Tech group [[20_Vocabulary/will|would]] "[[20_Vocabulary/degrade|break down]] the barriers that still [[20_Vocabulary/hold|hold]] [[20_Vocabulary/In addition|too]] many people back".
+Ms Kendall said the [[20_Vocabulary/female|Women]] in Tech group [[20_Vocabulary/will|would]] "[[20_Vocabulary/degrade|break down]] the barriers that still [[20_Vocabulary/hold|hold]] [[20_Vocabulary/In addition|too]] many people [[20_Vocabulary/rear|back]]".
 
 "[[20_Vocabulary/in case of|When]] [[20_Vocabulary/female|women]] are inspired to [[20_Vocabulary/take up the challenge|take on]] a role in tech [[20_Vocabulary/In addition|and]] have a seat at the table, the sector can make more [[20_Vocabulary/ambassador|representative]] decisions, [[20_Vocabulary/establish|build]] [[20_Vocabulary/goods|products]] that [[20_Vocabulary/serve|serve]] everyone," [[20_Vocabulary/female|she]] said.
 
-BCS, the Chartered [[20_Vocabulary/establish|Institute]] for IT, [warned in December](https://www.bcs.org/articles-opinion-and-research/supercharging-the-trend-of-women-choosing-tech-careers-is-key-to-uk-s-ai-ambitions-new-report-finds/) the amount of [[20_Vocabulary/female|women]] [[20_Vocabulary/workshop|working]] in the UK tech sector still lagged far behind men.
+BCS, the Chartered [[20_Vocabulary/establish|Institute]] for IT, [warned in December](https://www.bcs.org/articles-opinion-and-research/supercharging-the-trend-of-women-choosing-tech-careers-is-key-to-uk-s-ai-ambitions-new-report-finds/) the amount of [[20_Vocabulary/female|women]] [[20_Vocabulary/workshop|working]] in the UK tech sector still lagged far behind [[20_Vocabulary/male|men]].
 
-It said the government [[20_Vocabulary/in case of|should]] [[20_Vocabulary/appearance|look]] to [[20_Vocabulary/rescue|help]] close the gender gap in [[20_Vocabulary/arrange|order]] to meet its [ambitious AI goals](https://www.bbc.co.uk/news/articles/crr05jykzkxo).
+It said the government [[20_Vocabulary/in case of|should]] [[20_Vocabulary/appearance|look]] to [[20_Vocabulary/rescue|help]] close the [[20_Vocabulary/male|gender]] gap [[20_Vocabulary/so that|in order to]] meet its [ambitious AI goals](https://www.bbc.co.uk/news/articles/crr05jykzkxo).
 
 "We cannot [[20_Vocabulary/resulted in|create]] high-trust, high-integrity AI systems [[20_Vocabulary/suppose|if]] the profession behind them is [[20_Vocabulary/absence|missing]] out on the talents [[20_Vocabulary/In addition|and]] [[20_Vocabulary/perspective|perspective]] of half the [[20_Vocabulary/population density|population]]," said chief executive Sharron Gunn.
 
@@ -40,7 +40,7 @@ It [[20_Vocabulary/What's more|also]] includes TUC assistant general secretary K
 
 "[[20_Vocabulary/entrance|Entry]] routes, career [[20_Vocabulary/a few chords|progression]] to leadership, [[20_Vocabulary/In addition|and]] [[20_Vocabulary/access|access]] to [[20_Vocabulary/major city|capital]] are [[20_Vocabulary/merely|just]] some of the barriers [[20_Vocabulary/female|women]] in tech still [[20_Vocabulary/dealing|face]] today," Ms Daley said.
 
-"[[20_Vocabulary/achieve|Achieving]] gender equality is long overdue, [[20_Vocabulary/In addition|and]] I am honoured to [[20_Vocabulary/come along|join]] the [[20_Vocabulary/female|Women]] in Tech taskforce alongside Liz Kendall [[20_Vocabulary/In addition|and]] several inspiring [[20_Vocabulary/female|women]] from [[20_Vocabulary/across the industry|across the industry]], [[20_Vocabulary/group cooperation|working together]] [[20_Vocabulary/to chart a path forward|to chart a path forward]] for true gender equality."
+"[[20_Vocabulary/achieve|Achieving]] [[20_Vocabulary/male|gender]] equality is long overdue, [[20_Vocabulary/In addition|and]] I am honoured to [[20_Vocabulary/come along|join]] the [[20_Vocabulary/female|Women]] in Tech taskforce alongside Liz Kendall [[20_Vocabulary/In addition|and]] several inspiring [[20_Vocabulary/female|women]] from [[20_Vocabulary/across the industry|across the industry]], [[20_Vocabulary/group cooperation|working together]] [[20_Vocabulary/to chart a path forward|to chart a path forward]] for true [[20_Vocabulary/male|gender]] equality."
 
 ![A green promotional banner with black squares and rectangles forming pixels, moving in from the right. The text says: "Tech Decoded: The world's biggest tech news in your inbox every Monday."](https://ichef.bbci.co.uk/news/240/cpsprodpb/41d3/live/348b21e0-26a8-11f0-8f57-b7237f6a66e6.png.webp)
 

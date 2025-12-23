@@ -126,7 +126,7 @@ Which **TWO** things does David say [[20_Vocabulary/approximately|about]] the li
 
 *Choose **TWO** [[20_Vocabulary/letters|letters]], **A–E**.*
 
-Which **TWO** things does David find most motivating [[20_Vocabulary/approximately|about]] the work he does?
+Which **TWO** things does David find most [[20_Vocabulary/motivation|motivating]] [[20_Vocabulary/approximately|about]] the work he does?
 
 **A** [[20_Vocabulary/workshop|working]] as [[20_Vocabulary/belong to|part of]] a team
 
@@ -228,7 +228,7 @@ What reasons did the [[20_Vocabulary/waste recycling|recycling]] [[20_Vocabulary
 
 **C** The [[20_Vocabulary/footwear|shoes]] in the 'new' pairs were not completely [[20_Vocabulary/resemble|alike]].
 
-**30** Bella [[20_Vocabulary/In addition|and]] Don agree that they can [[20_Vocabulary/presentation|present]] their topic
+**30** Bella [[20_Vocabulary/In addition|and]] Don [[20_Vocabulary/agreement|agree]] that they can [[20_Vocabulary/presentation|present]] their topic
 
 **A** from a new [[20_Vocabulary/perspective|angle]].
 
