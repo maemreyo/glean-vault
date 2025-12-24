@@ -183,16 +183,12 @@ Show pending vocabulary files without processing
 ### Card 13: Synonym Context Quiz
 
 🧩 **Quiz:** In this context, which synonym of **relax** is correct?
-
 **Context:** You're working in an office. It's Friday evening. Everyone is finishing their tasks. Someone suggests staying late to do more work. Another person disagrees.
-
 **Sentence to complete:** "No, let's just _____ for the weekend."
-
 **Options:**
 - A) [[rest]]
 - B) [[unwind]]
 - C) [[sleep]]
-
 ?
 > ✅ **Answer:** [[unwind]]
 > 🧠 **Why:** "Unwind" is perfect for releasing mental/physical tension after work (relaxing). "Rest" is about stopping activity, "sleep" is specific to sleeping. In this work context, "unwind" captures the idea of letting go of work stress.
@@ -203,16 +199,12 @@ Show pending vocabulary files without processing
 ### Card 14: Antonym Context Quiz
 
 🔃 **Quiz:** In this context, which antonym of **relax** is correct?
-
 **Context:** A yoga instructor is encouraging students to focus on their pose. Some students are letting their muscles go loose.
-
 **Sentence to complete:** "Don't _____, engage your core muscles!"
-
 **Options:**
 - A) [[tense]]
 - B) [[stress]]
 - C) [[tighten]]
-
 ?
 > ✅ **Answer:** [[tense]]
 > 🧠 **Why:** "Tense" refers to the physical state of muscles being tight/ready for action. It's the direct physical opposite of "relax" in this yoga/fitness context. "Stress" is mental, "tighten" is an action, while "tense" describes the state being changed.
