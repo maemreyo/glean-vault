@@ -75,7 +75,22 @@ RULES:
   - Card 1: `#flashcards/ielts-listening/social-leisure/events/daily/01-prediction`
   - Card 5: `#flashcards/ielts-listening/social-leisure/events/weekly/02-trap`
   - Card 11: `#flashcards/ielts-listening/social-leisure/events/biweekly/04-speed`
+  **🔀 MULTI-TAGGING (when applicable):**
+  - A single card MAY have MULTIPLE TAGS, separated by SPACE
+  - Syntax: `tag1 tag2 tag3` (all on the same line)
   
+  **When to use multi-tagging:**
+  - ✅ Phrases fitting ≥2 pillars (e.g., "gym membership" → health-food + social-leisure)
+  - ✅ Academic vocabulary appearing in multiple contexts (e.g., "research" → education + science-tech)
+  - ❌ DO NOT exceed 4 tags per card for maintainability
+  
+  **Multi-tag example:**
+  ```
+  #flashcards/ielts-listening/social-leisure/events/daily/01-prediction #flashcards/ielts-listening/work-career/volunteering/daily/01-prediction
+  ### Card 1: 3-Way Prediction Brainstorm
+  ```
+  
+
 - **POPULATE ALIASES:**
   - Fill `aliases: [...]` with pattern variations/paraphrases
   - **DELETE the trailing comment** `# common variations...`
