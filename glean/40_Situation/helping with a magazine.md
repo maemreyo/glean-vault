@@ -61,7 +61,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/journalism/daily/01-prediction
+#flashcards/ielts-listening/culture-media/journalism/daily/01-prediction #flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction #flashcards/ielts-listening/social-leisure/hobbies/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==helping with a magazine==
@@ -80,7 +80,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/journalism/daily/02-keywords
+#flashcards/ielts-listening/culture-media/journalism/daily/02-keywords #flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords #flashcards/ielts-listening/social-leisure/hobbies/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==helping with a magazine==
@@ -96,7 +96,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/journalism/daily/03-signpost
+#flashcards/ielts-listening/culture-media/journalism/daily/03-signpost #flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost #flashcards/ielts-listening/social-leisure/hobbies/daily/03-signpost
 ### Card 3: Signpost Detection
 
 > **Option:** ==helping with a magazine==
@@ -112,7 +112,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/journalism/weekly/01-reverse
+#flashcards/ielts-listening/culture-media/journalism/weekly/01-reverse #flashcards/ielts-listening/social-leisure/volunteering/weekly/01-reverse #flashcards/ielts-listening/social-leisure/hobbies/weekly/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
@@ -131,7 +131,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/journalism/weekly/02-trap
+#flashcards/ielts-listening/culture-media/journalism/weekly/02-trap #flashcards/ielts-listening/social-leisure/volunteering/weekly/02-trap #flashcards/ielts-listening/social-leisure/hobbies/weekly/02-trap
 ### Card 5: Trap Identification
 
 > **Option:** ==helping with a magazine==
@@ -151,7 +151,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/journalism/weekly/03-differentiate
+#flashcards/ielts-listening/culture-media/journalism/weekly/03-differentiate #flashcards/ielts-listening/social-leisure/volunteering/weekly/03-differentiate #flashcards/ielts-listening/social-leisure/hobbies/weekly/03-differentiate
 ### Card 6: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="helping with a magazine"== với =="reading a magazine"==?
@@ -167,7 +167,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/journalism/weekly/04-cloze
+#flashcards/ielts-listening/culture-media/journalism/weekly/04-cloze #flashcards/ielts-listening/social-leisure/volunteering/weekly/04-cloze #flashcards/ielts-listening/social-leisure/hobbies/weekly/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
@@ -184,7 +184,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/journalism/biweekly/01-chain
+#flashcards/ielts-listening/culture-media/journalism/biweekly/01-chain #flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-chain #flashcards/ielts-listening/social-leisure/hobbies/biweekly/01-chain
 ### Card 8: Paraphrase Chain
 
 > **Option:** ==helping with a magazine==
@@ -204,7 +204,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/journalism/biweekly/02-full-trap
+#flashcards/ielts-listening/culture-media/journalism/biweekly/02-full-trap #flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-full-trap #flashcards/ielts-listening/social-leisure/hobbies/biweekly/02-full-trap
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -230,7 +230,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/journalism/biweekly/03-script-match
+#flashcards/ielts-listening/culture-media/journalism/biweekly/03-script-match #flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-script-match #flashcards/ielts-listening/social-leisure/hobbies/biweekly/03-script-match
 ### Card 10: Script-to-Option Mapping
 
 > **Option Text:** =="helping with a magazine"==
@@ -253,7 +253,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/journalism/biweekly/04-speed
+#flashcards/ielts-listening/culture-media/journalism/biweekly/04-speed #flashcards/ielts-listening/social-leisure/volunteering/biweekly/04-speed #flashcards/ielts-listening/social-leisure/hobbies/biweekly/04-speed
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**

@@ -65,7 +65,7 @@ ref:
 
 ### Tier 1: Daily Quick Review (3 Cards)
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction #flashcards/ielts-listening/social-leisure/clubs/daily/01-prediction #flashcards/ielts-listening/social-leisure/hobbies/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==getting involved with community groups==
@@ -84,7 +84,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords #flashcards/ielts-listening/social-leisure/clubs/daily/02-keywords #flashcards/ielts-listening/social-leisure/hobbies/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==getting involved with community groups==
@@ -100,7 +100,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost #flashcards/ielts-listening/social-leisure/clubs/daily/03-signpost #flashcards/ielts-listening/social-leisure/hobbies/daily/03-signpost
 ### Card 3: Signpost Detection
 
 > **Option:** ==getting involved with community groups==
@@ -118,7 +118,7 @@ ref:
 
 ### Tier 2: Weekly Intensive (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/01-reverse
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/01-reverse #flashcards/ielts-listening/social-leisure/clubs/weekly/01-reverse #flashcards/ielts-listening/social-leisure/hobbies/weekly/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
@@ -137,7 +137,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/02-trap
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/02-trap #flashcards/ielts-listening/social-leisure/clubs/weekly/02-trap #flashcards/ielts-listening/social-leisure/hobbies/weekly/02-trap
 ### Card 5: Trap Identification
 
 > **Option:** ==getting involved with community groups==
@@ -157,7 +157,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/03-differentiate
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/03-differentiate #flashcards/ielts-listening/social-leisure/clubs/weekly/03-differentiate #flashcards/ielts-listening/social-leisure/hobbies/weekly/03-differentiate
 ### Card 6: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="getting involved with community groups"== với =="helping the community"==?
@@ -173,7 +173,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-cloze
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-cloze #flashcards/ielts-listening/social-leisure/clubs/weekly/04-cloze #flashcards/ielts-listening/social-leisure/hobbies/weekly/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
@@ -192,7 +192,7 @@ ref:
 
 ### Tier 3: Bi-weekly Mastery (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-chain
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-chain #flashcards/ielts-listening/social-leisure/clubs/biweekly/01-chain #flashcards/ielts-listening/social-leisure/hobbies/biweekly/01-chain
 ### Card 8: Paraphrase Chain
 
 > **Option:** ==getting involved with community groups==
@@ -212,7 +212,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-full-trap
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-full-trap #flashcards/ielts-listening/social-leisure/clubs/biweekly/02-full-trap #flashcards/ielts-listening/social-leisure/hobbies/biweekly/02-full-trap
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -238,7 +238,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-script-match
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-script-match #flashcards/ielts-listening/social-leisure/clubs/biweekly/03-script-match #flashcards/ielts-listening/social-leisure/hobbies/biweekly/03-script-match
 ### Card 10: Script-to-Option Mapping
 
 > **Option Text:** =="getting involved with community groups"==
@@ -259,7 +259,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/04-speed
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/04-speed #flashcards/ielts-listening/social-leisure/clubs/biweekly/04-speed #flashcards/ielts-listening/social-leisure/hobbies/biweekly/04-speed
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**

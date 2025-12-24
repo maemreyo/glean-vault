@@ -65,7 +65,7 @@ ref:
 
 ### Tier 1: Daily Quick Review (3 Cards)
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction #flashcards/ielts-listening/culture-media/tourism/daily/01-prediction #flashcards/ielts-listening/social-leisure/entertainment/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==giving advice to visitors==
@@ -84,7 +84,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords #flashcards/ielts-listening/culture-media/tourism/daily/02-keywords #flashcards/ielts-listening/social-leisure/entertainment/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==giving advice to visitors==
@@ -100,7 +100,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost #flashcards/ielts-listening/culture-media/tourism/daily/03-signpost #flashcards/ielts-listening/social-leisure/entertainment/daily/03-signpost
 ### Card 3: Signpost Detection
 
 > **Option:** ==giving advice to visitors==
@@ -118,7 +118,7 @@ ref:
 
 ### Tier 2: Weekly Intensive (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/01-reverse
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/01-reverse #flashcards/ielts-listening/culture-media/tourism/weekly/01-reverse #flashcards/ielts-listening/social-leisure/entertainment/weekly/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
@@ -137,7 +137,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/02-trap
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/02-trap #flashcards/ielts-listening/culture-media/tourism/weekly/02-trap #flashcards/ielts-listening/social-leisure/entertainment/weekly/02-trap
 ### Card 5: Trap Identification
 
 > **Option:** ==giving advice to visitors==
@@ -157,7 +157,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/03-differentiate
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/03-differentiate #flashcards/ielts-listening/culture-media/tourism/weekly/03-differentiate #flashcards/ielts-listening/social-leisure/entertainment/weekly/03-differentiate
 ### Card 6: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="giving advice to visitors"== với =="helping people find their seats"==?
@@ -173,7 +173,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-cloze
+#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-cloze #flashcards/ielts-listening/culture-media/tourism/weekly/04-cloze #flashcards/ielts-listening/social-leisure/entertainment/weekly/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
@@ -192,7 +192,7 @@ ref:
 
 ### Tier 3: Bi-weekly Mastery (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-chain
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-chain #flashcards/ielts-listening/culture-media/tourism/biweekly/01-chain #flashcards/ielts-listening/social-leisure/entertainment/biweekly/01-chain
 ### Card 8: Paraphrase Chain
 
 > **Option:** ==giving advice to visitors==
@@ -212,7 +212,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-full-trap
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-full-trap #flashcards/ielts-listening/culture-media/tourism/biweekly/02-full-trap #flashcards/ielts-listening/social-leisure/entertainment/biweekly/02-full-trap
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -238,7 +238,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-script-match
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-script-match #flashcards/ielts-listening/culture-media/tourism/biweekly/03-script-match #flashcards/ielts-listening/social-leisure/entertainment/biweekly/03-script-match
 ### Card 10: Script-to-Option Mapping
 
 > **Option Text:** =="giving advice to visitors"==
@@ -258,7 +258,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/04-speed
+#flashcards/ielts-listening/social-leisure/volunteering/biweekly/04-speed #flashcards/ielts-listening/culture-media/tourism/biweekly/04-speed #flashcards/ielts-listening/social-leisure/entertainment/biweekly/04-speed
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
