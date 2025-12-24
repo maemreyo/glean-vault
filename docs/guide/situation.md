@@ -50,11 +50,32 @@ FILES TO PROCESS:
 RULES:
 - Use internal knowledge only (NO web search)
 - Read each file → Extract situation/option from filename
-- **CLEANUP TAGS (CRITICAL):**
-  1. Select hierarchical tag(s) from MASTER TAGGING SYSTEM comment
-  2. Use formula: `#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>`
-  3. Place tag(s) above EACH flashcard header
+- **CLEANUP TAGS (CRITICAL - EACH CARD HAS UNIQUE TAG):**
+  1. Select PILLAR & subtopic from MASTER TAGGING SYSTEM comment
+  2. Use tag formula: `#flashcards/ielts-listening/<PILLAR>/<subtopic>/<tier>/<drill-type>`
+  3. **EACH CARD must have its SPECIFIC tag suffix (see table below)**
   4. **DELETE the entire `<!-- MASTER TAGGING SYSTEM ... -->` comment block**
+  
+  **⚠️ TAG SUFFIX PER CARD (MANDATORY):**
+  | Card | Tier | Tag suffix |
+  |------|------|------------|
+  | 1 | daily | `daily/01-prediction` |
+  | 2 | daily | `daily/02-keywords` |
+  | 3 | daily | `daily/03-signpost` |
+  | 4 | weekly | `weekly/01-reverse` |
+  | 5 | weekly | `weekly/02-trap` |
+  | 6 | weekly | `weekly/03-differentiate` |
+  | 7 | weekly | `weekly/04-cloze` |
+  | 8 | biweekly | `biweekly/01-chain` |
+  | 9 | biweekly | `biweekly/02-full-trap` |
+  | 10 | biweekly | `biweekly/03-script-match` |
+  | 11 | biweekly | `biweekly/04-speed` |
+  
+  **Example (for PILLAR=social-leisure, subtopic=events):**
+  - Card 1: `#flashcards/ielts-listening/social-leisure/events/daily/01-prediction`
+  - Card 5: `#flashcards/ielts-listening/social-leisure/events/weekly/02-trap`
+  - Card 11: `#flashcards/ielts-listening/social-leisure/events/biweekly/04-speed`
+  
 - **POPULATE ALIASES:**
   - Fill `aliases: [...]` with pattern variations/paraphrases
   - **DELETE the trailing comment** `# common variations...`
@@ -98,6 +119,7 @@ FORMAT RULES:
 - Mandatory: Include `?` separator between Q&A
 - Use `==highlight==` for key terms (MANDATORY!)
 - Write analysis in Vietnamese/English mix as per template
+
 - Replace ALL {{PLACEHOLDER}} with actual content
 ```
 
@@ -148,19 +170,20 @@ Show pending situation files without processing
 
 ## 🔄 Flashcard Structure Summary (11 Cards)
 
-| Tier | Card | Name | Tests |
-|------|------|------|-------|
-| 1: Daily | 1 | 3-Way Prediction Brainstorm | Paraphrasing imagination |
-| 1: Daily | 2 | Verb + Noun Association | Collocation recall |
-| 1: Daily | 3 | Signpost Detection | Signal word recognition |
-| 2: Weekly | 4 | Reverse Matching | Audio → Option matching |
-| 2: Weekly | 5 | Trap Identification | Negation signal detection |
-| 2: Weekly | 6 | Confusion Differentiation | Similar option distinction |
-| 2: Weekly | 7 | Context Cloze | Gap-fill comprehension |
-| 3: Bi-weekly | 8 | Paraphrase Chain | Multi-level rewording |
-| 3: Bi-weekly | 9 | Full Distractor Analysis | Error analysis |
-| 3: Bi-weekly | 10 | Script-to-Option Mapping | Paraphrase identification |
-| 3: Bi-weekly | 11 | 5-Second Prediction Drill | Speed recall |
+| Tier | Card | Name | Tag Suffix |
+|------|------|------|------------|
+| Daily | 1 | 3-Way Prediction Brainstorm | `daily/01-prediction` |
+| Daily | 2 | Verb + Noun Association | `daily/02-keywords` |
+| Daily | 3 | Signpost Detection | `daily/03-signpost` |
+| Weekly | 4 | Reverse Matching | `weekly/01-reverse` |
+| Weekly | 5 | Trap Identification | `weekly/02-trap` |
+| Weekly | 6 | Confusion Differentiation | `weekly/03-differentiate` |
+| Weekly | 7 | Context Cloze | `weekly/04-cloze` |
+| Bi-weekly | 8 | Paraphrase Chain | `biweekly/01-chain` |
+| Bi-weekly | 9 | Full Distractor Analysis | `biweekly/02-full-trap` |
+| Bi-weekly | 10 | Script-to-Option Mapping | `biweekly/03-script-match` |
+| Bi-weekly | 11 | 5-Second Prediction Drill | `biweekly/04-speed` |
+
 
 ---
 
