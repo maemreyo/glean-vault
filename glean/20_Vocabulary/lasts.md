@@ -111,6 +111,7 @@ Use **lasts** in a sentence.
 > 📝 **Sentence:** A typical workday lasts eight hours, including a one-hour lunch break.
 > 🇻🇳 **Translation:** Một ngày làm việc điển hình kéo dài tám tiếng, bao gồm một giờ nghỉ trưa.
 > 🔍 **Analysis:** "Lasts" ở đây là present simple, dùng để mô tả sự kiện có lịch trình cố định, diễn ra thường xuyên - không phải đang diễn ra tại thời điểm nói
+<!--SR:!2025-12-28,4,275-->
 
 ---
 

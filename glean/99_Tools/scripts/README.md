@@ -19,12 +19,55 @@ This script automates the process of linking vocabulary and structure terms in y
 
 Run the script from the vault root or any subdirectory (it auto-detects vault root).
 
-### Original Script
+### Option 1: OpenCode Custom Commands (Recommended for OpenCode users)
+
+If you're using OpenCode, you can run commands directly from TUI:
+
+```bash
+# Link a single file or folder
+/link-vocab glean/10_Sources/Articles/article.md
+
+# Link with all features enabled
+/link-vocab-full glean/10_Sources/Articles
+
+# Manage backups
+/vocab-backup
+
+# Clean up redundant backups
+/vocab-cleanup
+```
+
+**Benefits:**
+- Integrated with OpenCode TUI
+- Just type command, no need to remember paths
+- Auto dry-run before applying changes
+- Safety prompts for dangerous operations
+
+### Option 2: Interactive Menu (Recommended for terminal use)
+
+Run the interactive menu for a user-friendly interface:
+
+```bash
+python3 glean/99_Tools/scripts/vocab_linker.py
+```
+
+**Features:**
+- Menu-driven interface with 8 options
+- Remembers last settings (config file)
+- Shows current configuration
+- Confirmation prompts for all operations
+- Color-coded output for readability
+
+### Option 3: Direct Script Execution
+
+For maximum control, run the script directly:
+
+#### Original Script
 ```bash
 python3 glean/99_Tools/scripts/auto_link_vocab.py [arguments]
 ```
 
-### New Modular Script (Recommended)
+#### New Modular Script (Recommended)
 ```bash
 python3 glean/99_Tools/scripts/auto_link_vocab_v2.py [arguments]
 ```

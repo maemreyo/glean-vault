@@ -123,6 +123,7 @@ List 3 common collocations for **meal**.
 > 1. **Action:** have/take/skip a meal (VN: hành động ăn)
 > 2. **Preparation:** cook/prepare/serve a meal (VN: chuẩn bị)
 > 3. **Quality:** delicious/hearty/light meal (VN: chất lượng)
+<!--SR:!2025-12-27,3,254-->
 
 ---
 

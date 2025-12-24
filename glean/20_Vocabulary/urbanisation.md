@@ -112,6 +112,7 @@ Use **urbanisation** in a sentence.
 > 📝 **Sentence:** Urbanisation has transformed the landscape, converting farmlands into residential and commercial districts.
 > 🇻🇳 **Translation:** Sự đô thị hóa đã thay đổi cảnh quan, chuyển đổi đất nông nghiệp thành các khu dân cư và thương mại.
 > 🔍 **Analysis:** "Urbanisation" là danh từ học thuật, thể hiện quá trình xã hội phức tạp, thường dùng trong bối cảnh kinh tế-xã hội, quy hoạch đô thị
+<!--SR:!2025-12-28,4,274-->
 
 ---
 

@@ -8,13 +8,13 @@ Exam preparation [[20_Vocabulary/material|materials]]
 
 *Write **ONE WORD [[20_Vocabulary/In addition|AND]]/OR A NUMBER** for each answer.*
 
-| First day at work |
-| --- |
-| ● Name of [[20_Vocabulary/supervisor\|supervisor]]: | 1 ………………… |
-| ● Where to leave [[20_Vocabulary/coat\|coat]] [[20_Vocabulary/In addition\|and]] bag: | use 2 ………………… in staffroom |
-| ● See Tiffany in HR: | to give 3 ………………… numberto collect 4 ………………… |
-| ● [[20_Vocabulary/placement\|Location]] of HR office: | on 5 ………………… floor |
-| ● [[20_Vocabulary/supervisor\|Supervisor]]'s mobile number: | 6 ………………… |
+| First day at work                                                                     |                                              |     |
+| ------------------------------------------------------------------------------------- | -------------------------------------------- | --- |
+| ● Name of [[20_Vocabulary/supervisor\|supervisor]]:                                   | 1 …………………                                    |     |
+| ● Where to leave [[20_Vocabulary/coat\|coat]] [[20_Vocabulary/In addition\|and]] bag: | use 2 ………………… in staffroom                   |     |
+| ● See Tiffany in HR:                                                                  | to give 3 ………………… numberto collect 4 ………………… |     |
+| ● [[20_Vocabulary/placement\|Location]] of HR office:                                 | on 5 ………………… floor                           |     |
+| ● [[20_Vocabulary/supervisor\|Supervisor]]'s mobile number:                           | 6 …………………                                    |     |
 
 **Questions 7–10**
 
