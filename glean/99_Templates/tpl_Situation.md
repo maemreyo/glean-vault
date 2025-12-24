@@ -123,7 +123,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ### Tier 1: Daily Quick Review (3 Cards)
 
-#flashcards/ielts-listening/<TOPIC>/daily/01-prediction
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** =={{OPTION_TEXT}}==
@@ -142,7 +142,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-listening/<TOPIC>/daily/02-keywords
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** =={{OPTION_TEXT}}==
@@ -158,7 +158,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-listening/<TOPIC>/daily/03-signpost
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
 ### Card 3: Signpost Detection
 
 > **Option:** =={{OPTION_TEXT}}==
@@ -176,7 +176,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ### Tier 2: Weekly Intensive (4 Cards)
 
-#flashcards/ielts-listening/<TOPIC>/weekly/01-reverse
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
@@ -195,7 +195,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-listening/<TOPIC>/weekly/02-trap
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-trap
 ### Card 5: Trap Identification
 
 > **Option:** =={{OPTION_TEXT}}==
@@ -215,7 +215,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-listening/<TOPIC>/weekly/03-differentiate
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-differentiate
 ### Card 6: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
@@ -231,7 +231,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-listening/<TOPIC>/weekly/04-cloze
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
@@ -250,7 +250,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ### Tier 3: Bi-weekly Mastery (4 Cards)
 
-#flashcards/ielts-listening/<TOPIC>/biweekly/01-chain
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-chain
 ### Card 8: Paraphrase Chain
 
 > **Option:** =={{OPTION_TEXT}}==
@@ -270,7 +270,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-listening/<TOPIC>/biweekly/02-full-trap
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-full-trap
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -296,7 +296,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-listening/<TOPIC>/biweekly/03-script-match
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-script-match
 ### Card 10: Script-to-Option Mapping
 
 > **Option Text:** =="{{OPTION_TEXT}}"==
@@ -315,7 +315,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-listening/<TOPIC>/biweekly/04-speed
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-speed
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
