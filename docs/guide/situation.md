@@ -144,7 +144,16 @@ FORMAT RULES:
 - Write analysis in Vietnamese/English mix as per template
 
 - Replace ALL {{PLACEHOLDER}} with actual content
-```
+
+**💎 QUALITY & DETAIL RULES (MANDATORY):**
+- **Deep Analysis:** Avoid superficial 1-2 word answers. Provide *detailed, specific* explanations.
+- **5D Framework:** "Definition" and "Denotation" must be full sentences explaining context, not just synonyms.
+- **Imagination:** "Sensory Triggers" must describe *meaningful* scenes, sounds, and actions (e.g., "Hearing the *ching* sound of a cash register closing" vs just "sound of money").
+- **Flashcards:**
+  - **Why/Logic:** Explanations in "Logic Chain" and "Why" sections must be comprehensive. Explain *exactly how* the paraphrase works or *specifically why* a distractor is wrong.
+  - **Distinctions:** Clearly articulate the *nuance* between confusing options, not just "A is X, B is Y".
+- **Real Audio Phrases:** Must sound authentic to IELTS Listening (use contractions, natural fillers like "actually", "well", "you see").
+
 
 ### 4. Validation
 After all batches complete:

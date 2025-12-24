@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40_Situation/giving advice to visitors.md",
+                "file": "99_Templates/tpl_Situation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "giving advice to visitors"
+              "title": "tpl_Situation"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "8e496b8c344b343f",
   "lastOpenFiles": [
+    "40_Situation/giving advice to visitors.md",
     "40_Situation/He was surprised that, in early British theatre, programmes were given out free of charge.md",
     "40_Situation/He was surprised that, in early British theatre, programmes were seen as a kind of contract.md",
     "40_Situation/claim that the link between loneliness and mental health is overstated.md",
@@ -233,7 +234,6 @@
     "40_Situation/the topic was not familiar to the module leader.md",
     "40_Situation/was pleased to discover.md",
     "10_Sources/Articles/Cam 20 Listening Test 02.md",
-    "10_Sources/Articles/Cam 20 Listening Test 01.md",
     "40_Situation",
     "40__Situation",
     "99_Tools/scripts/auto_link_vocab.py.bak",
