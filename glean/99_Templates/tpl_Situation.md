@@ -1,22 +1,3 @@
-#flashcards/ielts-listening/matching-reflex
-<!--
-Select one of the following tags to replace the line above:
-
-# General Activities
-#flashcards/ielts-listening/topic/volunteering-events
-#flashcards/ielts-listening/topic/daily-life-services
-#flashcards/ielts-listening/topic/travel-tourism
-
-# Academic/Coursework
-#flashcards/ielts-listening/topic/assignment-feedback
-#flashcards/ielts-listening/topic/research-projects
-#flashcards/ielts-listening/topic/library-facilities
-
-# Maps & Locations
-#flashcards/ielts-listening/topic/directions-facilities
-#flashcards/ielts-listening/topic/changes-layouts
--->
-
 ---
 
 tags:
@@ -88,14 +69,15 @@ ref:
 #flashcards/ielts-listening/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-**Option:** =={{OPTION_TEXT}}==
-**Context:** *{{CONTEXT}}*
-❓ **Question:** Liệt kê **3 kịch bản paraphrasing** mà người nói có thể dùng?
+> **Option:** =={{OPTION_TEXT}}==
+> **Context:** *{{CONTEXT}}*
+>
+❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
 ?
 > [!success] 💡 Possible Scripts
-> 1. **Action (Hành động):** <ví dụ: Hiring a live band>
-> 2. **Object/Person (Đối tượng):** <ví dụ: Booking the magician>
-> 3. **Abstract (Trừu tượng):** <ví dụ: Organising fun activities>
+> 1. **Action (Hành động):** <ví dụ: Hiring ==a live band==>
+> 2. **Object/Person (Đối tượng):** <ví dụ: Booking ==the magician==>
+> 3. **Abstract (Trừu tượng):** <ví dụ: Organising ==fun activities==>
 >
 > **🔑 Core Concept:** <Tóm tắt logic kết nối>
 
@@ -104,8 +86,9 @@ ref:
 #flashcards/ielts-listening/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-**Option:** =={{OPTION_TEXT}}==
-❓ **Question:** Những **V+N collocations** phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
+> **Option:** =={{OPTION_TEXT}}==
+>
+> ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
 > [!note] 🗝️ Collocations
 > - **Verbs:** <ví dụ: perform, play, dance>
@@ -118,8 +101,9 @@ ref:
 #flashcards/ielts-listening/daily/03-signpost
 ### Card 3: Signpost Detection
 
-**Option:** =={{OPTION_TEXT}}==
-❓ **Question:** Những **từ nối (signpost)** thường đi trước/sau khi nói về ý này?
+> **Option:** =={{OPTION_TEXT}}==
+>
+> ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
 ?
 > [!tip] 🚦 Signposts
 > - **Before:** <ví dụ: "So," "As for," "Regarding...">
@@ -134,15 +118,15 @@ ref:
 #flashcards/ielts-listening/weekly/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
-**Audio Script:**
+> **Audio Script:**
 > "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
-
-❓ **Question:** Đoạn này match với **Option** nào?
+>
+> ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
 > [!check] ✅ Match: **{{OPTION_TEXT}}**
 > **🔍 Analysis:**
-> - Audio nói: `{{KEY_PHRASE_IN_AUDIO}}`
-> - Tương đương với: `{{KEY_WORD_IN_OPTION}}`
+> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
 >
 > **🧠 Logic Chain:** <Cách suy luận từ audio đến option>
 
@@ -151,8 +135,9 @@ ref:
 #flashcards/ielts-listening/weekly/02-trap
 ### Card 5: Trap Identification
 
-**Option:** =={{OPTION_TEXT}}==
-❓ **Question:** Những **dấu hiệu phủ định** (negation signals) nào cho thấy đáp án này đã bị **LOẠI**?
+> **Option:** =={{OPTION_TEXT}}==
+>
+> ❓ **Question:** Những ==dấu hiệu phủ định== (negation signals) nào cho thấy đáp án này đã bị ==LOẠI==?
 ?
 > [!fail] 🛑 Negation Signals
 > - *"We thought about doing X, but..."* (Dự định nhưng không làm)
@@ -167,8 +152,9 @@ ref:
 #flashcards/ielts-listening/weekly/03-differentiate
 ### Card 6: Confusion Differentiation
 
-🆚 **Comparison:** Phân biệt **"{{OPTION_TEXT}}"** với **"{{CONFUSING_OPTION}}"**?
-❓ **Question:** Sự khác biệt cốt lõi là gì?
+> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+>
+> ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
 > - **{{OPTION_TEXT}}:** Tập trung vào ==<Focus Area 1>==.
@@ -181,14 +167,15 @@ ref:
 #flashcards/ielts-listening/weekly/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
-🗣️ **Audio Transcript:**
+> 🗣️ **Audio Transcript:**
 > *<Audio transcript với ==key phrase== ẩn>*
-
-🇻🇳 **Vietnamese:** <Vietnamese Translation>
-❓ **Question:** Điền vào chỗ trống?
+>
+> 🇻🇳 **Vietnamese:** <Vietnamese Translation>
+>
+> ❓ **Question:** ==Điền vào chỗ trống==?
 ?
 > [!success] ✅ Answer: **{{KEY_PHRASE}}**
-> **🔗 Connects to:** {{OPTION_TEXT}}
+> **🔗 Connects to:** =={{OPTION_TEXT}}==
 >
 > **💡 Why:** <Giải thích logic>
 
@@ -199,8 +186,9 @@ ref:
 #flashcards/ielts-listening/biweekly/01-chain
 ### Card 8: Paraphrase Chain
 
-**Option:** "{{OPTION_TEXT}}"
-❓ **Question:** Tạo **chuỗi paraphrasing 4 levels** cho ý này?
+> **Option:** =={{OPTION_TEXT}}==
+>
+> ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
 ?
 > [!info] 🔗 Paraphrase Chain
 > 1. **Direct:** <Cùng nghĩa, từ khác>
@@ -209,27 +197,28 @@ ref:
 > 4. **Implicit:** <Ý nghĩa ẩn dụ>
 >
 > **💡 Core Thread:** <Chủ đề xuyên suốt>
+<!--SR:!2025-12-28,4,270-->
 
 ---
 
 #flashcards/ielts-listening/biweekly/02-full-trap
 ### Card 9: Full Distractor Analysis
 
-**Full Script (including distractors):**
+> **Full Script (including distractors):**
 > "{{FULL_AUDIO_WITH_DISTRACTORS}}"
-
-❓ **Question:** Phân tích từng **distractor** và tại sao sai?
+>
+> ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** "{{TEXT}}"
+> **1. Distractor:** =="{{TEXT}}"==
 > - *Sounds like:* <Nghe giống gì>
 > - *Wrong because:* <Tại sao sai>
 >
-> **2. Distractor:** "{{TEXT}}"
+> **2. Distractor:** =="{{TEXT}}"==
 > - *Sounds like:* <Nghe giống gì>
 > - *Wrong because:* <Tại sao sai>
 >
-> [!check] ✅ Correct Answer: **{{OPTION_TEXT}}**
+> ✅ Correct Answer: =={{OPTION_TEXT}}==
 > - *Why correct:* <Giải thích>
 
 ---
@@ -237,15 +226,16 @@ ref:
 #flashcards/ielts-listening/biweekly/03-script-match
 ### Card 10: Script-to-Option Mapping
 
-**Option Text:** "{{OPTION_TEXT}}"
-**Audio Transcript:**
+> **Option Text:** =="{{OPTION_TEXT}}"==
+>
+> **Audio Transcript:**
 > "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
-
-❓ **Question:** Highlight và giải thích tất cả các **paraphrases** từ Audio → Option?
+>
+> ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - `Audio phrase` → **Option word**
-> - `Audio phrase` → **Option word**
+> - `Audio phrase` → ==Option word==
+> - `Audio phrase` → ==Option word==
 >
 > **🧠 Overall Logic:** <Tổng hợp logic kết nối>
 
@@ -254,10 +244,13 @@ ref:
 #flashcards/ielts-listening/biweekly/04-speed
 ### Card 11: 5-Second Prediction Drill
 
-⏱️ **Speed Challenge (5s):**
-**Option:** =={{OPTION_TEXT}}==
-**Context:** {{CONTEXT}}
-❓ **Question:** List **2 paraphrases** IMMEDIATELY!
+> ⏱️ **Speed Challenge (5s):**
+>
+> **Option:** =={{OPTION_TEXT}}==
+>
+> **Context:** {{CONTEXT}}
+>
+> ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
 > 1. ==<Paraphrase 1>==
