@@ -60,7 +60,49 @@ ref:
 
 ---
 
+<!-- MASTER TAGGING SYSTEM
 
+1. #survival-essentials
+   housing | accommodation | travel | transport | banking | shopping
+   insurance | utilities | postal | repairs | maintenance
+
+2. #health-food
+   medical | hospital | pharmacy | dentist | fitness | gym
+   nutrition | diet | restaurant | cafe | cooking | recipes
+
+3. #work-career
+   job-search | recruitment | interview | cv-resume | workplace | office
+   salary | benefits | promotion | freelance | entrepreneurship
+
+4. #education-training
+   university | courses | enrollment | assignments | projects | exams
+   library | research | tutoring | feedback | scholarships | graduation
+
+5. #social-leisure
+   events | festivals | parties | sports | fitness-activities | hobbies
+   clubs | entertainment | cinema | concerts | relationships | volunteering
+
+6. #science-tech
+   biology | chemistry | physics | astronomy | IT | computers
+   innovation | AI | robotics | environment | ecology | sustainability
+
+7. #culture-media
+   history | archaeology | arts | museums | literature | books
+   tourism | attractions | journalism | news | film | music | theatre
+
+8. #business-legal
+   commerce | trade | marketing | advertising | finance | investment
+   contracts | law | regulations | negotiations | customer-service
+
+---
+📌 USAGE FORMULA:
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
+
+Examples:
+- #flashcards/ielts-listening/health-food/medical/matching-reflex
+- #flashcards/ielts-reading/business-legal/contracts/true-false-ng
+- #flashcards/ielts-speaking/social-leisure/hobbies/part1-warmup
+-->
 
 ## 🧠 Spaced Repetition Flashcards (11 Cards)
 
