@@ -74,7 +74,9 @@ ref:
 ?
 > [!success] 💡 Possible Scripts
 > 1. **Action (Hành động):** <ví dụ: Hiring ==a live band== (dùng cặp `==` để highlight các từ quan trọng)>
+>
 > 2. **Object/Person (Đối tượng):** <ví dụ: Booking ==the magician== (dùng cặp `==` để highlight các từ quan trọng)>
+>
 > 3. **Abstract (Trừu tượng):** <ví dụ: Organising ==fun activities== (dùng cặp `==` để highlight các từ quan trọng)>
 >
 > **🔑 Core Concept:** <Tóm tắt logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
@@ -90,6 +92,7 @@ ref:
 ?
 > [!note] 🗝️ Collocations
 > - **Verbs:** <ví dụ: perform, play, dance (dùng cặp `==` để highlight các từ quan trọng)>
+>
 > - **Nouns:** <ví dụ: music, concert, comedy (dùng cặp `==` để highlight các từ quan trọng)>
 >
 > **💡 Pattern Note:** <Ghi chú về pattern (dùng cặp `==` để highlight các từ quan trọng)>
@@ -105,6 +108,7 @@ ref:
 ?
 > [!tip] 🚦 Signposts
 > - **Before:** <ví dụ: "So," "As for," "Regarding..." (dùng cặp `==` để highlight các từ quan trọng)>
+>
 > - **After:** <ví dụ: "which involves," "that means..." (dùng cặp `==` để highlight các từ quan trọng)>
 >
 > **🎧 Audio Cue:** <Cụm từ nghe được (dùng cặp `==` để highlight các từ quan trọng)>
@@ -123,7 +127,9 @@ ref:
 ?
 > [!check] ✅ Match: =={{OPTION_TEXT}}==
 > **🔍 Analysis:**
+>
 > - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+>
 > - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
 >
 > **🧠 Logic Chain:** <Cách suy luận từ audio đến option (dùng cặp `==` để highlight các từ quan trọng)>
@@ -139,8 +145,11 @@ ref:
 ?
 > [!fail] 🛑 Negation Signals
 > - *"We thought about doing X, but..."* (Dự định nhưng không làm)
+>
 > - *"X used to be popular, however..."* (Quá khứ)
+>
 > - *"Instead of X, we decided to..."* (Thay thế)
+>
 > - *"We've run out of time for X..."* (Không làm được)
 >
 > **⚠️ Other Traps:** <Too expensive, not available... (dùng cặp `==` để highlight các từ quan trọng)>
@@ -156,6 +165,7 @@ ref:
 ?
 > [!example] 🆚 Distinction
 > - **{{OPTION_TEXT}}:** Tập trung vào <Focus Area 1 (dùng cặp `==` để highlight các từ quan trọng)>.
+>
 > - **{{CONFUSING_OPTION}}:** Tập trung vào <Focus Area 2 (dùng cặp `==` để highlight các từ quan trọng)>.
 >
 > **🧱 Key Barrier:** <Rào cản chính phân biệt 2 ý (dùng cặp `==` để highlight các từ quan trọng)>
@@ -190,8 +200,11 @@ ref:
 ?
 > [!info] 🔗 Paraphrase Chain
 > 1. **Direct:** <Cùng nghĩa, từ khác (dùng cặp `==` để highlight các từ quan trọng)>
+>
 > 2. **Related:** <Ý nghĩa liên quan (dùng cặp `==` để highlight các từ quan trọng)>
+>
 > 3. **Contextual:** <Theo ngữ cảnh cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+>
 > 4. **Implicit:** <Ý nghĩa ẩn dụ (dùng cặp `==` để highlight các từ quan trọng)>
 >
 > **💡 Core Thread:** <Chủ đề xuyên suốt (dùng cặp `==` để highlight các từ quan trọng)>
@@ -208,11 +221,15 @@ ref:
 ?
 > [!bug] 🕵️ Distractor Breakdown
 > **1. Distractor:** =="{{TEXT}}"==
+>
 > - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+>
 > - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
 >
 > **2. Distractor:** =="{{TEXT}}"==
+>
 > - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+>
 > - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
 >
 > **✅ Correct Answer:** =={{OPTION_TEXT}}==
@@ -231,8 +248,9 @@ ref:
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - `Audio phrase` → ==Option word==
-> - `Audio phrase` → ==Option word==
+> - ==Audio phrase== → ==Option word==
+>
+> - ==Audio phrase== → ==Option word==
 >
 > **🧠 Overall Logic:** <Tổng hợp logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
 
@@ -251,6 +269,7 @@ ref:
 ?
 > [!quote] ⚡ Speed Answers
 > 1. ==<Paraphrase 1>==
+>
 > 2. ==<Paraphrase 2>==
 >
 > **🎯 Goal:** Instant Recall

@@ -8,14 +8,10 @@
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
-    "convertHighlightsToClozes": true,
-    "convertBoldTextToClozes": true,
-    "convertCurlyBracketsToClozes": true,
-    "clozePatterns": [
-      "==[123;;]answer[;;hint]==",
-      "**[123;;]answer[;;hint]**",
-      "{{[123;;]answer[;;hint]}}"
-    ],
+    "convertHighlightsToClozes": false,
+    "convertBoldTextToClozes": false,
+    "convertCurlyBracketsToClozes": false,
+    "clozePatterns": [],
     "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
