@@ -1,7 +1,7 @@
 ---
-tags:
-  - reflex-training
-aliases: [] # common variations, shortened forms of the pattern or paraphrases
+aliases:
+  - 
+# common variations, shortened forms of the pattern or paraphrases
 status: pending
 ref:
 

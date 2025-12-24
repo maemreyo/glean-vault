@@ -55,6 +55,7 @@ RULES:
   2. Use tag formula: `#flashcards/ielts-listening/<PILLAR>/<subtopic>/<tier>/<drill-type>`
   3. **EACH CARD must have its SPECIFIC tag suffix (see table below)**
   4. **DELETE the entire `<!-- MASTER TAGGING SYSTEM ... -->` comment block**
+  5. **LOCATION RULE:** Tags must ONLY appear directly above their respective card headers in the `## 🧠 Spaced Repetition Flashcards` section. NEVER place flashcard tags in the YAML frontmatter or anywhere else.
   
   **⚠️ TAG SUFFIX PER CARD (MANDATORY):**
   | Card | Tier | Tag suffix |
@@ -91,11 +92,17 @@ RULES:
   ```
   
 
-- **POPULATE ALIASES:**
-  - Fill `aliases: [...]` with pattern variations/paraphrases
+- **POPULATE ALIASES (MULTI-LINE LIST):**
+  - Use the YAML list format (bullet points) for better readability.
+  - Fill `aliases:` with variation 1, variation 2, etc. each on a new line with `-`.
   - **DELETE the trailing comment** `# common variations...`
-  - valid: `aliases: [contacting businesses, reaching out to companies]`
-  - invalid: `aliases: [] # common variations...`
+  - Valid format:
+    ```yaml
+    aliases:
+      - variation 1
+      - variation 2
+      - variation 3
+    ```
 - **FILL ANALYSIS SECTIONS** (before flashcards):
   - Option Profile → Replace all {{PLACEHOLDER}} variables
   - Target Analysis → Type of Info, Topic Category, 5D Framework
