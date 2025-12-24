@@ -80,7 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **physical trait** (*/ˈfɪzɪkəl treɪt/*) mean?
@@ -92,7 +92,7 @@ What does **physical trait** (*/ˈfɪzɪkəl treɪt/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "An observable characteristic or feature of an organism's body"
@@ -103,7 +103,7 @@ What does **physical trait** (*/ˈfɪzɪkəl treɪt/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **physical trait** in a sentence.
@@ -114,7 +114,7 @@ Use **physical trait** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **physical trait**.
@@ -126,7 +126,7 @@ List 3 common collocations for **physical trait**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **physical trait**:
@@ -137,7 +137,7 @@ List 3 common collocations for **physical trait**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **physical trait** instead of **[[characteristic]]**?
@@ -148,7 +148,7 @@ List 3 common collocations for **physical trait**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're at a genetics conference. You're explaining inheritance. Say it!
@@ -158,7 +158,7 @@ List 3 common collocations for **physical trait**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `physicalis` (of nature) + `tractus` (drawing) to **physical trait**.
@@ -167,7 +167,7 @@ List 3 common collocations for **physical trait**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/05-addition
+#flashcards/cambridge/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **physical trait**.
@@ -180,7 +180,7 @@ Analyze the root/family of **physical trait**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈfɪzɪkəl treɪt/*
@@ -191,7 +191,7 @@ Analyze the root/family of **physical trait**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "Kindness is her best physical trait" (nhầm lẫn loại đặc điểm)
@@ -201,7 +201,7 @@ Analyze the root/family of **physical trait**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **physical trait**?

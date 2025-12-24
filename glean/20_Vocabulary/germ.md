@@ -81,7 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **germ** (*/dʒɜːrm/*) mean?
@@ -93,7 +93,7 @@ What does **germ** (*/dʒɜːrm/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A microscopic organism that can cause disease"
@@ -104,7 +104,7 @@ What does **germ** (*/dʒɜːrm/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **germ** in a sentence.
@@ -115,7 +115,7 @@ Use **germ** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **germ**.
@@ -127,7 +127,7 @@ List 3 common collocations for **germ**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **germ**:
@@ -138,7 +138,7 @@ List 3 common collocations for **germ**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **germ** instead of **[[bacteria]]**?
@@ -149,7 +149,7 @@ List 3 common collocations for **germ**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend sneezes without covering their mouth. You're concerned about **germs**. React!
@@ -159,7 +159,7 @@ List 3 common collocations for **germ**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `germen` to the meaning of **germ**.
@@ -168,7 +168,7 @@ List 3 common collocations for **germ**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/05-addition
+#flashcards/cambridge/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **germ**.
@@ -182,7 +182,7 @@ Analyze the root/family of **germ**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */dʒɜːrm/*
@@ -193,7 +193,7 @@ Analyze the root/family of **germ**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Be careful of germ in public places.
@@ -203,7 +203,7 @@ Analyze the root/family of **germ**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of having **germs**?

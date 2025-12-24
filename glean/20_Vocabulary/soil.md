@@ -80,7 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **soil** (*/sɔɪl/*) mean?
@@ -92,7 +92,7 @@ What does **soil** (*/sɔɪl/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The upper layer of earth in which plants grow"
@@ -103,7 +103,7 @@ What does **soil** (*/sɔɪl/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **soil** in a sentence.
@@ -114,7 +114,7 @@ Use **soil** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **soil**.
@@ -126,7 +126,7 @@ List 3 common collocations for **soil**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **soil**:
@@ -137,7 +137,7 @@ List 3 common collocations for **soil**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **soil** instead of **[[dirt]]**?
@@ -148,7 +148,7 @@ List 3 common collocations for **soil**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're an environmental scientist finding polluted land. You feel concerned. Say it!
@@ -158,7 +158,7 @@ List 3 common collocations for **soil**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `solium` to the meaning of **soil**.
@@ -167,7 +167,7 @@ List 3 common collocations for **soil**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/05-addition
+#flashcards/cambridge/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **soil**.
@@ -180,7 +180,7 @@ Analyze the root/family of **soil**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */sɔɪl/*
@@ -191,7 +191,7 @@ Analyze the root/family of **soil**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** I need to buy three bags of soils for my garden.
@@ -201,7 +201,7 @@ Analyze the root/family of **soil**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **soil**?

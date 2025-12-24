@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **upset** (*/ʌpˈset/*) mean?
@@ -91,7 +91,7 @@ What does **upset** (*/ʌpˈset/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To cause emotional disturbance or unhappiness; to make someone worried or disappointed"**
@@ -102,7 +102,7 @@ What does **upset** (*/ʌpˈset/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **upset** in a sentence.
@@ -113,7 +113,7 @@ Use **upset** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **upset**.
@@ -125,7 +125,7 @@ List 3 common collocations for **upset**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **upset**:
@@ -136,7 +136,7 @@ List 3 common collocations for **upset**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **upset** instead of **[[sad]]**?
@@ -147,7 +147,7 @@ List 3 common collocations for **upset**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend cancels plans at the last minute without explanation. You feel annoyed and disappointed. Say it!
@@ -157,7 +157,7 @@ List 3 common collocations for **upset**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `up-set` to the meaning of **upset**.
@@ -166,7 +166,7 @@ List 3 common collocations for **upset**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/05-addition
+#flashcards/cambridge/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **upset**.
@@ -180,7 +180,7 @@ Analyze the root/family of **upset**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ʌpˈset/*
@@ -191,7 +191,7 @@ Analyze the root/family of **upset**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** She was upsad about the test results**
@@ -201,7 +201,7 @@ Analyze the root/family of **upset**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **upset**?

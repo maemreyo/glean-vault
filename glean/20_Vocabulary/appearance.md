@@ -81,7 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **appearance** (*/əˈpɪərəns/*) mean?
@@ -93,7 +93,7 @@ What does **appearance** (*/əˈpɪərəns/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The way someone or something looks to others"
@@ -104,7 +104,7 @@ What does **appearance** (*/əˈpɪərəns/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **appearance** in a sentence.
@@ -115,7 +115,7 @@ Use **appearance** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **appearance**.
@@ -127,7 +127,7 @@ List 3 common collocations for **appearance**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **appearance**:
@@ -138,7 +138,7 @@ List 3 common collocations for **appearance**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **appearance** instead of **look**?
@@ -149,7 +149,7 @@ List 3 common collocations for **appearance**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're giving advice about job interviews. You want to emphasize first impressions.
@@ -159,7 +159,7 @@ List 3 common collocations for **appearance**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `apparere` to the meaning of **appearance**.
@@ -168,7 +168,7 @@ List 3 common collocations for **appearance**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/05-addition
+#flashcards/cambridge/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **appearance**.
@@ -183,7 +183,7 @@ Analyze the root/family of **appearance**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */əˈpɪərəns/*
@@ -194,7 +194,7 @@ Analyze the root/family of **appearance**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "She has a beautiful appearance." (unnatural phrasing)
@@ -204,7 +204,7 @@ Analyze the root/family of **appearance**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **appearance**?

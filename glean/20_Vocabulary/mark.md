@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **mark** (*/mɑːk/*) mean?
@@ -91,7 +91,7 @@ What does **mark** (*/mɑːk/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To make a visible indication; a sign or symbol; to grade/assess; a target"
@@ -102,7 +102,7 @@ What does **mark** (*/mɑːk/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **mark** in a sentence.
@@ -113,7 +113,7 @@ Use **mark** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **mark**.
@@ -125,7 +125,7 @@ List 3 common collocations for **mark**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **mark**:
@@ -136,7 +136,7 @@ List 3 common collocations for **mark**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **mark** instead of **[[note]]**?
@@ -147,7 +147,7 @@ List 3 common collocations for **mark**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're organizing an important event. Express its significance.
@@ -157,7 +157,7 @@ List 3 common collocations for **mark**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `mearc` to the meaning of **mark**.
@@ -166,7 +166,7 @@ List 3 common collocations for **mark**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/05-addition
+#flashcards/cambridge/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **mark**.
@@ -179,7 +179,7 @@ Analyze the root/family of **mark**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */mɑːk/*
@@ -190,7 +190,7 @@ Analyze the root/family of **mark**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The teacher marked me absent today."
@@ -200,7 +200,7 @@ Analyze the root/family of **mark**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **mark**?

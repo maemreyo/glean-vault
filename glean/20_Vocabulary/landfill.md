@@ -77,7 +77,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **landfill** (*/ˈlændfɪl/*) mean?
@@ -89,7 +89,7 @@ What does **landfill** (*/ˈlændfɪl/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A place where waste material is buried under layers of earth in an engineered manner"
@@ -100,7 +100,7 @@ What does **landfill** (*/ˈlændfɪl/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **landfill** in a sentence.
@@ -111,7 +111,7 @@ Use **landfill** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **landfill**.
@@ -123,7 +123,7 @@ List 3 common collocations for **landfill**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **landfill**:
@@ -134,7 +134,7 @@ List 3 common collocations for **landfill**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **landfill** instead of **[[dump]]**?
@@ -145,7 +145,7 @@ List 3 common collocations for **landfill**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're explaining modern waste management to environmental students. You want to emphasize technological solutions. Say it!
@@ -155,7 +155,7 @@ List 3 common collocations for **landfill**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root concept of 'land + fill' to the meaning of **landfill**.
@@ -164,7 +164,7 @@ List 3 common collocations for **landfill**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/05-addition
+#flashcards/cambridge/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **landfill**.
@@ -177,7 +177,7 @@ Analyze the root/family of **landfill**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈlændfɪl/*
@@ -188,7 +188,7 @@ Analyze the root/family of **landfill**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The landfill was closed yesterday because it was full of trash."
@@ -198,7 +198,7 @@ Analyze the root/family of **landfill**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **landfill**?

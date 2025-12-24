@@ -80,7 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **onward** (*/ˈɒnwəd/*) mean?
@@ -93,7 +93,7 @@ What does **onward** (*/ˈɒnwəd/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Moving forward or continuing from a particular point"
@@ -105,7 +105,7 @@ What does **onward** (*/ˈɒnwəd/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **onward** in a sentence.
@@ -116,7 +116,7 @@ Use **onward** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **onward**.
@@ -128,7 +128,7 @@ List 3 common collocations for **onward**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **onward**:
@@ -139,7 +139,7 @@ List 3 common collocations for **onward**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **onward** instead of **[[forward]]**?
@@ -150,7 +150,7 @@ List 3 common collocations for **onward**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're giving an inspirational speech about achieving goals. You need to encourage people to keep going. Say it!
@@ -160,7 +160,7 @@ List 3 common collocations for **onward**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `<onweard>` to the meaning of **onward**.
@@ -169,7 +169,7 @@ List 3 common collocations for **onward**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **onward**.
@@ -180,7 +180,7 @@ Analyze the root/family of **onward**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈɒnwəd/*
@@ -192,7 +192,7 @@ Analyze the root/family of **onward**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The car moved on ward"
@@ -203,7 +203,7 @@ Analyze the root/family of **onward**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **onward**?

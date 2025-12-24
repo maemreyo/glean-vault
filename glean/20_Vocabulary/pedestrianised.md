@@ -81,7 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **pedestrianised** (*/pəˈdestriənaɪzd/*) mean?
@@ -94,7 +94,7 @@ What does **pedestrianised** (*/pəˈdestriənaɪzd/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "An area converted for use by people walking, with vehicles prohibited"
@@ -105,7 +105,7 @@ What does **pedestrianised** (*/pəˈdestriənaɪzd/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **pedestrianised** in a sentence.
@@ -116,7 +116,7 @@ Use **pedestrianised** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **pedestrianised**.
@@ -128,7 +128,7 @@ List 3 common collocations for **pedestrianised**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **pedestrianised**:
@@ -139,7 +139,7 @@ List 3 common collocations for **pedestrianised**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **pedestrianised** instead of **[[car-free]]**?
@@ -151,7 +151,7 @@ List 3 common collocations for **pedestrianised**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're describing urban improvements in your city. You want to mention the new walking-friendly area. Say it!
@@ -161,7 +161,7 @@ List 3 common collocations for **pedestrianised**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `<pedester>` to the meaning of **pedestrianised**.
@@ -170,7 +170,7 @@ List 3 common collocations for **pedestrianised**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **pedestrian**.
@@ -182,7 +182,7 @@ Analyze the root/family of **pedestrian**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */pəˈdestriənaɪzd/*
@@ -194,7 +194,7 @@ Analyze the root/family of **pedestrian**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The pedestrianised streets make it difficult for cars to driving through"
@@ -204,7 +204,7 @@ Analyze the root/family of **pedestrian**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **pedestrianised**?

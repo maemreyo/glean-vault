@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **degrade** (*/dɪˈɡreɪd/*) mean?
@@ -91,7 +91,7 @@ What does **degrade** (*/dɪˈɡreɪd/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To gradually become worse or lower in quality; to cause something to be less respected"
@@ -102,7 +102,7 @@ What does **degrade** (*/dɪˈɡreɪd/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **degrade** in a sentence.
@@ -113,7 +113,7 @@ Use **degrade** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **degrade**.
@@ -125,7 +125,7 @@ List 3 common collocations for **degrade**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **degrade**:
@@ -136,7 +136,7 @@ List 3 common collocations for **degrade**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **degrade** instead of **[[destroy]]**?
@@ -147,7 +147,7 @@ List 3 common collocations for **degrade**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're explaining to students why recycling is important. How would you warn about plastic?
@@ -157,7 +157,7 @@ List 3 common collocations for **degrade**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `degradare` to the meaning of **degrade**.
@@ -166,7 +166,7 @@ List 3 common collocations for **degrade**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/05-addition
+#flashcards/cambridge/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **degrade**.
@@ -180,7 +180,7 @@ Analyze the root/family of **degrade**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */dɪˈɡreɪd/*
@@ -191,7 +191,7 @@ Analyze the root/family of **degrade**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** The company's reputation degraded because of their good service.
@@ -201,7 +201,7 @@ Analyze the root/family of **degrade**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **degrade**?

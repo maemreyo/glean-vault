@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **launch in favour of** (*/lɔːntʃ ɪn ˈfeɪvə(r) əv/*) mean?
@@ -92,7 +92,7 @@ What does **launch in favour of** (*/lɔːntʃ ɪn ˈfeɪvə(r) əv/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To begin or initiate something with the explicit intention of supporting or preferring it over alternatives"
@@ -104,7 +104,7 @@ What does **launch in favour of** (*/lɔːntʃ ɪn ˈfeɪvə(r) əv/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **launch in favour of** in a sentence.
@@ -115,7 +115,7 @@ Use **launch in favour of** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **launch in favour of**.
@@ -127,7 +127,7 @@ List 3 common collocations for **launch in favour of**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **launch in favour of**:
@@ -138,7 +138,7 @@ List 3 common collocations for **launch in favour of**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **launch in favour of** instead of **[[start]]**?
@@ -149,7 +149,7 @@ List 3 common collocations for **launch in favour of**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your city wants to replace old diesel buses with electric ones. As the mayor, announce this initiative!
@@ -159,7 +159,7 @@ List 3 common collocations for **launch in favour of**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `lanchier` and `favor` to the meaning of **launch in favour of**.
@@ -168,7 +168,7 @@ List 3 common collocations for **launch in favour of**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **launch in favour of**.
@@ -185,7 +185,7 @@ Analyze the root/family of **launch in favour of**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */lɔːntʃ ɪn ˈfeɪvə(r) əv/*
@@ -197,7 +197,7 @@ Analyze the root/family of **launch in favour of**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The committee launched the project in favor with the new approach."
@@ -207,7 +207,7 @@ Analyze the root/family of **launch in favour of**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **launch in favour of**?

@@ -80,7 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **press so hard** (*/pres səʊ hɑːd/*) mean?
@@ -92,7 +92,7 @@ What does **press so hard** (*/pres səʊ hɑːd/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To apply strong physical pressure; to put someone under significant stress; to make persistent efforts"
@@ -103,7 +103,7 @@ What does **press so hard** (*/pres səʊ hɑːd/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **press so hard** in a sentence.
@@ -114,7 +114,7 @@ Use **press so hard** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **press so hard**.
@@ -126,7 +126,7 @@ List 3 common collocations for **press so hard**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **press so hard**:
@@ -137,7 +137,7 @@ List 3 common collocations for **press so hard**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **press so hard** instead of **insist**?
@@ -148,7 +148,7 @@ List 3 common collocations for **press so hard**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're helping someone carry groceries and you see the bag about to rip. You feel concerned. Say it!
@@ -158,7 +158,7 @@ List 3 common collocations for **press so hard**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `press` + `hard` to the meaning of **press so hard**.
@@ -167,7 +167,7 @@ List 3 common collocations for **press so hard**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/05-addition
+#flashcards/cambridge/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **press so hard**.
@@ -182,7 +182,7 @@ Analyze the root/family of **press so hard**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */pres səʊ hɑːd/*
@@ -193,7 +193,7 @@ Analyze the root/family of **press so hard**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Don't to press so hard - you might break it.
@@ -203,7 +203,7 @@ Analyze the root/family of **press so hard**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **press so hard**?

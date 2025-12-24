@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-04/01-foundation
+#flashcards/cambridge/cam-20-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a traditional approach** (*/ə trəˈdɪʃənl əˈprəʊtʃ/*) mean?
@@ -91,7 +91,7 @@ What does **a traditional approach** (*/ə trəˈdɪʃənl əˈprəʊtʃ/*) mean
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A method or way of doing things that follows established customs and has been used for a long time"
@@ -102,7 +102,7 @@ What does **a traditional approach** (*/ə trəˈdɪʃənl əˈprəʊtʃ/*) mean
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a traditional approach** in a sentence.
@@ -113,7 +113,7 @@ Use **a traditional approach** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a traditional approach**.
@@ -125,7 +125,7 @@ List 3 common collocations for **a traditional approach**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a traditional approach**:
@@ -136,7 +136,7 @@ List 3 common collocations for **a traditional approach**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a traditional approach** instead of **[[the old way]]**?
@@ -147,7 +147,7 @@ List 3 common collocations for **a traditional approach**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your colleague suggests trying a new software for data analysis. You feel cautious. Say it!
@@ -157,7 +157,7 @@ List 3 common collocations for **a traditional approach**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `<tradition>` and `<approach>` to the meaning of **a traditional approach**.
@@ -166,7 +166,7 @@ List 3 common collocations for **a traditional approach**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/05-addition
+#flashcards/cambridge/cam-20-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the roots of **a traditional approach**.
@@ -180,7 +180,7 @@ Analyze the roots of **a traditional approach**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/01-foundation
+#flashcards/cambridge/cam-20-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə trəˈdɪʃənl əˈprəʊtʃ/*
@@ -191,7 +191,7 @@ Analyze the roots of **a traditional approach**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The traditional approach in solving this equation is too complex."
@@ -201,7 +201,7 @@ Analyze the roots of **a traditional approach**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a traditional approach**?

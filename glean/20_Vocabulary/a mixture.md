@@ -78,7 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a mixture** (*/ə ˈmɪkstʃə(r)/*) mean?
@@ -90,7 +90,7 @@ What does **a mixture** (*/ə ˈmɪkstʃə(r)/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A combination of different elements that are physically combined but maintain their individual characteristics"
@@ -101,7 +101,7 @@ What does **a mixture** (*/ə ˈmɪkstʃə(r)/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a mixture** in a sentence.
@@ -112,7 +112,7 @@ Use **a mixture** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a mixture**.
@@ -124,7 +124,7 @@ List 3 common collocations for **a mixture**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a mixture**:
@@ -135,7 +135,7 @@ List 3 common collocations for **a mixture**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a mixture** instead of **[[a blend]]**?
@@ -146,7 +146,7 @@ List 3 common collocations for **a mixture**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're describing your team's working style to a new colleague. Say it!
@@ -156,7 +156,7 @@ List 3 common collocations for **a mixture**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `mixtura` to the meaning of **a mixture**.
@@ -165,7 +165,7 @@ List 3 common collocations for **a mixture**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/05-addition
+#flashcards/cambridge/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **a mixture**.
@@ -178,7 +178,7 @@ Analyze the root/family of **a mixture**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə ˈmɪkstʃə(r)/*
@@ -189,7 +189,7 @@ Analyze the root/family of **a mixture**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** The conversation was mixture of English and French
@@ -199,7 +199,7 @@ Analyze the root/family of **a mixture**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a mixture**?

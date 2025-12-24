@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **hard to reach a judgement** (*/hɑːrd tuː riːtʃ ə ˈdʒʌdʒmənt/*) mean?
@@ -91,7 +91,7 @@ What does **hard to reach a judgement** (*/hɑːrd tuː riːtʃ ə ˈdʒʌdʒmə
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Finding it difficult to make a decision or form an opinion"
@@ -102,7 +102,7 @@ What does **hard to reach a judgement** (*/hɑːrd tuː riːtʃ ə ˈdʒʌdʒmə
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **hard to reach a judgement** in a sentence.
@@ -113,7 +113,7 @@ Use **hard to reach a judgement** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **hard to reach a judgement**.
@@ -125,7 +125,7 @@ List 3 common collocations for **hard to reach a judgement**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **hard to reach a judgement**:
@@ -136,7 +136,7 @@ List 3 common collocations for **hard to reach a judgement**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **hard to reach a judgement** instead of **[[I don't know]]**?
@@ -147,7 +147,7 @@ List 3 common collocations for **hard to reach a judgement**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your boss asks for your opinion on a controversial new policy. You're unsure. Say it!
@@ -157,7 +157,7 @@ List 3 common collocations for **hard to reach a judgement**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `judge` to the meaning of **hard to reach a judgement**.
@@ -166,7 +166,7 @@ List 3 common collocations for **hard to reach a judgement**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/05-addition
+#flashcards/cambridge/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **hard to reach a judgement**.
@@ -180,7 +180,7 @@ Analyze the root/family of **hard to reach a judgement**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */hɑːrd tuː riːtʃ ə ˈdʒʌdʒmənt/*
@@ -191,7 +191,7 @@ Analyze the root/family of **hard to reach a judgement**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "It's hard to reach judgement." (thiếu "a")
@@ -201,7 +201,7 @@ Analyze the root/family of **hard to reach a judgement**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **hard to reach a judgement**?

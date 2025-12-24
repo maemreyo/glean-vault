@@ -80,7 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **carry out** (*/ˈkæri aʊt/*) mean?
@@ -93,7 +93,7 @@ What does **carry out** (*/ˈkæri aʊt/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To perform or complete a task or plan"
@@ -105,7 +105,7 @@ What does **carry out** (*/ˈkæri aʊt/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **carry out** in a sentence.
@@ -117,7 +117,7 @@ Use **carry out** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **carry out**.
@@ -130,7 +130,7 @@ List 3 common collocations for **carry out**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **carry out**:
@@ -141,7 +141,7 @@ List 3 common collocations for **carry out**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **carry out** instead of **do**?
@@ -152,7 +152,7 @@ List 3 common collocations for **carry out**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your boss asks about the project status. You need to say you're starting the work. Say it!
@@ -162,7 +162,7 @@ List 3 common collocations for **carry out**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the particle `out` to the meaning of **carry out**.
@@ -171,7 +171,7 @@ List 3 common collocations for **carry out**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **carry out**.
@@ -184,7 +184,7 @@ Analyze the root/family of **carry out**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈkæri aʊt/*
@@ -196,7 +196,7 @@ Analyze the root/family of **carry out**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "We need to carry out on this project immediately."
@@ -206,7 +206,7 @@ Analyze the root/family of **carry out**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **carry out**?

@@ -78,7 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **waste recycling** (*/weɪst ˌriːˈsaɪklɪŋ/*) mean?
@@ -91,7 +91,7 @@ What does **waste recycling** (*/weɪst ˌriːˈsaɪklɪŋ/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The process of converting waste materials into reusable materials"
@@ -102,7 +102,7 @@ What does **waste recycling** (*/weɪst ˌriːˈsaɪklɪŋ/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **waste recycling** in a sentence.
@@ -114,7 +114,7 @@ Use **waste recycling** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **waste recycling**.
@@ -126,7 +126,7 @@ List 3 common collocations for **waste recycling**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **waste recycling**:
@@ -137,7 +137,7 @@ List 3 common collocations for **waste recycling**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **waste recycling** instead of **[[reusing]]**?
@@ -148,7 +148,7 @@ List 3 common collocations for **waste recycling**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your apartment building manager asks for environmental suggestions. What do you propose? Say it!
@@ -158,7 +158,7 @@ List 3 common collocations for **waste recycling**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots to the meaning of **waste recycling**.
@@ -167,7 +167,7 @@ List 3 common collocations for **waste recycling**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **waste recycling**.
@@ -180,7 +180,7 @@ Analyze the root/family of **waste recycling**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */weɪst ˌriːˈsaɪklɪŋ/*
@@ -192,7 +192,7 @@ Analyze the root/family of **waste recycling**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "We recycle our water waste."
@@ -202,7 +202,7 @@ Analyze the root/family of **waste recycling**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **waste recycling**?

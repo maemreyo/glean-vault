@@ -78,7 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **blanket** (*/ˈblæŋkɪt/*) mean?
@@ -90,7 +90,7 @@ What does **blanket** (*/ˈblæŋkɪt/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A large piece of woven cloth used for warmth"
@@ -101,7 +101,7 @@ What does **blanket** (*/ˈblæŋkɪt/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **blanket** in a sentence.
@@ -112,7 +112,7 @@ Use **blanket** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **blanket**.
@@ -124,7 +124,7 @@ List 3 common collocations for **blanket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **blanket**:
@@ -135,7 +135,7 @@ List 3 common collocations for **blanket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **blanket** instead of **sheet**?
@@ -146,7 +146,7 @@ List 3 common collocations for **blanket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** It's freezing cold in your room and you can't sleep. You need something warm. Say it!
@@ -156,7 +156,7 @@ List 3 common collocations for **blanket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `blanc` to the meaning of **blanket**.
@@ -165,7 +165,7 @@ List 3 common collocations for **blanket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/05-addition
+#flashcards/cambridge/cam-20-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **blanket**.
@@ -178,7 +178,7 @@ Analyze the root/family of **blanket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈblæŋkɪt/*
@@ -189,7 +189,7 @@ Analyze the root/family of **blanket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "I need a blanket for covering me warm."
@@ -199,7 +199,7 @@ Analyze the root/family of **blanket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **blanket** (as a verb)?

@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a bowl** (*/ə boʊl/*) mean?
@@ -91,7 +91,7 @@ What does **a bowl** (*/ə boʊl/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A round, deep dish for holding food"
@@ -102,7 +102,7 @@ What does **a bowl** (*/ə boʊl/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a bowl** in a sentence.
@@ -113,7 +113,7 @@ Use **a bowl** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a bowl**.
@@ -125,7 +125,7 @@ List 3 common collocations for **a bowl**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a bowl**:
@@ -136,7 +136,7 @@ List 3 common collocations for **a bowl**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a bowl** instead of **a plate**?
@@ -147,7 +147,7 @@ List 3 common collocations for **a bowl**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're hungry and see soup on the stove. You feel eager to eat. Say it!
@@ -157,7 +157,7 @@ List 3 common collocations for **a bowl**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `bulla` to the meaning of **a bowl**.
@@ -166,7 +166,7 @@ List 3 common collocations for **a bowl**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/05-addition
+#flashcards/cambridge/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **a bowl**.
@@ -180,7 +180,7 @@ Analyze the root/family of **a bowl**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə boʊl/*
@@ -191,7 +191,7 @@ Analyze the root/family of **a bowl**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "I ate a bowl of rices with vegetables."
@@ -201,7 +201,7 @@ Analyze the root/family of **a bowl**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite concept of **a bowl**?

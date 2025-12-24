@@ -77,7 +77,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **it takes your mind off things** (*/ɪt teɪks jɔːr maɪnd ɒf θɪŋz/*) mean?
@@ -89,7 +89,7 @@ What does **it takes your mind off things** (*/ɪt teɪks jɔːr maɪnd ɒf θɪ
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To distract yourself from your worries"
@@ -100,7 +100,7 @@ What does **it takes your mind off things** (*/ɪt teɪks jɔːr maɪnd ɒf θɪ
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **it takes your mind off things** in a sentence.
@@ -111,7 +111,7 @@ Use **it takes your mind off things** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **it takes your mind off things**.
@@ -123,7 +123,7 @@ List 3 common collocations for **it takes your mind off things**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **it takes your mind off things**:
@@ -134,7 +134,7 @@ List 3 common collocations for **it takes your mind off things**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **it takes your mind off things** instead of [[ignore]]?
@@ -145,7 +145,7 @@ List 3 common collocations for **it takes your mind off things**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend is stressed about exams. Suggest a helpful activity!
@@ -155,7 +155,7 @@ List 3 common collocations for **it takes your mind off things**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the concept of mental distraction to **it takes your mind off things**.
@@ -164,7 +164,7 @@ List 3 common collocations for **it takes your mind off things**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/05-addition
+#flashcards/cambridge/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the structure of **it takes your mind off things**.
@@ -177,7 +177,7 @@ Analyze the structure of **it takes your mind off things**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ɪt teɪks jɔːr maɪnd ɒf θɪŋz/*
@@ -188,7 +188,7 @@ Analyze the structure of **it takes your mind off things**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "This game takes my mind off from my problems."
@@ -198,7 +198,7 @@ Analyze the structure of **it takes your mind off things**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite concept of **it takes your mind off things**?

@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-04/01-foundation
+#flashcards/cambridge/cam-20-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **pose a threat** (*/pəʊz ə θret/*) mean?
@@ -91,7 +91,7 @@ What does **pose a threat** (*/pəʊz ə θret/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To create or present a situation that could cause harm or danger"
@@ -102,7 +102,7 @@ What does **pose a threat** (*/pəʊz ə θret/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **pose a threat** in a sentence.
@@ -113,7 +113,7 @@ Use **pose a threat** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **pose a threat**.
@@ -125,7 +125,7 @@ List 3 common collocations for **pose a threat**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **pose a threat**:
@@ -136,7 +136,7 @@ List 3 common collocations for **pose a threat**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **pose a threat** instead of **[[be dangerous]]**?
@@ -147,7 +147,7 @@ List 3 common collocations for **pose a threat**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend is concerned about installing new smart home devices. You feel skeptical. Say it!
@@ -157,7 +157,7 @@ List 3 common collocations for **pose a threat**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `<pose>` and `<threat>` to the meaning of **pose a threat**.
@@ -166,7 +166,7 @@ List 3 common collocations for **pose a threat**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/05-addition
+#flashcards/cambridge/cam-20-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the roots of **pose a threat**.
@@ -180,7 +180,7 @@ Analyze the roots of **pose a threat**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/01-foundation
+#flashcards/cambridge/cam-20-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */pəʊz ə θret/*
@@ -191,7 +191,7 @@ Analyze the roots of **pose a threat**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "This virus pose threat to elderly people."
@@ -201,7 +201,7 @@ Analyze the roots of **pose a threat**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **pose a threat**?

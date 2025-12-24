@@ -81,7 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **beneficial** (*/ˌben.ɪˈfɪʃ.əl/*) mean?
@@ -93,7 +93,7 @@ What does **beneficial** (*/ˌben.ɪˈfɪʃ.əl/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Producing or promoting a favorable result; advantageous or helpful"
@@ -104,7 +104,7 @@ What does **beneficial** (*/ˌben.ɪˈfɪʃ.əl/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **beneficial** in a sentence.
@@ -115,7 +115,7 @@ Use **beneficial** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **beneficial**.
@@ -127,7 +127,7 @@ List 3 common collocations for **beneficial**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **beneficial**:
@@ -138,7 +138,7 @@ List 3 common collocations for **beneficial**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **beneficial** instead of **[[good]]**?
@@ -149,7 +149,7 @@ List 3 common collocations for **beneficial**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend asks if they should learn a new skill. You think it's a great idea. Say it!
@@ -159,7 +159,7 @@ List 3 common collocations for **beneficial**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `bene` to the meaning of **beneficial**.
@@ -168,7 +168,7 @@ List 3 common collocations for **beneficial**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/05-addition
+#flashcards/cambridge/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **beneficial**.
@@ -181,7 +181,7 @@ Analyze the root/family of **beneficial**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌben.ɪˈfɪʃ.əl/*
@@ -192,7 +192,7 @@ Analyze the root/family of **beneficial**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** This book is very beneficial to improve your English.
@@ -202,7 +202,7 @@ Analyze the root/family of **beneficial**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **beneficial**?

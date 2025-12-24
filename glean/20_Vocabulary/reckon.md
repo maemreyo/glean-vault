@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **reckon** (*/ˈrekən/*) mean?
@@ -91,7 +91,7 @@ What does **reckon** (*/ˈrekən/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To think, believe, or suppose; to calculate or estimate"
@@ -102,7 +102,7 @@ What does **reckon** (*/ˈrekən/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **reckon** in a sentence.
@@ -113,7 +113,7 @@ Use **reckon** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **reckon**.
@@ -125,7 +125,7 @@ List 3 common collocations for **reckon**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **reckon**:
@@ -136,7 +136,7 @@ List 3 common collocations for **reckon**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **reckon** instead of **calculate**?
@@ -147,7 +147,7 @@ List 3 common collocations for **reckon**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend asks for your opinion about a movie they want to watch. Give a casual response.
@@ -157,7 +157,7 @@ List 3 common collocations for **reckon**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `reckon` to its modern meaning.
@@ -166,7 +166,7 @@ List 3 common collocations for **reckon**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/05-addition
+#flashcards/cambridge/cam-20-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **reckon**.
@@ -179,7 +179,7 @@ Analyze the root/family of **reckon**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈrekən/*
@@ -190,7 +190,7 @@ Analyze the root/family of **reckon**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "We must reckon the importance of this discovery for our research."
@@ -200,7 +200,7 @@ Analyze the root/family of **reckon**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **reckon** (when expressing opinion)?

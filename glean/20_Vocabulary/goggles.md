@@ -78,7 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **goggles** (*/ˈɡɒɡəlz/*) mean?
@@ -90,7 +90,7 @@ What does **goggles** (*/ˈɡɒɡəlz/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Protective eyewear that shields eyes from water, dust, or chemicals"
@@ -101,7 +101,7 @@ What does **goggles** (*/ˈɡɒɡəlz/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **goggles** in a sentence.
@@ -112,7 +112,7 @@ Use **goggles** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **goggles**.
@@ -124,7 +124,7 @@ List 3 common collocations for **goggles**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **goggles**:
@@ -135,7 +135,7 @@ List 3 common collocations for **goggles**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **goggles** instead of **glasses**?
@@ -146,7 +146,7 @@ List 3 common collocations for **goggles**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're about to start welding metal. Your friend wants to watch. Say it!
@@ -156,7 +156,7 @@ List 3 common collocations for **goggles**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `goggle` to the meaning of **goggles**.
@@ -165,7 +165,7 @@ List 3 common collocations for **goggles**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/05-addition
+#flashcards/cambridge/cam-20-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **goggles**.
@@ -178,7 +178,7 @@ Analyze the root/family of **goggles**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈɡɒɡəlz/*
@@ -189,7 +189,7 @@ Analyze the root/family of **goggles**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "I bought a new goggle for my chemistry class."
@@ -199,7 +199,7 @@ Analyze the root/family of **goggles**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of wearing **goggles**?

@@ -84,7 +84,7 @@ ref:
 
 ### Group 1: Foundation (Cards 1, 2, 10)
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **be taken off** (*/bi ˈteɪkən ɒf/*) mean?
@@ -96,7 +96,7 @@ What does **be taken off** (*/bi ˈteɪkən ɒf/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "(Of merchandise or products) To be removed from sale, discontinued, or taken away from a location such as a market or menu"
@@ -107,7 +107,7 @@ What does **be taken off** (*/bi ˈteɪkən ɒf/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */bi ˈteɪkən ɒf/*
@@ -120,7 +120,7 @@ What does **be taken off** (*/bi ˈteɪkən ɒf/*) mean?
 
 ### Group 2: Activation (Cards 3, 4)
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **be taken off** in a sentence.
@@ -131,7 +131,7 @@ Use **be taken off** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **be taken off**.
@@ -145,7 +145,7 @@ List 3 common collocations for **be taken off**.
 
 ### Group 3: Differentiation (Cards 6, 11)
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **be taken off** instead of **[[sold out]]**?
@@ -156,7 +156,7 @@ List 3 common collocations for **be taken off**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The shop took off those products because they were old."
@@ -168,7 +168,7 @@ List 3 common collocations for **be taken off**.
 
 ### Group 4: Mastery (Cards 5, 7, 8, 9)
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **be taken off**:
@@ -179,7 +179,7 @@ List 3 common collocations for **be taken off**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're at a restaurant and want to order your favorite dessert. The waiter says it's no longer available. You feel disappointed. Say it!
@@ -189,7 +189,7 @@ List 3 common collocations for **be taken off**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `<take>`, `<taken>` + `<off>` to the meaning of **be taken off**.
@@ -198,7 +198,7 @@ List 3 common collocations for **be taken off**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the roots/family of **be taken off**.
@@ -213,7 +213,7 @@ Analyze the roots/family of **be taken off**.
 
 ### Group 5: Synonym & Antonym Mastery (Cards 12, 13, 14)
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of items being **taken off**?
@@ -226,7 +226,7 @@ Analyze the roots/family of **be taken off**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/06-synonym-antonym-mastery
+#flashcards/cambridge/cam-20-listening-test-02/06-synonym-antonym-mastery
 ### Card 13: Synonym Context Quiz
 
 🧩 **Quiz:** In this context, which synonym of **be taken off** is correct?
@@ -242,7 +242,7 @@ Analyze the roots/family of **be taken off**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/06-synonym-antonym-mastery
+#flashcards/cambridge/cam-20-listening-test-02/06-synonym-antonym-mastery
 ### Card 14: Antonym Context Quiz
 
 🔃 **Quiz:** In this context, which antonym of items being **taken off** is correct?

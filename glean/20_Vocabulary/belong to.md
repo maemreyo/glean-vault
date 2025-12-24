@@ -77,7 +77,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **belong to** (*/bɪˈlɒŋ tuː/*) mean?
@@ -89,7 +89,7 @@ What does **belong to** (*/bɪˈlɒŋ tuː/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To be owned by someone or be a member of a group"
@@ -100,7 +100,7 @@ What does **belong to** (*/bɪˈlɒŋ tuː/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **belong to** in a sentence.
@@ -111,7 +111,7 @@ Use **belong to** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **belong to**.
@@ -123,7 +123,7 @@ List 3 common collocations for **belong to**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **belong to**:
@@ -134,7 +134,7 @@ List 3 common collocations for **belong to**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **belong to** instead of **own**?
@@ -145,7 +145,7 @@ List 3 common collocations for **belong to**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You find a lost wallet with ID inside. You feel responsible. Say it!
@@ -155,7 +155,7 @@ List 3 common collocations for **belong to**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `gelangan` to the meaning of **belong to**.
@@ -164,7 +164,7 @@ List 3 common collocations for **belong to**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/05-addition
+#flashcards/cambridge/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **belong to**.
@@ -177,7 +177,7 @@ Analyze the root/family of **belong to**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */bɪˈlɒŋ tuː/*
@@ -188,7 +188,7 @@ Analyze the root/family of **belong to**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** He is belonging to the tennis club.
@@ -198,7 +198,7 @@ Analyze the root/family of **belong to**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **belong to**?

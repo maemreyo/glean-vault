@@ -81,7 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **vision** (*/ˈvɪʒn/*) mean?
@@ -93,7 +93,7 @@ What does **vision** (*/ˈvɪʒn/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The ability to see; a mental image of what the future could be"
@@ -104,7 +104,7 @@ What does **vision** (*/ˈvɪʒn/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **vision** (future meaning) in a sentence.
@@ -115,7 +115,7 @@ Use **vision** (future meaning) in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **vision**.
@@ -127,7 +127,7 @@ List 3 common collocations for **vision**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **vision**:
@@ -138,7 +138,7 @@ List 3 common collocations for **vision**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **vision** instead of **[[plan]]**?
@@ -149,7 +149,7 @@ List 3 common collocations for **vision**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're interviewing for a leadership position. They ask about your goals. Say it!
@@ -159,7 +159,7 @@ List 3 common collocations for **vision**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `videre` to the meaning of **vision**.
@@ -168,7 +168,7 @@ List 3 common collocations for **vision**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/05-addition
+#flashcards/cambridge/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **vision**.
@@ -182,7 +182,7 @@ Analyze the root/family of **vision**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈvɪʒn/*
@@ -193,7 +193,7 @@ Analyze the root/family of **vision**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** My **vision** of the new software is outdated.
@@ -203,7 +203,7 @@ Analyze the root/family of **vision**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **vision**?

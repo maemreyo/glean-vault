@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **steel drum** (*/stiːl drʌm/*) mean?
@@ -91,7 +91,7 @@ What does **steel drum** (*/stiːl drʌm/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A Caribbean percussion instrument made from a metal oil barrel that produces melodious tones"**
@@ -102,7 +102,7 @@ What does **steel drum** (*/stiːl drʌm/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **steel drum** in a sentence.
@@ -113,7 +113,7 @@ Use **steel drum** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **steel drum**.
@@ -125,7 +125,7 @@ List 3 common collocations for **steel drum**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **steel drum**:
@@ -136,7 +136,7 @@ List 3 common collocations for **steel drum**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **steel drum** instead of **[[drum]]**?
@@ -147,7 +147,7 @@ List 3 common collocations for **steel drum**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're at a Caribbean beach festival hearing tropical music. Describe the sound!
@@ -157,7 +157,7 @@ List 3 common collocations for **steel drum**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the invention of **steel drum** to Trinidad's history.
@@ -166,7 +166,7 @@ List 3 common collocations for **steel drum**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/05-addition
+#flashcards/cambridge/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **steel drum**.
@@ -180,7 +180,7 @@ Analyze the root/family of **steel drum**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */stiːl drʌm/*
@@ -191,7 +191,7 @@ Analyze the root/family of **steel drum**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** The drummer hit the steel drum with wooden sticks**
@@ -201,7 +201,7 @@ Analyze the root/family of **steel drum**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite concept of **steel drum**?

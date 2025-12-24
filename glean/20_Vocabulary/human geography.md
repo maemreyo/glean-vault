@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **human geography** (*/ˌhjuː.mən dʒiˈɒɡ.rə.fi/*) mean?
@@ -92,7 +92,7 @@ What does **human geography** (*/ˌhjuː.mən dʒiˈɒɡ.rə.fi/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The branch of geography studying human activities and their spatial organization"
@@ -104,7 +104,7 @@ What does **human geography** (*/ˌhjuː.mən dʒiˈɒɡ.rə.fi/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **human geography** in a sentence.
@@ -115,7 +115,7 @@ Use **human geography** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **human geography**.
@@ -127,7 +127,7 @@ List 3 common collocations for **human geography**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **human geography**:
@@ -138,7 +138,7 @@ List 3 common collocations for **human geography**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **human geography** instead of [[sociology]]?
@@ -149,7 +149,7 @@ List 3 common collocations for **human geography**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Someone asks why some countries are richer than others. You feel academic. Say it!
@@ -159,7 +159,7 @@ List 3 common collocations for **human geography**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `humanus` and `geographia` to the meaning of **human geography**.
@@ -168,7 +168,7 @@ List 3 common collocations for **human geography**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **human geography**.
@@ -181,7 +181,7 @@ Analyze the root/family of **human geography**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌhjuː.mən dʒiˈɒɡ.rə.fi/*
@@ -193,7 +193,7 @@ Analyze the root/family of **human geography**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "Human geography is the same as demographics" (oversimplification)
@@ -203,7 +203,7 @@ Analyze the root/family of **human geography**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **human geography**?

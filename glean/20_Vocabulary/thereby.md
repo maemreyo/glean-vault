@@ -76,7 +76,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **thereby** (*/ˌðeəˈbaɪ/*) mean?
@@ -88,7 +88,7 @@ What does **thereby** (*/ˌðeəˈbaɪ/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "As a result of something; by that means; therefore"
@@ -99,7 +99,7 @@ What does **thereby** (*/ˌðeəˈbaɪ/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **thereby** in a sentence.
@@ -110,7 +110,7 @@ Use **thereby** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **thereby**.
@@ -122,7 +122,7 @@ List 3 common collocations for **thereby**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **thereby**:
@@ -133,7 +133,7 @@ List 3 common collocations for **thereby**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **thereby** instead of **so**?
@@ -144,7 +144,7 @@ List 3 common collocations for **thereby**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're presenting a business proposal. You need to show how your plan will increase profits.
@@ -154,7 +154,7 @@ List 3 common collocations for **thereby**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `there` and `by` to the meaning of **thereby**.
@@ -163,7 +163,7 @@ List 3 common collocations for **thereby**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/05-addition
+#flashcards/cambridge/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **thereby**.
@@ -176,7 +176,7 @@ Analyze the root/family of **thereby**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌðeəˈbaɪ/*
@@ -187,7 +187,7 @@ Analyze the root/family of **thereby**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "He exercised daily. Thereby he lost weight."
@@ -197,7 +197,7 @@ Analyze the root/family of **thereby**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 12: Synonym Collection
 
 ↔️ **Flip:** What are alternatives to **thereby**?

@@ -82,7 +82,7 @@ ref:
 
 ### Group 1: Foundation (Cards 1, 2, 10)
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a physician** (*/ə fɪˈzɪʃn/*) mean?
@@ -94,7 +94,7 @@ What does **a physician** (*/ə fɪˈzɪʃn/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A qualified medical practitioner who specializes in the diagnosis, treatment, and prevention of diseases and injuries"
@@ -105,7 +105,7 @@ What does **a physician** (*/ə fɪˈzɪʃn/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə fɪˈzɪʃn/*
@@ -118,7 +118,7 @@ What does **a physician** (*/ə fɪˈzɪʃn/*) mean?
 
 ### Group 2: Activation (Cards 3, 4)
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a physician** in a sentence.
@@ -129,7 +129,7 @@ Use **a physician** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a physician**.
@@ -143,7 +143,7 @@ List 3 common collocations for **a physician**.
 
 ### Group 3: Differentiation (Cards 6, 11)
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a physician** instead of **[[a doctor]]**?
@@ -154,7 +154,7 @@ List 3 common collocations for **a physician**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The physician conducted the surgery on the patient."
@@ -166,7 +166,7 @@ List 3 common collocations for **a physician**.
 
 ### Group 4: Mastery (Cards 5, 7, 8, 9)
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a physician**:
@@ -177,7 +177,7 @@ List 3 common collocations for **a physician**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend has been feeling unwell for weeks. They mention seeing a general practitioner. You feel concerned. Say it!
@@ -187,7 +187,7 @@ List 3 common collocations for **a physician**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `<physikos>` + `<iatros>` to the meaning of **a physician**.
@@ -196,7 +196,7 @@ List 3 common collocations for **a physician**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the roots/family of **a physician**.
@@ -211,7 +211,7 @@ Analyze the roots/family of **a physician**.
 
 ### Group 5: Synonym & Antonym Mastery (Cards 12, 13, 14)
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a physician** (in healthcare relationship)?
@@ -223,7 +223,7 @@ Analyze the roots/family of **a physician**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/06-synonym-antonym-mastery
+#flashcards/cambridge/cam-20-listening-test-02/06-synonym-antonym-mastery
 ### Card 13: Synonym Context Quiz
 
 🧩 **Quiz:** In this context, which synonym of **a physician** is correct?
@@ -239,7 +239,7 @@ Analyze the roots/family of **a physician**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/06-synonym-antonym-mastery
+#flashcards/cambridge/cam-20-listening-test-02/06-synonym-antonym-mastery
 ### Card 14: Antonym Context Quiz
 
 🔃 **Quiz:** In this context, which antonym of **a physician** is correct?

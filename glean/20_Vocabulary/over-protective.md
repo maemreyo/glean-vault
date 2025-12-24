@@ -83,7 +83,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **over-protective** (*/ˌəʊvə prəˈtektɪv/*) mean?
@@ -95,7 +95,7 @@ What does **over-protective** (*/ˌəʊvə prəˈtektɪv/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Excessively protective in a way that limits someone's independence or development"
@@ -106,7 +106,7 @@ What does **over-protective** (*/ˌəʊvə prəˈtektɪv/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **over-protective** in a sentence.
@@ -117,7 +117,7 @@ Use **over-protective** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **over-protective**.
@@ -129,7 +129,7 @@ List 3 common collocations for **over-protective**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **over-protective**:
@@ -140,7 +140,7 @@ List 3 common collocations for **over-protective**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **over-protective** instead of **[[caring]]**?
@@ -151,7 +151,7 @@ List 3 common collocations for **over-protective**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend wants to quit their stable job to pursue their passion. You want to support but you're worried. Say it!
@@ -161,7 +161,7 @@ List 3 common collocations for **over-protective**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the prefix `over-` and root `protect` to the meaning of **over-protective**.
@@ -170,7 +170,7 @@ List 3 common collocations for **over-protective**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/05-addition
+#flashcards/cambridge/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **over-protective**.
@@ -183,7 +183,7 @@ Analyze the root/family of **over-protective**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌəʊvə prəˈtektɪv/*
@@ -194,7 +194,7 @@ Analyze the root/family of **over-protective**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** She acts over protective towards her younger brother.
@@ -204,7 +204,7 @@ Analyze the root/family of **over-protective**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **over-protective**?

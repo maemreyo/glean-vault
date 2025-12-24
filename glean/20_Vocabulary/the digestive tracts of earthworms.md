@@ -81,7 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **the digestive tracts of earthworms** (*/ðə daɪˈdʒestɪv trækts ɒv ˈɜːθwɜːmz/*) mean?
@@ -93,7 +93,7 @@ What does **the digestive tracts of earthworms** (*/ðə daɪˈdʒestɪv trækts
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The specialized tubular systems in earthworms through which food passes and nutrients are extracted"
@@ -104,7 +104,7 @@ What does **the digestive tracts of earthworms** (*/ðə daɪˈdʒestɪv trækts
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **the digestive tracts of earthworms** in a sentence.
@@ -115,7 +115,7 @@ Use **the digestive tracts of earthworms** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **the digestive tracts of earthworms**.
@@ -127,7 +127,7 @@ List 3 common collocations for **the digestive tracts of earthworms**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **the digestive tracts of earthworms**:
@@ -138,7 +138,7 @@ List 3 common collocations for **the digestive tracts of earthworms**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **the digestive tracts of earthworms** instead of **[[worm digestion]]**?
@@ -149,7 +149,7 @@ List 3 common collocations for **the digestive tracts of earthworms**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're explaining composting to a biology class. You want to emphasize the scientific mechanism. Say it!
@@ -159,7 +159,7 @@ List 3 common collocations for **the digestive tracts of earthworms**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `digest- + tract` to the meaning of **the digestive tracts of earthworms**.
@@ -168,7 +168,7 @@ List 3 common collocations for **the digestive tracts of earthworms**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/05-addition
+#flashcards/cambridge/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **the digestive tracts of earthworms**.
@@ -182,7 +182,7 @@ Analyze the root/family of **the digestive tracts of earthworms**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ðə daɪˈdʒestɪv trækts ɒv ˈɜːθwɜːmz/*
@@ -193,7 +193,7 @@ Analyze the root/family of **the digestive tracts of earthworms**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** The digestive tract of earthworms contains beneficial bacteria.
@@ -203,7 +203,7 @@ Analyze the root/family of **the digestive tracts of earthworms**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite concept to **the digestive tracts of earthworms**?

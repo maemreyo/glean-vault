@@ -78,7 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **impose** (*/ɪmˈpəʊz/*) mean?
@@ -90,7 +90,7 @@ What does **impose** (*/ɪmˈpəʊz/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To establish or apply something by authority; to force an unwelcome decision or rule on someone"
@@ -101,7 +101,7 @@ What does **impose** (*/ɪmˈpəʊz/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **impose** in a sentence.
@@ -112,7 +112,7 @@ Use **impose** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **impose**.
@@ -124,7 +124,7 @@ List 3 common collocations for **impose**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **impose**:
@@ -135,7 +135,7 @@ List 3 common collocations for **impose**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **impose** instead of **suggest**?
@@ -146,7 +146,7 @@ List 3 common collocations for **impose**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your roommate constantly plays loud music when you're studying. You've had enough. What do you say?
@@ -156,7 +156,7 @@ List 3 common collocations for **impose**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `ponere` to the meaning of **impose**.
@@ -165,7 +165,7 @@ List 3 common collocations for **impose**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/05-addition
+#flashcards/cambridge/cam-20-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **impose**.
@@ -179,7 +179,7 @@ Analyze the root/family of **impose**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ɪmˈpəʊz/*
@@ -190,7 +190,7 @@ Analyze the root/family of **impose**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The teacher imposed the students to do homework."
@@ -200,7 +200,7 @@ Analyze the root/family of **impose**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **impose**?

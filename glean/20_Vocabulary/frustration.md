@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **frustration** (*/frʌˈstreɪʃn/*) mean?
@@ -91,7 +91,7 @@ What does **frustration** (*/frʌˈstreɪʃn/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The emotional state of being upset when unable to achieve something"
@@ -102,7 +102,7 @@ What does **frustration** (*/frʌˈstreɪʃn/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **frustration** in a sentence.
@@ -113,7 +113,7 @@ Use **frustration** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **frustration**.
@@ -125,7 +125,7 @@ List 3 common collocations for **frustration**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **frustration**:
@@ -136,7 +136,7 @@ List 3 common collocations for **frustration**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **frustration** instead of **anger**?
@@ -148,7 +148,7 @@ List 3 common collocations for **frustration**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You've been waiting on hold for 45 minutes and keep getting disconnected. You feel your patience running out. Say it!
@@ -158,7 +158,7 @@ List 3 common collocations for **frustration**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `frustrari` to the meaning of **frustration**.
@@ -167,7 +167,7 @@ List 3 common collocations for **frustration**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/05-addition
+#flashcards/cambridge/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **frustration**.
@@ -180,7 +180,7 @@ Analyze the root/family of **frustration**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */frʌˈstreɪʃn/*
@@ -191,7 +191,7 @@ Analyze the root/family of **frustration**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "My frustration grows about the delays."
@@ -201,7 +201,7 @@ Analyze the root/family of **frustration**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **frustration**?

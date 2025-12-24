@@ -226,20 +226,16 @@ Process:
 2. Add links for newly found terms
 3. May miss updates to existing term mappings
 
-## Auto-Tag from Ref Field (5-Phase Mastery System)
-
-Automatically add **Phase-based** flashcard tags based on the `ref:` field in vocabulary frontmatter.
-
 **How it works:**
 1. Reads `ref: [[Cam 19 Listening Test 04]]`
-2. Generates base tag: `#flashcards/cam-19-listening-test-04`
+2. Generates base tag: `#flashcards/cambridge/cam-19-listening-test-04`
 3. Removes old header tags if present
 4. Injects phase tags before specific cards:
-   - **Foundation (Cards 1, 10):** `#flashcards/.../01-foundation`
-   - **Activation (Cards 2, 3, 4):** `#flashcards/.../02-activation`
-   - **Differentiation (Cards 6, 11, 12):** `#flashcards/.../03-differentiation`
-   - **Mastery (Cards 5, 7, 8):** `#flashcards/.../04-mastery`
-   - **Addition (Card 9):** `#flashcards/.../05-addition`
+   - **Foundation (Cards 1, 10):** `#flashcards/cambridge/.../01-foundation`
+   - **Activation (Cards 2, 3, 4):** `#flashcards/cambridge/.../02-activation`
+   - **Differentiation (Cards 6, 11, 12):** `#flashcards/cambridge/.../03-differentiation`
+   - **Mastery (Cards 5, 7, 8):** `#flashcards/cambridge/.../04-mastery`
+   - **Addition (Card 9):** `#flashcards/cambridge/.../05-addition`
 
 ```bash
 python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --folder "glean/20_Vocabulary" --add-ref-tags --no-dry-run

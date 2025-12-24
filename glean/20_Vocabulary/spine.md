@@ -82,7 +82,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **spine** (*/spaɪn/*) mean?
@@ -94,7 +94,7 @@ What does **spine** (*/spaɪn/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The series of bones extending from the skull to the pelvis; the backbone"
@@ -105,7 +105,7 @@ What does **spine** (*/spaɪn/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **spine** in a sentence.
@@ -116,7 +116,7 @@ Use **spine** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **spine**.
@@ -128,7 +128,7 @@ List 3 common collocations for **spine**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **spine**:
@@ -139,7 +139,7 @@ List 3 common collocations for **spine**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **spine** instead of **[[courage]]**?
@@ -150,7 +150,7 @@ List 3 common collocations for **spine**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend wants to report corruption at work but is afraid. You encourage them. Say it!
@@ -160,7 +160,7 @@ List 3 common collocations for **spine**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `spina` to the meaning of **spine**.
@@ -169,7 +169,7 @@ List 3 common collocations for **spine**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/05-addition
+#flashcards/cambridge/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **spine**.
@@ -183,7 +183,7 @@ Analyze the root/family of **spine**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */spaɪn/*
@@ -194,7 +194,7 @@ Analyze the root/family of **spine**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** I have a pain in my spine, so I need to massage my spine.
@@ -204,7 +204,7 @@ Analyze the root/family of **spine**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **spine**?

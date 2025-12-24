@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **bends to the left** (*/bendz tu ðə left/*) mean?
@@ -91,7 +91,7 @@ What does **bends to the left** (*/bendz tu ðə left/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Curves or turns in a leftward direction"
@@ -102,7 +102,7 @@ What does **bends to the left** (*/bendz tu ðə left/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **bends to the left** in a sentence.
@@ -113,7 +113,7 @@ Use **bends to the left** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **bends to the left**.
@@ -125,7 +125,7 @@ List 3 common collocations for **bends to the left**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **bends to the left**:
@@ -136,7 +136,7 @@ List 3 common collocations for **bends to the left**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **bends to the left** instead of **turns left**?
@@ -147,7 +147,7 @@ List 3 common collocations for **bends to the left**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're giving directions to tourists at an archaeological site. Say it!
@@ -157,7 +157,7 @@ List 3 common collocations for **bends to the left**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `bend` and `left` to the meaning of **bends to the left**.
@@ -166,7 +166,7 @@ List 3 common collocations for **bends to the left**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/05-addition
+#flashcards/cambridge/cam-20-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **bends to the left**.
@@ -179,7 +179,7 @@ Analyze the root/family of **bends to the left**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */bendz tu ðə left/*
@@ -190,7 +190,7 @@ Analyze the root/family of **bends to the left**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The river bend to the left near the castle."
@@ -200,7 +200,7 @@ Analyze the root/family of **bends to the left**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **bends to the left**?

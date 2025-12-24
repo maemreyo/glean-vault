@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **the bread and cake** (*/ðə bred ænd keɪk/*) mean?
@@ -91,7 +91,7 @@ What does **the bread and cake** (*/ðə bred ænd keɪk/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Having both essential needs and luxury desires; wanting everything"
@@ -102,7 +102,7 @@ What does **the bread and cake** (*/ðə bred ænd keɪk/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **the bread and cake** in a sentence.
@@ -113,7 +113,7 @@ Use **the bread and cake** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **the bread and cake**.
@@ -125,7 +125,7 @@ List 3 common collocations for **the bread and cake**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **the bread and cake**:
@@ -136,7 +136,7 @@ List 3 common collocations for **the bread and cake**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **the bread and cake** instead of **everything**?
@@ -147,7 +147,7 @@ List 3 common collocations for **the bread and cake**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your colleague got an amazing job offer with high salary AND work from home option. You feel amazed. Say it!
@@ -157,7 +157,7 @@ List 3 common collocations for **the bread and cake**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `bread` and `cake` to the meaning of **the bread and cake**.
@@ -166,7 +166,7 @@ List 3 common collocations for **the bread and cake**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/05-addition
+#flashcards/cambridge/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **the bread and cake**.
@@ -179,7 +179,7 @@ Analyze the root/family of **the bread and cake**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ðə bred ænd keɪk/*
@@ -190,7 +190,7 @@ Analyze the root/family of **the bread and cake**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "I want bread and cake for breakfast" (như literal food)
@@ -200,7 +200,7 @@ Analyze the root/family of **the bread and cake**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **the bread and cake**?

@@ -245,7 +245,7 @@ def get_phase_mapping(base_tag):
 
 def convert_ref_to_tag(ref_text):
     """
-    Convert a reference like 'Cam 19 Listening Test 02' to '#flashcards/cam-19-listening-test-02'
+    Convert a reference like 'Cam 19 Listening Test 02' to '#flashcards/cambridge/cam-19-listening-test-02'
     """
     # Clean the ref text (remove wikilink brackets if any)
     clean_text = re.sub(r'\[\[|\]\]', '', ref_text).strip()
@@ -254,7 +254,7 @@ def convert_ref_to_tag(ref_text):
     tag_text = clean_text.lower().replace(' ', '-')
     
     # Build the full tag
-    return f"#flashcards/{tag_text}"
+    return f"#flashcards/cambridge/{tag_text}"
 
 def parse_frontmatter_refs(filepath):
     """

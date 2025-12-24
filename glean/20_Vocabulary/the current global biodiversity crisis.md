@@ -78,7 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **the current global biodiversity crisis** (*/ðə ˈkʌrənt ˈɡləʊbəl ˌbaɪəʊdaɪˈvɜːsəti ˈkraɪsɪs/*) mean?
@@ -90,7 +90,7 @@ What does **the current global biodiversity crisis** (*/ðə ˈkʌrənt ˈɡlə�
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The present-day worldwide emergency characterized by accelerating species extinction rates and ecosystem degradation"
@@ -101,7 +101,7 @@ What does **the current global biodiversity crisis** (*/ðə ˈkʌrənt ˈɡlə�
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **the current global biodiversity crisis** in a sentence.
@@ -112,7 +112,7 @@ Use **the current global biodiversity crisis** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **the current global biodiversity crisis**.
@@ -124,7 +124,7 @@ List 3 common collocations for **the current global biodiversity crisis**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **the current global biodiversity crisis**:
@@ -135,7 +135,7 @@ List 3 common collocations for **the current global biodiversity crisis**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **the current global biodiversity crisis** instead of **[[climate change]]**?
@@ -146,7 +146,7 @@ List 3 common collocations for **the current global biodiversity crisis**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're at an environmental conference. The speaker asks why everyone should care about species extinction. Respond!
@@ -156,7 +156,7 @@ List 3 common collocations for **the current global biodiversity crisis**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `bios` + `diversus` + `krisis` to the meaning of **the current global biodiversity crisis**.
@@ -165,7 +165,7 @@ List 3 common collocations for **the current global biodiversity crisis**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/05-addition
+#flashcards/cambridge/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **the current global biodiversity crisis**.
@@ -179,7 +179,7 @@ Analyze the root/family of **the current global biodiversity crisis**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ðə ˈkʌrənt ˈɡləʊbəl ˌbaɪəʊdaɪˈvɜːsəti ˈkraɪsɪs/*
@@ -190,7 +190,7 @@ Analyze the root/family of **the current global biodiversity crisis**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** The current global biodiversity crisis is when pollution increases in cities
@@ -200,7 +200,7 @@ Analyze the root/family of **the current global biodiversity crisis**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **the current global biodiversity crisis**?

@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a taster session** (*/ə ˈteɪstə ˈseʃn/*) mean?
@@ -91,7 +91,7 @@ What does **a taster session** (*/ə ˈteɪstə ˈseʃn/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "a short trial class to experience something before deciding to join"
@@ -102,7 +102,7 @@ What does **a taster session** (*/ə ˈteɪstə ˈseʃn/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a taster session** in a sentence.
@@ -113,7 +113,7 @@ Use **a taster session** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a taster session**.
@@ -125,7 +125,7 @@ List 3 common collocations for **a taster session**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a taster session**:
@@ -136,7 +136,7 @@ List 3 common collocations for **a taster session**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a taster session** instead of **[[a demonstration]]**?
@@ -147,7 +147,7 @@ List 3 common collocations for **a taster session**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend is unsure about joining an expensive photography course. You want to help them decide. Say it!
@@ -157,7 +157,7 @@ List 3 common collocations for **a taster session**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `taste` + `session` to the meaning of **a taster session**.
@@ -166,7 +166,7 @@ List 3 common collocations for **a taster session**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/05-addition
+#flashcards/cambridge/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **a taster session**.
@@ -180,7 +180,7 @@ Analyze the root/family of **a taster session**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə ˈteɪstə ˈseʃn/*
@@ -191,7 +191,7 @@ Analyze the root/family of **a taster session**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "I want to taste the session" (confusing literal and figurative meanings)
@@ -201,7 +201,7 @@ Analyze the root/family of **a taster session**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a taster session**?

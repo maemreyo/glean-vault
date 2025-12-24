@@ -37,10 +37,10 @@ def process_file(file_path, target_tag_prefix, dry_run=False):
         print(f"Error reading {file_path}: {e}")
         return False
 
-    # Find the specific test tag (e.g., #flashcards/cam-20-listening-test-01)
-    # Regex looks for #flashcards/(prefix[\w-]+)
+    # Find the specific test tag (e.g., #flashcards/cambridge/cam-20-listening-test-01)
+    # Regex looks for #flashcards/cambridge/(prefix[\w-]+)
     # We allow it to be anywhere in the line, preceded by start-of-line or whitespace
-    tag_pattern = re.compile(r'(?:^|\s)#flashcards/(' + re.escape(target_tag_prefix) + r'[\w-]*)')
+    tag_pattern = re.compile(r'(?:^|\s)#flashcards/cambridge/(' + re.escape(target_tag_prefix) + r'[\w-]*)')
     
     match = tag_pattern.search(content)
     if not match:
@@ -51,11 +51,11 @@ def process_file(file_path, target_tag_prefix, dry_run=False):
     # No, the previous logic was `#flashcards/(...)`. 
     # Let's adjust to capture the FULL tag for replacement safety.
     
-    full_tag_match = re.search(r'(#flashcards/' + re.escape(target_tag_prefix) + r'[\w-]*)', content)
+    full_tag_match = re.search(r'(#flashcards/cambridge/' + re.escape(target_tag_prefix) + r'[\w-]*)', content)
     if not full_tag_match:
         return False
         
-    base_tag = full_tag_match.group(1) # e.g. #flashcards/cam-20-listening-test-01
+    base_tag = full_tag_match.group(1) # e.g. #flashcards/cambridge/cam-20-listening-test-01
 
     print(f"Processing {os.path.basename(file_path)}...")
     print(f"  Found tag: {base_tag}")

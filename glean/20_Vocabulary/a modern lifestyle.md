@@ -81,7 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **a modern lifestyle** (*/ə ˈmɒdən ˈlaɪfstaɪl/*) mean?
@@ -93,7 +93,7 @@ What does **a modern lifestyle** (*/ə ˈmɒdən ˈlaɪfstaɪl/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The typical way of living in contemporary society"
@@ -104,7 +104,7 @@ What does **a modern lifestyle** (*/ə ˈmɒdən ˈlaɪfstaɪl/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **a modern lifestyle** in a sentence.
@@ -115,7 +115,7 @@ Use **a modern lifestyle** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **a modern lifestyle**.
@@ -127,7 +127,7 @@ List 3 common collocations for **a modern lifestyle**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **a modern lifestyle**:
@@ -138,7 +138,7 @@ List 3 common collocations for **a modern lifestyle**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **a modern lifestyle** instead of [[contemporary life]]?
@@ -149,7 +149,7 @@ List 3 common collocations for **a modern lifestyle**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're discussing health challenges with your doctor. You want to mention how current living affects health. Say it!
@@ -159,7 +159,7 @@ List 3 common collocations for **a modern lifestyle**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `modernus` to the meaning of **a modern lifestyle**.
@@ -168,7 +168,7 @@ List 3 common collocations for **a modern lifestyle**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/05-addition
+#flashcards/cambridge/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **a modern lifestyle**.
@@ -182,7 +182,7 @@ Analyze the root/family of **a modern lifestyle**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə ˈmɒdən ˈlaɪfstaɪl/*
@@ -193,7 +193,7 @@ Analyze the root/family of **a modern lifestyle**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Common mistake with **a modern lifestyle**?
@@ -204,7 +204,7 @@ Analyze the root/family of **a modern lifestyle**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **a modern lifestyle**?

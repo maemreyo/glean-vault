@@ -78,7 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **one-week residential course** (*/ə wʌn wiːk ˌrezɪˈdenʃl kɔːs/*) mean?
@@ -90,7 +90,7 @@ What does **one-week residential course** (*/ə wʌn wiːk ˌrezɪˈdenʃl kɔː
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A short intensive training program where participants stay at the learning facility for its duration"
@@ -101,7 +101,7 @@ What does **one-week residential course** (*/ə wʌn wiːk ˌrezɪˈdenʃl kɔː
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **one-week residential course** in a sentence.
@@ -112,7 +112,7 @@ Use **one-week residential course** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **one-week residential course**.
@@ -124,7 +124,7 @@ List 3 common collocations for **one-week residential course**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **one-week residential course**:
@@ -135,7 +135,7 @@ List 3 common collocations for **one-week residential course**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **one-week residential course** instead of **[[workshop]]**?
@@ -146,7 +146,7 @@ List 3 common collocations for **one-week residential course**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend asks about your professional development plans. You want to describe an upcoming training. Say it!
@@ -156,7 +156,7 @@ List 3 common collocations for **one-week residential course**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `residere` to the meaning of **one-week residential course**.
@@ -165,7 +165,7 @@ List 3 common collocations for **one-week residential course**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/05-addition
+#flashcards/cambridge/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **one-week residential course**.
@@ -180,7 +180,7 @@ Analyze the root/family of **one-week residential course**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ə wʌn wiːk ˌrezɪˈdenʃl kɔːs/*
@@ -191,7 +191,7 @@ Analyze the root/family of **one-week residential course**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** The course requires students living in campus for one week.
@@ -201,7 +201,7 @@ Analyze the root/family of **one-week residential course**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **one-week residential course**?

@@ -82,7 +82,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **immigration** (*/ˌɪmɪˈɡreɪʃn/*) mean?
@@ -94,7 +94,7 @@ What does **immigration** (*/ˌɪmɪˈɡreɪʃn/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The action of moving to a foreign country to live there permanently; the process of establishing residence in a new country"
@@ -105,7 +105,7 @@ What does **immigration** (*/ˌɪmɪˈɡreɪʃn/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **immigration** in a sentence.
@@ -116,7 +116,7 @@ Use **immigration** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **immigration**.
@@ -128,7 +128,7 @@ List 3 common collocations for **immigration**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **immigration**:
@@ -139,7 +139,7 @@ List 3 common collocations for **immigration**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **immigration** instead of **[[migration]]**?
@@ -150,7 +150,7 @@ List 3 common collocations for **immigration**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're discussing population changes with a colleague. You need to explain why the city has grown so diverse. Say it!
@@ -160,7 +160,7 @@ List 3 common collocations for **immigration**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `in- + migrare` to the meaning of **immigration**.
@@ -169,7 +169,7 @@ List 3 common collocations for **immigration**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/05-addition
+#flashcards/cambridge/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **immigration**.
@@ -183,7 +183,7 @@ Analyze the root/family of **immigration**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌɪmɪˈɡreɪʃn/*
@@ -194,7 +194,7 @@ Analyze the root/family of **immigration**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Many immigrations come from Asia to Europe
@@ -204,7 +204,7 @@ Analyze the root/family of **immigration**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **immigration**?

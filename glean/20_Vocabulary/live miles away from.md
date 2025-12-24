@@ -85,7 +85,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **live miles away from** (*/lɪv maɪlz əˈweɪ frɒm/*) mean?
@@ -97,7 +97,7 @@ What does **live miles away from** (*/lɪv maɪlz əˈweɪ frɒm/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To reside at a great distance from someone or something"
@@ -108,7 +108,7 @@ What does **live miles away from** (*/lɪv maɪlz əˈweɪ frɒm/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **live miles away from** in a sentence.
@@ -119,7 +119,7 @@ Use **live miles away from** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **live miles away from**.
@@ -131,7 +131,7 @@ List 3 common collocations for **live miles away from**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **live miles away from**:
@@ -142,7 +142,7 @@ List 3 common collocations for **live miles away from**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **live miles away from** instead of **[[live far from]]**?
@@ -153,7 +153,7 @@ List 3 common collocations for **live miles away from**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your best friend is moving to another country. You feel sad about the distance. Say it!
@@ -163,7 +163,7 @@ List 3 common collocations for **live miles away from**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the concept of `miles` to the meaning of **live miles away from**.
@@ -172,7 +172,7 @@ List 3 common collocations for **live miles away from**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/05-addition
+#flashcards/cambridge/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the components of **live miles away from**.
@@ -186,7 +186,7 @@ Analyze the components of **live miles away from**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */lɪv maɪlz əˈweɪ frɒm/*
@@ -197,7 +197,7 @@ Analyze the components of **live miles away from**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "I live miles away to the city center." (wrong preposition)
@@ -207,7 +207,7 @@ Analyze the components of **live miles away from**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **live miles away from**?

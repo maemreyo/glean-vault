@@ -78,7 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **take up the challenge** (*/teɪk ʌp ðə ˈtʃælɪndʒ/*) mean?
@@ -90,7 +90,7 @@ What does **take up the challenge** (*/teɪk ʌp ðə ˈtʃælɪndʒ/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To willingly accept a difficult task or situation and commit to dealing with it"
@@ -101,7 +101,7 @@ What does **take up the challenge** (*/teɪk ʌp ðə ˈtʃælɪndʒ/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **take up the challenge** in a sentence.
@@ -112,7 +112,7 @@ Use **take up the challenge** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-04/02-activation
+#flashcards/cambridge/cam-19-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **take up the challenge**.
@@ -124,7 +124,7 @@ List 3 common collocations for **take up the challenge**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **take up the challenge**:
@@ -135,7 +135,7 @@ List 3 common collocations for **take up the challenge**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **take up the challenge** instead of **[[face]]**?
@@ -146,7 +146,7 @@ List 3 common collocations for **take up the challenge**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your boss offers you a promotion but it requires moving to another country and learning a new culture. You feel excited! Say it!
@@ -156,7 +156,7 @@ List 3 common collocations for **take up the challenge**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/04-mastery
+#flashcards/cambridge/cam-19-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the phrase to its medieval roots.
@@ -165,7 +165,7 @@ List 3 common collocations for **take up the challenge**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/05-addition
+#flashcards/cambridge/cam-19-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the components of **take up the challenge**.
@@ -180,7 +180,7 @@ Analyze the components of **take up the challenge**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/01-foundation
+#flashcards/cambridge/cam-19-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */teɪk ʌp ðə ˈtʃælɪndʒ/*
@@ -191,7 +191,7 @@ Analyze the components of **take up the challenge**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** I will take on this challenge
@@ -201,7 +201,7 @@ Analyze the components of **take up the challenge**.
 
 ---
 
-#flashcards/cam-19-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **take up the challenge**?

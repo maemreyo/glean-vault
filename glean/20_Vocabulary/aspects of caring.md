@@ -81,7 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What do **aspects of caring** (*/'æspeks əv 'kerɪŋ/*) mean?
@@ -94,7 +94,7 @@ What do **aspects of caring** (*/'æspeks əv 'kerɪŋ/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The different dimensions and features of showing care and concern for others"
@@ -106,7 +106,7 @@ What do **aspects of caring** (*/'æspeks əv 'kerɪŋ/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **aspects of caring** in a sentence.
@@ -117,7 +117,7 @@ Use **aspects of caring** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **aspects of caring**.
@@ -130,7 +130,7 @@ List 3 common collocations for **aspects of caring**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **aspects of caring**:
@@ -141,7 +141,7 @@ List 3 common collocations for **aspects of caring**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **aspects of caring** instead of [[ways to care]]?
@@ -153,7 +153,7 @@ List 3 common collocations for **aspects of caring**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're studying to become a nurse. Your professor asks about caring. Respond!
@@ -163,7 +163,7 @@ List 3 common collocations for **aspects of caring**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `aspect` (to look at) and `care` (concern) to the meaning of **aspects of caring**.
@@ -172,7 +172,7 @@ List 3 common collocations for **aspects of caring**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **aspects of caring**.
@@ -186,7 +186,7 @@ Analyze the root/family of **aspects of caring**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */'æspeks əv 'kerɪŋ/*
@@ -198,7 +198,7 @@ Analyze the root/family of **aspects of caring**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The many aspects of caring include helping, feeding, and cleaning" (listing actions instead of aspects)
@@ -209,7 +209,7 @@ Analyze the root/family of **aspects of caring**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **aspects of caring**?

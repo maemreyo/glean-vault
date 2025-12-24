@@ -85,7 +85,7 @@ ref:
 
 ### Group 1: Foundation (Cards 1, 2, 10)
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **relax** (*/rɪˈlæks/*) mean?
@@ -97,7 +97,7 @@ What does **relax** (*/rɪˈlæks/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To become less tense or anxious; to rest from work"
@@ -108,7 +108,7 @@ What does **relax** (*/rɪˈlæks/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-01/01-foundation
+#flashcards/cambridge/cam-20-listening-test-01/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */rɪˈlæks/*
@@ -121,7 +121,7 @@ What does **relax** (*/rɪˈlæks/*) mean?
 
 ### Group 2: Activation (Cards 3, 4)
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **relax** in a sentence.
@@ -132,7 +132,7 @@ Use **relax** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-01/02-activation
+#flashcards/cambridge/cam-20-listening-test-01/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **relax**.
@@ -146,7 +146,7 @@ List 3 common collocations for **relax**.
 
 ### Group 3: Differentiation (Cards 6, 11)
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **relax** instead of **[[rest]]**?
@@ -157,7 +157,7 @@ List 3 common collocations for **relax**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "I relax myself with music."
@@ -169,7 +169,7 @@ List 3 common collocations for **relax**.
 
 ### Group 4: Mastery (Cards 5, 7, 8, 9)
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **relax**:
@@ -180,7 +180,7 @@ List 3 common collocations for **relax**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You've been studying for 6 hours straight for final exams. Your head hurts. You call a friend.
@@ -190,7 +190,7 @@ List 3 common collocations for **relax**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/04-mastery
+#flashcards/cambridge/cam-20-listening-test-01/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `laxare` to the meaning of **relax**.
@@ -199,7 +199,7 @@ List 3 common collocations for **relax**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/05-addition
+#flashcards/cambridge/cam-20-listening-test-01/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **relax**.
@@ -214,7 +214,7 @@ Analyze the root/family of **relax**.
 
 ### Group 5: Synonym & Antonym Mastery (Cards 12, 13, 14)
 
-#flashcards/cam-20-listening-test-01/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-01/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **relax**?
@@ -227,7 +227,7 @@ Analyze the root/family of **relax**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/06-synonym-antonym-mastery
+#flashcards/cambridge/cam-20-listening-test-01/06-synonym-antonym-mastery
 ### Card 13: Synonym Context Quiz
 
 🧩 **Quiz:** In this context, which synonym of **relax** is correct?
@@ -247,7 +247,7 @@ Analyze the root/family of **relax**.
 
 ---
 
-#flashcards/cam-20-listening-test-01/06-synonym-antonym-mastery
+#flashcards/cambridge/cam-20-listening-test-01/06-synonym-antonym-mastery
 ### Card 14: Antonym Context Quiz
 
 🔃 **Quiz:** In this context, which antonym of **relax** is correct?

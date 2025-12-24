@@ -82,7 +82,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **renewable energy** (*/rɪˈnjuːəbl ˈenədʒi/*) mean?
@@ -95,7 +95,7 @@ What does **renewable energy** (*/rɪˈnjuːəbl ˈenədʒi/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Energy from natural sources that continuously replenish themselves"
@@ -106,7 +106,7 @@ What does **renewable energy** (*/rɪˈnjuːəbl ˈenədʒi/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **renewable energy** in a sentence.
@@ -118,7 +118,7 @@ Use **renewable energy** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **renewable energy**.
@@ -130,7 +130,7 @@ List 3 common collocations for **renewable energy**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **renewable energy**:
@@ -141,7 +141,7 @@ List 3 common collocations for **renewable energy**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **renewable energy** instead of **[[clean energy]]**?
@@ -152,7 +152,7 @@ List 3 common collocations for **renewable energy**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're presenting an environmental initiative. You need to explain the energy solution. Say it!
@@ -162,7 +162,7 @@ List 3 common collocations for **renewable energy**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `<renew>` and `<energy>` to the meaning of **renewable energy**.
@@ -171,7 +171,7 @@ List 3 common collocations for **renewable energy**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **renewable**.
@@ -183,7 +183,7 @@ Analyze the root/family of **renewable**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */rɪˈnjuːəbl ˈenədʒi/*
@@ -195,7 +195,7 @@ Analyze the root/family of **renewable**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "Renewable energies are important for the future"
@@ -205,7 +205,7 @@ Analyze the root/family of **renewable**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **renewable energy**?

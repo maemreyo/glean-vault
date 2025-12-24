@@ -81,7 +81,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **charity shop** (*/ˈtʃær.ə.ti ʃɒp/*) mean?
@@ -93,7 +93,7 @@ What does **charity shop** (*/ˈtʃær.ə.ti ʃɒp/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A shop that sells donated second-hand goods to raise money for charitable causes"
@@ -104,7 +104,7 @@ What does **charity shop** (*/ˈtʃær.ə.ti ʃɒp/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **charity shop** in a sentence.
@@ -115,7 +115,7 @@ Use **charity shop** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-02/02-activation
+#flashcards/cambridge/cam-19-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **charity shop**.
@@ -127,7 +127,7 @@ List 3 common collocations for **charity shop**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **charity shop**:
@@ -138,7 +138,7 @@ List 3 common collocations for **charity shop**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **charity shop** instead of **second-hand shop**?
@@ -149,7 +149,7 @@ List 3 common collocations for **charity shop**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend wants to donate clothes they don't wear anymore. You feel supportive. Say it!
@@ -159,7 +159,7 @@ List 3 common collocations for **charity shop**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/04-mastery
+#flashcards/cambridge/cam-19-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `caritas` and `sceoppa` to the meaning of **charity shop**.
@@ -168,7 +168,7 @@ List 3 common collocations for **charity shop**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/05-addition
+#flashcards/cambridge/cam-19-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **charity shop**.
@@ -181,7 +181,7 @@ Analyze the root/family of **charity shop**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/01-foundation
+#flashcards/cambridge/cam-19-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈtʃær.ə.ti ʃɒp/*
@@ -192,7 +192,7 @@ Analyze the root/family of **charity shop**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "I bought this from charity shop"
@@ -202,7 +202,7 @@ Analyze the root/family of **charity shop**.
 
 ---
 
-#flashcards/cam-19-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **charity shop**?

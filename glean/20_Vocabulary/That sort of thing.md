@@ -80,7 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **That sort of thing** (*/ðæt sɔːrt əv θɪŋ/*) mean?
@@ -93,7 +93,7 @@ What does **That sort of thing** (*/ðæt sɔːrt əv θɪŋ/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A phrase referring to similar things without listing them all"
@@ -104,7 +104,7 @@ What does **That sort of thing** (*/ðæt sɔːrt əv θɪŋ/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **That sort of thing** in a sentence.
@@ -115,7 +115,7 @@ Use **That sort of thing** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **That sort of thing**.
@@ -128,7 +128,7 @@ List 3 common collocations for **That sort of thing**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **That sort of thing**:
@@ -139,7 +139,7 @@ List 3 common collocations for **That sort of thing**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **That sort of thing** instead of **etc.**?
@@ -151,7 +151,7 @@ List 3 common collocations for **That sort of thing**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend is listing hobbies you don't enjoy. You want to end the conversation politely. Say it!
@@ -161,7 +161,7 @@ List 3 common collocations for **That sort of thing**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots to the meaning of **That sort of thing**.
@@ -170,7 +170,7 @@ List 3 common collocations for **That sort of thing**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the components of **That sort of thing**.
@@ -183,7 +183,7 @@ Analyze the components of **That sort of thing**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ðæt sɔːrt əv θɪŋ/*
@@ -195,7 +195,7 @@ Analyze the components of **That sort of thing**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Using in very formal academic writing
@@ -205,7 +205,7 @@ Analyze the components of **That sort of thing**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **That sort of thing**?

@@ -78,7 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **crash-tested** (*/kræʃ ˈtestɪd/*) mean?
@@ -90,7 +90,7 @@ What does **crash-tested** (*/kræʃ ˈtestɪd/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Having been subjected to controlled collision tests to evaluate safety performance"
@@ -101,7 +101,7 @@ What does **crash-tested** (*/kræʃ ˈtestɪd/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **crash-tested** in a sentence.
@@ -112,7 +112,7 @@ Use **crash-tested** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **crash-tested**.
@@ -124,7 +124,7 @@ List 3 common collocations for **crash-tested**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **crash-tested**:
@@ -135,7 +135,7 @@ List 3 common collocations for **crash-tested**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **crash-tested** instead of **safe**?
@@ -146,7 +146,7 @@ List 3 common collocations for **crash-tested**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're buying a child car seat. You want to ensure maximum safety. Ask the salesperson.
@@ -156,7 +156,7 @@ List 3 common collocations for **crash-tested**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `crash` and `test` to the meaning of **crash-tested**.
@@ -165,7 +165,7 @@ List 3 common collocations for **crash-tested**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/05-addition
+#flashcards/cambridge/cam-20-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **crash-tested**.
@@ -178,7 +178,7 @@ Analyze the root/family of **crash-tested**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */kræʃ ˈtestɪd/*
@@ -189,7 +189,7 @@ Analyze the root/family of **crash-tested**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "Our new crashtested helmet provides excellent protection."
@@ -199,7 +199,7 @@ Analyze the root/family of **crash-tested**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **crash-tested**?

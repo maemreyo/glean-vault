@@ -151,6 +151,6 @@ Use these tags for Group 5:
 - `#flashcards/[source-tag]/06-synonym-antonym-mastery`
 
 Examples:
-- `#flashcards/cam-20-listening-test-04/06-synonym-antonym-mastery`
+- `#flashcards/cambridge/cam-20-listening-test-04/06-synonym-antonym-mastery`
 - `#flashcards/ielts-vocabulary/06-synonym-antonym-mastery`
 - `#flashcards/academic-vocabulary/06-synonym-antonym-mastery`

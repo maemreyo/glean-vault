@@ -80,7 +80,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **attribute** (*/əˈtrɪbjuːt/ - verb; /ˈætrɪbjuːt/ - noun) mean?
@@ -92,7 +92,7 @@ What does **attribute** (*/əˈtrɪbjuːt/ - verb; /ˈætrɪbjuːt/ - noun) mean
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "To say or think that something is the result of a particular person or thing"
@@ -103,7 +103,7 @@ What does **attribute** (*/əˈtrɪbjuːt/ - verb; /ˈætrɪbjuːt/ - noun) mean
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **attribute** (verb) in a sentence.
@@ -114,7 +114,7 @@ Use **attribute** (verb) in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **attribute**.
@@ -126,7 +126,7 @@ List 3 common collocations for **attribute**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **attribute**:
@@ -137,7 +137,7 @@ List 3 common collocations for **attribute**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **attribute** instead of **[[give credit to]]**?
@@ -148,7 +148,7 @@ List 3 common collocations for **attribute**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're analyzing why a project failed. You need to identify the causes professionally. Say it!
@@ -158,7 +158,7 @@ List 3 common collocations for **attribute**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `ad + tribuere` to the meaning of **attribute**.
@@ -167,7 +167,7 @@ List 3 common collocations for **attribute**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/05-addition
+#flashcards/cambridge/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **attribute**.
@@ -181,7 +181,7 @@ Analyze the root/family of **attribute**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */əˈtrɪbjuːt/ (verb) /ˈætrɪbjuːt/ (noun)
@@ -192,7 +192,7 @@ Analyze the root/family of **attribute**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** I **ATtribute** my success to luck.
@@ -202,7 +202,7 @@ Analyze the root/family of **attribute**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **attribute** (verb)?

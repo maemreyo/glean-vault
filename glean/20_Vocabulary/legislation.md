@@ -84,7 +84,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **legislation** (*/ˌledʒɪˈsleɪʃn/*) mean?
@@ -96,7 +96,7 @@ What does **legislation** (*/ˌledʒɪˈsleɪʃn/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The process or act of making laws; laws collectively considered"
@@ -107,7 +107,7 @@ What does **legislation** (*/ˌledʒɪˈsleɪʃn/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **legislation** in a sentence.
@@ -118,7 +118,7 @@ Use **legislation** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **legislation**.
@@ -130,7 +130,7 @@ List 3 common collocations for **legislation**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **legislation**:
@@ -141,7 +141,7 @@ List 3 common collocations for **legislation**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **legislation** instead of **[[policy]]**?
@@ -152,7 +152,7 @@ List 3 common collocations for **legislation**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend thinks businesses should be able to do whatever they want. You disagree strongly. Say it!
@@ -162,7 +162,7 @@ List 3 common collocations for **legislation**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `<lex>` and `<ferre>` to the meaning of **legislation**.
@@ -171,7 +171,7 @@ List 3 common collocations for **legislation**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/05-addition
+#flashcards/cambridge/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **legislation**.
@@ -186,7 +186,7 @@ Analyze the root/family of **legislation**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌledʒɪˈsleɪʃn/*
@@ -197,7 +197,7 @@ Analyze the root/family of **legislation**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The committee drafted three legislations about cyber security."
@@ -207,7 +207,7 @@ Analyze the root/family of **legislation**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **legislation**?

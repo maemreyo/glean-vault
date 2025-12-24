@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-04/01-foundation
+#flashcards/cambridge/cam-20-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **admission** (*/ədˈmɪʃn/*) mean?
@@ -91,7 +91,7 @@ What does **admission** (*/ədˈmɪʃn/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "The act or process of being allowed to enter a place, institution, or organization"
@@ -102,7 +102,7 @@ What does **admission** (*/ədˈmɪʃn/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **admission** in a sentence.
@@ -113,7 +113,7 @@ Use **admission** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **admission**.
@@ -125,7 +125,7 @@ List 3 common collocations for **admission**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **admission**:
@@ -136,7 +136,7 @@ List 3 common collocations for **admission**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **admission** instead of **[[entrance]]**?
@@ -147,7 +147,7 @@ List 3 common collocations for **admission**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** Your friend is worried about university applications. You feel supportive. Say it!
@@ -157,7 +157,7 @@ List 3 common collocations for **admission**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `<admissio>` to the meaning of **admission**.
@@ -166,7 +166,7 @@ List 3 common collocations for **admission**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/05-addition
+#flashcards/cambridge/cam-20-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **admission**.
@@ -179,7 +179,7 @@ Analyze the root/family of **admission**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/01-foundation
+#flashcards/cambridge/cam-20-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ədˈmɪʃn/*
@@ -190,7 +190,7 @@ Analyze the root/family of **admission**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The admission to the concert is first come first serve."
@@ -200,7 +200,7 @@ Analyze the root/family of **admission**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **admission**?

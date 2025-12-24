@@ -77,7 +77,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **synthetic clothing** (*/sɪnˈθetɪk ˈkləʊðɪŋ/*) mean?
@@ -89,7 +89,7 @@ What does **synthetic clothing** (*/sɪnˈθetɪk ˈkləʊðɪŋ/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Clothing made from artificial fibers created through chemical processes"
@@ -100,7 +100,7 @@ What does **synthetic clothing** (*/sɪnˈθetɪk ˈkləʊðɪŋ/*) mean?
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **synthetic clothing** in a sentence.
@@ -111,7 +111,7 @@ Use **synthetic clothing** in a sentence.
 
 ---
 
-#flashcards/cam-19-listening-test-03/02-activation
+#flashcards/cambridge/cam-19-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **synthetic clothing**.
@@ -123,7 +123,7 @@ List 3 common collocations for **synthetic clothing**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **synthetic clothing**:
@@ -134,7 +134,7 @@ List 3 common collocations for **synthetic clothing**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **synthetic clothing** instead of **artificial fabrics**?
@@ -145,7 +145,7 @@ List 3 common collocations for **synthetic clothing**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're giving a presentation about sustainable fashion choices. You need to explain a major environmental concern.
@@ -155,7 +155,7 @@ List 3 common collocations for **synthetic clothing**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/04-mastery
+#flashcards/cambridge/cam-19-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `synthetikos` and `clath` to the meaning of **synthetic clothing**.
@@ -164,7 +164,7 @@ List 3 common collocations for **synthetic clothing**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/05-addition
+#flashcards/cambridge/cam-19-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **synthetic clothing**.
@@ -179,7 +179,7 @@ Analyze the root/family of **synthetic clothing**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/01-foundation
+#flashcards/cambridge/cam-19-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */sɪnˈθetɪk ˈkləʊðɪŋ/*
@@ -190,7 +190,7 @@ Analyze the root/family of **synthetic clothing**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "Synthetic clothings are cheaper than natural ones." (pluralization error)
@@ -200,7 +200,7 @@ Analyze the root/family of **synthetic clothing**.
 
 ---
 
-#flashcards/cam-19-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-19-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **synthetic clothing**?

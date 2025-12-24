@@ -73,7 +73,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-04/01-foundation
+#flashcards/cambridge/cam-20-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **rodents** (*/ˈroʊ.dənts/*) mean?
@@ -85,7 +85,7 @@ What does **rodents** (*/ˈroʊ.dənts/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Multiple mammals characterized by continuously growing incisors that must be gnawed to keep short"
@@ -96,7 +96,7 @@ What does **rodents** (*/ˈroʊ.dənts/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **rodents** in a sentence.
@@ -107,7 +107,7 @@ Use **rodents** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **rodents**.
@@ -119,7 +119,7 @@ List 3 common collocations for **rodents**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **rodents**:
@@ -130,7 +130,7 @@ List 3 common collocations for **rodents**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **rodents** instead of **[[rodent]]**?
@@ -141,7 +141,7 @@ List 3 common collocations for **rodents**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're explaining wildlife in a forest to visitors. Say it!
@@ -151,7 +151,7 @@ List 3 common collocations for **rodents**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the root `rodere` to the meaning of **rodents**.
@@ -160,7 +160,7 @@ List 3 common collocations for **rodents**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/05-addition
+#flashcards/cambridge/cam-20-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **rodents**.
@@ -173,7 +173,7 @@ Analyze the root/family of **rodents**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/01-foundation
+#flashcards/cambridge/cam-20-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˈroʊ.dənts/*
@@ -184,7 +184,7 @@ Analyze the root/family of **rodents**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** Rodents is an important part of the ecosystem.
@@ -194,7 +194,7 @@ Analyze the root/family of **rodents**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **rodents** (in terms of classification)?

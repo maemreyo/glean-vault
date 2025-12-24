@@ -78,7 +78,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **high-vis jacket** (*/ˌhaɪ ˈvɪz ˈdʒækɪt/*) mean?
@@ -90,7 +90,7 @@ What does **high-vis jacket** (*/ˌhaɪ ˈvɪz ˈdʒækɪt/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "A fluorescent jacket with reflective strips worn for safety in hazardous or low-visibility conditions"
@@ -101,7 +101,7 @@ What does **high-vis jacket** (*/ˌhaɪ ˈvɪz ˈdʒækɪt/*) mean?
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **high-vis jacket** in a sentence.
@@ -112,7 +112,7 @@ Use **high-vis jacket** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-03/02-activation
+#flashcards/cambridge/cam-20-listening-test-03/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **high-vis jacket**.
@@ -124,7 +124,7 @@ List 3 common collocations for **high-vis jacket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **high-vis jacket**:
@@ -135,7 +135,7 @@ List 3 common collocations for **high-vis jacket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **high-vis jacket** instead of **regular jacket**?
@@ -146,7 +146,7 @@ List 3 common collocations for **high-vis jacket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're organizing a nighttime charity run. You're concerned about runner safety on open roads. What do you instruct?
@@ -156,7 +156,7 @@ List 3 common collocations for **high-vis jacket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/04-mastery
+#flashcards/cambridge/cam-20-listening-test-03/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the concept of `visibility` to **high-vis jacket**.
@@ -165,7 +165,7 @@ List 3 common collocations for **high-vis jacket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/05-addition
+#flashcards/cambridge/cam-20-listening-test-03/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the root/family of **high-vis jacket**.
@@ -179,7 +179,7 @@ Analyze the root/family of **high-vis jacket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/01-foundation
+#flashcards/cambridge/cam-20-listening-test-03/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */ˌhaɪ ˈvɪz ˈdʒækɪt/*
@@ -190,7 +190,7 @@ Analyze the root/family of **high-vis jacket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "The worker wears a highvis jacket for safety."
@@ -200,7 +200,7 @@ Analyze the root/family of **high-vis jacket**.
 
 ---
 
-#flashcards/cam-20-listening-test-03/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-03/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **high-vis jacket**?

@@ -79,7 +79,7 @@ ref:
 
 ## 🧠 Spaced Repetition Flashcards
 
-#flashcards/cam-20-listening-test-04/01-foundation
+#flashcards/cambridge/cam-20-listening-test-04/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **pans with metal spoons** (*/pænz wɪð ə ˈmetl spuːn/*) refer to?
@@ -91,7 +91,7 @@ What does **pans with metal spoons** (*/pænz wɪð ə ˈmetl spuːn/*) refer to
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Using metal spoons or utensils to stir or cook in metal pans"
@@ -102,7 +102,7 @@ What does **pans with metal spoons** (*/pænz wɪð ə ˈmetl spuːn/*) refer to
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **pans with metal spoons** in a sentence.
@@ -113,7 +113,7 @@ Use **pans with metal spoons** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-04/02-activation
+#flashcards/cambridge/cam-20-listening-test-04/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **pans with metal spoons**.
@@ -125,7 +125,7 @@ List 3 common collocations for **pans with metal spoons**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **pans with metal spoons**:
@@ -136,7 +136,7 @@ List 3 common collocations for **pans with metal spoons**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why say **pans with metal spoons** instead of just **[[stirring]]**?
@@ -147,7 +147,7 @@ List 3 common collocations for **pans with metal spoons**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're teaching someone to cook. You feel instructional. Say it!
@@ -157,7 +157,7 @@ List 3 common collocations for **pans with metal spoons**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/04-mastery
+#flashcards/cambridge/cam-20-listening-test-04/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `<pan>`, `<metal>`, and `<spoon>` to the meaning of **pans with metal spoons**.
@@ -166,7 +166,7 @@ List 3 common collocations for **pans with metal spoons**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/05-addition
+#flashcards/cambridge/cam-20-listening-test-04/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the roots of **pans with metal spoons**.
@@ -181,7 +181,7 @@ Analyze the roots of **pans with metal spoons**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/01-foundation
+#flashcards/cambridge/cam-20-listening-test-04/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */pænz wɪð ə ˈmetl spuːn/*
@@ -192,7 +192,7 @@ Analyze the roots of **pans with metal spoons**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "Don't use pans with metal spoons for non-stick cookware."
@@ -202,7 +202,7 @@ Analyze the roots of **pans with metal spoons**.
 
 ---
 
-#flashcards/cam-20-listening-test-04/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-04/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of using **pans with metal spoons**?

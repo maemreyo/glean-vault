@@ -82,7 +82,7 @@ ref:
 
 ### Group 1: Foundation (Cards 1, 2, 10)
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 1: Meaning & Mental Model (Multi-line)
 
 What do **financial and commercial factors** (*/faɪˈnænʃl ənd kəˈmɜːʃl ˈfæktəz/*) mean?
@@ -94,7 +94,7 @@ What do **financial and commercial factors** (*/faɪˈnænʃl ənd kəˈmɜːʃl
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 2: Production (Reverse)
 
 **Definition:** "Elements or considerations involving both monetary aspects and business/trading aspects used in decision-making"
@@ -105,7 +105,7 @@ What do **financial and commercial factors** (*/faɪˈnænʃl ənd kəˈmɜːʃl
 
 ---
 
-#flashcards/cam-20-listening-test-02/01-foundation
+#flashcards/cambridge/cam-20-listening-test-02/01-foundation
 ### Card 10: IPA Decoding (with Context)
 
 > 🔊 */faɪˈnænʃl ənd kəˈmɜːʃl ˈfæktəz/*
@@ -118,7 +118,7 @@ What do **financial and commercial factors** (*/faɪˈnænʃl ənd kəˈmɜːʃl
 
 ### Group 2: Activation (Cards 3, 4)
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 3: Usage & Analysis (Multi-line)
 
 Use **financial and commercial factors** in a sentence.
@@ -129,7 +129,7 @@ Use **financial and commercial factors** in a sentence.
 
 ---
 
-#flashcards/cam-20-listening-test-02/02-activation
+#flashcards/cambridge/cam-20-listening-test-02/02-activation
 ### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **financial and commercial factors**.
@@ -143,7 +143,7 @@ List 3 common collocations for **financial and commercial factors**.
 
 ### Group 3: Differentiation (Cards 6, 11)
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **financial and commercial factors** instead of **[[business factors]]**?
@@ -154,7 +154,7 @@ List 3 common collocations for **financial and commercial factors**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** "We need to look at the financial and commercial factor."
@@ -166,7 +166,7 @@ List 3 common collocations for **financial and commercial factors**.
 
 ### Group 4: Mastery (Cards 5, 7, 8, 9)
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 5: Word Upgrade (The "Writer's Rewrite")
 
 🚀 **Upgrade:** Make this boring sentence specific using **financial and commercial factors**:
@@ -177,7 +177,7 @@ List 3 common collocations for **financial and commercial factors**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 7: Scenario Reaction
 
 🎭 **Scenario:** You're in a business meeting discussing a potential acquisition. Someone mentions looking at the numbers only. You feel this is incomplete. Say it!
@@ -187,7 +187,7 @@ List 3 common collocations for **financial and commercial factors**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/04-mastery
+#flashcards/cambridge/cam-20-listening-test-02/04-mastery
 ### Card 8: Etymology Story
 
 🌱 **Origins:** Link the roots `<finantia>`, `<commercium>`, and `<factor>` to the meaning of **financial and commercial factors**.
@@ -196,7 +196,7 @@ List 3 common collocations for **financial and commercial factors**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/05-addition
+#flashcards/cambridge/cam-20-listening-test-02/05-addition
 ### Card 9: Word Family & Roots
 
 Analyze the roots/family of **financial and commercial factors**.
@@ -211,7 +211,7 @@ Analyze the roots/family of **financial and commercial factors**.
 
 ### Group 5: Synonym & Antonym Mastery (Cards 12, 13, 14)
 
-#flashcards/cam-20-listening-test-02/03-differentiation
+#flashcards/cambridge/cam-20-listening-test-02/03-differentiation
 ### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of considering **financial and commercial factors**?
@@ -223,7 +223,7 @@ Analyze the roots/family of **financial and commercial factors**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/06-synonym-antonym-mastery
+#flashcards/cambridge/cam-20-listening-test-02/06-synonym-antonym-mastery
 ### Card 13: Synonym Context Quiz
 
 🧩 **Quiz:** In this context, which synonym of **financial and commercial factors** is correct?
@@ -239,7 +239,7 @@ Analyze the roots/family of **financial and commercial factors**.
 
 ---
 
-#flashcards/cam-20-listening-test-02/06-synonym-antonym-mastery
+#flashcards/cambridge/cam-20-listening-test-02/06-synonym-antonym-mastery
 ### Card 14: Antonym Context Quiz
 
 🔃 **Quiz:** In this context, which antonym of **financial and commercial factors** is correct?
