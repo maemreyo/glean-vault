@@ -17,27 +17,27 @@ ref:
 > **Source Test:** {{SOURCE_TEST}}
 
 > [!abstract] 🎯 Target Analysis
-> **Type of Info:** <Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ...>
+> **Type of Info:** <Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)>
 >
-> **Topic Category:** <Volunteering / Academic / Facility / Direction / ...>
+> **Topic Category:** <Volunteering / Academic / Facility / Direction / ... (use ==highlight==)>
 >
 > **🧠 5D Framework:**
-> - **Definition:** <Định nghĩa cốt lõi>
+> - **Definition:** <Định nghĩa cốt lõi (use ==highlight==)>
 >
-> - **Denotation:** <Ý nghĩa đen>
+> - **Denotation:** <Ý nghĩa đen (use ==highlight==)>
 >
-> - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI>
+> - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)>
 >
-> - **Deep Dive:** <Paraphrasing sâu hơn>
+> - **Deep Dive:** <Paraphrasing sâu hơn (use ==highlight==)>
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** <Hình ảnh mental>
+> - **Visual:** <Hình ảnh mental (use ==highlight==)>
 >
-> - **Auditory:** <Âm thanh đặc trưng>
+> - **Auditory:** <Âm thanh đặc trưng (use ==highlight==)>
 >
-> - **Action:** <Hành động cụ thể>
+> - **Action:** <Hành động cụ thể (use ==highlight==)>
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: <e.g., arrange + meeting>
@@ -65,15 +65,15 @@ ref:
 > [!warning] ⚠️ Traps & Distractors
 > **Trap 1:** =={{TRAP_DESCRIPTION}}==
 >
-> - *Why it's tricky:* <Tại sao nghe giống?>
+> - *Why it's tricky:* <Tại sao nghe giống? (use ==highlight==)>
 >
-> - *Actual meaning:* <Nghĩa thật là gì?>
+> - *Actual meaning:* <Nghĩa thật là gì? (use ==highlight==)>
 >
 > **Trap 2:** =={{TRAP_DESCRIPTION}}==
 >
-> - *Why it's tricky:* <Tại sao nghe giống?>
+> - *Why it's tricky:* <Tại sao nghe giống? (use ==highlight==)>
 >
-> - *Actual meaning:* <Nghĩa thật là gì?>
+> - *Actual meaning:* <Nghĩa thật là gì? (use ==highlight==)>
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**

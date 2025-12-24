@@ -140,12 +140,13 @@ FORMAT RULES:
   - **Visual Breaks (Mandatory):** Use a `>` line between logical items in lists (Cards 1, 5, 8, 10, 11) and before concluding summary points (e.g., before "Core Concept", "Logic Chain", "Key Barrier").
   - Ensure EVERY line in a flashcard block starts with `>` (if part of callout) or has NO empty lines between the header and the `?` separator.
 - Mandatory: Include `?` separator between Q&A
-- Use `==highlight==` for key terms (MANDATORY!)
+- **Highlighting:** Use `==` pair to highlight important words/phrases (MANDATORY!). Do not use bold `**` for emphasis within the content, use `==` instead.
 - Write analysis in Vietnamese/English mix as per template
 
 - Replace ALL {{PLACEHOLDER}} with actual content
 
 **💎 QUALITY & DETAIL RULES (MANDATORY):**
+- **Highlighting:** Consistently use `==` to highlight key terms, important variables, or critical parts of an explanation.
 - **Deep Analysis:** Avoid superficial 1-2 word answers. Provide *detailed, specific* explanations.
 - **5D Framework:** "Definition" and "Denotation" must be full sentences explaining context, not just synonyms.
 - **Imagination:** "Sensory Triggers" must describe *meaningful* scenes, sounds, and actions (e.g., "Hearing the *ching* sound of a cash register closing" vs just "sound of money").
@@ -231,21 +232,21 @@ Show pending situation files without processing
 ```
 
 ### Target Analysis (5D Framework)
-- **Definition:** Core meaning của option
-- **Denotation:** Literal meaning
-- **Distractor:** Từ nghe giống nhưng KHÔNG PHẢI
-- **Deep Dive:** Paraphrasing sâu hơn
+- **Definition:** Core meaning của option (highlight keywords with `==`)
+- **Denotation:** Literal meaning (highlight keywords with `==`)
+- **Distractor:** Từ nghe giống nhưng KHÔNG PHẢI (highlight keywords with `==`)
+- **Deep Dive:** Paraphrasing sâu hơn (highlight keywords with `==`)
 
 ### Imagination & Sensory
-- **Visual:** Hình ảnh mental
-- **Auditory:** Âm thanh đặc trưng
-- **Action:** Hành động cụ thể
-- **Collocations:** Verb+Noun, Noun+of+Noun, Adj+Noun patterns
+- **Visual:** Hình ảnh mental (use `==`)
+- **Auditory:** Âm thanh đặc trưng (use `==`)
+- **Action:** Hành động cụ thể (use `==`)
+- **Collocations:** Verb+Noun, Noun+of+Noun, Adj+Noun patterns (highlight parts)
 
 ### Traps & Distractors
 - 2 traps với:
-  - *Why it's tricky:* Tại sao nghe giống?
-  - *Actual meaning:* Nghĩa thật là gì?
+  - *Why it's tricky:* Tại sao nghe giống? (use `==` for signals)
+  - *Actual meaning:* Nghĩa thật là gì? (use `==` for core meaning)
 
 ### Example Scripts
 - 2 IELTS-level audio scripts
