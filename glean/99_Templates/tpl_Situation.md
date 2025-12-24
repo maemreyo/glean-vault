@@ -1,21 +1,20 @@
 ---
 tags:
-  - ielts-listening
   - reflex-training
-aliases: []
+aliases: [] # common variations, shortened forms of the pattern or paraphrases
 status: pending
 ref:
 ---
 
-> [!info] Option Profile (Hồ Sơ Option)
+> [!info] Option Profile
 > **Option Letter:** =={{OPTION_LETTER}}==
 > **Option Text:** =={{OPTION_TEXT}}==
 > **Context:** *{{CONTEXT}}*
 > **Source Test:** {{SOURCE_TEST}}
 
-> [!abstract] 🎯 Target Analysis (Phân Tích Mục Tiêu)
-> **Type of Info:** (Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian)
-> **Topic Category:** (Volunteering / Academic / Facility / Direction)
+> [!abstract] 🎯 Target Analysis
+> **Type of Info:** <Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ...>
+> **Topic Category:** <Volunteering / Academic / Facility / Direction / ...>
 >
 > **🧠 5D Framework:**
 > - **Definition:** <Định nghĩa cốt lõi (dùng cặp `==` để highlight các từ quan trọng)>
@@ -23,7 +22,7 @@ ref:
 > - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI (dùng cặp `==` để highlight các từ quan trọng)>
 > - **Deep Dive:** <Paraphrasing sâu hơn (dùng cặp `==` để highlight các từ quan trọng)>
 
-> [!tip] 💡 Imagination & Sensory (Kích Hoạt Đa Giác Quan)
+> [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 > - **Visual:** <Hình ảnh mental (dùng cặp `==` để highlight các từ quan trọng)>
 > - **Auditory:** <Âm thanh đặc trưng (dùng cặp `==` để highlight các từ quan trọng)>
@@ -34,13 +33,13 @@ ref:
 > - `Noun + of + Noun`: <e.g., organisation of + event (dùng cặp `==` để highlight các từ quan trọng)>
 > - `Adj + Noun`: <e.g., local + businesses (dùng cặp `==` để highlight các từ quan trọng)>
 
-> [!example] 🎙️ Real Audio Phrases (IELTS Level)
+> [!example] 🎙️ Real Audio Phrases
 > - "I'm in charge of..."
 > - "The job involves..."
 > - "We need to..."
 > - "My responsibility is..."
 
-> [!warning] ⚠️ Traps & Distractors (Bẫy Thường Gặp)
+> [!warning] ⚠️ Traps & Distractors
 > **Trap 1:** =={{TRAP_DESCRIPTION}}==
 > - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
 > - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
@@ -49,7 +48,7 @@ ref:
 > - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
 > - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
 
-> [!quote]- 🎞️ Example Scripts (Expand to View)
+> [!quote] 🎞️ Example Scripts
 > **Script 1:**
 > "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
 > → **Match:** =={{OPTION_TEXT}}==
