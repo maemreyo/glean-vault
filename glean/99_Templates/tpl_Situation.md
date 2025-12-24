@@ -1,22 +1,37 @@
 ---
 aliases:
   - 
-# common variations, shortened forms of the pattern or paraphrases
+question_type: single
+# single = 1 option (matching), multi = 2+ options (MCQ)
+options_count: 1
 status: pending
 ref:
 
 ---
 
-> [!info] Option Profile
-> **Option Letter:** =={{OPTION_LETTER}}==
+> [!info] 📋 Question Profile
+> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
 >
-> **Option Text:** =={{OPTION_TEXT}}==
+> **Question Stem:** =={{QUESTION_STEM}}==
+> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
 >
 > **Context:** *{{CONTEXT}}*
 >
 > **Source Test:** {{SOURCE_TEST}}
 
-> [!abstract] 🎯 Target Analysis
+> [!abstract] 🔀 Options Analysis
+>
+> | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
+> |---|--------|--------------|---------------------|----------------|
+> | {{LETTER}} | =={{OPTION_1}}== | <nghĩa cốt lõi> | <từ khóa paraphrase> | ⚠️ High/Medium/Low |
+> | {{LETTER}} | =={{OPTION_2}}== | <nghĩa cốt lõi> | <từ khóa paraphrase> | ⚠️ High/Medium/Low |
+> | {{LETTER}} | =={{OPTION_3}}== | <nghĩa cốt lõi> | <từ khóa paraphrase> | ⚠️ High/Medium/Low |
+>
+> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
+>
+> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
+
+> [!abstract] 🎯 Deep Analysis (Primary Option)
 > **Type of Info:** <Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)>
 >
 > **Topic Category:** <Volunteering / Academic / Facility / Direction / ... (use ==highlight==)>
@@ -38,13 +53,6 @@ ref:
 > - **Auditory:** <Âm thanh đặc trưng (use ==highlight==)>
 >
 > - **Action:** <Hành động cụ thể (use ==highlight==)>
->
-> **🔗 Collocation Patterns:**
-> - `Verb + Noun`: <e.g., arrange + meeting>
->
-> - `Noun + of + Noun`: <e.g., organisation of + event>
->
-> - `Adj + Noun`: <e.g., local + businesses>
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: <e.g., arrange + meeting>
@@ -147,9 +155,11 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 -->
 
-## 🧠 Spaced Repetition Flashcards (11 Cards)
+## 🧠 Spaced Repetition Flashcards (15 Cards)
 
-### Tier 1: Daily Quick Review (3 Cards)
+---
+
+### Tier 1: Foundation - Daily Quick Review (3 Cards)
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
@@ -203,9 +213,9 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-### Tier 2: Weekly Intensive (4 Cards)
+### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-reverse
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
@@ -224,7 +234,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-trap
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
 ### Card 5: Trap Identification
 
 > **Option:** =={{OPTION_TEXT}}==
@@ -244,7 +254,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-differentiate
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
 ### Card 6: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
@@ -260,7 +270,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-cloze
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
@@ -277,10 +287,76 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-### Tier 3: Bi-weekly Mastery (4 Cards)
+### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-chain
-### Card 8: Paraphrase Chain
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+### Card 8: Option Elimination Drill *(MCQ only)*
+
+> **Question:** =={{QUESTION_STEM}}==
+>
+> **Options:**
+> - A. {{OPTION_1}}
+> - B. {{OPTION_2}}
+> - C. {{OPTION_3}}
+>
+> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+>
+> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
+?
+> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+>
+> **❌ Why A is wrong:** <Audio không nhắc đến ==keyword A==>
+>
+> **❌ Why B is wrong:** <Audio không nhắc đến ==keyword B==>
+>
+> **✅ Why C is correct:** <"audio phrase" = ==option C keyword==>
+
+---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+### Card 9: Cross-Option Confusion *(MCQ only)*
+
+> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+>
+> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
+?
+> [!example] 🆚 Decision Matrix
+>
+> | Audio Cue | → Option |
+> |-----------|----------|
+> | "cụm từ 1" | ==A. option A== |
+> | "cụm từ 2" | ==A. option A== |
+> | "cụm từ 3" | ==B. option B== |
+> | "cụm từ 4" | ==B. option B== |
+>
+> **🔑 Core Distinction:**
+> - **A** = <focus area A>
+> - **B** = <focus area B>
+
+---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+### Card 10: Answer Validation *(MCQ only)*
+
+> **Correct Answer:** =={{CORRECT_ANSWER}}==
+>
+> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+>
+> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
+?
+> [!check] ✅ Evidence
+> 1. ==phrase 1== → <giải thích kết nối>
+>
+> 2. ==phrase 2== → <giải thích kết nối>
+>
+> 3. ==phrase 3== → <giải thích kết nối>
+>
+> **🎯 Conclusion:** <Tổng hợp logic>
+
+---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-chain
+### Card 11: Paraphrase Chain
 
 > **Option:** =={{OPTION_TEXT}}==
 >
@@ -299,8 +375,10 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-full-trap
-### Card 9: Full Distractor Analysis
+### Tier 4: Mastery - Bi-weekly (4 Cards)
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+### Card 12: Full Distractor Analysis
 
 > **Full Script (including distractors):**
 > "{{FULL_AUDIO_WITH_DISTRACTORS}}"
@@ -325,8 +403,8 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-script-match
-### Card 10: Script-to-Option Mapping
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+### Card 13: Script-to-Option Mapping
 
 > **Option Text:** =="{{OPTION_TEXT}}"==
 >
@@ -344,8 +422,8 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-speed
-### Card 11: 5-Second Prediction Drill
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+### Card 14: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
@@ -361,5 +439,27 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > 2. ==<Paraphrase 2>==
 >
 > **🎯 Goal:** Instant Recall
+
+---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+### Card 15: Complete Question Synthesis *(MCQ only)*
+
+> **Full Question Context:**
+> =={{QUESTION_STEM}}==
+>
+> **All Options:**
+> | Option | Status | Key Signal |
+> |--------|--------|------------|
+> | A. {{OPTION_1}} | ❌ | <why wrong> |
+> | B. {{OPTION_2}} | ❌ | <why wrong> |
+> | C. {{OPTION_3}} | ✅ | <why correct> |
+>
+> ❓ Tóm tắt toàn bộ logic chọn đáp án trong 1-2 câu?
+?
+> [!success] 🎯 Complete Analysis
+> **Summary:** <Audio focus vào [concept C] thông qua phrases "X" và "Y", trong khi [concept A] và [concept B] không được đề cập hoặc bị phủ định bởi "Z">
+>
+> **🔑 Key Lesson:** <Bài học rút ra cho dạng câu hỏi này>
 
 ---
