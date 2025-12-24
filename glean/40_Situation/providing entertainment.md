@@ -65,7 +65,7 @@ ref:
 
 ### Tier 1: Daily Quick Review (3 Cards)
 
-#flashcards/ielts-listening/social-leisure/events/matching-reflex
+#flashcards/ielts-listening/social-leisure/events/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==providing entertainment==
@@ -84,7 +84,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/matching-reflex
+#flashcards/ielts-listening/social-leisure/events/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==providing entertainment==
@@ -100,7 +100,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/matching-reflex
+#flashcards/ielts-listening/social-leisure/events/daily/03-signpost
 ### Card 3: Signpost Detection
 
 > **Option:** ==providing entertainment==
@@ -118,7 +118,7 @@ ref:
 
 ### Tier 2: Weekly Intensive (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/events/matching-reflex
+#flashcards/ielts-listening/social-leisure/events/weekly/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
@@ -137,7 +137,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/matching-reflex
+#flashcards/ielts-listening/social-leisure/events/weekly/02-trap
 ### Card 5: Trap Identification
 
 > **Option:** ==providing entertainment==
@@ -157,7 +157,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/matching-reflex
+#flashcards/ielts-listening/social-leisure/events/weekly/03-differentiate
 ### Card 6: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="providing entertainment"== với=="organising entertainment"==?
@@ -173,7 +173,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/matching-reflex
+#flashcards/ielts-listening/social-leisure/events/weekly/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
@@ -192,7 +192,7 @@ ref:
 
 ### Tier 3: Bi-weekly Mastery (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/events/matching-reflex
+#flashcards/ielts-listening/social-leisure/events/biweekly/01-chain
 ### Card 8: Paraphrase Chain
 
 > **Option:** ==providing entertainment==
@@ -212,7 +212,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/matching-reflex
+#flashcards/ielts-listening/social-leisure/events/biweekly/02-full-trap
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -238,7 +238,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/matching-reflex
+#flashcards/ielts-listening/social-leisure/events/biweekly/03-script-match
 ### Card 10: Script-to-Option Mapping
 
 > **Option Text:** =="providing entertainment"==
@@ -258,7 +258,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/matching-reflex
+#flashcards/ielts-listening/social-leisure/events/biweekly/04-speed
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**

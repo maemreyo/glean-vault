@@ -65,7 +65,7 @@ ref:
 
 ### Tier 1: Daily Quick Review (3 Cards)
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==No useful research has been done on this==
@@ -84,7 +84,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==No useful research has been done on this==
@@ -100,7 +100,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/daily/03-signpost
 ### Card 3: Signpost Detection
 
 > **Option:** ==No useful research has been done on this==
@@ -118,7 +118,7 @@ ref:
 
 ### Tier 2: Weekly Intensive (4 Cards)
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/weekly/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
@@ -137,7 +137,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/weekly/02-trap
 ### Card 5: Trap Identification
 
 > **Option:** ==No useful research has been done on this==
@@ -157,7 +157,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/weekly/03-differentiate
 ### Card 6: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="No useful research has been done on this"== với =="The facts about this may not be reliable"==?
@@ -173,7 +173,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/weekly/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
@@ -192,7 +192,7 @@ ref:
 
 ### Tier 3: Bi-weekly Mastery (4 Cards)
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/biweekly/01-chain
 ### Card 8: Paraphrase Chain
 
 > **Option:** ==No useful research has been done on this==
@@ -212,7 +212,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/biweekly/02-full-trap
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -238,7 +238,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/biweekly/03-script-match
 ### Card 10: Script-to-Option Mapping
 
 > **Option Text:** =="No useful research has been done on this"==
@@ -259,7 +259,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/biweekly/04-speed
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**

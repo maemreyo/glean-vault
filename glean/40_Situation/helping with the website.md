@@ -61,7 +61,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/it/matching-reflex
+#flashcards/ielts-listening/science-tech/it/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==helping with the website==
@@ -80,7 +80,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/it/matching-reflex
+#flashcards/ielts-listening/science-tech/it/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==helping with the website==
@@ -96,7 +96,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/it/matching-reflex
+#flashcards/ielts-listening/science-tech/it/daily/03-signpost
 ### Card 3: Signpost Detection
 
 > **Option:** ==helping with the website==
@@ -112,7 +112,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/it/matching-reflex
+#flashcards/ielts-listening/science-tech/it/weekly/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
@@ -131,7 +131,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/it/matching-reflex
+#flashcards/ielts-listening/science-tech/it/weekly/02-trap
 ### Card 5: Trap Identification
 
 > **Option:** ==helping with the website==
@@ -151,7 +151,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/it/matching-reflex
+#flashcards/ielts-listening/science-tech/it/weekly/03-differentiate
 ### Card 6: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="helping with the website"== với =="using the website"==?
@@ -167,7 +167,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/it/matching-reflex
+#flashcards/ielts-listening/science-tech/it/weekly/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
@@ -184,7 +184,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/it/matching-reflex
+#flashcards/ielts-listening/science-tech/it/biweekly/01-chain
 ### Card 8: Paraphrase Chain
 
 > **Option:** ==helping with the website==
@@ -204,7 +204,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/it/matching-reflex
+#flashcards/ielts-listening/science-tech/it/biweekly/02-full-trap
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -230,7 +230,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/it/matching-reflex
+#flashcards/ielts-listening/science-tech/it/biweekly/03-script-match
 ### Card 10: Script-to-Option Mapping
 
 > **Option Text:** =="helping with the website"==
@@ -253,7 +253,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/it/matching-reflex
+#flashcards/ielts-listening/science-tech/it/biweekly/04-speed
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**

@@ -61,7 +61,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==This will involve only a small number of statistics==
@@ -80,7 +80,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==This will involve only a small number of statistics==
@@ -96,7 +96,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/daily/03-signpost
 ### Card 3: Signpost Detection
 
 > **Option:** ==This will involve only a small number of statistics==
@@ -112,7 +112,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/weekly/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
@@ -131,7 +131,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/weekly/02-trap
 ### Card 5: Trap Identification
 
 > **Option:** ==This will involve only a small number of statistics==
@@ -151,7 +151,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/weekly/03-differentiate
 ### Card 6: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="only a small number of statistics"== với =="a lot of statistics"==?
@@ -167,7 +167,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/weekly/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
@@ -184,7 +184,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/biweekly/01-chain
 ### Card 8: Paraphrase Chain
 
 > **Option:** ==This will involve only a small number of statistics==
@@ -204,7 +204,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/biweekly/02-full-trap
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -230,7 +230,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/biweekly/03-script-match
 ### Card 10: Script-to-Option Mapping
 
 > **Option Text:** =="This will involve only a small number of statistics"==
@@ -253,7 +253,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/research/matching-reflex
+#flashcards/ielts-listening/education-training/research/biweekly/04-speed
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
