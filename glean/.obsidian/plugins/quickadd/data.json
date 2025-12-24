@@ -85,6 +85,49 @@
       "templater": {
         "afterCapture": "none"
       }
+    },
+    {
+      "id": "6cf49164-883b-4f87-9b75-9b90a258a38f",
+      "name": "⚡ Glean",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "40_Situation/{{value}}.md",
+      "captureToActiveFile": false,
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "99_Templates/tpl_Situation.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "  - {{linkcurrent}}\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "ref:",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "templater": {
+        "afterCapture": "wholeFile"
+      }
     }
   ],
   "inputPrompt": "single-line",

@@ -20,6 +20,10 @@
     {
       "folder": "10_Sources",
       "template": "99_Templates/tpl_Source_Input.md"
+    },
+    {
+      "folder": "40_Situation",
+      "template": "99_Templates/tpl_Situation.md"
     }
   ],
   "enable_file_templates": false,

@@ -29,14 +29,16 @@
         "Shift"
       ],
       "key": "B"
-    },
+    }
+  ],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "quickadd:choice:6cf49164-883b-4f87-9b75-9b90a258a38f": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "2"
     }
-  ],
-  "workspace:goto-tab-1": [],
-  "workspace:goto-tab-2": []
+  ]
 }
