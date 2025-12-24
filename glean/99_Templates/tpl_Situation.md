@@ -1,18 +1,16 @@
 ---
-
 tags:
   - ielts-listening
   - reflex-training
 aliases: []
 status: pending
 ref:
-
 ---
 
 > [!info] Option Profile (Hồ Sơ Option)
-> **Option Letter:** {{OPTION_LETTER}}
-> **Option Text:** {{OPTION_TEXT}}
-> **Context:** {{CONTEXT}}
+> **Option Letter:** =={{OPTION_LETTER}}==
+> **Option Text:** =={{OPTION_TEXT}}==
+> **Context:** *{{CONTEXT}}*
 > **Source Test:** {{SOURCE_TEST}}
 
 > [!abstract] 🎯 Target Analysis (Phân Tích Mục Tiêu)
@@ -32,9 +30,9 @@ ref:
 > - **Action:** <Hành động cụ thể>
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: <e.g., arrange + meeting>
-> - `Noun + of + Noun`: <e.g., organisation of + event>
-> - `Adj + Noun`: <e.g., local + businesses>
+> - `Verb + Noun`: ==<e.g., arrange + meeting>==
+> - `Noun + of + Noun`: ==<e.g., organisation of + event>==
+> - `Adj + Noun`: ==<e.g., local + businesses>==
 
 > [!example] 🎙️ Real Audio Phrases (IELTS Level)
 > - "I'm in charge of..."
@@ -43,11 +41,11 @@ ref:
 > - "My responsibility is..."
 
 > [!warning] ⚠️ Traps & Distractors (Bẫy Thường Gặp)
-> **Trap 1:** {{TRAP_DESCRIPTION}}
+> **Trap 1:** =={{TRAP_DESCRIPTION}}==
 > - *Why it's tricky:* <Tại sao nghe giống?>
 > - *Actual meaning:* <Nghĩa thật là gì?>
 >
-> **Trap 2:** {{TRAP_DESCRIPTION}}
+> **Trap 2:** =={{TRAP_DESCRIPTION}}==
 > - *Why it's tricky:* <Tại sao nghe giống?>
 > - *Actual meaning:* <Nghĩa thật là gì?>
 
@@ -72,7 +70,7 @@ ref:
 > **Option:** =={{OPTION_TEXT}}==
 > **Context:** *{{CONTEXT}}*
 >
-❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
+> ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
 ?
 > [!success] 💡 Possible Scripts
 > 1. **Action (Hành động):** <ví dụ: Hiring ==a live band==>
@@ -106,10 +104,10 @@ ref:
 > ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
 ?
 > [!tip] 🚦 Signposts
-> - **Before:** <ví dụ: "So," "As for," "Regarding...">
-> - **After:** <ví dụ: "which involves," "that means...">
+> - **Before:** ==<ví dụ: "So," "As for," "Regarding...">==
+> - **After:** ==<ví dụ: "which involves," "that means...">==
 >
-> **🎧 Audio Cue:** <Cụm từ nghe được (EN)>
+> **🎧 Audio Cue:** ==<Cụm từ nghe được (EN)>==
 
 ---
 
@@ -123,7 +121,7 @@ ref:
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: **{{OPTION_TEXT}}**
+> [!check] ✅ Match: =={{OPTION_TEXT}}==
 > **🔍 Analysis:**
 > - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
 > - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
@@ -145,7 +143,7 @@ ref:
 > - *"Instead of X, we decided to..."* (Thay thế)
 > - *"We've run out of time for X..."* (Không làm được)
 >
-> **⚠️ Other Traps:** <Too expensive, not available...>
+> **⚠️ Other Traps:** ==<Too expensive, not available...>==
 
 ---
 
@@ -174,7 +172,7 @@ ref:
 >
 > ❓ **Question:** ==Điền vào chỗ trống==?
 ?
-> [!success] ✅ Answer: **{{KEY_PHRASE}}**
+> [!success] ✅ Answer: =={{KEY_PHRASE}}==
 > **🔗 Connects to:** =={{OPTION_TEXT}}==
 >
 > **💡 Why:** <Giải thích logic>
@@ -197,7 +195,6 @@ ref:
 > 4. **Implicit:** <Ý nghĩa ẩn dụ>
 >
 > **💡 Core Thread:** <Chủ đề xuyên suốt>
-<!--SR:!2025-12-28,4,270-->
 
 ---
 
@@ -218,7 +215,7 @@ ref:
 > - *Sounds like:* <Nghe giống gì>
 > - *Wrong because:* <Tại sao sai>
 >
-> ✅ Correct Answer: =={{OPTION_TEXT}}==
+> **✅ Correct Answer:** =={{OPTION_TEXT}}==
 > - *Why correct:* <Giải thích>
 
 ---
@@ -248,7 +245,7 @@ ref:
 >
 > **Option:** =={{OPTION_TEXT}}==
 >
-> **Context:** {{CONTEXT}}
+> **Context:** *{{CONTEXT}}*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
