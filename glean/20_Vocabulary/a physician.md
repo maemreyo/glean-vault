@@ -1,280 +1,257 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
-#flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
 #flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [physician, medical doctor, doctor of medicine, specialist, healer, medical practitioner, doc, GP, attending physician]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /ə fɪˈzɪʃn/
+> **Part of Speech:** noun
+> **CEFR Level:** B2
+> **Register:** formal
+> **Etymology:** From Greek *physikos* (natural) + *iatros* (healer)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** A medical doctor who treats diseases and injuries
+>
+> **Context Meaning:** A qualified medical practitioner who specializes in the diagnosis, treatment, and prevention of diseases and injuries
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** bác sĩ, thầy thuốc
+> - **Contextual:** bác sĩ y khoa, bác sĩ điều trị
+>
 > **Nuances:**
-> - ...
+> - More formal than "doctor" in medical contexts
+> - Often used in hospitals, clinics, and formal healthcare settings
+> - Distinguished from other specialists like surgeons, pediatricians
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Professional, Trustworthy, Caring
+> **Memory Hook:** Think "physic" (nature) + "cian" (expert) - a physician is an expert in natural healing sciences
+> **📖 Etymology Story:** Greek "physikos" meant "of nature" and "iatros" meant "healer." Combined, "physician" literally meant "healer of natural things" - someone who understands the body's natural healing process and helps restore health.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[physician]] /əˈfɪʃn/ : medical doctor
+> - **Noun:** [[medicine]] /ˈmedsn/ : practice of healing
+> - **Noun:** [[physics]] /ˈfɪzɪks/ : study of nature (related root)
+> - **Noun:** [[hospital]] /ˈhɒspɪtl/ : place physicians work
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[doctor]] /ˈdɒktə/ : general medical practitioner
+> - [[medical doctor]] /ˈmedɪkl ˈdɒktə/ : formal term
+> - [[specialist]] /ˈspeʃəlɪst/ : focused expert
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[patient]] /ˈpeɪʃnt/ : person receiving care
+> - [[nurse]] /nɜːs/ : caregiver supporting physician
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. consult a physician
+> 2. primary care physician
+> 3. attending physician
+>
+> **1. Medical Context**
+> - **Sentence:** The physician recommended that I take antibiotics for the infection.
+> - **Translation:** Bác sĩ khuyên dùng tôi nên uống kháng sinh cho nhiễm trùng.
+>
+> **2. Healthcare Context**
+> - **Sentence:** Your primary care physician will coordinate your treatment plan with the specialist.
+> - **Translation:** Bác sĩ chăm sóc chính của bạn sẽ phối hợp kế hoạch điều trị với bác sĩ chuyên khoa.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Confusing physician vs surgeon**
+> - ❌ **Mistake:** The physician performed the heart transplant surgery.
+> - ✅ **Correction:** The surgeon performed the heart transplant surgery.
+> - **Why:** "Physician" specializes in diagnosis and treatment, while "surgeon" specializes in surgical operations.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The good physician treats the disease; the great physician treats the patient."
+> **Source:** [[William Osler]]
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## 🧠 Spaced Repetition Flashcards (14 Cards)
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+### Group 1: Foundation (Cards 1, 2, 10)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+#flashcards/cam-20-listening-test-02/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
+
+What does **a physician** (*/ə fɪˈzɪʃn/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** A qualified medical doctor who diagnoses, treats, and prevents diseases and injuries
+> 🇻🇳 **Vietnamese:** Bác sĩ, bác sĩ y khoa chuyên môn
+> 🗣️ **IPA:** */ə fɪˈzɪʃn/*
+> 🧠 **Mental Model:** Giống như "medical expert" - physician là bác sĩ có chuyên môn sâu, được đào tạo chính thức và có thể điều trị bệnh
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-02/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "A qualified medical practitioner who specializes in the diagnosis, treatment, and prevention of diseases and injuries"
+**Vietnamese:** Một bác sĩ có đủ bằng cấp có chuyên môn về chẩn đoán, điều trị và ngăn ngừa bệnh và thương tích
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**a physician** (*/ə fɪˈzɪʃn/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-02/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-Use **{{WORD}}** in a sentence.
+> 🔊 */ə fɪˈzɪʃn/*
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+**a physician**
+> 📖 **Meaning:** A qualified medical doctor
+> 🇻🇳 **Vietnamese:** Bác sĩ, thầy thuốc
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+### Group 2: Activation (Cards 3, 4)
 
-List 3 common collocations for **{{WORD}}**.
+#flashcards/cam-20-listening-test-02/02-activation
+### Card 3: Usage & Analysis (Multi-line)
+
+Use **a physician** in a sentence.
+?
+> 📝 **Sentence:** The physician explained that my symptoms were caused by stress rather than a serious medical condition.
+> 🇻🇳 **Translation:** Bác sĩ giải thích rằng các triệu chứng của tôi do căng thẳng hơn là một bệnh lý nghiêm trọng.
+> 🔍 **Analysis:** "Physician" ở đây kết hợp với "explained" thể hiện sự chuyên nghiệp trong chẩn đoán và giải thích bệnh lý
+
+---
+
+#flashcards/cam-20-listening-test-02/02-activation
+### Card 4: Collocations by Logic (Multi-line)
+
+List 3 common collocations for **a physician**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Action:** consult a physician (tham khảo bác sĩ - VN: seeking medical advice)
+> 2. **Role:** primary care physician (bác sĩ chăm sóc chính - VN: first point of contact)
+> 3. **Medical:** attending physician (bác sĩ trực - VN: responsible for inpatient care)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+### Group 3: Differentiation (Cards 6, 11)
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+#flashcards/cam-20-listening-test-02/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
+
+🆚 **Nuance:** Why use **a physician** instead of **[[a doctor]]**?
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> **a physician:** Dùng khi nói về medical contexts formal, chuyên nghiệp - VN: bác sĩ y khoa, formal
+> **[[a doctor]]:** Dùng khi nói chung chung, informal - VN: bác sĩ, doctor
+> 🧱 **The Barrier:** Physician là formal/medical term, doctor là general/informal term. Trong hồ sơ y tế (medical records), dùng "physician"; trong giao tiếp hàng ngày, dùng "doctor".
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-02/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🕵️ **Fix the Error:** "The physician conducted the surgery on the patient."
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> ✅ **Correction:** "The surgeon conducted the surgery on the patient."
+> 🧠 **Why:** "Physician" specializes in diagnosis và treatment (không phẫu thuật), "surgeon" mới là bác sĩ chuyên phẫu thuật.
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+### Group 4: Mastery (Cards 5, 7, 8, 9)
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+#flashcards/cam-20-listening-test-02/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
+
+🚀 **Upgrade:** Make this boring sentence specific using **a physician**:
+"See a doctor."
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🖋️ **Advanced:** "It's important to consult a physician if you experience persistent symptoms."
+> 💡 **Why it works:** "Physician" tạo sự chuyên nghiệp (professional) hơn "doctor", "consult" thể hiện hành động chủ động tìm kiếm lời khuyên y tế
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-02/04-mastery
+### Card 7: Scenario Reaction
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🎭 **Scenario:** Your friend has been feeling unwell for weeks. They mention seeing a general practitioner. You feel concerned. Say it!
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 🎬 **Line:** "Your physician should be able to run some tests to determine what's causing your symptoms."
+> 👨‍🎨 **Director's Note:** "Physician" thể hiện sự quan tâm chuyên nghiệp (professional concern) về sức khỏe
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-02/04-mastery
+### Card 8: Etymology Story
 
-Analyze the root/family of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<physikos>` + `<iatros>` to the meaning of **a physician**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 📜 **Story:** Greek "physikos" = của tự nhiên, "iatros" = người chữa bệnh. Kết hợp = "người chữa bệnh của tự nhiên" - giống như expert hiểu body's natural processes và giúp restore health bằng scientific methods
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-02/05-addition
+### Card 9: Word Family & Roots
 
-> 🔊 */<ipa>/*
+Analyze the roots/family of **a physician**.
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+> 🌱 **Roots:** Greek `physikos` (natural) + `iatros` (healer)
+> 👨‍👩‍👧 **Family:**
+> - *(noun)* [[medicine]] (y học)
+> - *(noun)* [[physics]] (vật lý - related root "physikos")
+> - *(noun)* [[hospital]] (bệnh viện - nơi physician làm việc)
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+### Group 5: Synonym & Antonym Mastery (Cards 12, 13, 14)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
-?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+#flashcards/cam-20-listening-test-02/03-differentiation
+### Card 12: Antonym Flip
 
----
-
-### Card 12: Antonym Flip [Phase 3: Differentiation]
-
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of **a physician** (in healthcare relationship)?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[patient]] (người bệnh - nhận điều trị)
+> - [[nurse]] (y tá - hỗ trợ physician)
+> 🧱 **Contrast:** Physician là người chữa bệnh (gives treatment), patient là người nhận điều trị. Giống như healer vs receiver of care.
 
 ---
+
+#flashcards/cam-20-listening-test-02/06-synonym-antonym-mastery
+### Card 13: Synonym Context Quiz
+
+🧩 **Quiz:** In this context, which synonym of **a physician** is correct?
+**Context:** You're at a hospital registration desk filling out paperwork. You need to specify which type of doctor you want to see for your ongoing back pain.
+**Sentence to complete:** "I'd like to make an appointment with _____ for my back pain."
+**Options:**
+- A) [[a doctor]]
+- B) [[a surgeon]]
+- C) [[a specialist]]
+?
+> ✅ **Answer:** [[a doctor]] (acceptable) OR [[a specialist]] (if referring to back specialist)
+> 🧠 **Why:** Trong context登记 đăng ký (registration desk), người ta dùng từ "doctor" hoặc "specialist" (nếu nói cụ thể về bác sĩ lưng). "Surgeon" chỉ dành cho phẫu thuật, không phù hợp context nỗi lưng thông thường.
+
+---
+
+#flashcards/cam-20-listening-test-02/06-synonym-antonym-mastery
+### Card 14: Antonym Context Quiz
+
+🔃 **Quiz:** In this context, which antonym of **a physician** is correct?
+
+**Context:** A clinic has hired new staff. One person has medical training and will examine patients, while the other will greet patients and handle paperwork.
+
+**Sentence to complete:** "Dr. Johnson is the _____ who will be treating patients today."
+
+**Options:**
+- A) [[patient]]
+- B) [[nurse]]
+- C) [[receptionist]]
+?
+> ✅ **Answer:** [[nurse]] (contextually opposite role - caregiver vs receiver)
+> 🧠 **Why:** Trong context này, "nurse" là người hỗ trợ (caregiver support) đối với physician (người điều trị chính). "Patient" là người nhận điều trị (không phải nhân viên), "receptionist" là nhân viên lễ tân (không có nhiệm vụ chăm sóc y tế).

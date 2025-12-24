@@ -16,7 +16,7 @@ In the [[20_Vocabulary/absence|absence]] of solar [[20_Vocabulary/radiation|radi
 
 4\. Microbial [[20_Vocabulary/last longer|Longevity]] in Stasis
 
-One of the most [[20_Vocabulary/a real eye-opener|astounding]] discoveries is the "reanimation" of microbes trapped within fluid inclusions of giant crystals for [[20_Vocabulary/beyond|over]] 50,000 years. This demonstrates an [[20_Vocabulary/incredible|incredible]] capacity for [[20_Vocabulary/metabolism|metabolic]] stasis [[20_Vocabulary/In addition|and]] [[20_Vocabulary/a longer-term solution|long-term]] [[20_Vocabulary/outlive|survival]] in resourse-[[20_Vocabulary/be taken off|depleted]] environments.
+One of the most [[20_Vocabulary/a real eye-opener|astounding]] discoveries is the "reanimation" of microbes trapped within fluid inclusions of giant crystals for [[20_Vocabulary/beyond|over]] 50,000 years. This demonstrates an [[20_Vocabulary/incredible|incredible]] capacity for [[20_Vocabulary/metabolism|metabolic]] stasis [[20_Vocabulary/In addition|and]] [[20_Vocabulary/a longer-term solution|long-term]] [[20_Vocabulary/outlive|survival]] in resourse-depleted environments.
 
 Caves are [[20_Vocabulary/essential|essentially]] "natural laboratories" that provide insights into the [[20_Vocabulary/the boundaries|limits]] of [[20_Vocabulary/existence|life]] [[20_Vocabulary/In addition|and]] [[20_Vocabulary/potentially|potential]] extraterrestrial biology.
 

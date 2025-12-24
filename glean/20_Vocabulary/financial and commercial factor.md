@@ -1,280 +1,254 @@
-#flashcards/vocabulary/general
-<!--
-Select one of the following tags to replace the line above:
-
-# General
-#flashcards/vocabulary/general/functional-words
-#flashcards/vocabulary/general/abstract-concepts
-#flashcards/vocabulary/general/emotions-personality-adjectives
-
-# Topic-Specific (Environment)
-#flashcards/vocabulary/topic-specific/environment/climate-change-global-warming
-#flashcards/vocabulary/topic-specific/environment/pollution-waste-management
-#flashcards/vocabulary/topic-specific/environment/wildlife-conservation
-
-# Topic-Specific (Sci-Tech)
-#flashcards/vocabulary/topic-specific/sci-tech/technology
-#flashcards/vocabulary/topic-specific/sci-tech/space-exploration
-#flashcards/vocabulary/topic-specific/sci-tech/scientific-research
-
-# Topic-Specific (History & Archaeology)
-#flashcards/vocabulary/topic-specific/history-archaeology/archaeology
-#flashcards/vocabulary/topic-specific/history-archaeology/ancient-civilizations
-#flashcards/vocabulary/topic-specific/history-archaeology/evolution-anthropology
-
-# Topic-Specific (Psychology & Behavior)
-#flashcards/vocabulary/topic-specific/psychology-behavior/cognitive-science
-#flashcards/vocabulary/topic-specific/psychology-behavior/child-development
-#flashcards/vocabulary/topic-specific/psychology-behavior/social-psychology
-
-# Topic-Specific (Agriculture & Food)
-#flashcards/vocabulary/topic-specific/agriculture-food/modern-farming
-#flashcards/vocabulary/topic-specific/agriculture-food/food-science
-#flashcards/vocabulary/topic-specific/agriculture-food/history-of-spices
-
-# Topic-Specific (Society & Urbanization)
-#flashcards/vocabulary/topic-specific/society-urbanization/urban-life-city-planning
-#flashcards/vocabulary/topic-specific/society-urbanization/family-gender-relationships
-#flashcards/vocabulary/topic-specific/society-urbanization/globalization-integration
-
-# Topic-Specific (Education)
-#flashcards/vocabulary/topic-specific/education/university-academic-life
-#flashcards/vocabulary/topic-specific/education/online-learning-vs-traditional
-#flashcards/vocabulary/topic-specific/education/child-discipline-parenting
-
-# Topic-Specific (Work & Economy)
-#flashcards/vocabulary/topic-specific/work-economy/advertising-marketing-consumerism
-#flashcards/vocabulary/topic-specific/work-economy/employment-management-styles
 #flashcards/vocabulary/topic-specific/work-economy/business-models
-
-# Topic-Specific (Health)
-#flashcards/vocabulary/topic-specific/health/physical-health-diet
-#flashcards/vocabulary/topic-specific/health/mental-health-stress
-#flashcards/vocabulary/topic-specific/health/healthcare-systems
-
-# Topic-Specific (Arts & Architecture)
-#flashcards/vocabulary/topic-specific/arts-architecture/art-forms
-#flashcards/vocabulary/topic-specific/arts-architecture/architecture
-#flashcards/vocabulary/topic-specific/arts-architecture/media-literature-film
-
-# Topic-Specific (Language & Linguistics)
-#flashcards/vocabulary/topic-specific/language-linguistics/language-acquisition
-#flashcards/vocabulary/topic-specific/language-linguistics/origins-of-language
-#flashcards/vocabulary/topic-specific/language-linguistics/communication-types
-
-# Topic-Specific (Law, Crime & Politics)
-#flashcards/vocabulary/topic-specific/law-crime-politics/crime-punishment
-#flashcards/vocabulary/topic-specific/law-crime-politics/laws-legislation
-#flashcards/vocabulary/topic-specific/law-crime-politics/government-spending
-
-# Topic-Specific (Travel & Culture)
-#flashcards/vocabulary/topic-specific/travel-culture/tourism-types
-#flashcards/vocabulary/topic-specific/travel-culture/cultural-heritage
-#flashcards/vocabulary/topic-specific/travel-culture/migration-immigration
-
-# Topic-Specific (Sport & Leisure)
-#flashcards/vocabulary/topic-specific/sport-leisure/professional-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/extreme-sports
-#flashcards/vocabulary/topic-specific/sport-leisure/leisure-activities
-
-# Phrasal & Idioms
-#flashcards/vocabulary/phrasal-idioms/collocations-by-verb
-#flashcards/vocabulary/phrasal-idioms/collocations-by-topic
-#flashcards/vocabulary/phrasal-idioms/idioms-for-speaking
--->
 
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
-status: pending
+aliases: [financial factor, commercial factor, business factor, economic factor, monetary consideration, commercial aspect, business consideration]
+status: done
 ref:
   - [[Cam 20 Listening Test 02]]
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
-> **Part of Speech:** (noun/verb/adj/adv)
-> **CEFR Level:** (A1-C2)
-> **Register:** (formal/informal/academic/poetic)
-> **Etymology:** ...
+> **IPA:** /faɪˈnænʃl ənd kəˈmɜːʃl ˈfæktə/
+> **Part of Speech:** noun phrase
+> **CEFR Level:** B2-C1
+> **Register:** formal/business
+> **Etymology:** "Financial" from Latin *finantia* (end, payment) + "Commercial" from Latin *commercium* (trade) + "Factor" from Latin *factor* (maker, doer)
 
 > [!abstract] Meanings
-> **Root Meaning:** ...
-> 
-> **Context Meaning:** ...
-> 
+> **Root Meaning:** Elements related to both money-making and business trading
+>
+> **Context Meaning:** Considerations that involve both monetary/financial aspects and commercial/trading aspects when making business decisions
+>
 > **Vietnamese Translation:**
-> - **Direct:** ...
-> - **Contextual:** ...
-> 
+> - **Direct:** yếu tố tài chính và thương mại
+> - **Contextual:** yếu tố liên quan đến tài chính và hoạt động kinh doanh
+>
 > **Nuances:**
-> - ...
+> - Used in business analysis, project evaluation, and decision-making
+> - Combines monetary concerns with market/business considerations
+> - Often appears in feasibility studies and risk assessments
 
 > [!tip] 💡 Word Vibe & Story
-> **Personality:** (e.g., Aggressive, Scholarly, Gentle, Sarcastic)
-> **Memory Hook:** ...
-> **📖 Etymology Story:** (Connect root to meaning in a narrative way)
+> **Personality:** Analytical, Business-minded, Calculated
+> **Memory Hook:** Think "financial" (money) + "commercial" (trade) = business factor - elements that make businesses succeed or fail
+> **📖 Etymology Story:** "Financial" relates to "finis" meaning end or completion (money finishing transactions). "Commercial" comes from Latin meaning "trade" or "merchandise." "Factor" means something that makes or contributes. Combined: factors related to both money and trade that make business happen.
 
 > [!note] Relations
 > **Word Family:**
-> - **Noun:** [[ ]] /.../
-> - **Verb:** [[ ]] /.../
-> - **Adj:** [[ ]] /.../
-> - **Adv:** [[ ]] /.../
-> 
+> - **Noun:** [[finance]] /faɪˈnæns/ : money management
+> - **Adj:** [[financial]] /faɪˈnænʃl/ : related to money
+> - **Noun:** [[commerce]] /ˈkɒmɜːs/ : business and trade
+> - **Adj:** [[commercial]] /kəˈmɜːʃl/ : related to business/trade
+>
 > **Synonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
-> 
+> - [[economic factor]] /ˌiːkəˈnɒmɪk ˈfæktə/ : related to economics
+> - [[business consideration]] /ˈbɪznəs kənsɪdəˈreɪʃn/ : thinking about business
+> - [[market factor]] /ˈmɑːkɪt ˈfæktə/ : market-related element
+>
 > **Antonyms:**
-> - [[ ]] /.../ : ...
-> - [[ ]] /.../ : ...
+> - [[non-financial factor]] /ˌnɒn faɪˈnænʃl ˈfæktə/ : not money-related
+> - [[non-commercial factor]] /ˌnɒn kəˈmɜːʃl ˈfæktə/ : not business-related
 
 > [!success] Context & Usage
 > **Collocations:**
-> 1. ...
-> 2. ...
-> 
-> **1. Example Context 1**
-> - **Sentence:** ...
-> - **Translation:** ...
-> 
-> **2. Example Context 2**
-> - **Sentence:** ...
-> - **Translation:** ...
+> 1. consider financial and commercial factors
+> 2. analyze financial and commercial factors
+> 3. weigh financial and commercial factors
+>
+> **1. Business Analysis Context**
+> - **Sentence:** When evaluating the new project, the board must carefully weigh financial and commercial factors before making a decision.
+> - **Translation:** Khi đánh giá dự án mới, hội đồng quản trị phải cân nhắc kỹ càng các yếu tố tài chính và thương mại trước khi ra quyết định.
+>
+> **2. Investment Context**
+> - **Sentence:** Financial and commercial factors suggest that this investment carries moderate risk but offers good long-term returns.
+> - **Translation:** Các yếu tố tài chính và thương mại gợi ý rằng khoản đầu tư này mang rủi ro vừa phải nhưng mang lại lợi nhuận dài hạn tốt.
 
 > [!failure] Common Mistakes
-> **1. Mistake Type**
-> - ❌ **Mistake:** ...
-> - ✅ **Correction:** ...
-> - **Why:** ...
+> **1. Using wrong article**
+> - ❌ **Mistake:** We need to consider a financial and commercial factor.
+> - ✅ **Correction:** We need to consider financial and commercial factors.
+> - **Why:** "Financial and commercial factor" is typically used as a plural concept when discussing business considerations.
 
-> [!quote]- Contex Source
-> **Quote:** ...
-> **Source:** [[ ]]
+> [!quote]- Context Source
+> **Quote:** "The key to business success lies in balancing financial and commercial factors with strategic vision."
+> **Source:** [[Business Wisdom]]
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## 🧠 Spaced Repetition Flashcards (14 Cards)
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+### Group 1: Foundation (Cards 1, 2, 10)
 
-What does **{{WORD}}** (*/<ipa>/*) mean?
+#flashcards/cam-20-listening-test-02/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
+
+What do **financial and commercial factors** (*/faɪˈnænʃl ənd kəˈmɜːʃl ˈfæktəz/*) mean?
 ?
-> 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-> 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 📖 **Meaning:** Elements or considerations that involve both monetary/financial aspects and business/commercial trading aspects when making decisions
+> 🇻🇳 **Vietnamese:** Các yếu tố liên quan đến cả tài chính (tiền bạc) và thương mại (kinh doanh)
+> 🗣️ **IPA:** */faɪˈnænʃl ənd kəˈmɜːʃl ˈfæktəz/*
+> 🧠 **Mental Model:** Giống như "business ingredients" - financial and commercial factors là các thành phần (ingredients) làm nên thành công của doanh nghiệp: có tiền (financial) và biết bán hàng (commercial)
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-02/02-activation
+### Card 2: Production (Reverse)
 
-**Definition:** "<English Definition>"
-**Vietnamese:** <Vietnamese Definition>
+**Definition:** "Elements or considerations involving both monetary aspects and business/trading aspects used in decision-making"
+**Vietnamese:** Các yếu tố bao gồm cả khía cạnh tài chính và khía cạnh kinh doanh/thương mại được sử dụng trong việc ra quyết định
 → **Target Word?**
 ?
-**{{WORD}}** (*/<ipa>/*)
+**financial and commercial factors** (*/faɪˈnænʃl ənd kəˈmɜːʃl ˈfæktəz/*)
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/cam-20-listening-test-02/01-foundation
+### Card 10: IPA Decoding (with Context)
 
-Use **{{WORD}}** in a sentence.
+> 🔊 */faɪˈnænʃl ənd kəˈmɜːʃl ˈfæktəz/*
 ?
-> 📝 **Sentence:** <High-quality English Sentence>
-> 🇻🇳 **Translation:** <Vietnamese Translation>
-> 🔍 **Analysis:** <Why is this word perfect here? (VN/EN mix)>
+**financial and commercial factors**
+> 📖 **Meaning:** Elements involving money and business considerations
+> 🇻🇳 **Vietnamese:** Các yếu tố tài chính và thương mại
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+### Group 2: Activation (Cards 3, 4)
 
-List 3 common collocations for **{{WORD}}**.
+#flashcards/cam-20-listening-test-02/02-activation
+### Card 3: Usage & Analysis (Multi-line)
+
+Use **financial and commercial factors** in a sentence.
+?
+> 📝 **Sentence:** The consulting firm was hired to analyze all financial and commercial factors affecting the merger proposal.
+> 🇻🇳 **Translation:** Công ty tư vấn được thuê để phân tích tất cả các yếu tố tài chính và thương mại ảnh hưởng đến đề xuất sáp nhập.
+> 🔍 **Analysis:** "Financial and commercial factors" ở đây kết hợp với "analyze" và "affecting" thể hiện chuyên môn phân tích kinh doanh (business analysis)
+
+---
+
+#flashcards/cam-20-listening-test-02/02-activation
+### Card 4: Collocations by Logic (Multi-line)
+
+List 3 common collocations for **financial and commercial factors**.
 ?
 > 🔗 **Collocations:**
-> 1. **<Group 1 e.g., Intensity>:** <Collocation> (<VN note why>)
-> 2. **<Group 2 e.g., Action>:** <Collocation> (<VN note why>)
-> 3. **<Group 3>:** <Collocation>
+> 1. **Analysis:** analyze/consider financial and commercial factors (phân tích/cân nhắc các yếu tố - VN: evaluation process)
+> 2. **Impact:** weigh/assess financial and commercial factors (đánh giá/cân nhắc - VN: decision-making)
+> 3. **Context:** financial and commercial factors affecting [project/decision] (các yếu tố ảnh hưởng - VN: cause and effect)
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+### Group 3: Differentiation (Cards 6, 11)
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
+#flashcards/cam-20-listening-test-02/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
+
+🆚 **Nuance:** Why use **financial and commercial factors** instead of **[[business factors]]**?
 ?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+> **financial and commercial factors:** Dùng khi nhấn mạnh cả money (tài chính) và trading (thương mại) - VN: cụ thể hơn, phân biệt rõ ràng 2 khía cạnh
+> **[[business factors]]:** Dùng khi nói chung về business considerations - VN: rộng hơn, bao gồm cả non-financial
+> 🧱 **The Barrier:** Financial and commercial factors là subset của business factors - chỉ tập trung vào money + trade, trong khi business factors có thể bao gồm cả operational, regulatory, strategic concerns.
 
 ---
 
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/cam-20-listening-test-02/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
-🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
+🕵️ **Fix the Error:** "We need to look at the financial and commercial factor."
 ?
-> **{{WORD}}:** <Usage context (VN explanation)>
-> **[[Synonym]]:** <Usage context (VN explanation)>
-> 🧱 **The Barrier:** <The key difference/wall between them (VN/EN mix)>
+> ✅ **Correction:** "We need to look at the financial and commercial factors."
+> 🧠 **Why:** Khi nói về business analysis, thường dùng plural "factors" vì có nhiều yếu tố khác nhau (money, market, timing, v.v.).
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
+### Group 4: Mastery (Cards 5, 7, 8, 9)
 
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+#flashcards/cam-20-listening-test-02/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
+
+🚀 **Upgrade:** Make this boring sentence specific using **financial and commercial factors**:
+"Look at money and business stuff."
 ?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+> 🖋️ **Advanced:** "The investment committee will thoroughly evaluate all financial and commercial factors before approving the project."
+> 💡 **Why it works:** "Financial and commercial factors" tạo sự chuyên nghiệp và chính thức (professional/formal) hơn "money and business stuff", "thoroughly evaluate" thể hiện quy trình cẩn trọng (careful process)
 
 ---
 
-### Card 8: Etymology Story [Phase 4: Mastery]
+#flashcards/cam-20-listening-test-02/04-mastery
+### Card 7: Scenario Reaction
 
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+🎭 **Scenario:** You're in a business meeting discussing a potential acquisition. Someone mentions looking at the numbers only. You feel this is incomplete. Say it!
 ?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+> 🎬 **Line:** "I agree we need to review the financial and commercial factors, not just the revenue projections."
+> 👨‍🎨 **Director's Note:** "Financial and commercial factors" thể hiện sự cân nhắc (balanced perspective) trong decision-making
 
 ---
 
-### Card 9: Word Family & Roots [Phase 5: Addition]
+#flashcards/cam-20-listening-test-02/04-mastery
+### Card 8: Etymology Story
 
-Analyze the root/family of **{{WORD}}**.
+🌱 **Origins:** Link the roots `<finantia>`, `<commercium>`, and `<factor>` to the meaning of **financial and commercial factors**.
 ?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
+> 📜 **Story:** "Financial" từ "finis" (kết thúc/completing - liên quan đến money), "Commercial" từ thương mại (trade), "Factor" từ người làm/contributor. Kết hợp = các "người làm" (factors) liên quan đến cả việc hoàn thành giao dịch tiền bạc và thương mại
 
 ---
 
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
+#flashcards/cam-20-listening-test-02/05-addition
+### Card 9: Word Family & Roots
 
-> 🔊 */<ipa>/*
+Analyze the roots/family of **financial and commercial factors**.
 ?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+> 🌱 **Roots:** Latin `finantia` (end/payment) + `commercium` (trade) + `factor` (maker/doer)
+> 👨‍👩‍👧 **Family:**
+> - *(adj)* [[financial]] (tài chính)
+> - *(adj)* [[commercial]] (thương mại)
+> - *(noun)* [[finance]] (tài chính học)
 
 ---
 
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+### Group 5: Synonym & Antonym Mastery (Cards 12, 13, 14)
 
-🕵️ **Fix the Error:** <Common Error with {{WORD}}>
-?
-> ✅ **Correction:** <Correct Usage>
-> 🧠 **Why:** <Explanation of rule/logic>
+#flashcards/cam-20-listening-test-02/03-differentiation
+### Card 12: Antonym Flip
 
----
-
-### Card 12: Antonym Flip [Phase 3: Differentiation]
-
-↔️ **Flip:** What is the opposite of **{{WORD}}**?
+↔️ **Flip:** What is the opposite of considering **financial and commercial factors**?
 ?
 > **Antonyms:**
-> - [[<Antonym 1>]] (<Nuance/Context>)
-> - [[<Antonym 2>]]
-> 🧱 **Contrast:** <Brief note on the difference>
+> - [[non-business factors]] (các yếu tố không kinh doanh)
+> - [[intangible factors]] (các yếu tố phi vật chất)
+> 🧱 **Contrast:** Financial and commercial factors là các yếu tố kinh doanh measurable/tangible (có thể đo lường bằng tiền), trong khi non-business factors là những yếu tố phi kinh doanh hoặc không thể đo lường.
 
 ---
+
+#flashcards/cam-20-listening-test-02/06-synonym-antonym-mastery
+### Card 13: Synonym Context Quiz
+
+🧩 **Quiz:** In this context, which synonym of **financial and commercial factors** is correct?
+**Context:** A business analyst is writing a report about a new restaurant project. The report will examine costs, market conditions, and profitability.
+**Sentence to complete:** "The report analyzes all _____ influencing the restaurant's success."
+**Options:**
+- A) [[business factors]]
+- B) [[economic factors]]
+- C) [[operational factors]]
+?
+> ✅ **Answer:** [[business factors]] OR [[economic factors]] (acceptable but less specific)
+> 🧠 **Why:** Trong context báo cáo restaurant, "business factors" là term rộng bao gồm financial và commercial considerations. "Economic factors" cũng chấp nhận nhưng rộng hơn (bao gồm cả macroeconomic). "Operational factors" sai vì không nhấn mạnh money/trade. "Financial and commercial factors" là specific nhất vì phân biệt rõ ràng khía cạnh money và khía cạnh trade.
+
+---
+
+#flashcards/cam-20-listening-test-02/06-synonym-antonym-mastery
+### Card 14: Antonym Context Quiz
+
+🔃 **Quiz:** In this context, which antonym of **financial and commercial factors** is correct?
+**Context:** A charity organization is evaluating how to allocate resources for a new community center. They're looking at different types of factors: money-related, business-related, social, and environmental.
+**Sentence to complete:** "The decision should not focus solely on _____ as this is a non-profit community project."
+**Options:**
+- A) [[social factors]]
+- B) [[non-financial factors]]
+- C) [[environmental factors]]
+?
+> ✅ **Answer:** [[non-financial factors]] (contextually - what should NOT be the focus)
+> 🧠 **Why:** Trong context này (tổ chức từ thiện non-profit), "non-financial factors" là đối lập (opposite) của focus vào tài chính. "Social factors" và "environmental factors" cũng quan trọng nhưng không phải antonym trực tiếp của financial. Câu ám chỉ không nên tập trung VÀI (solely) vào financial, nên "non-financial" là đúng nhất.

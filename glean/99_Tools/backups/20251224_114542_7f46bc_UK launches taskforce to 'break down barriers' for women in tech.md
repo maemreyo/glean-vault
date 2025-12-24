@@ -8,7 +8,7 @@ The government has launched a new taskforce it says [[20_Vocabulary/will|will]] 
 
 Led by technology secretary Liz Kendall, it [[20_Vocabulary/will|will]] see [[20_Vocabulary/female|female]] leaders from tech companies [[20_Vocabulary/In addition|and]] organisations advise the government on how to [[20_Vocabulary/promote|boost]] [[20_Vocabulary/variety|diversity]] [[20_Vocabulary/In addition|and]] economic growth in the [[20_Vocabulary/industrial function|industry]].
 
-BCS, the Chartered [[20_Vocabulary/establish|Institute]] for IT, recently suggested [[20_Vocabulary/female|women]] accounted for [[20_Vocabulary/merely|only]] 22% of those [[20_Vocabulary/workshop|working]] in IT [[20_Vocabulary/a physician|specialist]] roles in the UK.
+BCS, the Chartered [[20_Vocabulary/establish|Institute]] for IT, recently suggested [[20_Vocabulary/female|women]] accounted for [[20_Vocabulary/merely|only]] 22% of those [[20_Vocabulary/workshop|working]] in IT specialist roles in the UK.
 
 Ms Kendall said the [[20_Vocabulary/female|Women]] in Tech group [[20_Vocabulary/will|would]] "[[20_Vocabulary/degrade|break down]] the barriers that still [[20_Vocabulary/hold|hold]] [[20_Vocabulary/In addition|too]] many people [[20_Vocabulary/rear|back]]".
 

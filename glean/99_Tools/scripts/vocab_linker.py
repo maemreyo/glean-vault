@@ -12,10 +12,11 @@ import json
 import subprocess
 from pathlib import Path
 from typing import Dict, Any, List, Optional
+import re
 
 # Configuration
-VAULT_ROOT = Path(__file__).parent.parent.parent.resolve()
-SCRIPT_PATH = VAULT_ROOT / "99_Tools" / "scripts" / "auto_link_vocab_v2.py"
+VAULT_ROOT = Path(__file__).parent.parent.resolve()
+SCRIPT_PATH = VAULT_ROOT / "scripts" / "auto_link_vocab.py"
 CONFIG_FILE = VAULT_ROOT / "99_Tools" / "scripts" / "vocab_linker_config.json"
 
 
@@ -187,7 +188,7 @@ def menu_link_single_file(config: Config) -> None:
 
     # Show dry-run
     print_info("Running dry-run first...")
-    result = run_script(["--file", str(path)], dry_run=True)
+    result = run_script(["--file", str(path), "--no-strip-links"], dry_run=True)
     print(result.stdout)
     if result.stderr:
         print(result.stderr)
@@ -198,7 +199,7 @@ def menu_link_single_file(config: Config) -> None:
         result = run_script([
             "--file", str(path),
             "--no-dry-run",
-            "--backup-mode", str(config.get("backup_mode", "original"))
+            "--backup-mode", config.get("backup_mode", "original")
         ])
         print(result.stdout)
         if result.stderr:
@@ -236,7 +237,7 @@ def menu_link_folder(config: Config) -> None:
 
     # Show dry-run
     print_info("Running dry-run first...")
-    result = run_script(["--folder", str(path)], dry_run=True)
+    result = run_script(["--folder", str(path), "--no-strip-links"], dry_run=True)
     print(result.stdout)
     if result.stderr:
         print(result.stderr)
@@ -247,7 +248,7 @@ def menu_link_folder(config: Config) -> None:
         result = run_script([
             "--folder", str(path),
             "--no-dry-run",
-            "--backup-mode", str(config.get("backup_mode", "original"))
+            "--backup-mode", config.get("backup_mode", "original")
         ])
         print(result.stdout)
         if result.stderr:
@@ -451,8 +452,8 @@ def show_main_menu(config: Config) -> None:
     print()
 
     print("Menu:")
-    print("  1. Link a single file")
-    print("  2. Link entire folder")
+    print("  1. Link a single file (keeps existing links)")
+    print("  2. Link entire folder (keeps existing links)")
     print("  3. List all backups")
     print("  4. Restore from backup")
     print("  5. Restore to original")

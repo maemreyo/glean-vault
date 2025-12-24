@@ -86,14 +86,14 @@ Select one of the following tags to replace the line above:
 ---
 tags:
   - vocabulary
-aliases: [] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
+aliases: [variation1, variation2, variation3, variation4, variation5, variation6, variation7, variation8, variation9, variation10] # Variations to link: Plurals (passengers), Tenses (portioned, portioning), POS (portionable, portionally), Possessives (portion's), Irregulars (went, mice)
 status: pending
 ref:
 
 ---
 
 > [!info] Word Analysis
-> **IPA:** /  /
+> **IPA:** /<ipa>/
 > **Part of Speech:** (noun/verb/adj/adv)
 > **CEFR Level:** (A1-C2)
 > **Register:** (formal/informal/academic/poetic)
@@ -101,13 +101,13 @@ ref:
 
 > [!abstract] Meanings
 > **Root Meaning:** ...
-> 
+>
 > **Context Meaning:** ...
-> 
+>
 > **Vietnamese Translation:**
 > - **Direct:** ...
 > - **Contextual:** ...
-> 
+>
 > **Nuances:**
 > - ...
 
@@ -122,11 +122,11 @@ ref:
 > - **Verb:** [[ ]] /.../
 > - **Adj:** [[ ]] /.../
 > - **Adv:** [[ ]] /.../
-> 
+>
 > **Synonyms:**
 > - [[ ]] /.../ : ...
 > - [[ ]] /.../ : ...
-> 
+>
 > **Antonyms:**
 > - [[ ]] /.../ : ...
 > - [[ ]] /.../ : ...
@@ -135,11 +135,12 @@ ref:
 > **Collocations:**
 > 1. ...
 > 2. ...
-> 
+> 3. ...
+>
 > **1. Example Context 1**
 > - **Sentence:** ...
 > - **Translation:** ...
-> 
+>
 > **2. Example Context 2**
 > - **Sentence:** ...
 > - **Translation:** ...
@@ -150,26 +151,30 @@ ref:
 > - ✅ **Correction:** ...
 > - **Why:** ...
 
-> [!quote]- Contex Source
+> [!quote]- Context Source
 > **Quote:** ...
 > **Source:** [[ ]]
 
 ---
 
-## 🧠 Spaced Repetition Flashcards
+## 🧠 Spaced Repetition Flashcards (14 Cards)
 
-### Card 1: Meaning & Mental Model (Multi-line) [Phase 1: Foundation]
+### Group 1: Foundation (Cards 1, 2, 10)
+
+#flashcards/[source-tag]/01-foundation
+### Card 1: Meaning & Mental Model (Multi-line)
 
 What does **{{WORD}}** (*/<ipa>/*) mean?
 ?
 > 📖 **Meaning:** <English Definition (Oxford/Cambridge style)>
 > 🇻🇳 **Vietnamese:** <Vietnamese Definition>
 > 🗣️ **IPA:** */<ipa>/*
-> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain the concept/image>
+> 🧠 **Mental Model:** <Short Vietnamese explanation using English keywords to explain concept/image>
 
 ---
 
-### Card 2: Production (Reverse) [Phase 2: Activation]
+#flashcards/[source-tag]/02-activation
+### Card 2: Production (Reverse)
 
 **Definition:** "<English Definition>"
 **Vietnamese:** <Vietnamese Definition>
@@ -179,7 +184,21 @@ What does **{{WORD}}** (*/<ipa>/*) mean?
 
 ---
 
-### Card 3: Usage & Analysis (Multi-line) [Phase 2: Activation]
+#flashcards/[source-tag]/01-foundation
+### Card 10: IPA Decoding (with Context)
+
+> 🔊 */<ipa>/*
+?
+**{{WORD}}**
+> 📖 **Meaning:** <English Definition>
+> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
+
+---
+
+### Group 2: Activation (Cards 3, 4)
+
+#flashcards/[source-tag]/02-activation
+### Card 3: Usage & Analysis (Multi-line)
 
 Use **{{WORD}}** in a sentence.
 ?
@@ -189,7 +208,8 @@ Use **{{WORD}}** in a sentence.
 
 ---
 
-### Card 4: Collocations by Logic (Multi-line) [Phase 2: Activation]
+#flashcards/[source-tag]/02-activation
+### Card 4: Collocations by Logic (Multi-line)
 
 List 3 common collocations for **{{WORD}}**.
 ?
@@ -200,17 +220,10 @@ List 3 common collocations for **{{WORD}}**.
 
 ---
 
-### Card 5: Word Upgrade (The "Writer's Rewrite") [Phase 4: Mastery]
+### Group 3: Differentiation (Cards 6, 11)
 
-🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
-"<Basic Sentence>"
-?
-> 🖋️ **Advanced:** "<Advanced Sentence>"
-> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
-
----
-
-### Card 6: Nuance Barrier (Comparison) [Phase 3: Differentiation]
+#flashcards/[source-tag]/03-differentiation
+### Card 6: Nuance Barrier (Comparison)
 
 🆚 **Nuance:** Why use **{{WORD}}** instead of **[[Synonym]]**?
 ?
@@ -220,45 +233,8 @@ List 3 common collocations for **{{WORD}}**.
 
 ---
 
-### Card 7: Scenario Reaction [Phase 4: Mastery]
-
-🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
-?
-> 🎬 **Line:** "<The Sentence>"
-> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
-
----
-
-### Card 8: Etymology Story [Phase 4: Mastery]
-
-🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
-?
-> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
-
----
-
-### Card 9: Word Family & Roots [Phase 5: Addition]
-
-Analyze the root/family of **{{WORD}}**.
-?
-> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
-> 👨‍👩‍👧 **Family:** 
-> - *(<pos>)* <related_word>
-> - *(<pos>)* <related_word>
-
----
-
-### Card 10: IPA Decoding (with Context) [Phase 1: Foundation]
-
-> 🔊 */<ipa>/*
-?
-**{{WORD}}** 
-> 📖 **Meaning:** <English Definition>
-> 🇻🇳 **Vietnamese:** <Vietnamese Definition>
-
----
-
-### Card 11: Mistake Hunter (Error Correction) [Phase 3: Differentiation]
+#flashcards/[source-tag]/03-differentiation
+### Card 11: Mistake Hunter (Error Correction)
 
 🕵️ **Fix the Error:** <Common Error with {{WORD}}>
 ?
@@ -267,7 +243,54 @@ Analyze the root/family of **{{WORD}}**.
 
 ---
 
-### Card 12: Antonym Flip [Phase 3: Differentiation]
+### Group 4: Mastery (Cards 5, 7, 8, 9)
+
+#flashcards/[source-tag]/04-mastery
+### Card 5: Word Upgrade (The "Writer's Rewrite")
+
+🚀 **Upgrade:** Make this boring sentence specific using **{{WORD}}**:
+"<Basic Sentence>"
+?
+> 🖋️ **Advanced:** "<Advanced Sentence>"
+> 💡 **Why it works:** <Explain in VN why the advanced word hits harder (e.g., nuances, imagery)>
+
+---
+
+#flashcards/[source-tag]/04-mastery
+### Card 7: Scenario Reaction
+
+🎭 **Scenario:** <Specific Context>. You feel <Emotion>. Say it!
+?
+> 🎬 **Line:** "<The Sentence>"
+> 👨‍🎨 **Director's Note:** <Why this fits the vibe (VN)>
+
+---
+
+#flashcards/[source-tag]/04-mastery
+### Card 8: Etymology Story
+
+🌱 **Origins:** Link the root `<root>` to the meaning of **{{WORD}}**.
+?
+> 📜 **Story:** <Short narrative connecting ancient root to modern meaning (VN/EN mix)>
+
+---
+
+#flashcards/[source-tag]/05-addition
+### Card 9: Word Family & Roots
+
+Analyze the root/family of **{{WORD}}**.
+?
+> 🌱 **Root:** <Language> `<root_word>` (<meaning>)
+> 👨‍👩‍👧 **Family:**
+> - *(<pos>)* <related_word>
+> - *(<pos>)* <related_word>
+
+---
+
+### Group 5: Synonym & Antonym Mastery (Cards 12, 13, 14)
+
+#flashcards/[source-tag]/03-differentiation
+### Card 12: Antonym Flip
 
 ↔️ **Flip:** What is the opposite of **{{WORD}}**?
 ?
@@ -277,3 +300,31 @@ Analyze the root/family of **{{WORD}}**.
 > 🧱 **Contrast:** <Brief note on the difference>
 
 ---
+
+#flashcards/[source-tag]/06-synonym-antonym-mastery
+### Card 13: Synonym Context Quiz
+
+🧩 **Quiz:** In this context, which synonym of **{{WORD}}** is correct?
+**Context:** <Provide a specific situation/sentence pattern>
+**Sentence to complete:** "<sentence>" **Options:**
+- A) [[Synonym 1]]
+- B) [[Synonym 2]]
+- C) [[Synonym 3]] 
+?
+> ✅ **Answer:** [[Correct Synonym]]
+> 🧠 **Why:** <Explain which synonym fits best in this specific context (VN/EN mix)>
+
+---
+
+#flashcards/[source-tag]/06-synonym-antonym-mastery
+### Card 14: Antonym Context Quiz
+
+🔃 **Quiz:** In this context, which antonym of **{{WORD}}** is correct?
+**Context:** <Provide a specific situation/sentence pattern>
+**Sentence to complete:** "<sentence>" **Options:**
+- A) [[Antonym 1]]
+- B) [[Antonym 2]]
+- C) [[Antonym 3]] 
+?
+> ✅ **Answer:** [[Correct Antonym]]
+> 🧠 **Why:** <Explain which antonym fits best in this specific context (VN/EN mix)>
