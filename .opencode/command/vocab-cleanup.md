@@ -1,7 +1,5 @@
 ---
 description: Clean up redundant backups
-agent: plan
-model: anthropic/claude-3-5-sonnet-20241022
 ---
 
 Remove redundant backups and keep only the original (oldest) backup for each file.

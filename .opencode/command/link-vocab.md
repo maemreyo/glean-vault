@@ -1,7 +1,5 @@
 ---
 description: Link vocabulary in files
-agent: plan
-model: anthropic/claude-3-5-sonnet-20241022
 ---
 
 Link vocabulary and structure terms to markdown files.

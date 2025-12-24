@@ -1,7 +1,5 @@
 ---
 description: Link vocabulary with all features
-agent: plan
-model: anthropic/claude-3-5-sonnet-20241022
 ---
 
 Link vocabulary with quotes cleaning, table conversion, and phase tagging enabled.

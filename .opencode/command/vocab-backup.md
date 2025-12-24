@@ -1,7 +1,5 @@
 ---
 description: Manage vocabulary backups
-agent: plan
-model: anthropic/claude-3-5-sonnet-20241022
 ---
 
 Manage vocabulary link backups - list, restore, or clean up.
