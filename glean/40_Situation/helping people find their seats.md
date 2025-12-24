@@ -250,7 +250,9 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - =="serve as an usher"== → ==helping people find seats== (usher role definition)
+>
 > - =="accompanying them to the correct locations"== → ==helping people find seats==
+>
 > - =="in the seating area"== → ==their seats==
 >
 > **🧠 Overall Logic:** Usher role + accompanying to correct locations = helping find seats

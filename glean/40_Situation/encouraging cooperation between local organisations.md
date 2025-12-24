@@ -250,10 +250,15 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - ==encourage these groups to collaborate rather than compete== → ==encouraging cooperation==
+>
 > - ==organise networking events...discuss potential joint initiatives== → ==method of encouraging cooperation==
+>
 > - ==facilitate partnerships== → ==encouraging cooperation==
+>
 > - ==share resources and expertise== → ==form of cooperation==
+>
 > - ==work together on community projects== → ==cooperation==
+>
 > - ==local organisations - charities, schools, sports clubs, cultural groups== → ==local organisations==
 >
 > **🧠 Overall Logic:** Audio mô tả việc ==thúc đẩy/khuyến khích/cổ vũ== các ==tổ chức địa phương== ==làm việc chung/collaborate/partnership/share resources== → match với option "encouraging cooperation between local organisations"

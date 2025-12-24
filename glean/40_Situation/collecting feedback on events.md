@@ -250,12 +250,19 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - ==share their thoughts and impressions== → ==feedback==
+>
 > - ==prepared structured questionnaires== → ==method of collecting feedback==
+>
 > - ==conduct short interviews to get more detailed feedback== → ==collecting feedback==
+>
 > - ==follow up with attendees== → ==collecting feedback==
+>
 > - ==responses I collect... analyzed and compiled== → ==collecting feedback==
+>
 > - ==systematic feedback collection== → ==collecting feedback==
+>
 > - ==learn from each event / continuously improve== → ==purpose of collecting feedback==
+>
 > - ==once an event concludes / after events / each event== → ==on events==
 >
 > **🧠 Overall Logic:** Audio mô tả việc ==thu thập/collect/responses/thoughts/impressions== từ ==participants/attendees== về ==events== SAU khi kết thúc → match với option "collecting feedback on events"

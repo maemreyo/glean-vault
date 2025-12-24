@@ -250,8 +250,11 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - =="making our community gatherings enjoyable"== → ==providing entertainment==
+>
 > - =="playing musical instruments"== → ==providing entertainment==
+>
 > - =="leading group games"== → ==providing entertainment==
+>
 > - =="keep the attendees happy and engaged"== → ==entertainment result==
 >
 > **🧠 Overall Logic:** Making enjoyable + music + games + keeping engaged = providing entertainment

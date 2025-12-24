@@ -250,9 +250,13 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - ==actively engage with different community groups== → ==getting involved with community groups==
+>
 > - ==become a member of several local organisations== → ==getting involved with==
+>
 > - ==volunteer weekly / help organize events / support on weekends== → ==forms of involvement==
+>
 > - ==attend regular meetings / participate in decision-making / contribute my skills== → ==methods of getting involved==
+>
 > - ==seniors' club / parents' association / environmental group== → ==community groups==
 >
 > **🧠 Overall Logic:** Audio mô tả việc ==tham gia/thành viên/làm việc cùng== các ==groups/organisations/club/association== cụ thể trong community → match với option "getting involved with community groups"

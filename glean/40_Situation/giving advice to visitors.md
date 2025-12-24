@@ -250,8 +250,11 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - ==people as they come in / tourists or people new to the area== → ==visitors==
+>
 > - ==provide recommendations / tell them about... / suggest which museums... / give them directions / offer tips== → ==giving advice==
+>
 > - ==share my knowledge== → ==give advice==
+>
 > - ==help visitors== → =="[to] visitors"==
 >
 > **🧠 Overall Logic:** Audio mô tả hành động ==cung cấp thông tin, gợi ý, đưa ra lời khuyên== cho ==người mới đến/tourists== → match với option "giving advice to visitors"

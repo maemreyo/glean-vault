@@ -250,11 +250,17 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - ==raising awareness about the services, facilities, and programs== → ==provide publicity==
+>
 > - ==preparing informational brochures / designing posters / writing articles== → ==methods of publicity==
+>
 > - ==set up information booths / give presentations / manage social media accounts== → ==publicity activities==
+>
 > - ==share updates about council initiatives== → ==publicity==
+>
 > - ==explain what services are available== → ==provide publicity==
+>
 > - ==council / local council== → ==council==
+>
 > - ==services / facilities / programs / support and opportunities== → ==council service==
 >
 > **🧠 Overall Logic:** Audio mô tả việc ==tạo, phân phối thông tin / giải thích / chia sẻ updates== về các ==services, facilities, programs== mà ==council/local council== cung cấp → match với option "provide publicity about a council service"

@@ -250,8 +250,11 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - =="elderly meal gatherings"== → ==lunches for retired people==
+>
 > - =="be present at"== → ==participating at==
+>
 > - =="engage in conversation with the retired community members"== → ==participating at== (social interaction aspect)
+>
 > - =="help serve the food"== → ==participating at== (active involvement)
 >
 > **🧠 Overall Logic:** Elderly meals + being present + social engagement = participating

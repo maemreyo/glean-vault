@@ -250,7 +250,9 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - =="out and about"== → ==walking around== (idiomatic expression)
+>
 > - =="leisurely stroll"== → ==walking== (walking nhẹ nhàng)
+>
 > - =="commercial district"== → ==town centre== (khu vực thương mại)
 >
 > **🧠 Overall Logic:** Idiomatic expressions + synonyms for location = option match

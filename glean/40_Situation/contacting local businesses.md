@@ -250,9 +250,13 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - ==connect with companies in our local area== → ==contacting local businesses==
+>
 > - ==maintain a database of nearby businesses and contact them== → ==contacting local businesses==
+>
 > - ==email campaigns / personal phone calls / visit in person== → ==methods of contacting==
+>
 > - ==shop owners and managers== → ==businesses==
+>
 > - ==encourage them to support... sponsor... donations== → ==purpose of contacting==
 >
 > **🧠 Overall Logic:** Audio mô tả toàn bộ quy trình ==kết nối, liên hệ== với các ==doanh nghiệp/công ty/shops== trong khu vực → match với option "contacting local businesses"

@@ -250,7 +250,9 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - =="music performances"== → ==concerts==
+>
 > - =="being at the venue to assist with various duties"== → ==helping at==
+>
 > - =="managing the entrance, checking tickets"== → ==helping at== (specific tasks indicating helping role)
 >
 > **🧠 Overall Logic:** Event crew role + music performances + assistance tasks = helping at concerts

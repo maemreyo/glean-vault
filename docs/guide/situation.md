@@ -130,6 +130,7 @@ FORMAT RULES:
 - Keep callout format: > [!info], > [!success], > [!fail], etc.
 - **CRITICAL: NO EMPTY LINES INSIDE CALLOUTS OR BETWEEN BLOCKS.**
   - If a visual break is needed within a `> [!tip]` or similar, use a line with only `>`
+  - **Visual Breaks (Mandatory):** Use a `>` line between logical items in lists (Cards 1, 5, 8, 10, 11) and before concluding summary points (e.g., before "Core Concept", "Logic Chain", "Key Barrier").
   - Ensure EVERY line in a flashcard block starts with `>` (if part of callout) or has NO empty lines between the header and the `?` separator.
 - Mandatory: Include `?` separator between Q&A
 - Use `==highlight==` for key terms (MANDATORY!)

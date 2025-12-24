@@ -250,8 +250,11 @@ ref:
 ?
 > [!example] 🎯 Paraphrase Mapping
 > - =="serve as the MC"== → ==at an event== (MC role)
+>
 > - =="stepping onto the stage before each presentation"== → ==at an event== (context)
+>
 > - =="providing background details about the presenter"== → ==introducing== (action of introduction)
+>
 > - =="welcoming them"== → ==introducing== (welcome là part of introduction)
 >
 > **🧠 Overall Logic:** MC role + providing background + welcoming = introducing speakers
