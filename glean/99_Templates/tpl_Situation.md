@@ -150,9 +150,9 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
 > [!note] 🗝️ Collocations
-> - **Verbs:** <ví dụ: perform, play, dance (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Verbs:** <ví dụ: ==perform==, ==play==, ==dance== (dùng cặp `==` để highlight các từ quan trọng)>
 >
-> - **Nouns:** <ví dụ: music, concert, comedy (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Nouns:** <ví dụ: ==music==, ==concert==, ==comedy== (dùng cặp `==` để highlight các từ quan trọng)>
 >
 > **💡 Pattern Note:** <Ghi chú về pattern (dùng cặp `==` để highlight các từ quan trọng)>
 
@@ -203,13 +203,13 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > ❓ **Question:** Những ==dấu hiệu phủ định== (negation signals) nào cho thấy đáp án này đã bị ==LOẠI==?
 ?
 > [!fail] 🛑 Negation Signals
-> - *"We thought about doing X, but..."* (Dự định nhưng không làm)
+> - *"We thought about doing X, but..."* ==Dự định nhưng không làm==
 >
-> - *"X used to be popular, however..."* (Quá khứ)
+> - *"X used to be popular, however..."* ==Quá khứ==
 >
-> - *"Instead of X, we decided to..."* (Thay thế)
+> - *"Instead of X, we decided to..."* ==Thay thế==
 >
-> - *"We've run out of time for X..."* (Không làm được)
+> - *"We've run out of time for X..."* ==Không làm được==
 >
 > **⚠️ Other Traps:** <Too expensive, not available... (dùng cặp `==` để highlight các từ quan trọng)>
 
