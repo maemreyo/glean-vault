@@ -37,7 +37,7 @@ find 'glean/40_Situation' -name '*.md' -exec grep -l '^status: pending' {} \;
 
 ### 3. Batch Processing (Concurrent Agents)
 
-Group files into batches of **5-7 files** per agent (smaller than vocab due to larger content).
+Group files into batches of **5-7 files** per agent.
 
 **For each batch, spawn a parallel agent with these instructions:**
 
@@ -92,6 +92,9 @@ FLASHCARD REQUIREMENTS (11 cards):
 
 FORMAT RULES:
 - Keep callout format: > [!info], > [!success], > [!fail], etc.
+- **CRITICAL: NO EMPTY LINES INSIDE CALLOUTS OR BETWEEN BLOCKS.**
+  - If a visual break is needed within a `> [!tip]` or similar, use a line with only `>`
+  - Ensure EVERY line in a flashcard block starts with `>` (if part of callout) or has NO empty lines between the header and the `?` separator.
 - Mandatory: Include `?` separator between Q&A
 - Use `==highlight==` for key terms (MANDATORY!)
 - Write analysis in Vietnamese/English mix as per template
@@ -114,6 +117,9 @@ grep -r '{{' glean/40_Situation/*.md
 
 # Verify comment blocks removed
 grep -r 'MASTER TAGGING SYSTEM' glean/40_Situation/*.md
+
+# Check for empty lines in blocks (should be minimized)
+# (Visual check recommended for '>' placeholder lines)
 ```
 
 ### 5. Report Summary
@@ -200,16 +206,3 @@ Show pending situation files without processing
 - [x] Aliases populated with variations
 - [x] MASTER TAGGING comment block removed
 - [x] No web search traces
-
----
-
-## Key Differences from Vocab Guide
-
-| Aspect | Vocab | Situation |
-|--------|-------|-----------|
-| Cards | 14 | 11 |
-| Batch Size | 10-15 | 5-7 |
-| Focus | Word meaning, etymology | IELTS Listening paraphrasing |
-| Card Structure | 5 Groups | 3 Tiers |
-| Analysis | Word Analysis | 5D Framework + Sensory |
-| Tags Formula | `#flashcards/vocabulary/...` | `#flashcards/ielts-<skill>/...` |
