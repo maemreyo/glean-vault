@@ -43,7 +43,7 @@ ref:
 > [!warning] ⚠️ Traps & Distractors (Bẫy Thường Gặp)
 > **Trap 1:** =={{TRAP_DESCRIPTION}}==
 > - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
-> - *Actual meaning:* <Nghĩa thật là gì?>
+> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
 >
 > **Trap 2:** =={{TRAP_DESCRIPTION}}==
 > - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
@@ -60,11 +60,13 @@ ref:
 
 ---
 
+
+
 ## 🧠 Spaced Repetition Flashcards (11 Cards)
 
 ### Tier 1: Daily Quick Review (3 Cards)
 
-#flashcards/ielts-listening/daily/01-prediction
+#flashcards/ielts-listening/<TOPIC>/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** =={{OPTION_TEXT}}==
@@ -83,7 +85,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/daily/02-keywords
+#flashcards/ielts-listening/<TOPIC>/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** =={{OPTION_TEXT}}==
@@ -99,7 +101,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/daily/03-signpost
+#flashcards/ielts-listening/<TOPIC>/daily/03-signpost
 ### Card 3: Signpost Detection
 
 > **Option:** =={{OPTION_TEXT}}==
@@ -117,7 +119,7 @@ ref:
 
 ### Tier 2: Weekly Intensive (4 Cards)
 
-#flashcards/ielts-listening/weekly/01-reverse
+#flashcards/ielts-listening/<TOPIC>/weekly/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
@@ -136,7 +138,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/weekly/02-trap
+#flashcards/ielts-listening/<TOPIC>/weekly/02-trap
 ### Card 5: Trap Identification
 
 > **Option:** =={{OPTION_TEXT}}==
@@ -156,7 +158,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/weekly/03-differentiate
+#flashcards/ielts-listening/<TOPIC>/weekly/03-differentiate
 ### Card 6: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
@@ -172,7 +174,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/weekly/04-cloze
+#flashcards/ielts-listening/<TOPIC>/weekly/04-cloze
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
@@ -191,7 +193,7 @@ ref:
 
 ### Tier 3: Bi-weekly Mastery (4 Cards)
 
-#flashcards/ielts-listening/biweekly/01-chain
+#flashcards/ielts-listening/<TOPIC>/biweekly/01-chain
 ### Card 8: Paraphrase Chain
 
 > **Option:** =={{OPTION_TEXT}}==
@@ -211,7 +213,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/biweekly/02-full-trap
+#flashcards/ielts-listening/<TOPIC>/biweekly/02-full-trap
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -237,7 +239,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/biweekly/03-script-match
+#flashcards/ielts-listening/<TOPIC>/biweekly/03-script-match
 ### Card 10: Script-to-Option Mapping
 
 > **Option Text:** =="{{OPTION_TEXT}}"==
@@ -256,7 +258,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/biweekly/04-speed
+#flashcards/ielts-listening/<TOPIC>/biweekly/04-speed
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
