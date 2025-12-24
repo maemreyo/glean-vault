@@ -69,7 +69,7 @@ MULTI-OPTION: "[question]? [opt1], [opt2] or [opt3].md"
 
 ### 4. Batch Processing (Concurrent Agents)
 
-Group files into batches of **5-7 files** per agent.
+Group files into batches of **7-8 files** per agent.
 
 **For each batch, spawn a parallel agent with these instructions:**
 

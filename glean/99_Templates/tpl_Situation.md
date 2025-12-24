@@ -23,43 +23,43 @@ ref:
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | {{LETTER}} | =={{OPTION_1}}== | <nghĩa cốt lõi> | <từ khóa paraphrase> | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_2}}== | <nghĩa cốt lõi> | <từ khóa paraphrase> | ⚠️ High/Medium/Low |
-> | {{LETTER}} | =={{OPTION_3}}== | <nghĩa cốt lõi> | <từ khóa paraphrase> | ⚠️ High/Medium/Low |
+> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
 >
 > **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
 >
 > *(For single-option: keep only 1 row and remove "Correct Answer" line)*
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** <Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)>
+> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
 >
-> **Topic Category:** <Volunteering / Academic / Facility / Direction / ... (use ==highlight==)>
+> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
 >
 > **🧠 5D Framework:**
-> - **Definition:** <Định nghĩa cốt lõi (use ==highlight==)>
+> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
 >
-> - **Denotation:** <Ý nghĩa đen (use ==highlight==)>
+> - **Denotation:** Ý nghĩa đen (use ==highlight==)
 >
-> - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)>
+> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
 >
-> - **Deep Dive:** <Paraphrasing sâu hơn (use ==highlight==)>
+> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** <Hình ảnh mental (use ==highlight==)>
+> - **Visual:** Hình ảnh mental (use ==highlight==)
 >
-> - **Auditory:** <Âm thanh đặc trưng (use ==highlight==)>
+> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
 >
-> - **Action:** <Hành động cụ thể (use ==highlight==)>
+> - **Action:** Hành động cụ thể (use ==highlight==)
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: <e.g., arrange + meeting>
+> - `Verb + Noun`: e.g., arrange + meeting
 >
-> - `Noun + of + Noun`: <e.g., organisation of + event>
+> - `Noun + of + Noun`: e.g., organisation of + event
 >
-> - `Adj + Noun`: <e.g., local + businesses>
+> - `Adj + Noun`: e.g., local + businesses
 
 > [!example] 🎙️ Real Audio Phrases
 > - "I'm in charge of..."
@@ -73,15 +73,15 @@ ref:
 > [!warning] ⚠️ Traps & Distractors
 > **Trap 1:** =={{TRAP_DESCRIPTION}}==
 >
-> - *Why it's tricky:* <Tại sao nghe giống? (use ==highlight==)>
+> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
 >
-> - *Actual meaning:* <Nghĩa thật là gì? (use ==highlight==)>
+> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
 >
 > **Trap 2:** =={{TRAP_DESCRIPTION}}==
 >
-> - *Why it's tricky:* <Tại sao nghe giống? (use ==highlight==)>
+> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
 >
-> - *Actual meaning:* <Nghĩa thật là gì? (use ==highlight==)>
+> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
@@ -171,13 +171,13 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
 ?
 > [!success] 💡 Possible Scripts
-> 1. **Action (Hành động):** <ví dụ: Hiring ==a live band==>
+> 1. **Action (Hành động):** ví dụ: Hiring ==a live band==
 >
-> 2. **Object/Person (Đối tượng):** <ví dụ: Booking ==the magician==>
+> 2. **Object/Person (Đối tượng):** ví dụ: Booking ==the magician==
 >
-> 3. **Abstract (Trừu tượng):** <ví dụ: Organising ==fun activities==>
+> 3. **Abstract (Trừu tượng):** ví dụ: Organising ==fun activities==
 >
-> **🔑 Core Concept:** <Tóm tắt logic kết nối>
+> **🔑 Core Concept:** Tóm tắt logic kết nối
 
 ---
 
@@ -189,11 +189,11 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
 > [!note] 🗝️ Collocations
-> - **Verbs:** <ví dụ: ==perform==, ==play==, ==dance==>
+> - **Verbs:** ví dụ: ==perform==, ==play==, ==dance==
 >
-> - **Nouns:** <ví dụ: ==music==, ==concert==, ==comedy==>
+> - **Nouns:** ví dụ: ==music==, ==concert==, ==comedy==
 >
-> **💡 Pattern Note:** <Ghi chú về pattern>
+> **💡 Pattern Note:** Ghi chú về pattern
 
 ---
 
@@ -205,11 +205,11 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
 ?
 > [!tip] 🚦 Signposts
-> - **Before:** <ví dụ: "So," "As for," "Regarding...">
+> - **Before:** ví dụ: "So," "As for," "Regarding..."
 >
-> - **After:** <ví dụ: "which involves," "that means...">
+> - **After:** ví dụ: "which involves," "that means..."
 >
-> **🎧 Audio Cue:** <Cụm từ nghe được>
+> **🎧 Audio Cue:** Cụm từ nghe được
 
 ---
 
@@ -230,7 +230,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
 >
-> **🧠 Logic Chain:** <Cách suy luận từ audio đến option>
+> **🧠 Logic Chain:** Cách suy luận từ audio đến option
 
 ---
 
@@ -250,7 +250,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > - *"We've run out of time for X..."* ==Không làm được==
 >
-> **⚠️ Other Traps:** <Too expensive, not available...>
+> **⚠️ Other Traps:** Too expensive, not available...>
 
 ---
 
@@ -262,11 +262,11 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào <Focus Area 1>.
+> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào <Focus Area 2>.
+> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
 >
-> **🧱 Key Barrier:** <Rào cản chính phân biệt 2 ý>
+> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
 
 ---
 
@@ -274,16 +274,16 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
-> *<Audio transcript với ==key phrase== ẩn>*
+> *Audio transcript với ==key phrase== ẩn*
 >
-> 🇻🇳 **Vietnamese:** <Vietnamese Translation>
+> 🇻🇳 **Vietnamese:** Vietnamese Translation
 >
 > ❓ **Question:** ==Điền vào chỗ trống==?
 ?
 > [!success] ✅ Answer: =={{KEY_PHRASE}}==
 > **🔗 Connects to:** =={{OPTION_TEXT}}==
 >
-> **💡 Why:** <Giải thích logic>
+> **💡 Why:** Giải thích logic
 
 ---
 
@@ -305,11 +305,11 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 ?
 > [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
 >
-> **❌ Why A is wrong:** <Audio không nhắc đến ==keyword A==>
+> **❌ Why A is wrong:** Audio không nhắc đến ==keyword A==
 >
-> **❌ Why B is wrong:** <Audio không nhắc đến ==keyword B==>
+> **❌ Why B is wrong:** Audio không nhắc đến ==keyword B==
 >
-> **✅ Why C is correct:** <"audio phrase" = ==option C keyword==>
+> **✅ Why C is correct:** "audio phrase" ==option C keyword==
 
 ---
 
@@ -330,8 +330,8 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > | "cụm từ 4" | ==B. option B== |
 >
 > **🔑 Core Distinction:**
-> - **A** = <focus area A>
-> - **B** = <focus area B>
+> - **A** = focus area A
+> - **B** = focus area B
 
 ---
 
@@ -345,13 +345,13 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
 ?
 > [!check] ✅ Evidence
-> 1. ==phrase 1== → <giải thích kết nối>
+> 1. ==phrase 1== → giải thích kết nối
 >
-> 2. ==phrase 2== → <giải thích kết nối>
+> 2. ==phrase 2== → giải thích kết nối
 >
-> 3. ==phrase 3== → <giải thích kết nối>
+> 3. ==phrase 3== → giải thích kết nối
 >
-> **🎯 Conclusion:** <Tổng hợp logic>
+> **🎯 Conclusion:** Tổng hợp logic
 
 ---
 
@@ -363,15 +363,15 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
 ?
 > [!info] 🔗 Paraphrase Chain
-> 1. **Direct:** <Cùng nghĩa, từ khác>
+> 1. **Direct:** Cùng nghĩa, từ khác
 >
-> 2. **Related:** <Ý nghĩa liên quan>
+> 2. **Related:** Ý nghĩa liên quan
 >
-> 3. **Contextual:** <Theo ngữ cảnh cụ thể>
+> 3. **Contextual:** Theo ngữ cảnh cụ thể
 >
-> 4. **Implicit:** <Ý nghĩa ẩn dụ>
+> 4. **Implicit:** Ý nghĩa ẩn dụ
 >
-> **💡 Core Thread:** <Chủ đề xuyên suốt>
+> **💡 Core Thread:** Chủ đề xuyên suốt
 
 ---
 
@@ -388,18 +388,18 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > [!bug] 🕵️ Distractor Breakdown
 > **1. Distractor:** =="{{TEXT}}"==
 >
-> - *Sounds like:* <Nghe giống gì>
+> - *Sounds like:* Nghe giống gì
 >
-> - *Wrong because:* <Tại sao sai>
+> - *Wrong because:* Tại sao sai
 >
 > **2. Distractor:** =="{{TEXT}}"==
 >
-> - *Sounds like:* <Nghe giống gì>
+> - *Sounds like:* Nghe giống gì
 >
-> - *Wrong because:* <Tại sao sai>
+> - *Wrong because:* Tại sao sai
 >
 > **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* <Giải thích>
+> - *Why correct:* Giải thích
 
 ---
 
@@ -418,7 +418,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > - ==Audio phrase== → ==Option word==
 >
-> **🧠 Overall Logic:** <Tổng hợp logic kết nối>
+> **🧠 Overall Logic:** Tổng hợp logic kết nối
 
 ---
 
@@ -434,9 +434,9 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==<Paraphrase 1>==
+> 1. ==Paraphrase 1==
 >
-> 2. ==<Paraphrase 2>==
+> 2. ==Paraphrase 2==
 >
 > **🎯 Goal:** Instant Recall
 
@@ -451,15 +451,15 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > **All Options:**
 > | Option | Status | Key Signal |
 > |--------|--------|------------|
-> | A. {{OPTION_1}} | ❌ | <why wrong> |
-> | B. {{OPTION_2}} | ❌ | <why wrong> |
-> | C. {{OPTION_3}} | ✅ | <why correct> |
+> | A. {{OPTION_1}} | ❌ | why wrong |
+> | B. {{OPTION_2}} | ❌ | why wrong |
+> | C. {{OPTION_3}} | ✅ | why correct |
 >
 > ❓ Tóm tắt toàn bộ logic chọn đáp án trong 1-2 câu?
 ?
 > [!success] 🎯 Complete Analysis
-> **Summary:** <Audio focus vào [concept C] thông qua phrases "X" và "Y", trong khi [concept A] và [concept B] không được đề cập hoặc bị phủ định bởi "Z">
+> **Summary:** Audio focus vào [concept C] thông qua phrases "X" và "Y", trong khi [concept A] và [concept B] không được đề cập hoặc bị phủ định bởi "Z"
 >
-> **🔑 Key Lesson:** <Bài học rút ra cho dạng câu hỏi này>
+> **🔑 Key Lesson:** Bài học rút ra cho dạng câu hỏi này
 
 ---
