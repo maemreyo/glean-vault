@@ -271,6 +271,7 @@ ref:
 ?
 > [!quote] ⚡ Speed Answers
 > 1. ==reaching out to local companies==
+>
 > 2. ==getting in touch with area businesses==
 >
 > **🎯 Goal:** Instant Recall

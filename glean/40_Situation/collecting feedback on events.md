@@ -274,6 +274,7 @@ ref:
 ?
 > [!quote] ⚡ Speed Answers
 > 1. ==gathering opinions on events==
+>
 > 2. ==obtaining responses about activities==
 >
 > **🎯 Goal:** Instant Recall

@@ -270,6 +270,7 @@ ref:
 ?
 > [!quote] ⚡ Speed Answers
 > 1. ==offering suggestions to tourists==
+>
 > 2. ==providing recommendations to newcomers==
 >
 > **🎯 Goal:** Instant Recall

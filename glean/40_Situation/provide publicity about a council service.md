@@ -273,6 +273,7 @@ ref:
 ?
 > [!quote] ⚡ Speed Answers
 > 1. ==promote council services==
+>
 > 2. ==raise awareness about government programs==
 >
 > **🎯 Goal:** Instant Recall

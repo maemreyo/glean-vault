@@ -272,6 +272,7 @@ ref:
 ?
 > [!quote] ⚡ Speed Answers
 > 1. ==fostering collaboration among local organisations==
+>
 > 2. ==promoting teamwork between community groups==
 >
 > **🎯 Goal:** Instant Recall
