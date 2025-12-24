@@ -98,10 +98,25 @@ ref:
 📌 USAGE FORMULA:
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
 
+⚠️ MULTI-TAGGING:
+- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
+- Syntax: tag1 tag2 tag3
+
 Examples:
+Single tag:
 - #flashcards/ielts-listening/health-food/medical/matching-reflex
-- #flashcards/ielts-reading/business-legal/contracts/true-false-ng
-- #flashcards/ielts-speaking/social-leisure/hobbies/part1-warmup
+
+Multi tags (cụm từ liên quan nhiều chủ đề):
+- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
+- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
+- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
+
+🎯 KHI NÀO DÙNG MULTI-TAG:
+✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
+✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
+✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
+❌ KHÔNG spam quá 3 tags/card để dễ quản lý
+
 -->
 
 ## 🧠 Spaced Repetition Flashcards (11 Cards)
