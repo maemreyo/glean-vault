@@ -100,6 +100,7 @@ What does **ambassador** (*/æmˈbæs.ə.dər/*) mean?
 → **Target Word?**
 ?
 **ambassador** (*/æmˈbæs.ə.dər/*)
+<!--SR:!2025-12-27,3,266-->
 
 ---
 
@@ -189,7 +190,7 @@ Analyze the root/family of **ambassador**.
 **ambassador**
 > 📖 **Meaning:** A high-ranking diplomatic representative
 > 🇻🇳 **Vietnamese:** Đại sứ - người đại diện ngoại giao cấp cao
-<!--SR:!2025-12-24,2,248-->
+<!--SR:!2025-12-31,7,268-->
 
 ---
 

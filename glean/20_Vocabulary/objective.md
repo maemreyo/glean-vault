@@ -103,6 +103,7 @@ What does **objective** (*/əbˈdʒektɪv/*) mean?
 → **Target Word?**
 ?
 **objective** (*/əbˈdʒektɪv/*)
+<!--SR:!2025-12-27,3,255-->
 
 ---
 

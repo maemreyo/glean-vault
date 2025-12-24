@@ -102,6 +102,7 @@ What does **to be readily available** (*/tʊ biː ˈredɪli əˈveɪləbl/*) mea
 → **Target Word?**
 ?
 **to be readily available** (*/tʊ biː ˈredɪli əˈveɪləbl/*)
+<!--SR:!2025-12-28,4,272-->
 
 ---
 

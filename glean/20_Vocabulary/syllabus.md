@@ -122,6 +122,7 @@ List 3 common collocations for **syllabus**.
 > 1. **Distribution:** distribute/hand out the syllabus (phát đề cương)
 > 2. **Action:** follow/stick to the syllabus (tuân thủ đề cương)
 > 3. **Modification:** revise/update the syllabus (sửa đổi/cập nhật đề cương)
+<!--SR:!2025-12-27,3,252-->
 
 ---
 

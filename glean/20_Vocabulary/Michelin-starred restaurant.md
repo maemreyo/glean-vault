@@ -113,6 +113,7 @@ Use **Michelin-starred restaurant** in a sentence.
 > 📝 **Sentence:** The food critic traveled to Tokyo specifically to dine at a renowned Michelin-starred restaurant run by a master sushi chef.
 > 🇻🇳 **Translation:** Nhà phê bình thực phẩm đi đến Tokyo đặc biệt để dùng bữa tại một nhà hàng sao Michelin nổi tiếng do một bậc thầy sushi điều hành.
 > 🔍 **Analysis:** "Michelin-starred restaurant" phù hợp để mô tả nhà hàng cao cấp mà nhà phê bình thực phẩm đi xa để thưởng thức
+<!--SR:!2025-12-28,4,276-->
 
 ---
 

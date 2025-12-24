@@ -103,6 +103,7 @@ What does **command** (*/kəˈmɑːnd/*) mean?
 → **Target Word?**
 ?
 **command** (*/kəˈmɑːnd/*)
+<!--SR:!2025-12-28,4,274-->
 
 ---
 
@@ -114,6 +115,7 @@ Use **command** in a sentence.
 > 📝 **Sentence:** The officer commanded his unit to secure the perimeter.
 > 🇻🇳 **Translation:** Sĩ quan ra lệnh cho đơn vị của mình bảo vệ chu vi.
 > 🔍 **Analysis:** 'Command' hoàn hảo trong ngữ cảnh quân sự, thể hiện quyền lực và sự phân cấp rõ ràng
+<!--SR:!2025-12-28,4,274-->
 
 ---
 
@@ -126,6 +128,7 @@ List 3 common collocations for **command**.
 > 1. **Authority:** command respect/attention (được tôn trọng/thu hút sự chú ý)
 > 2. **Skill:** have a good command of (thành thạo về cái gì)
 > 3. **Action:** take command of (nhận quyền chỉ huy)
+<!--SR:!2025-12-28,4,274-->
 
 ---
 

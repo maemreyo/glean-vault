@@ -112,6 +112,7 @@ Use **soar** in a sentence.
 > 📝 **Sentence:** The company's stock prices began to soar after announcing record-breaking quarterly earnings.
 > 🇻🇳 **Translation:** Giá cổ phiếu của công ty bắt đầu tăng vọt sau khi thông báo lợi nhuận quý kỷ lục.
 > 🔍 **Analysis:** "Soar" phù hợp để mô tả sự tăng trưởng nhanh chóng, mạnh mẽ của giá cổ phiếu
+<!--SR:!2025-12-28,4,272-->
 
 ---
 

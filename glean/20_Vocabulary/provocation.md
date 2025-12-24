@@ -88,7 +88,7 @@ What does **provocation** (*/ˌprɒvəˈkeɪʃn/*) mean?
 > 🇻🇳 **Vietnamese:** Sự khiêu khích - hành động hoặc lời nói cố ý làm người khác tức giận để có phản ứng
 > 🗣️ **IPA:** */ˌprɒvəˈkeɪʃn/*
 > 🧠 **Mental Model:** Hình ảnh một người cố tình chọc tức người khác để có được phản ứng mong muốn
-<!--SR:!2025-12-24,1,208-->
+<!--SR:!2025-12-26,2,208-->
 
 ---
 

@@ -124,6 +124,7 @@ List 3 common collocations for **architecturally**.
 > 1. **Quality assessments:** architecturally significant/interesting/important (quan trọng/thú vị/tầm cỡ về kiến trúc)
 > 2. **Design features:** architecturally designed/inspired/planned (được thiết kế/cảm hứng/lên kế hoạch về kiến trúc)
 > 3. **Comparative analysis:** architecturally similar/different/unique (tương đồng/khác biệt/độc đáo về kiến trúc)
+<!--SR:!2025-12-27,3,256-->
 
 ---
 

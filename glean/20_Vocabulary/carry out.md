@@ -126,6 +126,7 @@ List 3 common collocations for **carry out**.
 > 1. **Research:** carry out research/studies (tiến hành nghiên cứu)
 > 2. **Instructions:** carry out orders/instructions (thực hiện mệnh lệnh/hướng dẫn)
 > 3. **Maintenance:** carry out maintenance/repairs (thực hiện bảo trì/sửa chữa)
+<!--SR:!2025-12-28,4,270-->
 
 ---
 

@@ -126,6 +126,7 @@ List 3 common collocations for **interpersonal skills**.
 > 1. **Strong Interpersonal Skills:** High ability in human interactions (Kỹ năng giao tiếp tốt - khả năng cao trong tương tác con người)
 > 2. **Interpersonal Skills Development:** Process of improving people abilities (Phát triển kỹ năng giao tiếp - quá trình cải thiện khả năng con người)
 > 3. **Interpersonal Skills Assessment:** Evaluation of communication capabilities (Đánh giá kỹ năng giao tiếp - đánh giá năng lực giao tiếp)
+<!--SR:!2025-12-27,3,268-->
 
 ---
 

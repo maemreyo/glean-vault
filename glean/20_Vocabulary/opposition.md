@@ -112,6 +112,7 @@ Use **opposition** in a sentence.
 > 📝 **Sentence:** Despite strong opposition from environmental groups, the construction project was approved.
 > 🇻🇳 **Translation:** Dù có sự phản đối mạnh mẽ từ các nhóm môi trường, dự án xây dựng vẫn được phê duyệt.
 > 🔍 **Analysis:** "Strong opposition" thể hiện sức chống đối quyết liệt. Opposition ở đây là uncountable noun, không dùng số nhiều. Thể hiện sự xung đột giữa hai phía: xây dựng vs bảo vệ môi trường.
+<!--SR:!2025-12-27,3,250-->
 
 ---
 

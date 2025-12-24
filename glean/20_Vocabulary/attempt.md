@@ -113,6 +113,7 @@ Use **attempt** in a sentence.
 > 📝 **Sentence:** The rescue team made a heroic **attempt** to save the climbers trapped in the avalanche.
 > 🇻🇳 **Vietnamese:** Đội cứu hộ đã thực hiện một nỗ lực dũng cảm để giải cứu những người leo núi bị mắc kẹt trong trận tuyết lở.
 > 🔍 **Analysis:** "Attempt" ở đây nhấn mạnh sự khó khăn (avalanche, trapped), sự dũng cảm (heroic) và tính không chắc chắn của kết quả, thể hiện ý nghĩa sâu sắc của từ này.
+<!--SR:!2025-12-28,4,274-->
 
 ---
 

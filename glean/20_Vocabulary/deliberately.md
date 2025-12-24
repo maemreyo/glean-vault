@@ -191,7 +191,7 @@ Analyze the root/family of **deliberately**.
 **deliberately**
 > 📖 **Meaning:** Intentionally; on purpose
 > 🇻🇳 **Vietnamese:** Cố ý; có chủ đích
-<!--SR:!2025-12-24,1,210-->
+<!--SR:!2025-12-25,1,190-->
 
 ---
 

@@ -126,6 +126,7 @@ List 3 common collocations for **pioneers**.
 > 1. **Time Period:** early pioneers (những người tiên phong đầu tiên)
 > 2. **Quality:** pioneering spirit (tinh thần tiên phong)
 > 3. **Achievement:** pioneering work/discoveries (công trình/phát kiến tiên phong)
+<!--SR:!2025-12-28,4,275-->
 
 ---
 
@@ -190,7 +191,7 @@ Analyze the root/family of **pioneer**.
 **pioneers**
 > 📖 **Meaning:** First settlers or innovators in a new field
 > 🇻🇳 **Vietnamese:** Những người tiên phong
-<!--SR:!2025-12-24,2,248-->
+<!--SR:!2025-12-31,7,268-->
 
 ---
 

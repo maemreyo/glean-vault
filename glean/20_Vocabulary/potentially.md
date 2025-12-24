@@ -111,6 +111,7 @@ Use **potentially** in a sentence.
 > 📝 **Sentence:** The experiment could potentially lead to groundbreaking discoveries in medicine.
 > 🇻🇳 **Translation:** Thí nghiệm này có thể dẫn đến những khám phá đột phá trong y học.
 > 🔍 **Analysis:** 'Potentially' thể hiện uncertainty về future outcomes, thường dùng trong academic/business contexts để avoid making definite claims
+<!--SR:!2025-12-28,4,276-->
 
 ---
 

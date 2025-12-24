@@ -100,7 +100,7 @@ What does **obsessed with** (*/əbˈsest wɪð/*) mean?
 → **Target Word?**
 ?
 **obsessed with** (*/əbˈsest wɪð/*)
-<!--SR:!2025-12-24,2,248-->
+<!--SR:!2025-12-29,5,248-->
 
 ---
 
@@ -112,6 +112,7 @@ Use **obsessed with** in a sentence.
 > 📝 **Sentence:** The teenager is obsessed with video games and plays for hours every day.
 > 🇻🇳 **Translation:** Cậu bé tuổi teen bị ám ảnh bởi trò chơi điện tử và chơi hàng giờ mỗi ngày.
 > 🔍 **Analysis:** 'Obsessed with' thể hiện sự tập trung thái quá, thường mang negative connotation of unhealthy preoccupation
+<!--SR:!2025-12-27,3,269-->
 
 ---
 

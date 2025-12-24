@@ -111,6 +111,7 @@ Use **council service** in a sentence.
 > 📝 **Sentence:** The new community center is an excellent council service that benefits residents of all ages.
 > 🇻🇳 **Translation:** Trung tâm cộng đồng mới là một dịch vụ hội đồng xuất sắc mang lại lợi ích cho người dân ở mọi lứa tuổi.
 > 🔍 **Analysis:** "council service" fits perfectly vì nó thể hiện dịch vụ do chính quyền địa phương cung cấp, nhấn mạnh tính công cộng và benefit cho toàn community, không phải service thương mại.
+<!--SR:!2025-12-28,4,270-->
 
 ---
 
@@ -123,6 +124,7 @@ List 3 common collocations for **council service**.
 > 1. **Quality:** essential/vital council service (VN: dịch vụ thiết yếu)
 > 2. **Access:** free council service, available council service (VN: tính khả dụng)
 > 3. **Management:** council service provision, council service delivery (VN: quản lý cung cấp)
+<!--SR:!2025-12-28,4,270-->
 
 ---
 
@@ -188,7 +190,7 @@ Analyze the root/family of **council service**.
 **council service**
 > 📖 **Meaning:** A public service provided by local government
 > 🇻🇳 **Vietnamese:** Dịch vụ do chính quyền địa phương cung cấp
-<!--SR:!2025-12-24,2,248-->
+<!--SR:!2025-12-31,7,268-->
 
 ---
 

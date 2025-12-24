@@ -123,6 +123,7 @@ List 3 common collocations for **lasts**.
 > 1. **Time expressions:** lasts for hours/days/weeks (kéo dài hàng giờ/ngày/tuần)
 > 2. **Duration quality:** lasts long/short/forever (kéo dài lâu/ngắn/mãi mãi)
 > 3. **Experience descriptors:** lasts a lifetime/seems like forever (kéo dài một đời/dường như mãi mãi)
+<!--SR:!2025-12-28,4,275-->
 
 ---
 

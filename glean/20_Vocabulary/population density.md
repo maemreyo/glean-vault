@@ -100,6 +100,7 @@ What does **population density** (*/ˌpɒpjʊˈleɪʃn ˈdensəti/*) mean?
 → **Target Word?**
 ?
 **population density** (*/ˌpɒpjʊˈleɪʃn ˈdensəti/*)
+<!--SR:!2025-12-28,4,275-->
 
 ---
 
@@ -111,6 +112,7 @@ Use **population density** in a sentence.
 > 📝 **Sentence:** High population density in urban areas creates both economic opportunities and significant infrastructure challenges.
 > 🇻🇳 **Translation:** Mật độ dân số cao ở khu vực đô thị tạo ra cả cơ hội kinh tế và thách thức cơ sở hạ tầng đáng kể.
 > 🔍 **Analysis:** "Population density" là thuật ngữ học thuật quan trọng trong quy hoạch đô thị, nghiên cứu xã hội, thể hiện sự phân tích có hệ thống về phân bố dân cư
+<!--SR:!2025-12-28,4,275-->
 
 ---
 

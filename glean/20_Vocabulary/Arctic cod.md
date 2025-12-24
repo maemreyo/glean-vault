@@ -186,7 +186,7 @@ Analyze the root/family of **Arctic cod**.
 **Arctic cod**
 > 📖 **Meaning:** Cold-adapted fish species of Arctic waters
 > 🇻🇳 **Vietnamese:** Cá tuyết Bắc Cực
-<!--SR:!2025-12-24,2,248-->
+<!--SR:!2025-12-31,7,268-->
 
 ---
 
