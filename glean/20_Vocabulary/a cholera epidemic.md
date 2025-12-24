@@ -215,3 +215,182 @@ Analyze the root/family of **a cholera epidemic**.
 > - [[sporadic cases]] (isolated occurrences)
 > 🧱 **Contrast:** Epidemic là dịch lan rộng đột ngột, endemic là bệnh thường xuyên trong khu vực giới hạn
 <!--SR:!2025-12-25,2,246-->
+
+
+#flashcards/ielts-listening/daily/01-prediction
+### Card 1: 3-Way Prediction Brainstorm
+
+> **Option:** "providing entertainment"
+> **Context:** Tổ chức sự kiện cộng đồng
+❓ **Question:** Liệt kê 3 kịch bản paraphrasing mà người nói có thể dùng?
+?
+> 💡 **Possible Scripts:**
+> **Action (Hành động cụ thể):** Booking a live band for the evening
+> **Object/Person (Đối tượng/Người):** Hiring a magician and dancers
+> **Abstract (Trừu tượng):** Arranging fun activities and shows for guests
+>
+> 🔑 **Core Concept:** Giải trí = các hoạt động làm mọi người vui vẻ, hứng thú (shows, music, games)
+
+---
+
+#flashcards/ielts-listening/daily/02-keywords
+### Card 2: Verb + Noun Association
+
+> **Option:** "providing entertainment"
+> ❓ **Question:** Những V+N collocations phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
+?
+> 🗝️ **Collocations:**
+> **Verbs:** organize, arrange, book, hire, coordinate, manage
+> **Nouns:** performances, shows, acts, music, activities, games, live bands
+>
+> 💡 **Pattern Note:** Thường dùng với từ chỉ biểu diễn, nghệ sĩ, hoạt động vui chơi
+
+---
+
+#flashcards/ielts-listening/daily/03-signpost
+### Card 3: Signpost Detection
+
+> **Option:** "providing entertainment"
+> ❓ **Question:** Những từ nối (transition/signpost) thường đi trước/sau khi nói về ý này?
+?
+> 🚦 **Signposts:**
+> **Before:** "Regarding the entertainment," "As for the shows," "On the fun side of things,"
+> **After:** "which will keep everyone amused," "to make the event more enjoyable," "for people's amusement"
+>
+> 🎧 **Audio Cue:** "The entertainment will include..." / "We're planning to..."
+
+---
+
+### Tier 2: Weekly Intensive (4 Cards)
+
+#flashcards/ielts-listening/weekly/01-reverse
+### Card 4: Reverse Matching (Thực chiến)
+
+> **Audio Script:** "I'll be responsible for booking the live band and arranging various games and performances throughout the evening."
+> ❓ **Question:** Câu này match với Option nào trong Box?
+?
+> ✅ **Match:** providing entertainment
+> 🔍 **Analysis:**
+> Audio nói: "booking the live band," "arranging various games and performances"
+> Tương đương với: "providing entertainment"
+>
+> 🧠 **Logic Chain:** Band + games + performances = các hoạt động giải trí = providing entertainment
+
+---
+
+#flashcards/ielts-listening/weekly/02-trap
+### Card 5: Trap Identification
+
+> **Option:** "providing entertainment"
+> ❓ **Question:** Những dấu hiệu (signposting) cho thấy đáp án này đã bị LOẠI?
+?
+> 🛑 **Negation Signals:**
+> - "We thought about hiring a band, but it's too expensive." (Dự định nhưng không làm)
+> - "There won't be any entertainment this year." (Phủ định)
+> - "Instead of shows, we decided to focus on food." (Thay thế)
+> - "We don't have time to organize performances." (Không làm được)
+>
+> ⚠️ **Other Traps:**
+> "entertainment is cancelled," "no budget for shows," "postponed the performances"
+
+---
+
+#flashcards/ielts-listening/weekly/03-differentiate
+### Card 6: Confusion Differentiation
+
+🆚 **Comparison:** Phân biệt "providing entertainment" với "providing refreshments"?
+> ❓ **Question:** Sự khác biệt cốt lõi là gì?
+?
+> 🆚 **Distinction:**
+> **providing entertainment:** Tập trung vào fun, shows, performances (e.g., music, games, magician).
+> **providing refreshments:** Tập trung vào food, drinks, snacks (e.g., snacks, beverages, meals).
+>
+> 🧱 **Key Barrier:** Nghe từ "providing" + noun → phải kiểm tra noun là gì (entertainment vs refreshments/food)
+
+---
+
+#flashcards/ielts-listening/weekly/04-cloze
+### Card 7: Context Cloze
+
+> 🗣️ *<Audio transcript với ==entertainment== ẩn>*
+> 🇻🇳 **Vi:** Tôi sẽ lo mảng ==giải trí== cho buổi tiệc, gồm đặt ban nhạc và tổ chức trò chơi.
+?
+> ✅ **Answer:** entertainment
+> 🔗 **Connects to:** providing entertainment
+>
+> 💡 **Why:** "giải trí" = entertainment = các hoạt động vui vẻ/giải trí
+
+---
+
+### Tier 3: Bi-weekly Mastery (4 Cards)
+
+#flashcards/ielts-listening/biweekly/01-chain
+### Card 8: Paraphrase Chain
+
+> **Option:** "providing entertainment"
+> ❓ **Question:** Tạo chuỗi paraphrasing 4 levels cho ý này?
+?
+> 🔗 **Paraphrase Chain:**
+> **Level 1 (Direct):** Organizing the entertainment / Arranging shows and performances
+> **Level 2 (Related):** Keeping people amused / Making the event fun and enjoyable
+> **Level 3 (Contextual):** Booking the live band and activities / Managing the program of events
+> **Level 4 (Implicit):** I'm in charge of the fun side of things / I'll handle what happens on stage
+>
+> 💡 **Core Thread:** Tất cả đều nói về việc làm cho sự kiện vui vẻ/hứng thú thông qua các hoạt động/performances
+
+---
+
+#flashcards/ielts-listening/biweekly/02-full-trap
+### Card 9: Full Distractor Analysis
+
+> =="Regarding the refreshments, Sarah will handle those. As for entertainment, I'll book the band and organize the games. However, we did consider hiring a DJ, but decided against it."==
+>
+> ❓ **Question:** Phân tích từng distractor và tại sao sai?
+?
+> 🕵️ **Distractor Breakdown:**
+> **Distractor 1:** "refreshments"
+> - Sounds like: "providing refreshments" (vốn có trong option box)
+> - Wrong because: Sarah handles refreshments, speaker handles entertainment
+>
+> **Distractor 2:** "hiring a DJ"
+> - Sounds like: Could be entertainment
+> - Wrong because: "considered...but decided against it" = not doing it
+>
+> ✅ **Correct Answer:** providing entertainment
+> - Why correct: Speaker "will book the band and organize the games" = direct paraphrase of providing entertainment
+
+---
+
+#flashcards/ielts-listening/biweekly/03-script-match
+### Card 10: Script-to-Option Mapping
+
+> =="providing entertainment"==
+>
+> **Audio Transcript:**
+"My responsibility is to ensure everyone has a good time. So I'll be coordinating the live music, the comedy acts, and all the games and activities that'll be happening throughout the day."
+> ❓ **Question:** Highlight và giải thích tất cả các paraphrases từ audio → option?
+?
+> 🎯 **Paraphrase Mapping:**
+> ==Phrase 1:== "live music," "comedy acts" → entertainment (shows/performances)
+> ==Phrase 2:== "games and activities" → entertainment (fun activities)
+> ==Phrase 3:== "ensure everyone has a good time" → entertainment (purpose of entertainment)
+>
+> 🧠 **Overall Logic:** Các activities/shows làm mọi người vui vẻ = providing entertainment
+
+---
+
+#flashcards/ielts-listening/biweekly/04-speed
+### Card 11: 5-Second Prediction Drill
+
+> ⏱️ **Speed Challenge:** You have 5 seconds!
+> =="providing entertainment"==
+> =="Tổ chức sự kiện từ thiện"==
+> ❓ **Question:** QUICK! List 2 paraphrases IMMEDIATELY!
+?
+> ⚡ **Speed Answers:**
+> ==1.== Organizing shows and performances
+> ==2.== Booking bands/entertainers
+>
+> 🎯 **Goal:** 2 seconds per paraphrase
+
+---

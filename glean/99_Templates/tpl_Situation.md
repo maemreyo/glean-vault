@@ -28,75 +28,56 @@ ref:
 
 ---
 
-> [!info] Option Analysis
-> **Option Letter:** {{OPTION_LETTER}} (e.g., A)
-> **Option Text:** {{OPTION_TEXT}} (ví dụ: providing entertainment)
-> **Context:** {{CONTEXT}} (ví dụ: Tổ chức sự kiện từ thiện)
-> **Source Test:** {{SOURCE_TEST}} (e.g., Cam 12 Test 5 Section 2)
+> [!info] Option Profile (Hồ Sơ Option)
+> **Option Letter:** {{OPTION_LETTER}}
+> **Option Text:** {{OPTION_TEXT}}
+> **Context:** {{CONTEXT}}
+> **Source Test:** {{SOURCE_TEST}}
 
-> [!abstract] 🎯 Target Option (Cái Nhãn Trong Đề)
-> **Option:** {{OPTION_TEXT}}
+> [!abstract] 🎯 Target Analysis (Phân Tích Mục Tiêu)
 > **Type of Info:** (Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian)
 > **Topic Category:** (Volunteering / Academic / Facility / Direction)
+>
+> **🧠 5D Framework:**
+> - **Definition:** <Định nghĩa cốt lõi>
+> - **Denotation:** <Ý nghĩa đen>
+> - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI>
+> - **Deep Dive:** <Paraphrasing sâu hơn>
 
-> [!tip] 💡 Imagination Box (Tưởng tượng Kịch bản)
+> [!tip] 💡 Imagination & Sensory (Kích Hoạt Đa Giác Quan)
+> **🎨 Sensory Triggers:**
+> - **Visual:** <Hình ảnh mental>
+> - **Auditory:** <Âm thanh đặc trưng>
+> - **Action:** <Hành động cụ thể>
+>
+> **🔗 Collocation Patterns:**
+> - `Verb + Noun`: <e.g., arrange + meeting>
+> - `Noun + of + Noun`: <e.g., organisation of + event>
+> - `Adj + Noun`: <e.g., local + businesses>
 
-**🎯 Quick Checklist (5 Questions):**
-- ☐ WHO: Ai chịu trách nhiệm/làm việc này?
-- ☐ WHAT: Hành động cụ thể là gì?
-- ☐ WHERE: Tại đâu? (bàn/điện thoại/sự kiện/online)
-- ☐ HOW: Bằng cách nào? (call/email/meet/book/arrange)
-- ☐ WITH WHOM: Làm việc cùng ai? (manager/public/team)
+> [!example] 🎙️ Real Audio Phrases (IELTS Level)
+> - "I'm in charge of..."
+> - "The job involves..."
+> - "We need to..."
+> - "My responsibility is..."
 
-**🧠 5D Framework:**
-- **Definition:** <Định nghĩa cốt lõi trong 5 từ>
-- **Denotation:** <Ý nghĩa đen>
-- **Denotation Extension:** <Các nghĩa mở rộng>
-- **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI>
-- **Deep Dive:** <Paraphrasing sâu hơn, các level khó>
+> [!warning] ⚠️ Traps & Distractors (Bẫy Thường Gặp)
+> **Trap 1:** {{TRAP_DESCRIPTION}}
+> - *Why it's tricky:* <Tại sao nghe giống?>
+> - *Actual meaning:* <Nghĩa thật là gì?>
+>
+> **Trap 2:** {{TRAP_DESCRIPTION}}
+> - *Why it's tricky:* <Tại sao nghe giống?>
+> - *Actual meaning:* <Nghĩa thật là gì?>
 
-**🎨 Sensory Triggers:**
-- **Visual:** <Hình ảnh mental - bạn thấy gì?>
-- **Auditory:** <Âm thanh - từ nào nghe đặc trưng?>
-- **Action-based:** <Hành động cụ thể có thể làm>
-
-**🔗 Collocation Patterns:**
-- **Verb + Noun:** <ví dụ: book + band, arrange + meeting, contact + business>
-- **Noun + of + Noun:** <ví dụ: organisation of + event>
-- **Verb + Preposition:** <ví dụ: get in touch + with, look after>
-- **Adj + Noun:** <ví dụ: live + performance, local + businesses>
-
-**🎙️ Real Audio Phrases (IELTS Level):**
-Phrases speakers thường dùng khi diễn tả ý này:
-- "I'm in charge of..."
-- "The job involves..."
-- "We need to..."
-- "My responsibility is..."
-- "The task will be..."
-- "I'll be handling..."
-
-> [!note] Related Options (Các Option Dễ Nhầm Lẫn)
-> **Confusing Option:** {{CONFUSING_OPTION}}
-> **Key Difference:** <Tại sao dễ nhầm? Cùng từ khóa gì?>
-> **Distinguishing Clues:** <Dấu hiệu phân biệt>
-
-> [!success] Traps & Distractors (Bẫy Thường Gặp)
-**Trap 1:** {{TRAP_DESCRIPTION}}
-- **Why it's tricky:** <Tại sao nghe giống?>
-- **Actual meaning:** <Nghĩa thật là gì?>
-
-**Trap 2:** {{TRAP_DESCRIPTION}}
-- **Why it's tricky:** <Tại sao nghe giống?>
-- **Actual meaning:** <Nghĩa thật là gì?>
-
-> [!quote]- Example Scripts (IELTS Level)
-> **Example 1:**
+> [!quote]- 🎞️ Example Scripts (Expand to View)
+> **Script 1:**
 > "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
-> → **Match:** {{OPTION_TEXT}}
-
-> **Example 2:**
+> → **Match:** =={{OPTION_TEXT}}==
+>
+> **Script 2:**
 > "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
-> → **Match:** {{OPTION_TEXT}}
+> → **Match:** =={{OPTION_TEXT}}==
 
 ---
 
@@ -107,44 +88,44 @@ Phrases speakers thường dùng khi diễn tả ý này:
 #flashcards/ielts-listening/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-**Option:** "{{OPTION_TEXT}}"
-**Context:** {{CONTEXT}}
-❓ **Question:** Liệt kê 3 kịch bản paraphrasing mà người nói có thể dùng?
+**Option:** =={{OPTION_TEXT}}==
+**Context:** *{{CONTEXT}}*
+❓ **Question:** Liệt kê **3 kịch bản paraphrasing** mà người nói có thể dùng?
 ?
-> 💡 **Possible Scripts:**
-> **Action (Hành động cụ thể):** <ví dụ: Hiring a live band>
-> **Object/Person (Đối tượng/Người):** <ví dụ: Booking the magician>
-> **Abstract (Trừu tượng):** <ví dụ: Organising fun activities>
+> [!success] 💡 Possible Scripts
+> 1. **Action (Hành động):** <ví dụ: Hiring a live band>
+> 2. **Object/Person (Đối tượng):** <ví dụ: Booking the magician>
+> 3. **Abstract (Trừu tượng):** <ví dụ: Organising fun activities>
 >
-> 🔑 **Core Concept:** <Tóm tắt logic kết nối (EN/VN mix)>
+> **🔑 Core Concept:** <Tóm tắt logic kết nối>
 
 ---
 
 #flashcards/ielts-listening/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-**Option:** "{{OPTION_TEXT}}"
-❓ **Question:** Những V+N collocations phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
+**Option:** =={{OPTION_TEXT}}==
+❓ **Question:** Những **V+N collocations** phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
-> 🗝️ **Collocations:**
-> **Verbs:** <ví dụ: perform, play, dance, sing, act>
-> **Nouns:** <ví dụ: music, concert, comedy, magic show>
+> [!note] 🗝️ Collocations
+> - **Verbs:** <ví dụ: perform, play, dance>
+> - **Nouns:** <ví dụ: music, concert, comedy>
 >
-> 💡 **Pattern Note:** <Ghi chú về pattern (VN)>
+> **💡 Pattern Note:** <Ghi chú về pattern (VN)>
 
 ---
 
 #flashcards/ielts-listening/daily/03-signpost
 ### Card 3: Signpost Detection
 
-**Option:** "{{OPTION_TEXT}}"
-❓ **Question:** Những từ nối (transition/signpost) thường đi trước/sau khi nói về ý này?
+**Option:** =={{OPTION_TEXT}}==
+❓ **Question:** Những **từ nối (signpost)** thường đi trước/sau khi nói về ý này?
 ?
-> 🚦 **Signposts:**
-> **Before:** <ví dụ: "So," "As for," "Regarding...">
-> **After:** <ví dụ: "which involves," "that means...">
+> [!tip] 🚦 Signposts
+> - **Before:** <ví dụ: "So," "As for," "Regarding...">
+> - **After:** <ví dụ: "which involves," "that means...">
 >
-> 🎧 **Audio Cue:** <Cụm từ nghe được (EN)>
+> **🎧 Audio Cue:** <Cụm từ nghe được (EN)>
 
 ---
 
@@ -153,59 +134,63 @@ Phrases speakers thường dùng khi diễn tả ý này:
 #flashcards/ielts-listening/weekly/01-reverse
 ### Card 4: Reverse Matching (Thực chiến)
 
-**Audio Script:** "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
-❓ **Question:** Câu này match với Option nào trong Box?
+**Audio Script:**
+> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+
+❓ **Question:** Đoạn này match với **Option** nào?
 ?
-> ✅ **Match:** {{OPTION_TEXT}}
-> 🔍 **Analysis:**
-> Audio nói: "{{KEY_PHRASE_IN_AUDIO}}"
-> Tương đương với: "{{KEY_WORD_IN_OPTION}}"
+> [!check] ✅ Match: **{{OPTION_TEXT}}**
+> **🔍 Analysis:**
+> - Audio nói: `{{KEY_PHRASE_IN_AUDIO}}`
+> - Tương đương với: `{{KEY_WORD_IN_OPTION}}`
 >
-> 🧠 **Logic Chain:** <Cách suy luận từ audio đến option (VN/EN mix)>
+> **🧠 Logic Chain:** <Cách suy luận từ audio đến option>
 
 ---
 
 #flashcards/ielts-listening/weekly/02-trap
 ### Card 5: Trap Identification
 
-**Option:** "{{OPTION_TEXT}}"
-❓ **Question:** Những dấu hiệu (signposting) cho thấy đáp án này đã bị LOẠI?
+**Option:** =={{OPTION_TEXT}}==
+❓ **Question:** Những **dấu hiệu phủ định** (negation signals) nào cho thấy đáp án này đã bị **LOẠI**?
 ?
-> 🛑 **Negation Signals:**
-> - "We thought about doing X, but..." (Dự định nhưng không làm)
-> - "X used to be popular, however..." (Quá khứ)
-> - "Instead of X, we decided to..." (Thay thế)
-> - "We've run out of time for X..." (Không làm được)
+> [!fail] 🛑 Negation Signals
+> - *"We thought about doing X, but..."* (Dự định nhưng không làm)
+> - *"X used to be popular, however..."* (Quá khứ)
+> - *"Instead of X, we decided to..."* (Thay thế)
+> - *"We've run out of time for X..."* (Không làm được)
 >
-> ⚠️ **Other Traps:**
-> <Dấu hiệu khác như: too expensive, not available, postponed>
+> **⚠️ Other Traps:** <Too expensive, not available...>
 
 ---
 
 #flashcards/ielts-listening/weekly/03-differentiate
 ### Card 6: Confusion Differentiation
 
-🆚 **Comparison:** Phân biệt "{{OPTION_TEXT}}" với "{{CONFUSING_OPTION}}"?
+🆚 **Comparison:** Phân biệt **"{{OPTION_TEXT}}"** với **"{{CONFUSING_OPTION}}"**?
 ❓ **Question:** Sự khác biệt cốt lõi là gì?
 ?
-> 🆚 **Distinction:**
-> **{{OPTION_TEXT}}:** Tập trung vào <Focus Area 1> (e.g., payments, cash, box office).
-> **{{CONFUSING_OPTION}}:** Tập trung vào <Focus Area 2> (e.g., row number, ushering, sit down).
+> [!example] 🆚 Distinction
+> - **{{OPTION_TEXT}}:** Tập trung vào ==<Focus Area 1>==.
+> - **{{CONFUSING_OPTION}}:** Tập trung vào ==<Focus Area 2>==.
 >
-> 🧱 **Key Barrier:** <Rào cản chính phân biệt 2 ý (VN/EN mix)>
+> **🧱 Key Barrier:** <Rào cản chính phân biệt 2 ý>
 
 ---
 
 #flashcards/ielts-listening/weekly/04-cloze
-### Card 7: Context Cloze
+### Card 7: Context Cloze (Điền từ)
 
-🗣️ *<Audio transcript với ==key phrase== ẩn>*
-🇻🇳 **Vi:** <Vietnamese Translation>
+🗣️ **Audio Transcript:**
+> *<Audio transcript với ==key phrase== ẩn>*
+
+🇻🇳 **Vietnamese:** <Vietnamese Translation>
+❓ **Question:** Điền vào chỗ trống?
 ?
-> ✅ **Answer:** {{KEY_PHRASE}}
-> 🔗 **Connects to:** {{OPTION_TEXT}}
+> [!success] ✅ Answer: **{{KEY_PHRASE}}**
+> **🔗 Connects to:** {{OPTION_TEXT}}
 >
-> 💡 **Why:** <Giải thích (VN/EN mix)>
+> **💡 Why:** <Giải thích logic>
 
 ---
 
@@ -215,15 +200,15 @@ Phrases speakers thường dùng khi diễn tả ý này:
 ### Card 8: Paraphrase Chain
 
 **Option:** "{{OPTION_TEXT}}"
-❓ **Question:** Tạo chuỗi paraphrasing 4 levels cho ý này?
+❓ **Question:** Tạo **chuỗi paraphrasing 4 levels** cho ý này?
 ?
-> 🔗 **Paraphrase Chain:**
-> **Level 1 (Direct):** <Cùng nghĩa, từ khác>
-> **Level 2 (Related):** <Ý nghĩa liên quan>
-> **Level 3 (Contextual):** <Theo ngữ cảnh cụ thể>
-> **Level 4 (Implicit):** <Ý nghĩa ẩn dụ>
+> [!info] 🔗 Paraphrase Chain
+> 1. **Direct:** <Cùng nghĩa, từ khác>
+> 2. **Related:** <Ý nghĩa liên quan>
+> 3. **Contextual:** <Theo ngữ cảnh cụ thể>
+> 4. **Implicit:** <Ý nghĩa ẩn dụ>
 >
-> 💡 **Core Thread:** <Chủ đề xuyên suốt (VN/EN mix)>
+> **💡 Core Thread:** <Chủ đề xuyên suốt>
 
 ---
 
@@ -231,20 +216,21 @@ Phrases speakers thường dùng khi diễn tả ý này:
 ### Card 9: Full Distractor Analysis
 
 **Full Script (including distractors):**
-"{{FULL_AUDIO_WITH_DISTRACTORS}}"
-❓ **Question:** Phân tích từng distractor và tại sao sai?
+> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+
+❓ **Question:** Phân tích từng **distractor** và tại sao sai?
 ?
-> 🕵️ **Distractor Breakdown:**
-> **Distractor 1:** "{{TEXT}}"
-> - Sounds like: <Nghe giống gì>
-> - Wrong because: <Tại sao sai>
+> [!bug] 🕵️ Distractor Breakdown
+> **1. Distractor:** "{{TEXT}}"
+> - *Sounds like:* <Nghe giống gì>
+> - *Wrong because:* <Tại sao sai>
 >
-> **Distractor 2:** "{{TEXT}}"
-> - Sounds like: <Nghe giống gì>
-> - Wrong because: <Tại sao sai>
+> **2. Distractor:** "{{TEXT}}"
+> - *Sounds like:* <Nghe giống gì>
+> - *Wrong because:* <Tại sao sai>
 >
-> ✅ **Correct Answer:** {{OPTION_TEXT}}
-> - Why correct: <Giải thích (VN/EN mix)>
+> [!check] ✅ Correct Answer: **{{OPTION_TEXT}}**
+> - *Why correct:* <Giải thích>
 
 ---
 
@@ -253,30 +239,30 @@ Phrases speakers thường dùng khi diễn tả ý này:
 
 **Option Text:** "{{OPTION_TEXT}}"
 **Audio Transcript:**
-"{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
-❓ **Question:** Highlight và giải thích tất cả các paraphrases từ audio → option?
+> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+
+❓ **Question:** Highlight và giải thích tất cả các **paraphrases** từ Audio → Option?
 ?
-> 🎯 **Paraphrase Mapping:**
-> **Phrase 1:** <Audio phrase> → <Option word>
-> **Phrase 2:** <Audio phrase> → <Option word>
-> **Phrase 3:** <Audio phrase> → <Option word>
+> [!example] 🎯 Paraphrase Mapping
+> - `Audio phrase` → **Option word**
+> - `Audio phrase` → **Option word**
 >
-> 🧠 **Overall Logic:** <Tổng hợp logic kết nối (VN/EN mix)>
+> **🧠 Overall Logic:** <Tổng hợp logic kết nối>
 
 ---
 
 #flashcards/ielts-listening/biweekly/04-speed
 ### Card 11: 5-Second Prediction Drill
 
-⏱️ **Speed Challenge:** You have 5 seconds!
-**Option:** "{{OPTION_TEXT}}"
+⏱️ **Speed Challenge (5s):**
+**Option:** =={{OPTION_TEXT}}==
 **Context:** {{CONTEXT}}
-❓ **Question:** QUICK! List 2 paraphrases IMMEDIATELY!
+❓ **Question:** List **2 paraphrases** IMMEDIATELY!
 ?
-> ⚡ **Speed Answers:**
-> 1. <Paraphrase 1>
-> 2. <Paraphrase 2>
+> [!quote] ⚡ Speed Answers
+> 1. ==<Paraphrase 1>==
+> 2. ==<Paraphrase 2>==
 >
-> 🎯 **Goal:** 2 seconds per paraphrase
+> **🎯 Goal:** Instant Recall
 
 ---
