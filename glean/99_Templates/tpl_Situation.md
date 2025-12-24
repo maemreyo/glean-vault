@@ -18,21 +18,21 @@ ref:
 > **Topic Category:** (Volunteering / Academic / Facility / Direction)
 >
 > **🧠 5D Framework:**
-> - **Definition:** <Định nghĩa cốt lõi>
-> - **Denotation:** <Ý nghĩa đen>
-> - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI>
-> - **Deep Dive:** <Paraphrasing sâu hơn>
+> - **Definition:** <Định nghĩa cốt lõi (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Denotation:** <Ý nghĩa đen (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Deep Dive:** <Paraphrasing sâu hơn (dùng cặp `==` để highlight các từ quan trọng)>
 
 > [!tip] 💡 Imagination & Sensory (Kích Hoạt Đa Giác Quan)
 > **🎨 Sensory Triggers:**
-> - **Visual:** <Hình ảnh mental>
-> - **Auditory:** <Âm thanh đặc trưng>
-> - **Action:** <Hành động cụ thể>
+> - **Visual:** <Hình ảnh mental (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Auditory:** <Âm thanh đặc trưng (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Action:** <Hành động cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: ==<e.g., arrange + meeting>==
-> - `Noun + of + Noun`: ==<e.g., organisation of + event>==
-> - `Adj + Noun`: ==<e.g., local + businesses>==
+> - `Verb + Noun`: <e.g., arrange + meeting (dùng cặp `==` để highlight các từ quan trọng)>
+> - `Noun + of + Noun`: <e.g., organisation of + event (dùng cặp `==` để highlight các từ quan trọng)>
+> - `Adj + Noun`: <e.g., local + businesses (dùng cặp `==` để highlight các từ quan trọng)>
 
 > [!example] 🎙️ Real Audio Phrases (IELTS Level)
 > - "I'm in charge of..."
@@ -42,12 +42,12 @@ ref:
 
 > [!warning] ⚠️ Traps & Distractors (Bẫy Thường Gặp)
 > **Trap 1:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống?>
+> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
 > - *Actual meaning:* <Nghĩa thật là gì?>
 >
 > **Trap 2:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống?>
-> - *Actual meaning:* <Nghĩa thật là gì?>
+> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
 
 > [!quote]- 🎞️ Example Scripts (Expand to View)
 > **Script 1:**
@@ -73,11 +73,11 @@ ref:
 > ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
 ?
 > [!success] 💡 Possible Scripts
-> 1. **Action (Hành động):** <ví dụ: Hiring ==a live band==>
-> 2. **Object/Person (Đối tượng):** <ví dụ: Booking ==the magician==>
-> 3. **Abstract (Trừu tượng):** <ví dụ: Organising ==fun activities==>
+> 1. **Action (Hành động):** <ví dụ: Hiring ==a live band== (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Object/Person (Đối tượng):** <ví dụ: Booking ==the magician== (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Abstract (Trừu tượng):** <ví dụ: Organising ==fun activities== (dùng cặp `==` để highlight các từ quan trọng)>
 >
-> **🔑 Core Concept:** <Tóm tắt logic kết nối>
+> **🔑 Core Concept:** <Tóm tắt logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
 
 ---
 
@@ -89,10 +89,10 @@ ref:
 > ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
 > [!note] 🗝️ Collocations
-> - **Verbs:** <ví dụ: perform, play, dance>
-> - **Nouns:** <ví dụ: music, concert, comedy>
+> - **Verbs:** <ví dụ: perform, play, dance (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Nouns:** <ví dụ: music, concert, comedy (dùng cặp `==` để highlight các từ quan trọng)>
 >
-> **💡 Pattern Note:** <Ghi chú về pattern (VN)>
+> **💡 Pattern Note:** <Ghi chú về pattern (dùng cặp `==` để highlight các từ quan trọng)>
 
 ---
 
@@ -104,10 +104,10 @@ ref:
 > ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
 ?
 > [!tip] 🚦 Signposts
-> - **Before:** ==<ví dụ: "So," "As for," "Regarding...">==
-> - **After:** ==<ví dụ: "which involves," "that means...">==
+> - **Before:** <ví dụ: "So," "As for," "Regarding..." (dùng cặp `==` để highlight các từ quan trọng)>
+> - **After:** <ví dụ: "which involves," "that means..." (dùng cặp `==` để highlight các từ quan trọng)>
 >
-> **🎧 Audio Cue:** ==<Cụm từ nghe được (EN)>==
+> **🎧 Audio Cue:** <Cụm từ nghe được (dùng cặp `==` để highlight các từ quan trọng)>
 
 ---
 
@@ -126,7 +126,7 @@ ref:
 > - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
 > - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
 >
-> **🧠 Logic Chain:** <Cách suy luận từ audio đến option>
+> **🧠 Logic Chain:** <Cách suy luận từ audio đến option (dùng cặp `==` để highlight các từ quan trọng)>
 
 ---
 
@@ -143,7 +143,7 @@ ref:
 > - *"Instead of X, we decided to..."* (Thay thế)
 > - *"We've run out of time for X..."* (Không làm được)
 >
-> **⚠️ Other Traps:** ==<Too expensive, not available...>==
+> **⚠️ Other Traps:** <Too expensive, not available... (dùng cặp `==` để highlight các từ quan trọng)>
 
 ---
 
@@ -155,10 +155,10 @@ ref:
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào ==<Focus Area 1>==.
-> - **{{CONFUSING_OPTION}}:** Tập trung vào ==<Focus Area 2>==.
+> - **{{OPTION_TEXT}}:** Tập trung vào <Focus Area 1 (dùng cặp `==` để highlight các từ quan trọng)>.
+> - **{{CONFUSING_OPTION}}:** Tập trung vào <Focus Area 2 (dùng cặp `==` để highlight các từ quan trọng)>.
 >
-> **🧱 Key Barrier:** <Rào cản chính phân biệt 2 ý>
+> **🧱 Key Barrier:** <Rào cản chính phân biệt 2 ý (dùng cặp `==` để highlight các từ quan trọng)>
 
 ---
 
@@ -175,7 +175,7 @@ ref:
 > [!success] ✅ Answer: =={{KEY_PHRASE}}==
 > **🔗 Connects to:** =={{OPTION_TEXT}}==
 >
-> **💡 Why:** <Giải thích logic>
+> **💡 Why:** <Giải thích logic (dùng cặp `==` để highlight các từ quan trọng)>
 
 ---
 
@@ -189,12 +189,12 @@ ref:
 > ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
 ?
 > [!info] 🔗 Paraphrase Chain
-> 1. **Direct:** <Cùng nghĩa, từ khác>
-> 2. **Related:** <Ý nghĩa liên quan>
-> 3. **Contextual:** <Theo ngữ cảnh cụ thể>
-> 4. **Implicit:** <Ý nghĩa ẩn dụ>
+> 1. **Direct:** <Cùng nghĩa, từ khác (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Related:** <Ý nghĩa liên quan (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Contextual:** <Theo ngữ cảnh cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+> 4. **Implicit:** <Ý nghĩa ẩn dụ (dùng cặp `==` để highlight các từ quan trọng)>
 >
-> **💡 Core Thread:** <Chủ đề xuyên suốt>
+> **💡 Core Thread:** <Chủ đề xuyên suốt (dùng cặp `==` để highlight các từ quan trọng)>
 
 ---
 
@@ -208,15 +208,15 @@ ref:
 ?
 > [!bug] 🕵️ Distractor Breakdown
 > **1. Distractor:** =="{{TEXT}}"==
-> - *Sounds like:* <Nghe giống gì>
-> - *Wrong because:* <Tại sao sai>
+> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
 >
 > **2. Distractor:** =="{{TEXT}}"==
-> - *Sounds like:* <Nghe giống gì>
-> - *Wrong because:* <Tại sao sai>
+> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
 >
 > **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* <Giải thích>
+> - *Why correct:* <Giải thích (dùng cặp `==` để highlight các từ quan trọng)>
 
 ---
 
@@ -234,7 +234,7 @@ ref:
 > - `Audio phrase` → ==Option word==
 > - `Audio phrase` → ==Option word==
 >
-> **🧠 Overall Logic:** <Tổng hợp logic kết nối>
+> **🧠 Overall Logic:** <Tổng hợp logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
 
 ---
 
