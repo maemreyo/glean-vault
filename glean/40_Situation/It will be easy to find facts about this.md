@@ -1,337 +1,278 @@
 ---
 tags:
   - reflex-training
-aliases: [] # common variations, shortened forms of the pattern or paraphrases
-status: pending
+aliases: [Information will be readily available, Data will be accessible, Finding facts about this will be straightforward]
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] Option Profile
-> **Option Letter:** =={{OPTION_LETTER}}==
-> **Option Text:** =={{OPTION_TEXT}}==
-> **Context:** *{{CONTEXT}}*
-> **Source Test:** {{SOURCE_TEST}}
+> **Option Letter:** ==A==
+> **Option Text:** ==It will be easy to find facts about this==
+> **Context:** *Volunteering at community center*
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🎯 Target Analysis
-> **Type of Info:** <Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ...>
-> **Topic Category:** <Volunteering / Academic / Facility / Direction / ...>
+> **Type of Info:** Research Quality / Information Availability
+> **Topic Category:** Academic / Research
 >
 > **🧠 5D Framework:**
-> - **Definition:** <Định nghĩa cốt lõi (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Denotation:** <Ý nghĩa đen (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Deep Dive:** <Paraphrasing sâu hơn (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Definition:** Accessing ==factual information== will be ==straightforward and uncomplicated==, requiring minimal effort or specialized resources.
+> - **Denotation:** The word ==easy== suggests ==low difficulty== in ==locating data==; ==find facts== indicates ==discovering factual details== or ==gathering information==.
+> - **Distractor:** Could be confused with ==difficult to find==, ==hard to locate==, ==challenging research==, or ==requires extensive investigation==.
+> - **Deep Dive:** ==Straightforward to gather data==, ==simple to source information==, ==no obstacles in obtaining facts==, ==readily available information sources==.
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
-> - **Visual:** <Hình ảnh mental (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Auditory:** <Âm thanh đặc trưng (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Action:** <Hành động cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Visual:** ==Browsing through well-organized library shelves==, ==scrolling through search results on a computer screen==, ==looking at clearly labeled folders in a filing cabinet==.
+> - **Auditory:** ==Typing on a keyboard==, ==clicking mouse buttons==, ==pages turning in a book==, ==discussing information with colleagues==.
+> - **Action:** ==Searching through archives==, ==browsing online databases==, ==consulting reference materials==, ==gathering relevant data points==.
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: <e.g., arrange + meeting (dùng cặp `==` để highlight các từ quan trọng)>
-> - `Noun + of + Noun`: <e.g., organisation of + event (dùng cặp `==` để highlight các từ quan trọng)>
-> - `Adj + Noun`: <e.g., local + businesses (dùng cặp `==` để highlight các từ quan trọng)>
+> - `Verb + Noun`: ==gather== + ==information==, ==collect== + ==data==, ==access== + ==facts==, ==find== + ==details==, ==source== + ==materials==
+> - `Noun + of + Noun`: ==availability of + data==, ==access to + information==, ==source of + facts==
+> - `Adj + Noun`: ==readily available== + ==facts==, ==easily accessible== + ==information==, ==straightforward== + ==research==
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
-> - "The job involves..."
-> - "We need to..."
-> - "My responsibility is..."
+> - "The information is readily available..."
+> - "We won't have any trouble finding the facts..."
+> - "Data on this topic is quite accessible..."
+> - "There are plenty of sources we can consult..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
-> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
+> **Trap 1:** ==No useful research has been done on this==
+> - *Why it's tricky:* Both mention ==research/facts== but with ==opposite evaluation== of availability.
+> - *Actual meaning:* This says ==information doesn't exist== or ==hasn't been conducted==, while the option states ==facts exist and are easy to find==.
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
-> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
+> **Trap 2:** ==The facts about this may not be reliable==
+> - *Why it's tricky:* Focuses on ==facts== but questions their ==quality== rather than ==accessibility==.
+> - *Actual meaning:* This is about ==accuracy/trustworthiness==, not about ==how easy it is to find== them.
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
-> → **Match:** =={{OPTION_TEXT}}==
+> "For this topic, you're in luck. We have an extensive archive at the local library and several online databases with comprehensive records. You won't need to look far to find what you need."
+> → **Match:** ==It will be easy to find facts about this==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
-> → **Match:** =={{OPTION_TEXT}}==
+> "There's actually a wealth of information available on this subject. The council published detailed reports last year, and various studies have been conducted. Everything you need should be quite straightforward to locate."
+> → **Match:** ==It will be easy to find facts about this==
 
 ---
-
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
 
 ## 🧠 Spaced Repetition Flashcards (11 Cards)
 
 ### Tier 1: Daily Quick Review (3 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
-> **Context:** *{{CONTEXT}}*
+> **Option:** ==It will be easy to find facts about this==
+> **Context:** *Volunteering at community center*
 >
 > ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
 ?
 > [!success] 💡 Possible Scripts
-> 1. **Action (Hành động):** <ví dụ: Hiring ==a live band== (dùng cặp `==` để highlight các từ quan trọng)>
+> 1. **Action (Hành động):** ==Searching through== ==our archives== will be ==straightforward==
 >
-> 2. **Object/Person (Đối tượng):** <ví dụ: Booking ==the magician== (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Object/Person (Đối tượng):** ==Information== is ==readily available== in our ==databases==
 >
-> 3. **Abstract (Trừu tượng):** <ví dụ: Organising ==fun activities== (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Abstract (Trừu tượng):** ==Accessing data== about this will be ==simple and uncomplicated==
 >
-> **🔑 Core Concept:** <Tóm tắt logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
+> **🔑 Core Concept:** ==Accessibility of information== expressed through ==ease/availability== terminology
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==It will be easy to find facts about this==
 >
 > ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
 > [!note] 🗝️ Collocations
-> - **Verbs:** <ví dụ: ==perform==, ==play==, ==dance== (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Verbs:** ==gather==, ==collect==, ==access==, ==source==, ==locate==, ==retrieve==, ==obtain==
 >
-> - **Nouns:** <ví dụ: ==music==, ==concert==, ==comedy== (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Nouns:** ==information==, ==data==, ==details==, ==statistics==, ==records==, ==materials==, ==evidence==
 >
-> **💡 Pattern Note:** <Ghi chú về pattern (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Pattern Note:** Collocations focus on ==retrieving information== rather than the ==ease== aspect itself
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 3: Signpost Detection
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==It will be easy to find facts about this==
 >
 > ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
 ?
 > [!tip] 🚦 Signposts
-> - **Before:** <ví dụ: "So," "As for," "Regarding..." (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Before:** "Fortunately," "The good news is," "As for sources...", "Regarding information..."
 >
-> - **After:** <ví dụ: "which involves," "that means..." (dùng cặp `==` để highlight các từ quan trọng)>
+> - **After:** "...so you won't have trouble," "...which should make things simple," "...therefore it's accessible"
 >
-> **🎧 Audio Cue:** <Cụm từ nghe được (dùng cặp `==` để highlight các từ quan trọng)>
+> **🎧 Audio Cue:** ==Readily available==, ==straightforward to find==, ==easy to access==
 
 ---
 
 ### Tier 2: Weekly Intensive (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-reverse
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "I wouldn't worry about the research aspect for this project. The local historical society has extensive documentation, and we've got digital records from several government sources. You'll be able to locate everything without much difficulty."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==It will be easy to find facts about this==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="locate everything without much difficulty"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: ==easy to find==
 >
-> **🧠 Logic Chain:** <Cách suy luận từ audio đến option (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧠 Logic Chain:** =="without much difficulty"== → paraphrase → ==easy==; combined with ==extensive documentation== and ==digital records== suggests ==facts are available==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-trap
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 5: Trap Identification
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==It will be easy to find facts about this==
 >
 > ❓ **Question:** Những ==dấu hiệu phủ định== (negation signals) nào cho thấy đáp án này đã bị ==LOẠI==?
 ?
 > [!fail] 🛑 Negation Signals
-> - *"We thought about doing X, but..."* ==Dự định nhưng không làm==
+> - *"We tried to find information, but..."* ==Không tìm được==
 >
-> - *"X used to be popular, however..."* ==Quá khứ==
+> - *"The records are incomplete..."* ==Thiếu thông tin==
 >
-> - *"Instead of X, we decided to..."* ==Thay thế==
+> - *"It's surprisingly difficult to..."* ==Ngược lại với easy==
 >
-> - *"We've run out of time for X..."* ==Không làm được==
+> - *"We had to spend weeks searching..."* ==Không easy==
 >
-> **⚠️ Other Traps:** <Too expensive, not available... (dùng cặp `==` để highlight các từ quan trọng)>
+> **⚠️ Other Traps:** =="No data available"==, =="Scarcely documented"==, =="Poor record-keeping"==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-differentiate
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 6: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="It will be easy to find facts about this"== với =="No useful research has been done on this"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào <Focus Area 1 (dùng cặp `==` để highlight các từ quan trọng)>.
+> - **It will be easy to find facts about this:** Tập trung vào ==accessibility/availability== - thông tin ==có sẵn và dễ tiếp cận==.
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào <Focus Area 2 (dùng cặp `==` để highlight các từ quan trọng)>.
+> - **No useful research has been done on this:** Tập trung vào ==existence/completeness== - nghiên cứu ==chưa được thực hiện== hoặc ==không hữu ích==.
 >
-> **🧱 Key Barrier:** <Rào cản chính phân biệt 2 ý (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧱 Key Barrier:** Distinguish between ==accessibility vs. existence== - easy access ≠ existence
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-cloze
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
-> *<Audio transcript với ==key phrase== ẩn>*
+> *For this assignment, the ====should be quite straightforward. We have ==databases== with comprehensive ==records== that you can ==access== easily.*
 >
-> 🇻🇳 **Vietnamese:** <Vietnamese Translation>
+> 🇻🇳 **Vietnamese:** Đối với bài tập này, việc tìm kiếm thông tin sẽ khá đơn giản. Chúng tôi có cơ sở dữ liệu với hồ sơ toàn diện mà bạn có thể truy cập dễ dàng.
 >
 > ❓ **Question:** ==Điền vào chỗ trống==?
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> [!success] ✅ Answer: ==research==
+> **🔗 Connects to:** ==It will be easy to find facts about this==
 >
-> **💡 Why:** <Giải thích logic (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Why:** =="Research"== combined with =="straightforward"== and =="access easily"== indicates ==easy to find facts==
 
 ---
 
 ### Tier 3: Bi-weekly Mastery (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-chain
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 8: Paraphrase Chain
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==It will be easy to find facts about this==
 >
 > ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
 ?
 > [!info] 🔗 Paraphrase Chain
-> 1. **Direct:** <Cùng nghĩa, từ khác (dùng cặp `==` để highlight các từ quan trọng)>
+> 1. **Direct:** ==Information will be readily available==, ==Facts will be simple to locate==
 >
-> 2. **Related:** <Ý nghĩa liên quan (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Related:** ==Data is easily accessible==, ==Sources are straightforward to find==, ==Research materials are convenient to access==
 >
-> 3. **Contextual:** <Theo ngữ cảnh cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Contextual:** ==The archives have comprehensive documentation==, ==There's plenty of documented information==, ==Well-documented sources exist==
 >
-> 4. **Implicit:** <Ý nghĩa ẩn dụ (dùng cặp `==` để highlight các từ quan trọng)>
+> 4. **Implicit:** ==You won't struggle with research==, ==No obstacles in gathering information==, ==Straightforward information gathering==
 >
-> **💡 Core Thread:** <Chủ đề xuyên suốt (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Core Thread:** ==Easy access/availability of factual information==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-full-trap
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "I initially thought it might be challenging to research this topic, especially given the time constraints we're working with. However, after checking our resources, I found that the historical society has comprehensive records, and we have several online databases available. So actually, gathering the information shouldn't be problematic at all. What could be difficult is synthesizing all the data into a coherent report, given the volume of material available."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==challenging to research==
 >
-> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Sounds like:* Contradicts ==easy to find==
 >
-> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* This is what the speaker ==initially thought== (past), then corrects with ==shouldn't be problematic==
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==difficult is synthesizing==
 >
-> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Sounds like:* Similar to ==difficult==
 >
-> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* This refers to ==organizing the data== after finding it, not ==finding facts== itself
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* <Giải thích (dùng cặp `==` để highlight các từ quan trọng)>
+> **✅ Correct Answer:** ==It will be easy to find facts about this==
+> - *Why correct:* Speaker confirms ==shouldn't be problematic== and mentions ==comprehensive records== and ==online databases available==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-script-match
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 10: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** =="It will be easy to find facts about this"==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "Regarding the volunteer handbook project, I've looked into the information sources. The good news is that we have excellent documentation available. The previous volunteer coordinator left detailed records, and the local council has published comprehensive guidelines. There's also a well-organized digital archive. So you'll have no trouble locating the facts and figures you need for the handbook."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==no trouble locating== → ==easy to find==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==excellent documentation available== → ==facts exist/accessible==
 >
-> **🧠 Overall Logic:** <Tổng hợp logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
+> - ==well-organized digital archive== → ==accessible information sources==
+>
+> **🧠 Overall Logic:** Audio emphasizes ==availability/organization of sources== which supports the ==ease of finding facts== concept
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-speed
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==It will be easy to find facts about this==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community center*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==<Paraphrase 1>==
+> 1. ==Information is readily available==
 >
-> 2. ==<Paraphrase 2>==
->
-> **🎯 Goal:** Instant Recall
+> 2. ==Data is straightforward to access==
 
----
+> **🎯 Goal:** Instant Recall

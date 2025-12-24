@@ -1,337 +1,276 @@
 ---
 tags:
   - reflex-training
-aliases: [] # common variations, shortened forms of the pattern or paraphrases
-status: pending
+aliases: [joining community groups, participating in neighbourhood organisations, engaging with local clubs, working with community groups]
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] Option Profile
-> **Option Letter:** =={{OPTION_LETTER}}==
-> **Option Text:** =={{OPTION_TEXT}}==
-> **Context:** *{{CONTEXT}}*
-> **Source Test:** {{SOURCE_TEST}}
+> **Option Letter:** ==D==
+> **Option Text:** ==getting involved with community groups==
+> **Context:** *Volunteering at community center*
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🎯 Target Analysis
-> **Type of Info:** <Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ...>
-> **Topic Category:** <Volunteering / Academic / Facility / Direction / ...>
+> **Type of Info:** Hành động
+> **Topic Category:** Volunteering
 >
 > **🧠 5D Framework:**
-> - **Definition:** <Định nghĩa cốt lõi (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Denotation:** <Ý nghĩa đen (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Deep Dive:** <Paraphrasing sâu hơn (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Definition:** Tham gia, dấn thân vào các ==nhóm cộng đồng== để đóng góp và hỗ trợ hoạt động của họ
+> - **Denotation:** Nghĩa đen là việc ==tham gia các buổi họp==, ==gia nhập các tổ chức==, ==làm việc cùng nhóm== để ==đóng góp ý kiến, thời gian, kỹ năng==
+> - **Distractor:** ==working for the community== (làm việc vì cộng đồng - quá rộng), ==helping groups== (giúp đỡ nhóm - nhưng có thể từ bên ngoài)
+> - **Deep Dive:** ==joining community organisations==, ==participating in neighbourhood groups==, ==engaging with local clubs==, ==working alongside community associations==
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
-> - **Visual:** <Hình ảnh mental (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Auditory:** <Âm thanh đặc trưng (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Action:** <Hành động cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Visual:** ==Ngồi trong cuộc họp== với nhiều người, ==giơ tay phát biểu==, ==cùng làm việc nhóm==, ==đi đến các hoạt động cộng đồng==
+> - **Auditory:** "I'd like to join...", "How can I get involved?", "We're looking for members...", tiếng ==thảo luận nhóm==, tiếng ==vỗ tay==
+> - **Action:** ==Đăng ký tham gia==, ==tham gia họp==, ==đóng góp ý kiến==, ==làm việc chung==, ==hỗ trợ sự kiện==
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: <e.g., arrange + meeting (dùng cặp `==` để highlight các từ quan trọng)>
-> - `Noun + of + Noun`: <e.g., organisation of + event (dùng cặp `==` để highlight các từ quan trọng)>
-> - `Adj + Noun`: <e.g., local + businesses (dùng cặp `==` để highlight các từ quan trọng)>
+> - `Verb + Noun`: ==get involved with==, ==join==, ==participate in==, ==engage with==, ==work with==
+> - `Noun + of + Noun`: ==member of group==, ==part of organisation==
+> - `Adj + Noun`: ==community groups==, ==local clubs==, ==neighbourhood organisations==, ==area associations==
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
-> - "The job involves..."
-> - "We need to..."
-> - "My responsibility is..."
+> - "I'm getting involved with community groups in the area"
+> - "My job involves joining local organisations and working with them"
+> - "I participate in various community group activities"
+> - "I work closely with different community groups"
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
-> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
+> **Trap 1:** ==helping the community==
+> - *Why it's tricky:* Nghe ==gần giống== vì tham gia community group cũng là giúp community
+> - *Actual meaning:* Quá ==rộng/generic== - nhiều cách giúp community không cần ==tham gia groups cụ thể==
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
-> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
+> **Trap 2:** ==working for the center==
+> - *Why it's tricky:* Cũng là làm việc ==cho một tổ chức==
+> - *Actual meaning:* "For the center" là làm việc ==cho chính center==, không phải ==tham gia các community groups bên ngoài==
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
-> → **Match:** =={{OPTION_TEXT}}==
+> "My volunteer work takes me beyond just being at the community center. I actively get involved with various community groups in the neighbourhood. I attend their regular meetings, participate in their events, and offer my support however I can. For example, I've joined a local environmental group where I help organize clean-up drives, and I'm also part of a seniors' club where I assist with their weekly activities. It's rewarding to build connections across different parts of our community."
+> → **Match:** ==getting involved with community groups==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
-> → **Match:** =={{OPTION_TEXT}}==
+> "I serve as a bridge between our center and other community organisations. Rather than staying within our walls, I reach out and get involved with different local groups. I've become a member of a youth sports club, a neighborhood watch association, and a cultural society. I attend their meetings, understand their needs, and find ways our center can support them while also contributing directly to their initiatives. Being involved gives me better insight into what our community really needs."
+> → **Match:** ==getting involved with community groups==
 
 ---
-
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
 
 ## 🧠 Spaced Repetition Flashcards (11 Cards)
 
 ### Tier 1: Daily Quick Review (3 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/volunteering/matching-reflex
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
-> **Context:** *{{CONTEXT}}*
+> **Option:** ==getting involved with community groups==
+> **Context:** *Volunteering at community center*
 >
 > ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
 ?
 > [!success] 💡 Possible Scripts
-> 1. **Action (Hành động):** <ví dụ: Hiring ==a live band== (dùng cặp `==` để highlight các từ quan trọng)>
+> 1. **Action (Hành động):** ==Joining local organisations== and attending their meetings
 >
-> 2. **Object/Person (Đối tượng):** <ví dụ: Booking ==the magician== (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Object/Person (Đối tượng):** ==Participating in neighbourhood groups== and their events
 >
-> 3. **Abstract (Trừu tượng):** <ví dụ: Organising ==fun activities== (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Abstract (Trừu tượng):** ==Engaging with community associations== to support their work
 >
-> **🔑 Core Concept:** <Tóm tắt logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
+> **🔑 Core Concept:** Nghe từ khóa ==get involved, join, participate, engage, member of, attend meetings== + ==community groups, local organisations, neighbourhood groups, clubs==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/volunteering/matching-reflex
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==getting involved with community groups==
 >
 > ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
 > [!note] 🗝️ Collocations
-> - **Verbs:** <ví dụ: ==perform==, ==play==, ==dance== (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Verbs:** ==join==, ==participate in==, ==engage with==, ==work alongside==, ==become part of==
 >
-> - **Nouns:** <ví dụ: ==music==, ==concert==, ==comedy== (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Nouns:** ==local organisations==, ==neighbourhood associations==, ==area clubs==, ==community networks==
 >
-> **💡 Pattern Note:** <Ghi chú về pattern (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Pattern Note:** ==get involved with / engage with / participate in== đều paraphrase cho việc ==tham gia== một nhóm/tổ chức
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/volunteering/matching-reflex
 ### Card 3: Signpost Detection
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==getting involved with community groups==
 >
 > ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
 ?
 > [!tip] 🚦 Signposts
-> - **Before:** <ví dụ: "So," "As for," "Regarding..." (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Before:** "As for my work with groups...", "Regarding local organisations...", "When it comes to community engagement..."
 >
-> - **After:** <ví dụ: "which involves," "that means..." (dùng cặp `==` để highlight các từ quan trọng)>
+> - **After:** "...which involves joining...", "...that means participating in...", "...so I engage with..."
 >
-> **🎧 Audio Cue:** <Cụm từ nghe được (dùng cặp `==` để highlight các từ quan trọng)>
+> **🎧 Audio Cue:** Listen for ==different / various / multiple== + ==groups / organisations / clubs== followed by ==join / member of / attend meetings / participate==
 
 ---
 
 ### Tier 2: Weekly Intensive (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-reverse
+#flashcards/ielts-listening/social-leisure/volunteering/matching-reflex
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "I don't just stay at the center all day. I actively participate in various local organisations. I'm a member of a sports club where I help with their events, and I also attend regular meetings of a neighborhood association. Additionally, I've joined a cultural group that organizes festivals. By being involved with these different groups, I better understand our community's diverse needs and can represent them effectively."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==getting involved with community groups==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="participate in various local organisations", "I'm a member of a sports club", "attend regular meetings", "joined a cultural group", "being involved with these different groups"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: ==getting involved with community groups==
 >
-> **🧠 Logic Chain:** <Cách suy luận từ audio đến option (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧠 Logic Chain:** Từ ==participate in / member of / attend meetings / joined / being involved with== + ==local organisations / sports club / neighborhood association / cultural group== → paraphrase thành ==getting involved with== + ==community groups==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-trap
+#flashcards/ielts-listening/social-leisure/volunteering/matching-reflex
 ### Card 5: Trap Identification
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==getting involved with community groups==
 >
 > ❓ **Question:** Những ==dấu hiệu phủ định== (negation signals) nào cho thấy đáp án này đã bị ==LOẠI==?
 ?
 > [!fail] 🛑 Negation Signals
-> - *"We thought about doing X, but..."* ==Dự định nhưng không làm==
+> - *"I used to get involved with groups, but now..."* ==Quá khứ - hiện tại không làm nữa==
 >
-> - *"X used to be popular, however..."* ==Quá khứ==
+> - *"I considered joining community groups, however..."* ==Dự định nhưng không thực hiện==
 >
-> - *"Instead of X, we decided to..."* ==Thay thế==
+> - *"Instead of getting involved, I focus on..."* ==Thay thế bằng việc khác==
 >
-> - *"We've run out of time for X..."* ==Không làm được==
+> - *"The groups don't allow outside participation..."* ==Không thể tham gia==
 >
-> **⚠️ Other Traps:** <Too expensive, not available... (dùng cặp `==` để highlight các từ quan trọng)>
+> **⚠️ Other Traps:** ==Groups don't meet anymore==, ==No time to join activities==, ==Groups operate independently==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-differentiate
+#flashcards/ielts-listening/social-leisure/volunteering/matching-reflex
 ### Card 6: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="getting involved with community groups"== với =="helping the community"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào <Focus Area 1 (dùng cặp `==` để highlight các từ quan trọng)>.
+> - **getting involved with community groups:** Tập trung vào ==tham gia các nhóm/tổ chức cụ thể==, gia nhập, làm việc cùng họ.
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào <Focus Area 2 (dùng cặp `==` để highlight các từ quan trọng)>.
+> - **helping the community:** Tập trung vào ==hành động giúp đỡ cộng đồng nói chung==, không cần tham gia vào groups cụ thể.
 >
-> **🧱 Key Barrier:** <Rào cản chính phân biệt 2 ý (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧱 Key Barrier:** Nghe từ ==community== trong cả hai, nhưng cần phân biệt ==với các groups cụ thể (cụ thể)== vs ==cho cộng đồng chung (chung)==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-cloze
+#flashcards/ielts-listening/social-leisure/volunteering/matching-reflex
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
-> *<Audio transcript với ==key phrase== ẩn>*
+> *My role involves **[GAP]** with community groups. I've become a member of several local [GAP], including a sports club and a neighbourhood association. I attend their meetings regularly and participate in their activities. This hands-on involvement helps me understand what different segments of our community really need.*
 >
-> 🇻🇳 **Vietnamese:** <Vietnamese Translation>
+> 🇻🇳 **Vietnamese:** Vai trò của tôi liên quan đến việc tham gia các nhóm cộng đồng. Tôi đã trở thành thành viên của một số tổ chức địa phương, bao gồm một câu lạc bộ thể thao và một hiệp hội dân cư. Tôi tham dự các cuộc họp của họ thường xuyên và tham gia các hoạt động của họ. Sự tham gia thực tế này giúp tôi hiểu rõ những phân khúc khác nhau của cộng đồng chúng tôi thực sự cần gì.
 >
 > ❓ **Question:** ==Điền vào chỗ trống==?
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> [!success] ✅ Answer: ==getting involved; organisations==
+> **🔗 Connects to:** ==getting involved with community groups==
 >
-> **💡 Why:** <Giải thích logic (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Why:** ==getting involved== chính xác từ trong option, ==organisations== paraphrase ==groups==
 
 ---
 
 ### Tier 3: Bi-weekly Mastery (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-chain
+#flashcards/ielts-listening/social-leisure/volunteering/matching-reflex
 ### Card 8: Paraphrase Chain
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==getting involved with community groups==
 >
 > ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
 ?
 > [!info] 🔗 Paraphrase Chain
-> 1. **Direct:** <Cùng nghĩa, từ khác (dùng cặp `==` để highlight các từ quan trọng)>
+> 1. **Direct:** ==joining community organisations==
 >
-> 2. **Related:** <Ý nghĩa liên quan (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Related:** ==participating in neighbourhood groups==, ==engaging with local clubs==
 >
-> 3. **Contextual:** <Theo ngữ cảnh cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Contextual:** ==becoming a member of community associations==, ==working alongside community groups==
 >
-> 4. **Implicit:** <Ý nghĩa ẩn dụ (dùng cặp `==` để highlight các từ quan trọng)>
+> 4. **Implicit:** ==being an active participant in local organisations==, ==integrating into community networks==
 >
-> **💡 Core Thread:** <Chủ đề xuyên suốt (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Core Thread:** Chủ đề xuyên suốt: ==tham gia/gia nhập/làm việc cùng== + ==các nhóm cộng đồng/tổ chức==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-full-trap
+#flashcards/ielts-listening/social-leisure/volunteering/matching-reflex
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "There are different ways to contribute as a volunteer. Some people focus on managing the center's internal operations, keeping everything running smoothly. Others provide services directly to individual residents who come to us. My approach is different - I extend our reach beyond these walls. I actively get involved with various community groups in our area. I've joined a youth sports organisation, I'm part of a neighborhood watch group, and I participate in a cultural association. I attend their meetings, contribute to their initiatives, and build relationships with their members. This direct involvement helps me understand community needs from the inside."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="managing internal operations"==
 >
-> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Sounds like:* Cũng là làm việc ==cho/ở== một tổ chức
 >
-> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* Làm việc ==bên trong center==, không phải ==tham gia các community groups bên ngoài==
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="providing services to individual residents"==
 >
-> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Sounds like:* Cũng là giúp đỡ ==community/cư dân==
 >
-> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* Phục vụ ==cá nhân== cụ thể, không phải ==tham gia/vào các groups/organisations==
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* <Giải thích (dùng cặp `==` để highlight các từ quan trọng)>
+> **✅ Correct Answer:** ==getting involved with community groups==
+> - *Why correct:* Nghe ==get involved with various community groups== + ==joined / part of / participate in== + ==sports organisation / neighborhood watch group / cultural association==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-script-match
+#flashcards/ielts-listening/social-leisure/volunteering/matching-reflex
 ### Card 10: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** =="getting involved with community groups"==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "My volunteer philosophy is that you can't help a community from the outside - you need to be part of it. That's why I actively engage with different community groups. I'm not just an observer; I've become a member of several local organisations. There's a seniors' club where I volunteer weekly, a parents' association where I help organize events, and an environmental group I support on weekends. I attend their regular meetings, participate in their decision-making processes, and contribute my skills to their projects. This deep involvement allows me to build trust and understand what truly matters to different segments of our community. It's not just about helping; it's about being part of the community's fabric."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==actively engage with different community groups== → ==getting involved with community groups==
+> - ==become a member of several local organisations== → ==getting involved with==
+> - ==volunteer weekly / help organize events / support on weekends== → ==forms of involvement==
+> - ==attend regular meetings / participate in decision-making / contribute my skills== → ==methods of getting involved==
+> - ==seniors' club / parents' association / environmental group== → ==community groups==
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** <Tổng hợp logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧠 Overall Logic:** Audio mô tả việc ==tham gia/thành viên/làm việc cùng== các ==groups/organisations/club/association== cụ thể trong community → match với option "getting involved with community groups"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-speed
+#flashcards/ielts-listening/social-leisure/volunteering/matching-reflex
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
->
-> **Context:** *{{CONTEXT}}*
+> **Option:** ==getting involved with community groups==
+> **Context:** *Volunteering at community center*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==<Paraphrase 1>==
->
-> 2. ==<Paraphrase 2>==
+> 1. ==joining community organisations==
+> 2. ==participating in neighbourhood groups==
 >
 > **🎯 Goal:** Instant Recall
-
----

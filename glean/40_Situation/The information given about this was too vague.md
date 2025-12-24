@@ -1,337 +1,280 @@
 ---
 tags:
   - reflex-training
-aliases: [] # common variations, shortened forms of the pattern or paraphrases
-status: pending
+aliases: [The information was unclear, Details were insufficient, Explanation was not specific enough]
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] Option Profile
-> **Option Letter:** =={{OPTION_LETTER}}==
-> **Option Text:** =={{OPTION_TEXT}}==
-> **Context:** *{{CONTEXT}}*
-> **Source Test:** {{SOURCE_TEST}}
+> **Option Letter:** ==D==
+> **Option Text:** ==The information given about this was too vague==
+> **Context:** *Volunteering at community center*
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🎯 Target Analysis
-> **Type of Info:** <Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ...>
-> **Topic Category:** <Volunteering / Academic / Facility / Direction / ...>
+> **Type of Info:** Research Quality / Information Status
+> **Topic Category:** Academic / Research
 >
 > **🧠 5D Framework:**
-> - **Definition:** <Định nghĩa cốt lõi (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Denotation:** <Ý nghĩa đen (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Deep Dive:** <Paraphrasing sâu hơn (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Definition:** The ==details or specifics of information provided== were ==insufficiently clear or distinct==, lacking ==necessary clarity or precision==.
+> - **Denotation:** ==Too vague== means ==not specific enough==, ==lacking detail==, or ==unclear in meaning==; ==information given about this== refers to ==what was provided/conveyed== on the topic.
+> - **Distractor:** Could be confused with ==information was incorrect==, ==information was complicated==, ==information was incomplete==, or ==information was unreliable==.
+> - **Deep Dive:** ==Lack of specific details==, ==insufficient clarity in information==, ==ambiguous explanation provided==, ==insufficiently precise information==.
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
-> - **Visual:** <Hình ảnh mental (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Auditory:** <Âm thanh đặc trưng (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Action:** <Hành động cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Visual:** ==Blurred text on a document==, ==generalized statements without specifics==, ==question marks in margins==, ==highlighted unclear sections==.
+> - **Auditory:** ==Expressing confusion about meaning==, ==saying "I'm not sure what you mean"==, ==asking for clarification==, ==expressing lack of clarity==.
+> - **Action:** ==Requesting more details==, ==seeking clarification==, ==expressing confusion==, ==asking for specifics==.
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: <e.g., arrange + meeting (dùng cặp `==` để highlight các từ quan trọng)>
-> - `Noun + of + Noun`: <e.g., organisation of + event (dùng cặp `==` để highlight các từ quan trọng)>
-> - `Adj + Noun`: <e.g., local + businesses (dùng cặp `==` để highlight các từ quan trọng)>
+> - `Verb + Noun`: ==clarify== + ==information==, ==provide== + ==details==, ==specify== + ==points==, ==explain== + ==clearly==
+> - `Noun + of + Noun`: ==lack of + detail==, ==absence of + clarity==, ==insufficiency of + information==
+> - `Adj + Noun`: ==vague== + ==information==, ==ambiguous== + ==explanation==, ==general== + ==details==, ==imprecise== + ==information==
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
-> - "The job involves..."
-> - "We need to..."
-> - "My responsibility is..."
+> - "The details were rather unclear..."
+> - "The explanation lacked specificity..."
+> - "They didn't give us enough detail..."
+> - "The information was quite general..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
-> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
+> **Trap 1:** ==The facts about this may not be reliable==
+> - *Why it's tricky:* Both mention ==problems with information== but different nature.
+> - *Actual meaning:* This is about ==accuracy/trustworthiness==, while option is about ==clarity/specificity== of the information.
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
-> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
+> **Trap 2:** ==No useful research has been done on this==
+> - *Why it's tricky:* Expresses ==insufficient information== but for different reason.
+> - *Actual meaning:* This says research ==doesn't exist==, while option says information ==exists but lacks detail==.
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
-> → **Match:** =={{OPTION_TEXT}}==
+> "I read through the briefing materials, but I have to say they didn't give us much to work with. Everything was very generalized without any specific examples or concrete details. It was difficult to understand exactly what we're supposed to be doing."
+> → **Match:** ==The information given about this was too vague==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
-> → **Match:** =={{OPTION_TEXT}}==
+> "The presentation covered the topic broadly, but unfortunately, it lacked the specific information we need. The speaker gave us an overview but didn't go into any detail about procedures or requirements. We're still not sure about the exact nature of the project."
+> → **Match:** ==The information given about this was too vague==
 
 ---
-
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
 
 ## 🧠 Spaced Repetition Flashcards (11 Cards)
 
 ### Tier 1: Daily Quick Review (3 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
-> **Context:** *{{CONTEXT}}*
+> **Option:** ==The information given about this was too vague==
+> **Context:** *Volunteering at community center*
 >
 > ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
 ?
 > [!success] 💡 Possible Scripts
-> 1. **Action (Hành động):** <ví dụ: Hiring ==a live band== (dùng cặp `==` để highlight các từ quan trọng)>
+> 1. **Action (Hành động):** They didn't ==provide enough specific details==
 >
-> 2. **Object/Person (Đối tượng):** <ví dụ: Booking ==the magician== (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Object/Person (Đối tượng):** The ==explanation was too general==
 >
-> 3. **Abstract (Trừu tượng):** <ví dụ: Organising ==fun activities== (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Abstract (Trừu tượng):** There was a ==lack of clarity== in what we were told
 >
-> **🔑 Core Concept:** <Tóm tắt logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
+> **🔑 Core Concept:** ==Lack of specific detail/clarity== expressed through ==general/vague/insufficient==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==The information given about this was too vague==
 >
 > ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
 > [!note] 🗝️ Collocations
-> - **Verbs:** <ví dụ: ==perform==, ==play==, ==dance== (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Verbs:** ==clarify==, ==specify==, ==elaborate==, ==detail==, ==explain==, ==illustrate==, ==exemplify==
 >
-> - **Nouns:** <ví dụ: ==music==, ==concert==, ==comedy== (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Nouns:** ==details==, ==specifics==, ==particulars==, ==specifications==, ==clarifications==, ==examples==
 >
-> **💡 Pattern Note:** <Ghi chú về pattern (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Pattern Note:** Focuses on ==need for more specific/detailed information==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 3: Signpost Detection
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==The information given about this was too vague==
 >
 > ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
 ?
 > [!tip] 🚦 Signposts
-> - **Before:** <ví dụ: "So," "As for," "Regarding..." (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Before:** "The problem is," "Unfortunately," "I should mention," "The issue was..."
 >
-> - **After:** <ví dụ: "which involves," "that means..." (dùng cặp `==` để highlight các từ quan trọng)>
+> - **After:** "...we need more details", "...it wasn't clear enough", "...they should have been more specific"
 >
-> **🎧 Audio Cue:** <Cụm từ nghe được (dùng cặp `==` để highlight các từ quan trọng)>
+> **🎧 Audio Cue:** ==lacked detail==, ==too general==, ==needed clarification==
 
 ---
 
 ### Tier 2: Weekly Intensive (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-reverse
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "After reviewing the orientation materials, I have to express some concerns. While the documents covered the general concept of community volunteering, they didn't provide the specific guidance we need. There are no detailed instructions about procedures, no examples of what's expected, and the guidelines are quite broad. It's difficult to understand exactly what our responsibilities are."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==The information given about this was too vague==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="didn't provide the specific guidance we need"== and =="guidelines are quite broad"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: ==too vague==
 >
-> **🧠 Logic Chain:** <Cách suy luận từ audio đến option (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧠 Logic Chain:** =="no detailed instructions"== + =="no examples"== + =="broad guidelines"== = lack of specifics = ==vague information==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-trap
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 5: Trap Identification
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==The information given about this was too vague==
 >
 > ❓ **Question:** Những ==dấu hiệu phủ định== (negation signals) nào cho thấy đáp án này đã bị ==LOẠI==?
 ?
 > [!fail] 🛑 Negation Signals
-> - *"We thought about doing X, but..."* ==Dự định nhưng không làm==
+> - *"The details were very specific..."* ==Ngược lại với vague==
 >
-> - *"X used to be popular, however..."* ==Quá khứ==
+> - *"They provided clear instructions..."* ==Có clarity==
 >
-> - *"Instead of X, we decided to..."* ==Thay thế==
+> - *"The information was comprehensive..."* ==Không insufficient==
 >
-> - *"We've run out of time for X..."* ==Không làm được==
+> - *"Everything was explained in detail..."* ==Không lacking specifics==
 >
-> **⚠️ Other Traps:** <Too expensive, not available... (dùng cặp `==` để highlight các từ quan trọng)>
+> **⚠️ Other Traps:** =="Detailed information provided"==, =="Clear guidelines given"==, =="Specific examples included"==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-differentiate
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 6: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="The information given about this was too vague"== với =="The facts about this may not be reliable"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào <Focus Area 1 (dùng cặp `==` để highlight các từ quan trọng)>.
+> - **The information given about this was too vague:** Tập trung vào ==clarity/detail== - thông tin ==không rõ ràng hoặc thiếu chi tiết cụ thể==.
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào <Focus Area 2 (dùng cặp `==` để highlight các từ quan trọng)>.
+> - **The facts about this may not be reliable:** Tập trung vào ==accuracy/truthfulness== - thông tin có thể ==sai hoặc không đáng tin==.
 >
-> **🧱 Key Barrier:** <Rào cản chính phân biệt 2 ý (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧱 Key Barrier:** Distinguish between ==unclear (lacking detail) vs. unreliable (questionable accuracy)==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-cloze
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
-> *<Audio transcript với ==key phrase== ẩn>*
+> *The briefing was quite ==. They only gave us a ==overview without going into any ==about the actual procedures or what we need to do.*
 >
-> 🇻🇳 **Vietnamese:** <Vietnamese Translation>
+> 🇻🇳 **Vietnamese:** Cuộc họp thông báo khá chung chung. Họ chỉ đưa cho chúng ta một cái nhìn tổng quát mà không đi vào bất kỳ chi tiết nào về quy trình thực tế hoặc những gì chúng ta cần làm.
 >
 > ❓ **Question:** ==Điền vào chỗ trống==?
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> [!success] ✅ Answer: ==general, broad, details==
+> **🔗 Connects to:** ==The information given about this was too vague==
 >
-> **💡 Why:** <Giải thích logic (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Why:** =="general"== + =="broad"== + =="without going into details"== = ==too vague==
 
 ---
 
 ### Tier 3: Bi-weekly Mastery (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-chain
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 8: Paraphrase Chain
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==The information given about this was too vague==
 >
 > ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
 ?
 > [!info] 🔗 Paraphrase Chain
-> 1. **Direct:** <Cùng nghĩa, từ khác (dùng cặp `==` để highlight các từ quan trọng)>
+> 1. **Direct:** ==The details were unclear==, ==The explanation was too general==
 >
-> 2. **Related:** <Ý nghĩa liên quan (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Related:** ==They didn't provide enough specifics==, ==The information lacked clarity==, ==Insufficient detail was given==
 >
-> 3. **Contextual:** <Theo ngữ cảnh cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Contextual:** ==They gave us only a broad overview==, ==No specific examples were provided==, ==The guidelines were too broad==
 >
-> 4. **Implicit:** <Ý nghĩa ẩn dụ (dùng cặp `==` để highlight các từ quan trọng)>
+> 4. **Implicit:** ==We need more concrete information==, ==The description was imprecise==, ==It wasn't sufficiently detailed==
 >
-> **💡 Core Thread:** <Chủ đề xuyên suốt (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Core Thread:** ==Insufficient specificity/clarity in information==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-full-trap
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "I've reviewed the training materials they sent over. On the positive side, there's actually quite a lot of documentation - several documents covering different aspects. However, the main issue is that everything is described in very general terms. For instance, they talk about 'assisting the community' but don't specify what activities that involves. They mention 'regular volunteering' but don't explain the frequency or duration. We really need more concrete information to understand what's expected of us."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** ==quite a lot of documentation...several documents==
 >
-> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Sounds like:* Suggests ==sufficient information quantity==
 >
-> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* This is about ==quantity== of documents, not ==quality/clarity== of the information within them
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** ==assisting the community==, ==regular volunteering==
 >
-> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Sounds like:* These sound like specific details
 >
-> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* Speaker explicitly says these are ==described in very general terms== without ==specifying== what they mean
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* <Giải thích (dùng cặp `==` để highlight các từ quan trọng)>
+> **✅ Correct Answer:** ==The information given about this was too vague==
+> - *Why correct:* Speaker emphasizes =="very general terms"==, ==doesn't specify==, and expresses need for =="more concrete information"==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-script-match
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 10: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** =="The information given about this was too vague"==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "About the community center project guidelines, I need to point out that they're not as helpful as we'd hoped. The document gives us an overview of what volunteering involves, but it doesn't get into the specifics. It tells us we'll be 'supporting local initiatives' but doesn't explain what those initiatives are. It mentions 'various roles available' but doesn't describe what those roles actually entail. We're left with more questions than answers."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==doesn't get into the specifics== → ==too vague==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==doesn't explain what those initiatives are== → ==lacks detail==
 >
-> **🧠 Overall Logic:** <Tổng hợp logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
+> - ==doesn't describe what those roles actually entail== → ==insufficiently specific==
+>
+> - ==more questions than answers== → ==information unclear==
+>
+> **🧠 Overall Logic:** Audio repeatedly emphasizes ==lack of specific information== through multiple examples of ==missing details==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-speed
+#flashcards/ielts-listening/education-training/research/matching-reflex
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==The information given about this was too vague==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community center*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==<Paraphrase 1>==
+> 1. ==The details were unclear==
 >
-> 2. ==<Paraphrase 2>==
->
-> **🎯 Goal:** Instant Recall
+> 2. ==The explanation was too general==
 
----
+> **🎯 Goal:** Instant Recall

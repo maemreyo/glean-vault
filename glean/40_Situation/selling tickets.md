@@ -1,337 +1,272 @@
 ---
 tags:
   - reflex-training
-aliases: [] # common variations, shortened forms of the pattern or paraphrases
-status: pending
+aliases: [selling admission passes, ticket sales, issuing tickets, handling ticketing, taking payments for entry]
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] Option Profile
-> **Option Letter:** =={{OPTION_LETTER}}==
-> **Option Text:** =={{OPTION_TEXT}}==
-> **Context:** *{{CONTEXT}}*
-> **Source Test:** {{SOURCE_TEST}}
-
+> **Option Letter:** ==A==
+> **Option Text:** ==selling tickets==
+> **Context:** *Volunteering at community center*
+> **Source Test:** Cam 20 Listening Test 02
+>
 > [!abstract] 🎯 Target Analysis
-> **Type of Info:** <Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ...>
-> **Topic Category:** <Volunteering / Academic / Facility / Direction / ...>
+> **Type of Info:** Hành động (Action)
+> **Topic Category:** Business & Customer Service
 >
 > **🧠 5D Framework:**
-> - **Definition:** <Định nghĩa cốt lõi (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Denotation:** <Ý nghĩa đen (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Deep Dive:** <Paraphrasing sâu hơn (dùng cặp `==` để highlight các từ quan trọng)>
-
+> - **Definition:** Hành động ==đưa vé cho người== khác đổi lấy tiền, thường tại sự kiện công cộng
+> - **Denotation:** Việc ==nhận tiền== và cung cấp ==giấy phép== hoặc ==biên lai== để tham gia sự kiện
+> - **Distractor:** "buying tickets", "collecting tickets", "checking tickets" - nghe giống nhưng ==sai chiều hướng==
+> - **Deep Dive:** ==handling transactions== tại cửa, ==managing the box office==, ==processing payments==
+>
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
-> - **Visual:** <Hình ảnh mental (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Auditory:** <Âm thanh đặc trưng (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Action:** <Hành động cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Visual:** Người ==tay cầm tiền== và đưa lại ==phiếu vé==, hàng người xếp hàng ==chờ mua vé==
+> - **Auditory:** Tiếng ==tiền giấy xột xoạt==, tiếng "How much is it?", tiếng máy in vé
+> - **Action:** ==Taking cash==, ==making change==, ==handing over tickets==, ==stamping admission==
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: <e.g., arrange + meeting (dùng cặp `==` để highlight các từ quan trọng)>
-> - `Noun + of + Noun`: <e.g., organisation of + event (dùng cặp `==` để highlight các từ quan trọng)>
-> - `Adj + Noun`: <e.g., local + businesses (dùng cặp `==` để highlight các từ quan trọng)>
-
-> [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
-> - "The job involves..."
-> - "We need to..."
-> - "My responsibility is..."
-
-> [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
-> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
+> - `Verb + Noun`: ==sell tickets==, ==issue tickets==, ==collect money==, ==process payments==
+> - `Noun + of + Noun`: ==sale of tickets==, ==purchase of admission==
+> - `Adj + Noun`: ==ticket sales==, ==box office==, ==entrance fee==, ==admission charge==
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
-> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
-
+> [!example] 🎙️ Real Audio Phrases
+> - "I'll be ==in charge of ticket sales== at the entrance"
+> - "My job involves ==selling tickets to visitors== for the event"
+> - "We need someone to ==handle the box office== and issue tickets"
+> - "I'm responsible for ==taking payments== and giving out admission passes"
+>
+> [!warning] ⚠️ Traps & Distractors
+> **Trap 1:** ==collecting tickets==
+> - *Why it's tricky:* Cùng từ "tickets", nghe giống nhưng ==ngược chiều==
+> - *Actual meaning:* Thu vé từ người đã có (kiểm soát) ==khác bán vé==
+>
+> **Trap 2:** ==checking tickets==
+> - *Why it's tricky:* Liên quan đến vé, nghe gần giống khi nói nhanh
+> - *Actual meaning:* Xác minh vé hợp lệ tại cổng ==khác bán vé==
+>
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
-> → **Match:** =={{OPTION_TEXT}}==
+> "Well, I could help out at the front desk. You know, handling the money and giving people their passes for the concert. We need someone there from 6pm."
+> → **Match:** ==selling tickets==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
-> → **Match:** =={{OPTION_TEXT}}==
+> "I'd be happy to manage the box office. That means taking cash and card payments, and making sure everyone gets the right ticket before they go in."
+> → **Match:** ==selling tickets==
 
 ---
 
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
-
-## 🧠 Spaced Repetition Flashcards (11 Cards)
-
-### Tier 1: Daily Quick Review (3 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/business-legal/customer-service/matching-reflex
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
-> **Context:** *{{CONTEXT}}*
+> **Option:** ==selling tickets==
+> **Context:** *Volunteering at community center*
 >
 > ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
 ?
 > [!success] 💡 Possible Scripts
-> 1. **Action (Hành động):** <ví dụ: Hiring ==a live band== (dùng cặp `==` để highlight các từ quan trọng)>
+> 1. **Action (Hành động):** ==Handling the box office== for the upcoming concert
 >
-> 2. **Object/Person (Đối tượng):** <ví dụ: Booking ==the magician== (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Object/Person (Đối tượng):** ==Taking payments== from visitors at the entrance
 >
-> 3. **Abstract (Trừu tượng):** <ví dụ: Organising ==fun activities== (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Abstract (Trừu tượng):** ==Managing admission sales== for the fundraising event
 >
-> **🔑 Core Concept:** <Tóm tắt logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
+> **🔑 Core Concept:** Nghe từ khóa về ==tiền==, ==vé==, ==giao dịch== để nhận biết
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/business-legal/customer-service/matching-reflex
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==selling tickets==
 >
 > ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
 > [!note] 🗝️ Collocations
-> - **Verbs:** <ví dụ: ==perform==, ==play==, ==dance== (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Verbs:** ==handle==, ==issue==, ==process==, ==collect==, ==take==, ==receive==
 >
-> - **Nouns:** <ví dụ: ==music==, ==concert==, ==comedy== (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Nouns:** ==admission passes==, ==box office==, ==payments==, ==fees==, ==entrance charge==
 >
-> **💡 Pattern Note:** <Ghi chú về pattern (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Pattern Note:** Collocations xoay quanh ==giao dịch tài chính== và ==quy trình nhập sự kiện==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/business-legal/customer-service/matching-reflex
 ### Card 3: Signpost Detection
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==selling tickets==
 >
 > ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
 ?
 > [!tip] 🚦 Signposts
-> - **Before:** <ví dụ: "So," "As for," "Regarding..." (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Before:** "As for," "Regarding," "I could help with," "My task would be..."
 >
-> - **After:** <ví dụ: "which involves," "that means..." (dùng cặp `==` để highlight các từ quan trọng)>
+> - **After:** "which involves," "that means," "basically," "you know..."
 >
-> **🎧 Audio Cue:** <Cụm từ nghe được (dùng cặp `==` để highlight các từ quan trọng)>
+> **🎧 Audio Cue:** Giọng nhấn nhá về ==money==, ==payments==, ==cash== sau signpost
 
 ---
 
-### Tier 2: Weekly Intensive (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-reverse
+#flashcards/ielts-listening/business-legal/customer-service/matching-reflex
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "I'm not very technical, so I'd prefer something practical. I could stand at the front and deal with visitors. You know, taking their money and giving them the passes for the show."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==selling tickets==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="taking their money== and giving them the passes"
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: ==selling tickets==
 >
-> **🧠 Logic Chain:** <Cách suy luận từ audio đến option (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧠 Logic Chain:** "Taking money" + "giving passes" = ==giao dịch vé== = selling tickets
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-trap
+#flashcards/ielts-listening/business-legal/customer-service/matching-reflex
 ### Card 5: Trap Identification
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==selling tickets==
 >
 > ❓ **Question:** Những ==dấu hiệu phủ định== (negation signals) nào cho thấy đáp án này đã bị ==LOẠI==?
 ?
 > [!fail] 🛑 Negation Signals
-> - *"We thought about doing X, but..."* ==Dự định nhưng không làm==
+> - *"I thought about the box office, but..."* ==Dự định nhưng không làm==
 >
-> - *"X used to be popular, however..."* ==Quá khứ==
+> - *"Selling tickets was my first choice, however..."* ==Quá khứ==
 >
-> - *"Instead of X, we decided to..."* ==Thay thế==
+> - *"Instead of taking money, I'll be..."* ==Thay thế==
 >
-> - *"We've run out of time for X..."* ==Không làm được==
+> - *"We've already got someone for ticket sales..."* ==Không làm được==
 >
-> **⚠️ Other Traps:** <Too expensive, not available... (dùng cặp `==` để highlight các từ quan trọng)>
+> **⚠️ Other Traps:** Too busy with other tasks, not comfortable handling money
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-differentiate
+#flashcards/ielts-listening/business-legal/customer-service/matching-reflex
 ### Card 6: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="selling tickets"== với =="collecting tickets"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào <Focus Area 1 (dùng cặp `==` để highlight các từ quan trọng)>.
+> - **selling tickets:** Tập trung vào ==nhận tiền/giao dịch== và phát vé cho người chưa có.
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào <Focus Area 2 (dùng cặp `==` để highlight các từ quan trọng)>.
+> - **collecting tickets:** Tập trung vào ==nhận vé từ người== đã có, thường để kiểm soát đầu vào.
 >
-> **🧱 Key Barrier:** <Rào cản chính phân biệt 2 ý (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧱 Key Barrier:** Nghe từ "tickets" nhưng ==xác định hướng dòng chảy== (cung cấp vs thu hồi)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-cloze
+#flashcards/ielts-listening/business-legal/customer-service/matching-reflex
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
-> *<Audio transcript với ==key phrase== ẩn>*
+> *I'll be at the main entrance. My responsibility is to ==[BLANK]== from visitors and hand out their admission passes.*
 >
-> 🇻🇳 **Vietnamese:** <Vietnamese Translation>
+> 🇻🇳 **Vietnamese:** Tôi sẽ ở cửa chính. Nhiệm vụ của tôi là thu tiền từ khách truy cập và phát phiếu vào cửa cho họ.
 >
 > ❓ **Question:** ==Điền vào chỗ trống==?
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> [!success] ✅ Answer: ==take payments== / ==collect money==
+> **🔗 Connects to:** ==selling tickets==
 >
-> **💡 Why:** <Giải thích logic (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Why:** "Take payments" hoặc "collect money" là ==hành động cốt lõi== của việc bán vé
 
 ---
 
-### Tier 3: Bi-weekly Mastery (4 Cards)
-
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-chain
+#flashcards/ielts-listening/business-legal/customer-service/matching-reflex
 ### Card 8: Paraphrase Chain
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==selling tickets==
 >
 > ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
 ?
 > [!info] 🔗 Paraphrase Chain
-> 1. **Direct:** <Cùng nghĩa, từ khác (dùng cặp `==` để highlight các từ quan trọng)>
+> 1. **Direct:** ==selling admission passes== / ==issuing tickets==
 >
-> 2. **Related:** <Ý nghĩa liên quan (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Related:** ==managing the box office== / ==handling ticket sales==
 >
-> 3. **Contextual:** <Theo ngữ cảnh cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Contextual:** ==taking money at the door== / ==processing entry fees==
 >
-> 4. **Implicit:** <Ý nghĩa ẩn dụ (dùng cặp `==` để highlight các từ quan trọng)>
+> 4. **Implicit:** ==dealing with visitors' payments== / ==being responsible for admissions==
 >
-> **💡 Core Thread:** <Chủ đề xuyên suốt (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Core Thread:** Từ ==giao dịch trực tiếp== → ==quản lý quy trình== → ==nhận trách nhiệm tổng quát==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-full-trap
+#flashcards/ielts-listening/business-legal/customer-service/matching-reflex
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "I could help in several ways actually. I considered setting up the equipment since I used to work in IT, but that's too technical for me now. I also thought about checking people's passes at the back door, but they need someone stronger for that. In the end, I'll stand at the front desk - you know, handling cash and issuing tickets for the concert."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="setting up the equipment"==
 >
-> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Sounds like:* Related to volunteering work, IT context
 >
-> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* Sử dụng "considered...but" ==bỏ qua==
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="checking people's passes"==
 >
-> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Sounds like:* Also involves tickets, venue work
 >
-> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* Sử dụng "also thought about...but" ==bỏ qua==
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* <Giải thích (dùng cặp `==` để highlight các từ quan trọng)>
+> **✅ Correct Answer:** ==selling tickets==
+> - *Why correct:* "In the end" + "handling cash and issuing tickets" ==chọn lựa cuối cùng==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-script-match
+#flashcards/ielts-listening/business-legal/customer-service/matching-reflex
 ### Card 10: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** =="selling tickets"==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "For the community event next weekend, I'd like to help with the financial side at the entrance. Basically, I'll be dealing with all the transactions - taking payments from people who want to attend and making sure they receive the correct admission documents before they go inside."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - ==financial side at the entrance== → ==box office / ticket sales area==
 >
-> - ==Audio phrase== → ==Option word==
+> - ==dealing with all the transactions== → ==selling / handling money==
 >
-> **🧠 Overall Logic:** <Tổng hợp logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
+> - ==taking payments from people who want to attend== → ==selling tickets==
+>
+> - ==making sure they receive the correct admission documents== → ==giving out tickets==
+>
+> **🧠 Overall Logic:** Audio mô tả quy trình giao dịch tại cửa → paraphrase về payments và admission → ===selling tickets==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-speed
+#flashcards/ielts-listening/business-legal/customer-service/matching-reflex
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==selling tickets==
 >
-> **Context:** *{{CONTEXT}}*
+> **Context:** *Volunteering at community center*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==<Paraphrase 1>==
+> 1. ==handling the box office==
 >
-> 2. ==<Paraphrase 2>==
+> 2. ==taking payments at the entrance==
 >
 > **🎯 Goal:** Instant Recall
-
----

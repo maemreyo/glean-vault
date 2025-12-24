@@ -1,337 +1,275 @@
 ---
 tags:
   - reflex-training
-aliases: [] # common variations, shortened forms of the pattern or paraphrases
-status: pending
+aliases: [strolling through the town centre, walking about the town, touring the town center, exploring the town area, patrolling the town, showing visitors around the town]
+status: done
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] Option Profile
-> **Option Letter:** =={{OPTION_LETTER}}==
-> **Option Text:** =={{OPTION_TEXT}}==
-> **Context:** *{{CONTEXT}}*
-> **Source Test:** {{SOURCE_TEST}}
+> **Option Letter:** ==A==
+> **Option Text:** ==walking around the town centre==
+> **Context:** *Volunteering at community center*
+> **Source Test:** Cam 20 Listening Test 02
 
 > [!abstract] 🎯 Target Analysis
-> **Type of Info:** <Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ...>
-> **Topic Category:** <Volunteering / Academic / Facility / Direction / ...>
+> **Type of Info:** Hành động
+> **Topic Category:** Events / Volunteering
 >
 > **🧠 5D Framework:**
-> - **Definition:** <Định nghĩa cốt lõi (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Denotation:** <Ý nghĩa đen (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Distractor:** <Những từ nghe giống nhưng KHÔNG PHẢI (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Deep Dive:** <Paraphrasing sâu hơn (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Definition:** ==Hành động di chuyển bộ== quanh ==khu trung tâm thành phố== để ==tham quan== hoặc ==hiện diện== tại các địa điểm công cộng
+> - **Denotation:** Di chuyển bằng ==chân== trong phạm vi ==khu vực trung tâm== của thị trấn, thường mang tính ==tham quan== hoặc ==quan sát==
+> - **Distractor:** "running through town" (nhanh, vội), "driving around town" (xe), "walking TO the town centre" (đến nơi chứ không phải quanh nơi đó)
+> - **Deep Dive:** Hành động ==tham quan==, ==khám phá==, hoặc ==hiện diện== tại các ==địa điểm nổi bật== trong trung tâm thành phố như một phần của hoạt động tình nguyện
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
-> - **Visual:** <Hình ảnh mental (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Auditory:** <Âm thanh đặc trưng (dùng cặp `==` để highlight các từ quan trọng)>
-> - **Action:** <Hành động cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Visual:** ==Người tình nguyện== mặc đồng phục ==di chuyển chậm== qua các ==con phố chính==, ==dừng lại== trước các ==cửa hàng== và ==công viên==, ==chỉ dẫn== cho du khách
+> - **Auditory:** Tiếng ==bàn luận== với người dân, tiếng ==giới thiệu== về các địa điểm, âm thanh ==phố thị sôi động==
+> - **Action:** ==Bước đi== nhàn nhã, ==dừng lại== quan sát, ==chỉ tay== hướng dẫn, ==trò chuyện== với người đi đường
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: <e.g., arrange + meeting (dùng cặp `==` để highlight các từ quan trọng)>
-> - `Noun + of + Noun`: <e.g., organisation of + event (dùng cặp `==` để highlight các từ quan trọng)>
-> - `Adj + Noun`: <e.g., local + businesses (dùng cặp `==` để highlight các từ quan trọng)>
+> - `Verb + Noun`: ==take a walk== + ==around the centre==, ==show visitors== + ==the town==, ==guide people== + ==through the area==
+> - `Noun + of + Noun`: ==exploration of== + ==local attractions==, ==tour of== + ==the centre==
+> - `Adj + Noun`: ==guided walk==, ==leisurely stroll==, ==informal tour==
 
 > [!example] 🎙️ Real Audio Phrases
-> - "I'm in charge of..."
-> - "The job involves..."
-> - "We need to..."
-> - "My responsibility is..."
+> - "I spend most of my time walking around the town centre, showing visitors the main attractions."
+> - "My role involves taking regular walks through the central area to assist tourists."
+> - "I'm responsible for patrolling the town centre and helping people find their way."
+> - "What I do mainly is conduct walking tours around the central business district."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
-> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
+> **Trap 1:** "walking to the town centre"
+> - *Why it's tricky:* Nghe giống vì có "walking" và "town centre", nhưng ==preposition "to"== thay vì "around"
+> - *Actual meaning:* Hành động đi đến khu vực trung tâm chứ không phải ==di chuyển quanh khu vực đó==
 >
-> **Trap 2:** =={{TRAP_DESCRIPTION}}==
-> - *Why it's tricky:* <Tại sao nghe giống? (dùng cặp `==` để highlight các từ quan trọng)>
-> - *Actual meaning:* <Nghĩa thật là gì? (dùng cặp `==` để highlight các từ quan trọng)>
+> **Trap 2:** "working at the town centre"
+> - *Why it's tricky:* Nghe giống vì liên quan đến địa điểm, nhưng thiếu ==action verb cụ thể== về việc đi bộ
+> - *Actual meaning:* Làm việc tại địa điểm nhưng có thể là ==trong tòa nhà== chứ không phải ==di chuyển bên ngoài==
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
-> → **Match:** =={{OPTION_TEXT}}==
+> "One of our volunteers, Sarah, is usually out and about. She spends her morning walking around the town centre, helping tourists find restaurants and shops."
+> → **Match:** ==walking around the town centre==
 >
 > **Script 2:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
-> → **Match:** =={{OPTION_TEXT}}==
+> "What about John? Well, you'll often see him near the market square. His job involves walking around the town centre to monitor the situation and assist anyone who looks lost."
+> → **Match:** ==walking around the town centre==
 
 ---
-
-<!-- MASTER TAGGING SYSTEM
-
-1. #survival-essentials
-   housing | accommodation | travel | transport | banking | shopping
-   insurance | utilities | postal | repairs | maintenance
-
-2. #health-food
-   medical | hospital | pharmacy | dentist | fitness | gym
-   nutrition | diet | restaurant | cafe | cooking | recipes
-
-3. #work-career
-   job-search | recruitment | interview | cv-resume | workplace | office
-   salary | benefits | promotion | freelance | entrepreneurship
-
-4. #education-training
-   university | courses | enrollment | assignments | projects | exams
-   library | research | tutoring | feedback | scholarships | graduation
-
-5. #social-leisure
-   events | festivals | parties | sports | fitness-activities | hobbies
-   clubs | entertainment | cinema | concerts | relationships | volunteering
-
-6. #science-tech
-   biology | chemistry | physics | astronomy | IT | computers
-   innovation | AI | robotics | environment | ecology | sustainability
-
-7. #culture-media
-   history | archaeology | arts | museums | literature | books
-   tourism | attractions | journalism | news | film | music | theatre
-
-8. #business-legal
-   commerce | trade | marketing | advertising | finance | investment
-   contracts | law | regulations | negotiations | customer-service
-
----
-📌 USAGE FORMULA:
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
-
-⚠️ MULTI-TAGGING:
-- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
-- Syntax: tag1 tag2 tag3
-
-Examples:
-Single tag:
-- #flashcards/ielts-listening/health-food/medical/matching-reflex
-
-Multi tags (cụm từ liên quan nhiều chủ đề):
-- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
-- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
-- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
-
-🎯 KHI NÀO DÙNG MULTI-TAG:
-✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
-✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
-✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
-❌ KHÔNG spam quá 3 tags/card để dễ quản lý
-
--->
 
 ## 🧠 Spaced Repetition Flashcards (11 Cards)
 
 ### Tier 1: Daily Quick Review (3 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
+#flashcards/ielts-listening/social-leisure/events/matching-reflex
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** =={{OPTION_TEXT}}==
-> **Context:** *{{CONTEXT}}*
+> **Option:** ==walking around the town centre==
+> **Context:** *Volunteering at community center*
 >
 > ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
 ?
 > [!success] 💡 Possible Scripts
-> 1. **Action (Hành động):** <ví dụ: Hiring ==a live band== (dùng cặp `==` để highlight các từ quan trọng)>
+> 1. **Action (Hành động):** Taking a ==guided tour== through the central area
 >
-> 2. **Object/Person (Đối tượng):** <ví dụ: Booking ==the magician== (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Object/Person (Đối tượng):** Showing ==tourists the main attractions==
 >
-> 3. **Abstract (Trừu tượng):** <ví dụ: Organising ==fun activities== (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Abstract (Trừu tượng):** Patrolling the ==commercial district==
 >
-> **🔑 Core Concept:** <Tóm tắt logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
+> **🔑 Core Concept:** Hành động ==di chuyển== quanh ==khu trung tâm== với mục đích ==hỗ trợ== hoặc ==tham quan==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
+#flashcards/ielts-listening/social-leisure/events/matching-reflex
 ### Card 2: Verb + Noun Association
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==walking around the town centre==
 >
 > ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
 ?
 > [!note] 🗝️ Collocations
-> - **Verbs:** <ví dụ: ==perform==, ==play==, ==dance== (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Verbs:** ==stroll==, ==patrol==, ==tour==, ==explore==
 >
-> - **Nouns:** <ví dụ: ==music==, ==concert==, ==comedy== (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Nouns:** ==downtown area==, ==main street==, ==market square==, ==central district==
 >
-> **💡 Pattern Note:** <Ghi chú về pattern (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Pattern Note:** Verbs liên quan đến ==di chuyển chậm== + Nouns chỉ ==khu vực trung tâm==
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+#flashcards/ielts-listening/social-leisure/events/matching-reflex
 ### Card 3: Signpost Detection
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==walking around the town centre==
 >
 > ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
 ?
 > [!tip] 🚦 Signposts
-> - **Before:** <ví dụ: "So," "As for," "Regarding..." (dùng cặp `==` để highlight các từ quan trọng)>
+> - **Before:** "As for," "Regarding," "You'll find," "Meanwhile," "In terms of..."
 >
-> - **After:** <ví dụ: "which involves," "that means..." (dùng cặp `==` để highlight các từ quan trọng)>
+> - **After:** "to assist," "helping people," "showing visitors," "guiding..."
 >
-> **🎧 Audio Cue:** <Cụm từ nghe được (dùng cặp `==` để highlight các từ quan trọng)>
+> **🎧 Audio Cue:** "out and about" = walking around
 
 ---
 
 ### Tier 2: Weekly Intensive (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-reverse
+#flashcards/ielts-listening/social-leisure/events/matching-reflex
 ### Card 4: Reverse Matching (Thực chiến)
 
 > **Audio Script:**
-> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
+> "Tom is our guide. You'll usually find him out and about. He spends most of his time strolling through the central area, helping visitors locate the main attractions and restaurants."
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: =={{OPTION_TEXT}}==
+> [!check] ✅ Match: ==walking around the town centre==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
+> - Audio nói: =="out and about"== and =="strolling through the central area"==
 >
-> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
+> - Tương đương với: ==walking around the town centre==
 >
-> **🧠 Logic Chain:** <Cách suy luận từ audio đến option (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧠 Logic Chain:** "out and about" là idiomatic expression cho việc ==di chuyển bên ngoài==, "strolling" = walking nhẹ nhàng, "central area" = town centre
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-trap
+#flashcards/ielts-listening/social-leisure/events/matching-reflex
 ### Card 5: Trap Identification
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==walking around the town centre==
 >
 > ❓ **Question:** Những ==dấu hiệu phủ định== (negation signals) nào cho thấy đáp án này đã bị ==LOẠI==?
 ?
 > [!fail] 🛑 Negation Signals
-> - *"We thought about doing X, but..."* ==Dự định nhưng không làm==
+> - *"We used to walk around the town centre, but now we..."* ==Quá khứ==
 >
-> - *"X used to be popular, however..."* ==Quá khứ==
+> - *"I thought about walking around the town centre, however..."* ==Dự định nhưng không làm==
 >
-> - *"Instead of X, we decided to..."* ==Thay thế==
+> - *"Instead of walking around, we decided to..."* ==Thay thế==
 >
-> - *"We've run out of time for X..."* ==Không làm được==
+> - *"We've stopped walking around the town centre due to..."* ==Không làm nữa==
 >
-> **⚠️ Other Traps:** <Too expensive, not available... (dùng cặp `==` để highlight các từ quan trọng)>
+> **⚠️ Other Traps:** "working from home", "based at the community centre", "driving around town"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-differentiate
+#flashcards/ielts-listening/social-leisure/events/matching-reflex
 ### Card 6: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
+> **Comparison:** Phân biệt =="walking around the town centre"== với =="working at the town centre"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **{{OPTION_TEXT}}:** Tập trung vào <Focus Area 1 (dùng cặp `==` để highlight các từ quan trọng)>.
+> - **walking around the town centre:** Tập trung vào ==hành động di chuyển==, ==khám phá khu vực==, thường ==ngoài trời==.
 >
-> - **{{CONFUSING_OPTION}}:** Tập trung vào <Focus Area 2 (dùng cặp `==` để highlight các từ quan trọng)>.
+> - **working at the town centre:** Tập trung vào ==nơi làm việc==, có thể ==trong tòa nhà== hoặc ==cố định==.
 >
-> **🧱 Key Barrier:** <Rào cản chính phân biệt 2 ý (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧱 Key Barrier:** "around" (di chuyển quanh) vs "at" (tại chỗ)
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-cloze
+#flashcards/ielts-listening/social-leisure/events/matching-reflex
 ### Card 7: Context Cloze (Điền từ)
 
 > 🗣️ **Audio Transcript:**
-> *<Audio transcript với ==key phrase== ẩn>*
+> "Emma is responsible for showing visitors the main sights. She spends the day ===the town centre===, answering questions and giving directions."
 >
-> 🇻🇳 **Vietnamese:** <Vietnamese Translation>
+> 🇻🇳 **Vietnamese:** Emma chịu trách nhiệm chỉ cho du khách các địa điểm chính. Cô dành cả ngày đi bộ quanh trung tâm thành phố, trả lời câu hỏi và chỉ đường.
 >
 > ❓ **Question:** ==Điền vào chỗ trống==?
 ?
-> [!success] ✅ Answer: =={{KEY_PHRASE}}==
-> **🔗 Connects to:** =={{OPTION_TEXT}}==
+> [!success] ✅ Answer: ==walking around==
+> **🔗 Connects to:** ==walking around the town centre==
 >
-> **💡 Why:** <Giải thích logic (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Why:** Context cho thấy hành động ==di chuyển quanh khu vực== để hỗ trợ du khách
 
 ---
 
 ### Tier 3: Bi-weekly Mastery (4 Cards)
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-chain
+#flashcards/ielts-listening/social-leisure/events/matching-reflex
 ### Card 8: Paraphrase Chain
 
-> **Option:** =={{OPTION_TEXT}}==
+> **Option:** ==walking around the town centre==
 >
 > ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
 ?
 > [!info] 🔗 Paraphrase Chain
-> 1. **Direct:** <Cùng nghĩa, từ khác (dùng cặp `==` để highlight các từ quan trọng)>
+> 1. **Direct:** Strolling through the central area
 >
-> 2. **Related:** <Ý nghĩa liên quan (dùng cặp `==` để highlight các từ quan trọng)>
+> 2. **Related:** Conducting walking tours of downtown
 >
-> 3. **Contextual:** <Theo ngữ cảnh cụ thể (dùng cặp `==` để highlight các từ quan trọng)>
+> 3. **Contextual:** Patrolling the main streets to assist visitors
 >
-> 4. **Implicit:** <Ý nghĩa ẩn dụ (dùng cặp `==` để highlight các từ quan trọng)>
+> 4. **Implicit:** Being out and about in the commercial district
 >
-> **💡 Core Thread:** <Chủ đề xuyên suốt (dùng cặp `==` để highlight các từ quan trọng)>
+> **💡 Core Thread:** Di chuyển quanh khu vực trung tâm
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-full-trap
+#flashcards/ielts-listening/social-leisure/events/matching-reflex
 ### Card 9: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
+> "We need to assign someone to the visitor centre. John suggested walking around the town centre to help tourists, but Sarah prefers working inside the information booth. Eventually, we agreed that Mike would be the one walking around the town centre, while Sarah handles the desk."
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="{{TEXT}}"==
+> **1. Distractor:** =="working inside the information booth"==
 >
-> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Sounds like:* Có thể nghe như "at the town centre" hoặc confuse với location
 >
-> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* Đây là ==đề xuất bị từ chối==, "prefers" chỉ là sở thích chứ không phải quyết định cuối cùng
 >
-> **2. Distractor:** =="{{TEXT}}"==
+> **2. Distractor:** =="Mike would be the one"==
 >
-> - *Sounds like:* <Nghe giống gì (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Sounds like:* Có thể nghe như tên người đang nói
 >
-> - *Wrong because:* <Tại sao sai (dùng cặp `==` để highlight các từ quan trọng)>
+> - *Wrong because:* Đây là ==người được chọn== chứ không phải là người đang nói về công việc của chính mình
 >
-> **✅ Correct Answer:** =={{OPTION_TEXT}}==
-> - *Why correct:* <Giải thích (dùng cặp `==` để highlight các từ quan trọng)>
+> **✅ Correct Answer:** ==walking around the town centre==
+> - *Why correct:* Đây là ==hoạt động thực sự được thực hiện== theo kết quả cuối cùng: "Mike would be the one walking around the town centre"
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-script-match
+#flashcards/ielts-listening/social-leisure/events/matching-reflex
 ### Card 10: Script-to-Option Mapping
 
-> **Option Text:** =="{{OPTION_TEXT}}"==
+> **Option Text:** =="walking around the town centre"==
 >
 > **Audio Transcript:**
-> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
+> "I'm usually out and about in the mornings. What I do is take a leisurely stroll through the commercial district, mainly to keep an eye on things and help any visitors who might need directions."
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - ==Audio phrase== → ==Option word==
+> - =="out and about"== → ==walking around== (idiomatic expression)
+> - =="leisurely stroll"== → ==walking== (walking nhẹ nhàng)
+> - =="commercial district"== → ==town centre== (khu vực thương mại)
 >
-> - ==Audio phrase== → ==Option word==
->
-> **🧠 Overall Logic:** <Tổng hợp logic kết nối (dùng cặp `==` để highlight các từ quan trọng)>
+> **🧠 Overall Logic:** Idiomatic expressions + synonyms for location = option match
 
 ---
 
-#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-speed
+#flashcards/ielts-listening/social-leisure/events/matching-reflex
 ### Card 11: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** =={{OPTION_TEXT}}==
->
-> **Context:** *{{CONTEXT}}*
+> **Option:** ==walking around the town centre==
+> **Context:** *Volunteering at community center*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==<Paraphrase 1>==
+> 1. ==strolling through downtown==
 >
-> 2. ==<Paraphrase 2>==
+> 2. ==patrolling the main streets==
 >
 > **🎯 Goal:** Instant Recall
-
----
