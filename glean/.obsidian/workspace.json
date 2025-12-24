@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Sources/Articles/Cam 20 Listening Test 02.md",
+                "file": "99_Templates/tpl_Situation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cam 20 Listening Test 02"
+              "title": "tpl_Situation"
             }
           }
         ]
@@ -207,12 +207,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c98256179590bd2",
+  "active": "9023177bda5d114e",
   "lastOpenFiles": [
+    "10_Sources/Articles/Cam 20 Listening Test 02.md",
     "99_Templates/tpl_Situation.md",
     "40__Situation",
     "20_Vocabulary/be taken off.md",
-    "10_Sources/Articles/Cam 20 Listening Test 02.md",
     "20_Vocabulary/suppose so.md",
     "20_Vocabulary/human geography.md",
     "20_Vocabulary/get much out of that.md",
