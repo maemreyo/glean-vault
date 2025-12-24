@@ -1,257 +1,238 @@
 # Auto-Link Vocabulary Script
 
-**Path:** `glean/99_Tools/scripts/auto_link_vocab.py`
+**Path:** `glean/99_Tools/scripts/auto_link_vocab.py` (original) or `auto_link_vocab_v2.py` (new modular version)
 
 This script automates the process of linking vocabulary and structure terms in your Obsidian Markdown files. It scans your vault for terms defined in `20_Vocabulary` and `30_Structures` and creates wikilinks (e.g., `[[path/to/term|term]]`) in your target files.
 
 ## Features
 
-- **Smart Linking**: Finds terms from `20_Vocabulary` and `30_Structures` and links them.
-- **Alias Support**: Automatically reads `aliases` from a note's Frontmatter (YAML) and links those variations to the main note.
-- **Recursive Scanning**: Finds vocabulary and structure terms in subdirectories.
-- **Markdown Table Support**: Automatically escapes the pipe character (`\|`) when inserting links inside table rows to prevent breaking the table layout.
-- **Safety First**: Optional `--dry-run` to preview changes.
-- **Backup & Restore**: Automatically creates backups before modifying files. Includes a robust inventory system to list and restore from previous versions.
-- **Migration Tool**: Includes a `--migrate-aliases` flag to batch-add missing alias fields to existing notes.
+- **Smart Linking**: Finds terms from `20_Vocabulary` and `30_Structures` and links them
+- **Alias Support**: Automatically reads `aliases` from frontmatter and links those variations
+- **Recursive Scanning**: Finds vocabulary and structure terms in subdirectories
+- **Markdown Table Support**: Escapes pipe character (`\|`) when inserting links in table rows
+- **Safety First**: Optional `--dry-run` to preview changes
+- **Configurable Backup**: Three backup strategies - original, session, or off
+- **Quote Cleaning**: Integrated cleaning of curly quotes to straight quotes
+- **Phase Tagging**: Add phase-based flashcard tags from `ref:` field in frontmatter
 
 ## Usage
 
 Run the script from the vault root or any subdirectory (it auto-detects vault root).
 
+### Original Script
 ```bash
 python3 glean/99_Tools/scripts/auto_link_vocab.py [arguments]
 ```
 
-### Arguments
+### New Modular Script (Recommended)
+```bash
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py [arguments]
+```
 
+## Arguments
+
+### Target Selection
 | Argument | Description |
 | :--- | :--- |
-| `--file <path>` | Process a single specific file. |
-| `--folder <path>` | Process all `.md` files in a folder recursively. |
-| `--dry-run` | **Default.** Print proposed changes to stdout without modifying files. |
-| `--no-dry-run` | Apply changes to the files. **Triggers automatic backup.** |
-| `--list-backups [path]` | List available backups. Optionally filter by original file path. |
-| `--restore <id>` | Restore a specific backup by its ID. |
-| `--restore-all <timestamp>` | Restore all files from a specific session (batch undo). |
-| `--restore-original <path>` | Restore a file or folder to its oldest backup (pre-script state). |
-| `--restore-before-link` | **Workflow:** Restore files to original before linking. |
-| `--clean-quotes` | **Workflow:** Run `clean_quotes.py` before linking. |
-| `--add-ref-tags` | Add flashcard tags based on `ref:` field in frontmatter. |
-| `--no-strip-links` | Disable stripping of existing links before re-linking. |
-| `--strip-links` | Explicitly enable stripping (ON by default). |
-| `--cleanup-backups` | (External script) Keep only the oldest version of each file. |
+| `--file <path>` | Process a single specific file |
+| `--folder <path>` | Process all `.md` files in a folder recursively |
+
+### Backup Strategy (NEW)
+| Argument | Description |
+| :--- | :--- |
+| `--backup-mode original` | **Default.** Keep only the first (original) backup for each file. Saves space. |
+| `--backup-mode session` | Create backup for each session (each run). Uses more space. |
+| `--backup-mode off` | No backup. Dangerous, use with caution. |
+
+### Processing Options
+| Argument | Description |
+| :--- | :--- |
+| `--dry-run` | **Default.** Print proposed changes without modifying files |
+| `--no-dry-run` | Apply changes to files (triggers backup) |
+| `--strip-links` | **Default.** Strip existing vocab/structure links before re-linking |
+| `--no-strip-links` | Keep existing links and add new ones |
+| `--no-clean-quotes` | Skip cleaning curly quotes (default: clean) |
+
+### Phase Tagging
+| Argument | Description |
+| :--- | :--- |
+| `--add-ref-tags` | Add phase-based flashcard tags from `ref:` field in frontmatter |
+
+### Restore & Management
+| Argument | Description |
+| :--- | :--- |
+| `--list-backups [path]` | List available backups, optionally filter by path |
+| `--restore <id>` | Restore a file from specific backup ID |
+| `--restore-all <prefix>` | Restore all files from a session (timestamp prefix) |
+| `--restore-original <path>` | Restore file(s) to their oldest (original) backup |
+| `--cleanup-backups` | Remove redundant backups, keep only originals |
 
 ## Use Cases
 
 ### 1. Check changes before applying (Dry Run)
 Always recommended as the first step.
 ```bash
-python3 glean/99_Tools/scripts/auto_link_vocab.py --file "glean/10_Sources/Articles/New Article.md"
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --file "glean/10_Sources/Articles/New Article.md"
 ```
 
-### 2. Process a single article
-Once satisfied with the dry run, apply the changes.
+### 2. Process a single article (Default backup mode)
+Once satisfied, apply changes. Only the first backup is kept (saves space).
 ```bash
-python3 glean/99_Tools/scripts/auto_link_vocab.py --file "glean/10_Sources/Articles/New Article.md" --no-dry-run
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --file "glean/10_Sources/Articles/New Article.md" --no-dry-run
 ```
 
-### 3. Process an entire folder (Standard)
-Useful for batch processing a new set of imported articles.
+### 3. Process an entire folder
+Useful for batch processing imported articles.
 ```bash
-python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/10_Sources/Articles" --no-dry-run
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --folder "glean/10_Sources/Articles" --no-dry-run
 ```
 
-### 4. Process Folder + Auto-Tag Vocabulary (Efficient)
+### 4. Process with session backup mode
+Create backup for each run (more history, uses more space).
+```bash
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --folder "glean/10_Sources/Articles" --backup-mode session --no-dry-run
+```
+
+### 5. Process Folder + Auto-Tag Vocabulary
 This command will **Link** your articles AND **Auto-Tag** your vocabulary files (using the 5-Phase System) in one go.
-
 ```bash
-python3 glean/99_Tools/scripts/auto_link_vocab.py \
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py \
   --folder "glean/10_Sources/Articles" \
   --add-ref-tags \
   --no-dry-run
 ```
-*Note: This assumes your vocabulary is in the default `glean/20_Vocabulary` folder.*
 
-### 5. Listing Backups
-If you suspect a mistake was made, check the backup history.
+### 6. Listing Backups
+Check backup history.
 ```bash
-python3 glean/99_Tools/scripts/auto_link_vocab.py --list-backups
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --list-backups
 ```
-*Output Example:*
+Output:
 ```
-ID                        | Date                 | File                                     | Changes
+ID                        | Date                 | File                         | Changes
 ----------------------------------------------------------------------------------------------------
-20251219_113004_1b8b0f    | 2025-12-19 11:30:04  | The giant heat pumps...md                | 2
+20251224_120000_abc123    | 2025-12-24 12:00:00  | New Article.md               | 45
 ```
 
-### 5. Restoring a File
-Restore a file to a previous state using the ID found in the list.
+### 7. Restoring a File
+Restore using the backup ID.
 ```bash
-python3 glean/99_Tools/scripts/auto_link_vocab.py --restore 20251219_113004_1b8b0f
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --restore 20251224_120000_abc123
 ```
 
-### 6. Batch Restore (Undo All)
-If you processed a folder and want to revert **every file** modified in that specific run:
+### 8. Batch Restore (Undo Session)
+Restore all files modified in a specific run.
 ```bash
-# Use the first part of the backup ID (the timestamp portion)
-python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-all 20251219_113004
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --restore-all 20251224_120000
 ```
 
-### 7. Restore to Original Version
-If you want to completely reset a **file** or **folder** to its state before you ever used this script (the very first backup):
-
-**Restore a single file:**
+### 9. Restore to Original Version
+Reset a file or folder to its very first backup (pre-script state).
 ```bash
-python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-original "glean/10_Sources/Articles/MyFile.md"
+# Single file
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --restore-original "glean/10_Sources/Articles/MyFile.md"
+
+# Entire folder
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --restore-original "glean/10_Sources/Articles"
 ```
 
-**Restore an entire folder:**
+### 10. Cleanup Redundant Backups (NEW)
+Remove all but the original (oldest) backup for each file. Great for reclaiming space.
 ```bash
-python3 glean/99_Tools/scripts/auto_link_vocab.py --restore-original "glean/10_Sources/Articles"
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --cleanup-backups
+```
+Output:
+```
+Deleted 243 redundant backup(s)
+Kept 87 original backup(s)
 ```
 
-### 7. Resetting/Clearing File History
-If you accidentally backed up a "faulty" version of a file (e.g., missing content) as the **Original**, you can reset its history. This will force the script to treat the *current* content as the new "Original" upon its next run.
+## Key Differences: Original vs New Script
 
-Currently, this is a manual process:
-1. Open `glean/99_Tools/backups/inventory.json`.
-2. Find and delete all entries matching your filename.
-3. Delete the corresponding physical `.md` files in `99_Tools/backups/`.
-4. Run the auto-link script again.
+### Original Script Behavior
+- Creates a backup **every time** `--no-dry-run` is run
+- By default **restores to original** before linking (removes ALL edits, not just links)
+- More disk space usage over time
+- One file with all functionality
 
----
+### New Script (v2) Behavior
+- **Default backup mode: `original`** - only keeps the first backup (saves space!)
+- **Default: strip-links without restore** - only removes vocab links, keeps manual edits
+- Modular architecture with separate classes for each concern
+- Configurable backup modes per use case
+- Integrated quote cleaning (no subprocess dependency)
 
-# Cleanup Backups Script
+## Linking Behavior
 
-**Path:** `glean/99_Tools/scripts/cleanup_backups.py`
-
-As you run the auto-link script multiple times, the `99_Tools/backups` directory can grow significantly. This script helps reclaim space by keeping only the **earliest (original)** backup for each unique file and deleting all subsequent ones.
-
-## Usage
-
+### Default Mode (Recommended)
 ```bash
-# Dry run: see how many files will be deleted
-python3 glean/99_Tools/scripts/cleanup_backups.py
-
-# Apply cleanup: delete redundant backups and update inventory
-python3 glean/99_Tools/scripts/cleanup_backups.py --no-dry-run
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --folder "Articles" --no-dry-run
 ```
+Process:
+1. Strip all existing vocab/structure links
+2. Re-scan terms
+3. Create new links with updated terms
+4. **Preserves your manual edits** (only links are affected)
 
-This will restore **all files** in the folder (and subfolders) that have backup history to their very first backed-up version.
-
-### 8. Workflow Integration: Full Pipeline
-For a complete workflow that restores files, cleans quotes, and then links vocabulary in one command:
-
+### Keep Existing Links Mode
 ```bash
-python3 glean/99_Tools/scripts/auto_link_vocab.py \
-  --folder "glean/10_Sources/Articles" \
-  --restore-before-link \
-  --clean-quotes \
-  --no-dry-run
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --folder "Articles" --no-strip-links --no-dry-run
 ```
+Process:
+1. Keep all existing links
+2. Add links for newly found terms
+3. May miss updates to existing term mappings
 
-### 9. Radical Re-linking (The Clean Slate)
-The script now **automatically** strips existing vocabulary links before re-linking. This ensures that new or longer terms are always picked up without being blocked by old links.
+## Auto-Tag from Ref Field (5-Phase Mastery System)
 
-**To skip this behavior:**
-```bash
-python3 glean/99_Tools/scripts/auto_link_vocab.py --no-strip-links [arguments]
-```
-
-**Pipeline steps:**
-1. 🔄 **Restore files** to their original pre-script state
-2. 🧹 **Clean quotes** (convert Unicode curly quotes to straight quotes)
-3. 🔗 **Link vocabulary** (create wikilinks to terms)
-
-Each step displays a visual indicator and progress information.
-
-**Individual workflow flags:**
-```bash
-# Only restore before linking
-python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/10_Sources/Articles" --restore-before-link --no-dry-run
-
-# Only clean quotes before linking
-python3 glean/99_Tools/scripts/auto_link_vocab.py --folder "glean/10_Sources/Articles" --clean-quotes --no-dry-run
-```
-
-
-### 9. Auto-Tag from Ref Field (5-Phase Mastery System)
-Automatically add **Phase-based** flashcard tags based on the `ref:` field in vocabulary frontmatter. This implements the **5-Phase Mastery System** by injecting specific tags above each card type.
-
+Automatically add **Phase-based** flashcard tags based on the `ref:` field in vocabulary frontmatter.
 
 **How it works:**
 1. Reads `ref: [[Cam 19 Listening Test 04]]`
 2. Generates base tag: `#flashcards/cam-19-listening-test-04`
-3. **Removes** old header tags if present.
-4. **Injects** phase tags before specific cards:
+3. Removes old header tags if present
+4. Injects phase tags before specific cards:
    - **Foundation (Cards 1, 10):** `#flashcards/.../01-foundation`
    - **Activation (Cards 2, 3, 4):** `#flashcards/.../02-activation`
    - **Differentiation (Cards 6, 11, 12):** `#flashcards/.../03-differentiation`
    - **Mastery (Cards 5, 7, 8):** `#flashcards/.../04-mastery`
    - **Addition (Card 9):** `#flashcards/.../05-addition`
 
-✨ **Note:** The script automatically skips files that already have the tags.
-
----
-
-# Phase Tagging Script (Dedicated Tool)
-
-**Path:** `glean/99_Tools/scripts/phase_tagging.py`
-
-This is a specialized script solely for re-organizing flashcards into the 5-Phase Mastery System. It is useful when you want to process files based on their *existing header tags* rather than Frontmatter refs.
-
-## Usage
-
 ```bash
-python3 glean/99_Tools/scripts/phase_tagging.py --folder "glean/20_Vocabulary" --target "cam-20"
+python3 glean/99_Tools/scripts/auto_link_vocab_v2.py --folder "glean/20_Vocabulary" --add-ref-tags --no-dry-run
 ```
-
-| Argument | Description |
-| :--- | :--- |
-| `--folder` | Directory to scan. |
-| `--target` | Target tag prefix to look for (e.g., `cam` matches `#flashcards/cam-...`). |
-| `--dry-run` | Preview changes without saving. |
-
 
 ## Technical Details
 
 - **Backup Location:** `glean/99_Tools/backups/`
 - **Inventory File:** `glean/99_Tools/backups/inventory.json`
-- **Regex Logic:** Matches exact whole words (`\bterm\b`) to avoid partial matches within other words.
+- **Regex Logic:** Matches exact whole words (`\bterm\b`) to avoid partial matches
 
 ## Alias Support
 
-The script reads the `aliases` field from the YAML frontmatter of your vocabulary and structure notes. This is the recommended way to handle:
+The script reads the `aliases` field from YAML frontmatter. This handles:
 - **Plurals:** `[passengers, cities, boxes]`
 - **Verb Tenses:** `[developed, developing, develops]`
-- **Word Families (POS):** `[portionable, portionally, portioning]`
+- **Word Families:** `[portionable, portionally, portioning]`
 - **Possessives:** `[passenger's, city's]`
 - **Irregular Forms:** `[went, gone, better, best]`
 - **Shortened Forms:** `[approx., prep]`
 
-**Example Frontmatter in `portion.md`:**
+**Example in `portion.md`:**
 ```yaml
 ---
 aliases: [portions, portioned, portionable, portionally]
 ---
 ```
 
-When the script finds any of these variations in an article, it will link it back to the parent note using the original text: `[[glean/20_Vocabulary/portion|portionable]]`.
-
 ### Priority Rules
-If there is a conflict between a note's filename and an alias from another note, the **Filename (Main Term)** always takes priority.
-- **Example:** If you have `confirm.md` and `confirmation.md` (with alias `confirm`), any mention of `confirm` will link to `confirm.md` directly.
+**Filename (Main Term)** always takes priority over aliases.
+- If you have `confirm.md` and `confirmation.md` (with alias `confirm`), mentions of `confirm` link to `confirm.md`.
 
+## Migration Tool (Original Script)
 
-## Migration Tool
-
-If your existing notes are missing the `aliases` field, you can add it to all files in bulk:
-
+If you need to add `aliases: []` to existing notes:
 ```bash
-# Preview the migration
 python3 glean/99_Tools/scripts/auto_link_vocab.py --migrate-aliases --dry-run
-
-# Run the migration (adds aliases: [] to all files lacking it)
 python3 glean/99_Tools/scripts/auto_link_vocab.py --migrate-aliases --no-dry-run
 ```
-

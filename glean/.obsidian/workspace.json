@@ -207,8 +207,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9023177bda5d114e",
+  "active": "5c98256179590bd2",
   "lastOpenFiles": [
+    "99_Tools/scripts/auto_link_vocab_v2.py",
     "20_Vocabulary/had no idea.md",
     "10_Sources/Articles/Cam 20 Listening Test 02.md",
     "10_Sources/Articles/Cam 20 Listening Test 04.md",
@@ -234,7 +235,6 @@
     "99_Tools/backups/20251224_003644_065246_Cam 19 Listening Test 04.md",
     "99_Tools/backups/20251224_003644_01884e_Audioscripts Cam 19 Listening Test 03.md",
     "99_Tools/backups/20251224_003644_037d26_Practice Cam 19 Listening Test 02.md",
-    "99_Tools/backups/20251224_003644_0c21e3_UK launches taskforce to 'break down barriers' for women in tech.md",
     "99_Tools/scripts/cleanup_backups.py",
     "20_Vocabulary/the British Library’s digitised [[20_Vocabulary",
     "20_Vocabulary/at least.md.tmp.8283.1766406399313",
