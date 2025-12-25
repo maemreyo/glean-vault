@@ -30,23 +30,29 @@ ref:
 >
 > **Topic Category:** ==Volunteering== / Community Engagement
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Tình nguyện viên đóng vai trò ==cầu nối== giữa các tổ chức khác nhau trong cộng đồng để cùng làm việc
 >
-> - **Denotation:** "Encouraging cooperation" = "facilitate collaboration" = "help organizations work together" = "build partnerships"
+> - **Denotation (Nghĩa đen):** "Encouraging cooperation" = "facilitate collaboration" = "help organizations work together" = "build partnerships"
 >
 > - **Distractor:** Các vai trò như "contacting", "providing publicity" nghe giống vì cũng liên quan đến giao tiếp nhưng không phải ==hợp tác== giữa các tổ chức
 >
-> - **Deep Dive:** Paraphrasing sâu = "bring local groups together", "foster partnerships", "create networks", "coordinate between organizations", "enable collaboration"
+> - **Deep Dive:** Paraphrasing sâu = ==bring local groups together, foster partnerships, create networks, coordinate between organizations, enable collaboration==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==working in isolation, individual group tasks, independent activities, no communication between groups, isolated projects, separate initiatives==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==encourage/promote== → Syn: ==stimulate, inspire, advocate== | Ant: ==discourage, deter, hinder==
+>   - ==cooperate/collaborate== → Syn: ==ally, unite, join forces== | Ant: ==compete, oppose, clash==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung tình nguyện viên đứng giữa ==2 nhóm người== từ các tổ chức khác nhau, đang giới thiệu và tạo không khí cho họ trò chuyện, bắt tay
+> - **Visual:** Hình dung tình nguyện viên đứng giữa ==2 nhóm người== (standing between groups) từ các tổ chức khác nhau, đang ==giới thiệu== (introducing) và ==tạo không khí== (facilitating atmosphere) cho họ trò chuyện, hay ==bắt tay== (shaking hands)
 >
-> - **Auditory:** Nghe thấy âm thanh ==thảo luận tích cực==, tiếng cười, tiếng đồng thuận "Yes, let's work together"
+> - **Auditory:** Nghe thấy âm thanh ==thảo luận tích cực== (active discussion), tiếng ==cười== (laughter), tiếng ==đồng thuận== "Yes, let's work together" (agreement), tiếng ==lên kế hoạch chung== (joint planning)
 >
-> - **Action:** Người tổ chức nói "Your role is to ==bridge the gap== between these groups" hoặc "facilitate communication"
+> - **Action:** Hành động cụ thể: ==kết nối mọi người== (connecting people), ==tổ chức cuộc họp chung== (arranging joint meetings), ==xây dựng mạng lưới== (building networks), ==điều phối các nhóm== (coordinating groups)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: encourage + cooperation, facilitate + collaboration, build + partnerships, foster + relationships
@@ -86,30 +92,37 @@ ref:
 >
 > → **Match:** ==encouraging cooperation between local organisations==
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
 ---
 
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==encouraging cooperation between local organisations==
 >
 > **Context:** *Volunteering at community festivals*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "Your role is to ==facilitate collaboration== between different groups"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==facilitating collaboration among community groups==
+> - ==bringing different local organisations together==
+> - ==fostering partnerships between businesses and charities==
+> - ==creating a network of joint community initiatives==
 >
-> **🥈 Other possibilities:**
-> - "Help us ==bring together== various local organizations"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==focusing on individual and isolated projects==
+> - ==organisations working independently with no contact==
+> - ==encouraging competition between local groups==
+> - ==separate and non-communicative task loads==
 >
-> - "Work on ==building partnerships== between community groups"
->
-> - "Focus on ==encouraging cooperation== among local partners"
->
-> - "Create opportunities for ==joint initiatives== between organizations"
->
-> **🔑 Core Concept:** Cầu nối giữa các tổ chức để cùng làm việc
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -371,5 +384,57 @@ ref:
 > 2. ==build partnerships among organisations==
 >
 > **🎯 Goal:** Instant Recall
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==encouraging cooperation between local organisations==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==facilitating collaboration among various community partners=="
+> 2. "==contacting local businesses only to sell festival tickets=="
+> 3. "==creating a network for organisations to work together jointly=="
+> 4. "==providing information about council services to the public=="
+> 5. "==bringing different local groups together for shared goals=="
+> 6. "==ensuring each organisation works in isolation on their own tasks=="
+> 7. "==fostering partnerships between businesses and charities=="
+> 8. "==you'll be the one solely responsible for all sales activities=="
+> 9. ==helping various groups find common ground for collaboration==
+> 10. ==organisations competing against each other for the main prize==
+?
+> [!info] 📊 Classification Result
+> 1. ==facilitating collaboration among various community partners== → ==[✅]== (Paraphrase của encouraging cooperation)
+> 2. ==contacting local businesses only to sell festival tickets== → ==[⚠️]== (Bẫy nội dung về liên hệ doanh nghiệp)
+> 3. ==creating a network for organisations to work together jointly== → ==[✅]== (Đặc điểm của encouraging cooperation)
+> 4. ==providing information about council services to the public== → ==[⚠️]== (Bẫy nội dung về cung cấp thông tin)
+> 5. ==bringing different local groups together for shared goals== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==ensuring each organisation works in isolation on their own tasks== → ==[❌]== (Ngược lại với cooperation)
+> 7. ==fostering partnerships between businesses and charities== → ==[✅]== (Đặc điểm của encouraging cooperation)
+> 8. ==you'll be the one solely responsible for all sales activities== → ==[❌]== (Logic đảo chiều: làm một mình vs làm cùng nhau)
+> 9. ==helping various groups find common ground for collaboration== → ==[✅]== (Đặc điểm của encouraging cooperation)
+> 10. ==organisations competing against each other for the main prize== → ==[❌]== (Logic đảo chiều: cạnh tranh vs hợp tác)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==encouraging cooperation between local organisations==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We've moved away from ==isolated group projects== or ==individual organisation efforts==; our priority now is ==facilitating true collaboration== and ==bringing the community partners together=="...*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK encouraging cooperation==
+>
+> **🧠 Reason:** Cấu trúc "moved away from X (Antonym); priority now is Y (Synonym)" đã phủ định sự hoạt động biệt lập (Antonym) và khẳng định sự hợp tác. 
+> - Isolated = Antonym of Cooperation
+> - → Facilitating collaboration = Encouraging cooperation.
+>
+> **🎯 Skill:** Nhận diện đúng vai trò khi người nói bác bỏ các nhiệm vụ "hoạt động độc lập" (Antonyms) để tập trung vào nhiệm vụ phối hợp giữa các nhóm.
 
 ---

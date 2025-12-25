@@ -35,30 +35,34 @@ ref:
 >
 > **Topic Category:** ==Academic Research / Data Collection / Research Planning==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** ==Involve only a small number of statistics== refers to a research project or study that uses minimal quantitative data, limited numerical findings, or few statistical measures to support conclusions
 >
-> - **Denotation:** Direct meaning includes: limited data availability, few statistics to analyze, minimal quantitative information, scarce numerical data, restricted statistical findings
+> - **Denotation (Nghĩa đen):** Direct meaning includes: limited data availability, few statistics to analyze, minimal quantitative information, scarce numerical data, restricted statistical findings
 >
 > - **Distractor:** Similar phrases include "not accurate," "too complex," "hard to understand," "not useful" - these express quality or difficulty, not ==quantity/amount==
 >
-> - **Deep Dive:** In IELTS context, speakers may paraphrase "small number of statistics" as: "limited data," "few statistics available," "minimal data points," "not many numerical findings," "scarce statistical information," "restricts us to just a few statistics"
+> - **Deep Dive:** Paraphrasing sâu hơn: ==limited data, few statistics available, minimal data points, not many numerical findings, scarce statistical information, restricted to just a few statistics==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==vast amount of data, numerous statistics, extensive numerical findings, overwhelming dataset, abundance of figures, comprehensive statistical analysis==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==involve/contain== → Syn: ==comprise, consist of, encompass== | Ant: ==exclude, omit, leave out==
+>   - ==analyze/evaluate== → Syn: ==examine, scrutinize, assess== | Ant: ==ignore, overlook, neglect==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Looking at a research report with sparse tables, a few scattered data points on graphs, empty or minimal statistical charts
+> - **Visual:** Looking at a research report with sparse tables (seeing empty cells), a few scattered data points on graphs (spotting single dots), ==examining== minimal statistical charts (reading simple data)
 >
-> - **Auditory:** Hearing expressions like "we only have a few figures," "the data is limited," "there aren't many statistics available," "we're restricted to minimal data"
+> - **Auditory:** Hearing expressions like "we only have a few figures" (listening to limitations), "the data is ==limited==," "there aren't many statistics ==available==," "we're ==restricted== to minimal data"
 >
-> - **Action:** Researchers examining empty data tables, students noting limited information in reports, pointing out sparse numerical findings
+> - **Action:** Researchers ==scrutinizing== empty data tables (analyzing lack), students ==noting== limited information (writing down constraints), ==pointing out== sparse numerical findings (identifying gaps)
 >
 > **🔗 Collocation Patterns:**
 > - `Adjective + number of`: small, limited, few, minimal, restricted, low
 >
 > - `Verb + number`: involve, contain, have, provide, yield, generate
->
-> - `Number + of + noun`: statistics, data points, figures, numerical findings, data
 
 > [!example] 🎙️ Real Audio Phrases
 > - "There's only a ==limited amount of data== available."
@@ -95,28 +99,35 @@ ref:
 
 ---
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==involve only a small number of statistics==
 >
 > **Context:** *Academic discussion about research data availability*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "limited data" / "few statistics available"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==very few data points to work with==
+> - ==limited amount of numerical information==
+> - ==minimal statistical findings available==
+> - ==scarce data on this specific aspect==
 >
-> **🥈 Other possibilities:**
-> - "minimal data points"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==an abundance of statistical figures==
+> - ==extensive data analysis required==
+> - ==vast dataset with numerous statistics==
+> - ==comprehensive numerical information==
 >
-> - "not many numerical findings"
->
-> - "scarce statistical information"
->
-> - "restricted to just a few statistics"
->
-> **🔑 Core Concept:** Focus on LIMITED QUANTITY/AMOUNT of data (not quality or accuracy)
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -383,3 +394,57 @@ ref:
 > 2. ==few statistics available==
 >
 > **🎯 Goal:** Instant Recall
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==involve only a small number of statistics==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==the research is limited by having very few data points=="
+> 2. "==there's an abundance of statistical figures to analyze=="
+> 3. "==we're only dealing with minimal numerical information=="
+> 4. "==the statistics we found weren't very accurate or reliable=="
+> 5. "==there are only a small number of figures in the report=="
+> 6. "==we need to manage a vast and complex dataset today=="
+> 7. "==this aspect involves scarce statistical findings initially=="
+> 8. "==the information provided was simply too vague to use=="
+> 9. "==we're restricted to a limited amount of data currently=="
+> 10. "==the study provides a comprehensive statistical analysis=="
+?
+> [!info] 📊 Classification Result
+> 1. ==the research is limited by having very few data points== → ==[✅]== (Paraphrase của small number of statistics)
+> 2. ==there's an abundance of statistical figures to analyze== → ==[❌]== (Ngược lại với small number)
+> 3. ==we're only dealing with minimal numerical information== → ==[✅]== (Đặc điểm của small number)
+> 4. ==the statistics we found weren't very accurate or reliable== → ==[⚠️]== (Bẫy nội dung về độ chính xác/tin cậy)
+> 5. ==there are only a small number of figures in the report== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==we need to manage a vast and complex dataset today== → ==[❌]== (Logic đảo chiều: khổng lồ vs nhỏ bé)
+> 7. ==this aspect involves scarce statistical findings initially==" → ==[✅]== (Đặc điểm của small number)
+> 8. ==the information provided was simply too vague to use== → ==[⚠️]== (Bẫy nội dung về tính rõ ràng)
+> 9. ==we're restricted to a limited amount of data currently== → ==[✅]== (Đặc điểm của small number)
+> 10. ==the study provides a comprehensive statistical analysis== → ==[❌]== (Logic đảo chiều: toàn diện vs hạn chế)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==involve only a small number of statistics==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't looking for ==vast datasets== or ==numerous statistics==; what we really needed were ==just a few key figures== and ==minimal data points==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK involve only a small number of statistics==
+>
+> **🧠 Reason:** Cấu trúc "weren't looking for X; what really needed were Y" (X = vast/numerous, Y = few/minimal) đã phủ định số lượng lớn (Antonyms) và khẳng định số lượng ít. 
+> - Vast = Antonym of Small number
+> - → Few key figures = Small number of statistics.
+>
+> **🎯 Skill:** Nhận diện điểm mấu chốt khi người nói bác bỏ các đặc điểm "khổng lồ/nhiều" (Antonyms) để tập trung vào thực tế ít dữ liệu.
+
+---

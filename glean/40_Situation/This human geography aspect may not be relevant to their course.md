@@ -35,14 +35,29 @@ ref:
 >
 > **Topic Category:** ==Academic Research / Course Selection / Study Planning==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** ==Not relevant to their course== refers to a research topic or aspect that does not align with, connect to, or fit within the scope and requirements of their academic curriculum or program
 >
-> - **Denotation:** Direct meaning includes: outside the course scope, not covered in syllabus, doesn't match course requirements, inappropriate for their program, unrelated to their field of study
+> - **Denotation (Nghĩa đen):** Direct meaning includes: outside the course scope, not covered in syllabus, doesn't match course requirements, inappropriate for their program, unrelated to their field of study
 >
 > - **Distractor:** Similar phrases include "not interesting," "too difficult," "not important," "waste of time" - these express personal opinions, not ==academic relevance==
 >
-> - **Deep Dive:** In IELTS context, speakers may paraphrase "not relevant" as: "doesn't fit with our course," "it's outside the scope," "not really connected to what we're studying," "not suitable for our program," "doesn't match the syllabus," "not part of our curriculum"
+> - **Deep Dive:** Paraphrasing sâu hơn: ==doesn't fit with our course, it's outside the scope, not really connected to what we're studying, not suitable for our program, doesn't match the syllabus, not part of our curriculum==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==highly relevant, central to course, perfect fit, essential part of studies, core module topic, directly applicable==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==fit/align== → Syn: ==correspond, match, suit== | Ant: ==clash, differ, deviate==
+>   - ==study/research== → Syn: ==investigate, examine, analyze== | Ant: ==ignore, overlook, neglect==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** ==looking at syllabus== (checking module list), ==highlighting irrelevant topics== (marking red), ==crossing out options== (ruling out research), ==comparing documents== (matching topic vs curriculum)
+>
+> - **Auditory:** Hearing phrases like "==doesn't fit==" (listening to rejection), "==outside our scope==" (hearing boundary), "==not really connected==" (detecting mismatch), "==not suitable==" (confirming unsuitability)
+>
+> - **Action:** ==discussing requirements== (talking with partner), ==ruling out aspects== (deciding what to skip), ==revising topic list== (editing plan), ==advising on suitability== (listening to mentor)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -95,28 +110,37 @@ ref:
 
 ---
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==may not be relevant to their course==
 >
 > **Context:** *Academic discussion about research topic suitability*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "doesn't fit with our course" / "outside the scope"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==outside the scope of our current modules==
+> - ==doesn't really fit with what we are studying==
+> - ==not suitable for our specific degree program==
+> - ==not connected to the curriculum this term==
 >
-> **🥈 Other possibilities:**
-> - "not suitable for our program"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==absolutely central to our main module==
+> - ==perfectly aligned with our research goals==
+> - ==a core requirement for our final assessment==
+> - ==directly relevant to what the professor taught==
 >
-> - "not connected to what we're studying"
->
-> - "doesn't match our syllabus"
->
-> - "not part of our curriculum"
->
-> **🔑 Core Concept:** Focus on ACADEMIC SUITABILITY/SCOPE (relevance to what's being studied)
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -385,3 +409,59 @@ ref:
 > 2. ==doesn't fit with our studies==
 >
 > **🎯 Goal:** Instant Recall
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==may not be relevant to their course==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==this topic doesn't really fit with our degree modules=="
+> 2. "==finding information for this aspect might be too difficult=="
+> 3. "==concluding the research is outside the scope of our program=="
+> 4. "==I think researching human geography would be very interesting=="
+> 5. "==the aspect turns out not to be part of our current curriculum=="
+> 6. "==this topic is absolutely central to what we are studying now=="
+> 7. "==it's not really connected to the syllabus for this semester=="
+> 8. "==we should focus on a smaller number of statistics instead=="
+> 9. ==the topic is suitable and matches our course requirements==
+> 10. ==avoiding the topic because it's completely irrelevant to us==
+?
+> [!info] 📊 Classification Result
+> 1. ==this topic doesn't really fit with our degree modules== → ==[✅]== (Paraphrase của irrelevant)
+> 2. ==finding information for this aspect might be too difficult== → ==[⚠️]== (Bẫy nội dung về độ khó)
+> 3. ==concluding the research is outside the scope of our program== → ==[✅]== (Đặc điểm của irrelevant)
+> 4. ==I think researching human geography would be very interesting== → ==[⚠️]== (Bẫy nội dung về hứng thú cá nhân)
+> 5. ==the aspect turns out not to be part of our current curriculum== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==this topic is absolutely central to what we are studying now== → ==[❌]== (Ngược lại với irrelevant)
+> 7. ==it's not really connected to the syllabus for this semester== → ==[✅]== (Đặc điểm của irrelevant)
+> 8. ==we should focus on a smaller number of statistics instead== → ==[⚠️]== (Bẫy nội dung về số liệu)
+> 9. ==the topic is suitable and matches our course requirements== → ==[❌]== (Logic đảo chiều: irrelevant vs suitable)
+> 10. ==avoiding the topic because it's completely irrelevant to us== → ==[✅]== (Đặc điểm của irrelevant)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==may not be relevant to their course==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't looking for something ==highly relevant== or ==crucial to our studies==; as it turns out, we found this aspect to be ==outside our scope== and ==not really connected== to our modules..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK may not be relevant to their course==
+>
+> **🧠 Reason:** Cấu trúc "weren't looking for X (Antonym); instead, found Y (Synonym)" đã phủ định sự phù hợp (Antonym) và khẳng định sự không liên quan. 
+> - Highly relevant = Antonym of Irrelevant
+> - → Outside our scope = Not relevant to course.
+>
+> **🎯 Skill:** Nhận diện đúng sự phù hợp khi người nói bác bỏ các khái niệm "quan trọng/trọng tâm" (Antonyms) để giới thiệu tính chất không liên quan của chủ đề nghiên cứu.
+
+---

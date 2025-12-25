@@ -34,23 +34,29 @@ ref:
 >
 > **Topic Category:** ==Urban Studies / Human Geography / City Problems==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Vấn đề về ==mất cân bằng cung cầu nhà ở== hoặc ==thiếu nhà ở giá cả phải chăng== gây khó khăn cho cư dân đô thị
 >
-> - **Denotation:** Nghĩa đen là tình trạng ==thiếu nhà ở (housing shortage)==, ==giá nhà cao (expensive housing)==, hoặc ==chất lượng nhà ở kém (poor housing conditions)== trong thành phố
+> - **Denotation (Nghĩa đen):** Nghĩa đen là tình trạng ==thiếu nhà ở (housing shortage)==, ==giá nhà cao (expensive housing)==, hoặc ==chất lượng nhà ở kém (poor housing conditions)== trong thành phố
 >
 > - **Distractor:** "crime" (tội phạm) - nghe giống "urban problem" nhưng thường là vấn đề an ninh KHÁC với housing; "unemployment" (thất nghiệp) - vấn đề kinh tế nhưng không phải vấn đề chính về địa lý nhân văn
 >
-> - **Deep Dive:** Paraphrasing sâu hơn: ==housing shortage==, ==lack of affordable accommodation==, ==housing crisis==, ==homelessness issue==, ==overcrowding==, ==inadequate housing==, ==poor living conditions==
+> - **Deep Dive:** Paraphrasing sâu hơn: ==housing shortage, lack of affordable accommodation, housing crisis, homelessness issue, overcrowding, inadequate housing, poor living conditions==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==housing abundance, plenty of affordable homes, easy to find accommodation, stable housing market, surplus of low-cost housing==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==struggle/compete== → Syn: ==contend, strive, grapple== | Ant: ==surrender, yield, give up==
+>   - ==afford/pay for== → Syn: ==manage, sustain, bear== | Ant: ==forfeit, fail, lose==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung ==các tòa nhà chung cư cũ kỹ, chật chội== hoặc ==người vô gia cư ngủ ngoài đường==; cảnh =quận nhà ổ chuột= (slums)
+> - **Visual:** Hình dung ==các tòa nhà chung cư cũ kỹ, chật chội== (seeing crowded flats), ==người vô gia cư ngủ ngoài đường== (spotting homeless people); cảnh ==tìm kiếm bảng thông báo thuê nhà== (viewing rental ads)
 >
-> - **Auditory:** Giọng điệu ==lo lắng/nghiêm túc== khi nói về "main problem"; có thể dùng nhấn âm trên "housing"
+> - **Auditory:** Giọng điệu ==lo lắng/nghiêm túc== (serious tone) khi nói về "main problem"; nhấn âm vào "HOUSING"; tiếng ==thở dài== (sighing) khi nhắc đến tiền thuê nhà
 >
-> - **Action:** Thao tác ==tìm kiếm nhà thuê với giá cao== hoặc ==chuyển nhà nhiều lần vì nhà không phù hợp==
+> - **Action:** Thao tác ==tìm kiếm nhà thuê với giá cao== (searching for rentals), ==chuyển nhà nhiều lần== (repeatedly moving) vì không phù hợp, ==ký hợp đồng thuê nhà đắt đỏ== (signing expensive leases)
 >
 > **🔗 Collocation Patterns:**
 > - `Noun + problem`: housing problem, housing issue, housing crisis, housing shortage
@@ -94,34 +100,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (18 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==housing==
 >
 > **Context:** *Urban problems discussion*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "The ==main/biggest problem is housing shortage==" hoặc "==real issue is lack of accommodation=="
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==lack of affordable accommodation for families==
+> - ==serious housing shortage in the city center==
+> - ==struggling to find decent places to live==
+> - ==the housing crisis affecting low-income residents==
 >
-> **🥈 Other possibilities:**
-> - "housing crisis affecting most people"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==abundance of low-cost housing units==
+> - ==plenty of affordable homes to choose from==
+> - ==no trouble finding suitable accommodation==
+> - ==housing market is stable and accessible==
 >
-> - "not enough affordable homes"
->
-> - "struggle to find proper housing"
->
-> - "inadequate housing conditions"
->
-> **🔑 Core Concept:** Khẳng định housing là ==vấn đề chính/ưu tiên nhất== so với các vấn đề khác
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -508,3 +517,59 @@ ref:
 > - **Confirmation Logic:** Xác định housing thông qua các từ khóa nhấn mạnh ("main issue", "real challenge", "primary concern") và paraphrase đặc thù về housing shortage
 >
 > **🔑 Strategic Lesson:** Bài học rút ra về việc lắng nghe các từ khóa ==so sánh/nhấn mạnh== (main, biggest, real, definitely) để xác định ưu tiên giữa nhiều vấn đề
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==housing==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==there's a severe shortage of affordable accommodation=="
+> 2. "==crime rates have been rising significantly in the city=="
+> 3. "==families are struggling to find decent places to live=="
+> 4. "==unemployment is a major worry for young graduates=="
+> 5. "==the housing crisis is what's affecting people most deeply=="
+> 6. "==there are plenty of low-cost homes for everyone now=="
+> 7. "==not enough affordable housing for regular families=="
+> 8. "==the city is well-known for its safe and secure streets=="
+> 9. "==people can't find suitable homes within their budget=="
+> 10. "==the housing market is stable with many vacancies available=="
+?
+> [!info] 📊 Classification Result
+> 1. ==there's a severe shortage of affordable accommodation== → ==[✅]== (Paraphrase của housing problem)
+> 2. ==crime rates have been rising significantly in the city== → ==[⚠️]== (Bẫy nội dung về tội phạm)
+> 3. ==families are struggling to find decent places to live== → ==[✅]== (Đặc điểm của housing problem)
+> 4. ==unemployment is a major worry for young graduates== → ==[⚠️]== (Bẫy nội dung về thất nghiệp)
+> 5. ==the housing crisis is what's affecting people most deeply== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==there are plenty of low-cost homes for everyone now== → ==[❌]== (Ngược lại với housing shortage)
+> 7. ==not enough affordable housing for regular families== → ==[✅]== (Đặc điểm của housing problem)
+> 8. ==the city is well-known for its safe and secure streets== → ==[⚠️]== (Bẫy nội dung về an ninh)
+> 9. ==people can't find suitable homes within their budget== → ==[✅]== (Đặc điểm của housing problem)
+> 10. ==the housing market is stable with many vacancies available== → ==[❌]== (Logic đảo chiều: ổn định vs khủng hoảng)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==housing==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't facing a ==surplus of units== or a ==stable rental market==; if anything, the city was in a ==housing crisis== with ==no affordable homes== left..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK housing==
+>
+> **🧠 Reason:** Cấu trúc "weren't facing X; if anything, was Y" (X = surplus/stable, Y = crisis/no homes) đã phủ định sự dư thừa (Antonyms) và khẳng định sự khủng hoảng/thiếu hụt. 
+> - Surplus = Antonym of Shortage
+> - → Housing crisis = Housing problem.
+>
+> **🎯 Skill:** Nhận diện điểm khẳng định khi người nói bác bỏ các đặc điểm "dư thừa/ổn định" (Antonyms) để mô tả thực tế khắc nghiệt về nhà ở.
+
+---

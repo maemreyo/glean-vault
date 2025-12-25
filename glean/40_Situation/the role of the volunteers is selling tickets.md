@@ -30,14 +30,29 @@ ref:
 >
 > **Topic Category:** ==Volunteering== / Sales/Finance
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Tình nguyện viên có trách nhiệm ==bán vé== và thu tiền tham dự cho các sự kiện hoặc hoạt động tại lễ hội
 >
-> - **Denotation:** "Selling tickets" = "collect payments" = "handle admissions" = "process ticket sales"
+> - **Denotation (Nghĩa đen):** "Selling tickets" = "collect payments" = "handle admissions" = "process ticket sales"
 >
 > - **Distractor:** "Providing information" nghe giống vì thường đứng tại quầy ở gần đó, nhưng đó là ==cho thông tin miễn phí== chứ không thu tiền
 >
-> - **Deep Dive:** Paraphrasing sâu = "collect entry fees", "take payments for admission", "handle cash transactions", "process ticket purchases"
+> - **Deep Dive:** Paraphrasing sâu = ==collect entry fees, take payments for admission, handle cash transactions, process ticket purchases==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==free admission, no charge, giving away tickets, complimentary entry, open to public, waived fees==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==sell/market== → Syn: ==vend, retail, exchange== | Ant: ==buy, purchase, acquire==
+>   - ==collect/receive== → Syn: ==gather, accumulate, obtain== | Ant: ==distribute, disperse, spend==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** Hình dung tình nguyện viên ==đứng tại quầy== (standing at booth), ==cầm máy tính tiền== (holding cash register) hoặc ==thu máy POS== (using card reader), ==đếm tiền mặt== (counting cash)
+>
+> - **Auditory:** Nghe tiếng máy tính tiền ==beep== (hearing beeps), tiếng ==đếm tiền== (counting money), câu ==hỏi== "How much for tickets?" (listening to price queries), câu ==trả lời== "That's 10 pounds please" (stating amount)
+>
+> - **Action:** Hành động cụ thể: ==thu tiền== (collecting money), ==đưa vé== (handing over tickets), ==trả tiền thừa== (giving change), ==xử lý giao dịch== (processing transactions)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -86,30 +101,37 @@ ref:
 >
 > → **Match:** ==selling tickets==
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
 ---
 
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==selling tickets==
 >
 > **Context:** *Volunteering at community festivals*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "Your role is to ==collect payments== for festival activities"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==collecting admission payments at the gates==
+> - ==handling ticket sales for various activities==
+> - ==processing transactions for festival entries==
+> - ==taking money from visitors for tickets==
 >
-> **🥈 Other possibilities:**
-> - "You'll be ==handling ticket sales== at the entrance"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==providing free admission to all visitors==
+> - ==giving away complimentary tickets to guests==
+> - ==events being open to the public without charge==
+> - ==waiving the entry fee for all participants==
 >
-> - "The job involves ==processing admissions== and cash transactions"
->
-> - "Volunteers will be ==taking money== for events"
->
-> - "Your main task is to ==sell admission tickets=="
->
-> **🔑 Core Concept:** Bán vé và thu tiền tham dự
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -367,5 +389,57 @@ ref:
 > 2. ==handling ticket sales and cash==
 >
 > **🎯 Goal:** Instant Recall
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==selling tickets==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==collecting admission fees from visitors at the main gates=="
+> 2. "==providing information about where people can buy tickets=="
+> 3. "==processing both cash and card payments for entry tickets=="
+> 4. "==giving advice to attendees about the festival schedule=="
+> 5. "==handling ticket sales at various festival venues independently=="
+> 6. "==offering complimentary tickets with no charge to everyone=="
+> 7. "==taking money for workshops and special exhibitions entries=="
+> 8. "==you'll be helping visitors find their seats in performance areas=="
+> 9. ==receiving payments for admissions and giving receipts==
+> 10. ==the festival is open to the public for free this year==
+?
+> [!info] 📊 Classification Result
+> 1. ==collecting admission fees from visitors at the main gates== → ==[✅]== (Paraphrase của selling tickets)
+> 2. ==providing information about where people can buy tickets== → ==[⚠️]== (Bẫy nội dung về cung cấp thông tin)
+> 3. ==processing both cash and card payments for entry tickets== → ==[✅]== (Đặc điểm của selling tickets)
+> 4. ==giving advice to attendees about the festival schedule== → ==[⚠️]== (Bẫy nội dung về tư vấn)
+> 5. ==handling ticket sales at various festival venues independently== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==offering complimentary tickets with no charge to everyone== → ==[❌]== (Ngược lại với selling tickets)
+> 7. ==taking money for workshops and special exhibitions entries== → ==[✅]== (Đặc điểm của selling tickets)
+> 8. ==you'll be helping visitors find their seats in performance areas== → ==[⚠️]== (Bẫy nội dung về tìm chỗ ngồi)
+> 9. ==receiving payments for admissions and giving receipts== → ==[✅]== (Đặc điểm của selling tickets)
+> 10. ==the festival is open to the public for free this year== → ==[❌]== (Logic đảo chiều: bán vs miễn phí)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==selling tickets==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't offering ==free entry== or ==complimentary passes==; instead, we had volunteers ==collecting payments== and ==selling tickets== to every person who arrived..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK selling tickets==
+>
+> **🧠 Reason:** Cấu trúc "weren't offering X (Antonym); instead, had Y (Synonym)" đã phủ định việc miễn phí (Antonym) và khẳng định hành động bán/thu tiền. 
+> - Free entry = Antonym of Selling tickets (paid entry)
+> - → Collecting payments = Selling tickets.
+>
+> **🎯 Skill:** Nhận diện đúng vai trò khi người nói bác bỏ các khái niệm "miễn phí/không thu tiền" (Antonyms) để mô tả tính chất thương mại (bán vé) của công việc.
 
 ---

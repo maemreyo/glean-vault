@@ -26,18 +26,33 @@ ref:
 > | A | ==no useful research has been done== | Không có nghiên cứu hữu ích được thực hiện | lack of studies, insufficient data, poor literature | ⚠️ High |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** ==Phán định về sự thiếu hụt tài liệu nghiên cứu==
+> **Type of Info:** ==Phán định về sự thiếu hụt tài liệu nghiên cứu== (Assessment of Research Gaps)
 >
 > **Topic Category:** ==Academic Research / Human Geography==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Khẳng định rằng ==không tồn tại nghiên cứu chất lượng/hữu ích== về khía cạnh địa lý nhân văn này, khiến việc thu thập thông tin gặp khó khăn
 >
-> - **Denotation:** Nghĩa đen là chưa có ai ==thực hiện (has been done)== nghiên cứu mang lại giá trị thực tiễn cho chủ đề này
+> - **Denotation (Nghĩa đen):** Nghĩa đen là chưa có ai ==thực hiện (has been done)== nghiên cứu mang lại giá trị thực tiễn cho chủ đề này
 >
 > - **Distractor:** "easy to find facts" (dễ tìm thông tin), "too vague" (quá mơ hồ), "not reliable" (không đáng tin cậy) - đánh giá tiêu cực nhưng ở khía cạnh khác
 >
-> - **Deep Dive:** Paraphrasing sâu hơn: ==lack of relevant studies==, ==scarce literature==, ==insufficient data available==, ==poorly researched area==, ==gaps in existing research==
+> - **Deep Dive:** Paraphrasing sâu hơn: ==lack of relevant studies, scarce literature, insufficient data available, poorly researched area, gaps in existing research==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==extensively researched, wealth of literature, abundant data, well-documented topic, plethora of studies, comprehensively studied==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==conduct/do== (research) → Syn: ==undertake, carry out, execute== | Ant: ==neglect, abandon, overlook==
+>   - ==find/locate== (studies) → Syn: ==discover, identify, unearth== | Ant: ==lose, miss, ignore==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** Hình dung một sinh viên ==ngồi trước máy tính với trang web hiển thị "No results found"== (seeing empty results), ==thư viện nơi không có sách về chủ đề đó== (observing empty shelves), ==nhìn vào trang mục lục trống trơn== (staring at blank index)
+>
+> - **Auditory:** Giọng điệu ==thất vọng, thở dài== (hearing sigh of frustration) khi nói "no useful research"; âm thanh ==gõ bàn phím liên hồi nhưng không thấy gì== (tapping keys with no output)
+>
+> - **Action:** Thao tác ==gõ từ khóa và thấy kết quả rỗng== (typing keywords with zero hits), ==lật trang sách nhưng không thấy thông tin liên quan== (scouring pages with no success), ==đóng nắp laptop chán nản== (shuttering laptop in disappointment)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -96,28 +111,37 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==no useful research has been done==
 >
-> **Context:** *Research project discussion*
+> **Context:** *Research project discussion regarding lack of existing literature*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "There's ==a lack of/studies==" hoặc "==scarce/limited literature=="
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==simply no useful research has been carried out==
+> - ==a complete lack of relevant studies available==
+> - ==existing literature is virtually non-existent for this topic==
+> - ==poorly researched area with scarce academic papers==
 >
-> **🥈 Other possibilities:**
-> - "Very few relevant studies available"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==extensively documented with a wealth of literature==
+> - ==abundant research data coming from numerous sources==
+> - ==a well-studied field with a plethora of available papers==
+> - ==plenty of useful research has been done previously==
 >
-> - "Poorly documented area"
->
-> - "Gaps in the existing research"
->
-> - "Insufficient academic sources"
->
-> **🔑 Core Concept:** Khẳng định sự ==thiếu hụt/khan hiếm== nghiên cứu về chủ đề
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -391,3 +415,59 @@ ref:
 > 2. ==scarce/limited literature==
 >
 > **🎯 Goal:** Instant Recall
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==no useful research has been done==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==literature for this topic is practically non-existent=="
+> 2. "==this specific problem is quite easy to find facts for=="
+> 3. "==after searching, I couldn't locate any relevant studies=="
+> 4. "==the available facts for this aspect might not be reliable=="
+> 5. "==simply no meaningful studies have been carried out yet=="
+> 6. "==the topic is extensively documented with plenty of sources=="
+> 7. "==this appears to be an extremely poorly researched area=="
+> 8. "==much of the information found was way too vague for us=="
+> 9. ==large gaps exist in the current research literature base==
+> 10. ==finding useful studies on this was surprisingly simple==
+?
+> [!info] 📊 Classification Result
+> 1. ==literature for this topic is practically non-existent== → ==[✅]== (Paraphrase của no research)
+> 2. ==this specific problem is quite easy to find facts for== → ==[⚠️]== (Bẫy nội dung về tiếp cận)
+> 3. ==after searching, I couldn't locate any relevant studies== → ==[✅]== (Đặc điểm của no research)
+> 4. ==the available facts for this aspect might not be reliable== → ==[⚠️]== (Bẫy nội dung về tin cậy)
+> 5. ==simply no meaningful studies have been carried out yet== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==the topic is extensively documented with plenty of sources== → ==[❌]== (Ngược lại with no research)
+> 7. ==this appears to be an extremely poorly researched area== → ==[✅]== (Đặc điểm của no research)
+> 8. ==much of the information found was way too vague for us== → ==[⚠️]== (Bẫy nội dung về độ rõ ràng)
+> 9. ==large gaps exist in the current research literature base== → ==[✅]== (Đặc điểm của no research)
+> 10. ==finding useful studies on this was surprisingly simple== → ==[❌]== (Logic đảo chiều: trắng tay vs dư dả/dễ dàng)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==no useful research has been done==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't exactly working with an ==extensively documented field== or a ==wealth of literature==; instead, we found that ==no useful research== has really been done at all..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK no useful research has been done==
+>
+> **🧠 Reason:** Cấu trúc "weren't exactly working with X (Antonym); instead, found Y (Synonym)" đã phủ định sự dồi dào tài liệu (Antonym) và khẳng định sự trống vắng nghiên cứu. 
+> - Extensively documented / Wealth of literature = Antonym of No research
+> - → No useful research has been done = Correct meaning.
+>
+> **🎯 Skill:** Nhận diện đúng khoảng trống tài liệu khi người nói bác bỏ các khái niệm "tài liệu phong phú/chi tiết" (Antonyms) để mô tả tính chất chưa được nghiên cứu (poorly researched) của khía cạnh địa lý này.
+
+---

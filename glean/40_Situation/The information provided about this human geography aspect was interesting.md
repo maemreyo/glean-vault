@@ -26,18 +26,33 @@ ref:
 > | A | ==information was interesting== | Thông tin thú vị/hấp dẫn | fascinating, engaging, compelling, noteworthy | ⚠️ Medium |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** ==Phán định tính thú vị/hấp dẫn của thông tin==
+> **Type of Info:** ==Phán định tính thú vị/hấp dẫn của thông tin== (Assessment of Engagement)
 >
 > **Topic Category:** ==Academic Research / Engagement Level==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Khẳng định rằng ==thông tin được cung cấp về khía cạnh địa lý nhân văn này thu hút, đáng quan tâm hoặc gây hứng thú== cho người nghiên cứu
 >
-> - **Denotation:** Nghĩa đen là thông tin ==interesting (thú vị/hấp dẫn)==, ==fascinating (cuốn hút)==, hoặc ==compelling (gây ấn tượng)== - tạo sự thích thú trong việc nghiên cứu
+> - **Denotation (Nghĩa đen):** Nghĩa đen là thông tin ==interesting (thú vị/hấp dẫn)==, ==fascinating (cuốn hút)==, hoặc ==compelling (gây ấn tượng)== - tạo sự thích thú trong việc nghiên cứu
 >
 > - **Distractor:** "easy to find facts" (dễ kiếm), "no useful research" (không có nghiên cứu), "too vague/not reliable" (mơ hồ/không tin cậy) - các vấn đề KHÁC về KHẢ NĂNG, TỒN TẠI, CHẤT LƯỢNG
 >
-> - **Deep Dive:** Paraphrasing sâu hơn: ==fascinating==, ==engaging==, ==compelling==, ==noteworthy==, ==captivating==, ==intriguing==, ==worthy of attention==, ==appealing==, ==grabbing my interest==
+> - **Deep Dive:** Paraphrasing sâu hơn: ==fascinating, engaging, compelling, noteworthy, captivating, intriguing, worthy of attention, appealing, grabbing my interest==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==boring, dull, uninteresting, monotonous, tedious, dry, unengaging, repetitive==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==interest/engage== → Syn: ==captivate, enthrall, intrigue== | Ant: ==bore, tire, weary==
+>   - ==grab/catch== (attention) → Syn: ==seize, snag, hook== | Ant: ==repel, release, lose==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** Hình dung một sinh viên ==đọc tài liệu với ánh mắt sáng lấp lánh== (noticing brightness), ==gật đầu tán thưởng== (nodding in approval), ==mở to mắt tò mò== (widening eyes in curiosity), ==dựng thẳng lưng khi đọc== (sitting up straight)
+>
+> - **Auditory:** Giọng điệu ==hào hứng/táo bạo== (hearing excitement) khi nói "interesting"; âm thanh ==lật trang nhanh chóng vì quá cuốn== (turning pages rapidly)
+>
+> - **Action:** Thao tác ==gạch chân phần thú vị== (underlining key parts), ==nhanh lật trang muốn đọc tiếp== (flipping to the next page), ==ghi chú "Great point!"== (jotting down positive notes), ==chia sẻ ngay với bạn học== (sharing findings immediately)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -94,28 +109,37 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==information was interesting==
 >
-> **Context:** *Research project discussion*
+> **Context:** *Research project discussion regarding engagement level/interest*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "The information was ==fascinating/engaging==" hoặc "==found some really interesting facts/data=="
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==information provided was genuinely fascinating==
+> - ==found some really engaging and intriguing facts==
+> - ==material was compelling and worth exploring further==
+> - ==content was captivating from start to finish==
 >
-> **🥈 Other possibilities:**
-> - "compelling material"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==the information was incredibly dull and boring==
+> - ==found the material quite tedious and repetitive==
+> - ==content was unengaging and failed to catch my eye==
+> - ==the findings were monotonous and dry throughout==
 >
-> - "captivating information"
->
-> - "worthwhile findings"
->
-> - "grabbed my attention"
->
-> **🔑 Core Concept:** Khẳng định sự ==thú vị/hấp dẫn== của thông tin
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -393,3 +417,59 @@ ref:
 > 2. ==compelling/captivating==
 >
 > **🎯 Goal:** Instant Recall
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==information was interesting==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==the information I found was genuinely fascinating=="
+> 2. "==this specific aspect is surprisingly easy to find facts for=="
+> 3. "==contained many intriguing data points and findings=="
+> 4. "==no useful research has been done on this until now=="
+> 5. "==the material was compelling and worth exploring more=="
+> 6. "==found the content to be incredibly dull and repetitive=="
+> 7. "==everything provided was captivating and grabbed my attention=="
+> 8. "==the information was just too vague to be of any use=="
+> 9. ==the content was engaging and noteworthy from the start==
+> 10. ==the findings were monotonous and quite dry in places==
+?
+> [!info] 📊 Classification Result
+> 1. ==the information I found was genuinely fascinating== → ==[✅]== (Paraphrase của interesting)
+> 2. ==this specific aspect is surprisingly easy to find facts for== → ==[⚠️]== (Bẫy nội dung về tiếp cận)
+> 3. ==contained many intriguing data points and findings== → ==[✅]== (Đặc điểm của interesting)
+> 4. ==no useful research has been done on this until now== → ==[⚠️]== (Bẫy nội dung về sự tồn tại)
+> 5. ==the material was compelling and worth exploring more== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==found the content to be incredibly dull and repetitive== → ==[❌]== (Ngược lại with interesting)
+> 7. ==everything provided was captivating and grabbed my attention== → ==[✅]== (Đặc điểm của interesting)
+> 8. ==the information was just too vague to be of any use== → ==[⚠️]== (Bẫy nội dung về độ rõ ràng)
+> 9. ==the content was engaging and noteworthy from the start== → ==[✅]== (Đặc điểm của interesting)
+> 10. ==the findings were monotonous and quite dry in places== → ==[❌]== (Logic đảo chiều: hấp dẫn vs nhàm chán)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==information was interesting==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't just dealing with ==dry facts== or ==monotonous data==; instead, the information provided was ==fascinating== and ==really interesting==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK information was interesting==
+>
+> **🧠 Reason:** Cấu trúc "weren't just dealing with X (Antonym); instead, information was Y (Synonym)" đã phủ định sự khô khan (Antonym) và khẳng định sự thú vị. 
+> - Dry facts / Monotonous data = Antonym of Interesting
+> - → Fascinating = Interesting.
+>
+> **🎯 Skill:** Nhận diện đúng đánh giá khi người nói bác bỏ các khái niệm "nhàm chán/tẻ nhạt" (Antonyms) để giới thiệu tính chất hấp dẫn (interesting) của thông tin.
+
+---

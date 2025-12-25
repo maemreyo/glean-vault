@@ -31,14 +31,29 @@ ref:
 >
 > **Topic Category:** ==Volunteering==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** ==systematically gathering opinions, comments, and responses from event attendees to evaluate and improve future events==
 >
-> - **Denotation:** ==getting feedback, collecting opinions, gathering comments from people who attended==
+> - **Denotation (Nghĩa đen):** ==getting feedback, collecting opinions, gathering comments from people who attended==
 >
 > - **Distractor:** ==giving feedback (reverse direction), making feedback about events (creating rather than collecting), discussing feedback (analyzing not gathering)==
 >
-> - **Deep Dive:** ==surveying attendees, getting opinions, gathering responses, collecting comments, obtaining input, receiving feedback==
+> - **Deep Dive:** Paraphrasing sâu hơn: ==surveying attendees, getting opinions, gathering responses, collecting comments, obtaining input, receiving feedback==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==ignoring visitors, dismissing comments, avoiding surveys, overlooking suggestions, refusing input, keeping silent==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==collect/gather== → Syn: ==amass, assemble, harvest== | Ant: ==disperse, scatter, discard==
+>   - ==evaluate/improve== → Syn: ==assess, refine, enhance== | Ant: ==neglect, worsen, deteriorate==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** ==volunteers with clipboards== (holding survey pads), ==people filling out surveys== (writing on forms), ==volunteers talking to attendees== (engaging visitors), ==collecting questionnaires== (stacking papers)
+>
+> - **Auditory:** ==asking for opinions== (listening to thoughts), ==hearing feedback== (recording suggestions), ==discussing event experiences== (talking with crowd), ==recording comments== (noting down words)
+>
+> - **Action:** ==approaching visitors== (meeting people), ==distributing questionnaires== (handing out forms), ==asking questions== (inquiring thoughts), ==noting down comments== (scribbling ideas), ==collecting forms== (gathering replies)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -97,28 +112,37 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==collecting feedback on events==
 >
 > **Context:** *Volunteer responsibilities for festival events - gathering opinions and responses from attendees*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "getting feedback" / "gathering opinions"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==gathering responses from people attending the festival==
+> - ==getting opinions on how visitors found the activities==
+> - ==obtaining comments from attendees about experiences==
+> - ==surveying visitors as they leave the event venues==
 >
-> **🥈 Other possibilities:**
-> - "collecting responses"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==ignoring what people thought of the performances==
+> - ==avoiding any contact with spectators regarding surveys==
+> - ==dismissing all visitor feedback during the event==
+> - ==failing to gather any responses from the audience==
 >
-> - "obtaining opinions"
->
-> - "surveying attendees"
->
-> - "getting comments from visitors"
->
-> **🔑 Core Concept:** Synonyms for "collect" and "feedback" in an opinion-gathering context
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -395,3 +419,59 @@ ref:
 > 2. ==getting responses==
 >
 > **🎯 Goal:** Instant Recall
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==collecting feedback on events==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==gathering responses from people attending various events=="
+> 2. "==volunteers need to help with setting up event spaces=="
+> 3. "==getting opinions from visitors about their experiences=="
+> 4. "==organising ticket sales at the festival entrance area=="
+> 5. "==obtaining comments from attendees on how they found activities=="
+> 6. "==ignoring all visitor suggestions and keeping silent=="
+> 7. "==surveying spectators as they exit the different venues=="
+> 8. "==you'll be providing publicity about a council service=="
+> 9. ==systematically receiving feedback throughout the entire festival==
+> 10. ==dismissing spectator comments and avoiding contact with crowd==
+?
+> [!info] 📊 Classification Result
+> 1. ==gathering responses from people attending various events== → ==[✅]== (Paraphrase của collecting feedback)
+> 2. ==volunteers need to help with setting up event spaces== → ==[⚠️]== (Bẫy nội dung về chuẩn bị)
+> 3. ==getting opinions from visitors about their experiences== → ==[✅]== (Đặc điểm của collecting feedback)
+> 4. ==organising ticket sales at the festival entrance area== → ==[⚠️]== (Bẫy nội dung về bán vé)
+> 5. ==obtaining comments from attendees on how they found activities==" → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==ignoring all visitor suggestions and keeping silent== → ==[❌]== (Ngược lại with collecting feedback)
+> 7. ==surveying spectators as they exit the different venues== → ==[✅]== (Đặc điểm của collecting feedback)
+> 8. ==you'll be providing publicity about a council service== → ==[⚠️]== (Bẫy nội dung về quảng bá)
+> 9. ==systematically receiving feedback throughout the entire festival== → ==[✅]== (Đặc điểm của collecting feedback)
+> 10. ==dismissing spectator comments and avoiding contact with crowd== → ==[❌]== (Logic đảo chiều: thu thập vs phớt lờ)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==collecting feedback on events==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't supposed to ==ignore opinions== or ==dismiss what visitors had to say==; instead, the job was ==gathering responses== and ==getting their honest feedback==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK collecting feedback on events==
+>
+> **🧠 Reason:** Cấu trúc "weren't supposed to X (Antonym); instead, the job was Y (Synonym)" đã phủ định việc lờ đi (Antonym) và khẳng định hành động thu thập ý kiến. 
+> - Ignore opinions = Antonym of Collecting feedback
+> - → Gathering responses = Collecting feedback.
+>
+> **🎯 Skill:** Nhận diện đúng vai trò khi người nói bác bỏ các thái độ "thụ động/phớt lờ" (Antonyms) để mô tả nhiệm vụ nghiên cứu và lắng nghe người tham gia.
+
+---

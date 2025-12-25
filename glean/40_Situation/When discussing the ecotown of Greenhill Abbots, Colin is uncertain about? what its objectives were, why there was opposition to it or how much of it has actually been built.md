@@ -37,23 +37,29 @@ ref:
 >
 > **Topic Category:** ==Academic Research / Environmental Studies / Urban Planning==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** ==What its objectives were== refers to the intended goals, purposes, or targets that the ecotown project was designed to achieve when it was originally conceived
 >
-> - **Denotation:** Direct meaning includes: original goals, planned aims, intended purposes, what it was supposed to accomplish, target outcomes
+> - **Denotation (Nghĩa đen):** Direct meaning includes: original goals, planned aims, intended purposes, what it was supposed to accomplish, target outcomes
 >
 > - **Distractor:** Similar phrases include "what happened," "how successful it was," "what features it has" - these focus on OUTCOMES, not ==original intentions==
 >
-> - **Deep Dive:** In IELTS context, speakers may paraphrase "objectives" as: "goals," "aims," "purposes," "targets," "what it was supposed to achieve," "what they planned to accomplish"
+> - **Deep Dive:** Paraphrasing sâu hơn: ==goals, aims, purposes, targets, what it was supposed to achieve, what they planned to accomplish, intended mission==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==actual outcomes, final results, current state, physical completion, construction height, realized achievements==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==aim/intend== → Syn: ==purpose, plan, mean== | Ant: ==drift, stray, wander==
+>   - ==achieve/accomplish== → Syn: ==realize, fulfill, reach== | Ant: ==fail, miss, abandon==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Looking at project proposals, plans showing intended environmental goals, diagrams of what the ecotown was meant to achieve
+> - **Visual:** Looking at project proposals (reading documents), plans ==showing== environmental goals (seeing diagrams), diagrams of what the ecotown was ==meant== to achieve (visualizing intent)
 >
-> - **Auditory:** Hearing discussions about "the goals," "the aims," "what they wanted to achieve," "the original purpose," "what it was supposed to do"
+> - **Auditory:** Hearing discussions about "the goals" (listening to debates), "the aims," "what they ==wanted== to achieve," "the original purpose," "what it was ==supposed== to do"
 >
-> - **Action:** Planners reviewing objectives, students questioning unclear goals, comparing intended vs. actual outcomes, discussing project purposes
+> - **Action:** Planners ==reviewing== objectives (analyzing goals), students ==questioning== unclear goals, ==comparing== intended vs. actual outcomes, ==defining== project purposes
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + objectives`: understand, clarify, define, identify, be uncertain about, question
@@ -97,28 +103,35 @@ ref:
 
 ---
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/science-tech/sustainability/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==what its objectives were==
 >
 > **Context:** *Ecotown project discussion about unclear goals*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "the goals" / "the aims"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==original goals and aims of the ecotown==
+> - ==what the project was supposed to achieve==
+> - ==intended purposes behind the development==
+> - ==primary mission they planned to accomplish==
 >
-> **🥈 Other possibilities:**
-> - "the purposes"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==final construction outcomes==
+> - ==actual completion status of buildings==
+> - ==realized results versus planned targets==
+> - ==physical progress on the ground==
 >
-> - "the original targets"
->
-> - "what it was supposed to achieve"
->
-> - "the intended aims"
->
-> **🔑 Core Concept:** Focus on ORIGINAL INTENT/GOALS of the project (not outcomes or current state)
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -507,3 +520,57 @@ ref:
 > - **Confirmation Logic:** "Uncertain about" + "didn't really understand" + objective vocabulary (objectives, goals, aims, purposes) = correct answer
 >
 > **🔑 Strategic Lesson:** In uncertainty questions ("is uncertain about"), distinguish between AWARE/KNOWN items (acknowledged, knew, aware) versus the specific UNKNOWN item - the subject of the uncertainty itself
+
+#flashcards/ielts-listening/cam-20-test-2/science-tech/sustainability/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==what its objectives were==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==the project was supposed to achieve environmental goals=="
+> 2. "==why there was such strong opposition to the plan=="
+> 3. "==the original aims and purposes remained unclear=="
+> 4. "==how much of the site has actually been completed=="
+> 5. "==intended targets they planned to accomplish initially=="
+> 6. "==construction progress has reached the third phase=="
+> 7. "==what the primary mission of the ecotown was=="
+> 8. "==looking at the final outcomes and realized results=="
+> 9. "==the goals they set out to reach when starting=="
+> 10. "==calculating the exact completion percentage today=="
+?
+> [!info] 📊 Classification Result
+> 1. ==the project was supposed to achieve environmental goals== → ==[✅]== (Paraphrase của objectives)
+> 2. ==why there was such strong opposition to the plan== → ==[⚠️]== (Bẫy nội dung về phản đối)
+> 3. ==the original aims and purposes remained unclear== → ==[✅]== (Đặc điểm của uncertainty về objectives)
+> 4. ==how much of the site has actually been completed== → ==[⚠️]== (Bẫy nội dung về xây dựng)
+> 5. ==intended targets they planned to accomplish initially== → ==[✅]== (Đặc điểm của objectives)
+> 6. ==construction progress has reached the third phase== → ==[⚠️]== (Bẫy nội dung về tiến độ xây dựng)
+> 7. ==what the primary mission of the ecotown was== → ==[✅]== (Paraphrase của objectives)
+> 8. ==looking at the final outcomes and realized results== → ==[❌]== (Ngược lại với objectives/intentions)
+> 9. ==the goals they set out to reach when starting== → ==[✅]== (Đặc điểm của objectives)
+> 10. ==calculating the exact completion percentage today== → ==[❌]== (Logic đảo chiều: thực tế hiện tại vs mục tiêu ban đầu)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/science-tech/sustainability/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==what its objectives were==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We shouldn't focus on the ==final outcomes== or the ==current construction stage==; what Colin found confusing were the ==intended goals== and ==original purposes==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK A (what its objectives were)==
+>
+> **🧠 Reason:** Cấu trúc "shouldn't focus on X; what found confusing were Y" (X = outcomes/construction, Y = goals/purposes) đã phủ định các kết quả thực tế (Antonyms) và khẳng định sự nhầm lẫn về mục tiêu. 
+> - Outcomes = Antonym of Objectives
+> - → Intended goals = Objectives.
+>
+> **🎯 Skill:** Nhận diện điểm mấu chốt khi người nói bác bỏ các đặc điểm "kết quả/thực tế" (Antonyms) để tập trung vào sự mơ hồ của mục tiêu ban đầu.
+
+---

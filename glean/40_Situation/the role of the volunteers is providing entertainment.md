@@ -30,23 +30,29 @@ ref:
 >
 > **Topic Category:** ==Volunteering== / Performance
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Tình nguyện viên tự ==biểu diễn hoặc tổ chức hoạt động giải trí== cho khách tham quan tại lễ hội
 >
-> - **Denotation:** "Providing entertainment" = "performing" = "putting on shows" = "entertaining the audience"
+> - **Denotation (Nghĩa đen):** "Providing entertainment" = "performing" = "putting on shows" = "entertaining the audience"
 >
 > - **Distractor:** "Introducing speakers" nghe giống vì cũng diễn ra trên sân khấu, nhưng đó là ==giới thiệu người khác== chứ không phải ==tình nguyện viên tự biểu diễn==
 >
-> - **Deep Dive:** Paraphrasing sâu = "putting on performances", "organizing entertainment", "providing shows", "entertaining festival guests"
+> - **Deep Dive:** Paraphrasing sâu = ==putting on performances, organizing entertainment, providing shows, entertaining festival guests==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==boring activities, cancelled shows, no entertainment provided, strictly administrative tasks, quiet areas==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==entertain/amuse== → Syn: ==delight, cheer, gladden== | Ant: ==bore, tire, annoy==
+>   - ==perform/act== → Syn: ==execute, enact, present== | Ant: ==fail, neglect, halt==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung tình nguyện viên đang ==biểu diễn== trên sân khấu nhỏ, chơi nhạc cụ, múa, hoặc tổ chức trò chơi trẻ em
+> - **Visual:** Hình dung tình nguyện viên đang ==biểu diễn== trên sân khấu nhỏ (performing on stage), chơi nhạc cụ (playing instruments), múa (dancing), hoặc tổ chức trò chơi trẻ em (organizing games)
 >
-> - **Auditory:** Tiếng nhạc, tiếng cười, tiếng vỗ tay, tiếng cảm ơn "Great performance!" sau mỗi màn trình diễn
+> - **Auditory:** Nghe tiếng ==nhạc sống== (live music), tiếng cười (laughter), tiếng vỗ tay (applause), tiếng cảm ơn "Great performance!" sau mỗi màn trình diễn
 >
-> - **Action:** Người tổ chức nói "You'll be ==entertaining== visitors with short performances", hoặc tình nguyện viên nói "Let me sing a song for you"
+> - **Action:** Hành động cụ thể: ==biểu diễn ảo thuật== (performing magic), ==kể chuyện cười== (telling jokes), ==tương tác với khán giả== (engaging the audience), ==biểu diễn rối== (putting on puppet shows)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: provide + entertainment, put on + shows, perform + music, entertain + audience
@@ -89,27 +95,30 @@ ref:
 ---
 
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==providing entertainment==
 >
 > **Context:** *Volunteering at community festivals*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "Your role is to ==entertain== festival visitors"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==entertaining festival visitors==
+> - ==putting on shows for families==
+> - ==providing performances on stages==
+> - ==keeping guests amused and engaged==
 >
-> **🥈 Other possibilities:**
-> - "You'll be ==putting on shows== for families"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==strictly administrative duties==
+> - ==no entertainment scheduled==
+> - ==quiet/non-performance roles==
+> - ==cancelling all magic/music acts==
 >
-> - "The job involves ==providing entertainment== between main events"
->
-> - "Volunteers will be ==performing== on small stages"
->
-> - "Your task is to ==keep people entertained=="
->
-> **🔑 Core Concept:** Tạo niềm vui, giải trí cho khách tham quan
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -369,5 +378,57 @@ ref:
 > 2. ==entertaining festival visitors==
 >
 > **🎯 Goal:** Instant Recall
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==providing entertainment==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==putting on acoustic music shows for families=="
+> 2. "==helping visitors find where to sit for the talk=="
+> 3. "==performing a few magic tricks for children=="
+> 4. "==strictly administrative work behind the scenes=="
+> 5. "==keeping the crowds amused with short acts=="
+> 6. "==introducing the guest speakers to the audience=="
+> 7. "==organizing fun games and puppet performances=="
+> 8. "==there will be no shows or entertainment today=="
+> 9. "==volunteers will be singing and dancing on stage=="
+> 10. "==quietly monitoring the council service exhibit=="
+?
+> [!info] 📊 Classification Result
+> 1. ==putting on acoustic music shows for families== → ==[✅]== (Paraphrase của providing entertainment)
+> 2. ==helping visitors find where to sit for the talk== → ==[⚠️]== (Bẫy nội dung về vai trò tìm chỗ ngồi)
+> 3. ==performing a few magic tricks for children== → ==[✅]== (Hành động cụ thể của giải trí)
+> 4. ==strictly administrative work behind the scenes== → ==[❌]== (Ngược lại với performance/entertainment)
+> 5. ==keeping the crowds amused with short acts== → ==[✅]== (Đặc điểm của providing entertainment)
+> 6. ==introducing the guest speakers to the audience== → ==[⚠️]== (Bẫy nội dung về vai trò giới thiệu)
+> 7. ==organizing fun games and puppet performances== → ==[✅]== (Hình thức giải trí cho trẻ em)
+> 8. ==there will be no shows or entertainment today== → ==[❌]== (Logic đảo chiều: không có giải trí)
+> 9. ==volunteers will be singing and dancing on stage== → ==[✅]== (Hình thức biểu diễn cụ thể)
+> 10. ==quietly monitoring the council service exhibit== → ==[⚠️]== (Bẫy nội dung về trưng bày/council)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==providing entertainment==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We moved away from ==strictly administrative tasks==; the new focus for volunteers is to ensure the festival is ==far from boring== by providing ==shows== and ==music==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK providing entertainment==
+>
+> **🧠 Reason:** Cấu trúc "moved away from X; focus is Z" (X = admin tasks, Z = far from boring/shows) đã phủ định vai trò văn phòng (Antonym) và khẳng định vai trò giải trí. 
+> - Boring = Antonym of Entertainment
+> - → Far from boring = Entertaining.
+>
+> **🎯 Skill:** Nhận ra vai trò thực sự khi người nói chối bỏ các công việc "nhàm chán/văn phòng" (Antonyms) để mô tả thực tế sôi động.
 
 ---

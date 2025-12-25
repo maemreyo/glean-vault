@@ -30,14 +30,29 @@ ref:
 >
 > **Topic Category:** ==Volunteering== / Communications
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Tình nguyện viên có trách nhiệm ==quảng bá và giới thiệu== dịch vụ của hội đồng đến người tham quan tại lễ hội
 >
-> - **Denotation:** "Providing publicity" = "promoting service" = "advertising facilities" = "making people aware of council offerings"
+> - **Denotation (Nghĩa đen):** "Providing publicity" = "promoting service" = "advertising facilities" = "making people aware of council offerings"
 >
 > - **Distractor:** "Collecting feedback" nghe giống vì đều liên quan đến thu thập thông tin từ người tham quan, nhưng đó là ==lấy ý kiến KHÔNG PHẢI== quảng bá dịch vụ cho họ
 >
-> - **Deep Dive:** Paraphrasing sâu = "make people aware of", "inform about services", "spread information about", "publicise council facilities"
+> - **Deep Dive:** Paraphrasing sâu = ==make people aware of, inform about services, spread information about, publicise council facilities==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==keeping secret, withholding information, suppressing publicity, private service, individual consultations, internal use only==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==publicise/promote== → Syn: ==advertise, announce, broadcast== | Ant: ==conceal, hide, obscure==
+>   - ==inform/educate== → Syn: ==brief, enlighten, notify== | Ant: ==deceive, misinform, delude==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** Hình dung tình nguyện viên ==cầm tờ rơi== (holding leaflets), ==pano quảng cáo== (displaying posters), hoặc ==đứng trước quầy thông tin== (standing at booth) đang ==giới thiệu== (introducing) dịch vụ hội đồng cho khách
+>
+> - **Auditory:** Nghe tình nguyện viên ==nói== (listening to explanation) "Let me tell you about...", "We want everyone to know about our new service", hoặc ==giải thích== (explaining) khi khách hỏi "What's this?"
+>
+> - **Action:** Hành động cụ thể: ==phân phát thông tin== (distributing information), ==lan tỏa tin tức== (spreading the word), ==giới thiệu tiện ích== (presenting facilities), ==quảng bá dịch vụ== (promoting services)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -86,30 +101,37 @@ ref:
 >
 > → **Match:** ==providing publicity about a council service==
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
 ---
 
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==providing publicity about a council service==
 >
 > **Context:** *Volunteering at community festivals*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "Your role is to ==promote== council services"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==informing visitors about new council facilities==
+> - ==promoting the services offered by the local council==
+> - ==spreading the word about upcoming community programs==
+> - ==making everyone aware of what the council provides==
 >
-> **🥈 Other possibilities:**
-> - "You'll be ==informing visitors== about local council offerings"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==keeping council services private from visitors==
+> - ==withholding all leaflets and informational materials==
+> - ==suppressing publicity about new council initiatives==
+> - ==providing no information regarding council offerings==
 >
-> - "The job involves ==spreading information== about our new service"
->
-> - "Volunteers will ==publicise facilities== available to community"
->
-> - "Your main task is to ==make people aware of== council services"
->
-> **🔑 Core Concept:** Quảng bá, giới thiệu dịch vụ hội đồng
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -367,5 +389,57 @@ ref:
 > 2. ==informing visitors about facilities==
 >
 > **🎯 Goal:** Instant Recall
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==providing publicity about a council service==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==making people aware of various council facilities available=="
+> 2. "==collecting feedback from visitors about their experience=="
+> 3. "==handing out brochures about new community health services=="
+> 4. "==helping visitors find their seats in performance areas=="
+> 5. "==spreading information about the council's recycling programs=="
+> 6. "==keeping all council service information strictly confidential=="
+> 7. "==promoting new mobile library services to festival attendees=="
+> 8. "==you'll be selling tickets for various festival activities=="
+> 9. ==informing guests about available local council offerings==
+> 10. ==withholding leaflets from the public to suppress publicity==
+?
+> [!info] 📊 Classification Result
+> 1. ==making people aware of various council facilities available== → ==[✅]== (Paraphrase của providing publicity)
+> 2. ==collecting feedback from visitors about their experience== → ==[⚠️]== (Bẫy nội dung về thu thập ý kiến)
+> 3. ==handing out brochures about new community health services== → ==[✅]== (Đặc điểm của providing publicity)
+> 4. ==helping visitors find their seats in performance areas== → ==[⚠️]== (Bẫy nội dung về tìm chỗ ngồi)
+> 5. ==spreading information about the council's recycling programs== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==keeping all council service information strictly confidential== → ==[❌]== (Ngược lại với providing publicity)
+> 7. ==promoting new mobile library services to festival attendees== → ==[✅]== (Đặc điểm của providing publicity)
+> 8. ==you'll be selling tickets for various festival activities== → ==[⚠️]== (Bẫy nội dung về bán vé)
+> 9. ==informing guests about available local council offerings== → ==[✅]== (Đặc điểm của providing publicity)
+> 10. ==withholding leaflets from the public to suppress publicity== → ==[❌]== (Logic đảo chiều: quảng bá vs giấu giếm)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==providing publicity about a council service==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't supposed to ==withhold information== or ==keep services secret==; instead, we wanted volunteers ==spreading the word== and ==giving out leaflets== about every council service..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK providing publicity about a council service==
+>
+> **🧠 Reason:** Cấu trúc "weren't supposed to X (Antonym); instead, wanted Y (Synonym)" đã phủ định sự giữ kín (Antonym) và khẳng định sự quảng bá/lan tỏa. 
+> - Withhold = Antonym of Providing publicity
+> - → Spreading the word = Providing publicity.
+>
+> **🎯 Skill:** Nhận diện đúng vai trò khi người nói bác bỏ các trạng thái "giấu kín/không cung cấp" (Antonyms) để mô tả nhiệm vụ truyền thông tích cực.
 
 ---

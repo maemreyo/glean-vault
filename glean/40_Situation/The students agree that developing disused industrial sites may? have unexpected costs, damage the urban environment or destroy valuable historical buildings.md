@@ -37,30 +37,34 @@ ref:
 >
 > **Topic Category:** ==Academic Research / Urban Planning / Environmental Studies==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** ==Unexpected costs== refers to unforeseen financial expenses that arise during development projects beyond the original budget estimates
 >
-> - **Denotation:** Direct meaning refers to additional monetary burdens including: hidden renovation expenses, contamination cleanup costs, or unforeseen infrastructure upgrades
+> - **Denotation (Nghĩa đen):** Direct meaning refers to additional monetary burdens including: hidden renovation expenses, contamination cleanup costs, or unforeseen infrastructure upgrades
 >
 > - **Distractor:** Similar concepts include "budget overruns" (general), "expensive" (general), "high costs" (too broad) - these lack the ==unforeseen/expected== contrast
 >
-> - **Deep Dive:** In IELTS context, speakers may paraphrase "unexpected costs" as: "we ran into expenses we hadn't anticipated," "there were hidden costs involved," "it proved more expensive than planned," "we didn't budget for..."
+> - **Deep Dive:** Paraphrasing sâu hơn: ==unforeseen expenses, budget overruns, didn't anticipate, more expensive than planned, hadn't budgeted for, hidden costs involved==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==fixed costs, predictable expenses, within budget, anticipated funding, planned expenditures, estimated price==
+>
+> - **Synonym Chain (Verbs)::**
+>   - ==encounter/face== → Syn: ==run into, experience, incur== | Ant: ==avoid, bypass, miss==
+>   - ==anticipate/foresee== → Syn: ==expect, predict, envisage== | Ant: ==overlook, neglect, ignore==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused)::**
 >
-> - **Visual:** Seeing construction crews discovering asbestos, contaminated soil, or structural issues requiring immediate attention
+> - **Visual:** Seeing construction crews ==discovering== asbestos (discovering toxins), contaminated soil, or structural issues ==requiring== immediate attention (seeing hidden issues)
 >
-> - **Auditory:** Hearing construction project managers discussing budget revisions, contractors mentioning additional work orders, accountants calculating unexpected expenditures
+> - **Auditory:** Hearing construction project managers ==discussing== budget revisions (discussing overruns), contractors ==mentioning== additional work orders, accountants ==calculating== unexpected expenditures
 >
-> - **Action:** Workers stopping work to assess unexpected problems, engineers consulting blueprints, project directors calling emergency budget meetings
+> - **Action:** Workers ==stopping== work (halting construction) to assess unexpected problems, engineers ==consulting== blueprints, project directors ==calling== emergency budget meetings (scrambling for funds)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + unexpected costs`: encounter, face, incur, absorb, cover
 >
 > - `Adjective + costs`: unforeseen, hidden, additional, unforeseen, unanticipated
->
-> - `Costs + noun phrase`: costs of cleanup, renovation costs, infrastructure costs, remediation costs
 
 > [!example] 🎙️ Real Audio Phrases
 > - "When we started the project, we encountered costs we hadn't ==expected==."
@@ -95,32 +99,40 @@ ref:
 >
 > → **Match:** ==have unexpected costs==
 
+
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 ---
 
 #flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==have unexpected costs==
 >
 > **Context:** *Academic discussion about urban redevelopment*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "unforeseen expenses" / "costs we hadn't anticipated"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==unforeseen expenses in development==
+> - ==costs we hadn't anticipated in the budget==
+> - ==hidden expenses involved in redevelopment==
+> - ==budget overruns caught us off guard==
 >
-> **🥈 Other possibilities:**
-> - "hidden costs involved"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==strictly fixed expenditures==
+> - ==staying within the original budget==
+> - ==predictable and planned renovation costs==
+> - ==no financial surprises encountered==
 >
-> - "prove more expensive than planned"
->
-> - "didn't budget for..."
->
-> - "additional funding needed"
->
-> - "budget overruns"
->
-> **🔑 Core Concept:** Contrast between EXPECTED vs UNEXPECTED/UNFORESEEN costs
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -500,3 +512,57 @@ ref:
 > - **Confirmation Logic:** Agreement markers ("both agreed," "consensus") + cost vocabulary + negative/contrast words ("hadn't," "unforeseen," "unexpected") = correct answer
 >
 > **🔑 Strategic Lesson:** When questions ask what speakers "agree on," listen specifically for consensus markers and the point where speakers converge, not all topics mentioned during discussion
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==have unexpected costs==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==renovation proved far more expensive than planned=="
+> 2. "==environmental pollution damaged the urban surroundings=="
+> 3. "==encountered hidden expenses in identifying asbestos=="
+> 4. "==historical buildings remained perfectly preserved=="
+> 5. "==budget overruns were significantly underestimated=="
+> 6. "==demolished heritage buildings for the project=="
+> 7. "==unanticipated expenditures in the cleanup phase=="
+> 8. "==costs were fixed and strictly predictable=="
+> 9. "==hadn't budgeted for the additional infrastructure=="
+> 10. "==stayed strictly within the original financial estimate=="
+?
+> [!info] 📊 Classification Result
+> 1. ==renovation proved far more expensive than planned== → ==[✅]== (Paraphrase của unexpected costs)
+> 2. ==environmental pollution damaged the urban surroundings== → ==[⚠️]== (Bẫy nội dung về môi trường)
+> 3. ==encountered hidden expenses in identifying asbestos== → ==[✅]== (Hành động dẫn đến chi phí bất ngờ)
+> 4. ==historical buildings remained perfectly preserved== → ==[⚠️]== (Bẫy nội dung về tòa nhà lịch sử)
+> 5. ==budget overruns were significantly underestimated== → ==[✅]== (Đặc điểm của unexpected costs)
+> 6. ==demolished heritage buildings for the project== → ==[⚠️]== (Bẫy nội dung về phá hủy tòa nhà)
+> 7. ==unanticipated expenditures in the cleanup phase== → ==[✅]== (Paraphrase trực tiếp)
+> 8. ==costs were fixed and strictly predictable== → ==[❌]== (Ngược lại với unexpected costs)
+> 9. ==hadn't budgeted for the additional infrastructure== → ==[✅]== (Cơ chế của việc phát sinh chi phí)
+> 10. ==stayed strictly within the original financial estimate== → ==[❌]== (Logic đảo chiều: trong ngân sách)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==have unexpected costs==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't dealing with a ==predictable budget== or ==fixed expenditures==; the reality was a series of ==financial shocks== and ==unplanned for costs==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK A (have unexpected costs)==
+>
+> **🧠 Reason:** Cấu trúc "weren't dealing with X; reality was Y" (X = predictable/fixed, Y = financial shocks/unplanned costs) đã phủ định sự ổn định (Antonyms) và khẳng định sự bất ngờ về tài chính. 
+> - Predictable = Antonym of Unexpected
+> - → Financial shocks = Unexpected costs.
+>
+> **🎯 Skill:** Nhận diện điểm đồng thuận khi người nói bác bỏ các đặc điểm "dễ đoán/cố định" (Antonyms) để mô tả thực tế đầy rẫy chi phí phát sinh.
+
+---

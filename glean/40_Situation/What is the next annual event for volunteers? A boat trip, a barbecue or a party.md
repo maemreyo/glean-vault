@@ -37,23 +37,29 @@ ref:
 >
 > **Topic Category:** ==Social Leisure / Events / Volunteering==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** ==A barbecue== refers to an outdoor social event or gathering where food is cooked on a grill or open fire, often for volunteers or community members to socialize and celebrate
 >
-> - **Denotation:** Direct meaning includes: outdoor cooking event, BBQ party, grilling food together, picnic with grilled food, social gathering with barbecued food
+> - **Denotation (Nghĩa đen):** Direct meaning includes: outdoor cooking event, BBQ party, grilling food together, picnic with grilled food, social gathering with barbecued food
 >
 > - **Distractor:** Similar concepts include "picnic," "party," "dinner," "lunch" - these involve food but lack the ==barbecue/grill== specific cooking method
 >
-> - **Deep Dive:** In IELTS context, speakers may paraphrase "barbecue" as: "BBQ," "grill party," "outdoor cooking event," "barbecue gathering," "cookout," "grilling session"
+> - **Deep Dive:** Paraphrasing sâu hơn: ==BBQ, grill party, outdoor cooking event, barbecue gathering, cookout, grilling session==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==indoor dinner, restaurant meal, cold picnic, catering service, formal banquet, indoor reception==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==organize/arrange== → Syn: ==coordinate, schedule, plan== | Ant: ==cancel, postpone, disrupt==
+>   - ==cook/grill== → Syn: ==roast, sear, sizzle== | Ant: ==freeze, chill, raw==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Seeing volunteers gathering outdoors with grills, people cooking meat and vegetables on BBQ equipment, picnic tables set up with food, outdoor setting with smoke from grills
+> - **Visual:** Seeing volunteers ==gathering== outdoors (meeting outside), people ==cooking== meat and vegetables on BBQ equipment (grilling food), ==setting up== picnic tables (arranging furniture), seeing ==smoke rising== (spotting smoke) from grills
 >
-> - **Auditory:** Hearing volunteers discuss "the BBQ next month," "grill party," "cooking outside," "barbecue for volunteers"
+> - **Auditory:** Hearing volunteers ==discussing== "the BBQ next month" (talking about event), sound of ==sizzling== meat (listening to cooking), ==clinking== of plates (hearing noise), ==laughing== and talking (socializing)
 >
-> - **Action:** Volunteers setting up grills, placing food on barbecue, organizing outdoor seating, preparing charcoal/gas for cooking, people eating grilled food together
+> - **Action:** Volunteers ==organizing== seats (arranging chairs), ==preparing== charcoal/gas (getting ready), ==placing== food on barbecue (putting on grill), ==eating together== (sharing meal)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + barbecue`: organize, hold, host, have, arrange, plan
@@ -95,30 +101,37 @@ ref:
 >
 > → **Match:** ==a barbecue==
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
 ---
 
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/events/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==a barbecue==
 >
 > **Context:** *Volunteer organization event planning*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "BBQ" / "grill party"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==an outdoor grill party for everyone==
+> - ==a community BBQ event next month==
+> - ==hosting a cookout in the local park==
+> - ==organising an outdoor cooking gathering==
 >
-> **🥈 Other possibilities:**
-> - "outdoor cooking event"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==holding a formal indoor banquet==
+> - ==arranging a cold picnic with no cooking==
+> - ==a restaurant meal instead of outdoor food==
+> - ==a catered indoor dinner celebration==
 >
-> - "barbecue gathering"
->
-> - "cookout"
->
-> - "BBQ event"
->
-> **🔑 Core Concept:** Focus on OUTDOOR GRILLING cooking method for social gathering
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -503,3 +516,59 @@ ref:
 > - **Confirmation Logic:** "Next annual event" + barbecue vocabulary (barbecue, grill, BBQ, outdoor cooking, grilled food) = correct answer
 >
 > **🔑 Strategic Lesson:** When questions ask about "the next event," listen specifically for confirmation signals (confirmed, scheduled, on calendar, next annual) rather than all suggestions mentioned
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==a barbecue==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==hosting an outdoor cooking event where everyone grills food=="
+> 2. "==volunteers are thinking about a boat trip for August=="
+> 3. "==organising a community BBQ in the local park area=="
+> 4. "==one volunteer proposed having a party later this year=="
+> 5. "==preparing a grill party with meat and vegetables outdoors=="
+> 6. "==arranging a formal indoor banquet at the city hall=="
+> 7. "==planning a cookout for all the festival helpers next week=="
+> 8. "==the group is looking at water activities for their next trip=="
+> 9. ==having a social gathering with an outdoor grilling session==
+> 10. ==scheduling a cold picnic with pre-made sandwiches instead==
+?
+> [!info] 📊 Classification Result
+> 1. ==hosting an outdoor cooking event where everyone grills food== → ==[✅]== (Paraphrase của barbecue)
+> 2. ==volunteers are thinking about a boat trip for August== → ==[⚠️]== (Bẫy nội dung về chuyến đi thuyền)
+> 3. ==organising a community BBQ in the local park area== → ==[✅]== (Đặc điểm của barbecue)
+> 4. ==one volunteer proposed having a party later this year== → ==[⚠️]== (Bẫy nội dung về tiệc chung)
+> 5. ==preparing a grill party with meat and vegetables outdoors== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==arranging a formal indoor banquet at the city hall== → ==[❌]== (Ngược lại với barbecue)
+> 7. ==planning a cookout for all the festival helpers next week== → ==[✅]== (Đặc điểm của barbecue)
+> 8. ==the group is looking at water activities for their next trip== → ==[⚠️]== (Bẫy nội dung về hoạt động nước)
+> 9. ==having a social gathering with an outdoor grilling session== → ==[✅]== (Đặc điểm của barbecue)
+> 10. ==scheduling a cold picnic with pre-made sandwiches instead== → ==[❌]== (Logic đảo chiều: nướng vs đồ nguội)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==a barbecue==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We aren't doing the ==formal indoor reception== as initially planned; instead, we're going for an ==outdoor grill gathering== and a ==proper BBQ session==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK a barbecue==
+>
+> **🧠 Reason:** Cấu trúc "aren't doing X (Antonym); instead, going for Y (Synonym)" đã phủ định tiệc trong nhà (Antonym) và khẳng định sự nướng ngoài trời. 
+> - Indoor reception = Antonym of Barbecue
+> - → Outdoor grill gathering = A barbecue.
+>
+> **🎯 Skill:** Nhận diện đúng sự kiện khi người nói bác bỏ các hình thức "tiệc trong nhà/trịnh trọng" (Antonyms) để mô tả tính chất thân mật của buổi tiệc nướng.
+
+---

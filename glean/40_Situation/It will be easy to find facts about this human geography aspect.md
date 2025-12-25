@@ -30,23 +30,29 @@ ref:
 >
 > **Topic Category:** ==Academic Research / Human Geography==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Khẳng định rằng ==thông tin về khía cạnh địa lý nhân văn này có sẵn và dễ tiếp cận==, không yêu cầu nỗ lực đặc biệt hoặc phương pháp phức tạp
 >
-> - **Denotation:** Nghĩa đen là các ==fact (sự thật/dữ liệu)== tồn tại ở nhiều nguồn có thể tìm thấy thông thường (sách, báo cáo, số liệu chính thức)
+> - **Denotation (Nghĩa đen):** Nghĩa đen là các ==fact (sự thật/dữ liệu)== tồn tại ở nhiều nguồn có thể tìm thấy thông thường (sách, báo cáo, số liệu chính thức)
 >
 > - **Distractor:** "no useful research" (không có nghiên cứu hữu ích), "too vague" (quá mơ hồ), "not reliable" (không đáng tin cậy) - những từ nghe giống nhưng mang ý định đánh giá TIÊU CỰC
 >
-> - **Deep Dive:** Paraphrasing sâu hơn: ==readily available== (dễ kiếm), ==plenty of sources== (nhiều nguồn), ==widely documented== (được ghi chép rộng rãi), ==data is out there== (dữ liệu có sẵn)
+> - **Deep Dive:** Paraphrasing sâu hơn: ==readily available, plenty of sources, widely documented, data is out there, accessible databases, straightforward to locate==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==scarce information, elusive data, restricted access, undocumented topic, hard-to-find facts, lack of sources==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==find/locate== → Syn: ==discover, retrieve, track down== | Ant: ==lose, misplace, miss==
+>   - ==obtain/gather== → Syn: ==acquire, collect, accumulate== | Ant: ==distribute, scatter, lose==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung một ==sinh viên ngồi ở thư viện với nhiều cuốn sách mở==, dễ dàng tìm thấy thông tin cần thiết; hoặc màn hình máy tính hiển thị nhiều kết quả tìm kiếm
+> - **Visual:** Hình dung một ==sinh viên ngồi ở thư viện với nhiều cuốn sách mở== (reading multiple books), dễ dàng ==tìm thấy== thông tin (spotting key points); hoặc màn hình máy tính ==hiển thị== nhiều kết quả tìm kiếm (seeing endless results)
 >
-> - **Auditory:** Giọng điệu ==tự tin, khẳng định== khi nói "easy to find"; có thể dùng nhấn âm trên "easy" và "find"
+> - **Auditory:** Giọng điệu ==tự tin, khẳng định== khi nói "easy to find"; ng nghe tiếng ==lật trang sách== (flipping pages), tiếng ==gõ phím nhanh== (typing keywords)
 >
-> - **Action:** Thao tác ==lật qua trang sách== hoặc ==gõ từ khóa vào máy tìm kiếm== với sự thuận lợi, không gặp khó khăn
+> - **Action:** Thao tác ==lật qua trang sách== (browsing chapters) hoặc ==gõ từ khóa vào máy tìm kiếm== (searching databases) với sự thuận lợi, không gặp khó khăn
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + facts`: find facts, locate facts, gather facts, obtain facts, collect facts
@@ -90,34 +96,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (14 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==easy to find facts==
 >
 > **Context:** *Research project discussion*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "There's ==plenty of data/facts available==" hoặc "It's ==straightforward to locate== information"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==plenty of data and sources available==
+> - ==straightforward to locate information==
+> - ==readily accessible facts on the topic==
+> - ==widely documented in existing literature==
 >
-> **🥈 Other possibilities:**
-> - "Well-documented topic with many sources"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==data is scarce and elusive==
+> - ==major challenge to find reliable sources==
+> - ==undocumented area with few facts==
+> - ==information is restricted or hard to get==
 >
-> - "Information is readily accessible"
->
-> - "No shortage of facts"
->
-> - "Easy to gather the necessary data"
->
-> **🔑 Core Concept:** Khẳng định sự ==dễ tiếp cận/dồi dào== của thông tin về chủ đề
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -391,3 +400,57 @@ ref:
 > 2. ==readily accessible information==
 >
 > **🎯 Goal:** Instant Recall
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==easy to find facts==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==there's a wealth of academic papers on this topic=="
+> 2. "==no useful research has been done in this area=="
+> 3. "==data is readily accessible through university databases=="
+> 4. "==the information we found was far too vague=="
+> 5. "==straightforward to locate all the necessary figures=="
+> 6. "==some of the facts we found weren't reliable at all=="
+> 7. "==plenty of sources available for our project work=="
+> 8. "==information is extremely scarce and hard to track down=="
+> 9. "==gathering the factual details will be no trouble at all=="
+> 10. "==access to the primary records is strictly restricted=="
+?
+> [!info] 📊 Classification Result
+> 1. ==there's a wealth of academic papers on this topic== → ==[✅]== (Paraphrase của easy to find facts)
+> 2. ==no useful research has been done in this area== → ==[⚠️]== (Bẫy nội dung về thiếu nghiên cứu)
+> 3. ==data is readily accessible through university databases== → ==[✅]== (Đặc điểm của easy to find)
+> 4. ==the information we found was far too vague== → ==[⚠️]== (Bẫy nội dung về chất lượng thông tin)
+> 5. ==straightforward to locate all the necessary figures== → ==[✅]== (Đặc điểm của easy to find)
+> 6. ==some of the facts we found weren't reliable at all== → ==[⚠️]== (Bẫy nội dung về độ tin cậy)
+> 7. ==plenty of sources available for our project work== → ==[✅]== (Paraphrase trực tiếp)
+> 8. ==information is extremely scarce and hard to track down== → ==[❌]== (Ngược lại with easy to find facts)
+> 9. ==gathering the factual details will be no trouble at all== → ==[✅]== (Đặc điểm của easy to find)
+> 10. ==access to the primary records is strictly restricted== → ==[❌]== (Logic đảo chiều: bị hạn chế vs dễ tiếp cận)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==easy to find facts==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't facing a ==scarcity of data== or ==restricted sources==; if anything, the information was ==abundant== and ==exceptionally easy to locate==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK easy to find facts==
+>
+> **🧠 Reason:** Cấu trúc "weren't facing X; if anything, was Y" (X = scarcity/restricted, Y = abundant/easy) đã phủ định sự thiếu hụt (Antonyms) và khẳng định sự dồi dào/dễ dàng. 
+> - Scarcity = Antonym of Abundance
+> - → Easy to locate = Easy to find facts.
+>
+> **🎯 Skill:** Nhận diện điểm khẳng định khi người nói bác bỏ các đặc điểm "khan hiếm/hạn chế" (Antonyms) để mô tả thực tế thuận lợi.
+
+---

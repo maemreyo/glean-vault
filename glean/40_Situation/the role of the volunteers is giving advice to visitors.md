@@ -30,23 +30,29 @@ ref:
 >
 > **Topic Category:** ==Volunteering== / Customer Service
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Tình nguyện viên cung cấp ==thông tin hữu ích== và ==lời khuyên== giúp du khách/khách tham quan giải quyết vấn đề hoặc tìm hiểu tốt hơn về sự kiện
 >
-> - **Denotation:** "Giving advice" = "provide guidance" = "help with questions" = "offer information" = "assist with inquiries"
+> - **Denotation (Nghĩa đen):** "Giving advice" = "provide guidance" = "help with questions" = "offer information" = "assist with inquiries"
 >
 > - **Distractor:** "Collecting feedback" nghe giống vì cũng là tương tác với người tham quan, nhưng là ==thu thập thông tin== từ họ chứ không ==cung cấp== thông tin cho họ
 >
-> - **Deep Dive:** Paraphrasing sâu = "help visitors with questions", "provide guidance on event", "offer suggestions to guests", "assist with inquiries"
+> - **Deep Dive:** Paraphrasing sâu = ==help visitors with questions, provide guidance on event, offer suggestions to guests, assist with inquiries==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==refusing to answer, ignoring inquiries, providing no information, withholding guidance, dismissing questions, being unhelpful==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==advise/guide== → Syn: ==counsel, mentor, direct== | Ant: ==mislead, misdirect, confuse==
+>   - ==assist/help== → Syn: ==aid, support, facilitate== | Ant: ==obstruct, hinder, impede==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung tình nguyện viên đứng ở quầy thông tin, đang ==trả lời câu hỏi==, chỉ tay hướng dẫn, đọc bản đồ cho khách tham quan
+> - **Visual:** Hình dung tình nguyện viên đứng ở quầy thông tin (standing at booth), đang ==trả lời câu hỏi== (answering questions), ==chỉ tay hướng dẫn== (pointing directions), ==đọc bản đồ== (reading map) cho khách tham quan
 >
-> - **Auditory:** Nghe thấy tiếng hỏi "Excuse me, where is...", câu trả lời "You can find that..." hoặc tiếng cảm ơn "Thank you so much!"
+> - **Auditory:** Nghe thấy tiếng ==hỏi== (listening to inquiries) "Excuse me, where is...", câu ==trả lời== "You can find that..." (giving answer), tiếng ==cảm ơn== "Thank you so much!" (receiving gratitude)
 >
-> - **Action:** Tình nguyện viên nói "Let me help you", "If you have any questions, just ask", "Here's what you need to know"
+> - **Action:** Hành động cụ thể: ==giúp đỡ khách tham quan== (helping guests), ==đưa ra gợi ý== (offering suggestions), ==giải quyết vấn đề== (solving problems), ==cung cấp chỉ dẫn== (providing directions)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: give + advice, provide + guidance, offer + help, assist + visitors
@@ -86,30 +92,37 @@ ref:
 >
 > → **Match:** ==giving advice to visitors==
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
 ---
 
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==giving advice to visitors==
 >
 > **Context:** *Volunteering at community festivals*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "Your role is to ==provide guidance== to people attending"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==providing guidance and helpful information==
+> - ==answering questions from festival attendees==
+> - ==offering suggestions to guests about activities==
+> - ==assisting people with directions and enquiries==
 >
-> **🥈 Other possibilities:**
-> - "You'll be ==helping visitors== with their questions"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==refusing to provide any guidance or help==
+> - ==ignoring all questions from the public==
+> - ==providing no information at the service desk==
+> - ==dismissing enquiries from visitors completely==
 >
-> - "The job involves ==giving advice== to festival guests"
->
-> - "Volunteers will ==offer suggestions== to visitors"
->
-> - "Your main task is to ==assist people== with enquiries"
->
-> **🔑 Core Concept:** Cung cấp thông tin và hỗ trợ khách tham quan
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -369,5 +382,57 @@ ref:
 > 2. ==offering help to festival guests==
 >
 > **🎯 Goal:** Instant Recall
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==giving advice to visitors==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==providing guidance and helpful information to guests=="
+> 2. "==collecting feedback from visitors about the event=="
+> 3. "==answering practical questions from festival attendees=="
+> 4. "==assisting people to find their seats in performance areas=="
+> 5. "==offering suggestions to visitors on what to see and do=="
+> 6. "==ignoring all enquiries and questions from the public=="
+> 7. "==assisting guests with directions around the festival venue=="
+> 8. "==you'll be gathering opinions from every person who arrives=="
+> 9. ==helping visitors with their questions at the information desk==
+> 10. ==withholding all information from anyone who asks for help==
+?
+> [!info] 📊 Classification Result
+> 1. ==providing guidance and helpful information to guests== → ==[✅]== (Paraphrase của giving advice)
+> 2. ==collecting feedback from visitors about the event== → ==[⚠️]== (Bẫy nội dung về thu thập ý kiến)
+> 3. ==answering practical questions from festival attendees== → ==[✅]== (Đặc điểm của giving advice)
+> 4. ==assisting people to find their seats in performance areas== → ==[⚠️]== (Bẫy nội dung về tìm chỗ ngồi)
+> 5. ==offering suggestions to visitors on what to see and do== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==ignoring all enquiries and questions from the public== → ==[❌]== (Ngược lại với giving advice)
+> 7. ==assisting guests with directions around the festival venue== → ==[✅]== (Đặc điểm của giving advice)
+> 8. ==you'll be gathering opinions from every person who arrives== → ==[⚠️]== (Bẫy nội dung về thu thập ý kiến)
+> 9. ==helping visitors with their questions at the information desk== → ==[✅]== (Đặc điểm của giving advice)
+> 10. ==withholding all information from anyone who asks for help== → ==[❌]== (Logic đảo chiều: cung cấp vs giấu giếm)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==giving advice to visitors==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't supposed to ==ignore enquiries== or ==dismiss simple questions==; our main goal was ==providing clear guidance== and ==offering helpful advice== to everyone..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK giving advice to visitors==
+>
+> **🧠 Reason:** Cấu trúc "weren't supposed to X (Antonym); our main goal was Y (Synonym)" đã phủ định sự phớt lờ/từ chối (Antonyms) và khẳng định sự giúp đỡ/tư vấn. 
+> - Ignore = Antonym of Giving advice
+> - → Providing clear guidance = Giving advice to visitors.
+>
+> **🎯 Skill:** Nhận diện đúng vai trò khi người nói bác bỏ các thái độ "phớt lờ/không giúp đỡ" (Antonyms) để mô tả tinh thần phục vụ của tình nguyện viên.
 
 ---

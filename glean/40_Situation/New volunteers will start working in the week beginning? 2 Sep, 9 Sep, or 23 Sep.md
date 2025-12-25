@@ -36,23 +36,29 @@ ref:
 >
 > **Topic Category:** ==Volunteering==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** ==the specific date when volunteer work or activities begin==
 >
-> - **Denotation:** ==the calendar date marking the start of volunteer involvement==
+> - **Denotation (Nghĩa đen):** ==the calendar date marking the start of volunteer involvement==
 >
 > - **Distractor:** ==week of September (ambiguous timeframe), beginning of September (not specific), after September (too general)==
 >
-> - **Deep Dive:** ==starting from, beginning on, commencing on, the week starting from, from the second of September==
+> - **Deep Dive:** Paraphrasing sâu hơn: ==starting from, beginning on, commencing on, the week starting from, from the second of September==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==finishing work, ending involvement, final day, concluding date, completion of tasks==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==start/begin== → Syn: ==commence, launch, initiate== | Ant: ==cease, stop, terminate==
+>   - ==work/assist== → Syn: ==labor, operate, function== | Ant: ==idle, rest, quit==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** ==calendar dates marked, schedule documents, weekly planners, volunteer roster==
+> - **Visual:** ==calendar dates marked== (seeing circles on Sep 2), ==schedule documents== (reading PDFs), ==weekly planners== (checking agendas), ==volunteer roster== (viewing names)
 >
-> - **Auditory:** ==reading dates aloud, confirming start dates, discussing schedules==
+> - **Auditory:** ==reading dates aloud== (listening to 2nd Sep), ==confirming start dates== (hearing "confirmed"), ==discussing schedules== (talking about Monday)
 >
-> - **Action:** ==circling dates on calendar, confirming plans, checking availability==
+> - **Action:** ==circling dates== (marking calendar), ==confirming plans== (shaking hands on date), ==checking availability== (looking at own schedule)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: start + working, begin + on, commence + from
@@ -96,34 +102,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (18 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==2 Sep==
 >
 > **Context:** *Volunteer scheduling and start dates for festival preparation and work*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "second of September" / "September 2nd"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==week starting from the second of September==
+> - ==commencing volunteer work on September 2nd==
+> - ==beginning working the first week of September==
+> - ==available for work from the second onwards==
 >
-> **🥈 Other possibilities:**
-> - "week beginning September 2nd"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==finishing the volunteer term on the 2nd==
+> - ==concluding all activities by early September==
+> - ==completing the preparation phase before Sep 2==
+> - ==ending our work schedule in early September==
 >
-> - "from the second of September"
->
-> - "starting 2nd September"
->
-> - "week of 2 September"
->
-> **🔑 Core Concept:** Date format variations and "beginning/starting" keywords
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -506,5 +515,61 @@ ref:
 > - **Confirmation Logic:** Answer gets direct statement "your volunteer work begins" matching the question exactly
 >
 > **🔑 Strategic Lesson:** When dates are mentioned, pay close attention to what each date refers to - festival event, training, orientation, or work start. Different dates can be for different purposes.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==2 Sep==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==volunteers need to start work from the week beginning September 2nd=="
+> 2. "==there's a training session scheduled for September 9th=="
+> 3. "==preparation begins on the second of September onwards=="
+> 4. "==the actual festival officially opens on September 23rd=="
+> 5. "==your volunteer roles will commence on September 2nd=="
+> 6. "==all volunteer activities will conclude by the start of September=="
+> 7. "==your first week of working will be the week of September 2nd=="
+> 8. "==the final day of service is usually early September=="
+> 9. ==we expect to see you starting from the second of September==
+> 10. ==volunteers will finish their assignment by the first of September==
+?
+> [!info] 📊 Classification Result
+> 1. ==volunteers need to start work from the week beginning September 2nd== → ==[✅]== (Paraphrase của 2 Sep start)
+> 2. ==there's a training session scheduled for September 9th== → ==[⚠️]== (Bẫy nội dung về ngày tập huấn)
+> 3. ==preparation begins on the second of September onwards== → ==[✅]== (Đặc điểm của 2 Sep start)
+> 4. ==the actual festival officially opens on September 23rd== → ==[⚠️]== (Bẫy nội dung về ngày khai mạc)
+> 5. ==your volunteer roles will commence on September 2nd== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==all volunteer activities will conclude by the start of September== → ==[❌]== (Ngược lại với start date)
+> 7. ==your first week of working will be the week of September 2nd== → ==[✅]== (Đặc điểm của 2 Sep start)
+> 8. ==the final day of service is usually early September== → ==[❌]== (Logic đảo chiều: bắt đầu vs kết thúc)
+> 9. ==we expect to see you starting from the second of September== → ==[✅]== (Đặc điểm của 2 Sep start)
+> 10. ==volunteers will finish their assignment by the first of September== → ==[❌]== (Logic đảo chiều: xong việc vs bắt đầu việc)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==2 Sep==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't looking at ==finishing in early September== or ==ending work then==; as it turns out, we're ==starting then==, specifically the ==week beginning September 2nd==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK 2 Sep==
+>
+> **🧠 Reason:** Cấu trúc "weren't looking at X (Antonym); instead, starting then Y (Synonym)" đã phủ định sự kết thúc (Antonym) và khẳng định sự bắt đầu. 
+> - Finishing = Antonym of Starting
+> - → Week beginning September 2nd = 2 Sep start date.
+>
+> **🎯 Skill:** Nhận diện đúng mốc thời gian khi người nói bác bỏ các khái niệm "kết thúc/hoàn tất" (Antonyms) để giới thiệu ngày bắt đầu chính thức.
+
+---
 
 ---

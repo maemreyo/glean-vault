@@ -37,14 +37,29 @@ ref:
 >
 > **Topic Category:** ==Academic Research / Environmental Studies / Urban Planning==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** ==Sustainable energy use== refers to systems and practices that utilize renewable or environmentally-friendly energy sources in ways that can be maintained long-term without depleting resources
 >
-> - **Denotation:** Direct meaning involves: renewable energy sources (solar, wind, geothermal), energy efficiency measures, carbon-neutral operations, reducing environmental footprint through power choices
+> - **Denotation (Nghĩa đen):** Direct meaning involves: renewable energy sources (solar, wind, geothermal), energy efficiency measures, carbon-neutral operations, reducing environmental footprint through power choices
 >
 > - **Distractor:** Similar concepts include "green technology," "eco-friendly," "clean energy" - these are broader and less specific than the ==energy-focused== emphasis
 >
-> - **Deep Dive:** In IELTS context, speakers may paraphrase "sustainable energy" as: "renewable energy sources," "solar power," "carbon-neutral," "zero-carbon energy," "green energy systems," "environmentally-friendly power"
+> - **Deep Dive:** Paraphrasing sâu hơn: ==renewable energy sources, solar power, carbon-neutral, zero-carbon energy, green energy systems, environmentally-friendly power==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==fossil fuel dependence, non-renewable energy, high carbon emissions, traditional power grids, energy-inefficient, unsustainable power==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==achieve/reach== → Syn: ==attain, accomplish, realize== | Ant: ==fail, miss, lose==
+>   - ==sustain/maintain== → Syn: ==preserve, keep, uphold== | Ant: ==drain, deplete, exhaust==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** Seeing ==solar panels covering city rooftops== (solar arrays), ==wind turbines spinning== (wind power), ==buildings with energy-efficient designs== (smart architecture), ==electric vehicles charging== (green transport)
+>
+> - **Auditory:** Hearing students ==discuss "solar arrays"== (listening to tech focus), "==renewable energy==" (hearing green goal), "==carbon footprint==" (noting environmental impact), "==sustainable power systems==" (discussing city grids)
+>
+> - **Action:** Engineers ==installing solar panels== (implementing green tech), smart meters ==monitoring energy use== (tracking efficiency), city planners ==discussing energy initiatives== (formulating goals)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -97,28 +112,37 @@ ref:
 
 ---
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/science-tech/sustainability/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==sustainable energy use==
 >
 > **Context:** *Academic discussion about Masdar City and sustainable development*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "renewable energy sources" / "solar power"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==running entirely on renewable energy sources==
+> - ==implementing carbon-neutral power systems==
+> - ==utilizing solar power arrays for city electricity==
+> - ==adopting green energy infrastructure throughout==
 >
-> **🥈 Other possibilities:**
-> - "carbon-neutral energy"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==relying heavily on traditional fossil fuel power==
+> - ==failing to implement any renewable energy systems==
+> - ==the city having a massive carbon footprint from energy==
+> - ==using unsustainable energy from non-renewable sources==
 >
-> - "green energy systems"
->
-> - "zero-carbon energy"
->
-> - "environmentally-friendly power"
->
-> **🔑 Core Concept:** Focus on ENERGY SOURCES that are RENEWABLE/SUSTAINABLE
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -503,3 +527,59 @@ ref:
 > - **Confirmation Logic:** "Example of" + energy vocabulary (renewable, carbon-neutral, solar, green) + agreement signals ("both agreed") = correct answer
 >
 > **🔑 Strategic Lesson:** When questions ask what speakers "mention as an example of," listen for purpose-focused language that identifies the MAIN point, not just all topics discussed
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/science-tech/sustainability/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==sustainable energy use==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==the city runs entirely on renewable energy sources like solar=="
+> 2. "==implementing daily collections for waste recycling services=="
+> 3. "==achieving carbon neutrality through green energy systems=="
+> 4. "==providing free transport for everyone within city limits=="
+> 5. "==utilizing solar power arrays across the entire development=="
+> 6. "==relying heavily on fossil fuels and non-renewable energy=="
+> 7. "==transitioning to zero-carbon energy infrastructure for all=="
+> 8. "==regular maintenance of the public transport grid is key=="
+> 9. ==adopting environmentally-friendly power across urban areas==
+> 10. ==having a high carbon footprint and energy-inefficient buildings==
+?
+> [!info] 📊 Classification Result
+> 1. ==the city runs entirely on renewable energy sources like solar== → ==[✅]== (Paraphrase của sustainable energy)
+> 2. ==implementing daily collections for waste recycling services== → ==[⚠️]== (Bẫy nội dung về rác thải)
+> 3. ==achieving carbon neutrality through green energy systems== → ==[✅]== (Đặc điểm của sustainable energy)
+> 4. ==providing free transport for everyone within city limits== → ==[⚠️]== (Bẫy nội dung về giao thông)
+> 5. ==utilizing solar power arrays across the entire development== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==relying heavily on fossil fuels and non-renewable energy== → ==[❌]== (Ngược lại with sustainable energy)
+> 7. ==transitioning to zero-carbon energy infrastructure for all== → ==[✅]== (Đặc điểm của sustainable energy)
+> 8. ==regular maintenance of the public transport grid is key== → ==[⚠️]== (Bẫy nội dung về hạ tầng)
+> 9. ==adopting environmentally-friendly power across urban areas== → ==[✅]== (Đặc điểm của sustainable energy)
+> 10. ==having a high carbon footprint and energy-inefficient buildings== → ==[❌]== (Logic đảo chiều: bền vững vs tiêu tốn)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/science-tech/sustainability/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==sustainable energy use==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We didn't want the city to rely on ==fossil fuels== or ==non-renewable power==; instead, the focus was ==sustainable energy use==, ensuring we run on ==solar== and ==wind==".*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK sustainable energy use==
+>
+> **🧠 Reason:** Cấu trúc "didn't want X (Antonym); instead, focus was Y (Synonym)" đã phủ định năng lượng truyền thống (Antonym) và khẳng định năng lượng bền vững. 
+> - Fossil fuels = Antonym of Sustainable energy
+> - → Runs on solar and wind = Sustainable energy use.
+>
+> **🎯 Skill:** Nhận diện đúng mục tiêu khi người nói bác bỏ các khái niệm "năng lượng hóa thạch/không tái tạo" (Antonyms) để mô tả khát vọng bền vững (sustainable energy) của thành phố Masdar City.
+
+---

@@ -34,14 +34,29 @@ ref:
 >
 > **Topic Category:** ==Event Management== / Volunteering
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Tình huống yêu cầu xác định sự kiện cần ==nhân lực tối đa== để tổ chức thành công
 >
-> - **Denotation:** Nhóm từ "requires the largest number of volunteers" = "needs the most people to help" = "has the highest staffing demand"
+> - **Denotation (Nghĩa đen):** Nhóm từ "requires the largest number of volunteers" = "needs the most people to help" = "has the highest staffing demand"
 >
 > - **Distractor:** Các sự kiện khác cũng cần tình nguyện viên nhưng số lượng ==ít hơn==, hoặc audio đề cập đến nhiều số nhưng phải xác định số lớn nhất
 >
-> - **Deep Dive:** Paraphrasing sâu = "highest volunteer requirement", "most staff needed", "biggest team of volunteers", "requires maximum assistance"
+> - **Deep Dive:** Paraphrasing sâu hơn: ==highest volunteer requirement, most staff needed, biggest team of volunteers, requires maximum assistance==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==fewest volunteers, smallest team, minimal staffing, manageable with a group of 5, limited helpers needed==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==require/need== → Syn: ==demand, necessitate, call for== | Ant: ==obviate, preclude, spare==
+>   - ==manage/handle== → Syn: ==coordinate, supervise, oversee== | Ant: ==neglect, mismanage, botch==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** Hình dung một ==sân khấu lớn== (seeing grand stage) với hàng trăm tình nguyện viên đang ==hướng dẫn khán giả== (guiding crowd), so với gian hàng sách nhỏ hoặc gian trưng bày khoa học quy mô vừa
+>
+> - **Auditory:** Tiếng ==âm nhạc sôi động== (hearing loud music) từ lễ hội nhạc so với không gian yên tĩnh của hội sách, hoặc tiếng ==giải thích khoa học== (listening to demos)
+>
+> - **Action:** Hành động cụ thể: ==tuyển dụng tình nguyện viên== (recruiting helpers), ==quản lý đám đông== (managing crowds), ==phân công vị trí== (assigning roles), ==điều hành lễ hội== (coordinating events)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -94,28 +109,37 @@ ref:
 
 ---
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==The music festival==
 >
 > **Context:** *Festival event volunteer coordination*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "The music festival needs the ==most== volunteers because..."
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==the event with the highest staffing requirement==
+> - ==needing our biggest team of volunteers yet==
+> - ==requiring more helpers than any other festival==
+> - ==the music one demands the maximum assistance==
 >
-> **🥈 Other possibilities:**
-> - "Our biggest ==staffing challenge== is the music festival"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==the event manageable with the fewest volunteers==
+> - ==requiring only a tiny subgroup of our helpers==
+> - ==needing the smallest number of people among all events==
+> - ==having a minimal demand for additional staffing==
 >
-> - "We need to recruit our ==largest team== for the music event"
->
-> - "Of all the festivals, the music one has the ==highest== volunteer requirement"
->
-> - "The music festival ==outnumbers== the others in terms of volunteers needed"
->
-> **🔑 Core Concept:** Superlative comparison (most, highest, largest) combined with music festival reference
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -488,5 +512,61 @@ ref:
 > - **Confirmation Logic:** Superlative indicator (largest number, most, highest) + largest specific number = music festival
 >
 > **🔑 Strategic Lesson:** Luôn lắng nghe hết các lựa chọn và so sánh con số, không chọn ngay số đầu tiên nghe được. Signpost như "however", "the most significant" thường báo hiệu đáp án.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==The music festival==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==the music event with the highest staffing requirement of all=="
+> 2. "==the science festival organizers need about 45 volunteers=="
+> 3. "==needing our biggest team of helpers for multiple stages=="
+> 4. "==the book festival team is looking for around 30 volunteers=="
+> 5. "==the music festival demanding more assistants than any other=="
+> 6. "==the concert area being manageable with only five helpers=="
+> 7. "==requiring a massive group of 200 volunteers for security=="
+> 8. "==one staff suggested choosing the science festival instead=="
+> 9. ==recruiting over 150 volunteers for the various music venues==
+> 10. ==the music festival having the smallest number of people needed==
+?
+> [!info] 📊 Classification Result
+> 1. ==the music event with the highest staffing requirement of all== → ==[✅]== (Paraphrase của largest number)
+> 2. ==the science festival organizers need about 45 volunteers== → ==[⚠️]== (Bẫy nội dung về số lượng trung bình)
+> 3. ==needing our biggest team of helpers for multiple stages== → ==[✅]== (Đặc điểm của largest number)
+> 4. ==the book festival team is looking for around 30 volunteers== → ==[⚠️]== (Bẫy nội dung về số lượng nhỏ)
+> 5. ==the music festival demanding more assistants than any other== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==the concert area being manageable with only five helpers== → ==[❌]== (Ngược lại với largest number)
+> 7. ==requiring a massive group of 200 volunteers for security== → ==[✅]== (Đặc điểm của largest number)
+> 8. ==one staff suggested choosing the science festival instead== → ==[⚠️]== (Bẫy nội dung về gợi ý khác)
+> 9. ==recruiting over 150 volunteers for the various music venues== → ==[✅]== (Đặc điểm của largest number)
+> 10. ==the music festival having the smallest number of people needed== → ==[❌]== (Logic đảo chiều: largest vs smallest)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==The music festival==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't looking for the ==smallest team== or a ==limited number of helpers==; we needed the ==largest staffing team possible==, which only the ==music festival== requires..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK The music festival==
+>
+> **🧠 Reason:** Cấu trúc "weren't looking for X (Antonym); instead, needed Y (Synonym)" đã phủ định số lượng ít (Antonym) và khẳng định sự cần nhân lực tối đa. 
+> - Smallest team = Antonym of Largest number
+> - → Music festival requires largest staffing = The music festival.
+>
+> **🎯 Skill:** Nhận diện đúng sự kiện khi người nói bác bỏ các khái niệm "nhân sự tối thiểu/nhỏ" (Antonyms) để mô tả tính chất khát nhân lực (largest number) của lễ hội âm nhạc.
+
+---
 
 ---

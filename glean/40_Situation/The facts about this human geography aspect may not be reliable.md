@@ -26,18 +26,33 @@ ref:
 > | A | ==facts may not be reliable== | Sự thật có thể không đáng tin cậy | questionable, doubtful, not trustworthy, unverified | ⚠️ High |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** ==Phán định về độ tin cậy của dữ liệu==
+> **Type of Info:** ==Phán định về độ tin cậy của dữ liệu== (Assessment of Reliability)
 >
 > **Topic Category:** ==Academic Research / Data Quality==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Khẳng định rằng ==thông tin/facts về khía cạnh địa lý nhân văn này có thể không chính xác/không đáng tin cậy==, cần kiểm chứng kỹ trước khi sử dụng
 >
-> - **Denotation:** Nghĩa đen là facts có thể là ==questionable (có vấn đề)==, ==doubtful (có nghi ngờ)==, hoặc ==unverified (chưa được xác minh)==
+> - **Denotation (Nghĩa đen):** Nghĩa đen là facts có thể là ==questionable (có vấn đề)==, ==doubtful (có nghi ngờ)==, hoặc ==unverified (chưa được xác minh)==
 >
 > - **Distractor:** "easy to find facts" (dễ kiếm), "no useful research" (không có nghiên cứu), "too vague" (quá mơ hồ) - các vấn đề khác về TIẾP CẬN, TỒN TẠI, CHẤT LƯỢNG
 >
-> - **Deep Dive:** Paraphrasing sâu hơn: ==questionable data==, ==doubtful information==, ==not trustworthy==, ==potentially inaccurate==, ==needs verification==, ==unreliable sources==, ==should be double-checked==
+> - **Deep Dive:** Paraphrasing sâu hơn: ==questionable data, doubtful information, not trustworthy, potentially inaccurate, needs verification, unreliable sources, should be double-checked==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==highly reliable, statistically sound, rigorously verified, authoritative source, accurate data, trustworthy evidence==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==verify/check== → Syn: ==validate, confirm, substantiate== | Ant: ==invalidate, disprove, debunk==
+>   - ==trust/rely== → Syn: ==depend, count on, bank on== | Ant: ==distrust, doubt, suspect==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** Hình dung một sinh viên ==nhìn vào sách/báo cáo với biểu tượng "?"=== (noticing question mark), ==nhíu mày nghi ngờ== (showing skepticism), ==so sánh các bảng số liệu== (comparing charts)
+>
+> - **Auditory:** Giọng điệu ==hoài nghi/ngập ngừng== (hearing hesitation) khi nói "may not be reliable"; âm thanh ==lật trang giấy tìm nguồn== (flipping through pages to check sources)
+>
+> - **Action:** Thao tác ==kiểm tra chéo thông tin== (cross-referencing), ==ghi chú "verify"== (marking for verification), ==tra cứu nguồn gốc dữ liệu== (tracing data origins)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -94,28 +109,37 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==facts may not be reliable==
 >
-> **Context:** *Research project discussion*
+> **Context:** *Research project discussion regarding data quality*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "The facts/data might be ==questionable/doubtful==" hoặc "==need verification/checking=="
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==information might be questionable or doubtful==
+> - ==data that consistently needs verification==
+> - ==not entirely trustworthy or accurate information==
+> - ==potentially unreliable sources of evidence==
 >
-> **🥈 Other possibilities:**
-> - "not entirely trustworthy/accurate"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==facts that are highly reliable and verified==
+> - ==data coming from an authoritative and sound source==
+> - ==completely accurate and trustworthy evidence==
+> - ==information that doesn't need any double-checking==
 >
-> - "potentially unreliable sources"
->
-> - "should be double-checked/verified"
->
-> - "have doubts about accuracy"
->
-> **🔑 Core Concept:** Khẳng định sự ==nghi ngờ/cần kiểm chứng== về độ tin cậy của thông tin
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -389,3 +413,59 @@ ref:
 > 2. ==facts need verification/checking==
 >
 > **🎯 Goal:** Instant Recall
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==facts may not be reliable==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==the facts I found seem quite questionable or doubtful=="
+> 2. "==this human geography aspect is very easy to find facts for=="
+> 3. "==the information hasn't been properly verified yet=="
+> 4. "==no useful research has been done on this topic so far=="
+> 5. "==these sources aren't exactly what I'd call trustworthy=="
+> 6. "==the data provided is highly reliable and statistically sound=="
+> 7. "==we should treat these findings with extreme caution=="
+> 8. "==this specific aspect is just too vague for our purposes=="
+> 9. ==the evidence is unverified and needs careful double-checking==
+> 10. ==finding credible data for this section was a simple task==
+?
+> [!info] 📊 Classification Result
+> 1. ==the facts I found seem quite questionable or doubtful== → ==[✅]== (Paraphrase của not reliable)
+> 2. ==this human geography aspect is very easy to find facts for== → ==[⚠️]== (Bẫy nội dung về tiếp cận)
+> 3. ==the information hasn't been properly verified yet== → ==[✅]== (Đặc điểm của not reliable)
+> 4. ==no useful research has been done on this topic so far== → ==[⚠️]== (Bẫy nội dung về sự tồn tại)
+> 5. ==these sources aren't exactly what I'd call trustworthy== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==the data provided is highly reliable and statistically sound== → ==[❌]== (Ngược lại với not reliable)
+> 7. ==we should treat these findings with extreme caution== → ==[✅]== (Đặc điểm của not reliable)
+> 8. ==this specific aspect is just too vague for our purposes== → ==[⚠️]== (Bẫy nội dung về độ rõ ràng)
+> 9. ==the evidence is unverified and needs careful double-checking== → ==[✅]== (Đặc điểm của not reliable)
+> 10. ==finding credible data for this section was a simple task== → ==[❌]== (Logic đảo chiều: nghi ngờ vs tin cậy/dễ dàng)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==facts may not be reliable==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't looking for ==verified data== or ==statistically sound evidence==; we were worried that the facts for this aspect were ==doubtful== and ==questionable==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK facts may not be reliable==
+>
+> **🧠 Reason:** Cấu trúc "weren't looking for X (Antonym); instead, worried Y (Synonym)" đã phủ định sự chính xác (Antonym) và khẳng định sự nghi ngờ. 
+> - Verified data = Antonym of Not reliable
+> - → Doubtful and questionable = Facts may not be reliable.
+>
+> **🎯 Skill:** Nhận diện đúng đánh giá khi người nói bác bỏ các khái niệm "xác minh/chắc chắn" (Antonyms) để giới thiệu tính chất không đáng tin (unreliable) của thông tin.
+
+---

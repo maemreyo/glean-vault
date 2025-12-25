@@ -32,18 +32,33 @@ ref:
 > **✅ Correct Answer:** ==interpersonal skills==
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** ==Chất lượng người==
+> **Type of Info:** ==Chất lượng người== (Personal Quality)
 >
 > **Topic Category:** ==Volunteering==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** ==skills and qualities that enable effective communication and positive interactions with other people==
 >
-> - **Denotation:** ==the ability to relate to, communicate with, and work alongside others effectively==
+> - **Denotation (Nghĩa đen):** ==the ability to relate to, communicate with, and work alongside others effectively==
 >
 > - **Distractor:** ==communication skills (too narrow), personal skills (too vague), social activities (wrong category - action not quality)==
 >
-> - **Deep Dive:** ==being good with people, getting along with others, working well in teams, social competence, people skills, relationship-building abilities==
+> - **Deep Dive:** Paraphrasing sâu hơn: ==being good with people, getting along with others, working well in teams, social competence, people skills, relationship-building abilities==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==poor communication, inability to work in teams, anti-social behavior, difficulty interacting, lack of people skills, working solo only==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==interact/communicate== → Syn: ==connect, engage, liaise== | Ant: ==ignore, avoid, disconnect==
+>   - ==collaborate/cooperate== → Syn: ==partner, unite, join forces== | Ant: ==compete, oppose, conflict==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** ==volunteers talking to visitors== (seeing interaction), ==smiling faces== (noticing friendliness), ==group coordination== (observing teamwork), ==helping people together== (watching collaboration)
+>
+> - **Auditory:** ==friendly conversations== (hearing greetings), ==greeting visitors== (listening to welcomes), ==coordinating in teams== (hearing instructions), ==answering questions== (listening to replies)
+>
+> - **Action:** ==welcoming guests== (receiving arrivals), ==explaining activities== (describing events), ==working in shifts== (sharing duties), ==solving problems collaboratively== (fixing issues together)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -102,28 +117,37 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==interpersonal skills==
 >
 > **Context:** *Volunteer selection criteria for festival participation - qualities and skills needed*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "ability to work with people" / "good with people"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==exceptional ability to work well with other people==
+> - ==strong communication and relationship-building skills==
+> - ==effective in interacting with diverse groups of visitors==
+> - ==people-focused skills are our absolute priority==
 >
-> **🥈 Other possibilities:**
-> - "communication skills"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==struggling to communicate effectively with the public==
+> - ==preferring to work alone and avoiding social interaction==
+> - ==lacking the basic social skills needed for the role==
+> - ==having difficulty geting along with teammates==
 >
-> - "social skills"
->
-> - "getting along with others"
->
-> - "working well in a team"
->
-> **🔑 Core Concept:** Paraphrases focusing on interaction with people and communication abilities
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -513,5 +537,61 @@ ref:
 > - **Confirmation Logic:** Correct answer gets multiple priority markers (most important, absolute priority, essential) while distractors get secondary/conditional language (nice to have, helpful, some think)
 >
 > **🔑 Strategic Lesson:** When listening to MCQs, pay attention to attribution language ("some think") vs. direct speaker assertion ("we prioritize") and superlative/necessity markers
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==interpersonal skills==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==having an exceptional ability to work well with people=="
+> 2. "==volunteers being flexible with their shift schedules=="
+> 3. "==possessing strong communication and people-focused skills=="
+> 4. "==showing genuine personal interest in the music event=="
+> 5. "==getting along effectively with visitors and teammates=="
+> 6. "==having difficulty interacting or communicating with others=="
+> 7. "==demonstrating relationship-building abilities on site=="
+> 8. "==you'll need to be adaptable to changing situations=="
+> 9. ==collaborating closely and positively with your team members==
+> 10. ==lacking social competence and preferring to stay isolated==
+?
+> [!info] 📊 Classification Result
+> 1. ==having an exceptional ability to work well with people== → ==[✅]== (Paraphrase của interpersonal skills)
+> 2. ==volunteers being flexible with their shift schedules== → ==[⚠️]== (Bẫy nội dung về tính linh hoạt)
+> 3. ==possessing strong communication and people-focused skills== → ==[✅]== (Đặc điểm của interpersonal skills)
+> 4. ==showing genuine personal interest in the music event== → ==[⚠️]== (Bẫy nội dung về hứng thú cá nhân)
+> 5. ==getting along effectively with visitors and teammates== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==having difficulty interacting or communicating with others== → ==[❌]== (Ngược lại with interpersonal skills)
+> 7. ==demonstrating relationship-building abilities on site== → ==[✅]== (Đặc điểm của interpersonal skills)
+> 8. ==you'll need to be adaptable to changing situations== → ==[⚠️]== (Bẫy nội dung về thích nghi)
+> 9. ==collaborating closely and positively with your team members== → ==[✅]== (Đặc điểm của interpersonal skills)
+> 10. ==lacking social competence and preferring to stay isolated== → ==[❌]== (Logic đảo chiều: kỹ năng vs cô lập)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==interpersonal skills==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't looking for those who ==prefer working alone== or ==avoid team interaction==; the most critical requirement was ==strong interpersonal skills== and being ==good with people==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK interpersonal skills==
+>
+> **🧠 Reason:** Cấu trúc "weren't looking for X (Antonym); instead, the critical requirement was Y (Synonym)" đã phủ định sự làm việc độc lập (Antonym) và khẳng định kỹ năng giao tiếp. 
+> - Prefer working alone = Antonym of Interpersonal skills (teamwork focus)
+> - → Good with people = Interpersonal skills.
+>
+> **🎯 Skill:** Nhận diện đúng yêu cầu khi người nói bác bỏ các đặc điểm "cô lập/thiếu giao tiếp" (Antonyms) để mô tả tính chất xã hội (interpersonal skills) của công việc.
+
+---
 
 ---

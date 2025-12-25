@@ -27,18 +27,33 @@ ref:
 > | A | ==contacting local businesses== | reaching out to businesses in the area for support or sponsorship | local businesses, contact, outreach, approach, businesses in the area | ⚠️ Medium |
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** ==Hành động==
+> **Type of Info:** ==Hành động== (Action/Task)
 >
 > **Topic Category:** ==Volunteering==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** ==establishing communication and building relationships with local business entities==
 >
-> - **Denotation:** ==making contact with companies/shops in the local community==
+> - **Denotation (Nghĩa đen):** ==making contact with companies/shops in the local community==
 >
 > - **Distractor:** ==helping local businesses (reverse action), working at local businesses (employment context)==
 >
-> - **Deep Dive:** ==approaching, getting in touch with, reaching out to, making arrangements with, establishing partnerships with local commercial establishments==
+> - **Deep Dive:** Paraphrasing sâu hơn: ==approaching, getting in touch with, reaching out to, making arrangements with, establishing partnerships with local commercial establishments==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==ignoring businesses, cutting off contact, finishing partnerships, end correspondence with shop owners==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==contact/reach== → Syn: ==liaise, communicate, connect== | Ant: ==disconnect, avoid, isolate==
+>   - ==partner/coordinate== → Syn: ==collaborate, unite, team up== | Ant: ==compete, oppose, clash==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** ==making phone calls== (seeing screen), ==visiting shop fronts== (walking past windows), ==handing out brochures== (distributing flyers to owners)
+>
+> - **Auditory:** ==phone ringing== (hearing dial tone), ==business discussions== (listening to negotiations), ==sponsorship talk== (discussing money/deals)
+>
+> - **Action:** ==dialling numbers== (typing on phone), ==walking down high street== (visiting shops), ==presenting sponsorship packages== (showing proposals)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -97,28 +112,37 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==contacting local businesses==
 >
 > **Context:** *Volunteer responsibilities for festival events - business outreach and sponsorship coordination*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "getting in touch with businesses" / "reaching out to local shops"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==getting in touch with shops and companies around town==
+> - ==reaching out to commercial establishments in the area==
+> - ==liaising with local business owners for sponsorship==
+> - ==making contact with firms to arrange partnerships==
 >
-> **🥈 Other possibilities:**
-> - "approaching local businesses"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==avoiding any direct contact with local companies==
+> - ==having no interaction with any commercial entities==
+> - ==cutting off communication with previous business partners==
+> - ==ignoring the business community during recruitment==
 >
-> - "making contact with companies in the area"
->
-> - "arranging meetings with business owners"
->
-> - "liaising with the business community"
->
-> **🔑 Core Concept:** Synonyms for "contact" and "businesses" in a sponsorship/coordination context
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -395,3 +419,59 @@ ref:
 > 2. ==approaching local shops==
 >
 > **🎯 Goal:** Instant Recall
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==contacting local businesses==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==getting in touch with shops and companies around town=="
+> 2. "==working at the information desk during the festival=="
+> 3. "==liaising with commercial establishments for sponsorship=="
+> 4. "==helping visitors with directions around the site=="
+> 5. "==reaching out to businesses in the area to arrange deals=="
+> 6. "==cutting off all contact with current business sponsors=="
+> 7. "==approaching the business community to discuss funding=="
+> 8. "==volunteers promoted local businesses to all guests=="
+> 9. ==making arrangements with firms to provide event support==
+> 10. ==avoiding any communication with local shop owners==
+?
+> [!info] 📊 Classification Result
+> 1. ==getting in touch with shops and companies around town== → ==[✅]== (Paraphrase của contacting)
+> 2. ==working at the information desk during the festival== → ==[⚠️]== (Bẫy nội dung về vị trí khác)
+> 3. ==liaising with commercial establishments for sponsorship== → ==[✅]== (Đặc điểm của contacting)
+> 4. ==helping visitors with directions around the site== → ==[⚠️]== (Bẫy nội dung về nhiệm vụ khác)
+> 5. ==reaching out to businesses in the area to arrange deals== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==cutting off all contact with current business sponsors== → ==[❌]== (Ngược lại với contacting)
+> 7. ==approaching the business community to discuss funding== → ==[✅]== (Đặc điểm của contacting)
+> 8. ==volunteers promoted local businesses to all guests== → ==[⚠️]== (Bẫy nội dung về quảng bá)
+> 9. ==making arrangements with firms to provide event support== → ==[✅]== (Đặc điểm của contacting)
+> 10. ==avoiding any communication with local shop owners== → ==[❌]== (Logic đảo chiều: liên hệ vs né tránh)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==contacting local businesses==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't looking for those who want to ==avoid the shops== or ==ignore the business community==; your primary task is ==getting in touch with local businesses== to discuss the event..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK contacting local businesses==
+>
+> **🧠 Reason:** Cấu trúc "weren't looking for X (Antonym); instead, primary task is Y (Synonym)" đã phủ định sự né tránh (Antonym) và khẳng định hành động liên hệ. 
+> - Avoid/Ignore = Antonym of Contacting
+> - → Getting in touch with = Contacting local businesses.
+>
+> **🎯 Skill:** Nhận diện đúng trách nhiệm khi người nói bác bỏ các khái niệm "né tránh/ngó lơ" (Antonyms) để mô tả tính chất chủ động (outreach) của công việc liên hệ doanh nghiệp.
+
+---

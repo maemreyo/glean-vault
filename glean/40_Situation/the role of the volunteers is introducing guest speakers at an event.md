@@ -30,23 +30,29 @@ ref:
 >
 > **Topic Category:** ==Volunteering== / Event Management
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Tình nguyện viên có trách nhiệm ==đưa diễn giả khách lên sân khấu==, giới thiệu họ với khán giả và thông báo về buổi trình diễn
 >
-> - **Denotation:** "Introducing guest speakers" = "present speakers" = "announce guests" = "host speaker sessions"
+> - **Denotation (Nghĩa đen):** "Introducing guest speakers" = "present speakers" = "announce guests" = "host speaker sessions"
 >
 > - **Distractor:** "Providing entertainment" nghe giống vì cũng diễn ra trên sân khấu trước công chúng, nhưng đó là ==tình nguyện viên biểu diễn== chứ không phải người ==giới thiệu==
 >
-> - **Deep Dive:** Paraphrasing sâu = "bring speakers on stage", "announce guest presenters", "host speaker introductions", "present guest speakers to audience"
+> - **Deep Dive:** Paraphrasing sâu = ==bring speakers on stage, announce guest presenters, host speaker introductions, present guest speakers to audience==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==actual performers, the speakers themselves, audience members, technicians, no introductions needed, spontaneous talks==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==introduce/present== → Syn: ==propose, submit, offer== | Ant: ==withdraw, conceal, hide==
+>   - ==announce/declare== → Syn: ==proclaim, publish, broadcast== | Ant: ==suppress, withhold, keep secret==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung tình nguyện viên đứng cạnh sân khấu, đang ==cầm micro== hoặc ==giới thiệu== người lên sân khấu trước công chúng
+> - **Visual:** Hình dung tình nguyện viên đứng cạnh sân khấu (standing aside), đang ==cầm micro== (holding microphone) hoặc ==giới thiệu== người lên sân khấu (introducing the guest) trước công chúng
 >
-> - **Auditory:** Nghe thấy tiếng giới thiệu "Please welcome...", tiếng vỗ tay, tiếng cảm ơn, người nói "Next, we have..."
+> - **Auditory:** Nghe thấy tiếng ==giới thiệu== "Please welcome..." (welcoming speaker), tiếng ==vỗ tay== (applause), tiếng ==cảm ơn== (thanking), người nói "Next, we have..." (announcing next guest)
 >
-> - **Action:** Người tổ chức nói "You'll be ==introducing== the speakers for each session"
+> - **Action:** Hành động cụ thể: ==đón diễn giả== (welcoming speakers), ==trao micro== (handing over mic), ==mời lên sân khấu== (inviting on stage), ==đọc tiểu sử== (reading background)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: introduce + speakers, present + guests, announce + presenters, host + sessions
@@ -86,30 +92,37 @@ ref:
 >
 > → **Match:** ==introducing guest speakers at an event==
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
 ---
 
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==introducing guest speakers at an event==
 >
 > **Context:** *Volunteering at community festivals*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "You'll be ==announcing== the speakers for each session"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==announcing the presenters for each talk==
+> - ==welcoming guest speakers on the main stage==
+> - ==presenting the experts to the audience==
+> - ==hosting speaker introductions throughout the day==
 >
-> **🥈 Other possibilities:**
-> - "Your role is to ==introduce== guest presenters"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==being the featured performer yourself==
+> - ==providing music or entertainment on stage==
+> - ==technical roles behind the scenes==
+> - ==spontaneous presentations with no host==
 >
-> - "The job involves ==presenting speakers== to the audience"
->
-> - "Volunteers will ==welcome guest speakers== on stage"
->
-> - "Your main task is ==hosting speaker introductions=="
->
-> **🔑 Core Concept:** Giới thiệu diễn giả trước khán giả
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -367,5 +380,57 @@ ref:
 > 2. ==welcoming presenters on stage==
 >
 > **🎯 Goal:** Instant Recall
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==introducing guest speakers at an event==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==announcing each speaker's name and affiliation before they talk=="
+> 2. "==volunteers providing music and acting entertainment themselves=="
+> 3. "==welcoming the guest presenters on stage for each session=="
+> 4. "==working on the sound and lighting equipment backstage=="
+> 5. "==hosting the introduction of experts to the audience=="
+> 6. "==you don't need to introduce anyone today, it's all informal=="
+> 7. "==presenting the invited speakers to the festival attendees=="
+> 8. "==you'll be the one singing and dancing on the main stage=="
+> 9. "==giving each presenter a brief introduction before they start=="
+> 10. "==helping visitors find where to sit in the audience=="
+?
+> [!info] 📊 Classification Result
+> 1. ==announcing each speaker's name and affiliation before they talk== → ==[✅]== (Paraphrase của introducing guest speakers)
+> 2. ==volunteers providing music and acting entertainment themselves== → ==[⚠️]== (Bẫy nội dung về giải trí/tự biểu diễn)
+> 3. ==welcoming the guest presenters on stage for each session== → ==[✅]== (Đặc điểm của introducing guest speakers)
+> 4. ==working on the sound and lighting equipment backstage== → ==[⚠️]== (Bẫy nội dung về kỹ thuật sân khấu)
+> 5. ==hosting the introduction of experts to the audience== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==you don't need to introduce anyone today, it's all informal== → ==[❌]== (Ngược lại với role giới thiệu)
+> 7. ==presenting the invited speakers to the festival attendees== → ==[✅]== (Đặc điểm của introducing guest speakers)
+> 8. ==you'll be the one singing and dancing on the main stage== → ==[❌]== (Logic đảo chiều: tự biểu diễn vs giới thiệu người khác)
+> 9. ==giving each presenter a brief introduction before they start== → ==[✅]== (Đặc điểm của introducing guest speakers)
+> 10. ==helping visitors find where to sit in the audience== → ==[⚠️]== (Bẫy nội dung về hỗ trợ khán giả)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==introducing guest speakers at an event==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We've decided ==not to have volunteers perform music or acts== this year; your focus instead is on ==hosting the guest presenters== and ==welcoming the speakers== properly to the podium..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK introducing guest speakers==
+>
+> **🧠 Reason:** Cấu trúc "decided not to have X (Antonym); focus instead is Y (Synonym)" đã phủ định vai trò biểu diễn (Antonym) và khẳng định vai trò giới thiệu. 
+> - Performers = Antonym of Introducers
+> - → Hosting guest presenters = Introducing guest speakers.
+>
+> **🎯 Skill:** Nhận diện đúng vai trò khi người nói bác bỏ các nhiệm vụ "tự biểu diễn" (Antonyms) để tập trung vào nhiệm vụ giới thiệu người khác.
 
 ---

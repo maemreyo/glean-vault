@@ -30,14 +30,29 @@ ref:
 >
 > **Topic Category:** ==Volunteering== / Venue Management
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Tình nguyện viên hỗ trợ người tham quan ==định vị chỗ ngồi== của họ tại khu vực biểu diễn hoặc sân khấu
 >
-> - **Denotation:** "Helping people find their seats" = "guide people to seating" = "show where to sit" = "assist with seating arrangements"
+> - **Denotation (Nghĩa đen):** "Helping people find their seats" = "guide people to seating" = "show where to sit" = "assist with seating arrangements"
 >
 > - **Distractor:** "Giving advice" nghe giống vì cũng là hỗ trợ khách, nhưng đó là trả lời câu hỏi chung chứ không phải ==hướng dẫn đến chỗ ngồi cụ thể==
 >
-> - **Deep Dive:** Paraphrasing sâu = "direct people to their allocated seats", "help guests locate their seating areas", "guide audience members to their places", "assist with seating arrangements"
+> - **Deep Dive:** Paraphrasing sâu = ==direct people to their allocated seats, help guests locate their seating areas, guide audience members to their places, assist with seating arrangements==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==sitting down elsewhere, wandering around venue, leaving the seating area, blocking aisles, no assigned seating, standing only events==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==locate/find== → Syn: ==detect, spot, identify== | Ant: ==lose, misplace, miss==
+>   - ==guide/direct== → Syn: ==conduct, escort, lead== | Ant: ==follow, trail, wander==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** Hình dung tình nguyện viên ==cầm vé== hoặc ==bản đồ== (holding tickets/maps) khu vực ngồi, đang ==chỉ tay hướng dẫn== (pointing directions) khách đến số ghế hoặc khu vực của họ
+>
+> - **Auditory:** Tiếng khách ==hỏi== (listening to questions) "Where is seat A15?", câu ==trả lời== "Go down this aisle, second row on your right" (giving directions), tiếng ==phát loa== (hearing announcement) về ghế ngồi
+>
+> - **Action:** Hành động cụ thể: ==kiểm tra vé== (checking tickets), ==dẫn khách đến chỗ== (escorting guests), ==xếp chỗ ngồi== (arranging seating), ==chỉ đường== (directing people)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -86,30 +101,37 @@ ref:
 >
 > → **Match:** ==helping people find their seats==
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
 ---
 
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==helping people find their seats==
 >
 > **Context:** *Volunteering at community festivals*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "Your role is to ==guide people== to their seats"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==physically guiding audience members to their rows==
+> - ==directing guests to their assigned seating areas==
+> - ==assisting visitors with locating their specific seats==
+> - ==showing people where they are supposed to sit==
 >
-> **🥈 Other possibilities:**
-> - "You'll be ==assisting visitors== with locating their seating"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==allowing people to wander freely without seats==
+> - ==letting everyone sit wherever they choose==
+> - ==ignoring guests who are looking for their places==
+> - ==organising an event with standing room only==
 >
-> - "The job involves ==directing guests== to their assigned places"
->
-> - "Volunteers will ==help people find== where to sit"
->
-> - "Your main task is ==showing audience members== to their seats"
->
-> **🔑 Core Concept:** Hướng dẫn khách đến vị trí ghế của họ
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -369,5 +391,57 @@ ref:
 > 2. ==direct guests to their seating areas==
 >
 > **🎯 Goal:** Instant Recall
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==helping people find their seats==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==physically guiding audience members to their assigned rows=="
+> 2. "==volunteers will be selling tickets at the main entrance=="
+> 3. "==directing guests to their specific seating locations=="
+> 4. "==giving advice to visitors about the festival schedule=="
+> 5. "==showing people where they are supposed to sit according to tickets=="
+> 6. "==allowing everyone to stand and wander around the entire venue=="
+> 7. "==assisting visitors with locating their seats in the auditorium=="
+> 8. "==you'll be providing publicity about the local council products=="
+> 9. ==escorting guests to their allocated seating areas==
+> 10. ==performing on stage to provide entertainment for the public==
+?
+> [!info] 📊 Classification Result
+> 1. ==physically guiding audience members to their assigned rows== → ==[✅]== (Paraphrase của helping find seats)
+> 2. ==volunteers will be selling tickets at the main entrance== → ==[⚠️]== (Bẫy nội dung về bán vé)
+> 3. ==directing guests to their specific seating locations== → ==[✅]== (Đặc điểm của helping find seats)
+> 4. ==giving advice to visitors about the festival schedule== → ==[⚠️]== (Bẫy nội dung về tư vấn lịch trình)
+> 5. ==showing people where they are supposed to sit according to tickets== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==allowing everyone to stand and wander around the entire venue== → ==[❌]== (Ngược lại với finding seats)
+> 7. ==assisting visitors with locating their seats in the auditorium== → ==[✅]== (Đặc điểm của helping find seats)
+> 8. ==you'll be providing publicity about the local council products== → ==[⚠️]== (Bẫy nội dung về quảng bá)
+> 9. ==escorting guests to their allocated seating areas== → ==[✅]== (Đặc điểm của helping find seats)
+> 10. ==performing on stage to provide entertainment for the public== → ==[❌]== (Logic đảo chiều: biểu diễn vs giúp khách ngồi)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==helping people find their seats==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't supposed to ==let them wander== or ==find seats on their own==; our priority was ==physically guiding them== and ==showing everyone their row and seat number=="..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK helping people find their seats==
+>
+> **🧠 Reason:** Cấu trúc "weren't supposed to X (Antonym); our priority was Y (Synonym)" đã phủ định việc để khách tự do/tự tìm (Antonyms) và khẳng định sự hướng dẫn/chỉ chỗ. 
+> - Wander = Antonym of Helping find seats
+> - → Physically guiding them = Helping people find their seats.
+>
+> **🎯 Skill:** Nhận diện đúng vai trò khi người nói bác bỏ các trạng thái "thả lỏng/tự do" (Antonyms) để mô tả dịch vụ hỗ trợ vị trí cụ thực tế.
 
 ---

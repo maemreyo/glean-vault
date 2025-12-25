@@ -38,14 +38,29 @@ ref:
 >
 > **Topic Category:** ==Academic Research / Urban Development / Social Leisure==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** ==Retail centres== refer to large commercial buildings or complexes that contain multiple shops, stores, and businesses, typically located in suburban or outlying areas of cities
 >
-> - **Denotation:** Direct meaning includes: shopping malls, commercial complexes, retail facilities, shopping areas with multiple stores
+> - **Denotation (Nghĩa đen):** Direct meaning includes: shopping malls, commercial complexes, retail facilities, shopping areas with multiple stores
 >
 > - **Distractor:** Similar concepts include "markets," "shops," "stores" - these are individual or smaller units, not ==large commercial centres==
 >
-> - **Deep Dive:** In IELTS context, speakers may paraphrase "retail centres" as: "shopping centres," "malls," "commercial complexes," "retail facilities," "shopping areas," "commercial developments"
+> - **Deep Dive:** Paraphrasing sâu hơn: ==shopping centres, malls, commercial complexes, retail facilities, shopping areas, commercial developments==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==individual stores, local corner shops, online retail, residential areas only, small boutiques, non-commercial zones==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==shop/buy== → Syn: ==purchase, acquire, procure== | Ant: ==sell, vend, market==
+>   - ==develop/build== → Syn: ==construct, erect, establish== | Ant: ==demolish, destroy, dismantle==
+
+> [!tip] 💡 Imagination & Sensory
+> **🎨 Sensory Triggers (Verb-Focused):**
+>
+> - **Visual:** Seeing ==large modern buildings with many shops== (noticing commercial scale), ==parking lots== (observing car capacity), ==people carrying shopping bags== (noticing retail activity), ==bright storefronts== (seeing illuminated displays)
+>
+> - **Auditory:** Hearing students ==discuss "shopping centres"== (listening to leisure talk), "==malls==" (hearing commercial terms), "==retail facilities==" (noting infrastructure focus), "==commercial areas==" (discussing city planning)
+>
+> - **Action:** People ==shopping== (browsing items), ==walking through malls== (wandering through aisles), ==visiting multiple stores== (multi-stop shopping), ==carrying bags to cars== (completing purchases), ==entering retail complexes== (arriving at venue)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
@@ -98,28 +113,37 @@ ref:
 
 ---
 
+## 🧠 Spaced Repetition Flashcards (20 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
+
 #flashcards/ielts-listening/cam-20-test-2/science-tech/urban-development/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==retail centres==
 >
-> **Context:** *Urban development discussion about new facilities*
+> **Context:** *Urban development discussion about new commercial facilities*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "shopping centres" / "malls"
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==newly developed shopping malls in the suburbs==
+> - ==modern commercial complexes on the city outskirts==
+> - ==large-scale retail facilities for local residents==
+> - ==recently opened shopping centres at the edge of town==
 >
-> **🥈 Other possibilities:**
-> - "commercial complexes"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==the removal of individual small shops from town==
+> - ==the demolition of existing commercial areas==
+> - ==areas remaining purely residential with no shops==
+> - ==small corner boutiques rather than large malls==
 >
-> - "retail facilities"
->
-> - "shopping malls"
->
-> - "shopping areas"
->
-> **🔑 Core Concept:** Focus on SHOPPING/COMMERCIAL facilities (large multi-store complexes)
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -500,3 +524,59 @@ ref:
 > - **Confirmation Logic:** "Both happy about" + agreement signals + shopping/retail vocabulary = correct answer
 >
 > **🔑 Strategic Lesson:** When questions ask what speakers are "both happy about," listen specifically for consensus/satisfaction markers and the item that receives the most positive/shared emphasis
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/science-tech/urban-development/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==retail centres==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==new shopping malls built in the suburbs of the city=="
+> 2. "==newly constructed conference centres for business events=="
+> 3. "==modern commercial complexes on the town's outskirts=="
+> 4. "==sport centres recently established in suburban areas=="
+> 5. "==retail facilities that have improved local life significantly=="
+> 6. "==the demolition of all commercial buildings in town=="
+> 7. "==shopping centres that both students are pleased about=="
+> 8. "==business convention halls opening on the edge of town=="
+> 9. ==large-scale shopping malls providing better access for all==
+> 10. ==having only small corner shops and no large retail centres==
+?
+> [!info] 📊 Classification Result
+> 1. ==new shopping malls built in the suburbs of the city== → ==[✅]== (Paraphrase của retail centres)
+> 2. ==newly constructed conference centres for business events== → ==[⚠️]== (Bẫy nội dung về trung tâm hội nghị)
+> 3. ==modern commercial complexes on the town's outskirts== → ==[✅]== (Đặc điểm của retail centres)
+> 4. ==sport centres recently established in suburban areas== → ==[⚠️]== (Bẫy nội dung về trung tâm thể thao)
+> 5. ==retail facilities that have improved local life significantly== → ==[✅]== (Paraphrase trực tiếp)
+> 6. ==the demolition of all commercial buildings in town== → ==[❌]== (Ngược lại with retail centres)
+> 7. ==shopping centres that both students are pleased about== → ==[✅]== (Đặc điểm của retail centres)
+> 8. ==business convention halls opening on the edge of town== → ==[⚠️]== (Bẫy nội dung về hội trường)
+> 9. ==large-scale shopping malls providing better access for all== → ==[✅]== (Đặc điểm của retail centres)
+> 10. ==having only small corner shops and no large retail centres== → ==[❌]== (Logic đảo chiều: đại siêu thị vs cửa hàng góc phố)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/science-tech/urban-development/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==retail centres==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't just satisfied with ==small corner stores== or ==isolated boutiques==; what really made us happy was the addition of ==large retail centres== and ==shopping malls==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK retail centres==
+>
+> **🧠 Reason:** Cấu trúc "weren't just satisfied with X (Antonym); instead, made happy by Y (Synonym)" đã phủ định các cửa hàng nhỏ (Antonym) và khẳng định các trung tâm bán lẻ lớn. 
+> - Small corner stores = Antonym of Retail centres
+> - → Shopping malls = Retail centres.
+>
+> **🎯 Skill:** Nhận diện đúng sự phát triển khi người nói bác bỏ các khái niệm "cửa hàng nhỏ lẻ/riêng biệt" (Antonyms) để mô tả tính chất quy mô (retail centres) của các khu mua sắm mới.
+
+---

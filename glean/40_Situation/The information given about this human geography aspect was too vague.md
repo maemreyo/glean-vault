@@ -30,23 +30,29 @@ ref:
 >
 > **Topic Category:** ==Academic Research / Information Quality==
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Khẳng định rằng ==thông tin được cung cấp về KHÍA CẠNH CỤ THỂ này của địa lý nhân văn thiếu tính cụ thể/rõ ràng==, gây khó khăn trong việc hiểu và sử dụng
 >
-> - **Denotation:** Nghĩa đen là thông tin về ==this aspect (khía cạnh này)== là ==vague (mơ hồ)==, ==unclear (không rõ)==, hoặc ==imprecise (không chính xác)==
+> - **Denotation (Nghĩa đen):** Nghĩa đen là thông tin về ==this aspect (khía cạnh này)== là ==vague (mơ hồ)==, ==unclear (không rõ)==, hoặc ==imprecise (không chính xác)==
 >
 > - **Distractor:** "easy to find facts" (dễ kiếm), "no useful research" (không có nghiên cứu), "not reliable" (không đáng tin cậy) - các vấn đề KHÁC về TIẾP CẬN, TỒN TẠI, CHẤT LƯỢNG
 >
-> - **Deep Dive:** Paraphrasing sâu hơn: ==lacking in detail==, ==not sufficiently specific==, ==too general==, ==ambiguous==, ==unclear information==, ==lacks precision==, ==imprecise data==, ==needs more specificity==
+> - **Deep Dive:** Paraphrasing sâu hơn: ==lacking in detail, not sufficiently specific, too general, ambiguous, unclear information, lacks precision, imprecise data, needs more specificity==
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn: ==highly specific, precise details, clear and concise, extremely detailed, well-defined, explicit data, unambiguous information==
+>
+> - **Synonym Chain (Verbs):**
+>   - ==clarify/specify== → Syn: ==define, elucidate, articulate== | Ant: ==obscure, confuse, muddle==
+>   - ==perceive/understand== → Syn: ==grasp, comprehend, discern== | Ant: ==misinterpret, overlook, miss==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình dung một ==sinh viên đọc tài liệu về "khía cạnh X" với biểu tượng =?=== hoặc người nhíu mày vì không hiểu
+> - **Visual:** Hình dung một ==sinh viên đọc tài liệu về "khía cạnh X" với biểu tượng =?=== (staring at question marks) hoặc người ==nhíu mày== (frowning) vì không hiểu; ==lật qua lại trang sách== (flipping back and forth) tìm kiếm chi tiết
 >
-> - **Auditory:** Giọng điệu ==bất mãn/ngập ngừng== khi nói "too vague"; có thể dùng nhấn âm trên "aspect" và "vague"
+> - **Auditory:** Giọng điệu ==bất mãn/ngập ngừng== (frustrated tone) khi nói "too vague"; tiếng ==thở dài== (sighing), tiếng ==gõ bút== (tapping pen) thể hiện sự bế tắc
 >
-> - **Action:** Thao tác ==lật qua lại trang nhiều lần== hoặc ==vẽ =?=== vào giấy khi đọc về khía cạnh đó
+> - **Action:** Thao tác ==lật qua lại trang nhiều lần== (repeatedly flipping pages) hoặc ==vẽ =?=== (drawing question marks) vào giấy khi ==đọc== về khía cạnh đó; ==tìm kiếm== từ khóa (searching for keywords) mà không thấy kết quả cụ thể
 >
 > **🔗 Collocation Patterns:**
 > - `Noun + vague`: information vague, data vague, explanation vague, details vague
@@ -88,34 +94,37 @@ ref:
 
 ---
 
-## 🧠 Spaced Repetition Flashcards (14 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** ==information about this aspect was too vague==
 >
 > **Context:** *Research project discussion*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** "The ==information/lacks detail about this aspect==" hoặc "==not sufficiently specific about this aspect=="
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==not sufficiently specific about this aspect==
+> - ==lacks proper detail and precision==
+> - ==data on this aspect is too general==
+> - ==ambiguous information provided initially==
 >
-> **🥈 Other possibilities:**
-> - "data on this aspect is too general"
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==extremely detailed and well-defined==
+> - ==highly specific and precise information==
+> - ==explicit data with no ambiguity==
+> - ==clear and concise explanation of the aspect==
 >
-> - "lacks proper specification about this aspect"
->
-> - "ambiguous details regarding this aspect"
->
-> - "needs more clarity on this aspect"
->
-> **🔑 Core Concept:** Khẳng định sự ==thiếu cụ thể/rõ ràng== của thông tin về KHÍA CẠNH CỤ THỂ
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -393,3 +402,57 @@ ref:
 > 2. ==not sufficiently precise/clear about this aspect==
 >
 > **🎯 Goal:** Instant Recall
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** ==information about this aspect was too vague==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "==the details provided are not sufficiently specific=="
+> 2. "==there's no useful research available for this section=="
+> 3. "==the data on this aspect is far too general and unclear=="
+> 4. "==we found the facts to be highly reliable and accurate=="
+> 5. "==it lacks proper specification and precise details=="
+> 6. "==the information is readily accessible in the database=="
+> 7. "==everything about this particular aspect is ambiguous=="
+> 8. "==the explanation is extremely detailed and well-defined=="
+> 9. "==insufficient clarity in the materials about this aspect=="
+> 10. "==we have explicit and unambiguous data to work with=="
+?
+> [!info] 📊 Classification Result
+> 1. ==the details provided are not sufficiently specific== → ==[✅]== (Paraphrase của too vague)
+> 2. ==there's no useful research available for this section== → ==[⚠️]== (Bẫy nội dung về thiếu nghiên cứu)
+> 3. ==the data on this aspect is far too general and unclear== → ==[✅]== (Đặc điểm của too vague)
+> 4. ==we found the facts to be highly reliable and accurate== → ==[⚠️]== (Bẫy nội dung về độ tin cậy)
+> 5. ==it lacks proper specification and precise details== → ==[✅]== (Đặc điểm của too vague)
+> 6. ==the information is readily accessible in the database== → ==[⚠️]== (Bẫy nội dung về khả năng tiếp cận)
+> 7. ==everything about this particular aspect is ambiguous== → ==[✅]== (Paraphrase trực tiếp)
+> 8. ==the explanation is extremely detailed and well-defined== → ==[❌]== (Ngược lại với too vague)
+> 9. ==insufficient clarity in the materials about this aspect== → ==[✅]== (Đặc điểm của too vague)
+> 10. ==we have explicit and unambiguous data to work with== → ==[❌]== (Logic đảo chiều: rõ ràng vs mơ hồ)
+>
+> **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** ==information about this aspect was too vague==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We weren't looking at ==detailed specifications== or ==well-defined parameters==; what we were given about this aspect were ==ambiguous notes== and ==imprecise data==..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==STILL PICK information about this aspect was too vague==
+>
+> **🧠 Reason:** Cấu trúc "weren't looking at X; what were given were Y" (X = detailed/well-defined, Y = ambiguous/imprecise) đã phủ định tính cụ thể (Antonyms) và khẳng định sự mơ hồ. 
+> - Detailed = Antonym of Vague
+> - → Ambiguous notes = Too vague.
+>
+> **🎯 Skill:** Nhận diện điểm phê bình khi người nói bác bỏ các đặc điểm "chi tiết/xác định" (Antonyms) để mô tả tính chất thiếu cụ thể của thông tin.
+
+---
