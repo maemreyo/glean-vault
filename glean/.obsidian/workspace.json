@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c9b95291bc3d2192",
+  "active": "5c98256179590bd2",
   "lastOpenFiles": [
+    "99_Tools/scripts/update_tags_test_1.py",
     "99_Tools/scripts/fix_situation_tags.py",
     "40_Situation/What led to archaeologists to believe there as an ancient village on this site? The lucky discovery of old records, bases of several structures visible in the grass or unusual stones found near the castle.md",
     "40_Situation/Who was responsible for starting the community project? the castle owners, a national charity or the local council.md",
@@ -244,7 +244,6 @@
     "99_Tools/scripts/auto_link_vocab_v2.py",
     "99_Tools/scripts/cleanup_backups.py",
     "20_Vocabulary/the British Library’s digitised [[20_Vocabulary",
-    "20_Vocabulary/at least.md.tmp.8283.1766406399313",
     "10_Sources/Images/Pasted image 20251218102206.png",
     "10_Sources/Images/Pasted image 20251218101801.png",
     "10_Sources/Images/Pasted image 20251218101809.png",
