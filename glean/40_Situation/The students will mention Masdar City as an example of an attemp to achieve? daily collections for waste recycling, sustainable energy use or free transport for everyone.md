@@ -561,6 +561,7 @@ ref:
 > 10. ==having a high carbon footprint and energy-inefficient buildings== → ==[❌]== (Logic đảo chiều: bền vững vs tiêu tốn)
 >
 > **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+<!--SR:!2025-12-26,1,230-->
 
 ---
 

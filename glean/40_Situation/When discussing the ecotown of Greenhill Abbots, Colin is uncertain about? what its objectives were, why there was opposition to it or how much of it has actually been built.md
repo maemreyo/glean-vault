@@ -552,6 +552,7 @@ ref:
 > 10. ==calculating the exact completion percentage today== → ==[❌]== (Logic đảo chiều: thực tế hiện tại vs mục tiêu ban đầu)
 >
 > **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+<!--SR:!2025-12-26,1,230-->
 
 ---
 

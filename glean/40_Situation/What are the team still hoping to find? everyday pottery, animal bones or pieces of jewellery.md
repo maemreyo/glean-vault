@@ -542,6 +542,7 @@ ref:
 > 10. ==plain household utensils with zero market value== → ==[❌]== (Trái ngược hoàn toàn với vật quý giá)
 >
 > **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+<!--SR:!2025-12-28,3,252-->
 
 ---
 
@@ -557,10 +558,11 @@ ref:
 > [!warning] 🔄 Logic Flip Status
 > **👉 Verdict:** ==STILL PICK C (Pieces of jewellery)==
 >
-> **🧠 Reason:** Cấu trúc "weren't looking for X; goal was Z" (X = plain/everyday, Z = precious/decorative) đã phủ định tính chất tầm thường (Antonyms) và khẳng định tính chất quý giá (jewellery). 
+> **🧠 Reason:** Cấu trúc "weren't looking for X; goal was Z" (X = plain/everyday, Z = precious/decorative) đã phủ định tính chất tầm thường (Antonyms) và khẳng định tính chất quý giá (jewellery).
 > - Plain/Utilitarian = Antonym of Decorative/Jewellery
 > - → Not plain/everyday = Precious/Jewellery.
 >
 > **🎯 Skill:** Nhận diện mục tiêu tìm kiếm khi người nói bác bỏ các đặc điểm "thông thường/gia dụng" (Antonyms) để mô tả thực tế giá trị cao.
+<!--SR:!2025-12-28,3,252-->
 
 ---

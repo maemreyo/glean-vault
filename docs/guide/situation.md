@@ -2,7 +2,7 @@
 
 Batch process IELTS situation/option files with `status: pending`. Uses internal knowledge only.
 
-**📋 Template: 18-card Situation Flashcards (4 Tiers)**
+**📋 Template: 20-card Situation Flashcards (4 Tiers)**
 - Template: `glean/99_Templates/tpl_Situation.md`
 - Directory: `glean/40_Situation`
 
@@ -10,8 +10,8 @@ Batch process IELTS situation/option files with `status: pending`. Uses internal
 
 | Type | Filename Pattern | Example | Cards Generated |
 |------|------------------|---------|-----------------|
-| **Single-Option** | `the role of X is [option].md` | `...collecting feedback...` | **14 cards** (Excludes MCQ specific) |
-| **Multi-Option (MCQ)** | `[question]? [opt1], [opt2] or [opt3].md` | `What is...? A, B or C.md` | **18 cards** (Full set) |
+| **Single-Option** | `the role of X is [option].md` | `...collecting feedback...` | **16 cards** (Excludes MCQ specific) |
+| **Multi-Option (MCQ)** | `[question]? [opt1], [opt2] or [opt3].md` | `What is...? A, B or C.md` | **20 cards** (Full set) |
 
 ---
 
@@ -109,20 +109,20 @@ RULES:
   4. **DELETE the entire `<!-- MASTER TAGGING SYSTEM ... -->` comment block**
   5. **LOCATION RULE:** Tags must ONLY appear directly above their respective card headers
   
-  **⚠️ TAG SUFFIX PER CARD (MANDATORY ALIGNMENT WITH 18-CARD TEMPLATE):**
+  **⚠️ TAG SUFFIX PER CARD (MANDATORY ALIGNMENT WITH 20-CARD TEMPLATE):**
   
   | Tier | Card # | Name | Tag Suffix | Condition |
   |---|---|---|---|---|
-  | **Tier 1** | 1 | Prediction Brainstorm | `daily/01-prediction` | All |
+  | **Tier 1** | 1 | Prediction Brainstorm (Syn/Ant) | `daily/01-prediction` | All |
   | | 2 | Verb + Noun Association | `daily/02-keywords` | All |
   | | 3 | Signpost & Tone Shift | `daily/03-signpost` | All |
-  | | 4 | Sound Shape | `daily/04-sound` | All |
+  | | 4 | Sound Shape (Decoding) | `daily/04-sound` | All |
   | **Tier 2** | 5 | Reverse Matching | `recognition/01-reverse` | All |
   | | 6 | Trap Identification | `recognition/02-trap` | All |
   | | 7 | Confusion Differentiation | `recognition/03-differentiate` | All |
   | | 8 | Context Cloze | `recognition/04-cloze` | All |
-  | | 9 | Spatial Orientation | `recognition/05-spatial` | All (Keep as placeholder if no map) |
-  | **Tier 3** | 10 | Option Elimination | `weekly/01-elimination` | **MCQ Only** |
+  | **Tier 3** | 9 | Spatial Orientation | `recognition/05-spatial` | All |
+  | | 10 | Option Elimination | `weekly/01-elimination` | **MCQ Only** |
   | | 11 | Cross-Option Confusion | `weekly/02-cross-confusion` | **MCQ Only** |
   | | 12 | Answer Validation | `weekly/03-validation` | **MCQ Only** |
   | | 13 | Agreement Validity Check | `weekly/04-agreement` | All |
@@ -131,11 +131,13 @@ RULES:
   | | 16 | Script-to-Option Mapping | `biweekly/02-script-match` | All |
   | | 17 | 5-Second Prediction Drill | `biweekly/03-speed` | All |
   | | 18 | Complete Question Synthesis | `biweekly/04-synthesis` | **MCQ Only** |
+  | | 19 | Mental Classification MCQ | `biweekly/05-classification` | All |
+  | | 20 | Logic Flip & Antonym Reflex | `biweekly/06-logic-flip` | All |
   
   **FOR SINGLE-OPTION FILES (MATCHING):**
   - **DELETE Cards:** 10, 11, 12, 18.
-  - **KEEP Cards:** 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 14, 15, 16, 17.
-  - **Total:** **14 cards**
+  - **KEEP Cards:** 1-9, 13-17, 19-20.
+  - **Total:** **16 cards**
   - **Reason:** Matching questions HAVE distractors (Card 15) and need spatial/agreement logic (Card 9/13), but do not have A/B/C options for Elimination logic (Card 10/11/12/18).
   - **Renumbering:** Do NOT renumber tags. Keep original tag suffixes (e.g., Card 13 still uses `weekly/04-agreement`).
 
@@ -147,13 +149,13 @@ RULES:
 - **FILL ALL ANALYSIS SECTIONS** (before flashcards):
   - Question Profile → Question Type, Question Stem, Context, Source
   - Options Analysis → Table with all options
-  - Deep Analysis → Type of Info, Topic Category, 5D Framework
-  - Imagination & Sensory → Visual/Auditory/Action, Collocations
+  - Deep Analysis → Type of Info, Topic Category, **6D Framework (Logic & Lexical)**
+  - Imagination & Sensory → **Verb-Focused Triggers**, Collocations
   - Real Audio Phrases → 4+ realistic IELTS phrases
   - Traps & Distractors → 2 traps with explanations
   - Example Scripts → 2 IELTS-level audio scripts
 
-- Fill ALL flashcards (14 for single, 18 for multi)
+- Fill ALL flashcards (16 for single, 20 for multi)
 - Update status: pending → done
 - Write content back to file
 
@@ -187,25 +189,25 @@ grep -r 'MASTER TAGGING SYSTEM' glean/40_Situation/*.md
 ```
 ✅ Processed X/Y files successfully
 📦 Batches executed: N
-📊 Single-option files: X (14 cards each)
-📊 Multi-option files: Y (18 cards each)
+📊 Single-option files: X (16 cards each)
+📊 Multi-option files: Y (20 cards each)
 ❌ Failed files: [list if any]
 ```
 
 ---
 
-## 🔄 Flashcard Structure Summary (18 Cards)
+## 🔄 Flashcard Structure Summary (20 Cards)
 
 | Tier | Card | Name | Tag Suffix | Special |
 |------|------|------|------------|---------|
-| **Daily** | 1 | Reflex Prediction (Top Pick) | `daily/01-prediction` | - |
+| **Daily** | 1 | Prediction Brainstorm (Syn/Ant) | `daily/01-prediction` | **6D Focus** |
 | **Daily** | 2 | Top Collocation Reflex | `daily/02-keywords` | - |
 | **Daily** | 3 | Signpost & Tone Shift | `daily/03-signpost` | - |
-| **Daily** | 4 | Sound Shape (Phonological) | `daily/04-sound` | - |
+| **Daily** | 4 | Sound Shape (Phonological) | `daily/04-sound` | **Decoding** |
 | **Recognition** | 5 | Reverse Matching | `recognition/01-reverse` | - |
-| **Recognition** | 6 | Trap Identification (Spot the Lie) | `recognition/02-trap` | - |
+| **Recognition** | 6 | Trap Identification | `recognition/02-trap` | - |
 | **Recognition** | 7 | Confusion Differentiation | `recognition/03-differentiate` | - |
-| **Recognition** | 8 | Context Cloze (Spelling & Plural) | `recognition/04-cloze` | - |
+| **Recognition** | 8 | Context Cloze (Spelling/Plural) | `recognition/04-cloze` | - |
 | **Recognition** | 9 | Spatial Orientation Reflex | `recognition/05-spatial` | **Map/Plan** |
 | **Weekly** | 10 | Option Elimination Drill | `weekly/01-elimination` | **MCQ** |
 | **Weekly** | 11 | Cross-Option Confusion | `weekly/02-cross-confusion` | **MCQ** |
@@ -216,6 +218,8 @@ grep -r 'MASTER TAGGING SYSTEM' glean/40_Situation/*.md
 | **Bi-weekly** | 16 | Script-to-Option Mapping | `biweekly/02-script-match` | - |
 | **Bi-weekly** | 17 | 5-Second Prediction Drill | `biweekly/03-speed` | - |
 | **Bi-weekly** | 18 | Complete Question Synthesis | `biweekly/04-synthesis` | **MCQ** |
+| **Bi-weekly** | 19 | Mental Classification MCQ | `biweekly/05-classification` | **Mastery** |
+| **Bi-weekly** | 20 | Logic Flip & Antonym Reflex | `biweekly/06-logic-flip` | **Logic** |
 
 ---
 
@@ -230,7 +234,7 @@ grep -r 'MASTER TAGGING SYSTEM' glean/40_Situation/*.md
 > **Source Test:** Cam 20 Listening Test 02
 ```
 
-### Options Analysis (NEW)
+### Options Analysis
 ```markdown
 > [!abstract] 🔀 Options Analysis
 >
@@ -251,11 +255,13 @@ grep -r 'MASTER TAGGING SYSTEM' glean/40_Situation/*.md
   - Option: The text after "is..." in the filename.
   - **Remove** the "**✅ Correct Answer:**" line entirely.
 
-### Deep Analysis (5D Framework)
+### Deep Analysis (6D Framework)
 - **Definition:** Core meaning (highlight keywords with `==`)
 - **Denotation:** Literal meaning (highlight keywords with `==`)
 - **Distractor:** Similar-sounding but wrong (highlight keywords with `==`)
 - **Deep Dive:** Advanced paraphrasing (highlight keywords with `==`)
+- **Antonyms (Logic Flip):** Opposite concepts/negations (highlight keywords with `==`)
+- **Synonym Chain:** Verb chains with synonyms and antonyms.
 
 ---
 
@@ -277,12 +283,14 @@ grep -r 'MASTER TAGGING SYSTEM' glean/40_Situation/*.md
 - **NO SUMMARIES:** Avoid "summary" or "tóm tắt". All analysis must be **detailed, specific, and scientific**.
 - **Highlighting:** Consistently use `==` to highlight key terms, important variables, or critical parts of an explanation.
 - **Deep Analysis (Reflex Logic):**
-  - **Card 11 (Signal Decoding):** Identify *exact* phrases for each option and explain the *nuance* scientifically (e.g., "Option A implies future intent, while Option B implies current state").
-  - **Card 18 (Logic Breakdown):** Do NOT just summarize. Trace the **full cognitive path**: "Audio starts with..., then uses trap..., then confirms with...". Analyze specific *reasons* for elimination.
-- **5D Framework:** "Definition" and "Denotation" must be full sentences explaining context, not just synonyms.
-- **Imagination:** "Sensory Triggers" must describe *meaningful* scenes, sounds, and actions (e.g., "Hearing the *ching* sound of a cash register closing" vs just "sound of money").
+  - **Card 1 (Syn/Ant):** Brainstorm both sides of the coin immediately.
+  - **Card 11 (Signal Decoding):** Identify *exact* phrases for each option and explain the *nuance* scientifically.
+  - **Card 18 (Logic Breakdown):** Do NOT just summarize. Trace the **full cognitive path**.
+  - **Card 20 (Logic Flip):** Test the ability to pick the right answer when audio uses negation.
+- **6D Framework:** "Definition" and "Denotation" must be full sentences explaining context.
+- **Imagination:** "Sensory Triggers" must be **Verb-Focused** and describe *meaningful* actions.
 - **Flashcards:**
-  - **Why/Logic:** Explanations in "Logic Chain" and "Why" sections must be comprehensive. Explain *exactly how* the paraphrase works or *specifically why* a distractor is wrong.
+  - **Why/Logic:** Explanations in "Logic Chain" and "Why" sections must be comprehensive.
   - **Distinctions:** Clearly articulate the *nuance* between confusing options, not just "A is X, B is Y".
 - **Real Audio Phrases:** Must sound authentic to IELTS Listening (use contractions, natural fillers like "actually", "well", "you see").
 
@@ -291,8 +299,9 @@ grep -r 'MASTER TAGGING SYSTEM' glean/40_Situation/*.md
 ## Success Criteria
 
 - [x] All `status: pending` → `status: done`
-- [x] 14 flashcards for single-option files
-- [x] 18 flashcards for multi-option files
+- [x] 16 flashcards for single-option files
+- [x] 20 flashcards for multi-option files
+- [x] 6D Framework (Logic & Lexical) implemented
 - [x] Options Analysis table filled correctly
 - [x] Analysis sections filled (no {{placeholders}})
 - [x] Aliases populated with variations

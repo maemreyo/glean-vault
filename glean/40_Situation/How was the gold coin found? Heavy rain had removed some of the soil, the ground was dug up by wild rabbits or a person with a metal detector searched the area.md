@@ -553,6 +553,7 @@ ref:
 > 10. ==buried under thick landslide layers== → ==[❌]== (Logic đảo chiều: bị che phủ thêm thay vì được lộ ra)
 >
 > **Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+<!--SR:!2025-12-26,1,234-->
 
 ---
 
@@ -568,10 +569,11 @@ ref:
 > [!warning] 🔄 Logic Flip Status
 > **👉 Verdict:** ==STILL PICK A (Heavy rain removed soil)==
 >
-> **🧠 Reason:** Cấu trúc "thought it would be X but actually Y" (X = buried/covered, Y = stripped away/removed) sử dụng sự phủ định dự đoán tiêu cực để khẳng định kết quả tích cực (phát hiện nhờ mưa). 
+> **🧠 Reason:** Cấu trúc "thought it would be X but actually Y" (X = buried/covered, Y = stripped away/removed) sử dụng sự phủ định dự đoán tiêu cực để khẳng định kết quả tích cực (phát hiện nhờ mưa).
 > - Buried/Covered = Antonyms of Removed/Exposed
 > - → Not buried = Exposed.
 >
 > **🎯 Skill:** Nhận định đúng hướng tác động của thiên nhiên ngay cả khi người nói liệt kê các khả năng "bị vùi lấp" (Antonyms) trước đó.
+<!--SR:!2025-12-26,1,234-->
 
 ---
