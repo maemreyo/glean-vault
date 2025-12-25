@@ -320,18 +320,31 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
 ?
-> [!example] 🆚 Decision Matrix
+> [!example] 🆚 Signal Decoding
 >
-> | Audio Cue | → Option |
-> |-----------|----------|
-> | "cụm từ 1" | ==A. option A== |
-> | "cụm từ 2" | ==A. option A== |
-> | "cụm từ 3" | ==B. option B== |
-> | "cụm từ 4" | ==B. option B== |
+> **🅰️ Signals for Option A:**
+> - *"Signal phrase 1"*
 >
-> **🔑 Core Distinction:**
-> - **A** = focus area A
-> - **B** = focus area B
+> - *"Signal phrase 2"*
+>
+> - *"Signal phrase 3"*
+>
+> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+>
+> **🅱️ Signals for Option B:**
+> - *"Signal phrase 1"*
+>
+> - *"Signal phrase 2"*
+>
+> - *"Signal phrase 3"*
+>
+> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+>
+> **🔑 Scientific Distinction:**
+>
+> - **Option A focuses on:** Phân tích bản chất cốt lõi
+>
+> - **Option B focuses on:** Phân tích bản chất cốt lõi
 
 ---
 
@@ -448,18 +461,24 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > **Full Question Context:**
 > =={{QUESTION_STEM}}==
 >
-> **All Options:**
-> | Option | Status | Key Signal |
-> |--------|--------|------------|
-> | A. {{OPTION_1}} | ❌ | why wrong |
-> | B. {{OPTION_2}} | ❌ | why wrong |
-> | C. {{OPTION_3}} | ✅ | why correct |
+> **Option Status:**
+> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
 >
-> ❓ Tóm tắt toàn bộ logic chọn đáp án trong 1-2 câu?
+> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+>
+> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+>
+> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
 ?
-> [!success] 🎯 Complete Analysis
-> **Summary:** Audio focus vào [concept C] thông qua phrases "X" và "Y", trong khi [concept A] và [concept B] không được đề cập hoặc bị phủ định bởi "Z"
+> [!success] 🎯 Deep Logic Breakdown
+> **🎧 Audio Progression:**
+> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
 >
-> **🔑 Key Lesson:** Bài học rút ra cho dạng câu hỏi này
+> **🧠 Decision Factors:**
+> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+>
+> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
+>
+> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
 
 ---

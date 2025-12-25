@@ -258,8 +258,11 @@ grep -r 'MASTER TAGGING SYSTEM' glean/40_Situation/*.md
 - **Placeholders:** Replace ALL `{{PLACEHOLDER}}` with actual content.
 
 ### Quality & Detail Rules (MANDATORY)
+- **NO SUMMARIES:** Avoid "summary" or "tóm tắt". All analysis must be **detailed, specific, and scientific**.
 - **Highlighting:** Consistently use `==` to highlight key terms, important variables, or critical parts of an explanation.
-- **Deep Analysis:** Avoid superficial 1-2 word answers. Provide *detailed, specific* explanations.
+- **Deep Analysis (Card 9 & 15):**
+  - **Card 9 (Signal Decoding):** Identify *exact* phrases for each option option and explain the *nuance* scientifically (e.g., "Option A implies future intent, while Option B implies current state").
+  - **Card 15 (Logic Breakdown):** Do NOT just summarize. Trace the **full cognitive path**: "Audio starts with..., then uses trap..., then confirms with...". Analyze specific *reasons* for elimination.
 - **5D Framework:** "Definition" and "Denotation" must be full sentences explaining context, not just synonyms.
 - **Imagination:** "Sensory Triggers" must describe *meaningful* scenes, sounds, and actions (e.g., "Hearing the *ching* sound of a cash register closing" vs just "sound of money").
 - **Flashcards:**
