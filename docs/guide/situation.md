@@ -193,17 +193,17 @@ grep -r 'MASTER TAGGING SYSTEM' glean/40_Situation/*.md
 
 | Tier | Card | Name | Tag Suffix | MCQ Only? |
 |------|------|------|------------|-----------|
-| **Daily** | 1 | 3-Way Prediction Brainstorm | `daily/01-prediction` | No |
-| **Daily** | 2 | Verb + Noun Association | `daily/02-keywords` | No |
+| **Daily** | 1 | Reflex Prediction (Top Pick) | `daily/01-prediction` | No |
+| **Daily** | 2 | Top Collocation Reflex | `daily/02-keywords` | No |
 | **Daily** | 3 | Signpost Detection | `daily/03-signpost` | No |
 | **Recognition** | 4 | Reverse Matching | `recognition/01-reverse` | No |
-| **Recognition** | 5 | Trap Identification | `recognition/02-trap` | No |
+| **Recognition** | 5 | Spot the Lie (Simulation) | `recognition/02-trap` | No |
 | **Recognition** | 6 | Confusion Differentiation | `recognition/03-differentiate` | No |
 | **Recognition** | 7 | Context Cloze | `recognition/04-cloze` | No |
 | **Weekly** | 8 | Option Elimination Drill | `weekly/01-elimination` | **Yes** |
 | **Weekly** | 9 | Cross-Option Confusion | `weekly/02-cross-confusion` | **Yes** |
 | **Weekly** | 10 | Answer Validation | `weekly/03-validation` | **Yes** |
-| **Weekly** | 11 | Paraphrase Chain | `weekly/04-chain` | No |
+| **Weekly** | 11 | Connection Drill (Anchor) | `weekly/04-chain` | No |
 | **Bi-weekly** | 12 | Full Distractor Analysis | `biweekly/01-full-trap` | No |
 | **Bi-weekly** | 13 | Script-to-Option Mapping | `biweekly/02-script-match` | No |
 | **Bi-weekly** | 14 | 5-Second Prediction Drill | `biweekly/03-speed` | No |

@@ -168,14 +168,19 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > **Context:** *{{CONTEXT}}*
 >
-> ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
+> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
-> [!success] 💡 Possible Scripts
-> 1. **Action (Hành động):** ví dụ: Hiring ==a live band==
+> [!success] 💡 Top Paraphrase & Others
+> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
 >
-> 2. **Object/Person (Đối tượng):** ví dụ: Booking ==the magician==
+> **🥈 Other possibilities:**
+> - Kịch bản 2
 >
-> 3. **Abstract (Trừu tượng):** ví dụ: Organising ==fun activities==
+> - Kịch bản 3
+>
+> - Kịch bản 4
+>
+> - Kịch bản 5
 >
 > **🔑 Core Concept:** Tóm tắt logic kết nối
 
@@ -186,12 +191,15 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 > **Option:** =={{OPTION_TEXT}}==
 >
-> ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
+> ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
-> [!note] 🗝️ Collocations
-> - **Verbs:** ví dụ: ==perform==, ==play==, ==dance==
+> [!note] 🗝️ Top Collocations
+> - **🔥 Top Pick:** Collocation phổ biến nhất
 >
-> - **Nouns:** ví dụ: ==music==, ==concert==, ==comedy==
+> - **Other strong matches:**
+>   - Verbs: ví dụ: perform, play
+>
+>   - Nouns: ví dụ: music, concert
 >
 > **💡 Pattern Note:** Ghi chú về pattern
 
@@ -239,18 +247,15 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 > **Option:** =={{OPTION_TEXT}}==
 >
-> ❓ **Question:** Những ==dấu hiệu phủ định== (negation signals) nào cho thấy đáp án này đã bị ==LOẠI==?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
 ?
-> [!fail] 🛑 Negation Signals
-> - *"We thought about doing X, but..."* ==Dự định nhưng không làm==
+> [!fail] 🛑 Spot the Lie
+> **👉 Verdict:** ==LOẠI NGAY== (False)
 >
-> - *"X used to be popular, however..."* ==Quá khứ==
+> **⚠️ Why? (Trap Signal):**
+> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
 >
-> - *"Instead of X, we decided to..."* ==Thay thế==
->
-> - *"We've run out of time for X..."* ==Không làm được==
->
-> **⚠️ Other Traps:** Too expensive, not available...>
+> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
 
 ---
 
@@ -373,18 +378,16 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 > **Option:** =={{OPTION_TEXT}}==
 >
-> ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
+> ❓ **Connection Drill:** Tìm ==Điểm Neo (Anchor Point)== kết nối giữa **Keyword** và **Audio Logic**?
 ?
-> [!info] 🔗 Paraphrase Chain
-> 1. **Direct:** Cùng nghĩa, từ khác
+> [!info] 🔗 Connection Logic
+> **🧩 The Link:**
+> ==[Option Keyword]== ↔ ==[Audio Paraphrase]==
 >
-> 2. **Related:** Ý nghĩa liên quan
+> **🧠 Underlying Logic:**
+> Mô tả mối quan hệ: "A là công cụ để làm B", "A là tập con của B", v.v.
 >
-> 3. **Contextual:** Theo ngữ cảnh cụ thể
->
-> 4. **Implicit:** Ý nghĩa ẩn dụ
->
-> **💡 Core Thread:** Chủ đề xuyên suốt
+> **💡 Reflex Note:** Ghi chú giúp nhớ nhanh
 
 ---
 
