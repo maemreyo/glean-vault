@@ -36,7 +36,7 @@ ref:
 >
 > **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
 >
-> **🧠 5D Framework:**
+> **🧠 6D Framework (Logic & Lexical):**
 > - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
 >
 > - **Denotation:** Ý nghĩa đen (use ==highlight==)
@@ -44,15 +44,21 @@ ref:
 > - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
 >
 > - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
+>
+> - **Antonyms (Logic Flip):** Các từ/cấu trúc phủ định hoặc đối lập hoàn toàn (ví dụ: ==refuse, ignore, cancel, postpone==)
+>
+> - **Synonym Chain (Verbs):**
+>   - ==Verb 1== → Syn: ==... , ...== | Ant: ==... , ...==
+>   - ==Verb 2== → Syn: ==... , ...== | Ant: ==... , ...==
 
 > [!tip] 💡 Imagination & Sensory
-> **🎨 Sensory Triggers:**
+> **🎨 Sensory Triggers (Verb-Focused):**
 >
-> - **Visual:** Hình ảnh mental (use ==highlight==)
+> - **Visual:** Hình ảnh mental của hành động (use ==highlight==)
 >
-> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
+> - **Auditory:** Nghe thấy tone giọng khi nói về các lựa chọn (use ==highlight==)
 >
-> - **Action:** Hành động cụ thể (use ==highlight==)
+> - **Action:** Diễn biến cụ thể của tình huống (use ==highlight==)
 >
 > **🔗 Collocation Patterns:**
 > - `Verb + Noun`: e.g., arrange + meeting
@@ -155,34 +161,42 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 -->
 
-## 🧠 Spaced Repetition Flashcards (15 Cards)
+## 🧠 Spaced Repetition Flashcards (20 Cards)
 
 ---
 
-### Tier 1: Foundation - Daily Quick Review (3 Cards)
+### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
-### Card 1: 3-Way Prediction Brainstorm
+### Card 1: 3-Way Prediction Brainstorm (Synonyms & Antonyms)
 
 > **Option:** =={{OPTION_TEXT}}==
 >
 > **Context:** *{{CONTEXT}}*
 >
-> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
+> ❓ **Reflex:**
+> 1. Đâu là ==Synonyms/Paraphrases== (khả thi nhất) mà người nói sẽ dùng?
+> 2. Đâu là ==Antonyms/Opposites== mà họ có thể dùng để gài bẫy (phủ định)?
 ?
-> [!success] 💡 Top Paraphrase & Others
-> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
+> [!success] 💡 Lexical Reflex
+> **🥇 Most Likely Synonyms:**
+> - ==...==
+> - ==...==
 >
-> **🥈 Other possibilities:**
-> - Kịch bản 2
+> **🥈 Possible Antonyms (Negation Traps):**
+> - ==...==
 >
-> - Kịch bản 3
+> - ==...==
 >
-> - Kịch bản 4
+> - ==...==
 >
-> - Kịch bản 5
+> - ==...==
 >
-> **🔑 Core Concept:** Tóm tắt logic kết nối
+> - ==...==
+>
+> - ==...==
+>
+> **🔑 Core Concept:** Logic kết nối từ vựng (Syn) vs Logic đảo chiều (Ant)
 
 ---
 
@@ -314,7 +328,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-### Tier 3: Elimination - Weekly (4 Cards)
+### Tier 3: Elimination - Weekly (6 Cards)
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
@@ -464,7 +478,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 >
 > ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
 ?
-> [!info] � Rapid Swap
+> [!info] ⚡ Rapid Swap
 > ==[Audio Phrase]== ⚡ ==[Option Keyword]==
 >
 > **🧠 Instant Logic:**
@@ -472,7 +486,7 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-### Tier 4: Mastery - Bi-weekly (4 Cards)
+### Tier 4: Mastery - Bi-weekly (6 Cards)
 
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
@@ -566,3 +580,74 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 > **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
 
 ---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/05-classification
+### Card 19: The Mental Classification MCQ
+
+> **Target Option:** =={{OPTION_TEXT}}==
+>
+> ❓ **Mental Drill:** Phân loại các cụm từ sau vào nhóm: ✅ (Match) | ❌ (Antonym/Logic Flip) | ⚠️ (Visual/Auditory Trap)
+>
+> 1. "=={{PHRASE_1}}=="
+>
+> 2. "=={{PHRASE_2}}=="
+>
+> 3. "=={{PHRASE_3}}=="
+>
+> 4. "=={{PHRASE_4}}=="
+>
+> 5. "=={{PHRASE_5}}=="
+>
+> 6. "=={{PHRASE_6}}=="
+>
+> 7. "=={{PHRASE_7}}=="
+>
+> 8. "=={{PHRASE_8}}=="
+>
+> 9. "=={{PHRASE_9}}=="
+>
+> 10. "=={{PHRASE_10}}=="
+?
+> [!info] 📊 Classification Result
+> 1. =={{PHRASE_1}}== → ==[✅/❌/⚠️]== (Vì: ...)
+>
+> 2. =={{PHRASE_2}}== → ==[✅/❌/⚠️]== (Vì: ...)
+>
+> 3. =={{PHRASE_3}}== → ==[✅/❌/⚠️]== (Vì: ...)
+>
+> 4. =={{PHRASE_4}}== → ==[✅/❌/⚠️]== (Vì: ...)
+>
+> 5. =={{PHRASE_5}}== → ==[✅/❌/⚠️]== (Vì: ...)
+>
+> 6. =={{PHRASE_6}}== → ==[✅/❌/⚠️]== (Vì: ...)
+>
+> 7. =={{PHRASE_7}}== → ==[✅/❌/⚠️]== (Vì: ...)
+>
+> 8. =={{PHRASE_8}}== → ==[✅/❌/⚠️]== (Vì: ...)
+>
+> 9. =={{PHRASE_9}}== → ==[✅/❌/⚠️]== (Vì: ...)
+>
+> 10. =={{PHRASE_10}}== → ==[✅/❌/⚠️]== (Vì: ...)
+>
+> **🧠 Mastery Note:** Khả năng tách biệt Synonyms khỏi Traps và logic đảo chiều.
+
+---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/06-logic-flip
+### Card 20: Logic Flip & Antonym Reflex
+
+> **Option:** =={{OPTION_TEXT}}==
+>
+> ❓ **Reflex:** Nếu audio dùng ==Antonym== sau đây, bạn sẽ chọn gì?
+>
+> *"We decided ==NOT to== [Paraphrase of Verb]..."* hoặc *"[Antonym of Key Verb]..."*
+?
+> [!warning] 🔄 Logic Flip Status
+> **👉 Verdict:** ==ELIMINATE== (Loại ngay)
+>
+> **🧠 Reason:** Audio sử dụng **Negative Signal** (not, fail to, avoid) hoặc **Antonym** (đối nghĩa) để phủ định option. 
+>
+> **🎯 Skill:** Tránh bẫy "nghe thấy từ khóa nhưng ý nghĩa bị đảo ngược".
+
+---
+```
