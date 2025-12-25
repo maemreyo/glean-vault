@@ -97,7 +97,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/daily/01-prediction
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==a barbecue==
@@ -122,7 +122,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/daily/02-keywords
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==a barbecue==
@@ -141,7 +141,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/daily/03-signpost
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
 > **Option:** ==a barbecue==
@@ -157,7 +157,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/daily/04-sound
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
 > **Option:** ==a barbecue==
@@ -176,7 +176,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/recognition/01-reverse
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
@@ -195,7 +195,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/recognition/02-trap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** ==a boat trip==
@@ -212,7 +212,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/recognition/03-differentiate
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="a barbecue"== với =="a party"==?
@@ -228,7 +228,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/recognition/04-cloze
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
@@ -248,7 +248,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/recognition/05-spatial
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
@@ -274,7 +274,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/weekly/01-elimination
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
 > **Question:** ==What is the next annual event for volunteers?==
@@ -300,7 +300,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/weekly/02-cross-confusion
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
 > **Confusing Pair:** ==a barbecue== vs ==a party==
@@ -341,7 +341,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/weekly/03-validation
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
 > **Correct Answer:** ==a barbecue==
@@ -361,7 +361,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/weekly/04-agreement
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
 > **Audio:** *"That's a great idea about having a party, but what's actually scheduled for next month is the barbecue for volunteers."*
@@ -393,7 +393,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/weekly/05-swap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
 > **Keyword:** ==barbecue==
@@ -408,7 +408,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/biweekly/01-full-trap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -434,7 +434,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/biweekly/02-script-match
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
 > **Option Text:** ==a barbecue==
@@ -457,7 +457,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/biweekly/03-speed
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
@@ -477,7 +477,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/events/biweekly/04-synthesis
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/events/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**

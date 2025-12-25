@@ -88,7 +88,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==selling tickets==
@@ -113,7 +113,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==selling tickets==
@@ -132,7 +132,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
 > **Option:** ==selling tickets==
@@ -148,7 +148,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/04-sound
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
 > **Option:** ==selling tickets==
@@ -167,7 +167,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/01-reverse
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
@@ -186,7 +186,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/02-trap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** ==giving information about ticket prices==
@@ -203,7 +203,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/03-differentiate
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="selling tickets"== với =="giving information about ticket prices"==?
@@ -219,7 +219,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/04-cloze
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
@@ -239,7 +239,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/05-spatial
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Festival Entrance/Ticket Booth
@@ -263,7 +263,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-agreement
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
 > **Audio:** *"I see that visitors need to know about prices, but what we really need are volunteers to actually process ticket sales and handle cash"* → **Số phận** option này thế nào?
@@ -291,7 +291,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/05-swap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
 > **Keyword:** ==selling tickets==
@@ -305,7 +305,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-full-trap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -331,7 +331,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-script-match
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
 > **Option Text:** =="selling tickets"==
@@ -350,7 +350,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-speed
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**

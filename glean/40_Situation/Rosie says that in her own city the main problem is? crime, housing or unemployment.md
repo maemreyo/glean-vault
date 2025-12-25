@@ -100,7 +100,7 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/urban-issues/daily/01-prediction
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==housing==
@@ -125,7 +125,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/daily/02-keywords
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==housing==
@@ -144,7 +144,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/daily/03-signpost
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
 > **Option:** ==housing==
@@ -160,7 +160,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/daily/04-sound
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
 > **Option:** ==housing==
@@ -181,7 +181,7 @@ ref:
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/urban-issues/recognition/01-reverse
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
@@ -200,7 +200,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/recognition/02-trap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** ==housing==
@@ -216,7 +216,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/recognition/03-differentiate
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="housing"== với =="crime"==?
@@ -232,7 +232,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/recognition/04-cloze
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
@@ -254,7 +254,7 @@ ref:
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/urban-issues/recognition/05-spatial
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
@@ -280,7 +280,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/weekly/01-elimination
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
 > **Question:** ==Rosie says that in her own city the main problem is?==
@@ -306,7 +306,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/weekly/02-cross-confusion
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
 > **Confusing Pair:** ==housing== vs ==crime==
@@ -341,7 +341,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/weekly/03-validation
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
 > **Correct Answer:** ==B. housing==
@@ -361,7 +361,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/weekly/04-agreement
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
 > **Audio:** *"I agree that housing is a concern, though I still think unemployment affects people more directly"* / *"You've got a point about the housing crisis, but crime is what keeps people up at night in my area"*
@@ -395,7 +395,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/weekly/05-swap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
 > **Keyword:** ==housing==
@@ -412,7 +412,7 @@ ref:
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/urban-issues/biweekly/01-full-trap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -438,7 +438,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/biweekly/02-script-match
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
 > **Option Text:** ==housing==
@@ -463,7 +463,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/biweekly/03-speed
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
@@ -483,7 +483,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/urban-issues/biweekly/04-synthesis
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/urban-issues/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**

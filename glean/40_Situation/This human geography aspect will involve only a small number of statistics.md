@@ -95,7 +95,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/daily/01-prediction
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==involve only a small number of statistics==
@@ -120,7 +120,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/daily/02-keywords
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==involve only a small number of statistics==
@@ -139,7 +139,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/daily/03-signpost
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
 > **Option:** ==involve only a small number of statistics==
@@ -155,7 +155,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/daily/04-sound
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
 > **Option:** ==involve only a small number of statistics==
@@ -174,7 +174,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/recognition/01-reverse
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
@@ -193,7 +193,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/recognition/02-trap
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** ==statistics are not accurate==
@@ -210,7 +210,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/recognition/03-differentiate
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="involve only a small number of statistics"== với =="statistics are not accurate"==?
@@ -226,7 +226,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/recognition/04-cloze
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
@@ -246,7 +246,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/recognition/05-spatial
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
@@ -272,7 +272,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/weekly/04-agreement
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
 > **Audio:** *"I understand your concern about data accuracy, but what we're really facing is that there simply aren't many statistics to work with."*
@@ -304,7 +304,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/weekly/05-swap
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
 > **Keyword:** ==small number==
@@ -319,7 +319,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/biweekly/01-full-trap
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -345,7 +345,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/biweekly/02-script-match
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
 > **Option Text:** ==involve only a small number of statistics==
@@ -366,7 +366,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/academic-research/biweekly/03-speed
+#flashcards/ielts-listening/cam-20-test-2/education-training/academic-research/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**

@@ -94,7 +94,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/daily/01-prediction
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==The music festival==
@@ -119,7 +119,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/daily/02-keywords
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==The music festival==
@@ -138,7 +138,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/daily/03-signpost
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
 > **Option:** ==The music festival==
@@ -154,7 +154,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/daily/04-sound
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
 > **Option:** ==The music festival==
@@ -173,7 +173,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/recognition/01-reverse
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
@@ -192,7 +192,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/recognition/02-trap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** ==The science festival==
@@ -209,7 +209,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/recognition/03-differentiate
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="The science festival"== với =="The music festival"==?
@@ -225,7 +225,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/recognition/04-cloze
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
@@ -245,7 +245,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/recognition/05-spatial
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Festival Venue Layout
@@ -269,7 +269,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/weekly/01-elimination
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
 > **Question:** ==Which event requires the largest number of volunteers?==
@@ -295,7 +295,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/weekly/02-cross-confusion
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
 > **Confusing Pair:** ==The science festival (45 volunteers)== vs ==The music festival (150 volunteers)==
@@ -330,7 +330,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/weekly/03-validation
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
 > **Correct Answer:** ==The music festival==
@@ -350,7 +350,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/weekly/04-agreement
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
 > **Audio:** *"I see your point about the science festival needing many volunteers, but actually, the music one needs significantly more to handle the crowds"*
@@ -380,7 +380,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/weekly/05-swap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
 > **Keyword:** ==The music festival==
@@ -394,7 +394,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/biweekly/01-full-trap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -420,7 +420,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/biweekly/02-script-match
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
 > **Option Text:** =="The music festival"==
@@ -441,7 +441,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/biweekly/03-speed
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
@@ -461,7 +461,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/festivals/biweekly/04-synthesis
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/festivals/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**

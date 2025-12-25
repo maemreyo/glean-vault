@@ -97,7 +97,7 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==contacting local businesses==
@@ -122,7 +122,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==contacting local businesses==
@@ -141,7 +141,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
 > **Option:** ==contacting local businesses==
@@ -157,7 +157,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/04-sound
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
 > **Option:** ==contacting local businesses==
@@ -178,7 +178,7 @@ ref:
 
 ### Tier 2: Recognition - Every 2-3 Days (5 Cards)
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/01-reverse
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
@@ -197,7 +197,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/02-trap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** ==contacting local businesses==
@@ -214,7 +214,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/03-differentiate
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="contacting local businesses"== với =="helping local businesses"==?
@@ -230,7 +230,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/04-cloze
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
@@ -252,7 +252,7 @@ ref:
 
 ### Tier 3: Elimination - Weekly (5 Cards)
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/05-spatial
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
@@ -278,7 +278,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-agreement
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
 > **Audio:** *"I see your point that we need volunteers to help with visitors, but actually, the main priority is still contacting local businesses for sponsorship."*
@@ -312,7 +312,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/05-swap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
 > **Keyword:** ==contacting local businesses==
@@ -329,7 +329,7 @@ ref:
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-full-trap
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -355,7 +355,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-script-match
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
 > **Option Text:** =="contacting local businesses"==
@@ -378,7 +378,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-speed
+#flashcards/ielts-listening/cam-20-test-2/social-leisure/volunteering/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**

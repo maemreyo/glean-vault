@@ -96,7 +96,7 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-listening/education-training/human-geography/daily/01-prediction
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==easy to find facts==
@@ -121,7 +121,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/human-geography/daily/02-keywords
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==easy to find facts==
@@ -140,7 +140,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/human-geography/daily/03-signpost
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
 > **Option:** ==easy to find facts==
@@ -156,7 +156,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/human-geography/daily/04-sound
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
 > **Option:** ==easy to find facts==
@@ -177,7 +177,7 @@ ref:
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-listening/education-training/human-geography/recognition/01-reverse
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
@@ -196,7 +196,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/human-geography/recognition/02-trap
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** ==easy to find facts==
@@ -212,7 +212,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/human-geography/recognition/03-differentiate
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="easy to find facts"== với =="no useful research has been done"==?
@@ -228,7 +228,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/human-geography/recognition/04-cloze
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
@@ -250,7 +250,7 @@ ref:
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-listening/education-training/human-geography/recognition/05-spatial
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map Labelling / Room Layout
@@ -274,7 +274,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/human-geography/weekly/04-agreement
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
 > **Audio:** *"That's a good point about accessibility, but I'm not entirely convinced the quality is there"* / *"I see what you mean about sources, although some might be outdated"*
@@ -308,7 +308,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/human-geography/weekly/05-swap
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
 > **Keyword:** ==easy to find facts==
@@ -325,7 +325,7 @@ ref:
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-listening/education-training/human-geography/biweekly/01-full-trap
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -351,7 +351,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/human-geography/biweekly/02-script-match
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
 > **Option Text:** ==easy to find facts==
@@ -374,7 +374,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/education-training/human-geography/biweekly/03-speed
+#flashcards/ielts-listening/cam-20-test-2/education-training/human-geography/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
