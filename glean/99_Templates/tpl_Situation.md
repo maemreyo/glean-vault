@@ -342,8 +342,6 @@ Multi tags (cụm từ liên quan nhiều chủ đề):
 
 ---
 
-### Tier 3: Elimination - Weekly (5 Cards)
-
 #flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
