@@ -1,307 +1,569 @@
 ---
 aliases:
-  - contacting local businesses
-  - reach out to businesses
-  - business outreach
+  - 
 question_type: single
+# single = 1 option (matching), multi = 2+ options (MCQ)
 options_count: 1
-status: done
+status: pending
 ref:
   - Cam 20 Listening Test 02
 
 ---
 
 > [!info] 📋 Question Profile
-> **Question Type:** ==single==
+> **Question Type:** ==single== / ==multi== *(auto-detect from filename)*
 >
-> **Question Stem:** ==the role of the volunteers is==
+> **Question Stem:** =={{QUESTION_STEM}}==
+> *(For single-option: "the role of X is..." / For multi-option: the question before "?")*
 >
-> **Context:** *Volunteering at festivals - describing specific volunteer duties and responsibilities*
+> **Context:** *{{CONTEXT}}*
 >
-> **Source Test:** Cambridge 20 Listening Test 02
+> **Source Test:** {{SOURCE_TEST}}
 
 > [!abstract] 🔀 Options Analysis
 >
 > | # | Option | Core Meaning | Paraphrase Keywords | Trap Potential |
 > |---|--------|--------------|---------------------|----------------|
-> | 21 | ==contacting local businesses== = =reaching out to companies in the area | reaching out to companies, approaching local firms, communicating with businesses | ⚠️ Medium |
+> | {{LETTER}} | =={{OPTION_1}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | {{LETTER}} | =={{OPTION_2}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+> | {{LETTER}} | =={{OPTION_3}}== | nghĩa cốt lõi | từ khóa paraphrase | ⚠️ High/Medium/Low |
+>
+> **✅ Correct Answer:** =={{CORRECT_ANSWER}}== *(for MCQ only)*
+>
+> *(For single-option: keep only 1 row and remove "Correct Answer" line)*
 
 > [!abstract] 🎯 Deep Analysis (Primary Option)
-> **Type of Info:** ==Hành động==
+> **Type of Info:** Hành động / Địa điểm / Người chịu trách nhiệm / Cảm xúc / Thời gian / ... (use ==highlight==)
 >
-> **Topic Category:** ==Volunteering== at ==Festivals==
+> **Topic Category:** Volunteering / Academic / Facility / Direction / ... (use ==highlight==)
 >
 > **🧠 5D Framework:**
-> - **Definition:** The ==responsibility of communicating and connecting== with local business establishments for various purposes related to the festival
+> - **Definition:** Định nghĩa cốt lõi (use ==highlight==)
 >
-> - **Denotation:** Volunteers are tasked with ==making contact with local companies and businesses== in the community, potentially for sponsorship, partnership, promotion, or resource coordination
+> - **Denotation:** Ý nghĩa đen (use ==highlight==)
 >
-> - **Distractor:** Similar activities like "collecting feedback" (surveying attendees) or "encouraging cooperation" (coordination between organizations) - need to distinguish based on who volunteers interact with and the specific purpose
+> - **Distractor:** Những từ nghe giống nhưng KHÔNG PHẢI (use ==highlight==)
 >
-> - **Deep Dive:** In IELTS Listening, role/duty questions often involve ==action-oriented language== such as "responsible for", "in charge of", "job involves", "tasked with", or "your role will be". Listen for the object of the action - "local businesses" indicates outreach to commercial entities in the community
+> - **Deep Dive:** Paraphrasing sâu hơn (use ==highlight==)
 
 > [!tip] 💡 Imagination & Sensory
 > **🎨 Sensory Triggers:**
 >
-> - **Visual:** Volunteers ==visiting local shops and businesses==, speaking with business owners or managers about the festival
+> - **Visual:** Hình ảnh mental (use ==highlight==)
 >
-> - **Auditory:** Coordinator saying "You'll be contacting local businesses" or "Your job involves reaching out to companies"
+> - **Auditory:** Âm thanh đặc trưng (use ==highlight==)
 >
-> - **Action:** Making phone calls, visiting business premises, talking to business representatives
+> - **Action:** Hành động cụ thể (use ==highlight==)
 >
 > **🔗 Collocation Patterns:**
-> - `Verb + Noun`: contact + businesses, reach out to + companies, approach + local firms, communicate with + organizations
+> - `Verb + Noun`: e.g., arrange + meeting
 >
-> - `Noun + of + Noun`: outreach + to + businesses, connections + with + local + companies
+> - `Noun + of + Noun`: e.g., organisation of + event
 >
-> - `Adj + Noun`: local + businesses, area + companies, community + firms
+> - `Adj + Noun`: e.g., local + businesses
 
 > [!example] 🎙️ Real Audio Phrases
-> - "You'll be contacting local businesses"
+> - "I'm in charge of..."
 >
-> - "Your job involves reaching out to companies in the area"
+> - "The job involves..."
 >
-> - "We need volunteers to approach local businesses"
+> - "We need to..."
 >
-> - "Your role is to make contact with local firms"
+> - "My responsibility is..."
 
 > [!warning] ⚠️ Traps & Distractors
-> **Trap 1:** =="collecting feedback" mentioned==
+> **Trap 1:** =={{TRAP_DESCRIPTION}}==
 >
-> - *Why it's tricky:* Speaker might discuss talking to people or gathering information
+> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
 >
-> - *Actual meaning:* Collecting feedback involves surveying festival attendees about their experience, not contacting external businesses
+> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
 >
-> **Trap 2:** =="encouraging cooperation" discussed==
+> **Trap 2:** =={{TRAP_DESCRIPTION}}==
 >
-> - *Why it's tricky:* Speaker may talk about working with others or coordination
+> - *Why it's tricky:* Tại sao nghe giống? (use ==highlight==)
 >
-> - *Actual meaning:* Encouraging cooperation refers to internal coordination or partnership-building between organizations, not specifically contacting businesses
+> - *Actual meaning:* Nghĩa thật là gì? (use ==highlight==)
 
 > [!quote] 🎞️ Example Scripts
 > **Script 1:**
-> "As volunteers, your main responsibility will be contacting local businesses. We need you to reach out to shops and companies in the area to discuss how they can be involved with the festival or what they can offer as support."
+> "{{IELTS_LEVEL_AUDIO_SCRIPT_1}}"
 >
-> → **Match:** ==contacting local businesses==
+> → **Match:** =={{OPTION_TEXT}}==
 >
 > **Script 2:**
-> "The role involves making contact with local businesses throughout the community. You'll be visiting different firms and companies, talking to them about the festival and exploring opportunities for collaboration or sponsorship."
+> "{{IELTS_LEVEL_AUDIO_SCRIPT_2}}"
 >
-> → **Match:** ==contacting local businesses==
+> → **Match:** =={{OPTION_TEXT}}==
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/01-prediction
+<!-- MASTER TAGGING SYSTEM
+
+1. #survival-essentials
+   housing | accommodation | travel | transport | banking | shopping
+   insurance | utilities | postal | repairs | maintenance
+
+2. #health-food
+   medical | hospital | pharmacy | dentist | fitness | gym
+   nutrition | diet | restaurant | cafe | cooking | recipes
+
+3. #work-career
+   job-search | recruitment | interview | cv-resume | workplace | office
+   salary | benefits | promotion | freelance | entrepreneurship
+
+4. #education-training
+   university | courses | enrollment | assignments | projects | exams
+   library | research | tutoring | feedback | scholarships | graduation
+
+5. #social-leisure
+   events | festivals | parties | sports | fitness-activities | hobbies
+   clubs | entertainment | cinema | concerts | relationships | volunteering
+
+6. #science-tech
+   biology | chemistry | physics | astronomy | IT | computers
+   innovation | AI | robotics | environment | ecology | sustainability
+
+7. #culture-media
+   history | archaeology | arts | museums | literature | books
+   tourism | attractions | journalism | news | film | music | theatre
+
+8. #business-legal
+   commerce | trade | marketing | advertising | finance | investment
+   contracts | law | regulations | negotiations | customer-service
+
+---
+📌 USAGE FORMULA:
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/<drill-type>
+
+⚠️ MULTI-TAGGING:
+- Một card CÓ THỂ có NHIỀU TAG, ngăn cách bởi SPACE
+- Syntax: tag1 tag2 tag3
+
+Examples:
+Single tag:
+- #flashcards/ielts-listening/health-food/medical/matching-reflex
+
+Multi tags (cụm từ liên quan nhiều chủ đề):
+- #flashcards/ielts-listening/health-food/fitness/matching-reflex #flashcards/ielts-listening/social-leisure/sports/matching-reflex
+- #flashcards/ielts-reading/work-career/interview/true-false-ng #flashcards/ielts-reading/education-training/university/true-false-ng
+- #flashcards/ielts-speaking/science-tech/environment/part2-cue #flashcards/ielts-speaking/business-legal/regulations/part2-cue
+
+🎯 KHI NÀO DÙNG MULTI-TAG:
+✅ Cụm từ phù hợp ≥2 pillars (vd: "gym membership" → health-food + social-leisure)
+✅ Từ vựng academic xuất hiện nhiều context (vd: "research" → education + science-tech)
+✅ Skill overlap (vd: restaurant vocabulary cho cả Listening + Speaking)
+❌ KHÔNG spam quá 3 tags/card để dễ quản lý
+
+-->
+
+## 🧠 Spaced Repetition Flashcards (15 Cards)
+
+---
+
+### Tier 1: Foundation - Daily Quick Review (3 Cards)
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
-> **Option:** ==contacting local businesses==
+> **Option:** =={{OPTION_TEXT}}==
 >
-> **Context:** *Volunteer role description*
+> **Context:** *{{CONTEXT}}*
 >
-> ❓ **Question:** Liệt kê ==3 kịch bản paraphrasing== mà người nói có thể dùng?
+> ❓ **Reflex:** Đâu là ==Kịch bản Paraphrasing #1== (khả thi nhất) mà người nói sẽ dùng?
 ?
-> [!success] 💡 Possible Scripts
-> 1. **Action focus (Hành động):** You'll be ==reaching out to companies== in the area
+> [!success] 💡 Top Paraphrase & Others
+> **🥇 #1 Most Likely:** Kịch bản mạnh nhất
 >
-> 2. **Task-oriented (Nhiệm vụ):** The job involves ==approaching local firms== about the festival
+> **🥈 Other possibilities:**
+> - Kịch bản 2
 >
-> 3. **Responsibility-focused (Trách nhiệm):** Your responsibility is to ==make contact with businesses==
+> - Kịch bản 3
 >
-> **🔑 Core Concept:** Listen for phrases about interacting with external commercial entities/companies in the local area
+> - Kịch bản 4
+>
+> - Kịch bản 5
+>
+> **🔑 Core Concept:** Tóm tắt logic kết nối
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/02-keywords
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
-> **Option:** ==contacting local businesses==
+> **Option:** =={{OPTION_TEXT}}==
 >
-> ❓ **Question:** Những ==V+N collocations== phổ biến đi kèm? (KHÔNG dùng lại từ gốc)
+> ❓ **Reflex:** ==Collocation mạnh nhất== (Strongest Association) thường đi với từ này?
 ?
-> [!note] 🗝️ Collocations
-> - **Verbs:** ==approach==, ==reach out to==, ==communicate with==, ==visit==
+> [!note] 🗝️ Top Collocations
+> - **🔥 Top Pick:** Collocation phổ biến nhất
 >
-> - **Nouns:** ==companies==, ==firms==, ==organizations==, ==shops==
+> - **Other strong matches:**
+>   - Verbs: ví dụ: perform, play
 >
-> **💡 Pattern Note:** Often used with location indicators like "in the area", "local", "community", or with purpose markers like "about sponsorship", "for partnership"
+>   - Nouns: ví dụ: music, concert
+>
+> **💡 Pattern Note:** Ghi chú về pattern
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/daily/03-signpost
-### Card 3: Signpost Detection
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/03-signpost
+### Card 3: Signpost & Tone Shift
 
-> **Option:** ==contacting local businesses==
+> **Option:** =={{OPTION_TEXT}}==
 >
-> ❓ **Question:** Những ==từ nối (signpost)== thường đi trước/sau khi nói về ý này?
+> ❓ **Reflex:** Signpost nào báo hiệu? **Tone** (ngữ điệu) người nói Lên hay Xuống?
 ?
-> [!tip] 🚦 Signposts
-> - **Before:** "Your role will be," "You'll be," "The job involves," "Your responsibility is"
+> [!tip] 🚦 Signposts & Tone
+> - **Signals:** ví dụ: "Actually," "In fact," "To be honest"
 >
-> - **After:** "in the area," "for sponsorship," "about collaboration," "regarding partnership"
+> - **📈 Tone Shift:** Lên giọng (Uncertain/Questioning) vs Xuống giọng (Final/Certain)
 >
-> **🎧 Audio Cue:** Phrases introducing volunteer duties followed by object indicators (what/who they contact)
+> **🎧 Decoding:** Ý nghĩa của tín hiệu này là gì?
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/01-reverse
-### Card 4: Reverse Matching (Thực chiến)
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/daily/04-sound
+### Card 4: Sound Shape (Phonological Decoding)
+
+> **Option:** =={{OPTION_TEXT}}==
+>
+> ❓ **Listening Reflex:** Audio thực tế sẽ biến âm/nối âm như thế nào (không phải cách đọc từ điển)?
+?
+> [!info] 🔊 Connected Speech
+> **🗣️ Real Pronunciation:** /.../ Ghi phiên âm thực tế, vd: "pick it up" -> "pick-key-dup"
+>
+> **🔗 Features:**
+> - **Linking:** Nối âm nào?
+>
+> - **Elision:** Nuốt âm nào? (vd: 't' in 'best friend')
+>
+> - **Weak Form:** Âm lướt nào? (vd: 'to' -> /tə/)
+
+---
+
+### Tier 2: Recognition - Every 2-3 Days (4 Cards)
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/01-reverse
+### Card 5: Reverse Matching
 
 > **Audio Script:**
-> "Your role as volunteers will involve contacting local businesses. We need you to reach out to companies and shops in the community to discuss potential support and involvement in the upcoming festival."
+> "{{IELTS_LEVEL_AUDIO_SCRIPT}}"
 >
 > ❓ **Question:** Đoạn này ==match== với ==Option== nào?
 ?
-> [!check] ✅ Match: ==contacting local businesses==
+> [!check] ✅ Match: =={{OPTION_TEXT}}==
 > **🔍 Analysis:**
 >
-> - Audio nói: =="contacting local businesses"==
+> - Audio nói: =="{{KEY_PHRASE_IN_AUDIO}}"==
 >
-> - Tương đương với: option exactly
+> - Tương đương với: =="{{KEY_WORD_IN_OPTION}}"==
 >
-> **🧠 Logic Chain:** Direct statement of volunteer role - contacting (action) + local businesses (object/who they contact)
+> **🧠 Logic Chain:** Cách suy luận từ audio đến option
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/02-trap
-### Card 5: Trap Identification
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/02-trap
+### Card 6: Trap Identification (Spot the Lie)
 
-> **Option:** ==contacting local businesses==
+> **Option:** =={{OPTION_TEXT}}==
 >
-> ❓ **Question:** Những ==dấu hiệu phủ định== (negation signals) nào cho thấy đáp án này đã bị ==LOẠI==?
+> ❓ **Reflex Drill:** Nếu Audio nói: *"..." (Điền câu trap điển hình)* → **Số phận** option này thế nào?
 ?
-> [!fail] 🛑 Negation Signals
-> - *"We thought about contacting businesses, but..."* ==Dự định nhưng không làm==
+> [!fail] 🛑 Spot the Lie
+> **👉 Verdict:** ==LOẠI NGAY== (False)
 >
-> - *"Not contacting businesses, but rather..."* ==Phủ định trực tiếp==
+> **⚠️ Why? (Trap Signal):**
+> Giải thích tại sao cụm từ trong audio lại phủ định option này (vd: "We aimed for..." nhưng "but...")
 >
-> - *"That's not your job - you're doing..."* ==Rõ ràng không phải trách nhiệm==
->
-> - *"Business contacts are handled by..."* ==Người khác làm==
->
-> **⚠️ Other Traps:** Tasks mentioned as someone else's responsibility or as past consideration
+> **🔄 Reality Check:** Nghĩa thực sự của audio là gì?
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/03-differentiate
-### Card 6: Confusion Differentiation
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/03-differentiate
+### Card 7: Confusion Differentiation
 
-> **Comparison:** Phân biệt =="contacting businesses"== với =="collecting feedback"==?
+> **Comparison:** Phân biệt =="{{OPTION_TEXT}}"== với =="{{CONFUSING_OPTION}}"==?
 >
 > ❓ **Question:** ==Sự khác biệt cốt lõi== là gì?
 ?
 > [!example] 🆚 Distinction
-> - **contacting businesses:** Interacting with ==external companies/firms== for ==sponsorship/partnership==
+> - **{{OPTION_TEXT}}:** Tập trung vào Focus Area 1.
 >
-> - **collecting feedback:** Interacting with ==festival visitors/attendees== to get their ==opinions==
+> - **{{CONFUSING_OPTION}}:** Tập trung vào Focus Area 2.
 >
-> **🧱 Key Barrier:** Pay attention to who is being interacted with (businesses/companies vs visitors) and the purpose (sponsorship/partnership vs opinions)
+> **🧱 Key Barrier:** Rào cản chính phân biệt 2 ý
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/recognition/04-cloze
-### Card 7: Context Cloze (Điền từ)
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/04-cloze
+### Card 8: Context Cloze (Spelling & Plural)
 
-> 🗣️ **Audio Transcript:*
-> *As volunteers, your main task will be ___ local businesses throughout the community to discuss opportunities for collaboration and support for the festival.*
+> 🗣️ **Audio Transcript:**
+> *Audio transcript với ==key phrase== ẩn*
 >
-> 🇻🇳 **Vietnamese:** Là tình nguyện viên, nhiệm vụ chính của bạn sẽ là liên hệ với các doanh nghiệp địa phương trên khắp cộng đồng để thảo luận về các cơ hội hợp tác và hỗ trợ cho lễ hội.
+> 🇻🇳 **Vietnamese:** Vietnamese Translation
 >
-> ❓ **Question:** ==Điền vào chỗ trống==?
+> ❓ **Question:** ==Điền từ== & Check: **Số ít hay Số nhiều? (s/es)**
 ?
-> [!success] ✅ Answer: ==contacting==
-> **🔗 Connects to:** ==contacting local businesses==
+> [!success] ✅ Answer: =={{KEY_PHRASE}}==
+> **📝 Grammar Check:**
+> - **Plural/Singular:** Có 's' không? Tại sao? (vd: 'many', 'a pair of')
 >
-> **💡 Why:** "Contacting" is the key verb that describes the action of reaching out to businesses, which is the main volunteer task described
+> - **Spelling Trap:** Lưu ý lỗi chính tả (double letters, silent letters)
+>
+> **🔗 Connects to:** =={{OPTION_TEXT}}==
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/weekly/04-chain
-### Card 8: Paraphrase Chain
+### Tier 3: Elimination - Weekly (4 Cards)
 
-> **Option:** ==contacting local businesses==
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/recognition/05-spatial
+### Card 9: Spatial Orientation Reflex *(Map/Plan)*
+
+> **Context:** Map Labelling / Room Layout
 >
-> ❓ **Question:** Tạo ==chuỗi paraphrasing 4 levels== cho ý này?
+> **Audio Cue:** *"{{SPATIAL_AUDIO_CUE}}"*
+>
+> *(vd: "It's immediately to your right when you enter.")*
+>
+> ❓ **Reflex:** Hình dung vị trí trong đầu NGAY LẬP TỨC?
 ?
-> [!info] 🔗 Paraphrase Chain
-> 1. **Direct:** contacting businesses, reaching out to companies, approaching local firms
+> [!tip] 🗺️ Spatial Logic
+> **👁️ Mental Picture:**
+> Mô tả vị trí: "Entrance → Stop → Look Right 90°"
 >
-> 2. **Related:** communicating with businesses, making contact with companies, visiting local businesses
+> **⚠️ Spatial Traps:**
+> - "On the right hand side of the building" ≠ "On your right"
 >
-> 3. **Contextual:** business outreach, connecting with local companies, talking to area businesses
+> - "Opposite" ≠ "Next to"
 >
-> 4. **Implicit:** your job involves reaching out to companies, role is to make contact with local firms
+> - "Behind" ≠ "At the back of"
 >
-> **💡 Core Thread:** All variations describe the action of making communication with commercial entities in the local area
+> **🎯 Correct Position:** =={{LABEL}}==
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/01-full-trap
-### Card 9: Full Distractor Analysis
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/01-elimination
+### Card 10: Option Elimination Drill *(MCQ only)*
+
+> **Question:** =={{QUESTION_STEM}}==
+>
+> **Options:**
+> - A. {{OPTION_1}}
+>
+> - B. {{OPTION_2}}
+>
+> - C. {{OPTION_3}}
+>
+> **Audio:** "{{IELTS_LEVEL_AUDIO_WITH_KEY_PHRASE}}"
+>
+> ❓ **Question:** Chọn đáp án đúng và giải thích tại sao loại các options khác?
+?
+> [!success] ✅ Correct: =={{CORRECT_ANSWER}}==
+>
+> **❌ Why A is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+>
+> **❌ Why B is wrong:** Lý do loại trừ (Không nhắc đến / Bẫy từ vựng / Phủ định)
+>
+> **✅ Why C is correct:** Lý do chọn đáp án (Nói đến / Không bẫy từ vựng / Không phủ định)
+
+---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/02-cross-confusion
+### Card 11: Cross-Option Confusion *(MCQ only)*
+
+> **Confusing Pair:** =={{OPTION_A}}== vs =={{OPTION_B}}==
+>
+> ❓ Khi audio nói những cụm nào thì chọn A, khi nào chọn B?
+?
+> [!example] 🆚 Signal Decoding
+>
+> **🅰️ Signals for Option A:**
+> - *"Signal phrase 1"*
+>
+> - *"Signal phrase 2"*
+>
+> - *"Signal phrase 3"*
+>
+> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option A
+>
+> **🅱️ Signals for Option B:**
+> - *"Signal phrase 1"*
+>
+> - *"Signal phrase 2"*
+>
+> - *"Signal phrase 3"*
+>
+> → **Implies:** Giải thích chi tiết ý nghĩa/ngữ cảnh của Option B
+>
+> **🔑 Scientific Distinction:**
+>
+> - **Option A focuses on:** Phân tích bản chất cốt lõi
+>
+> - **Option B focuses on:** Phân tích bản chất cốt lõi
+
+---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/03-validation
+### Card 12: Answer Validation *(MCQ only)*
+
+> **Correct Answer:** =={{CORRECT_ANSWER}}==
+>
+> **Audio excerpt:** "{{AUDIO_EXCERPT_WITH_EVIDENCE}}"
+>
+> ❓ Liệt kê 3 từ/cụm trong audio CHỨNG MINH đáp án đúng?
+?
+> [!check] ✅ Evidence
+> 1. ==phrase 1== → giải thích kết nối
+>
+> 2. ==phrase 2== → giải thích kết nối
+>
+> 3. ==phrase 3== → giải thích kết nối
+>
+> **🎯 Conclusion:** Tổng hợp logic
+
+---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/04-agreement
+### Card 13: Agreement Validity Check *(Part 3)*
+
+> **Audio:** *"{{PSEUDO_AGREEMENT_AUDIO}}"*
+>
+> *(vd: "You've got a point, but..." / "I see what you mean, although...")*
+>
+> ❓ **Reflex:** Người nói THỰC SỰ ĐỒNG Ý hay PHẢN ĐỐI?
+?
+> [!fail] 🎭 Pseudo-Agreement Detection
+> **👉 Verdict:** ==PHẢN ĐỐI (Disagree)==
+>
+> **💡 Rule:** Khen trước → Chê sau = **NO**
+>
+> **✅ Real Agreement Signals:**
+>
+> - *"Precisely"*
+>
+> - *"I couldn't agree more"*
+>
+> - *"Spot on"*
+>
+> - *"Absolutely"*
+>
+> **❌ False Agreement Signals:**
+>
+> - *"You've got a point, but..."*
+>
+> - *"I suppose so..."* (ngập ngừng)
+>
+> - *"That's one way to look at it..."*
+
+---
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/weekly/05-swap
+### Card 14: Synonym Swap Speed
+
+> **Keyword:** =={{OPTION_TEXT}}==
+>
+> ❓ **Reflex:** Audio nói **A**, Não nảy số ra **B** ngay lập tức! (Direct Swap)
+?
+> [!info] � Rapid Swap
+> ==[Audio Phrase]== ⚡ ==[Option Keyword]==
+>
+> **🧠 Instant Logic:**
+> Giải thích ngắn gọn tại sao 2 cụm này thay thế nhau được (vd: "Specific -> General", "Action -> Result")
+
+---
+
+### Tier 4: Mastery - Bi-weekly (4 Cards)
+
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/01-full-trap
+### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
-> "We've got several different volunteer roles available. Some volunteers will be collecting feedback from festival visitors about their experience. Others will focus on encouraging cooperation between different organizations working together. But the majority of you - your main responsibility will be contacting local businesses. We need you to reach out to shops and companies in the area to discuss potential partnerships."
+> "{{FULL_AUDIO_WITH_DISTRACTORS}}"
 >
 > ❓ **Question:** ==Phân tích từng distractor== và ==tại sao sai==?
 ?
 > [!bug] 🕵️ Distractor Breakdown
-> **1. Distractor:** =="collecting feedback"==
+> **1. Distractor:** =="{{TEXT}}"==
 >
-> - *Sounds like:* "volunteers will be collecting feedback from festival visitors"
+> - *Sounds like:* Nghe giống gì
 >
-> - *Wrong because:* Described as "Some volunteers" - this is a specific role for some people, not the main role being described
+> - *Wrong because:* Tại sao sai
 >
-> **2. Distractor:** =="encouraging cooperation"==
+> **2. Distractor:** =="{{TEXT}}"==
 >
-> - *Sounds like:* "focus on encouraging cooperation between different organizations"
+> - *Sounds like:* Nghe giống gì
 >
-> - *Wrong because:* Described as "Others will focus on" - a different volunteer role, not the main one
+> - *Wrong because:* Tại sao sai
 >
-> **✅ Correct Answer:** ==contacting local businesses==
-> - *Why correct:* Described as "the majority of you" and "your main responsibility" with full explanation of the task
+> **✅ Correct Answer:** =={{OPTION_TEXT}}==
+> - *Why correct:* Giải thích
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/02-script-match
-### Card 10: Script-to-Option Mapping
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/02-script-match
+### Card 16: Script-to-Option Mapping
 
-> **Option Text:** ==contacting local businesses==
+> **Option Text:** =="{{OPTION_TEXT}}"==
 >
 > **Audio Transcript:**
-> "I want to explain your role as volunteers clearly. Unlike other tasks like collecting feedback from visitors or organizing internal cooperation, your primary job is contacting local businesses. This means you'll be visiting shops and companies throughout the community, talking to business owners and managers, and exploring opportunities for them to get involved with or support the festival."
+> "{{FULL_IELTS_LEVEL_TRANSCRIPT}}"
 >
 > ❓ **Question:** ==Highlight== và giải thích tất cả các ==paraphrases== từ Audio → Option?
 ?
 > [!example] 🎯 Paraphrase Mapping
-> - =="your primary job is contacting local businesses"== → exact match to option
+> - ==Audio phrase== → ==Option word==
 >
-> - =="visiting shops and companies"== → describes the action of contacting/reaching out
+> - ==Audio phrase== → ==Option word==
 >
-> - =="talking to business owners and managers"== → indicates who is being contacted
->
-> - =="opportunities for them to get involved"== → contextualizes the purpose of contacting businesses
->
-> **🧠 Overall Logic:** Speaker clearly identifies "contacting local businesses" as the primary volunteer role while distinguishing it from other potential tasks
+> **🧠 Overall Logic:** Tổng hợp logic kết nối
 
 ---
 
-#flashcards/ielts-listening/social-leisure/volunteering/biweekly/03-speed
-### Card 11: 5-Second Prediction Drill
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/03-speed
+### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
 >
-> **Option:** ==contacting local businesses==
+> **Option:** =={{OPTION_TEXT}}==
 >
-> **Context:** *Volunteer role*
+> **Context:** *{{CONTEXT}}*
 >
 > ❓ **Question:** List ==2 paraphrases== ==IMMEDIATELY==!
 ?
 > [!quote] ⚡ Speed Answers
-> 1. ==reaching out to companies==
+> 1. ==Paraphrase 1==
 >
-> 2. ==approaching local firms==
+> 2. ==Paraphrase 2==
 >
 > **🎯 Goal:** Instant Recall
 
 ---
 
+#flashcards/ielts-<skill>/<PILLAR>/<subtopic>/biweekly/04-synthesis
+### Card 18: Complete Question Synthesis *(MCQ only)*
 
+> **Full Question Context:**
+> =={{QUESTION_STEM}}==
+>
+> **Option Status:**
+> 1. **A. {{OPTION_1}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+>
+> 2. **B. {{OPTION_2}}** (❌) → Tại sao sai? (phân tích bẫy/từ khóa)
+>
+> 3. **C. {{OPTION_3}}** (✅) → Tại sao đúng? (phân tích signals)
+>
+> ❓ Phân tích chi tiết **Logic Flow** của bài nghe?
+?
+> [!success] 🎯 Deep Logic Breakdown
+> **🎧 Audio Progression:**
+> - Mô tả chi tiết luồng thông tin: Bắt đầu bằng việc đề cập X, sau đó dùng signal Y để chuyển hướng, và chốt đáp án bằng Z...
+>
+> **🧠 Decision Factors:**
+> - **Trap Elimination:** Phân tích kỹ thuật gài bẫy và cách né tránh
+>
+> - **Confirmation Logic:** Phân tích sự khớp nối chính xác giữa Audio và Đáp án đúng
+>
+> **🔑 Strategic Lesson:** Bài học rút ra về kỹ năng làm bài (vd: cách nghe Distractors, cách nhận biết Signposts)
+
+---
