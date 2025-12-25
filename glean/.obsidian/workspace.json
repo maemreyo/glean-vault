@@ -207,8 +207,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e2b735b9a40e3117",
+  "active": "c9b95291bc3d2192",
   "lastOpenFiles": [
+    "99_Tools/scripts/fix_situation_tags.py",
+    "40_Situation/What led to archaeologists to believe there as an ancient village on this site? The lucky discovery of old records, bases of several structures visible in the grass or unusual stones found near the castle.md",
     "40_Situation/Who was responsible for starting the community project? the castle owners, a national charity or the local council.md",
     "40_Situation/Which event requires the largest number of volunteers? The music festival, the science festival, the book festival.md",
     "10_Sources/Articles/Cam 20 Listening Test 03.md",
@@ -232,10 +234,8 @@
     "99_Tools/backups/20251225_151414_5ba51c_Finn was pleased to discover that their topic? was not familiar to their module leader, had not been chosen by other students or did not prove to be difficult to research.md",
     "99_Tools/backups/20251225_151414_236628_Finn and Maya both think that, compared to 19nd-century programmes, those from the 18nd century? were more original, were more colourful or were more informative.md",
     "99_Tools/scripts/add_situation_ref_tags.py",
-    "40_Situation/What led to archaeologists to believe there as an ancient village on this site? The lucky discovery of old records, bases of several structures visible in the grass or unusual stones found near the castle.md",
     "40_Situation/This show's programme resembles an artwork.md",
     "40_Situation/This show's programme contains insights into the show.md",
-    "40_Situation/This show's programme is included in a recent project.md",
     "40_Situation",
     "40__Situation",
     "99_Tools/scripts/auto_link_vocab.py.bak",

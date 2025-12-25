@@ -99,7 +99,7 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-listening/culture-media/theatre-companies/daily/01-prediction
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==had to tour with their plays==
@@ -124,7 +124,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/daily/02-keywords
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==had to tour with their plays==
@@ -143,7 +143,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/daily/03-signpost
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
 > **Option:** ==had to tour with their plays==
@@ -159,7 +159,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/daily/04-sound
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
 > **Option:** ==had to tour with their plays==
@@ -180,7 +180,7 @@ ref:
 
 ### Tier 2: Recognition - Every 2-3 Days (5 Cards)
 
-#flashcards/ielts-listening/culture-media/theatre-companies/recognition/01-reverse
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
@@ -199,7 +199,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/recognition/02-trap
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** ==promoted their own plays==
@@ -216,7 +216,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/recognition/03-differentiate
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="had to tour with their plays"== với =="performed plays outdoors"==?
@@ -232,7 +232,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/recognition/04-cloze
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
@@ -254,7 +254,7 @@ ref:
 
 ### Tier 3: Elimination - Weekly (6 Cards)
 
-#flashcards/ielts-listening/culture-media/theatre-companies/recognition/05-spatial
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Map - Company Tour Routes
@@ -278,7 +278,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/weekly/01-elimination
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
 > **Question:** ==Maya feels their project should include an explanation of why companies of actors?==
@@ -304,7 +304,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/weekly/02-cross-confusion
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
 > **Confusing Pair:** ==had to tour with their plays== vs ==promoted their own plays==
@@ -339,7 +339,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/weekly/03-validation
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
 > **Correct Answer:** ==C. had to tour with their plays==
@@ -359,7 +359,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/weekly/04-agreement
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
 > **Audio:** *"Yes, that's a good point. Though they did sometimes perform outdoors..."*
@@ -387,7 +387,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/weekly/05-swap
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
 > **Keyword:** ==had to tour with their plays==
@@ -405,7 +405,7 @@ ref:
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-listening/culture-media/theatre-companies/biweekly/01-full-trap
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -431,7 +431,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/biweekly/02-script-match
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
 > **Option Text:** ==had to tour with their plays==
@@ -451,7 +451,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/biweekly/03-speed
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
@@ -471,7 +471,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/theatre-companies/biweekly/04-synthesis
+#flashcards/ielts-listening/cam-20-test-3/culture-media/theatre-companies/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**

@@ -91,7 +91,7 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-listening/culture-media/show-programmes/daily/01-prediction
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==contains insights into the show==
@@ -116,7 +116,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/show-programmes/daily/02-keywords
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==contains insights into the show==
@@ -134,7 +134,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/show-programmes/daily/03-signpost
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
 > **Option:** ==contains insights into the show==
@@ -150,7 +150,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/show-programmes/daily/04-sound
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
 > **Option:** ==contains insights into the show==
@@ -169,7 +169,7 @@ ref:
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-listening/culture-media/show-programmes/recognition/01-reverse
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
@@ -188,7 +188,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/show-programmes/recognition/02-trap
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** ==reviews==
@@ -205,7 +205,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/show-programmes/recognition/03-differentiate
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="contains insights into the show"== với =="reviews of the show"==?
@@ -219,7 +219,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/show-programmes/recognition/04-cloze
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
@@ -239,7 +239,7 @@ ref:
 
 ### Tier 3: Elimination - Weekly (4 Cards)
 
-#flashcards/ielts-listening/culture-media/show-programmes/recognition/05-spatial
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Programme Layout
@@ -261,7 +261,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/show-programmes/weekly/04-agreement
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
 > **Audio:** *"The programme includes some reviews, which can be helpful. However, the insights section is what truly adds value - it gives the show professional depth."*
@@ -288,7 +288,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/show-programmes/weekly/05-swap
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
 > **Keyword:** ==contains insights into the show==
@@ -304,7 +304,7 @@ ref:
 
 ### Tier 4: Mastery - Bi-weekly (3 Cards)
 
-#flashcards/ielts-listening/culture-media/show-programmes/biweekly/01-full-trap
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -324,7 +324,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/show-programmes/biweekly/02-script-match
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
 > **Option Text:** ==contains insights into the show==
@@ -344,7 +344,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/culture-media/show-programmes/biweekly/03-speed
+#flashcards/ielts-listening/cam-20-test-3/culture-media/show-programmes/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**

@@ -99,7 +99,7 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/daily/01-prediction
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==Heavy rain had removed some of the soil==
@@ -124,7 +124,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/daily/02-keywords
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==Heavy rain had removed some of the soil==
@@ -143,7 +143,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/daily/03-signpost
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
 > **Option:** ==Heavy rain had removed some of the soil==
@@ -159,7 +159,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/daily/04-sound
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
 > **Option:** ==Heavy rain had removed some of the soil==
@@ -180,7 +180,7 @@ ref:
 
 ### Tier 2: Recognition - Every 2-3 Days (5 Cards)
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/recognition/01-reverse
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
@@ -199,7 +199,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/recognition/02-trap
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** ==a person with a metal detector searched the area==
@@ -216,7 +216,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/recognition/03-differentiate
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="Heavy rain had removed some of the soil"== với =="the ground was dug up by wild rabbits"==?
@@ -232,7 +232,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/recognition/04-cloze
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
@@ -254,7 +254,7 @@ ref:
 
 ### Tier 3: Elimination - Weekly (6 Cards)
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/recognition/05-spatial
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** Excavation Site Layout
@@ -278,7 +278,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/weekly/01-elimination
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
 > **Question:** ==How was the gold coin found?==
@@ -304,7 +304,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/weekly/02-cross-confusion
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
 > **Confusing Pair:** ==Heavy rain had removed some of the soil== vs ==the ground was dug up by wild rabbits==
@@ -339,7 +339,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/weekly/03-validation
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
 > **Correct Answer:** ==A. Heavy rain had removed some of the soil==
@@ -359,7 +359,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/weekly/04-agreement
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
 > **Audio:** *"Yes, it's amazing what weather can do. Though rabbits do disturb the ground sometimes..."*
@@ -387,7 +387,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/weekly/05-swap
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
 > **Keyword:** ==Heavy rain had removed some of the soil==
@@ -405,7 +405,7 @@ ref:
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/biweekly/01-full-trap
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -431,7 +431,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/biweekly/02-script-match
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
 > **Option Text:** ==Heavy rain had removed some of the soil==
@@ -450,7 +450,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/biweekly/03-speed
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
@@ -470,7 +470,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeological-discovery/biweekly/04-synthesis
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeological-discovery/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**

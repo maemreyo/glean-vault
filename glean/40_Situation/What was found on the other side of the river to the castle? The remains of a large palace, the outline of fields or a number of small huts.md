@@ -98,7 +98,7 @@ ref:
 
 ### Tier 1: Foundation - Daily Quick Review (4 Cards)
 
-#flashcards/ielts-listening/science-tech/archaeology/daily/01-prediction
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/daily/01-prediction
 ### Card 1: 3-Way Prediction Brainstorm
 
 > **Option:** ==a number of small huts==
@@ -123,7 +123,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/daily/02-keywords
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/daily/02-keywords
 ### Card 2: Verb + Noun Association
 
 > **Option:** ==a number of small huts==
@@ -142,7 +142,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/daily/03-signpost
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/daily/03-signpost
 ### Card 3: Signpost & Tone Shift
 
 > **Option:** ==a number of small huts==
@@ -158,7 +158,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/daily/04-sound
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/daily/04-sound
 ### Card 4: Sound Shape (Phonological Decoding)
 
 > **Option:** ==a number of small huts==
@@ -179,7 +179,7 @@ ref:
 
 ### Tier 2: Recognition - Every 2-3 Days (4 Cards)
 
-#flashcards/ielts-listening/science-tech/archaeology/recognition/01-reverse
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/recognition/01-reverse
 ### Card 5: Reverse Matching
 
 > **Audio Script:**
@@ -198,7 +198,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/recognition/02-trap
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/recognition/02-trap
 ### Card 6: Trap Identification (Spot the Lie)
 
 > **Option:** ==The remains of a large palace==
@@ -215,7 +215,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/recognition/03-differentiate
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/recognition/03-differentiate
 ### Card 7: Confusion Differentiation
 
 > **Comparison:** Phân biệt =="a number of small huts"== với =="the outline of fields"==?
@@ -229,7 +229,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/recognition/04-cloze
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/recognition/04-cloze
 ### Card 8: Context Cloze (Spelling & Plural)
 
 > 🗣️ **Audio Transcript:**
@@ -250,7 +250,7 @@ ref:
 
 ### Tier 3: Elimination - Weekly (5 Cards)
 
-#flashcards/ielts-listening/science-tech/archaeology/recognition/05-spatial
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/recognition/05-spatial
 ### Card 9: Spatial Orientation Reflex *(Map/Plan)*
 
 > **Context:** River Crossing Survey Map
@@ -272,7 +272,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/weekly/01-elimination
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/weekly/01-elimination
 ### Card 10: Option Elimination Drill *(MCQ only)*
 
 > **Question:** ==What was found on the other side of the river to the castle?==
@@ -296,7 +296,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/weekly/02-cross-confusion
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/weekly/02-cross-confusion
 ### Card 11: Cross-Option Confusion *(MCQ only)*
 
 > **Confusing Pair:** ==the outline of fields== vs ==a number of small huts==
@@ -325,7 +325,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/weekly/03-validation
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/weekly/03-validation
 ### Card 12: Answer Validation *(MCQ only)*
 
 > **Correct Answer:** ==a number of small huts==
@@ -343,7 +343,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/weekly/04-agreement
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/weekly/04-agreement
 ### Card 13: Agreement Validity Check *(Part 3)*
 
 > **Audio:** *"People expected we might find a palace, which would be exciting, but what we actually uncovered was quite modest. The fields are interesting for agriculture, but the huts are the real archaeological discovery."*
@@ -370,7 +370,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/weekly/05-swap
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/weekly/05-swap
 ### Card 14: Synonym Swap Speed
 
 > **Keyword:** ==a number of small huts==
@@ -386,7 +386,7 @@ ref:
 
 ### Tier 4: Mastery - Bi-weekly (4 Cards)
 
-#flashcards/ielts-listening/science-tech/archaeology/biweekly/01-full-trap
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/01-full-trap
 ### Card 15: Full Distractor Analysis
 
 > **Full Script (including distractors):**
@@ -406,7 +406,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/biweekly/02-script-match
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/02-script-match
 ### Card 16: Script-to-Option Mapping
 
 > **Option Text:** ==a number of small huts==
@@ -426,7 +426,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/biweekly/03-speed
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/03-speed
 ### Card 17: 5-Second Prediction Drill
 
 > ⏱️ **Speed Challenge (5s):**
@@ -445,7 +445,7 @@ ref:
 
 ---
 
-#flashcards/ielts-listening/science-tech/archaeology/biweekly/04-synthesis
+#flashcards/ielts-listening/cam-20-test-3/science-tech/archaeology/biweekly/04-synthesis
 ### Card 18: Complete Question Synthesis *(MCQ only)*
 
 > **Full Question Context:**
